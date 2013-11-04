@@ -1,0 +1,565 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <osisText osisRefWork='Bible' osisIDWork='vanEss' xml:lang='de'>
+    <header>
+      <revisionDesc>
+        <date>2012-08-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='vanEss'>
+        <title>Leander van Ess, rev.2</title>
+        <contributor/>
+        <creator>Hans J.Herbst, joiner194@hotmail.com</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject>Heilige Schrift</subject>
+        <date>2012-07-12</date>
+        <description>ESS, Leander (Taufname: Johann Heinrich) van, kath. Bibelübersetzer,  15.2. 1772 in Warburg (Westfalen) als Sohn eines Kaufmanns, † 13.10. 1847 in Affolderbach (Odenwald). - E. wurde 1790 Novize in der Benediktinerabtei Marienmünster bei Paderborn, 1796 Priester, 1802 nach der Säkularisierung des Klosters Pfarrer in Schwalenberg (Lippe), 1812 Pfarrer, ao. Professor der Theologie und Mitdirektor des Schullehrerseminars in Marburg (Lahn). 1818 promovierte er zum Dr. theol., legte 1822 seine Ämter nieder und lebte seitdem als Privatgelehrter in Darmstadt, Alzey (Rheinhessen) und an anderen Orten. - E. sah in der Übersetzung der Bibel und ihrer Verbreitung unter dem katholischen Volk seine Lebensaufgabe. Mit seinem Vetter Karl van Eß übersetzte er aus dem Grundtext das Neue Testament, das 1807 in Braunschweig erschien, ungeheure Verbreitung fand (184228), am 19.12. 1821 auf den Index librorum prohibitorum kam, aber später von dem bischöflichen Ordinariat in Bruchsal und der Katholisch-Theologischen Fakultät in Tübingen empfohlen wurde. Es folgte in Sulzbach 1822 der erste und 1836 der zweite Teil der von ihm allein erarbeiteten Übersetzung des Alten Testaments. 1840 erschien in Sulzbach die von ihm in Verbindung mit seinem Freund und früheren Schüler Heinrich Joseph Wetzer besorgte Gesamtausgabe der Bibel in 3 Teilen. In seinem Bemühen um ihre Verbreitung wurde E. von der Britischen und Ausländischen Bibelgesellschaft in London unterstützt, deren Agent er bis 1829 war. Seine Bibelübersetzung wird noch heute, z. B. von der Württembergischen Bibelanstalt in Stuttgart, verbreitet. Trotz seiner Kritik an der Vulgata, seiner Rechtfertigung der gemischten Ehen und der Herausgabe von Predigten des Franz Volkmar Reinhard blieb Ess in seiner Gesinnung Katholik, auch wenn er sich immer mehr dem restaurierten Katholizismus entfremdete. </description>
+        <publisher>D.Leander van Ess</publisher>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>vanEss</identifier>
+        <source>Verlag der I.E. v. Seidelschen Buchhandlung 1859 Sulzbach i.d.Oberpfalz. Digitalisiert: Hans J. Herbst 2012</source>
+        <language type='IETF'>de</language>
+        <relation/>
+        <coverage/>
+        <rights>public domain</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div osisID='Rev' type='book'>
+      <chapter osisID='Rev.1'>
+        <title>Eingang. Geheimniß der sieben Leuchter und Sterne.</title>
+        <verse osisID='Rev.1.1'>Offenbarung Jesu Christi, die Gott ihm gab, seinen Knechten zu zeigen, was schnell geschehen soll, und die er durch seinen Engel, den er sandte, seinem Knechte Johannes bildlich deutete,</verse>
+        <verse osisID='Rev.1.2'>welcher bezeugte das Wort Gottes und das Zeugnis Jesu Christi, so wie er es gesehen. </verse>
+        <verse osisID='Rev.1.3'>Selig, der liest und die hören diese prophetischen Reden, und ihren Inhalt beobachten! Denn die Zeit ist nahe. </verse>
+        <verse osisID='Rev.1.4'>Johannes an die sieben Gemeinden Asiens. Gnade euch und Friede von dem, der ist, der war und der kommen wird, und von den sieben Geistern, die vor seinem Throne sind, </verse>
+        <verse osisID='Rev.1.5'>und von Jesu Christo, dem treuen Zeugen, dem Erstling aus den Toten, dem Beherrscher der Erdenkönige, der uns geliebt, uns durch sein Blut von unseren Sünden gereinigt, </verse>
+        <verse osisID='Rev.1.6'>und uns zu einem Königreiche, zu Priestern vor Gott, seinem Vater, gemachet hat. Ihm sei Preis und Macht bis in die ewigen Ewigkeiten! Amen. </verse>
+        <verse osisID='Rev.1.7'>Siehe! Auf den Wolken kommt er, und sehen wird ihn jedes Auge, auch die, welche ihn durchstochen, und wehklagen werden seinetwegen alle Geschlechter der Erde. Ja, Amen. </verse>
+        <verse osisID='Rev.1.8'>Ich bin das Alpha und das Omega, der Anfang und das Ende, spricht Gott, der Herr, welcher ist, und welcher war, und welcher kommen wird, der Allherrscher! </verse>
+        <verse osisID='Rev.1.9'>Ich Johannes, euer Bruder und Mitgenoß der Trübsal und des Reiches und der Standhaftigkeit Jesu Christi, war auf der Insel, Patmos genannt, um des Wortes Gottes und des Zeugnisses willen von Jesu Christo. </verse>
+        <verse osisID='Rev.1.10'>Ich war im Geiste am Tage des Herrn, und hörte hinter mir eine starke Stimme, gleich einer Posaune, sprechen: </verse>
+        <verse osisID='Rev.1.11'>Schreibe, was du siehst, in ein Buch, und schicke es an die Gemeinden: Nach Ephesus, nach Smyrna, nach Pergamus, nach Thyatira, nach Sardes, nach Philadelphia, nach Laodicea! </verse>
+        <verse osisID='Rev.1.12'>Ich wandte mich um, die Stimme zu sehen, die mit mir sprach; und umkehrend sah ich sieben goldene Leuchter; </verse>
+        <verse osisID='Rev.1.13'>und in der Mitte der sieben Leuchter Jemand, einem Menschensohne ähnlich, bekleidet mit einem Talar, die Brust umgeben mit goldenem Gürtel; </verse>
+        <verse osisID='Rev.1.14'>sein Haupt und Haar war weiß wie weiße Wolle, wie Schnee und seine Augen waren wie Feuerflamme; </verse>
+        <verse osisID='Rev.1.15'>seine Füße wie im Ofen glühendes Erz, und seine Stimme wie das Rauschen vieler Wasser. </verse>
+        <verse osisID='Rev.1.16'>In seiner Rechten hielt er sieben Sterne, aus seinem Munde ging ein scharfes zweischneidiges Schwert, und sein Angesicht strahlte wie die Sonne in ihrer ganzen Kraft.</verse>
+        <verse osisID='Rev.1.17'>Als ich ihn sah, fiel ich wie tot zu seinen Füßen nieder. Er aber legte seine Rechte auf mich und sprach: Fürchte dich nicht, ich bins, der Erste und der Letzte, </verse>
+        <verse osisID='Rev.1.18'>und der Lebendige! Tot war ich und siehe! Ich lebe bis in die ewigen Ewigkeiten, und habe des Todes und der Hölle Schlüssel!</verse>
+        <verse osisID='Rev.1.19'>Schreibe also, was du gesehen hast, was ist, und was nachher geschehen soll.</verse>
+        <verse osisID='Rev.1.20'>Das Geheimnis der sieben Sterne, die du sahst in meiner Rechten, und die sieben goldenen Leuchter: Die sieben Sterne bedeuten die Engel der sieben Gemeinden, und die sieben Leuchter bedeuten die sieben Gemeinden selbst. </verse>
+      </chapter>
+      <chapter osisID='Rev.2'>
+        <title>Schreiben an die Gemeinde zu Ephesus, zu Smyrna, zu Pergamus. zu Thyatira.</title>
+        <verse osisID='Rev.2.1'>Dem Engel der Gemeinde zu Ephesus schreibe: So spricht, der die sieben Sterne in seiner Rechten hält, und in der Mitte der sieben goldenen Leuchter wandelt:</verse>
+        <verse osisID='Rev.2.2'>Ich weiß um dein Thun, um deine Mühe und deine Geduld, und daß dir die Bösen unerträglich sind. Du prüfst auch, die sich Apostel nannten, und es nicht sind; und befandest sie als Lügner. </verse>
+        <verse osisID='Rev.2.3'>Du harrtest geduldig aus; und ertrugst viel um meines Namens willen, ohne zu ermüden.</verse>
+        <verse osisID='Rev.2.4'>Aber das habe ich wieder dich: Daß du deine erste Liebe verlassen. </verse>
+        <verse osisID='Rev.2.5'>Bedenke denn, von wo herab du gesunken; kehre um, und tue die ersten Werke; wo nicht, so komme ich dir schnell, und rücke deinen Leuchter von seiner Stelle, wenn du nicht umkehrst. </verse>
+        <verse osisID='Rev.2.6'>Doch hast du dieses: Daß du die Werke der Nikolaiten haßt, welche auch ich hasse. </verse>
+        <verse osisID='Rev.2.7'>Wer Ohr hat, der höre, was der Geist zu den Gemeinden spricht: Den Überwinder will ich genießen lassen von dem Lebensholze, das in meines Gottes Paradiese steht. </verse>
+        <verse osisID='Rev.2.8'>Dem Engel der Gemeinde zu Smyrna schreibe: So spricht der Erste und der Letzte, der tot war und lebt:</verse>
+        <verse osisID='Rev.2.9'>Ich kennedein Thun und, setzt das Griechische zu. deine Trübsal und Armut, (doch du bist reich) und die Lästerung, die du von denen erduldest, welche sich Juden nennen und es nicht sind, vielmehr eine Schule Satans sind. </verse>
+        <verse osisID='Rev.2.10'>Fürchte dich nicht vor dem, was du noch leiden wirst! Siehe! Einige von euch wird Satan zur Prüfung ins Gefängnis werfen, und diese Trübsal wird zehn Tage dauern. Sei treu bis in den Tod, und ich will dir die Krone des Lebens geben! </verse>
+        <verse osisID='Rev.2.11'>Wer Ohr hat, der höre, was der Geist zu den Gemeinden spricht: Dem Überwinder soll der zweite Tod nicht wehe tun. </verse>
+        <verse osisID='Rev.2.12'>Dem Engel der Gemeinde zu Pergamus schreibe: So spricht der, welcher das scharfe zweischneidige Schwert führt: </verse>
+        <verse osisID='Rev.2.13'>Ich weiß, woum dein Thun und wo, setzt der griechische Text zu. du wohnst, wo Satan thront; und doch behälst du meinen Namen, und hast meinen Glauben nicht verleugnet, selbst in den Tagen nicht, in welchen Antipas, mein getreuer Zeuge, bei euch, wo Satan thront, umgebracht wurde. </verse>
+        <verse osisID='Rev.2.14'>Aber ich habe doch etwas wider dich: Du duldest dort Leute, welche die Grundsätze des Balaams haben, der zugunsten Balaks lehrte, Götzenopfer zu essen und Hurerei zu treiben. </verse>
+        <verse osisID='Rev.2.15'>Ebenso sind auch solche bei dir, welche den Grundsätzen der Nikolaiten auf dieselbe Weise anhangen. </verse>
+        <verse osisID='Rev.2.16'>Kehre um, wo nicht, so komme ich dir schnell, und wider sie werde ich mit dem Schwerte meines Mundes kämpfen. </verse>
+        <verse osisID='Rev.2.17'>Wer Ohr hat, der höre, was der Geist zu den Gemeinden spricht: Dem Überwinder will ich von dem verborgenen Manna geben, und einen weißen Stein, und auf dem Steine einen neuen Namen geschrieben, den Niemand kennt, als der Empfänger. </verse>
+        <verse osisID='Rev.2.18'>Dem Engel der Gemeinde zu Thyatira schreibe: So spricht der Sohn Gottes, der Augen hat wie Feuerflammen, und Füße, glühendem Erze gleich: </verse>
+        <verse osisID='Rev.2.19'>Ich weiß um dein Thun, um deinen Glauben, deine Liebe, deinen Diensteifer und deine Geduld, und deine letzteren Taten, welche die früheren noch übertreffen. </verse>
+        <verse osisID='Rev.2.20'>Aber ich habe wider dich: Daß du das Weib, die Jesabel, duldest, die unter dem Namen einer Prophetin lehrt, und meine Knechte zu Götzenopfermahlen und zur Hurerei verführt. </verse>
+        <verse osisID='Rev.2.21'>Zwar habe ich ihr Zeit zur Bekehrung gegeben, aber sie will sich nicht bekehren von ihrer Hurerei. </verse>
+        <verse osisID='Rev.2.22'>Siehe! Aufs Bett werfe ich sie hin, und die mit ihr Buhlenden in großes Elend, wenn sie nicht umkehren von ihrem Betragen. </verse>
+        <verse osisID='Rev.2.23'>Töten will ich ihre Kinder, und alle Gemeinden sollen erkennen, daß ich es bin, der Herzen und Nieren prüft, und Jedem von euch will ich nach seinen Werken vergelten.</verse>
+        <verse osisID='Rev.2.24'>Euch, den übrigen zu Thyatira, die ihr dieser Lehre nicht beipflichtet, und die Tiefen des Satans, wie sie es nennen, nicht anerkennt, euch sage ich hingegen: Ich will auf euch nicht werfen fremde Last. </verse>
+        <verse osisID='Rev.2.25'>Nur was ihr habt, bewahret, bis ich komme! </verse>
+        <verse osisID='Rev.2.26'>Wer überwindet und an meinen Werken bis ans Ende festhält, dem will ich Macht geben über die Völker; </verse>
+        <verse osisID='Rev.2.27'>und mit eisernem Zepter soll er sie regieren, und wie Töpfergeschirr sie zerschmeißen, </verse>
+        <verse osisID='Rev.2.28'>wie auch ich Macht empfing von meinem Vater; und den Morgenstern will ich ihm geben. </verse>
+        <verse osisID='Rev.2.29'>Wer Ohr hat, der höre, was der Geist zu den Gemeinden spricht! </verse>
+      </chapter>
+      <chapter osisID='Rev.3'>
+        <title>Schreiben an die Gemeinde zu Sardes, zu Philadelphia, zu Laodicea.</title>
+        <verse osisID='Rev.3.1'>Dem Engel der Gemeinde zu Sardes schreibe: So spricht der, welcher die sieben Geister Gottes und die sieben Sterne hat: Ich weiß um dein Thun; du hast den Namen, daß du lebst und bist tot.</verse>
+        <verse osisID='Rev.3.2'>Erwache und stärke, was noch übrig ist und hinsterben will! Ich habe dein Thun vor meinem Gott nicht vollgültig gefunden. </verse>
+        <verse osisID='Rev.3.3'>Bedenke denn, was du empfangen und gehört hast; halte es und bekehre dich! Wenn du nicht wachst, so komme ich dir wie ein Dieb, und nicht wissen sollst du, zu welcher Stunde ich dir kommen werde. </verse>
+        <verse osisID='Rev.3.4'>Doch hast du noch einige wenige Personen zu Sardes, die ihr Gewand nicht befleckt haben, diese sollen mit mir in weißen Kleidern wandeln, weil sie es wert sind. </verse>
+        <verse osisID='Rev.3.5'>Wer überwindet, soll mit weißen Kleidern geschmückt werden! Nie werde ich seinen Namen aus dem Buche des Lebens löschen; vor meinem Vater und seinen Engeln werde ich seinen Namen bekennen.</verse>
+        <verse osisID='Rev.3.6'>Wer Ohr hat, der höre, was der Geist zu den Gemeinden spricht! </verse>
+        <verse osisID='Rev.3.7'>Dem Engel der Gemeinde zu Philadelphia schreibe: So spricht der Heilige, der Wahrhaftige, der den Schlüssel Davids hat; er öffnet und Niemand schließt; er schließt und Niemand öffnet. </verse>
+        <verse osisID='Rev.3.8'>Ich weiß um dein Thun. Siehe! Eine Türe, die Niemand zu schließen vermag, habe ich vor dir geöffnet; weil du bei deiner geringen Kraft doch fest hieltest an meinem Wort und nicht verleugnest meinen Namen. </verse>
+        <verse osisID='Rev.3.9'>Siehe! Ich will es dahin bringen, daß die aus Satans Schule, welche sich Juden nennen, und es nicht sind, sondern lügen, ja ich will sie noch dahin bringen, daß sie kommen, dir zu Füßen fallen, und erkennen, daß ich dich lieb habe.</verse>
+        <verse osisID='Rev.3.10'>Weil du hieltest das Wort meiner Geduld, so will ich auch dich erhalten vor der Stunde der Prüfung, die kommen wird über den ganzen Erdkreis, zu prüfen der Erde Bewohner. </verse>
+        <verse osisID='Rev.3.11'>Siehe!Siehe! fehlt im Griechischen. Ich komme bald; bewahre was du hast, damit dir Niemand die Krone raube. </verse>
+        <verse osisID='Rev.3.12'>Wer überwindet, den will ich zum Pfeiler in meines Gottes Tempel machen, daraus er nimmer weichen soll. Ja schreiben will ich auf ihn den Namen meines Gottes und den Namen der Stadt meines Gottes des neuen Jerusalems, das vom Himmel niederkommt von meinem Gott, und meinem eigenen neuen Namen.</verse>
+        <verse osisID='Rev.3.13'>Wer Ohr hat, der höre, was der Geist zu den Gemeinden spricht! </verse>
+        <verse osisID='Rev.3.14'>Dem Engel der Gemeinde zu Laodicea schreibe: So spricht der, welcher Amen ist, der treue und zuverlässige Zeuge, der Urgrund der Schöpfung Gottes.</verse>
+        <verse osisID='Rev.3.15'>Ich weiß um dein Thun, du bist weder kalt noch warm. </verse>
+        <verse osisID='Rev.3.16'>O! daß du kalt oder warm wärst! So aber, da du lau und weder warm noch kalt bist, werde ich dich aus meinem Munde speien.</verse>
+        <verse osisID='Rev.3.17'>Du sagst: Ich bin reich, habe die Fülle und bedarf nichts; und du weißt nicht, daß du der Elende und Midleidswerte, daß du arm und blind und nackend bist. </verse>
+        <verse osisID='Rev.3.18'>Ich rate dir: Kaufe bei mir im Feuer erprobtes Gold, damit du reich wirst; und weiße Kleider, damit du dich bedecken kannst, und die Schande deiner Blöße nicht offenbar werde; und Salbe, um deine Augen zu salben, damit du sehend wirst. </verse>
+        <verse osisID='Rev.3.19'>Die ich lieb habe, warne und züchtige ich; werde deshalb eifriger und kehre um! </verse>
+        <verse osisID='Rev.3.20'>Siehe! Ich stehe vor der Türe und klopfe; wer meine Stimme hört und mir die Türe öffnet, zu dem gehe ich hinein, und halte Mahl mit ihm und er mit mir. </verse>
+        <verse osisID='Rev.3.21'>Wer überwindet, dem will ich gestatten, sich neben mich auf meinen Thron zu setzen; so wie auch ich überwand und neben meinen Vater auf seinen Thron mich setzte. </verse>
+        <verse osisID='Rev.3.22'>Wer Ohr hat, der höre, was der Geist zu den Gemeinden spricht! </verse>
+      </chapter>
+      <chapter osisID='Rev.4'>
+        <title>Offenbarung der Majestät Gottes im Himmel, von 24 Aeltesten und 4 Lebendigen umgeben und angebetet.</title>
+        <verse osisID='Rev.4.1'>Nach diesem sah ich, und siehe, eine offene Türe im Himmel! Und jene erste Stimme, die wie Posaunenton ich mit mir sprechen gehört, sprach: Steige herauf, ich will dir zeigen, was nach diesem geschehen soll! </verse>
+        <verse osisID='Rev.4.2'>Sogleich war ich im Geiste, und siehe! Im Himmel stand ein Thron und auf dem Throne saß Jemand. </verse>
+        <verse osisID='Rev.4.3'>Und der da saß, war wie Jaspis und Sardier anzusehen, und seinen Thron umschloß ein Farbenbogen, gleich dem Smaragde. </verse>
+        <verse osisID='Rev.4.4'>Und diesen Thron umkreisten vier und zwanzig Throne, und auf diesen Thronen saßen vier und zwanzig Älteste in weißen Gewändern gekleidet, und mit goldenen Kronen auf ihren Häuptern. </verse>
+        <verse osisID='Rev.4.5'>Von dem Throne fuhren Blitze aus, und Donnerstimmen. Vor dem Throne brannten sieben Lampen, welches die sieben Geister Gottes sind. </verse>
+        <verse osisID='Rev.4.6'>Auch strömte vor dem Throne gleichsam ein glaskristallähnliches Meer; und mitten im Umkreise des Thrones standen vier Lebendige vor- und rückwärts voller Augen. </verse>
+        <verse osisID='Rev.4.7'>Das erste Lebendige glich dem Löwen, das zweite Lebendige dem Stier, das dritte Lebendige hatte ein menschenähnliches Gesicht, das vierte Lebendige glich dem Adler im Fluge. </verse>
+        <verse osisID='Rev.4.8'>Und jedes dieser vier Lebendigen hatte sechs Flügel, von innen und von außen voller Augen; rastlos rufen sie Tag und Nacht: heilig, heilig, heilig ist Gott, der Herr, der Allherrscher, der war, und ist, und der kommt.</verse>
+        <verse osisID='Rev.4.9'>Und wenn diese Lebendigen Preis und Ehre und Dank bringen dem, der auf dem Throne sitzt und bis in die ewigen Ewigkeiten lebt; </verse>
+        <verse osisID='Rev.4.10'>so fallen die vierundzwanzig Ältesten vor dem, der auf dem Throne sitzt, hin, beten den bis in die ewigen Ewigkeiten Lebenden an, und werfen ihre Kronen vor dem Throne nieder, und sprechen: </verse>
+        <verse osisID='Rev.4.11'>Würdig bist du, Herr, zu nehmen Preis, Ehre und Macht! Denn du hast alle Dinge geschaffen, und durch deinen Willen wurden sie, und sind erschaffen. </verse>
+      </chapter>
+      <chapter osisID='Rev.5'>
+        <title>Das versiegelte Buch wird von dem Lamme übernommen, um es zu eröffnen. Anbetung desselben.</title>
+        <verse osisID='Rev.5.1'>Auch sah ich in der Rechten dessen, der auf dem Throne saß, ein Buch, in- und auswendig geschrieben, und versiegelt mit sieben Siegeln. </verse>
+        <verse osisID='Rev.5.2'>Auch sah ich einen starken Engel, der mit lauter Stimme rief: Wer ist würdig, zu öffnen das Buch und zu brechen seine Siegel? </verse>
+        <verse osisID='Rev.5.3'>Und Niemand, weder im Himmel noch auf Erden, noch unter der Erde, konnte das Buch öffnen und hineinsehen. </verse>
+        <verse osisID='Rev.5.4'>Da weinte ich sehr, daß Niemand würdig gefunden wurde, das Buch zu öffnen und hinein zu sehen. </verse>
+        <verse osisID='Rev.5.5'>Und einer von den Ältesten sprach zu mir: Weine nicht! Siehe! Der Löwe von dem Stamm Juda, die Sprosse Davids, hat es errungen, zu öffnen das Buch, zu brechen die sieben Siegel. </verse>
+        <verse osisID='Rev.5.6'>Und ich sah, und siehe! Zwischen dem Throne und den vier Lebendigen und zwischen den Ältesten stand ein Lamm, wie geschlachtet; es hatte sieben Hörner und sieben Augen, welche die sieben in alle Welt ausgesandten Geister Gottes sind. </verse>
+        <verse osisID='Rev.5.7'>Es kam und nahm das Buch aus der Rechten dessen, der auf dem Throne saß. </verse>
+        <verse osisID='Rev.5.8'>Und sobald es das Buch genommen, fielen die vier Lebendigen und die vierundzwanzig Ältesten vor dem Lamme nieder; sie hatten ein Jeder Harfen und goldene Schaalen voll Rauchwerks, welches die Gebete der Heiligen sind; </verse>
+        <verse osisID='Rev.5.9'>und sangen dies neue Lied und sprachen: Würdig bist du zu nehmen dies Buch, und zu öffnen seine Siegel; denn du wurdest geschlachtet, und hast Gott uns erkauft durch dein Blut, aus allen Stämmen, Sprachen, Völkern und Nationen, </verse>
+        <verse osisID='Rev.5.10'>und hast sie unserm Gott zu Königen und Priestern gemachet, und sie werden herrschen über die Erde.</verse>
+        <verse osisID='Rev.5.11'>Jetzt sah ich hin, und rings um den Thron, um die Lebendigen und um die Ältesten hörte ich die Stimmen vieler Engel; ihre Zahl war zehntausendmal zehntausend, und noch tausendmal tausend. </verse>
+        <verse osisID='Rev.5.12'>Mit lauter Stimme riefen sie: Würdig ist das Lamm, das geschlachtet ward, zu nehmen Macht und Reichtum, Weisheit und Kraft, Ehre, Preis und Lob! </verse>
+        <verse osisID='Rev.5.13'>Und alle Geschaffenen, die im Himmel und auf Erden und unter der Erde und auf dem Meere und darinnen sind, hörte ich sagen: Dem, der auf dem Throne sitzt, und dem Lamme sei Lob, Ehre, Preis und Macht in alle ewige Ewigkeiten! </verse>
+        <verse osisID='Rev.5.14'>Und die vier Lebendigen riefen: Amen! Und die vierundzwanzig Ältesten sanken nieder, und beteten an, den, der bis in die ewigen Ewigkeiten lebt. </verse>
+      </chapter>
+      <chapter osisID='Rev.6'>
+        <title>Die Eröffnung der ersten sechs Siegel.</title>
+        <verse osisID='Rev.6.1'>Nun sah ich das Lamm das erste der sieben Siegel öffnen, und hörte eins der vier Lebendigen mit Donnerstimme rufen: Komme und siehe! </verse>
+        <verse osisID='Rev.6.2'>Ich sah hin, und siehe! Ein weißes Roß; sein Reiter führte einen Bogen, ein Kranz ward ihm gegeben; als Sieger zog er aus zu neuen Siegen. </verse>
+        <verse osisID='Rev.6.3'>Als es das zweite Siegel öffnete, hörte ich das zweite Lebendige rufen: Komme und siehe! </verse>
+        <verse osisID='Rev.6.4'>Und es zog aus ein anderes Roß, feuerrot, und dem Reiter ward Macht gegeben, den Frieden von der Erde zu nehmen, und daß sie sich einander erwürgten; auch ward ihm ein großes Schwert gegeben. </verse>
+        <verse osisID='Rev.6.5'>Als es das dritte Siegel öffnete, hörte ich das dritte Lebendige rufen: Komme und siehe! Und siehe!"Und ich sahe," setzt das Griechische zu, so wie in Vers 8. Ein schwarzes Roß und in des Reiters Hand eine Waage. </verse>
+        <verse osisID='Rev.6.6'>Und aus der Mitte der vier Lebendigen hörte ich eine Stimme rufen: Ein Maß Weizen um einen Denar, und drei Maß Gerste um einen Denar. Aber am Öl und Wein vergreife dich nicht! </verse>
+        <verse osisID='Rev.6.7'>Als es das vierte Siegel brach, hörte ich das vierte Lebendige rufen: Komme und siehe! </verse>
+        <verse osisID='Rev.6.8'>Und siehe!vergl. Kap.6,6. Ein fahles Pferd; seines Reiters Name war: Tod; in seinem Gefolge war das Totenreich, und ihm ward Macht gegeben, über den vierten Teil der Erde, zu töten durch Schwert, Hunger, Pest und Tiere auf Erden.</verse>
+        <verse osisID='Rev.6.9'>Als es das fünfte Siegel öffnete, sah ich unterhalb dem Altar die Seelen derer, die wegen des Wortes Gottes und des Bekenntnisses, an das sie sich hielten, hingewürgt waren. </verse>
+        <verse osisID='Rev.6.10'>Diese schrien mit lauter Stimme, und sprachen: Wie lange, Allherrscher! Du Heiliger und Wahrhaftiger, richtest du, und rächst nicht unser Blut an den Erdbewohnern?! </verse>
+        <verse osisID='Rev.6.11'>Darauf wurde ihnen ein weißes Kleid gegeben und ihnen gesagt, daß sie noch eine Zeitlang ruhig harren möchten, bis ihrer Mitknechte und Brüder Zahl voll sei, welche, wie sie getötet werden würden. </verse>
+        <verse osisID='Rev.6.12'>Nun sah ich, daß es das sechste Siegel brach; und siehe!siehe! fehlt im Griechischen. Es entstand ein heftiges Erdbeben. Schwarz wie ein Haarsack ward die Sonne, und der ganze Mond wie Blut; </verse>
+        <verse osisID='Rev.6.13'>die Sterne des Himmels fielen zur Erde, wie der vom Sturm geschüttelte Feigenbaum seine unreifen Feigen abwirft. </verse>
+        <verse osisID='Rev.6.14'>Wie ein zugerolltes Buch verschwand der Himmel, alle Berge und Inseln wurden ihren Stellen entrückt. </verse>
+        <verse osisID='Rev.6.15'>Die Könige der Erde, die Fürsten und Befehlshaber, die Reichen und Mächtigen, und alle Sklaven und Freigeborne verbargen sich in die Höhlen und Bergklüfte, </verse>
+        <verse osisID='Rev.6.16'>und riefen zu den Bergen und Felsen: Stürzet über uns, und decket uns vor dem Anblick dessen, der auf dem Throne sitzt, und vor dem Zorne des Lammes! </verse>
+        <verse osisID='Rev.6.17'>Denn ihresseines, nach dem Griechischen Zornes großer Tag ist gekommen; wer kann bestehen? </verse>
+      </chapter>
+      <chapter osisID='Rev.7'>
+        <title>Versiegelung der Knechte Gottes.</title>
+        <verse osisID='Rev.7.1'>Nach diesen sah ich vier Engel an den vier Gegenden der Erde stehen; sie hielten die vier Winde der Erde, daß kein Wind blies über Land, Meer und Baum. </verse>
+        <verse osisID='Rev.7.2'>Und noch einen anderen Engel sah ich von Sonnenaufgang emporsteigen, welcher das Siegel des lebendigen Gottes hatte. Dieser rief den vier Engeln, welchen Macht gegeben war, Verderben zu bringen über Land und Meer, mit lauter Stimme zu, </verse>
+        <verse osisID='Rev.7.3'>und sprach: Beschädigt nicht das Land, das Meer und die Bäume, bis wir mit dem Siegel bezeichnet haben die Knechte unseres Gottes an ihren Stirnen. </verse>
+        <verse osisID='Rev.7.4'>Und ich hörte der Bezeichneten Zahl: hundert vier und vierzig tausend Bezeichnete aus allen Stämmen der Kinder Israel. </verse>
+        <verse osisID='Rev.7.5'>Aus dem Stamm Juda zwölftausend bezeichnete; aus dem Stamm Ruben zwölftausend Bezeichnete; aus dem Stamm Gad zwölftausend Bezeichnete; </verse>
+        <verse osisID='Rev.7.6'>aus dem Stamm Aser zwölftausend Bezeichnete; aus dem Stamm Nephtali zwölftausend Bezeichnete; aus dem Stamm Manasses zwölftausend Bezeichnete; </verse>
+        <verse osisID='Rev.7.7'>aus dem Stamm Simeon zwölftausend Bezeichnete; aus dem Stamm Levi zwölftausend Bezeichnete; aus dem Stamm Isaschar zwölftausend Bezeichnete; </verse>
+        <verse osisID='Rev.7.8'>aus dem Stamm Zabulon zwölftausend Bezeichnete; aus dem Stamm Joseph zwölftausend Bezeichnete; aus dem Stamm Benjamin zwölftausend Bezeichnete. </verse>
+        <verse osisID='Rev.7.9'>Nach diesem sah ichund siehe, setzt das Griechische zu. eine große Schar, die Niemand zu zählen vermochte, aus allen Nationen und Geschlechtern, Völkern und Sprachen stand in weißen Kleidern und mit Palmen in ihren Händen vor dem Throne und vor dem Lamme. </verse>
+        <verse osisID='Rev.7.10'>Und riefen mit lauter Stimme und sprachen: Heil unserm Gott, der auf dem Thron sitzt, und dem Lamme! </verse>
+        <verse osisID='Rev.7.11'>Alle Engel standen um den Thron und um die Ältesten, und um die vier Lebendigen, und fielen vor dem Thron auf ihr Angesicht, beteten Gott an und sprachen: </verse>
+        <verse osisID='Rev.7.12'>Amen! Lob und Ehre, Weisheit und Dank, Preis, Macht und Stärke sei unserm Gott in die ewigen Ewigkeiten! Amen. </verse>
+        <verse osisID='Rev.7.13'>Und einer von den Ältesten antwortete und sprach zu mir: Diese mit weißen Kleidern angetan, wer sind sie? Und woher kommen sie? </verse>
+        <verse osisID='Rev.7.14'>Ich sagte ihm: Herr! Du weißt es! Er erwiderte mir: es sind die, welche aus großer Trübsal gekommen sind, und ihre Kleider gewaschen und weiß gemachet haben im Blute des Lammes;</verse>
+        <verse osisID='Rev.7.15'>deswegen stehen sie vor dem Throne Gottes und dienen ihm Tag und Nacht in seinem Tempel; und der auf dem Throne sitzt, ist das Zelt über ihnen.</verse>
+        <verse osisID='Rev.7.16'>Kein Hunger, kein Durst, keine Sonne oder irgend andere Hitze wird sie mehr quälen!</verse>
+        <verse osisID='Rev.7.17'>Denn das Lamm vor dem Throne wird sie weiden, und zu lebendigen Wasserquellen sie führen; und Gott wird alle Tränen von ihren Augen wischen. </verse>
+      </chapter>
+      <chapter osisID='Rev.8'>
+        <title>Eröffnung des siebenten Siegels. Die vier ersten der sieben Posaunenengel.</title>
+        <verse osisID='Rev.8.1'>Als es das siebente Siegel erbrach, da wurde im Himmel eine Stille, etwa eine halbe Stunde lang. </verse>
+        <verse osisID='Rev.8.2'>Da sah ich die sieben Engel, die vor Gott stehen; ihnen wurden sieben Posaunen gegeben. </verse>
+        <verse osisID='Rev.8.3'>Ein anderer Engel kam und trat vor den Altar mit einem goldenen Rauchfaß. Diesem wurde viel Rauchwerk gegeben, um es bei den Gebeten aller Heiligen auf dem goldenen Altar vor dem Throne Gottesvor dem Throne, nach dem Griechischen. darzubringen; </verse>
+        <verse osisID='Rev.8.4'>und von dem Rauchwerk aus des Engels Hand stieg mit den Gebeten der Heiligen der Rauch zu Gott empor.</verse>
+        <verse osisID='Rev.8.5'>Und der Engel nahm das Rauchfaß, füllte es mit Feuer vom Altar, und warf es auf die Erde; da erfogten Getöse, Donnerschläge, Blitz und Erdbeben. </verse>
+        <verse osisID='Rev.8.6'>Nun schickten die sieben Engel, welche die sieben Posaunen hatten, zum Blasen sich an. </verse>
+        <verse osisID='Rev.8.7'>Der erste posaunte; und es ward Hagel und Feuer, mit Blut gemischt, und fiel auf die Erde; der dritte Teil der Erde verbrannte, der dritte teil der Bäume verbrannte und alles grüne Gras verbrannte. </verse>
+        <verse osisID='Rev.8.8'>Der zweite Engel posaunte, und es war, als stürzte ein großer Berg brennend ins Mee, und der dritte Teil des Meeres wurde Blut; </verse>
+        <verse osisID='Rev.8.9'>der dritte Teil der im Meere lebenden Geschöpfe kam um; und der dritte Teil der Schiffe ging unter. </verse>
+        <verse osisID='Rev.8.10'>Der dritte Engel posaunte; und es fiel vom Himmel ein großer Stern, brennend wie eine Fackel; er fiel auf den dritten Teil der Flüsse und auf die Wasserquellen. </verse>
+        <verse osisID='Rev.8.11'>Der Stern hieß: Wermut; und Wermut ward der dritte Teil des Wassers; und viele Menschen starben von diesem bitter gewordenen Wasser. </verse>
+        <verse osisID='Rev.8.12'>Der vierte Engel posaunte, und es wurde der Sonne dritter Theil, des Mondes dritter Theil und der Sterne dritter Theil geschlagen; so daß ihr dritter Theil verfinstert ward, und der Tag ein Drittheil seines Lichtes verlor, und die Nacht desgleichen. </verse>
+        <verse osisID='Rev.8.13'>Jetzt sah und hörte ich einen Adler mitten durch den Himmel fliegen, der rief mit lauter Stimme: Wehe, wehe, wehe den Erdenbewohnern wegen der übrigen Posaunenstimmen der drei Engel, die noch blasen sollen!</verse>
+      </chapter>
+      <chapter osisID='Rev.9'>
+        <title>Die fünfte und sechste Posaune.</title>
+        <verse osisID='Rev.9.1'>Nun posaunte der fünfte Engel, und ich sah einen Stern, der vom Himmel auf die Erde gefallen; ihm wurde der Schlüssel zum Schlunde des Abgrundes gegeben. </verse>
+        <verse osisID='Rev.9.2'>Er öffnete des Abgrundes Schlund, und ein Rauch stieg aus dem Schlunde empor, wie der Rauch aus einem großen Ofen. Die Sonne und die Luft wurden vom Rauche des Schlundes verfinstert.</verse>
+        <verse osisID='Rev.9.3'>Aus dem Rauche des Schlundesdes Schlundes, fehlt im Griechischen. kamen Heuschrecken über die Erde, welchen Macht gegeben wurde, wie die Landskorpione Macht haben. </verse>
+        <verse osisID='Rev.9.4'>Geboten wurde ihnen, weder das Gras auf der Erde, noch etwas Grünes, noch irgendeinen Baum zu beschädigen, sondern bloß die Menschen, welche das Siegel Gottes nicht an ihren Stirnen haben. </verse>
+        <verse osisID='Rev.9.5'>Und zwar wurde ihnen gestattet, sie nicht zu töten, sondern fünf Monate lang sie zu quälen; und zwar ist dieser Schmerz wie der Schmerz vom Skorpion, wenn er einen Menschen sticht. </verse>
+        <verse osisID='Rev.9.6'>Während dieser Zeit werden die Menschen den Tod suchen, aber ihn nicht finden; zu sterben werden sie wünschen, aber fliehen wird sie der Tod. </verse>
+        <verse osisID='Rev.9.7'>Die Heuschrecken waren wie Rosse zum Streite gerüstet; auf ihren Köpfen hatten sie wie Kronen von Gold, - menschenähnlich waren ihre Gesichter. </verse>
+        <verse osisID='Rev.9.8'>Sie hatten Haare, wie Weiberhaare, Zähne, wie Löwenzähne,</verse>
+        <verse osisID='Rev.9.9'>Panzer, wie eiserne Panzer, und ihre Flügel rauschten, wie das Rasseln der Wagen, mit vielen Pferden bespannt, die in das Schlachtfeld rennen. </verse>
+        <verse osisID='Rev.9.10'>Sie haben Schwänze wie Skorpione und Stacheln in ihren Schwänzen; sie hatten Macht, fünf Monate lang die Menschen zu quälen. </verse>
+        <verse osisID='Rev.9.11'>Den Engel des Abgrundes hatten sie über sich zum Könige, der auf hebräisch Abaddon und auf Griechisch ApollyonDie Vulgata setzt hier lateinisch zu: "Exterminans," das ist der Grundverderber.Die Vulgata setzt hier lateinisch zu: 'Exterminans' das ist: Der Grundverderber. heißt. </verse>
+        <verse osisID='Rev.9.12'>Ein Wehe ist vorüber; siehe! noch zwei Wehe kommen nach diesen! </verse>
+        <verse osisID='Rev.9.13'>Dann posaunte der sechste Engel, und ich hörte von den vier Hörnern des goldenen Altars, der vor Gottes Angesicht steht, eine Stimme; </verse>
+        <verse osisID='Rev.9.14'>sie sprach zu dem sechsten Engel, der die Posaune hatte: Löse die vier Engel, die an den großen Fluß Euphrat gebunden sind! </verse>
+        <verse osisID='Rev.9.15'>Gelöst wurden die vier Engel, welche auf Stunde und Tag und Monat und Jahr gerüstet sind, zu töten den dritten Teil der Menschen. </verse>
+        <verse osisID='Rev.9.16'>Die Zahl des Heerzuges der Reiterei war: Zweihundert Millionen. Ich hörte ihre Zahl. </verse>
+        <verse osisID='Rev.9.17'>Und sah ich in der Erscheinung die Rosse und ihre Reiter: Diese hatten feuerrote, schwarzblaue und schwefelfarbige Panzer; die Köpfe der Rosse aber glichen Löwenköpfen und aus ihren Mäulern ging Feuer, Rauch und Schwefel. </verse>
+        <verse osisID='Rev.9.18'>Durch diese drei Plagen: Nämlich durch Feuer, Rauch und Schwefel, das aus ihren Mäulern ging, wurde der dritte Teil der Menschen getötet. </verse>
+        <verse osisID='Rev.9.19'>Der Rosse Macht bestand in ihrem Maule und in den Schwänzen; denn ihre Schwänze gleichen Schlangen und haben Köpfe, und mit diesen schaden sie. </verse>
+        <verse osisID='Rev.9.20'>Und doch kehrten die übrigen Menschen, welche von diesen Plagen nicht getötet wurden, von ihrer Hände Werken nicht um, daß sie nicht mehr angebetet hätten die Dämonen und die Götzenbilder von Gold und Silber, von Erz, Stein und Holz, die weder sehen, noch hören, noch gehen können.</verse>
+        <verse osisID='Rev.9.21'>Auch bekehren sie sich nicht von ihrer Mordsucht, ihren Zauberkünsten, ihrer Unzucht und Dieberei. </verse>
+      </chapter>
+      <chapter osisID='Rev.10'>
+        <title>Erschheinung des starken Engels. Verschlingung des Buches.</title>
+        <verse osisID='Rev.10.1'>Darauf sah ich einen anderen starken Engel vom Himmel, mit einer Wolke umkleidet, herabsteigen: Ein Farbenbogen um sein Haupt, wie die Sonne sein Antlitz, wie Feuersäulen seine Füße: </verse>
+        <verse osisID='Rev.10.2'>In seiner Hand hielt er ein offenes Büchlein. Seinen rechten Fuß setzte er auf das Meer, den linken auf das Land. </verse>
+        <verse osisID='Rev.10.3'>Mit einer starken Stimme, wie eines brüllenden Löwen, rief er, und auf sein Rufen antworteten sieben Donner mit ihrer Stimme. </verse>
+        <verse osisID='Rev.10.4'>Schon war ich im Begriff zu schreiben, als die sieben Donnerstimmen antworteten; da hörte ich eine Stimme vom Himmel rufen: Versiegle, was die sieben Donnerstimmen geredet, und schreibe es nicht auf! </verse>
+        <verse osisID='Rev.10.5'>Jetzt hob der Engel, den ich auf dem Meere und dem Lande stehen sah, seine rechte Hand zum Himmel empüor,</verse>
+        <verse osisID='Rev.10.6'>und schwur bei dem, der lebt bis in die ewigen Ewigkeiten, der den Himmel erschaffen, und was in ihm ist, und die Erde, und was auf ihr ist, und das Meer, und was in ihm ist: Nun soll keine Zreit mehr sein!</verse>
+        <verse osisID='Rev.10.7'>Sondern in den Tagen, wann des siebenten Engels Posaune erschalle, soll das Geheimnis Gottes vollkommen erfüllt werden, wie er es durch seine Knechte, die Propheten habe verkündigen lassen. </verse>
+        <verse osisID='Rev.10.8'>Abermal hörte ich die Stimme vom Himmel mir zurufen und sprechen: Gehe, nimm das offene Büchlein aus des Engels Hand, der auf dem Meere und auf dem Lande steht! </verse>
+        <verse osisID='Rev.10.9'>Ich ging zum Engel hin und sprach zu ihm: Gib mir das Büchlein! Da sagte er zu mir: Nimms und verschling es! Bittern Schmerz wird es deinem Bauche, aber honigsüß wird es in deinem Munde seyn. </verse>
+        <verse osisID='Rev.10.10'>Ich nahm das Büchlein aus der Hand des Engels und verschlang es. Süß wie Honig war es in meinem Munde; als ich es aber verschlungen hatte, schmerzte es mich im Bauche. </verse>
+        <verse osisID='Rev.10.11'>Und er sprach zu mir: Du mußt noch einmal weissagen über viele Völker, Nationen, Sprachen und Könige! </verse>
+      </chapter>
+      <chapter osisID='Rev.11'>
+        <title>Messung des Tempels. Die zwei Zeugen. Die siebente Posaune.</title>
+        <verse osisID='Rev.11.1'>Nun ward ein Rohr mir gegeben, einer Meßrute gleich, und mir gesagt: Stehe auf, und miß den Tempel Gottes, den Altar und zähle die darin Anbetenden! </verse>
+        <verse osisID='Rev.11.2'>Des Tempels äußeren Vorhof laß nur weg und miß ihn nicht! Weil er ist den Heiden preisgegeben; sie werden die heilige Stadt zwei und vierzig Monate zertreten.</verse>
+        <verse osisID='Rev.11.3'>Meinen beiden Zeugen werde ich aufgeben, tausend zweihundert und sechzig Tage lang in Trauergewand gehüllt zu weissagen. </verse>
+        <verse osisID='Rev.11.4'>Sie sind die zwei Olivenbäume und die zwei Leuchter, die vor dem Herrn der Erde stehn. </verse>
+        <verse osisID='Rev.11.5'>Wenn Jemand es wagte, sich an ihnen zu vergreifen, so speit Feuer ihr Mund und verzehrt ihre Feinde; und des Todes wird jeder sein, der an ihnen sich vergreift! </verse>
+        <verse osisID='Rev.11.6'>Sie haben Macht zu verschließen den Himmel, daß kein Regen falle währen der Zeit ihrer Weissagung. Macht haben sie über die Gewässer, sie zu wandeln in Blut, und zu schlagen die Erde mit allerlei Plagen, so oft sie wollen. </verse>
+        <verse osisID='Rev.11.7'>Und nach ihres Zeugnisses Vollendung wird das Tier, das aus dem Abgrunde steigt, mit ihnen kriegen, sie besiegen, und sie töten.</verse>
+        <verse osisID='Rev.11.8'>Ihre Leichen werden liegen auf den Gassen der großen Stadt, die im bildlichen Sinne wohl heißen mag: Sodom und Ägypten, wo auch ihr Herr gekreuzigt ward. </verse>
+        <verse osisID='Rev.11.9'>Sehen werden viele aus den Völkern, Stämmen, Sprachen und Nationen ihre Leichen drei Tage und einen halben, und man wird nicht gestatten, daß ihre Leichen zu Grabe gebracht werden. </verse>
+        <verse osisID='Rev.11.10'>Sich freuen und darüber jubeln werden die Bewohner der Erde, und sich einander Geschenke senden; weil diese beiden Propheten die Bewohner der Erde so quälen. </verse>
+        <verse osisID='Rev.11.11'>Doch nach diesen drei Tagen und einem halben kam Lebensgeist von Gott in sie. Da richteten sie sich auf ihre Füße; großer Schrecken aber überfiel die, welche sie sahen. </verse>
+        <verse osisID='Rev.11.12'>Sie hörten eine starke Stimme vom Himmel ihnen zurufen: Kommt herauf! und in einer Wolke hoben sie sich himmelwärts; ihre Feinde sahen sie. </verse>
+        <verse osisID='Rev.11.13'>In derselben Stunde entstand ein großes Erdbeben; der zehnte Teil der Stadt fiel zusammen, und siebentausend Menschennamen kamen in dem Erdbeben um; die übrigen von Schrecken ergriffen, gaben dem Gott des Himmels die Ehre.</verse>
+        <verse osisID='Rev.11.14'>Vorüber ist das zweite Wehe; siehe! Das dritte Wehe fogt schnell. </verse>
+        <verse osisID='Rev.11.15'>Der siebente Engel posaunte, und es erhoben sich laute Stimmen im Himmel, die riefen: Die Weltregierung ist zugefallen unserm Herrn und seinem Christo; er wird regieren bis in die ewigen Ewigkeiten. </verse>
+        <verse osisID='Rev.11.16'>Die vierundzwanzig Ältesten, welche vor Gott auf ihren Thronen sitzen, warfen sich nieder auf ihr Angesicht, beteten Gott an und sprachen: </verse>
+        <verse osisID='Rev.11.17'>Wir danken dir, Herr, Gott, du Allherrscher, der ist und war, und sein wird, daß du deine große Macht ergriffen hast und nun herrschst! </verse>
+        <verse osisID='Rev.11.18'>Die Völker zürnten; aber dein Zorn brach aus, und die Gerichtszeit für die Toten, um zu belohnen deine Knechte, die Propheten, die Heiligen, und die, welche deinen Namen fürchten, Klein und groß; hingegen zu vertilgen, die die Erde verderben.</verse>
+        <verse osisID='Rev.11.19'>Nun ward eröffnet der Tempel Gottes im Himmel, und sichtbar wurde die Bundeslade des Herrn in seinem Tempel; und es erfolgten Blitze, Donnerschläge, Erdbeben und großer Hagel.</verse>
+      </chapter>
+      <chapter osisID='Rev.12'>
+        <title>Das gebärende Weib. Michaels Streit mit dem Drachen.</title>
+        <verse osisID='Rev.12.1'>Es erschien ein großes Zeichen im Himmel: Ein Weib mit der Sonne Prachtgewand, unter ihren Füßen der Mond, und auf ihrem Haupte eine Krone von zwölf Sternen. </verse>
+        <verse osisID='Rev.12.2'>Sie war schwanger, schrie in Geburtswehen, und rang, zu gebären. </verse>
+        <verse osisID='Rev.12.3'>Noch ein anderes Zeichen erschien im Himmel: Ein großer feuerroter Drache mit sieben Köpfen, zehn Hörnern, und auf seinen sieben Köpfen sieben Diademe.</verse>
+        <verse osisID='Rev.12.4'>Sein Schwanz zog den dritten Teil der Sterne des Himmels nach sich und warf sie auf die Erde. Dieser Drache stellte sich hin vor das Weib, als sie gebären wollte, um ihr Kind zu verschlingen, sobald sie geboren hätte. </verse>
+        <verse osisID='Rev.12.5'>Sie gebar einen Sohn, der die Völker mit eisernen Zepter regieren soll; und ihr Sohn ward entrückt, zu Gott und seinem Throne hin. </verse>
+        <verse osisID='Rev.12.6'>Das Weib aber entfloh in die Wüste, wo sie einen Ort hat, von Gott bereitet, daß sie auf tausend zweihundert und sechzig Tage Nahrung da finde. - </verse>
+        <verse osisID='Rev.12.7'>Es war im Himmel ein Streit entstanden; Michael und seine Engel stritten mit dem Drachen, und der Drache und seine Engel stritten. </verse>
+        <verse osisID='Rev.12.8'>Aber er war nicht mächtig genug, um einen Platz im Himmel zu behaupten. </verse>
+        <verse osisID='Rev.12.9'>Hinausgeworfen ward der große Drache, die alte Schlange, Teufel und Satan genannt, der alle Welt verführt; geworfen ward er auf die Erde, geworfen mit ihm auch seine Engel. </verse>
+        <verse osisID='Rev.12.10'>Hierauf hörte ich im Himmel eine starke Stimme rufen: Nun ist das Heil, die Kraft und das Reich unserm Gott, und die Gewalt seinem Christo geworden! Gestürzt ist der Widersacher unsrer Brüder, der Tag und Nacht vor Gott sie verklagte.</verse>
+        <verse osisID='Rev.12.11'>Sie haben ihn besiegt durch des Lammes Blut, und durch die Lehre, die sie bekannten, und haben ihr Leben nicht geliebt bis in den Tod.</verse>
+        <verse osisID='Rev.12.12'>Darum freut euch, ihr Himmel und seine Bewohner. Wehe der Erde und dem Meere! Zu euch hinab fuhr der Teufel, und groß ist seine Wut, indem er weiß, daß er kurze Frist hat. </verse>
+        <verse osisID='Rev.12.13'>Da sich nun der Drache auf die Erde gestürzt sah, verfolgte er das Weib, welches den Knaben geboren hatte. </verse>
+        <verse osisID='Rev.12.14'>Aber gegeben wurden dem Weibe zwei große Adlersflügel, um an ihren Ort in der Wüste zu fliegen, wo sie, entfernt von der Schlange, eine Zeit und zwei Zeiten, und eine halbe Zeit ernährt werden soll. </verse>
+        <verse osisID='Rev.12.15'>Da schoß die Schlange dem Weibe aus ihrem Rachen Wasser nach, wie einen Strom, damit sie von dem Strome hinabgerissen würde. </verse>
+        <verse osisID='Rev.12.16'>Die Erde kam aber dem Weibe zu Hilfe, sie öffnete ihren Schlund und verschlang den Strom, den der Drache aus seinem Rachen schoß. </verse>
+        <verse osisID='Rev.12.17'>Voll Zorns über das Weib ging der Drache jetzt hin, Krieg anzufangen mit ihren übrigen Kindern, welche die Gebote Gottes halten, und Jesum standhaft bekennen. Er stand am sandigen Ufer des Meeres,</verse>
+      </chapter>
+      <chapter osisID='Rev.13'>
+        <title>Das Thier mit den sieben Köpfen.</title>
+        <verse osisID='Rev.13.1'>und ich sah aus dem Meere ein Tier aufsteigen mit zehn Hörnern und sieben Köpfen; auf seinen Hörnern zehn Diademe, und auf seinen Köpfen Namen der Lästerung. </verse>
+        <verse osisID='Rev.13.2'>Das Tier, das ich sah, glich einem Pardel, seine Füße waren wie Bärenfüße, und sein Maul wie der Rachen eines Löwen. Der Drache gab ihm seine Machtseinen Thron, setzt das Griechische zu. und große Gewalt. </verse>
+        <verse osisID='Rev.13.3'>Und einen seiner Köpfe sah ich wie tödlich verwundet, und seine tödliche Wunde ward geheilt. Und die ganze Welt folgte verwundert dem Tiere nach. </verse>
+        <verse osisID='Rev.13.4'>Man betete den Drachen an, der die Gewalt dem Tiere gegeben, und das Tier selbst betete man an und sprach: Wer ist dem Tiere gleich? und wer vermag mit ihm zu streiten? </verse>
+        <verse osisID='Rev.13.5'>Ein Maul ward ihm zugelassen, große Dinge und Lästerungen zu reden; auch ward ihm Macht verliehen, zweiundvierzig Monate sein Wesen zu treiben. </verse>
+        <verse osisID='Rev.13.6'>Da öffnete es sein Maul zu Lästerungen gegen Gott, zu lästern seinen Namen, seine Wohnung und die Bewohner des Himmels. </verse>
+        <verse osisID='Rev.13.7'>Auch ward ihm zugelassen, mit den Heiligen zu kriegen und sie zu überwinden; und Macht gegeben ward ihm über alle Stämme, Völker, Sprachen und Nationen. </verse>
+        <verse osisID='Rev.13.8'>Anbeten werden es alle Bewohner der Erde, deren Namen nicht in dem Lebensbuche des von Urbeginn der Welt bestimmten Schlachtlammes geschrieben. </verse>
+        <verse osisID='Rev.13.9'>Wer Ohr hat, der höre. </verse>
+        <verse osisID='Rev.13.10'>Wer ins Gefängnis führt, der kommt selbst ins Gefängnis; wer mit dem Schwerte tötet, der soll mit dem Schwerte getötet werden. Hier kommt es auf die Standhaftigkeit und Glauben der Heiligen an. </verse>
+        <verse osisID='Rev.13.11'>Noch ein anderes Tier sah ich der Erde entsteigen: es hatte zwei Hörner, wie ein Lamm, redete aber wie ein Drache. </verse>
+        <verse osisID='Rev.13.12'>Auch übte es alle Macht des ersten Tieres vor seinen Augen aus; und brachte es dahin, daß die Erde und ihre Bewohner das erste Tier, dessen tödliche Wunde geheilt war, anbeteten </verse>
+        <verse osisID='Rev.13.13'>Es tat große Zeichen, so daß es sogar Feuer vom Himmel auf die Erde fallen ließ vor den Augen der Menschen; </verse>
+        <verse osisID='Rev.13.14'>und verführte die Erdenbewohner durch die Wunderzeichen, die vor dem Tiere zu tun ihm gestattet war, und überredete die Erdbewohner ein Bild zu machen, dem Tiere, das die Schwertwunde hatte und lebet.</verse>
+        <verse osisID='Rev.13.15'>Ja es ward ihm gegeben, das Bild des Tieres zu beleben, daß sogar dies Bild des Tieres sprach, und bewirkt, daß wer das Bild des Tieres nicht anbetete, getötet wurde. </verse>
+        <verse osisID='Rev.13.16'>Es bringt es dahin, daß Alle, klein und groß, reich und arm, Freie oder Sklaven das Abzeichen auf ihrer rechten Hand, oder an ihrer Stirne tragen; </verse>
+        <verse osisID='Rev.13.17'>ja daß Niemand kaufen oder verkaufen kann, außer er trage das Abzeichen, den Namen des Tieres, oder die Zahl seines Namens. </verse>
+        <verse osisID='Rev.13.18'>Hier kommt es auf Weisheit an. Wer Einsicht hat, der berechne die Zahl des Tieres; denn es ist eines Menschen Zahl, und seine Zahl ist sechshundertundsechsundsechzig. </verse>
+      </chapter>
+      <chapter osisID='Rev.14'>
+        <title>Bild des Lammes auf dem Berge. Babylons Fall. Strafe der Gottlosen.</title>
+        <verse osisID='Rev.14.1'>Ich sah und siehe! das Lamm stand auf dem Berge Sion, und mit ihm hundert und vier und vierzig tausend, die seinen Namen und seines Vaters Namen auf ihren Stirnen geschrieben trugen. </verse>
+        <verse osisID='Rev.14.2'>Vom Himmel her hörte ich ein Stimme erschallen, wie das Rauschern vieler Wasser, und wie das Rollen eines heftigen Donners. Auch hörte ich ein Getön, als wenn Harfenspieler auf ihren Harfen spielten. </verse>
+        <verse osisID='Rev.14.3'>Sie sangen ein neues Lied vor dem Throne, vor den vier Lebendigen und den Ältesten; und niemand konnte das Lied verstehen, als nur die hundertvierundvierzigtausend Erkauften von der Erde. </verse>
+        <verse osisID='Rev.14.4'>Diese sind es, welche mit Weibern sich nicht befleckten; Jungfrauen sind sie, welche dem Lamme folgen, wohin es geht. Sie sind von den Menschen als Erstlinge, Gott und dem Lamme erkauft. </verse>
+        <verse osisID='Rev.14.5'>In ihrem Munde ward kein Trug gefunden, sie sind ohne Tadel vor dem Throne Gottes.</verse>
+        <verse osisID='Rev.14.6'>Nun sah ich einen anderen Engel fliegend mitten durch den Himmel, der hatte ein ewiges Evangelium zu verkündigen den Bewohnern der Erde, unter allen Nationen, Stämmen, Sprachen und Völkern. </verse>
+        <verse osisID='Rev.14.7'>Mit starker Stimme rief er: Fürchtet Gott und gebt ihm die Ehre; denn die Zeit seines Gerichtes ist da; betet den an, der den Himmel und die Erde, der das Meer und die Quellen des Wassers gemachet hat!</verse>
+        <verse osisID='Rev.14.8'>Ein zweiter Engel folgte und rief: Gefallen, gefallen ist Babel, die Große! Mit dem Lustwein ihrer Unzucht hat sie alle Völker getränkt. </verse>
+        <verse osisID='Rev.14.9'>Auf diese folgte ein dritter Engel, der mit lauter Stimme rief: Wer das Tier anbetet, und sein Bild und das Zeichen nimmt an seine Stirn und Hand,</verse>
+        <verse osisID='Rev.14.10'>der soll trinken vom Zornwein Gottes, der schon ungemischt eingegossen ist in seinen Zornbecher, und wird gequält werden mit Feuer und Schwefel vor den heiligen Engeln und dem Lamme; </verse>
+        <verse osisID='Rev.14.11'>und ihrer Qualen Rauch wird bis in die ewigen Ewigkeiten aufsteigen. Ohne Ruhe Tag und Nacht werden die sein, welche das Tier und sein Bild anbeten, und wer seines Namens Zeichen nimmt. </verse>
+        <verse osisID='Rev.14.12'>Hier kommt es auf Standhaftigkeit der Heiligen an, die Gottes Gebot und Glauben an Jesum halten. </verse>
+        <verse osisID='Rev.14.13'>Nun hörte ich eine Stimme vom Himmel mirmir, fehlt im Griechischen. zurufen: Schreibe: Selig sind die Toten, die im Herrn sterben von nun an! Fürwahr, spricht der Geist, ruhen sollen sie von ihren Leiden; ihre Werke folgen ihnen nach.</verse>
+        <verse osisID='Rev.14.14'>Und als ich sah, und siehe! eine weiße Wolke, und auf der Wolke saß Einer,q] einem Menschensohne ähnlich, mit einer goldenen Krone auf dem Haupte; mit einer scharfen Sichel in seiner Hand. </verse>
+        <verse osisID='Rev.14.15'>Da kam ein anderer Engel aus dem Tempel und rief mit starker Stimme dem zu, der auf der Wolke saß: Schlage an deine Sichel und ernte! Denn die Erntezeit ist da, der Erde Saat ist reif. </verse>
+        <verse osisID='Rev.14.16'>Da schlug der, welcher auf der Wolke saß, an die Erde seine Sichel an, und geerntet war die Erde. </verse>
+        <verse osisID='Rev.14.17'>Noch ein anderer Engel kam aus dem Tempel im Himmel; auch er hatte eine scharfe Sichel. </verse>
+        <verse osisID='Rev.14.18'>Und ein anderer Engel kam vom Rauchaltar, der Macht hatte über das Feuer; er rief Jenem, der die scharfe Sichel hatte, mit lauter Stimme zu: Schlage an deine scharfe Sichel, und schneide ab die Trauben des Weinstocks der Erde; denn seine Beeren sind reif. </verse>
+        <verse osisID='Rev.14.19'>Da schlug der Engel seine Sichel an die Erde an, und schnitt der Erde Weinstock, und warf sie in die große Zornkelter Gottes. </verse>
+        <verse osisID='Rev.14.20'>Die Kelter ward getreten außerhalb der Stadt, und Blut floß aus der Kelter bis an das Gebiß der Pferde auf tausend sechshundert Stadien weit. </verse>
+      </chapter>
+      <chapter osisID='Rev.15'>
+        <title>Die Sieger über das Thier. Das Lob Gottes.</title>
+        <verse osisID='Rev.15.1'>Nun sah ich ein anderes Zeichen im Himmel, groß und wunderbar. Sieben Engel, welche die sieben letzten Plagen hatten, denn mit ihnen ist vollendet der Zorn Gottes. </verse>
+        <verse osisID='Rev.15.2'>Ich sah gleichsam ein Kristallmeer mit Feuer gemischt. Und die Sieger über das Tier und sein Bild, und über die Zahl seines Namens, standen am Kristallmeer und hatten Harfen Gottes. </verse>
+        <verse osisID='Rev.15.3'>Sie sangen das Lied Moses, des Knechtes Gottes und das Lied des Lammes und sprachen: Groß und wunderbar sind deine Werke, Herr Gott! Allherrscher! gerecht und wahrhaftig sind deine Wege, du König der Völker! </verse>
+        <verse osisID='Rev.15.4'>Wer sollete dich nicht fürchten, Herr, und deinen Namen preisen? Denn du allein bist heilig! Alle Völker werden kommen, und vor dir sich niederwerfen; denn deine Gerichte sind offenbar geworden. </verse>
+        <verse osisID='Rev.15.5'>Nach diesem sah ich, und siehe!siehe! fehlt im Griechischen. es wurde aufgethan der Tempel des Offenbarungszeltes im Himmel </verse>
+        <verse osisID='Rev.15.6'>Es gingen die sieben Engel, welche die sieben Plagen hatten, aus dem Tempel hervor, mit glänzend weißer Leinwand gekleidet, und um die Brust mit goldenen Gürteln gegürtet.</verse>
+        <verse osisID='Rev.15.7'>Und eins der vier Lebendigen gab diesen sieben Engeln sieben goldene schalen, voll des Zorns Gottes, der lebt bis in die ewigen Ewigkeiten. </verse>
+        <verse osisID='Rev.15.8'>Und der Tempel war voll Rauch von der Herrlichkeit Gottes und dessen Macht; und Niemand konnte zum Tempel hineingehen, bis dieser sieben Engel sieben Plagen vollendet waren. </verse>
+      </chapter>
+      <chapter osisID='Rev.16'>
+        <title>Ausgießung der sieben Schalen.</title>
+        <verse osisID='Rev.16.1'>Und ich hörte eine laute Stimme vom Tempel her den sieben Engeln sagen: Geht und gießt aus die sieben Schalen des Zorns Gottes auf die Erde! </verse>
+        <verse osisID='Rev.16.2'>Der erste ging hin und goß seine Schale auf die Erde aus; ein bösartiges giftiges Geschwür kam an die Menschen, die das Abzeichen des Tieres hatten, und die sein Bild anbeteten. </verse>
+        <verse osisID='Rev.16.3'>Der zweite Engel goß seine Schale ins Meer; da wurde es Blut wie von einem Toten, und Alles, was lebte, starb im Meere. </verse>
+        <verse osisID='Rev.16.4'>Und der dritte Engel goß seine Schale aus in die Flüsse und Wasserquellen, und sie wurden Blut.</verse>
+        <verse osisID='Rev.16.5'>Darauf hörte ich den Wasserengel sagen: Gerecht bist du, der ist und war, du Heiliger, daß du so richtest! </verse>
+        <verse osisID='Rev.16.6'>Weil sie Blut der Heiligen und der Propheten vergossen haben; so tränkst du sie auch mit Blut; das haben sie verdient. </verse>
+        <verse osisID='Rev.16.7'>Dann hörte ich vom Rauchaltar rufen: Ja, Herr, Gott, Allherrscher! wahrhaftig und gerecht sind deine Gerichte!</verse>
+        <verse osisID='Rev.16.8'>Der vierte Engel goß seine Schale in die Sonne; und ihm wards gegeben, mit Glut zu peinigen die Menschen. </verse>
+        <verse osisID='Rev.16.9'>Mit großer Glut wurden die Menschen geplagt, und lästerten den Namen Gottes, der Macht über diese Plagen hat, aber sie wandten nicht um, ihm die Ehre zu geben. </verse>
+        <verse osisID='Rev.16.10'>Darauf goß der fünfte seine Schale auf den Thron des Tieres aus; da ward sein Reich verfinstert. Vor Schmerz zerbissen sie sich ihre Zungen, </verse>
+        <verse osisID='Rev.16.11'>und lästerten den Gott des Himmels wegen ihrer Schmerzen und Geschwüre; aber von ihren Werken bekehrten sie sich nicht.</verse>
+        <verse osisID='Rev.16.12'>Nun goß der sechste seine Schale über den großen Fluß Euphrat, und sein Wasser versiegte, daß den Königen von Sonnenaufgang her der Weg bereitet würde. </verse>
+        <verse osisID='Rev.16.13'>Dann sah ich aus des Drachen Maule, und aus des Tieres Rachen, und aus des falschen Propheten Munde drei unreine Geister, wie Frösche, gehen. </verse>
+        <verse osisID='Rev.16.14'>Teuflische Geister sind es nämlich, die Wunder tun; sie gehen aus zu den Königen der ganzen Erde, sie zu sammeln zur Schlacht an jenem großen Tage Gottes, des Allherrschers. </verse>
+        <verse osisID='Rev.16.15'>(Siehe, ich komme wie ein Dieb! selig, der wachsam ist, und seine Kleider in Bereitschaft hält, daß er nicht nackend daher gehe und man seine Blöße sehe!) </verse>
+        <verse osisID='Rev.16.16'>Und er sammelte sie an dem Orte der auf Hebräisch Armagedon heißt. </verse>
+        <verse osisID='Rev.16.17'>Der siebente Engel goß seine Schale in die Luft, und eine laute Stimme kam aus des Himmels Tempel vom Throne her, welche sprach: Es ist geschehen! </verse>
+        <verse osisID='Rev.16.18'>Es folgten Blitze, Getöse und Gedonner, und ein so schreckliches Erdbeben, wie keines noch gewesen ist, seit Menschen auf der Erde sind; so groß war dies Erdbeben. </verse>
+        <verse osisID='Rev.16.19'>In drei Teile zerfiel die große Stadt; die Städte der Völker fielen; Babylons, der großen, ward vor Gott gedacht, ihr den Becher des Zornweins seiner Rache zu geben. </verse>
+        <verse osisID='Rev.16.20'>Alle Inseln entflohen; die Berge schwanden; </verse>
+        <verse osisID='Rev.16.21'>großer Hagel fiel zentnerschwer vom Himmel auf die Menschen; und die Menschen lästerten Gott wegen der Plage des Hagels, weil diese Plage gar zu groß war. </verse>
+      </chapter>
+      <chapter osisID='Rev.17'>
+        <title>Die Buhlerin. Das Thier.</title>
+        <verse osisID='Rev.17.1'>Nun kam einer der sieben Engel, welche die sieben Schalen hatten, er redete mit mir und sprach: Komm! Ich will dir zeigen das Strafgericht der großen Hure, die auf vielen Wassern trohnt;</verse>
+        <verse osisID='Rev.17.2'>mit ihr buhlten die Könige der Erde, und die Erdbewohner berauschten sich mit ihrem Unzuchtsweine.</verse>
+        <verse osisID='Rev.17.3'>Und er führte mich im Geiste in eine Wüste.Da sah ich das Weib auf einem scharlachroten Tiere sitzen, daß voller Lästernamen war, und sieben Köpfe und zehn Hörner hatte. </verse>
+        <verse osisID='Rev.17.4'>Das Weib war in Purpur und Scharlach gekleidet, mit Gold, Edelsteinen und Perlen geschmückt; sie hielt in ihrer Hand einen goldenen Becher, voll Gräuel und Unreinigkeiten ihrer Unzucht.</verse>
+        <verse osisID='Rev.17.5'>Auf ihrer Stirn stand geschrieben der Name: Geheimnis! Babylon, die große, die Mutter der Unzucht und der Gräuel auf Erden. </verse>
+        <verse osisID='Rev.17.6'>Und ich sah das Weib trunken vom Blute der Heiligen und vom Blute der Zeugen Jesu; bei ihrem Anblick überfiel mich großes Erstaunen </verse>
+        <verse osisID='Rev.17.7'>Der Engel sprach zu mir: Warum staunst du? Ich will dir aufschließen das Geheimnis des Weibes und des Tieres, welches sie trägt und sieben Köpfe und zehn Hörner hat. </verse>
+        <verse osisID='Rev.17.8'>Das Tier, das du sahst, war und ist nicht, und wird wieder entsteigen dem Abgrunde, und dann ins Verderben gehen. Es werden staunen die Bewohner der Erde, deren Namen nicht geschrieben stehen im Buche des Lebens von Urbeginn der Welt, wenn sie das Tier sehen, das war, und nicht ist.und da seyn wird, setzt das Griechische zu.</verse>
+        <verse osisID='Rev.17.9'>Hier ist die Bedeutung weise gegeben: Die sieben Köpfe sind sieben Berge, worauf das Weib sitzt; auch sind es sieben Könige. </verse>
+        <verse osisID='Rev.17.10'>Fünfe sind gefallen, einer ist, der andere ist noch nicht gekommen, und wenn er kommt, soll er nur kurze Zeit bleiben. </verse>
+        <verse osisID='Rev.17.11'>Das Tier, welches war, und nicht ist, ist selber der achte, und ist von den sieben, und geht ins Verderben.</verse>
+        <verse osisID='Rev.17.12'>Die zehn Hörner, welche du sahst, sind zehn Könige, welche noch kein Königreich empfangen haben; sie werden aber Eine Stunde wie Könige Macht empfangen mit dem Tiere. </verse>
+        <verse osisID='Rev.17.13'>Sie sind Eines Sinnes und werden ihre Macht und Herrschaft dem Tiere geben. </verse>
+        <verse osisID='Rev.17.14'>Sie werden mit dem Lamm Krieg führen; aber besiegen wird sie das Lamm; denn es ist der Herr der Herren und der König der Könige, die mit ihm Verbundenen sind die Berufenen, Auserwählten und Getreuen. </verse>
+        <verse osisID='Rev.17.15'>Weiter sprach er zu mir: Die Wasser, welche du sahst, auf welchen die Hure sitzt, sind Völkerscharen, Nationen und Sprachen. </verse>
+        <verse osisID='Rev.17.16'>Die zehn Hörner aber, die du auf dem Tiere sahst, diese werden die Hure hassen, sie plündern, nackt ausziehen, ihr Fleisch fressen, und im Feuer sie verbrennen. </verse>
+        <verse osisID='Rev.17.17'>Denn Gott hat es ihnen ins Herz gegeben, zu tun, was er will,und Eines Sinnes zu werden, setzt das Griechische zu. ihr Reich dem Tiere zu geben, bis Gottes Ausprüche erfüllt sein werden.</verse>
+        <verse osisID='Rev.17.18'>Das Weib, welches du gesehen, ist die große Stadt, die Herrscherin über die Könige der Erde. </verse>
+      </chapter>
+      <chapter osisID='Rev.18'>
+        <title>Babylons Fall.</title>
+        <verse osisID='Rev.18.1'>Nach diesem sah ich einen andern Engel vom Himmel herabsteigen. Er hatte große Macht, und die Erde war erleuchtet von seinem Glanze. </verse>
+        <verse osisID='Rev.18.2'>Er rief mit starker Stimme und sprach: Gefallen, gefallen ist Babylon, die große! Eine Wohnung der Teufel, ein Kerker aller unreinen Geister, ein Kerker aller unreinen verhaßten Vögel ist sie geworden.</verse>
+        <verse osisID='Rev.18.3'>Denn von dem Wohllustwein ihrer Unzucht haben alle Völker getrunken, und die Könige der Erde buhlten mit ihr, und die Handelsleute der Erde wurden reich durch den großen Aufwand ihrer Üppigkeit. </verse>
+        <verse osisID='Rev.18.4'>Noch hörte ich eine andere Stimme vom Himmel sagen: Hinweg von ihr, mein Volk, damit ihr nicht teilhaftig werdet ihrer Sünden, und ihre Strafen euch nicht treffen! </verse>
+        <verse osisID='Rev.18.5'>Denn ihre Sünden häufen sich bis an den Himmel auf; und Gott gedenkt nun ihrer Freveltaten. </verse>
+        <verse osisID='Rev.18.6'>Wie sie selbst vergalt, so vergeltet ihr wieder; ja vergeltet doppelt ihr nach ihrem eigenen Thun, den Kelch, den sie mischte, mischt zweifach ihr! </verse>
+        <verse osisID='Rev.18.7'>Das Maß der Herrlichkeit und Üppigkeit gebt ihr wieder in Qual und Jammer; weil sie in ihrem Herzen sprach: Ich herrsche als Königin! ich bin nicht Witwe und kenne keine Trauer.</verse>
+        <verse osisID='Rev.18.8'>Darum stürzen über sie an Einem Tage ihre Plagen; Tod und Trauer und Hunger! Verbrannt soll sie werden mit Feuer; denn mächtig ist Gott der Herr, ihr Richter!</verse>
+        <verse osisID='Rev.18.9'>Und über sie weinen und klagen werden die Könige der Erde, die mit ihr buhlten und mit ihr wohllüsteten, wenn sie den Rauch von ihrem Brande sehen. </verse>
+        <verse osisID='Rev.18.10'>Sie werden scheu vor ihrer Qual von ferne stehen und rufen: Wehe, wehe! Du große Stadt Babylon! Du mächtige Stadt! In einer Stunde ist kommen dein Gericht. </verse>
+        <verse osisID='Rev.18.11'>Der Erde Handelsleute werden weinen über sie und trauern; weil niemand mehr ihre Waaren kauft; </verse>
+        <verse osisID='Rev.18.12'>Waren von Gold, Silber, Edelstein, Perlen, Byssus, Purpur, Seide, und Scharlach, von allerlei Zitronenholz; und allerlei Geräte von Elfenbein, Geräte vom kostbarsten Holze, von Erz, von Eisen und von Marmor. </verse>
+        <verse osisID='Rev.18.13'>Auch Zimt, Rauchwerk, Balsam, Weihrauch, Wein, Öl, Semmelmehl und Weizen, Lastvieh und Schafe, Rosse und Wagen, Leibeigene und Seelen der Menschen. </verse>
+        <verse osisID='Rev.18.14'>Entflohen ist von dir das Obst, das Gelüste deiner Seele,; verschwunden ist von dir alle Pracht und Fülle, dergleichen wirst du nimmer wieder finden! </verse>
+        <verse osisID='Rev.18.15'>Die Handelsleute jener Waren, die durch sie reich geworden, sie werden, scheu von ihrer Qual, von ferne stehen, mit Tränen und Klagen rufen: </verse>
+        <verse osisID='Rev.18.16'>Wehe, wehe! die große Stadt, in Byssus, Purpur und Scharlach gekleidet, mit Gold, Edelsteinen und Perlen geschmückt! </verse>
+        <verse osisID='Rev.18.17'>In Einer Stunde ist all dieser Reichtum dahin! Und jeder Schiffsherr, jeder Küstenschiffer und Segler, und Alle, die zur See Geschäfte treiben, sie blieben in der Ferne stehen und riefen, </verse>
+        <verse osisID='Rev.18.18'>da sie sahen den Rauch von ihrem Brande, und sprachen: Was glich doch dieser großen Stadt! </verse>
+        <verse osisID='Rev.18.19'>Sie warfen Staub auf ihre Häupter, und riefen weinend und klagend und sprachen: Wehe, wehe! die große Stadt, von deren Schätzen reich geworden Alle, die Schiffe auf dem Meere hatten; sie ist zerstört in einer Stunde! </verse>
+        <verse osisID='Rev.18.20'>Frohlocke Himmel über sie! frohlocket ihr Heiligen, und Apostel, und Propheten! Denn an ihr selbst hat Gott gerichtet euer Los. </verse>
+        <verse osisID='Rev.18.21'>Da hob ein starker Engel einen Stein, wie ein Mühlstein groß, ihn schleudernd ins Meer, und sprach: So stürmisch schnell soll fallen Babylon, die große Stadt, und nicht mehr sein! </verse>
+        <verse osisID='Rev.18.22'>Der Harfenschläger, und der Sänger, der Flöten- und Posaunenbläser Töne erschallen nimmermehr in dir; kein Künstler irgendeiner Kunst soll je mehr in dir gefunden werden; und kein Geräusch der Mühle höre man mehr in dir! </verse>
+        <verse osisID='Rev.18.23'>Kein Lampenschimmer leuchte mehr in dir, nimmer soll des Bräutigams und der Braut Gesang in dir ertönen! Denn deine Handelsleute waren die Fürsten der Erde; die Völker alle verführt durch deinen Zaubertrank; </verse>
+        <verse osisID='Rev.18.24'>und in dir ward gefunden das Blut der Propheten, und Heiligen, und aller Erschlagenen auf Erden. </verse>
+      </chapter>
+      <chapter osisID='Rev.19'>
+        <title>Triumpflieder, Herabkunft des Messias und dessen Gericht.</title>
+        <verse osisID='Rev.19.1'>Nach diesem hörte ich wie eine laute Stimme vieles Volks im Himmel rufen: Halleluja, Heil, Herrlichkeit und Macht hat unser Gott. </verse>
+        <verse osisID='Rev.19.2'>Denn seine Gerichte sind wahrhaftig und gerecht; er hat die große Hure gerichtet, die mit ihrer Hurerei die Welt verdarb, und seiner Knechte Blut hat er an ihrer Hand gerächt. </verse>
+        <verse osisID='Rev.19.3'>Und zum zweitenmal riefen sie: Halleluja! Ihr Rauch steigt auf bis in die ewigen Ewigkeiten! </verse>
+        <verse osisID='Rev.19.4'>Da fielen die vierundzwanzig Ältesten, nebst den vier Lebendigen nieder, beteten Gott an, der auf dem Trone sitzt, und sprachen: Amen! Halleluja! </verse>
+        <verse osisID='Rev.19.5'>Und eine Stimme ging vom Trone aus, und sprach: Lobt unsern Gott, ihr alle seine Diener und Verehrer, klein und groß! </verse>
+        <verse osisID='Rev.19.6'>Ich hörte abermals wie eine Stimme vieles Volks, als rauschten viele Wasser, als rollten starke Donner; sie sprach: Halleluja! Denn es herrscht der Herr unser Gott der Allherrscher! </verse>
+        <verse osisID='Rev.19.7'>Laßt uns fröhlich sein und jauchzen, und ihn verherrlichen! Denn des Lammes Hochzeit ist gekommen, und seine Braut hat sich geschmückt. </verse>
+        <verse osisID='Rev.19.8'>Ihr ward gegeben, sich zu kleiden in glänzend weißen Byssus, (dieser Byssus ist die Gerechtigkeit der Heiligen).</verse>
+        <verse osisID='Rev.19.9'>Da sprach einer zu mir: Schreibe: Selig sind diejenigen, die zum Hochzeitsmahle des Lammes berufen sind! Das sind, sprach er zu mir, wahrhafte Gottesworte!</verse>
+        <verse osisID='Rev.19.10'>Zu seinen Füßen fiel ich nieder, anbeten wollte ich ihn, allein er sprach zu mir: Tue es nicht! Ich bin dein und deiner brüder Mitknecht , die von Jesu zeugen; Gott bete an! (Denn das zeugnis von Jesu ist der Geist der Weissagung.) </verse>
+        <verse osisID='Rev.19.11'>Nun sah ich den Himmel offen, und siehe! ein weißes Roß! der auf demselben saß, heißt: Der Treue und Wahrhaftige; mit Gerechtigkeit richtet und streitet er. </verse>
+        <verse osisID='Rev.19.12'>Seine Augen waren wie eine Feuerflamme, und auf seinem Haupte waren viele Diademe. Er trug eine Namensinschrift, die Niemand, als er selber verstand. </verse>
+        <verse osisID='Rev.19.13'>Und er war angetan mit einem Gewande, in Blut getunkt; sein Name ist: Wort Gottes.</verse>
+        <verse osisID='Rev.19.14'>Auf weißen Rossen folgten ihm des Himmels Heere, in glänzend reínen Byssus gekleidet. </verse>
+        <verse osisID='Rev.19.15'>Aus seinem Munde ging ein scharfes Schwert, daß er damit dei Völker schlage. Mit eisernem Zepter wird er sie beherrschen. Er tritt die Weinkelter des rächenden Zornes Gottes, des Allherrschers. </verse>
+        <verse osisID='Rev.19.16'>Auf seinem Kleide und auf seiner Hüfte stand der Name geschrieben: König der Könige, Herr der Herren. </verse>
+        <verse osisID='Rev.19.17'>In der Sonne sah ich einen Engel stehen, der allen durch des Himmels Weite fliegenden Vögeln mit starker Stimme zurief: Kommet, sammelt euch zu Gottes großem Mahle, </verse>
+        <verse osisID='Rev.19.18'>fresset Fleisch der Könige, Fleisch der Oberbefehlshaber, Fleisch der Mächtigen, Fleisch der Rosse und Reiter, Fleisch von allen Freien und Sklaven, Kleinen und Großen! </verse>
+        <verse osisID='Rev.19.19'>Da erblickte ich das Tier, und die Könige der Erde, und ihre Heere versammelt, zu streiten mit dem, der auf dem Rosse saß, und mit seinem Heere. </verse>
+        <verse osisID='Rev.19.20'>Allein ergriffen wurde das Thier, und mit ihm der Lügenprophet, der vor ihm die Wunder tat, wodurch er die verführte, die des Tieres Kennzeichen annahmen, und sein Bild anbeteten. Lebendig wurden beide geworfen in den Feuersee, der von Schwefel brennt. </verse>
+        <verse osisID='Rev.19.21'>Getötet wurden die Andern mit dem Schwerte, das aus den Munde dessen ging, der auf dem Rosse saß, und alle Vögel wurden von ihrem Fleische satt. </verse>
+      </chapter>
+      <chapter osisID='Rev.20'>
+        <title>Der gebundene Drache. Die erste Auferstehung.</title>
+        <verse osisID='Rev.20.1'>Jetzt sah ich einen Engel vom Himmel herabsteigen, der den Schlüssel des Abgrundes und eine große Kette in seiner Hand hatte. </verse>
+        <verse osisID='Rev.20.2'>Dieser griff den Drachen, die alte Schlange, welche der Teufel und Satan ist, band ihn auf ein Jahrtausend, </verse>
+        <verse osisID='Rev.20.3'>warf ihn in den Abgrund, und verschloß und versiegelte über ihn, damit er die Völker nicht weiter verführe, bis die tausend Jahre vollendet sind. Danach soll er eine kurze Zeit noch losgelassen werden. </verse>
+        <verse osisID='Rev.20.4'>Ich sah Throne, und sie setzten sich darauf, und es ward ihnen gegeben, Gericht zu halten. Auch sah ich die Seelen derer, die wegen des Zeugnisses Jesu, und des Wortes Gottes hingerichtet waren, und die das Tier, und die das Tier und sein Bild weder angebetet, noch sein Abzeichen an Stirn und Hand getragen; sie lebten wieder, und herrschten mit Christo tausen Jahre. </verse>
+        <verse osisID='Rev.20.5'>Die übrigen Toten werden nicht lebendig, bis die tausend Jahre zu Ende waren. Dies ist die erste Auferstehung. </verse>
+        <verse osisID='Rev.20.6'>Selig und heilig ist, wer an der ersten Auferstehung Teil hat, über sie hat der andere Tod keine Gewalt; sondern sie werden Priester Gottes und Christi sein und mit ihm herrschen tausend Jahre. </verse>
+        <verse osisID='Rev.20.7'>Und wenn die tausend Jahre zu Ende sind, wird Satan aus seinem Kerker losgelassen werden, und ausgehen, zu verführen die Völker in den äußersten vier Gegenden der Erde, den Gog und Magog, und sie zum Streite zu versammeln. Ihre Zahl ist wie des Meeres Sand. </verse>
+        <verse osisID='Rev.20.8'>Sie ziehen über die weite Erde daher, umringen das Lager der Heiligen und die geliebte Stadt. </verse>
+        <verse osisID='Rev.20.9'>Da fuhr Feuer von Gott aus dem Himmel herab, und verzehrte sie. Und der Teufel, ihr Verführer, wird in den Feuer- und Schwefelsee geworfen, wo auch das Tier</verse>
+        <verse osisID='Rev.20.10'>und der Lügenprophet ist; und sie werden gequält werden Tag und Nacht, bis in die ewigen Ewigkeiten. </verse>
+        <verse osisID='Rev.20.11'>Jetzt sah ich einen großen weißen Thron, und Jemand darauf sitzen; vor seinem Antlitz floh die Erde und Himmel; und keine Stätte war für sie gefunden. </verse>
+        <verse osisID='Rev.20.12'>Ich sah die Toten, klein und groß stehend vor dem Throne; Bücher wurden aufgerollt, und noch ein anderes Buch geöffnet, das Buch des Lebens; und die Toten wurden gerichtet, so wie es in den Büchern geschrieben war, nach ihren Werken. </verse>
+        <verse osisID='Rev.20.13'>Das Meer gab seine Toten her; der Tod und die Hölle gaben ihre Toten. Jeder ward nach seinen Werken gerichtet. </verse>
+        <verse osisID='Rev.20.14'>Und der Tod und die Hölle wurden in den Feuersee geworfen. Dies ist der andere Tod! </verse>
+        <verse osisID='Rev.20.15'>Und wer nicht gefunden ward im Buche des Lebens, der ward in den Feuersee geworfen. </verse>
+      </chapter>
+      <chapter osisID='Rev.21'>
+        <verse osisID='Rev.21.1'>Nun sah ich einen neuen Himmel, und eine neue Erde; denn der erste Himmel, und die erste Erde waren vergangen; und das Meer war nicht mehr. </verse>
+        <verse osisID='Rev.21.2'>Auch sah ich, Johannes,Johannes, fehlt im Griechischen. die heilige Stadt, das neue Jerusalem, herabkommen von Gott aus dem Himmel, zubereitet, wie eine Braut, die für ihren Bräutigam geschmückt ist. </verse>
+        <verse osisID='Rev.21.3'>Und ich hörte eine starke Stimme vom Throne,vom Himmel, nach dem Griechischen. die sprach: Siehe, Gottes Wohnung unter den Menschen! er wird bei ihnen wohnen, sie werden sein Volk sein, und Gott wird selber als Gott bei ihnen seyn.</verse>
+        <verse osisID='Rev.21.4'>Jede Träne wird Gott von ihren Augen trocknen; der Tod wird nicht mehr sein; aufhören werden Trauer, Klage und Schmerz; denn das Erste ist vorüber. </verse>
+        <verse osisID='Rev.21.5'>Und der, welcher auf dem Trone saß, sprach: Siehe! Alles mache ich neu! Weiter sprach er zu mir: Schreibe; diese Worte sind gewiß und wahrhaftig! </verse>
+        <verse osisID='Rev.21.6'>Er sprach zu mir: Es ist geschehen! Ich bin das Alpha und Omega, der Anfang und das Ende. Wen dürstet, dem will ich aus dem Quell des Lebenswassers umsonst zu trinken geben. </verse>
+        <verse osisID='Rev.21.7'>Wer überwindet, der soll dieses ererben; ich will ihm Gott und er soll mir Sohn sein. </verse>
+        <verse osisID='Rev.21.8'>Dagegen wird der Verzagten, der Ungläubigen, der Verruchten, der Mörder, der Unzüchtigen, der Zauberer, der Götzendiener und aller Lügner Theil im brennenden Schwefelfeuersee sein; das ist der andere Tod. </verse>
+        <verse osisID='Rev.21.9'>Jetzt kam einer der sieben Engel, welche die sieben mit den letzten Plagen angefüllten Schalen hatten, und redete mit mir, und sprach: Komme! Ich will dir das Weib, des Lammes Braut, zeigen! </verse>
+        <verse osisID='Rev.21.10'>Und er entrückte mich im Geist auf einen großen und hohen Berg, und zeigte mir die heilige Stadt, das Jerusalem, welches von Gott aus dem Himmel herabkam. </verse>
+        <verse osisID='Rev.21.11'>Sie hatte den Strahlenglanz Gottes. Ihr Glanz war wie der köstlichste Edelstein, wie der kristallartige Jaspis. </verse>
+        <verse osisID='Rev.21.12'>Groß und hoch war ihre Mauer; zwölf Tore hatte sie, und über den Toren zwölf Engel und eingegrabene Namen, nämlich die Namen der zwölf Stämme der Kinder Israels. </verse>
+        <verse osisID='Rev.21.13'>Drei Tore waren nach Morgen, drei Tore nach Mitternacht, drei Tore nach Mittag, drei Tore nach Abend. </verse>
+        <verse osisID='Rev.21.14'>Die Mauer der Stadt hatte zwölf Grundsteine, auf diesen standen die zwölf Namen der zwölf Apostel des Lammes.</verse>
+        <verse osisID='Rev.21.15'>Der mir mir sprach, hielt einen goldenen Maßstab, um die Stadt, ihre Tore und Mauern zu messen.</verse>
+        <verse osisID='Rev.21.16'>Die Lage der Stadt ist ein Viereck. Ihre Länge ist wie ihre Breite. Er maß die Stadt mit dem Maßstab zu zwölftausend Stadien. Ihre Länge, Breite und Höhe ist gleich. </verse>
+        <verse osisID='Rev.21.17'>Er maß auch die Mauer, hundert vier und vierzig Ellen, menschlichen Maßes, daß der Engel hatte. </verse>
+        <verse osisID='Rev.21.18'>Ihre Mauer war aus Jaspis gebaut, die Stadt war reines Gold, wie reiner Krystall. </verse>
+        <verse osisID='Rev.21.19'>Die Grundsäulen der Mauer waren mit allerlei Edelsteinen geziert. Der erste Grundstein war Jaspis, der zweite Saphir, der dritte Chalcedonier, der vierte Smaragd. </verse>
+        <verse osisID='Rev.21.20'>Der fünfte war Sardonix, der sechste Sardier, der siebente Chrysolit, der achte Beryll, der neunte Topas, der zehnte Chrysopas, der elfte war Hyatinth und der zwölfte Amethyst. </verse>
+        <verse osisID='Rev.21.21'>Die zwölf Tore waren zwölf Perlen; jedes Tor aus einer Perle; die Straßen der Stadt waren reines Gold, dem durchsichtigen Kristalle gleich. </verse>
+        <verse osisID='Rev.21.22'>Einen Tempel sah ich nicht in ihr; denn Gott, der Herr, der Allherrscher, ist selbst ihr Tempel und das Lamm. </verse>
+        <verse osisID='Rev.21.23'>Die Stadt bedarf nicht der Sonne, noch des Mondes, zu ihrer Erleuchtung; denn die Herrlichkeit Gottes erhellt sie, und ihre Leuchte ist das Lamm. </verse>
+        <verse osisID='Rev.21.24'>Die Völker werden in ihrem Lichte wandeln, und die Könige der Erde werden ihre Verherrlichung und Anbetung in sie bringen. </verse>
+        <verse osisID='Rev.21.25'>Ihre Tore werden am Tage nicht verschlossen; (denn Nacht ist da nicht mehr.) </verse>
+        <verse osisID='Rev.21.26'>Verehrung und Anbetung von Völkern werden sie hineinbringen. </verse>
+        <verse osisID='Rev.21.27'>Aber nichts Unreines, und was Greueltat und Betrug übte, wird in sie hineinkommen; nur die, welche geschrieben stehen im Lebensbuche des Lammes.</verse>
+      </chapter>
+      <chapter osisID='Rev.22'>
+        <verse osisID='Rev.22.1'>Und er zeigte mir einen Strom des Lebenswassers, der glänzend wie Kristall, vom Throne Gottes und des Lammes floß.</verse>
+        <verse osisID='Rev.22.2'>In der Mitte ihrer Straßen und auf beiden Seiten des Stromes stand des Lebens Holz, das zwölfmal Früchte trägt, und zwar jeden Monat seine Früchte bringt. Des Baumes Blätter dienen den Völkern zum Heilmittel. </verse>
+        <verse osisID='Rev.22.3'>Da ist nichts Verbannungswürdiges mehr, Gottes und des Lammes Thron sind da, und seine Diener verehren ihn; </verse>
+        <verse osisID='Rev.22.4'>und schauen sein Angesicht und tragen seinen Namen an ihren Stirnen. </verse>
+        <verse osisID='Rev.22.5'>Nacht wird da nicht mehr sein; der Leuchte und des Sonnenlichtes bedürfen sie nicht mehr; denn Gott, der Herr, wird über ihnen leuchten, und herrschen werden sie bis in die ewigen Ewigkeiten. </verse>
+        <verse osisID='Rev.22.6'>Nun sprach er zu mir: Gewiß und wahr sind diese Worte, und der Herr, der Gott der Geister der Propheten, hat seinen Engel gesandt, seinen Knechten anzuzeigen, was geschehen soll. </verse>
+        <verse osisID='Rev.22.7'>Und siehe! Ich komme bald! Selig ist der, der die Worte der Weissagung dieses Buches bewahrt!</verse>
+        <verse osisID='Rev.22.8'>Und ich, Johannes, bin es, der dies sah und hörte. Und als ich es gehört und gesehen, fiel ich nieder, um anzubeten, vor den Füßen des Engels, der mir dies zeigte. </verse>
+        <verse osisID='Rev.22.9'>Er aber sprach zu mir: Tue es nicht! Ich bin dein und deiner Brüder, der Propheten, Mitknecht, so wie derer, die sich an die Worte der Weissagungder Weissagung, fehlt im Griechischen. dieses Buches halten. Bete Gott an!</verse>
+        <verse osisID='Rev.22.10'>Auch sagte er zu mir: Versiegle nicht die Worte der Weissagung dieses Buches! Denn die Zeit ist nahe.</verse>
+        <verse osisID='Rev.22.11'>Wer Unrecht thut, mag ferner Unrecht tun; wer unrein ist, mag ferner unrein bleiben; wer aber gerecht ist, übe ferner Gerechtigkeit, und wer heilig ist, sei ferner heilig. </verse>
+        <verse osisID='Rev.22.12'>Siehe! Ich komme bald; und meine Vergeltung mit mir; um Jedem zu vergelten, wie sein Werk sein wird. </verse>
+        <verse osisID='Rev.22.13'>Ich bin das Alpha und das Omega, der Erste und der Letzte, der Anfang und das Ende. </verse>
+        <verse osisID='Rev.22.14'>Selig, die ihre Kleider im Blute des Lammes waschen,Selig! die seine Gebote halten, liest man im Griechischen. damit sie an dem Baum des Lebens Anspruch erhalten, und durch die Tore der Stadt eingehen! </verse>
+        <verse osisID='Rev.22.15'>Ausgeschlossen bleiben die Hunde, die Zauberer, die Hurer, die Mörder, die Götzendiener, und Jeder, der Betrug liebt und übt. </verse>
+        <verse osisID='Rev.22.16'>Ich, Jesus, schickte meinen Engel, um euch dies von den Gemeinden zu verkündigen. Ich bin die Wurzel und der Stamm Davids, der glänzende Morgenstern.</verse>
+        <verse osisID='Rev.22.17'>Und der Geist und die Braut sagen: Komm! Und wer es hört, sage Komm! Und wen dürstet, der komme! Wer will, der nehme Wasser des Lebens umsonst! </verse>
+        <verse osisID='Rev.22.18'>Jedem, der die Worte der Weissagung dieses Buches hört, bezeuge ich: Wenn jemand etwas hinzufügen wollte, dem wird Gott zulegen die Plagen, die in diesem Buche beschrieben sind. </verse>
+        <verse osisID='Rev.22.19'>Und wenn Jemand etwas von den Worten der Weissagung dieses Buches hinwegnehmen wollte, dem wird Gott nehmen seinen Anteil an dem Baume des Lebens und der heiligen Stadt, die in diesem Buche beschrieben sind. </verse>
+        <verse osisID='Rev.22.20'>Der, welcher dies bezeugt, spricht: Wahrlich, ich komme schnell! Amen! Komm, Herr Jesu! </verse>
+        <verse osisID='Rev.22.21'>Die Gnade des Herrn, Jesu Christi, sei mit allen Heiligen. Amen. </verse>
+      </chapter>
+    </div></osisText>
+</osis>

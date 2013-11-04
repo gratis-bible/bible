@@ -1,0 +1,1005 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <osisText osisRefWork='Bible' osisIDWork='TAF' xml:lang='de'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='TAF'>
+        <title>Tafelbibel</title>
+        <contributor>Martin</contributor>
+        <creator>Jens Grabner</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject>holy bible</subject>
+        <date>2009-01-20</date>
+        <description>Die Bibel - Übersetzung von Johann Friedrich Leonhard Tafel
+
+      Die vorliegende Neuausgabe ist eine Abschrift der Übersetzung von Dr. Leonhard
+      Tafel, revidiert von Ludwig H. Tafel, dritte Ausgabe 1911, und wurde auf ihre
+      Vollständigkeit überprüft. Es wurde die Rechtschreibregel der heutigen Zeit (noch
+      vor der Rechtschreibreform 1998) angewendet, ohne den Stil der Sprache zu verändern.
+
+      Wer in dieser Bibel einige Bücher vermisst, sei auf das Vorwort der Source verwiesen.
+      Auf der zweiten Seite steht dort:
+      Der zweite Band enthält die übrigen, sogenannten
+      Hagiographen oder heiligen Bücher: die Bücher Hiob, Sprichwörter, Hohelied, Prediger, Ruth, Chronika, Esra,
+      Nehemia, Esther und die Apokryphen.²
+      2. Gegenwärtige, Revision des Zefania XML Moduls  enthält die Hagiographen und Apokryphen nicht, da
+      sie nicht verfügbar waren.</description>
+        <publisher>FREE BIBLE SOFTWARE GROUP</publisher>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>TAF</identifier>
+        <source>http://www.ubf-dortmund.de/bibel/tafel.htm</source>
+        <language type='IETF'>de</language>
+        <relation/>
+        <coverage>provide the bible to the world</coverage>
+        <rights>Mit freundlicher Genehmigung des Swedenborg Verlag Postfach 1205 CH - 8032 Zürich</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='1Sam'>
+      <chapter osisID='1Sam.1'>
+        <title>Erstes Buch Samuel</title>
+        <title>Samuels Geburt, Weihe und Dienst.</title>
+        <verse osisID='1Sam.1.1'>Und es war ein Mann von Ramathajim Zophim, von dem Gebirge Ephraim, und sein Name war Elkanah, ein Sohn Jerochams, des Sohnes Elihu, des Sohnes Tochu, des Sohnes Zuph, ein Ephrathiter.</verse>
+        <verse osisID='1Sam.1.2'>Und dieser hatte zwei Weiber, der Name der einen war Channah, und der Name der zweiten Peninnah. Und Peninnah hatte Kinder, Channah aber hatte keine Kinder.</verse>
+        <verse osisID='1Sam.1.3'>Und derselbige Mann ging von Jahr zu Jahr<note>von Tagen zu Tagen</note> hinauf aus seiner Stadt, um anzubeten und Jehovah der Heerscharen zu opfern in Schiloh. Und daselbst waren die zwei Söhne Elis, Chophni und Pinechas, Priester Jehovahs.</verse>
+        <verse osisID='1Sam.1.4'>Und es geschah an dem Tage, da Elkanah opferte, gab er seinem Weibe Peninnah und allen ihren Söhnen und Töchtern Anteile.</verse>
+        <verse osisID='1Sam.1.5'>Und der Channah gab er ein Anteil unmutig<note>zornig</note>; denn er liebte Channah, aber Jehovah hatte ihr den Mutterschoß verschlossen.</verse>
+        <verse osisID='1Sam.1.6'>Und es reizte sie ihre Bedrängerin, auch reizte sie sie, daß sie aufbrauste<note>donnerte</note>, weil Jehovah ihren Mutterschoß verschlossen hätte.</verse>
+        <verse osisID='1Sam.1.7'>Und so tat er Jahr für Jahr; sooft sie hinaufging in das Haus Jehovahs, reizte sie dieselbe, also daß sie weinte und nicht aß.</verse>
+        <verse osisID='1Sam.1.8'>Und ihr Mann Elkanah sprach zu ihr: Channah, warum weinst du, und warum ißt du nicht? Und warum, ist dein Herz böse; bin ich dir nicht besser als zehn Söhne?</verse>
+        <verse osisID='1Sam.1.9'>Und Channah stand auf, nachdem sie in Schiloh gegessen und nachdem sie getrunken hatte. Und Eli, der Priester, saß auf dem Stuhle<note>Throne</note> an dem Türpfosten von Jehovahs Tempel.</verse>
+        <verse osisID='1Sam.1.10'>Sie aber war in der Seele erbittert und betete zu Jehovah und weinte sehr<note>weinte mit Weinen</note>.</verse>
+        <verse osisID='1Sam.1.11'>Und sie gelobte ein Gelübde und sprach: Jehovah der Heerscharen, wenn Du ansiehst das Elend deiner Magd, und mein gedenkst und nicht vergissest Deiner Magd, und Deiner Magd einen Männersamen gibst, so gebe ich ihn Jehovah für alle Tage seines Lebens, und auf sein Haupt soll kein Schermesser kommen.</verse>
+        <verse osisID='1Sam.1.12'>Und es geschah, als sie viel betete vor Jehovah, hielt Eli auf ihren Mund.</verse>
+        <verse osisID='1Sam.1.13'>Und Channah, sie redete in ihrem Herzen, nur ihre Lippen bewegten sich, und ihre Stimme hörte man nicht. Und Eli dachte, sie sei eine Betrunkene.</verse>
+        <verse osisID='1Sam.1.14'>Und Eli sprach zu ihr: Wie lange<note>bis wann</note> willst du betrunken sein, tue deinen Wein weg von dir.</verse>
+        <verse osisID='1Sam.1.15'>Und Channah antwortete und sprach: Nicht doch, mein Herr! Ein Weib betrübten<note>verhärteten</note> Geistes bin ich, und Wein und starkes Getränke habe ich nicht getrunken, aber meine Seele habe ich vor Jehovah ausgeschüttet.</verse>
+        <verse osisID='1Sam.1.16'>Gib deine Magd nicht für eine Belialstochter aus, denn wegen der Menge meines Kummers und Unmutes habe ich bisher geredet.</verse>
+        <verse osisID='1Sam.1.17'>Und Eli antwortete und sprach: Gehe hin im Frieden, und der Gott Israels wird dir geben die Bitte, die du von Ihm erbeten hast.</verse>
+        <verse osisID='1Sam.1.18'>Sie aber sprach: Möge deine Dienstmagd Gnade finden in deinen Augen! Und das Weib ging ihres Weges und aß, und ihr Angesicht war nicht mehr wie zuvor.</verse>
+        <verse osisID='1Sam.1.19'>Und sie standen früh am Morgen auf und beteten an vor Jehovah und kehrten zurück und kamen in ihr Haus nach Ramah; und Elkanah erkannte Channah, sein Weib, und Jehovah gedachte ihrer.</verse>
+        <verse osisID='1Sam.1.20'>Und es geschah im Verlaufe der Tage, da empfing Channah und gebar einen Sohn und nannte seinen Namen Samuel<note>Schemuel, d.h. erhört von Gott</note>, denn ich habe ihn von Jehovah erbeten.</verse>
+        <verse osisID='1Sam.1.21'>Und der Mann Elkanah ging hinauf und sein ganzes Haus, daß er Jehovah opferte das jährliche Opfer<note>Opfer der Tage</note> und sein Gelübde.</verse>
+        <verse osisID='1Sam.1.22'>Channah aber ging nicht hinauf, sondern sprach zu ihrem Manne: Bis der Junge entwöhnt ist, dann will ich ihn bringen, und er soll erscheinen vor Jehovahs Angesicht und bleiben<note>sitzen</note> daselbst ewiglich.</verse>
+        <verse osisID='1Sam.1.23'>Und Elkanah, ihr Mann sprach zu ihr: Tue, was gut ist in deinen Augen; bleibe<note>sitze</note>, bis du ihn entwöhnst; nur möge Jehovah bestätigen Sein Wort; und das Weib blieb<note>saß</note>, und säugte ihren Sohn, bis sie ihn entwöhnte.</verse>
+        <verse osisID='1Sam.1.24'>Und sie brachte ihn mit sich hinauf, sowie sie ihn entwöhnt hatte, mit drei Farren und einem Ephah Mehl und einem Schlauche Wein, und brachte ihn nach dem Haus Jehovahs nach Schiloh, und der Junge war noch jung<note>ein Junge</note>.</verse>
+        <verse osisID='1Sam.1.25'>Und sie schlachteten den Farren, und sie brachten den Jungen zu Eli.</verse>
+        <verse osisID='1Sam.1.26'>Und sie sprach: Bitte, mein Herr! Beim Leben deiner Seele, mein Herr, ich bin das Weib, das hier bei dir gestanden, um zu Jehovah zu beten.</verse>
+        <verse osisID='1Sam.1.27'>Um den Jungen hier habe ich gebeten. Und Jehovah gab mir meine Bitte, die ich von Ihm erbeten.</verse>
+        <verse osisID='1Sam.1.28'>Und ich gewähre ihn auch Jehovah für alle Tage, die er da ist, weil er von Jehovah erbeten ist; und sie beteten daselbst Jehovah an.</verse>
+      </chapter>
+      <chapter osisID='1Sam.2'>
+        <title>Channahs Lobgesang. Elis Söhne.</title>
+        <verse osisID='1Sam.2.1'>Und Channah betete und sprach: Mein Herz jauchzt in Jehovah, erhöht ist mein Horn in Jehovah, weit ist mein Mund über meine Feinde, denn ich bin fröhlich in Deinem Heil.</verse>
+        <verse osisID='1Sam.2.2'>Keiner ist heilig wie Jehovah; denn außer Dir ist keiner, und kein Fels, wie unser Gott.</verse>
+        <verse osisID='1Sam.2.3'>Mehret es nicht! Redet Hohes, ja Hohes; Altes komme aus eurem Munde; denn ein Gott des Wissens ist Jehovah, und von Ihm werden die Handlungen gewogen.</verse>
+        <verse osisID='1Sam.2.4'>Zerbrochen ist der Bogen der Mächtigen, und die Strauchelnden umgürten sich mit Tapferkeit.</verse>
+        <verse osisID='1Sam.2.5'>Die Satten verdingen sich um Brot, und die Hungrigen hören auf, bis daß die Unfruchtbare gebiert sieben, und die mit vielen Söhnen verschmachtet.</verse>
+        <verse osisID='1Sam.2.6'>Jehovah tötet und macht lebendig, Er bringt in die Hölle hinab und Er bringt herauf.</verse>
+        <verse osisID='1Sam.2.7'>Jehovah läßt verkommen und macht reich, erniedrigt und erhöht auch,</verse>
+        <verse osisID='1Sam.2.8'>Er richtet auf den Armen aus dem Staube, aus dem Kot erhöht Er den Dürftigen, Er läßt ihn mit den Edlen sitzen, läßt sie erben den Thron der Herrlichkeit; denn des Jehovah sind die Grundfesten der Erde, und die Welt hat Er darauf gesetzt.</verse>
+        <verse osisID='1Sam.2.9'>Die Füße Seiner Heiligen wird Er behüten, die Ungerechten aber müssen stille sein in der Finsternis; denn nicht durch Kraft hat der Mann Obmacht.</verse>
+        <verse osisID='1Sam.2.10'>Zusammenbrechen werden, die mit Jehovah hadern. Über ihnen in dem Himmel wird er donnern; Jehovah rechtet mit den Enden der Erde, und Er gibt Stärke Seinem Könige, und erhöht das Horn Seines Gesalbten.</verse>
+        <verse osisID='1Sam.2.11'>Und Elkanah ging nach seinem Haus nach Ramah; und der Junge diente Jehovah vor dem Angesichte des Priesters Eli.</verse>
+        <verse osisID='1Sam.2.12'>Elis Söhne aber waren Belialssöhne, sie kannten nicht den Jehovah,</verse>
+        <verse osisID='1Sam.2.13'>Noch das Recht der Priester an das Volk. Wenn irgendein Mann ein Opfer opferte, da kam der Junge des Priesters, wann das Fleisch kochte, und die Fleischgabel mit drei Zacken in seiner Hand.</verse>
+        <verse osisID='1Sam.2.14'>Und stieß<note>schlug</note> sie in das Becken oder in den Tiegel oder in den Kessel oder in den Topf; alles, was die Gabel heraufbrachte, das nahm der Priester für sich. Also taten sie ganz Israel, das dahin nach Schiloh kam.</verse>
+        <verse osisID='1Sam.2.15'>So auch ehe sie das Fett anzündeten, da kam der Junge des Priesters und sprach zu dem Manne, der opferte: Gib Fleisch zum Braten für den Priester; denn er wird kein gekochtes Fleisch von dir nehmen, sondern rohes<note>lebendiges</note>.</verse>
+        <verse osisID='1Sam.2.16'>Und sagte ihm der Mann: Lasset das Fett diesen Tag anzünden, dann nimm dir, was deine Seele gelüstet; so sprach er zu ihm: Jetzt sollst du mir es geben, und wenn nicht, so nehme ich es mit Gewalt.</verse>
+        <verse osisID='1Sam.2.17'>Und die Sünde der Jungen ward sehr groß vor Jehovah; denn die Leute lästerten das Speiseopfer Jehovahs.</verse>
+        <verse osisID='1Sam.2.18'>Und Samuel tat Dienst vor dem Angesichte Jehovahs, und der Junge war mit dem leinenen Ephod gegürtet.</verse>
+        <verse osisID='1Sam.2.19'>Seine Mutter aber machte ihm ein kleines Oberkleid, und brachte ihm dasselbe von Jahr zu Jahr<note>von Tagen zu Tagen</note> hinauf, wenn sie mit ihrem Manne hinaufging, das jährliche Opfer<note>das Opfer der Tage</note> zu opfern.</verse>
+        <verse osisID='1Sam.2.20'>Und Eli segnete Elkanah und sein Weib und sprach: Jehovah gebe<note>setze</note> dir Samen von diesem Weibe für das Geborgte, das sie dem Jehovah geborgt; und sie gingen an ihren Ort.</verse>
+        <verse osisID='1Sam.2.21'>Und Jehovah suchte Channah heim, und sie empfing und gebar drei Söhne und zwei Töchter. Und der junge Samuel wurde groß bei Jehovah.</verse>
+        <verse osisID='1Sam.2.22'>Und Eli war sehr alt und hörte alles, was seine Söhne taten an ganz Israel, und daß sie lagen bei den Weibern, die ausrückten an den Eingang des Versammlungszeltes.</verse>
+        <verse osisID='1Sam.2.23'>Und er sprach zu ihnen: Warum tut ihr solche Dinge<note>nach solchen Worten</note>? Böse Dinge<note>Worte</note> höre ich von euch von diesem ganzen Volke.</verse>
+        <verse osisID='1Sam.2.24'>Nicht doch, meine Söhne, denn nicht gut ist das Gerücht, das ich höre, wie ihr das Volk Jehovahs überschreiten macht.</verse>
+        <verse osisID='1Sam.2.25'>So ein Mann sich gegen einen Mann versündigt, so mag er<note>d.i. der Priester</note> für ihn beten zu Gott; wenn aber ein Mann wider Jehovah sündigt, wer wird beten für ihn? Aber sie hörten nicht auf die Stimme ihres Vaters, denn Jehovah hatte Lust, sie zu töten.</verse>
+        <verse osisID='1Sam.2.26'>Und der junge Samuel ging hin und wurde groß und gut, sowohl bei Jehovah, als auch bei den Leuten.</verse>
+        <verse osisID='1Sam.2.27'>Und es kam ein Mann Gottes zu Eli und sprach zu ihm: So spricht Jehovah: Habe Ich Mich geoffenbart dem Hause deines Vaters, da sie in Ägypten bei dem Hause Pharaos waren?</verse>
+        <verse osisID='1Sam.2.28'>Und habe ihn Mir zum Priester erwählt aus allen Stämmen<note>Ruten</note> Israels, daß er heraufsteige zu Meinem Altar, daß er anzünde das Räuchwerk, daß er trage das Ephod vor Mir; und Ich gab dem Hause deines Vaters alle Feueropfer der Söhne Israels.</verse>
+        <verse osisID='1Sam.2.29'>Warum habt ihr ausgeschlagen wider Mein Schlachtopfer und wider Mein Speiseopfer, die Ich geboten habe in Meiner Wohnstätte, und hast deine Söhne mehr denn Mich verherrlicht, indem ihr euch mästet von dem Erstlinge alles Speiseopfers Meines Volkes Israel?</verse>
+        <verse osisID='1Sam.2.30'>Darum sagt Jehovah, der Gott Israels: Ich habe gesprochen<note>sprechend gesprochen</note>: Dein Haus und deines Vaters Haus sollen wandeln vor Mir ewiglich. Jetzt aber sagt Jehovah: Ferne sei es von Mir, denn die Mich verherrlichen, werde Ich verherrlichen, aber die Mich verachten, sollen gering geachtet werden.</verse>
+        <verse osisID='1Sam.2.31'>Siehe, die Tage kommen, da Ich abhaue deinen Arm und den Arm von deines Vaters Haus, so daß nicht sei ein Alter in deinem Hause;</verse>
+        <verse osisID='1Sam.2.32'>Und du sollst den Dränger der Wohnstätte erblicken in allem, da Er Israel Gutes tut. Und kein Alter soll all die Tage in deinem Hause sein.</verse>
+        <verse osisID='1Sam.2.33'>Doch rotte Ich dir nicht jeden Mann von Meinem Altare aus, daß deine Augen sich verzehren und deine Seele vergehe; aber aller Zuwachs deines Hauses, sie sollen als Männer sterben.</verse>
+        <verse osisID='1Sam.2.34'>Und dies soll dir das Zeichen sein, das kommen wird über deine zwei Söhne, über Chophni und Pinechas; an einem Tage sollen sie beide sterben.</verse>
+        <verse osisID='1Sam.2.35'>Und Ich will einen treuen Priester mir erstehen lassen, der nach dem, was in Meinem Herzen und in Meiner Seele ist, tut; und ihm will Ich ein treues Haus bauen, daß er vor Meinem Gesalbten alle Tage wandeln wird.</verse>
+        <verse osisID='1Sam.2.36'>Und es soll geschehen, daß, wer in deinem Hause überbleibt, komme und vor ihm niederfalle um eine silberne Münze und einen Laib Brot, und spreche: Laß mich teilhaben an einem der Priesterämter, daß ich einen Bissen Brot esse.</verse>
+      </chapter>
+      <chapter osisID='1Sam.3'>
+        <title>Samuels Berufung.</title>
+        <verse osisID='1Sam.3.1'>Und der junge Samuel tat Dienst dem Jehovah vor Eli; und das Wort Jehovahs ward kostbar in jenen Tagen; kein Gesichte ward verbreitet<note>hervorgebrochen</note>.</verse>
+        <verse osisID='1Sam.3.2'>Und es geschah an selbigem Tage, daß Eli lag an seinem Orte, und seine Augen fingen an, trübe zu werden, so daß er nicht sehen konnte.</verse>
+        <verse osisID='1Sam.3.3'>Und die Lampe Gottes war noch nicht erloschen, und Samuel lag im Tempel Jehovahs, wo die Lade Gottes war.</verse>
+        <verse osisID='1Sam.3.4'>Und Jehovah rief dem Samuel, und er sprach: Siehe, hier bin ich;</verse>
+        <verse osisID='1Sam.3.5'>Und lief zu Eli und sprach: Siehe, hier bin ich! Denn du hast mich gerufen. Er aber sprach: Ich habe nicht gerufen, gehe zurück, lege dich. Und er ging und legte sich.</verse>
+        <verse osisID='1Sam.3.6'>Und Jehovah rief noch abermals<note>fügte hinzu zu rufen</note>: Samuel! Und Samuel stand auf und ging zu Eli und sprach: Siehe, hier bin ich, denn du hast mich gerufen. Er aber sprach: Ich habe nicht gerufen, mein Sohn, geh zurück und lege dich.</verse>
+        <verse osisID='1Sam.3.7'>Und Samuel hatte Jehovah noch nicht gekannt, und Jehovahs Wort war ihm noch nicht geoffenbart.</verse>
+        <verse osisID='1Sam.3.8'>Und Jehovah rief wiederum<note>fügte hinzu zu rufen</note>: Samuel! Zum dritten Mal. Und er stand auf und ging zu Eli und sprach: Siehe, hier bin ich, denn du hast mich gerufen. Und Eli verstand, daß Jehovah dem Jungen rief;</verse>
+        <verse osisID='1Sam.3.9'>Und Eli sprach zu Samuel: Gehe, lege dich, und soll sein, wenn Er dir ruft, so sprich: Rede, Jehovah, denn dein Knecht hört. Und Samuel ging hin und legte sich an seinen Ort.</verse>
+        <verse osisID='1Sam.3.10'>Und Jehovah kam und stellte Sich hin und rief, diesmal wie das vorige Mal: Samuel! Samuel! Und Samuel sprach: Rede, denn Dein Knecht hört.</verse>
+        <verse osisID='1Sam.3.11'>Und Jehovah sprach zu Samuel: Siehe, Ich tue ein Ding<note>Wort</note> in Israel, daß jedem, der es hört, die beiden Ohren gellen.</verse>
+        <verse osisID='1Sam.3.12'>An selbigem Tage lasse Ich über Eli erstehen alles, was Ich über sein Haus geredet habe, anfangend und vollendend.</verse>
+        <verse osisID='1Sam.3.13'>Und habe ihm angesagt, daß Ich sein Haus will richten ewiglich ob der Missetat, weil er wußte, daß seine Söhne den Fluch über sich brachten, und er ihnen nicht wehrte<note>es trübte</note>.</verse>
+        <verse osisID='1Sam.3.14'>Und darum habe Ich geschworen Elis Hause, daß nicht gesühnt soll werden die Missetat von Elis Haus durch Schlachtopfer und Speiseopfer bis in die Ewigkeit.</verse>
+        <verse osisID='1Sam.3.15'>Und Samuel lag bis zum Morgen und öffnete die Türen am Hause Jehovahs. Und Samuel fürchtete sich, Eli die Erscheinung anzusagen.</verse>
+        <verse osisID='1Sam.3.16'>Und Eli rief dem Samuel und sprach: Samuel, mein Sohn! Und er sprach: Siehe, hier bin ich.</verse>
+        <verse osisID='1Sam.3.17'>Und er sprach: Was ist das Wort, das Er zu dir geredet hat, verhehle es doch nicht vor mir? So tue dir Gott, und also fahre Er fort, wenn du mir verhehlst ein Wort von allem Worte, das Er zu dir geredet hat.</verse>
+        <verse osisID='1Sam.3.18'>Und Samuel sagte ihm alle die Worte an und verhehlte sie ihm nicht. Und er sprach: Jehovah ist es, Er tue, was gut in Seinen Augen ist.</verse>
+        <verse osisID='1Sam.3.19'>Und Samuel wurde groß, und Jehovah war mit ihm, und er ließ keines Seiner Worte zur Erde fallen.</verse>
+        <verse osisID='1Sam.3.20'>Und ganz Israel von Dan bis Beerscheba wußte, daß Samuel bewährt war als der Prophet Jehovahs.</verse>
+        <verse osisID='1Sam.3.21'>Und Jehovah fuhr fort zu erscheinen in Schiloh; denn Jehovah offenbarte Sich dem Samuel in Schiloh durch Jehovahs Wort. Und Samuels Wort erging an ganz Israel.</verse>
+      </chapter>
+      <chapter osisID='1Sam.4'>
+        <title>Niederlage Israels. Entführung der Bundeslade. Elis und seiner Söhne Tod.</title>
+        <verse osisID='1Sam.4.1'>Und Israel zog aus, den Philistern entgegen, zum Streit, und lagerte bei Ebeneser; und die Philister lagerten sich in Aphek.</verse>
+        <verse osisID='1Sam.4.2'>Und die Philister stellten sich auf, und der Streit breitete sich aus, und Israel ward vor den Philistern geschlagen, und sie erschlugen ihrer in der Schlachtreihe auf dem Felde bei viertausend Mann.</verse>
+        <verse osisID='1Sam.4.3'>Und das Volk kam in das Lager und die Ältesten Israels sprachen: Warum hat uns Jehovah heute vor den Philistern geschlagen? Lasset uns die Bundeslade Jehovahs von Schiloh zu uns holen, daß sie in unsere Mitte komme und uns rette von der Faust unserer Feinde.</verse>
+        <verse osisID='1Sam.4.4'>Und das Volk sandte gen Schiloh, und sie trugen von da die Bundeslade des Jehovah der Heerscharen her, Der über den Cheruben sitzt; und es waren allda Elis zwei Söhne bei der Bundeslade Gottes, Chophni und Pinechas.</verse>
+        <verse osisID='1Sam.4.5'>Und es geschah, als die Bundeslade Jehovahs in das Lager kam, erhob ganz Israel ein großes Feldgeschrei, so daß die Erde dröhnte.</verse>
+        <verse osisID='1Sam.4.6'>Und die Philister hörten die Stimme des Feldgeschreis und sprachen: Was soll die Stimme solch großen Feldgeschreis im Lager der Hebräer? Und sie erfuhren<note>wußten</note>, daß die Lade Jehovahs in das Lager gekommen sei.</verse>
+        <verse osisID='1Sam.4.7'>Und die Philister fürchteten sich, denn sie sprachen: Gott ist zum Lager gekommen, und sie sagten: Wehe uns! So etwas war nicht gestern und ehegestern.</verse>
+        <verse osisID='1Sam.4.8'>Wehe uns, wer wird uns erretten von der Hand dieser gewaltigen Götter; das sind die Götter, die Ägypten mit allerlei Plagen in der Wüste geschlagen.</verse>
+        <verse osisID='1Sam.4.9'>Seid wacker und seid Männer, ihr Philister, daß ihr nicht den Hebräern dient, wie sie euch gedient; seid Männer und streitet.</verse>
+        <verse osisID='1Sam.4.10'>Und die Philister stritten, und Israel ward geschlagen und sie flohen, jeder Mann nach seinem Zelt, und es war eine sehr große Schlacht; und von Israel fielen dreißigtausend vom Fußvolk.</verse>
+        <verse osisID='1Sam.4.11'>Und die Lade Gottes ward genommen, und die zwei Söhne Elis, Chophni und Pinechas, starben.</verse>
+        <verse osisID='1Sam.4.12'>Und ein Mann von Benjamin lief aus der Schlachtreihe und kam an selbigem Tage gen Schiloh, und seine Obergewänder waren zerrissen und Erde<note>Boden</note> auf sein Haupt gestreut.</verse>
+        <verse osisID='1Sam.4.13'>Und er kam, und siehe, Eli saß auf dem Stuhle an der Seite<note>Hand</note> des Weges und spähte; denn sein Herz erzitterte ob der Lade Gottes. Und der Mann kam hinein, es in der Stadt anzusagen, und die ganze Stadt schrie.</verse>
+        <verse osisID='1Sam.4.14'>Und Eli hörte die Stimme des Geschreis und er sprach: Was soll die Stimme dieses Getümmels? Und der Mann eilte herzu und kam und sagte es Eli an.</verse>
+        <verse osisID='1Sam.4.15'>Und Eli war ein Mann<note>Sohn</note> von achtundneunzig Jahren, und seine Augen waren starr, daß er nicht mehr sehen konnte.</verse>
+        <verse osisID='1Sam.4.16'>Und der Mann sprach zu Eli: Ich bin aus der Schlachtreihe gekommen, und ich bin heute aus der Schlachtreihe geflohen. Und er sprach: Wie war die Sache, mein Sohn?</verse>
+        <verse osisID='1Sam.4.17'>Und es antwortete, der die Kunde brachte, und sprach: Israel ist vor den Philistern geflohen, und es war ein großes Schlachten unter dem Volke, und auch deine beiden Söhne, Chophni und Pinechas, sind tot, und die Lade Gottes ist genommen.</verse>
+        <verse osisID='1Sam.4.18'>Und es geschah, als er die Lade Gottes erwähnte, da fiel er<note>d.i. Eli</note> rückwärts vom Stuhle an der Seite<note>Hand</note> des Tores, und brach das Genick und starb; denn der Mann war alt und schwer. Und er hatte Israel vierzig Jahre gerichtet.</verse>
+        <verse osisID='1Sam.4.19'>Und seine Schwiegertochter, des Pinechas Weib, war schwanger und am Gebären, und da sie das Gerücht hörte, daß die Lade Gottes genommen, und ihr Schwäher und ihr Mann tot wären, krümmte sie sich und gebar; denn Wehen hatten sich wider sie gekehrt.</verse>
+        <verse osisID='1Sam.4.20'>Und zur Zeit ihres Sterbens sprachen zu ihr, die um sie standen: Fürchte dich nicht, denn du hast einen Sohn geboren. Aber sie antwortete nicht und nahm es sich nicht zu Herzen.</verse>
+        <verse osisID='1Sam.4.21'>Und sie nannte den Jungen I-Chabod<note>d.h. Wo ist die Herrlichkeit?</note> und sprach: Die Herrlichkeit ist weggeführt von Israel, weil die Lade Gottes genommen war; und ihres Schwähers und ihres Mannes wegen.</verse>
+        <verse osisID='1Sam.4.22'>Und sie sprach: Die Herrlichkeit ist von Israel weggeführt; denn die Lade Gottes ist genommen.</verse>
+      </chapter>
+      <chapter osisID='1Sam.5'>
+        <title>Die Bundeslade in Dagons Tempel. - Plage der Philister.</title>
+        <verse osisID='1Sam.5.1'>Und die Philister nahmen die Lade Gottes und brachten sie von Ebeneser nach Aschdod hinein.</verse>
+        <verse osisID='1Sam.5.2'>Und die Philister nahmen die Lade Gottes und brachten sie in Dagons Haus und stellten sie neben Dagon.</verse>
+        <verse osisID='1Sam.5.3'>Und die Aschdoder standen früh am morgenden Tage auf, und siehe, da war Dagon auf sein Gesicht zur Erde gefallen vor der Lade Jehovahs, und sie nahmen Dagon und brachten ihn zurück an seinen Platz.</verse>
+        <verse osisID='1Sam.5.4'>Und am morgenden Tag standen sie früh am Morgen auf, und siehe, Dagon war auf sein Gesicht zur Erde gefallen vor der Lade Jehovahs, und der Kopf Dagons und seine beiden Hände<note>die zwei holen Hände seiner Hände</note> abgehauen auf der Schwelle. Nur Dagon<note>d.h. der Fischrumpf</note> verblieb.</verse>
+        <verse osisID='1Sam.5.5'>Darum treten die Priester Dagons und alle, die in Dagons Haus eingehen, bis auf diesen Tag in Aschdod nicht auf Dagons Schwelle.</verse>
+        <verse osisID='1Sam.5.6'>Und die Hand Jehovahs ward schwer über denen zu Aschdod, und Er verwüstete sie und schlug sie mit Pestbeulen, Aschdod und seine Grenzen.</verse>
+        <verse osisID='1Sam.5.7'>Und die Männer von Aschdod sahen, daß ihnen also geschah, und sprachen: Die Lade des Gottes Israels darf nicht bei uns bleiben<note>sitzen</note>; denn hart ist Seine Hand über uns und über Dagon, unserem Gott.</verse>
+        <verse osisID='1Sam.5.8'>Und sie sandten hin und versammelten alle Fürsten der Philister zu sich und sprachen: Was sollen wir mit der Lade des Gottes Israels machen? Und sie sprachen: Man bringe die Lade des Gottes Israels hinüber nach Gath. Und sie brachten die Lade des Gottes Israels dahin.</verse>
+        <verse osisID='1Sam.5.9'>Und es geschah, nachdem sie dieselbe hinübergebracht hatten, war die Hand Jehovahs wider die Stadt mit einer sehr großen Verwirrung, und Er schlug die Männer der Stadt vom kleinen bis zum großen, und es brachen an ihnen Pestbeulen aus.</verse>
+        <verse osisID='1Sam.5.10'>Und sie sandten die Lade Gottes gen Ekron; und es geschah, als die Lade Gottes nach Ekron kam, schrien die Ekroniter und sprachen: Sie brachten zu mir herüber die Lade des Gottes Israels, um mich und mein Volk zu töten!</verse>
+        <verse osisID='1Sam.5.11'>Und sie sandten und versammelten alle Fürsten der Philister und sprachen: Sendet die Lade des Gottes Israels hinweg, daß sie wieder an ihren Ort zurückkehre, und nicht töte mich und mein Volk; denn es war eine Verwirrung des Todes in der ganzen Stadt, sehr schwer war da die Hand Gottes,</verse>
+        <verse osisID='1Sam.5.12'>Und die Männer, die nicht starben, wurden mit Pestbeulen geschlagen, und der Angstschrei der Stadt stieg zum Himmel auf.</verse>
+      </chapter>
+      <chapter osisID='1Sam.6'>
+        <title>Die Bundeslade kehrt zurück. - Schuldopfer der Philister.</title>
+        <verse osisID='1Sam.6.1'>Und die Lade Jehovahs war sieben Monate im Gefilde der Philister.</verse>
+        <verse osisID='1Sam.6.2'>Und die Philister riefen die Priester und die Wahrsager und sprachen: Was sollen wir mit der Lade Jehovahs machen? Lasset uns wissen, womit wir sie an ihren Ort senden sollen.</verse>
+        <verse osisID='1Sam.6.3'>Und sie sprachen: Wenn ihr die Lade des Gottes Israels entsendet, so entsendet sie nicht leer, sondern gebt ja ein Schuldopfer zurück. Dann werdet ihr geheilt und es wird euch zu wissen getan, warum Seine Hand nicht von euch abwich.</verse>
+        <verse osisID='1Sam.6.4'>Und sie sprachen: Welches ist das Schuldopfer, das wir Ihm zurückgeben sollen? Und sie sprachen: Nach der Zahl der Fürsten der Philister fünf goldene Pestbeulen und fünf goldene Mäuse, denn die Plage ist die eine für sie alle und für eure Fürsten.</verse>
+        <verse osisID='1Sam.6.5'>Und machet Bilder eurer Pestbeulen und Bilder eurer Mäuse, die das Land verdarben, und gebt die Herrlichkeit dem Gott Israels. Vielleicht macht Er Seine Hand leichter über euch und über eure Götter und über euer Land.</verse>
+        <verse osisID='1Sam.6.6'>Warum wollt ihr euer Herz verstocken<note>schwer machen</note>, wie die Ägypter und Pharao ihr Herz verstockt<note>schwer machten</note>; mußten sie nicht, da Er es ihnen antat, dieselben entlassen, so daß sie hingingen?</verse>
+        <verse osisID='1Sam.6.7'>Und nun nehmet und machet einen neuen Wagen und zwei säugende Kühe, auf die noch kein Joch gekommen, und spannt<note>bindet</note> die Kühe an den Wagen und bringt ihre Kälber<note>Söhne</note> hinter ihnen weg, zurück nach Hause.</verse>
+        <verse osisID='1Sam.6.8'>Und nehmt die Lade Jehovahs und gebt sie hin auf den Wagen, und die goldenen Geräte, die ihr Ihm als Schuldopfer zurückgebt, tut in ein Kästchen ihr zur Seite und entsendet denselben, daß er gehe.</verse>
+        <verse osisID='1Sam.6.9'>Und seht, wenn derselbe auf dem Wege nach seiner Grenze hinaufzieht nach Bethschemesch, so hat Er uns dieses große Übel getan, aber wo nicht, so wissen wir, daß nicht Seine Hand uns gerührt, sondern es ein Zufall bei uns gewesen ist.</verse>
+        <verse osisID='1Sam.6.10'>Und die Männer taten also, und nahmen zwei säugende Kühe und spannten<note>banden</note> sie an den Wagen und ihre Kälber<note>Söhne</note> sperrten sie zu Hause ein.</verse>
+        <verse osisID='1Sam.6.11'>Und sie setzten die Lade Jehovahs auf den Wagen, und das Kästchen und die goldenen Mäuse und die Bilder ihrer Darmknoten.</verse>
+        <verse osisID='1Sam.6.12'>Und die Kühe gingen geraden Weges auf dem Weg nach Bethschemesch; auf der einen Heerstraße gingen sie, sie gingen und blökten und wichen weder rechts noch links ab. Und die Fürsten der Philister gingen hinter ihnen her bis an die Grenze von Bethschemesch.</verse>
+        <verse osisID='1Sam.6.13'>Und die von Bethschemesch ernteten die Weizenernte ein im Talgrunde, und sie hoben ihre Augen auf und sie sahen die Lade, und wurden fröhlich, als sie sie sahen.</verse>
+        <verse osisID='1Sam.6.14'>Und der Wagen kam auf das Feld des Bethschemiters Joschua und blieb dort stehen; und daselbst war ein großer Stein; und sie spalteten das Holz des Wagens und opferten die Kühe auf als Brandopfer dem Jehovah.</verse>
+        <verse osisID='1Sam.6.15'>Und die Leviten ließen die Lade Jehovahs und das Kästchen bei ihr, in welchem die goldenen Geräte waren, herab, und setzten sie auf den großen Stein. Und die Männer von Bethschemesch opferten Brandopfer auf, und opferten dem Jehovah an selbigem Tage Schlachtopfer.</verse>
+        <verse osisID='1Sam.6.16'>Und die fünf Fürsten der Philister sahen es und kehrten an demselben Tag nach Ekron zurück.</verse>
+        <verse osisID='1Sam.6.17'>Und dies sind die Darmknoten von Gold, welche die Philister dem Jehovah als Schuldopfer zurückbrachten: einen für Aschdod, einen für Gassah, einen für Aschkelon, einen für Gath, einen für Ekron.</verse>
+        <verse osisID='1Sam.6.18'>Und die goldenen Mäuse waren nach der Zahl aller Städte der Philister unter den fünf Fürsten von der festen Stadt an und bis zum Dorf auf offenem Land, und bis zum großen Stein Abel, auf den sie die Lade Jehovahs niedergelassen in dem Felde des Bethschemiters Joschua bis auf diesen Tag.</verse>
+        <verse osisID='1Sam.6.19'>Und Er schlug unter den Männern von Bethschemesch solche, die in die Lade Jehovahs gesehen hatten, und Er schlug im Volke fünfzigtausend und siebzig Mann<note>siebzig Mann, fünfzigtausend Mann</note>. Und das Volk trauerte, daß Jehovah in dem Volke einen großen Schlag geschlagen.</verse>
+        <verse osisID='1Sam.6.20'>Und die Männer von Bethschemesch sprachen: Wer kann stehen vor Jehovah, diesem heiligen Gott, und zu wem soll sie von uns hinaufziehen?</verse>
+        <verse osisID='1Sam.6.21'>Und sie sandten Boten zu den Einwohnern von Kirjath-Jearim und sprachen: Die Philister haben die Lade Jehovahs zurückgebracht, kommt herab und holt sie zu euch hinauf.</verse>
+      </chapter>
+      <chapter osisID='1Sam.7'>
+        <title>Israel siegt über die Philister. - Stein der Hilfe. Samuel als Richter.</title>
+        <verse osisID='1Sam.7.1'>Und die Männer von Kirjath-Jearim kamen und holten die Lade Jehovahs hinauf und brachten sie hinein zum Haus Abinadabs in Gibeah und heiligten Eleasar, dessen Sohn, daß er die Lade Jehovahs hütete.</verse>
+        <verse osisID='1Sam.7.2'>Und es geschah von dem Tage an, da die Lade in Kirjath-Jearim blieb, wurden die Tage viel, und es waren zwanzig Jahre; und das ganze Haus Israel klagte hinter Jehovah her.</verse>
+        <verse osisID='1Sam.7.3'>Und Samuel sprach zu dem ganzen Hause Israel und sagte: Wenn ihr von ganzem Herzen zu Jehovah zurückkehrt, so nehmt die Götter der Fremde und die Aschtharoth aus eurer Mitte weg und richtet euer Herz auf Jehovah und dienet Ihm allein, und Er wird euch aus der Hand der Philister erretten.</verse>
+        <verse osisID='1Sam.7.4'>Und die Söhne Israels nahmen die Baalim und die Aschtharoth weg und dienten allein dem Jehovah.</verse>
+        <verse osisID='1Sam.7.5'>Und Samuel sprach: Bringt zusammen ganz Israel nach Mizpah, daß ich für euch zu Jehovah bete.</verse>
+        <verse osisID='1Sam.7.6'>Und sie kamen zusammen nach Mizpah und schöpften Wasser und gossen es aus vor Jehovah, und fasteten an selbigem Tage und sprachen allda: Wir haben gesündigt gegen Jehovah. Und Samuel richtete die Söhne Israels in Mizpah.</verse>
+        <verse osisID='1Sam.7.7'>Und die Philister hörten, daß die Söhne Israels in Mizpah zusammengekommen, und die Fürsten der Philister zogen hinauf wider Israel. Und die Söhne Israels hörten es und fürchteten sich vor den Philistern.</verse>
+        <verse osisID='1Sam.7.8'>Und die Söhne Israels sprachen zu Samuel: Schweig nicht still für uns, sondern schreie zu Jehovah, unserem Gott, daß Er uns aus der Hand der Philister rette.</verse>
+        <verse osisID='1Sam.7.9'>Und Samuel nahm ein Milchlämmlein und opferte es auf als ganzes Brandopfer dem Jehovah, und Samuel schrie zu Jehovah für Israel, und Jehovah antwortete ihm.</verse>
+        <verse osisID='1Sam.7.10'>Und als Samuel das Brandopfer aufopferte, traten die Philister herzu zum Streite wider Israel, und Jehovah donnerte mit großer Stimme an selbigem Tage über die Philister und brachte Verwirrung unter sie, so daß sie vor Israel geschlagen wurden.</verse>
+        <verse osisID='1Sam.7.11'>Und die Männer Israels zogen von Mizpah aus und setzten den Philistern nach und schlugen sie bis unter Beth-Kar.</verse>
+        <verse osisID='1Sam.7.12'>Und Samuel nahm einen Stein und setzte ihn zwischen Mizpah und Schen und nannte seinen Namen Eben-Haeser, und sprach: Bis hierher ist uns Jehovah beigestanden.</verse>
+        <verse osisID='1Sam.7.13'>Und die Philister wurden gebeugt und kamen nicht mehr<note>fügten nicht hinzu zu kommen</note> in die Grenze von Israel, und die Hand Jehovahs war wider die Philister alle Tage Samuels.</verse>
+        <verse osisID='1Sam.7.14'>Und die Städte, welche die Philister von Israel genommen hatten, kamen zurück an Israel von Ekron bis Gath, und ihre Grenze errettete Israel aus der Hand der Philister. Und es war Friede zwischen Israel und dem Amoriter.</verse>
+        <verse osisID='1Sam.7.15'>Und Samuel richtete Israel alle Tage seines Lebens;</verse>
+        <verse osisID='1Sam.7.16'>Und er ging von Jahr zu Jahr und zog umher nach Bethel und Gilgal und Mizpah und richtete Israel an allen diesen Orten.</verse>
+        <verse osisID='1Sam.7.17'>Und kehrte dann nach Ramah zurück; denn dort war sein Haus; und daselbst richtete er Israel und baute daselbst Jehovah einen Altar.</verse>
+      </chapter>
+      <chapter osisID='1Sam.8'>
+        <title>Israel begehrt einen König.</title>
+        <verse osisID='1Sam.8.1'>Und es geschah, da Samuel alt war, da setzte er seine Söhne zu Richtern für Israel.</verse>
+        <verse osisID='1Sam.8.2'>Und der Name seines erstgeborenen Sohnes war Joel und der Name seines zweiten Abijah; sie richteten in Beerscheba.</verse>
+        <verse osisID='1Sam.8.3'>Und seine Söhne wandelten nicht in seinem Wege, sondern neigten sich dem Gewinn nach und nahmen Geschenke an und beugten das Recht.</verse>
+        <verse osisID='1Sam.8.4'>Und alle Ältesten Israels taten sich zusammen und kamen zu Samuel nach Ramah.</verse>
+        <verse osisID='1Sam.8.5'>Und sprachen zu ihm: Siehe, du bist alt geworden, und deine Söhne wandeln nicht in deinen Wegen; nun setze du uns einen König, daß er uns richte, wie alle Völkerschaften.</verse>
+        <verse osisID='1Sam.8.6'>Und dieses Wort war böse in den Augen Samuels, als sie sagten: Gib uns einen König, daß er uns richte! Und Samuel betete zu Jehovah.</verse>
+        <verse osisID='1Sam.8.7'>Und Jehovah sprach zu Samuel: Höre auf die Stimme des Volkes in allem, was sie zu dir sagen; denn nicht dich haben sie verschmäht, sondern Mich haben sie verschmäht, daß Ich nicht über sie sollte König sein.</verse>
+        <verse osisID='1Sam.8.8'>Nach all den Taten, die sie getan von dem Tage an, da Ich sie aus Ägypten heraufgeführt, und bis auf diesen Tag, da sie Mich verließen und anderen Göttern dienten, also tun sie auch dir.</verse>
+        <verse osisID='1Sam.8.9'>Und nun höre auf ihre Stimme, nur daß du ihnen bezeugst<note>bezeugend bezeugst</note> und ihnen ansagst das Recht des Königs, der über sie regieren wird.</verse>
+        <verse osisID='1Sam.8.10'>Und Samuel sprach alle Worte Jehovahs zum Volk, das von ihm einen König sich erbat.</verse>
+        <verse osisID='1Sam.8.11'>Und sagte: Dies wird das Recht des Königs sein, der über euch regieren wird: Eure Söhne wird er nehmen und sie auf seine Streitwagen setzen und zu seinen Reitern, und sie werden vor seinen Streitwagen herlaufen.</verse>
+        <verse osisID='1Sam.8.12'>Und er wird sie sich zu Obersten über tausend und zu Obersten über fünfzig setzen, und sie sein Ackerfeld pflügen und seine Ernte einernten und seine Kriegsgeräte und Geräte für seine Streitwagen machen lassen.</verse>
+        <verse osisID='1Sam.8.13'>Und eure Töchter wird er nehmen zu Salbenmischerinnen und zu Köchinnen und zu Bäckerinnen.</verse>
+        <verse osisID='1Sam.8.14'>Und eure besten Felder und eure Weinberge und eure Ölgärten wird er nehmen und seinen Knechten geben.</verse>
+        <verse osisID='1Sam.8.15'>Und eure Saaten und eure Weinberge wird er zehnten und an seine Verschnittenen und an seine Knechte geben.</verse>
+        <verse osisID='1Sam.8.16'>Und eure besten Knechte und eure Dienstmägde und eure Jünglinge und eure Esel wird er nehmen und damit sein Werk tun.</verse>
+        <verse osisID='1Sam.8.17'>Euer Kleinvieh wird er zehnten, und ihr werdet seine Knechte sein.</verse>
+        <verse osisID='1Sam.8.18'>Und ihr werdet an selbigem Tage schreien wegen eures Königs, den ihr euch erwählt, aber Jehovah wird euch nicht antworten an selbigem Tag.</verse>
+        <verse osisID='1Sam.8.19'>Aber das Volk weigerte sich, auf die Stimme Samuels zu hören, und sie sprachen: Nein, ein König soll über uns sein;</verse>
+        <verse osisID='1Sam.8.20'>Auf daß auch wir seien wie alle Völkerschaften, und uns richte unser König, und vor uns ausziehe und unseren Streit streite.</verse>
+        <verse osisID='1Sam.8.21'>Und Samuel hörte alle Worte des Volkes und redete sie vor den Ohren Jehovahs.</verse>
+        <verse osisID='1Sam.8.22'>Und Jehovah sprach zu Samuel: Höre auf ihre Stimme, und laß einen König regieren über sie. Und Samuel sprach zu den Männern Israels: Gehet hin, jeder Mann in seine Stadt.</verse>
+      </chapter>
+      <chapter osisID='1Sam.9'>
+        <title>Saul zum König bestimmt.</title>
+        <verse osisID='1Sam.9.1'>Und es war ein Mann aus Benjamin, und sein Name Kisch, der Sohn Abiels, des Sohnes Zerors, des Sohnes Bechorath, des Sohnes Aphiach, des Sohnes eines Mannes aus Benjamin, ein tapferer Held.</verse>
+        <verse osisID='1Sam.9.2'>Und der hatte einen Sohn, und sein Name war Saul. Der war ein Jüngling und gut, und kein Mann aus den Söhnen Israels war besser als er; von seiner Schulter an und aufwärts war er höher denn alles Volk.</verse>
+        <verse osisID='1Sam.9.3'>Und dem Kisch, Sauls Vater, waren die Eselinnen verlorengegangen, und Kisch sprach zu seinem Sohne Saul: Nimm doch mit dir einen von den Jungen und mache dich auf, gehe, suche die Eselinnen.</verse>
+        <verse osisID='1Sam.9.4'>Und er durchzog das Gebirge Ephraim und durchzog das Land Schalischah, und sie fanden sie nicht; und sie durchzogen das Land Schaalim, und sie waren nicht da; und er ging durch das Land Jemini, und sie fanden sie nicht.</verse>
+        <verse osisID='1Sam.9.5'>Sie kamen in das Land Zuph und Saul sprach zu seinem Jungen, der mit ihm war: Komm und laß uns zurückkehren, daß nicht mein Vater abläßt<note>aufhört</note> von den Eselinnen und um uns besorgt ist.</verse>
+        <verse osisID='1Sam.9.6'>Der aber sprach zu ihm: Siehe doch, ein Mann Gottes ist in der Stadt da, und der Mann wird geehrt<note>verherrlicht</note>; laß uns nun dahin gehen, kommt<note>kommt, kommend</note>; laß uns nun dahin gehen, vielleicht sagt er uns unseren Weg an, auf dem wir gehen müssen.</verse>
+        <verse osisID='1Sam.9.7'>Und Saul sprach zu seinem Jungen: Aber siehe, wollen wir hingehen, was bringen wir dem Manne? Denn das Brot ist aus unseren Gefäßen ausgegangen und wir haben kein Geschenk, das wir dem Manne Gottes bringen; was haben wir bei uns?</verse>
+        <verse osisID='1Sam.9.8'>Und der Junge antwortete wieder<note>fuhr fort zu antworten</note> dem Saul und sprach: Siehe, es findet sich in meiner Hand ein Viertelschekel Silbers, und den will ich dem Manne Gottes geben, daß er uns unseren Weg ansage.</verse>
+        <verse osisID='1Sam.9.9'>Vordem sagte der Mann in Israel, wenn er ging, Gott zu befragen: Kommt, laßt uns zum Seher gehen; denn den heutigen Propheten nannte man vordem Seher.</verse>
+        <verse osisID='1Sam.9.10'>Und Saul sprach zu seinem Jungen: Dein Wort ist gut; komm, laß uns gehen! Und sie gingen nach der Stadt, da der Mann Gottes war.</verse>
+        <verse osisID='1Sam.9.11'>Wie sie die Steige der Stadt hinaufgingen, fanden sie Mädchen, die herauskamen, Wasser zu schöpfen, und sie sprachen zu ihnen: Ist der Seher hier?</verse>
+        <verse osisID='1Sam.9.12'>Und sie antworteten ihnen und sprachen: Ja, siehe, da vor dir. Eile nun, denn heute ist er nach der Stadt gekommen, weil heute das Volk ein Opfer hat auf der Höhe.</verse>
+        <verse osisID='1Sam.9.13'>Wenn ihr zur Stadt kommt, so findet ihr ihn noch, ehe er auf die Höhe hinaufgeht, zu essen; denn das Volk ißt nicht, bis er kommt, weil er das Opfer segnet; danach essen die Geladenen; und nun geht hinauf, denn heute findet ihr ihn.</verse>
+        <verse osisID='1Sam.9.14'>Und sie gingen hinauf in die Stadt, und sie waren in die Mitte der Stadt gekommen; und siehe, Samuel kam heraus, ihnen entgegen, um auf die Höhe hinaufzugehen.</verse>
+        <verse osisID='1Sam.9.15'>Und Jehovah hatte dem Samuel einen Tag vor Sauls Ankunft ins Ohr geoffenbart und gesagt:</verse>
+        <verse osisID='1Sam.9.16'>Um diese Zeit morgen werde Ich einen Mann aus dem Lande Benjamin zu dir senden, und du sollst ihn salben zu einem Führer über Mein Volk Israel, auf daß er Mein Volk von der Philister Hand rette; denn Ich habe Mein Volk angesehen, denn sein Schreien ist zu Mir gekommen.</verse>
+        <verse osisID='1Sam.9.17'>Und Samuel sah den Saul, und Jehovah antwortete ihm: Siehe, das ist der Mann, von dem Ich dir gesagt. Dieser wird über Mein Volk Gewalt haben.</verse>
+        <verse osisID='1Sam.9.18'>Und Saul trat herzu zu Samuel inmitten des Tores und sprach: Sage mir doch an, wo ist hier das Haus des Sehers?</verse>
+        <verse osisID='1Sam.9.19'>Und Samuel antwortete Saul und sprach: Ich bin der Seher, gehe hinauf vor mir auf die Höhe, daß ihr heute mit mir esset, und am Morgen will ich dich entsenden und dir alles ansagen, was in deinem Herzen ist.</verse>
+        <verse osisID='1Sam.9.20'>Und anlangend die Eselinnen, die du verloren vor heute drei Tagen, so nimm dir es nicht zu Herzen ihretwegen, denn sie sind gefunden; und wem gehört all das Begehrenswerte Israels, ist es nicht dein des ganzen Hauses deines Vaters?</verse>
+        <verse osisID='1Sam.9.21'>Und Saul antwortete und sprach: Bin ich nicht ein Benjaminite aus den kleinsten der Stämme Israels und aus der geringsten Familie von allen Familien des Stammes Benjamins, und warum redest du zu mir solches Wort?</verse>
+        <verse osisID='1Sam.9.22'>Und Samuel nahm Saul und seinen Jungen und brachte ihn hinein in den Saal und gab ihnen einen Platz obenan unter den Gerufenen<note>zu Häupten der Gerufenen</note>; diese aber waren an dreißig Männer.</verse>
+        <verse osisID='1Sam.9.23'>Und zu dem Koch<note>Schlächter</note> sprach Samuel: Gib her den Anteil, den ich dir gab, von dem ich zu dir sagte: Lege es hin bei dir.</verse>
+        <verse osisID='1Sam.9.24'>Und der Koch<note>Schlächter</note> hob das Schulterstück empor und was darauf war, und setzte es Saul vor und sprach: Siehe, das ist der Überrest, setze ihn vor dich, iß, denn für dich ward er für die bestimmte Zeit behalten, da ich sprach: Ich habe dem Volk gerufen. Und Saul aß an selbigem Tage mit Samuel.</verse>
+        <verse osisID='1Sam.9.25'>Und sie gingen hinab von der Höhe in die Stadt, und er redete mit Saul auf dem Dache.</verse>
+        <verse osisID='1Sam.9.26'>Und früh standen sie auf, und es geschah, da die Morgenröte aufging, rief Samuel den Saul auf das Dach und sprach: Mache dich auf, daß ich dich entlasse. Und Saul stand auf; und sie beide, er und Samuel, gingen hinaus auf die Gasse.</verse>
+        <verse osisID='1Sam.9.27'>Sie kamen herab an das Ende der Stadt, und Samuel sprach zu Saul: Sage dem Jungen, daß er vor uns hingehe; und er ging hin. Du aber bleibe stehen diesen Tag, daß ich dich das Wort Gottes hören lasse.</verse>
+      </chapter>
+      <chapter osisID='1Sam.10'>
+        <title>Saul wird zum König gesalbt.</title>
+        <verse osisID='1Sam.10.1'>Und Samuel nahm die Ölflasche und goß sie auf sein Haupt und küßte ihn und sprach: Hat dich nicht Jehovah zum Führer über Sein Erbe gesalbt?</verse>
+        <verse osisID='1Sam.10.2'>Wenn du heute von mir gehst, wirst du zwei Männer treffen am Grabe Rachels, an der Grenze Benjamin, in Zelzach, und die werden dir sagen: Die Eselinnen sind gefunden, die du zu suchen gegangen bist; und siehe, dein Vater hat abgelassen von der Sache<note>den Worten</note> der Eselinnen und ist besorgt um euch und sagt: Was soll ich tun meines Sohnes wegen?</verse>
+        <verse osisID='1Sam.10.3'>Und wenn du dann von da dich weiter wendest<note>kehrst</note> und an die Eiche Thabor kommst, so werden dich allda drei Männer treffen, die zu Gott gen Bethel hinaufgehen. Einer trägt drei Böcklein, und einer trägt drei Laibe Brot, und einer trägt einen Schlauch Wein.</verse>
+        <verse osisID='1Sam.10.4'>Und sie werden dich fragen nach deinem Wohlsein<note>Frieden</note> und werden dir zwei Brote geben, und du sollst sie nehmen aus ihrer Hand.</verse>
+        <verse osisID='1Sam.10.5'>Danach wirst du nach dem Gotteshügel kommen, wo der Philister Posten sind, und wenn du allda in die Stadt kommst, wirst du auf einen Zug<note>eine Schnur</note> Propheten stoßen, die von der Höhe herabkommen, und vor ihnen her Psalter und Pauke und Flöte und Harfe; und sie weissagen.</verse>
+        <verse osisID='1Sam.10.6'>Und der Geist Jehovahs wird über dich geraten, und du wirst mit ihnen weissagen und in einen anderen Mann verwandelt werden.</verse>
+        <verse osisID='1Sam.10.7'>Und es geschehe, wenn diese Zeichen dir kommen, so tue dir, was deine Hand findet; denn Gott ist mit dir.</verse>
+        <verse osisID='1Sam.10.8'>Und du gehst hinab vor mir nach Gilgal, und siehe, ich komme hinab zu dir, daß man aufopfere Brandopfer und opfere Schlachtopfer der Dankopfer. Sieben Tage sollst du warten, bis ich zu dir komme und dich wissen lasse, was du tun sollst.</verse>
+        <verse osisID='1Sam.10.9'>Und es geschah, da er seine Schulter wandte, um von Samuel zu gehen, da kehrte ihm Gott das Herz um in ein anderes, und es kamen an selbigem Tage alle diese Zeichen.</verse>
+        <verse osisID='1Sam.10.10'>Und sie kamen nach Gibeah, und siehe da, ein Zug<note>eine Schnur</note> Propheten ihm entgegen, und der Geist Gottes geriet über ihn, und er weissagte in ihrer Mitte.</verse>
+        <verse osisID='1Sam.10.11'>Und es geschah, da alle, die ihn von gestern und ehegestern kannten, ihn sahen, und siehe, er weissagte mit den Propheten, da sprach das Volk, der Mann zu seinen Genossen: Was ist es mit dem Sohne des Kisch, ist Saul auch unter den Propheten?</verse>
+        <verse osisID='1Sam.10.12'>Und ein Mann von dort antwortete und sprach: Und wer ist ihr Vater? Darum ward es zum Sprichwort: Ist Saul auch unter den Propheten?</verse>
+        <verse osisID='1Sam.10.13'>Und er hörte auf<note>vollendete</note> zu weissagen, und kam auf die Höhe.</verse>
+        <verse osisID='1Sam.10.14'>Und Sauls Oheim sprach zu ihm und seinem Jungen: Wo seid ihr hingegangen? Und er sprach: Wir suchten die Eselinnen, und wir sahen, daß sie nicht da waren, und kamen zu Samuel.</verse>
+        <verse osisID='1Sam.10.15'>Und Sauls Oheim sprach: Sage mir doch an, was hat euch Samuel gesagt?</verse>
+        <verse osisID='1Sam.10.16'>Und Saul sprach zu seinem Oheim: Er hat uns angesagt<note>ansagend angesagt</note>, daß die Eselinnen gefunden sind. Die Sache<note>das Wort</note> von dem Königtume aber, wovon Samuel gesprochen, sagte er ihm nicht an.</verse>
+        <verse osisID='1Sam.10.17'>Und Samuel berief<note>schrie</note> das Volk zu Jehovah nach Mizpah.</verse>
+        <verse osisID='1Sam.10.18'>Und er sprach zu den Söhnen Israels: So hat Jehovah, der Gott Israels, gesprochen: Ich habe Israel aus Ägypten heraufgebracht, und euch errettet aus der Hand Ägyptens und aus der Hand all der Königreiche, die euch unterdrückten.</verse>
+        <verse osisID='1Sam.10.19'>Und ihr habt heute verschmäht euren Gott, Der euch aus allen euren Übeln und euren Bedrängnissen geholfen hat, und zu Ihm gesprochen: Setze einen König über uns! Und nun stellet euch vor Jehovah nach euren Stämmen und nach euren Tausenden.</verse>
+        <verse osisID='1Sam.10.20'>Und Samuel ließ alle Stämme Israels sich nahen, und der Stamm Benjamin ward herausgenommen.</verse>
+        <verse osisID='1Sam.10.21'>Und er ließ den Stamm Benjamin nahen nach seinen Familien und herausgenommen ward die Familie Matri, und herausgenommen ward Saul, der Sohn des Kisch; und sie suchten ihn, er ward aber nicht gefunden.</verse>
+        <verse osisID='1Sam.10.22'>Und sie fragten nochmals Jehovah: Wird der Mann noch hierher kommen? Und Jehovah sprach: Siehe, er hat sich beim Gerät versteckt.</verse>
+        <verse osisID='1Sam.10.23'>Und sie liefen hin und holten ihn von da, und er stellte sich mitten unter das Volk, und er war höher als all das Volk von seiner Schulter an und aufwärts.</verse>
+        <verse osisID='1Sam.10.24'>Und Samuel sprach zu allem Volk: Habt ihr gesehen, wen Jehovah erwählt hat? Denn keiner ist wie er im ganzen Volk. Und alles Volk rief, und sie sprachen: Es lebe der König!</verse>
+        <verse osisID='1Sam.10.25'>Und Samuel redete zu dem Volke vom Rechte des Königtums und schrieb es in ein Buch und legte es nieder vor Jehovah. Und Samuel entließ alles Volk, jeden Mann nach seinem Hause.</verse>
+        <verse osisID='1Sam.10.26'>Und auch Saul ging nach seinem Hause nach Gibeah, und mit ihm zog die Streitmacht, deren Herz Gott gerührt hatte.</verse>
+        <verse osisID='1Sam.10.27'>Aber die Belialssöhne sprachen: Was wird der uns helfen? Und sie verachten ihn und brachten ihm keine Geschenke<note>Speiseopfer</note>; er aber war wie ein Tauber.</verse>
+      </chapter>
+      <chapter osisID='1Sam.11'>
+        <title>Saul besiegt die Ammoniter.</title>
+        <verse osisID='1Sam.11.1'>Und Nachasch, der Ammoniter, zog herauf und lagerte wider Jabesch-Gilead. Und alle Männer zu Jabesch sprachen zu Nachasch: Schließ mit uns einen Bund, so wollen wir dir dienen.</verse>
+        <verse osisID='1Sam.11.2'>Und Nachasch, der Ammoniter, sprach zu ihnen: So will ich ihn mit euch schließen, daß ich euch allen das rechte Auge aussteche und lege es auf ganz Israel zur Schmach.</verse>
+        <verse osisID='1Sam.11.3'>Und es sprachen zu ihm die Ältesten von Jabesch: Laß ab von uns sieben Tage, daß wir Boten in all die Grenze von Israel senden, und wenn uns niemand hilft, so kommen wir zu dir hinaus.</verse>
+        <verse osisID='1Sam.11.4'>Und die Boten kamen nach Gibeath-Saul und redeten die Worte vor den Ohren des Volkes, und alles Volk hob auf seine Stimme und weinte.</verse>
+        <verse osisID='1Sam.11.5'>Und siehe, Saul kam hinter den Rindern vom Feld; und Saul sprach: Was ist dem Volk, daß sie weinen? Und sie erzählten ihm die Worte der Männer von Jabesch.</verse>
+        <verse osisID='1Sam.11.6'>Und der Geist Gottes geriet über Saul, als er diese Worte hörte, und sein Zorn entbrannte sehr.</verse>
+        <verse osisID='1Sam.11.7'>Und er nahm ein paar Rinder und zerstückte sie und sandte sie in all die Grenze Israels durch die Hand der Boten und ließ sagen: Wer nicht hinter Saul und hinter Samuel auszieht, dessen Rindern soll also geschehen. Und es fiel der Schauer Jehovahs auf das Volk und sie zogen aus wie ein Mann.</verse>
+        <verse osisID='1Sam.11.8'>Und er musterte sie in Besek, und es waren der Söhne Israel dreihunderttausend und der Männer Judah dreißigtausend.</verse>
+        <verse osisID='1Sam.11.9'>Und den Boten, die gekommen waren, sagten sie: So sprechet zu den Männern zu Jabesch-Gilead: Morgen soll euch Hilfe werden, wenn die Sonne heiß wird. Und die Boten kamen und sagten es den Männern von Jabesch an, und sie wurden froh.</verse>
+        <verse osisID='1Sam.11.10'>Und die Männer von Jabesch sprachen: Morgen kommen wir heraus zu euch, und tuet ihr uns nach allem, das gut ist in euren Augen.</verse>
+        <verse osisID='1Sam.11.11'>Und es geschah am morgenden Tage, daß Saul das Volk in drei Haufen stellte und sie kamen in die Mitte des Lagers um die Morgenwache und schlugen Ammon, bis der Tag heiß ward. Und der Überrest zerstreute sich so, daß ihrer nicht zwei zusammenblieben.</verse>
+        <verse osisID='1Sam.11.12'>Und das Volk sprach zu Samuel: Wer war der, so gesprochen hat: Sollte Saul über uns König sein? Gebt die Männer her, daß wir sie töten.</verse>
+        <verse osisID='1Sam.11.13'>Saul aber sprach: An diesem Tage soll kein Mann getötet werden; denn heute hat Jehovah Israel Heil gebracht<note>getan</note>.</verse>
+        <verse osisID='1Sam.11.14'>Und Samuel sprach zum Volke: Kommt, laßt uns nach Gilgal ziehen, daß wir daselbst das Königtum erneuern.</verse>
+        <verse osisID='1Sam.11.15'>Und alles Volk zog nach Gilgal und machte dort Saul zum König vor Jehovah in Gilgal und opferte dort Opfer, Dankopfer vor Jehovah. Und Saul ward fröhlich daselbst, und alle Männer Israels gar sehr.</verse>
+      </chapter>
+      <chapter osisID='1Sam.12'>
+        <title>Samuel gibt sein Richteramt auf.</title>
+        <verse osisID='1Sam.12.1'>Und Samuel sprach zum ganzen Israel: Siehe, ich habe auf eure Stimme gehört in allem, das ihr zu mir gesprochen habt, und lasse einen König über euch regieren.</verse>
+        <verse osisID='1Sam.12.2'>Und nun siehe, der König geht vor euch her, ich aber bin alt und ein Greis geworden, und siehe, meine Söhne sind mit euch, und ich bin vor euch gewandelt von meiner Jugend an bis auf diesen Tag.</verse>
+        <verse osisID='1Sam.12.3'>Siehe, hier bin ich, antwortet wider mich vor Jehovah und vor Seinem Gesalbten, wessen Ochsen ich genommen und wessen Esel ich genommen, und wem ich Unrecht getan, wen ich zerschlagen habe, und von wessen Hand ich eine Sühne genommen und meine Augen zudecken<note>verbergen</note> ließ, und ich will es euch zurückgeben.</verse>
+        <verse osisID='1Sam.12.4'>Und sie sprachen: Du hast uns kein Unrecht getan und uns nicht zerschlagen und aus keines Mannes Hand etwas genommen.</verse>
+        <verse osisID='1Sam.12.5'>Und er sprach zu ihnen: Jehovah sei Zeuge wider euch und Zeuge Sein Gesalbter an diesem Tage, daß ihr nichts in meiner Hand gefunden habt! Und sie sprachen: Er ist Zeuge.</verse>
+        <verse osisID='1Sam.12.6'>Und Samuel sprach zu dem Volke: Jehovah, Der Mose und Aharon gemacht, und Der eure Väter aus dem Lande Ägypten heraufgeführt hat.</verse>
+        <verse osisID='1Sam.12.7'>Und nun stellet euch, daß ich mit euch rechte vor Jehovah über all die Gerechtigkeit Jehovahs, die Er an euch und euren Vätern getan hat.</verse>
+        <verse osisID='1Sam.12.8'>Als Jakob nach Ägypten gekommen war, und eure Väter zu Jehovah schrien, da sandte Jehovah Mose und Aharon, und sie führten aus eure Väter aus Ägypten und ließen sie wohnen an diesem Orte.</verse>
+        <verse osisID='1Sam.12.9'>Und sie vergaßen Jehovah, ihren Gott, und Er verkaufte sie in die Hand Siseras, des Obersten des Heeres von Chazor, und in die Hand der Philister und in die Hand des Königs von Moab, und sie stritten wider sie.</verse>
+        <verse osisID='1Sam.12.10'>Und sie schrien zu Jehovah und sprachen: Wir haben gesündigt, daß wir Jehovah verlassen und den Baalim und Aschtharoth gedient haben, und nun errette uns aus der Hand unserer Feinde, auf daß wir Dir dienen.</verse>
+        <verse osisID='1Sam.12.11'>Und Jehovah sandte Jerubbaal und Bedan und Jephthach und Samuel, und errettete euch aus der Hand eurer Feinde ringsumher, und ihr wohntet in Sicherheit.</verse>
+        <verse osisID='1Sam.12.12'>Und ihr sahet, daß Nachasch, der König der Söhne Ammons, wider euch gekommen und sprachet zu mir: Nein, sondern ein König soll über uns regieren; und doch war Jehovah, euer Gott, euer König.</verse>
+        <verse osisID='1Sam.12.13'>Und nun siehe, da ist der König, den ihr erwählt, den ihr euch erbeten habt, und siehe, Jehovah hat über euch einen König gegeben.</verse>
+        <verse osisID='1Sam.12.14'>So ihr Jehovah fürchten und Ihm dienen und auf Seine Stimme hören und nicht widerspenstig gegen Jehovahs Mund sein werdet, so werdet ihr sowohl, als der Könige, der euch regiert, Jehovah, eurem Gotte, folgen<note>hinter Jehovah, eurem Gott, sein</note>.</verse>
+        <verse osisID='1Sam.12.15'>Wenn ihr aber nicht auf die Stimme Jehovahs hört, und wider den Mund Jehovahs widerspenstig seid, so wird die Hand Jehovahs wider euch sein und wider eure Väter.</verse>
+        <verse osisID='1Sam.12.16'>Stellet euch nun auch her und sehet diese große Sache<note>Wort</note>, die Jehovah vor euren Augen tut.</verse>
+        <verse osisID='1Sam.12.17'>Ist nicht heute Weizenernte? Ich will zu Jehovah rufen, daß Er Stimmen und Regen gebe, auf daß ihr wisset und sehet, wieviel Böses ihr in den Augen Jehovahs getan, daß ihr für euch einen König erbeten habt.</verse>
+        <verse osisID='1Sam.12.18'>Und Samuel rief zu Jehovah, und Jehovah gab an jenem Tage Stimmen und Regen, und alles Volk fürchtete sich sehr vor Jehovah und Samuel.</verse>
+        <verse osisID='1Sam.12.19'>Und alles Volk sprach zu Samuel: Bete für deine Knechte zu Jehovah, deinem Gott, daß wir nicht sterben; denn zu all unseren Sünden haben wir noch das Böse dazu getan, daß wir uns einen König erbaten.</verse>
+        <verse osisID='1Sam.12.20'>Und Samuel sprach zu dem Volk: Fürchtet euch nicht; ihr habt all dieses Böse getan; aber weichet nicht hinter Jehovah ab, sondern dienet Jehovah von eurem ganzen Herzen.</verse>
+        <verse osisID='1Sam.12.21'>Und weichet nicht ab, hinter dem Leeren her, denen, die nicht nützen und nicht erretten, denn Leeres sind sie.</verse>
+        <verse osisID='1Sam.12.22'>Denn nicht hingeben wird Jehovah Sein Volk um Seines großen Namens willen. Denn Jehovah ist willens, euch für Sich zum Volke zu machen.</verse>
+        <verse osisID='1Sam.12.23'>Auch sei es ferne von mir, daß ich wider Jehovah sündige und aufhöre, für euch zu beten und euch den guten und geraden Weg zu weisen.</verse>
+        <verse osisID='1Sam.12.24'>Nur sollt ihr Jehovah fürchten und Ihm dienen in Wahrheit, von ganzem Herzen; denn ihr seht, was Er Großes an euch getan.</verse>
+        <verse osisID='1Sam.12.25'>So ihr aber böse handelt<note>böse handelnd, böse handelt</note>, so werdet ihr und euer König weggerafft werden.</verse>
+      </chapter>
+      <chapter osisID='1Sam.13'>
+        <title>Taten Sauls und Jonathans.</title>
+        <verse osisID='1Sam.13.1'>Saul war ein Jahr<note>ein Sohn eines Jahres</note> im Königtum und regierte zwei Jahre über Israel;</verse>
+        <verse osisID='1Sam.13.2'>Und Saul erwählte sich dreitausend Mann aus Israel; und bei Saul waren zweitausend in Michmasch und auf dem Berge von Bethel, und tausend waren bei Jonathan zu Gibea-Benjamin, und das übrige Volk entsandte er, jeden Mann in seine Zelte.</verse>
+        <verse osisID='1Sam.13.3'>Und Jonathan schlug den Posten der Philister in Geba, und die Philister hörten es. Und Saul ließ im ganzen Lande in die Posaune stoßen und sagen: Die Hebräer sollen das hören.</verse>
+        <verse osisID='1Sam.13.4'>Und ganz Israel hörte sagen: Saul hat den Posten der Philister geschlagen, und Israel stinkt auch bei den Philistern; und alles Volk wurde gerufen<note>geschrien</note> nach Gilgal, hinter Saul her.</verse>
+        <verse osisID='1Sam.13.5'>Und die Philister versammelten sich, mit Israel zu streiten, dreißigtausend Streitwagen und sechstausend Reiter und des Volkes wie der Sand am Meeresufer<note>Lippe des Meeres</note> in Menge, und sie zogen herauf und lagerten in Michmasch, östlich von Beth-Aven.</verse>
+        <verse osisID='1Sam.13.6'>Und die Männer von Israel sahen, daß sie in Drangsal waren, denn das Volk war in der Enge, und das Volk versteckte sich in Höhlen und in Dornhecken und in Felsklippen und in Festen und in Gruben.</verse>
+        <verse osisID='1Sam.13.7'>Und es gingen Hebräer über den Jordan in das Land Gad und Gilead. Saul aber war noch in Gilgal und alles Volk hinter ihm erzitterte.</verse>
+        <verse osisID='1Sam.13.8'>Und es wartete sieben Tage, bis zu der Zeit, die Samuel bestimmt hatte. Aber Samuel kam nicht nach Gilgal und das Volk zerstreute sich von ihm.</verse>
+        <verse osisID='1Sam.13.9'>Und Saul sprach: Bringt mir das Brandopfer und die Dankopfer herbei; und er opferte das Brandopfer auf.</verse>
+        <verse osisID='1Sam.13.10'>Und es geschah, als er das Brandopfer aufzuopfern vollendet hatte, siehe, da kam Samuel, und Saul ging hinaus, ihm entgegen, daß er ihn segne.</verse>
+        <verse osisID='1Sam.13.11'>Und Samuel sprach: Was hast du getan? Und Saul sprach: Weil ich sah, daß das Volk sich von mir zerstreute, und du zur bestimmten Zeit der Tage nicht kamst, und die Philister in Michmasch sich versammelten;</verse>
+        <verse osisID='1Sam.13.12'>Und ich sprach: Jetzt werden die Philister wider mich nach Gilgal herabkommen, und ich habe das Angesicht Jehovahs noch nicht angefleht; da hielt ich an mich und opferte das Brandopfer auf.</verse>
+        <verse osisID='1Sam.13.13'>Samuel aber sprach zu Saul: Du hast närrisch gehandelt, du hast das Gebot Jehovahs, deines Gottes, das Er dir geboten, nicht gehalten; denn jetzt hätte Jehovah dein Königtum über Israel auf ewig befestigt.</verse>
+        <verse osisID='1Sam.13.14'>Nun aber wird dein Königtum nicht bestätigt. Jehovah hat Sich einen Mann nach Seinem Herzen gesucht, und Jehovah hat ihm geboten, Führer zu sein über Sein Volk, weil du nicht gehalten hast, was Jehovah dir gebot.</verse>
+        <verse osisID='1Sam.13.15'>Und Samuel machte sich auf und ging hinauf von Gilgal nach Gibeah-Benjamin; Saul aber musterte das Volk, das sich bei ihm fand, bei sechshundert Mann.</verse>
+        <verse osisID='1Sam.13.16'>Und Saul und Jonathan, sein Sohn, und das Volk, das sich bei ihnen fand, lagen<note>sa-ßen</note> in Geba-Benjamin, die Philister aber lagerten in Michmasch.</verse>
+        <verse osisID='1Sam.13.17'>Und es ging ein Verheerungszug<note>Verderben</note> aus dem Lager der Philister in drei Haufen<note>Häuptern</note> aus. Ein Haufe<note>Haupt</note> wandte sich auf den Weg nach Ophrah zum Lande Schual;</verse>
+        <verse osisID='1Sam.13.18'>Und ein Haufe wandte sich auf den Weg nach Beth-Choron, und ein Haufe wandte sich auf den Weg nach der Grenze, die hinschaut über die Schlucht Zeboim nach der Wüste zu.</verse>
+        <verse osisID='1Sam.13.19'>Es fand sich aber im ganzen Lande Israel kein Schmied<note>Handwerker</note>, denn die Philister sagten: Damit die Hebräer sich weder Schwert noch Spieß machen.</verse>
+        <verse osisID='1Sam.13.20'>Und ganz Israel ging zu den Philistern hinab, wenn ein Mann seine Pflugschar und seine Hacke und seine Axt und seine Sichel wollte schmieden lassen.</verse>
+        <verse osisID='1Sam.13.21'>Und es waren Scharten an den Schneiden<note>Mund</note> der Pflugscharen und der Hacken und der Dreizacken und der Äxte, und die Ochsenstacheln waren zu spitzen.</verse>
+        <verse osisID='1Sam.13.22'>Und am Tage des Streites fand sich weder Schwert noch Spieß in der Hand des ganzen Volkes, das mit Saul und Jonathan war, aber bei Saul und seinem Sohne Jonathan fanden sie sich.</verse>
+        <verse osisID='1Sam.13.23'>Und der Posten der Philister zog aus nach dem Passe von Michmasch.</verse>
+      </chapter>
+      <chapter osisID='1Sam.14'>
+        <title>Jonathans Heldentat; er kommt in Lebensgefahr.</title>
+        <verse osisID='1Sam.14.1'>Und es geschah eines Tages, daß Jonathan, Sauls Sohn, zu dem Jungen, der ihm die Waffen trug, sprach: Komm, laß uns zu dem Posten der Philister am Passe dort hinübergehen; seinem Vater aber sagte er es nicht an.</verse>
+        <verse osisID='1Sam.14.2'>Und Saul blieb<note>saß</note> am Ende von Gibeah unter dem Granatbaum zu Migron, und das Volk, das bei ihm war, war bei sechshundert Mann.</verse>
+        <verse osisID='1Sam.14.3'>Und Achijah, der Sohn Achitubs, des Bruders des Ichabod, des Sohnes Pinechas, des Sohnes Elis, des Priesters Jehovahs in Schiloh, er trug das Ephod, und das Volk wußte nicht, daß Jonathan gegangen war.</verse>
+        <verse osisID='1Sam.14.4'>Zwischen den Pässen aber, durch die Jonathan zu dem Posten der Philister hinüberzukommen suchte, war die Felsenspitze<note>der Hahn</note> einer Klippe diesseits des Passes und die Felsenspitze<note>der Hahn</note> einer Klippe jenseits des Passes, und der Name der einen war Bozez und der Name der anderen Seneh.</verse>
+        <verse osisID='1Sam.14.5'>Die eine Felsspitze<note>der Hahn</note> war steil auf der Mitternachtseite gegen Michmasch und die andere auf der Mittagseite gegenüber von Geba.</verse>
+        <verse osisID='1Sam.14.6'>Und Jonathan sprach zu dem Jungen, der seine Waffen trug: Komm und laß uns hinübergehen zu dem Posten dieser Unbeschnittenen, vielleicht tut Jehovah etwas für uns; denn für Jehovah gibt es keinen Einhalt, mit vielen oder wenigen zu helfen.</verse>
+        <verse osisID='1Sam.14.7'>Und sein Waffenträger sprach zu ihm: Tue alles, was dir im Herzen ist; wende dich hin, siehe, ich bin mit dir nach deinem Herzen.</verse>
+        <verse osisID='1Sam.14.8'>Und Jonathan sprach: Siehe, wir gehen hinüber zu den Männern und zeigen<note>offenbaren</note> uns denselben.</verse>
+        <verse osisID='1Sam.14.9'>Sagen sie nun so zu uns: Steht stille, bis wir euch erreichen, dann bleiben wir stehen an unserer Stelle und gehen nicht zu ihnen hinauf.</verse>
+        <verse osisID='1Sam.14.10'>Sprechen sie aber so: Kommet herauf wider uns, so gehen wir hinauf, denn Jehovah hat sie in unsere Hand gegeben, und dies soll uns das Zeichen sein.</verse>
+        <verse osisID='1Sam.14.11'>Und sie zeigten<note>offenbarten</note> sich beide dem Posten der Philister, und die Philister sprachen: Siehe, die Hebräer kommen aus den Löchern heraus, in die sie sich versteckt hatten.</verse>
+        <verse osisID='1Sam.14.12'>Und die Männer auf dem Posten antworteten Jonathan und seinem Waffenträger und sprachen: Kommt herauf zu uns und wir werden euch ein Wort wissen lassen. Und Jonathan sprach zu seinem Waffenträger: Steige herauf, mir nach; denn Jehovah hat sie in die Hand Israels gegeben.</verse>
+        <verse osisID='1Sam.14.13'>Und Jonathan stieg auf seinen Händen und seinen Füßen hinauf und sein Waffenträger ihm nach. Und sie fielen vor Jonathan, und sein Waffenträger tötete hinter ihm her.</verse>
+        <verse osisID='1Sam.14.14'>Und dies war die erste Schlacht, die Jonathan und sein Waffenträger schlugen, bei zwanzig Mann, auf der halben Furche einer Hufe Feldes.</verse>
+        <verse osisID='1Sam.14.15'>Und es war ein Erzittern in dem Lager, im Feld und unter allem Volk; der Posten und der Verheerungszug<note>Verderben</note>, auch sie erzitterten. Und die Erde zitterte, und es ward zu einem Erzittern von Gott.</verse>
+        <verse osisID='1Sam.14.16'>Und die Wächter Sauls in Gibeah-Benjamin sahen, und siehe, das Getümmel zerfloß und verging und zerschlug sich.</verse>
+        <verse osisID='1Sam.14.17'>Und Saul sprach zu dem Volke, das mit ihm war: Mustert und sehet, wer von uns gegangen ist. Und sie musterten; und siehe, Jonathan und sein Waffenträger waren nicht da.</verse>
+        <verse osisID='1Sam.14.18'>Und Saul sprach zu Achijah: Bringe die Lade Gottes herbei, denn die Lade Gottes war an jenem Tag bei den Söhnen Israels.</verse>
+        <verse osisID='1Sam.14.19'>Und es geschah, während Saul zu dem Priester redete, daß das Getümmel im Lager der Philister zunahm<note>gehend ging</note> und sich mehrte, und Saul sprach zu dem Priester: Ziehe deine Hand ab<note>versammle</note>.</verse>
+        <verse osisID='1Sam.14.20'>Und Saul und alles Volk, das mit ihm war, schrie, und sie kamen zum Streite. Und siehe, eines jeden Mannes Schwert war wider seinen Genossen, und es ward eine sehr große Verwirrung.</verse>
+        <verse osisID='1Sam.14.21'>Und die Hebräer, die wie gestern und ehegestern bei den Philistern waren, und mit ihnen von rings umher in das Lager hinaufgezogen waren, auch sie taten sich zu Israel, das mit Saul und Jonathan war.</verse>
+        <verse osisID='1Sam.14.22'>Und alle Männer von Israel, die sich auf dem Gebirge Ephraim versteckt hatten, hörten, daß die Philister flohen, und auch sie setzten hinter ihnen nach im Streite.</verse>
+        <verse osisID='1Sam.14.23'>Und an selbigem Tage half Jehovah Israel, und der Streit zog sich hinüber bis nach Beth-Aven.</verse>
+        <verse osisID='1Sam.14.24'>Und die Männer Israels waren beengt an jenem Tage, und Saul hatte das Volk beschworen und gesagt: Verflucht sei der Mann, der Brot ißt bis zum Abend, und bis ich mich gerächt habe an meinen Feinden. Und das Volk kostete kein Brot.</verse>
+        <verse osisID='1Sam.14.25'>Und das ganze Land kam in den Wald, und Honig war auf der Oberfläche<note>dem Angesichte</note> des Feldes.</verse>
+        <verse osisID='1Sam.14.26'>Und das Volk kam zum Wald, und siehe, da floß<note>ging</note> der Honig, aber niemand reichte seine Hand zu seinem Munde; denn das Volk fürchtete sich vor dem Schwur.</verse>
+        <verse osisID='1Sam.14.27'>Jonathan aber hatte nicht gehört, daß sein Vater dem Volke geschworen hatte, und reckte das Ende des Stabes, den er in seiner Hand hatte, aus und tauchte ihn in den Honigseim und wandte seine Hand nach seinem Munde zurück und seine Augen wurden erhellt.</verse>
+        <verse osisID='1Sam.14.28'>Und ein Mann aus dem Volke antwortete und sprach: Dein Vater hat dem Volke geschworen und gesagt: Verflucht sei der Mann, der heute Brot ißt; und das Volk ist matt geworden.</verse>
+        <verse osisID='1Sam.14.29'>Jonathan aber sprach: Mein Vater hat das Land zerrüttet; seht doch, wie hell meine Augen geworden sind, daß ich ein wenig von diesem Honig gekostet habe.</verse>
+        <verse osisID='1Sam.14.30'>Ja, hätte doch das Volk heute von der Beute seiner Feinde, die es fand, gegessen, wäre dann der Schlacht unter den Philistern nicht mehr geworden?</verse>
+        <verse osisID='1Sam.14.31'>Sie schlugen aber die Philister an demselbigen Tage von Michmasch bis Ajalon, und das Volk war sehr matt.</verse>
+        <verse osisID='1Sam.14.32'>Und das Volk fiel über die Beute her und nahm Kleinvieh und Rinder und Kälber<note>Söhne des Rindes</note> und schlachteten sie auf die Erde hin, und das Volk aß es mit dem Blute.</verse>
+        <verse osisID='1Sam.14.33'>Und man sagte es Saul an und sprach: Siehe, das Volk sündigt gegen Jehovah, daß es ißt mit dem Blute; und er sprach: Ihr habt treulos gehandelt. Wälzet mir heute einen großen Stein her.</verse>
+        <verse osisID='1Sam.14.34'>Und Saul sprach: Zerstreut euch unter das Volk und sagt zu ihnen: Jeder Mann bringe her zu mir seinen Ochsen und jeder Mann sein Kleinvieh, und schlachtet es hier und esset, und versündigt euch nicht gegen Jehovah, indem ihr mit dem Blute esset. Und alles Volk brachte in selbiger Nacht, jeder Mann seinen Ochsen an seiner Hand herbei; und sie schlachteten sie daselbst.</verse>
+        <verse osisID='1Sam.14.35'>Und Saul baute dem Jehovah einen Altar. Damit fing er an, dem Jehovah einen Altar zu bauen.</verse>
+        <verse osisID='1Sam.14.36'>Und Saul sprach: Laßt uns in der Nacht hinter den Philistern hinabgehen und unter ihnen rauben bis zum Morgenlicht, und keinen Mann von ihnen überlassen. Und sie sprachen: Tue alles, was gut in deinen Augen ist. Der Priester aber sprach: Laßt uns hier Gott nahen.</verse>
+        <verse osisID='1Sam.14.37'>Und Saul fragte Gott: Soll ich hinabgehen hinter den Philistern her? Gibst Du sie in die Hand Israels? Er antwortete aber nicht an jenem Tage.</verse>
+        <verse osisID='1Sam.14.38'>Und Saul sprach: Tretet hier herbei alle Anführer<note>Ecksteine</note> des Volkes und wisset und sehet, worin heute diese Sünde ist.</verse>
+        <verse osisID='1Sam.14.39'>Denn beim Leben Jehovahs, Der Israel gerettet hat, und wäre es mein Sohn Jonathan, er soll des Todes sterben. Keiner aber antwortete ihm von allem Volke.</verse>
+        <verse osisID='1Sam.14.40'>Und er sprach zu ganz Israel: Ihr sollt auf der einen Seite<note>Übergang</note> sein, und ich und mein Sohn Jonathan seien auf der anderen Seite<note>Übergang</note>. Und das Volk sprach zu Saul: Was gut in deinen Augen ist, das tue.</verse>
+        <verse osisID='1Sam.14.41'>Und Saul sprach zu Jehovah, dem Gotte Israels: Gib den Untadeligen! Und Jonathan und Saul wurden genommen<note>gefangen</note>, das Volk aber ging aus.</verse>
+        <verse osisID='1Sam.14.42'>Und Saul sprach: Lasset es fallen zwischen mir und meinem Sohne Jonathan, und Jonathan wurde genommen<note>gefangen</note>.</verse>
+        <verse osisID='1Sam.14.43'>Und Saul sprach zu Jonathan: Sage mir an, was hast du getan? Und Jonathan sagte ihm an und sprach: Ich habe mit dem Ende des Stabes, den ich in meiner Hand hatte, ein wenig Honig gekostet<note>kostend gekostet</note>, siehe hier bin ich, ich muß sterben.</verse>
+        <verse osisID='1Sam.14.44'>Und Saul sprach: Gott tue mir so und fahre so fort! Du mußt des Todes sterben, Jonathan!</verse>
+        <verse osisID='1Sam.14.45'>Und das Volk sprach zu Saul: Soll Jonathan sterben, der in Israel dieses große Heil getan hat? Das sei ferne! Bei Jehovahs Leben, kein Haar von seinem Haupte darf zur Erde fallen, denn mit Gott hat er heute solches getan. Und das Volk machte Jonathan los, und er starb nicht.</verse>
+        <verse osisID='1Sam.14.46'>Saul aber zog herauf von den Philistern<note>hinter den Philistern</note> und die Philister gingen an ihren Ort.</verse>
+        <verse osisID='1Sam.14.47'>Und Saul gewann so das Königtum über Israel und stritt ringsumher wider alle seine Feinde, wider Moab und wider die Söhne Ammons und wider Edom, und wider die Könige von Zobah und wider die Philister; und alle, gegen die er sich wandte, besiegte er<note>erwies er als ungerecht</note>.</verse>
+        <verse osisID='1Sam.14.48'>Und er machte sich eine Streitmacht und schlug Amalek und errettete Israel aus der Hand derer, die es plünderten.</verse>
+        <verse osisID='1Sam.14.49'>Und Sauls Söhne waren: Jonathan und Jischwi und Malchischua, und die Namen seiner zwei Töchter waren: Der Name der erstgeborenen Merab und der Name der jüngeren<note>kleineren</note> Michal.</verse>
+        <verse osisID='1Sam.14.50'>Und der Name von Sauls Weib war Achinoam, eine Tochter des Achimaaz, und der Name des Obersten seines Heeres war Abner, ein Sohn von Ner, dem Oheim Sauls.</verse>
+        <verse osisID='1Sam.14.51'>Und Kisch war Sauls Vater, und Ner der Vater Abners, ein Sohn Abiels.</verse>
+        <verse osisID='1Sam.14.52'>Und der Streit gegen die Philister war stark alle Tage Sauls; und jeglichen mächtigen Mann und jeden tapferen Sohn<note>Sohn der Tapferkeit</note>, den Saul sah, sammelte er bei sich zusammen.</verse>
+      </chapter>
+      <chapter osisID='1Sam.15'>
+        <title>Amalek. Saul verworfen.</title>
+        <verse osisID='1Sam.15.1'>Und Samuel sprach zu Saul: Jehovah hat mich gesandt, dich zu salben zum König über Sein Volk, über Israel, und nun höre auf die Stimme der Worte Jehovahs.</verse>
+        <verse osisID='1Sam.15.2'>So spricht Jehovah der Heerscharen: Ich will heimsuchen, was Amalek wider Israel getan, wie es ihm den Weg verlegte, da es aus Ägypten heraufzog.</verse>
+        <verse osisID='1Sam.15.3'>Ziehe nun hin und schlage Amalek und verbanne ihn mit allem, was er hat, und bemitleide ihn nicht, sondern töte vom Manne bis zum Weibe, vom Kindlein und bis zum Säugling, vom Ochsen und bis zum Kleinvieh, vom Kamel und bis zum Esel.</verse>
+        <verse osisID='1Sam.15.4'>Und Saul ließ das Volk dies hören, und musterte sie in Telaim zweihunderttausend zu Fuß und zehntausend Mann aus Judah.</verse>
+        <verse osisID='1Sam.15.5'>Und Saul kam zur Stadt Amaleks und machte einen Hinterhalt im Bachtale.</verse>
+        <verse osisID='1Sam.15.6'>Und Saul sprach zu dem Keniter: Gehet hin und wendet euch und ziehet herab aus Amaleks Mitte, daß ich euch nicht mit ihm wegraffe; denn du hast Gutes getan an allen Söhnen Israels, da sie von Ägypten heraufzogen. Und der Keniter wandte sich ab aus Amaleks Mitte.</verse>
+        <verse osisID='1Sam.15.7'>Und Saul schlug Amalek von Chavilah, wo man kommt nach Schur, das vor Ägypten ist.</verse>
+        <verse osisID='1Sam.15.8'>Und er erfaßte Agag, den König von Amalek, lebendig; alles Volk aber verbannte er mit der Schärfe<note>Munde</note> des Schwertes.</verse>
+        <verse osisID='1Sam.15.9'>Saul und das Volk aber verschonte<note>bemitleidete</note> Agag, und das Gute vom Kleinvieh und vom Rind, und die kleineren, sowie die Lämmer und alles, was gut war, und waren nicht willens, es zu verbannen; alles Werk aber, das verächtlich und schwächlich war, das verbannten sie.</verse>
+        <verse osisID='1Sam.15.10'>Und es geschah das Wort Jehovahs an Samuel, und Er sprach:</verse>
+        <verse osisID='1Sam.15.11'>Es reut Mich, daß Ich Saul zum König eingesetzt habe, denn er ist hinter Mir zurückgegangen und hat Meine Worte nicht ausgerichtet. Und Samuel entbrannte, und er schrie zu Jehovah die ganze Nacht.</verse>
+        <verse osisID='1Sam.15.12'>Und früh stand Samuel auf, dem Saul am Morgen entgegenzugehen; und man sagte es Samuel an und sprach: Saul ist nach Karmel gekommen, und siehe, er stellte sich ein Denkmal<note>eine Hand</note> auf, und wandte sich herum und zog hin und ging nach Gilgal hinab.</verse>
+        <verse osisID='1Sam.15.13'>Und Samuel kam zu Saul, und Saul sprach zu ihm: Gesegnet seist du dem Jehovah! Ich habe Jehovahs Wort ausgerichtet.</verse>
+        <verse osisID='1Sam.15.14'>Und Samuel sprach: Und was ist dieses Geblök<note>Stimme</note> von Kleinvieh in meinen Ohren, und das Geblök von Rindern, das ich höre?</verse>
+        <verse osisID='1Sam.15.15'>Und Saul sprach: Sie brachten sie vom Amalekiter, weil das Volk das Beste vom Kleinvieh und Rind verschont<note>bemitleidet</note> hat, zum Opfer für Jehovah, deinen Gott. Das übrige aber haben wir verbannt.</verse>
+        <verse osisID='1Sam.15.16'>Und Samuel sprach zu Saul: Laß ab, daß ich dir ansage, was Jehovah heute Nacht zu mir geredet hat. Und er sagte zu ihm: Rede.</verse>
+        <verse osisID='1Sam.15.17'>Und Samuel sprach: Ist es nicht also, obgleich du klein warst in deinen eigenen Augen, wurdest du das Haupt der Stämme Israels, und Jehovah hat dich zum König über Israel gesalbt.</verse>
+        <verse osisID='1Sam.15.18'>Und Jehovah hat dich auf den Weg gesandt und gesprochen: Gehe und verbanne die Sünder, den Amalek, und streite wider ihn, bis sie sie weggetilgt haben.</verse>
+        <verse osisID='1Sam.15.19'>Und warum hast du nicht auf die Stimme Jehovahs gehört, und bist über die Beute hergefallen, und hast getan, was böse in Jehovahs Augen ist?</verse>
+        <verse osisID='1Sam.15.20'>Und Saul sprach zu Samuel: Ich habe auf die Stimme Jehovahs gehört und bin des Weges gezogen, den Jehovah mich sendete, und habe Agag, den König von Amalek, gebracht und Amalek verbannt.</verse>
+        <verse osisID='1Sam.15.21'>Das Volk aber nahm von der Beute Kleinvieh und Rind, die Erstlinge des Verbannten, um es Jehovah, deinem Gotte, in Gilgal zu opfern.</verse>
+        <verse osisID='1Sam.15.22'>Samuel aber sprach: Hat Jehovah Lust an Brandopfern und Schlachtopfern, wie daran, daß man auf die Stimme Jehovahs hört? Siehe, gehorchen ist besser als Schlachtopfer, aufmerken besser als das Fett von Widdern.</verse>
+        <verse osisID='1Sam.15.23'>Denn die Sünde der Wahrsagerei ist Widerspenstigkeit, und die Missetat und Götzendienst<note>Theraphim</note> ist Eigensinn; darum, daß du das Wort Jehovahs verschmäht hast, hat Er auch dich verschmäht, daß du nicht sollst König sein.</verse>
+        <verse osisID='1Sam.15.24'>Und Saul sprach zu Samuel: Ich habe gesündigt, daß ich Jehovahs Befehl<note>Mund</note> und deine Worte übertrat<note>vorbeiging</note>; denn ich fürchtete das Volk und hörte auf ihre Stimme.</verse>
+        <verse osisID='1Sam.15.25'>Und nun verzeih doch meine Sünde und kehre mit mir zurück, daß ich Jehovah anbete.</verse>
+        <verse osisID='1Sam.15.26'>Samuel aber sprach zu Saul: Ich kehre nicht mit dir zurück; denn du hast das Wort Jehovahs verschmäht, und Jehovah hat dich verschmäht, daß du nicht König seiest über Israel.</verse>
+        <verse osisID='1Sam.15.27'>Und Samuel wandte sich herum, um zu gehen, und er<note>d.i. Saul</note> faßte ihn am Zipfel<note>Flügel</note> seines Oberkleides und es zerriß.</verse>
+        <verse osisID='1Sam.15.28'>Und Samuel sprach zu ihm: Jehovah hat heute das Königtum Israels von dir gerissen und es deinem Genossen gegeben, der besser ist als du.</verse>
+        <verse osisID='1Sam.15.29'>Auch lügt der Sieger Israels nicht, noch reut Ihn; denn Er ist nicht ein Mensch, daß Ihn reuete.</verse>
+        <verse osisID='1Sam.15.30'>Und er sprach: Ich habe gesündigt; jetzt ehre<note>verherrliche</note> mich doch vor den Ältesten meines Volkes und vor Israel und kehre mit mir zurück, auf daß ich anbete Jehovah, deinen Gott.</verse>
+        <verse osisID='1Sam.15.31'>Und Samuel kehrte zurück, dem Saul nach, und Saul betete Jehovah an.</verse>
+        <verse osisID='1Sam.15.32'>Und Samuel sprach: Bringt herbei zu mir Agag, den König Amaleks; und Agag ging lustig<note>wonniglich</note> zu ihm; und Agag sprach: Fürwahr, das Bittere des Todes ist gewichen.</verse>
+        <verse osisID='1Sam.15.33'>Und Samuel sprach: Wie dein Schwert die Weiber ihrer Kinder beraubt, so soll deine Mutter vor den Weibern ihrer Kinder beraubt sein. Und Samuel hieb dem Agag in Stücke vor Jehovah in Gilgal.</verse>
+        <verse osisID='1Sam.15.34'>Und Samuel ging hin nach Ramah, Saul aber zog hinauf nach seinem Haus zu Gibeah-Schaul.</verse>
+        <verse osisID='1Sam.15.35'>Und Samuel sah Saul nicht mehr<note>tat nicht hinzu zu sehen</note> bis zum Tage seines Todes. Denn Samuel trauerte um Saul, daß es Jehovah reuete, daß Er Saul zum König über Israel gemacht.</verse>
+      </chapter>
+      <chapter osisID='1Sam.16'>
+        <title>Davids Salbung.</title>
+        <verse osisID='1Sam.16.1'>Und Jehovah sprach zu Samuel: Wie lange willst du trauern um Saul, daß Ich ihn verschmäht habe, daß er nicht König sei über Israel? Fülle dein Horn mit Öl und gehe, Ich will dich senden zu Ischai, dem Bethlechemiter, denn Ich habe unter seinen Söhnen Mir einen König ersehen.</verse>
+        <verse osisID='1Sam.16.2'>Und Samuel sprach: Wie soll ich hingehen; so es Saul hört, wird er mich erwürgen. Und Jehovah sprach: Nimm eine Färse von den Rindern zur Hand und sprich: Ich bin gekommen, Jehovah zu opfern.</verse>
+        <verse osisID='1Sam.16.3'>Und du rufst den Ischai zum Opfer, und Ich werde dich wissen lassen, was du tun sollst, und du sollst Mir salben, den Ich dir sagen werde.</verse>
+        <verse osisID='1Sam.16.4'>Und Samuel tat, was Jehovah geredet hatte, und kam nach Bethlechem. Und die Ältesten der Stadt gingen ihm erzitternd entgegen und sprachen: Kommst du im Frieden?</verse>
+        <verse osisID='1Sam.16.5'>Und er sprach: Im Frieden; ich bin gekommen, Jehovah zu opfern; heiligt euch und kommt mit mir zum Opfer. Und er heiligte den Ischai und seine Söhne, und rief sie zum Opfer.</verse>
+        <verse osisID='1Sam.16.6'>Und es geschah, als sie kamen, daß er den Eliab sah und sprach: Gewiß, vor Jehovah ist Sein Gesalbter.</verse>
+        <verse osisID='1Sam.16.7'>Und Jehovah sprach zu Samuel: Blicke nicht auf sein Aussehen und auf die Höhe seines Wuchses, denn Ich habe ihn verschmäht. Denn das ist es nicht, was der Mensch sieht; denn der Mensch sieht, was vor Augen ist, Jehovah aber sieht auf das Herz.</verse>
+        <verse osisID='1Sam.16.8'>Und Ischai rief den Abinadab und ließ ihn vor Samuel vorübergehen. Er aber sprach: Auch diesen hat Jehovah nicht erwählt.</verse>
+        <verse osisID='1Sam.16.9'>Und Ischai ließ vorübergehen Schammah, und er sprach: Auch diesen hat Jehovah nicht erwählt.</verse>
+        <verse osisID='1Sam.16.10'>Und Ischai ließ seine sieben Söhne vor Samuel vorübergehen, und Samuel sprach zu Ischai: Von diesen hat Jehovah keinen erwählt;</verse>
+        <verse osisID='1Sam.16.11'>Und Samuel sprach zu Ischai: Sind die Jungen vollzählig<note>haben die Jungen vollendet</note>? Und er sprach: Noch verbleibt der Kleinste, und siehe, er weidet das Kleinvieh. Und Samuel sprach zu Ischai: Sende hin und laß ihn holen, denn wir wollen nicht zu Tische sitzen<note>rundherum uns niederlassen</note> bis er hierher gekommen ist.</verse>
+        <verse osisID='1Sam.16.12'>Und er sandte hin und ließ ihn kommen. Und er war rötlich, mit schönen Augen und gutem Aussehen. Und Jehovah sprach: Stehe auf, salbe ihn; denn dieser ist es.</verse>
+        <verse osisID='1Sam.16.13'>Und Samuel nahm das Ölhorn und salbte ihn inmitten seiner Brüder. Und der Geist Jehovahs geriet über David von dem Tage an und weiter; und Samuel stand auf und ging nach Ramah.</verse>
+        <verse osisID='1Sam.16.14'>Und der Geist Jehovahs wich von Saul und es verstörte ihn ein böser Geist von Jehovah.</verse>
+        <verse osisID='1Sam.16.15'>Und die Knechte Sauls sprachen zu ihm: Siehe doch, ein böser Geist Gottes verstört dich.</verse>
+        <verse osisID='1Sam.16.16'>Es spreche doch unser Herr zu deinen Knechten vor dir, sie sollen einen Mann suchen, der auf der Harfe zu spielen weiß; und es geschehe, wenn der böse Geist von Gott über dir ist, so spiele er mit seiner Hand, auf daß es dir wohl werde.</verse>
+        <verse osisID='1Sam.16.17'>Und Saul sprach zu seinen Knechten: Sehet mir doch nach einem Manne, der gut spielt, und bringt ihn herein zu mir.</verse>
+        <verse osisID='1Sam.16.18'>Und es antwortete einer der Jungen und sprach: Siehe, ich habe einen Sohn des Ischai aus Bethlechem gesehen, der zu spielen weiß und ein tapferer Held und Mann des Streites ist, einsichtsvoll in Worten und ein wohlgestalteter Mann, und Jehovah ist mit ihm.</verse>
+        <verse osisID='1Sam.16.19'>Und Saul sandte Boten an Ischai und ließ ihm sagen: Sende mir deinen Sohn David, der bei dem Kleinvieh ist.</verse>
+        <verse osisID='1Sam.16.20'>Und Ischai nahm einen Esel, mit Brot und einem Schlauch Wein und einem Böcklein von den Ziegen, und sandte es durch die Hand seines Sohnes David an Saul.</verse>
+        <verse osisID='1Sam.16.21'>Und David kam zu Saul und stand vor ihm, und er liebte ihn sehr, so daß er ihm Waffenträger wurde.</verse>
+        <verse osisID='1Sam.16.22'>Und Saul sandte an Ischai und ließ ihm sagen: Laß doch David vor mir stehen, denn er hat Gnade gefunden in meinen Augen.</verse>
+        <verse osisID='1Sam.16.23'>Und es geschah, daß, wenn der Geist von Gott über Saul war, David die Harfe nahm und spielte mit seiner Hand. Und es ward Saul leichter<note>Saul bekam Luft</note> und ihm ward wohl, und der böse Geist wich von ihm.</verse>
+      </chapter>
+      <chapter osisID='1Sam.17'>
+        <title>David streitet mit Goljath (Goliath).</title>
+        <verse osisID='1Sam.17.1'>Und die Philister versammelten ihr Heer<note>ihre Lager</note> zum Streite. Und sie versammelten sich bei Sochoh in Judah und lagerten zwischen Sochoh und Asekah in Ephes-Dammim.</verse>
+        <verse osisID='1Sam.17.2'>Und Saul und die Männer von Israel versammelten sich und lagerten im Talgrund Elah und stellten sich auf, den Philistern entgegen.</verse>
+        <verse osisID='1Sam.17.3'>Und die Philister standen am Berge jenseits und Israel stand am Berge diesseits, und die Schlucht war zwischen ihnen.</verse>
+        <verse osisID='1Sam.17.4'>Und es kam ein Zweikämpfer<note>ein Mann der Zwischenräume</note> heraus aus dem Lager der Philister, Goljath mit Namen, aus Gath, sechs Ellen hoch und eine Spanne.</verse>
+        <verse osisID='1Sam.17.5'>Und er hatte einen ehernen Helm auf seinem Haupte und war angetan mit einem Schuppenpanzer, und das Gewicht seines Panzers war fünftausend Schekel Erz.</verse>
+        <verse osisID='1Sam.17.6'>Und eine eherne Schiene war an seinen Beinen und ein eherner Wurfspieß war zwischen seinen Schultern.</verse>
+        <verse osisID='1Sam.17.7'>Und der Schaft<note>Pfeil</note> seines Spießes war wie ein Weberbaum, und die Klinge seines Spießes war von sechshundert Schekel Eisen. Und ein Schildträger ging vor ihm her.</verse>
+        <verse osisID='1Sam.17.8'>Und er stand und rief den Schlachtreihen Israels zu und sprach zu ihnen: Warum ziehet ihr aus, euch zum Streite aufzustellen, bin nicht ich ein Philister und ihr Sauls Knechte? Wählet euch einen Mann, der herabkomme zu mir.</verse>
+        <verse osisID='1Sam.17.9'>Wenn er vermag, mit mir zu streiten und mich schlägt, so wollen wir euch Knechte sein, und wenn ich es vermag über ihn und ihn schlage, so sollt ihr uns Knechte sein und uns dienen.</verse>
+        <verse osisID='1Sam.17.10'>Und der Philister sprach: Ich schmähe an diesem Tage die Schlachtreihen Israels. Gebt mir einen Mann und laßt uns miteinander streiten.</verse>
+        <verse osisID='1Sam.17.11'>Und Saul und ganz Israel hörten diese Worte des Philisters und entsetzten sich und fürchteten sich sehr.</verse>
+        <verse osisID='1Sam.17.12'>David aber war der Sohn jenes Mannes, des Ephrathiters aus Bethlechem Judah, mit Namen Ischai, und der hatte acht Söhne, und der Mann war in den Tagen Sauls alt und war betagt<note>in die Jahre gekommen</note> unter den Männern.</verse>
+        <verse osisID='1Sam.17.13'>Und es gingen hin drei Söhne Ischais, die größeren, sie gingen dem Saul nach in den Streit; und der Name seiner drei Söhne, die in den Streit zogen, war Eliab, der Erstgeborene, und Abinadab, sein zweiter, und Schammah, der dritte.</verse>
+        <verse osisID='1Sam.17.14'>Und David war der kleinste, und die drei größeren gingen dem Saul nach.</verse>
+        <verse osisID='1Sam.17.15'>Und David war weggegangen und zurückgekehrt von Saul nach Bethlechem, die Schafe seines Vaters zu weiden.</verse>
+        <verse osisID='1Sam.17.16'>Der Philister aber trat früh morgens und abends herbei und stellte sich hin vierzig Tage.</verse>
+        <verse osisID='1Sam.17.17'>Und Ischai sprach zu seinem Sohn David: Nimm doch für deine Brüder ein Ephah von diesem gerösteten Korn da und diese zehn Brote, und laufe zu deinen Brüdern in das Lager.</verse>
+        <verse osisID='1Sam.17.18'>Und diese zehn Schnitten Milchkäse bringe dem Obersten über die Tausend, und frage deine Brüder um ihr Wohlsein<note>bestelle den Frieden deiner Brüder</note> und bringe mir ein Pfand.</verse>
+        <verse osisID='1Sam.17.19'>Saul aber und sie und alle Männer Israels waren noch im Talgrunde Elah im Streit mit den Philistern.</verse>
+        <verse osisID='1Sam.17.20'>Und David stand am frühen Morgen auf und überließ das Kleinvieh dem Hüter, und trug, und ging hin, wie Ischai ihm geboten hatte, und er kam in die Wagenburg, und die Streitmacht zog aus in die Schlachtreihen und sie schrien zum Streit.</verse>
+        <verse osisID='1Sam.17.21'>Und Israel stellte sich auf und die Philister, eine Schlachtreihe entgegen der Schlachtreihe.</verse>
+        <verse osisID='1Sam.17.22'>Und David überließ sein Gerät der Hand des Hüters der Geräte und lief nach der Schlachtreihe und kam und fragte um das Wohlsein<note>den Frieden</note> seiner Brüder.</verse>
+        <verse osisID='1Sam.17.23'>Und als er mit ihnen redete, siehe, da kam herauf der Zweikämpfer<note>der Mann der Zwischenräume</note>, Goljath, der Philister, war sein Name, von Gath, aus den Schlachtreihen der Philister und redete nach jenen Worten, und David hörte es.</verse>
+        <verse osisID='1Sam.17.24'>Und alle Männer Israels, als sie den Mann sahen, flohen vor ihm und fürchteten sich sehr.</verse>
+        <verse osisID='1Sam.17.25'>Und die Männer Israels sprachen: Saht ihr den Mann dort heraufkommen; er kommt herauf, Israel zu schmähen. Und den Mann, der ihn schlägt, den will der König mit großem Reichtum bereichern, und will ihm seine Tochter geben und das Haus seines Vaters freimachen in Israel.</verse>
+        <verse osisID='1Sam.17.26'>Und David sprach zu den Männern, die bei ihm standen und sagte: Was soll man dem Manne tun, der diesen Philister schlägt und die Schmach von Israel abwendet? Wer ist dieser unbeschnittene Philister, daß er die Schlachtreihen des lebendigen Gottes schmäht?</verse>
+        <verse osisID='1Sam.17.27'>Und das Volk sagte zu ihm nach denselben Worten und sprach: So wird man dem Manne tun, der ihn schlägt.</verse>
+        <verse osisID='1Sam.17.28'>Und sein ältester Bruder Eliab hörte ihn zu den Männern reden, und der Zorn Eliabs entbrannte wider David und er sprach: Wozu bist du herabgekommen, und wem hast du jenes wenige Kleinvieh in der Wüste überlassen? Ich weiß deine Vermessenheit und die Bosheit deines Herzens! Um den Streit zu sehen, bist du herabgekommen.</verse>
+        <verse osisID='1Sam.17.29'>David aber sprach: Was habe ich denn nun getan? Ist es ja doch nur ein Wort.</verse>
+        <verse osisID='1Sam.17.30'>Und er wandte sich herum von dem neben ihm zu einem anderen gegenüber und sprach gemäß demselben Wort, und das Volk erwiderte ihm dasselbe Wort wie das erste Wort.</verse>
+        <verse osisID='1Sam.17.31'>Und sie hörten die Worte, die David redete, und sie sagten es dem Saul an, und er ließ ihn holen.</verse>
+        <verse osisID='1Sam.17.32'>Und David sprach zu Saul: Es entfalle keinem Menschen das Herz wegen seiner; dein Knecht will hingehen und mit diesem Philister streiten.</verse>
+        <verse osisID='1Sam.17.33'>Saul aber sprach zu David: Du vermagst nicht gegen diesen Philister zu gehen, mit ihm zu streiten, denn du bist ein Junge und er ist ein Kriegsmann von seiner Jugend auf.</verse>
+        <verse osisID='1Sam.17.34'>Und David sprach zu Saul: Dein Knecht weidete für seinen Vater das Kleinvieh, und es kam der Löwe und der Bär und er trug ein Schaf von der Herde<note>dem Haufen</note> weg.</verse>
+        <verse osisID='1Sam.17.35'>Und ich ging aus, ihm nach, und schlug ihn und errettete es aus seinem Rachen<note>Mund</note>. Und er stand auf wider mich, und ich faßte ihn beim Barte und schlug ihn und tötete ihn.</verse>
+        <verse osisID='1Sam.17.36'>Sowohl den Löwen als auch den Bären schlug dein Knecht, und dieser unbeschnittene Philister wird sein wie deren einer, weil er die Schlachtreihen des lebendigen Gottes geschmäht hat.</verse>
+        <verse osisID='1Sam.17.37'>Und David sprach: Jehovah, Der mich aus der Tatze<note>Hand</note> des Löwen und der Tatze<note>Hand</note> des Bären errettet hat, Der wird mich auch aus der Hand dieses Philisters erretten. Und Saul sprach zu David: Gehe hin und Jehovah sei mit dir!</verse>
+        <verse osisID='1Sam.17.38'>Und Saul zog dem David seinen Waffenrock an und gab ihm einen ehernen Helm auf sein Haupt und zog ihm einen Panzer an.</verse>
+        <verse osisID='1Sam.17.39'>Und David gürtete sein Schwert über den Waffenrock und wollte gehen, denn er hatte es nie versucht. Und David sprach zu Saul: Ich kann darin nicht gehen, denn ich habe es nie versucht; und David legte sie ab von sich.</verse>
+        <verse osisID='1Sam.17.40'>Und er nahm seinen Stock in seine Hand und wählte sich fünf glatte Steine aus dem Bache aus und tat sie in das Hirtengerät, das er hatte, und in die Tasche und seine Schleuder in die Hand und trat auf den Philister hinzu.</verse>
+        <verse osisID='1Sam.17.41'>Und der Philister ging daher, ging und nahte sich dem David; und der Mann, der ihm den Schild trug, vor ihm her.</verse>
+        <verse osisID='1Sam.17.42'>Und der Philister blickte auf und sah den David und verachtete ihn; denn er war ein Junge, und rötlich, von schönem Aussehen.</verse>
+        <verse osisID='1Sam.17.43'>Und der Philister sprach zu David: Bin ich ein Hund, daß du mit dem Stock<note>Stöcken</note> gegen mich kommst? Und der Philister fluchte dem David bei seinem Gotte.</verse>
+        <verse osisID='1Sam.17.44'>Und der Philister sprach zu David: Komm zu mir, daß ich dein Fleisch dem Gevögel des Himmels und dem Tiere<note>Vieh</note> des Feldes gebe.</verse>
+        <verse osisID='1Sam.17.45'>Und David sprach zu dem Philister: Du kommst zu mir mit Schwert und Speer<note>Spieß</note> und Wurfspieß; ich aber komme zu dir im Namen Jehovahs der Heerscharen, des Gottes der Schlachtreihen Israels, die du geschmäht hast.</verse>
+        <verse osisID='1Sam.17.46'>An diesem Tage wird dich Jehovah in meine Hand überantworten, daß ich dich schlage und dir das Haupt abnehme, und die Leichen des Lagers der Philister an diesem Tag dem Gevögel des Himmels und dem wilden Tiere der Erde gebe, auf daß die ganze Erde wisse, daß es einen Gott gibt für Israel.</verse>
+        <verse osisID='1Sam.17.47'>Und wissen soll diese ganze Versammlung, daß Jehovah nicht hilft mit Schwert und Spieß; denn Jehovahs ist der Streit, und Er gibt euch in unsere Hand.</verse>
+        <verse osisID='1Sam.17.48'>Und es geschah, als der Philister sich aufmachte, und ging und sich nahte dem David entgegen, da eilte David und lief der Schlachtreihe der Philister entgegen.</verse>
+        <verse osisID='1Sam.17.49'>Und David streckte die Hand in sein Gerät und nahm daraus einen Stein und schleuderte, und traf<note>schlug</note> den Philister auf seine Stirn, daß der Stein ihm in die Stirn einsank, und er auf sein Angesicht zur Erde fiel.</verse>
+        <verse osisID='1Sam.17.50'>Also überwältigte David den Philister mit der Schleuder und dem Stein. Und er schlug den Philister und tötete ihn, und kein Schwert war in Davids Hand.</verse>
+        <verse osisID='1Sam.17.51'>Und David lief und stand bei dem Philister, und er nahm dessen Schwert, und zog es aus seiner Scheide und tötete ihn und hieb ihm damit den Kopf ab. Und die Philister sahen, daß ihr Held tot war, und sie flohen.</verse>
+        <verse osisID='1Sam.17.52'>Aber die Männer von Israel und Judah machten sich auf und schrien und setzten den Philistern nach, bis man kommt in die Schlucht und bis an die Tore von Ekron, und erschlagene Philister fielen auf dem Wege nach Schaarajim<note>d.h. die zwei Tore</note> und bis nach Gath und bis Ekron.</verse>
+        <verse osisID='1Sam.17.53'>Und die Söhne Israels kehrten von dem Nachjagen hinter den Philistern zurück und plünderten ihre Lager.</verse>
+        <verse osisID='1Sam.17.54'>Und David nahm den Kopf des Philisters und brachte ihn nach Jerusalem; seine Waffen aber legte er in sein Zelt.</verse>
+        <verse osisID='1Sam.17.55'>Und als Saul den David dem Philister entgegen ausziehen sah, sprach er zum Obersten des Heeres, Abner: Wessen Sohn ist der Junge, Abner? Und Abner sprach: Beim Leben deiner Seele, o König, ich weiß<note>wenn ich es weiß</note> es nicht<note>wenn ich es weiß</note>.</verse>
+        <verse osisID='1Sam.17.56'>Und der König sprach: Frage du, wessen Sohn der Jüngling ist.</verse>
+        <verse osisID='1Sam.17.57'>Und als David vom Erschlagen des Philisters zurückkam, nahm ihn Abner und brachte ihn vor Saul, und er hatte den Kopf des Philisters in seiner Hand.</verse>
+        <verse osisID='1Sam.17.58'>Und Saul sprach zu ihm: Wessen Sohn bist du, Junge? Und David sprach: Ein Sohn deines Knechtes Ischai, des Bethlechemiters.</verse>
+      </chapter>
+      <chapter osisID='1Sam.18'>
+        <title>Jonathans Bund mit David.</title>
+        <verse osisID='1Sam.18.1'>Und es geschah, da er ausgeredet hatte<note>vollendet hatte zu reden</note> mit Saul, verband sich Jonathans Seele mit der Seele Davids, und Jonathan liebte ihn wie seine eigene Seele.</verse>
+        <verse osisID='1Sam.18.2'>Und Saul nahm ihn an selbigem Tage und ließ<note>gab</note> ihn nicht nach seines Vaters Haus zurückkehren.</verse>
+        <verse osisID='1Sam.18.3'>Und Jonathan und David schlossen einen Bund, weil er ihn liebte, wie seine eigene Seele.</verse>
+        <verse osisID='1Sam.18.4'>Und Jonathan zog das Oberkleid aus, das er anhatte, und gab es dem David, und seinen Waffenrock, bis auf sein Schwert und bis auf seinen Bogen und bis auf seinen Gürtel.</verse>
+        <verse osisID='1Sam.18.5'>Und David zog aus, in allem, wohin Saul ihn sandte, handelte er klug. Und Saul setzte ihn über die Kriegsleute und er war gut in den Augen des ganzen Volkes und auch in den Augen der Knechte Sauls.</verse>
+        <verse osisID='1Sam.18.6'>Und es geschah, als sie einzogen, als David zurückkam, nachdem er den Philister erschlagen, da zogen aus die Weiber aus allen Städten Israels mit Sang und Reigen, dem König Saul entgegen mit Pauken und mit Fröhlichkeit und mit Triangeln.</verse>
+        <verse osisID='1Sam.18.7'>Und die spielenden Weiber antworteten einander und sprachen: Saul hat seine Tausende erschlagen und David seine Zehntausende.</verse>
+        <verse osisID='1Sam.18.8'>Und Saul entbrannte sehr, und dies Wort war böse in seinen Augen, und er sprach: Dem David haben sie Zehntausende gegeben und mir gaben sie Tausende. Es wird ihm selbst noch das Königtum.</verse>
+        <verse osisID='1Sam.18.9'>Und Saul hatte ein Auge auf David von jenem Tage und fortan.</verse>
+        <verse osisID='1Sam.18.10'>Und es geschah am morgenden Tage, da geriet der böse Geist von Gott über Saul, und er weissagte inmitten des Hauses, und David spielte mit seiner Hand an dem Tage wie täglich, und Saul hatte den Spieß in der Hand.</verse>
+        <verse osisID='1Sam.18.11'>Und Saul schleuderte den Spieß und sprach: Ich will den David und die Wand durchbohren<note>schlagen</note>, David aber wandte sich zweimal herum von ihm.</verse>
+        <verse osisID='1Sam.18.12'>Und Saul fürchtete sich vor David, weil Jehovah mit ihm war und von Saul gewichen war.</verse>
+        <verse osisID='1Sam.18.13'>Und Saul tat ihn weg von sich und setzte ihn sich zum Obersten über Tausende, und er zog aus und kam herein vor dem Volke.</verse>
+        <verse osisID='1Sam.18.14'>Und David war klug auf allen seinen Wegen, und Jehovah war mit ihm.</verse>
+        <verse osisID='1Sam.18.15'>Und Saul sah, daß er sehr klug war, und es war ihm bange vor ihm.</verse>
+        <verse osisID='1Sam.18.16'>Aber ganz Israel und Judah hatte den David lieb; denn er zog aus und kam herein vor ihnen her.</verse>
+        <verse osisID='1Sam.18.17'>Und Saul sprach zu David: Siehe, meine große Tochter Merab, ich will sie dir zum Weibe geben, sei mir nur tapfer<note>ein Sohn der Tapferkeit</note> und streite die Streite Jehovahs. Saul aber sprach: Meine Hand soll nicht wider ihn sein, sondern die Hand der Philister sei wider ihn.</verse>
+        <verse osisID='1Sam.18.18'>David aber sprach zu Saul: Wer bin ich, und was ist mein Leben, die Familie meines Vaters in Israel, daß ich des Königs Schwiegersohn werden sollte?</verse>
+        <verse osisID='1Sam.18.19'>Und es geschah zu der Zeit, daß Merab, Sauls Tochter, dem David gegeben werden sollte; sie ward aber dem Adriel, dem Mecholathiter, zum Weibe gegeben.</verse>
+        <verse osisID='1Sam.18.20'>Aber Sauls Tochter, Michal, liebte den David und sie sagten es Saul an, und die Sache<note>das Wort</note> war recht in seinen Augen.</verse>
+        <verse osisID='1Sam.18.21'>Und Saul sagte: Ich will sie ihm geben, auf daß sie ihm zum Fallstrick werde, und die Hand der Philister über ihm sei; und Saul sprach zu David: Mit der zweiten sollst du dich heute mit mir verschwägern!</verse>
+        <verse osisID='1Sam.18.22'>Und Saul gebot seinen Knechten: Redet mit David heimlich<note>sachte</note> und sprechet: Siehe, der König hat Lust an dir, und alle seine Knechte lieben dich, so verschwägere dich nun mit dem König.</verse>
+        <verse osisID='1Sam.18.23'>Und die Knechte Sauls redeten vor den Ohren Davids diese Worte; David aber sprach: Ist es in euren Augen ein Leichtes, sich mit dem König zu verschwägern? Ich aber bin ein armer und geringer Mann!</verse>
+        <verse osisID='1Sam.18.24'>Und die Knechte Sauls sagten es ihm an und sprachen: Solche Worte hat David geredet.</verse>
+        <verse osisID='1Sam.18.25'>Saul aber sprach: So saget dem David: Der König hat keine Lust an einer Morgengabe, sondern hundert Vorhäute der Philister, daß man sich räche an des Königs Feinden. Saul aber dachte darauf, David durch der Philister Hand zu fällen.</verse>
+        <verse osisID='1Sam.18.26'>Und seine Knechte sagten diese Worte dem David an, und die Sache<note>das Wort</note> war recht in Davids Augen, daß er sich mit dem König verschwägere. Und noch waren die Tage nicht voll.</verse>
+        <verse osisID='1Sam.18.27'>Und David machte sich auf und ging hin mit seinen Männern und schlug von den Philistern zweihundert Mann; und David brachte ihre Vorhäute, und sie legten sie dem König vollzählig vor, auf daß er sich mit dem König verschwägere; und Saul gab ihm seine Tochter Michal zum Weibe.</verse>
+        <verse osisID='1Sam.18.28'>Und Saul sah und wußte, daß Jehovah mit David war, und Sauls Tochter Michal hatte ihn lieb.</verse>
+        <verse osisID='1Sam.18.29'>Und Saul fürchtete sich noch mehr<note>tat hinzu sich zu fürchten</note> vor David, und Saul ward dem David Feind alle die Tage.</verse>
+        <verse osisID='1Sam.18.30'>Und die Fürsten der Philister zogen aus, und es geschah, daß, sooft sie auszogen, David klüger handelte, als alle Knechte Sauls, und sein Name sehr geschätzt<note>kostbar</note> ward.</verse>
+      </chapter>
+      <chapter osisID='1Sam.19'>
+        <title>David entflieht zu Samuel. - Die Propheten.</title>
+        <verse osisID='1Sam.19.1'>Und Saul redete zu seinem Sohne Jonathan und zu allen seinen Knechten, daß sie David töten sollten. Jonathan aber, Sauls Sohn, hatte sehr seine Lust an David.</verse>
+        <verse osisID='1Sam.19.2'>Und Jonathan sagte es David an und sprach: Mein Vater Saul sucht dich zu töten. Und nun hüte dich doch am Morgen und bleibe<note>sitze</note> verborgen und verstecke dich,</verse>
+        <verse osisID='1Sam.19.3'>Und ich will herausgehen und meinem Vater zur Seite<note>Hand</note> auf dem Felde stehen, da du bist, und ich will von dir zu meinem Vater reden und sehen, was da wird, und es dir ansagen.</verse>
+        <verse osisID='1Sam.19.4'>Und Jonathan redete von David Gutes zu seinem Vater Saul und sprach zu ihm: Der König versündige sich nicht an seinem Knechte, an David; denn er hat nicht wider dich gesündigt und sein Tun ist sehr gut für dich.</verse>
+        <verse osisID='1Sam.19.5'>Und er hat seine Seele in seine Hand<note>hohle Hand</note> gesetzt und den Philister erschlagen, und Jehovah hat dem ganzen Israel ein großes Heil getan. Du hast es gesehen und warst fröhlich darüber. Und warum willst du dich an unschuldigem Blut versündigen und David schuldlos töten?</verse>
+        <verse osisID='1Sam.19.6'>Und Saul hörte auf die Stimme Jonathans, und Saul schwor: Beim Leben Jehovahs, er soll nicht sterben!</verse>
+        <verse osisID='1Sam.19.7'>Und Jonathan rief dem David, und Jonathan sagte ihm alle diese Worte an, und Jonathan brachte David zu Saul, und er war vor ihm wie gestern und ehegestern.</verse>
+        <verse osisID='1Sam.19.8'>Und es war wiederum<note>fuhr fort zu sein</note> Streit, und David zog aus und stritt wider die Philister und schlug sie in einer großen Schlacht, so daß sie vor ihm flohen.</verse>
+        <verse osisID='1Sam.19.9'>Und ein böser Geist von Jehovah war über Saul, und er saß in seinem Hause, und sein Spieß war in seiner Hand. Und David spielte mit der Hand.</verse>
+        <verse osisID='1Sam.19.10'>Und Saul trachtete, mit dem Spieß David und die Wand zu durchstoßen<note>schlagen</note>. Er aber brach los von Saul, und dieser stieß<note>schlug</note> den Spieß in die Wand. Und David floh und entrann in selbiger Nacht.</verse>
+        <verse osisID='1Sam.19.11'>Und Saul sandte Boten nach Davids Haus, daß sie ihn bewachten und am Morgen töteten; dem David aber sagte es sein Weib Michal an und sprach: Wenn du heute Nacht deine Seele nicht rettest<note>entrinnen läßt</note>, so wirst du morgen sterben.</verse>
+        <verse osisID='1Sam.19.12'>Und Michal ließ den David hinab durch das Fenster, und er ging, entwich und entrann.</verse>
+        <verse osisID='1Sam.19.13'>Und Michal nahm den Theraphim und legte ihn in das Bett und ein Gewebe von Ziegenhaar legte sie zu seinen Häupten und deckte es zu mit einem Kleid.</verse>
+        <verse osisID='1Sam.19.14'>Und Saul sandte Boten ab, daß sie David holten. Sie aber sprach: Er ist krank.</verse>
+        <verse osisID='1Sam.19.15'>Und Saul sandte die Boten, um David zu sehen und sprach: Bringt ihn herauf zu mir in dem Bette, daß man ihn töte.</verse>
+        <verse osisID='1Sam.19.16'>Und die Boten kamen und siehe, der Theraphim war auf dem Bette und ein Gewebe von Ziegenhaar zu seinen Häupten.</verse>
+        <verse osisID='1Sam.19.17'>Und Saul sprach zu Michal: Warum hast du mich also betrogen und meinen Feind entlassen, daß er entrann? Michal aber sagte zu Saul: Er sprach zu mir, entlaß mich, warum sollte ich dich töten?</verse>
+        <verse osisID='1Sam.19.18'>Und David entwich und entrann, und kam zu Samuel nach Ramah und sagte ihm alles an, was Saul ihm getan hatte. Und er und Samuel gingen und sie blieben<note>saßen</note> in Nevajoth.</verse>
+        <verse osisID='1Sam.19.19'>Und dem Saul sagte man an und sagte: Siehe, David ist in Nevajoth in Ramah.</verse>
+        <verse osisID='1Sam.19.20'>Und Saul sandte Boten, um David zu holen; und sie sahen eine Versammlung der Propheten, die weissagten, und Samuel stand als Vorgesetzter über ihnen; und der Geist Gottes war auf den Boten Sauls und auch sie weissagten;</verse>
+        <verse osisID='1Sam.19.21'>Und sie sagten das Saul an, und er sandte andere Boten, aber auch sie weissagten. Und Saul sandte wiederum<note>tat hinzu und sandte</note> die dritten Boten und auch sie weissagten.</verse>
+        <verse osisID='1Sam.19.22'>Und auch er ging nach Ramah und kam an die große Grube, welche in Sechu ist, und fragte und sagte: Wo ist Samuel und David? Und man sagte: Siehe, sie sind in Nevajoth in Ramah.</verse>
+        <verse osisID='1Sam.19.23'>Und er ging dorthin nach Nevajoth in Ramah, und auch auf ihm war der Geist Gottes, und er ging<note>ging gehend</note> hin und weissagte, bis er nach Nevajoth in Ramah kam.</verse>
+        <verse osisID='1Sam.19.24'>Und er zog auch seine Kleider aus, und auch er weissagte vor Samuel und fiel nackt hin jenen ganzen Tag und die ganze Nacht. Weshalb man sagt: Ist Saul auch unter den Propheten?</verse>
+      </chapter>
+      <chapter osisID='1Sam.20'>
+        <title>Jonathans Bund mit David.</title>
+        <verse osisID='1Sam.20.1'>Und David entwich aus Nevajoth in Ramah und kam und sprach vor Jonathan: Was habe ich getan? Was ist meine Missetat und was habe ich gesündigt vor deinem Vater, daß er mir nach der Seele trachtet<note>sucht</note>?</verse>
+        <verse osisID='1Sam.20.2'>Und er sprach zu ihm: Das sei ferne! Du sollst nicht sterben. Siehe, mein Vater tut weder Großes noch Kleines<note>großes Wort noch kleines Wort</note>, ohne daß er es vor meinem Ohre offenbart und warum sollte mein Vater diese Sache<note>Wort</note> vor mir verheimlichen? Es ist nicht also.</verse>
+        <verse osisID='1Sam.20.3'>David aber schwur abermals und sprach: Gar wohl weiß<note>wissend weiß</note> dein Vater, daß ich Gnade in deinen Augen gefunden, und er sprach: Jonathan soll es nicht wissen, auf daß es ihn nicht schmerze. Dennoch, beim Leben Jehovahs und beim Leben deiner Seele, nur ein Schritt ist zwischen mir und dem Tode.</verse>
+        <verse osisID='1Sam.20.4'>Und Jonathan sprach zu David: Was deine Seele sagt, das will ich für dich tun.</verse>
+        <verse osisID='1Sam.20.5'>Und David sagte zu Jonathan: Siehe, morgen ist Neumond, und ich sollte mit dem König beim Essen sitzen<note>sitzend sitzen</note>, aber entlaß mich, daß ich mich auf dem Felde verberge bis zum dritten Abende.</verse>
+        <verse osisID='1Sam.20.6'>Wenn mich dein Vater vermißt<note>vermissend vermißt</note>, so sprich: David hat von mir erbeten<note>erbetend erbeten</note>, er möchte nach Bethlechem, seiner Stadt, laufen; denn seine ganze Familie hat dort ein jährliches Opfer.</verse>
+        <verse osisID='1Sam.20.7'>Wenn er so spricht: Es ist gut, so ist es Frieden für deinen Knecht; wenn er aber entbrennt<note>entbrennend entbrennt</note>, so wisse, daß Böses bei ihm beschlossen ist.</verse>
+        <verse osisID='1Sam.20.8'>So tue denn Barmherzigkeit für deinen Knecht, du hast ja deinen Knecht in einen Bund Jehovahs mit dir eingehen lassen. Und wenn an mir eine Missetat ist, so töte du mich; denn wozu willst du mich zu deinem Vater bringen?</verse>
+        <verse osisID='1Sam.20.9'>Und Jonathan sprach: Das sei ferne von dir, daß wenn ich weiß<note>wissend weiß</note>, daß von meinem Vater beschlossen ist, daß Böses über dich komme, ich dir es nicht ansage.</verse>
+        <verse osisID='1Sam.20.10'>Und David sagte zu Jonathan: Wer wird mir das ansagen, oder was dein Vater Hartes über mich geantwortet hat?</verse>
+        <verse osisID='1Sam.20.11'>Und Jonathan sprach zu David: Komm und laß uns auf das Feld gehen. Und beide gingen hinaus auf das Feld.</verse>
+        <verse osisID='1Sam.20.12'>Und Jonathan sprach zu David: Jehovah, Gott Israels, wenn ich meinen Vater morgen oder übermorgen um diese Zeit erforsche, und siehe, es ist gut mit David, und ich sende nicht zu dir und offenbare es deinem Ohr:</verse>
+        <verse osisID='1Sam.20.13'>So tue Jehovah an Jonathan und so fahre er fort. Wenn das Böse wider dich meinem Vater gut dünkt, so will ich es deinem Ohr offenbaren und dich entlassen, daß du im Frieden hingehst. Und Jehovah sei mit dir wie Er mit meinem Vater war.</verse>
+        <verse osisID='1Sam.20.14'>Aber nicht, während ich noch am Leben bin, wenn du nicht die Barmherzigkeit Jehovahs an mir tust, daß ich nicht sterbe.</verse>
+        <verse osisID='1Sam.20.15'>Und daß du nicht ausrottest deine Barmherzigkeit, von meinem Hause ewiglich; auch nicht, wenn Jehovah die Feinde Davids, jeden Mann vom Angesicht des Bodens ausgerottet hat.</verse>
+        <verse osisID='1Sam.20.16'>Und Jonathan schloß mit dem Hause Davids einen Bund; und Jehovah fordere es aus der Hand der Feinde Davids.</verse>
+        <verse osisID='1Sam.20.17'>Und Jonathan fuhr fort, David zu schwören bei seiner Liebe zu ihm; denn mit der Liebe seiner Seele liebte er ihn.</verse>
+        <verse osisID='1Sam.20.18'>Und Jonathan sprach zu ihm: Morgen ist Neumond, und du wirst vermißt werden, denn dein Sitz wird vermißt werden.</verse>
+        <verse osisID='1Sam.20.19'>Und am dritten Tage komm bald<note>sehr</note> herab und komm an den Ort, da du dich verbargst am Werktage, und setze dich neben den Stein Ezel.</verse>
+        <verse osisID='1Sam.20.20'>Und ich will drei Pfeile an seine Seite hinschießen, als entsendete ich sie nach einem Ziel.</verse>
+        <verse osisID='1Sam.20.21'>Und siehe, ich werde den Jungen senden: Gehe, finde die Pfeile. Wenn ich nun zum Jungen sage<note>sagend sage</note>: Siehe, die Pfeile liegen herwärts von dir, hole sie und komm! So ist es Friede für dich und es ist nichts<note>kein Wort</note>, beim Leben Jehovahs.</verse>
+        <verse osisID='1Sam.20.22'>Wenn ich aber so zu dem Jüngling sage: Siehe, die Pfeile sind hinwärts von dir, dann gehe hin, denn Jehovah entsendet dich.</verse>
+        <verse osisID='1Sam.20.23'>Das Wort aber, das wir geredet, ich und du, siehe, Jehovah ist zwischen mir und dir in Ewigkeit.</verse>
+        <verse osisID='1Sam.20.24'>Und David verbarg sich auf dem Felde. Und es ward Neumond, und der König setzte sich, das Brot zu essen.</verse>
+        <verse osisID='1Sam.20.25'>Und der König setzte sich auf seinen Sitz, wie einmal und das andere Mal auf den Sitz an der Wand, und Jonathan stand auf und Abner setzte sich Saul zur Seite, und Davids Platz ward vermißt.</verse>
+        <verse osisID='1Sam.20.26'>Und am selbigen Tage redete Saul nichts, denn er sagte: Er ist durch Zufall nicht rein, ja nicht rein wird er sein.</verse>
+        <verse osisID='1Sam.20.27'>Und es geschah am morgenden Tag, am zweiten des Neumondes, war Davids Platz<note>Ort</note> leer. Und Saul sprach zu seinem Sohne Jonathan: Warum ist der Sohn Ischais gestern sowohl als auch heute nicht zum Brot gekommen?</verse>
+        <verse osisID='1Sam.20.28'>Und Jonathan antwortete Saul: David hat sich von mir erbeten<note>erbetend erbeten</note>, nach Bethlechem zu gehen<note>zu gehen - steht nicht im Hebr.</note>,</verse>
+        <verse osisID='1Sam.20.29'>Und sprach: Entlaß mich doch, denn unsere Familie hat ein Opfer in der Stadt und mein Bruder hat es mir geboten, und nun, wenn ich in deinen Augen Gnade gefunden, laß mich doch hingehen<note>entrinnen</note>, daß ich meine Brüder sehe. Darum ist er nicht zum Tische des Königs gekommen.</verse>
+        <verse osisID='1Sam.20.30'>Und es entbrannte der Zorn des Saul gegen Jonathan, und er sprach zu ihm: Du Sohn einer Verkehrten<note>Verdrehten</note> und Empörerin, weiß ich nicht, daß du Ischais Sohn erwählt hast, dir zur Scham und zur Scham der Blöße deiner Mutter!</verse>
+        <verse osisID='1Sam.20.31'>Denn alle die Tage, die der Sohn Ischais auf dem Boden lebt, wirst du und dein Königreich nicht befestigt werden, und nun sende und hole ihn mir her; denn er ist ein Sohn des Todes.</verse>
+        <verse osisID='1Sam.20.32'>Jonathan aber antwortete seinem Vater Saul und sprach zu ihm: Warum soll er getötet werden? Was hat er getan?</verse>
+        <verse osisID='1Sam.20.33'>Da schleuderte Saul den Spieß gegen ihn, daß er ihn durchstieße<note>schlage</note>. Und Jonathan wußte, daß es bei seinem Vater beschlossen war, David zu töten.</verse>
+        <verse osisID='1Sam.20.34'>Und Jonathan stand vom Tische auf in Zornesglut und aß kein Brot am zweiten Tage des Neumondes, denn es schmerzte ihn um David, daß ihn sein Vater beschimpft hatte.</verse>
+        <verse osisID='1Sam.20.35'>Und es geschah am Morgen, daß Jonathan auf das Feld hinausging zu der mit David bestimmten Zeit, und ein kleiner Junge war bei ihm.</verse>
+        <verse osisID='1Sam.20.36'>Und er sprach zu seinem Jungen: Laufe hin und finde mir doch die Pfeile, die ich schieße. Und der Junge lief hin, und er schoß den Pfeil über ihn hinaus.</verse>
+        <verse osisID='1Sam.20.37'>Und der Junge kam zu dem Orte, dahin Jonathan den Pfeil geschossen hatte, und Jonathan rief dem Jungen nach und sprach: Ist der Pfeil nicht hinwärts von dir?</verse>
+        <verse osisID='1Sam.20.38'>Und Jonathan rief dem Jungen nach: Eile, spute dich, bleibe nicht stehen! Und der Junge Jonathans las den Pfeil auf, und kam zu seinem Herrn.</verse>
+        <verse osisID='1Sam.20.39'>Der Junge aber wußte nichts. Nur Jonathan und David wußten um die Sache<note>Wort</note>.</verse>
+        <verse osisID='1Sam.20.40'>Und Jonathan gab seine Waffen dem Jungen, der bei ihm war und sprach zu ihm: Gehe und bringe sie in die Stadt.</verse>
+        <verse osisID='1Sam.20.41'>Der Junge ging, und David stand auf von der Mittagseite und fiel auf sein Antlitz zur Erde und beugte sich dreimal und sie küß-ten sich<note>der Mann seinen Genossen</note> und weinten miteinander<note>der Mann mit seinem Genossen</note>, David am lautesten<note>machte es groß</note>.</verse>
+        <verse osisID='1Sam.20.42'>Und Jonathan sprach zu David: Gehe hin in Frieden! Wie wir beide geschworen im Namen Jehovahs und gesagt: Jehovah sei zwischen mir und dir, und zwischen meinem Samen und deinem Samen in Ewigkeit!</verse>
+      </chapter>
+      <chapter osisID='1Sam.21'>
+        <title>David ißt von den Schaubroten in Nob.</title>
+        <verse osisID='1Sam.21.1'>Und er machte sich auf und ging, Jonathan aber kam in die Stadt.</verse>
+        <verse osisID='1Sam.21.2'>Und David kam gen Nob zu Achimelech, dem Priester. Und Achimelech erzitterte, als er David begegnete und sprach zu ihm: Warum bist du allein und kein Mann mit dir?</verse>
+        <verse osisID='1Sam.21.3'>Und David sprach zu Achimelech, dem Priester: Der König hat mir eine Sache<note>Wort</note> geboten und mir gesagt: Kein Mann soll etwas wissen von der Sache<note>Wort</note>, in der ich dich sende und die ich dir geboten, dem Jungen aber habe ich den und den Ort zu wissen getan.</verse>
+        <verse osisID='1Sam.21.4'>Und nun, was hast du unter deiner Hand? Gib mir fünf Brote in meine Hand oder was sich findet.</verse>
+        <verse osisID='1Sam.21.5'>Und der Priester antwortete David und sprach: Ich habe kein gemeines Brot unter meiner Hand, nur heiliges Brot ist da; wenn sich die Jungen nur von den Weibern gehalten haben.</verse>
+        <verse osisID='1Sam.21.6'>Und David antwortete dem Priester und sprach zu ihm: Das Weib ist uns vorenthalten, seit gestern und ehegestern, da ich auszog, und die Gefäße der Jungen sind heilig, und gemeiner Weg wird außerdem heute heilig durch die Gefäße.</verse>
+        <verse osisID='1Sam.21.7'>Und der Priester gab ihm Heiliges; denn es war daselbst kein Brot, außer den Schaubroten<note>Brot der Angesichte</note>, die man vor Jehovah wegnahm, um warmes Brot aufzulegen des Tages, da man sie weggenommen.</verse>
+        <verse osisID='1Sam.21.8'>Und es war daselbst an selbigem Tage ein Mann von den Knechten Sauls vor Jehovah zurückgehalten, und sein Name war Doeg, ein Edomiter, ein Gewaltiger der Hirten Sauls.</verse>
+        <verse osisID='1Sam.21.9'>Und David sprach zu Achimelech: Ist hier nicht unter deiner Hand ein Spieß oder Schwert, denn sowohl mein Schwert als auch mein Waffengerät habe ich nicht in meine Hand genommen, weil die Sache<note>Wort</note> des Königs dringend war.</verse>
+        <verse osisID='1Sam.21.10'>Und der Priester sprach: Das Schwert Goljaths, des Philisters, den du im Talgrunde Elah erschlagen, siehe, das ist gewickelt in ein Gewand hinter dem Ephod; wenn du das zu dir nehmen willst, so nimm es, denn außer ihm ist kein anderes hier. Und David sprach: Keines ist wie das, gib es mir.</verse>
+        <verse osisID='1Sam.21.11'>Und David machte sich auf und entwich an selbigem Tage vor Saul und kam zu Achisch, dem König von Gath.</verse>
+        <verse osisID='1Sam.21.12'>Und die Knechte des Achisch sprachen zu ihm: Ist das nicht David, der König des Landes, antworteten sie nicht von diesem in Reigen und sprachen: Saul schlug seine Tausende und David seine Zehntausende?</verse>
+        <verse osisID='1Sam.21.13'>Und David nahm<note>legte</note> sich diese Worte zu Herzen und fürchtete sich sehr vor Achisch, dem König von Gath.</verse>
+        <verse osisID='1Sam.21.14'>Und er verstellte<note>veränderte</note> seinen Verstand vor ihren Augen und raste unter ihren Händen und kratzte an den Türen des Tores, und sein Speichel<note>Geschmack</note> floß in seinen Bart herab.</verse>
+        <verse osisID='1Sam.21.15'>Und Achisch sprach zu seinen Knechten: Siehe, ihr seht, daß der Mann wahnsinnig ist. Warum habt ihr ihn zu mir hereingebracht?</verse>
+        <verse osisID='1Sam.21.16'>Mangelt es mir an Wahnsinnigen, daß ihr den da zu mir brachtet, um bei mir seinen Wahnsinn auszulassen? Soll der in mein Haus hereinkommen?</verse>
+      </chapter>
+      <chapter osisID='1Sam.22'>
+        <title>Schicksal der Priester zu Nob.</title>
+        <verse osisID='1Sam.22.1'>Und David ging von dannen und entrann in die Höhle von Adulam. Und seine Brüder und das ganze Haus seines Vaters hörten das und kamen zu ihm dorthin herab.</verse>
+        <verse osisID='1Sam.22.2'>Und es kamen zu ihm zusammen jeder Mann, der beengt, und jeder Mann, der verschuldet war, und jeder Mann von erbitterter Seele, und er ward zum Obersten über sie, und es waren bei ihm bei vierhundert Mann.</verse>
+        <verse osisID='1Sam.22.3'>Und von da ging David nach Mizpeh in Moab und sprach zum König von Moab: Laß doch meinen Vater und meine Mutter zu euch ausziehen, bis daß ich weiß, was Gott mir tun wird.</verse>
+        <verse osisID='1Sam.22.4'>Und er führte sie vor den König von Moab und sie blieben<note>saßen</note> bei ihm alle Tage, die David in den Festen war.</verse>
+        <verse osisID='1Sam.22.5'>Und der Prophet Gad sprach zu David: Bleibe<note>sitze</note> nicht in der Feste, gehe und komm in das Land Judah. Und David ging hin und kam in den Wald Chereth.</verse>
+        <verse osisID='1Sam.22.6'>Und Saul hörte, daß David und die Männer, die mit ihm waren, wären kund geworden. Und Saul saß zu Gibeah unter dem Hainbaum auf der Höhe und sein Spieß in seiner Hand, und alle seine Knechte bei ihm aufgestellt.</verse>
+        <verse osisID='1Sam.22.7'>Und Saul sprach zu seinen Knechten, die um ihn aufgestellt waren: Höret doch, Söhne Benjamins: Wird denn auch der Sohn Ischais euch allen Felder und Weinberge geben, euch alle zu Obersten von Tausenden und zu Obersten von Hunderten setzen?</verse>
+        <verse osisID='1Sam.22.8'>Daß ihr euch alle wider mich verbunden habt und keiner vor meinem Ohre offenbart, daß mein Sohn es mit dem Sohne Ischais abgeschlossen hat, und keiner von euch ist, den es meinetwegen kränkt und der es meinem Ohre offenbart, daß mein Sohn meinen Knecht wider mich erweckt, mir nachzustellen, wie es dieses Tages geschieht.</verse>
+        <verse osisID='1Sam.22.9'>Und Doeg, der Edomiter, der bei Sauls Knechten dastand, antwortete und sprach: Ich sah den Sohn Ischais nach Nob kommen zu Achimelech, dem Sohne Achitubs.</verse>
+        <verse osisID='1Sam.22.10'>Und er befragte für ihn Jehovah und gab ihm Zehrung; und gab ihm das Schwert Goljaths, des Philisters.</verse>
+        <verse osisID='1Sam.22.11'>Und der König sandte und ließ rufen Achimelech, Achitubs Sohn, den Priester und das ganze Haus seines Vaters, die Priester, die zu Nob waren, und sie kamen alle zum König.</verse>
+        <verse osisID='1Sam.22.12'>Und Saul sprach: Höre doch, Sohn Achitubs. Und er sprach: Siehe, hier bin ich, mein Herr!</verse>
+        <verse osisID='1Sam.22.13'>Und Saul sprach zu ihm: Warum habt ihr euch wider mich verbunden, du und der Sohn Ischais, daß du ihm Brot und ein Schwert gabst, und Gott für ihn fragtest, auf daß er wider mich aufstehe, mir nachstelle, wie dieses Tages geschieht?</verse>
+        <verse osisID='1Sam.22.14'>Und Achimelech antwortete dem König und sprach: Und wer ist unter allen deinen Knechten so treu wie David und Eidam des Königs und hingeht in deinem Gehorsam, und ist herrlich gehalten in deinem Hause?</verse>
+        <verse osisID='1Sam.22.15'>Habe ich heute erst angefangen, Gott für ihn zu fragen? Das sei ferne von mir! Der König lege seinem Knechte nichts<note>kein Wort</note> auf im ganzen Hause meines Vaters; denn dein Knecht wußte nichts<note>kein Wort</note> von alle dem, weder Kleines noch Großes.</verse>
+        <verse osisID='1Sam.22.16'>Der König aber sprach: Achimelech, du mußt des Todes sterben, du und das ganze Haus deines Vaters.</verse>
+        <verse osisID='1Sam.22.17'>Und der König sprach zu den Läufern, die um ihn her aufgestellt waren: Wendet euch um und tötet die Priester Jehovahs, denn auch ihre Hand ist mit David, und weil sie gewußt haben, daß er entwich, und haben es meinem Ohre nicht geoffenbart; aber die Knechte des Königs waren nicht willens, ihre Hand auszurecken, um die Priester Jehovahs niederzusto-ßen<note>auf die Priester zu stoßen</note>.</verse>
+        <verse osisID='1Sam.22.18'>Und der König sprach zu Doeg: Wende du dich um und stoße die Priester nieder<note>auf die Priester zu stoßen</note>. Und Doeg, der Edomiter, wandte sich um und stieß selbst die Priester nieder, und es starben an selbigem Tage fünfundachtzig Männer, die das leinene Ephod trugen.</verse>
+        <verse osisID='1Sam.22.19'>Und Nob, die Stadt der Priester, schlug er mit der Schärfe<note>mit dem Munde</note> des Schwertes, vom Mann bis zum Weib, vom Kindlein und bis zum Säugling, und Ochse und Esel und Kleinvieh mit der Schärfe<note>mit dem Munde</note> des Schwertes.</verse>
+        <verse osisID='1Sam.22.20'>Und es entrann ein Sohn von Achimelech, dem Sohne Achitubs, und sein Name war Abjathar, und er entwich dem David nach.</verse>
+        <verse osisID='1Sam.22.21'>Und Abjathar sagte dem David an, daß Saul die Priester Jehovahs erwürgt hätte.</verse>
+        <verse osisID='1Sam.22.22'>Und David sprach zu Abjathar: Ich wußte an jenem Tage, da Doeg, der Edomiter, daselbst war, daß er es dem Saul ansagen würde. Ich habe es allen Seelen von deines Vaters Haus angetan<note>herumgewendet</note>.</verse>
+        <verse osisID='1Sam.22.23'>Bleibe<note>sitze</note> bei mir, fürchte dich nicht; wer mir nach der Seele trachtet, trachtet auch dir nach der Seele, und mit mir bist du erhalten.</verse>
+      </chapter>
+      <chapter osisID='1Sam.23'>
+        <title>David verraten und verfolgt, wird wunderbar errettet.</title>
+        <verse osisID='1Sam.23.1'>Und sie sagten dem David an und sprachen: Siehe, die Philister streiten wider Kegilah und plündern die Tennen.</verse>
+        <verse osisID='1Sam.23.2'>Und David befragte Jehovah und sprach: Soll ich hingehen und diese Philister schlagen? Und Jehovah sprach zu David: Gehe und schlage die Philister und rette Kegilah.</verse>
+        <verse osisID='1Sam.23.3'>Und Davids Männer sprachen zu ihm: Siehe, wir sind hier in Judah in Furcht. Und wieviel mehr, wenn wir nach Kegilah wider die Schlachtreihen der Philister ziehen.</verse>
+        <verse osisID='1Sam.23.4'>Und David befragte wiederum Jehovah<note>tat hinzu zu fragen</note>, und Jehovah antwortete ihm und sprach: Mache dich auf und gehe hinab nach Kegilah; denn ich gebe die Philister in deine Hand.</verse>
+        <verse osisID='1Sam.23.5'>Und David zog mit seinen Männern nach Kegilah und stritt gegen die Philister, und trieb ihre Viehherden davon und schlug sie mit großer Schlacht, und David rettete die Einwohner Kegilahs.</verse>
+        <verse osisID='1Sam.23.6'>Und es geschah, da Abjathar, Achimelechs Sohn, zu David nach Kegilah entwich, kam das Ephod in seiner Hand herab.</verse>
+        <verse osisID='1Sam.23.7'>Und dem Saul ward angesagt, daß David nach Kegilah gekommen sei. Und Saul sprach: Gott hat ihn in meine Hand gegeben<note>entfremdet</note>, da er sich eingeschlossen und in eine Stadt mit Türen und Riegeln gekommen ist.</verse>
+        <verse osisID='1Sam.23.8'>Und Saul ließ es das ganze Volk hören, daß es zum Streite hinabgehe nach Kegilah, um David und seine Männer dort zu belagern.</verse>
+        <verse osisID='1Sam.23.9'>Und David wußte, daß Saul Böses wider ihn im Stillen sann, und sprach zu Abjathar, dem Priester: Bringe das Ephod herbei.</verse>
+        <verse osisID='1Sam.23.10'>Und David sprach: Jehovah, Gott Israels, dein Knecht hat gehört<note>hörend gehört</note>, daß Saul trachte, nach Kegilah zu kommen, um die Stadt wegen meiner zu verderben.</verse>
+        <verse osisID='1Sam.23.11'>Werden mich die Bürger von Kegilah in seine Hand überantworten<note>einschließen</note>? Wird Saul herabkommen, wie dein Knecht gehört hat? Jehovah, Gott Israels, sage es doch an deinem Knechte. Und Jehovah sprach: Er wird herabkommen.</verse>
+        <verse osisID='1Sam.23.12'>Und David sprach: Werden die Bürger von Kegilah mich und meine Männer in Sauls Hand überantworten<note>einschließen</note>? Und Jehovah sprach: Sie werden euch überantworten.</verse>
+        <verse osisID='1Sam.23.13'>Und David machte sich auf und seine Männer, bei sechshundert Mann, und sie zogen aus von Kegilah und gingen, wohin sie gehen konnten. Und es ward dem Saul angesagt, daß David aus Kegilah entronnen war; und er unterließ es, auszuziehen.</verse>
+        <verse osisID='1Sam.23.14'>Und David wohnte<note>saß</note> in der Wüste in den Festen und blieb<note>saß</note> auf dem Gebirge in der Wüste Siph, und Saul suchte ihn alle Tage. Gott gab ihn aber nicht in seine Hand.</verse>
+        <verse osisID='1Sam.23.15'>Und David sah, daß Saul ausgezogen war, ihm nach der Seele zu trachten. Aber David war in der Wüste Siph in dem Forste.</verse>
+        <verse osisID='1Sam.23.16'>Und Jonathan, Sauls Sohn, machte sich auf und ging zu David in den Forst und stärkte seine Hand in Gott;</verse>
+        <verse osisID='1Sam.23.17'>Und sprach zu ihm: Fürchte dich nicht; denn die Hand meines Vaters Saul wird dich nicht finden, und du wirst König über Israel; ich aber will der Zweite nach dir sein, und auch mein Vater Saul weiß solches.</verse>
+        <verse osisID='1Sam.23.18'>Und die zwei schlossen einen Bund vor Jehovah, und David blieb<note>saß</note> im Forst, Jonathan aber ging nach seinem Hause.</verse>
+        <verse osisID='1Sam.23.19'>Und die Siphiter gingen zu Saul hinauf nach Gibeah und sprachen: Hält David sich nicht bei uns verborgen in den Festen, in dem Forste, auf dem Hügel Chachilah, der rechts von dem Wüstenlande ist.</verse>
+        <verse osisID='1Sam.23.20'>Und nun komme herab, wie es deine Seele gelüstet herabzukommen, o König, und an uns ist es, ihn in die Hand des Königs zu überantworten<note>einzuschließen</note>.</verse>
+        <verse osisID='1Sam.23.21'>Und Saul sprach: Gesegnet seid ihr von Jehovah, daß ihr mich bemitleidet.</verse>
+        <verse osisID='1Sam.23.22'>Gehet doch, bereitet ferner, daß ihr wisset und sehet den Ort, da sein Fuß ist, wer ihn dort gesehen hat; denn man hat mir gesagt, daß er gar listig ist.</verse>
+        <verse osisID='1Sam.23.23'>Und sehet und wisset alle die Verstecke, wohin er sich versteckt, und kommt zu mir zurück, wenn ihr gewiß seid, auf daß ich mit euch ziehe. Und es soll sein, so er im Lande ist, so will ich ihn ausforschen unter allen Tausenden Judahs.</verse>
+        <verse osisID='1Sam.23.24'>Und sie machten sich auf und gingen nach Siph vor Saul her; und David und seine Männer waren in der Wüste Maon, in der Arabah, zur Rechten von dem Wüstenland.</verse>
+        <verse osisID='1Sam.23.25'>Und Saul ging und seine Männer, um zu suchen, und sie sagten es dem David an, und er ging hinab in die Felsenklippe und blieb<note>saß</note> in der Wüste Maon. Und Saul hörte es und setzte hinter David nach in die Wüste Maon.</verse>
+        <verse osisID='1Sam.23.26'>Und Saul zog auf der einen Seite des Berges, und David und seine Männer auf der anderen Seite des Berges, und David war in Hast, dem Saul zu entgehen. Saul aber und seine Männer umgaben David und seine Männer, damit er sie fasse.</verse>
+        <verse osisID='1Sam.23.27'>Und es kam ein Bote zu Saul und sprach: Komm in Eile, denn die Philister sind in das Land eingefallen.</verse>
+        <verse osisID='1Sam.23.28'>Und Saul kehrte um von der Nachsetzung hinter David und zog den Philistern entgegen. Darum nennen sie den Ort Sela-Hammachlekoth<note>Felsklippe der Entschlüpfungen</note>.</verse>
+      </chapter>
+      <chapter osisID='1Sam.24'>
+        <title>David mit Saul in der Höhle.</title>
+        <verse osisID='1Sam.24.1'>Und David zog von dannen hinauf und blieb<note>saß</note> in den Festen En-Gedi.</verse>
+        <verse osisID='1Sam.24.2'>Und es geschah, als Saul von den Philistern zurückkam, da sagten sie ihm an und sprachen: Siehe, David ist in der Wüste von En-Gedi.</verse>
+        <verse osisID='1Sam.24.3'>Und Saul nahm dreitausend Mann, erwählt aus ganz Israel, und zog hin, den David und seine Männer auf den Felsen der Gemsen zu suchen.</verse>
+        <verse osisID='1Sam.24.4'>Und da er zu den Schafhürden<note>Hürden des Kleinviehs</note> am Wege kam und daselbst eine Höhle war, ging Saul hinein, seine Füße zu bedecken; David aber und seine Männer saßen an den Seiten<note>Hüften</note> der Höhle.</verse>
+        <verse osisID='1Sam.24.5'>Und die Männer Davids sprachen zu ihm: Siehe, das ist der Tag, von dem Jehovah dir gesprochen: Siehe, Ich gebe deinen Feind in deine Hand, daß du ihm tust, wie es gut in deinen Augen ist. Und David machte sich auf und beschnitt sachte den Fittich von dem Oberkleide, das Saul hatte.</verse>
+        <verse osisID='1Sam.24.6'>Und es geschah danach, daß Davids Herz ihm schlug, darum, daß er dem Saul den Fittich abgeschnitten hatte.</verse>
+        <verse osisID='1Sam.24.7'>Und er sprach zu seinen Männern: Ferne sei von mir um Jehovahs willen<note>von Jehovah</note>, daß ich solches<note>dieses Wort</note> tue an meinem Herrn, dem Gesalbten Jehovahs, daß ich meine Hand wider ihn ausreckte; denn Jehovahs Gesalbter ist er.</verse>
+        <verse osisID='1Sam.24.8'>Und David hielt<note>zerriß</note> seine Männer mit den Worten ab<note>zerriß</note> und gab nicht zu, daß sie wider Saul aufständen. Saul aber machte sich auf aus der Höhle und zog des Weges.</verse>
+        <verse osisID='1Sam.24.9'>Und David machte sich danach auf, und ging aus von der Höhle und rief Saul nach und sprach: Mein Herr König! Und Saul blickte hinter sich, und David neigte sich mit dem Antlitz zur Erde und fiel nieder.</verse>
+        <verse osisID='1Sam.24.10'>Und David sprach zu Saul: Warum hörst du auf der Menschen Worte, die da sagen: Siehe, David sucht Böses wider dich.</verse>
+        <verse osisID='1Sam.24.11'>Siehe, an diesem Tage haben deine Augen gesehen, daß dich Jehovah heute in der Höhle in meine Hand gegeben hat, und man sagte: Ich sollte dich erwürgen, aber man schonte deiner, und ich sprach: Ich will nicht meine Hand ausrecken wider meinen Herrn, denn er ist der Gesalbte Jehovahs.</verse>
+        <verse osisID='1Sam.24.12'>Und siehe, mein Vater, siehe auch den Fittich deines Oberkleides in meiner Hand. Daran, daß ich den Fittich deines Oberkleides abgeschnitten und dich nicht erwürgt habe, wisse und siehe, daß in meiner Hand nichts Böses und keine Übertretung ist, und daß ich nicht wider dich gesündigt habe, du aber jagst meiner Seele nach, sie wegzunehmen.</verse>
+        <verse osisID='1Sam.24.13'>Jehovah richte zwischen mir und dir, und Jehovah räche mich an dir! Aber meine Hand soll nicht wider dich sein.</verse>
+        <verse osisID='1Sam.24.14'>Wie das Sprichwort der Vorzeit sagt: Von Ungerechten geht aus Ungerechtigkeit; aber meine Hand soll nicht wider dich sein.</verse>
+        <verse osisID='1Sam.24.15'>Wem nach zieht der König von Israel aus? Hinter wem setzest du nach? Hinter einem toten Hunde, hinter einem Floh!</verse>
+        <verse osisID='1Sam.24.16'>Und Jehovah urteile und richte zwischen mir und dir, und sehe und hadere meinen Hader, und rechte für mich von deiner Hand.</verse>
+        <verse osisID='1Sam.24.17'>Und als David vollendet, diese Worte an Saul zu reden, sprach Saul: Ist das deine Stimme, mein Sohn David? Und Saul hob seine Stimme auf und weinte,</verse>
+        <verse osisID='1Sam.24.18'>Und sprach zu David: Du bist gerechter, denn ich, denn du hast mir Gutes erwiesen; ich aber habe dir Böses erwiesen.</verse>
+        <verse osisID='1Sam.24.19'>Und du hast mir heute angesagt, daß du mir Gutes getan, daß Jehovah mich in deine Hand überantwortet und du mich nicht erwürgt hast.</verse>
+        <verse osisID='1Sam.24.20'>Und wie sollte ein Mann seinen Feind finden und ihn auf gutem Wege entlassen? Und Jehovah vergelte dir Gutes für das, was du an diesem Tage hast an mir getan.</verse>
+        <verse osisID='1Sam.24.21'>Und nun siehe, ich weiß, daß du als König regieren wirst, und daß das Königreich Israel in deine Hand bestätigt wird.</verse>
+        <verse osisID='1Sam.24.22'>Und nun schwöre mir bei Jehovah, daß du meinen Samen nach mir nicht ausrottest und meinen Namen von meines Vaters Hause nicht vernichtest.</verse>
+        <verse osisID='1Sam.24.23'>Und David schwur dem Saul. Und Saul ging nach seinem Hause, David aber und seine Männer stiegen in die Feste hinauf.</verse>
+      </chapter>
+      <chapter osisID='1Sam.25'>
+        <title>Samuels Tod. Nabals Übermut. - David nimmt Abigail zum Weibe.</title>
+        <verse osisID='1Sam.25.1'>Und Samuel starb, und ganz Israel kam zusammen und klagte um ihn, und sie begruben ihn in seinem Hause zu Ramah. Und David machte sich auf und ging hinab in die Wüste Paran.</verse>
+        <verse osisID='1Sam.25.2'>Und es war in Maon ein Mann, der hatte sein Tun in Karmel, und der Mann war sehr groß, und er hatte dreitausend Schafe<note>Kleinvieh</note> und tausend Ziegen und war bei der Schur seiner Schafe<note>Kleinvieh</note> in Karmel.</verse>
+        <verse osisID='1Sam.25.3'>Und der Name des Mannes war Nabal und seines Weibes Name war Abigail. Und das Weib war gut, klug und schön von Gestalt; der Mann aber war hart und handelte böse, und er war ein Kalebiter.</verse>
+        <verse osisID='1Sam.25.4'>Und David hörte in der Wüste, daß Nabal seine Schafe<note>Kleinvieh</note> schor.</verse>
+        <verse osisID='1Sam.25.5'>Und David sandte zehn Jungen und David sprach zu den Jungen: Gehet hinauf gen Karmel und geht zu Nabal und fragt ihn in meinem Namen um sein Wohlsein<note>um den Frieden</note>.</verse>
+        <verse osisID='1Sam.25.6'>Und sprechet so: Für dein Leben sei Friede mit dir und Friede mit deinem Hause und Friede mit allem, was dein ist!</verse>
+        <verse osisID='1Sam.25.7'>Und nun höre ich, daß sie dir scheren. Nun waren deine Hirten mit uns, wir haben sie nicht zuschanden gemacht, auch wurde nichts von ihnen vermißt alle Tage, die sie in Karmel waren.</verse>
+        <verse osisID='1Sam.25.8'>Frage deine Jungen und sie werden es dir ansagen. Es mögen denn die Jungen Gnade finden in deinen Augen, da wir an einem guten Tage gekommen sind; gib doch, was deine Hand findet, deinen Knechten und deinem Sohn David.</verse>
+        <verse osisID='1Sam.25.9'>Und es kamen die Jungen Davids und redeten zu Nabal nach allen diesen Worten im Namen Davids und hielten inne.</verse>
+        <verse osisID='1Sam.25.10'>Und Nabal antwortete den Knechten Davids und sprach: Wer ist David, und wer ist der Sohn Ischais? Viele Knechte laufen heutzutage weg<note>brechen ab</note>, jeder Mann von seinem Herrn.</verse>
+        <verse osisID='1Sam.25.11'>Und soll ich mein Brot und mein Wasser und das Schlachtvieh, das ich für meine Scherer geschlachtet habe, nehmen und es Männern geben, von denen ich nicht weiß, woher sie sind?</verse>
+        <verse osisID='1Sam.25.12'>Und die Jungen Davids kehrten um auf ihrem Weg, und sie kehrten zurück und kamen und sagten ihm an nach allen diesen Worten.</verse>
+        <verse osisID='1Sam.25.13'>Und David sprach zu seinen Männern: Jeder Mann gürte sich sein Schwert um. Und jeder Mann gürtete sich sein Schwert um, und auch David gürtete sein Schwert um, und sie zogen hinauf hinter David her, bei vierhundert Mann, und zweihundert blieben<note>saßen</note> zurück beim Gerät.</verse>
+        <verse osisID='1Sam.25.14'>Und der Abigail, Nabals Weibe, sagte dies ein Junge von den Jungen an und sprach: Siehe, David hat Boten gesandt aus der Wüste, um unseren Herrn zu segnen; er ist aber über sie hergefallen.</verse>
+        <verse osisID='1Sam.25.15'>Die Männer aber waren sehr gut gegen uns, und wir wurden nicht zuschanden gemacht und vermißten nichts alle Tage, die wir mit ihnen gezogen, da wir auf dem Felde waren.</verse>
+        <verse osisID='1Sam.25.16'>Eine Mauer waren sie für uns, sowohl bei Nacht als bei Tag, alle Tage, die wir mit ihnen waren, um das Kleinvieh zu weiden.</verse>
+        <verse osisID='1Sam.25.17'>Und nun wisse und siehe, was du tust, denn Böses ist über unseren Herrn und über sein ganzes Haus beschlossen<note>vollendet</note>. Er aber ist ein Belialssohn, so daß man nicht mit ihm reden kann.</verse>
+        <verse osisID='1Sam.25.18'>Und Abigail eilte und nahm zweihundert Brote und zwei Schläuche Wein und fünf zubereitete Schafe und fünf Seah geröstetes Korn und hundert Traubenkuchen und zweihundert Feigenkuchen und legte sie auf die Esel.</verse>
+        <verse osisID='1Sam.25.19'>Und sprach zu ihren Jungen: Geht vor mir her, sehet, ich komme hinter euch, ihrem Manne Nabal aber sagte sie es nicht an.</verse>
+        <verse osisID='1Sam.25.20'>Und es geschah, wie sie auf dem Esel ritt und vom Berge verborgen herabkam, siehe, da kamen David und seine Männer herab, ihr entgegen, und sie traf auf sie.</verse>
+        <verse osisID='1Sam.25.21'>David aber hatte gesagt: Umsonst<note>für eine Lüge</note> also habe ich gehütet in der Wüste alles, was diesem gehört, daß von all dem Seinen nichts vermißt worden ist, und er gibt mir Böses für Gutes zurück.</verse>
+        <verse osisID='1Sam.25.22'>So tue Gott den Feinden Davids und so fahre Er fort, wenn ich von allem, das er hat, bis zum Licht des Morgens einen verbleiben lasse, der die Wand anpißt.</verse>
+        <verse osisID='1Sam.25.23'>Und Abigail sah David und ließ sich eilig herab vom Esel, und fiel vor Davids Antlitz auf ihr Angesicht und beugte sich nieder zur Erde.</verse>
+        <verse osisID='1Sam.25.24'>Und sie fiel ihm zu Füßen und sprach: Auf mir, mein Herr, sei die Missetat, und laß doch reden deine Magd in deine Ohren, und höre an die Worte deiner Magd.</verse>
+        <verse osisID='1Sam.25.25'>Mein Herr nehme es sich doch nicht zu Herzen wegen diesem Belialsmanne, dem Nabal<note>d.h. Tor</note>; denn wie sein Name, so ist er; ein Tor ist sein Name und Torheit ist bei ihm; aber ich, deine Magd, habe die Jungen meines Herrn, die du gesandt hast, nicht gesehen.</verse>
+        <verse osisID='1Sam.25.26'>Nun aber, mein Herr, beim Leben Jehovahs und beim Leben deiner Seele, Jehovah hat dich abgehalten, daß du nicht auf Blut kommst und deine Hand dir geholfen habe. Und nunmehr mögen wie Nabal sein deine Feinde und die wider meinen Herrn Böses sinnen<note>suchen</note>.</verse>
+        <verse osisID='1Sam.25.27'>Und nun laß diesen Segen, den deine Dienstmagd meinem Herrn gebracht, den Jungen geben, die zu den Füßen meines Herrn einherwandeln.</verse>
+        <verse osisID='1Sam.25.28'>Verzeihe nun die Übertretung deiner Magd; denn Jehovah wird meinem Herrn ein festes Haus machen<note>machend machen</note>, weil mein Herr die Streite Jehovahs streitet und nichts Böses werde in dir gefunden in deinen Tagen.</verse>
+        <verse osisID='1Sam.25.29'>Und macht sich ein Mensch auf, dir nachzusetzen und dir nach der Seele zu trachten, so sei die Seele meines Herrn in das Bündel der Lebendigen bei Jehovah, deinem Gotte, eingebunden, und die Seele deiner Feinde schleudere er weg mitten aus der Schleuderpfanne<note>aus der hohlen Hand der Schleuder</note>.</verse>
+        <verse osisID='1Sam.25.30'>Und es wird geschehen, wenn Jehovah meinem Herrn tun wird nach allem Guten, das er über dich geredet hat, und dich zum Führer über Israel entbietet,</verse>
+        <verse osisID='1Sam.25.31'>So wird dir dies nicht zum Anstoß und meinem Herrn nicht zum Straucheln des Herzens sein, daß er Blut vergossen umsonst, und daß mein Herr sich selbst geholfen. So wird Jehovah meinem Herrn wohltun, und du wirst deiner Magd gedenken.</verse>
+        <verse osisID='1Sam.25.32'>Und David sprach zu Abigail: Gesegnet sei Jehovah, der Gott Israels, Der dich an diesem Tage mir entgegengesendet hat.</verse>
+        <verse osisID='1Sam.25.33'>Und gesegnet sei deine Verständigkeit<note>Geschmack</note> und gesegnet du, daß du mir an diesem Tage gewehrt hast, mit Blut zu kommen und mir mit eigener Hand zu helfen.</verse>
+        <verse osisID='1Sam.25.34'>Denn wahrlich, beim Leben Jehovahs des Gottes Israels, Der mich abgehalten, dir Böses zu tun, wärest du nicht ein Eile mir entgegengekommen, dem Nabal wäre bis zum Licht des Morgens nicht einer übergeblieben, der die Wand anpißt.</verse>
+        <verse osisID='1Sam.25.35'>Und David nahm von ihrer Hand, was sie ihm brachte und sprach zu ihr: Zieh hinauf in Frieden in dein Haus! Siehe, ich habe auf deine Stimme gehört und dein Angesicht erhoben.</verse>
+        <verse osisID='1Sam.25.36'>Und Abigail kam zu Nabal, und siehe, er hatte ein Gastmahl in seinem Hause wie ein Gastmahl des Königs, und das Herz Nabals war guter Dinge, und er war sehr betrunken. Sie aber sagte ihm kein Wort an, weder kleines noch großes, bis zum Licht des Morgens.</verse>
+        <verse osisID='1Sam.25.37'>Und es geschah am Morgen, da der Wein von Nabal ausgegangen war, sagte ihm sein Weib diese Worte an. Und sein Herz erstarb in seinem Inneren, und er ward zum Stein.</verse>
+        <verse osisID='1Sam.25.38'>Und es geschah nach zehn Tagen, daß Jehovah den Nabal schlug, und er starb.</verse>
+        <verse osisID='1Sam.25.39'>Und da David hörte, daß Nabal tot war, sprach er: Gesegnet sei Jehovah, Der den Hader ob meiner Schmach von der Hand Nabals gehadert hat und Seinen Knecht vom Bösen zurückgehalten, Nabals Bosheit aber hat Jehovah auf sein Haupt zurückgebracht. Und David sandte und redete mit Abigail, daß er sie zum Weibe für sich nehme.</verse>
+        <verse osisID='1Sam.25.40'>Und Davids Knechte kamen zu Abigail nach Karmel und redeten zu ihr und sprachen: David hat uns zu dir gesandt, dich zum Weibe zu nehmen für sich.</verse>
+        <verse osisID='1Sam.25.41'>Und sie stand auf und beugte sich mit dem Antlitz nieder zur Erde und sprach: Siehe, hier ist deine Magd zur Dienstmagd, die Füße der Knechte meines Herrn zu waschen.</verse>
+        <verse osisID='1Sam.25.42'>Und Abigail eilte und machte sich auf und ritt auf einem Esel, und ihre fünf Mädchen folgten ihr nach<note>folgten ihrem Fuße</note>, und sie ging hinter den Boten Davids her und ward ihm zum Weibe.</verse>
+        <verse osisID='1Sam.25.43'>Und David nahm die Achinoam aus Jisreel, und sie wurden beide seine Weiber.</verse>
+        <verse osisID='1Sam.25.44'>Saul aber gab seine Tochter Michal, Davids Weib, dem Palti, dem Sohne des Laisch, aus Gallim.</verse>
+      </chapter>
+      <chapter osisID='1Sam.26'>
+        <title>David nimmt Sauls Spieß und Wasserkrug.</title>
+        <verse osisID='1Sam.26.1'>Und die Siphiter kamen zu Saul nach Gibeah und sprachen: Hält David sich nicht verborgen auf dem Hügel Chachilah vor dem Wüstenland?</verse>
+        <verse osisID='1Sam.26.2'>Und Saul machte sich auf und ging hinab nach der Wüste Siph, und mit ihm dreitausend Mann, aus Israel erwählt, David in der Wüste Siph zu suchen.</verse>
+        <verse osisID='1Sam.26.3'>Und Saul lagerte auf dem Hügel Chachilah, der vor dem Wüstenland am Wege ist. David aber blieb<note>saß</note> in der Wüste; und er sah, daß Saul nach ihm in die Wüste kam.</verse>
+        <verse osisID='1Sam.26.4'>Und David sandte Kundschafter aus und erfuhr, daß Saul wirklich gekommen sei.</verse>
+        <verse osisID='1Sam.26.5'>Und David machte sich auf und kam an den Ort, da Saul lagerte; und David sah den Ort, wo Saul lag, und Abner, der Sohn Ners, der Oberste seines Heeres; Saul aber lag in der Wagenburg und das Volk lagerte um ihn her.</verse>
+        <verse osisID='1Sam.26.6'>Und David antwortete und sprach zu Achimelech, dem Chethiter, und zu Abischai, dem Sohne Zerujahs, dem Bruder Joabs, und sprach: Wer geht mit mir hinab zu Saul zum Lager? Und Abischai sprach: Ich gehe mit dir hinab.</verse>
+        <verse osisID='1Sam.26.7'>Und David kam und Abischai zu dem Volke in der Nacht, und siehe, Saul lag schlafend in der Wagenburg und sein Spieß stak zu seinen Häupten in der Erde. Abner aber und das Volk lagen um ihn her.</verse>
+        <verse osisID='1Sam.26.8'>Und Abischai sprach zu David: Gott hat heute deinen Feind in deine Hand überantwortet<note>eingeschlossen</note>, und nun laß mich ihn doch mit einem Male mit dem Spieß schlagen in die Erde, daß es keines zweiten bedarf.</verse>
+        <verse osisID='1Sam.26.9'>David aber sprach zu Abischai: Du sollst ihn nicht verderben; denn wer hat seine Hand wider den Gesalbten Jehovahs ausgereckt, und ist ungestraft geblieben?</verse>
+        <verse osisID='1Sam.26.10'>Und David sprach: Beim Leben Jehovahs, nur Jehovah soll ihn schlagen<note>stoßen</note>, oder es kommt sein Tag, daß er stirbt, oder er geht in den Streit hinab und wird weggerafft.</verse>
+        <verse osisID='1Sam.26.11'>Fern sei es von mir, vor Jehovah meine Hand wider den Gesalbten Jehovahs auszurekken! Und nun, nimm doch den Spieß zu seinen Häupten und den Wasserkrug, und laß uns gehen.</verse>
+        <verse osisID='1Sam.26.12'>Und David nahm den Spieß und den Wasserkrug von den Häupten Sauls, und sie gingen für sich, und niemand sah es und niemand wußte es und niemand erwachte; denn sie alle schliefen, weil ein tiefer Schlaf von Jehovah auf sie gefallen war.</verse>
+        <verse osisID='1Sam.26.13'>Und David ging hinüber nach der anderen Seite und stand auf der Spitze<note>dem Haupte</note> des Berges von ferne. Viel Raum<note>Ort</note> war zwischen ihnen.</verse>
+        <verse osisID='1Sam.26.14'>Und David rief dem Volk und dem Abner, dem Sohne Ners und sprach: Willst du nicht antworten, Abner? Und Abner antwortete und sprach: Wer bist du, daß du so dem König rufst?</verse>
+        <verse osisID='1Sam.26.15'>Und David sprach zu Abner: Bist du nicht ein Mann? Und wer ist wie du in Israel? Warum denn hast du deinen Herrn, den König, nicht behütet? Denn einer vom Volk ist hingekommen, den König, deinen Herrn, zu verderben.</verse>
+        <verse osisID='1Sam.26.16'>Das ist kein gut Ding<note>Wort</note>, das du getan; beim Leben Jehovahs, ihr seid Söhne des Todes, daß ihr nicht über euren Herrn, über den Gesalbten Jehovahs, gewacht, und nun siehe, wo ist der Spieß des Königs und der Wasserkrug zu seinen Häupten?</verse>
+        <verse osisID='1Sam.26.17'>Und Saul erkannte die Stimme Davids und sprach: Ist das deine Stimme, mein Sohn David? Und David sprach: Meine Stimme ist es, mein Herr König.</verse>
+        <verse osisID='1Sam.26.18'>Und er sprach: Warum ist dies, daß mein Herr seinem Knechte nachsetzt? Was habe ich denn getan und was ist Böses in meiner Hand?</verse>
+        <verse osisID='1Sam.26.19'>Und nun höre doch, mein Herr König, die Worte seines Knechtes. Wenn Jehovah dich antreibt wider mich, so rieche Er ein Speiseopfer; wenn es aber Menschensöhne sind, so seien sie verflucht vor Jehovah, denn an diesem Tage haben sie mich vertrieben von der Teilnahme an dem Erbe Jehovahs und sprechen: Gehe, diene anderen Göttern;</verse>
+        <verse osisID='1Sam.26.20'>Und nun falle nicht mein Blut zur Erde vor dem Angesicht Jehovahs; denn der König Israels ist ausgezogen, einen Floh zu suchen, wie man dem Rebhuhn nachsetzt auf den Bergen.</verse>
+        <verse osisID='1Sam.26.21'>Und Saul sprach: Ich habe gesündigt, kehre zurück, mein Sohn David, ich will dir nichts Böses mehr tun, darum, daß an diesem Tage meine Seele kostbar war in deinen Augen; siehe, ich habe närrisch gehandelt und bin vielfach sehr irre gegangen.</verse>
+        <verse osisID='1Sam.26.22'>Und David antwortete und sprach: Siehe, den Spieß des Königs, so laß herüberkommen einen der Jungen, daß er ihn hole.</verse>
+        <verse osisID='1Sam.26.23'>Und Jehovah wird jedem Manne wiedergeben nach seiner Gerechtigkeit und seiner Treue, weil Jehovah dich heute in meine Hand gegeben, und ich war nicht willens, meine Hand auszurecken wider den Gesalbten Jehovahs.</verse>
+        <verse osisID='1Sam.26.24'>Und siehe, wie an diesem Tage deine Seele in meinen Augen groß war, also möge meine Seele in den Augen Jehovahs groß sein und Er mich aus aller Drangsal erretten.</verse>
+        <verse osisID='1Sam.26.25'>Und Saul sprach zu David: Gesegnet seist du, mein Sohn David! Du wirst es auch gewißlich tun<note>tuend tun</note> und auch vermögen<note>vermögend vermögen</note>. Und David ging seines Weges, und Saul kehrte zurück an seinen Ort.</verse>
+      </chapter>
+      <chapter osisID='1Sam.27'>
+        <title>David wohnt in Ziklag.</title>
+        <verse osisID='1Sam.27.1'>Und David sprach in seinem Herzen: Nun werde ich eines Tages durch Sauls Hand weggerafft werden. Es ist nichts gut für mich, als daß ich entrinne<note>entrinnend entrinne</note> in der Philister Land, auf daß Saul es aufgebe, mich weiter in aller Grenze Israels zu suchen; und ich entrinne aus seiner Hand.</verse>
+        <verse osisID='1Sam.27.2'>Und David machte sich auf und zog hinüber, er und die sechshundert Mann, die bei ihm waren, zu Achisch, Maochs Sohn, dem König von Gath.</verse>
+        <verse osisID='1Sam.27.3'>Und David blieb<note>saß</note> bei Achisch in Gath, er und seine Männer, jeder Mann mit seinem Hause; David mit seinen zwei Weibern: Achinoam, die Jisreelitin, und Abigail, Nabals Weib, die Karmelitin.</verse>
+        <verse osisID='1Sam.27.4'>Und dem Saul ward angesagt, David sei nach Gath entwichen; und er suchte ihn ferner nicht mehr<note>tat nicht hinzu, ihn weiter zu suchen</note>.</verse>
+        <verse osisID='1Sam.27.5'>Und David sprach zu Achisch: Wenn ich nun in deinen Augen Gnade gefunden, so laß mir einen Ort in einer der Städte auf dem Felde geben, daß ich daselbst wohne<note>sitze</note>; warum sollte dein Knecht mit dir in der Königsstadt wohnen<note>sitzen</note>?</verse>
+        <verse osisID='1Sam.27.6'>Und Achisch gab ihm an demselben Tage Ziklag; deshalb gehörte Ziklag den Königen Judahs bis auf diesen Tag.</verse>
+        <verse osisID='1Sam.27.7'>Und die Zahl der Tage, die David im Gefilde der Philister wohnte<note>saß</note> ist ein Jahr<note>Tage</note> und vier Monate.</verse>
+        <verse osisID='1Sam.27.8'>Und David zog mit seinen Männern hinauf, und streifte wider die Geschuriter und die Girsiter und die Amalekiter; denn diese bewohnten von Alters her das Land, wo man kommt nach Schur und bis zum Lande Ägypten.</verse>
+        <verse osisID='1Sam.27.9'>Und David schlug das Land und ließ weder Mann noch Weib am Leben, und er nahm Kleinvieh und Rinder und Esel und Kamele und Kleider, und kehrte zurück und kam zu Achisch.</verse>
+        <verse osisID='1Sam.27.10'>Und Achisch sprach: Seid ihr heute nicht gestreift? Und David sprach: Gegen die Mittagseite von Judah und gegen die Mittagseite der Jerachmeeliter und gegen die Mittagseite der Keniter.</verse>
+        <verse osisID='1Sam.27.11'>Und David ließ weder Mann noch Weib am Leben, um sie nach Gath zu bringen, indem er sagte: Sie könnten wider uns ansagen und sprechen: So hat David getan und so ist seine Weise<note>sein Gericht</note> alle Tage, die er im Gefilde der Philister wohnt<note>sitzt</note>.</verse>
+        <verse osisID='1Sam.27.12'>Und Achisch glaubte dem David und sprach: Er hat sich stinkend gemacht<note>stinkend hat er sich stinken gemacht</note> bei seinem Volke Israel und ist mein Knecht ewiglich.</verse>
+      </chapter>
+      <chapter osisID='1Sam.28'>
+        <title>Saul sucht Rat bei der Zauberin in En-Dor.</title>
+        <verse osisID='1Sam.28.1'>Und es geschah in diesen Tagen, daß die Philister ihre Kriegshaufen<note>Lager</note> zu einem Kriegszug zusammenzogen, um wider Israel zu streiten. Und Achisch sprach zu David: Du sollst wissen<note>wissend sollst du wissen</note>, daß du mit mir in dem Kriegshaufen<note>Lager</note> ausziehen mußt, du und deine Männer.</verse>
+        <verse osisID='1Sam.28.2'>Und David sprach zu Achisch: Du sollst wissen, was dein Knecht tun wird. Und Achisch sprach zu David: Deshalb werde ich dich auch zum Hüter meines Hauptes setzen, alle Tage.</verse>
+        <verse osisID='1Sam.28.3'>Und Samuel war gestorben und ganz Israel hatte um ihn geklagt und ihn begraben in Ramah, in seiner Stadt. Und Saul hatte die Geisterbanner und Zeichendeuter aus dem Lande weggetan.</verse>
+        <verse osisID='1Sam.28.4'>Und die Philister zogen sich zusammen und kamen und lagerten in Schunem. Und Saul zog ganz Israel zusammen, und sie lagerten zu Gilboa.</verse>
+        <verse osisID='1Sam.28.5'>Und Saul sah das Lager der Philister und fürchtete sich, und sein Herz erzitterte sehr.</verse>
+        <verse osisID='1Sam.28.6'>Und Saul fragte bei Jehovah an, Jehovah aber antwortete ihm nicht, weder durch Träume, noch durch die Urim, noch durch die Propheten.</verse>
+        <verse osisID='1Sam.28.7'>Und Saul sprach zu seinen Knechten: Sucht mir ein Weib, das Tote beschwört<note>Meisterin der Totenbanner</note>, und ich will zu ihr gehen und sie befragen. Und seine Knechte sprachen zu ihm: Siehe, ein solches Weib, die Tote beschwört<note>Meisterin der Totenbanner</note>, ist in En-Dor.</verse>
+        <verse osisID='1Sam.28.8'>Und Saul machte sich unkenntlich und zog andere Kleider an, und ging hin, er und zwei Männer mit ihm, und sie kamen zu dem Weibe bei Nacht und er sprach: Wahrsage mir durch einen Geist und bringe mir den herauf, den ich dir sagen werde.</verse>
+        <verse osisID='1Sam.28.9'>Und das Weib sprach zu ihm: Siehe, du weißt, was Saul getan hat, daß er die Geisterbanner und Zeichendeuter aus dem Lande ausgerottet hat, und warum stellst du meiner Seele einen Fallstrick, mich zu töten?</verse>
+        <verse osisID='1Sam.28.10'>Und Saul schwur ihr bei Jehovah und sprach: Beim Leben Jehovahs, es soll dir nichts Mißliches<note>Missetat</note> widerfahren in dieser Sache<note>Wort</note>.</verse>
+        <verse osisID='1Sam.28.11'>Und das Weib sprach: Wen soll ich dir heraufbringen? Und er sprach: Den Samuel sollst du mir heraufbringen.</verse>
+        <verse osisID='1Sam.28.12'>Und das Weib sah den Samuel und schrie auf mit großer Stimme, und das Weib sprach zu Saul und sagte: Warum hast du mich betrogen? Und du bist Saul!</verse>
+        <verse osisID='1Sam.28.13'>Und der König sprach zu ihr: Fürchte dich nicht! Was hast du denn gesehen? Und das Weib sprach zu Saul: Götter sehe ich heraufsteigen aus der Erde.</verse>
+        <verse osisID='1Sam.28.14'>Und er sprach zu ihr: Wie ist seine Gestalt? Und sie sprach: Ein alter Mann stieg herauf und war in ein Oberkleid eingehüllt. Und Saul erkannte, daß es Samuel war, und er neigte sich mit seinem Antlitz zur Erde und beugte sich nieder.</verse>
+        <verse osisID='1Sam.28.15'>Und Samuel sprach zu Saul: Warum hast du mich beunruhigt, daß du mich heraufbringen ließest? Und Saul sprach: Ich bin sehr bedrängt, und die Philister streiten wider mich, und Gott hat Sich von mir abgewendet und antwortet mir nicht mehr, weder durch die Hand der Propheten, noch durch Träume. Und ich habe dich rufen lassen, daß du mich wissen lassest, was ich tun soll.</verse>
+        <verse osisID='1Sam.28.16'>Und Samuel sprach: Warum aber fragst du mich und Jehovah ist doch von dir abgewichen und dir zum Gegner geworden?</verse>
+        <verse osisID='1Sam.28.17'>Und Jehovah hat damit getan, wie er durch meine Hand geredet hat. Und Jehovah hat das Königtum aus deiner Hand gerissen und es deinem Genossen, dem David gegeben.</verse>
+        <verse osisID='1Sam.28.18'>Darum, daß du nicht hörtest auf die Stimme Jehovahs und nicht vollzogst<note>tatest</note> das Entbrennen Seines Zornes gegen Amalek, darum hat dir Jehovah dies<note>dies Wort</note> auf diesen Tag getan.</verse>
+        <verse osisID='1Sam.28.19'>Und Jehovah wird auch Israel mit dir in die Hand der Philister geben, und morgen bist du und deine Söhne bei mir. Auch das Lager Israels wird Jehovah in die Hand der Philister geben.</verse>
+        <verse osisID='1Sam.28.20'>Und Saul fiel plötzlich seiner vollen Länge nach<note>eilte und fiel</note> zur Erde und fürchtete sich sehr vor den Worten Samuels. Auch war keine Kraft in ihm; denn er hatte den ganzen Tag und die ganze Nacht kein Brot gegessen.</verse>
+        <verse osisID='1Sam.28.21'>Und das Weib kam zu Saul und sah, daß er sehr bestürzt war und sprach zu ihm: Siehe, deine Dienstmagd hat auf deine Stimme gehört, und ich habe meine Seele in meine Hand<note>hohle Hand</note> gesetzt, daß ich auf deine Worte hörte, die du zu mir geredet hast.</verse>
+        <verse osisID='1Sam.28.22'>Und nun höre doch auch du auf die Stimme deiner Dienstmagd. Und ich will dir einen Bissen Brot vorsetzen, daß du essest und wieder Kraft in dir sei, daß du deines Weges gehst.</verse>
+        <verse osisID='1Sam.28.23'>Er aber weigerte sich und sagte: Ich will nicht essen. Und es nötigten ihn seine Knechte und auch das Weib, daß er auf ihre Stimme hörte. Und er stand auf von der Erde und setzte sich auf das Bett.</verse>
+        <verse osisID='1Sam.28.24'>Und das Weib hatte ein Mastkalb im Hause und sie eilte und schlachtete<note>opferte</note> es, und nahm Mehl und knetete es und buk es zu ungesäuerten Kuchen.</verse>
+        <verse osisID='1Sam.28.25'>Und brachte es herbei vor Saul und vor seine Knechte, und sie aßen. Und sie machten sich auf und gingen in selbiger Nacht.</verse>
+      </chapter>
+      <chapter osisID='1Sam.29'>
+        <title>David wird von den Philistern zurückgeschickt.</title>
+        <verse osisID='1Sam.29.1'>Und die Philister zogen alle ihre Kriegshaufen<note>Lager</note> nach Aphek zusammen; und Israel lagerte zu Ain<note>Quell</note> in Jisreel.</verse>
+        <verse osisID='1Sam.29.2'>Und die Fürsten der Philister zogen daher zu Hunderten und zu Tausenden; und David und seine Männer zogen hinten daher mit Achisch.</verse>
+        <verse osisID='1Sam.29.3'>Und die Obersten der Philister sprachen: Was sollen diese Hebräer? Und Achisch sprach zu den Obersten der Philister: Ist das nicht David, der Knecht Sauls, des Königs von Israel, der schon diese Tage oder Jahre bei mir ist, und ich habe nichts an ihm gefunden, seit dem Tage, da er abgefallen ist, bis auf diesen Tag.</verse>
+        <verse osisID='1Sam.29.4'>Und die Obersten der Philister wurden entrüstet über ihn, und es sprachen zu ihm die Obersten der Philister: Laß den Mann zurückkehren und bleiben<note>sitzen</note> an seinem Ort, wohin du ihn bestellt hast, daß er nicht mit uns hinabziehe in den Streit und uns zum Widersacher im Streite werde. Und wodurch könnte er seinem Herrn wohlgefallen, wenn nicht mit den Häuptern dieser Männer?</verse>
+        <verse osisID='1Sam.29.5'>Ist das nicht der David, dem sie im Reigen zusangen und sprachen: Saul hat seine Tausende geschlagen und David seine Zehntausende?</verse>
+        <verse osisID='1Sam.29.6'>Und Achisch rief David und sprach zu ihm: Beim Leben Jehovahs, du bist redlich, und gut ist in meinen Augen dein Ausgang und dein Eingang bei mir im Lager; denn ich habe in dir nichts Böses gefunden, seit dem Tage, da du zu mir kamst, bis auf diesen Tag; aber in den Augen der Fürsten bist du nicht gut.</verse>
+        <verse osisID='1Sam.29.7'>Und nun kehre zurück und gehe in Frieden, und tue nichts, was böse in den Augen der Fürsten der Philister ist.</verse>
+        <verse osisID='1Sam.29.8'>David aber sprach zu Achisch: Was habe ich denn getan, und was hast du gefunden an deinem Knechte, seit dem Tage, da ich vor dir bin, bis auf diesen Tag, daß ich nicht kommen und gegen die Feinde meines Herrn, des Königs, streiten sollte?</verse>
+        <verse osisID='1Sam.29.9'>Und Achisch antwortete und sprach zu David: Ich weiß, daß du gut bist in meinen Augen wie ein Engel Gottes; aber die Obersten der Philister sprachen: Er soll nicht mit uns hinaufziehen in den Streit.</verse>
+        <verse osisID='1Sam.29.10'>Und nun stehe früh am Morgen auf mit den Knechten deines Herrn, die mit dir gekommen, und wenn ihr am frühen Morgen aufgestanden seid und euch Licht wird, so geht.</verse>
+        <verse osisID='1Sam.29.11'>Und David stand früh auf, er und seine Männer, um am Morgen hinzuziehen und in das Land der Philister zurückzukehren. Und die Philister zogen hinauf nach Jisreel.</verse>
+      </chapter>
+      <chapter osisID='1Sam.30'>
+        <title>Amalek plündert Ziklag und David nimmt ihm den Raub ab.</title>
+        <verse osisID='1Sam.30.1'>Und es geschah, als David mit seinen Männern am dritten Tage nach Ziklag kam, hatte der Amalekiter nach dem Süden und nach Ziklag einen Streifzug gemacht und hatte Ziklag geschlagen und es mit Feuer verbrannt;</verse>
+        <verse osisID='1Sam.30.2'>Und sie führten die Weiber, die darin waren, von den kleinen bis zu den großen, gefangen, töteten aber keinen Mann, führten sie aber davon und gingen ihres Weges.</verse>
+        <verse osisID='1Sam.30.3'>Und David und seine Männer kamen zu der Stadt, und siehe, sie war mit Feuer verbrannt, und ihre Weiber und ihre Söhne und ihre Töchter gefangen geführt.</verse>
+        <verse osisID='1Sam.30.4'>Und David und das Volk, das mit ihm war, hoben ihre Stimme auf und weinten, bis daß sie keine Kraft mehr zum Weinen hatten.</verse>
+        <verse osisID='1Sam.30.5'>Und Davids zwei Weiber Achinoam, die Jisreelitin, und Abigail, Nabals Weib, die Karmelitin, waren gefangen weggeführt.</verse>
+        <verse osisID='1Sam.30.6'>Und David ward sehr bedrängt; denn das Volk sprach davon ihn zu steinigen; denn die Seele alles Volkes war erbittert, jeder Mann ob seinen Söhnen und seinen Töchtern; David aber ward gestärkt von Jehovah, seinem Gott.</verse>
+        <verse osisID='1Sam.30.7'>Und David sprach zu Abjathar, dem Priester, Achimelechs Sohn: Bringe mir doch das Ephod herbei; und Abjathar brachte das Ephod zu David herbei.</verse>
+        <verse osisID='1Sam.30.8'>Und David fragte Jehovah und sprach: Soll ich diesem Kriegshaufen nachsetzen, werde ich ihn erreichen? Und Er sprach zu ihm: Setze ihm nach; denn du wirst erreichen<note>erreichend erreichen</note> und erretten<note>errettend erretten</note>.</verse>
+        <verse osisID='1Sam.30.9'>Und David ging hin und die sechshundert Mann, die bei ihm waren, und sie kamen an den Bach Besor, und die übrigen blieben stehen.</verse>
+        <verse osisID='1Sam.30.10'>David aber, er und vierhundert Mann, setzten nach, und zweihundert Mann blieben dort stehen, die zu erschöpft waren, um über den Bach Besor überzusetzen.</verse>
+        <verse osisID='1Sam.30.11'>Und sie fanden einen ägyptischen Mann auf dem Felde und nahmen ihn zu David und gaben ihm Brot, und er aß, und sie gaben ihm Wasser zu trinken.</verse>
+        <verse osisID='1Sam.30.12'>Und sie gaben ihm eine Schnitte Feigenkuchen und zwei Rosinentrauben, und er aß, und sein Geist kehrte zurück zu ihm; denn er hatte drei Tage und drei Nächte kein Brot gegessen und kein Wasser getrunken.</verse>
+        <verse osisID='1Sam.30.13'>Und David sprach zu ihm: Wessen bist du? und von wannen bist du? Und er sprach: Ich bin ein ägyptischer Junge und der Knecht eines amalekitischen Mannes, und mein Herr hat mich verlassen, weil ich krank bin seit drei Tagen.</verse>
+        <verse osisID='1Sam.30.14'>Wir haben einen Streifzug gemacht nach der Mittagseite der Kerethiter und wider Judah und nach der Mittagseite von Kaleb, und Ziklag mit Feuer verbrannt.</verse>
+        <verse osisID='1Sam.30.15'>Und David sprach zu ihm: Willst du uns hinabbringen zu diesem Kriegshaufen? Und er sprach: Schwöre mir bei Gott, daß du mich nicht töten, noch in die Hand meines Herrn überantworten willst, dann will ich dich zu diesem Kriegshaufen hinabbringen.</verse>
+        <verse osisID='1Sam.30.16'>Und er brachte ihn hinab, und siehe, sie waren über das ganze Land ausgebreitet, aßen und tranken und feierten ein Fest über all die große Beute, die sie aus dem Lande der Philister und aus dem Lande Judah genommen hatten.</verse>
+        <verse osisID='1Sam.30.17'>Und David schlug sie von der Dämmerung bis zum Abend des morgenden Tages, und kein Mann von ihnen entrann, außer vierhundert junger Männer, die auf Kamelen ritten und flohen.</verse>
+        <verse osisID='1Sam.30.18'>Und David errettete alles, was Amalek genommen, und auch seine zwei Weiber errettete David.</verse>
+        <verse osisID='1Sam.30.19'>Und keines fehlte ihnen vom Kleinen und bis zum Großen, und bis zu den Söhnen und bis zu den Töchtern und von der Beute und von allem, das sie ihnen genommen hatten. Alles brachte David zurück.</verse>
+        <verse osisID='1Sam.30.20'>Und David nahm alles Kleinvieh und Rind. Sie trieben dahin vor diesen Viehherden und sprachen: Das ist Davids Beute.</verse>
+        <verse osisID='1Sam.30.21'>Und David kam zu den zweihundert Männern, die zu erschöpft waren, um hinter David hinzuziehen und die er hatte am Bache Besor sitzen lassen, und sie zogen aus, dem David entgegen, und dem Volke, das mit ihm gewesen, entgegen. David aber trat herzu zu dem Volk und fragte sie nach dem Frieden.</verse>
+        <verse osisID='1Sam.30.22'>Und es antwortete jeder böse und Belialsmann von den Männern, die mit David gezogen und sprachen: Darum, daß sie nicht mit mir gezogen, geben wir ihnen nichts von der Beute, die wir errettet, sondern nur jedem Manne sein Weib und seine Söhne, die mögen sie geleiten und hingehen.</verse>
+        <verse osisID='1Sam.30.23'>David sprach: Ihr sollt nicht also tun, meine Brüder, mit dem, was Jehovah uns gegeben und uns behütet hat, und den Kriegshaufen, der über uns gekommen, in unsere Hand gegeben hat.</verse>
+        <verse osisID='1Sam.30.24'>Und wer sollte in dieser Sache<note>diesem Worte</note> auf euch hören? Wie der Teil derer, die in den Streit hinabgegangen, so sei der Teil derer, die bei dem Gerät blieben<note>saßen</note>. Sie sollen miteinander teilen.</verse>
+        <verse osisID='1Sam.30.25'>Und es geschah von jenem Tage an hinfort, daß man dies bis auf diesen Tag für Israel zur Satzung und zum Recht setzte.</verse>
+        <verse osisID='1Sam.30.26'>Und David kam nach Ziklag und sandte von der Beute an die Ältesten Judahs, an seine Genossen, und sprach: Siehe, da ist ein Segen für euch von der Beute der Feinde Jehovahs.</verse>
+        <verse osisID='1Sam.30.27'>An die in Bethel und an die in Ramoth- Negeb und an die in Jathir,</verse>
+        <verse osisID='1Sam.30.28'>Und an die zu Aroer und an die zu Siphmoth und an die in Eschthemoa,</verse>
+        <verse osisID='1Sam.30.29'>Und an die in Rachal und an die in den Städten der Jerachmeeliter und an die in den Städten der Keniter,</verse>
+        <verse osisID='1Sam.30.30'>Und an die in Chormah und an die in Kor-Aschan und an die in Athach.</verse>
+        <verse osisID='1Sam.30.31'>Und an die in Chebron und an alle die Orte, da David gewandelt, er und seine Männer.</verse>
+      </chapter>
+      <chapter osisID='1Sam.31'>
+        <title>Niederlage der Israeliten. - Saul stirbt mit seinen Söhnen.</title>
+        <verse osisID='1Sam.31.1'>Und die Philister stritten gegen Israel, und die Männer Israels flohen vor den Philistern und fielen erschlagen auf dem Gebirge Gilboa.</verse>
+        <verse osisID='1Sam.31.2'>Und die Philister hängten sich an Saul und seine Söhne, und die Philister schlugen Jonathan und Abinadab und Malkischua, die Söhne Sauls.</verse>
+        <verse osisID='1Sam.31.3'>Und der Streit war schwer für Saul; und es trafen<note>fanden</note> ihn die Schützen, die Männer mit dem Bogen, und er war sehr verwundet von den Schützen.</verse>
+        <verse osisID='1Sam.31.4'>Und Saul sprach zu seinem Waffenträger: Ziehe dein Schwert und durchstich mich damit, daß diese Unbeschnittenen nicht kommen und mich durchstechen und mißhandeln. Aber sein Waffenträger war nicht willens; denn er fürchtete sich sehr. Und Saul nahm das Schwert und fiel darauf.</verse>
+        <verse osisID='1Sam.31.5'>Und sein Waffenträger sah, daß Saul tot war, und auch er fiel auf sein Schwert und starb mit ihm.</verse>
+        <verse osisID='1Sam.31.6'>Und es starb Saul und seine drei Söhne und sein Waffenträger, auch alle seine Männer an selbigem Tage allzumal.</verse>
+        <verse osisID='1Sam.31.7'>Und die Männer Israels, die diesseits des Talgrundes und diesseits des Jordan waren, sahen, daß die Männer Israels geflohen und Saul und seine Söhne tot waren, und sie verlie-ßen die Städte und flohen, und die Philister kamen und wohnten<note>saßen</note> darin.</verse>
+        <verse osisID='1Sam.31.8'>Und es geschah am morgenden Tag, da kamen die Philister, um die Erschlagenen auszuziehen, und fanden Saul und seine drei Söhne auf dem Gebirge Gilboa gefallen,</verse>
+        <verse osisID='1Sam.31.9'>Und schnitten ihm den Kopf ab, und zogen ihm seine Waffen aus und sandten sie im Lande der Philister umher, es in dem Hause ihrer Götzen und dem Volke zu verkünden.</verse>
+        <verse osisID='1Sam.31.10'>Und seine Waffen legten sie in das Haus der Aschtaroth und seinen Leib schlugen sie an an die Mauer von Beth-Schan.</verse>
+        <verse osisID='1Sam.31.11'>Und die Bewohner von Jabesch in Gilead hörten davon, was die Philister dem Saul getan,</verse>
+        <verse osisID='1Sam.31.12'>Und es machten sich alle tapferen Männer auf und gingen die ganze Nacht hindurch und nahmen den Leib Sauls und die Leiber seiner Söhne von der Mauer von Beth- Schan und brachten sie nach Jabesch und verbrannten sie daselbst.</verse>
+        <verse osisID='1Sam.31.13'>Und ihre Gebeine nahmen sie und begruben sie unter dem Hainbaum in Jabesch und fasteten sieben Tage.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

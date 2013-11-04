@@ -1,0 +1,895 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <osisText osisRefWork='Bible' osisIDWork='TAF' xml:lang='de'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='TAF'>
+        <title>Tafelbibel</title>
+        <contributor>Martin</contributor>
+        <creator>Jens Grabner</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject>holy bible</subject>
+        <date>2009-01-20</date>
+        <description>Die Bibel - Übersetzung von Johann Friedrich Leonhard Tafel
+
+      Die vorliegende Neuausgabe ist eine Abschrift der Übersetzung von Dr. Leonhard
+      Tafel, revidiert von Ludwig H. Tafel, dritte Ausgabe 1911, und wurde auf ihre
+      Vollständigkeit überprüft. Es wurde die Rechtschreibregel der heutigen Zeit (noch
+      vor der Rechtschreibreform 1998) angewendet, ohne den Stil der Sprache zu verändern.
+
+      Wer in dieser Bibel einige Bücher vermisst, sei auf das Vorwort der Source verwiesen.
+      Auf der zweiten Seite steht dort:
+      Der zweite Band enthält die übrigen, sogenannten
+      Hagiographen oder heiligen Bücher: die Bücher Hiob, Sprichwörter, Hohelied, Prediger, Ruth, Chronika, Esra,
+      Nehemia, Esther und die Apokryphen.²
+      2. Gegenwärtige, Revision des Zefania XML Moduls  enthält die Hagiographen und Apokryphen nicht, da
+      sie nicht verfügbar waren.</description>
+        <publisher>FREE BIBLE SOFTWARE GROUP</publisher>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>TAF</identifier>
+        <source>http://www.ubf-dortmund.de/bibel/tafel.htm</source>
+        <language type='IETF'>de</language>
+        <relation/>
+        <coverage>provide the bible to the world</coverage>
+        <rights>Mit freundlicher Genehmigung des Swedenborg Verlag Postfach 1205 CH - 8032 Zürich</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='2Kgs'>
+      <chapter osisID='2Kgs.1'>
+        <title>Zweites Buch der Könige</title>
+        <title>Achasjahs Regierung, Krankheit und Tod. - Elijahu läßt Feuer vom Himmel fallen.</title>
+        <verse osisID='2Kgs.1.1'>Und Moab fiel von Israel ab nach dem Tode Achabs.</verse>
+        <verse osisID='2Kgs.1.2'>Und Achasjah fiel durch das Gitter an seinem Söller in Samaria und ward krank; und er sandte Boten und sprach zu ihnen: Gehet hin und befragt Baal-Sebub, den Gott zu Ekron, ob ich von dieser Krankheit genesen<note>leben</note> werde?</verse>
+        <verse osisID='2Kgs.1.3'>Und der Engel Jehovahs redete zu Elijah, dem Thischbiter: Mache dich auf, gehe hinauf, den Boten des Königs von Samaria entgegen und rede zu ihnen: Ist es, weil gar kein Gott in Israel ist, daß ihr geht und den Baal-Sebub, den Gott von Ekron, befragt?</verse>
+        <verse osisID='2Kgs.1.4'>Darum aber spricht also Jehovah: Von dem Bette, darauf du gestiegen, sollst du nicht wieder herabkommen, denn du sollst des Todes sterben! Und Elijah ging hin.</verse>
+        <verse osisID='2Kgs.1.5'>Und die Boten kehrten zu ihm zurück und er sprach zu ihnen: Warum kehrt ihr zurück?</verse>
+        <verse osisID='2Kgs.1.6'>Sie aber sprachen zu ihm: Es kam ein Mann herauf, uns entgegen, und sprach zu uns: Gehet, kehret zurück zu dem König, der euch gesendet hat, und redet zu ihm: Also spricht Jehovah: Ist es, weil gar kein Gott in Israel ist, daß du sendest, den Baal-Sebub, den Gott von Ekron, zu befragen? Darum sollst du von dem Bette, darauf du hinaufgestiegen, nicht herabsteigen, sondern des Todes sterben.</verse>
+        <verse osisID='2Kgs.1.7'>Und er redete zu ihnen: Was war die Weise<note>das Gericht</note> des Mannes, der heraufkam, euch entgegen und diese Worte zu euch redete?</verse>
+        <verse osisID='2Kgs.1.8'>Und sie sprachen zu ihm: Es war ein Mann mit langen Haaren<note>ein Meister der Haare</note>, und mit einem ledernen Leibgurt an seinen Lenden gegürtet; und er sprach: Es ist Elijah, der Thischbiter.</verse>
+        <verse osisID='2Kgs.1.9'>Und er sandte an ihn einen Obersten von fünfzig und seine Fünfzig; und er ging zu ihm hinauf, und siehe, er saß auf der Spitz<note>dem Haupte</note> des Berges, und er redete zu ihm: Mann Gottes, der König redet: Komm herab!</verse>
+        <verse osisID='2Kgs.1.10'>Und Elijahu antwortete und redete zu dem Obersten der Fünfzig: Und wenn ich ein Mann Gottes bin, so komme Feuer vom Himmel herab und fresse dich und deine Fünfzig. Und Feuer kam vom Himmel herab und fraß ihn und seine Fünfzig.</verse>
+        <verse osisID='2Kgs.1.11'>Und er sandte wiederum<note>kehrte zurück und sandte</note> einen anderen Obersten von fünfzig und seine Fünfzig, zu ihm, und er antwortete und redete zu ihm: Mann Gottes, so spricht der König: Komm eilends herab!</verse>
+        <verse osisID='2Kgs.1.12'>Und Elijah antwortete und redete zu ihnen: Wenn ich ein Mann Gottes bin, so komme Feuer vom Himmel herab und fresse dich und deine Fünfzig. Und es kam Feuer Gottes vom Himmel herab und fraß ihn und seine fünfzig.</verse>
+        <verse osisID='2Kgs.1.13'>Und er sandte wiederum<note>kehrte zurück und sandte</note> einen Obersten von fünfzig, den dritten, und seine Fünfzig. Und der dritte Oberst der Fünfzig zog hinauf und kam und beugte seine Knie gegen Elijahu, und flehte ihn an und redete zu ihm: Mann Gottes, laß doch meine Seele und die Seele deiner Knechte, dieser Fünfzig, kostbar sein in deinen Augen!</verse>
+        <verse osisID='2Kgs.1.14'>Siehe, Feuer ist vom Himmel herabgekommen und hat die zwei Obersten der ersten fünfzig und ihre Fünfzig gefressen, und nun laß kostbar sein meine Seele in deinen Augen!</verse>
+        <verse osisID='2Kgs.1.15'>Und es redete der Engel Jehovahs zu Elijahu: Gehe hinab mit ihm, fürchte dich nicht vor seinem Angesicht. Und er machte sich auf und ging mit ihm hinab zum König.</verse>
+        <verse osisID='2Kgs.1.16'>Und er redete zu ihm: So spricht Jehovah: Weil du Boten sandtest, Baal-Sebub, den Gott von Ekron zu befragen, als wäre gar kein Gott in Israel, Sein Wort zu befragen, darum sollst du von dem Bett, darauf du gestiegen bist, nicht herabkommen, sondern des Todes sterben.</verse>
+        <verse osisID='2Kgs.1.17'>Und er starb nach dem Worte Jehovahs, das Elijahu geredet. Und König ward Jehoram an seiner Stelle; im zweiten Jahre Jehorams, des Sohnes Jehoschaphats, König von Judah; denn er hatte keinen Sohn.</verse>
+        <verse osisID='2Kgs.1.18'>Und das übrige der Geschichten<note>Worte</note> Achasjahus, was er getan, ist es nicht geschrieben in dem Buche der Tagesgeschichten<note>Worte der Tage = Chronik</note> der Könige Israels?</verse>
+      </chapter>
+      <chapter osisID='2Kgs.2'>
+        <title>Elijah fährt gen Himmel. - Elischa heilt die Quelle zu Jericho. - Die Knaben zu Bethel.</title>
+        <verse osisID='2Kgs.2.1'>Und es geschah, da Jehovah den Elijahu in einem Wetter gen Himmel wollte auffahren lassen, daß Elijahu und Elischa von Gilgal gingen.</verse>
+        <verse osisID='2Kgs.2.2'>Und Elijahu sprach zu Elischa: Bleibe<note>sitze</note> doch hier, denn Jehovah hat mich nach Bethel gesandt. Und Elischa sprach: Beim Leben Jehovahs und beim Leben deiner Seele, ich verlasse dich nicht; und sie gingen nach Bethel hinab.</verse>
+        <verse osisID='2Kgs.2.3'>Und es kamen die Söhne der Propheten, die in Bethel waren, heraus zu Elischa und sagten zu ihm: Weißt du, daß heute Jehovah deinen Herrn über<note>von über</note> deinem Haupte wegnimmt? Und er sprach: Auch ich weiß es, schweigt nur.</verse>
+        <verse osisID='2Kgs.2.4'>Und Elijahu sprach zu ihm: Elischa, bleibe<note>sitze</note> doch hier; denn Jehovah hat mich nach Jericho gesandt. Er aber sprach: Beim Leben Jehovahs und beim Leben deiner Seele, ich verlasse dich nicht; und sie kamen nach Jericho.</verse>
+        <verse osisID='2Kgs.2.5'>Und es traten die Söhne der Propheten, die in Jericho waren, herzu zu Elischa und sagten zu ihm: Weißt du, daß heute Jehovah deinen Herrn über<note>von über</note> deinem Haupte wegnehmen wird? Und er sprach: Auch ich weiß es, schweiget.</verse>
+        <verse osisID='2Kgs.2.6'>Und Elijahu sprach zu ihm: Bleibe<note>sitze</note> doch hier, denn Jehovah hat mich an den Jordan gesandt. Er aber sprach: Beim Leben Jehovahs und beim Leben deiner Seele, ich verlasse dich nicht! Und es gingen beide dahin.</verse>
+        <verse osisID='2Kgs.2.7'>Aber fünfzig Mann von den Söhnen der Propheten gingen und standen ihnen gegenüber von ferne, und die zwei standen am Jordan.</verse>
+        <verse osisID='2Kgs.2.8'>Und Elijahu nahm seinen Mantel und rollte ihn zusammen und schlug das Wasser, und es zerteilte sich<note>hälftete sich</note> dahin und dorthin, und beide gingen im Trockenen hinüber.</verse>
+        <verse osisID='2Kgs.2.9'>Und es geschah, während ihres Überganges, daß Elijahu zu Elischa sprach: Bitte, was ich dir tun soll, bevor ich von dir genommen werde. Und Elischa sprach: Es werde mir doch ein doppelter Anteil<note>ein doppelter Mund `voll'</note> von deinem Geiste!</verse>
+        <verse osisID='2Kgs.2.10'>Und er sprach: Du hast dir Hartes erbeten. Wenn du mich siehst, wie ich von dir genommen werde, so wird es dir so sein; wo nicht, so wird es nicht so sein.</verse>
+        <verse osisID='2Kgs.2.11'>Und es geschah, als sie hingingen im Gehen und Reden, siehe da, ein Wagen von Feuer und Rosse von Feuer, und sie trennten die zwei voneinander, und Elijahu fuhr im Wetter hinauf gen Himmel.</verse>
+        <verse osisID='2Kgs.2.12'>Und Elischa sah es und er schrie: Mein Vater, mein Vater! Israels Streitwagen und seine Reiter! Und er sah ihn nicht mehr; und er faßte seine Kleider und riß sie in zwei Stücke.</verse>
+        <verse osisID='2Kgs.2.13'>Und er hob Elijahus Mantel empor, der ihm entfallen war, und kehrte zurück, und stand am Ufer<note>an der Lippe</note> des Jordan.</verse>
+        <verse osisID='2Kgs.2.14'>Und er nahm den Mantel Elijahus, der ihm entfallen war, und schlug die Wasser und sprach: Wo ist Jehovah, der Gott Elijahus? ja Derselbe! Und er schlug die Wasser, und sie zerteilten sich<note>hälfteten sich</note> dahin und dorthin; und Elischa ging hinüber.</verse>
+        <verse osisID='2Kgs.2.15'>Und es sahen ihn die Söhne der Propheten, die in Jericho ihm gegenüber waren, und sprachen: Elijahus Geist ruht auf Elischa; und sie kamen ihm entgegen und beugten sich vor ihm zur Erde.</verse>
+        <verse osisID='2Kgs.2.16'>Und sie sprachen zu ihm: Siehe doch, es sind bei deinen Knechten fünfzig Männer, tapfere Leute<note>Söhne der Tapferkeit</note>. Laß sie doch hingehen und deinen Herrn suchen, ob ihn nicht der Geist Jehovahs erhoben und auf einen der Berge geworfen, oder in eine der Schluchten. Er aber sprach: Sendet nicht.</verse>
+        <verse osisID='2Kgs.2.17'>Sie aber drangen in ihn, bis er sich schämte und sprach: Sendet! Und sie sandten fünfzig Männer, und sie suchten ihn drei Tage, aber sie fanden ihn nicht.</verse>
+        <verse osisID='2Kgs.2.18'>Und sie kehrten zurück zu ihm, er aber war in Jericho geblieben<note>gesessen</note> und sprach zu ihnen: Habe ich euch nicht gesagt: Gehet nicht?</verse>
+        <verse osisID='2Kgs.2.19'>Und die Männer der Stadt sprachen zu Elischa: Siehe doch, es ist gut wohnen in der Stadt, wie mein Herr sieht; aber das Wasser ist böse und das Land bringt Fehlgeburten.</verse>
+        <verse osisID='2Kgs.2.20'>Und er sprach: Holet mir eine neue Schale und tut<note>legt</note> Salz darein, und sie holten sie ihm.</verse>
+        <verse osisID='2Kgs.2.21'>Und er ging hinaus, wo das Wasser herauskam und warf Salz darein und sprach: So spricht Jehovah: Ich habe diese Wasser geheilt, es sollen daraus nicht mehr Tod und Fehlgeburt kommen.</verse>
+        <verse osisID='2Kgs.2.22'>Und die Wasser waren geheilt bis auf diesen Tag, nach dem Worte Elischas, das er geredet.</verse>
+        <verse osisID='2Kgs.2.23'>Und er ging von dannen hinauf nach Bethel, und da er auf dem Wege hinaufging, kamen kleine Jungen heraus aus der Stadt und verspotteten ihn, und sagten zu ihm: Komm herauf, Kahlkopf! Komm herauf, Kahlkopf!</verse>
+        <verse osisID='2Kgs.2.24'>Und er wandte sich hinter sich und sah sie an und fluchte ihnen im Namen Jehovahs; und es kamen zwei Bären aus dem Walde heraus und zerrissen<note>zerspalteten</note> von ihnen zweiundvierzig Kinder.</verse>
+        <verse osisID='2Kgs.2.25'>Und von da ging er auf den Berg Karmel, und kehrte von dannen nach Samaria zurück.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.3'>
+        <title>Jehoram, König von Israel, streitet mit Jehoschaphat, König von Judah, wider Moab.</title>
+        <verse osisID='2Kgs.3.1'>Und Jehoram, der Sohn Achabs, ward König über Israel in Samaria im achtzehnten Jahre Jehoschaphats, König von Judah, und regierte zwölf Jahre;</verse>
+        <verse osisID='2Kgs.3.2'>Und er tat, was böse war in den Augen Jehovahs, doch nicht wie sein Vater und seine Mutter. Und er nahm weg die Denksäule Baals, die sein Vater machen ließ.</verse>
+        <verse osisID='2Kgs.3.3'>Doch hing er an den Sünden Jerobeams, des Sohnes Nebats, der Israel sündigen machte, und wich nicht davon ab.</verse>
+        <verse osisID='2Kgs.3.4'>Und Mescha, der König Moabs, war ein Schafzüchter und brachte<note>brachte zurück</note> dem König von Israel hunderttausend Lämmer und hunderttausend Widder in der Wolle.</verse>
+        <verse osisID='2Kgs.3.5'>Und es geschah, als Achab starb, fiel Moabs König ab vom Könige Israels.</verse>
+        <verse osisID='2Kgs.3.6'>Und der König Jehoram zog an selbigem Tage aus von Samaria und musterte ganz Israel.</verse>
+        <verse osisID='2Kgs.3.7'>Und ging hin und sandte an Jehoschaphat, den König von Judah, und ließ ihm sagen: Der König von Moab ist von mir abgefallen, willst du mit mir wider Moab zum Streite ziehen? Und er sprach: Ich will hinaufziehen, ich will sein wie du, mein Volk wie dein Volk, meine Rosse wie deine Rosse.</verse>
+        <verse osisID='2Kgs.3.8'>Und er sprach: Welchen Weg wollen wir hinaufziehen? Und er sprach: Den Weg der Wüste Edoms.</verse>
+        <verse osisID='2Kgs.3.9'>Und es zogen der König von Israel und der König von Judah und der König von Edom hin, und zogen einen Weg von sieben Tagen umher und hatten kein Wasser für das Lager und für das Vieh, das ihnen<note>zu ihren Füßen</note> folgte.</verse>
+        <verse osisID='2Kgs.3.10'>Und der König von Israel sprach: O wehe! Jehovah hat diese drei Könige gerufen, um sie in Moabs Hand zu geben.</verse>
+        <verse osisID='2Kgs.3.11'>Jehoschaphat aber sprach: Ist kein Prophet Jehovahs da, daß wir Jehovah durch ihn befragen? Und es antwortete einer von den Knechten des Königs von Israel und sprach: Da ist Elischa, der Sohn Schaphats, der dem Elijahu das Wasser über die Hände goß.</verse>
+        <verse osisID='2Kgs.3.12'>Und Jehoschaphat sprach: Mit dem ist Jehovahs Wort. Und sie gingen zu ihm hinab, der König von Israel und Jehoschaphat und der König von Edom.</verse>
+        <verse osisID='2Kgs.3.13'>Elischa aber sprach zum König von Israel: Was ist mir und dir? Gehe hin zu den Propheten deines Vaters und zu den Propheten deiner Mutter! Und es sprach zu ihm der König von Israel: Nein! Denn Jehovah hat diese drei Könige gerufen, sie in Moabs Hand zu geben.</verse>
+        <verse osisID='2Kgs.3.14'>Und Elischa sprach: Beim Leben Jehovahs der Heerscharen, vor Dessen Angesicht ich stehe, würde ich nicht das Angesicht Jehoschaphats, des Königs von Judah, erheben, so wollte ich nicht dich anblicken, noch dich sehen.</verse>
+        <verse osisID='2Kgs.3.15'>Und nun holet mir denn einen Saitenspieler! Und es geschah, wie der Saitenspieler spielte, war die Hand Jehovahs über ihm;</verse>
+        <verse osisID='2Kgs.3.16'>Und er sprach: So spricht Jehovah: Machet dieses Bachtal Gruben an Gruben.</verse>
+        <verse osisID='2Kgs.3.17'>Denn so spricht Jehovah: Ihr sollt keinen Wind sehen und sollt keinen Regen<note>Platzregen</note> sehen, aber dieses Bachtal soll sich mit Wasser füllen, auf daß ihr trinket, ihr und eure Viehherden und euer Vieh.</verse>
+        <verse osisID='2Kgs.3.18'>Und dies ist leicht in Jehovahs Augen, und Er wird Moab in eure Hände geben.</verse>
+        <verse osisID='2Kgs.3.19'>Und schlagen sollt ihr alle festen Städte und alle auserwählten Städte, und sollt fällen jeglichen guten Baum, verstopfen alle Brunnquellen der Wasser und jedes gute Grundstück<note>Teil</note> mit Steinen schädigen<note>wehe tun</note>.</verse>
+        <verse osisID='2Kgs.3.20'>Und es geschah am Morgen, da man das Speiseopfer aufopferte, und siehe, es kamen Wasser des Weges von Edom, und das Land füllte sich mit Wasser.</verse>
+        <verse osisID='2Kgs.3.21'>Und ganz Moab hörte, daß die Könige heraufzögen, wider sie zu streiten, und es wurde alles aufgeboten<note>geschrien</note>, was den Gürtel gürtete, und noch darüber, und sie standen an der Grenze.</verse>
+        <verse osisID='2Kgs.3.22'>Und sie standen früh auf am Morgen und die Sonne ging auf über dem Wasser, und Moab sah sich gegenüber die Wasser rot wie Blut.</verse>
+        <verse osisID='2Kgs.3.23'>Und sie sprachen: Das ist Blut, die Könige haben sich mit dem Schwerte verheert<note>verödet</note>, und der Mann hat seinen Genossen geschlagen! Und nun zur Beute, Moab!</verse>
+        <verse osisID='2Kgs.3.24'>Und sie kamen an das Lager Israels, und Israel machte sich auf und schlug Moab, und sie flohen vor ihnen und sie kamen hinein, und schlugen Moab.</verse>
+        <verse osisID='2Kgs.3.25'>Und die Städte rissen sie nieder, und auf jedes gute Grundstück<note>Teil</note> warf jeder Mann seinen Stein und machte es voll, und verstopften jeden Brunnquell der Wasser, und fällten jeden guten Baum, so daß nur die Steine in der Mauer von Chareseth verblieben. Und die Schleuderer umgaben sie und schlugen sie.</verse>
+        <verse osisID='2Kgs.3.26'>Und der König von Moab sah, daß der Streit für ihn zu stark ward, und nahm mit sich siebenhundert Mann, die das Schwert zogen, durchzubrechen<note>durchzuspalten</note> zum König Edoms, und er vermochte es nicht.</verse>
+        <verse osisID='2Kgs.3.27'>Und er nahm seinen Sohn, den erstgeborenen, der König werden sollte an seiner Stelle, und opferte ihn auf als Brandopfer auf der Stadtmauer. Und es war eine große Entrüstung über Israel, und sie brachen von ihm auf und kehrten zum Land zurück.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.4'>
+        <title>Elischas Wundertaten.</title>
+        <verse osisID='2Kgs.4.1'>Und ein Weib von den Weibern der Söhne der Propheten schrie zu Elischa und sprach: Dein Knecht, mein Mann, ist gestorben, und du weißt, daß dein Knecht Jehovah fürchtete. Und es kommt nun der Gläubiger und will meine zwei Knaben für sich zu Knechten nehmen.</verse>
+        <verse osisID='2Kgs.4.2'>Und Elischa sprach zu ihr: Was soll ich für dich tun? Sage mir an, was du im Hause hast. Und sie sprach: Deine Dienstmagd hat gar nichts im Hause denn ein Krüglein Öl.</verse>
+        <verse osisID='2Kgs.4.3'>Und er sagte: Gehe und erbitte dir Gefäße von draußen von allen deinen Nachbarinnen, leere Gefäße, und nicht wenige.</verse>
+        <verse osisID='2Kgs.4.4'>Und gehe hinein und schließ die Tür zu hinter dir und hinter deinen Söhnen, und gieße in alle diese Gefäße, und setze<note>laß fortziehen</note> die vollen weg.</verse>
+        <verse osisID='2Kgs.4.5'>Und sie ging von ihm und schloß die Tür hinter sich und hinter ihren Söhnen zu. Diese brachten sie ihr herzu und sie goß ein.</verse>
+        <verse osisID='2Kgs.4.6'>Und es geschah, als die Gefäße voll waren, sprach sie zu ihrem Sohne: Bringe mir noch ein Gefäß herbei. Er aber sprach zu ihr: Es ist kein Gefäß mehr da; und das Öl stand.</verse>
+        <verse osisID='2Kgs.4.7'>Und sie kam und sagte es dem Manne Gottes an, und er sprach: Gehe, verkauf das Öl und erstatte deine Schuld. Und du sollst mit deinen Söhnen leben von dem, was übrig bleibt.</verse>
+        <verse osisID='2Kgs.4.8'>Und eines Tages geschah es, daß Elischa nach Schunem hinüberging; und es war allda eine große Frau, die nötigte ihn<note>hielt ihn fest</note>, das Brot zu essen. Und es geschah, sooft er hinüberging, kehrte er dort ein, um das Brot zu essen.</verse>
+        <verse osisID='2Kgs.4.9'>Und sie sprach zu ihrem Manne: Siehe doch, ich weiß, daß er ein heiliger Mann Gottes ist, der beständig bei uns vorübergeht.</verse>
+        <verse osisID='2Kgs.4.10'>Lasset uns doch einen kleinen Söller mit Wänden machen, und da ihm ein Bett und einen Tisch und einen Stuhl<note>Thron</note> und einen Leuchter hinstellen, und es soll sein, daß, wenn er zu uns kommt, er dort einkehre.</verse>
+        <verse osisID='2Kgs.4.11'>Und es geschah eines Tages, daß er dort hineinkam, und in dem Söller einkehrte und allda sich niederlegte.</verse>
+        <verse osisID='2Kgs.4.12'>Und er sprach zu Gechasi, seinem Jungen: Rufe diese Schunamitin. Und er rief sie, und sie stand vor ihm.</verse>
+        <verse osisID='2Kgs.4.13'>Und er sprach zu ihm: Sprich doch zu ihr: Siehe, du warst besorgt<note>erzittertest</note> für uns mit all dieser Besorgnis<note>Erzittern</note>, was kann ich für dich tun? Hast du etwas, das der Rede bedarf beim König oder beim Obersten des Heeres? Und sie sprach: Ich wohne inmitten meines Volkes.</verse>
+        <verse osisID='2Kgs.4.14'>Und er sprach: Und was ist für sie zu tun? Und Gechasi sprach: Ach, sie hat keinen Sohn und ihr Mann ist alt.</verse>
+        <verse osisID='2Kgs.4.15'>Und er sprach: Rufe sie! Und er rief sie, und sie stand am Eingang.</verse>
+        <verse osisID='2Kgs.4.16'>Und er sprach: Zu dieser bestimmten Zeit, um die Zeit des Lebens sollst du einen Sohn umarmen. Sie aber sprach: Nicht doch, mein Herr, Mann Gottes, täusche nicht deine Dienstmagd.</verse>
+        <verse osisID='2Kgs.4.17'>Und das Weib empfing und gebar einen Sohn zu dieser bestimmten Zeit, um die Zeit des Lebens, wie Elischa zu ihr geredet hatte.</verse>
+        <verse osisID='2Kgs.4.18'>Und das Kind ward groß; und es geschah eines Tages, daß es hinaus zu seinem Vater zu den Schnittern ging.</verse>
+        <verse osisID='2Kgs.4.19'>Und er sprach zu seinem Vater: Mein Haupt, mein Haupt! Und er sprach zum Jungen: Trage es zu seiner Mutter.</verse>
+        <verse osisID='2Kgs.4.20'>Und er trug es und brachte es hinein zu seiner Mutter, und er saß auf ihren Knien bis zum Mittag und starb.</verse>
+        <verse osisID='2Kgs.4.21'>Und sie ging hinauf und legte ihn auf das Bett des Mannes Gottes und schloß hinter ihm zu und ging hinaus;</verse>
+        <verse osisID='2Kgs.4.22'>Und sie rief ihren Mann und sprach: Sende mir doch einen von den Jungen, und eine von den Eselinnen, und ich will zu dem Manne Gottes laufen und zurückkommen.</verse>
+        <verse osisID='2Kgs.4.23'>Er aber sprach: Warum willst du heute zu ihm gehen; es ist nicht Neumond und nicht Sabbath; und sie sprach: Frieden!</verse>
+        <verse osisID='2Kgs.4.24'>Und sie sattelte die Eselin und sprach zu ihrem Jungen: Treibe und gehe und halte mich nicht zurück im Reiten, es sei denn, daß ich dir es sage.</verse>
+        <verse osisID='2Kgs.4.25'>Und sie ging hin und kam zu dem Manne Gottes auf den Berg Karmel; und es geschah, wie der Mann Gottes sie sich gegenüber sah, sprach er zu Gechasi, seinem Jungen: Siehe dort diese Schunamitin!</verse>
+        <verse osisID='2Kgs.4.26'>Lauf ihr nun doch entgegen und sprich zu ihr: Ist es Frieden mit dir? Frieden mit deinem Manne? Ist es Frieden mit dem Kinde? Und sie sprach: Frieden.</verse>
+        <verse osisID='2Kgs.4.27'>Und sie kam zu dem Manne Gottes auf den Berg und umfaßte<note>hielt fest</note> seine Füße, und Gechasi trat hinzu, daß er sie wegstieße. Und der Mann Gottes sprach: Laß sie, denn ihre Seele ist ihr erbittert, und Jehovah hat es vor mir verborgen<note>verdeckt</note> und mir es nicht angesagt.</verse>
+        <verse osisID='2Kgs.4.28'>Und sie sprach: Habe ich von meinem Herrn einen Sohn erbeten, habe ich nicht gesagt: Täusche mich nicht?</verse>
+        <verse osisID='2Kgs.4.29'>Und er sprach zu Gechasi: Gürte deine Lenden und nimm meinen Stecken in deine Hand und gehe hin; so du einen Mann triffst, so segne ihn nicht, und wenn dich ein Mann segnet, so antworte ihm nicht, und lege meinen Stecken auf das Angesicht des Jungen.</verse>
+        <verse osisID='2Kgs.4.30'>Und die Mutter des Jungen sprach: Beim Leben Jehovahs und beim Leben deiner Seele, ich verlasse dich nicht. Und er machte sich auf und ging hinter ihr her.</verse>
+        <verse osisID='2Kgs.4.31'>Gechasi aber ging hinüber vor ihnen und legte den Stecken auf das Angesicht des Jungen, aber da war keine Stimme und kein Aufmerken. Und er kam zurück, ihm entgegen, und sagte ihm an und sprach: Der Junge ist nicht erwacht.</verse>
+        <verse osisID='2Kgs.4.32'>Und Elischa kam zum Haus, und siehe, der Junge war tot, auf sein Bett gelegt.</verse>
+        <verse osisID='2Kgs.4.33'>Und er ging hinein und schloß die Tür hinter ihnen beiden zu und betete zu Jehovah.</verse>
+        <verse osisID='2Kgs.4.34'>Und er stieg hinauf und legte sich auf das Kind, und legte seinen Mund auf dessen Mund und seine Augen auf dessen Augen, und seine Hände<note>flachen Hände</note> auf dessen Hände und streckte<note>bückte</note> sich über ihn, und des Knaben Fleisch wurde warm.</verse>
+        <verse osisID='2Kgs.4.35'>Und er ging wiederum<note>kehrte zurück und ging</note> im Hause einmal hin und einmal her und ging hinauf und streckte sich über ihn; und der Junge nieste zu sieben Malen, und der Junge tat seine Augen auf.</verse>
+        <verse osisID='2Kgs.4.36'>Und er rief Gechasi und sagte: Rufe diese Schunamitin. Und er rief sie, und sie kam herein zu ihm, und er sprach: Hebe deinen Sohn auf.</verse>
+        <verse osisID='2Kgs.4.37'>Und sie kam und fiel zu seinen Füßen und beugte sich zur Erde, und sie hob ihren Sohn auf und ging hinaus.</verse>
+        <verse osisID='2Kgs.4.38'>Und Elischa kehrte nach Gilgal zurück, und Hungersnot war im Lande, und die Söhne der Propheten saßen vor ihm. Und er sprach zu seinem Jungen: Setze den großen Topf zu und koche ein Gemüse für die Söhne der Propheten.</verse>
+        <verse osisID='2Kgs.4.39'>Und einer ging hinaus auf das Feld, Kräuter zusammenzulesen, und fand Reben des Feldes und las davon zusammen, Koloquinten des Feldes, sein Kleid voll, und kam und zerschnitt sie in den Topf des Gemüses. Denn sie kannten es nicht.</verse>
+        <verse osisID='2Kgs.4.40'>Und sie gossen es aus für die Männer zum Essen. Und es geschah, als sie von dem Gemüse aßen, schrien sie und sprachen: Der Tod ist in dem Topf, Mann Gottes! Und sie vermochten es nicht zu essen.</verse>
+        <verse osisID='2Kgs.4.41'>Er aber sprach: Holet Mehl, und er warf es in den Topf und sprach: Gieß es aus für das Volk, daß sie essen, und es war nichts Böses<note>kein böses Wort</note> im Topf.</verse>
+        <verse osisID='2Kgs.4.42'>Und es kam ein Mann von Baal-Schalischah und brachte dem Manne Gottes Brot von den Erstlingsfrüchten, zwanzig Gerstenbrote und frische Ähren in seinem Sack<note>Habersack</note>, und er sprach: Gib dem Volke, daß sie essen.</verse>
+        <verse osisID='2Kgs.4.43'>Und sein Diener sprach: Wie soll ich dies vor hundert Männern hingeben? Und er sprach: Gib dem Volke, daß sie essen, denn so spricht Jehovah: Man wird essen und noch übriglassen.</verse>
+        <verse osisID='2Kgs.4.44'>Und er gab es vor sie hin, und sie aßen und ließen übrig nach Jehovahs Wort.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.5'>
+        <title>Naaman vom Aussatz gereinigt. - Gechasi mit dem Aussatz gestraft.</title>
+        <verse osisID='2Kgs.5.1'>Und Naaman, der Oberste des Heeres des Königs von Aram, war ein großer Mann vor seinem Herrn und hochgehalten<note>erhoben von Angesicht</note>, denn durch ihn gab Jehovah Aram Heil, und der Mann war ein tapferer Held; er war aussätzig.</verse>
+        <verse osisID='2Kgs.5.2'>Und Aram war mit Kriegshaufen ausgezogen und sie hatten aus dem Lande Israel ein kleines Mädchen gefangen geführt, und sie war vor dem Weibe Naamans.</verse>
+        <verse osisID='2Kgs.5.3'>Und sie sprach zu ihrer Gebieterin: Ach, wäre doch mein Herr vor dem Propheten in Samaria, dann würde er ihn von seinem Aussatz losmachen<note>einsammeln</note>.</verse>
+        <verse osisID='2Kgs.5.4'>Und einer kam und sagte es an seinem Herrn und sprach: So und so hat das Mädchen aus dem Lande Israel geredet.</verse>
+        <verse osisID='2Kgs.5.5'>Und der König von Aram sprach: Geh, und ziehe hin, und ich will einen Brief an den König von Israel senden. Und er ging und nahm in seine Hand zehn Talente Silber und sechstausend Goldstücke und zehn Wechselkleider.</verse>
+        <verse osisID='2Kgs.5.6'>Und man brachte den Brief herein zum König von Israel, der besagte: Und nun, wenn dieser Brief an dich kommt, siehe, so habe ich an dich Naaman, meinen Knecht, gesandt, daß du ihn von seinem Aussatze losmachst<note>einsammelst</note>.</verse>
+        <verse osisID='2Kgs.5.7'>Und es geschah, als der König von Israel den Brief las, da zerriß er seine Kleider und sprach: Bin ich Gott, daß ich töte und lebendig mache, daß der da zu mir sendet, ich soll einen Mann von seinem Aussatz losmachen<note>einsammeln</note>. Wisset doch und sehet es, daß er eine Gelegenheit wider mich sucht.</verse>
+        <verse osisID='2Kgs.5.8'>Und es geschah, als Elischa, der Mann Gottes, hörte, daß der König von Israel seine Kleider zerriß, da sandte er an den König und ließ ihm sagen: Warum hast du deine Kleider zerrissen? Er komme doch zu mir und wisse, daß ein Prophet in Israel da ist.</verse>
+        <verse osisID='2Kgs.5.9'>Und Naaman kam mit seinen Rossen und seinem Streitwagen und stand am Eingang zu Elischas Haus.</verse>
+        <verse osisID='2Kgs.5.10'>Und Elischa sandte einen Boten zu ihm und ließ ihm sagen: Gehe hin und bade dich siebenmal im Jordan, so kehret dir dein Fleisch zurück und du bist rein.</verse>
+        <verse osisID='2Kgs.5.11'>Und Naaman war entrüstet und ging hin und sagte: Siehe, ich sprach, er wird zu mir herauskommen<note>herauskommend herauskommen</note> und stehen und den Namen Jehovahs, seines Gottes, anrufen und seine Hand weben über den Ort und vom Aussatz losmachen<note>einsammeln</note>.</verse>
+        <verse osisID='2Kgs.5.12'>Sind nicht der Abanah und Pharphar, Flüsse in Damaskus besser, als alle Wasser Israels, warum könnte ich mich nicht in ihnen baden und rein werden? Und er wandte sich und ging hin im Grimm.</verse>
+        <verse osisID='2Kgs.5.13'>Und seine Knechte traten herzu und redeten zu ihm und sprachen: Mein Vater, hätte der Prophet Großes<note>ein großes Wort</note> zu dir geredet, würdest du es nicht tun? um wieviel mehr, da er zu dir gesprochen: Bade und du wirst rein.</verse>
+        <verse osisID='2Kgs.5.14'>Und er ging hinab und tauchte sich siebenmal im Jordan unter, nach dem Worte des Mannes Gottes, und sein Fleisch kam zurück, wie das Fleisch eines kleinen Jungen, und er war rein.</verse>
+        <verse osisID='2Kgs.5.15'>Und er kehrte zurück zu dem Manne Gottes, er und sein ganzes Lager, und ging hinein und stand vor ihm und sprach: Siehe doch, ich weiß, daß kein Gott ist auf der ganzen Erde, außer in Israel, und nun nimm doch einen Segen von deinem Knechte.</verse>
+        <verse osisID='2Kgs.5.16'>Und er sprach: Beim Leben Jehovahs, vor Dem ich stehe, ich nehme es nicht; und er drang in ihn, es zu nehmen, aber er weigerte sich.</verse>
+        <verse osisID='2Kgs.5.17'>Und Naaman sprach: Wenn also nicht, so werde doch deinem Knechte gegeben vom Boden eine Last für ein Gespann von Maultieren, denn dein Knecht wird hinfort kein Brandopfer und Schlachtopfer anderen Göttern tun, außer Jehovah.</verse>
+        <verse osisID='2Kgs.5.18'>Nur darin<note>in diesem Worte</note> vergebe Jehovah deinem Knechte, wenn mein Herr in das Haus Rimmons eingeht, dort anzubeten, und er sich auf meine Hand stützt, daß ich anbete im Hause Rimmons. Über mein Anbeten im Hause des Rimmon vergebe doch deshalb<note>in diesem Worte</note> Jehovah deinem Knechte.</verse>
+        <verse osisID='2Kgs.5.19'>Und er sprach zu ihm: Gehe hin im Frieden! Und er ging von ihm eine Strecke Landes.</verse>
+        <verse osisID='2Kgs.5.20'>Und Gechasi, der Junge Elischas, des Mannes Gottes, sprach: Siehe, mein Herr hat diesen Aramiter Naaman zurückgehalten, so daß er nicht genommen von seiner Hand, was er gebracht hat. Beim Leben Jehovahs, ich laufe ihm nach und nehme etwas von ihm.</verse>
+        <verse osisID='2Kgs.5.21'>Und Gechasi setzte dem Naaman nach; und Naaman sah ihn hinter ihm laufen und sprang<note>brach hervor</note> vom Streitwagen ihm entgegen und sprach: Ist es Frieden?</verse>
+        <verse osisID='2Kgs.5.22'>Und er sprach: Es ist Frieden. Mein Herr sandte mich zu sagen: Siehe, soeben kommen zu mir zwei Jungen vom Gebirge Ephraim, von den Söhnen der Propheten. Gib ihnen doch ein Talent Silber und zwei Wechsel von Kleidern.</verse>
+        <verse osisID='2Kgs.5.23'>Und Naaman sprach: Nimm, es beliebe dir, zwei Talente; und er nötigte ihn, und band zwei Talente Silbers in zwei Beutel und zwei Wechselkleider und gab sie zweien seiner Jungen, und sie trugen es vor ihm her.</verse>
+        <verse osisID='2Kgs.5.24'>Und er kam an den Hügel<note>gen Ophel</note>, und er nahm es aus ihrer Hand und hob es auf<note>musterte</note> im Hause, und entließ die Männer, und sie gingen hin.</verse>
+        <verse osisID='2Kgs.5.25'>Und er kam hinein und stand bei seinem Herrn; und Elischa sprach zu ihm: Woher, Gechasi? Und er sprach: Dein Knecht ist weder dahin noch dorthin gegangen.</verse>
+        <verse osisID='2Kgs.5.26'>Er aber sprach zu ihm: Ging nicht mein Herz hin, wie der Mann von seinem Streitwagen dir entgegen sich umkehrte? Ist es an der Zeit, das Silber zu nehmen und zu nehmen Kleider und Ölbäume und Weinberge und Kleinvieh und Rind und Knechte und Dienstmägde?</verse>
+        <verse osisID='2Kgs.5.27'>Aber der Aussatz Naamans hange dir an und deinem Samen in Ewigkeit. Und er ging hinaus von seinem Angesicht, aussätzig wie der Schnee.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.6'>
+        <title>Schwimmendes Eisen. - Blindheit der Aramiter. - Hungersnot zu Samaria.</title>
+        <verse osisID='2Kgs.6.1'>Und die Söhne der Propheten sprachen zu Elischa: Siehe doch, der Ort, da wir hier vor dir wohnen<note>sitzen</note>, ist zu eng für uns.</verse>
+        <verse osisID='2Kgs.6.2'>Laß uns doch an den Jordan gehen, und von da jeder Mann einen Balken holen und allda uns einen Ort zum dort wohnen<note>sitzen</note> machen; und er sprach: Gehet!</verse>
+        <verse osisID='2Kgs.6.3'>Und einer sprach: Laß es dir doch belieben, mit deinen Knechten zu gehen. Und er sprach: Ich will gehen.</verse>
+        <verse osisID='2Kgs.6.4'>Und er ging mit ihnen, und sie kamen an den Jordan und sie hieben Bäume ab<note>zerschnitten</note>.</verse>
+        <verse osisID='2Kgs.6.5'>Und es geschah, daß einer den Balken fällte und das Eisen in das Wasser fiel. Und er schrie und sprach: Ach, mein Herr, und es ist entlehnt<note>erbeten</note>.</verse>
+        <verse osisID='2Kgs.6.6'>Der Mann Gottes aber sprach: Wohin ist es gefallen? Und er zeigte ihm den Ort; und er schnitt ein Holz ab und warf es dorthin und machte, daß das Eisen heraufschwamm.</verse>
+        <verse osisID='2Kgs.6.7'>Und er sprach: Hebe es dir herauf, und er reckte seine Hand aus und nahm es.</verse>
+        <verse osisID='2Kgs.6.8'>Und der König von Aram war im Streit mit Israel, und beriet sich mit seinen Knechten und sprach: An diesem und jenem Ort will ich lagern.</verse>
+        <verse osisID='2Kgs.6.9'>Und der Mann Gottes sandte zum König von Israel und ließ ihm sagen: Hüte dich, daß du nicht an jenem Ort vorüberziehst, denn dort hat Aram sich niedergelassen.</verse>
+        <verse osisID='2Kgs.6.10'>Und der König von Israel sandte an den Ort, von dem ihm der Mann Gottes gesagt und vor dem er ihn gewarnt hatte, und er hütete sich davor, nicht einmal und nicht zweimal.</verse>
+        <verse osisID='2Kgs.6.11'>Und das Herz des Königs von Aram ward über die Sache<note>dieses Wort</note> beunruhigt<note>bestürmt</note>, und er rief seine Knechte und sprach zu ihnen: Wollt ihr mir nicht ansagen: Wer von den unseren für den König von Israel ist?</verse>
+        <verse osisID='2Kgs.6.12'>Und einer von seinen Knechten sprach: Nicht doch, mein Herr König, sondern Elischa, der Prophet, der in Israel ist, sagt dem König von Israel die Worte an, die du in der Kammer redest, da dein Lager ist.</verse>
+        <verse osisID='2Kgs.6.13'>Und er sprach: Gehet hin und sehet wo er ist, und ich will senden und ihn holen. Und man sagte ihm an und sprach: Siehe, er ist in Dothan.</verse>
+        <verse osisID='2Kgs.6.14'>Und er sandte dahin Rosse und Streitwagen und eine schwere Streitmacht. Und sie kamen bei Nacht und umringten die Stadt.</verse>
+        <verse osisID='2Kgs.6.15'>Und der Diener des Mannes Gottes stand früh auf, sich aufzumachen und ging hinaus, und siehe, es umgab eine Streitmacht und Roß und Streitwagen die Stadt; und sein Junge sprach zu ihm: Ach, mein Herr, wie tun wir?</verse>
+        <verse osisID='2Kgs.6.16'>Er aber sprach: Fürchte dich nicht, denn derer sind mehr, die mit uns sind, als derer, die mit ihnen sind.</verse>
+        <verse osisID='2Kgs.6.17'>Und Elischa betete und sprach: Jehovah, tue ihm doch die Augen auf, daß er sehe. Und Jehovah tat dem Jungen die Augen auf und er sah, und siehe, der Berg war voll von Rossen und feurigen Streitwagen rings um Elischa.</verse>
+        <verse osisID='2Kgs.6.18'>Und sie kamen zu ihm herab und Elischa betete zu Jehovah und sprach: Schlage doch diese Völkerschaft mit Blindheit! Und er schlug sie mit Blindheit, nach dem Worte Elischas.</verse>
+        <verse osisID='2Kgs.6.19'>Und Elischa sprach zu ihnen: Das ist nicht der Weg und das ist nicht die Stadt, gehet hinter mir her, und ich will euch zu dem Mann ziehen lassen, den ihr suchet; und er ließ sie nach Samaria ziehen.</verse>
+        <verse osisID='2Kgs.6.20'>Und es geschah, wie sie nach Samaria kamen, da sprach Elischa: Jehovah, tue diesen die Augen auf, daß sie sehen! Und Jehovah tat ihnen die Augen auf, daß sie sahen, und siehe, sie waren mitten in Samaria.</verse>
+        <verse osisID='2Kgs.6.21'>Und der König von Israel sprach zu Elischa, wie er sie sah: Soll ich schlagen, soll ich schlagen, mein Vater?</verse>
+        <verse osisID='2Kgs.6.22'>Und er sprach: Du sollst nicht schlagen; schlägst du die, so du gefangen nimmst mit deinem Schwert und mit deinem Bogen? Setzte Brot und Wasser vor sie, daß sie essen und trinken, und laß sie zu ihrem Herrn gehen.</verse>
+        <verse osisID='2Kgs.6.23'>Und er richtete ihnen ein großes Mahl an, und sie aßen und tranken, und er entließ sie, und sie gingen zu ihrem Herrn, und es kamen<note>taten hinzu zu kommen</note> keine Kriegshaufen Arams mehr in das Land Israels.</verse>
+        <verse osisID='2Kgs.6.24'>Und es geschah danach, daß Ben-Hadad, der König von Aram, all sein Lager zusammenbrachte und hinaufzog und Samaria belagerte.</verse>
+        <verse osisID='2Kgs.6.25'>Und in Samaria war große Hungersnot, und siehe, sie belagerten sie, so daß der Kopf eines Esels achtzig Silberlinge galt<note>war</note>, und ein Viertelkab Taubenmist fünf Silberlinge.</verse>
+        <verse osisID='2Kgs.6.26'>Und es geschah, daß der König von Israel auf der Stadtmauer vorüberging und ein Weib schrie zu ihm und sprach: Hilf mir, Herr König!</verse>
+        <verse osisID='2Kgs.6.27'>Er aber sprach: Hilft dir Jehovah nicht, woher sollte ich dir helfen von der Tenne oder von der Weinkufe?</verse>
+        <verse osisID='2Kgs.6.28'>Und der König sprach zu ihr: Was ist dir? Und sie sprach: Das Weib da sprach zu mir: Gib deinen Sohn her, daß wir ihn heute essen, und meinen Sohn essen wir morgen.</verse>
+        <verse osisID='2Kgs.6.29'>Und wir kochten meinen Sohn und aßen ihn, und ich sprach zu ihr am anderen Tage: Gib deinen Sohn, daß wir ihn essen, sie aber versteckte ihren Sohn.</verse>
+        <verse osisID='2Kgs.6.30'>Und es geschah, wie der König die Worte des Weibes hörte, da zerriß er seine Kleider, da er auf der Stadtmauer vorüberging; und das Volk sah es, und siehe, der Sack war innen auf seinem Leibe<note>Fleisch</note>.</verse>
+        <verse osisID='2Kgs.6.31'>Und er sprach: So tue mir Gott und so fahre Er fort, wenn dem Elischa, dem Sohne Schaphats, heute das Haupt auf ihm stehen wird!</verse>
+        <verse osisID='2Kgs.6.32'>Und Elischa saß in seinem Hause und die Ältesten saßen bei ihm, und er sandte einen Mann vor sich her. Ehe der Bote zu ihm kam, sprach er zu den Ältesten: Sehet ihr, daß der Sohn dieses Mörders hersendet, mir den Kopf wegzunehmen; sehet, wenn der Bote kommt, verschließt die Tür und klemmt ihn in die Tür! Ist nicht der Schall<note>die Stimme</note> der Füße seines Herrn hinter ihm?</verse>
+        <verse osisID='2Kgs.6.33'>Er redete noch mit ihnen und siehe, da kam der Bote zu ihm herab und sprach: Siehe, das Böse ist von Jehovah! Was soll ich noch warten auf Jehovah?</verse>
+      </chapter>
+      <chapter osisID='2Kgs.7'>
+        <title>Schnelle Wohlfeilheit zu Samaria.</title>
+        <verse osisID='2Kgs.7.1'>Und Elischa sprach: Höret das Wort Jehovahs! Also spricht Jehovah: Um diese Zeit morgen das Seah Semmelmehl um einen Schekel und zwei Seah Gerste um einen Schekel im Tore von Samaria!</verse>
+        <verse osisID='2Kgs.7.2'>Und es antwortete der Wagenkämpfer<note>Schalisch</note>, auf dessen Hand der König sich stützte, dem Manne Gottes und sprach: Siehe, wenn Jehovah Fenster am Himmel machte, könnte so etwas<note>wie dieses Wort</note> sein? Er aber sprach: Siehe, du wirst es mit deinen Augen sehen, aber davon essen sollst du nicht.</verse>
+        <verse osisID='2Kgs.7.3'>Und es waren vier aussätzige Männer am Eingang des Tores, und sie sagten zueinander<note>der Mann zu seinem Genossen</note>: Was sitzen wir hier, bis wir sterben?</verse>
+        <verse osisID='2Kgs.7.4'>Sprächen wir, laßt uns in die Stadt kommen, da ist Hungersnot in der Stadt, und wir stürben dort, und sitzen wir hier, so sterben wir; und nun, lasset uns gehen und zu Arams Lager fallen. Wenn sie uns leben lassen, so leben wir, und töten sie uns, so sterben wir.</verse>
+        <verse osisID='2Kgs.7.5'>Und sie machten sich in der Dämmerung auf, daß sie zum Lager Arams kämen, und sie kamen bis an das Ende von Arams Lager, und siehe, da war kein Mann.</verse>
+        <verse osisID='2Kgs.7.6'>Und der Herr hatte das Lager Arams das Getöse<note>die Stimme</note> von Streitwagen und das Getöse<note>die Stimme</note> von Rossen, und das Getöse<note>die Stimme</note> einer großen Streitmacht hören lassen, und sie sprachen einer zum anderen<note>der Mann zu seinem Bruder</note>: Siehe, der König von Israel hat wider uns gedungen die Könige der Chethiter und die Könige der Ägypter, daß sie wider uns kommen.</verse>
+        <verse osisID='2Kgs.7.7'>Und sie machten sich auf und flohen in der Dämmerung und verließen ihre Zelte und ihre Rosse und ihre Esel im Lager, so wie es war; und sie flohen für ihre Seele.</verse>
+        <verse osisID='2Kgs.7.8'>Und diese Aussätzigen kamen bis an das Ende des Lagers und kamen zu dem einen Zelt, und aßen und tranken und hoben auf von da Silber und Gold und Kleider und gingen und legten es hehlings weg, und sie kehrten zurück und kamen in ein anderes<note>in ein</note> Zelt und hoben auf von da und gingen und legten es hehlings weg.</verse>
+        <verse osisID='2Kgs.7.9'>Und sie sprachen, der Mann zu seinem Genossen: Wir tun nicht recht; dieser Tag ist ein Tag der Freudenkunde, wenn wir schweigen und verziehen bis zum Licht des Morgens, so findet uns unsere Missetat; und nun gehet, lasset uns kommen und es ansagen dem Hause des Königs.</verse>
+        <verse osisID='2Kgs.7.10'>Und sie kamen und riefen dem Torwächter der Stadt und sagten ihnen an und sprachen: Wir sind in das Lager Arams gekommen, und siehe, da war kein Mann, noch eines Menschen Stimme, sondern Rosse waren angebunden und Esel waren angebunden und Zelte, wie sie waren.</verse>
+        <verse osisID='2Kgs.7.11'>Und die Torwächter riefen und sagten es an in das Innere des Hauses des Königs.</verse>
+        <verse osisID='2Kgs.7.12'>Und der König stand auf bei Nacht und sprach zu seinen Knechten: Lasset mich euch doch ansagen, was Aram uns getan. Sie wissen, daß wir hungrig sind und gingen aus von dem Lager, sich auf dem Felde zu verstecken, und sagten: So sie aus der Stadt herauskommen, wollen wir sie lebendig fassen und in die Stadt kommen.</verse>
+        <verse osisID='2Kgs.7.13'>Und es antwortete einer von seinen Knechten und sprach: So laß sie doch fünf von den übriggebliebenen Rossen, die darin übriggeblieben sind siehe, sie sind wie all die Menge Israels, die darin übriggeblieben; siehe, sie sind wie alle Menge Israels, die zu Ende ist, und laßt sie uns aussenden und sehen.</verse>
+        <verse osisID='2Kgs.7.14'>Und sie nahmen zwei Streitwagen mit Rossen, und der König sandte sie nach dem Lager Arams und sprach: Gehet und sehet.</verse>
+        <verse osisID='2Kgs.7.15'>Und sie gingen hinter ihnen her bis an den Jordan, und siehe, der ganze Weg war voll von Kleidern und Geräten, die Aram in seiner Hast von sich geworfen. Und die Boten kehrten zurück und sagten es dem König an.</verse>
+        <verse osisID='2Kgs.7.16'>Und das Volk ging hinaus und sie beraubten das Lager Arams, und das Seah Semmelmehl war zu haben um einen Schekel und zwei Seah Gerste um einen Schekel, nach dem Worte Jehovahs.</verse>
+        <verse osisID='2Kgs.7.17'>Und der König bestellte den Wagenkämpfer, auf dessen Hand er sich stützte, an das Tor, das Volk aber zerstampfte ihn am Tor, daß er starb, wie der Mann Gottes geredet hatte, da er redete, als der König zu ihm hinabkam.</verse>
+        <verse osisID='2Kgs.7.18'>Und es geschah, wie der Mann Gottes zum König geredet und gesagt hatte: Zwei Seah Gerste um einen Schekel und ein Seah Semmelmehl um einen Schekel wird es um diese Zeit morgen am Tore Samarias sein.</verse>
+        <verse osisID='2Kgs.7.19'>Und der Wagenkämpfer hatte dem Manne Gottes geantwortet und gesagt: Und siehe, wenn Jehovah Fenster am Himmel machte, würde so etwas<note>wie dieses Wort</note> sein? Und er hatte gesagt: Siehe, du wirst es mit deinen Augen sehen, aber davon essen sollst du nicht.</verse>
+        <verse osisID='2Kgs.7.20'>Und so geschah es ihm, und das Volk zerstampfte ihn am Tore, daß er starb.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.8'>
+        <title>Siebenjährige Hungersnot. - Die Schunamitin. Joram und Achasjah.</title>
+        <verse osisID='2Kgs.8.1'>Und Elischa hatte geredet zu dem Weibe, deren Sohn er lebendig gemacht, und gesprochen: Mache dich auf und gehe, du und dein Haus, und halte dich als Fremdling auf, wo du dich aufhalten kannst, denn Jehovah hat eine Hungersnot gerufen, und sie kommt auch über das Land sieben Jahre.</verse>
+        <verse osisID='2Kgs.8.2'>Und das Weib machte sich auf und tat nach dem Worte des Mannes Gottes und ging hin, sie und ihr Haus, und hielt sich sieben Jahre im Lande der Philister als Fremdling auf.</verse>
+        <verse osisID='2Kgs.8.3'>Und es geschah am Ende der sieben Jahre, daß das Weib aus dem Land der Philister zurückkehrte, und sie ging aus, um zum König zu schreien wegen ihres Hauses und wegen ihres Feldes.</verse>
+        <verse osisID='2Kgs.8.4'>Und der König redete zu Gechasi, dem Jungen des Mannes Gottes, und sprach: Er zähle mir doch all das Große, was Elischa getan.</verse>
+        <verse osisID='2Kgs.8.5'>Und es geschah, da er dem König erzählte, wie er den Toten lebendig machte, und siehe, da schrie das Weib, deren Sohn er lebendig gemacht, zum König um ihr Haus und um ihr Feld; und Gechasi sprach: Mein Herr König, das ist das Weib und das ihr Sohn, den Elischa lebendig machte.</verse>
+        <verse osisID='2Kgs.8.6'>Und der König befragte das Weib; und sie erzählte es ihm; und der König gab ihr einen Hofbeamten und sprach: Gib ihr alles zurück, das ihr ist, und allen Ertrag des Feldes von dem Tage an, da sie das Land verließ, bis jetzt.</verse>
+        <verse osisID='2Kgs.8.7'>Und Elischa kam nach Damaskus, und Ben-Hadad, der König Arams, war krank, und man sagte ihm an und sprach: Der Mann Gottes ist hierher gekommen.</verse>
+        <verse osisID='2Kgs.8.8'>Und der König sprach zu Chasahel: Nimm ein Geschenk<note>Speiseopfer</note> in deine Hand und gehe dem Manne Gottes entgegen, und befrage Jehovah durch ihn und sprich: Ob ich von dieser meiner Krankheit genesen werde<note>leben werde</note>.</verse>
+        <verse osisID='2Kgs.8.9'>Und Chasahel ging ihm entgegen und nahm ein Geschenk<note>Speiseopfer</note> in seine Hand und alles Gute von Damaskus, eine Last für vierzig Kamele, und kam und stand vor ihm und sprach: Dein Sohn, Ben-Hadad, König von Aram, sendet mich zu dir und sagt: Werde ich von dieser meiner Krankheit genesen<note>leben</note>?</verse>
+        <verse osisID='2Kgs.8.10'>Und Elischa sprach zu ihm: Gehe, sage ihm, daß er allerdings genesen wird<note>lebend leben wird</note>; aber Jehovah ließ mich sehen, daß er des Todes sterben wird.</verse>
+        <verse osisID='2Kgs.8.11'>Und er sah ihn starr an<note>ließ sein Angesicht stehen</note> und machte<note>setzte</note> in beschämt; und der Mann Gottes weinte.</verse>
+        <verse osisID='2Kgs.8.12'>Und Chasahel sprach: Warum weint mein Herr? Und er sprach: Weil ich weiß, was Böses du den Söhnen Israels tun wirst; ihre Festungen wirst du in Brand stecken<note>in Feuer senden</note>, und ihre Jünglinge mit dem Schwert erwürgen, und ihre Kindlein zerschmettern und ihre Schwangeren aufschlitzen<note>zerspalten</note>.</verse>
+        <verse osisID='2Kgs.8.13'>Und Chasahel sprach: Was ist denn dein Knecht, der Hund, daß er so Großes<note>dieses große Wort</note> täte? Und Elischa sprach: Jehovah hat dich mir als König über Aram gezeigt.</verse>
+        <verse osisID='2Kgs.8.14'>Und er ging weg von Elischa und kam zu seinem Herrn, und er sprach zu ihm: Was hat dir Elischa gesagt? Und er sprach: Er hat mir gesagt: Du wirst allerdings leben<note>lebend leben</note>.</verse>
+        <verse osisID='2Kgs.8.15'>Und es geschah am morgenden Tag, daß er nahm eine Decke und tauchte sie in Wasser und breitete sie über sein Angesicht, und er starb. Und Chasahel ward König an seiner Stelle.</verse>
+        <verse osisID='2Kgs.8.16'>Und im fünften Jahre Jorams, des Sohnes Achabs, König von Israel, und Jehoschaphats, König von Judah, ward Jehoram König, der Sohn Jehoschaphats, des Königs von Judah.</verse>
+        <verse osisID='2Kgs.8.17'>Zweiunddreißig Jahre alt<note>ein Sohn von 32 Jahren</note> war er, als er König ward, und regierte acht Jahre in Jerusalem.</verse>
+        <verse osisID='2Kgs.8.18'>Und er wandelte im Wege der Könige Israels, wie die vom Hause Achabs taten, denn er hatte eine Tochter Achabs zum Weibe, und er tat, was böse in den Augen Jehovahs war.</verse>
+        <verse osisID='2Kgs.8.19'>Aber Jehovah war nicht willens Judah zu verderben, um Davids, seines Knechtes willen, wie Er zu ihm gesagt hatte, daß Er ihm eine Leuchte<note>Lampe</note> für seine Söhne alle Tage geben wollte.</verse>
+        <verse osisID='2Kgs.8.20'>In seinen Tagen fiel Edom ab, daß sie nicht unter der Hand Judahs wären, und ein König regierte über sie.</verse>
+        <verse osisID='2Kgs.8.21'>Und Joram zog hinüber nach Zair und alle Streitwagen mit ihm; und es geschah, daß er sich aufmachte in der Nacht, und schlug Edom, das ihn und die Obersten der Streitwagen umgeben hatte; und das Volk floh in seine Zelte.</verse>
+        <verse osisID='2Kgs.8.22'>Und Edom fiel ab, daß es nicht unter der Hand Judahs war bis auf diesen Tag; damals fiel Libnah ab um selbige Zeit.</verse>
+        <verse osisID='2Kgs.8.23'>Und die übrige Geschichte<note>Worte</note> Jorams und alles, was er tat, ist es nicht geschrieben im Buche der Tagesgeschichten<note>Worte der Tage = Chronik</note> der Könige Judahs?</verse>
+        <verse osisID='2Kgs.8.24'>Und Joram entschlief<note>lag bei</note> zu seinen Vätern, und ward begraben bei seinen Vätern in der Stadt Davids, und Achasjahu, sein Sohn, ward König an seiner Stelle.</verse>
+        <verse osisID='2Kgs.8.25'>Im zwölften Jahre des Jahres von Joram, dem Sohne Achabs, König von Israel, ward König Achasjahu, der Sohn des Jehoram, König von Judah.</verse>
+        <verse osisID='2Kgs.8.26'>Achasjahu war zweiundzwanzig Jahre alt<note>ein Sohn von 22 Jahren</note>, da er König ward, und regierte ein Jahr in Jerusalem, und der Name seiner Mutter war Athaljahu, Tochter Omris, König von Israel.</verse>
+        <verse osisID='2Kgs.8.27'>Und er wandelte im Wege des Hauses Achab und tat, was böse war in Jehovahs Augen, wie das Haus Achabs, denn er war verschwägert mit dem Hause Achab.</verse>
+        <verse osisID='2Kgs.8.28'>Und er zog mit Joram, dem Sohne Achabs, zum Streite gegen Chasahel, König von Aram, nach Ramoth Gilead, und die Aramiter schlugen Joram.</verse>
+        <verse osisID='2Kgs.8.29'>Und Joram, der König, kehrte zurück, um sich in Jisreel heilen zu lassen von den Schlägen, die ihm die Aramiter geschlagen hatten in Ramah, da er stritt gegen Chasahel, den König Arams; und Achasjahu, Sohn Jehorams, des Königs von Judah, ging hinab, Joram, den Sohn Achabs, in Jisreel zu sehen, denn er war krank.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.9'>
+        <title>Jehu zum König gesalbt, tötet Joram. - Achasjahu und Isebel.</title>
+        <verse osisID='2Kgs.9.1'>Und Elischa, der Prophet, rief einen von den Söhnen der Propheten und sprach zu ihm: Gürte deine Lenden und nimm diese Flasche Öl in deine Hand und gehe hin nach Ramoth Gilead.</verse>
+        <verse osisID='2Kgs.9.2'>Und kommst du dahin, so siehst du allda Jehu, den Sohn Jehoschaphats, des Sohnes Nimschis, und gehe hinein und laß ihn aufstehen aus der Mitte seiner Brüder und bringe ihn hinein von Kammer zu Kammer.</verse>
+        <verse osisID='2Kgs.9.3'>Und nimm die Flasche Öl und gieße sie auf sein Haupt und sprich: So spricht Jehovah: Ich salbe dich zum König über Israel. Und öffne die Tür und flieh und verziehe nicht.</verse>
+        <verse osisID='2Kgs.9.4'>Und der Junge ging hin, der Junge von den Propheten, nach Ramoth Gilead.</verse>
+        <verse osisID='2Kgs.9.5'>Und er kam und siehe, die Obersten der Streitmacht saßen da, und er sprach: Ich habe ein Wort an dich, Oberst. Und Jehu sprach: Zu welchem von uns allen? Und er sprach: An dich, Oberster.</verse>
+        <verse osisID='2Kgs.9.6'>Und er stand auf und ging hinein in das Haus, und er goß das Öl auf sein Haupt und sprach zu ihm: So spricht Jehovah, der Gott Israels, Ich salbe dich zum König über das Volk Jehovahs, über Israel.</verse>
+        <verse osisID='2Kgs.9.7'>Und du sollst schlagen das Haus Achabs, deines Herrn, und Ich räche das Blut Meiner Knechte, der Propheten, und das Blut aller Knechte Jehovahs von der Hand Isebels.</verse>
+        <verse osisID='2Kgs.9.8'>Auf daß zugrunde gehe das ganze Haus Achabs, und Ich von Achab ausrotte, was an die Wand pißt, alles Zurückgehaltene und Verlassene in Israel.</verse>
+        <verse osisID='2Kgs.9.9'>Und Ich will dahingeben das Haus Achabs, wie das Haus von Jerobeam, dem Sohne Nebats, und wie das Haus von Baescha, dem Sohne Achijahs.</verse>
+        <verse osisID='2Kgs.9.10'>Und Isebel sollen fressen die Hunde auf dem Grundstück<note>Teil</note> von Jisreel, und niemand sie begraben. Und er öffnete die Tür und floh.</verse>
+        <verse osisID='2Kgs.9.11'>Und Jehu ging heraus zu den Knechten seines Herrn, und einer sprach zu ihm: Ist es Frieden? Warum ist dieser Wahnsinnige zu dir gekommen? Und er sprach zu ihnen: Ihr kennt ja den Mann und sein Sinnen.</verse>
+        <verse osisID='2Kgs.9.12'>Und sie sprachen: Lüge! Sage es uns doch an, und er sprach: So und so sprach er zu mir und sagte: So spricht Jehovah: Ich salbe dich zum König über Israel.</verse>
+        <verse osisID='2Kgs.9.13'>Und sie eilten, und jeder Mann nahm sein Kleid und legte es unter ihn auf die bloßen Stufen<note>Knochen der Stufen</note>, und stießen in die Posaune und sprachen: Jehu ist König!</verse>
+        <verse osisID='2Kgs.9.14'>Und so verschwor sich Jehu, der Sohn von Jehoschaphat, dem Sohne Nimschis, wider Joram, und Joram hielt Ramoth Gilead, er und ganz Israel, vor Chasahel, dem König von Aram.</verse>
+        <verse osisID='2Kgs.9.15'>Und Jehoram, der König, war zurückgegangen, um sich in Jisreel von den Schlägen heilen zu lassen, die ihm die Aramiter schlugen, da er gegen Chasahel, den König von Aram, stritt; und Jehu hatte gesprochen: Wenn es in eurer Seele ist, so soll keiner hinausgehen, um zu entrinnen aus der Stadt, daß er gehe, um es in Jisreel anzusagen.</verse>
+        <verse osisID='2Kgs.9.16'>Und Jehu fuhr dahin und ging nach Jisreel; denn Joram lag allda, und Achasjah, König von Judah, war hinabgegangen, Joram zu sehen.</verse>
+        <verse osisID='2Kgs.9.17'>Und der Wächter stand auf dem Turm in Jisreel, und sah Jehus Haufen kommen und sprach: Ich sehe einen Haufen. Und Jehoram sprach: Nimm einen Reitersmann und sende ihn ihnen entgegen, daß er spreche: Ist es Friede?</verse>
+        <verse osisID='2Kgs.9.18'>Und es ging ihm der Reitersmann zu Pferde entgegen und sagte: So spricht der König: Ist es Friede? Und Jehu sprach: Was ist es mit dir und mit dem Frieden? Wende dich um hinter mich. Und der Wächter sagte an und sprach: Der Bote ist bis zu ihnen gekommen, und kehrt nicht zurück.</verse>
+        <verse osisID='2Kgs.9.19'>Und er sandte einen zweiten Reitersmann zu Pferde, und er kam zu ihnen und sprach: So spricht der König: Ist es Friede? Und Jehu sprach: Was ist es mit dir und mit dem Frieden? Wende dich um hinter mich!</verse>
+        <verse osisID='2Kgs.9.20'>Und der Wächter sagte an und sprach: Er ist bis zu ihnen gekommen und kehrt nicht zurück, und das Treiben ist wie das Treiben Jehus, des Sohnes Nimschis; denn er treibt wie ein Wahnsinniger.</verse>
+        <verse osisID='2Kgs.9.21'>Und Jehoram sprach: Spanne an! Und man spannte seinen Streitwagen an, und es zog aus Jehoram, der König von Israel, und Achasjahu, der König von Judah, jeder Mann auf seinem Streitwagen, und sie zogen aus, Jehu entgegen, und trafen<note>fanden</note> auf ihn auf dem Grundstück<note>Teil</note> des Naboth, des Jisreeliten.</verse>
+        <verse osisID='2Kgs.9.22'>Und es geschah, als Jehoram den Jehu sah, da sprach er: Ist es Friede, Jehu? Und er sprach: Was Friede? Mit den Buhlereien der Isebel, deiner Mutter, und ihren vielen Zaubereien?</verse>
+        <verse osisID='2Kgs.9.23'>Und Jehoram kehrte seine Hände um und floh, und sprach zu Achasjahu: Verrat<note>Betrug</note> Achasjahu!</verse>
+        <verse osisID='2Kgs.9.24'>Und Jehu füllte seine Hand mit dem Bogen und schoß<note>schlug</note> Jehoram zwischen seine Arme, und der Pfeil ging heraus von seinem Herzen, und er krümmte sich in seinem Streitwagen.</verse>
+        <verse osisID='2Kgs.9.25'>Und er sprach zu seinem Wagenkämpfer Bidkar: Hebe ihn auf und wirf ihn auf das Grundstück<note>Teil</note>, das Feld des Jisreeliten Naboth; denn gedenke, wie ich und du mit denen waren, die hinter Achab, seinem Vater, paarweise ritten, und Jehovah wider ihn den Ausspruch erhob:</verse>
+        <verse osisID='2Kgs.9.26'>Fürwahr, das Blut Naboths und das Blut seiner Söhne habe Ich gestern gesehen, spricht Jehovah, und vergelte dir auf diesem Grundstück<note>Teil</note>, spricht Jehovah, und nun hebe ihn auf, und wirf ihn auf das Grundstück<note>Teil</note>, nach dem Worte Jehovahs.</verse>
+        <verse osisID='2Kgs.9.27'>Und Achasjah, der König von Judah, sah es und floh auf dem Weg nach dem Hause des Gartens, und Jehu setzte hinter ihm her nach und sprach: Auch ihn erschlaget auf dem Streitwagen, auf der Steige nach Gur bei Jibleam; und er floh nach Megiddo und starb daselbst.</verse>
+        <verse osisID='2Kgs.9.28'>Und seine Knechte fuhren ihn nach Jerusalem, und begruben ihn in seinem Grabe bei seinen Vätern in der Stadt Davids.</verse>
+        <verse osisID='2Kgs.9.29'>Und im elften Jahr der Jahre von Joram, dem Sohne Achabs, war Achasjahu über Judah König geworden.</verse>
+        <verse osisID='2Kgs.9.30'>Und Jehu kam hinein nach Jisreel und Isebel hörte es und legte Bleiglanz auf ihre Augen und schmückte<note>machte gut</note> ihr Haupt, und schaute aus durch das Fenster.</verse>
+        <verse osisID='2Kgs.9.31'>Und Jehu kam in das Tor; und sie sprach: Hatte Simri Frieden, der seinen Herrn erwürgt?</verse>
+        <verse osisID='2Kgs.9.32'>Und er hob sein Angesicht auf zum Fenster und sprach: Wer ist mit mir? wer? Und es schauten aus zu ihm zwei, drei Hofbeamte.</verse>
+        <verse osisID='2Kgs.9.33'>Er aber sprach: Stürzet sie herab! Und sie stürzten sie hinab, und es spritzte von ihrem Blut auf die Wand und auf die Rosse, und sie ward zerstampft.</verse>
+        <verse osisID='2Kgs.9.34'>Und er ging hinein, und aß und trank und sprach: Seht<note>mustert</note> doch nach dieser Verfluchten und begrabt sie; denn sie ist die Tochter eines Königs.</verse>
+        <verse osisID='2Kgs.9.35'>Und sie gingen hin, sie zu begraben, fanden aber nichts von ihr, als den Schädel und die Füße und die flachen Hände.</verse>
+        <verse osisID='2Kgs.9.36'>Und sie kehrten zurück und sagten es ihm an; und er sprach: Das Wort Jehovahs ist es, das Er durch die Hand seines Knechtes Elijahu, den Thischbiter, geredet und gesagt hat: Auf dem Grundstück<note>Teil</note> Jisreels sollen die Hunde fressen das Fleisch Isebels.</verse>
+        <verse osisID='2Kgs.9.37'>Und der Leichnam Isebels soll wie Dünger sein auf dem Felde<note>dem Angesichte des Feldes</note>, auf dem Grundstück<note>Teil</note> Jisreels, so daß man nicht sagen mag: Das ist Isebel.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.10'>
+        <title>Schicksal der Söhne Achabs und der Priester und Verehrer des Baal.</title>
+        <verse osisID='2Kgs.10.1'>Und Achab hatte siebzig Söhne in Samaria, und Jehu schrieb Briefe und sandte sie nach Samaria an die Obersten von Jisreel, an die Ältesten und Wärter Achabs, die besagten:</verse>
+        <verse osisID='2Kgs.10.2'>Und nun, da dieser Brief zu euch kommt, und bei euch eures Herrn Söhne sind, und bei euch sind Streitwagen und Rosse und feste Städte und Waffen,</verse>
+        <verse osisID='2Kgs.10.3'>So sehet zu, welcher der beste und redlichste sei von den Söhnen eures Herrn und setzet ihn auf den Thron seines Vaters, und streitet für das Haus eures Herrn.</verse>
+        <verse osisID='2Kgs.10.4'>Sie aber fürchteten sich gar sehr<note>sehr sehr</note> und sprachen: Siehe, die zwei Könige standen nicht vor ihm, und wie sollten wir stehen?</verse>
+        <verse osisID='2Kgs.10.5'>Und es sandten, die über das Haus und über die Stadt waren, und die Ältesten und Wärter an Jehu und ließen ihm sagen: Wir sind deine Knechte und alles, was du uns sagst, wollen wir tun; wir wollen keinen Mann zum König machen, was gut in deinen Augen ist, tun.</verse>
+        <verse osisID='2Kgs.10.6'>Und er schrieb ihnen einen zweiten Brief, der besagte: Wenn ihr mein seid und auf meine Stimme hört, so nehmt die Häupter der Männer, der Söhne eures Herrn, und kommt zu mir um diese Zeit morgen nach Jisreel. Und die Söhne des Königs, siebzig Mann, waren bei den Großen der Stadt, die sie großgezogen.</verse>
+        <verse osisID='2Kgs.10.7'>Und es geschah, als der Brief an sie kam, nahmen sie die Söhne des Königs und schlachteten die siebzig Mann und legten ihre Häupter in Körbe und sandten sie an ihn nach Jisreel.</verse>
+        <verse osisID='2Kgs.10.8'>Und der Bote kam und sagte ihm an und sprach: Sie haben die Häupter der Söhne des Königs gebracht; und er sprach: Legt sie in zwei Haufen<note>Aufhäufungen</note> an den Eingang des Tores bis an den Morgen.</verse>
+        <verse osisID='2Kgs.10.9'>Und es geschah am Morgen, daß er hinausging und stand und sprach zu allem Volke: Ihr seid gerecht, siehe, ich habe mich verschworen wider meinen Herrn und ihn erwürgt; wer aber schlug alle diese?</verse>
+        <verse osisID='2Kgs.10.10'>So wisset denn, daß von dem Worte Jehovahs, welches Jehovah wider das Haus Achabs geredet hat, keines zur Erde fällt, und Jehovah getan hat, was Er durch die Hand Seines Knechtes Elijahu redete.</verse>
+        <verse osisID='2Kgs.10.11'>Und Jehu schlug alle, die dem Hause Achabs zu Jisreel übriggeblieben, und alle seine Großen und seine Bekannten und seine Priester, bis kein Rest mehr überblieb.</verse>
+        <verse osisID='2Kgs.10.12'>Und er machte sich auf und kam hin und zog nach Samaria. Als er auf dem Wege bei Beth-Haeked der Hirten war,</verse>
+        <verse osisID='2Kgs.10.13'>Fand Jehu die Brüder von Achasjahu, König von Judah, und sprach: Wer seid ihr? Und sie sprachen: Wir sind die Brüder Achasjahus, und sind herabgekommen, zu grüßen die Söhne<note>zum Frieden der Söhne</note> des Königs und die Söhne der Gebieterin.</verse>
+        <verse osisID='2Kgs.10.14'>Er aber sprach: Fasset sie lebendig! Und sie faßten sie lebendig und schlachteten sie an der Grube von Beth-Eked, zweiundvierzig Mann; und er ließ keinen Mann von ihnen übrigbleiben.</verse>
+        <verse osisID='2Kgs.10.15'>Und er zog von dannen und fand Jehonadab, den Sohn Rechabs, der ihm begegnete und ihn segnete. Und er sprach zu ihm: Ist dein Herz gerade, wie mein Herz mit deinem Herzen ist? Und Jehonadab sprach zu ihm: Es ist. Und ist es, gib mir deine Hand. Und er gab ihm seine Hand, und er ließ ihn zu sich auf den Streitwagen steigen.</verse>
+        <verse osisID='2Kgs.10.16'>Und er sprach: Ziehe mit mir und siehe meinen Eifer für Jehovah. Und sie ließen ihn auf seinem Streitwagen fahren.</verse>
+        <verse osisID='2Kgs.10.17'>Und er kam nach Samaria und schlug alle, die dem Achab in Samaria übriggeblieben, bis er ihn vernichtet hatte, nach dem Worte Jehovahs, das Er zu Elijahu geredet hatte.</verse>
+        <verse osisID='2Kgs.10.18'>Und Jehu ließ zusammenkommen alles Volk und sprach zu ihnen: Achab hat dem Baal wenig gedient; Jehu will ihm viel dienen.</verse>
+        <verse osisID='2Kgs.10.19'>Und nun rufet alle Propheten Baals, alle seine Knechte und alle seine Priester zu mir, daß kein Mann vermißt werde; denn ich habe ein großes Opfer für Baal vor; wer vermißt wird, soll nicht am Leben bleiben. Aber Jehu tat solches aus Hinterlist, um die Knechte des Baal zugrunde zu richten.</verse>
+        <verse osisID='2Kgs.10.20'>Und Jehu sprach: Heiligt für Baal eine Festversammlung; und sie riefen sie aus.</verse>
+        <verse osisID='2Kgs.10.21'>Und Jehu sandte durch ganz Israel, und alle Knechte Baals kamen und kein Mann verblieb, der nicht gekommen wäre; und sie kamen hinein zum Haus Baals und das Haus Baals ward voll von Ende zu Ende<note>Mund zu Mund</note>.</verse>
+        <verse osisID='2Kgs.10.22'>Und er sprach zu dem, der über die Kleiderkammer war: Bringe heraus einen Anzug für alle Knechte Baals; und er brachte ihnen den Anzug.</verse>
+        <verse osisID='2Kgs.10.23'>Und Jehu kam und Jehonadab, der Sohn Rechabs, in das Haus des Baal und sprach zu den Knechten des Baal: Forschet und sehet, daß nicht irgendwo bei euch einer von den Knechten Jehovahs sei, sondern allein Knechte Baals.</verse>
+        <verse osisID='2Kgs.10.24'>Und sie gingen hinein, Schlachtopfer und Brandopfer zu tun; und Jehu stellte drau-ßen achtzig Männer auf und sprach: Der Mann, dem entrinnt einer von den Männern, die ich in eure Hände bringe, seine Seele sei anstatt dessen Seele.</verse>
+        <verse osisID='2Kgs.10.25'>Und es geschah, als sie das Brandopfer zu tun vollendet, da sprach Jehu zu den Läufern und Wagenkämpfern: Gehet hinein, schlaget sie, daß kein Mann herauskomme. Und sie schlugen sie mit der Schärfe<note>mit dem Munde</note> des Schwertes. Und die Läufer und Wagenkämpfer warfen sie hin, und sie gingen zur Stadt des Hauses Baals.</verse>
+        <verse osisID='2Kgs.10.26'>Und sie brachten heraus die Bildsäulen des Hauses des Baal und verbrannten sie;</verse>
+        <verse osisID='2Kgs.10.27'>Und sie rissen nieder die Bildsäule des Baal und rissen nieder das Haus des Baal, und machten bis auf diesen Tag Kloaken daraus.</verse>
+        <verse osisID='2Kgs.10.28'>Und Jehu vernichtete den Baal aus Israel.</verse>
+        <verse osisID='2Kgs.10.29'>Nur von den Sünden Jerobeams, des Sohnes Nebats, die er Israel sündigen ließ, von denen wich Jehu nicht, ihnen nachzugehen<note>ihnen nach</note>, von den goldenen Kälbern zu Bethel und in Dan.</verse>
+        <verse osisID='2Kgs.10.30'>Und Jehovah sprach zu Jehu: Weil du wohlgetan hast, daß du tatest was gerade in Meinen Augen war, und getan hast dem Hause Achabs nach allem, was in Meinem Herzen war, sollen dir Söhne des vierten Geschlechts<note>Söhne des vierten</note> auf dem Throne Israels sitzen.</verse>
+        <verse osisID='2Kgs.10.31'>Aber Jehu hielt nicht darauf, daß er im Gesetze Jehovahs, des Gottes Israels, von seinem ganzen Herzen wandelte; er wich nicht von den Sünden Jerobeams, die er Israel sündigen machte.</verse>
+        <verse osisID='2Kgs.10.32'>In selbigen Tagen fing Jehovah an, Israel abzuschneiden und Chasahel schlug sie in der ganzen Grenze Israels.</verse>
+        <verse osisID='2Kgs.10.33'>Vom Jordan gegen den Aufgang der Sonne, das ganze Land Gilead, den Gaditer, den Rubiniter und den Menaschiter, von Aroer, das am Bachtale Arnon ist, und Gilead und Baschan.</verse>
+        <verse osisID='2Kgs.10.34'>Und die übrigen Geschichten<note>Worte</note> Jehus und alles, was er tat, und alle seine Macht, ist es nicht geschrieben im Buche der Tagesgeschichten<note>Worte der Tage = Chronik</note> der Könige Israels?</verse>
+        <verse osisID='2Kgs.10.35'>Und Jehu entschlief<note>lag bei</note> mit seinen Vätern, und sie begruben ihn in Samaria, und Jehoachas, sein Sohn, ward König an seiner Stelle.</verse>
+        <verse osisID='2Kgs.10.36'>Der Tage aber, die Jehu König war über Israel in Samaria, waren achtundzwanzig Jahre.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.11'>
+        <title>Athaljahs Tyrannei, Sturz und Tod.</title>
+        <verse osisID='2Kgs.11.1'>Und Athaljah war die Mutter Achasjahus, und sie sah, daß ihr Sohn tot war, und sie machte sich auf und zerstörte allen Samen des Königtums.</verse>
+        <verse osisID='2Kgs.11.2'>Und Jehoscheba, eine Tochter des Königs Joram, Schwester Achasjahus, nahm den Joasch, den Sohn Achasjahs und stahl ihn mitten aus den Söhnen des Königs, die getötet wurden, ihn und seine Amme in der Kammer der Betten, und verbarg ihn vor Athaljah, so daß er nicht getötet wurde;</verse>
+        <verse osisID='2Kgs.11.3'>Und er war bei ihr versteckt im Hause Jehovahs sechs Jahre; Athaljah aber regierte das Land.</verse>
+        <verse osisID='2Kgs.11.4'>Und im siebenten Jahre sandte Jehojada und nahm zu sich die Obersten der Hunderte der Kari und der Läufer, und ließ sie zu sich kommen in das Haus Jehovahs, und schloß einen Bund mit ihnen, und ließ sie schwören im Hause Jehovahs und zeigte ihnen den Sohn des Königs;</verse>
+        <verse osisID='2Kgs.11.5'>Und er gebot ihnen und sprach: Das<note>dieses Wort</note> ist es, was ihr tun sollt: Ein Drittel von euch, die am Sabbath hereinkommen, hütet die Hut vom Königshause.</verse>
+        <verse osisID='2Kgs.11.6'>Und ein Drittel am Tore Sur und ein Drittel am Tore hinter den Läufern, und ihr hütet der Hut am Hause, zur Abwehr.</verse>
+        <verse osisID='2Kgs.11.7'>Aber zwei Teile<note>Hände</note> von euch, alle, die am Sabbath ausgehen, hütet die Hut des Hauses Jehovahs bei dem König.</verse>
+        <verse osisID='2Kgs.11.8'>Und ihr sollt den König ringsum umringen, jeder Mann mit seiner Wehr in seiner Hand, und wer in die Reihen kommt, der soll sterben, und ihr sollt mit bei dem König sein, wenn er ausgeht und wenn er eingeht.</verse>
+        <verse osisID='2Kgs.11.9'>Und die Obersten der Hunderte taten nach allem, was ihnen Jehojada, der Priester, gebot und sie nahmen jeder Mann seine Männer, die am Sabbath eingingen, samt denen, die am Sabbath ausgingen, und kamen zu Jehojada, dem Priester,</verse>
+        <verse osisID='2Kgs.11.10'>Und der Priester gab den Obersten der Hunderte die Spieße und Schilde, die des Königs David gewesen waren, die im Hause Jehovahs waren.</verse>
+        <verse osisID='2Kgs.11.11'>Und die Läufer standen, jeder Mann mit seiner Wehr in seiner Hand, von der rechten Seite<note>Schulter</note> des Hauses bis zur linken Seite<note>Schulter</note> des Hauses bei dem Altar und bei dem Hause, ringsum bei dem König.</verse>
+        <verse osisID='2Kgs.11.12'>Und er brachte den Sohn des Königs heraus, und gab auf ihn das Diadem und das Zeugnis; und sie machten ihn zum König und salbten ihn und schlugen in die Hände<note>flachen Hände</note> und sprachen: Es lebe der König!</verse>
+        <verse osisID='2Kgs.11.13'>Und Athaljah hörte die Stimme der Läufer, des Volkes, und sie kam zum Volk in das Haus Jehovahs.</verse>
+        <verse osisID='2Kgs.11.14'>Und sie sah, und siehe, der König stand bei der Säule nach dem Rechte, und die Obersten und die Trompeten beim König, und alles Volk des Landes war fröhlich, und man stieß in die Trompeten. Da zerriß Athaljah ihre Kleider und rief: Verschwörung, Verschwörung!</verse>
+        <verse osisID='2Kgs.11.15'>Und Jehojada, der Priester, gebot den Obersten der Hunderte, die über die Streitmacht bestellt waren, und sprach zu ihnen: Bringt sie hinaus innerhalb der Reihen, und wer hinter ihr kommt, der sterbe durch das Schwert; denn, so sprach der Priester, sie soll nicht in dem Hause Jehovahs sterben.</verse>
+        <verse osisID='2Kgs.11.16'>Und sie legten ihre Hände an sie, und sie ging hinein auf dem Wege des Eingangs der Rosse in das Haus des Königs und ward allda getötet.</verse>
+        <verse osisID='2Kgs.11.17'>Und Jehojada schloß den Bund zwischen Jehovah und dem König und dem Volke, daß sie ein Volk für Jehovah sein sollten, und zwischen dem König und dem Volk.</verse>
+        <verse osisID='2Kgs.11.18'>Und alles Volk des Landes kam nach dem Hause Baals, und sie rissen seine Altäre ein und zerbrachen seine Bilder wohl, und erwürgten Matthan, den Priester Baals, vor den Altären; und der Priester setzte Amtleute über das Haus Jehovahs.</verse>
+        <verse osisID='2Kgs.11.19'>Und er nahm die Obersten der Hunderte und die Kari und die Läufer und alles Volk des Landes, und sie brachten den König hinab aus dem Hause Jehovahs und zogen hinein des Weges durch das Läufertor in das Haus des Königs; und er saß auf dem Throne der Könige.</verse>
+        <verse osisID='2Kgs.11.20'>Und alles Volk des Landes war fröhlich, und die Stadt war ruhig; Athaljah aber hatten sie im Hause des Königs mit dem Schwert getötet.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.12'>
+        <title>Tempelsteuer. Chasael. Jehoaschs Tod.</title>
+        <verse osisID='2Kgs.12.1'>Sieben Jahre war Jehoasch alt<note>ein Sohn von 7 Jahren</note>, da er König wurde.</verse>
+        <verse osisID='2Kgs.12.2'>Im siebenten Jahre Jehus ward Jehoasch König und regierte vierzig Jahre in Jerusalem, und der Name seiner Mutter war Zibjah aus Beerscheba.</verse>
+        <verse osisID='2Kgs.12.3'>Und Jehoasch tat, was recht<note>redlich</note> war in den Augen Jehovahs alle seine Tage, da ihn Jehojada, der Priester, unterwies.</verse>
+        <verse osisID='2Kgs.12.4'>Nur die Opferhöhen taten sie nicht weg. Das Volk opferte und räucherte noch auf den Opferhöhen.</verse>
+        <verse osisID='2Kgs.12.5'>Und Jehoasch sprach zu den Priestern: Alles geheiligte Silber, das in das Haus Jehovahs hereingebracht wird, das gangbare Silber, das Silber eines Mannes, seine Schätzung der Seelen, alles Silber, das in eines Mannes Herz aufkommt, zum Hause Jehovahs hereinzubringen,</verse>
+        <verse osisID='2Kgs.12.6'>Das sollen die Priester, ein jeder Mann von seinem Bekannten nehmen, und sie sollen die Risse des Hauses, wo sich ein Riß findet, ausbessern<note>stärken</note>.</verse>
+        <verse osisID='2Kgs.12.7'>Aber im dreiundzwanzigsten Jahre der Jahre des Königs Jehoasch, hatten die Priester noch keinen Riß ausgebessert<note>gestärkt</note>.</verse>
+        <verse osisID='2Kgs.12.8'>Und der König Jehoasch rief Jehojada, den Priester, und die Priester, und sprach zu ihnen: Warum bessert<note>stärkt</note> ihr die Risse des Hauses nicht aus? Und nun sollt ihr kein Silber von euren Bekannten nehmen, sondern gebt es für die Ausbesserung der Risse am Tempel.</verse>
+        <verse osisID='2Kgs.12.9'>Und die Priester willigten ein, kein Silber vom Volke zu nehmen und nicht selbst die Risse am Hause auszubessern<note>stärken</note>.</verse>
+        <verse osisID='2Kgs.12.10'>Und Jehojada, der Priester, nahm eine Lade und bohrte ein Loch durch ihren Deckel<note>Tür</note> und gab sie neben den Altar rechts hin, wenn ein Mann in das Haus Jehovahs kommt. Und die Priester, welche die Schwelle hüteten, gaben darein alles Silber, das in das Haus Jehovahs hineingebracht wurde.</verse>
+        <verse osisID='2Kgs.12.11'>Und es geschah, wenn sie sahen, daß viel Silber in der Lade war, gingen der Schreiber des Königs und der Hohepriester<note>große Priester</note> hinauf und banden das Silber, das sich im Hause Jehovahs fand, zusammen und berechneten es.</verse>
+        <verse osisID='2Kgs.12.12'>Und sie gaben das Silber, nachdem es gewogen war, in die Hände derer, so die Arbeit machten, derer, so über das Haus Jehovahs bestellt waren, und sie brachten es heraus den Werkleuten, die das Holz bearbeiteten<note>den Werkleuten in Holz</note>, und den Bauleuten, die am Hause Jehovahs schafften.</verse>
+        <verse osisID='2Kgs.12.13'>Und an die Maurer und die Behauer der Steine, und zum Kauf von Holz und gehauenen Steinen, um die Risse des Hauses Jehovahs auszubessern<note>stärken</note>; und zu allem, was ausging, um das Haus auszubessern<note>stärken</note>.</verse>
+        <verse osisID='2Kgs.12.14'>Doch wurden für das Haus Jehovahs nicht gemacht silberne Becken, Messer, Sprengbecken, Trompeten, irgendwelches Gerät von Gold und Gerät von Silber aus dem Silber, das in das Haus Jehovahs gebracht ward.</verse>
+        <verse osisID='2Kgs.12.15'>Sondern sie gaben es den Arbeitern am Werke, daß sie davon das Haus Jehovahs ausbessern<note>stärken</note> sollten.</verse>
+        <verse osisID='2Kgs.12.16'>Und man rechnete nicht mit den Männern, in deren Hand man das Geld gab, um es denen, welche die Arbeit taten, zu geben; denn sie taten es in Treue.</verse>
+        <verse osisID='2Kgs.12.17'>Das Silber der Schuldopfer und das Silber der Sündopfer brachte man nicht in das Haus Jehovahs. Es war der Priester.</verse>
+        <verse osisID='2Kgs.12.18'>Damals zog Chasael, König von Aram, herauf und stritt wider Gath und gewann es, und Chasael hatte sein Angesicht gesetzt wider Jerusalem hinaufzuziehen.</verse>
+        <verse osisID='2Kgs.12.19'>Und Jehoasch, König von Judah, nahm alles Geheiligte, das Jehoschaphat und Jehoram und Achasjahu, seine Väter, die Könige Judahs, geheiligt hatten, und das von ihm Geheiligte, und alles Gold, das in den Schätzen des Hauses Jehovahs und im Hause des Königs gefunden ward, und sandte es an Chasael, König von Aram, und er zog hinauf, weg von Jerusalem.</verse>
+        <verse osisID='2Kgs.12.20'>Und die übrige Geschichte<note>Worte</note> des Jehoasch, und alles, was er tat, ist es nicht geschrieben im Buche der Tagesgeschichten<note>der Worte der Tage = Chronik</note> der Könige Judahs?</verse>
+        <verse osisID='2Kgs.12.21'>Und seine Knechte machten sich auf, fingen<note>verschworen</note> eine Verschwörung an, und schlugen den Joasch in dem Hause Millo, da man hinab nach Silla geht.</verse>
+        <verse osisID='2Kgs.12.22'>Und Josachar, Schimeaths Sohn, und Jehosabad, der Sohn Schomers, seine Knechte, schlugen ihn, daß er starb, und sie begruben ihn bei seinen Vätern in der Stadt Davids, und Amazjah, sein Sohn, ward König an seiner Stelle.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.13'>
+        <title>Jehoachas; sein Tod. - Joasch. Jerobeam. Elischas Tod. - Ein Toter kommt in Elischas Grab wieder ins Leben.</title>
+        <verse osisID='2Kgs.13.1'>Im Jahre dreiundzwanzig der Jahre des Joasch, des Sohnes von Achasjahu, dem König von Judah, ward Jehoachas, der Sohn Jehus, König über Israel in Samaria, siebzehn Jahre.</verse>
+        <verse osisID='2Kgs.13.2'>Und er tat, was böse war in den Augen Jehovahs, und wandelte nach den Sünden Jerobeams, des Sohnes Nebats, der Israel sündigen machte, er wich nicht davon ab.</verse>
+        <verse osisID='2Kgs.13.3'>Und es entbrannte der Zorn Jehovahs wider Israel, und er gab sie in die Hand Chasaels, König von Aram, und in die Hand Ben-Hadads, des Sohnes von Chasael, alle Tage.</verse>
+        <verse osisID='2Kgs.13.4'>Und Jehoachas flehte das Angesicht Jehovahs an, und Jehovah hörte auf ihn; denn er sah die Unterdrückung Israels, wie der König Aram sie unterdrückte.</verse>
+        <verse osisID='2Kgs.13.5'>Und Jehovah gab Israel einen Retter, daß sie ausgingen aus Arams Hand und die Söhne Israels wohnten<note>saßen</note> in ihren Zelten wie gestern und ehegestern.</verse>
+        <verse osisID='2Kgs.13.6'>Doch wichen sie nicht ab von den Sünden des Hauses Jerobeams, der Israel sündigen machte, sie wandelten darinnen; und auch die Aschere blieb stehen in Samaria.</verse>
+        <verse osisID='2Kgs.13.7'>Denn es verblieb dem Jehoachas nicht mehr Volkes als fünfzig Reiter und zehn Streitwagen und zehntausend Fußvolk; denn der König von Aram hatte sie zugrunde gerichtet, und sie gemacht, wie den Staub beim Dreschen.</verse>
+        <verse osisID='2Kgs.13.8'>Und die übrigen Geschichten<note>Worte</note> des Jehoachas, und alles, was er tat und seine Macht, ist es nicht geschrieben im Buche der Tagesgeschichte<note>der Worte der Tage = Chronik</note> der Könige Israels?</verse>
+        <verse osisID='2Kgs.13.9'>Und Jehoachas entschlief<note>lag bei</note> zu seinen Vätern, und sie begruben ihn in Samaria, und Joasch, sein Sohn, ward König an seiner Stelle.</verse>
+        <verse osisID='2Kgs.13.10'>Im Jahre siebenunddreißig der Jahre von Joasch, dem König Judahs, ward Jehoasch, Sohn des Jehoachas, König über Israel in Samaria sechzehn Jahre;</verse>
+        <verse osisID='2Kgs.13.11'>Und tat, was böse war in den Augen Jehovahs. Er wich nicht ab von all den Sünden Jerobeams, des Sohnes Nebats, der Israel sündigen machte; er wandelte darin.</verse>
+        <verse osisID='2Kgs.13.12'>Und die übrige Geschichte<note>Worte</note> des Joasch und alles, was er tat, und seine Macht, wie er mit Amazjah, dem Könige Judahs, stritt, ist es nicht geschrieben im Buche der Tagesgeschichte<note>der Worte des Tages</note> der Könige Israels?</verse>
+        <verse osisID='2Kgs.13.13'>Und Joasch entschlief<note>lag bei</note> zu seinen Vätern, und Jerobeam saß auf seinem Thron, Joasch aber ward begraben in Samaria bei den Königen von Israel.</verse>
+        <verse osisID='2Kgs.13.14'>Und Elischa ward krank an seiner Krankheit, an der er starb. Und Joasch, König von Israel, kam zu ihm herab und weinte vor ihm und sprach: Mein Vater, mein Vater! Streitwagen Israels und seine Reiter!</verse>
+        <verse osisID='2Kgs.13.15'>Und Elischa sprach zu ihm: Nimm Bogen und Pfeile; und er nahm zu sich Bogen und Pfeile.</verse>
+        <verse osisID='2Kgs.13.16'>Und er sprach zu dem Könige von Israel: Lege deine Hand auf den Bogen<note>laß reiten deine Hand auf dem Bogen</note>. Und er legte<note>ließ reiten</note> seine Hand an, und Elischa legte seine Hände auf des Königs Hände.</verse>
+        <verse osisID='2Kgs.13.17'>Und sprach: Öffne das Fenster gegen Morgen, und er öffnete es. Und Elischa sprach: Schieße! Und er schoß. Und er sprach: Ein Pfeil des Heils von Jehovah und ein Pfeil des Heils wider Aram, und du wirst Aram schlagen in Aphek bis zur Vollendung.</verse>
+        <verse osisID='2Kgs.13.18'>Und er sprach: Nimm die Pfeile, und er nahm sie. Und er sprach zum König von Israel: Schlage auf die Erde, und er schlug dreimal und stand stille.</verse>
+        <verse osisID='2Kgs.13.19'>Und der Mann Gottes ward entrüstet über ihn und sprach: Hättest du fünf oder sechsmal geschlagen, dann hättest du Aram bis zur Vollendung geschlagen. Nun aber wirst du Aram dreimal schlagen.</verse>
+        <verse osisID='2Kgs.13.20'>Und Elischa starb, und sie begruben ihn. Und es kamen Kriegshaufen der Moabiter ins Land mit dem kommenden Jahre.</verse>
+        <verse osisID='2Kgs.13.21'>Und es geschah, daß sie einen Mann begruben; und siehe da, sie sahen den Kriegshaufen und warfen den Mann in Elischas Grab, und der Mann kam hin und berührte die Gebeine Elischas und er ward lebendig und stand auf seinen Füßen.</verse>
+        <verse osisID='2Kgs.13.22'>Und Chasael, König Arams, unterdrückte Israel alle Tage des Jehoachas.</verse>
+        <verse osisID='2Kgs.13.23'>Und Jehovah war ihnen gnädig, und erbarmte Sich ihrer, und wandte Sich ihnen zu um Seines Bundes willen mit Abraham, Isaak und Jakob, und war nicht willens, sie zu verderben, und warf sie nicht weg von Seinem Angesicht bis jetzt.</verse>
+        <verse osisID='2Kgs.13.24'>Und Chasael, König von Aram, starb, und Ben-Hadad, sein Sohn, ward König an seiner Stelle.</verse>
+        <verse osisID='2Kgs.13.25'>Und Jehoasch, der Sohn des Jehoachas, kehrte um und nahm aus der Hand des Ben-Hadad, des Sohnes Chasaels, die Städte, die er dem Jehoachas, seinem Vater, im Streite aus der Hand genommen hatte. Dreimal schlug ihn Joasch, und nahm zurück die Städte Israels.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.14'>
+        <title>Amazjah und Asarjah Könige in Judah. - Jerobeam in Israel.</title>
+        <verse osisID='2Kgs.14.1'>Im zweiten Jahre von Joasch, dem Sohne des Jehoachas, König von Israel, ward Amazjahu König, der Sohn des Joasch, des Königs von Judah.</verse>
+        <verse osisID='2Kgs.14.2'>Er war fünfundzwanzig Jahre alt<note>ein Sohn von 25 Jahren</note>, als er König wurde, und regierte neunundzwanzig Jahre in Jerusalem. Und der Name seiner Mutter war Jehoaddan aus Jerusalem.</verse>
+        <verse osisID='2Kgs.14.3'>Und er tat, was recht<note>redlich</note> war in den Augen Jehovahs, nur nicht wie David, sein Vater, nach allem, was sein Vater Joasch getan hatte, tat er.</verse>
+        <verse osisID='2Kgs.14.4'>Nur die Opferhöhen taten sie nicht weg. Das Volk opferte und räucherte noch auf den Opferhöhen.</verse>
+        <verse osisID='2Kgs.14.5'>Und es geschah, als das Königtum bestärkt war in seiner Hand, da schlug er seine Knechte, die den König, seinen Vater, geschlagen hatten.</verse>
+        <verse osisID='2Kgs.14.6'>Aber die Söhne derer, die ihn geschlagen, tötete er nicht, wie geschrieben ist im Buche des Gesetzes Moses, das Jehovah geboten und gesagt: Nicht sollen die Väter um der Söhne willen getötet werden, noch sollen die Söhne um der Väter willen getötet werden; sondern jeder Mann soll um seiner Sünde willen getötet werden.</verse>
+        <verse osisID='2Kgs.14.7'>Er schlug von Edom im Salztal<note>der Schlucht des Salzes</note> zehntausend, und nahm im Streite Sela<note>die Felsenklippe</note> ein<note>erfaßte</note>, und nannte dessen Namen Joktheel bis auf diesen Tag.</verse>
+        <verse osisID='2Kgs.14.8'>Da sandte Amazjah Boten an Jehoasch, den Sohn des Jehoachas, Sohn Jehus, König von Israel, und ließ ihm sagen: Komm, laß uns einander von Angesicht sehen.</verse>
+        <verse osisID='2Kgs.14.9'>Und Jehoasch, König von Israel, sandte an Amazjahu, König von Judah, und sagte: Der Dornstrauch auf dem Libanon sandte an die Zeder auf dem Libanon und sprach: Gib deine Tochter meinem Sohn zum Weibe. Und das wilde Tier des Feldes auf dem Libanon zog vorüber und zerstampfte den Dornstrauch.</verse>
+        <verse osisID='2Kgs.14.10'>Du hast Edom geschlagen<note>schlagend geschlagen</note> und dein Herz erhebt dich. Laß dich verherrlichen und sitze in deinem Hause; und warum willst du Böses anheben und fallen, du und Judah mit dir?</verse>
+        <verse osisID='2Kgs.14.11'>Aber Amazjah hörte nicht; und Jehoasch, König von Israel, zog hinauf, und sie sahen sich von Angesicht, er und Amazjahu, König von Judah, in Beth-Schemesch, das zu Judah gehört.</verse>
+        <verse osisID='2Kgs.14.12'>Und Judah ward vor Israel geschlagen<note>gestoßen</note>, und sie flohen, jeder Mann in sein Zelt.</verse>
+        <verse osisID='2Kgs.14.13'>Und den Amazjahu, den König von Judah, Sohn von Jehoasch, dem Sohne Achasjahus, erfaßte Jehoasch, der König von Israel, in Beth-Schemesch und sie kamen nach Jerusalem, und er durchbrach die Mauer Jerusalem von Tore Ephraim bis an das Ecktor vierhundert Ellen;</verse>
+        <verse osisID='2Kgs.14.14'>Und er nahm alles Gold und Silber und alle Geräte, die sich im Hause Jehovahs und in den Schätzen des Hauses des Königs fanden, und Söhne der Bürgschaft und kehrte nach Samaria zurück.</verse>
+        <verse osisID='2Kgs.14.15'>Und die übrige Geschichte<note>Worte</note> des Jehoasch, was er tat, und seine Macht, wie er stritt mit Amazjahu, König Judahs, ist sie nicht geschrieben im Buche der Tagesgeschichten<note>der Worte der Tage = Chronik</note> der Könige Israels?</verse>
+        <verse osisID='2Kgs.14.16'>Und es entschlief<note>lag bei</note> Jehoasch mit seinen Vätern, und ward in Samaria begraben bei den Königen Israels; und Jerobeam, sein Sohn, ward König an seiner Stelle.</verse>
+        <verse osisID='2Kgs.14.17'>Amazjahu aber, der Sohn des Joasch, König von Judah, lebte nach dem Tode von Jehoasch, dem Sohne des Jehoachas, König von Israel, fünfzehn Jahre.</verse>
+        <verse osisID='2Kgs.14.18'>Und die übrige Geschichte<note>Worte</note> Amazjahus, ist sie nicht geschrieben im Buche der Tagesgeschichte<note>der Worte der Tage = Chronik</note> der Könige Israels?</verse>
+        <verse osisID='2Kgs.14.19'>Und sie verschworen sich in einer Verschwörung wider ihn in Jerusalem, und er floh nach Lachisch; sie aber sandten ihm nach gen Lachisch und töteten ihn allda.</verse>
+        <verse osisID='2Kgs.14.20'>Und sie hoben ihn auf die Rosse, und er ward begraben in Jerusalem bei seinen Väter in der Stadt Davids.</verse>
+        <verse osisID='2Kgs.14.21'>Und alles Volk Judahs nahm den Asarjah, und er war sechszehn Jahre alt<note>ein Sohn von 16 Jahren</note>, und machte ihn an seines Vaters Amazjahu Stelle zum König.</verse>
+        <verse osisID='2Kgs.14.22'>Er baute Elath und brachte es an Judah zurück, nachdem der König zu seinen Vätern entschlafen war.</verse>
+        <verse osisID='2Kgs.14.23'>Im Jahre fünfzehn der Jahre von Amazjahu, dem Sohne des Joasch, König von Judah, ward Jerobeam, Sohn von Joasch, dem Könige Israels, König in Samaria einundvierzig Jahre.</verse>
+        <verse osisID='2Kgs.14.24'>Und er tat, was böse war in den Augen Jehovahs, er wich nicht ab von all den Sünden Jerobeams, des Sohnes Nebats, der Israel sündigen machte.</verse>
+        <verse osisID='2Kgs.14.25'>Er brachte wieder die Grenze Israels, von wo man kommt nach Chamath bis an das Meer der Arabah, nach dem Worte Jehovahs, des Gottes Israels, das Er geredet hatte durch die Hand Seines Knechtes Jonah, des Sohnes Amitthais, des Propheten, der aus Gath Chepher war.</verse>
+        <verse osisID='2Kgs.14.26'>Denn Jehovah sah an das Elend Israels, daß es sehr bitter war, und kein Zurückgehaltener noch Verlassener mehr war, und kein Beistand für Israel.</verse>
+        <verse osisID='2Kgs.14.27'>Und Jehovah hatte nicht geredet, daß Er den Namen Israels auswischen werde unter dem Himmel und Er half ihnen durch die Hand Jerobeams, des Sohnes des Joasch.</verse>
+        <verse osisID='2Kgs.14.28'>Und die übrige Geschichte<note>Worte</note> Jerobeams, und alles, was er tat, und seine Macht, wie er gestritten und wie er Damaskus und Chamath, das zu Judah gehörte, für Israel wiederbrachte, ist es nicht geschrieben im Buche der Tagesgeschichte<note>der Worte des Tages</note> der Könige Israels?</verse>
+        <verse osisID='2Kgs.14.29'>Und Jerobeam entschlief<note>lag bei</note> zu seinen Vätern, zu den Königen Israels, und sein Sohn Sacharjah ward König an seiner Stelle.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.15'>
+        <title>Asarjah und Jotham Könige von Judah. - Sacharjah, Schallum, Menachem. - Pekachjah und Pekach Könige von Israel.</title>
+        <verse osisID='2Kgs.15.1'>Im Jahre siebenundzwanzig der Jahre Jerobeams, König von Israel, ward König Asarjah, der Sohn Amazjahs, des Königs von Judah.</verse>
+        <verse osisID='2Kgs.15.2'>Er war sechzehn Jahre alt<note>ein Sohn von 16 Jahren</note>, als er König wurde, und regierte zweiundfünfzig Jahre in Jerusalem; und der Name seiner Mutter war Jecholjahu aus Jerusalem.</verse>
+        <verse osisID='2Kgs.15.3'>Und er tat, was recht<note>redlich</note> war in den Augen Jehovahs, nach allem, wie Amazjahu, sein Vater, getan hatte.</verse>
+        <verse osisID='2Kgs.15.4'>Nur die Opferhöhen taten sie nicht weg; das Volk opferte und räucherte noch auf den Opferhöhen.</verse>
+        <verse osisID='2Kgs.15.5'>Und Jehovah schlug den König, und er ward aussätzig bis an den Tag seines Todes, und wohnte im Siechhause<note>freien Hause</note>; und Jotham, der Sohn des Königs, war über das Haus, er richtete das Volk des Landes.</verse>
+        <verse osisID='2Kgs.15.6'>Und die übrige Geschichte<note>Worte</note> Asarjahus, und alles, was er tat, ist es nicht geschrieben im Buche der Tagesgeschichte<note>der Worte der Tage = Chronik</note> der Könige Judahs?</verse>
+        <verse osisID='2Kgs.15.7'>Und Asarjah entschlief<note>lag bei</note> zu seinen Vätern und sie begruben ihn bei seinen Vätern in der Stadt Davids, und Jotham, sein Sohn, ward König an seiner Stelle.</verse>
+        <verse osisID='2Kgs.15.8'>Im Jahre achtunddreißig der Jahre Asarjahus, des Königs von Judah, ward Sacharjahu, Sohn Jerobeams, König über Israel in Samaria sechs Monate.</verse>
+        <verse osisID='2Kgs.15.9'>Und er tat, was böse war in den Augen Jehovahs, so wie seine Väter getan; er wich nicht ab von den Sünden Jerobeams, des Sohnes Nebats, der Israel sündigen machte.</verse>
+        <verse osisID='2Kgs.15.10'>Und es verschwor sich wider ihn Schallum, der Sohn des Jabesch, und schlug ihn vor dem Volke und tötete ihn, und ward König an seiner Stelle.</verse>
+        <verse osisID='2Kgs.15.11'>Und die übrige Geschichte<note>Worte</note> Sacharjahs, siehe, sie steht geschrieben im Buche der Tagesgeschichte<note>der Worte der Tage = Chronik</note> der Könige Israels.</verse>
+        <verse osisID='2Kgs.15.12'>Das ist das Wort Jehovahs, das er zu Jehu geredet und gesagt: Söhne des vierten Gliedes<note>Söhne des vierten</note> sollen dir auf dem Throne Israels sitzen: und es war also.</verse>
+        <verse osisID='2Kgs.15.13'>Schallum, der Sohn des Jabesch, ward König im Jahre neununddreißig der Jahre Ussijahs, des Königs von Judah, und regierte einen Mond der Tage in Samaria.</verse>
+        <verse osisID='2Kgs.15.14'>Und Menachem, der Sohn Gadis zog von Thirzah herauf, und kam nach Samaria und schlug Schallum, den Sohn des Jabesch, in Samaria und tötete ihn, und ward König an seiner Stelle.</verse>
+        <verse osisID='2Kgs.15.15'>Und die übrige Geschichte<note>Worte</note> Schallums, und die Verschwörung, in der er sich verschworen, siehe, sie stehen geschrieben im Buche der Tagesgeschichte<note>der Worte der Tage = Chronik</note> der Könige Israels.</verse>
+        <verse osisID='2Kgs.15.16'>Da schlug Menachem Tiphsach und alles, was darin war, und dessen Grenzen von Thirzah an, daß es ihm nicht geöffnet hatte, und schlug es, und ließ alle ihre Schwangeren aufschlitzen<note>zerspalten</note>.</verse>
+        <verse osisID='2Kgs.15.17'>Im Jahre neununddreißig der Jahre Asarjahs, des Königs von Judah, ward Menachem, der Sohn Gadis, König über Israel, zehn Jahre in Samaria;</verse>
+        <verse osisID='2Kgs.15.18'>Und er tat, was böse war in den Augen Jehovahs; er wich nicht ab von den Sünden Jerobeams, des Sohnes Nebats, der Israel sündigen machte alle seine Tage.</verse>
+        <verse osisID='2Kgs.15.19'>Phul, König von Aschur, kam über das Land, und Menachem gab dem Phul tausend Talente Silber, auf daß seine Hände mit ihm wären, um das Königtum in seiner Hand zu stärken.</verse>
+        <verse osisID='2Kgs.15.20'>Und Menachem brachte das Geld heraus von Israel, von allen mächtig an Vermögen, um es dem König von Aschur zu geben, fünfzig Schekel Silber auf einen Mann; und der König von Aschur kehrte zurück und blieb nicht daselbst im Lande stehen.</verse>
+        <verse osisID='2Kgs.15.21'>Und die übrige Geschichte<note>Worte</note> Menachems, und alles, was er tat, ist es nicht geschrieben im Buche der Tagesgeschichte<note>der Worte der Tage = Chronik</note> der Könige Israels?</verse>
+        <verse osisID='2Kgs.15.22'>Und Menachem entschlief<note>lag bei</note> zu seinen Vätern, und sein Sohn Pekachjah ward König an seiner Stelle.</verse>
+        <verse osisID='2Kgs.15.23'>Im Jahre fünfzig der Jahre von Asarjah, dem Könige Judahs, ward Pekachjah, der Sohn Menachems, zwei Jahre König über Israel in Samaria.</verse>
+        <verse osisID='2Kgs.15.24'>Und er tat, was böse war in den Augen Jehovahs, Er wich nicht ab von den Sünden Jerobeams, des Sohnes Nebats, der Israel sündigen machte.</verse>
+        <verse osisID='2Kgs.15.25'>Und es verschwor sich wider ihn Pekach, der Sohn Remaljahus, sein Wagenkämpfer<note>Dreikämpfer</note>, und schlug ihn in Samaria im Palast des Hauses des Königs mit Argob und Arjah<note>den Löwen</note>; und mit ihm waren fünfzig Männer von den Söhnen der Gileaditer, und sie töteten ihn, und er ward König an seiner Stelle.</verse>
+        <verse osisID='2Kgs.15.26'>Und die übrige Geschichte<note>Worte</note> Pekachjahs, und alles, was er tat, siehe, es steht geschrieben im Buche der Tagesgeschichte<note>der Worte der Tage = Chronik</note> der Könige Israels.</verse>
+        <verse osisID='2Kgs.15.27'>Im Jahr zweiundfünfzig der Jahre Asarjahs, König von Judah, ward Pekach, Remaljahus Sohn, König über Israel zwanzig Jahre in Samaria;</verse>
+        <verse osisID='2Kgs.15.28'>Und er tat, was böse war in den Augen Jehovahs. Er wich nicht ab von den Sünden Jerobeams, des Sohnes Nebats, der Israel sündigen machte.</verse>
+        <verse osisID='2Kgs.15.29'>In den Tagen Pekachs, König von Israel, kam Tiglath Pileser, König von Aschur, und nahm Ijon und Abel-Beth-Maachah und Janoach und Kadesch und Chazor und das Gilead und das Galilah, alles Land Naphthali, und führte sie weg nach Aschur.</verse>
+        <verse osisID='2Kgs.15.30'>Und Hoschea, der Sohn Elahs, verschwor sich in einer Verschwörung wider Pekach, den Sohn Remaljahus, und schlug ihn und tötete ihn, und ward König an seiner Stelle, im zwanzigsten Jahre von Jotham, dem Sohne des Ussijah.</verse>
+        <verse osisID='2Kgs.15.31'>Und die übrige Geschichte<note>Worte</note> Pekachs, und alles, was er tat, siehe, es ist geschrieben im Buche der Tagesgeschichte<note>der Worte der Tage = Chronik</note> der Könige Israels.</verse>
+        <verse osisID='2Kgs.15.32'>Im zweiten Jahre Pekachs, des Sohnes Remaljahus, König von Israel, ward König Jotham, der Sohn Ussijahus, König von Judah.</verse>
+        <verse osisID='2Kgs.15.33'>Er war fünfundzwanzig Jahre alt<note>ein Sohn von 25 Jahren</note>, da er König wurde, und regierte sechzehn Jahre in Jerusalem; und der Name seiner Mutter war Jeruscha, die Tochter Zadoks.</verse>
+        <verse osisID='2Kgs.15.34'>Und er tat, was recht<note>redlich</note> war in den Augen Jehovahs, nach allem, was Ussijah, sein Vater, getan.</verse>
+        <verse osisID='2Kgs.15.35'>Nur die Opferhöhen tat er nicht weg. Das Volk opferte und räucherte noch auf den Opferhöhen. Er baute das höhere<note>das obere Tor</note> am Hause Jehovahs.</verse>
+        <verse osisID='2Kgs.15.36'>Und die übrige Geschichte<note>Worte</note> Jothams, und alles, was er tat, ist es nicht geschrieben im Buche der Tagesgeschichte<note>der Worte der Tage = Chronik</note> der Könige Judahs?</verse>
+        <verse osisID='2Kgs.15.37'>In jenen Tagen fing Jehovah an, Rezin, den König Arams, und Pekach, den Sohn Remaljahus, wider Judah zu senden.</verse>
+        <verse osisID='2Kgs.15.38'>Und Jotham entschlief zu seinen Vätern, und ward begraben bei seinen Vätern in der Stadt Davids, seines Vaters, und Achas, sein Sohn, ward König an seiner Stelle.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.16'>
+        <title>Achas König von Judah.</title>
+        <verse osisID='2Kgs.16.1'>Im Jahre siebzehn der Jahre von Pekach, dem Sohne Remaljahus, ward König Achas, der Sohn Jothams, des Königs von Judah.</verse>
+        <verse osisID='2Kgs.16.2'>Achas war zwanzig Jahre alt<note>ein Sohn von 20 Jahren</note>, als er König wurde, und regierte sechzehn Jahre in Jerusalem, tat aber nicht, was recht<note>redlich</note> war in den Augen Jehovahs, seines Gottes, wie David, sein Vater.</verse>
+        <verse osisID='2Kgs.16.3'>Und er wandelte auf dem Wege der Könige Israels, und ließ auch seinen Sohn durch das Feuer durchgehen, nach den Greueln der Völkerschaften, die Jehovah vor den Söhnen Israels ausgetrieben hatte.</verse>
+        <verse osisID='2Kgs.16.4'>Und er opferte und räucherte auf den Opferhöhen und auf den Hügeln und unter jeglichem grünen Baum.</verse>
+        <verse osisID='2Kgs.16.5'>Da zog Rezin, König von Aram, und Pekah, der Sohn Remaljahus, der König von Israel, herauf zum Streite nach Jerusalem und belagerten Achas, vermochten aber nicht, es zu erstreiten.</verse>
+        <verse osisID='2Kgs.16.6'>Um selbe Zeit brachte Rezin, der König von Aram, Elath an Aram zurück und vertrieb die Juden von Elath, und Edomiter<note>Aramiter</note> kamen nach Elath und wohnten<note>saßen</note> allda bis auf diesen Tag.</verse>
+        <verse osisID='2Kgs.16.7'>Und Achas sandte Boten an Tiglath-Pileser, König von Aschur, ihm zu sagen: Dein Knecht und dein Sohn bin ich; ziehe herauf und hilf mir aus der Hand<note>hohlen Hand</note> des Königs von Aram, und aus der Hand<note>hohlen Hand</note> des Königs von Israel, die wider mich aufgestanden sind.</verse>
+        <verse osisID='2Kgs.16.8'>Und Achas nahm das Silber und das Gold, das sich fand im Hause Jehovahs und in den Schätzen des Hauses des Königs, und sandte es als Geschenk an den König von Aschur.</verse>
+        <verse osisID='2Kgs.16.9'>Und der König von Aschur hörte auf ihn, und der König von Aschur zog hinauf gen Damaskus, nahm es ein und führte sie weg nach Kir; den Rezin aber tötete er.</verse>
+        <verse osisID='2Kgs.16.10'>Und der König Achas ging Tiglath-Pileser, dem König von Aschur, entgegen nach Damaskus, und sah den Altar, der in Damaskus war. Und der König Achas sandte dem Urijah, dem Priester, eine Zeichnung<note>Ähnlichkeit</note> des Altares und ein Muster nach all seiner Arbeit.</verse>
+        <verse osisID='2Kgs.16.11'>Und Urijah, der Priester, baute den Altar nach allem, das der König Achas aus Damaskus gesandt hatte. So machte ihn Urijah, der Priester, bis der König Achas von Damaskus kam.</verse>
+        <verse osisID='2Kgs.16.12'>Und der König kam von Damaskus, und der König sah den Altar, und es nahte der König dem Altar und opferte<note>opferte auf</note> darauf;</verse>
+        <verse osisID='2Kgs.16.13'>Und er zündete sein Brandopfer und sein Speiseopfer an, und goß sein Trankopfer aus, und sprengte das Blut seiner Dankopfer auf den Altar.</verse>
+        <verse osisID='2Kgs.16.14'>Und den ehernen Altar, der vor Jehovah war, ließ er von der Vorderseite<note>Angesicht</note> des Hauses nahe bringen, daß er nicht zwischen dem Altar<note>d.i. dem neuen Altar</note> und dem Hause war, und gab ihn auf die Seite<note>Hüfte</note> des Altars gegen Norden.</verse>
+        <verse osisID='2Kgs.16.15'>Und der König Achas gebot ihm, dem Urijah, dem Priester, und sprach: Auf dem großen Altare zünde das Brandopfer des Morgens und Abends das Speiseopfer und das Brandopfer des Königs und sein Speiseopfer und das Brandopfer des ganzen Volkes des Landes und sein Speiseopfer und seine Trankopfer an, und alles Blut des Brandopfers und alles Blut des Schlachtopfers sollst du darüber sprengen; der eherne Altar aber sei mir zum Forschen.</verse>
+        <verse osisID='2Kgs.16.16'>Und Urijah, der Priester, tat nach allem, was der König Achas geboten hatte.</verse>
+        <verse osisID='2Kgs.16.17'>Und der König Achas brach die Seitentafeln der Gestelle ab, und nahm von denselben die Becken darauf weg, und nahm das Meer von den ehernen Rindern unter demselben herab und setzte es auf ein Pflaster von Steinen,</verse>
+        <verse osisID='2Kgs.16.18'>Und den bedeckten Gang für den Sabbath, den sie am Haus gebaut, und den äußeren Eingang des Königs wendete er um beim Hause Jehovahs wegen des Königs von Aschur.</verse>
+        <verse osisID='2Kgs.16.19'>Und die übrige Geschichte<note>übrigen Worte</note> des Achas, was er tat, ist es nicht geschrieben im Buche der Tagesgeschichte<note>der Worte der Tage = Chronik</note> der Könige Judahs?</verse>
+        <verse osisID='2Kgs.16.20'>Und Achas entschlief<note>lag bei</note> zu seinen Vätern, und ward bei seinen Vätern in der Stadt Davids begraben. Und Chiskijahu<note>gewöhnlich Hiskia genannt</note>, sein Sohn, ward König an seiner Stelle.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.17'>
+        <title>Hoschea, letzter König von Israel. - Wegführung der zehn Stämme. - Die Samariter.</title>
+        <verse osisID='2Kgs.17.1'>Im zwölften Jahre Achas, des Königs von Judah, ward Hoschea, der Sohn Elahs, König über Israel in Samaria neun Jahre.</verse>
+        <verse osisID='2Kgs.17.2'>Und er tat, was böse war in den Augen Jehovahs, nur nicht wie die Könige Israels, die vor ihm waren.</verse>
+        <verse osisID='2Kgs.17.3'>Wider ihn zog herauf Schalmaneser, König von Aschur, und Hoschea ward ihm zum Knecht, und brachte<note>brachte zurück</note> ihm Geschenke<note>Speiseopfer</note>.</verse>
+        <verse osisID='2Kgs.17.4'>Der König von Aschur aber fand bei Hoschea eine Verschwörung, indem er Boten an So, den König von Ägypten, gesandt hatte, und keine Geschenke<note>Speiseopfer</note> mehr an den König von Aschur heraufbrachte, wie von Jahr zu Jahr. Und der König von Aschur ließ ihn einschließen und hielt ihn gebunden im Hause des Kerkers.</verse>
+        <verse osisID='2Kgs.17.5'>Und der König von Aschur zog herauf wider das ganze Land, und zog herauf nach Samaria, und belagerte es drei Jahre.</verse>
+        <verse osisID='2Kgs.17.6'>Im neunten Jahre Hoscheas eroberte der König von Aschur Samaria und führte Israel weg nach Aschur, und ließ sie wohnen<note>sitzen</note> in Chalach und in Chabor am Flusse Gosan und in den Städten Mediens.</verse>
+        <verse osisID='2Kgs.17.7'>Und das geschah, weil die Söhne Israels sündigten wider Jehovah, ihren Gott, Der sie aus dem Lande Ägypten, aus<note>von unter der Hand</note> der Hand Pharaos, des Königs von Ägypten heraufgebracht hatte, und sie andere Götter fürchteten,</verse>
+        <verse osisID='2Kgs.17.8'>Und sie wandelten in den Satzungen der Völkerschaften, die Jehovah vor den Söhnen Israels ausgetrieben hatte, und in denen der Könige von Israel, die sie gemacht hatten,</verse>
+        <verse osisID='2Kgs.17.9'>Und die Söhne Israels ersannen<note>verheimlichten</note> Dinge<note>Worte</note>, die nicht richtig waren, wider Jehovah, ihren Gott, und bauten sich Opferhöhen in allen ihren Städten, vom Turme der Wächter<note>Bewahrer</note> bis zur festen Stadt.</verse>
+        <verse osisID='2Kgs.17.10'>Und stellten sich Bildsäulen und Ascheren auf jeglichem hohen Hügel und unter jeglichem grünen Baum;</verse>
+        <verse osisID='2Kgs.17.11'>Und sie räucherten allda auf allen Opferhöhen, wie die Völkerschaften, die Jehovah vor ihnen weggeführt hatte, und taten böse Dinge<note>Worte</note>, Jehovah aufzureizen,</verse>
+        <verse osisID='2Kgs.17.12'>Und sie dienten den Götzen, von denen Jehovah ihnen gesagt hatte: Ihr sollt solches Ding<note>Wort</note> nicht tun.</verse>
+        <verse osisID='2Kgs.17.13'>Und Jehovah zeugte wider Israel und wider Judah durch die Hand aller seiner Propheten, durch jeglichen Seher und sprach: Kehret zurück von euren bösen Wegen und haltet Meine Gebote, Meine Satzungen, nach allem Gesetz, das Ich euren Vätern geboten hatte, und das Ich durch die Hand Meiner Knechte, der Propheten, an euch gesandt habe.</verse>
+        <verse osisID='2Kgs.17.14'>Aber sie hörten nicht darauf, und machten hart ihren Nacken, wie der Nacken ihrer Väter war, die nicht an Jehovah, ihren Gott, glaubten.</verse>
+        <verse osisID='2Kgs.17.15'>Und verschmähten Seine Satzungen und Seinen Bund, den Er mit ihren Vätern geschlossen, und Seine Zeugnisse, die Er wider sie bezeugte, und wandelten der Nichtigkeit nach und wurden nichtig, und den Heiden nach, die rings um sie waren, von denen Jehovah ihnen geboten hatte, nicht wie sie zu tun.</verse>
+        <verse osisID='2Kgs.17.16'>Und sie verließen alle Gebote Jehovahs, ihres Gottes, und machten sich zwei gegossene Kälber, und machten eine Aschere, und beteten an das ganze Heer der Himmel, und dienten dem Baal;</verse>
+        <verse osisID='2Kgs.17.17'>Und ließen ihre Söhne und ihre Töchter durch das Feuer hindurchgehen und wahrsagten Wahrsagereien, und trieben Beschwörungen, und verkauften sich, zu tun, was böse war in den Augen Jehovahs, Ihn aufzureizen.</verse>
+        <verse osisID='2Kgs.17.18'>Und Jehovah erzürnte Sich sehr wider Israel, und tat sie weg von Seinem Angesicht; nichts verblieb, nur der Stamm<note>Rute</note> Judah allein.</verse>
+        <verse osisID='2Kgs.17.19'>Auch Judah hielt nicht die Gebote Jehovahs, ihres Gottes, und sie wandelten in den Satzungen Israels, die sie taten.</verse>
+        <verse osisID='2Kgs.17.20'>Und Jehovah verschmähte allen Samen Israels, und demütigte sie, und gab sie in die Hand der Plünderer, bis daß Er sie warf von Seinem Angesicht.</verse>
+        <verse osisID='2Kgs.17.21'>Denn Israel riß sich los vom Hause Davids, und sie machten Jerobeam, Nebats Sohn, zum König, und Jerobeam führte Israel ab von Jehovah<note>hinter Jehovah</note>, und ließ sie eine große Sünde sündigen.</verse>
+        <verse osisID='2Kgs.17.22'>Und die Söhne Israels wandelten in allen Sünden Jerobeams, die er tat; sie wichen nicht davon ab,</verse>
+        <verse osisID='2Kgs.17.23'>Bis daß Jehovah Israel wegtat von Seinem Angesicht, wie Er durch die Hand aller Seiner Knechte, der Propheten, geredet hatte; und Israel ward von seinem Boden weggeführt nach Aschur bis auf diesen Tag.</verse>
+        <verse osisID='2Kgs.17.24'>Und der König von Aschur ließ kommen aus Babel und aus Kutha und aus Ava und aus Chamath und Sepharvaim, und ließ wohnen<note>sitzen</note> in den Städten Samariens, anstatt der Söhne Israels, und sie besaßen Samarien als Erbe und wohnten<note>saßen</note> in dessen Städten.</verse>
+        <verse osisID='2Kgs.17.25'>Und es geschah im Anbeginn, da sie dort wohnten<note>saßen</note>, fürchteten sie Jehovah nicht, und Jehovah sandte die Löwen wider sie, und die erwürgten unter ihnen.</verse>
+        <verse osisID='2Kgs.17.26'>Und sie sprachen zum König von Aschur und sagten: Die Völkerschaften, die du hast wegführen und wohnen<note>sitzen</note> lassen in den Städten Samarias, wissen nicht die Rechte von dem Gotte des Landes, und Er sandte unter sie die Löwen, und siehe, die töten sie, weil sie die Rechte von dem Gotte des Landes nicht wissen.</verse>
+        <verse osisID='2Kgs.17.27'>Und der König von Aschur gebot und sprach: Bringt dorthin einen von den Priestern, die ihr von dannen weggeführt, auf daß sie hingehen und allda wohnen<note>sitzen</note>, und er sie unterweise in den Rechten des Gottes des Landes.</verse>
+        <verse osisID='2Kgs.17.28'>Und es kam einer von den Priestern, die sie aus Samarien weggeführt hatten, und wohnte<note>saß</note> in Bethel, und unterwies sie, wie sie Jehovah fürchten sollten.</verse>
+        <verse osisID='2Kgs.17.29'>Und Völkerschaft nach Völkerschaft hatte sich seine Götter gemacht, und sie in den Häusern der Opferhöhen, welche die Samarier gemacht hatten, gestellt. Völkerschaft nach Völkerschaft in ihren Städten, in denen sie wohnten<note>saßen</note>.</verse>
+        <verse osisID='2Kgs.17.30'>Und die Männer aus Babel machten Sukkoth-Benoth<note>Hütten der Töchter</note>, und die Männer aus Kuth machten sich Nergal, und die Männer aus Chamath machten sich den Aschima.</verse>
+        <verse osisID='2Kgs.17.31'>Und die von Ava machten sich Nibchas und Tharthak, und die Sepharver verbrannten ihre Söhne im Feuer dem Adrammelech und dem Anammelech, den Göttern von Sepharvajim.</verse>
+        <verse osisID='2Kgs.17.32'>Aber sie fürchteten Jehovah und machten sich aus den Enden Priester der Opferhöhen, und sie opferten<note>machten</note> für sie in den Häusern der Opferhöhen.</verse>
+        <verse osisID='2Kgs.17.33'>Jehovah fürchteten sie, und ihren Göttern dienten sie nach den Rechten der Völkerschaften, von wo sie weggeführt worden.</verse>
+        <verse osisID='2Kgs.17.34'>Bis auf diesen Tag tun sie nach den ersten Weisen. Sie fürchten nicht Jehovah, und tun nicht nach ihren Satzungen und ihren Rechten und nach dem Gesetz und nach dem Gebot, so Jehovah, den Söhnen Jakobs geboten, dem Er den Namen Israel gab.</verse>
+        <verse osisID='2Kgs.17.35'>Und mit denen Jehovah einen Bund geschlossen, und ihnen geboten und gesagt: Ihr sollt keine anderen Götter fürchten, und sollt sie nicht anbeten, und ihnen nicht dienen, und nicht opfern denselben;</verse>
+        <verse osisID='2Kgs.17.36'>Sondern Jehovah, Der euch mit großer Kraft und mit ausgerecktem Arm aus dem Lande Ägypten heraufgebracht, Ihn sollt ihr fürchten und Ihn anbeten, und Ihm sollt ihr opfern.</verse>
+        <verse osisID='2Kgs.17.37'>Und die Satzungen und die Rechte und das Gesetz und das Gebot, das Er euch geschrieben, sollt ihr halten, sie zu tun alle Tage, und sollt nicht fürchten andere Götter.</verse>
+        <verse osisID='2Kgs.17.38'>Und den Bund, den Ich mit euch geschlossen<note>machte</note>, sollt ihr nicht vergessen, und nicht andere Götter fürchten.</verse>
+        <verse osisID='2Kgs.17.39'>Sondern Jehovah, euren Gott, sollt ihr fürchten, und Er wird euch aus der Hand aller eurer Feinde erretten.</verse>
+        <verse osisID='2Kgs.17.40'>Aber sie hörten nicht, sondern taten nach ihrer ersten Weise.</verse>
+        <verse osisID='2Kgs.17.41'>Und diese Völkerschaften fürchteten Jehovah und dienten ihren Schnitzbildern; auch ihre Söhne und ihrer Söhne Söhne tun, wie ihre Väter getan, bis auf diesen Tag.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.18'>
+        <title>Chiskijah, König von Judah.</title>
+        <verse osisID='2Kgs.18.1'>Und im dritten Jahre von Hoschea, dem Sohne Elahs, König von Israel, geschah es, daß Chiskijah, Sohn des Achas, König von Judah, König ward.</verse>
+        <verse osisID='2Kgs.18.2'>Er war fünfundzwanzig Jahre alt<note>ein Sohn von 25 Jahren</note>, da er König wurde, und regierte neunundzwanzig Jahre in Jerusalem; und der Name seiner Mutter war Abi, eine Tochter Sacharjahs.</verse>
+        <verse osisID='2Kgs.18.3'>Und er tat, was recht<note>redlich</note> war in den Augen Jehovahs, nach allem, was David, sein Vater, getan hatte.</verse>
+        <verse osisID='2Kgs.18.4'>Er tat die Opferhöhen weg und zerbrach die Bildsäulen und hieb die Aschere um, und zerstieß die eherne Schlange, die Mose gemacht; denn bis zu jenen Tagen räucherten ihr die Söhne Israels und nannten sie Nechuschthan.</verse>
+        <verse osisID='2Kgs.18.5'>Er vertraute auf Jehovah, den Gott Israels; und nach ihm war keiner wie er unter allen Königen Judahs und denen, die vor ihm waren.</verse>
+        <verse osisID='2Kgs.18.6'>Und er hing Jehovah an, wich nicht ab von Ihm<note>von hinter Ihm</note>, und hielt Seine Gebote, die Jehovah dem Mose geboten hatte.</verse>
+        <verse osisID='2Kgs.18.7'>Und Jehovah war mit ihm; in allem, wozu er auszog, war er klug; und er empörte sich wider den König von Aschur und diente ihm nicht.</verse>
+        <verse osisID='2Kgs.18.8'>Er schlug die Philister bis Gazah und dessen Grenzen vom Turm der Wächter<note>der Bewahrer</note> bis zur festen Stadt.</verse>
+        <verse osisID='2Kgs.18.9'>Und es geschah im vierten Jahre des Königs Chiskijahu, das ist im siebenten Jahre von Hoschea, dem Sohne Elahs, dem König von Israel, zog Schalmaneser, König von Aschur herauf wider Samaria, und belagerte es.</verse>
+        <verse osisID='2Kgs.18.10'>Und sie eroberten es am Ende von drei Jahren, im sechsten Jahre des Chiskijahu, das war das neunte Jahr des Hoschea, König von Israel; da ward Samaria erobert.</verse>
+        <verse osisID='2Kgs.18.11'>Und der König von Aschur führte Israel weg nach Aschur, und ließ sie sich niederlassen in Chalach und in Chabor an dem Flusse Gosan und in den Städten Mediens.</verse>
+        <verse osisID='2Kgs.18.12'>Darum, daß sie nicht hörten auf die Stimme Jehovahs, ihres Gottes, und Seinen Bund überschritten, alles, was Mose, der Knecht Jehovahs, geboten hatte, und sie hörten es nicht und taten es nicht.</verse>
+        <verse osisID='2Kgs.18.13'>Und im vierzehnten Jahre des Königs Chiskijahu zog Sancherib, König von Aschur, herauf wider alle festen Städte Judahs, und nahm sie ein<note>faßte sie</note>.</verse>
+        <verse osisID='2Kgs.18.14'>Und Chiskijah, König von Judah, sandte an den König von Aschur gen Lachisch, und ließ ihm sagen: Ich habe gesündigt, kehre zurück von mir, ich will tragen, was du mir aufgibst. Und der König von Aschur legte Chiskijah, dem König von Judah, dreihundert Talente Silbers und dreißig Talente Goldes auf.</verse>
+        <verse osisID='2Kgs.18.15'>Und Chiskijah gab alles Silber, das sich im Hause Jehovahs und in den Schätzen des Hauses des Königs fand.</verse>
+        <verse osisID='2Kgs.18.16'>Zur selben Zeit schnitt Chiskijah die Türen des Tempels Jehovahs und die Pfosten<note>Türrahmen</note>, die Chiskijah, der König Judahs, selbst hatte überziehen lassen, ab, und gab sie dem König von Aschur.</verse>
+        <verse osisID='2Kgs.18.17'>Aber der König von Aschur sandte Tharthan und Rab-Saris und Rabschakeh von Lachisch wider den König Chiskijahu mit schwerer Streitmacht gen Jerusalem, und sie zogen herauf und kamen gen Jerusalem. Und sie kamen herauf und kamen und standen an dem Wassergraben des oberen Teiches, der auf der Landstraße des Feldes des Walkers ist.</verse>
+        <verse osisID='2Kgs.18.18'>Und riefen dem König; und es kam zu ihnen heraus Eljakim, der Sohn Chilkijahus, der über das Haus war, und Schebnah, der Schreiber, und Joach, der Sohn Asaphs, der Kanzler.</verse>
+        <verse osisID='2Kgs.18.19'>Und es sprach zu ihnen Rabschakeh: Sagt doch dem Chiskijahu: So spricht der große König, der König von Aschur: Was für ein Vertrauen ist das, das du vertraust?</verse>
+        <verse osisID='2Kgs.18.20'>Du hast gesprochen: Nur ein Wort der Lippen ist es, Rat und Macht zum Streite ist da! Nun auf wen vertraust du, daß du dich wider mich empörst?</verse>
+        <verse osisID='2Kgs.18.21'>Nun siehe, du verläßt dich<note>vertraust dir</note> auf die Stütze dieses zerquetschten Rohres, auf Ägypten; so ein Mann sich darauf stützt, so kommt es in seine flache Hand und durchsticht sie; so ist Pharao, König von Ägypten, allen, die auf ihn vertrauen.</verse>
+        <verse osisID='2Kgs.18.22'>Und so ihr zu mir sagt: Auf Jehovah, unseren Gott, vertrauen wir; ist Er es nicht, Dessen Opferhöhen und Altäre Chiskijahu weggetan, und zu Judah und Jerusalem gesprochen hat: Vor dem Altar da sollt ihr anbeten in Jerusalem.</verse>
+        <verse osisID='2Kgs.18.23'>Und nun, verbürge dich doch meinem Herrn, dem König von Aschur, und ich will dir zweitausend Pferde geben. Vermagst du für dich zu geben, die auf ihnen reiten?</verse>
+        <verse osisID='2Kgs.18.24'>Und wie willst du zurückwenden das Angesicht eines Statthalters, eines der geringsten Knechte meines Herrn, und du verläßt<note>vertraust dir</note> dich auf Ägypten, auf Streitwagen und Reiter?</verse>
+        <verse osisID='2Kgs.18.25'>Nun, bin ich ohne Jehovah wider diesen Ort heraufgezogen, um ihn zu verderben? Jehovah hat zu mir gesprochen: Zieh wider dieses Land hinauf und verdirb es.</verse>
+        <verse osisID='2Kgs.18.26'>Und es sprach Eljakim, der Sohn Chilkijahus, und Schebnah und Joach zu Rabschakeh: Rede doch zu deinen Knechten auf aramäisch, denn wir verstehen<note>hören</note> es und rede nicht mit uns auf jüdisch vor den Ohren des Volkes, das auf der Stadtmauer ist.</verse>
+        <verse osisID='2Kgs.18.27'>Rabschakeh aber sprach zu ihnen: Hat mein Herr zu deinem Herrn und zu dir mich gesandt, diese Worte zu reden? nicht zu den Männern, die auf der Stadtmauer sitzen, um ihren Kot zu essen und ihren Harn mit euch zu trinken?</verse>
+        <verse osisID='2Kgs.18.28'>Und Rabschakeh stand und rief mit großer Stimme auf jüdisch und redete und sprach: Höret das Wort des großen Königs, des Königs von Aschur:</verse>
+        <verse osisID='2Kgs.18.29'>So spricht der König: Lasset den Chiskijahu euch nicht verführen; denn er vermag euch nicht aus meiner Hand zu erretten.</verse>
+        <verse osisID='2Kgs.18.30'>Und laßt euch nicht von Chiskijahu auf Jehovah vertrösten<note>vertrauen machen</note>, indem er spricht: Jehovah wird uns gewiß erretten<note>errettend erretten</note>, daß diese Stadt nicht in die Hand des Königs von Aschur gegeben werde.</verse>
+        <verse osisID='2Kgs.18.31'>Hört nicht auf Chiskijahu, denn so spricht der König von Aschur: Macht euch einen Segen bei mir und kommt heraus zu mir, und esset jeder Mann von seinem Weinstock und jeder Mann von seinem Feigenbaum, und jeder Mann trinke das Wasser seiner Grube,</verse>
+        <verse osisID='2Kgs.18.32'>Bis daß ich komme und euch nehme in ein Land, wie euer Land, ein Land des Korns und des Mostes, ein Land des Brotes und der Weinberge, ein Land der Ölbäume mit Öl und des Honigs, auf daß ihr lebt und nicht sterbet; aber hört nicht auf Chiskijahu, wenn er euch antreibt und spricht: Jehovah wird uns erretten.</verse>
+        <verse osisID='2Kgs.18.33'>Hat von den Göttern der Völkerschaften ein Mann sein Land aus der Hand des Königs von Aschur errettet<note>errettend errettet</note>?</verse>
+        <verse osisID='2Kgs.18.34'>Wo waren die Götter von Chamath und Arpad, wo die Götter von Sepharvaim, Hena und Ivah, haben sie Samarien aus meiner Hand errettet?</verse>
+        <verse osisID='2Kgs.18.35'>Welche unter allen Göttern der Länder haben ihr Land von meiner Hand errettet, daß Jehovah Jerusalem aus meiner Hand erretten sollte?</verse>
+        <verse osisID='2Kgs.18.36'>Und das Volk schwieg stille und sie antworteten ihm kein Wort. Denn des Königs Gebot sagte: Ihr sollt ihm nicht antworten.</verse>
+        <verse osisID='2Kgs.18.37'>Und Eljakim, der Sohn Chilkijahs, der über das Haus war, und Schebna, der Schreiber, und Joach, Asaphs Sohn, der Kanzler, kamen mit zerrissenen Kleidern zu Chiskijahu und sagten ihm an die Worte Rabschakehs.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.19'>
+        <title>Chiskijah betet. Jesajah verheißt Hilfe. - Aschurs Niederlage.</title>
+        <verse osisID='2Kgs.19.1'>Und es geschah, da König Chiskijahu es hörte, so zerriß er seine Kleider und bedeckte sich mit dem Sack und kam in das Haus Jehovahs;</verse>
+        <verse osisID='2Kgs.19.2'>Und sandte Eljakim, der über das Haus war, und Schebna, den Schreiber, und die Ältesten der Priester, mit Säcken bedeckt, an Jesajah<note>Jeschajahu, d.h. Jehovah rettet</note>, den Propheten, den Sohn des Amoz.</verse>
+        <verse osisID='2Kgs.19.3'>Und sie sprachen zu ihm: So spricht Chiskijahu: Ein Tag der Drangsal und der Rüge und der Lästerung ist dieser Tag, denn die Söhne sind gekommen bis zum Bruche<note>der Mutter</note> und keine Kraft ist da zu gebären.</verse>
+        <verse osisID='2Kgs.19.4'>Vielleicht hört Jehovah, dein Gott, all die Worte des Rabschakeh, den der König von Aschur, sein Herr, sandte, den lebendigen Gott zu schmähen, und wird strafen die Worte, die Jehovah, dein Gott, gehört hat. Und erhebe du ein Gebet für den Überrest, der sich findet.</verse>
+        <verse osisID='2Kgs.19.5'>Und die Knechte des Königs Chiskijahu kamen zu Jesajah;</verse>
+        <verse osisID='2Kgs.19.6'>Und Jesajah sprach zu ihnen: So sollt ihr sprechen zu eurem Herrn: So spricht Jehovah: Fürchte dich nicht vor den Worten, die du gehört, mit denen Mich die Jungen des Königs von Aschur verhöhnt haben.</verse>
+        <verse osisID='2Kgs.19.7'>Siehe, Ich gebe in ihm einen Geist, daß er ein Gerücht hört, und zurückkehrt nach seinem Land, und Ich lasse ihn durch das Schwert fallen in seinem Lande.</verse>
+        <verse osisID='2Kgs.19.8'>Und Rabschakeh kehrte zurück und fand den König von Aschur im Streite wider Libnah; denn er hatte gehört, daß er von Lachisch aufgebrochen war.</verse>
+        <verse osisID='2Kgs.19.9'>Und er hörte von Thirchakah, dem König von Kusch<note>d.i. Äthiopien</note>, also sprechen: Siehe, er ist ausgezogen mit dir zu streiten. Und er sandte wiederum<note>kehrte zurück und sandte</note> Boten an Chiskijahu und sprach:</verse>
+        <verse osisID='2Kgs.19.10'>So sprechet zu Chiskijahu, dem König von Judah, und saget: Laß dich nicht verführen von deinem Gotte, auf Den du vertraust, daß du sprichst: Jerusalem wird nicht in die Hand des Königs von Aschur gegeben werden.</verse>
+        <verse osisID='2Kgs.19.11'>Siehe, du hast gehört, was die Könige von Aschur allen Ländern taten, daß sie sie verbannten, und du willst errettet werden?</verse>
+        <verse osisID='2Kgs.19.12'>Haben die Götter der Völkerschaften diejenigen errettet, die meine Väter verdorben haben: Gosan und Charan und Rezeph und die Söhne Edens, das in Thelassar ist.</verse>
+        <verse osisID='2Kgs.19.13'>Wo ist der König von Chamath und der König von Arpad und der König über die Stadt Sepharvaim, Hena und Ivah?</verse>
+        <verse osisID='2Kgs.19.14'>Und Chiskijahu nahm die Briefe aus der Hand der Boten und las sie und ging hinauf zum Haus Jehovahs, und Chiskijahu breitete sie aus vor Jehovah;</verse>
+        <verse osisID='2Kgs.19.15'>Und Chiskijahu betete vor Jehovah und sprach: Jehovah, Gott Israels, Der Du sitzest auf den Cheruben, Du bist der Gott, Du allein über alle Königreiche der Erde, Du hast die Himmel und die Erde gemacht!</verse>
+        <verse osisID='2Kgs.19.16'>Neige, Jehovah, Dein Ohr und höre; tue auf, Jehovah, Deine Augen und siehe und höre die Worte Sancheribs, der gesandt hat, zu schmähen den lebendigen Gott.</verse>
+        <verse osisID='2Kgs.19.17'>Wahrlich, Jehovah, die Könige von Aschur haben die Völkerschaften und ihr Land verödet.</verse>
+        <verse osisID='2Kgs.19.18'>Und ihre Götter ins Feuer geworfen<note>gegeben</note>; denn sie sind keine Götter, sondern ein Werk von den Händen des Menschen gemacht, Holz und Stein, und die haben sie zugrunde gerichtet.</verse>
+        <verse osisID='2Kgs.19.19'>Nun aber, Jehovah, unser Gott, rette uns doch aus seiner Hand, auf daß alle Königreiche der Erde wissen, daß Du, Jehovah, alleiniger Gott bist.</verse>
+        <verse osisID='2Kgs.19.20'>Und Jesajah<note>Jeschajahu</note>, der Sohn des Amoz, sandte an Chiskijahu und sprach: So spricht Jehovah, der Gott Israels: Was du zu Mir wider Sancherib, den König von Aschur, gebetet hast, habe Ich gehört.</verse>
+        <verse osisID='2Kgs.19.21'>Das ist das Wort, das Jehovah über ihn geredet hat: Es verachtet dich und verlacht dich die Jungfrau, die Tochter Zijons, hinter dir her schüttelt<note>nickt</note> das Haupt die Tochter Jerusalems.</verse>
+        <verse osisID='2Kgs.19.22'>Wen hast du geschmäht und verhöhnt? und gegen wen hast du die Stimme erhöht und deine Augen erhoben? Gegen den Heiligen Israels.</verse>
+        <verse osisID='2Kgs.19.23'>Durch die Hand deiner Boten hast du den Herrn geschmäht und gesprochen: Mit meinen vielen Streitwagen bin ich auf die Höhe der Berge hinaufgefahren, an die Seiten<note>Hüften</note> des Libanon, und habe ausgerottet seine hohen<note>den Wuchs seiner</note> Zedern, die Auswahl seiner Tannen, und kam an das Ende seiner Behausung<note>Nachtlager</note>, den Wald seines Karmel.</verse>
+        <verse osisID='2Kgs.19.24'>Ich habe hinabgegraben und getrunken fremde Wasser, und trockne aus mit der Sohle meiner Fußtritte alle Ströme Ägyptens.</verse>
+        <verse osisID='2Kgs.19.25'>Hast du nicht gehört, daß Ich von ferne her es getan, daß von den Tagen der Vorzeit her Ich es gebildet? Nun laß Ich es kommen, daß du seist ein Zertrümmerer der festen Städte zu wüsten Steinhaufen.</verse>
+        <verse osisID='2Kgs.19.26'>Und die darin wohnen<note>sitzen</note> werden schwach<note>kurz</note> von Hand, sie werden sich entsetzen und beschämt werden; sie werden wie<note>wie steht nicht im Hebr.</note> Kraut des Feldes und Grün des jungen Krautes, Gras der Dächer und Brandkorn, ehe es aufschießt.</verse>
+        <verse osisID='2Kgs.19.27'>Dein Sitzen und deinen Ausgang und deinen Eingang weiß Ich und deinen Aufruhr<note>Zittern</note> gegen Mich.</verse>
+        <verse osisID='2Kgs.19.28'>Weil dein Aufruhr<note>Zittern</note> wider Mich und deine Sorglosigkeit zu Meinen Ohren heraufkam, so will Ich Meinen Haken in deine Nase legen und Meinen Zaum in deine Lippen, und dich zurückbringen auf dem Wege, auf dem du gekommen bist.</verse>
+        <verse osisID='2Kgs.19.29'>Und dies sei dir das Zeichen: Das Jahr esset ihr, was von selbst gewachsen, und im zweiten Jahr solches, das aus diesem nachgewachsen, und im dritten Jahr sollt ihr säen und ernten, und Weinberge pflanzen und deren Frucht essen.</verse>
+        <verse osisID='2Kgs.19.30'>Und wiederum<note>die Entkommenen werden hinzutun</note> werden die Entkommenen des Hauses Judah, die verbleiben, nach unten Wurzel ansetzen und nach oben Frucht bringen.</verse>
+        <verse osisID='2Kgs.19.31'>Denn von Jerusalem soll ausgehen ein Überrest und die Entkommenen vom Berge Zijon. Der Eifer Jehovahs wird das tun.</verse>
+        <verse osisID='2Kgs.19.32'>Darum spricht Jehovah über den König von Aschur also: Er soll nicht an diese Stadt kommen und keinen Pfeil dahin schießen, und nicht vor sie bringen den Schild und keinen Wall aufschütten wider sie.</verse>
+        <verse osisID='2Kgs.19.33'>Auf dem Wege, da er gekommen ist, soll er zurückkehren, und zu dieser Stadt soll er nicht kommen, spricht Jehovah.</verse>
+        <verse osisID='2Kgs.19.34'>Und beschirmen will Ich diese Stadt, daß Ich sie rette um Meinetwillen und um Davids, Meines Knechtes, willen.</verse>
+        <verse osisID='2Kgs.19.35'>Und es geschah in selbiger Nacht, daß der Engel Jehovahs ausging und im Lager Aschurs schlug hundertfünfundachtzigtausend; und sie standen früh am Morgen auf, und siehe, da waren sie alle Leichen der Gestorbenen.</verse>
+        <verse osisID='2Kgs.19.36'>Und Sancherib, der König von Aschur, brach auf und ging hin und kehrte zurück, und er wohnte<note>saß</note> in Niniveh.</verse>
+        <verse osisID='2Kgs.19.37'>Und es geschah, da er anbetete im Hause Nisrochs, seines Gottes, da schlugen ihn mit dem Schwerte Adrammelech und Scharezer und entrannen in das Land Ararat, und Esar-Chaddon, sein Sohn, ward König an seiner Stelle.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.20'>
+        <title>Chiskijahs Krankheit, Ehrgeiz und Tod.</title>
+        <verse osisID='2Kgs.20.1'>In jenen Tagen erkrankte Chiskijahu auf den Tod; und der Prophet Jesajah<note>Jeschajahu</note>, der Sohn Amoz, kam zu ihm und sprach zu ihm: So spricht Jehovah: Gebiete deinem Haus; denn du sollst sterben und nicht leben.</verse>
+        <verse osisID='2Kgs.20.2'>Und er wandte sein Gesicht herum gegen die Wand und betete zu Jehovah und sprach:</verse>
+        <verse osisID='2Kgs.20.3'>Ach, gedenke doch, Jehovah, daß ich vor Deinem Angesicht in Treue und mit ganzem<note>vollständigem</note> Herzen gewandelt habe, und getan, was gut in Deinen Augen war. Und Chiskijahu weinte mit großem Weinen.</verse>
+        <verse osisID='2Kgs.20.4'>Und es geschah, daß Jesajah<note>Jeschajahu</note> noch nicht zur Stadt<note>Keri: des Vorhofs</note> hinausgegangen war, da geschah das Wort Jehovahs an ihn und sprach:</verse>
+        <verse osisID='2Kgs.20.5'>Kehre zurück und sprich zu Chiskijahu, dem Führer Meines Volkes: So spricht Jehovah, der Gott Davids, deines Vaters: Ich habe gehört dein Gebet und deine Träne gesehen, siehe, Ich heile dich! Am dritten Tage sollst du hinauf in das Haus Jehovahs gehen;</verse>
+        <verse osisID='2Kgs.20.6'>Und Ich will zu deinen Tagen fünfzehn Jahre dazutun, und dich und diese Stadt aus der Hand<note>hohlen Hand</note> des Königs von Aschur erretten, und beschirmen diese Stadt um Meinetwillen und um David, Meines Knechtes willen.</verse>
+        <verse osisID='2Kgs.20.7'>Und Jesajah<note>Jeschajahu</note> sprach: Holet her einen Feigenkuchen<note>Feigenkuchen von Feigen</note>; und sie holten einen und legten ihn auf das Geschwür, und er blieb am Leben.</verse>
+        <verse osisID='2Kgs.20.8'>Und Chiskijahu sprach zu Jesajah<note>Jeschajahu</note>: Was ist das Zeichen, daß Jehovah mich heilen wird; und ich am dritten Tage in das Haus Jehovahs hinaufgehen werde?</verse>
+        <verse osisID='2Kgs.20.9'>Und Jesajah<note>Jeschajahu</note> sprach: Dies sei dir das Zeichen von Jehovah, daß Jehovah das Wort tun wird, das Er geredet hat: Soll der Schatten zehn Stufen hingehen oder zehn Stufen heraufkommen?</verse>
+        <verse osisID='2Kgs.20.10'>Und Jechiskijahu sprach: Es ist dem Schatten ein Leichtes, sich zehn Stufen zu neigen. Nein, der Schatten soll zehn Stufen hinter sich zurückkehren!</verse>
+        <verse osisID='2Kgs.20.11'>Und der Prophet Jesajah<note>Jeschajahu</note> rief zu Jehovah, und Er ließ den Schatten auf den Stufen, die er hinabgegangen, auf den Stufen des Achas, um zehn Stufen hinter sich zurückkehren.</verse>
+        <verse osisID='2Kgs.20.12'>Um diese Zeit sandte Berodach-Baladan, der Sohn Baladans, König von Babel, Briefe und ein Geschenk<note>Speiseopfer</note> an Chiskijahu; denn er hatte gehört, daß Chiskijahu erkrankt war.</verse>
+        <verse osisID='2Kgs.20.13'>Und Chiskijahu hörte auf sie und zeigte ihnen all das Haus seiner Kleinode, das Silber und das Gold, und die Gewürze und das gute Öl, und all das Haus seiner Geräte und alles, was sich in seinen Schätzen fand. Nichts<note>kein Wort</note> war da, das ihnen Chiskijahu in seinem Hause und in all seiner Herrschaft nicht gezeigt hätte.</verse>
+        <verse osisID='2Kgs.20.14'>Und Jesajah<note>Jeschajahu</note>, der Prophet, kam zum König Chiskijahu und sprach zu ihm: Was sagten diese Männer und woher kamen sie zu dir? Und Chiskijahu sprach: Von einem fernen Lande sind sie gekommen, von Babel.</verse>
+        <verse osisID='2Kgs.20.15'>Und er sprach: Was haben sie in deinem Hause gesehen? Und Chiskijahu sprach: Alles, was in meinem Hause ist, sahen sie; da war nichts<note>kein Wort</note> in meinen Schätzen, das ich sie nicht sehen ließ.</verse>
+        <verse osisID='2Kgs.20.16'>Und Jesajah<note>Jeschajahu</note> sprach zu Chiskijahu: Höre das Wort Jehovahs:</verse>
+        <verse osisID='2Kgs.20.17'>Siehe, es kommen Tage, da man alles, was in deinem Hause ist, und was deine Väter bis auf diesen Tag aufgespeichert haben, nach Babel trägt, da wird nichts<note>kein Wort</note> übrigbleiben, spricht Jehovah.</verse>
+        <verse osisID='2Kgs.20.18'>Und von deinen Söhnen, die von dir ausgehen, die du zeugen wirst, wird man nehmen, daß sie Hofbeamte im Palast<note>Tempel</note> des Königs von Babel werden.</verse>
+        <verse osisID='2Kgs.20.19'>Und Chiskijahu sprach zu Jesajah<note>Jeschajahu</note>: Das Wort Jehovahs, das du geredet hast, ist gut. Und er sprach: Wird nicht Friede und Treue sein in meinen Tagen?</verse>
+        <verse osisID='2Kgs.20.20'>Und die übrige Geschichte<note>übrigen Worte</note> Chiskijahus, und all seine Macht und was er gemacht: den Teich und den Wassergraben und wie er das Wasser in die Stadt gebracht, ist es nicht geschrieben in der Tagesgeschichte<note>der Worte der Tage = Chronik</note> der Könige von Judah?</verse>
+        <verse osisID='2Kgs.20.21'>Und Chiskijahu entschlief<note>lag bei</note> zu seinen Vätern, und sein Sohn Menascheh ward König an seiner Stelle.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.21'>
+        <title>Menascheh und Amon Könige in Judah.</title>
+        <verse osisID='2Kgs.21.1'>Zwölf Jahre war Menascheh alt<note>ein Sohn von 12 Jahren</note>, da er König ward, und regierte in Jerusalem fünfundfünfzig Jahre, und der Name seiner Mutter war Chephzi-Bah.</verse>
+        <verse osisID='2Kgs.21.2'>Und er tat, was böse war in den Augen Jehovahs, nach den Greueln der Völkerschaften, die Jehovah vor den Söhnen Israels ausgetrieben hatte.</verse>
+        <verse osisID='2Kgs.21.3'>Und er baute wiederum<note>kehrte zurück und baute</note> die Opferhöhen, die sein Vater Chiskijahu zerstört hatte, und richtete Altäre dem Baal auf und machte eine Aschere, wie Achab, der König von Israel, getan, und betete all das Heer der Himmel an und diente demselben.</verse>
+        <verse osisID='2Kgs.21.4'>Und er baute Altäre im Hause Jehovahs, von denen Jehovah gesprochen hatte: In Jerusalem will Ich Meinen Namen setzen.</verse>
+        <verse osisID='2Kgs.21.5'>Und er baute Altäre all dem Heere der Himmel in den beiden Höfen des Hauses Jehovahs.</verse>
+        <verse osisID='2Kgs.21.6'>Und er ließ seinen Sohn durch das Feuer hindurchgehen, und ließ sich aus Wolken und Schlangen wahrsagen, und trieb Geisterbannerei und Zeichendeuterei, und tat vieles, das böse war in den Augen Jehovahs, womit er Ihn reizte.</verse>
+        <verse osisID='2Kgs.21.7'>Und er stellte auch das Schnitzbild der Aschere, die er hatte machen lassen, in das Haus, von dem Jehovah zu David und zu Salomoh, seinem Sohne, gesprochen: In dieses Haus und in Jerusalem, das Ich aus allen Stämmen Israels auserwählt habe, will Ich Meinen Namen setzen in Ewigkeit.</verse>
+        <verse osisID='2Kgs.21.8'>Und will den Fuß Israels nicht wiederum umherschweifen lassen<note>hinzutun umherschweifen zu lassen</note> von dem Boden, den Ich ihren Vätern gegeben habe, so jedoch, daß sie halten, zu tun nach allem, was Ich ihnen geboten, und nach allem Gesetze, das ihnen Mein Knecht Mose geboten hat.</verse>
+        <verse osisID='2Kgs.21.9'>Aber sie hörten nicht darauf, und Menascheh führte sie irre, daß sie Böses taten, mehr denn die Völkerschaften, die Jehovah vor den Söhnen Israels vernichtet hatte.</verse>
+        <verse osisID='2Kgs.21.10'>Und Jehovah redete durch die Hand seiner Knechte, der Propheten, und sprach:</verse>
+        <verse osisID='2Kgs.21.11'>Weil Menascheh, König von Judah, diese Greuel getan, die ärger sind denn alles, was die Amoriter vor ihm taten, und auch Judah durch seine Götzen sündigen machte,</verse>
+        <verse osisID='2Kgs.21.12'>Darum - so spricht Jehovah, der Gott Israels: - Siehe, Ich bringe Böses über Jerusalem und Judah, daß allen, die es hören, ihre beiden Ohren gellen sollen;</verse>
+        <verse osisID='2Kgs.21.13'>Und recke aus über Jerusalem die Meß-schnur Samarias, und das Senkblei des Hauses Achab, und wische Jerusalem aus, wie man die Schale auswischt, sie auswischt und umkehrt auf ihr Angesicht.</verse>
+        <verse osisID='2Kgs.21.14'>Und Ich gebe hin den Überrest Meines Erbes, und gebe sie in die Hand ihrer Feinde, auf daß sie allen ihren Feinden zum Raub und zur Plünderung werden.</verse>
+        <verse osisID='2Kgs.21.15'>Weil sie taten, was böse ist in Meinen Augen, und Mich reizten seit dem Tage, da ihre Väter auszogen aus Ägypten, und bis auf diesen Tag.</verse>
+        <verse osisID='2Kgs.21.16'>Und Menascheh vergoß auch sehr viel unschuldig Blut, bis daß er Jerusalem von Ende zu Ende<note>von Mund zu Mund</note> damit füllte, außer seiner Sünde, die er Judah sündigen machte, zu tun, was böse ist in Jehovahs Augen.</verse>
+        <verse osisID='2Kgs.21.17'>Und die übrige Geschichte<note>Worte</note> Menaschehs, und alles, was er tat, und die Sünde, die er sündigte, sind sie nicht geschrieben im Buche der Tagesgeschichte<note>Worte der Tage = Chronik</note> der Könige Judahs?</verse>
+        <verse osisID='2Kgs.21.18'>Und Menascheh entschlief<note>lag bei</note> zu seinen Vätern, und ward begraben im Garten seines Hauses, im Garten Ussas, und Amon, sein Sohn, ward König an seiner Stelle.</verse>
+        <verse osisID='2Kgs.21.19'>Amon war zweiundzwanzig Jahre alt<note>ein Sohn von 22 Jahren</note>, da er König ward, und regierte zwei Jahre in Jerusalem, und der Name seiner Mutter war Meschullemeth, eine Tochter des Charuz aus Jotbah.</verse>
+        <verse osisID='2Kgs.21.20'>Und er tat, was böse war in den Augen Jehovahs, wie Menascheh, sein Vater, getan hatte.</verse>
+        <verse osisID='2Kgs.21.21'>Und er wandelte in all dem Wege, den sein Vater gewandelt, und diente den Götzen, denen sein Vater gedient, und betete sie an;</verse>
+        <verse osisID='2Kgs.21.22'>Und verließ Jehovah, den Gott seiner Väter, und wandelte nicht im Wege Jehovahs.</verse>
+        <verse osisID='2Kgs.21.23'>Und es verschworen sich die Knechte Amons wider ihn, und töteten den König in seinem Hause.</verse>
+        <verse osisID='2Kgs.21.24'>Und das Volk des Landes schlug alle, die sich wider den König Amon verschworen hatten, und das Volk das Landes machte Joschijahu, seinen Sohn, an seiner Stelle zum König.</verse>
+        <verse osisID='2Kgs.21.25'>Und die übrige Geschichte<note>Worte</note> Amons, was er tat, ist es nicht geschrieben im Buch der Tagesgeschichte<note>Worte der Tage = Chronik</note> der Könige Judahs?</verse>
+        <verse osisID='2Kgs.21.26'>Und man begrub ihn in seinem Begräbnis im Garten Ussas, und Joschijahu, sein Sohn, ward König an seiner Stelle.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.22'>
+        <title>Joschijah. Das Gesetzbuch wiedergefunden.</title>
+        <verse osisID='2Kgs.22.1'>Joschijahu war acht Jahre alt<note>ein Sohn von 8 Jahren</note>, da er König ward, und regierte einunddreißig Jahre in Jerusalem; und der Name seiner Mutter war Jedidah, eine Tochter Adajahs, aus Bozkath.</verse>
+        <verse osisID='2Kgs.22.2'>Und er tat, was recht<note>redlich</note> war in den Augen Jehovahs, und wandelte in all dem Wege Davids, seines Vaters, und wich nicht ab zur Rechten noch zur Linken.</verse>
+        <verse osisID='2Kgs.22.3'>Und es geschah im achtzehnten Jahre des Königs Joschijahu, daß der König den Schaphan, Sohn des Azaljahu, des Sohnes Meschullams, den Schreiber, in das Haus Jehovahs sandte und sprach:</verse>
+        <verse osisID='2Kgs.22.4'>Gehe hinauf zu Chilkijahu, dem Hohenpriester<note>großen Priester</note>, daß er das Silber zusammenzähle, das in das Haus Jehovahs eingebracht wurde, welches die Hüter der Schwelle vom Volke eingesammelt haben;</verse>
+        <verse osisID='2Kgs.22.5'>Und sie sollen es geben in die Hand derer, die das Werk tun, die im Hause Jehovahs bestellt sind, und diese es denen geben, die das Werk tun am Hause Jehovahs, um die Risse am Hause auszubessern<note>zu stärken</note>,</verse>
+        <verse osisID='2Kgs.22.6'>Den Werkleuten und Bauleuten und Maurern, und um Holz und gehauene Steine zur Stärkung des Hauses zu kaufen.</verse>
+        <verse osisID='2Kgs.22.7'>Nur soll man mit ihnen das Silber nicht verrechnen, das ihnen in die Hand gegeben wurde, denn sie tun es mit Treue.</verse>
+        <verse osisID='2Kgs.22.8'>Und der Hohepriester<note>große Priester</note> Chilkijahu sprach zu Schaphan, dem Schreiber: Ich habe im Hause Jehovahs das Buch des Gesetzes gefunden, und Chilkijah gab das Buch dem Schaphan, und er las es.</verse>
+        <verse osisID='2Kgs.22.9'>Und Schaphan, der Schreiber, kam zum König und brachte dem König das Wort zurück und sprach: Deine Knechte haben das Silber, das sich im Hause fand, ausgegossen, und es in die Hand derer gegeben, die das Werk tun, die im Hause Jehovahs bestellt sind.</verse>
+        <verse osisID='2Kgs.22.10'>Und Schaphan, der Schreiber, sagte dem Könige an und sprach: Chilkijah, der Priester, hat mir ein Buch gegeben, und Schaphan las es vor dem König.</verse>
+        <verse osisID='2Kgs.22.11'>Und es geschah, als der König die Worte des Buches des Gesetzes hörte, da zerriß er seine Kleider.</verse>
+        <verse osisID='2Kgs.22.12'>Und der König gebot dem Chilkijahu, dem Priester, und Achikam, dem Sohne Schaphans, und Achbor, dem Sohne Michajahs, und Schaphan, dem Schreiber, und Asajah, dem Knechte des Königs, und sprach:</verse>
+        <verse osisID='2Kgs.22.13'>Gehet hin und befragt Jehovah für mich und für das Volk und für ganz Judah über die Worte dieses Buches, das gefunden ward, denn groß ist der Grimm Jehovahs, der gegen uns sich entzündete, weil unsere Väter nicht hörten auf die Worte dieses Buches, auf daß sie täten nach allem, was für uns geschrieben ist.</verse>
+        <verse osisID='2Kgs.22.14'>Und Chilkijahu, der Priester, und Achikam und Achbor und Schaphan und Asajah gingen zu Chuldah, der Prophetin, dem Weibe Schallums, dem Sohne Tikvahs, dem Sohne von Charchas, der die Kleider hütete. Und sie wohnte<note>saß</note> in Jerusalem im zweiten Stadtteil<note>im Zweiten</note>; und sie redeten zu ihr.</verse>
+        <verse osisID='2Kgs.22.15'>Und sie sprach zu ihnen: So spricht Jehovah, der Gott Israels: Saget dem Manne, der euch zu mir sandte,</verse>
+        <verse osisID='2Kgs.22.16'>So spricht Jehovah: Siehe, Ich bringe Böses über diesen Ort und über die, so darin wohnen<note>sitzen</note>, alle die Worte des Buches, die der König Judahs gelesen hat.</verse>
+        <verse osisID='2Kgs.22.17'>Dafür, daß sie Mich verlassen und anderen Göttern geräuchert haben, so daß sie Mich reizten in allem Tun ihrer Hände, und Mein Grimm sich entzündet wider diesen Ort, und nicht erlöschen wird.</verse>
+        <verse osisID='2Kgs.22.18'>Und zu dem Könige von Judah, der euch gesandt hat, den Jehovah zu befragen, sollt ihr also zu ihm sprechen: So spricht Jehovah, der Gott Israels: Über die Worte, die du hörtest:</verse>
+        <verse osisID='2Kgs.22.19'>Weil dein Herz sich erweichte und du dich niederbeugtest vor Jehovah, da du hörtest, was Ich geredet habe über diesen Ort und über seine Bewohner, daß sie verwüstet und zum Fluch werden sollten, und deine Kleider zerrissen und geweint hast vor Mir, so habe auch Ich es gehört, spricht Jehovah.</verse>
+        <verse osisID='2Kgs.22.20'>Darum siehe, Ich will dich sammeln zu deinen Vätern, und du sollst im Frieden ge- sammelt werden zu deinen Gräbern und deine Augen sollen nicht all das Böse sehen, das Ich über diesen Ort hereinbringe. Und sie brachten das Wort dem König wieder.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.23'>
+        <title>Die Könige Joachas und Jojakim.</title>
+        <verse osisID='2Kgs.23.1'>Und der König sandte aus, und sie versammelten zu ihm alle Ältesten Judahs und Jerusalems.</verse>
+        <verse osisID='2Kgs.23.2'>Und der König ging hinauf in das Haus Jehovahs und mit ihm alle Männer Judahs und alle Bewohner Jerusalems, und die Priester und die Propheten und alles Volk, von dem Kleinen bis zu dem Großen, und man las vor ihren Ohren alle Worte des Buches des Bundes, das im Hause Jehovahs gefunden worden.</verse>
+        <verse osisID='2Kgs.23.3'>Und der König stand an der Säule und schloß den Bund vor Jehovah, daß er Jehovah nachwandeln und Seine Gebote und Seine Zeugnisse und Seine Satzungen von ganzem Herzen und von ganzer Seele halten, und die Worte dieses Bundes, die in diesem Buche geschrieben, bestätigen wollte, und das ganze Volk stand in dem Bund.</verse>
+        <verse osisID='2Kgs.23.4'>Und der König gebot dem Chilkijahu, dem Hohenpriester<note>großen Priester</note>, und den Priestern zweiter Ordnung<note>nur zweiter</note> und den Hütern der Schwelle, sie sollten herausbringen aus dem Tempel Jehovahs alles Gerät, das für den Baal und für die Aschere und für alles Heer der Himmel gemacht worden war; und er verbrannte sie außerhalb Jerusalems, auf dem Gefilde des Kidron, und ließ die Asche davon nach Beth-El tragen.</verse>
+        <verse osisID='2Kgs.23.5'>Und er schaffte die Götzenpriester weg<note>ließ feiern</note>, welche die Könige Judahs angestellt<note>gegeben</note> hatten, um zu räuchern auf den Opferhöhen in den Städten Judahs und in den Umgebungen Jerusalems, und auch diejenigen, welche räucherten dem Baal, der Sonne und dem Mond und den Sternbildern und all dem Heere der Himmel.</verse>
+        <verse osisID='2Kgs.23.6'>Und er brachte die Aschere hinaus aus dem Hause Jehovahs außerhalb Jerusalems in das Bachtal des Kidron und verbrannte sie im Bachtale Kidrons, und zerstieß sie zu Staub und warf dessen Staub auf die Gräber der Söhne des Volkes.</verse>
+        <verse osisID='2Kgs.23.7'>Und er riß ein die Häuser der Buhlknaben, die im Hause Jehovahs waren, woselbst die Weiber Häuser für die Aschere webten.</verse>
+        <verse osisID='2Kgs.23.8'>Und er ließ kommen alle Priester aus den Städten Judahs, und verunreinigte die Opferhöhen, auf denen die Priester geräuchert hatten, von Geba bis Beerscheba, und riß ein die Opferhöhen der Tore, die am Eingang des Tores des Jehoschua, der Obersten der Stadt, links<note>auf der Linken eines Mannes</note> am Tore der Stadt waren.</verse>
+        <verse osisID='2Kgs.23.9'>Doch durften die Priester der Opferhöhen nicht auf dem Altare Jehovahs in Jerusalem aufopfern, aber sie aßen Ungesäuertes inmitten ihrer Brüder.</verse>
+        <verse osisID='2Kgs.23.10'>Und er verunreinigte das Thopheth in der Schlucht Ben-Hinnoms, daß kein Mann seinen Sohn und seine Tochter dem Moloch durch das Feuer hindurchgehen ließ.</verse>
+        <verse osisID='2Kgs.23.11'>Und er schaffte weg<note>ließ feiern</note> die Rosse, welche die Könige Judahs der Sonne gegeben, am Eingang des Hauses Jehovahs bei der Zelle des Nethan-Melech, des Hofbeamten, der in Parwarim war; und die Streitwagen der Sonne verbrannte er mit Feuer.</verse>
+        <verse osisID='2Kgs.23.12'>Und die Altäre, die auf dem Dache des Söllers des Achas waren, die Judahs Könige gemacht hatten und die Altäre, die Menascheh in den zwei Höfen des Hauses Jehovahs gemacht hatte, riß der König ein und lief von dannen und warf den Staub davon in den Bach Kidron.</verse>
+        <verse osisID='2Kgs.23.13'>Und die Opferhöhen, die vor Jerusalem rechts vom Berge Maschchith<note>Berg des Verderbens</note> waren, die Salomoh, der König Israels, der Astarte, dem Scheusal der Zidonier, und dem Kemosch, dem Scheusal Moabs, und dem Milkom, dem Greuel der Söhne Ammons gebaut hatte, verunreinigte der König.</verse>
+        <verse osisID='2Kgs.23.14'>Und die Bildsäulen zerbrach er und hieb die Ascheren um, und füllte ihren Ort mit den Gebeinen von Menschen.</verse>
+        <verse osisID='2Kgs.23.15'>Und auch den Altar in Bethel, die Opferhöhe, die Jerobeam gemacht, der Sohn Nebats, der Israel sündigen machte, auch diesen Altar und die Opferhöhe riß er ein und verbrannte die Opferhöhe, zerstieß sie zu Staub und verbrannte die Aschere.</verse>
+        <verse osisID='2Kgs.23.16'>Und Joschijahu wandte sich und sah die Gräber, die dort auf dem Berge waren, und sandte hin und ließ die Gebeine aus den Gräbern nehmen und verbrannte sie auf dem Altare und verunreinigte ihn nach dem Worte Jehovahs, das der Mann Gottes ausgerufen hatte, der diese Worte ausrief.</verse>
+        <verse osisID='2Kgs.23.17'>Und er sprach: Was ist das für ein Malzeichen, das ich sehe? Und die Männer der Stadt sprachen zu ihm: Es ist das Grab des Mannes Gottes, der aus Judah gekommen war, und diese Worte, die du getan, über den Altar von Bethel ausgerufen hatte.</verse>
+        <verse osisID='2Kgs.23.18'>Und er sprach: Lasset ihn ruhen, kein Mann rege seine Gebeine an. Und so wurden seine Gebeine gerettet<note>entrannen</note> mit den Gebeinen des Propheten, der von Samaria gekommen war.</verse>
+        <verse osisID='2Kgs.23.19'>Und Joschijahu tat auch weg<note>ließ feiern</note> alle Häuser der Opferhöhen in den Städten Samariens, welche die Könige Israels gemacht zum Reizen, und er tat ihnen nach all den Taten, die er in Bethel getan.</verse>
+        <verse osisID='2Kgs.23.20'>Und er opferte alle Priester der Opferhöhen, die dort waren, auf den Altären und verbrannte auf denselben die Gebeine von Menschen; und er kehrte nach Jerusalem zurück.</verse>
+        <verse osisID='2Kgs.23.21'>Und der König gebot allem Volk und sagte: Machet das Passah Jehovah, eurem Gotte, wie im Buche dieses Bundes geschrieben ist.</verse>
+        <verse osisID='2Kgs.23.22'>Denn kein solches Passah ist seit den Tagen der Richter, die Israel gerichtet, und in allen Tagen der Könige Israels und der Könige Judahs gemacht worden;</verse>
+        <verse osisID='2Kgs.23.23'>Aber im achtzehnten Jahre des Königs Joschijahu ward dieses Passah dem Jehovah in Jerusalem gehalten<note>gemacht</note>.</verse>
+        <verse osisID='2Kgs.23.24'>Und auch die Geisterbanner und Zeichendeuter und die Theraphim und die Götzen und alle Scheusale, die im Lande Judah und in Jerusalem gesehen wurden, schaffte Joschijahu weg, um die Worte des Gesetzes, geschrieben in dem Buche, das Hilkijahu, der Priester, im Hause Jehovahs gefunden, zu bestätigen.</verse>
+        <verse osisID='2Kgs.23.25'>Und so wie er war vor ihm kein König, der mit seinem ganzen Herzen und mit seiner ganzen Seele und mit seiner ganzen Macht nach dem ganzen Gesetze Moses zu Jehovah zurückgekehrt wäre, und nach ihm stand keiner auf wie er.</verse>
+        <verse osisID='2Kgs.23.26'>Doch Jehovah wandte Sich nicht zurück von der Glut Seines großen Zorns, womit Sein Zorn entbrannte wider Judah, wegen aller der Reizungen, womit Ihn Menascheh gereizt.</verse>
+        <verse osisID='2Kgs.23.27'>Und Jehovah sprach: Auch Judah will Ich wegtun von Meinem Angesicht, wie Ich Israel weggetan habe, und verschmähen diese Stadt Jerusalem, die Ich erwählt, und das Haus, von dem Ich gesagt: Mein Name soll allda sein.</verse>
+        <verse osisID='2Kgs.23.28'>Und die übrige Geschichte<note>Worte</note> Joschijahus und alles, was er tat, ist es nicht geschrieben im Buche der Tagesgeschichte<note>Worte der Tage = Chronik</note> der Könige Judahs?</verse>
+        <verse osisID='2Kgs.23.29'>In seinen Tagen zog Pharao Necho, der König von Ägypten, herauf gegen den König von Aschur an den Fluß Phrath. Und der König Joschijahu zog ihm entgegen, aber er tötete ihn in Megiddo, sowie er ihn gesehen.</verse>
+        <verse osisID='2Kgs.23.30'>Und seine Knechte führten ihn tot von Megiddo und brachten ihn nach Jerusalem und begruben ihn in seinem Begräbnis; und das Volk des Landes nahm Jehoachas, den Sohn Joschijahus, und sie salbten ihn und machten ihn zum König an seines Vaters Stelle.</verse>
+        <verse osisID='2Kgs.23.31'>Jehoachas war dreiundzwanzig Jahre alt<note>ein Sohn von 23 Jahren</note>, da er König wurde, und regierte drei Monate in Jerusalem, und der Name seiner Mutter war Chamutal, Tochter Jirmejahus aus Libnah.</verse>
+        <verse osisID='2Kgs.23.32'>Und er tat, was böse war in den Augen Jehovahs nach allem, das seine Väter taten.</verse>
+        <verse osisID='2Kgs.23.33'>Und Pharao Necho band ihn in Riblah im Lande Chamath, daß er nicht König wäre in Jerusalem; und legte<note>gab</note> eine Geldbuße auf das Land, hundert Talente Silber und ein Talent Gold.</verse>
+        <verse osisID='2Kgs.23.34'>Und Pharao Necho machte Eljakim, den Sohn Joschijahus, zum König, statt Joschijahus, seines Vaters, und wandte seinen Namen in Jehojakim um; denn Jehoachas aber nahm er und er kam nach Ägypten und starb allda.</verse>
+        <verse osisID='2Kgs.23.35'>Und das Silber und das Gold gab Jehojakim dem Pharao, schätzte<note>ordnete an</note> aber das Land, um das Silber nach Pharaos Befehl<note>Mund</note> zu geben. Von jedem Mann nach seiner Schätzung<note>Anordnung</note> trieb er das Silber und das Gold ein vom Volke des Landes, um es Pharao Necho zu geben.</verse>
+        <verse osisID='2Kgs.23.36'>Fünfundzwanzig Jahre war Jehojakim alt<note>ein Sohn von 25 Jahren</note> als er König wurde und regierte elf Jahre in Jerusalem, und der Name seiner Mutter war Sebudah, Pedajahs Tochter aus Rumah.</verse>
+        <verse osisID='2Kgs.23.37'>Und er tat, was böse war in den Augen Jehovahs, nach allem, das seine Väter getan hatten.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.24'>
+        <title>Jojakim, Jojachin, Zidkijah.</title>
+        <verse osisID='2Kgs.24.1'>In seinen Tagen zog Nebuchadnezzar, König von Babel, herauf, und Jehojakim war ihm Knecht drei Jahre, und er kehrte zurück und empörte sich wider ihn.</verse>
+        <verse osisID='2Kgs.24.2'>Und Jehovah sandte wider ihn Kriegshaufen von Chaldäern und Kriegshaufen Arams und Kriegshaufen Moabs und Kriegshaufen der Söhne Ammons, und sandte sie wider Judah, es zugrunde zu richten, nach dem Worte Jehovahs, das Er durch Seine Knechte, die Propheten, geredet hatte.</verse>
+        <verse osisID='2Kgs.24.3'>Nur auf Befehl<note>auf den Mund</note> Jehovahs geschah dies wider Judah, um sie von Seinem Angesichte wegzutun, wegen der Sünden Menaschehs nach allem, was er getan hatte.</verse>
+        <verse osisID='2Kgs.24.4'>Und auch um des unschuldigen Blutes willen, das er vergossen, und daß er Jerusalem mit unschuldigem Blut angefüllt, und das war Jehovah nicht willens, zu vergeben.</verse>
+        <verse osisID='2Kgs.24.5'>Und die übrige Geschichte<note>übrigen Worte</note> Jehojakims, und alles, was er tat, ist es nicht geschrieben im Buch der Tagesgeschichte<note>der Worte der Tage = Chronik</note> der Könige Judahs?</verse>
+        <verse osisID='2Kgs.24.6'>Und Jehojakim entschlief<note>lag bei</note> zu seinen Vätern, und Jehojachin, sein Sohn, ward König an seiner Stelle.</verse>
+        <verse osisID='2Kgs.24.7'>Aber der König von Ägypten zog nicht mehr aus<note>tat nicht hinzu auszuziehen</note> aus seinem Lande; denn der König von Babel hatte vom Bache Ägyptens bis an den Fluß Phrath alles genommen, was dem König von Ägypten gehörte.</verse>
+        <verse osisID='2Kgs.24.8'>Achtzehn Jahre alt<note>ein Sohn von 18 Jahren</note> war Jehojachin, da er König wurde, und drei Monate regierte er in Jerusalem; und der Name seiner Mutter war Nechuschtha, Tochter Elnathans, aus Jerusalem.</verse>
+        <verse osisID='2Kgs.24.9'>Und er tat, was böse war in den Augen Jehovahs, nach allem, das sein Vater getan.</verse>
+        <verse osisID='2Kgs.24.10'>Um selbige Zeit zogen herauf die Knechte Nebuchadnezzars, König von Babel, nach Jerusalem, und die Stadt kam in Belagerung.</verse>
+        <verse osisID='2Kgs.24.11'>Und Nebuchadnezzar, der König von Babel, kam wider die Stadt und seine Knechte belagerten sie.</verse>
+        <verse osisID='2Kgs.24.12'>Und Jehojachin, der König von Judah, ging hinaus zum König von Babel, er und seine Mutter, und seine Knechte und seine Obersten und seine Hofbeamten; und der König von Babel nahm ihn fort im achten Jahre seiner Regierung.</verse>
+        <verse osisID='2Kgs.24.13'>Und er führte von dannen heraus alle Schätze des Hauses Jehovahs und die Schätze des Hauses des Königs, und zerschnitt alle goldenen Gefäße, die Salomoh, der König von Israel, im Tempel Jehovahs gemacht, so wie Jehovah geredet hatte.</verse>
+        <verse osisID='2Kgs.24.14'>Und er führte ganz Jerusalem weg, und alle Obersten und alle tapferen Helden, zehntausend, in Verbannung, und alle Werkleute und Schlosser, und nichts verblieb, als das arme Volk des Landes.</verse>
+        <verse osisID='2Kgs.24.15'>Und er führte weg nach Babel den Jehojachin und die Mutter des Königs und die Weiber des Königs und seine Hofbeamten, dazu die Vornehmen im Lande, sie führte er fort in die Verbannung von Jerusalem nach Babel.</verse>
+        <verse osisID='2Kgs.24.16'>Und alle tapferen Männer, siebentausend, und die Werkleute und Schlosser, tausend, alle Helden, die Streit führten<note>taten</note>. Und der König von Babel brachte sie hinein nach Babel.</verse>
+        <verse osisID='2Kgs.24.17'>Und der König von Babel machte dessen Oheim Mattanjah an seiner Stelle zum König, und wandte seinen Namen in Zidkijahu um.</verse>
+        <verse osisID='2Kgs.24.18'>Einundzwanzig Jahre alt<note>ein Sohn von 21 Jahren</note> war Zidkijahu, als er König wurde, und regierte elf Jahre in Jerusalem; und der Name seiner Mutter war Chamutal, Jirmejahus Tochter, aus Libnah.</verse>
+        <verse osisID='2Kgs.24.19'>Und er tat, was böse war in den Augen Jehovahs, nach allem, das Jehojakim getan.</verse>
+        <verse osisID='2Kgs.24.20'>Wegen des Zornes Jehovahs geschah dies in Jerusalem und Judah, bis daß Er sie wegwarf von Seinem Angesicht. Und Zidkijahu empörte sich wider den König von Babel.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.25'>
+        <title>Zerstörung Jerusalems. - Babylonische Gefangenschaft.</title>
+        <verse osisID='2Kgs.25.1'>Und es geschah im neunten Jahre seines Königtums, im zehnten Monat am zehnten des Monats, kam Nebuchadnezzar, der König von Babel, er und all seine Streitmacht wider Jerusalem, und lagerte sich wider sie und bauten ein Bollwerk auf wider sie ringsumher.</verse>
+        <verse osisID='2Kgs.25.2'>Und die Stadt kam in Belagerung bis ins elfte Jahr des Königs Zidkijahu.</verse>
+        <verse osisID='2Kgs.25.3'>Am neunten des Monats war die Hungersnot in der Stadt stark geworden, und es war kein Brot für das Volk des Landes:</verse>
+        <verse osisID='2Kgs.25.4'>Und die Stadt ward erbrochen<note>zerspaltet</note> und alle Männer des Streites<note>flohen</note> bei Nacht des Weges durch das Tor zwischen den zwei Stadtmauern am Garten des Königs, und die Chaldäer waren wider die Stadt ringsumher. Er aber ging des Weges nach dem Blachfelde.</verse>
+        <verse osisID='2Kgs.25.5'>Aber die Streitmacht der Chaldäer setzte hinter dem König nach und holten ihn ein auf dem Blachfeld von Jericho, und seine ganze Streitmacht zerstreute sich von ihm.</verse>
+        <verse osisID='2Kgs.25.6'>Und sie erfaßten den König und brachten ihn hinauf zum König von Babel nach Riblath, und sie redeten mit ihm im Gericht.</verse>
+        <verse osisID='2Kgs.25.7'>Und die Söhne Zidkijahus schlachteten sie vor seinen Augen, und dem Zidkijahu blendete er die Augen und band ihn in zwei Erzfesseln und brachte ihn hinein nach Babel.</verse>
+        <verse osisID='2Kgs.25.8'>Und im fünften Monat, am siebenten des Monats, das ist das neunzehnte Jahr der Jahre Nebuchadnezzars, König von Babel, kam Nebusaradan, der Oberste<note>Große</note> der Leibwachen, ein Knecht des Königs von Babel, nach Jerusalem;</verse>
+        <verse osisID='2Kgs.25.9'>Und er verbrannte das Haus Jehovahs und das Haus des Königs und alle Häuser Jerusalems, und jegliches große Haus verbrannte er mit Feuer.</verse>
+        <verse osisID='2Kgs.25.10'>Und die Stadtmauern Jerusalems ringsumher riß die ganze Streitmacht der Chaldäer mit dem Obersten<note>Großen</note> der Leibwachen ein.</verse>
+        <verse osisID='2Kgs.25.11'>Und das übrige Volk, das in der Stadt verblieben war, und die Abgefallenen, die zum König von Babel abfielen, und die übrige Menge führte Nebusaradan, der Oberste<note>Große</note> der Leibwache weg.</verse>
+        <verse osisID='2Kgs.25.12'>Und von den Armen des Landes ließ der Oberste<note>Große</note> der Leibwachen verbleiben zu Weingärtnern und Ackerleuten.</verse>
+        <verse osisID='2Kgs.25.13'>Die ehernen Säulen aber am Hause Jehovahs und die Gestelle und das eherne Meer im Hause Jehovahs zerbrachen die Chaldäer und brachten das Erz davon nach Babel.</verse>
+        <verse osisID='2Kgs.25.14'>Und die Töpfe und die Schaufeln und die Messer und die Pfannen und alle ehernen Gefäße, womit man Dienst tat, nahmen sie.</verse>
+        <verse osisID='2Kgs.25.15'>Und auch die Räuchpfannen und die Sprengbecken, was von Gold war, das Gold, und was von Silber war, das Silber, nahm der Oberste<note>Große</note> der Leibwachen.</verse>
+        <verse osisID='2Kgs.25.16'>Die zwei Säulen, das eine Meer und die Gestelle, die Salomoh für das Haus Jehovahs gemacht - das Erz aller dieser Geräte war nicht zu wägen.</verse>
+        <verse osisID='2Kgs.25.17'>Achtzehn Ellen hoch war die eine Säule, und ein Knauf darauf von Erz, und der Knauf drei Ellen hoch, und ein Flechtwerk und Granatäpfel rings an dem Knauf, alles von Erz, und ebenso an der zweiten Säule am Flechtwerk.</verse>
+        <verse osisID='2Kgs.25.18'>Und der Oberste<note>Große</note> der Leibwachen nahm Serajah, den Hauptpriester, und Zephanjahu, den zweiten Priester, und drei Hüter der Schwelle.</verse>
+        <verse osisID='2Kgs.25.19'>Und aus der Stadt nahm er einen Hofbeamten, der über die Kriegsleute bestellt war, und fünf Männer, die das Angesicht des Königs sahen<note>d.s. Räte</note>, die in der Stadt gefunden wurden, und den Schreiber des Obersten des Heeres, der das Volk des Landes zum Heere aushob, und sechzig Mann vom Volke des Landes, die in der Stadt gefunden wurden.</verse>
+        <verse osisID='2Kgs.25.20'>Und Nebusaradan, der Oberste<note>Große</note> der Leibwachen, nahm sie und brachte sie zum König von Babel nach Riblath.</verse>
+        <verse osisID='2Kgs.25.21'>Und der König von Babel schlug sie und tötete sie in Riblath im Lande Chamath, und Judah ward von seinem Boden weggeführt.</verse>
+        <verse osisID='2Kgs.25.22'>Und anlangend das Volk, das im Lande Judah verblieben war, das Nebuchadnezzar, der König von Babel, zurückließ; über sie bestellte er Gedaljahu, den Sohn Achikams, des Sohnes Schaphans.</verse>
+        <verse osisID='2Kgs.25.23'>Und es hörten alle Obersten der Streitmächte, sie und ihre Mannen, daß der König von Babel Gedaljahu bestellt hätte, und kamen zu Gedaljahu nach Mizpah. Und Jischmael, der Sohn Nethanjahs, und Jochanan, Kareachs Sohn, und Seraja, der Sohn Tanchumeths, des Netophiters, und Jaasanjahu, der Sohn des Maachathi, sie und ihre Mannen.</verse>
+        <verse osisID='2Kgs.25.24'>Und Gedaljahu schwur ihnen und ihren Mannen und sprach zu ihnen: Fürchtet euch nicht vor den Knechten der Chaldäer. Wohnet<note>sitzet</note> im Land und dienet dem König von Babel, so wird es euch wohl gehen.</verse>
+        <verse osisID='2Kgs.25.25'>Und es geschah im siebenten Monat, daß Ischmael, Nethanjahs Sohn, des Sohnes Elischamas, von königlichem Samen, kam, und zehn Männer mit ihm, und sie schlugen Gedal- jahu, daß er starb, und die Juden und die Chaldäer, die mit ihm waren in Mizpah.</verse>
+        <verse osisID='2Kgs.25.26'>Und es machte sich alles Volk, vom Kleinen bis zum Großen, und auch die Obersten der Streitmächte auf, und gingen nach Ägypten; denn sie fürchteten sich vor den Chaldäern.</verse>
+        <verse osisID='2Kgs.25.27'>Und es geschah im siebenunddreißigsten Jahre der Wegführung Jehojachins, des Königs von Judah, im zwölften Monat am siebenundzwanzigsten des Monats, erhob Evil Merodach, König von Babel, im Jahre, da er König ward, das Haupt Jeojachins des Königs von Judah aus dem Hause des Kerkers,</verse>
+        <verse osisID='2Kgs.25.28'>Und redete Gutes mit ihm und setzte<note>gab</note> seinen Thron über den Thron der Könige, die bei ihm in Babel waren.</verse>
+        <verse osisID='2Kgs.25.29'>Und veränderte die Kleider seines Kerkers und er aß das Brot beständig vor ihm alle Tage seines Lebens.</verse>
+        <verse osisID='2Kgs.25.30'>Auch wurde ihm sein Unterhalt, ein beständiger Unterhalt vom Könige gegeben, der Betrag<note>das Wort</note> eines Tages an seinem Tag, alle Tage seines Lebens.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

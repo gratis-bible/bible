@@ -1,0 +1,340 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <osisText osisRefWork='Bible' osisIDWork='TAF' xml:lang='de'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='TAF'>
+        <title>Tafelbibel</title>
+        <contributor>Martin</contributor>
+        <creator>Jens Grabner</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject>holy bible</subject>
+        <date>2009-01-20</date>
+        <description>Die Bibel - Übersetzung von Johann Friedrich Leonhard Tafel
+
+      Die vorliegende Neuausgabe ist eine Abschrift der Übersetzung von Dr. Leonhard
+      Tafel, revidiert von Ludwig H. Tafel, dritte Ausgabe 1911, und wurde auf ihre
+      Vollständigkeit überprüft. Es wurde die Rechtschreibregel der heutigen Zeit (noch
+      vor der Rechtschreibreform 1998) angewendet, ohne den Stil der Sprache zu verändern.
+
+      Wer in dieser Bibel einige Bücher vermisst, sei auf das Vorwort der Source verwiesen.
+      Auf der zweiten Seite steht dort:
+      Der zweite Band enthält die übrigen, sogenannten
+      Hagiographen oder heiligen Bücher: die Bücher Hiob, Sprichwörter, Hohelied, Prediger, Ruth, Chronika, Esra,
+      Nehemia, Esther und die Apokryphen.²
+      2. Gegenwärtige, Revision des Zefania XML Moduls  enthält die Hagiographen und Apokryphen nicht, da
+      sie nicht verfügbar waren.</description>
+        <publisher>FREE BIBLE SOFTWARE GROUP</publisher>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>TAF</identifier>
+        <source>http://www.ubf-dortmund.de/bibel/tafel.htm</source>
+        <language type='IETF'>de</language>
+        <relation/>
+        <coverage>provide the bible to the world</coverage>
+        <rights>Mit freundlicher Genehmigung des Swedenborg Verlag Postfach 1205 CH - 8032 Zürich</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Hos'>
+      <chapter osisID='Hos.1'>
+        <title>Prophet Hoschea</title>
+        <title>Israels Abgötterei und Strafe.</title>
+        <verse osisID='Hos.1.1'>Das Wort Jehovahs, das geschah an Hoschea, den Sohn Beeris, in den Tagen Ussijahs, Jothams, Achas, Jechiskijahs, der Könige Jehudahs, und in den Tagen Jerobeams, des Sohnes von Tagen Jerobeams, König von Israel.</verse>
+        <verse osisID='Hos.1.2'>Anbeginn dessen, was Jehovah redete durch Hoschea. Und Jehovah sprach zu Hoschea: Gehe, nimm dir ein Weib der Buhlereien und Kinder der Buhlereien, denn das Land buhlt<note>buhlend buhlt</note> hinweg von Jehovah<note>von hinter Jehovah</note>.</verse>
+        <verse osisID='Hos.1.3'>Und er ging hin und nahm Gomer, Tochter Diblajims, und sie empfing und gebar ihm einen Sohn.</verse>
+        <verse osisID='Hos.1.4'>Und Jehovah sprach zu ihm: Nenne seinen Namen Jisreel; denn noch um ein Kleines, so suche Ich das Blut Jisreels am Hause Jehus heim und mache ein Ende<note>lasse feiern</note> mit dem Reiche des Hauses Israel.</verse>
+        <verse osisID='Hos.1.5'>Und am selbigen Tage soll es geschehen, daß Ich den Bogen Israels zerbreche im Talgrund Jisreel.</verse>
+        <verse osisID='Hos.1.6'>Und sie empfing wieder und gebar eine Tochter; und Er sprach zu ihm: Nenne ihren Namen Lo-Ruchamah<note>d.h. die kein Erbarmen findet</note>; denn Ich erbarme Mich fortan<note>tue nicht hinzu zu erbarmen</note> nicht mehr des Hauses Israel, daß Ich ihnen verzeihe<note>verzeihend verzeihe</note>.</verse>
+        <verse osisID='Hos.1.7'>Des Hauses Jehudah aber erbarme Ich Mich und rette sie durch Jehovah, ihren Gott; und Ich helfe ihnen, nicht durch Bogen und durch Schwert und durch Streit, durch Rosse und durch Reiter.</verse>
+        <verse osisID='Hos.1.8'>Und sie entwöhnte Lo-Ruchamah, und empfing und gebar einen Sohn.</verse>
+        <verse osisID='Hos.1.9'>Und Er sprach: Nenne seinen Namen Lo-Ammi<note>nicht Mein Volk</note>; denn ihr seid nicht Mein Volk; und Ich werde nicht der eurige sein.</verse>
+      </chapter>
+      <chapter osisID='Hos.2'>
+        <verse osisID='Hos.2.1'>Aber die Zahl der Söhne Israels wird sein wie der Sand des Meeres, den man nicht messen und nicht zählen kann; und am Orte, da man zu ihnen sagte: Ihr seid nicht Mein Volk, wird man zu ihnen sagen: Söhne des lebendigen Gottes.</verse>
+        <verse osisID='Hos.2.2'>Und es werden sich zusammentun die Söhne Jehudahs und die Söhne Israels allzumal, und ein Haupt über sich setzen und aus dem Lande heraufziehen; denn groß wird sein der Tag Jisreels.</verse>
+        <title>Verheißungen.</title>
+        <verse osisID='Hos.2.3'>Sprechet zu euren Brüdern: Ammis<note>Mein Volk</note>, und zu euren Schwestern: Ruchamah<note>die Erbarmen gefunden</note>.</verse>
+        <verse osisID='Hos.2.4'>Hadert mit eurer Mutter, hadert, denn sie ist nicht Mein Weib, und Ich nicht ihr Mann, auf daß sie ihre Buhlereien wegtue von ihrem Angesicht, und ihre Ehebrecherei von<note>von zwischen</note> ihren Brüsten.</verse>
+        <verse osisID='Hos.2.5'>Auf daß Ich sie nicht nackt ausziehe und hinstelle wie am Tage, da sie geboren ward, und sie mache wie die Wüste, und sie hinsetze wie ein dürres Land, und lasse sie sterben vor Durst;</verse>
+        <verse osisID='Hos.2.6'>Und Ich Mich ihrer Söhne nicht erbarme, darum, daß sie Söhne der Buhlereien sind.</verse>
+        <verse osisID='Hos.2.7'>Denn gebuhlt hat ihre Mutter und Schändliches tut, die sie empfangen hat. Denn sie sprach: Ich will gehen hinter meinen Liebhabern her, die mir geben mein Brot und mein Wasser, meine Wolle und mein Linnen, mein Öl und mein Getränk.</verse>
+        <verse osisID='Hos.2.8'>Darum siehe, Ich umhege deinen Weg mit Dornen, und ummauere dich mit einer Mauer, daß deine Steige du nicht finden sollst.</verse>
+        <verse osisID='Hos.2.9'>Und sie setzt ihren Liebhabern nach, aber kann sie nicht erreichen, und sucht sie, aber findet sie nicht; da spricht sie: Ich will gehen und zurückkehren zu meinem ersten Manne; denn besser war es mir da, als jetzt.</verse>
+        <verse osisID='Hos.2.10'>Und sie wußte nicht, daß Ich ihr gab das Korn und den Most und das Öl<note>frische Öl</note>, und ihr das Silber mehrte und das Gold, das sie ihrem Baale machten.</verse>
+        <verse osisID='Hos.2.11'>Darum will Ich zurückkehren und zu seiner Zeit nehmen Mein Korn und Meinen Most zu seiner bestimmten Zeit, und ihr entreißen Meine Wolle und Mein Linnen, womit sie ihre Blöße deckt.</verse>
+        <verse osisID='Hos.2.12'>Und nun will Ich ihre Torheit aufdecken vor den Augen ihrer Liebhaber, und kein Mann soll sie aus Meiner Hand entreißen.</verse>
+        <verse osisID='Hos.2.13'>Und Ich will ein Ende machen<note>feiern lassen</note> all ihrer Freude, ihrem Feste, ihrem Neumond und ihrem Sabbath und all ihrem Feiertage.</verse>
+        <verse osisID='Hos.2.14'>Und will verwüsten ihren Weinstock und ihren Feigenbaum, von denen sie sagte: Sie sind eine Buhlgabe mir, die meine Liebhaber mir gegeben; und setze sie zum Walde, daß das wilde Tier des Feldes sie frißt;</verse>
+        <verse osisID='Hos.2.15'>Und will heimsuchen an ihr die Tage der Baale, an denen sie ihnen räucherte, und sich schmückte mit ihrem Nasenreif<note>Sw. Ohrring</note> und ihrem Geschmeide, und ihren Liebhabern nachging, und Mein vergaß, spricht Jehovah.</verse>
+        <verse osisID='Hos.2.16'>Darum siehe, Ich will sie bereden und in die Wüste bringen und ihr ans Herz reden.</verse>
+        <verse osisID='Hos.2.17'>Und Ich will ihr von da ihre Weinberge und den Talgrund Achor zur Pforte der Hoffnung geben; und sie wird singen<note>antworten</note> dort wie in den Tagen ihrer Jugend, und wie am Tage ihres Heraufziehens aus dem Lande Ägypten;</verse>
+        <verse osisID='Hos.2.18'>Und es soll geschehen an jenem Tage, daß du Mich nennen wirst: Mein Mann, und wirst Mich nicht mehr mein Baal<note>Meister</note> nennen.</verse>
+        <verse osisID='Hos.2.19'>Und Ich will die Namen der Baale aus ihrem Munde wegtun, und sie sollen ihres Namens nicht mehr gedenken.</verse>
+        <verse osisID='Hos.2.20'>Und Ich will ihnen an jenem Tage einen Bund schließen mit dem wilden Tier des Feldes, und mit dem Gevögel der Himmel und dem Kriechtier des Bodens, und will Bogen und Schwert und Streit zerbrechen von der Erde, und lasse sie in Sicherheit niederliegen.</verse>
+        <verse osisID='Hos.2.21'>Und will dich mit Mir verloben in Ewigkeit, und dich Mir verloben in Gerechtigkeit und in Gericht, und in Barmherzigkeit und in Erbarmen.</verse>
+        <verse osisID='Hos.2.22'>Und werde dich Mir verloben in Treue, und du sollst Jehovah erkennen.</verse>
+        <verse osisID='Hos.2.23'>Und soll geschehen am selbigen Tage, daß Ich erhöre<note>antworte</note>, spricht Jehovah, daß Ich erhöre<note>antworte</note> die Himmel und sie werden erhören<note>antworten</note> die Erde,</verse>
+        <verse osisID='Hos.2.24'>Und die Erde soll erhören<note>antworten</note> das Korn und den Most und das Öl<note>frische Öl</note>, und diese erhören<note>antworten</note> Jisreel<note>Gottes Saat</note>.</verse>
+        <verse osisID='Hos.2.25'>Und Ich will sie Mir säen im Lande, und will Mich erbarmen der Lo-Ruchamah<note>d.h. der Nicht-Erbarmten</note>, und sprechen zu Lo-Ammi<note>d.h. Nicht-Mein-Volk</note>: Mein Volk bist du, und es wird sprechen: Mein Gott!</verse>
+      </chapter>
+      <chapter osisID='Hos.3'>
+        <title>Das künftige Israel.</title>
+        <verse osisID='Hos.3.1'>Und Jehovah sprach zu mir: Gehe abermals hin, liebe ein Weib, das von einem Genossen geliebt wird und Ehebruch treibt, wie Jehovah die Söhne Israels liebt, sie aber wenden sich anderen Göttern zu und lieben Kuchen von Weinbeeren.</verse>
+        <verse osisID='Hos.3.2'>Und ich erkaufte sie mir um fünfzehn Silberlinge und einen Chomer Gerste und einen Lethech Gerste.</verse>
+        <verse osisID='Hos.3.3'>Und ich sprach zu ihr: Viele Tage sollst du bei mir wohnen<note>sitzen</note>; du sollst nicht buhlen und sollst keines Mannes sein, und auch ich will dein sein.</verse>
+        <verse osisID='Hos.3.4'>Denn viele Tage werden die Söhne Israels wohnen<note>sitzen</note> ohne König, und ohne Obersten, und ohne Opfer, und ohne Denksäule, und ohne Ephod und Theraphim.</verse>
+        <verse osisID='Hos.3.5'>Danach werden die Söhne Israels zurückkehren und suchen Jehovah, ihren Gott, und David, ihren König, und mit Schauern kommen zu Jehovah und zu Seinem Guten, in den letzten der Tage.</verse>
+      </chapter>
+      <chapter osisID='Hos.4'>
+        <title>Götzendienst Ephraims.</title>
+        <verse osisID='Hos.4.1'>Höret, ihr Söhne Israels, das Wort Jehovahs; denn einen Hader hat Jehovah mit denen, die im Lande wohnen<note>sitzen</note>, darum, daß keine Wahrheit und keine Barmherzigkeit und keine Kenntnis Gottes im Lande ist.</verse>
+        <verse osisID='Hos.4.2'>Eide und Verleugnung, und Morden und Stehlen und Ehebruch brechen hervor, und Blut reicht an Blut.</verse>
+        <verse osisID='Hos.4.3'>Darum trauert das Land und verschmachtet alles, das darin wohnt<note>sitzt</note>, beim wilden Tier des Feldes, und beim Gevögel der Himmel; und auch die Fische des Meeres werden hingerafft.</verse>
+        <verse osisID='Hos.4.4'>Nur hadere der Mann nicht, noch strafe der Mann; und dein Volk ist wie solche, die mit dem Priester hadern.</verse>
+        <verse osisID='Hos.4.5'>Und du strauchelst am Tage, und auch der Prophet strauchelt in der Nacht mit dir, und deine Mutter lasse Ich untergehen.</verse>
+        <verse osisID='Hos.4.6'>Mein Volk geht unter, weil es ohne Kenntnis ist; weil du die Kenntnis verschmäht hast, will auch Ich dich verschmähen, daß du nicht mehr Mein Priester seiest, und weil du das Gesetz deines Gottes vergaßest, will auch Ich deine Söhne vergessen.</verse>
+        <verse osisID='Hos.4.7'>Je mehr ihrer wurden, desto mehr sündigten sie wider Mich; ihre Herrlichkeit will Ich in Unehre umwandeln.</verse>
+        <verse osisID='Hos.4.8'>Sie essen Meines Volkes Sündopfer, und nach ihrer Missetat erheben sie ihre Seele.</verse>
+        <verse osisID='Hos.4.9'>Darum soll es mit dem Volk sein wie mit den Priestern, und Ich will seine Wege an ihm heimsuchen und nach seinem Handeln ihm zurückgeben.</verse>
+        <verse osisID='Hos.4.10'>Und sie sollen essen und nicht satt werden, und sie werden buhlen, und doch nicht sich ausbreiten<note>durchbrechen</note>, darum, daß sie unterließen, auf Jehovah zu halten.</verse>
+        <verse osisID='Hos.4.11'>Buhlerei und Wein und Most hat ihr Herz eingenommen.</verse>
+        <verse osisID='Hos.4.12'>Mein Volk befragt sein Holz, und sein Stock sagt ihm an; denn der Geist der Buhlereien hat es irregeführt; und sie buhlen weg von<note>von unter</note> ihrem Gotte.</verse>
+        <verse osisID='Hos.4.13'>Auf den Gipfeln<note>Häuptern</note> der Berge opfern sie und räuchern auf den Hügeln, unter der Eiche und der Weißpappel und Steineiche; denn gut ist ihr Schatten. Darum buhlen eure Töchter, und eure Schnüre treiben Ehebruch.</verse>
+        <verse osisID='Hos.4.14'>Nicht will Ich es heimsuchen an euren Töchtern, daß sie buhlen, und an euren Schnüren, daß sie ehebrechen; denn sie selbst trennen sich ab mit Buhlerinnen, und opfern mit Tempeldirnen; und das unverständige Volk wird zu Fall gebracht.</verse>
+        <verse osisID='Hos.4.15'>Wenn du buhlst, Israel, so verschulde sich doch Jehudah nicht. Und laß sie nicht kommen nach Gilgal und nicht hinaufgehen gen Beth-Aven, und nicht schwören: Beim Leben Jehovahs.</verse>
+        <verse osisID='Hos.4.16'>Denn wie eine störrische Kuh ist störrisch Israel, nun wird Jehovah sie wie ein Lamm auf weiter Trift weiden lassen.</verse>
+        <verse osisID='Hos.4.17'>Ephraim hat sich mit den Götzen verbündet, so lasset ihn!</verse>
+        <verse osisID='Hos.4.18'>Ihr Weintrank entweicht, sie haben gebuhlt<note>buhlend gebuhlt</note>, sie lieben, ihre Schilde geben Unehre.</verse>
+        <verse osisID='Hos.4.19'>Der Wind schnürt sie in seinen Flügeln zusammen, und sie schämen sich ob ihrem Opfern.</verse>
+      </chapter>
+      <chapter osisID='Hos.5'>
+        <title>Beiden Königreichen wird Strafe angedroht.</title>
+        <verse osisID='Hos.5.1'>Höret dies, ihr Priester, und horchet, ihr, o Haus Israel, und du, Haus des Königs; nehmt es zu Ohren; denn für euch ist das Gericht, weil ihr eine Schlinge geworden seid für Mizpah und ein ausgebreitet Netz über Tabor.</verse>
+        <verse osisID='Hos.5.2'>Und mit dem Schlachten vertiefen sich die, so sich wegwenden; aber Ich will ihnen allen eine Züchtigung sein.</verse>
+        <verse osisID='Hos.5.3'>Ich kenne Ephraim, und Israel ist mir nicht verhohlen; denn du, Ephraim, hast jetzt gebuhlt, Israel hat sich verunreinigt.</verse>
+        <verse osisID='Hos.5.4'>Ihre Handlungen gestatteten<note>gaben</note> nicht, zu ihrem Gotte zurückzukehren; denn der Geist der Buhlereien ist in ihrem Inneren, und sie kennen Jehovah nicht.</verse>
+        <verse osisID='Hos.5.5'>Und Israels Stolz wird antworten wider sein Angesicht; und Israel und Ephraim werden straucheln durch ihre Missetat; es strauchelt auch Jehudah mit ihnen.</verse>
+        <verse osisID='Hos.5.6'>Mit ihrem Kleinvieh und ihren Rindern werden sie kommen, zu suchen Jehovah, und werden Ihn nicht finden; denn Er hat Sich ihnen entzogen.</verse>
+        <verse osisID='Hos.5.7'>Dem Jehovah wurden sie untreu; denn fremde Söhne zeugten sie, nun soll sie der Neumond fressen samt ihrem Teile.</verse>
+        <verse osisID='Hos.5.8'>Stoßet in die Posaune in Gibeah, in die Trompete in Ramah, blaset Lärm in Beth-Aven, hinter dir her, Benjamin!</verse>
+        <verse osisID='Hos.5.9'>Ephraim soll zur Verwüstung werden am Tage der Strafe. Unter den Stämmen<note>Ruten</note> Israels habe Ich das Wahrhaftige kundgetan.</verse>
+        <verse osisID='Hos.5.10'>Die Obersten Jehudahs sind wie die, so die Grenze verrücken; auf sie will Ich wie Wasser Mein Wüten ausschütten.</verse>
+        <verse osisID='Hos.5.11'>Bedrückt war Ephraim, zerschlagen mit Recht; denn nach dem Gebot wollte es willig wandeln.</verse>
+        <verse osisID='Hos.5.12'>Und ich bin Ephraim wie die Motte, wie der Wurmfraß dem Hause Jehudahs.</verse>
+        <verse osisID='Hos.5.13'>Und Ephraim sah seine Krankheit und Jehudah seine Wunde; und Ephraim ging nach Aschur, und sandte zum König Jareb; er aber konnte euch nicht heilen und eure Wunde nicht schließen.</verse>
+        <verse osisID='Hos.5.14'>Denn wie der Löwe<note>der Brüller</note> bin Ich Ephraim, und wie der junge Löwe Jehudahs Hause. Ich, Ich zerfleische und gehe hin; Ich trage davon, und niemand ist, der errettet.</verse>
+        <verse osisID='Hos.5.15'>Ich gehe hin, Ich kehre zurück an Meinen Ort, bis daß sie ihre Schuld erkennen und Mein Angesicht suchen. In ihrer Angst werden sie früh nach Mir suchen.</verse>
+      </chapter>
+      <chapter osisID='Hos.6'>
+        <title>Strafrede an Israel und Judah.</title>
+        <verse osisID='Hos.6.1'>Kommt, und lasset uns zurückkehren zu Jehovah; denn Er hat zerfleischt, und Er wird uns heilen; Er schlug, und Er wird uns verbinden.</verse>
+        <verse osisID='Hos.6.2'>Er macht uns lebendig nach zwei Tagen, am dritten Tage richtet Er uns auf, auf daß wir vor Ihm leben.</verse>
+        <verse osisID='Hos.6.3'>Und lasset uns erkennen, und lasset uns nachjagen, zu erkennen Jehovah; wie die Morgenröte ist bereitet Sein Ausgang, und wie der Regen kommt Er zu uns, wie der Spätregen, der das Land feuchtet.</verse>
+        <verse osisID='Hos.6.4'>Was soll Ich dir tun, Ephraim? Was soll Ich dir tun, Jehudah? Und eure Barmherzigkeit<note>Sw. Heiligkeit</note> ist wie die Wolke des Mor- gens, und wie der Tau, der in der Früh fortgeht.</verse>
+        <verse osisID='Hos.6.5'>Darum haue Ich unter die Propheten und erwürge sie durch Meines Mundes Reden, und deine Gerichte sind ein Licht, das ausgeht.</verse>
+        <verse osisID='Hos.6.6'>Denn an Barmherzigkeit habe Ich Lust und nicht am Opfer, und an der Erkenntnis Gottes mehr, denn am Brandopfer.</verse>
+        <verse osisID='Hos.6.7'>Und sie haben gleich Adam den Bund übertreten, da wurden sie Mir untreu.</verse>
+        <verse osisID='Hos.6.8'>Gilead ist die Hauptstadt derer, die Missetat tun, mit Fußstapfen von Blut.</verse>
+        <verse osisID='Hos.6.9'>Und wie Kriegshaufen, die auf einen Mann harren, ist die Gesellschaft der Priester; auf dem Wege nach Schechem morden sie, denn Schandtaten tun sie.</verse>
+        <verse osisID='Hos.6.10'>Schauerliches habe Ich im Hause Israels gesehen. Da buhlt Ephraim, und Israel verunreinigt sich.</verse>
+        <verse osisID='Hos.6.11'>Auch Jehudah bringt<note>setzt</note> dir eine Ernte, wenn Ich die Gefangenschaft Meines Volkes zurückwenden werde.</verse>
+      </chapter>
+      <chapter osisID='Hos.7'>
+        <title>Strafpredigt gegen Israel wegen seiner Untreue.</title>
+        <verse osisID='Hos.7.1'>Da Ich Israel heilte, ward Ephraims Missetat aufgedeckt, und die Bosheiten Samariens, wie sie Lüge tun, und der Dieb kommt, und draußen Kriegshaufen ausrücken.</verse>
+        <verse osisID='Hos.7.2'>Und sie sagen nicht zu ihrem Herzen, Ich gedenke aller ihrer Bosheiten. Nun umgeben sie ihre Handlungen ringsumher; vor Meinem Angesichte sind sie.</verse>
+        <verse osisID='Hos.7.3'>Mit ihrer Bosheit machen den König sie froh, mit ihren Verstellungen die Obersten.</verse>
+        <verse osisID='Hos.7.4'>Sie alle sind Ehebrecher, wie ein Ofen geheizt vom Bäcker; der Kneter<note>Erreger</note> feiert vom Kneten des Teiges bis zu seiner Säuerung.</verse>
+        <verse osisID='Hos.7.5'>Am Tage unseres Königs erkranken die Obersten von der Glut des Weins; er reicht die Hand den Spöttern hin.</verse>
+        <verse osisID='Hos.7.6'>Wenn sie ihr Herz<note>Sw. Gemüt</note> wie einen Ofen darbringen, während sie auflauern, die ganze Nacht schläft ihr Bäcker; am Morgen brennt es wie ein flammendes Feuer.</verse>
+        <verse osisID='Hos.7.7'>Wie der Ofen sind sie alle erhitzt; und sie fressen ihre Richter auf. All ihre Könige fallen. Da ist keiner unter ihnen, der Mich anriefe.</verse>
+        <verse osisID='Hos.7.8'>Ephraim vermengt sich mit den Völkern. Ephraim ist zu einem Kuchen geworden, der nicht umgekehrt worden.</verse>
+        <verse osisID='Hos.7.9'>Fremde fressen seine Kraft, und er weiß es nicht; Greisenhaar auch wird über ihn gesprengt, und er weiß es nicht.</verse>
+        <verse osisID='Hos.7.10'>Und der Stolz Israels antwortet wider sein Angesicht; aber sie kehren nicht zurück zu Jehovah, ihrem Gott, und suchen Ihn nicht in alle dem.</verse>
+        <verse osisID='Hos.7.11'>Und Ephraim wird wie eine dumme Taube, ohne Herz. Ägypten riefen sie, nach Aschur gingen sie.</verse>
+        <verse osisID='Hos.7.12'>Wie sie hingehen, breite Ich Mein Netz über sie aus, Ich bringe sie herab wie des Himmels Gevögel, züchtige sie, wie in ihrer Gemeinde gehört worden.</verse>
+        <verse osisID='Hos.7.13'>Wehe ihnen, daß sie von Mir entflohen; Verheerung über sie, daß sie von Mir abgefallen! Und Ich hätte sie eingelöst, aber sie redeten Falsches über Mich.</verse>
+        <verse osisID='Hos.7.14'>Und sie schrien nicht zu Mir in ihrem Herzen, wenn sie auf ihren Lagern heulten, ob dem Korn und Most. Sie rotteten sich zusammen und wichen ab von Mir.</verse>
+        <verse osisID='Hos.7.15'>Und Ich hätte sie in Zucht genommen und ihre Arme gestärkt, aber sie denken Böses wider Mich.</verse>
+        <verse osisID='Hos.7.16'>Sie wenden sich zurück, nicht nach oben; wie der trügliche Bogen sind sie. Durch das Schwert sollen ihre Obersten fallen ob dem Unwillen ihrer Zunge. Das ist ihr Hohn im Lande Ägypten.</verse>
+      </chapter>
+      <chapter osisID='Hos.8'>
+        <title>Der Feind kommt.</title>
+        <verse osisID='Hos.8.1'>An deinen Gaumen die Posaune! Wie ein Adler über das Haus des Jehovah! Weil sie Meinen Bund übertreten und von Meinem Gesetz abgefallen sind.</verse>
+        <verse osisID='Hos.8.2'>Sie werden schreien zu Mir: Mein Gott! Wir, Israel, erkennen Dich.</verse>
+        <verse osisID='Hos.8.3'>Das Gute hat Israel verworfen! Der Feind setze ihm nach!</verse>
+        <verse osisID='Hos.8.4'>Ohne Mich machten sie Könige, und Oberste, ohne daß Ich es wußte. Ihr Silber und ihr Gold machten sie sich zu Götzenbildern, auf daß Er ausgerottet werde.</verse>
+        <verse osisID='Hos.8.5'>Dein Kalb, Samaria, verwirft dich, Mein Zorn entbrennt wider sie. Wie lange vermögen sie nicht, sich unsträflich zu halten?</verse>
+        <verse osisID='Hos.8.6'>Denn aus Israel ist es, und er, der Werkmann, hat es gemacht, und kein Gott ist es. Zu Stücken wird das Kalb Samariens.</verse>
+        <verse osisID='Hos.8.7'>Denn Wind säen sie, und Sturmwind ernten sie. Eine Saat hat er nicht, und was da sproßt, gibt<note>macht</note> kein Mehl, gäbe<note>machte</note> es vielleicht, so verschlingen es die Fremden.</verse>
+        <verse osisID='Hos.8.8'>Verschlungen ist Israel; nun sind sie unter den Völkerschaften wie ein Gefäß, an dem man keine Lust hat;</verse>
+        <verse osisID='Hos.8.9'>Weil sie hinaufzogen nach Aschur, ein Waldesel, einsam für sich. Ephraim dingt sich Liebschaften.</verse>
+        <verse osisID='Hos.8.10'>Obgleich sie dingten unter den Völkerschaften, nun bringe Ich sie zusammen, und sie sollen zusammenbringen, und sie sollen anfangen sich zu mindern unter der Last des Königs der Obersten.</verse>
+        <verse osisID='Hos.8.11'>Denn Ephraim mehrte die Altäre zur Sünde; zur Sünde sind ihm die Altäre geworden.</verse>
+        <verse osisID='Hos.8.12'>Schrieb Ich ihm viele Meiner Gesetze, wie fremd wurden sie geachtet.</verse>
+        <verse osisID='Hos.8.13'>Als Schlachtopfer opfern sie Mir Gaben des Fleisches, und essen es. Jehovah hat daran kein Gefallen. Er gedenkt nun ihrer Missetat, und sucht heim ihre Sünden. Sie möchten nach Ägypten zurückkehren.</verse>
+        <verse osisID='Hos.8.14'>Und Israel vergißt Dessen, Der ihn gemacht, und baut Tempel, und Jehudah mehrt die festen Städte; Ich aber will Feuer in ihre Städte senden, und es soll seine Paläste auffressen.</verse>
+      </chapter>
+      <chapter osisID='Hos.9'>
+        <title>Freue dich nicht.</title>
+        <verse osisID='Hos.9.1'>Sei nicht froh zum Frohlocken, Israel, wie die Völker, da du von deinem Gotte fortgebuhlt; du liebtest Buhlgaben auf all deinen Tennen des Korns.</verse>
+        <verse osisID='Hos.9.2'>Tenne und Kelterkufe soll sie nicht weiden, und der Most soll sie täuschen.</verse>
+        <verse osisID='Hos.9.3'>Sie wohnen<note>sitzen</note> nicht im Lande Jehovahs, und Ephraim kehrt zurück nach Ägypten, und sie essen Unreines in Aschur.</verse>
+        <verse osisID='Hos.9.4'>Nicht gießen sie für Jehovah Wein aus, noch sind Ihm ihre Schlachtopfer angenehm. Wie Brot der Bekümmerten sind sie für sie; alle, so davon essen, verunreinigen sich; denn ihr Brot ist für ihre Seelen, es kommt nicht in das Haus Jehovahs.</verse>
+        <verse osisID='Hos.9.5'>Was werdet ihr tun am Tage der Feier, und am Tage des Festes Jehovahs?</verse>
+        <verse osisID='Hos.9.6'>Denn siehe, sie sind weggezogen vor der Verheerung, Ägypten wird sie zusammenbringen, Moph sie begraben, das Kleinod<note>das Begehrte</note> ihres Silbers wird die Distel einnehmen, Dornhecken sind in ihren Zelten.</verse>
+        <verse osisID='Hos.9.7'>Gekommen sind die Tage der Heimsuchung, gekommen die Tage der Vergeltung. Wissen soll Israel: ein Narr ist der Prophet, irrsinnig der Mann des Geistes ob der Menge deiner Missetat und ob der vielen Anfeindung.</verse>
+        <verse osisID='Hos.9.8'>Ephraim ist ein Wächter mit meinem Gott; der Prophet die Schlinge eines Vogelstellers auf allen seinen Wegen, Anfeindung im Hause seines Gottes.</verse>
+        <verse osisID='Hos.9.9'>Tief verdorben sind sie, wie in den Tagen Gibeahs. Er wird gedenken ihrer Missetat, wird heimsuchen ihre Sünden.</verse>
+        <verse osisID='Hos.9.10'>Wie Weinbeeren in der Wüste fand Ich Israel, wie den Erstling am Feigenbaum in ihrem Anfange sah Ich eure Väter. Nach Baal-Peor kamen sie, und da weihten sie sich der Schande und wurden abscheulich, wie ihr Lieben.</verse>
+        <verse osisID='Hos.9.11'>Ephraim: wie ein Vogel<note>das Gevögel</note> fliegt fort seine Herrlichkeit, von der Geburt, von dem Mutterleib und von der Empfängnis.</verse>
+        <verse osisID='Hos.9.12'>Ja, wenn sie ihre Söhne großziehen, so mache Ich sie kinderlos, ohne Menschen. Ja, wehe auch ihnen, wenn Ich weggehe von ihnen.</verse>
+        <verse osisID='Hos.9.13'>Ephraim, wie Ich ihn sehe bis nach Zor<note>d.i. Tyrus</note>, ist gepflanzt in Lieblichkeit; aber Ephraim muß seine Söhne hinaus zum Würger bringen.</verse>
+        <verse osisID='Hos.9.14'>Gib ihnen, Jehovah - was sollst Du ihnen geben? - gib ihnen einen fehlgebärenden Mutterschoß und versiegende Brüste.</verse>
+        <verse osisID='Hos.9.15'>All ihre Bosheit ist in Gilgal; daselbst hasse Ich sie. Ob der Bosheit ihrer Handlungen vertreibe Ich sie aus Meinem Haus. Nicht will Ich fürderhin sie lieben<note>hinzutun, sie zu lieben</note>. Alle ihre Obersten sind störrisch.</verse>
+        <verse osisID='Hos.9.16'>Geschlagen ist Ephraim, ihre Wurzel verdorrt, daß sie keine Frucht bringen<note>machen</note>; und ob sie erzeugen, so wollte Ich doch ihres Leibes Begehrte töten.</verse>
+        <verse osisID='Hos.9.17'>Mein Gott verschmäht sie, darum, daß sie auf Ihn nicht hörten; und sie sollen unter die Völkerschaften entfliehen.</verse>
+      </chapter>
+      <chapter osisID='Hos.10'>
+        <title>Rüge, Androhung der Verbannung.</title>
+        <verse osisID='Hos.10.1'>Ein abgeleerter Weinstock ist Israel; seine Frucht ist gleich wie er; nach der Menge seiner Frucht mehrte er die Altäre. Nach der Güte seines Landes machte er gut die Bildsäulen.</verse>
+        <verse osisID='Hos.10.2'>Es schmeichelte<note>andere: geteilt ist</note> ihr Herz. Nun werden sie verwüstet, Er wird zerwerfen ihre Altäre, zerscheitern ihre Bildsäulen.</verse>
+        <verse osisID='Hos.10.3'>Ja, nun sprechen sie: Wir haben keinen König, weil wir Jehovah nicht fürchten; und der König, was könnte der für uns tun?</verse>
+        <verse osisID='Hos.10.4'>Sie reden Reden, mit eitlen Eiden schlie-ßen sie einen Bund. Wie Schierling sproßt auf das Gericht auf den Furchen des Feldes.</verse>
+        <verse osisID='Hos.10.5'>Um die Kälber in Beth-Aven bangen sie, der Bewohner Schomrons<note>d.i. Samariens</note>; denn sein Volk trauert darum, es zittern<note>andere: frohlockten</note> seine Götzenpriester für seine Herrlichkeit, daß sie von ihm weggeführt wird.</verse>
+        <verse osisID='Hos.10.6'>Auch geleitet man es nach Aschur als Geschenk für den König Jareb. Scham ergreift Ephraim, und ob seinem Ratschluß schämt sich Israel.</verse>
+        <verse osisID='Hos.10.7'>Schomron<note>d.i. Samaria</note> ist verstört, sein König ist wie der Schaum auf des Wassers Fläche<note>Angesicht</note>.</verse>
+        <verse osisID='Hos.10.8'>Und vernichtet werden die Opferhöhen Avens, die Sünde Israels; Dorn und Distel kommen herauf auf ihren Altären, und sie sprechen zu den Bergen: Decket uns! und zu den Hügeln: Fallet über uns!</verse>
+        <verse osisID='Hos.10.9'>Seit den Tagen Gibeahs hast du gesündigt, Israel! Da standen sie; der Streit wider die Söhne der Verkehrtheit erreichte sie nicht in Gibeah.</verse>
+        <verse osisID='Hos.10.10'>Nach Meinem Sehnen werde Ich sie züchtigen. Und versammeln sollen sich Völker wider sie, für ihre zwei Missetaten sie zu binden.</verse>
+        <verse osisID='Hos.10.11'>Und Ephraim ist eine abgerichtete<note>eingelernte</note> Kalbe, die das Dreschen liebt; aber Ich will hinfahren über das Gute ihres Nackens und Ephraim reiten lassen; pflügen soll Jehudah und Jakob soll ihm eggen.</verse>
+        <verse osisID='Hos.10.12'>Sät euch zur Gerechtigkeit; erntet nach dem Munde der Gerechtigkeit, brechet auch den Brachacker um. Und es ist Zeit Jehovah zu suchen; bis daß Er komme und euch unterweise in der Gerechtigkeit.</verse>
+        <verse osisID='Hos.10.13'>Ihr habt Ungerechtigkeit gepflügt und Verkehrtheit geerntet, habt die Frucht der Falschheit gegessen, darum daß du auf deine Wege, auf deine vielen Helden vertrautest.</verse>
+        <verse osisID='Hos.10.14'>Und es ersteht ein Getöse unter deinen Völkern, und alle deine Festungen werden verheert, gleich der Verheerung von SchalmanBeth-Arbel am Tage des Streites, da die Mutter mit den Söhnen zerschmettert ward.</verse>
+        <verse osisID='Hos.10.15'>Solches tut euch Beth-El um des Bösen eures Bösen willen. Mit dem Morgenrot wird verstört<note>verstörend verstört</note> der König von Israel.</verse>
+      </chapter>
+      <chapter osisID='Hos.11'>
+        <title>Israels Undankbarkeit.</title>
+        <verse osisID='Hos.11.1'>Als Israel jung<note>ein Junge</note> war, liebte Ich ihn, und aus Ägypten rief Ich Meinen Sohn.</verse>
+        <verse osisID='Hos.11.2'>So man ihnen jetzt ruft, so gehen sie fort von ihrem Angesicht, opfern den Baalen und räuchern den Schnitzbildern.</verse>
+        <verse osisID='Hos.11.3'>Ich gängelte Ephraim. Er nahm sie auf Seine Arme. Aber sie wußten nicht, daß Ich sie heilte.</verse>
+        <verse osisID='Hos.11.4'>Mit Stricken des Menschen zog Ich sie, mit Seilen der Liebe, und ward ihnen wie einer, der das Joch emporhebt über ihre Kinnbacken, und reichte ihm zu essen.</verse>
+        <verse osisID='Hos.11.5'>Nicht sollte er zurück nach dem Lande Ägypten kehren; und Aschur, der ist sein König, weil sie sich weigerten, zurückzukehren.</verse>
+        <verse osisID='Hos.11.6'>Und kreisen wird das Schwert in seinen Städten und verzehren seine Riegel und auffressen wegen ihrer Ratschläge.</verse>
+        <verse osisID='Hos.11.7'>Und Mein Volk ist es müde, zu Mir zurückzukehren. Rufen sie ihm aufwärts, so richtet sich keiner empor.</verse>
+        <verse osisID='Hos.11.8'>Wie soll Ich dich dahingeben, Ephraim? Soll Ich dich hinliefern, Israel? Soll Ich dich hingeben wie Adamah, dich setzen wie Zeboim? Mein Herz kehrt sich um in Mir; allzumal ist Meine Reue entbrannt<note>erhitzt</note>.</verse>
+        <verse osisID='Hos.11.9'>Nicht will Ich tun nach Meines Zornes Entbrennen; will nicht zurückkehren, Ephraim zu verderben; denn ein Gott bin Ich, und nicht ein Mann. In deiner Mitte ist der Heilige; nicht will Ich kommen in die Stadt.</verse>
+        <verse osisID='Hos.11.10'>Jehovah nach werden sie gehen. Wie ein Löwe wird Er brüllen. Weil Er brüllt, werden die Söhne vom Meere einherzittern<note>Sw. mit Ehre kommen</note>.</verse>
+        <verse osisID='Hos.11.11'>Einherzittern<note>Sw. mit Ehre kommen</note> werden sie wie die Vögel aus Ägypten und wie die Taube aus dem Lande Aschur; und Ich werde sie wohnen<note>sitzen</note> lassen in ihren Häusern, spricht Jehovah.</verse>
+      </chapter>
+      <chapter osisID='Hos.12'>
+        <title>Jakob und seine Nachkommen.</title>
+        <verse osisID='Hos.12.1'>Umgeben hat Mich Ephraim mit Vorstellung, und mit Trug das Haus Israel; aber Jehudah herrscht noch mit Gott, und getreu mit den Heiligen.</verse>
+        <verse osisID='Hos.12.2'>Ephraim weidet sich am Wind, und setzt dem Ostwind nach den ganzen Tag; Falschheit und Verheerung mehrt es, und sie schließen einen Bund mit Aschur, und Öl wird nach Ägypten gebracht<note>geleitet</note>.</verse>
+        <verse osisID='Hos.12.3'>Und einen Hader hat Jehovah mit Jehudah, und wird heimsuchen Jakob nach seinen Wegen, nach seinen Handlungen ihm es zurückgeben.</verse>
+        <verse osisID='Hos.12.4'>Im Mutterleibe hat er seinem Bruder die Ferse unterschlagen, und in seiner Vollkraft mit Gott gekämpft;</verse>
+        <verse osisID='Hos.12.5'>Und gekämpft mit dem Engel und ihn übermocht. Er weinte und erflehte ihn. In Bethel sollte er ihn finden, und daselbst mit uns reden.</verse>
+        <verse osisID='Hos.12.6'>Jehovah ist der Gott Zebaoth; Jehovah ist sein Gedächtnis.</verse>
+        <verse osisID='Hos.12.7'>Und du, kehre zurück zu deinem Gott; halte Gerechtigkeit und Gericht, und hoffe beständig auf deinen Gott.</verse>
+        <verse osisID='Hos.12.8'>Kanaan<note>d.h. der Krämer</note> hat in seiner Hand die Waage des Betrugs, er liebt zu bedrücken.</verse>
+        <verse osisID='Hos.12.9'>Und Ephraim spricht: Wohl bin ich reich geworden, habe Wohlstand mir gefunden; aber bei all meinem Bemühen wird man an mir keine Missetat finden, die Sünde wäre.</verse>
+        <verse osisID='Hos.12.10'>Aber Ich bin Jehovah, dein Gott, vom Lande Ägypten her; Ich werde dich noch in Zelten wohnen<note>sitzen</note> lassen, wie in den Tagen der Festzeit;</verse>
+        <verse osisID='Hos.12.11'>Und Ich rede zu den Propheten, und Ich bin es, Der des Gesichtes viel macht, und durch der Propheten Hand Gleichnisse gebe.</verse>
+        <verse osisID='Hos.12.12'>Ist Gilead ein Aven<note>d.h. Unrecht</note>? Sie werden zur Eitelkeit. In Gilgal opfern sie Ochsen; auch sind ihre Altäre wie Steinhaufen auf den Furchen des Feldes.</verse>
+        <verse osisID='Hos.12.13'>Und Jakobs entwich in das Gefilde Arams, und Israel diente um ein Weib, und um ein Weib hütete er.</verse>
+        <verse osisID='Hos.12.14'>Und durch einen Propheten führte Jehovah Israel herauf aus Ägypten, und durch einen Propheten ward es gehütet.</verse>
+        <verse osisID='Hos.12.15'>Ephraim hat gereizt durch Bitterkeiten, und Er läßt sein Blut auf ihm, und sein Herr gibt ihm zurück seine Schmach.</verse>
+      </chapter>
+      <chapter osisID='Hos.13'>
+        <title>Verderben und Heil.</title>
+        <verse osisID='Hos.13.1'>Als Ephraim Schauderhaftes redete, trug er es in Israel; und er ward schuldig am Baal und starb.</verse>
+        <verse osisID='Hos.13.2'>Und jetzt tut es zur Sünde hinzu, und sie haben sich ein Gußbild gemacht von ihrem Silber, in ihrer Einsicht, Götzenbilder, gänzlich gemacht von Werkleuten. Zu sich selber sagen sie: Die, so einen Menschen opfern, sollen küssen die Kälber.</verse>
+        <verse osisID='Hos.13.3'>Daher werden sie sein wie die Wolke des Morgens und wie der Tau, der in der Früh fallend dahingeht, wie die Spreu von der Tenne verweht, und wie der Rauch aus dem Gitterfenster.</verse>
+        <verse osisID='Hos.13.4'>Bin Ich doch Jehovah, dein Gott vom Lande Ägypten her, und einen Gott außer Mir kennst du nicht; und ohne Mich ist kein Heiland.</verse>
+        <verse osisID='Hos.13.5'>Ich kannte dich in der Wüste, im Lande der Gluthitze.</verse>
+        <verse osisID='Hos.13.6'>Wie sie ihre Weide hatten, wurden sie satt, und da sie satt waren, erhöhte sich ihr Herz, so daß sie Mein vergaßen.</verse>
+        <verse osisID='Hos.13.7'>Und Ich werde ihnen sein wie ein Löwe, wie ein Pardel am Wege betrachte Ich sie.</verse>
+        <verse osisID='Hos.13.8'>Ich treffe auf sie wie ein beraubter Bär und zerreiße den Verschluß ihres Herzens und fresse sie da wie der alte Löwe; das wilde Tier des Feldes schlitzt<note>spaltet</note> sie auf.</verse>
+        <verse osisID='Hos.13.9'>Dein Verderben ist es, Israel, daß du wider Mich bist, wider deinen Beistand.</verse>
+        <verse osisID='Hos.13.10'>Wo ist nun dein König hin, daß er dich rette in allen deinen Städten, und deine Richter, da du doch sprachst: Gib mir einen König und Oberste?</verse>
+        <verse osisID='Hos.13.11'>Ich gebe dir einen König in Meinem Zorn und nehme ihn in Meinem Wüten.</verse>
+        <verse osisID='Hos.13.12'>Zugebunden ist Ephraims Missetat, aufbewahrt seine Sünde.</verse>
+        <verse osisID='Hos.13.13'>Es kommen Geburtsnöte der Gebärerin über es; ein unweiser Sohn ist es; er steht nicht die Zeit in der Söhne Durchbruch!</verse>
+        <verse osisID='Hos.13.14'>Aus der Hand der Hölle löse Ich sei ein; vom Tode will Ich sie erlösen. Tod, Ich will deine Pest, Hölle, Ich will dein Zerstörer<note>deine Seuche</note> sein! Reue ist vor Meinen Augen verborgen!</verse>
+        <verse osisID='Hos.13.15'>Denn ein wilder Esel ist er unter seinen Brüdern; der Ostwind, der Wind Jehovahs, kommt, aufsteigend von der Wüste, und es vertrocknet sein Born, und sein Brunnquell trocknet aus, er plündert den Schatz jeglichen köstlichen<note>begehrten</note> Geräts.</verse>
+      </chapter>
+      <chapter osisID='Hos.14'>
+        <title>Ermahnung zur Umkehr.</title>
+        <verse osisID='Hos.14.1'>Schomron<note>d.i. Samaria</note> wird verwüstet, denn es war aufrührerisch wider seinen Gott; durch das Schwert werden seine Kindlein fallen, sie werden zerschmettert, und die Schwangeren werden aufgeschlitzt<note>gespalten</note>.</verse>
+        <verse osisID='Hos.14.2'>Kehre zurück, Israel, zu Jehovah, deinem Gott; denn du strauchelst in deiner Missetat.</verse>
+        <verse osisID='Hos.14.3'>Nehmt zu euch die Worte und kehrt zurück zu Jehovah; sprecht zu Ihm: Verzeihe alle Missetat, und nimm es gut, und laß uns entrichten die Farren unserer Lippen!</verse>
+        <verse osisID='Hos.14.4'>Aschur soll uns nicht retten, auf dem Roß wollen wir nicht reiten, und wollen nicht mehr zu unserer Hände Machwerk sagen: Unser Gott! Weil bei dir die Waise Erbarmen findet.</verse>
+        <verse osisID='Hos.14.5'>Ich heile ihren Abfall, Ich liebe sie freiwillig; denn Mein Zorn ist von ihm zurückgewendet.</verse>
+        <verse osisID='Hos.14.6'>Wie der Tau will Ich für Israel sein, erblühen soll es gleich der Lilie, und seine Wurzel schlagen, wie der Libanon.</verse>
+        <verse osisID='Hos.14.7'>Seine Zweige<note>Schößlinge</note> sollen dahingehen, und seine Majestät soll sein wie die des Ölbaums; und sein Geruch wie des Libanon.</verse>
+        <verse osisID='Hos.14.8'>Zurückkehren sollen sie, die in Seinem Schatten saßen, und beleben das Korn, und erblühen, wie der Weinstock; sein Andenken soll sein wie des Weins vom Libanon.</verse>
+        <verse osisID='Hos.14.9'>Ephraim, was sollen Mir fürder die Götzenbilder? Ich will antworten und ihm singen. Ich will sein wie die grünende Tanne. Aus Mir soll deine Frucht gefunden werden.</verse>
+        <verse osisID='Hos.14.10'>Wer ist weise, daß er dies einsehe, einsichtsvoll, daß er es wisse? Denn gerade sind die Wege Jehovahs, und die Gerechten wandeln darauf, die Übertreter aber kommen darauf zu Fall.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

@@ -1,0 +1,813 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd'>
+  <osisText osisRefWork='Bible' osisIDWork='clvul' xml:lang='la'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='clvul'>
+        <title>Clementine Vulgate</title>
+        <contributor>Michaele Tvveedale little.mouth@soon.com</contributor>
+        <creator>ws</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject>holy bible</subject>
+        <date>2009-01-20</date>
+        <description>After the Council of Trent, which declared in 1546 that the Vulgate alone was to be held as "authentic in public readings, discourses, and disputes, and that nobody might dare or presume to reject it on any pretence" (Sess. IV, De editione et usu sacrorum librorum), the Holy See undertook the task of producing a corrected, standard text of the Vulgate for the use of the universal Church. In 1590, an edition was duly produced in Rome by a commission of scholars, revised further by Sixtus V, and finally approved by him. After his death a further revision was carried out under the Jesuit Franciscus Toletus, and finally the work was printed in 1598 during the pontificate of Clement VIII, whose name has been attached to it since 1641. The Clementine text was the offical version of the Vulgate until 1979. There is a single, definitive Clementine text, namely the Editio Typica published by the Typographus Vaticanus in 1598 under the title "Biblia Sacra Vulgat editionis, Sixti V Pontificis Maximi jussu recognita et edita", with the single proviso: "nisi aliquid occurrat, quod typographic incuri manifeste ascribendum sit" (Clement VIII, Cum sacrorum). This is thus the version that appears here.</description>
+        <publisher>FreeBibleSoftwareGroup</publisher>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>clvul</identifier>
+        <source>http://vulsearch.forge.net/plain.html</source>
+        <language type='IETF'>la</language>
+        <relation/>
+        <coverage/>
+        <rights>The text is released into the public domain, and you can use it as you wish with no legal obligations.</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Mark'>
+      <chapter osisID='Mark.1'>
+        <verse osisID='Mark.1.1'>Initium Evangelii Jesu Christi, Filii Dei. </verse>
+        <verse osisID='Mark.1.2'>Sicut scriptum est in Isaia propheta : [Ecce ego mitto angelum meum ante faciem tuam,qui prparabit viam tuam ante te.</verse>
+        <verse osisID='Mark.1.3'>Vox clamantis in deserto :Parate viam Domini, rectas facite semitas ejus.] </verse>
+        <verse osisID='Mark.1.4'>Fuit Joannes in deserto baptizans, et prdicans baptismum pnitenti in remissionem peccatorum. </verse>
+        <verse osisID='Mark.1.5'>Et egrediebatur ad eum omnis Jud regio, et Jerosolymit universi, et baptizabantur ab illo in Jordanis flumine, confitentes peccata sua. </verse>
+        <verse osisID='Mark.1.6'>Et erat Joannes vestitus pilis cameli, et zona pellicea circa lumbos ejus, et locustas et mel silvestre edebat. </verse>
+        <verse osisID='Mark.1.7'>Et prdicabat dicens : Venit fortior post me, cujus non sum dignus procumbens solvere corrigiam calceamentorum ejus. </verse>
+        <verse osisID='Mark.1.8'>Ego baptizavi vos aqua, ille vero baptizabit vos Spiritu Sancto.</verse>
+        <verse osisID='Mark.1.9'>Et factum est : in diebus illis venit Jesus a Nazareth Galil : et baptizatus est a Joanne in Jordane. </verse>
+        <verse osisID='Mark.1.10'>Et statim ascendens de aqua, vidit clos apertos, et Spiritum tamquam columbam descendentem, et manentem in ipso. </verse>
+        <verse osisID='Mark.1.11'>Et vox facta est de clis : Tu es Filius meus dilectus, in te complacui.</verse>
+        <verse osisID='Mark.1.12'>Et statim Spiritus expulit eum in desertum. </verse>
+        <verse osisID='Mark.1.13'>Et erat in deserto quadraginta diebus, et quadraginta noctibus : et tentabatur a Satana : eratque cum bestiis, et angeli ministrabant illi.</verse>
+        <verse osisID='Mark.1.14'>Postquam autem traditus est Joannes, venit Jesus in Galilam, prdicans Evangelium regni Dei, </verse>
+        <verse osisID='Mark.1.15'>et dicens : Quoniam impletum est tempus, et appropinquavit regnum Dei : pnitemini, et credite Evangelio. </verse>
+        <verse osisID='Mark.1.16'>Et prteriens secus mare Galil, vidit Simonem, et Andream fratrem ejus, mittentes retia in mare (erant enim piscatores), </verse>
+        <verse osisID='Mark.1.17'>et dixit eis Jesus : Venite post me, et faciam vos fieri piscatores hominum. </verse>
+        <verse osisID='Mark.1.18'>Et protinus relictis retibus, secuti sunt eum. </verse>
+        <verse osisID='Mark.1.19'>Et progressus inde pusillum, vidit Jacobum Zebedi, et Joannem fratrem ejus, et ipsos componentes retia in navi : </verse>
+        <verse osisID='Mark.1.20'>et statim vocavit illos. Et relicto patre suo Zebedo in navi cum mercenariis, secuti sunt eum.</verse>
+        <verse osisID='Mark.1.21'>Et ingrediuntur Capharnaum : et statim sabbatis ingressus in synagogam, docebat eos. </verse>
+        <verse osisID='Mark.1.22'>Et stupebant super doctrina ejus : erat enim docens eos quasi potestatem habens, et non sicut scrib. </verse>
+        <verse osisID='Mark.1.23'>Et erat in synagoga eorum homo in spiritu immundo : et exclamavit, </verse>
+        <verse osisID='Mark.1.24'>dicens : Quid nobis et tibi, Jesu Nazarene ? venisti perdere nos ? scio qui sis, Sanctus Dei. </verse>
+        <verse osisID='Mark.1.25'>Et comminatus est ei Jesus, dicens : Obmutesce, et exi de homine. </verse>
+        <verse osisID='Mark.1.26'>Et discerpens eum spiritus immundus, et exclamans voce magna, exiit ab eo. </verse>
+        <verse osisID='Mark.1.27'>Et mirati sunt omnes, ita ut conquirerent inter se dicentes : Quidnam est hoc ? qunam doctrina hc nova ? quia in potestate etiam spiritibus immundis imperat, et obediunt ei. </verse>
+        <verse osisID='Mark.1.28'>Et processit rumor ejus statim in omnem regionem Galil.</verse>
+        <verse osisID='Mark.1.29'>Et protinus egredientes de synagoga, venerunt in domum Simonis et Andre, cum Jacobo et Joanne. </verse>
+        <verse osisID='Mark.1.30'>Decumbebat autem socrus Simonis febricitans : et statim dicunt ei de illa. </verse>
+        <verse osisID='Mark.1.31'>Et accedens elevavit eam, apprehensa manu ejus : et continuo dimisit eam febris, et ministrabat eis.</verse>
+        <verse osisID='Mark.1.32'>Vespere autem facto cum occidisset sol, afferebant ad eum omnes male habentes, et dmonia habentes : </verse>
+        <verse osisID='Mark.1.33'>et erat omnis civitas congregata ad januam. </verse>
+        <verse osisID='Mark.1.34'>Et curavit multos, qui vexabantur variis languoribus, et dmonia multa ejiciebat, et non sinebat ea loqui, quoniam sciebant eum.</verse>
+        <verse osisID='Mark.1.35'>Et diluculo valde surgens, egressus abiit in desertum locum, ibique orabat. </verse>
+        <verse osisID='Mark.1.36'>Et prosecutus est eum Simon, et qui cum illo erant. </verse>
+        <verse osisID='Mark.1.37'>Et cum invenissent eum, dixerunt ei : Quia omnes qurunt te. </verse>
+        <verse osisID='Mark.1.38'>Et ait illis : Eamus in proximos vicos, et civitates, ut et ibi prdicem : ad hoc enim veni. </verse>
+        <verse osisID='Mark.1.39'>Et erat prdicans in synagogis eorum, et in omni Galila, et dmonia ejiciens.</verse>
+        <verse osisID='Mark.1.40'>Et venit ad eum leprosus deprecans eum : et genu flexo dixit ei : Si vis, potes me mundare. </verse>
+        <verse osisID='Mark.1.41'>Jesus autem misertus ejus, extendit manum suam : et tangens eum, ait illi : Volo : mundare. </verse>
+        <verse osisID='Mark.1.42'>Et cum dixisset, statim discessit ab eo lepra, et mundatus est. </verse>
+        <verse osisID='Mark.1.43'>Et comminatus est ei, statimque ejecit illum, </verse>
+        <verse osisID='Mark.1.44'>et dicit ei : Vide nemini dixeris : sed vade, ostende te principi sacerdotum, et offer pro emundatione tua, qu prcepit Moyses in testimonium illis. </verse>
+        <verse osisID='Mark.1.45'>At ille egressus cpit prdicare, et diffamare sermonem, ita ut jam non posset manifeste introire in civitatem, sed foris in desertis locis esset, et conveniebant ad eum undique. </verse>
+      </chapter>
+      <chapter osisID='Mark.2'>
+        <verse osisID='Mark.2.1'>Et iterum intravit Capharnaum post dies, </verse>
+        <verse osisID='Mark.2.2'>et auditum est quod in domo esset, et convenerunt multi, ita ut non caperet neque ad januam, et loquebatur eis verbum. </verse>
+        <verse osisID='Mark.2.3'>Et venerunt ad eum ferentes paralyticum, qui a quatuor portabatur. </verse>
+        <verse osisID='Mark.2.4'>Et cum non possent offerre eum illi pr turba, nudaverunt tectum ubi erat : et patefacientes submiserunt grabatum in quo paralyticus jacebat. </verse>
+        <verse osisID='Mark.2.5'>Cum autem vidisset Jesus fidem illorum, ait paralytico : Fili, dimittuntur tibi peccata tua. </verse>
+        <verse osisID='Mark.2.6'>Erant autem illic quidam de scribis sedentes, et cogitantes in cordibus suis : </verse>
+        <verse osisID='Mark.2.7'>Quid hic sic loquitur ? blasphemat. Quis potest dimittere peccata, nisi solus Deus ? </verse>
+        <verse osisID='Mark.2.8'>Quo statim cognito Jesus spiritu suo, quia sic cogitarent intra se, dicit illis : Quid ista cogitatis in cordibus vestris ? </verse>
+        <verse osisID='Mark.2.9'>Quid est facilius dicere paralytico : Dimittuntur tibi peccata tua : an dicere : Surge, tolle grabatum tuum, et ambula ? </verse>
+        <verse osisID='Mark.2.10'>Ut autem sciatis quia Filius hominis habet potestatem in terra dimittendi peccata (ait paralytico), </verse>
+        <verse osisID='Mark.2.11'>tibi dico : Surge, tolle grabatum tuum, et vade in domum tuam. </verse>
+        <verse osisID='Mark.2.12'>Et statim surrexit ille : et, sublato grabato, abiit coram omnibus, ita ut mirarentur omnes, et honorificent Deum, dicentes : Quia numquam sic vidimus.</verse>
+        <verse osisID='Mark.2.13'>Et egressus est rursus ad mare, omnisque turba veniebat ad eum, et docebat eos. </verse>
+        <verse osisID='Mark.2.14'>Et cum prteriret, vidit Levi Alphi sedentem ad telonium, et ait illi : Sequere me. Et surgens secutus est eum. </verse>
+        <verse osisID='Mark.2.15'>Et factum est, cum accumberet in domo illius, multi publicani et peccatores simul discumbebant cum Jesu et discipulis ejus : erant enim multi, qui et sequebantur eum. </verse>
+        <verse osisID='Mark.2.16'>Et scrib et pharisi videntes quia manducaret cum publicanis et peccatoribus, dicebant discipulis ejus : Quare cum publicanis et peccatoribus manducat et bibit Magister vester ? </verse>
+        <verse osisID='Mark.2.17'>Hoc audito Jesus ait illis : Non necesse habent sani medico, sed qui male habent : non enim veni vocare justos, sed peccatores. </verse>
+        <verse osisID='Mark.2.18'>Et erant discipuli Joannis et pharisi jejunantes : et veniunt, et dicunt illi : Quare discipuli Joannis et pharisorum jejunant, tui autem discipuli non jejunant ? </verse>
+        <verse osisID='Mark.2.19'>Et ait illis Jesus : Numquid possunt filii nuptiarum, quamdiu sponsus cum illis est, jejunare ? Quanto tempore habent secum sponsum, non possunt jejunare. </verse>
+        <verse osisID='Mark.2.20'>Venient autem dies cum auferetur ab eis sponsus : et tunc jejunabunt in illis diebus. </verse>
+        <verse osisID='Mark.2.21'>Nemo assumentum panni rudis assuit vestimento veteri : alioquin aufert supplementum novum a veteri, et major scissura fit. </verse>
+        <verse osisID='Mark.2.22'>Et nemo mittit vinum novum in utres veteres : alioquin dirumpet vinum utres, et vinum effundetur, et utres peribunt : sed vinum novum in utres novos mitti debet.</verse>
+        <verse osisID='Mark.2.23'>Et factum est iterum Dominus sabbatis ambularet per sata, et discipuli ejus cperunt progredi, et vellere spicas. </verse>
+        <verse osisID='Mark.2.24'>Pharisi autem dicebant ei : Ecce, quid faciunt sabbatis quod non licet ? </verse>
+        <verse osisID='Mark.2.25'>Et ait illis : Numquam legistis quid fecerit David, quando necessitatem habuit, et esuriit ipse, et qui cum eo erant ? </verse>
+        <verse osisID='Mark.2.26'>quomodo introibit in domum Dei sub Abiathar principe sacerdotum, et panes propositionis manducavit, quos non licebat manducare, nisi sacerdotibus, et dedit eis qui cum eo erant ? </verse>
+        <verse osisID='Mark.2.27'>Et dicebat eis : Sabbatum propter hominem factum est, et non homo propter sabbatum. </verse>
+        <verse osisID='Mark.2.28'>Itaque Dominus est Filius hominis, etiam sabbati. </verse>
+      </chapter>
+      <chapter osisID='Mark.3'>
+        <verse osisID='Mark.3.1'>Et introivit iterum in synagogam : et erat ibi homo habens manum aridam. </verse>
+        <verse osisID='Mark.3.2'>Et observabant eum, si sabbatis curaret, ut accusarent illum. </verse>
+        <verse osisID='Mark.3.3'>Et ait homini habenti manum aridam : Surge in medium. </verse>
+        <verse osisID='Mark.3.4'>Et dicit eis : Licet sabbatis benefacere, an male ? animam salvam facere, an perdere ? At illi tacebant. </verse>
+        <verse osisID='Mark.3.5'>Et circumspiciens eos cum ira, contristatus super ccitate cordis eorum, dicit homini : Extende manum tuam. Et extendit, et restituta est manus illi. </verse>
+        <verse osisID='Mark.3.6'>Exeuntes autem pharisi, statim cum Herodianis consilium faciebant adversus eum quomodo eum perderent.</verse>
+        <verse osisID='Mark.3.7'>Jesus autem cum discipulis suis secessit ad mare : et multa turba a Galila et Juda secuta est eum, </verse>
+        <verse osisID='Mark.3.8'>et ab Jerosolymis, et ab Iduma, et trans Jordanem : et qui circa Tyrum et Sidonem multitudo magna, audientes qu faciebat, venerunt ad eum. </verse>
+        <verse osisID='Mark.3.9'>Et dicit discipulis suis ut navicula sibi deserviret propter turbam, ne comprimerent eum : </verse>
+        <verse osisID='Mark.3.10'>multos enim sanabat, ita ut irruerent in eum ut illum tangerent, quotquot habebant plagas. </verse>
+        <verse osisID='Mark.3.11'>Et spiritus immundi, cum illum videbant, procidebant ei : et clamabant, dicentes : </verse>
+        <verse osisID='Mark.3.12'>Tu es Filius Dei. Et vehementer comminabatur eis ne manifestarent illum.</verse>
+        <verse osisID='Mark.3.13'>Et ascendens in montem vocavit ad se quos voluit ipse : et venerunt ad eum. </verse>
+        <verse osisID='Mark.3.14'>Et fecit ut essent duodecim cum illo : et ut mitteret eos prdicare. </verse>
+        <verse osisID='Mark.3.15'>Et dedit illis potestatem curandi infirmitates et ejiciendi dmonia. </verse>
+        <verse osisID='Mark.3.16'>Et imposuit Simoni nomen Petrus : </verse>
+        <verse osisID='Mark.3.17'>et Jacobum Zebedi, et Joannem fratrem Jacobi, et imposuit eis nomina Boanerges, quod est, Filii tonitrui : </verse>
+        <verse osisID='Mark.3.18'>et Andram, et Philippum, et Bartholomum, et Matthum, et Thomam, et Jacobum Alphi, et Thaddum, et Simonem Cananum, </verse>
+        <verse osisID='Mark.3.19'>et Judas Iscariotem, qui et tradidit illum.</verse>
+        <verse osisID='Mark.3.20'>Et veniunt ad domum : et convenit iterum turba, ita ut non possent neque panem manducare. </verse>
+        <verse osisID='Mark.3.21'>Et cum audissent sui, exierunt tenere eum : dicebant enim : Quoniam in furorem versus est. </verse>
+        <verse osisID='Mark.3.22'>Et scrib, qui ab Jerosolymis descenderant, dicebant : Quoniam Beelzebub habet, et quia in principe dmoniorum ejicit dmonia.</verse>
+        <verse osisID='Mark.3.23'>Et convocatis eis in parabolis dicebat illis : Quomodo potest Satanas Satanam ejicere ? </verse>
+        <verse osisID='Mark.3.24'>Et si regnum in se dividatur, non potest regnum illud stare. </verse>
+        <verse osisID='Mark.3.25'>Et si domus super semetipsam dispertiatur, non potest domus illa stare. </verse>
+        <verse osisID='Mark.3.26'>Et si Satanas consurrexerit in semetipsum, dispertitus est, et non poterit stare, sed finem habet. </verse>
+        <verse osisID='Mark.3.27'>Nemo potest vasa fortis ingressus in domum diripere, nisi prius fortem alliget, et tunc domum ejus diripiet. </verse>
+        <verse osisID='Mark.3.28'>Amen dico vobis, quoniam omnia dimittentur filiis hominum peccata, et blasphemi quibus blasphemaverint : </verse>
+        <verse osisID='Mark.3.29'>qui autem blasphemaverit in Spiritum Sanctum, non habebit remissionem in ternum, sed reus erit terni delicti. </verse>
+        <verse osisID='Mark.3.30'>Quoniam dicebant : Spiritum immundum habet.</verse>
+        <verse osisID='Mark.3.31'>Et veniunt mater ejus et fratres : et foris stantes miserunt ad eum vocantes eum, </verse>
+        <verse osisID='Mark.3.32'>et sedebat circa eum turba : et dicunt ei : Ecce mater tua et fratres tui foris qurunt te. </verse>
+        <verse osisID='Mark.3.33'>Et respondens eis, ait : Qu est mater mea et fratres mei ? </verse>
+        <verse osisID='Mark.3.34'>Et circumspiciens eos, qui in circuitu ejus sedebant, ait : Ecce mater mea et fratres mei. </verse>
+        <verse osisID='Mark.3.35'>Qui enim fecerit voluntatem Dei, hic frater meus, et soror mea, et mater est. </verse>
+      </chapter>
+      <chapter osisID='Mark.4'>
+        <verse osisID='Mark.4.1'>Et iterum cpit docere ad mare : et congregata est ad eum turba multa, ita ut navim ascendens sederet in mari, et omnis turba circa mare super terram erat : </verse>
+        <verse osisID='Mark.4.2'>et docebat eos in parabolis multa, et dicebat illis in doctrina sua : </verse>
+        <verse osisID='Mark.4.3'>Audite : ecce exiit seminans ad seminandum. </verse>
+        <verse osisID='Mark.4.4'>Et dum seminat, aliud cecidit circa viam, et venerunt volucres cli, et comederunt illud. </verse>
+        <verse osisID='Mark.4.5'>Aliud vero cecidit super petrosa, ubi non habuit terram multam : et statim exortum est, quoniam non habebat altitudinem terr : </verse>
+        <verse osisID='Mark.4.6'>et quando exortus est sol, exstuavit : et eo quod non habebat radicem, exaruit. </verse>
+        <verse osisID='Mark.4.7'>Et aliud cecidit in spinas : et ascenderunt spin, et suffocaverunt illud, et fructum non dedit. </verse>
+        <verse osisID='Mark.4.8'>Et aliud cecidit in terram bonam : et dabat fructum ascendentem et crescentem, et afferebat unum triginta, unum sexaginta, et unum centum. </verse>
+        <verse osisID='Mark.4.9'>Et dicebat : Qui habet aures audiendi, audiat. </verse>
+        <verse osisID='Mark.4.10'>Et cum esset singularis, interrogaverunt eum hi qui cum eo erant duodecim, parabolam. </verse>
+        <verse osisID='Mark.4.11'>Et dicebat eis : Vobis datum est nosse mysterium regni Dei : illis autem, qui foris sunt, in parabolis omnia fiunt : </verse>
+        <verse osisID='Mark.4.12'>ut videntes videant, et non videant : et audientes audiant, et non intelligant : nequando convertantur, et dimittantur eis peccata.</verse>
+        <verse osisID='Mark.4.13'>Et ait illis : Nescitis parabolam hanc ? Et quomodo omnes parabolas cognoscetis ? </verse>
+        <verse osisID='Mark.4.14'>Qui seminat, verbum seminat. </verse>
+        <verse osisID='Mark.4.15'>Hi autem sunt, qui circa viam, ubi seminatur verbum, et cum audierint, confestim venit Satanas, et aufert verbum, quod seminatum est in cordibus eorum. </verse>
+        <verse osisID='Mark.4.16'>Et hi sunt similiter, qui super petrosa seminantur : qui cum audierint verbum, statim cum gaudio accipiunt illud : </verse>
+        <verse osisID='Mark.4.17'>et non habent radicem in se, sed temporales sunt : deinde orta tribulatione et persecutione propter verbum, confestim scandalizantur. </verse>
+        <verse osisID='Mark.4.18'>Et alii sunt qui in spinas seminantur : hi sunt qui verbum audiunt, </verse>
+        <verse osisID='Mark.4.19'>et rumn sculi, et deceptio divitiarum, et circa reliqua concupiscenti intrountes suffocant verbum, et sine fructu efficitur. </verse>
+        <verse osisID='Mark.4.20'>Et hi sunt qui super terram bonam seminati sunt, qui audiunt verbum, et suscipiunt, et fructificant, unum triginta, unum sexaginta, et unum centum.</verse>
+        <verse osisID='Mark.4.21'>Et dicebat illis : Numquid venit lucerna ut sub modo ponatur, aut sub lecto ? nonne ut super candelabrum ponatur ? </verse>
+        <verse osisID='Mark.4.22'>Non est enim aliquid absconditum, quod non manifestetur : nec factum est occultum, sed ut in palam veniat. </verse>
+        <verse osisID='Mark.4.23'>Si quis habet aures audiendi, audiat. </verse>
+        <verse osisID='Mark.4.24'>Et dicebat illis : Videte quid audiatis. In qua mensura mensi fueritis, remetietur vobis, et adjicietur vobis. </verse>
+        <verse osisID='Mark.4.25'>Qui enim habet, dabitur illi : et qui non habet, etiam quod habet auferetur ab eo.</verse>
+        <verse osisID='Mark.4.26'>Et dicebat : Sic est regnum Dei, quemadmodum si homo jaciat sementem in terram, </verse>
+        <verse osisID='Mark.4.27'>et dormiat, et exsurgat nocte et die, et semen germinet, et increscat dum nescit ille. </verse>
+        <verse osisID='Mark.4.28'>Ultro enim terra fructificat, primum herbam, deinde spicam, deinde plenum frumentum in spica. </verse>
+        <verse osisID='Mark.4.29'>Et cum producerit fructus, statim mittit falcem, quoniam adsit messis. </verse>
+        <verse osisID='Mark.4.30'>Et dicebat : Cui assimilabimus regnum Dei ? aut cui parabol comparabimus illud ? </verse>
+        <verse osisID='Mark.4.31'>Sicut granum sinapis, quod cum seminatum fuerit in terra, minus est omnibus seminibus, qu sunt in terra : </verse>
+        <verse osisID='Mark.4.32'>et cum seminatum fuerit, ascendit, et fit majus omnibus oleribus, et facit ramos magnos, ita ut possint sub umbra ejus aves cli habitare. </verse>
+        <verse osisID='Mark.4.33'>Et talibus multis parabolis loquebatur eis verbum, prout poterant audire : </verse>
+        <verse osisID='Mark.4.34'>sine parabola autem non loquebatur eis : seorsum autem discipulis suis disserebat omnia.</verse>
+        <verse osisID='Mark.4.35'>Et ait illis in illa die, cum sero esset factum : Transeamus contra. </verse>
+        <verse osisID='Mark.4.36'>Et dimittentes turbam, assumunt eum ita ut erat in navi : et ali naves erant cum illo. </verse>
+        <verse osisID='Mark.4.37'>Et facta est procella magna venti, et fluctus mittebat in navim, ita ut impleretur navis. </verse>
+        <verse osisID='Mark.4.38'>Et erat ipse in puppi super cervical dormiens : et excitant eum, et dicunt illi : Magister, non ad te pertinet, quia perimus ? </verse>
+        <verse osisID='Mark.4.39'>Et exsurgens comminatus est vento, et dixit mari : Tace, obmutesce. Et cessavit ventus : et facta est tranquillitas magna. </verse>
+        <verse osisID='Mark.4.40'>Et ait illis : Quid timidi estis ? necdum habetis fidem ? et timuerunt timore magno, et dicebant ad alterutrum : Quis, putas, est iste, quia et ventus et mare obediunt ei ? </verse>
+      </chapter>
+      <chapter osisID='Mark.5'>
+        <verse osisID='Mark.5.1'>Et venerunt trans fretum maris in regionem Gerasenorum. </verse>
+        <verse osisID='Mark.5.2'>Et exeunti ei de navi, statim occurrit de monumentis homo in spiritu immundo, </verse>
+        <verse osisID='Mark.5.3'>qui domicilium habebat in monumentis, et neque catenis jam quisquam poterat eum ligare : </verse>
+        <verse osisID='Mark.5.4'>quoniam spe compedibus et catenis vinctus, dirupisset catenas, et compedes comminuisset, et nemo poterat eum domare : </verse>
+        <verse osisID='Mark.5.5'>et semper die ac nocte in monumentis, et in montibus erat, clamans, et concidens se lapidibus. </verse>
+        <verse osisID='Mark.5.6'>Videns autem Jesum a longe, cucurrit, et adoravit eum : </verse>
+        <verse osisID='Mark.5.7'>et clamans voce magna dixit : Quid mihi et tibi, Jesu Fili Dei altissimi ? adjuro te per Deum, ne me torqueas. </verse>
+        <verse osisID='Mark.5.8'>Dicebat enim illi : Exi spiritus immunde ab homine. </verse>
+        <verse osisID='Mark.5.9'>Et interrogabat eum : Quod tibi nomen est ? Et dicit ei : Legio mihi nomen est, quia multi sumus. </verse>
+        <verse osisID='Mark.5.10'>Et deprecabatur eum multum, ne se expelleret extra regionem. </verse>
+        <verse osisID='Mark.5.11'>Erat autem ibi circa montem grex porcorum magnus, pascens. </verse>
+        <verse osisID='Mark.5.12'>Et deprecabantur eum spiritus, dicentes : Mitte nos in porcos ut in eos introamus. </verse>
+        <verse osisID='Mark.5.13'>Et concessit eis statim Jesus. Et exeuntes spiritus immundi introierunt in porcos : et magno impetu grex prcipitatus est in mare ad duo millia, et suffocati sunt in mari. </verse>
+        <verse osisID='Mark.5.14'>Qui autem pascebant eos, fugerunt, et nuntiaverunt in civitatem et in agros. Et egressi sunt videre quid esset factum : </verse>
+        <verse osisID='Mark.5.15'>et veniunt ad Jesum : et vident illum qui a dmonio vexabatur, sedentem, vestitum, et san mentis, et timuerunt. </verse>
+        <verse osisID='Mark.5.16'>Et narraverunt illis, qui viderant, qualiter factum esset ei qui dmonium habuerat, et de porcis. </verse>
+        <verse osisID='Mark.5.17'>Et rogare cperunt eum ut discederet de finibus eorum. </verse>
+        <verse osisID='Mark.5.18'>Cumque ascenderet navim, cpit illum deprecari, qui a dmonio vexatus fuerat, ut esset cum illo, </verse>
+        <verse osisID='Mark.5.19'>et non admisit eum, sed ait illi : Vade in domum tuam ad tuos, et annuntia illis quanta tibi Dominus fecerit, et misertus sit tui. </verse>
+        <verse osisID='Mark.5.20'>Et abiit, et cpit prdicare in Decapoli, quanta sibi fecisset Jesus : et omnes mirabantur. </verse>
+        <verse osisID='Mark.5.21'>Et cum transcendisset Jesus in navi rursum trans fretum, convenit turba multa ad eum, et erat circa mare.</verse>
+        <verse osisID='Mark.5.22'>Et venit quidam de archisynagogis nomine Jairus, et videns eum procidit ad pedes ejus, </verse>
+        <verse osisID='Mark.5.23'>et deprecabatur eum multum, dicens : Quoniam filia mea in extremis est, veni, impone manum super eam, ut salva sit, et vivat. </verse>
+        <verse osisID='Mark.5.24'>Et abiit cum illo, et sequebatur eum turba multa, et comprimebant eum. </verse>
+        <verse osisID='Mark.5.25'>Et mulier, qu erat in profluvio sanguinis annis duodecim, </verse>
+        <verse osisID='Mark.5.26'>et fuerat multa perpessa a compluribus medicis : et erogaverat omnia sua, nec quidquam profecerat, sed magis deterius habebat : </verse>
+        <verse osisID='Mark.5.27'>cum audisset de Jesu, venit in turba retro, et tetigit vestimentum ejus : </verse>
+        <verse osisID='Mark.5.28'>dicebat enim : Quia si vel vestimentum ejus tetigero, salva ero. </verse>
+        <verse osisID='Mark.5.29'>Et confestim siccatus est fons sanguinis ejus : et sensit corpore quia sanata esset a plaga. </verse>
+        <verse osisID='Mark.5.30'>Et statim Jesus in semetipso cognoscens virtutem qu exierat de illo, conversus ad turbam, aiebat : Quis tetigit vestimenta mea ? </verse>
+        <verse osisID='Mark.5.31'>Et dicebant ei discipuli sui : Vides turbam comprimentem te, et dicis : Quis me tetigit ? </verse>
+        <verse osisID='Mark.5.32'>Et circumspiciebat videre eam, qu hoc fecerat. </verse>
+        <verse osisID='Mark.5.33'>Mulier vero timens et tremens, sciens quod factum esset in se, venit et procidit ante eum, et dixit ei omnem veritatem. </verse>
+        <verse osisID='Mark.5.34'>Ille autem dixit ei : Filia, fides tua te salvam fecit : vade in pace, et esto sana a plaga tua. </verse>
+        <verse osisID='Mark.5.35'>Adhuc eo loquente, veniunt ab archisynagago, dicentes : Quia filia tua mortua est : quid ultra vexas magistrum ? </verse>
+        <verse osisID='Mark.5.36'>Jesus autem audito verbo quod dicebatur, ait archisynagogo : Noli timere : tantummodo crede. </verse>
+        <verse osisID='Mark.5.37'>Et non admisit quemquam se sequi nisi Petrum, et Jacobum, et Joannem fratrem Jacobi. </verse>
+        <verse osisID='Mark.5.38'>Et veniunt in domum archisynagogi, et videt tumultum, et flentes, et ejulantes multum. </verse>
+        <verse osisID='Mark.5.39'>Et ingressus, ait illis : Quid turbamini, et ploratis ? puella non est mortua, sed dormit. </verse>
+        <verse osisID='Mark.5.40'>Et irridebant eum. Ipse vero ejectis omnibus assumit patrem, et matrem puell, et qui secum erant, et ingreditur ubi puella erat jacens. </verse>
+        <verse osisID='Mark.5.41'>Et tenens manum puell, ait illi : Talitha cumi, quod est interpretatum : Puella (tibi dico), surge. </verse>
+        <verse osisID='Mark.5.42'>Et confestim surrexit puella, et ambulabat : erat autem annorum duodecim : et obstupuerunt stupore magno. </verse>
+        <verse osisID='Mark.5.43'>Et prcepit illis vehementer ut nemo id sciret : et dixit dari illi manducare. </verse>
+      </chapter>
+      <chapter osisID='Mark.6'>
+        <verse osisID='Mark.6.1'>Et egressus inde, abiit in patriam suam : et sequebantur eum discipuli sui : </verse>
+        <verse osisID='Mark.6.2'>et facto sabbato cpit in synagoga docere : et multi audientes admirabantur in doctrina ejus, dicentes : Unde huic hc omnia ? et qu est sapientia, qu data est illi, et virtutes tales, qu per manus ejus efficiuntur ? </verse>
+        <verse osisID='Mark.6.3'>Nonne hic est faber, filius Mari, frater Jacobi, et Joseph, et Jud, et Simonis ? nonne et sorores ejus hic nobiscum sunt ? Et scandalizabantur in illo. </verse>
+        <verse osisID='Mark.6.4'>Et dicebat illis Jesus : Quia non est propheta sine honore nisi in patria sua, et in domo sua, et in cognatione sua. </verse>
+        <verse osisID='Mark.6.5'>Et non poterat ibi virtutem ullam facere, nisi paucos infirmos impositis manibus curavit : </verse>
+        <verse osisID='Mark.6.6'>et mirabatur propter incredulitatem eorum, et circuibat castella in circuitu docens.</verse>
+        <verse osisID='Mark.6.7'>Et vocavit duodecim : et cpit eos mittere binos, et dabat illis potestatem spirituum immundorum. </verse>
+        <verse osisID='Mark.6.8'>Et prcepit eis ne quid tollerent in via, nisi virgam tantum : non peram, non panem, neque in zona s, </verse>
+        <verse osisID='Mark.6.9'>sed calceatos sandaliis, et ne induerentur duabus tunicis. </verse>
+        <verse osisID='Mark.6.10'>Et dicebat eis : Quocumque introieritis in domum, illic manete donec exeatis inde : </verse>
+        <verse osisID='Mark.6.11'>et quicumque non receperint vos, nec audierint vos, exeuntes inde, excutite pulverem de pedibus vestris in testimonium illis. </verse>
+        <verse osisID='Mark.6.12'>Et exeuntes prdicabant ut pnitentiam agerent : </verse>
+        <verse osisID='Mark.6.13'>et dmonia multa ejiciebant, et ungebant oleo multos gros, et sanabant.</verse>
+        <verse osisID='Mark.6.14'>Et audivit rex Herodes (manifestum enim factum est nomen ejus), et dicebat : Quia Joannes Baptista resurrexit a mortuis : et propterea virtutes operantur in illo. </verse>
+        <verse osisID='Mark.6.15'>Alii autem dicebant : Quia Elias est ; alii vero dicebant : Quia propheta est, quasi unus ex prophetis. </verse>
+        <verse osisID='Mark.6.16'>Quo audito Herodes ait : Quem ego decollavi Joannem, hic a mortuis resurrexit. </verse>
+        <verse osisID='Mark.6.17'>Ipse enim Herodes misit, ac tenuit Joannem, et vinxit eum in carcere propter Herodiadem uxorem Philippi fratris sui, quia duxerat eam. </verse>
+        <verse osisID='Mark.6.18'>Dicebat enim Joannes Herodi : Non licet tibi habere uxorem fratris tui. </verse>
+        <verse osisID='Mark.6.19'>Herodias autem insidiabatur illi : et volebat occidere eum, nec poterat. </verse>
+        <verse osisID='Mark.6.20'>Herodes enim metuebat Joannem, sciens eum virum justum et sanctum : et custodiebat eum, et audito eo multa faciebat, et libenter eum audiebat. </verse>
+        <verse osisID='Mark.6.21'>Et cum dies opportunus accidisset, Herodes natalis sui cnam fecit principibus, et tribunis, et primis Galil : </verse>
+        <verse osisID='Mark.6.22'>cumque introisset filia ipsius Herodiadis, et saltasset, et placuisset Herodi, simulque recumbentibus, rex ait puell : Pete a me quod vis, et dabo tibi : </verse>
+        <verse osisID='Mark.6.23'>et juravit illi : Quia quidquid petieris dabo tibi, licet dimidium regni mei. </verse>
+        <verse osisID='Mark.6.24'>Qu cum exisset, dixit matri su : Quid petam ? At illa dixit : Caput Joannis Baptist. </verse>
+        <verse osisID='Mark.6.25'>Cumque introisset statim cum festinatione ad regem, petivit dicens : Volo ut protinus des mihi in disco caput Joannis Baptist. </verse>
+        <verse osisID='Mark.6.26'>Et contristatus est rex : propter jusjurandum, et propter simul discumbentes, noluit eam contristare : </verse>
+        <verse osisID='Mark.6.27'>sed misso speculatore prcepit afferri caput ejus in disco. Et decollavit eum in carcere, </verse>
+        <verse osisID='Mark.6.28'>et attulit caput ejus in disco : et dedit illud puell, et puella dedit matri su. </verse>
+        <verse osisID='Mark.6.29'>Quo audito, discipuli ejus venerunt, et tulerunt corpus ejus : et posuerunt illud in monumento.</verse>
+        <verse osisID='Mark.6.30'>Et convenientes Apostoli ad Jesum, renuntiaverunt ei omnia qu egerant, et docuerant. </verse>
+        <verse osisID='Mark.6.31'>Et ait illis : Venite seorsum in desertum locum, et requiescite pusillum. Erant enim qui veniebant et redibant multi : et nec spatium manducandi habebant. </verse>
+        <verse osisID='Mark.6.32'>Et ascendentes in navim, abierunt in desertum locum seorsum. </verse>
+        <verse osisID='Mark.6.33'>Et viderunt eos abeuntes, et cognoverunt multi : et pedestres de omnibus civitatibus concurrerunt illuc, et prvenerunt eos. </verse>
+        <verse osisID='Mark.6.34'>Et exiens vidit turbam multam Jesus : et misertus est super eos, quia erant sicut oves non habentes pastorem, et cpit docere multa. </verse>
+        <verse osisID='Mark.6.35'>Et cum jam hora multa fieret, accesserunt discipuli ejus, dicentes : Desertus est locus hic, et jam hora prteriit : </verse>
+        <verse osisID='Mark.6.36'>dimitte illos, ut euntes in proximas villas et vicos, emant sibi cibos, quos manducent. </verse>
+        <verse osisID='Mark.6.37'>Et respondens ait illis : Date illis vos manducare. Et dixerunt ei : Euntes emamus ducentis denariis panes, et dabimus illis manducare. </verse>
+        <verse osisID='Mark.6.38'>Et dicit eis : Quot panes habetis ? ite, et videte. Et cum cognovissent, dicunt : Quinque, et duos pisces. </verse>
+        <verse osisID='Mark.6.39'>Et prcepit illis ut accumbere facerent omnes secundum contubernia super viride fnum. </verse>
+        <verse osisID='Mark.6.40'>Et discubuerunt in partes per centenos et quinquagenos. </verse>
+        <verse osisID='Mark.6.41'>Et acceptis quinque panibus et duobus pisces, intuens in clum, benedixit, et fregit panes, et dedit discipulis suis, ut ponerent ante eos : et duos pisces divisit omnibus. </verse>
+        <verse osisID='Mark.6.42'>Et manducaverunt omnes, et saturati sunt. </verse>
+        <verse osisID='Mark.6.43'>Et sustulerunt reliquias, fragmentorum duodecim cophinos plenos, et de piscibus. </verse>
+        <verse osisID='Mark.6.44'>Erant autem qui manducaverunt quinque millia virorum.</verse>
+        <verse osisID='Mark.6.45'>Et statim cogit discipulos suos ascendere navim, ut prcederent eum trans fretum ad Bethsaidam, dum ipse dimitteret populum. </verse>
+        <verse osisID='Mark.6.46'>Et cum dimisisset eos, abiit in montem orare. </verse>
+        <verse osisID='Mark.6.47'>Et cum sero esset, erat navis in medio mari et ipse solus in terra. </verse>
+        <verse osisID='Mark.6.48'>Et videns eos laborantes in remigando (erat enim ventus contrarius eis) et circa quartam vigiliam noctis venit ad eos ambulans supra mare : et volebat prterire eos. </verse>
+        <verse osisID='Mark.6.49'>At illi ut viderunt eum ambulantem supra mare, putaverunt phantasma esse, et exclamaverunt. </verse>
+        <verse osisID='Mark.6.50'>Omnes enim viderunt eum, et conturbati sunt. Et statim locutus est cum eis, et dixit eis : Confidite, ego sum : nolite timere. </verse>
+        <verse osisID='Mark.6.51'>Et ascendit ad illos in navim, et cessavit ventus. Et plus magis intra se stupebant : </verse>
+        <verse osisID='Mark.6.52'>non enim intellexerunt de panibus : erat enim cor eorum obccatum. </verse>
+        <verse osisID='Mark.6.53'>Et cum transfretassent, venerunt in terram Genesareth, et applicuerunt. </verse>
+        <verse osisID='Mark.6.54'>Cumque egressi essent de navi, continuo cognoverunt eum : </verse>
+        <verse osisID='Mark.6.55'>et percurrentes universam regionem illam, cperunt in grabatis eos, qui se male habebant, circumferre, ubi audiebant eum esse. </verse>
+        <verse osisID='Mark.6.56'>Et quocumque introibat, in vicos, vel in villas aut civitates, in plateis ponebant infirmos, et deprecabantur eum, ut vel fimbriam vestimenti ejus tangerent, et quotquot tangebant eum, salvi fiebant. </verse>
+      </chapter>
+      <chapter osisID='Mark.7'>
+        <verse osisID='Mark.7.1'>Et conveniunt ad eum pharisi, et quidam de scribis, venientes ab Jerosolymis. </verse>
+        <verse osisID='Mark.7.2'>Et cum vidissent quosdam ex discipulis ejus communibus manibus, id est non lotis, manducare panes, vituperaverunt. </verse>
+        <verse osisID='Mark.7.3'>Pharisi enim, et omnes Judi, nisi crebro laverint manus, non manducant, tenentes traditionem seniorum : </verse>
+        <verse osisID='Mark.7.4'>et a foro nisi baptizentur, non comedunt : et alia multa sunt, qu tradita sunt illis servare, baptismata calicum, et urceorum, et ramentorum, et lectorum : </verse>
+        <verse osisID='Mark.7.5'>et interrogabant eum pharisi et scrib : Quare discipuli tui non ambulant juxta traditionem seniorum, sed communibus manibus manducant panem ? </verse>
+        <verse osisID='Mark.7.6'>At ille respondens, dixit eis : Bene prophetavit Isaias de vobis hypocritis, sicut scriptum est : [Populus hic labiis me honorat,cor autem eorum longe est a me :</verse>
+        <verse osisID='Mark.7.7'>in vanum autem me colunt,docentes doctrinas, et prcepta hominum.] </verse>
+        <verse osisID='Mark.7.8'>Relinquentes enim mandatum Dei, tenetis traditionem hominum, baptismata urceorum et calicum : et alia similia his facitis multa. </verse>
+        <verse osisID='Mark.7.9'>Et dicebat illis : Bene irritum facitis prceptum Dei, ut traditionem vestram servetis. </verse>
+        <verse osisID='Mark.7.10'>Moyses enim dixit : Honora patrem tuum, et matrem tuam. Et : Qui maledixerit patri, vel matri, morte moriatur. </verse>
+        <verse osisID='Mark.7.11'>Vos autem dicitis : Si dixerit homo patri, aut matri, Corban (quod est donum) quodcumque ex me, tibi profuerit : </verse>
+        <verse osisID='Mark.7.12'>et ultra non dimittitis eum quidquam facere patri suo, aut matri, </verse>
+        <verse osisID='Mark.7.13'>rescindentes verbum Dei per traditionem vestram, quam tradidistis : et similia hujusmodi multa facitis.</verse>
+        <verse osisID='Mark.7.14'>Et advocans iterum turbam, dicebat illis : Audite me omnes, et intelligite. </verse>
+        <verse osisID='Mark.7.15'>Nihil est extra hominem introiens in eum, quod possit eum coinquare, sed qu de homine procedunt illa sunt qu communicant hominem. </verse>
+        <verse osisID='Mark.7.16'>Si quis habet aures audiendi, audiat. </verse>
+        <verse osisID='Mark.7.17'>Et cum introisset in domum a turba, interrogabant eum discipuli ejus parabolam. </verse>
+        <verse osisID='Mark.7.18'>Et ait illis : Sic et vos imprudentes estis ? Non intelligitis quia omne extrinsecus introiens in hominem, non potest eum communicare : </verse>
+        <verse osisID='Mark.7.19'>quia non intrat in cor ejus, sed in ventrum vadit, et in secessum exit, purgans omnes escas ? </verse>
+        <verse osisID='Mark.7.20'>Dicebat autem, quoniam qu de homine exeunt, illa communicant hominem. </verse>
+        <verse osisID='Mark.7.21'>Ab intus enim de corde hominum mal cogitationes procedunt, adulteria, fornicationes, homicidia, </verse>
+        <verse osisID='Mark.7.22'>furta, avariti, nequiti, dolus, impudiciti, oculus malus, blasphemia, superbia, stultitia. </verse>
+        <verse osisID='Mark.7.23'>Omnia hc mala ab intus procedunt, et communicant hominem.</verse>
+        <verse osisID='Mark.7.24'>Et inde surgens abiit in fines Tyri et Sidonis : et ingressus domum, neminem voluit scire, et non potuit latere. </verse>
+        <verse osisID='Mark.7.25'>Mulier enim statim ut audivit de eo, cujus filia habebat spiritum immundum, intravit, et procidit ad pedes ejus. </verse>
+        <verse osisID='Mark.7.26'>Erat enim mulier gentilis, Syrophnissa genere. Et rogabat eum ut dmonium ejiceret de filia ejus. </verse>
+        <verse osisID='Mark.7.27'>Qui dixit illi : Sine prius saturari filios : non est enim bonum sumere panem filiorum, et mittere canibus. </verse>
+        <verse osisID='Mark.7.28'>At illa respondit, et dixit illi : Utique Domine, nam et catelli comedunt sub mensa de micis puerorum. </verse>
+        <verse osisID='Mark.7.29'>Et ait illi : Propter hunc sermonem vade : exiit dmonium a filia tua. </verse>
+        <verse osisID='Mark.7.30'>Et cum abiisset domum suam, invenit puellam jacentem supra lectum, et dmonium exiisse.</verse>
+        <verse osisID='Mark.7.31'>Et iterum exiens de finibus Tyri, venit per Sidonem ad mare Galil inter medios fines Decapoleos. </verse>
+        <verse osisID='Mark.7.32'>Et adducunt ei surdum, et mutum, et deprecabantur eum, ut imponat illi manum. </verse>
+        <verse osisID='Mark.7.33'>Et apprehendens eum de turba seorsum, misit digitos suos in auriculas ejus : et exspuens, tetigit linguam ejus : </verse>
+        <verse osisID='Mark.7.34'>et suscipiens in clum, ingemuit, et ait illi : Ephphetha, quod est, Adaperire. </verse>
+        <verse osisID='Mark.7.35'>Et statim apert sunt aures ejus, et solutum est vinculum lingu ejus, et loquebatur recte. </verse>
+        <verse osisID='Mark.7.36'>Et prcepit illis ne cui dicerent. Quanto autem eis prcipiebat, tanto magis plus prdicabant : </verse>
+        <verse osisID='Mark.7.37'>et eo amplius admirabantur, dicentes : Bene omnia fecit : et surdos fecit audire, et mutos loqui. </verse>
+      </chapter>
+      <chapter osisID='Mark.8'>
+        <verse osisID='Mark.8.1'>In diebus illis iterum cum turba multa esset, nec haberent quod manducarent, convocatis discipulis, ait illis : </verse>
+        <verse osisID='Mark.8.2'>Misereor super turbam : quia ecce jam triduo sustinent me, nec habent quod manducent : </verse>
+        <verse osisID='Mark.8.3'>et si dimisero eos jejunos in domum suam, deficient in via : quidam enim ex eis de longe venerunt. </verse>
+        <verse osisID='Mark.8.4'>Et responderunt ei discipuli sui : Unde illos quis poterit saturare panibus in solitudine ? </verse>
+        <verse osisID='Mark.8.5'>Et interrogavit eos : Quot panes habetis ? Qui dixerunt : Septem. </verse>
+        <verse osisID='Mark.8.6'>Et prcepit turb discumbere super terram. Et accipiens septem panes, gratias agens fregit, et dabat discipulis suis ut apponerent, et apposuerunt turb. </verse>
+        <verse osisID='Mark.8.7'>Et habebant pisciculos paucos : et ipsos benedixit, et jussit apponi. </verse>
+        <verse osisID='Mark.8.8'>Et manducaverunt, et saturati sunt, et sustulerunt quod superaverat de fragmentis, septem sportas. </verse>
+        <verse osisID='Mark.8.9'>Erant autem qui manducaverunt, quasi quatuor millia : et dimisit eos.</verse>
+        <verse osisID='Mark.8.10'>Et statim ascendens navim cum discipulis suis, venit in partes Dalmanutha. </verse>
+        <verse osisID='Mark.8.11'>Et exierunt pharisi, et cperunt conquirere cum eo, qurentes ab illo signum de clo, tentantes eum. </verse>
+        <verse osisID='Mark.8.12'>Et ingemiscens spiritu, ait : Quid generatio ista signum qurit ? Amen dico vobis, si dabitur generationi isti signum. </verse>
+        <verse osisID='Mark.8.13'>Et dimittens eos, ascendit iterum navim et abiit trans fretum.</verse>
+        <verse osisID='Mark.8.14'>Et obliti sunt panes sumere : et nisi unum panem non habebant secum in navi. </verse>
+        <verse osisID='Mark.8.15'>Et prcipiebat eis, dicens : Videte, et cavete a fermento pharisorum, et fermento Herodis. </verse>
+        <verse osisID='Mark.8.16'>Et cogitabant ad alterutrum, dicentes : quia panes non habemus. </verse>
+        <verse osisID='Mark.8.17'>Quo cognito, ait illis Jesus : Quid cogitatis, quia panes non habetis ? nondum cognoscetis nec intelligitis ? adhuc ccatum habetis cor vestrum ? </verse>
+        <verse osisID='Mark.8.18'>oculos habentes non videtis ? et aures habentes non auditis ? nec recordamini, </verse>
+        <verse osisID='Mark.8.19'>quando quinque panes fregi in quinque millia : quot cophinos fragmentorum plenos sustulistis ? Dicunt ei : Duodecim. </verse>
+        <verse osisID='Mark.8.20'>Quando et septem panes in quatuor millia : quot sportas fragmentorum tulistis ? Et dicunt ei : Septem. </verse>
+        <verse osisID='Mark.8.21'>Et dicebat eis : Quomodo nondum intelligitis ?</verse>
+        <verse osisID='Mark.8.22'>Et veniunt Bethsaidam, et adducunt ei ccum, et rogabant eum ut illum tangeret. </verse>
+        <verse osisID='Mark.8.23'>Et apprehensa manu cci, eduxit eum extra vicum : et exspuens in oculos ejus impositis manibus suis, interrogavit eum si quid videret. </verse>
+        <verse osisID='Mark.8.24'>Et aspiciens, ait : Video homines velut arbores ambulantes. </verse>
+        <verse osisID='Mark.8.25'>Deinde iterum imposuit manus super oculos ejus : et cpit videre : et restitutus est ita ut clare videret omnia. </verse>
+        <verse osisID='Mark.8.26'>Et misit illum in domum suam, dicens : Vade in domum tuam : et si in vicum introieris, nemini dixeris.</verse>
+        <verse osisID='Mark.8.27'>Et egressus est Jesus, et discipuli ejus in castella Csare Philippi : et in via interrogabat discipulos suos, dicens eis : Quem me dicunt esse homines ? </verse>
+        <verse osisID='Mark.8.28'>Qui responderunt illi, dicentes : Joannem Baptistam, alii Eliam, alii vero quasi unum de prophetis. </verse>
+        <verse osisID='Mark.8.29'>Tunc dicit illis : Vos vero quem me esse dicitis ? Respondens Petrus, ait ei : Tu es Christus. </verse>
+        <verse osisID='Mark.8.30'>Et comminatus est eis, ne cui dicerent de illo.</verse>
+        <verse osisID='Mark.8.31'>Et cpit docere eos quoniam oportet Filium hominis pati multa, et reprobari a senioribus, et a summis sacerdotibus et scribis, et occidi : et post tres dies resurgere. </verse>
+        <verse osisID='Mark.8.32'>Et palam verbum loquebatur. Et apprehendens eum Petrus, cpit increpare eum. </verse>
+        <verse osisID='Mark.8.33'>Qui conversus, et videns discipulos suos, comminatus est Petro, dicens : Vade retro me Satana, quoniam non sapis qu Dei sunt, sed qu sunt hominum.</verse>
+        <verse osisID='Mark.8.34'>Et convocata turba cum discipulis suis, dixit eis : Si quis vult me sequi, deneget semetipsum : et tollat crucem suam, et sequatur me. </verse>
+        <verse osisID='Mark.8.35'>Qui enim voluerit animam suam salvam facere, perdet eam : qui autem perdiderit animam suam propter me, et Evangelium, salvam faciet eam. </verse>
+        <verse osisID='Mark.8.36'>Quid enim proderit homini, si lucretur mundum totum et detrimentum anim su faciat ? </verse>
+        <verse osisID='Mark.8.37'>Aut quid dabit homo commutationis pro anima sua ? </verse>
+        <verse osisID='Mark.8.38'>Qui enim me confusus fuerit, et verba mea in generatione ista adultera et peccatrice, et Filius hominis confundetur eum, cum venerit in gloria Patris sui cum angelis sanctis. </verse>
+        <verse osisID='Mark.8.39'>Et dicebat illis : Amen dico vobis, quia sunt quidam de hic stantibus, qui non gustabunt mortem donec videant regnum Dei veniens in virtute. </verse>
+      </chapter>
+      <chapter osisID='Mark.9'>
+        <verse osisID='Mark.9.1'>Et post dies sex assumit Jesus Petrum, et Jacobum, et Joannem, et ducit illos in montem excelsum seorsum solos, et transfiguratus est coram ipsis. </verse>
+        <verse osisID='Mark.9.2'>Et vestimenta ejus facta sunt splendentia, et candida nimis velut nix, qualia fullo non potest super terram candida facere. </verse>
+        <verse osisID='Mark.9.3'>Et apparuit illis Elias cum Moyse : et erant loquentes cum Jesu. </verse>
+        <verse osisID='Mark.9.4'>Et respondens Petrus, ait Jesu : Rabbi, bonum est nos hic esse : et faciamus tria tabernacula, tibi unum, et Moysi unum, et Eli unum. </verse>
+        <verse osisID='Mark.9.5'>Non enim sciebat quid diceret : erant enim timore exterriti. </verse>
+        <verse osisID='Mark.9.6'>Et facta est nubes obumbrans eos : et venit vox de nube, dicens : Hic est Filius meus carissimus : audite illum. </verse>
+        <verse osisID='Mark.9.7'>Et statim circumspicientes, neminem amplius viderunt, nisi Jesum tantum secum. </verse>
+        <verse osisID='Mark.9.8'>Et descendentibus illis de monte, prcepit illis ne cuiquam qu vidissent, narrarent : nisi cum Filius hominis a mortuis resurrexerit. </verse>
+        <verse osisID='Mark.9.9'>Et verbum continuerunt apud se : conquirentes quid esset, cum a mortuis resurrexerit. </verse>
+        <verse osisID='Mark.9.10'>Et interrogabant eum, dicentes : Quid ergo dicunt pharisi et scrib, quia Eliam oportet venire primum ? </verse>
+        <verse osisID='Mark.9.11'>Qui respondens, ait illis : Elias cum venerit primo, restituet omnia : et quomodo scriptum est in Filium hominis, ut multa patiatur et contemnatur. </verse>
+        <verse osisID='Mark.9.12'>Sed dico vobis quia et Elias venit (et fecerunt illi qucumque voluerunt) sicut scriptum est de eo.</verse>
+        <verse osisID='Mark.9.13'>Et veniens ad discipulos suos, vidit turbam magnam circa eos, et scribas conquirentes cum illis. </verse>
+        <verse osisID='Mark.9.14'>Et confestim omnis populus videns Jesum, stupefactus est, et expaverunt, et accurrentes salutabant eum. </verse>
+        <verse osisID='Mark.9.15'>Et interrogavit eos : Quid inter vos conquiritis ? </verse>
+        <verse osisID='Mark.9.16'>Et respondens unus de turba, dixit : Magister, attuli filium meum ad te habentem spiritum mutum : </verse>
+        <verse osisID='Mark.9.17'>qui ubicumque eum apprehenderit, allidit illum, et spumat, et stridet dentibus, et arescit : et dixi discipulis tuis ut ejicerent illum, et non potuerunt. </verse>
+        <verse osisID='Mark.9.18'>Qui respondens eis, dixit : O generatio incredula, quamdiu apud vos ero ? quamdiu vos patiar ? afferte illum ad me. </verse>
+        <verse osisID='Mark.9.19'>Et attulerunt eum. Et cum vidisset eum, statim spiritus conturbavit illum : et elisus in terram, volutabatur spumans. </verse>
+        <verse osisID='Mark.9.20'>Et interrogavit patrem ejus : Quantum temporis est ex quo ei hoc accidit ? At ille ait : Ab infantia : </verse>
+        <verse osisID='Mark.9.21'>et frequenter eum in ignem, et in aquas misit ut eum perderet : sed si quid potes, adjuva nos, misertus nostri. </verse>
+        <verse osisID='Mark.9.22'>Jesus autem ait illi : Si potes credere, omnia possibilia sunt credenti. </verse>
+        <verse osisID='Mark.9.23'>Et continuo exclamans pater pueri, cum lacrimis aiebat : Credo, Domine ; adjuva incredulitatem meam. </verse>
+        <verse osisID='Mark.9.24'>Et cum videret Jesus concurrentem turbam, comminatus est spiritui immundo, dicens illi : Surde et mute spiritus, ego prcipio tibi, exi ab eo : et amplius ne introas in eum. </verse>
+        <verse osisID='Mark.9.25'>Et exclamans, et multum discerpens eum, exiit ab eo, et factus est sicut mortuus, ita ut multi dicerent : Quia mortuus est. </verse>
+        <verse osisID='Mark.9.26'>Jesus autem tenens manum ejus elevavit eum, et surrexit. </verse>
+        <verse osisID='Mark.9.27'>Et cum introisset in domum, discipuli ejus secreto interrogabant eum : Quare nos non potuimus ejicere eum ? </verse>
+        <verse osisID='Mark.9.28'>Et dixit illis : Hoc genus in nullo potest exire, nisi in oratione et jejunio. </verse>
+        <verse osisID='Mark.9.29'>Et inde profecti prtergrediebantur Galilam : nec volebat quemquam scire.</verse>
+        <verse osisID='Mark.9.30'>Docebat autem discipulos suos, et dicebat illis : Quoniam Filius hominis tradetur in manus hominum, et occident eum, et occisus tertia die resurget. </verse>
+        <verse osisID='Mark.9.31'>At illi ignorabant verbum : et timebant interrogare eum.</verse>
+        <verse osisID='Mark.9.32'>Et venerunt Capharnaum. Qui cum domi essent, interrogabat eos : Quid in via tractabatis ? </verse>
+        <verse osisID='Mark.9.33'>At illi tacebant : siquidem in via inter se disputaverunt : quis eorum major esset. </verse>
+        <verse osisID='Mark.9.34'>Et residens vocavit duodecim, et ait illis : Si quis vult primus esse, erit omnium novissimus, et omnium minister. </verse>
+        <verse osisID='Mark.9.35'>Et accipiens puerum, statuit eum in medio eorum : quem cum complexus esset, ait illis : </verse>
+        <verse osisID='Mark.9.36'>Quisquis unum ex hujusmodi pueris receperit in nomine meo, me recipit : et quicumque me susceperit, non me suscipit, sed eum qui misit me.</verse>
+        <verse osisID='Mark.9.37'>Respondit illi Joannes, dicens : Magister, vidimus quemdam in nomine tuo ejicientem dmonia, qui non sequitur nos, et prohibuimus eum. </verse>
+        <verse osisID='Mark.9.38'>Jesus autem ait : Nolite prohibere eum : nemo est enim qui faciat virtutem in nomine meo, et possit cito male loqui de me : </verse>
+        <verse osisID='Mark.9.39'>qui enim non est adversum vos, pro vobis est. </verse>
+        <verse osisID='Mark.9.40'>Quisquis enim potum dederit vobis calicem aqu in nomine meo, quia Christi estis : amen dico vobis, non perdet mercedem suam.</verse>
+        <verse osisID='Mark.9.41'>Et quisquis scandalizaverit unum ex his pusillis credentibus in me : bonum est ei magis si circumdaretur mola asinaria collo ejus, et in mare mitteretur. </verse>
+        <verse osisID='Mark.9.42'>Et si scandalizaverit te manus tua, abscide illam : bonum est tibi debilem introire in vitam, quam duas manus habentem ire in gehennam, in ignem inextinguibilem, </verse>
+        <verse osisID='Mark.9.43'>ubi vermis eorum non moritur, et ignis non extinguitur. </verse>
+        <verse osisID='Mark.9.44'>Et si pes tuus te scandalizat, amputa illum : bonum est tibi claudum introire in vitam ternam, quam duos pedes habentem mitti in gehennam ignis inextinguibilis, </verse>
+        <verse osisID='Mark.9.45'>ubi vermis eorum non moritur, et ignis non extinguitur. </verse>
+        <verse osisID='Mark.9.46'>Quod si oculus tuus scandalizat te, ejice eum : bonum est tibi luscum introire in regnum Dei, quam duos oculos habentem mitti in gehennam ignis, </verse>
+        <verse osisID='Mark.9.47'>ubi vermis eorum non moritur, et ignis non extinguitur. </verse>
+        <verse osisID='Mark.9.48'>Omnis enim igne salietur, et omnis victima sale salietur. </verse>
+        <verse osisID='Mark.9.49'>Bonum est sal : quod si sal insulsum fuerit, in quo illud condietis ? Habete in vobis sal, et pacem habete inter vos. </verse>
+      </chapter>
+      <chapter osisID='Mark.10'>
+        <verse osisID='Mark.10.1'>Et inde exsurgens venit in fines Jud ultra Jordanem : et conveniunt iterum turb ad eum : et sicut consueverat, iterum docebat illos. </verse>
+        <verse osisID='Mark.10.2'>Et accedentes pharisi interrogabant eum : Si licet vero uxorem dimittere : tentantes eum. </verse>
+        <verse osisID='Mark.10.3'>At ille respondens, dixit eis : Quid vobis prcepit Moyses ? </verse>
+        <verse osisID='Mark.10.4'>Qui dixerunt : Moyses permisit libellum repudii scribere, et dimittere. </verse>
+        <verse osisID='Mark.10.5'>Quibus respondens Jesus, ait : Ad duritiam cordis vestri scripsit vobis prceptum istud : </verse>
+        <verse osisID='Mark.10.6'>ab initio autem creatur masculum et feminam fecit eos Deus. </verse>
+        <verse osisID='Mark.10.7'>Propter hoc relinquet homo patrem suum et matrem, et adhrebit ad uxorem suam : </verse>
+        <verse osisID='Mark.10.8'>et erunt duo in carne una. Itaque jam non sunt duo, sed una caro. </verse>
+        <verse osisID='Mark.10.9'>Quod ergo Deus conjunxit, homo non separet. </verse>
+        <verse osisID='Mark.10.10'>Et in domo iterum discipuli ejus de eodem interrogaverunt eum. </verse>
+        <verse osisID='Mark.10.11'>Et ait illis : Quicumque dimiserit uxorem suam, et aliam duxerit, adulterium committit super eam. </verse>
+        <verse osisID='Mark.10.12'>Et si uxor dimiserit virum suum, et alii nupserit, mchatur.</verse>
+        <verse osisID='Mark.10.13'>Et offerebant illi parvulos ut tangeret illos. Discipuli autem comminabantur offerentibus. </verse>
+        <verse osisID='Mark.10.14'>Quos cum videret Jesus, indigne tulit, et ait illis : Sinite parvulos venire ad me, et ne prohibueritis eos : talium enim est regnum Dei. </verse>
+        <verse osisID='Mark.10.15'>Amen dico vobis : Quisquis non receperit regnum Dei velut parvulus, non intrabit in illud. </verse>
+        <verse osisID='Mark.10.16'>Et complexans eos, et imponens manus super illos, benedicebat eos.</verse>
+        <verse osisID='Mark.10.17'>Et cum egressus esset in viam, procurrens quidam genu flexo ante eum, rogabat eum : Magister bone, quid faciam ut vitam ternam percipiam ? </verse>
+        <verse osisID='Mark.10.18'>Jesus autem dixit ei : Quid me dicis bonum ? nemo bonus, nisi unus Deus. </verse>
+        <verse osisID='Mark.10.19'>Prcepta nosti : ne adulteres, ne occidas, ne fureris, ne falsum testimonium dixeris, ne fraudum feceris, honora patrem tuum et matrem. </verse>
+        <verse osisID='Mark.10.20'>At ille respondens, ait illi : Magister, hc omnia observavi a juventute mea. </verse>
+        <verse osisID='Mark.10.21'>Jesus autem intuitus eum, dilexit eum, et dixit ei : Unum tibi deest : vade, qucumque habes vende, et da pauperibus, et habebis thesaurum in clo : et veni, sequere me. </verse>
+        <verse osisID='Mark.10.22'>Qui contristatus in verbo, abiit mrens : erat enim habens multas possessiones. </verse>
+        <verse osisID='Mark.10.23'>Et circumspiciens Jesus, ait discipulis suis : Quam difficile qui pecunias habent, in regnum Dei introibunt ! </verse>
+        <verse osisID='Mark.10.24'>Discipuli autem obstupescebant in verbis ejus. At Jesus rursus respondens ait illis : Filioli, quam difficile est, confidentes in pecuniis, in regnum Dei introire ! </verse>
+        <verse osisID='Mark.10.25'>Facilius est camelum per foramen acus transire, quam divitem intrare in regnum Dei. </verse>
+        <verse osisID='Mark.10.26'>Qui magis admirabantur, dicentes ad semetipsos : Et quis potest salvus fieri ? </verse>
+        <verse osisID='Mark.10.27'>Et intuens illos Jesus, ait : Apud homines impossibile est, sed non apud Deum : omnia enim possibilia sunt apud Deum.</verse>
+        <verse osisID='Mark.10.28'>Et cpit ei Petrus dicere : Ecce nos dimisimus omnia, et secuti sumus te. </verse>
+        <verse osisID='Mark.10.29'>Respondens Jesus, ait : Amen dico vobis : Nemo est qui reliquerit domum, aut fratres, aut sorores, aut patrem, aut matrem, aut filios, aut agros propter me et propter Evangelium, </verse>
+        <verse osisID='Mark.10.30'>qui non accipiat centies tantum, nunc in tempore hoc : domos, et fratres, et sorores, et matres, et filios, et agros, cum persecutionibus, et in sculo futuro vitam ternam. </verse>
+        <verse osisID='Mark.10.31'>Multi autem erunt primi novissimi, et novissimi primi.</verse>
+        <verse osisID='Mark.10.32'>Erant autem in via ascendentes Jerosolymam : et prcedebat illos Jesus, et stupebant : et sequentes timebant. Et assumens iterum duodecim, cpit illis dicere qu essent ei eventura. </verse>
+        <verse osisID='Mark.10.33'>Quia ecce ascendimus Jerosolymam, et Filius hominis tradetur principibus sacerdotum, et scribis, et senioribus, et damnabunt eum morte, et tradent eum gentibus : </verse>
+        <verse osisID='Mark.10.34'>et illudent ei, et conspuent eum, et flagellabunt eum, et interficient eum : et tertia die resurget.</verse>
+        <verse osisID='Mark.10.35'>Et accedunt ad eum Jacobus et Joannes filii Zebedi, dicentes : Magister, volumus ut quodcumque petierimus, facias nobis. </verse>
+        <verse osisID='Mark.10.36'>At ille dixit eis : Quid vultis ut faciam vobis ? </verse>
+        <verse osisID='Mark.10.37'>Et dixerunt : Da nobis ut unus ad dexteram tuam, et alius ad sinistram tuam sedeamus in gloria tua. </verse>
+        <verse osisID='Mark.10.38'>Jesus autem ait eis : Nescitis quid petatis : potestis bibere calicem, quem ego bibo, aut baptismo, quo ego baptizor, baptizari ? </verse>
+        <verse osisID='Mark.10.39'>At illi dixerunt ei : Possumus. Jesus autem ait eis : Calicem quidem, quem ego bibo, bibetis ; et baptismo, quo ego baptizor, baptizabimini : </verse>
+        <verse osisID='Mark.10.40'>sedere autem ad dexteram meam, vel ad sinistram, non est meum dare vobis, sed quibus paratum est. </verse>
+        <verse osisID='Mark.10.41'>Et audientes decem, cperunt indignari de Jacobo et Joanne. </verse>
+        <verse osisID='Mark.10.42'>Jesus autem vocans eos, ait illis : Scitis quia hi, qui videntur principari gentibus, dominantur eis : et principes eorum potestatem habent ipsorum. </verse>
+        <verse osisID='Mark.10.43'>Non ita est autem in vobis, sed quicumque voluerit fieri major, erit vester minister : </verse>
+        <verse osisID='Mark.10.44'>et quicumque voluerit in vobis primus esse, erit omnium servus. </verse>
+        <verse osisID='Mark.10.45'>Nam et Filius hominis non venit ut ministraretur ei, sed ut ministraret, et daret animam suam redemptionem pro multis.</verse>
+        <verse osisID='Mark.10.46'>Et veniunt Jericho : et proficiscente eo de Jericho, et discipulis ejus, et plurima multitudine, filius Tim Bartimus ccus, sedebat juxta viam mendicans. </verse>
+        <verse osisID='Mark.10.47'>Qui cum audisset quia Jesus Nazarenus est, cpit clamare, et dicere : Jesu fili David, miserere mei. </verse>
+        <verse osisID='Mark.10.48'>Et comminabantur ei multi ut taceret. At ille multo magis clamabat : Fili David, miserere mei. </verse>
+        <verse osisID='Mark.10.49'>Et stans Jesus prcepit illum vocari. Et vocant ccum, dicentes ei : Animquior esto : surge, vocat te. </verse>
+        <verse osisID='Mark.10.50'>Qui projecto vestimento suo exiliens, venit ad eum. </verse>
+        <verse osisID='Mark.10.51'>Et respondens Jesus dixit illi : Quid tibi vis faciam ? Ccus autem dixit ei : Rabboni, ut videam. </verse>
+        <verse osisID='Mark.10.52'>Jesus autem ait illi : Vade, fides tua te salvum fecit. Et confestim vidit, et sequebatur eum in via. </verse>
+      </chapter>
+      <chapter osisID='Mark.11'>
+        <verse osisID='Mark.11.1'>Et cum appropinquarent Jerosolym et Bethani ad montem Olivarum, mittit duos ex discipulis suis, </verse>
+        <verse osisID='Mark.11.2'>et ait illis : Ite in castellum, quod contra vos est, et statim intrountes illuc, invenietis pullum ligatum, super quem nemo adhuc hominum sedit : solvite illum, et adducite. </verse>
+        <verse osisID='Mark.11.3'>Et si quis vobis dixerit : Quid facitis ? dicite, quia Domino necessarius est : et continuo illum dimittet huc. </verse>
+        <verse osisID='Mark.11.4'>Et abeuntes invenerunt pullum ligatum ante januam foris in bivio : et solvunt eum. </verse>
+        <verse osisID='Mark.11.5'>Et quidam de illic stantibus dicebant illis : Quid facitis solventes pullum ? </verse>
+        <verse osisID='Mark.11.6'>Qui dixerunt eis sicut prceperat illis Jesus, et dimiserunt eis. </verse>
+        <verse osisID='Mark.11.7'>Et duxerunt pullum ad Jesum : et imponunt illi vestimenta sua, et sedit super eum. </verse>
+        <verse osisID='Mark.11.8'>Multi autem vestimenta sua straverunt in via : alii autem frondes cdebant de arboribus, et sternebant in via. </verse>
+        <verse osisID='Mark.11.9'>Et qui pribant, et qui sequebantur, clamabant, dicentes : Hosanna : benedictus qui venit in nomine Domini : </verse>
+        <verse osisID='Mark.11.10'>benedictum quod venit regnum patris nostri David : hosanna in excelsis. </verse>
+        <verse osisID='Mark.11.11'>Et introivit Jerosolymam in templum : et circumspectis omnibus, cum jam vespera esset hora, exiit in Bethaniam cum duodecim.</verse>
+        <verse osisID='Mark.11.12'>Et alia die cum exirent a Bethania, esuriit. </verse>
+        <verse osisID='Mark.11.13'>Cumque vidisset a longe ficum habentem folia, venit si quid forte inveniret in ea : et cum venisset ad eam, nihil invenit prter folia : non enim erat tempus ficorum. </verse>
+        <verse osisID='Mark.11.14'>Et respondens dixit ei : Jam non amplius in ternum ex te fructum quisquam manducet. Et audiebant discipuli ejus.</verse>
+        <verse osisID='Mark.11.15'>Et veniunt in Jerosolymam. Et cum introisset in templum, cpit ejicere vendentes et ementes in templo : et mensas numulariorum, et cathedras vendentium columbas evertit : </verse>
+        <verse osisID='Mark.11.16'>et non sinebat ut quisquam transferret vas per templum : </verse>
+        <verse osisID='Mark.11.17'>et docebat, dicens eis : Nonne scriptum est : Quia domus mea, domus orationis vocabitur omnibus gentibus ? vos autem fecistis eam speluncam latronum. </verse>
+        <verse osisID='Mark.11.18'>Quo audito principes sacerdotum et scrib, qurebant quomodo eum perderent : timebant enim eum, quoniam universa turba admirabatur super doctrina ejus. </verse>
+        <verse osisID='Mark.11.19'>Et cum vespera facta esset, egrediebatur de civitate.</verse>
+        <verse osisID='Mark.11.20'>Et cum mane transirent, viderunt ficum aridam factam a radicibus. </verse>
+        <verse osisID='Mark.11.21'>Et recordatus Petrus, dixit ei : Rabbi, ecce ficus, cui maledixisti, aruit. </verse>
+        <verse osisID='Mark.11.22'>Et respondens Jesus ait illis : Habete fidem Dei. </verse>
+        <verse osisID='Mark.11.23'>Amen dico vobis, quia quicumque dixerit huic monti : Tollere, et mittere in mare, et non hsitaverit in corde suo, sed crediderit, quia quodcumque dixerit fiat, fiat ei. </verse>
+        <verse osisID='Mark.11.24'>Propterea dico vobis, omnia qucumque orantes petitis, credite quia accipietis, et evenient vobis. </verse>
+        <verse osisID='Mark.11.25'>Et cum stabitis ad orandum, dimittite si quis habetis adversus aliquem : ut et Pater vester, qui in clis est, dimittat vobis peccata vestra. </verse>
+        <verse osisID='Mark.11.26'>Quod si vos non dimiseritis : nec Pater vester, qui in clis est, dimittet vobis peccata vestra.</verse>
+        <verse osisID='Mark.11.27'>Et veniunt rursus Jerosolymam. Et cum ambularet in templo, accedunt ad eum summi sacerdotes, et scrib, et seniores : </verse>
+        <verse osisID='Mark.11.28'>et dicunt ei : In qua potestate hc facis ? et quis dedit tibi hanc potestatem ut ista facias ? </verse>
+        <verse osisID='Mark.11.29'>Jesus autem respondens, ait illis : Interrogabo vos et ego unum verbum, et respondete mihi : et dicam vobis in qua potestate hc faciam. </verse>
+        <verse osisID='Mark.11.30'>Baptismus Joannis, de clo erat, an ex hominibus ? Respondete mihi. </verse>
+        <verse osisID='Mark.11.31'>At illi cogitabant secum, dicentes : Si dixerimus : De clo, dicet : Quare non credidistis ei ? </verse>
+        <verse osisID='Mark.11.32'>Si dixerimus : Ex hominibus, timemus populum : omnes enim habebant Joannem quia vere propheta esset. </verse>
+        <verse osisID='Mark.11.33'>Et respondentes dicunt Jesu : Nescimus. Et respondens Jesus ait illis : Neque ego dico vobis in qua potestate hc faciam. </verse>
+      </chapter>
+      <chapter osisID='Mark.12'>
+        <verse osisID='Mark.12.1'>Et cpit illis in parabolis loqui : Vineam pastinavit homo, et circumdedit sepem, et fodit lacum, et dificavit turrim, et locavit eam agricolis, et peregre profectus est. </verse>
+        <verse osisID='Mark.12.2'>Et misit ad agricolas in tempore servum ut ab agricolis acciperet de fructu vine. </verse>
+        <verse osisID='Mark.12.3'>Qui apprehensum eum ceciderunt, et dimiserunt vacuum. </verse>
+        <verse osisID='Mark.12.4'>Et iterum misit ad illos alium servum : et illum in capite vulneraverunt, et contumeliis affecerunt. </verse>
+        <verse osisID='Mark.12.5'>Et rursum alium misit, et illum occiderunt : et plures alios : quosdam cdentes, alios vero occidentes. </verse>
+        <verse osisID='Mark.12.6'>Adhuc ergo unum habens filium carissimum, et illum misit ad eos novissimum, dicens : Quia reverebuntur filium meum. </verse>
+        <verse osisID='Mark.12.7'>Coloni autem dixerunt ad invicem : Hic est hres : venite, occidamus eum : et nostra erit hreditas. </verse>
+        <verse osisID='Mark.12.8'>Et apprehendentes eum, occiderunt : et ejecerunt extra vineam. </verse>
+        <verse osisID='Mark.12.9'>Quid ergo faciet dominus vine ? Veniet, et perdet colonos, et dabit vineam aliis. </verse>
+        <verse osisID='Mark.12.10'>Nec scripturam hanc legistis : Lapidem quem reprobaverunt dificantes, hic factus est in caput anguli : </verse>
+        <verse osisID='Mark.12.11'>a Domino factum est istud, et est mirabile in oculis nostris ? </verse>
+        <verse osisID='Mark.12.12'>Et qurebant eum tenere : et timuerunt turbam : cognoverunt enim quoniam ad eos parabolam hanc dixerit. Et relicto eo abierunt.</verse>
+        <verse osisID='Mark.12.13'>Et mittunt ad eum quosdam ex pharisis, et herodianis, ut eum caperent in verbo. </verse>
+        <verse osisID='Mark.12.14'>Qui venientes dicunt ei : Magister, scimus quia verax es, et non curas quemquam : nec enim vides in faciem hominum, sed in veritate viam Dei doces. Licet dari tributum Csari, an non dabimus ? </verse>
+        <verse osisID='Mark.12.15'>Qui sciens versutiam illorum, ait illos : Quid me tentatis ? afferte mihi denarium ut videam. </verse>
+        <verse osisID='Mark.12.16'>At illi attulerunt ei. Et ait illis : Cujus est imago hc, et inscriptio ? Dicunt ei : Csaris. </verse>
+        <verse osisID='Mark.12.17'>Respondens autem Jesus dixit illis : Reddite igitur qu sunt Csaris, Csari : et qu sunt Dei, Deo. Et mirabantur super eo.</verse>
+        <verse osisID='Mark.12.18'>Et venerunt ad eum sadduci, qui dicunt resurrectionem non esse : et interrogabant eum, dicentes : </verse>
+        <verse osisID='Mark.12.19'>Magister, Moyses nobis scripsit, ut si cujus frater mortuus fuerit, et dimiserit uxorem, et filios non reliquerit, accipiat frater ejus uxorem ipsius, et resuscitet semen fratri suo. </verse>
+        <verse osisID='Mark.12.20'>Septem ergo fratres erant : et primus accepit uxorem, et mortuus est non relicto semine. </verse>
+        <verse osisID='Mark.12.21'>Et secundus accepit eam, et mortuus est : et nec iste reliquit semen. Et tertius similiter. </verse>
+        <verse osisID='Mark.12.22'>Et acceperunt eam similiter septem : et non reliquerunt semen. Novissima omnium defuncta est et mulier. </verse>
+        <verse osisID='Mark.12.23'>In resurrectione ergo cum resurrexerint, cujus de his erit uxor ? septem enim habuerunt eam uxorem. </verse>
+        <verse osisID='Mark.12.24'>Et respondens Jesus, ait illis : Nonne ideo erratis, non scientes Scripturas, neque virtutem Dei ? </verse>
+        <verse osisID='Mark.12.25'>Cum enim a mortuis resurrexerint, neque nubent, neque nubentur, sed sunt sicut angeli in clis. </verse>
+        <verse osisID='Mark.12.26'>De mortuis autem quod resurgant, non legistis in libro Moysi, super rubum, quomodo dixerit illi Deus, inquiens : Ego sum Deus Abraham, et Deus Isaac, et Deus Jacob ? </verse>
+        <verse osisID='Mark.12.27'>Non est Deus mortuorum, sed vivorum. Vos ergo multum erratis.</verse>
+        <verse osisID='Mark.12.28'>Et accessit unus de scribis, qui audierat illos conquirentes, et videns quoniam bene illis responderit, interrogavit eum quod esset primum omnium mandatum. </verse>
+        <verse osisID='Mark.12.29'>Jesus autem respondit ei : Quia primum omnium mandatum est : Audi Isral, Dominus Deus tuus, Deus unus est : </verse>
+        <verse osisID='Mark.12.30'>et diliges Dominum Deum tuum ex tota corde tuo, et ex tota anima tua, et ex tota mente tua, et ex tota virtute tua. Hoc est primum mandatum. </verse>
+        <verse osisID='Mark.12.31'>Secundum autem simile est illi : Diliges proximum tuum tamquam teipsum. Majus horum aliud mandatum non est. </verse>
+        <verse osisID='Mark.12.32'>Et ait illi scriba : Bene, Magister, in veritate dixisti, quia unus est Deus, et non est alius prter eum. </verse>
+        <verse osisID='Mark.12.33'>Et ut diligatur ex toto corde, et ex toto intellectu, et ex tota anima, et ex tota fortitudine, et diligere proximum tamquam seipsum, majus est omnibus holocautomatibus, et sacrificiis. </verse>
+        <verse osisID='Mark.12.34'>Jesus autem videns quod sapienter respondisset, dixit illi : Non es longe a regno Dei. Et nemo jam audebat eum interrogare.</verse>
+        <verse osisID='Mark.12.35'>Et respondens Jesus dicebat, docens in templo : Quomodo dicunt scrib Christum filium esse David ? </verse>
+        <verse osisID='Mark.12.36'>Ipse enim David dicit in Spiritu Sancto : Dixit Dominus Domino meo : Sede a dextris meis, donec ponam inimicos tuos scabellum pedum tuorum. </verse>
+        <verse osisID='Mark.12.37'>Ipse ergo David dicit eum Dominum, et unde est filius ejus ? Et multa turba eum libenter audivit. </verse>
+        <verse osisID='Mark.12.38'>Et dicebat eis in doctrina sua : Cavete a scribis, qui volunt in stolis ambulare, et salutari in foro, </verse>
+        <verse osisID='Mark.12.39'>et in primis cathedris sedere in synagogis, et primos discubitus in cnis : </verse>
+        <verse osisID='Mark.12.40'>qui devorant domos viduarum sub obtentu prolix orationis : hi accipient prolixius judicium.</verse>
+        <verse osisID='Mark.12.41'>Et sedens Jesus contra gazophylacium, aspiciebat quomodo turba jactaret s in gazophylacium, et multi divites jactabant multa. </verse>
+        <verse osisID='Mark.12.42'>Cum venisset autem vidua una pauper, misit duo minuta, quod est quadrans, </verse>
+        <verse osisID='Mark.12.43'>et convocans discipulos suos, ait illis : Amen dico vobis, quoniam vidua hc pauper plus omnibus misit, qui miserunt in gazophylacium. </verse>
+        <verse osisID='Mark.12.44'>Omnes enim ex eo, quod abundabat illis, miserunt : hc vero de penuria sua omnia qu habuit misit totum victum suum. </verse>
+      </chapter>
+      <chapter osisID='Mark.13'>
+        <verse osisID='Mark.13.1'>Et cum egrederetur de templo, ait illi unus ex discipulis suis : Magister, aspice quales lapides, et quales structur. </verse>
+        <verse osisID='Mark.13.2'>Et respondens Jesus, ait illi : Vides has omnes magnas dificationes ? Non relinquetur lapis super lapidem, qui non destruatur.</verse>
+        <verse osisID='Mark.13.3'>Et cum sederet in monte Olivarum contra templum, interrogabant eum separatim Petrus, et Jacobus, et Joannes, et Andreas : </verse>
+        <verse osisID='Mark.13.4'>Dic nobis, quando ista fient ? et quod signum erit, quando hc omnia incipient consummari ? </verse>
+        <verse osisID='Mark.13.5'>Et respondens Jesus cpit dicere illis : Videte ne quid vos seducat : </verse>
+        <verse osisID='Mark.13.6'>multi enim venient in nomine meo, dicentes quia ego sum : et multos seducent. </verse>
+        <verse osisID='Mark.13.7'>Cum audieritis autem bella, et opiniones bellorum, ne timueritis : oportet enim hc fieri : sed nondum finis. </verse>
+        <verse osisID='Mark.13.8'>Exsurget enim gens contra gentem, et regnum super regnum, et erunt terrmotus per loca, et fames. Initium dolorum hc.</verse>
+        <verse osisID='Mark.13.9'>Videte autem vosmetipsos. Tradent enim vos in consiliis, et in synagogis vapulabitis, et ante prsides et reges stabitis propter me, in testimonium illis. </verse>
+        <verse osisID='Mark.13.10'>Et in omnes gentes primum oportet prdicari Evangelium. </verse>
+        <verse osisID='Mark.13.11'>Et cum duxerint vos tradentes, nolite prcogitare quid loquamini : sed quod datum vobis fuerit in illa hora, id loquimini : non enim vos estis loquentes, sed Spiritus Sanctus. </verse>
+        <verse osisID='Mark.13.12'>Tradet autem frater fratrem in mortem, et pater filium : et consurgent filii in parentes, et morte afficient eos. </verse>
+        <verse osisID='Mark.13.13'>Et eritis odio omnibus propter nomen meum. Qui autem sustinuerit in finem, hic salvus erit.</verse>
+        <verse osisID='Mark.13.14'>Cum autem videritis abominationem desolationis stantem, ubi non debet, qui legit, intelligat : tunc qui in Juda sunt, fugiant in montes : </verse>
+        <verse osisID='Mark.13.15'>et qui super tectum, ne descendat in domum, nec introat ut tollat quid de domo sua : </verse>
+        <verse osisID='Mark.13.16'>et qui in agro erit, non revertatur retro tollere vestimentum suum. </verse>
+        <verse osisID='Mark.13.17'>V autem prgnantibus et nutrientibus in illis diebus.</verse>
+        <verse osisID='Mark.13.18'>Orate vero ut hieme non fiant. </verse>
+        <verse osisID='Mark.13.19'>Erunt enim dies illi tribulationes tales quales non fuerunt ab initio creatur, quam condidit Deus usque nunc, neque fient. </verse>
+        <verse osisID='Mark.13.20'>Et nisi breviasset Dominus dies, non fuisset salva omnis caro : sed propter electos, quos elegit, breviavit dies. </verse>
+        <verse osisID='Mark.13.21'>Et tunc si quis vobis dixerit : Ecce hic est Christus, ecce illic, ne credideritis. </verse>
+        <verse osisID='Mark.13.22'>Exsurgent enim pseudochristi et pseudoprophet, et dabunt signa et portenta ad seducendos, si fieri potest, etiam electos. </verse>
+        <verse osisID='Mark.13.23'>Vos ergo videte : ecce prdixi vobis omnia.</verse>
+        <verse osisID='Mark.13.24'>Sed in illis diebus, post tribulationem illam, sol contenebrabitur, et luna non dabit splendorem suum : </verse>
+        <verse osisID='Mark.13.25'>et stell cli erunt decidentes, et virtutes, qu in clis sunt, movebuntur. </verse>
+        <verse osisID='Mark.13.26'>Et tunc videbunt Filium hominis venientem in nubibus cum virtute multa et gloria. </verse>
+        <verse osisID='Mark.13.27'>Et tunc mittet angelos suos, et congregabit electos suos a quatuor ventis, a summo terr usque ad summum cli.</verse>
+        <verse osisID='Mark.13.28'>A ficu autem discite parabolam. Cum jam ramus ejus tener fuerit, et nata fuerint folia, cognoscitis quia in proximo sit stas : </verse>
+        <verse osisID='Mark.13.29'>sic et vos cum videritis hc fieri, scitote quod in proximo sit, in ostiis. </verse>
+        <verse osisID='Mark.13.30'>Amen dico vobis, quoniam non transibit generatio hc, donec omnia ista fiant. </verse>
+        <verse osisID='Mark.13.31'>Clum et terra transibunt, verba autem mea non transibunt.</verse>
+        <verse osisID='Mark.13.32'>De die autem illo vel hora nemo scit, neque angeli in clo, neque Filius, nisi Pater. </verse>
+        <verse osisID='Mark.13.33'>Videte, vigilate, et orate : nescitis enim quando tempus sit. </verse>
+        <verse osisID='Mark.13.34'>Sicut homo qui peregre profectus reliquit domum suam, et dedit servis suis potestatem cujusque operis, et janitori prcepit ut vigilet, </verse>
+        <verse osisID='Mark.13.35'>vigilate ergo (nescitis enim quando dominus domus veniat : sero, an media nocte, an galli cantu, an mane), </verse>
+        <verse osisID='Mark.13.36'>ne, cum venerit repente, inveniat vos dormientes. </verse>
+        <verse osisID='Mark.13.37'>Quod autem vobis dico, omnibus dico : Vigilate. </verse>
+      </chapter>
+      <chapter osisID='Mark.14'>
+        <verse osisID='Mark.14.1'>Erat autem Pascha et azyma post biduum : et qurebant summi sacerdotes et scrib quomodo eum dolo tenerent, et occiderent. </verse>
+        <verse osisID='Mark.14.2'>Dicebant autem : Non in die festo, ne forte tumultus fieret in populo.</verse>
+        <verse osisID='Mark.14.3'>Et cum esset Bethani in domo Simonis leprosi, et recumberet, venit mulier habens alabastrum unguenti nardi spicati pretiosi : et fracto alabastro, effudit super caput ejus. </verse>
+        <verse osisID='Mark.14.4'>Erant autem quidam indigne ferentes intra semetipsos, et dicentes : Ut quid perditio ista unguenti facta est ? </verse>
+        <verse osisID='Mark.14.5'>poterat enim unguentum istud venundari plus quam trecentis denariis, et dari pauperibus. Et fremebant in eam. </verse>
+        <verse osisID='Mark.14.6'>Jesus autem dixit : Sinite eam, quid illi molesti estis ? Bonum opus operata est in me : </verse>
+        <verse osisID='Mark.14.7'>semper enim pauperes habetis vobiscum : et cum volueritis, potestis illis benefacere : me autem non semper habetis. </verse>
+        <verse osisID='Mark.14.8'>Quod habuit hc, fecit : prvenit ungere corpus meum in sepulturam. </verse>
+        <verse osisID='Mark.14.9'>Amen dico vobis : Ubicumque prdicatum fuerit Evangelium istud in universo mundo, et quod fecit hc, narrabitur in memoriam ejus.</verse>
+        <verse osisID='Mark.14.10'>Et Judas Iscariotes, unus de duodecim, abiit ad summos sacerdotes, ut proderet eum illis. </verse>
+        <verse osisID='Mark.14.11'>Qui audientes gavisi sunt : et promiserunt ei pecuniam se daturos. Et qurebat quomodo illum opportune traderet.</verse>
+        <verse osisID='Mark.14.12'>Et primo die azymorum quando Pascha immolabant, dicunt ei discipuli : Quo vis eamus, et paremus tibi ut manduces Pascha ? </verse>
+        <verse osisID='Mark.14.13'>Et mittit duos ex discipulis suis, et dicit eis : Ite in civitatem, et occurret vobis homo lagenam aqu bajulans : sequimini eum, </verse>
+        <verse osisID='Mark.14.14'>et quocumque introierit, dicite domino domus, quia magister dicit : Ubi est refectio mea, ubi Pascha cum discipulis meis manducem ? </verse>
+        <verse osisID='Mark.14.15'>Et ipse vobis demonstrabit cnaculum grande, stratum : et illic parate nobis. </verse>
+        <verse osisID='Mark.14.16'>Et abierunt discipuli ejus, et venerunt in civitatem : et invenerunt sicut dixerat illis, et paraverunt Pascha. </verse>
+        <verse osisID='Mark.14.17'>Vespere autem facto, venit cum duodecim. </verse>
+        <verse osisID='Mark.14.18'>Et discumbentibus eis, et manducantibus, ait Jesus : Amen dico vobis, quia unus ex vobis tradet me, qui manducat mecum. </verse>
+        <verse osisID='Mark.14.19'>At illi cperunt contristari, et dicere ei singulatim : Numquid ego ? </verse>
+        <verse osisID='Mark.14.20'>Qui ait illis : Unus ex duodecim, qui intingit mecum manum in catino. </verse>
+        <verse osisID='Mark.14.21'>Et Filius quidem hominis vadit sicut scriptum est de eo : v autem homini illi per quem Filius hominis tradetur ! bonum erat ei, si non esset natus homo ille.</verse>
+        <verse osisID='Mark.14.22'>Et manducantibus illis, accepit Jesus panem : et benedicens fregit, et dedit eis, et ait : Sumite, hoc est corpus meum. </verse>
+        <verse osisID='Mark.14.23'>Et accepto calice, gratias agens dedit eis : et biberunt ex illo omnes. </verse>
+        <verse osisID='Mark.14.24'>Et ait illis : Hic est sanguis meus novi testamenti, qui pro multis effundetur. </verse>
+        <verse osisID='Mark.14.25'>Amen dico vobis, quia jam non bibam de hoc genimine vitis usque in diem illum, cum illud bibam novum in regno Dei.</verse>
+        <verse osisID='Mark.14.26'>Et hymno dicto exierunt in montem Olivarum. </verse>
+        <verse osisID='Mark.14.27'>Et ait eis Jesus : Omnes scandalizabimini in me in nocte ista : quia scriptum est : Percutiam pastorem, et dispergentur oves. </verse>
+        <verse osisID='Mark.14.28'>Sed postquam resurrexero, prcedam vos in Galilam. </verse>
+        <verse osisID='Mark.14.29'>Petrus autem ait illi : Et si omnes scandalizati fuerint in te, sed non ego. </verse>
+        <verse osisID='Mark.14.30'>Et ait illi Jesus : Amen dico tibi, quia tu hodie in nocte hac, priusquam gallus vocem bis dederit, ter me es negaturus. </verse>
+        <verse osisID='Mark.14.31'>At ille amplius loquebatur : Et si oportuerit me simul commori tibi, non te negabo. Similiter autem et omnes dicebant.</verse>
+        <verse osisID='Mark.14.32'>Et veniunt in prdium, cui nomen Gethsemani. Et ait discipulis suis : Sedete hic donec orem. </verse>
+        <verse osisID='Mark.14.33'>Et assumit Petrum, et Jacobum, et Joannem secum : et cpit pavere et tdere. </verse>
+        <verse osisID='Mark.14.34'>Et ait illis : Tristis est anima mea usque ad mortem : sustinete hic, et vigilate. </verse>
+        <verse osisID='Mark.14.35'>Et cum processisset paululum, procidit super terram : et orabat ut, si fieri posset, transiret ab eo hora : </verse>
+        <verse osisID='Mark.14.36'>et dixit : Abba pater, omnia tibi possibilia sunt, transfer calicem hunc a me : sed non quod ego volo, sed quod tu. </verse>
+        <verse osisID='Mark.14.37'>Et venit, et invenit eos dormientes. Et ait Petro : Simon, dormis ? non potuisti una hora vigilare ? </verse>
+        <verse osisID='Mark.14.38'>Vigilate et orate, ut non intretis in tentationem. Spiritus quidem promptus est, caro vero infirma. </verse>
+        <verse osisID='Mark.14.39'>Et iterum abiens oravit, eumdem sermonem dicens. </verse>
+        <verse osisID='Mark.14.40'>Et reversus, denuo invenit eos dormientes (erant enim oculi eorum gravati), et ignorabant quid responderent ei. </verse>
+        <verse osisID='Mark.14.41'>Et venit tertio, et ait illis : Dormite jam, et requiescite. Sufficit : venit hora : ecce Filius hominis tradetur in manus peccatorum. </verse>
+        <verse osisID='Mark.14.42'>Surgite, eamus : ecce qui me tradet, prope est.</verse>
+        <verse osisID='Mark.14.43'>Et, adhuc eo loquente, venit Judas Iscariotes unus de duodecim, et cum eo turba multa cum gladiis et lignis, a summis sacerdotibus, et scribis, et senioribus. </verse>
+        <verse osisID='Mark.14.44'>Dederat autem traditor ejus signum eis, dicens : Quemcumque osculatus fuero, ipse est, tenete eum, et ducite caute. </verse>
+        <verse osisID='Mark.14.45'>Et cum venisset, statim accedens ad eum, ait : Ave Rabbi : et osculatus est eum. </verse>
+        <verse osisID='Mark.14.46'>At illi manus injecerunt in eum, et tenuerunt eum. </verse>
+        <verse osisID='Mark.14.47'>Unus autem quidam de circumstantibus educens gladium, percussit servum summi sacerdotis : et amputavit illi auriculam. </verse>
+        <verse osisID='Mark.14.48'>Et respondens Jesus, ait illis : Tamquam ad latronem existis cum gladiis et lignis comprehendere me ? </verse>
+        <verse osisID='Mark.14.49'>quotidie eram apud vos in templo docens, et non me tenuistis. Sed ut impleantur Scriptur. </verse>
+        <verse osisID='Mark.14.50'>Tunc discipuli ejus relinquentes eum, omnes fugerunt. </verse>
+        <verse osisID='Mark.14.51'>Adolescens autem quidam sequebatur eum amictus sindone super nudo : et tenuerunt eum. </verse>
+        <verse osisID='Mark.14.52'>At ille rejecta sindone, nudus profugit ab eis.</verse>
+        <verse osisID='Mark.14.53'>Et adduxerunt Jesum ad summum sacerdotem : et convenerunt omnes sacerdotes, et scrib, et seniores. </verse>
+        <verse osisID='Mark.14.54'>Petrus autem a longe secutus est eum usque intro in atrium summi sacerdotis : et sedebat cum ministris ad ignem, et calefaciebat se. </verse>
+        <verse osisID='Mark.14.55'>Summi vero sacerdotes et omne concilium qurebant adversus Jesum testimonium, ut eum morti traderent, nec inveniebant. </verse>
+        <verse osisID='Mark.14.56'>Multi enim testimonium falsum dicebant adversus eum : et convenientia testimonia non erant. </verse>
+        <verse osisID='Mark.14.57'>Et quidam surgentes, falsum testimonium ferebant adversus eum, dicentes : </verse>
+        <verse osisID='Mark.14.58'>Quoniam nos audivimus eum dicentem : Ego dissolvam templum hoc manu factum, et per triduum aliud non manu factum dificabo. </verse>
+        <verse osisID='Mark.14.59'>Et non erat conveniens testimonium illorum. </verse>
+        <verse osisID='Mark.14.60'>Et exsurgens summus sacerdos in medium, interrogavit Jesum, dicens : Non respondes quidquam ad ea qu tibi objiciuntur ab his ? </verse>
+        <verse osisID='Mark.14.61'>Ille autem tacebat, et nihil respondit. Rursum summus sacerdos interrogabat eum, et dixit ei : Tu es Christus Filius Dei benedicti ? </verse>
+        <verse osisID='Mark.14.62'>Jesus autem dixit illi : Ego sum : et videbitis Filium hominis sedentem a dextris virtutis Dei, et venientem cum nubibus cli. </verse>
+        <verse osisID='Mark.14.63'>Summus autem sacerdos scindens vestimenta sua, ait : Quid adhuc desideramus testes ? </verse>
+        <verse osisID='Mark.14.64'>Audistis blasphemiam : quid vobis videtur ? Qui omnes condemnaverunt eum esse reum mortis. </verse>
+        <verse osisID='Mark.14.65'>Et cperunt quidam conspuere eum, et velare faciem ejus, et colaphis eum cdere, et dicere ei : Prophetiza : et ministri alapis eum cdebant.</verse>
+        <verse osisID='Mark.14.66'>Et cum esset Petrus in atrio deorsum, venit una ex ancillis summi sacerdotis : </verse>
+        <verse osisID='Mark.14.67'>et cum vidisset Petrum calefacientem se, aspiciens illum, ait : Et tu cum Jesu Nazareno eras. </verse>
+        <verse osisID='Mark.14.68'>At ille negavit, dicens : Neque scio, neque novi quid dicas. Et exiit foras ante atrium, et gallus cantavit. </verse>
+        <verse osisID='Mark.14.69'>Rursus autem cum vidisset illum ancilla, cpit dicere circumstantibus : Quia hic ex illis est. </verse>
+        <verse osisID='Mark.14.70'>At ille iterum negavit. Et post pusillum rursus qui astabant, dicebant Petro : Vere ex illis es : nam et Galilus es. </verse>
+        <verse osisID='Mark.14.71'>Ille autem cpit anathematizare et jurare : Quia nescio hominem istum, quem dicitis. </verse>
+        <verse osisID='Mark.14.72'>Et statim gallus iterum cantavit. Et recordatus est Petrus verbi, quod dixerat ei Jesus : Priusquam gallus cantet bis, ter me negabis. Et cpit flere. </verse>
+      </chapter>
+      <chapter osisID='Mark.15'>
+        <verse osisID='Mark.15.1'>Et confestim, mane consilium facientes summi sacerdotes cum senioribus, et scribis, et universo concilio, vincientes Jesum, duxerunt, et tradiderunt Pilato. </verse>
+        <verse osisID='Mark.15.2'>Et interrogavit eum Pilatus : Tu es rex Judorum ? At ille respondens, ait illi : Tu dicis. </verse>
+        <verse osisID='Mark.15.3'>Et accusabant eum summi sacerdotes in multis. </verse>
+        <verse osisID='Mark.15.4'>Pilatus autem rursum interrogavit eum, dicens : Non respondes quidquam ? vide in quantis te accusant. </verse>
+        <verse osisID='Mark.15.5'>Jesus autem amplius nihil respondit, ita ut miraretur Pilatus. </verse>
+        <verse osisID='Mark.15.6'>Per diem autem festum solebat dimittere illis unum ex vinctis, quemcumque petissent. </verse>
+        <verse osisID='Mark.15.7'>Erat autem qui dicebatur Barrabas, qui cum seditiosis erat vinctus, qui in seditione fecerat homicidium. </verse>
+        <verse osisID='Mark.15.8'>Et cum ascendisset turba, cpit rogare, sicut semper faciebat illis. </verse>
+        <verse osisID='Mark.15.9'>Pilatus autem respondit eis, et dixit : Vultis dimittam vobis regem Judorum ? </verse>
+        <verse osisID='Mark.15.10'>Sciebat enim quod per invidiam tradidissent eum summi sacerdotes. </verse>
+        <verse osisID='Mark.15.11'>Pontifices autem concitaverunt turbam, ut magis Barabbam dimitteret eis. </verse>
+        <verse osisID='Mark.15.12'>Pilatus autem iterum respondens, ait illis : Quid ergo vultis faciam regi Judorum ? </verse>
+        <verse osisID='Mark.15.13'>At illi iterum clamaverunt : Crucifige eum. </verse>
+        <verse osisID='Mark.15.14'>Pilatus vero dicebat illis : Quid enim mali fecit ? At illi magis clamabant : Crucifige eum. </verse>
+        <verse osisID='Mark.15.15'>Pilatus autem volens populo satisfacere, dimisit illis Barabbam, et tradidit Jesum flagellis csum, ut crucifigeretur.</verse>
+        <verse osisID='Mark.15.16'>Milites autem duxerunt eum in atrium prtorii, et convocant totam cohortem, </verse>
+        <verse osisID='Mark.15.17'>et induunt eum purpura, et imponunt ei plectentes spineam coronam. </verse>
+        <verse osisID='Mark.15.18'>Et cperunt salutare eum : Ave rex Judorum. </verse>
+        <verse osisID='Mark.15.19'>Et percutiebant caput ejus arundine : et conspuebant eum, et ponentes genua, adorabant eum. </verse>
+        <verse osisID='Mark.15.20'>Et postquam illuserunt ei, exuerunt illum purpura, et induerunt eum vestimentis suis : et educunt illum ut crucifigerent eum.</verse>
+        <verse osisID='Mark.15.21'>Et angariaverunt prtereuntem quempiam, Simonem Cyrenum venientem de villa, patrem Alexandri et Rufi, ut tolleret crucem ejus. </verse>
+        <verse osisID='Mark.15.22'>Et perducunt illum in Golgotha locum : quod est interpretatum Calvari locus. </verse>
+        <verse osisID='Mark.15.23'>Et dabant ei bibere myrrhatum vinum : et non accepit. </verse>
+        <verse osisID='Mark.15.24'>Et crucifigentes eum, diviserunt vestimenta ejus, mittentes sortem super eis, quis quid tolleret. </verse>
+        <verse osisID='Mark.15.25'>Erat autem hora tertia : et crucifixerunt eum. </verse>
+        <verse osisID='Mark.15.26'>Et erat titulus caus ejus inscriptus : Rex Judorum. </verse>
+        <verse osisID='Mark.15.27'>Et cum eo crucifigunt duos latrones : unum a dextris, et alium a sinistris ejus. </verse>
+        <verse osisID='Mark.15.28'>Et impleta est Scriptura, qu dicit : Et cum iniquis reputatus est. </verse>
+        <verse osisID='Mark.15.29'>Et prtereuntes blasphemabant eum, moventes capita sua, et dicentes : Vah qui destruis templum Dei, et in tribus diebus redificas : </verse>
+        <verse osisID='Mark.15.30'>salvum fac temetipsum descendens de cruce. </verse>
+        <verse osisID='Mark.15.31'>Similiter et summi sacerdotes illudentes, ad alterutrum cum scribis dicebant : Alios salvos fecit, seipsum non potest salvum facere. </verse>
+        <verse osisID='Mark.15.32'>Christus rex Isral descendat nunc de cruce, ut videamus, et credamus. Et qui cum eo crucifixi erant, convitiabantur ei.</verse>
+        <verse osisID='Mark.15.33'>Et facta hora sexta, tenebr fact sunt per totam terram usque in horam nonam. </verse>
+        <verse osisID='Mark.15.34'>Et hora nona exclamavit Jesus voce magna, dicens : Eloi, eloi, lamma sabacthani ? quod est interpretatum : Deus meus, Deus meus, ut quid dereliquisti me ? </verse>
+        <verse osisID='Mark.15.35'>Et quidam de circumstantibus audientes, dicebant : Ecce Eliam vocat. </verse>
+        <verse osisID='Mark.15.36'>Currens autem unus, et implens spongiam aceto, circumponensque calamo, potum dabat ei, dicens : Sinite, videamus si veniat Elias ad deponendum eum. </verse>
+        <verse osisID='Mark.15.37'>Jesus autem emissa voce magna expiravit.</verse>
+        <verse osisID='Mark.15.38'>Et velum templi scissum est in duo, a summo usque deorsum. </verse>
+        <verse osisID='Mark.15.39'>Videns autem centurio, qui ex adverso stabat, quia sic clamans expirasset, ait : Vere hic homo Filius Dei erat.</verse>
+        <verse osisID='Mark.15.40'>Erant autem et mulieres de longe aspicientes : inter quas erat Maria Magdalene, et Maria Jacobi minoris, et Joseph mater, et Salome : </verse>
+        <verse osisID='Mark.15.41'>et cum esset in Galila, sequebantur eum, et ministrabant ei, et ali mult, qu simul cum eo ascenderant Jerosolymam. </verse>
+        <verse osisID='Mark.15.42'>Et cum jam sero esset factum (quia erat parasceve, quod est ante sabbatum), </verse>
+        <verse osisID='Mark.15.43'>venit Joseph ab Arimatha nobilis decurio, qui et ipse erat exspectans regnum Dei, et audacter introivit ad Pilatum, et petiit corpus Jesu. </verse>
+        <verse osisID='Mark.15.44'>Pilatus autem mirabatur si jam obiisset. Et accersito centurione, interrogavit eum si jam mortuus esset. </verse>
+        <verse osisID='Mark.15.45'>Et cum cognovisset a centurione, donavit corpus Joseph. </verse>
+        <verse osisID='Mark.15.46'>Joseph autem mercatus sindonem, et deponens eum involvit sindone, et posuit eum in monumento quod erat excisum de petra, et advolvit lapidem ad ostium monumenti. </verse>
+        <verse osisID='Mark.15.47'>Maria autem Magdalene et Maria Joseph aspiciebant ubi poneretur. </verse>
+      </chapter>
+      <chapter osisID='Mark.16'>
+        <verse osisID='Mark.16.1'>Et cum transisset sabbatum, Maria Magdalene, et Maria Jacobi, et Salome emerunt aromata ut venientes ungerent Jesum. </verse>
+        <verse osisID='Mark.16.2'>Et valde mane una sabbatorum, veniunt ad monumentum, orto jam sole. </verse>
+        <verse osisID='Mark.16.3'>Et dicebant ad invicem : Quis revolvet nobis lapidem ab ostio monumenti ? </verse>
+        <verse osisID='Mark.16.4'>Et respicientes viderunt revolutum lapidem. Erat quippe magnus valde. </verse>
+        <verse osisID='Mark.16.5'>Et intrountes in monumentum viderunt juvenem sedentem in dextris, coopertum stola candida, et obstupuerunt. </verse>
+        <verse osisID='Mark.16.6'>Qui dicit illis : Nolite expavescere : Jesum quritis Nazarenum, crucifixum : surrexit, non est hic, ecce locus ubi posuerunt eum. </verse>
+        <verse osisID='Mark.16.7'>Sed ite, dicite discipulis ejus, et Petro, quia prcedit vos in Galilam : ibi eum videbitis, sicut dixit vobis. </verse>
+        <verse osisID='Mark.16.8'>At ill exeuntes, fugerunt de monumento : invaserat enim eas tremor et pavor : et nemini quidquam dixerunt : timebant enim.</verse>
+        <verse osisID='Mark.16.9'>Surgens autem mane prima sabbati, apparuit primo Mari Magdalene, de qua ejecerat septem dmonia. </verse>
+        <verse osisID='Mark.16.10'>Illa vadens nuntiavit his, qui cum eo fuerant, lugentibus et flentibus. </verse>
+        <verse osisID='Mark.16.11'>Et illi audientes quia viveret, et visus esset ab ea, non crediderunt.</verse>
+        <verse osisID='Mark.16.12'>Post hc autem duobus ex his ambulantibus ostensus est in alia effigie, euntibus in villam : </verse>
+        <verse osisID='Mark.16.13'>et illi euntes nuntiaverunt ceteris : nec illis crediderunt. </verse>
+        <verse osisID='Mark.16.14'>Novissime recumbentibus illis undecim apparuit : et exprobravit incredulitatem eorum et duritiam cordis : quia iis, qui viderant eum resurrexisse, non crediderunt. </verse>
+        <verse osisID='Mark.16.15'>Et dixit eis : Euntes in mundum universum prdicate Evangelium omni creatur. </verse>
+        <verse osisID='Mark.16.16'>Qui crediderit, et baptizatus fuerit, salvus erit : qui vero non crediderit, condemnabitur. </verse>
+        <verse osisID='Mark.16.17'>Signa autem eos qui crediderint, hc sequentur : in nomine meo dmonia ejicient : linguis loquentur novis : </verse>
+        <verse osisID='Mark.16.18'>serpentes tollent : et si mortiferum quid biberint, non eis nocebit : super gros manus imponent, et bene habebunt.</verse>
+        <verse osisID='Mark.16.19'>Et Dominus quidem Jesus postquam locutus est eis, assumptus est in clum, et sedet a dextris Dei. </verse>
+        <verse osisID='Mark.16.20'>Illi autem profecti prdicaverunt ubique, Domino cooperante, et sermonem confirmante, sequentibus signis. </verse>
+      </chapter>
+    </div></osisText>
+</osis>

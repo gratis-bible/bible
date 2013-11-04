@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+<osisText osisRefWork='Bible' osisIDWork='Bible.en.LEB.2010' xml:lang='en'>
+<header>
+<work osisWork='Bible.en.LEB.2010'>
+<title>The Lexham English Bible</title>
+<creator type='x-edt'>W. Hall Harris III</creator>
+<date>2010-03-23</date>
+<publisher>Logos Research Systems, Inc.</publisher>
+<type type='OSIS'>Bible</type>
+<format type='x-MIME'>text/xml</format>
+<source>LEB.xml, 2010-03-23</source>
+<language type='IETF'>en</language>
+<rights>Copyright 2010 Logos Research Systems, Inc. All rights reserved. Further licensing information is provided in the License and Trademark sections at the start of the text.</rights>
+<scope>Matt-Rev</scope>
+<refSystem>Bible.NRSVA</refSystem>
+</work>
+</header>
+<div type='front'>
+<titlePage>
+<p>The Lexham English Bible</p>
+<p>W. Hall Harris III</p>
+<p>General Editor</p>
+<p>Copyright 2010 Logos Research Systems, Inc.</p>
+<p>All rights reserved.</p>
+</titlePage>
+<div type='x-license'>
+<title>License</title>
+<p>You can give away the Lexham English Bible, but you can’t sell it on its own. If the LEB comprises less than 25% of the content of a larger work, you can sell it as part of that work.</p>
+<p>If you give away the LEB for use with a commercial product, or sell a work containing more than 1,000 verses from the LEB, you must annually report the number of units sold, distributed, and/or downloaded.</p>
+<p>You must always attribute quotations of the LEB.</p>
+<p>If you quote less than 100 verses of the LEB in a single work you can attribute it by simply adding (LEB) after the quotation. Longer quotations, or use of 100 or more verses in a single work, must be accompanied by the following statement:</p>
+<p>Scripture quotations marked (LEB) are from the Lexham English Bible. Copyright 2010 Logos Bible Software. Lexham is a registered trademark of Logos Bible Software.</p>
+<p>In electronic use, link “LEB” and “Lexham English Bible” to <a href='http://lexhamenglishbible.com'>http://lexhamenglishbible.com</a>, and “Logos Bible Software” to <a href='http://logos.com'>http://logos.com</a>. If all quotations are unmarked and from the LEB, you may remove “marked (LEB) are” from the statement.</p>
+<p>In support of non-English Bible translation, non-profit organizations may use 50% as the maximum portion the LEB may comprise of a work offered for sale. (This specifically allows the creation and commercial sale of diglot Bibles.)</p>
+</div>
+<div type='x-trademark'>
+<p>Lexham is a registered trademark of Logos Bible Software. You may use LEB or Lexham English Bible to refer to the Lexham English Bible, but may not use the Lexham trademark as any part of the name of a larger work quoting or containing it.</p>
+</div>
+<div type='preface'>
+<p>With approximately one hundred different English translations of the Bible already published,<note>This figure includes translations of the New Testament alone. For one of the most comprehensive lists, see Wikipedia (<a href='http://en.wikipedia.org/wiki/List_of_English_Bible_translations'>http://en.wikipedia.org/wiki/List_of_English_Bible_translations</a>).</note> the reader may well wonder why yet another English version has been produced. Those actually engaged in the work of translating the Bible might answer that the quest for increased accuracy, the incorporation of new scholarly discoveries in the fields of semantics, lexicography, linguistics, new archaeological discoveries, and the continuing evolution of the English language all contribute to the need for producing new translations. But in the case of the Lexham English Bible (LEB), the answer to this question is much simpler; in fact, it is merely twofold.</p>
+<p>First, the LEB achieves an unparalleled level of transparency with the original language text because the LEB had as its starting point the <hi type='italic'>Lexham Greek-English Interlinear New Testament</hi>. It was produced with the specific purpose of being used alongside the original language text of the Bible. Existing translations, however excellent they may be in terms of English style and idiom, are frequently so far removed from the original language texts of scripture that straightforward comparison is difficult for the average user. Of course distance between the original language text and the English translation is not a criticism of any modern English translation. To a large extent this distance is the result of the philosophy of translation chosen for a particular English version, and it is almost always the result of an attempt to convey the meaning of the original in a clearer and more easily understandable way to the contemporary reader. However, there are many readers, particularly those who have studied some biblical Greek, who desire a translation that facilitates straightforward and easy comparisons between the translation and the original language text. The ability to make such comparisons easily in software formats like Logos Bible Software makes the need for an English translation specifically designed for such comparison even more acute.</p>
+<p>Second, the LEB is designed from the beginning to make extensive use of the most up-to-date lexical reference works available. For the New Testament this is primarily the third edition of Walter Bauer’s <hi type='italic'>A Greek-English Lexicon of the New Testament and Other Early Christian Literature</hi> (BDAG). Users can be assured that the LEB as a translation is based on the best scholarly research available. The Greek text on which the LEB New Testament is based is that of NA27 (<hi type='italic'>Novum Testamentum Graece</hi> editio XXVII). Often referred to as the “critical” text, this is the most widely used Greek text of the New Testament in use today.</p>
+<p>Naturally, when these two factors are taken into consideration, it should not be surprising that the character of the LEB as a translation is fairly literal. This is a necessary by-product of the desire to have the English translation correspond transparently to the original language text. Nevertheless, a serious attempt has been made within these constraints to produce a clear and readable English translation instead of a woodenly literal one.<note>A small amount of foreignness in a Bible translation is not necessarily a bad thing, because it reminds us that we are reading an ancient text from a different culture. Not only do the linguistic constructions differ considerably from our own, but the cultural presuppositions and assumptions differ as well. I am not convinced that, as a reader of the Bible in the early twenty-first century, I am particularly well-served if Paul comes across sounding like an op-ed columnist in the newspaper or Luke sounds like the anchor of a cable news channel on television. Clarity in translation is one thing, but obliterating the cultural distance that separate the modern reader from the first century is something else again.</note></p>
+<p>There are three areas in particular that need to be addressed to make a translation like the LEB more accessible to readers today, while at the same time maintaining easy comparison with the original language text. First, differences in word order have to be addressed. In this regard, the LEB follows standard English word order, not the word order of Koiné Greek.<note>Koiné Greek (sometimes called Hellenistic Greek) is the form of Greek in which the New Testament is written.</note> Anyone who needs to see the word order of the original Greek can readily consult the <hi type='italic'>Lexham Greek-English Interlinear New Testament</hi>, which contains a sequence line which gives this information. Second, some expressions in biblical Greek are idiomatic, so that a literal translation would be meaningless or would miscommunicate the true meaning. The LEB uses <seg type='x-idiom'>˻lower corner˼</seg> brackets to indicate such expressions, with a literal rendering given in a note. Third, words which have no equivalent in the original language text must sometimes be supplied in the English translation. Because the LEB is designed to be used alongside the original language texts of scripture, these supplied words are indicated with <hi type='italic'>italics</hi>. In some cases the need for such supplied words is obvious, but in other cases where it is less clear a note has been included.</p>
+<p>Finally, the reader should remember that any Bible translation, to be useful to the person using it, must actually be read. I would encourage every user of the LEB, whether reading it alongside the original languages text or not, to remember that once we understand the meaning of a biblical text we are responsible to apply it first in our own lives, and then to share it with those around us.</p>
+<p>W. Hall Harris III</p>
+<p>General Editor</p>
+<p>Lexham English Bible</p>
+<p>For the word of God <hi type='italic'>is</hi> living and active and sharper than any double-edged sword, and piercing as far as the division of soul and spirit, both joints and marrow, and able to judge the reflections and thoughts of the heart. (<reference osisRef='Heb.4.12'>Heb 4:12</reference> LEB)</p>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div type='book' osisID='Phlm'>
+<chapter osisID='Phlm.1'>
+<div type='section'>
+<title>Greeting</title>
+<p><verse osisID='Phlm.1.1' sID='Phlm.1.1'/>Paul, a prisoner of Christ Jesus, and Timothy our brother, to Philemon, our dear friend and fellow worker,<verse eID='Phlm.1.1'/> <verse osisID='Phlm.1.2' sID='Phlm.1.2'/>and to Apphia our sister, and to Archippus our fellow soldier, and to the church in your house.<verse eID='Phlm.1.2'/> <verse osisID='Phlm.1.3' sID='Phlm.1.3'/>Grace to you and peace from God our Father and the Lord Jesus Christ.<verse eID='Phlm.1.3'/></p>
+</div>
+<div type='section'>
+<title>Thanksgiving and Prayer for Philemon</title>
+<p><verse osisID='Phlm.1.4' sID='Phlm.1.4'/>I thank my God, always making mention of you in my prayers,<verse eID='Phlm.1.4'/> <verse osisID='Phlm.1.5' sID='Phlm.1.5'/><transChange type='added'>because I</transChange><note>Here “<catchWord>because</catchWord>” is supplied as a component of the participle (“hear about”) which is understood as causal</note> hear about your love and faith which you have toward the Lord Jesus and for all the saints.<verse eID='Phlm.1.5'/> <verse osisID='Phlm.1.6' sID='Phlm.1.6'/><transChange type='added'>I pray</transChange> that the fellowship of your faith may become effective in the knowledge <transChange type='added'>of</transChange> every good <transChange type='added'>thing</transChange> that <transChange type='added'>is</transChange> in us for Christ.<verse eID='Phlm.1.6'/> <verse osisID='Phlm.1.7' sID='Phlm.1.7'/>For I have great joy and encouragement from your love, because the hearts of the saints have been refreshed through you, brother.<verse eID='Phlm.1.7'/></p>
+</div>
+<div type='section'>
+<title>Paul’s Appeal for Onesimus</title>
+<p><verse osisID='Phlm.1.8' sID='Phlm.1.8'/>Therefore, <transChange type='added'>although I</transChange><note>Here “<catchWord>although</catchWord>” is supplied as a component of the participle (“have”) which is understood as concessive</note> have great confidence in Christ to order you <transChange type='added'>to do what</transChange> is proper,<verse eID='Phlm.1.8'/> <verse osisID='Phlm.1.9' sID='Phlm.1.9'/>instead I appeal to <transChange type='added'>you</transChange> because of love, <transChange type='added'>since I</transChange><note>Here “<catchWord>since</catchWord>” is supplied as a component of the participle (“am”) which is understood as causal</note> am such a one as Paul, now an old man and also a prisoner of Christ Jesus.<verse eID='Phlm.1.9'/> <verse osisID='Phlm.1.10' sID='Phlm.1.10'/>I am appealing to you concerning my child whom I became the father of during my imprisonment, Onesimus.<verse eID='Phlm.1.10'/> <verse osisID='Phlm.1.11' sID='Phlm.1.11'/>Once he <transChange type='added'>was</transChange> useless to you, but now <transChange type='added'>he is</transChange> useful both to you and to me,<verse eID='Phlm.1.11'/> <verse osisID='Phlm.1.12' sID='Phlm.1.12'/>whom I have sent back to you himself, that is, my heart,<verse eID='Phlm.1.12'/> <verse osisID='Phlm.1.13' sID='Phlm.1.13'/>whom I wanted to keep with me, in order that he might serve me on behalf of you during my imprisonment for the gospel.<verse eID='Phlm.1.13'/> <verse osisID='Phlm.1.14' sID='Phlm.1.14'/>But apart from your consent, I wanted to do nothing, in order that your good <transChange type='added'>deed</transChange> might be not as according to necessity, but according to <transChange type='added'>your own</transChange> free will.<verse eID='Phlm.1.14'/> <verse osisID='Phlm.1.15' sID='Phlm.1.15'/>For perhaps because of this, he was separated <transChange type='added'>from you</transChange> for a time, in order that you might have him back forever,<verse eID='Phlm.1.15'/> <verse osisID='Phlm.1.16' sID='Phlm.1.16'/>no longer as a slave, but more than a slave, a beloved brother, especially to me, but how much more to you, both in the flesh and in the Lord.<verse eID='Phlm.1.16'/></p>
+</div>
+<div type='section'>
+<title>Paul’s Request to Philemon</title>
+<p><verse osisID='Phlm.1.17' sID='Phlm.1.17'/>If therefore you consider me a partner, receive him as <transChange type='added'>you would</transChange> me.<verse eID='Phlm.1.17'/> <verse osisID='Phlm.1.18' sID='Phlm.1.18'/>But if in anything he has caused you loss or owes <transChange type='added'>you anything</transChange>, <seg type='x-idiom'>˻charge this to my account˼</seg><note>Literally “this to me charge to <catchWord>my</catchWord> account”</note>.<verse eID='Phlm.1.18'/> <verse osisID='Phlm.1.19' sID='Phlm.1.19'/>I, Paul, write <transChange type='added'>this</transChange> with my <transChange type='added'>own</transChange> hand: I will pay it back, lest I mention to you that <seg type='x-idiom'>˻you owe me even your very self besides˼</seg><note>Literally “even yourself to me you owe besides”</note>.<verse eID='Phlm.1.19'/> <verse osisID='Phlm.1.20' sID='Phlm.1.20'/>Yes, brother, I ought to have some benefit of you in the Lord; refresh my heart in Christ.<verse eID='Phlm.1.20'/></p>
+<p><verse osisID='Phlm.1.21' sID='Phlm.1.21'/>Confident of your obedience, I am writing to you <transChange type='added'>because I</transChange><note>Here “<catchWord>because</catchWord>” is supplied as a component of the participle (“know”) which is understood as causal</note> know that you will do even beyond what I say.<verse eID='Phlm.1.21'/> <verse osisID='Phlm.1.22' sID='Phlm.1.22'/>At the same time also, prepare a guest room for me, for I hope that through your prayers I will be restored to you.<verse eID='Phlm.1.22'/></p>
+</div>
+<div type='section'>
+<title>Final Greetings and Benediction</title>
+<p><verse osisID='Phlm.1.23' sID='Phlm.1.23'/>Epaphras, my fellow prisoner in Christ Jesus, greets you,<verse eID='Phlm.1.23'/> <verse osisID='Phlm.1.24' sID='Phlm.1.24'/><transChange type='added'>and so do</transChange> Mark, Aristarchus, Demas, <transChange type='added'>and</transChange> Luke, my fellow workers.<verse eID='Phlm.1.24'/> <verse osisID='Phlm.1.25' sID='Phlm.1.25'/>The grace of the Lord Jesus Christ <transChange type='added'>be</transChange> with your spirit.<verse eID='Phlm.1.25'/></p>
+</div>
+</chapter>
+</div></osisText>
+</osis>

@@ -1,0 +1,581 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <osisText osisRefWork='Bible' osisIDWork='vanEss' xml:lang='de'>
+    <header>
+      <revisionDesc>
+        <date>2012-08-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='vanEss'>
+        <title>Leander van Ess, rev.2</title>
+        <contributor/>
+        <creator>Hans J.Herbst, joiner194@hotmail.com</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject>Heilige Schrift</subject>
+        <date>2012-07-12</date>
+        <description>ESS, Leander (Taufname: Johann Heinrich) van, kath. Bibelübersetzer,  15.2. 1772 in Warburg (Westfalen) als Sohn eines Kaufmanns, † 13.10. 1847 in Affolderbach (Odenwald). - E. wurde 1790 Novize in der Benediktinerabtei Marienmünster bei Paderborn, 1796 Priester, 1802 nach der Säkularisierung des Klosters Pfarrer in Schwalenberg (Lippe), 1812 Pfarrer, ao. Professor der Theologie und Mitdirektor des Schullehrerseminars in Marburg (Lahn). 1818 promovierte er zum Dr. theol., legte 1822 seine Ämter nieder und lebte seitdem als Privatgelehrter in Darmstadt, Alzey (Rheinhessen) und an anderen Orten. - E. sah in der Übersetzung der Bibel und ihrer Verbreitung unter dem katholischen Volk seine Lebensaufgabe. Mit seinem Vetter Karl van Eß übersetzte er aus dem Grundtext das Neue Testament, das 1807 in Braunschweig erschien, ungeheure Verbreitung fand (184228), am 19.12. 1821 auf den Index librorum prohibitorum kam, aber später von dem bischöflichen Ordinariat in Bruchsal und der Katholisch-Theologischen Fakultät in Tübingen empfohlen wurde. Es folgte in Sulzbach 1822 der erste und 1836 der zweite Teil der von ihm allein erarbeiteten Übersetzung des Alten Testaments. 1840 erschien in Sulzbach die von ihm in Verbindung mit seinem Freund und früheren Schüler Heinrich Joseph Wetzer besorgte Gesamtausgabe der Bibel in 3 Teilen. In seinem Bemühen um ihre Verbreitung wurde E. von der Britischen und Ausländischen Bibelgesellschaft in London unterstützt, deren Agent er bis 1829 war. Seine Bibelübersetzung wird noch heute, z. B. von der Württembergischen Bibelanstalt in Stuttgart, verbreitet. Trotz seiner Kritik an der Vulgata, seiner Rechtfertigung der gemischten Ehen und der Herausgabe von Predigten des Franz Volkmar Reinhard blieb Ess in seiner Gesinnung Katholik, auch wenn er sich immer mehr dem restaurierten Katholizismus entfremdete. </description>
+        <publisher>D.Leander van Ess</publisher>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>vanEss</identifier>
+        <source>Verlag der I.E. v. Seidelschen Buchhandlung 1859 Sulzbach i.d.Oberpfalz. Digitalisiert: Hans J. Herbst 2012</source>
+        <language type='IETF'>de</language>
+        <relation/>
+        <coverage/>
+        <rights>public domain</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div osisID='1Cor' type='book'>
+      <chapter osisID='1Cor.1'>
+        <title>Gruß des Apostels und Dank für die göttlichen Segnungen des Evangeliums. Warnung vor Spaltungen, und vor einer Weisheit, welcher die Lehre vom Gekreuzigten eine Thorheit ist.</title>
+        <verse osisID='1Cor.1.1'>Paulus, nach Gottes Willen berufener Apostel Jesu Christi, und der Bruder Sosthenes,</verse>
+        <verse osisID='1Cor.1.2'>an die Gemeinde Gottes zu Korinth, an die, welche durch Jesum Christum geweiht und zu Heiligen berufen sind, an Alle, welche den Namen unsers Herrn Jesu Christi anrufen, wo sie und wir auch immer seyn mögen. </verse>
+        <verse osisID='1Cor.1.3'>Gnade und Friede euch von Gott, unserm Vater, und von dem Herrn, Jesu Christo!</verse>
+        <verse osisID='1Cor.1.4'>Unablässig danke ich meinem Gott euretwegen für die Gnade Gottes, die euch durch Jesum Christum zu Theil geworden ist.</verse>
+        <verse osisID='1Cor.1.5'>Daß ihr durch ihn reichlich in Allem gewonnen habet, in aller Lehre und Kenntniß;</verse>
+        <verse osisID='1Cor.1.6'>indem das Zeugniß von Christo festen Grund unter euch gefaßt hat, </verse>
+        <verse osisID='1Cor.1.7'>so daß es euch an keiner Gabe mangelt, und ihr die Erscheinung unsers Herrn, Jesu Christi, erwartet.</verse>
+        <verse osisID='1Cor.1.8'>Er wird auch bis an's Ende euch standhaft erhalten, so daß ihr an dem Tage der Erscheinungder Erscheinung, fehlt im Griechischen. unsers Herrn, Jesu Christi, unsträflich seyn werdet.</verse>
+        <verse osisID='1Cor.1.9'>Denn getreu ist Gott, der euch zur Gemeinschaft mit seinem Sohne, Jesu Christo, unserem Herrn, berufen hat. </verse>
+        <verse osisID='1Cor.1.10'>Ich bitte euch aber, Brüder! im Namen unsers Herrn, Jesu Christi, daß alle Eins bekennen, und keine Spaltungen unter euch seyen; seyd vielmehr in Gesinnungen und Grundsätzen vollkommen eins.</verse>
+        <verse osisID='1Cor.1.11'>Denn durch Chloes Hausgenossen habe ich von euch erfahren, meine Brüder! daß Uneinigkeiten unter euch sind. </verse>
+        <verse osisID='1Cor.1.12'>Ich meine nämlich dieß: Daß der Eine und der Andere unter euch sagt: Ich halte es mit Paulus, ich mit Apollo, ich mit Kephas ich mit Christus.</verse>
+        <verse osisID='1Cor.1.13'>Ist denn Christus getheilt? Ist Paulus für euch gekreuzigt? Oder seyd ihr auf Paulus Namen getauft worden? </verse>
+        <verse osisID='1Cor.1.14'>Ich danke Gott, daß ich Keinen unter euch, außer Krispus und Kajus, getauft habe; </verse>
+        <verse osisID='1Cor.1.15'>so kann doch Niemand sagen, daß ihr auf meinen Namen getauft seyd."daß ich getauft habe, auf meinen Namen, nach dem Griechischen.</verse>
+        <verse osisID='1Cor.1.16'>Doch ja, die Familie Srephanas habe ich getauft, übrigens wüßte ich keinen Andern, den ich getauft habe. </verse>
+        <verse osisID='1Cor.1.17'>Denn Christus hat mich nicht sowohl gesandt, um zu taufen, als vielmehr das Evangelium zu predigen; nicht mit Rednerprunk, damit das Kreuz Christi seiner Kraft nicht beraubt werde. </verse>
+        <verse osisID='1Cor.1.18'>Denn die Lehre vom Kreuze ist zwar den Verlornen eine Thorheit, uns Geretteten aber ist sie eine göttliche Kraft.</verse>
+        <verse osisID='1Cor.1.19'>Denn es heißt in der Schrift: Vernichten will ich die Weisheit der Weisen, und zu Schanden machen die Klugheit der Klugen. </verse>
+        <verse osisID='1Cor.1.20'>Wo ist ein Weiser? Wo ein Schriftgelehrter? Wo ein gelehrter Zänker dieses Zeitalters? Hat Gott nicht die Weisheit dieser Welt zur THorheit gemachet?</verse>
+        <verse osisID='1Cor.1.21'>Denn weil in der Weisheit Gottes die Welt durch die Weisheit Gott nicht erkannte; so gefiel es Gott, durch einen töricht scheinenden Lehrvortrag die Glaubenden zu beseligen.</verse>
+        <verse osisID='1Cor.1.22'>Weil nämlich die Juden Wunderzeichen verlangen, und die Griechen Weltweisheit suchen,</verse>
+        <verse osisID='1Cor.1.23'>wir hingegen verkündigen den gekreuzigten Christus, mag er den Juden ein Anstoß und den Heiden eine Thorheit seyn; </verse>
+        <verse osisID='1Cor.1.24'>aber göttliche Kraft und göttliche Weisheit ist Christus denen, welche berufen sind, sie seyen Juden oder Heiden.</verse>
+        <verse osisID='1Cor.1.25'>Denn das thöricht scheinende Werk Gottes übertrifft doch die Weisheit der Menschen; und das schwach scheinende Werk Gottes vermag doch mehr, als Menschen. </verse>
+        <verse osisID='1Cor.1.26'>Sehet nur, Brüder, auf euch, als Berufene selbst!! da finden sich nicht viel Weise nach dem Fleische, nicht viel Mächtige, nicht viel Vornehme;</verse>
+        <verse osisID='1Cor.1.27'>sondern die Thoren von der Welt hat Gott erwählt, um die Weisen zu beschämen; und die Schwachen vor der Welt hat Gott ausgesondert, um die Starken zu Schanden zu machen;</verse>
+        <verse osisID='1Cor.1.28'>und die Niedrigen von der Welt, die Verachteten, die Nichtsgeltenden hat Gott ausersehen, um jene, die viel gelten, in ihrem Nichts darzustellen; </verse>
+        <verse osisID='1Cor.1.29'>damit kein Sterblicher vor Ihm"vor Gott," nach dem Griechischen. sich rühmen könne. </verse>
+        <verse osisID='1Cor.1.30'>Durch ihn aber seyd ihr in Christo Jesu, der uns von Gott gegeben wurde zur Weisheit, zur Gerechtigkeit, zur Heiligung und Erlösung. </verse>
+        <verse osisID='1Cor.1.31'>Darum, wie die Schrift sagt: wer sich rühmen will, der rühme sich des Herrn! </verse>
+      </chapter>
+      <chapter osisID='1Cor.2'>
+        <title>Die göttliche Lehre des Evangeliums ist sehr verschieden von den Ankündigungen und Erfindungen menschlicher Weisheit und Kunst.</title>
+        <verse osisID='1Cor.2.1'>Auch ich, Brüder! als ich zu euch kam, bin nicht in Erhabenheit der Rede oder der Weisheit aufgetreten, um euch das Zeugniß von Christovon Gott, nach dem Griechischen. zu verkündigen; </verse>
+        <verse osisID='1Cor.2.2'>denn ich maßte mir nicht an, von etwas Anderm bei euch zu wissen, als allein von Jesu Christo, und zwar von diesem Gekreuzigten.</verse>
+        <verse osisID='1Cor.2.3'>Ich war vielmehr mit Schwachheit, Furchtsamkeit und vielem Zittern bei euch. </verse>
+        <verse osisID='1Cor.2.4'>Ich bediente mich bei meinem Reden und Predigen nicht der künstlich überredenden Worte menschlicher Weisheit; sondern sie wirkten durch Geist und Kraft,</verse>
+        <verse osisID='1Cor.2.5'>damit euer Glaube nicht auf Menschenweisheit, sondern auf Gottes Kraft beruhe.</verse>
+        <verse osisID='1Cor.2.6'>Freilich tragen wir Weisheit für die Gereifteren vor, aber nicht Weisheit dieses Zeitalters und der Großen dieser Welt, welche zu Nichts werden;</verse>
+        <verse osisID='1Cor.2.7'>sondern wir tragen Gottes geheimnißvolle und verhüllte Weisheit vor, die Gott von Ewigkeit her zu unserer Herrlichkeit bestimmt hatte. </verse>
+        <verse osisID='1Cor.2.8'>Keiner von den Großen dieser Welt hat sie gekannt; denn hätten sie diese gekannt, sie würden den Herrn der Herrlichkeit nicht gekreuzigt haben;</verse>
+        <verse osisID='1Cor.2.9'>vielmehr ist es, wie die Schrift sagt: Was kein Auge gesehen, und kein Ohr gehört, und in keines Menschen Herz gekommen, hat Gott denen, die ihn lieben, bereitet. </verse>
+        <verse osisID='1Cor.2.10'>Uns aber hat es Gott durch seinen Geist geoffenbaret; denn der Geist durchschauet Alles, selbst das Unerforschliche in Gott.</verse>
+        <verse osisID='1Cor.2.11'>Denn welcher Mensch weiß, was in dem Menschen ist, als nur der Geist des Menschen, der in ihm ist? Eben so weiß auch Niemand, was in Gott ist, als nur der Geist Gottes. </verse>
+        <verse osisID='1Cor.2.12'>Wir aber haben nicht den Geist der welt empfangen, sondern den Geist, der aus Gott ist; um zu wissen, was Gott uns verliehen hat. </verse>
+        <verse osisID='1Cor.2.13'>Und das lehren wir auch, nicht in gelehrten Worten, wie menschliche Weisheit; sondern wie der Geist sie uns lehrt, und erläutern Geistiges mit Geistigem. </verse>
+        <verse osisID='1Cor.2.14'>Freilich nimmt der sinnliche Mensch das nicht auf, was vom Geiste Gottes kommt, ihm ist es Thorheit, und er vermag es nicht zu fassen, weil es nur geistig gefaßt werden kann.</verse>
+        <verse osisID='1Cor.2.15'>Der Geistige aber kann Alles beurtheilen; ihn hingegen kann Keiner beurtheilen. </verse>
+        <verse osisID='1Cor.2.16'>Denn wer kennet den Sinn des Herrn, der ihn belehren könnte? Wir aber haben Christi Sinn. </verse>
+      </chapter>
+      <chapter osisID='1Cor.3'>
+        <title>Zurechtweisung der Korinther über sich selbst, und über diejenigen, welche Trennungen stifteten und die Apostel herabsetzten.</title>
+        <verse osisID='1Cor.3.1'>Auch mit euch, Brüder! konnte ich nicht, wie mit geistigen Menschen reden, sondern wie mit fleischlichen, wie mit Kindern im Christenthum. </verse>
+        <verse osisID='1Cor.3.2'>Mit Milch nährte ich euch, nicht mit starker Speise; denn diese konntet ihr noch nicht vertragen, und könnet sie auch jetzt noch nicht vertragen; weil ihr noch fleischlich seyd. </verse>
+        <verse osisID='1Cor.3.3'>Denn wenn noch EifersuchtZwietracht, setzt das Griechische zu. und Parteigeist unter euch herrschen, seyd ihr dann nicht fleischlich, und wandelt ihr nicht wie Sinnen-Menschen? </verse>
+        <verse osisID='1Cor.3.4'>Wenn nämlich der Eine sagt: Ich halte es mit Paulus; der Andere: ich mit Apollo; seyd ihr da nicht fleischliche Menschen? Wer ist Apollo? Wer ist Paulus?</verse>
+        <verse osisID='1Cor.3.5'>Diener dessen sind sie, durch welche ihr zum Glauben gelangt seyd. Und zwar so, wie es der Herr einem Jeden übertragen hat. </verse>
+        <verse osisID='1Cor.3.6'>Ich habe gepflanzt, Apollo hat begossen; aber Gott hat das Gedeihen gegeben.</verse>
+        <verse osisID='1Cor.3.7'>Also gilt weder der pflanzt, noch der begießt, sondern nur der, welcher das Gedeihen gibt, Gott. </verse>
+        <verse osisID='1Cor.3.8'>Der Pflanzer und der Begießer sind gleich; Jeder aber wird nach seiner Arbeit auch seinen Lohn erhalten. </verse>
+        <verse osisID='1Cor.3.9'>Wir sind Mitarbeiter Gottes; ihr seyd Gottes Acker, Gottes Gebäude. </verse>
+        <verse osisID='1Cor.3.10'>Ich habe zufolge der mir anvertrauten Gnade Gottes, wie ein weiser Bauverständiger den Grund gelegt; ein Anderer bauet darauf fort. Aber - Jeder sehe wohl zu, wie er fortbauet! </verse>
+        <verse osisID='1Cor.3.11'>Denn einen andern Grund kann Niemand legen, als der gelegt ist, und dieser ist Jesus Christus.</verse>
+        <verse osisID='1Cor.3.12'>Wer nun auch auf diesen Grund fortbauet, ob Gold, Silber, kostbare Steine, oder Holz, Heu, Stroh an dessen Werke wird sich's ausweisen; </verse>
+        <verse osisID='1Cor.3.13'>der Tag des Herrndes Herrn, fehlt im Griechischen. wird es lehren; in der Feuerprobe wird es an's Licht kommen; die Feuerprobe wird entscheiden, wie eines Jeden Werk beschaffen ist. </verse>
+        <verse osisID='1Cor.3.14'>Hat das Werk Bestand, das Jemand darauf erbauet hat, so wird er seinen Lohn erhalten; </verse>
+        <verse osisID='1Cor.3.15'>gehet sein Werk aber im Feuer auf, so ist sein Lohn dahin; er selbst wird wohl noch gerettet werden, doch nur wie durch das Feuer. </verse>
+        <verse osisID='1Cor.3.16'>Wisset ihr nicht, daß ihr Gottes Tempel seyd, und der Geist Gottes in euch wohnet?</verse>
+        <verse osisID='1Cor.3.17'>So jemand den Tempel Gottes verdirbt, den wird Gott verderben; denn Gottes Tempel ist heilig, und ein solcher seyd ihr. </verse>
+        <verse osisID='1Cor.3.18'>Keiner täusche sich selbst! Wenn Jemand unter euch sich einbildet, vor dieser Welt ein Weiser zu seyn, der werde zum Thoren, damit er ein Weiser werde. </verse>
+        <verse osisID='1Cor.3.19'>Denn die Weisheit dieser Welt ist Thorheit vor Gott, denn es steht geschrieben: In ihrer eignen Schlauheit fängt er die Weisen. </verse>
+        <verse osisID='1Cor.3.20'>Und in einer andern Stelle: Der Herr kennt die Einfälle der Weisen, daß sie thöricht sind. </verse>
+        <verse osisID='1Cor.3.21'>Auf Menschen sey darum Niemand stolz. </verse>
+        <verse osisID='1Cor.3.22'>Denn Alles ist für euch da: sey es Paulus, oder Apollo, oder Kephas; sey es Welt, oder Leben, oder Tod, oder Gegenwart, oder Zukunft, Alles ist für euch da.</verse>
+        <verse osisID='1Cor.3.23'>Ihr aber gehöret Christo, Christus aber Gott an.</verse>
+      </chapter>
+      <chapter osisID='1Cor.4'>
+        <verse osisID='1Cor.4.1'>Ein Jeder halte uns also für Diener Christi und für Verwalter der göttlichen Geheimnisse. </verse>
+        <verse osisID='1Cor.4.2'>Was übrigens von den Verwaltern gefordert wird, ist: daß Jeder pflichttreu befunden werde.</verse>
+        <verse osisID='1Cor.4.3'>Ich mache mir wenig daraus, wenn ich von euch oder von menschlichem Tage beurtheilt werde; ich mag nicht einmal selbst über mich entscheiden; </verse>
+        <verse osisID='1Cor.4.4'>(denn obgleich ich mir nichts vorzuwerfen habe, so rechtfertigt mich dieses noch nicht;) mein Richter ist der Herr. </verse>
+        <verse osisID='1Cor.4.5'>Eilet also mit eurem Urtheile nicht der Zeit vor, bis der Herr kommt; der auch das, was in tiefster Verborgenheit lag, an's Licht bringen, und des Herzens Gesinnungen aufdecken wird. Alsdann wird Jeder von Gott sein verdientes Zeugniß erhalten.</verse>
+        <verse osisID='1Cor.4.6'>Dieses, Brüder! habe ich nun aus Schonung gegen euch in meine und Apollos Person eingekleidet, damit ihr an uns lernet, daß sich Keiner über den Andern zum Nachtheil des Andern mehr erhebe, als es geschrieben ist. "nicht mehr von euch zu halten, als es geschrieben ist, damit sich Keiner über den Andern zum Nachtheil des Andern erhebe," nach dem Griechischen.</verse>
+        <verse osisID='1Cor.4.7'>Denn wer gibt dir einen Vorzug? Was hast du, das du nicht empfangen hättest? Wenn du es aber empfangen hast, warum prahlst du, als ob du es nicht empfangen hättest? </verse>
+        <verse osisID='1Cor.4.8'>Ihr seyd jetzt satt; ihr habt jetzt Ueberfluß; ihr habet Ansehen und Macht ohne uns; wollte Gott, daß ihr Ansehen und Macht hättet, so würden auch wir wohl mit euch Ansehen und Macht haben. </verse>
+        <verse osisID='1Cor.4.9'>Denn mir scheint, Gott habe uns Apostel wie die Niedrigsten, Verurtheilten gleich, ausgestellt, daß wir ein Schauspiel der Welt, Engeln und Menschen werden sollen. </verse>
+        <verse osisID='1Cor.4.10'>Wir gelten für Thoren um Christi willen, ihr für Aufgeklärte in Christo; wir für Schwache, ihr für die Starken; ihr seyd die Geehrten, wir die Verachteten. </verse>
+        <verse osisID='1Cor.4.11'>Bis diese Stunde leiden wir Hunger und Durst, sind nackend, werden geschlagen und haben keine bleibende Stätte.</verse>
+        <verse osisID='1Cor.4.12'>Mit unserer Hände Arbeit müssen wir uns mühselig nähren; wir werden geschmähet, und segnen; wir werden verfolgt, und leiden es geduldig; </verse>
+        <verse osisID='1Cor.4.13'>wir werden gelästert, und geben gute Worte; bis auf diese Stunde werden wir wie der Auswurf der Welt, wie ein Auskehricht Aller gehalten. </verse>
+        <verse osisID='1Cor.4.14'>Nicht um euch schamroth zu machen, schreibe ich dieses; sondern um euch, als meinen geliebten Kindern, eine Ermahnung zu geben. </verse>
+        <verse osisID='1Cor.4.15'>Möget ihr auch zehntausend Erzieher in Christo haben; aber Väter habet ihr nicht viele; denn ich bin in Christo Jesu durch das Evangelium euer Vater geworden. </verse>
+        <verse osisID='1Cor.4.16'>Daher bitte ich euch, bildet euch nach mir! wie ich mich nach Christo bilde."wie ich mich nach Christo bilde." fehlt im Griechischen.</verse>
+        <verse osisID='1Cor.4.17'>In dieser Absicht sende ich Timotheus, meinen geliebten und getreuen Sohn im Herrn zu euch, damit er euch meine Wege, in Christo Jesu"in Christo," nach dem Griechischen. vorgebahnt, in Erinnerung bringe, so wie ich sie überall in jeder Gemeinde lehre. </verse>
+        <verse osisID='1Cor.4.18'>Zwar haben Einige die stolze Einbildung, als würde ich nicht zu euch kommen; </verse>
+        <verse osisID='1Cor.4.19'>aber ich werde, wenn der Herr will, bald zu euch kommen; und dann werde ich gewahren,nicht was die Aufgeblasenen geschwätzt, sondern was sie gewirkt haben. </verse>
+        <verse osisID='1Cor.4.20'>Denn in Gottes Reiche kommt es nicht auf Worte, sondern auf wirksame Thätigkeit an.</verse>
+        <verse osisID='1Cor.4.21'>Was wollet ihr? Soll ich mit der Zuchtruthe, oder mit Liebe und im Geiste der Sanftmuth zu euch kommen?</verse>
+      </chapter>
+      <chapter osisID='1Cor.5'>
+        <title>Behandlung eines Blutschänders, und Vermeidung des Umgangs mit Lasterhaften in der Gemeinde.</title>
+        <verse osisID='1Cor.5.1'>Ueberall hört man von Unzucht unter euch, und zwar von solcher Unzucht, dergleichen unter Heiden nicht ist; daß nämlich Jemand mit seines Vaters Weibe Umgang habe. </verse>
+        <verse osisID='1Cor.5.2'>Und ihr könnet noch stolz seyn, und nicht vielmehr niedergeschlagen, bis daß ein solcher Frevler aus eurer Mitte entfernt werde? </verse>
+        <verse osisID='1Cor.5.3'>Denn ich, ob zwar persönlich nicht gegenwärtig, aber im Geiste bei euch, habe schon, als wenn ich gegenwärtig wäre, über einen solchen Frevler beschlossen: </verse>
+        <verse osisID='1Cor.5.4'>im Namen unsers Herrn Jesu Christi, (wenn ihr euch versammelt, und ich im Geiste da bin) </verse>
+        <verse osisID='1Cor.5.5'>aus Vollmachet unsers Herrn Jesu Christi einen solchen zu übergeben dem Satan zum Verderben des Fleisches, damit der Geist am Tage des Herrn Jesu gerettet werde. </verse>
+        <verse osisID='1Cor.5.6'>Das ist kein guter Ruf für euch! Wisset ihr nicht, daß ein wenig Sauerteig den ganzen Teig durchsäuert?</verse>
+        <verse osisID='1Cor.5.7'>Schaffet den alten Sauerteig fort, damit ihr ein frischer Teig werdet, wie ihr denn ohne Sauerteig seyn sollet, weil unser Osterlamm, Christus, für uns geschlachtet ist. </verse>
+        <verse osisID='1Cor.5.8'>Lasset uns also das Ostermahl halten, nicht mit dem alten Sauerteige, nicht im Sauerteige der Sünde und des Lasters, sondern im Süßteige der Reinheit und Wahrheit. </verse>
+        <verse osisID='1Cor.5.9'>Ich schrieb euch im Briefe, allen Umgang mit Unzüchtigen zu vermeiden; </verse>
+        <verse osisID='1Cor.5.10'>das meinte ich zwar nicht von allen Unzüchtigen dieser Welt, oder Wucherern, oder Räubern, oder Götzen-Dienern; sonst müßtet ihr aus der Welt gehen. </verse>
+        <verse osisID='1Cor.5.11'>Aber jetzt schreibe ich euch, ihr sollet mit Keinem Umgang haben, der sich Bruder nennt, und doch ein Unzüchtiger, oder ein Wucherer, oder ein Götzen-Diener, oder ein Verleumder, oder ein Trunkenbold, oder ein Räuber ist; auch nicht einmal essen sollet ihr mit einem solchen. </verse>
+        <verse osisID='1Cor.5.12'>Denn was geht mich an, die draußen sind zu richten? richtet nicht ihr nur die Eingehörigen? </verse>
+        <verse osisID='1Cor.5.13'>Die draußen sind, wird Gott richten. Schaffet den Bösewicht aus eurer Mitte! </verse>
+      </chapter>
+      <chapter osisID='1Cor.6'>
+        <title>Tadel des Prozessführens, besonders vor heidnischen Gerichten. Warnung vor Unzucht und andern Lastern.</title>
+        <verse osisID='1Cor.6.1'>Wagt es Jemand unter euch, wenn er Streitsache mit einem Andern hat, dieselbe von den Ungerechten und nicht von den Heiligen entscheiden zu lassen? </verse>
+        <verse osisID='1Cor.6.2'>Wisset ihr nicht, daß die Heiligen Richter über die Welt seyn werden? Und ihr, die ihr die Welt richten werdet, solletet nicht fähig seyn, über Kleinigkeiten zu entscheiden? </verse>
+        <verse osisID='1Cor.6.3'>Wisset ihr nicht, daß wir über Engel richten werden? Um wie vielmehr über Dinge, die das Irdische betreffen! </verse>
+        <verse osisID='1Cor.6.4'>Und doch wählet ihr, wenn ihr Streitsachen über irdische Dinge habet, diejenigen zu Richtern, die in der Gemeinde verachtet sind? </verse>
+        <verse osisID='1Cor.6.5'>Zu eurer Beschämung frage ich: Ist denn unter euch nicht ein einziger so Verständiger, der Streitigkeiten zwischen seinem Mitbruder schlichten kann? </verse>
+        <verse osisID='1Cor.6.6'>Ein Bruder führt wider den Andern Prozeß, und noch dazu vor Ungläubigen? </verse>
+        <verse osisID='1Cor.6.7'>Schon das ist durchaus ein Fehler unter euch, daß ihr untereinander Streitigkeiten habet. Warum leidet ihr nicht lieber Unrecht? Warum duldet ihr nicht lieber Beeinträchtigung? </verse>
+        <verse osisID='1Cor.6.8'>Aber ihr selbst erlaubet euch Unrecht und Beeinträchtigung, und dieses gegen Brüder. </verse>
+        <verse osisID='1Cor.6.9'>Wisset ihr nicht, daß Ungerechte an Gottes Reich keinen Theil haben werden? Täuschet euch nicht! Kein Unzüchtiger, kein Götzendiener, kein Ehebrecher, </verse>
+        <verse osisID='1Cor.6.10'>kein Selbstbeflecker, kein Knabenschänder, kein Dieb, kein Geiziger, kein Trunkenbold, kein Verläumder, kein Räuber wird Erbe des göttlichen Reiches werden. </verse>
+        <verse osisID='1Cor.6.11'>Dergleichen waren auch Einige von euch; aber ihr seyd gereinigt, geheiligt und gerecht geworden im Namen unsers Herrn Jesu Christi,im Namen des Herrn Jesu, nach dem Griechischen. und durch den Geist unsers Gottes. </verse>
+        <verse osisID='1Cor.6.12'>Alles ist mir erlaubt; aber doch nützet nicht Alles. Alles ist mir erlaubt; aber nichts soll die Herrschaft über mich erhalten. </verse>
+        <verse osisID='1Cor.6.13'>Die Speisen sind für den Magen, und der Magen für die Speisen; Gott aber wird sowohl diese, als jenen zerstören. Für die Unzucht ist also nicht der Leib da, sondern für den Herrn, und der Herr für den Leib; </verse>
+        <verse osisID='1Cor.6.14'>denn Gott hat den Herrn auferweckt, so wird er auch uns durch seine Macht auferwecken. </verse>
+        <verse osisID='1Cor.6.15'>Wisset ihr nicht, daß eure Leiber Christi Glieder sind? Diese Glieder Christi sollete ich nehmen, und zu Huren-Gliedern machen? Das sey ferne! </verse>
+        <verse osisID='1Cor.6.16'>Oder bedenket ihr nicht, daß, wer einer Hure anhängt, Ein Leib mit ihr ist? (Denn Zwei, heißt es, werden Ein Leib seyn;) </verse>
+        <verse osisID='1Cor.6.17'>wer aber dem Herrn anhängt, der ist Ein Geist mit ihm. </verse>
+        <verse osisID='1Cor.6.18'>Fliehet die Unzucht! die übrigen Sünden, die der Mensch begeht, treffen nicht so unmittelbar den Körper; aber der Unzüchtige versündiget sich an seinem eigenen Körper. </verse>
+        <verse osisID='1Cor.6.19'>Oder wisset ihr nicht, daß euer Leib ein Tempel des euch inwohnenden heiligen Geistes ist, den ihr von Gott empfangen habt; und daß ihr nicht euch selbst angehöret? </verse>
+        <verse osisID='1Cor.6.20'>Denn um einen hohen Preis seyd ihr erkauft worden; verherrlichet und tragetund traget fehlt im Griechischen. also Gott an eurem Leibe!</verse>
+      </chapter>
+      <chapter osisID='1Cor.7'>
+        <title>Ueber die Ehe und den ledigen Stand.</title>
+        <verse osisID='1Cor.7.1'>Was aber das betrifft, worüber ihr mir geschrieben, so thut der Mensch wohl, kein Weib zu berühren. </verse>
+        <verse osisID='1Cor.7.2'>Um aber Ausschweifungen zu verhüten, mag Jeder seine Frau haben, und jede Frau ihren Mann haben. </verse>
+        <verse osisID='1Cor.7.3'>Der Mann leiste der Frau die eheliche Pflicht, und eben so auch die Frau dem Manne. </verse>
+        <verse osisID='1Cor.7.4'>Die Frau hat kein freies Recht über ihren Leib, sondern der Mann; eben so hat der Mann über seinen Leib kein freies Recht, sondern die Frau. </verse>
+        <verse osisID='1Cor.7.5'>Entziehet euch einander nicht, es sey denn mit gegenseitiger Einwilligung auf einige Zeit, um euch der Andacht zu widmen; dann aber kommet wieder zusammen, damit Satan euch nicht versuche, wegen eurer Unenthaltsamkeit. </verse>
+        <verse osisID='1Cor.7.6'>Dieß sage ich indessen nur aus Nachsicht, nicht befehlsweise. </verse>
+        <verse osisID='1Cor.7.7'>Ich wünschte freilich, daß alle Menschen so wären, wie ich; allein Jeder hat seine eigene Gabe von Gott; der Eine so, der Andere so. </verse>
+        <verse osisID='1Cor.7.8'>Den Unverheiratheten und Verwittweten rathe ich, daß sie wohl thun, so zu bleiben, wie ich. </verse>
+        <verse osisID='1Cor.7.9'>Können sie sich aber nicht enthalten, so mögen sie heirathen; denn besser ist es heirathen, als entbrannt werden.</verse>
+        <verse osisID='1Cor.7.10'>Den Verheiratheten hingegen gebiete nicht ich, sondern der Herr, daß die Frau sich nicht scheide von dem Manne;</verse>
+        <verse osisID='1Cor.7.11'>(wenn sie sich aber scheidet, so bleibe sie unverheirathet, oder söhne sich mit dem Manne aus;) der Mann soll sich aber auch von der Frau nicht scheiden. </verse>
+        <verse osisID='1Cor.7.12'>Den Uebrigen aber rathe ich, nicht der Herr: Wenn ein Bruder eine Nichtchristin zur Frau hat, und sie zufrieden ist, ihm beizuwohnen, so scheide er sich nicht von ihr! </verse>
+        <verse osisID='1Cor.7.13'>Auch wenn eine Christin einen Nichtchristen zum Manne hat, und er zufrieden ist, ihr beizuwohnen, so scheide sie sich nicht von ihm. </verse>
+        <verse osisID='1Cor.7.14'>Denn der nichtchristliche Mann wird durch die christliche Frau geheiliget, und die nichtchristliche Frau durch den christlichen Mann geheiliget; sonst wären ja eure Kinder unrein; nun aber sind sie heilig. </verse>
+        <verse osisID='1Cor.7.15'>Will sich jedoch der Nichtchristliche trennen, so mag er es thun. Der Bruder oder die Schwester ist in diesem Falle nicht gebunden. Zum Frieden aber hat uns Gott berufen. </verse>
+        <verse osisID='1Cor.7.16'>Denn wie weißt du, Frau! ob du nicht den Mann zum Heile führest? oder du, Mann! wie weißt du, ob du nicht die Frau zum Heile bringest? </verse>
+        <verse osisID='1Cor.7.17'>Richte sich Jeder, wie ihn der Herr begabet, Jeder, wie ihn Gott berufen hat. Und diese Verordnung gebe ich allen Gemeinden. </verse>
+        <verse osisID='1Cor.7.18'>Wer als Beschnittener berufen ist, der erkünstliche sich keine Vorhaut; wer als Unbeschnittener berufen ist, der braucht die Beschneidung nicht anzunehmen. </verse>
+        <verse osisID='1Cor.7.19'>Beschneidung ist nichts, und die Vorhaut ist nichts; sondern die Beobachtung der göttlichen Gebote.</verse>
+        <verse osisID='1Cor.7.20'>Jeder bleibe in der Lage, worin er war, als er berufen wurde. </verse>
+        <verse osisID='1Cor.7.21'>Warest du als Sklave berufen, so laß dich das nicht kümmern; kannst jedoch frei werden, so mache dir das um so mehr zu Nutze. </verse>
+        <verse osisID='1Cor.7.22'>Denn wer als Sklave im Herrn berufen worden, ist ein Freigelassener des Herrn; so wie derjenige, der als Freier berufen, ein Knecht Christi ist.</verse>
+        <verse osisID='1Cor.7.23'>Ihr seyd teuer erkauft; werdet nicht der Menschen Sklaven! </verse>
+        <verse osisID='1Cor.7.24'>Wozu Jeder berufen worden, Brüder! so bleibe er vor Gott! </verse>
+        <verse osisID='1Cor.7.25'>Was die Unverheiratheten betrifft, so habe ich keinen Befehl von dem Herrn; ich will aber als der ich vom Herrn begnadigt bin, treu zu seyn, meinen Rath ertheilen. </verse>
+        <verse osisID='1Cor.7.26'>Ich bin nun der Meinung, dieses sey gut, der bevorstehenden Noth wegen; deßwegen es dem Menschen rathsam sey, so zu bleiben. </verse>
+        <verse osisID='1Cor.7.27'>Bist du an eine Frau gebunden, so suche keine Trennung; bist du frei von einer Frau, so suche keine Frau! </verse>
+        <verse osisID='1Cor.7.28'>Wenn du aber heirathest, so sündigest du nicht; auch wenn eine Jungfrau heirathet, sündiget sie nicht; solche werden aber leibliche Trübsale erfahren, damit möchte ich euch verschont wissen. </verse>
+        <verse osisID='1Cor.7.29'>Daher sage ich, Brüder! dieses: Die Zeit ist kurz;ist betrübnißvoll, im Griechischen. das bleibt übrig, daß auch denen, die Weiber haben, so seyn wird, als hätten sie keine; </verse>
+        <verse osisID='1Cor.7.30'>und den Weinenden, als weinten sie nicht; und den Fröhlichen, als freueten sie sich nicht; und den Käufern, als besäßen sie nichts; </verse>
+        <verse osisID='1Cor.7.31'>und denen, die dieser Welt genießen, als genößen sie ihrer nicht; denn die Gestalt dieser Welt vergeht. </verse>
+        <verse osisID='1Cor.7.32'>Ich möchte aber gerne, daß ihr frei von Sorgen wäret. Wer keine Frau hat, sorgt für die Sache des Herrn, wie er dem Herrn wohlgefalle; </verse>
+        <verse osisID='1Cor.7.33'>wer aber eine Frau hat, sorgt für das Irdische, wie er der Frau gefalle, und er ist getheilt. </verse>
+        <verse osisID='1Cor.7.34'>Aber eine Unverheirathete und eine JungfrauDeßgleichen die Frau und die Jungfrau. Die Jungfrau sorgt...nach dem griechischen Texte sorgt für die Sache de Herrn, damit sie an Leib und Geist sich heilige; die Verheirathete hingegen sorgt für das Irdische, wie sie dem Manne gefalle. </verse>
+        <verse osisID='1Cor.7.35'>Dieß sage ich zu eurem Besten; nicht um euch eine Schlinge anzuwerfen, sondern weil ihr wohlanständiger und anhaltender dem Herrn dienen könnet ohne Hinderniß. </verse>
+        <verse osisID='1Cor.7.36'>Besorget aber Jemand, er möchte Schande an seiner Tochter erleben, wenn sie zu alt würde, und kann es nicht anders seyn, so thut er, was er will; er sündigt nicht; er lasse sie heiraten! </verse>
+        <verse osisID='1Cor.7.37'>Wenn aber Jemand in seinemseinem fehlt im Griechischen. Herzen fest darauf besteht, nicht genöthigt und ganz seines freien Willens mächtig ist, und in seinem Herzen es beschlossen hat, seine Tochter unverheirathet zu lassen, der thut wohl daran. </verse>
+        <verse osisID='1Cor.7.38'>Wer seine Tochter also heirathen läßt, der thut wohl; und wer sie nicht heirathen läßt, thut noch besser. </verse>
+        <verse osisID='1Cor.7.39'>Die Frau ist an das Ehegesetz gebunden, so lange ihr Mann lebt; ist aber ihr Mann entschlafen, so hat sie Freiheit, mit wem sie will, sich zu verheirathen, nur daß es im Herrn geschehe. </verse>
+        <verse osisID='1Cor.7.40'>Doch ist sie, meiner Meinung nach, glücklicher, wenn sie so bleibt; und ich denke doch auch, Gottes Geist zu haben.</verse>
+      </chapter>
+      <chapter osisID='1Cor.8'>
+        <title>Ueber das Essen von Götzenopfern.</title>
+        <verse osisID='1Cor.8.1'>Was die Götzenopfer betrifft, so wissen wir, (denn Kenntniß haben wir Alle, aber das Wissen machet stolz; die Liebe hingegen will nützen. </verse>
+        <verse osisID='1Cor.8.2'>Wenn Jemand auf sein Wissen sich etwas einbildet, so erkennt er noch nicht einmal, wie sein Wissen beschaffen seyn soll; </verse>
+        <verse osisID='1Cor.8.3'>wenn aber Jemand Gott liebt, der ist von ihm erkannt.) </verse>
+        <verse osisID='1Cor.8.4'>Was also den Genuß der Götzenspeisen betrifft, so wissen wir, daß der Götze in der Welt nichts ist, und daß es außer dem einigen Gott keinen andern gibt. </verse>
+        <verse osisID='1Cor.8.5'>Denn obgleich es dem Namen nach Götter sowohl im Himmel, als auf Erden gibt, (so viele Götter, als viele Herren es gibt;) </verse>
+        <verse osisID='1Cor.8.6'>so haben wir doch nur Einen Gott, den Vater, von dem alle Dinge sind, und wir in ihm; und Einen Herrn, Jesum Christum, durch welchen alle Dinge sind, und wir durch ihn. </verse>
+        <verse osisID='1Cor.8.7'>Allein diese Einsicht haben nicht Alle; denn Einige essen, in der Meinung, die sie noch immer von den Götzen haben, von dem Götzen-Opfer, als solchem, und verletzen ihr schwaches Gewissen.</verse>
+        <verse osisID='1Cor.8.8'>Bei Gott gibt uns die Speise keinen Werth, denn wir werden nichts mehr gelten, wenn wir essen, und nichts weniger gelten, wenn wir nicht essen. </verse>
+        <verse osisID='1Cor.8.9'>Sehet also zu, daß diese eure Freiheit den Schwächeren nicht zum Anstoß werde;</verse>
+        <verse osisID='1Cor.8.10'>denn wenn Jemand dich, der du die (bessere) Einsicht hast, in einem Götzentempel speisen sähe, könnte er nicht bei seiner noch schwankenden Ueberzeugung gereizt werden, daß er von den Götzenopferspeisen genöße? </verse>
+        <verse osisID='1Cor.8.11'>So ginge durch deine (bessere) Einsicht dein schwächerer Bruder verloren, für welchen Christus gestorben ist! </verse>
+        <verse osisID='1Cor.8.12'>Indem ihr euch aber so an euren Brüdern versündiget, und ihr noch schwaches Gewissen verwundet, versündigt ihr euch an Christus. </verse>
+        <verse osisID='1Cor.8.13'>Deßwegen wollte ich, wenn eine Speise meinem Bruder Anstoß gäbe, nimmermehr Fleisch essen, um meinem Bruder nicht anstößig zu werden. </verse>
+      </chapter>
+      <chapter osisID='1Cor.9'>
+        <title>Auch etwas an sich Erlaubtes ist aus Liebe und zur Förderung des Guten zu unterlassen.</title>
+        <verse osisID='1Cor.9.1'>Bin ich nicht frei? Bin ich nicht ein Apostel? Habe ich nicht Jesum Christum, unsern Herrn, gesehen? Seyd ihr im Herrn nicht mein Werk? </verse>
+        <verse osisID='1Cor.9.2'>Gelte ich auch Andern nicht als Apostel, so bin ich es doch euch; denn ihr seyd das Siegel meines Apostelamtes im Herrn. </verse>
+        <verse osisID='1Cor.9.3'>Dieß ist meine Vertheidigung gegen die, welche mich Rede stellen wollen. </verse>
+        <verse osisID='1Cor.9.4'>Haben wir nicht das Recht, zu essen und zu trinken? </verse>
+        <verse osisID='1Cor.9.5'>Haben wir nicht das Recht, von einer christlichen Frau uns begleiten zu lassen, wie die übrigen Apostel, und die Brüder des Herrn, und Kephas? </verse>
+        <verse osisID='1Cor.9.6'>Oder solleten nur allein ich und Barnabas das Recht nicht haben, so zu handeln?die Handarbeit zu unterlassen, im Griechischen.</verse>
+        <verse osisID='1Cor.9.7'>Wer dient wohl als Soldat auf eigene Kosten? Wer pflanzet einen Weinberg und genießt nicht von seiner Frucht? Oder wer weidet eine Heerde, und nährt sich nicht von der Milch der Heerde? </verse>
+        <verse osisID='1Cor.9.8'>Spreche ich dieses nur nach dem was bei Menschen gilt? Sagt das Gesetz nicht auch dasselbe? </verse>
+        <verse osisID='1Cor.9.9'>Im Gesetze Mosis heißt es ja: Du sollst dem dreschenden Ochsen das Maul nicht verkörben! Sorget Gott nur für die Ochsen? </verse>
+        <verse osisID='1Cor.9.10'>Oder sagt er's vielmehr nicht unsertwegen? Ja unsertwegen ist es geschrieben: Auf Hoffnung soll der Pflüger pflügen, auf Hoffnung seines Theils der Drescher dreschen. </verse>
+        <verse osisID='1Cor.9.11'>Haben wir euch Geistiges gesäet, ist es etwas Großes, wenn wir euer Fleischliches ernten?</verse>
+        <verse osisID='1Cor.9.12'>Genießen doch Andere dieses Recht bei euch, warum vielmehr nicht wir? Allein wir haben uns dieses Rechtes nicht bedient, sondern wir schicken uns lieber in Alles, um dem Evangelium Christi kein Hinderniß zu veranlassen.</verse>
+        <verse osisID='1Cor.9.13'>Wisset ihr nicht, daß die Opferpriester vom Opfer essen, und die Diener des Altars vom Altare ihren Theil empfangen? </verse>
+        <verse osisID='1Cor.9.14'>So hat auch der Herr verordnet, daß die Prediger des Evangeliums vom Evangelium leben sollen. </verse>
+        <verse osisID='1Cor.9.15'>Ich aber habe von dem Allen nicht Gebrauch gemachet; auch schreibe ich dieses nicht, damit es so mit mir gehalten werde; denn lieber wollte ich sterben, als daß mir Jemand meinen Ruhm vernichten sollete. </verse>
+        <verse osisID='1Cor.9.16'>Denn das verkündigen des Evangeliums gibt mir noch keinen Ruhm, das ist ja meine Pflicht; denn wehe mir, wenn ich das Evangelium nicht verkündigte! </verse>
+        <verse osisID='1Cor.9.17'>Thue ich es gerne; so wird mir mein Lohn; thät' ich es ungerne, so ist mir doch einmal das Amt anvertrauet. </verse>
+        <verse osisID='1Cor.9.18'>Welches ist denn nun mein Lohn? Daß ich das Evangelium,Christi, setzt das Griechische zu. welches ich predige, unentgeltlich hingebe, und von dem Rechte, das mir bei Verkündigung des Evangeliums zukommt, keinen Gebrauch mache. </verse>
+        <verse osisID='1Cor.9.19'>Obgleich ich von Allen unabhängig war; so habe ich mich Allen zum Knechte gemachet, um desto Mehrere zu gewinnen. </verse>
+        <verse osisID='1Cor.9.20'>Bei den Juden betrug ich mich wie ein Jude, um die Juden zu gewinnen; </verse>
+        <verse osisID='1Cor.9.21'>bei den Anhängern des Gesetzes betrug ich mich, als stände auch ich unter dem Gesetze, (obgleich ich nicht unter dem Gesetze stand,) um die Anhänger des Gesetzes zu gewinnen; bei denen hingegen, die ohne Gesetz sind, als wäre auch ich ohne Gesetz, (wiewohl ich von Gottes Gesetze nicht entbunden, sondern dem Gesetze Christi verpflichtet bin), um die Gesetzlosen zu gewinnen. </verse>
+        <verse osisID='1Cor.9.22'>Zu den Schwachenließ ich mich wie ein Schwacher herab, um die Schwachen zu gewinnen; ich bin Allen Alles geworden, um Alleüberall Einige, nach dem Griechischen. selig zu machen. </verse>
+        <verse osisID='1Cor.9.23'>Alles thue ich um des Evangeliums willen, damit auch ich daran Mitantheil haben möge. </verse>
+        <verse osisID='1Cor.9.24'>Wisset ihr nicht, daß die Wettläufer in der Laufbahn zwar alle laufen, nur Einer aber den Preis erhält? Laufet so, daß ihr den Preis gewinnet! </verse>
+        <verse osisID='1Cor.9.25'>Jeder Wettkämpfer muß sich auf's Strengste enthalten; und das thun jene, um einen verwelkenden, wir hingegen, um einen unverwelklichen Kranz zu gewinnen. </verse>
+        <verse osisID='1Cor.9.26'>Eben so laufe nun ich, aber nicht auf's Ungewisse hin; so kämpfe ich, aber nicht um bloße Luftstreiche zu thun; </verse>
+        <verse osisID='1Cor.9.27'>sondern streng und hart halte ich meinen Leib, damit ich nicht, da ich Andern predige, selbst verwerflich werde. </verse>
+      </chapter>
+      <chapter osisID='1Cor.10'>
+        <title>Warnende Beispiele aus der israelitischen Geschichte für diejenigen, welche an den Opfermahlzeiten Theil nehmen.</title>
+        <verse osisID='1Cor.10.1'>Ich möchte nicht, Brüder, daß es bei euch in Vergessenheit käme, wie alle unsere Vorfahren jener Wolke folgten, alle durch das Meer gingen; </verse>
+        <verse osisID='1Cor.10.2'>alle durch die Wolke und das Meer auf Moses getauft wurden; </verse>
+        <verse osisID='1Cor.10.3'>alle dieselbe geistige Speise aßen; </verse>
+        <verse osisID='1Cor.10.4'>alle denselben geistigen Trank genoßen; (sie tranken nämlich von dem geistigen Fels, der sie begleitete; dieser Fels war Christus,) </verse>
+        <verse osisID='1Cor.10.5'>und doch hatte Gott an den Meisten unter ihnen kein Wohlgefallen; deßhalb sie in der Wüste niedergestreckt wurden.</verse>
+        <verse osisID='1Cor.10.6'>Das sind Sinnbilder für uns, damit auch wir uns nicht des Bösen gelüsten lassen, wie Jene sich gelüsten ließen. </verse>
+        <verse osisID='1Cor.10.7'>Nehmet also nicht Theil an dem Götzendienste, wie Einige von Jenen, von denen es heißt: Das Volk setzte sich nieder, zu essen und zu trinklen, und erhob sich zu tanzen. </verse>
+        <verse osisID='1Cor.10.8'>Lasset uns nicht Unzucht treiben, wie Manche von Jenen Unzucht getrieben haben, weßhalb an Einem Tage drei und zwanzig tausend Menschen umkamen.</verse>
+        <verse osisID='1Cor.10.9'>Lasset uns nicht Christum auf die Probe stellen, wie auch Einige von Jenen ihn auf die Probe gestellt haben, die durch Schlangen getödtet wurden. </verse>
+        <verse osisID='1Cor.10.10'>Murret nicht, wie auch Einige von Jenen gemurret haben, die durch den Würgengel umkamen. </verse>
+        <verse osisID='1Cor.10.11'>Dieses Alles widerfuhr jenen sinnbildlich, und ist für uns zur Warnung geschrieben, über welche das letzte Zeitalter gekommen ist. </verse>
+        <verse osisID='1Cor.10.12'>Wer also fest zu stehen glaubt, der sehe zu, daß er nicht falle. </verse>
+        <verse osisID='1Cor.10.13'>Noch hat euch keine Versuchung getroffen, als nach menschlichem Loose, und treu ist Gott, der euch nicht versuchen läßt über eure Kräfte; er wird vielmehr mit der Versuchung auch solche Wendung treffen, daß ihr die ertragen könnet. </verse>
+        <verse osisID='1Cor.10.14'>Darum, meine Geliebten, fliehet den Götzendienst! </verse>
+        <verse osisID='1Cor.10.15'>Ich rede zu euch als Verständigen; beurtheilet selbst, was ich sage: </verse>
+        <verse osisID='1Cor.10.16'>Der gesegnete Kelch, den wir segnen, ist er nicht die Mittheilung des Blutes Christi? Das Brod, das wir brechen, ist es nicht die Mittheilung des Leibes des Herrn?Leibes Christi, nach dem Griechischen.</verse>
+        <verse osisID='1Cor.10.17'>Deßwegen sind Ein Brod, Ein Leib wir Viele, Alle die wir von Einem Brode genießen.denn wir Alle genießen von Einem Brode, nach dem Griechischen.</verse>
+        <verse osisID='1Cor.10.18'>Sehet auf die Israeliten nach dem Fleische! Sind nicht die, welche von den Opfern essen dürfen, Mitgenossen des Altars? </verse>
+        <verse osisID='1Cor.10.19'>Was will ich damit sagen? Daß ein Götze etwas sey? Oder daß das Götzenopfer etwas sey? </verse>
+        <verse osisID='1Cor.10.20'>Nein! was der Heide opfert, das opfert er Teufeln, und nicht Gott, Ich will aber nicht, daß ihr Theil nehmet an dem Teufelsdienste. </verse>
+        <verse osisID='1Cor.10.21'>Ihr könnet doch nicht den Kelch des Herrn und den Kelch der Teufel trinken; ihr könnet nicht an dem Mahle des Herrn und an dem Teufel-Mahle Theil nehmen! </verse>
+        <verse osisID='1Cor.10.22'>Oder wollen wir den Herrn zum Unwillen reizen? Sind wir stärker als Er? </verse>
+        <verse osisID='1Cor.10.23'>Wäre auch Alles erlaubt, so ist doch nicht Alles heilsam; wäre Alles erlaubt, so ist doch nicht Alles erbaulich. </verse>
+        <verse osisID='1Cor.10.24'>Niemand suche bloß seinen Vortheil, sondern auch den Nutzen des Andern! </verse>
+        <verse osisID='1Cor.10.25'>Alles, was auf dem Fleischmarkte verkauft wird, das esset, ohne des Gewissens wegen ängstlich nachzufragen. </verse>
+        <verse osisID='1Cor.10.26'>Denn des Herrn ist die Erde mit Allem, was sie füllt.</verse>
+        <verse osisID='1Cor.10.27'>Ladet euch ein Ungläubiger zu Tische, und ihr wollet hingehen; so esset Alles, was euch vorgesetzt wird, ohne des Gewissens wegen ängstlich nachzufragen. </verse>
+        <verse osisID='1Cor.10.28'>Wenn aber Jemand zu euch sagte: Dieß ist vom Götzenopfer; so esset nicht davon, um dessentwillen, der es anzeigte, und um des Gewissens willen. </verse>
+        <verse osisID='1Cor.10.29'>Ich meine aber nicht dein eigenes, sondern des Andern Gewissen; denn warum sollete meine Freiheit von dem Gewissen eines Andern gerichtet werden? </verse>
+        <verse osisID='1Cor.10.30'>Wenn ich etwas mit Dank genieße, warum sollete ich darum, wofür ich danke, gelästert werden? </verse>
+        <verse osisID='1Cor.10.31'>Ihr möget also essen oder trinken, oder sonst etwas thun: thut Alles Gott zu Ehren.</verse>
+        <verse osisID='1Cor.10.32'>Gebet weder Juden, noch Heiden, noch der Gemeinde Gottes einen Anstoß! </verse>
+        <verse osisID='1Cor.10.33'>Wie auch ich mich auf alle Weise nach Jedem bequeme, und nicht darauf sehe, was mir, sondern was Vielen förderlich ist, daß sie selig werden. </verse>
+      </chapter>
+      <chapter osisID='1Cor.11'>
+        <title>Beachtung des äußern Wohlstandes in den Versammlungen. - Feier des heiligen Abendmahls.</title>
+        <verse osisID='1Cor.11.1'>Folget meinem Beispiele, wie ich dem Beispiele Christi folge! </verse>
+        <verse osisID='1Cor.11.2'>Ich lobe euch, Brüder, daß ihr bei Allem an mich denket, und nach den Ueberlieferungen, die ich euch ertheilt habe, euch richtet. </verse>
+        <verse osisID='1Cor.11.3'>Dieß sollet ihr aber wissen, daß eines jeden Mannes Oberhaupt Christus, des Weibes Oberhaupt der Mann, und Christi Oberhaupt Gott ist. </verse>
+        <verse osisID='1Cor.11.4'>Jeder Mann, der mit bedecktem Haupte betet, oder weissaget,Kap. 14,3. entehret sein Haupt; </verse>
+        <verse osisID='1Cor.11.5'>jede Frau hingegen, die mit unverschleiertem Haupte betet, oder weissaget, beschimpfet ihr Haupt; denn es ist eben so viel, als wäre sie geschoren. </verse>
+        <verse osisID='1Cor.11.6'>Wenn eine Frau sich nicht verschleiert, so mag sie sich auch die Haare abschneiden lassen; ist es aber der Frau eine Schande, sich die Haare abschneiden oder ganz wegscheeren zu lassen; so verschleiere sie ihr Haupt.ihr Haupt fehlt im Griechischen</verse>
+        <verse osisID='1Cor.11.7'>Ein Mann hingegen darf sein Haupt nicht bedecken, weil er Gottes Bild und Würde an sich trägt; die Frau hingegen des Mannes würde;</verse>
+        <verse osisID='1Cor.11.8'>denn der Mann ist nicht von der Frau, sondern die Frau vom Manne. </verse>
+        <verse osisID='1Cor.11.9'>Auch ist der Mann nicht um der Frau, sondern die Frau um des Mannes willen geschaffen.</verse>
+        <verse osisID='1Cor.11.10'>Darum soll die Frau ein Oberherrschaftszeichen auf dem Haupte haben, um der Engel willen. </verse>
+        <verse osisID='1Cor.11.11'>Uebrigens so ist weder ein Mann ohne Weib, noch ein Weib ohne Mann im Herrn. </verse>
+        <verse osisID='1Cor.11.12'>Denn so wie das Weib von dem Manne ist, so ist der Mann durch das Weib da; Alles aber ist von Gott. </verse>
+        <verse osisID='1Cor.11.13'>Urtheilet selbst: schickt es sich für eine Frau, ohne Schleier öffentlich zu Gott zu beten? </verse>
+        <verse osisID='1Cor.11.14'>Oder lehret euch nicht selbst die Natur, daß es dem Manne schimpflich sey, sein Haupthaar lang wachsen zu lassen? </verse>
+        <verse osisID='1Cor.11.15'>Das lange Haar hingegen des Weibes Zierde sey, weil das Haar ihr statt eines Schleiers gegeben ist? </verse>
+        <verse osisID='1Cor.11.16'>Sollte übrigens Jemand Lust haben, zu streiten: wir und die Gemeinden Gottes haben eine solche Sitte nicht.</verse>
+        <verse osisID='1Cor.11.17'>Da ich diese Anordnungen treffe, kann ich nicht loben, daß es durch eure Zusammenkünfte mit euch nicht besser, sondern schlimmer wird. </verse>
+        <verse osisID='1Cor.11.18'>Denn für's Erste höre ich, daß bei euren Zusammenkünften in der Gemeinde Spaltungen unter euch seyen, und zum Theil glaube ich es. </verse>
+        <verse osisID='1Cor.11.19'>Denn es müssen auch Spaltungen unter euch seyn, damit die Bewährten unter euch kenntlich werden. </verse>
+        <verse osisID='1Cor.11.20'>Wenn ihr nun zusammenkommet; so heißt das nicht das Abendmahl des Herrn genießen. </verse>
+        <verse osisID='1Cor.11.21'>Denn Jeder nimmt seine Speise vor sich hin, und ißt; und so ist der Eine noch hungrig, der Andere überladet sich. </verse>
+        <verse osisID='1Cor.11.22'>Habt ihr zum Essen und Trinken nicht eure Häuser? Oder achtet ihr die Gemeinde Gottes so gering, und beschämet die, welche nichts mitbringen? Was soll ich sagen? Euch loben? Hierin lobe ich euch nicht. </verse>
+        <verse osisID='1Cor.11.23'>Denn vom Herrn habe ich es empfangen, was ich euch übergeben habe, nämlich: Der Herr, Jesus, in der Nacht, da er verrathen wurde, nahm er Brod, </verse>
+        <verse osisID='1Cor.11.24'>und dankte, brach es und sprach: Nehmet, esset; dieß ist mein Leib, der für euch hingegebengebrochen wird, nach dem Griechischen. wird; thut dieß zu meinem Andenken! </verse>
+        <verse osisID='1Cor.11.25'>Deßgleichen nahm er auch nach der Mahlzeit den Kelch und sprach: Dieser Kelch ist der neue Bund in meinem Blute; thut dieses, so oft ihr trinket, zu meinem Andenken! </verse>
+        <verse osisID='1Cor.11.26'>Denn so oft ihr dieses Brod esset und diesen Kelch trinket, sollet ihr den Tod des Herrn, bis er wiederkommt, in Erinnerung bringen.</verse>
+        <verse osisID='1Cor.11.27'>Wer demnach unwürdig dieses Brod ist, oder den Kelch des Herrn trinkt, der versündigt sich an dem Leibe und Blute des Herrn. </verse>
+        <verse osisID='1Cor.11.28'>So prüfe denn Jeder sich selbst; alsdann esse er von diesem Brode und trinke aus diesem Kelche; </verse>
+        <verse osisID='1Cor.11.29'>denn wer unwürdig ißt und trinkt, der ißt und trinkt sich selbst das Gericht, weil er den Leib des Herrn nicht unterscheidet. </verse>
+        <verse osisID='1Cor.11.30'>Darum gibt es unter euch so viele Kranke und Schwache; ja nicht wenige schlafen. </verse>
+        <verse osisID='1Cor.11.31'>Denn wenn wir uns selber richten, so würden wir gewiß nicht gerichtet werden; </verse>
+        <verse osisID='1Cor.11.32'>werden wir aber gerichtet, so werden wir vom Herrn gezüchtiget, damit wir nicht mit der Welt verdammet werden. </verse>
+        <verse osisID='1Cor.11.33'>Wenn ihr also, meine Brüder, zu dem Mahle zusammenkommet, so warte Einer auf den Andern! </verse>
+        <verse osisID='1Cor.11.34'>Hat Jemand Hunger, so esse er zu Hause, damit die Zusammenkunft euch nicht zur Strafe gereiche. Das Uebrige will ich anordnen, wenn ich komme. </verse>
+      </chapter>
+      <chapter osisID='1Cor.12'>
+        <title>Ueber Verschiedenheit der Geistesgaben, ihre Bestimmung und Anwendung.</title>
+        <verse osisID='1Cor.12.1'>Was die Geistesgaben angeht, will ich nicht, Brüder! euch unwissend lassen. </verse>
+        <verse osisID='1Cor.12.2'>Ihr wisset, daß ihr als Heiden, wie ihr geführt wurdet, zu den stummen Götzen ginget. </verse>
+        <verse osisID='1Cor.12.3'>Deßwegen gebe ich euch diese Belehrung: Niemand, der in Gottes Geiste redet, wird eine Lästerung gegen Jesum ausstoßen, auch kann Niemand Jesum den Herrn bekennen, außer im heiligen Geiste.</verse>
+        <verse osisID='1Cor.12.4'>Indessen sind die Gaben verschieden; aber es ist doch Ein Geist.</verse>
+        <verse osisID='1Cor.12.5'>Verschieden sind die Aemter; aber es ist Ein Herr. </verse>
+        <verse osisID='1Cor.12.6'>Verschieden sind die Wirkungen; aber es ist Ein Gott, der Alles in Allem wirket. </verse>
+        <verse osisID='1Cor.12.7'>Jedem aber wird zur Nutzanwendung etwas verliehen, worin der Geist versichtbaret wird. </verse>
+        <verse osisID='1Cor.12.8'>Der Eine erhält durch den Geist die Lehrgabe der Weisheit, der Andere durch denselben Geist die Lehrgabe der Wissenschaft. </verse>
+        <verse osisID='1Cor.12.9'>Dem Einen wird Glaube durch denselben Geist; einem Andern die Gabe, Kranke zu heilen, durch eben diesen Geist.</verse>
+        <verse osisID='1Cor.12.10'>Einem die Wunderkraft, dem Andern die Weissagungsgabe, wieder einem Andern die Geister zu unterscheiden; noch einem Andern die Sprachengabe, und einem Dritten die Uebersetzungsgabe der Sprachen.</verse>
+        <verse osisID='1Cor.12.11'>Aber dieß Alles wirket Ein und der nämliche Geist, der Jedem nach seinem Willen dieß oder jenes mittheilt. </verse>
+        <verse osisID='1Cor.12.12'>So wie nämlich der Körper ein Ganzes ist, und der Glieder viele hat; alle Glieder des Körpers aber, ungeachtet ihrer Menge, doch nur Einen Körper bilden; so verhält es sich auch mit Christus.</verse>
+        <verse osisID='1Cor.12.13'>Denn wir Alle, Juden oder Heiden, Sklaven oder Freie, sind durch einen Geist zu Einem Körper getauft, und Alle auf Einen Geist getränkt. </verse>
+        <verse osisID='1Cor.12.14'>Denn nicht ein einzelnes, sondern viele Glieder machen den Körper aus. </verse>
+        <verse osisID='1Cor.12.15'>Wenn der Fuß sagte: Weil ich nicht Hand bin, so gehöre ich nicht zum Körper, wird er darum nicht zum Körper gehören? </verse>
+        <verse osisID='1Cor.12.16'>Und wenn das Ohr sagte: Weil ich nicht Auge bin, so bin ich kein Theil des Körpers, wäre es deßwegen kein Theil des Körpers? </verse>
+        <verse osisID='1Cor.12.17'>Wenn der ganze Körper Auge wäre, wo bliebe das Gehör? Wenn er ganz Gehör wäre, wo bliebe der Geruch? </verse>
+        <verse osisID='1Cor.12.18'>Nun hat aber Gott den Gliedern die Stelle angewiesen, jedem derselben am Körper nach seinem Wohlgefallen. </verse>
+        <verse osisID='1Cor.12.19'>Wäre Alles nur ein und dasselbe Glied, wo wäre dann ein Körper? </verse>
+        <verse osisID='1Cor.12.20'>Nun aber sind der Glieder viele; aber nur Ein Körper? </verse>
+        <verse osisID='1Cor.12.21'>Das Auge kann nicht zu der Hand sagen: Ich kann dich entbehren; eben so wenig der Kopf zu den Füßen: Ich bedarf eurer nicht; </verse>
+        <verse osisID='1Cor.12.22'>vielmehr sind gerade diejenigen Glieder des Körpers, welche die schwächern scheinen, die unentbehrlichsten; </verse>
+        <verse osisID='1Cor.12.23'>und diejenigen, welche wir für die unansehnlichsten des Körpers halten, kleiden wir desto mehr Schmuck; und die unanständigen an uns haben um desto größern Anstand; </verse>
+        <verse osisID='1Cor.12.24'>diejenigen, die uns wohl anstehen, bedürfen dessen nicht. Aber Gott hat den Körper eingerichtet, daß er den unedleren Theilen desto mehr Werth verlieh; </verse>
+        <verse osisID='1Cor.12.25'>damit keine Unordnung im Körper sey, sondern die Glieder gemeinschaftlich für einander sorgen. </verse>
+        <verse osisID='1Cor.12.26'>Wenn nun ein Glied leidet, so leiden alle Glieder; wird dem einen Gliede wohl, so theilen alle Glieder die Freude. </verse>
+        <verse osisID='1Cor.12.27'>Ihr seyd der Körper Christi, und jeder Einzelne ist ein Glied desselben. </verse>
+        <verse osisID='1Cor.12.28'>Und zwar setzte Gott in der Kirche zuerst Einige als Apostel an, nächst ihnen Propheten; dann Lehrer; dann verlieh er auch Wunderkräfte; Gaben zu heilen, zu helfen, die Aufsicht zu führen, in fremden Sprachen zu reden, die Reden auszulegen.die Reden auszulegen fehlt im Griechischen</verse>
+        <verse osisID='1Cor.12.29'>Sind denn nun Alle Apostel? Alle Propheten? Alle Lehrer? </verse>
+        <verse osisID='1Cor.12.30'>Haben Alle Wunderkräfte? Alle die Gabe zu heilen? Können Alle in fremden Sprachen reden? Alle diese auslegen? </verse>
+        <verse osisID='1Cor.12.31'>Beeifert euch um die nützlichern Gaben! Und dazu will ich euch noch einen trefflichen Weg zeigen. </verse>
+      </chapter>
+      <chapter osisID='1Cor.13'>
+        <title>Hoher Werth der Liebe.</title>
+        <verse osisID='1Cor.13.1'>Wenn ich die Sprachen der Menschen und der Engel redete, hätte aber die Liebe nicht; so wäre ich ein tönendes Erz, oder eine klingende Schelle.</verse>
+        <verse osisID='1Cor.13.2'>Und wenn ich weissagen könnte;Kap.14,3. und alle Geheimnisse und alle Kenntnisse wüßte, und den stärksten Glauben hätte, so daß ich Berge versetzte; es fehlte mir aber an Liebe, so wäre ich nichts. </verse>
+        <verse osisID='1Cor.13.3'>Ja, wenn ich mein ganzes Vermögen zum Unterhalt der Armen hingäbe, und meinen Leib hinopferte, so daß ich mich verbrennen ließe, es fehlte mir aber an Liebe, so hülfe es mir nichts. </verse>
+        <verse osisID='1Cor.13.4'>Die Liebe ist langmüthig, ist milde; die Liebe beneidet nicht; sie ist nicht unbescheiden; sie blähet nicht auf; </verse>
+        <verse osisID='1Cor.13.5'>sie verletzet den Wohlstand nicht; sie ist nicht eigensüchtig; sie läßt sich nicht erbittern; sie denkt nichts Arges; </verse>
+        <verse osisID='1Cor.13.6'>sie hat nicht Freude an dem Unrecht, aber Freude an der Wahrheit; </verse>
+        <verse osisID='1Cor.13.7'>sie trägt Alles; sie glaubt Alles; sie hofft Alles; sie duldet Alles. </verse>
+        <verse osisID='1Cor.13.8'>Die Liebe hört nimmer auf; wenn auch WeissagungsgabenKap.14,3. wegfallen, die Sprachgaben aufhören, und es mit der Erkenntniß ein Ende nimmt. </verse>
+        <verse osisID='1Cor.13.9'>Denn unvollkommen ist unsere Erkenntniß und unvollkommen unser begeisterter Vortrag; </verse>
+        <verse osisID='1Cor.13.10'>wann aber das Vollkommene erscheint, dann wird das Unvollkommene aufhören. </verse>
+        <verse osisID='1Cor.13.11'>Als ich Kind war, redete ich wie ein Kind, dachte wie ein Kind, urtheilte wie ein Kind; als ich aber Mann wurde, legte ich das Kindische ab. </verse>
+        <verse osisID='1Cor.13.12'>Jetzt sehen wir noch dunkel, wie durch einen Spiegel räthselhaft; einst aber von Angesicht zu Angesicht. Jetzt noch ist mein Erkennen unvollkommen; dann aber werde ich erkennen, so wie ich auch erkannt werde. </verse>
+        <verse osisID='1Cor.13.13'>Hienieden einmal bleiben Glaube, Hoffnung, Liebe, diese drei; aber die größte unter diesen ist die Liebe. </verse>
+      </chapter>
+      <chapter osisID='1Cor.14'>
+        <title>Vom Gebrauche der Sprachen- und Lehrgabe in den Versammlungen.</title>
+        <verse osisID='1Cor.14.1'>Strebet nach der Liebe! Um die Geistesgaben beeifert euch; besonders aber, daß ihr weissaget.</verse>
+        <verse osisID='1Cor.14.2'>Denn wer in fremder Sprache redet, der redet nicht für Menschen, sondern vor Gott; denn Niemand versteht ihn, indem er im Geiste geheimnißvolle Dinge spricht. </verse>
+        <verse osisID='1Cor.14.3'>Wer aber weissaget, der redet den Menschen zur Erbauung, zur Ermahnung und zum Troste. </verse>
+        <verse osisID='1Cor.14.4'>Wer in fremder Sprache redet, mag sich selber wohl erbauen; wer aber weissaget, der erbauet die Gemeinde. </verse>
+        <verse osisID='1Cor.14.5'>Ich möchte wünschen, daß ihr Alle in fremden Sprachen reden; mehr noch, daß ihr weissagen könntet; denn wer weissaget, der hat Vorzüge vor dem, welcher in fremden Sprachen redet; außer er übersetzt es, damit die Gemeinde sich erbauen könnte.</verse>
+        <verse osisID='1Cor.14.6'>Was aber, Brüder! würde ich euch wohl nützen, wenn ich zu euch käme, und in fremden Sprachen redete, ohne euch vorzutragen entweder eine Offenbarung, oder eine höhere Kenntniß, oder eine Weissagung, oder Belehrungen?</verse>
+        <verse osisID='1Cor.14.7'>Schon bei leblosen Dingen, die einen Laut von sich geben, bei einer Flöte oder Zither ist es so; wenn die Töne nicht bestimmt angegeben werden, wie kann man wissen, was geblasen oder gespielt wird? </verse>
+        <verse osisID='1Cor.14.8'>So auch, wenn die Posaune einen unbestimmten Laut gibt, wer wird sich zum Streite rüsten? </verse>
+        <verse osisID='1Cor.14.9'>Eben so auch ihr, wenn ihr durch die Sprache nicht verständliche Reden haltet, wie wird man verstehen , was ihr sprechet? In den Wind werdet ihr reden. </verse>
+        <verse osisID='1Cor.14.10'>Es gibt zum Beispiel mancherlei Mundarten in der Welt, und deren keine ist unverständlich; </verse>
+        <verse osisID='1Cor.14.11'>allein wenn ich die Bedeutung der Worte nicht verstehe, so bin ich dem, der redet, ein Fremdling, und der Redende ist mir ein Fremdling. </verse>
+        <verse osisID='1Cor.14.12'>So suchet auch ihr, da ihr doch um Geistesgaben eifert, ihrer die Fülle zu haben, zur Erbauung der Gemeinde.</verse>
+        <verse osisID='1Cor.14.13'>Wer demnach in fremden Sprachen reden kann, der bete so, daß er es auch erkläre.</verse>
+        <verse osisID='1Cor.14.14'>Denn wenn ich in fremder Sprache bete, so betet mein Geist, aber mein Sinn ist ohne Nutzen. </verse>
+        <verse osisID='1Cor.14.15'>Was soll ich also thun? Beten will ich mit Geiste, aber auch beten mit Verständlichkeit; lobsingen will ich mit Geiste, aber auch lobsingen mit Verständlichkeit. </verse>
+        <verse osisID='1Cor.14.16'>Sonst wenn du im Geiste einen Segen sprichst, wie kann der, welcher deiner Sprache nicht kundig ist, zu deinem Segensspruch das Amen sprechen? Er versteht ja nicht, was du sagst. </verse>
+        <verse osisID='1Cor.14.17'>Dein Segensgebet mag schön seyn; aber der Andere hat keine Erbauung davon. </verse>
+        <verse osisID='1Cor.14.18'>Ich danke meinem Gott, daß ich jede eurer Sprachen spreche;"Ich danke Gott, daß ich besser, als ihr Alle, in Sprachen rede," nach dem Griechischen.</verse>
+        <verse osisID='1Cor.14.19'>aber ich will doch lieber vor der Gemeinde fünf Worte sagen, die verständlich und für Andere belehrend sind, als zehntausend in einer fremden Sprache. </verse>
+        <verse osisID='1Cor.14.20'>Brüder! seyd nicht Kinder am Verstande; in Hinsicht des Bösen bleibet Kinder; aber an Einsicht suchet vollkommener zu werden. </verse>
+        <verse osisID='1Cor.14.21'>Im Gesetz steht geschrieben: In fremden Sprachen, in andern Zungen will ich zu diesem Volke reden; dennoch werden sie kein Gehör mir geben, spricht der Herr. </verse>
+        <verse osisID='1Cor.14.22'>Die Sprachengabe ist also nicht für die Gläubigen, sondern für die Ungläubigen zum Zeichen da; die WeissagungsgabenV.3. hingegen sind nicht für die Ungläubigen, sondern für die Gläubigen. </verse>
+        <verse osisID='1Cor.14.23'>Gesetzt, die ganze Gemeinde wäre beisammen, und Alle redeten in fremden Sprachen; und es träten der Sprachen Unkundige oder Ungläubige hinein, würden sie nicht sagen, ihr seyd wahnsinnig?</verse>
+        <verse osisID='1Cor.14.24'>Gesetzt aber, Alle weissagten,V.3. und es käme ein Ungläubiger oder Sprachen Unkundiger hinzu, er würde von Allen überführt, von Allen gerichtet werden; </verse>
+        <verse osisID='1Cor.14.25'>das Verborgene seines Herzens würde offenbar werden; auf sein Angesicht würde er hinfallen, Gott anbeten, und öffentlich bekennen, daß Gott wahrhaftig in euch wirke. </verse>
+        <verse osisID='1Cor.14.26'>Was ist also zu thun, Brüder? Wenn ihr zusammenkommet, und der Eine von euch hat einen Lobgesang, der Andere einen Lehrvortrag, ein Anderer eine Offenbarung; ein Anderer einen Vortrag in fremden Sprachen; ein Anderer eine Auslegung, so geschehe Alles zur Erbauung!</verse>
+        <verse osisID='1Cor.14.27'>Will man in fremden Sprachen reden, so geschehe es von zweien, höchstens von dreien, und zwar nacheinander, und Einer erkläre es. </verse>
+        <verse osisID='1Cor.14.28'>Ist aber kein Ausleger da, so schweige Jener vor der Gemeinde; für sich und vor Gott mag er in Sprachen beten.</verse>
+        <verse osisID='1Cor.14.29'>So mögen auch zwei oder drei Weissagungen reden,V.3. und die Uebrigen es beurtheilen.</verse>
+        <verse osisID='1Cor.14.30'>Wird aber einem andern Zuhörer eine Offenbarung zu Theil; so lasse er den Erstern erst aufhören zu reden. </verse>
+        <verse osisID='1Cor.14.31'>Nach einander können Alle Weissagungen reden, so daß Alle lernen, und Alle zum Guten ermuntert werden. </verse>
+        <verse osisID='1Cor.14.32'>Die Geister der Propheten unterwerfen sich ja wohl den Propheten! </verse>
+        <verse osisID='1Cor.14.33'>Denn Gott ist kein Gott der Unordnung, sondern des friedens; wie ich in allen Gemeinden der Heiligen lehre.ich lehre, fehlt im Griechischen</verse>
+        <verse osisID='1Cor.14.34'>Die Frauen sollen in euren Gemeinden schweigen; denn es ist ihnen nicht verstattet, Vorträge zu halten, sondern unterwürfig zu seyn, wie auch das Gesetz verordnet.</verse>
+        <verse osisID='1Cor.14.35'>Verlangen sie über etwas Belehrung, so können sie zu Hause ihre Männer fragen. Denn es ist wider den Wohlstand, daß eine Frau in der Gemeinde Vorträge hält. </verse>
+        <verse osisID='1Cor.14.36'>Oder ist Gottes Wort von euch ausgegangen? Oder nur allein zu euch gelangt? </verse>
+        <verse osisID='1Cor.14.37'>Wer ein Prophet zu seyn, oder andere Geistesgaben zu besitzen glaubt, der wisse, daß, was ich euch schreibe, Gebote des Herrn sind; </verse>
+        <verse osisID='1Cor.14.38'>wer es nicht einsieht, der sehe es nicht ein! </verse>
+        <verse osisID='1Cor.14.39'>Darum, Brüder! strebet nach der Weissagungsgabe; doch ohne darum das Reden in fremden Sprachen zu wehren; </verse>
+        <verse osisID='1Cor.14.40'>nur geschehe Alles mit Anstand und Ordnung! </verse>
+      </chapter>
+      <chapter osisID='1Cor.15'>
+        <title>Beweis der Wahrheit und Möglichkeit einer Auferstehung.</title>
+        <verse osisID='1Cor.15.1'>Ich bringe euch, Brüder! das Evangelium in Erinnerung, das ich euch gepredigt habe, das ihr auch angenommen habet, in welchem ihr auch verharret; </verse>
+        <verse osisID='1Cor.15.2'>wodurch ihr auch selig werdet, (wenn ihr euch so daran haltet, wie ich es euch vorgetragen habe;) wenn anders ihr nicht vergebens den Glauben angenommen. </verse>
+        <verse osisID='1Cor.15.3'>Ich trug es euch nämlich als eine Hauptlehre vor, die auch ich empfangen habe, daß Christus, den Schriften gemäß, für unsere Sünden gestorben ist; </verse>
+        <verse osisID='1Cor.15.4'>daß er, den Schriften gemäß, begraben wurde, und am dritten Tage auferstand;</verse>
+        <verse osisID='1Cor.15.5'>- und daß er dem Kephas erschien, nachher den Eilfen;den Zwölfen, im Griechischen.</verse>
+        <verse osisID='1Cor.15.6'>darauf mehr als fünfhundert Brüdern auf einmal erschien, von welchen die Meisten noch am Leben, Einige aber entschlafen sind. </verse>
+        <verse osisID='1Cor.15.7'>Dann erschien er dem Jakobus, und wiederum allen Aposteln. </verse>
+        <verse osisID='1Cor.15.8'>Zuletzt von Allen erschien er auch mir, wie einer unzeitigen Geburt; </verse>
+        <verse osisID='1Cor.15.9'>(denn ich bin der Geringste unter den Aposteln, nicht werth, den Namen eines Apostels zu führen, weil ich die Gemeinde Gottes verfolgte.</verse>
+        <verse osisID='1Cor.15.10'>Durch Gottes Gnade bin ich aber, was ich bin, und seine Gnade ist in mir nicht fruchtlos gewesen; denn ich habe mehr, als sie Alle gearbeitet; doch nicht ich, sondern die Gnade Gottes in mir.) </verse>
+        <verse osisID='1Cor.15.11'>Ob indessen ich, oder sie; wir lehren einmal so, und ihr habt es geglaubt. </verse>
+        <verse osisID='1Cor.15.12'>Wenn nun Christus verkündigt wird, daß er von den Todten auferstanden sey, wie können Einige unter euch sagen: Es sey keine Auferstehung der Todten? </verse>
+        <verse osisID='1Cor.15.13'>Ist keine Auferstehung der Todten, so ist auch Christus nicht auferstanden.</verse>
+        <verse osisID='1Cor.15.14'>Ist aber Christus nicht auferstanden, so ist unsere Lehre falsch und euer Glaube ohne Grund </verse>
+        <verse osisID='1Cor.15.15'>Dann würden auch wir als falsche Zeugen Gottes erscheinen, weil wir, Gott entgegen, bezeugt hätten, er habe Christum auferweckt, den er nicht auferweckt hat, wenn nämlich Todte nicht auferstehen. </verse>
+        <verse osisID='1Cor.15.16'>Denn wenn Todte nicht auferstehen; so ist auch Christus nicht auferstanden.</verse>
+        <verse osisID='1Cor.15.17'>Und wenn Christus nicht auferstanden ist, so ist euer Glaube nichtig; ihr seyd noch in euren Sünden;</verse>
+        <verse osisID='1Cor.15.18'>verloren sind folglich auch die, welche in Christo entschlafen sind. </verse>
+        <verse osisID='1Cor.15.19'>Ist unsere Hoffnung auf Christus allein auf dieses Leben beschränkt, so sind wir unglücklicher als alle Menschen. </verse>
+        <verse osisID='1Cor.15.20'>Nun aber ist Christus von den Todten auferstanden als Erstling der Entschlafenen.</verse>
+        <verse osisID='1Cor.15.21'>Denn wie durch einen Menschen der Tod kam, so auch durch einen Menschen die Auferstehung der Todten.</verse>
+        <verse osisID='1Cor.15.22'>Wie nämlich durch Adam Alle sterben, so werden auch durch Christus Alle wieder in's Leben gebracht werden.</verse>
+        <verse osisID='1Cor.15.23'>Doch Jeder in seiner Ordnung: zuerst Christus, dann die, welche Christo angehören, und an seine Wiederkunft glauben.bei seiner Wiederkunft, nach dem Griechischen.</verse>
+        <verse osisID='1Cor.15.24'>Darnach die Vollendung, wann er das Reich Gott, dem Vater, übergeben, wann er jede Herrschaft, Macht und Gewalt, vernichtet haben wird.</verse>
+        <verse osisID='1Cor.15.25'>Indeß muß er herrschen, bis er alle Feinde unter seine Füße gelegt.</verse>
+        <verse osisID='1Cor.15.26'>Der letzte Feind, der zernichtet wird, ist der Tod; denn Alles hat Er seinen Füßen unterworfen.</verse>
+        <verse osisID='1Cor.15.27'>Wenn es aber heißt, daß Alles unterworfen sey; so versteht es sich, daß der ausgenommen ist, welcher ihm Alles unterworfen hat. </verse>
+        <verse osisID='1Cor.15.28'>Wann ihm aber Alles wird unterworfen seyn, dann wird auch selbst der Sohn sich dem unterwerfen, der ihm Alles unterworfen hat, so daß Gott Alles in Allem sey. </verse>
+        <verse osisID='1Cor.15.29'>Was machen sonst die, welche um der Todten willen sich taufen lassen, wenn die Todten überhaupt nicht auferstehen? warum lassen sie sich um derselben willen taufen? </verse>
+        <verse osisID='1Cor.15.30'>Warum setzen auch wir uns stündlicher Gefahr aus?</verse>
+        <verse osisID='1Cor.15.31'>Täglich sehe ich den Tod vor mir; ich betheure es euch, Brüder!Brüder fehlt im Griechischen. bei dem Ruhme, den ich durch Christum Jesum, unsern Herrn, habe.</verse>
+        <verse osisID='1Cor.15.32'>Wenn ich, nach menschlicher Weise zu Ephesus mit wilden Thieren kämpfte, was nützte es mir? Wenn die Todten nicht auferstehen; so lasset und essen und trinken; denn morgen sind wir todt.</verse>
+        <verse osisID='1Cor.15.33'>Lasset euch nicht verführen; böse Gespräche verderben gute Sitten. </verse>
+        <verse osisID='1Cor.15.34'>Wachet recht auf und sündiget nicht! Denn Einige haben gar keine Kenntniß von Gott; zu eurer Beschämung muß ich es sagen! </verse>
+        <verse osisID='1Cor.15.35'>Aber es möchte Jemand fragen: Wie werden die Todten auferstehen? In welchem Körper werden sie erscheinen? </verse>
+        <verse osisID='1Cor.15.36'>O du Thor! was du säest, das lebt nicht auf, wenn es nicht zuvor erstorben ist.</verse>
+        <verse osisID='1Cor.15.37'>Und was du säest, säest du noch nicht den Körper, der es erst werden soll, sondern ein bloßes Samenkorn, zum Beispiel Waizen oder sonst ein anderes; </verse>
+        <verse osisID='1Cor.15.38'>Gott aber gibt ihm einen Körper, wie Er es will, und einer jeden Samenart ihren besonderen Körper. </verse>
+        <verse osisID='1Cor.15.39'>Nicht alles Fleisch ist einerlei Fleisch; sondern anders ist das Fleisch der Menschen, anders das der Thiere, anders das der Fische, anders das der Vögel. </verse>
+        <verse osisID='1Cor.15.40'>Auch gibt es himmlische Körper und irdische Körper; aber eine andere Herrlichkeit haben die himmlischen, eine andere die irdischen. </verse>
+        <verse osisID='1Cor.15.41'>Die Sonne hat einen andern Glanz, einen andern Glanz der Mond; einen andern Glanz die Sterne; ein Stern ist sogar vom andern an Glanze verschieden. </verse>
+        <verse osisID='1Cor.15.42'>So verhält es sich auch mit der Auferstehung der Todten. Verwesliches wird gesäet, Unverwesliches wird auferstehen. </verse>
+        <verse osisID='1Cor.15.43'>Unansehnliches wird gesäet, Herrliches wird auferstehen. Gebrechliches wird gesäet, Kraftvolles wird auferstehen. </verse>
+        <verse osisID='1Cor.15.44'>Ein thierischer Körper wird gesäet, ein geistiger Körper wird auferstehen; es gibt einen thierischen Körper und einen geistigen Körper. Wie es auch geschrieben steht:</verse>
+        <verse osisID='1Cor.15.45'>Der erste Mensch, Adam, wurde zu einer lebendigen Seele, der letzte Adam zu einem lebendigmachenden Geiste. </verse>
+        <verse osisID='1Cor.15.46'>Aber das Geistige das war nicht das erste, sondern das Thierische; nachher kam erst das Geistige. </verse>
+        <verse osisID='1Cor.15.47'>Der erste Mensch aus Erde gebildet, war irdisch; der andere Mensch dem Himmel entstammend, war himmlisch. </verse>
+        <verse osisID='1Cor.15.48'>Wie der Irdische war, so sind auch die Irdischen; und wie der Himmlische ist, so werden auch die Himmlischen seyn. </verse>
+        <verse osisID='1Cor.15.49'>Wie wir das Bild des Irdischen getragen haben; so werden wir auch das Bild des Himmlischen tragen!</verse>
+        <verse osisID='1Cor.15.50'>Dieses sage ich aber, Brüder! daß Fleisch und Blut das Reich Gottes nicht ererben können, und das Verwesliche der Unverweslichkeit nicht theilhaftig wird. </verse>
+        <verse osisID='1Cor.15.51'>Siehe! ich sage euch ein Geheimniß: wir werden zwar Alle auferstehen, aber nicht Alle verwandelt werden;"wir werden nicht Alle entschlafen, aber Alle verwandelt werden," nach dem Griechischen.</verse>
+        <verse osisID='1Cor.15.52'>Plötzlich, in einem Augenblick; auf den Schall der letzten Posaune. (Denn erschallen wird die Posaune, und unverweslich werden die Todten auferstehen, und mit uns wird eine Verwandlung vorgehen.) </verse>
+        <verse osisID='1Cor.15.53'>Denn dieses Verwesliche muß die Unverweslichkeit anziehen, und dieses Sterbliche die Unsterblichkeit anziehen.</verse>
+        <verse osisID='1Cor.15.54'>Wann aberWann aber dieses Verwesliche Unverweslichkeit angezogen," setzt das Griechische zu. dieses Sterbliche Unsterblichkeit angezogen hat, dann wird in Erfüllung gehen, was geschrieben steht:</verse>
+        <verse osisID='1Cor.15.55'>Verschlungen ist der Tod im Sieg! Wo ist dein Stachel, Tod? Wo ist dein Sieg, o Hölle?</verse>
+        <verse osisID='1Cor.15.56'>Des Todes Stachel ist die Sünde; der Sünde Macht ist das Gesetz.</verse>
+        <verse osisID='1Cor.15.57'>Aber Gott sey Dank, der uns den Sieg verliehen hat durch Jesum Christum, unsern Herrn!</verse>
+        <verse osisID='1Cor.15.58'>So seyd denn fest, meine geliebten Brüder! und unerschütterlich; arbeitet immer eifriger an dem Werke des Herrn; überzeugt, daß euer Mühen nicht vergebens sey im Herrn. </verse>
+      </chapter>
+      <chapter osisID='1Cor.16'>
+        <title>Ueber die Sammlung milder Beiträge für die dürftigen Christen in Judäa. Empfehlung des Timotheus. Schluß des Briefes mit Ermahnungen, Bitten, Grüßen und Wünschen.</title>
+        <verse osisID='1Cor.16.1'>Was die milde Sammlung für die Heiligen betrifft, so machet es so, wie ich es bei den galatischen Gemeinden eingerichtet habe:</verse>
+        <verse osisID='1Cor.16.2'>Jeden ersten Wochentag lege jeder zu Hause etwas bei Seite, und sammle, was ihn gut dünkt, damit nicht erst bei meiner Ankunft die Beisteuer gesammelt werden müsse.</verse>
+        <verse osisID='1Cor.16.3'>Nach meiner Ankunft werde ich dann diejenigen, die ihr dazu tüchtig findet, mit Empfehlungsschreiben nach Jerusalem senden, um eure milden Beiträge zu überbringen. </verse>
+        <verse osisID='1Cor.16.4'>Sollte es aber der Mühe werth seyn, daß ich selbst reise, so sollen sie mit mir reisen. </verse>
+        <verse osisID='1Cor.16.5'>Ich werde aber zu euch kommen, wann ich die Reise durch Macedonien gemachet habe; (denn durch Macedonien werde ich reisen.) </verse>
+        <verse osisID='1Cor.16.6'>Bei euch werde ich dann vielleicht mich aufhalten oder auch den Winter zubringen; ihr werdet mir dann zur weitern Reise das Geleite geben. </verse>
+        <verse osisID='1Cor.16.7'>Denn jetzt mag ich euch nicht, bloß im Vorbeireisen, besuchen; weil ich hoffe, eine Zeitlang bei euch bleiben zu können, wenn der Herr es gestattet. </verse>
+        <verse osisID='1Cor.16.8'>Zu Ephesus werde ich bis Pfingsten bleiben;</verse>
+        <verse osisID='1Cor.16.9'>denn eine weite und fruchtbare Thür hat sich mir geöffnet, obgleich es viele Gegner gibt. </verse>
+        <verse osisID='1Cor.16.10'>Wenn Timotheus kommt; so sorget dafür, daß er ohne Furcht bei euch sey; denn er arbeitet für des Herrn Sache, so wie ich. </verse>
+        <verse osisID='1Cor.16.11'>Deßwegen begegne ihm Niemand verächtlich; vielmehr begleitet ihn in Frieden auf seiner Rückreise zu mir; denn ich erwarte ihn mit den Brüdern. </verse>
+        <verse osisID='1Cor.16.12'>Was den Bruder Apollo betrifft, so mache ich euch kund, daß ich ihn auf's Angelegentlichste ersucht habe, er möge mit den Brüdern zu euch reisen; aber er war durchaus nicht zu bewegen, jetzt die Reise zu machen; indessen wird er kommen, sobald es die Umstände zulassen. </verse>
+        <verse osisID='1Cor.16.13'>Seyd wachsam; stehet fest im Glauben; seyd Männer; seyd unerschütterlich!</verse>
+        <verse osisID='1Cor.16.14'>Alles, was ihr thut, werde in Liebe gethan!</verse>
+        <verse osisID='1Cor.16.15'>Noch eine Bitte an euch, Brüder! Ihr wisset, daß Stephanas Familie die erste Christenfamilie in Achaja ist, und sich selbst dem Dienste der Heiligen gewidmet hat; </verse>
+        <verse osisID='1Cor.16.16'>so seyd auch ihr willfährig gegen solche, und gegen Jeden, der gleiche Bemühungen und Beschwerden übernimmt. </verse>
+        <verse osisID='1Cor.16.17'>Stephanas, Fortunatus und Achaikus Ankunft machet mir viele Freude; sie waren mir Ersatz für das Entbehren eurer; </verse>
+        <verse osisID='1Cor.16.18'>denn sie haben meinen Geist und den eurigen erquickt. Solche haltet in Ehren! </verse>
+        <verse osisID='1Cor.16.19'>Die asiatischen Gemeinden grüßen euch. Es grüßen euch vielmals im Herrn, Aquilas und Priscilla und die Gemeinde, in ihrem Hause, von denen ich auch bewirthet werde.von denen ich auch bewirthet werde, fehlt im Griechischen.</verse>
+        <verse osisID='1Cor.16.20'>Alle Brüder lassen euch grüßen. Grüßet euch einander mit dem heiligen Kusse.</verse>
+        <verse osisID='1Cor.16.21'>Gruß mit meiner Hand! Paulus! </verse>
+        <verse osisID='1Cor.16.22'>Wer unsern Herrn, Jesum Christum, nicht liebt, der sey verflucht! Es kommt der Herr!!</verse>
+        <verse osisID='1Cor.16.23'>Die Gnade unsersunsers fehlt, statt dessen: 'des' im Griechischen. Herrn, Jesu Christi, sey mit euch!</verse>
+        <verse osisID='1Cor.16.24'>Meine Liebe euch Allen, in Christo Jesu! Amen. </verse>
+      </chapter>
+    </div></osisText>
+</osis>

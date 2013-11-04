@@ -1,0 +1,1407 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisRefWork='Bible' osisIDWork='almnt' xml:lang='de'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='almnt'>
+        <title>Alemannische Bibel NT</title>
+        <contributor>Dietmar Wiesler</contributor>
+        <creator>Martin Link</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject>Die Bibel</subject>
+        <date>2009-01-20</date>
+        <description> Dietmar Wiesler erhebt nicht den Anspruch auf "den" Alemannischen Dialekt ! Denn bei uns heißt von "vu" in Weil o. Schopfheim sagt man "vo"
+oder Leute wird "Lit, Lyt, Lüt" ausgesprochen usw.</description>
+        <publisher>FBSG</publisher>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>almnt</identifier>
+        <source>http://www.alemannischebibel.de/</source>
+        <language type='IETF'>de</language>
+        <relation/>
+        <coverage/>
+        <rights>Dietmar Wiesler</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Matt'>
+      <chapter osisID='Matt.1'>
+        <title>Jesus sini Wurzle (Abschtammig)</title>
+        <title>(Lk 3,23-38)</title>
+        <verse osisID='Matt.1.1'>Des isch des Boech vu d Gschichte vu Jesus Chrischtus, vum Bue David, vum Bue Abrahams. </verse>
+        <verse osisID='Matt.1.2'>Abraham ziigt (zeugt) Isaak. Isaak ziigt (zeugt) Jakob. Jakob ziigt (zeugt) Juda un sini Breda. </verse>
+        <verse osisID='Matt.1.3'>Juda ziigt (zeugt) Perez un Serach mit dr Tamar. Perez ziigt (zeugt) Hezron. Hezron ziigt (zeugt) Ram. </verse>
+        <verse osisID='Matt.1.4'>Ram ziigt (zeugt) Amminadab. Amminadab ziigt (zeugt) Nachschon. Nachschon ziigt (zeugt) Salmon. </verse>
+        <verse osisID='Matt.1.5'>Salmon ziigt (zeugt) Boas mit dr Rahab. Boas ziigt (zeugt) Obed mit dr Rut. Obed ziigt (zeugt) Isai. </verse>
+        <verse osisID='Matt.1.6'>Isai ziigt (zeugt) d Kenig David. David ziigt (zeugt) Salomo mit däm Wieb vum Uria. </verse>
+        <verse osisID='Matt.1.7'>Salomo ziigt (zeugt) Rehabeam. Rehabeam ziigt (zeugt) Abija. Abija ziigt (zeugt) Asa. </verse>
+        <verse osisID='Matt.1.8'>Asa ziigt (zeugt) Joschafat. Joschafat ziigt (zeugt) Joram. Joram ziigt (zeugt) Usija. </verse>
+        <verse osisID='Matt.1.9'>Usija ziigt (zeugt) Jotam. Jotam ziigt (zeugt) Ahas. Ahas ziigt (zeugt) Hiskia. </verse>
+        <verse osisID='Matt.1.10'>Hiskia ziigt (zeugt) Manasse. Manasse ziigt (zeugt) Amon. Amon ziigt (zeugt) Josia. </verse>
+        <verse osisID='Matt.1.11'>Josia ziigt (zeugt) Jojachin un sini Breda um de Ziit dr babylonische Gfangeschaft. </verse>
+        <verse osisID='Matt.1.12'>Nohch dr babylonische Gfangeschaft ziigt (zeugt) Jojachin Schealtiél. Schealtiél ziigt (zeugt) Serubbabel. </verse>
+        <verse osisID='Matt.1.13'>Serubbabel ziigt (zeugt) Abihud. Abihud ziigt (zeugt) Eljakim. Eljakim ziigt (zeugt) Asor. </verse>
+        <verse osisID='Matt.1.14'>Asor ziigt (zeugt) Zadok. Zadok ziigt (zeugt) Achim. Achim ziigt (zeugt) Eliud. </verse>
+        <verse osisID='Matt.1.15'>Eliud ziigt (zeugt) Eleasar. Eleasar ziigt (zeugt)Mattan.Mattan ziigt (zeugt) Jakob. </verse>
+        <verse osisID='Matt.1.16'>Jakob ziigt (zeugt) Josef, d Ma dr Maria, vu däre Jesus uf d Welt kumme isch, der Chrischtus heißt. </verse>
+        <verse osisID='Matt.1.17'>Alli Glieda vu Abraham bis zum David sin vierzehn Glieda. Vu David bis zue d babylonische Gfangeschaft sin`s vierzehn Glieda. Vu d babylonische Gfangeschaft bis zum Chrischtus sin`s vierzehn Glieda. </verse>
+        <verse osisID='Matt.1.18'>We Jesus Chrischtus uf d Welt kummt isch so isch`s bassiert: Als Maria, sini Muetter, de mit däm Josef vuträut (vulobt) war, s war so, zvor na(er) sie heimgholt het, isch sie schwanga gsi vum heilige Geischt. </verse>
+        <verse osisID='Matt.1.19'>Josef aba, ihr Ma, war fromm un will sie nit in Vulägeheit bringe, het aba denkt, sie heimlich zvulosse. </verse>
+        <verse osisID='Matt.1.20'>Als sa so nohch denkt het, Lueg, do erschient däm dr Engel vum Herrn im Träum un het gsait: Josef, dü Bue David, fircht di nit, Maria, di Wib, zue da z neh; denn was sie gregt het, des isch vum heilige Geischt. </verse>
+        <verse osisID='Matt.1.21'>Un sie wird ä Bue uf d Welt bringe, däm sollsch dü d Name Jesus ge, denn na(er) wird si Volk rette vu ihre Sinde. </verse>
+        <verse osisID='Matt.1.22'>Des isch aba alles bassiert, dmit itreffe doet, was dr Herr durch sini Prophete gsait het, der do sait (Jesaja 7,14): " </verse>
+        <verse osisID='Matt.1.23'>Gib obacht, ä Jungfrau wird schwanga si un ä Bue uf d Welt bringe, un sie wäre nem d Name Immanuel ge", des heißt ibasetzt: Gott isch mit uns(us). </verse>
+        <verse osisID='Matt.1.24'>Als drno Josef vum Schlof uf gwacht isch, doet da(er) des, we nem dr Engel vum Herrn bfohle het, un nimmt si Wieb zue sich. </verse>
+        <verse osisID='Matt.1.25'>Un na(er) langt sie nit a, bis sie ä Bue uf d Welt brocht het; un na(er) git däm d Name Jesus. </verse>
+      </chapter>
+      <chapter osisID='Matt.2'>
+        <title>Di Weise üs sem Morgeland</title>
+        <verse osisID='Matt.2.1'>Als Jesus uf d Welt war in Bethlehem in Judäa zue d Ziit vum Kenig Herodes, lueg (gib obacht), do kumme Weise üs sem Morgeland nohch Jerusalem un hän gsait: </verse>
+        <verse osisID='Matt.2.2'>Wo isch dr naigeborene Kenig dr Jude? Mir hän si Schtern gsähne im Morgeland un sin kumme, nen azbäte. </verse>
+        <verse osisID='Matt.2.3'>Als des dr Kenig Herodes ghärt het, isch scha(er) arg vuschrocke un mit nem ganz Jerusalem, </verse>
+        <verse osisID='Matt.2.4'>un na(er) losst zämekumme alli Hohenpriester un Schriftglehrti vum Volk un forscht nohch vu nene, wo dr Chrischtus uf d Welt kumme wäre soll. </verse>
+        <verse osisID='Matt.2.5'>Un sie sage nem: In Bethlehem in Judäa; denn so schtoht`s gschribe in d Prophete (Micha 5,1): " </verse>
+        <verse osisID='Matt.2.6'>Un dü, Bethlehem im jüdische Land, bisch keinewäg di kleinschte unda d Schtädt in Juda; denn üs dir wird kumme dr First, der mi Volk Israel weide soll." </verse>
+        <verse osisID='Matt.2.7'>Do reft Herodes di Weise heimlich zue sich un frogt genau, wenn dr Schtern erschiene isch, </verse>
+        <verse osisID='Matt.2.8'>un schickt sie nohch Bethlehem un het gsait: Gehn ane un forsche flißig nohch däm Kindli; un wenn ihr's finde, so sage ma(mir)'s wieda, daß au i(ich) kumm un`s abäte doe. </verse>
+        <verse osisID='Matt.2.9'>Als sie drno d Kenig ghärt hän, zen sie hi. Un lueg (gib obacht), dr Schtern, der sie im Morgeland gsähne hän, goht vor rene her, bis sa iba däm Platz schtoht, wo des Kindli war. </verse>
+        <verse osisID='Matt.2.10'>Als sie d Schtern sähn, hän sie argi fräit </verse>
+        <verse osisID='Matt.2.11'>un gehn in`s Hus un finde des Kindli mit Maria, dr Muetter, un flege uf d Knie un bäte`s a un gän ihri Schätz un schenkte nem Gold, Weihrauch un Myrrhe. </verse>
+        <verse osisID='Matt.2.12'>Un Gott bfihlt tene im Träum, nit wieda zum Herodes zgoh; un sie zen uf nem andere Wäg wieda in ihr Land. </verse>
+        <title>D Flucht nohch Ägypte</title>
+        <verse osisID='Matt.2.13'>Als sie aba wegzoge sin, lueg (gib obacht), do erschient dr Engel vum Herrn däm Josef im Träum un het gsait: Schtand uf, nimm des Kindli un sini Muetter mit dir un flieh nohch Ägypte un blieb dert, bis i(ich) dir's sage doe; denn d Herodes het vor, des Kindli z soeche, um`s umzbringe. </verse>
+        <verse osisID='Matt.2.14'>Do schtod da(er) uf un nimmt des Kindli un sini Muetter mit sich bi Nacht un flieht nohch Ägypte </verse>
+        <verse osisID='Matt.2.15'>un bliebt dert bis nohch rem Dod vum Herodes, dmit itreffe dät, was dr Herr durch d Prophete gsait het, der do sait (Hosea 11,1): "Üs Ägypte ha i(ich) mi Bue gruefe." </verse>
+        <title>Dr Kindamord vum Herodes</title>
+        <verse osisID='Matt.2.16'>Als Herodes drno gsäh het, daß sa(er) vu d Weise üstrickst worde isch, isch scha(er) arg zornig gsi un schickt üs un losst alli Kinda in Bethlehem un in dr ganze Gegend umbringe, di zweijährige un de wu drunda ware, nohch dr Ziit, de na(er) vu d Weise genau gsait gregt het. </verse>
+        <verse osisID='Matt.2.17'>Do isch itroffe, was gsait worde isch durch d Prophet Jeremia, der do sait (Jeremia 31,15): " </verse>
+        <verse osisID='Matt.2.18'>In Rama het ma ä Gschrei ghärt, vieli Hiile un Wehklage; Rahel hiilt um ihri Kinda un willt sich nit treschte lo, denn s war üs mit tene." </verse>
+        <title>Jesus kummt üs Ägypte</title>
+        <verse osisID='Matt.2.19'>Als aba d Herodes gschtorbe war, lueg (gib obacht), do erschient dr Engel vum Herrn däm Josef im Träum in Ägypte </verse>
+        <verse osisID='Matt.2.20'>un het gsait: Schtand uf, nimm des Kindli un sini Muetter mit dir un zeh hi in s Land Israel; sie sin gschtorbe, de däm Kindli nohch rem Läbä trachtet hän. </verse>
+        <verse osisID='Matt.2.21'>Do schtod da(er) uf un nimmt des Kindli un sini Muetter mit sich un kummt in s Land Israel. </verse>
+        <verse osisID='Matt.2.22'>Als sa(er) aba ghärt het, daß Archelaus in Judäa Kenig war anschtatt si Vada (Babbe) Herodes, firchtet da(er) sich, derthi z go. Un im Träum gregt da(er) ä Wort vu Gott un zeht ins galiläische Land </verse>
+        <verse osisID='Matt.2.23'>un kummt un wohnt in dr Schtadt Nazareth, dmit itreffe doet, was gsait isch durch d Prophete: Er soll Nazoräer heiße. </verse>
+      </chapter>
+      <chapter osisID='Matt.3'>
+        <title>Johannes dr Däufer</title>
+        <title>(Mk 1,2-8; Lk 3,1-18)</title>
+        <verse osisID='Matt.3.1'>Zue däre Ziit kummt Johannes dr Däufer un predig in dr Wüschte vu Judäa </verse>
+        <verse osisID='Matt.3.2'>un het gsait: Den Buße, denn s Himmelrich isch nooch kumme! </verse>
+        <verse osisID='Matt.3.3'>Denn der isch's, vum däm dr Prophet Jesaja gschwätzt un gsait het (Jesaja 40,3): "S isch ä Schtimme vu mä Prediga in dr Wüschte: Richtet däm Herrn d Wäg un macht ebe sini Wägli!" </verse>
+        <verse osisID='Matt.3.4'>Er aba, Johannes, het ä Gwand (Häß) üs Kamelhore a un ä läderne Girtel um sini Lende; si Ässä aba war Heigummba un wilde Honig. </verse>
+        <verse osisID='Matt.3.5'>Do sin sie zue nem üsä gange d Schtadt Jerusalem un ganz Judäa un alli Lända am Jordan </verse>
+        <verse osisID='Matt.3.6'>un hän sich daufe lo vu nem im Jordan un hän ihri Sinde gsait. </verse>
+        <verse osisID='Matt.3.7'>Als sa(er) drno vieli Pharisäer un Sadduzäer gsäh het zue sinere Daufi kumme, sait da(er) zue nene: Ihr Schlangebröt, wer het denn äich gwiß gmacht, daß ihr däm kinftige Zorn (Wuet) entrinne den? </verse>
+        <verse osisID='Matt.3.8'>Luege zue, bringe rechtschaffendi Frucht dr Buße! </verse>
+        <verse osisID='Matt.3.9'>Denke nur nit, daß ihr bi äich sage kenntet: Mir hän Abraham zum Vada (Babbe). Denn i(ich) sag äich: Gott vumag däm Abraham üs däne Schtei (Wackes) Kinda z mache. </verse>
+        <verse osisID='Matt.3.10'>S isch scho d Axt d Baim an d Wurzle glegt. Drum: jeda Baum, der nit gueti Frucht git, wird abghaue un ins Fiir gworfe. </verse>
+        <verse osisID='Matt.3.11'>Ich dauf äich mit Wassa zue d Buße; der aba nohch ma(mir) kummt, isch schtärka als i(ich), un i(ich) bi nit wert, nem d Latsche z schleipfe; der wird äich mit däm heilige Geischt un mit Fiir daufe. </verse>
+        <verse osisID='Matt.3.12'>Er het sini Worfschufle in dr Hand; er wird sini Tenne fäge un si Weize in d Schichä sammle; aba d Schpreu wird da(er) vubrennen mit nem ewige Fiir. </verse>
+        <title>Jesu Daufe</title>
+        <title>(Mk 1,9-11; Lk 3,21.22; Joh 1,32-34)</title>
+        <verse osisID='Matt.3.13'>Zue däre Ziit kummt Jesus üs Galiläa an d Jordan zum Johannes, daß sa(er) sich vu nem daufe losst. </verse>
+        <verse osisID='Matt.3.14'>Aba Johannes wehrt nem un het gsait: Ich brüch`s, daß i(ich) vu dir dauft wir, un dü kummsch zue ma(mir)? </verse>
+        <verse osisID='Matt.3.15'>Jesus aba git zantwort un het gsait zue nem: Loss ses etzed bassiere! Denn so soll`s si fir uns(us), alli Grechtigkeit z doe. Do losst da`s(er's) bassiere. </verse>
+        <verse osisID='Matt.3.16'>Un als Jesus dauft war, schtiegt da(er) gli üs sem Wassa. Un lueg (gib obacht), do doet sich nem dr Himmel uf, un na(er) het gsähne d Geischt Gottes we nä Duebe abefahre un iba sich kumme. </verse>
+        <verse osisID='Matt.3.17'>Un lueg (gib obacht), ä Schtimme vum Himmel nab het gsait: Des isch mi liebe Bue, an däm i(ich) großi freud ha. </verse>
+      </chapter>
+      <chapter osisID='Matt.4'>
+        <title>Vusöchrig</title>
+        <title>(Mk 1,12.13; Lk 4,1-13)</title>
+        <verse osisID='Matt.4.1'>Do isch Jesus vum Geischt in d Wüschte gfihrt worde, dmit da(er) vum Deufel vusöcht wird. </verse>
+        <verse osisID='Matt.4.2'>Un do na(er) vierzig Däg un vierzig Nächt gfaschtet het, het da(er) hunga ka. </verse>
+        <verse osisID='Matt.4.3'>Un dr Vusöcha goht zue nem un het gsait: Bisch dü Gottes Bue, so sag, daß de Schtei (Wackes) Brot wäre. </verse>
+        <verse osisID='Matt.4.4'>Er aba het gsait: S schtoht gschribe (5. Moses 8,3): "D Mensch läbt nit vum Brot älleinig, sundern vu nem jede Wort, des üs sem Mul (Gosch) Gottes goht." </verse>
+        <verse osisID='Matt.4.5'>Do fihrt nen dr Deufel mit sich in d heilige Schtadt un schtellt nen uf d Rand vum Tempel </verse>
+        <verse osisID='Matt.4.6'>un het gsait zue nem: Bisch dü Gottes Bue, so wirf di nab; denn s schtoht gschribe (Psalm 91,11.12): "Er wird sinene Engel dinetwäge Bfehl ge; un sie den di uf Hände trage, dmit dü di Foeß nit a nä Schtei (Wackes) schtosches." </verse>
+        <verse osisID='Matt.4.7'>Do het Jesus zue nem gsait: Au schtoht gschribe (5. Moses 6,16): "Dü sollsch d Herrn, di Gott, nit vusöche." </verse>
+        <verse osisID='Matt.4.8'>Dodruf fihrt nen dr Deufel mit sich uf ä ganz hohe Berg un zeigt nem alli Lända vu d Welt un ihri Herrlichkeit </verse>
+        <verse osisID='Matt.4.9'>un het gsait zue nem: Des alles will i(ich) dir ge, wenn dü anekniee doesch un mi abätesch. </verse>
+        <verse osisID='Matt.4.10'>Do het Jesus zue nem gsait: Wäg mit dir, Sadan! denn s schtoht gschribe (5. Moses 6,13): "Dü sollsch nur abäte (ahimmle) d Herr, di Gott, un nem älleinig diene." </verse>
+        <verse osisID='Matt.4.11'>Do vuloßt den dr Deufel. Un lueg (gib obacht), do kumme Engel zue nem un diene nem. </verse>
+        <title>Dr Afang vum Wirke Jesus in Galiläa</title>
+        <title>(Mk 1,14.15; Lk 4,14.15)</title>
+        <verse osisID='Matt.4.12'>Als drno Jesus ghärt het, daß Johannes gfangegnu worde war, zeht er sich nohch Galiläa zruck. </verse>
+        <verse osisID='Matt.4.13'>Un na(er) vuloßt Nazareth, kummt un wohnt in Kapernaum, des am See liet in d Gegend vu Sebulon un Naftali, </verse>
+        <verse osisID='Matt.4.14'>dmit itreffe doet, was gsait isch durch d Prophet Jesaja, der do sait (Jesaja 8,23; 9,1): " </verse>
+        <verse osisID='Matt.4.15'>Des Land Sebulon un des Land Naftali, des Land am Meer, des Land gegeiba vum Jordans, vum heidnische Galiläa, </verse>
+        <verse osisID='Matt.4.16'>vum Volk, des im Dunkle hockt, het ä großes Lecht gsähne; un däne, de hocke am Platz un im Schatte vum Dod, isch ä Lecht ufgange". </verse>
+        <verse osisID='Matt.4.17'>Siet der Ziit fangt Jesus an z predige: Den Buße, denn des Himmelrich isch nooch herkumme! </verse>
+        <title>Di erschte Jinger</title>
+        <title>(Mk 1,16-20; Lk 5,1-11; Joh 1,35-51)</title>
+        <verse osisID='Matt.4.18'>Als drno Jesus am Galiläischen Meer glofe isch, het da(er) zwei Breda gsäh, Simon, der Petrus gnennt wird, un Andreas, si Brueda; de werfe ihri Netz ins Meer; denn sie ware Fischa. </verse>
+        <verse osisID='Matt.4.19'>Un na(er) het gsait zue nene: Folge ma(mir) nohch; i(ich) will äich zue Menschefischa mache! </verse>
+        <verse osisID='Matt.4.20'>Gli vuloße sie ihri Netz un folge nem nohch. </verse>
+        <verse osisID='Matt.4.21'>Un als sa(er) vu dert wietagoht, het da(er) zwei anderi Breda gsäh, Jakobus, d Bue vum Zebedäus, un Johannes, si Brueda, im Boot mit ihrem Vada (Babbe) Zebedäus, we sie ihri Netz flicke. Un na(er) reft sie. </verse>
+        <verse osisID='Matt.4.22'>Gli vuloße sie des Boot un ihr Vada (Babbe) un folg nem nohch. </verse>
+        <title>In Galiläa</title>
+        <title>(Mk 1,39; 3,7-12; Lk 4,44; 6,17-19)</title>
+        <verse osisID='Matt.4.23'>Un Jesus zeht umä in ganz Galiläa, lehrt in ihre Synagoge (Gotteshus) (Gotteshiisa) un predigt des Evangelium vum Rich un heilt alli Krankkete un alli Gebreche im Volk. </verse>
+        <verse osisID='Matt.4.24'>Un d Kunde vu nem hallt durch ganz Syrien. Un sie bringe zue nem alli Kranke, mit manchali Liede un Plage bhaftet, Bsesseni, Mondsüchtigi un Gelähmti; un na(er) macht sie gsund </verse>
+        <verse osisID='Matt.4.25'>Un s goht nem ä großi Schar Lit üs Galiläa, üs d Zehn Schtädt, üs Jerusalem, üs Judäa un gegeiba vum Jordans nohch. </verse>
+      </chapter>
+      <chapter osisID='Matt.5'>
+        <title>( D Bergpredigt Kapitel 5-7)</title>
+        <title>Seligpreisig</title>
+        <title>(Lk 6,20-49)</title>
+        <verse osisID='Matt.5.1'>Als sa(er) aba s Volk gsäh het, goht da(er) uf ä Berg un het sich anekockt; un sini Jinger schtehn zue nem. </verse>
+        <verse osisID='Matt.5.2'>Un na(er) doet si Mul (Gosch) uf, lehrt sie un het gsait: </verse>
+        <verse osisID='Matt.5.3'>Selig sin, de do geischtlich arm sin; denn ihra isch des Himmelrich. </verse>
+        <verse osisID='Matt.5.4'>Selig sin, de do Leid hän; denn sie solle treschtet wäre. </verse>
+        <verse osisID='Matt.5.5'>Selig sin de Sanftmuetige; denn sie wäre des Land bsitze. </verse>
+        <verse osisID='Matt.5.6'>Selig sin, de do hunga hän un durschtig sin nohch dr Grechtigkeit; denn sie solle satt wäre. </verse>
+        <verse osisID='Matt.5.7'>Selig sin de Barmherzige; denn sie wäre Barmherzigkeit gregä. </verse>
+        <verse osisID='Matt.5.8'>Selig sin, de sufare (reine) Herzen`s sin; denn sie wäre Gott säh. </verse>
+        <verse osisID='Matt.5.9'>Selig sin di Friedfertige; denn sie wäre Gottes Kinda heiße. </verse>
+        <verse osisID='Matt.5.10'>Selig sin, de um dr Grechtigkeit wille vufolgt wäre; denn ihra isch des Himmelrich. </verse>
+        <verse osisID='Matt.5.11'>Selig sin ihr, wenn äich d Mensche wägä ma(mir) bschimpfe un jage un schwätze allaläi Schlechtes gege äich, wenn sie dmit lege. </verse>
+        <verse osisID='Matt.5.12'>Sin frehlich un getroscht; s wird äich im Himmel viel blohnt wäre. Denn ebeso hän sie vufolgt d Prophete, de vor äich gsi sin. </verse>
+        <title>Salz un Lecht</title>
+        <verse osisID='Matt.5.13'>Ihr sin des Salz dr Erde. Wenn drno des Salz nimi salzt, womit soll ma salze? S isch zue nigs me nütz, als daß ma`s wägschittet un losst`s vu d Lit vutrambe. </verse>
+        <verse osisID='Matt.5.14'>Ihr sin des Lecht dr Welt. S ka ä Schtadt, de uf nem Berg liet, nit vuborge si. </verse>
+        <verse osisID='Matt.5.15'>Ma zindet au nit ä Lecht a un doet`s unda ä Scheffel, sundern uf ä Laichta; so laichtet`s allene, de im Hus sin. </verse>
+        <verse osisID='Matt.5.16'>So len aicha Lecht laichte vor d Lit, dmit sie äiri guete Werke sähn un äire Vada (Babbe) im Himmel priese(lobe). </verse>
+        <title>Jesus un`s Gsetz</title>
+        <verse osisID='Matt.5.17'>Ihr sollt nit meine, daß i(ich) kumme bi, s Gsetz odr d Prophete ufzlese; i(ich) bi nit kumme ufzlese, sundern z erfille. </verse>
+        <verse osisID='Matt.5.18'>Denn gwiß, i(ich) sag äich: Bis Himmel un Erde vugehn, wird nit dr klienschte Boechschtabe noh ä Tipfele vum Gsetz vugoh, bis alles bassiert isch. </verse>
+        <verse osisID='Matt.5.19'>Wer drno eins vu däne klienschte Gebote uflest un lehrt d Lit so, der wird dr Klienschte heiße im Himmelrich; wer`s aba doet un lehrt, der wird groß heiße im Himmelrich. </verse>
+        <verse osisID='Matt.5.20'>Denn i(ich) sag äich: Wenn äiri Grechtigkeit nit bessa isch als de vu d Schriftglehrti un Pharisäer, so kumme ihr nit in`s Himmelrich. </verse>
+        <title>Vum Umbringe</title>
+        <verse osisID='Matt.5.21'>Ihr hän ghärt, daß zue d Alte gsait isch (2. Moses 20,13; 21,12): "Dü sollsch nemets umbringe"; wer aba jemads umbringt, der soll vor rem Gricht schuldig si. </verse>
+        <verse osisID='Matt.5.22'>Ich aba sag äich: Wer mit sinem Brueda zirnt, der isch vor rem Gricht schuldig; wer aba zue sinem Brueda sait: Dü Nigsnutz!, der isch vor rem Hohe Rot schuldig; wer aba sait: Dü Narr!, der isch vor rem helle Fiir schuldig. </verse>
+        <verse osisID='Matt.5.23'>Drum: wenn dü dini Gabe uf fem Altar opferscht un dert kummt dir in d Sinn (Gmeht), daß di Brueda ebis gege di het, </verse>
+        <verse osisID='Matt.5.24'>so loßes dert vor rem Altar un gang zerscht hi un vusöhn di mit dinem Brueda un dann(dnoh) kumm un opfa dini Gabe. </verse>
+        <verse osisID='Matt.5.25'>Vutrag di mit dinem Gegna gli druf, solang dü noh mit däm uf fem Wäg bisch, dmit dich dr Gegna nit däm Richta ibagit un dr Richta däm Grichtsdiena un dü ins Gfängnis (Loch) gworfe wirsch. </verse>
+        <verse osisID='Matt.5.26'>Gwiß, i(ich) sag dir: Dü wirsch nit vu dert rüskumme, bis dü au d letschte Pfennig vugeldet (zruckzahlt) hesch. </verse>
+        <title>Vum Ehebreche</title>
+        <verse osisID='Matt.5.27'>Ihr hän ghärt, daß gsait isch (2. Moses 20,14): "Dü sollsch nit ehebreche." </verse>
+        <verse osisID='Matt.5.28'>Ich aba sag äich: Wer ä Wieb asieht, un sie wott, der het scho mit ihr d Ehe broche in sinem Herz. </verse>
+        <verse osisID='Matt.5.29'>Wenn dich aba di rechtes Aug zum Wäggoh vufihrt, so rießes üs un wirf's vu da. S isch bessa fir di, daß eins vu dinene Glieda vugoht un nit dr ganze Leib (Ranze) in d Hell gworfe wird. </verse>
+        <verse osisID='Matt.5.30'>Wenn dich di rechti Hand zum Wäggoh vufihrt, so hau sie ab un wirf sie vu da. S isch bessa fir di, daß eins vu dinene Glieda vugoht un nit dr ganze Leib (Ranze) in d Hell fahrt. </verse>
+        <verse osisID='Matt.5.31'>S isch au gsait (5. Moses 24,1): "Wer sich vu sinem Wieb schiedet, der soll ihr ä Schiedebref ge." </verse>
+        <verse osisID='Matt.5.32'>Ich aba sag äich: Wer sich vu sinem Wieb schiedet, s isch denn wägä Ehebruch, der macht, daß sie d Ehe bricht; un wer ä Gschiedeni hirotet, der bricht d Ehe. </verse>
+        <title>Vum Schwöre</title>
+        <verse osisID='Matt.5.33'>Ihr hän witer ghärt, daß zue d Alte gsait isch (3. Moses 19,12; 4. Moses 30,3): "Dü sollsch kei falsche Eid schwör un sollsch däm Herrn di Eid hebed." </verse>
+        <verse osisID='Matt.5.34'>Ich aba sag äich, daß ihr ibahaupt nit schwör sollt, nit bim Himmel, denn na(er) isch Gottes Thron; </verse>
+        <verse osisID='Matt.5.35'>noh bi d Erde, denn sie isch dr Schemel vu sinene Feß; noh bi Jerusalem, denn sie isch d Schtadt vum große Kenig. </verse>
+        <verse osisID='Matt.5.36'>Au sollsch dü nit bi dinem Schädel schwör; denn dü vumagst nit ä einziges Hoor wiß odr schwarz z mache. </verse>
+        <verse osisID='Matt.5.37'>Aicha Schwätze aba isch: Jo, jo; nei, nei. Was driba isch, des isch vum Bese. </verse>
+        <title>Vum Vugelte (Heimzahle)</title>
+        <verse osisID='Matt.5.38'>Ihr hän ghärt, daß gsait isch (2. Moses 21,24): "Aug um Aug, Zahn um Zahn." </verse>
+        <verse osisID='Matt.5.39'>Ich aba sag äich, daß ihr nit widerschtrebe sollt däm Üble, sundern: wenn di jemads uf di rechti Backe schlat, däm gib di anderi au. </verse>
+        <verse osisID='Matt.5.40'>Un wenn jemads mit dir rechte will un dir di Rock nähmä, däm loß au d Mandel. </verse>
+        <verse osisID='Matt.5.41'>Un wenn di jemads netigt, ä Meile mitzgoh, so gang mit nem zwei. </verse>
+        <verse osisID='Matt.5.42'>Gib däm, der di bittet, un wend di nit ab vu däm, der ebis vu dir borge will. </verse>
+        <title>Vu d Feindesliebe</title>
+        <verse osisID='Matt.5.43'>Ihr hän ghärt, daß gsait isch (3. Moses 19,18): "Dü sollsch di Nächschte liebe" un di Fäind hasse. </verse>
+        <verse osisID='Matt.5.44'>Ich aba sag äich: Liebt (Leb hän) äiri Gegna(Feinde) un bittet fir de, de äich jage, </verse>
+        <verse osisID='Matt.5.45'>dmit ihr Kinda sin äires Vada (Babbe) im Himmel. Denn na(er) losst sini Sunne ufgoh iba Besi un Gueti un losst rägnä iba Grechti un Ungrechti. </verse>
+        <verse osisID='Matt.5.46'>Denn wenn ihr liebt (leb hän), de äich liebe, was hän ihr fir Lohn? Den nit desselbe au de Zöllna? </verse>
+        <verse osisID='Matt.5.47'>Un wenn ihr nur zue äire Breda fründlig sin, was den ihr Bsunderes? Den nit desselbe au d Heide? </verse>
+        <verse osisID='Matt.5.48'>Drum solle ihr ganz guet si, we aicha Vada (Babbe) im Himmel ganz guet isch. </verse>
+      </chapter>
+      <chapter osisID='Matt.6'>
+        <title>Vum Almosege</title>
+        <verse osisID='Matt.6.1'>Hän acht uf äira Fromm si, daß ihr des nit ebe den vor d Lit, um vu nene gsähne z wäre; ihr hän sunscht kei Lohn bi äirem Vada (Babbe) im Himmel. </verse>
+        <verse osisID='Matt.6.2'>Wenn dü drno Almose gibsch, sollsch dü`s nit vor dir herpäpere losse, we`s de Heuchla den in d Synagoge (Gotteshus) (Gotteshiisa) un uf d Gasse, dmit sie vu d Lit globt wäre. Gwiß, i(ich) sag äich: Sie hän ihr Lohn scho ka. </verse>
+        <verse osisID='Matt.6.3'>Wenn dü aba Almose gibsch, so loß di linki Hand nit wisse, was di rechti macht, </verse>
+        <verse osisID='Matt.6.4'>dmit di Almose vuborge bliebt; un di Vada (Babbe), der s Vuborgene sieht, wird dir's zruck ge. </verse>
+        <title>Vum Bäte - S`Vada unsa</title>
+        <verse osisID='Matt.6.5'>Un wenn ihr bäte den, sollt ihr nit si we d Heuchla, de gern in d Synagoge (Gotteshus) (Gotteshiisa) un an d Schtroßecke schtehn un bäte, dmit sie vu d Lit gsähne wäre. Gwiß, i(ich) sag äich: Sie hän ihr Lohn scho ka. </verse>
+        <verse osisID='Matt.6.6'>Wenn dü aba bätesch, so gang in di Kämmerli un schleß di Dire zue un bät zue dinem Vada (Babbe), der im Vuborgene isch; un di Vada (Babbe), der in`s Vuborgene sieht, wird dir's zruck ge. </verse>
+        <verse osisID='Matt.6.7'>Un wenn ihr bäte den, sollt ihr nit viel plappere we d Heide; denn sie meine, sie wäre ghärt worde, wenn sie vieli Wort mache. </verse>
+        <verse osisID='Matt.6.8'>Drum solle ihr nä nit gliche. Denn aicha Vada (Babbe) weiß, was ihr bruche, bvor ihr nen bitte. </verse>
+        <verse osisID='Matt.6.9'>Drum sollt ihr so bäte: Unsa Vada (Babbe) im Himmel! Di Name wäre gheiligt. </verse>
+        <verse osisID='Matt.6.10'>Di Rich kummt. Di Wille gschiht we im Himmel so uf d Erde. </verse>
+        <verse osisID='Matt.6.11'>Unsa däglich Brot gib uns(us) hiit. </verse>
+        <verse osisID='Matt.6.12'>Un vugib uns(us) unseri Schuld, we au ma(mir) vugen unsere Schuldiga. </verse>
+        <verse osisID='Matt.6.13'>Un fihr uns(us) nit in Vusuechig, sundern erles uns(us) vum Bese. (Denn di isch des Rich un d Kraft un d Herrlichkeit in Ewigkeit. Amen.) </verse>
+        <verse osisID='Matt.6.14'>Denn wenn ihr d Mensche ihri Vufehlige vugen, so wird äich aicha himmlischa Vada (Babbe) au vuge. </verse>
+        <verse osisID='Matt.6.15'>Wenn ihr aba d Mensche nit vugen, so wird äich aicha Vada (Babbe) äiri Vufehlige au nit vuge. </verse>
+        <title>Vum Faschte</title>
+        <verse osisID='Matt.6.16'>Wenn ihr faschte den, sollt ihr nit sür driluege we d Heuchla; denn sie vuschtelle ihr Gsicht (Visasch), um sich vor d Lit z zeigä mit ihrem Faschte. Gwiß, i(ich) sag äich: Sie hän ihr Lohn scho ka. </verse>
+        <verse osisID='Matt.6.17'>Wenn dü aba faschtesch, so salb di Schädel un wäsch di Gsicht (Visasch), </verse>
+        <verse osisID='Matt.6.18'>dmit dü di nit vor d Lit zeigsch mit dinem Faschte, sundern vor dinem Vada (Babbe), der im Vuborgene isch; un di Vada (Babbe), der in`s Vuborgene sieht, wird dir's zruck ge. </verse>
+        <title>Vum Schätzsammle un Sorge</title>
+        <verse osisID='Matt.6.19'>Ihr sollt äich nit Schätz sammle uf d Erde, wo sie d Motte un dr Roscht frässä un wo Diebe ibreche un schtähle. </verse>
+        <verse osisID='Matt.6.20'>Sammle äich aba Schätz im Himmel, wo sie nit Motte noh d Roscht frässä un wo de Diebe nit ibreche un schtähle. </verse>
+        <verse osisID='Matt.6.21'>Denn wo di Schatz isch, do isch au di Herz. </verse>
+        <verse osisID='Matt.6.22'>Des Aug isch des Lecht vum Leib (Ranze). Wenn di Aug luta isch, so wird di ganza Leib (Ranze) lecht si. </verse>
+        <verse osisID='Matt.6.23'>Wenn aba di Aug bes isch, so wird di ganza Leib (Ranze) finschta si. Wenn drno des Lecht, des in dir isch, Dunkel isch, we groß wird dann(dnoh) des Dunkel si! </verse>
+        <verse osisID='Matt.6.24'>Nemad ka zwei Herre diene: entweda na(er) wird d eine hasse un d andere liebe, odr na(er) wird an däm eine hänge un d andere vuachte. Ihr kennt nit Gott diene un däm Mammon. </verse>
+        <verse osisID='Matt.6.25'>Drum sag i(ich) äich: Sorgt nit um aicha Läbä, was ihr ässä un trinke den; au nit um äiri Leiba (Ranze), was ihr azege den. Isch nit des Läbä me als ses Ässä un dr Leib (Ranze) me als d Klamotte? </verse>
+        <verse osisID='Matt.6.26'>Luege d Vegel unda däm Himmel a: sie saje nit, sie ernte nit, sie sammle nit in d Schiche; un aicha himmlische Vada (Babbe) git ne z ässä. Sin ihr denn nit viel me als de? </verse>
+        <verse osisID='Matt.6.27'>Wer isch unda äich, der vu sinem Läbä ä Spanne dzue mache kennt, we arg ga(er) sich au drum sorgt? </verse>
+        <verse osisID='Matt.6.28'>Un wurum sorge ihr äich um d Klamotte? Lueg d Lilie uf fem Feld a, we sie wachse: sie schaffe nit, au schpinne sie nit. </verse>
+        <verse osisID='Matt.6.29'>Ich sag äich, daß au Salomo in alla sinere Herrlichkeit nit azogä gsi isch we eini vu nene. </verse>
+        <verse osisID='Matt.6.30'>Wenn drno Gott des Gras uf fem Feld so azeht, des doch hiit schtoht un morge in d Ofe gworfe wird: soll la(er) des nit viel me fir äich doe, ihr Kleigläubige? </verse>
+        <verse osisID='Matt.6.31'>Drum sollt ihr nit sorge un sage: Was wäre ma(mir) ässä? Was wäre ma(mir) trinke? Womit wäre ma(mir) uns(us) azege? </verse>
+        <verse osisID='Matt.6.32'>Nohch däm allem vulange d Heide. Denn aicha himmlische Vada (Babbe) weiß, daß ihr all des brucht. </verse>
+        <verse osisID='Matt.6.33'>Trachte zerscht nohch däm Rich Gottes un nohch sinere Grechtigkeit, so wird äich des alles zuefalle (ge). </verse>
+        <verse osisID='Matt.6.34'>Drum sorgt nit fir morge, denn dr morgige Dag wird fir`s Sine sorge. S isch gnoe, daß jeda Dag sini eigeni Plag het. </verse>
+      </chapter>
+      <chapter osisID='Matt.7'>
+        <title>Vum Richtgeischt</title>
+        <verse osisID='Matt.7.1'>Richtet nit, dmit ihr nit grichtet wäre. </verse>
+        <verse osisID='Matt.7.2'>Denn nohch welem Recht ihr richte den, wäre ihr grichtet un mit welem Maß ihr mäßt, wird äich zuegmässä wäre. </verse>
+        <verse osisID='Matt.7.3'>Was siehsch dü aba d Schplitta in dinem Brueda sinem Aug un nimmsch nit wohr d Balkä in dinem Aug? </verse>
+        <verse osisID='Matt.7.4'>Odr we kasch dü sage zue dinem Brueda: Halt, i(ich) will dir d Schplitta üs dinem Aug ze?, un lueg (gib obacht), ä Balkä isch in dinem Aug. </verse>
+        <verse osisID='Matt.7.5'>Dü Heuchla, zeh zerscht d Balkä üs dinem Aug; dnohch lueg zue, we dü d Schplitta üs dinem Brueda sinem Aug zehsch. </verse>
+        <verse osisID='Matt.7.6'>Ihr sollt s Heilige nit d Hund ge, un äiri Perle sollt ihr nit vor d Säu werfe, dmit de sie nit vutrambe mit ihre Feß un sich umwende un äich vurieße. </verse>
+        <title>Vu dr Gebetserhörig</title>
+        <verse osisID='Matt.7.7'>Bittet, so wird äich ge; suechet, so den ihr finde; klopfet a, so wird äich ufdoe. </verse>
+        <verse osisID='Matt.7.8'>Denn wer do bittet, der gregt; un wer do suecht, der findet; un wer do aklopft, däm wird ufdoe. </verse>
+        <verse osisID='Matt.7.9'>Wer isch unda äich Mensche, der sinem Bue, wenn na(er) nen bittet um ä Brot, ä Schtei (Wackes) git? </verse>
+        <verse osisID='Matt.7.10'>odr, wenn na(er) nen bittet um ä Fisch, ä Schlange git? </verse>
+        <verse osisID='Matt.7.11'>Wenn drno ihr, de ihr doch bes sin, trozdem äire Kinda gueti Gabe ge kennt, weviel me wird aicha Vada (Babbe) im Himmel Guetes ge däne, de nen bitte! </verse>
+        <title>Vum Doe</title>
+        <verse osisID='Matt.7.12'>Alles des, was ihr wen, daß äich d Lit doe solle, des den nene au! Des isch`s Gsetz un d Prophete. </verse>
+        <verse osisID='Matt.7.13'>Gehn inä durch di engi Pforte. Denn d Pforte isch wit, un dr Wäg isch breit, der zue d Vudammnis fihrt, un vieli sin's, de uf fem inegehn. </verse>
+        <verse osisID='Matt.7.14'>We eng isch d Pforte un we schmal dr Wäg, der zum Läbä fihrt, un wenig sin's, de nen finde! </verse>
+        <verse osisID='Matt.7.15'>Sähn äich vor vor d falsche Prophete, de in Schofskleida zue äich kumme, vu innä aba sin`s besi Wöelf. </verse>
+        <verse osisID='Matt.7.16'>An ihre Fricht sollt ihr sie erkenne. Kann ma denn Triebel läse vu d Dorne odr Fiege vu d Dischtle? </verse>
+        <verse osisID='Matt.7.17'>So het jeda guete Baum gueti Fricht; aba ä fule Baum het schlechti Fricht. </verse>
+        <verse osisID='Matt.7.18'>Ä guete Baum ka nit schlechti Fricht bringe, un ä fule Baum ka nit gueti Fricht bringe. </verse>
+        <verse osisID='Matt.7.19'>Jeda Baum, der nit gueti Fricht het, wird abghaue un ins Fiir gworfe. </verse>
+        <verse osisID='Matt.7.20'>Drum: an ihre Fricht sollt ihr sie erkenne. </verse>
+        <verse osisID='Matt.7.21'>S wäre nit alli, de zue ma(mir) sage: Herr, Herr!, ins Himmelrich kumme, sundern de d Wille vu minem Vada (Babbe) im Himmel den. </verse>
+        <verse osisID='Matt.7.22'>S wäre vieli zue ma(mir) sage an däm Dag: Herr, Herr, hän ma(mir) nit in dinem Name gwiessagt (vorusgsait)? Hän ma(mir) nit in dinem Name besi Geischta üstriebe? Hän ma(mir) nit in dinem Name vieli Wunda doe? </verse>
+        <verse osisID='Matt.7.23'>Dann(Dnoh) wäre i(ich) ne bekannt mache: Ich ha äich noh ne kennt; gehn vu ma(mir), ihr Ibeltäta! </verse>
+        <title>Vum Husbäue</title>
+        <verse osisID='Matt.7.24'>Drum, wer mich ghärt het un des doet, der glicht nem schlaue Ma, der si Hus uf fem Felse bäut het. </verse>
+        <verse osisID='Matt.7.25'>Als drno ä Platzrägä kummt un de Wassa kumme un dr Wind weht un schtoße an`s Hus, flegt s nit i; denn s war uf fem Felse grindet. </verse>
+        <verse osisID='Matt.7.26'>Un wer mich ghärt het un des nit doet, der glicht nem dumme Ma, der si Hus uf fem Sand bäut het. </verse>
+        <verse osisID='Matt.7.27'>Als drno ä Platzrägä kummt un de Wassa kumme un dr Wind weht un schtoße an`s Hus, do flegt s i, un si Schade war groß. </verse>
+        <verse osisID='Matt.7.28'>Un s isch bassiert, als Jesus des alles Gsait het, daß sich s Volk ärgat iba sini Lehre; </verse>
+        <verse osisID='Matt.7.29'>denn na(er) lehrt sie mit Vollmacht un nit we ihri Schriftglehrti. </verse>
+      </chapter>
+      <chapter osisID='Matt.8'>
+        <title>D Heilig vumä Üssätzige</title>
+        <title>(Mk 1,40-44; Lk 5,12-14)</title>
+        <verse osisID='Matt.8.1'>Als sa(er) aba vum Berg rabgoht, goht mit nem ä großi Schar Lit. </verse>
+        <verse osisID='Matt.8.2'>Un lueg (gib obacht), ä Üssätzige kummt rah un flegt vor nem ane un het gsait: Herr, wenn dü willsch, kasch dü mi sufa mache. </verse>
+        <verse osisID='Matt.8.3'>Un Jesus schtreckt d Hand üs, rihrt nen an un het gsait: Ich will's doe; bi sufa! Un gli druf isch scha(er) vu sinem Ussatz sufa gsi. </verse>
+        <verse osisID='Matt.8.4'>Un Jesus het gsait zue nem: Lueg zue, sag`s nemads, sundern gang hi un zeig di däm Prieschta (Pfarra) un opfa de Gabe, de Moses bfohle het, däne zum Ziignis. </verse>
+        <title>Dr Hauptma vu Kapernaum</title>
+        <title>(Lk 7,1-10; Joh 4,46-53)</title>
+        <verse osisID='Matt.8.5'>Als aba Jesus nohch Kapernaum nigoht, kunnt ä Hauptma zue nem; der bittet nen </verse>
+        <verse osisID='Matt.8.6'>un het gsait: Herr, mi Knecht liet d Heim un isch glähmt un liedet großi Quale. </verse>
+        <verse osisID='Matt.8.7'>Jesus het gsait zue nem: Ich will kumme un nen gsund mache. </verse>
+        <verse osisID='Matt.8.8'>Dr Hauptma git zantwort un het gsait: Herr, i(ich) bi`s nit wert, daß dü unda mi Dach kummsch, sundern sag nur ei Wort, so wird mi Knecht gsund. </verse>
+        <verse osisID='Matt.8.9'>Denn au i(ich) bi ä Mensch, dr Obrigkeit folgsam, un ha Soldate unda ma(mir); un wenn i(ich) zue nem sag: Gang hi!, so goht da(er); un zue nem andere: Kumm her!, so kummt da; un zue minem Knecht: Doe des!, so doet er's. </verse>
+        <verse osisID='Matt.8.10'>Als des Jesus ghärt het, vuwundret er sich un het gsait zue däne, de nem nochfolgte: Gwiß, i(ich) sag äich: So ä Glaube ha i(ich) in Israel bi keinem gfunde! </verse>
+        <verse osisID='Matt.8.11'>Aba i(ich) sag äich: Vieli wäre kumme vu Oschte un vu Weschte un mit Abraham un Isaak un Jakob im Himmelrich z Disch hocke; </verse>
+        <verse osisID='Matt.8.12'>aba de Kinda vum Rich wäre nüsgworfe in`s Dunkle; do wird si Hiile un Zähneklappere. </verse>
+        <verse osisID='Matt.8.13'>Un Jesus het gsait zue däm Hauptma: Gang hi; dir gschiht, we dü glaubt hesch. Un si Knecht isch gsund wore zue dselbe Schtund. </verse>
+        <title>Jesus im Hus vum Petrus</title>
+        <title>(Mk 1,29-34; Lk 4,38-41)</title>
+        <verse osisID='Matt.8.14'>Un Jesus kummt in des Hus vum Petrus un als sa gsäh het, daß däm si Schwiegamuetter im Bett liet un Feba het. </verse>
+        <verse osisID='Matt.8.15'>Do packt er ihri Hand, un`s Feba het sie gli vuloße . Un sie schtod uf un dient nem. </verse>
+        <verse osisID='Matt.8.16'>Am Obend aba bringe sie vieli Bsessene zue nem; un na(er) trieb de Geischta üs durch si Wort un macht alli Kranke gsund, </verse>
+        <verse osisID='Matt.8.17'>dmit itreffe doet, was gsait isch durch d Prophet Jesaja, der do sait (Jesaja 53,4): "Er het unsri Schwachheit uf sich gnumme, un unsri Kranket het da(er) trage(gschleipft)." </verse>
+        <title>Vum Nohchfolge</title>
+        <title>(Lk 9,57-60)</title>
+        <verse osisID='Matt.8.18'>Als aba Jesus d Lit um sich gsäh het, bpfiehlt da(er), niba ans andare Ufa z fahre. </verse>
+        <verse osisID='Matt.8.19'>Un s kunnt ä Schriftglehrte dzue un het gsait zue nem: Meischta, i(ich) will dir folge, wohi dü gohsch. </verse>
+        <verse osisID='Matt.8.20'>Jesus sait zue nem: D Füchs hän Gruebe, un d Vegel unda däm Himmel hän Neschta; aba dr Menschebue het nigs, wo na(er) si Schädel hinlege ka. </verse>
+        <verse osisID='Matt.8.21'>Un ä andere unda d Jinger het gsait zue nem: Herr, gschtat ma(mir), daß i(ich) zvor higang un mi Vada (Babbe) ins Grab bring. </verse>
+        <verse osisID='Matt.8.22'>Aba Jesus sait zue nem: Folg dü ma(mir) nohch, un loß di Dote ihri Dote vugrabe(beerdige)! </verse>
+        <title>D Schturm</title>
+        <title>(Mk 4,35-41; Lk 8,22-25)</title>
+        <verse osisID='Matt.8.23'>Un na(er) schtiegt in`s Boot, un sini Jinger folg nem. </verse>
+        <verse osisID='Matt.8.24'>Un lueg (gib obacht), do kummt ä gwaltige Schturm uf fem See, so daß au s Boot vu d Wellä zuedeckt wird. Er aba schloft. </verse>
+        <verse osisID='Matt.8.25'>Un sie gehn zue nem, weckte nen uf un hän gsait: Herr, hilf, ma(mir) kumme um! </verse>
+        <verse osisID='Matt.8.26'>Do sait da(er) zue nene: Ihr Kleigläubigi, wurum hän ihr so Angscht? Un schtod uf un schelt d Wind un`s Meer. Do isch`s ganz schtill. </verse>
+        <verse osisID='Matt.8.27'>D Mensche aba vuwundrete sich un hän gsait: Was isch des fir ä Ma, daß nem d Wind un`s Meer hörig sin? </verse>
+        <title>D Heilig vu zwei besessene Gadarener</title>
+        <title>(Mk 5,1-17; Lk 8,26-37)</title>
+        <verse osisID='Matt.8.28'>Un na(er) kummt ans andare Ufa in de Gegend vu d Gadarener. Do laufe nem zwei Bsessene entgegä; de kumme üs d Grabhöhle un ware arg gfährlich, so daß nemads uf däre Schtroß go ka. </verse>
+        <verse osisID='Matt.8.29'>Un lueg (gib obacht), sie brellä: Was willsch dü vu uns(us), dü Bue Gottes? Bisch dü herkumme, uns(us) z quäle, bvor s Ziit isch? </verse>
+        <verse osisID='Matt.8.30'>S war aba wiet vu nene ä großi Herde Säue uf dr Weid . </verse>
+        <verse osisID='Matt.8.31'>Do bitte nen di bese Geischta un hän gsait: Willsch dü uns(us) üstriebe, so loß uns(us) in de Herde Säue fahre. </verse>
+        <verse osisID='Matt.8.32'>Un na(er) het gsait: Fahre üs! Do fahre sie üs un fahre in de Säue. Un lueg (gib obacht), de ganzi Herde schtürmt d Schtich abe in d See, un sie vusuffe im Wassa. </verse>
+        <verse osisID='Matt.8.33'>Un de Schäfa (Hirte) haue ab un gehn hi in d Schtadt un vuzehle des allene un we`s d Besessene ergange isch. </verse>
+        <verse osisID='Matt.8.34'>Un lueg (gib obacht), do goht di ganz Schtadt üsä Jesus entgegä. Un als sie nen sähn, bitte sie nen, daß sa(er) ihre Gegend vulosst. </verse>
+      </chapter>
+      <chapter osisID='Matt.9'>
+        <title>D Heilig vumä Glähmte</title>
+        <title>(Mk 2,1-12; Lk 5,17-26)</title>
+        <verse osisID='Matt.9.1'>Do schtiegt da(er) in ä Boot un fahrt niba un kummt in sini Schtadt. </verse>
+        <verse osisID='Matt.9.2'>Un lueg (gib obacht), do bringe sie zue nem ä Glähmte, der liet uf fem Bett. Als drno Jesus ihr Glaube gsäh het, het da(er) gsait zue däm Glähmte: Kasch froh si, mi Bue, dini Sinde sin da vuge. </verse>
+        <verse osisID='Matt.9.3'>Un lueg (gib obacht), ä baar unda d Schriftglehrte sage bi sich selba: Der läschtert Gott. </verse>
+        <verse osisID='Matt.9.4'>Als aba Jesus ihr denke gsäh het, het da(er) gsait: Wurum denke ihr so Beses in äirem Herz? </verse>
+        <verse osisID='Matt.9.5'>Was isch denn lichta, z sage: Dir sin dini Sinde vuge, odr z sage: Schtand uf un gang umä? </verse>
+        <verse osisID='Matt.9.6'>Dmit ihr aba wißt, daß dr Menschebue Vollmacht het, uf Erde d Sinde z vuge - het da(er) gsait zue däm Glähmte: Schtand uf, heb di Bett uf un gang heim! </verse>
+        <verse osisID='Matt.9.7'>Un na(er) schtod uf un goht heim. </verse>
+        <verse osisID='Matt.9.8'>Als des Volk des gsäh het, firchte sie sich un priese Gott, der solchi Macht d Mensche ge het. </verse>
+        <title>D Berufig vum Matthäuns(us)</title>
+        <title>(Mk 2,13-17; Lk 5,27-32)</title>
+        <verse osisID='Matt.9.9'>Un als Jesus vu dert wäggoht, sieht da(er) ä Mensch am Zoll hocke, der heißt Matthäuns(us); un na(er) het zue nem gsait: Folg ma(mir) nohch! Un na(er) schtod uf un goht mit nem. </verse>
+        <verse osisID='Matt.9.10'>Un s isch bassiert, als sa(er) z Disch hockt im Hus, lueg (gib obacht), do kumme vieli Zöllna un Sinda un hocke z Disch mit Jesus un sinene Jinger. </verse>
+        <verse osisID='Matt.9.11'>Als des d Pharisäer sähn, sage sie zue sinene Jinger: Wurum ißt aicha Meischta mit d Zöllna un Sinda? </verse>
+        <verse osisID='Matt.9.12'>Als des Jesus ghärt het, het da(er) gsait: Di Starke bruche d Dokta nit, sundern di Kranke. </verse>
+        <verse osisID='Matt.9.13'>Gehn aba hi un lernt, was des heißt (Hosea 6,6): "Ich ha Wohlgfalle an Barmherzigkeit un nit am Opfa." Ich bi kumme, d Sinda z röfä un nit di Grechte. </verse>
+        <title>D Frog nohch rem Faschte</title>
+        <title>(Mk 2,18-22; Lk 5,33-38)</title>
+        <verse osisID='Matt.9.14'>Do kumme d Jinger vum Johannes zue nem un hän gsait: Wurum faschte ma(mir) un d Pharisäer so viel, un dini Jinger faschte nit? </verse>
+        <verse osisID='Matt.9.15'>Jesus git ne zantwort: We kenne d Hochziitsgäscht Leid ha, solang dr Bräutigam bi nene isch? S wird aba de Ziit kumme, daß dr Bräutigam vu nene gnumme wird; dann(dnoh) wäre sie faschte. </verse>
+        <verse osisID='Matt.9.16'>Nemad flickt ä altes Kleid mit nem näji(naii) Lappe; denn dr Lappe rißt doch wieda vum Häß(Kleid) ab, un dr Riß wird ärga. </verse>
+        <verse osisID='Matt.9.17'>Ma fillt au nit näji(naii) Wi in alti Schliich; sunscht vurieße d Schliich, un dr Wi wird vuschittet, un d Schliich vuderbe. Sundern ma fillt näji(naii) Wi in näji(naii) Schliich, so bliebe beidi mitänanda ganz. </verse>
+        <title>S bloetflissige Wieb un d Uferweckig vu d Dochta vum Jairus</title>
+        <title>(Mk 5,21-43; Lk 8,40-56)</title>
+        <verse osisID='Matt.9.18'>Als sa(er) so mit ne schwätzt, lueg (gib obacht), do kummt eina vu d Vorschteha vu d Gmeinde, flegt vor nem ane un het gsait: Mini Dochta isch ebe gschtorbe, aba kumm un lege di Hand uf sie, so wird sie lebändig. </verse>
+        <verse osisID='Matt.9.19'>Un Jesus schtod uf un goht mit nem un sini Jinger. </verse>
+        <verse osisID='Matt.9.20'>Un lueg (gib obacht), ä Wieb, des sit zwöelf Johr d Bloetfluß het, kunnt vu hinte an nen rah un brihrt d Saum vu sinem Gwand (Häß). </verse>
+        <verse osisID='Matt.9.21'>Denn sie het gsait bi sich selbscht: Kennt i(ich) nur si Gwand (Häß) berihre, so wär i(ich) gsund </verse>
+        <verse osisID='Matt.9.22'>Do drillt sich Jesus um un het sie gsäh un het gsait: Kasch froh si, mi Dochta, di Glaube het dir ghulfe. Un des Wieb isch gsund gsi zue dselbe Schtund. </verse>
+        <verse osisID='Matt.9.23'>Un als sa(er) in des Hus vum Vorschteha kummt un gsäh het d Flöteschpiela un des Gwimmel vu Lit, </verse>
+        <verse osisID='Matt.9.24'>het da(er) gsait: Gehn üsä! denn des Maidle isch nit dot, sundern s schloft. Un sie lache nen üs. </verse>
+        <verse osisID='Matt.9.25'>Als aba d Lit nüstriebe ware, goht da(er) inä un packt sie bi dr Hand. Do schtod des Maidle uf. </verse>
+        <verse osisID='Matt.9.26'>Un si Ruef hallt durch des ganze Land. </verse>
+        <title>Di Heilig vu zwei Blindä un vumä Schtumme</title>
+        <verse osisID='Matt.9.27'>Un als Jesus vu dert wietagoht, folge nem zwei Blindi, de brellä: He, dü Bue David, erbarm dich unsa! </verse>
+        <verse osisID='Matt.9.28'>Un als sa heimkummt, kumme di Blindä zue nem. Un Jesus het gsait zue nene: Glaube ihr, daß i(ich) des doe ka? Do sage sie zue nem: Ja, Herr. </verse>
+        <verse osisID='Matt.9.29'>Do brihrt da(er) ihri Auge un sait: Äich gschiht nohch äirem Glaube! </verse>
+        <verse osisID='Matt.9.30'>Un ihri Auge wäre ufdoe. Un Jesus drohte ne un sait: Luege zue, daß ses nemads erfahrt! </verse>
+        <verse osisID='Matt.9.31'>Aba sie gehn üsä un vubreite d Gschichte vu nem in däm ganze Land. </verse>
+        <verse osisID='Matt.9.32'>Als de drno nüsgange ware, lueg (gib obacht), do bringe sie zue nem ä Mensch, der war schtumm un bsesse. </verse>
+        <verse osisID='Matt.9.33'>Als aba dr bese Geischt üstriebe war, schwätzt dr Schtumme. Un s Volk vuwundret sich un het gsait: So ebis isch noh ne in Israel gsähne worde. </verse>
+        <verse osisID='Matt.9.34'>Aba d Pharisäer hän gsait: Er tribt di bese Geischta üs durch ihr Obaschte. </verse>
+        <title>D Ernte</title>
+        <verse osisID='Matt.9.35'>Un Jesus goht ringsum in alli Schtädt un Derfa (Käffa), lehrt in ihre Synagoge (Gotteshus) (Gotteshiisa) un predigt s Evangelium vum Rich un heilt alli Krankkete un alli Gebreche. </verse>
+        <verse osisID='Matt.9.36'>Un als sa(er) s Volk gsäh het, jammat`s nen; denn sie ware vuschmachtet un vuschtreit we Schof, de kei Schäfa (Hirte) hän. </verse>
+        <verse osisID='Matt.9.37'>Do sait da(er) zue sinene Jinger: D Ernte isch groß, aba wenig sin Arbeita. </verse>
+        <verse osisID='Matt.9.38'>Drum bitte d Herr vu d Ernte, daß sa Arbeita in sini Ernte schickt. </verse>
+      </chapter>
+      <chapter osisID='Matt.10'>
+        <title>D Berufig vu d Zwöelf</title>
+        <title>(Mk 6,7-13; Lk 9,1-5)</title>
+        <verse osisID='Matt.10.1'>Un na(er) reft sini zwöelf Jinger zue sich un git ne Macht iba di schlechte Geischta, daß sie`s üstribe un heile alli Krankkete un alli Gebreche. </verse>
+        <verse osisID='Matt.10.2'>D Näme aba vu d zwöelf Aposchtel sin de: zerscht Simon, gnennt Petrus, un Andreas, si Brueda; Jakobus, dr Bue vum Zebedäus, un Johannes, si Brueda; </verse>
+        <verse osisID='Matt.10.3'>Philippus un Bartholomäus; Thomas un Matthäus, dr Zöllna; Jakobus, dr Bue vum Alphäus, un Thaddäus; </verse>
+        <verse osisID='Matt.10.4'>Simon Kananäus un Judas Iskariot, der nen vurote het. </verse>
+        <title>D Ussendig vu d Zwöelf</title>
+        <verse osisID='Matt.10.5'>De Zwöelf schickt Jesus üs, bfielt tene un het gsait: Gehn nit d Wäg zue d Heide un zehn in kei Schtadt vu d Samariter, </verse>
+        <verse osisID='Matt.10.6'>sundern gehn hi zue d vulorene Schof üs sem Hus Israel. </verse>
+        <verse osisID='Matt.10.7'>Gehn aba un predige un sage: Des Himmelrich isch nooch herkumme. </verse>
+        <verse osisID='Matt.10.8'>Macht Kranki gsund, weckt Doti uf, macht Üssätzigi sufa, tribä besi Geischta üs. Umsunscht hän ihr's gregt, umsunscht gen`s au. </verse>
+        <verse osisID='Matt.10.9'>Ihr sollt nit Gold noh Silba noh Kupfer in äirem Girtel ha, </verse>
+        <verse osisID='Matt.10.10'>au kei Däsche, au nit zwei Hembte, keini Schoeh, au kei Schtäckä. Denn ä Arbeita isch si Ässä wert. </verse>
+        <verse osisID='Matt.10.11'>Wenn ihr aba in ä Schtadt odr ä Dorf (Kaff) gehn, do froge nohch, ob jemads drin isch, der`s wert isch; un bi däm bliebe, bis sa witagehn. </verse>
+        <verse osisID='Matt.10.12'>Wenn ihr aba in ä Hus gehn, so greßt`s; </verse>
+        <verse osisID='Matt.10.13'>un wenn`s des Hus wert isch, wird aicha Friede uf sie kumme. Isch`s aba nit wert, so wird sich aicha Friede wieda zue äich wende. </verse>
+        <verse osisID='Matt.10.14'>Un wenn äich jemads nit ufnihmt un äiri Wort nit härä wird, so gehn üsä üs däm Hus odr dr Schtadt un schittle d Schtaub vu äire Feß. </verse>
+        <verse osisID='Matt.10.15'>Gwiß, i(ich) sag äich: Dem Land vu d Sodomer un Gomorrer wird`s bessa ergoh am Dag vum Gricht als der Schtadt. </verse>
+        <title>Vufolgig</title>
+        <title>(Mk 13,9-13; Lk 21,12-17)</title>
+        <verse osisID='Matt.10.16'>Lueg (gib obacht), i(ich) schick äich we Schof midde unda d Wöelf. Drum sin schlau we de Schlange un ohni Falsch we de Duebe. </verse>
+        <verse osisID='Matt.10.17'>Hete äich aba vor d Mensche; denn sie wäre äich d Grichte ibaantworte un wäre äich üsbeitsche in ihre Synagoge (Gotteshus) (Gotteshiisa). </verse>
+        <verse osisID='Matt.10.18'>Un ma wird äich vor Schtadthaltr un Kenig fihre wägä ma(mir), däne un d Heide zum Ziignis. </verse>
+        <verse osisID='Matt.10.19'>Wenn sie äich drno ibaantworte wäre, so sorge nit, we odr was sa schwätze sollt; denn`s soll äich zue dr Schtund ge wäre, was sa schwätze solle. </verse>
+        <verse osisID='Matt.10.20'>Denn nit ihr sin`s, de do schwätze, sundern vum Vada (Babbe) d Geischt isch`s, der durch äich schwätzt. </verse>
+        <verse osisID='Matt.10.21'>S wird aba ä Brueda d andre däm Dod priesge un dr Vada (Babbe) d Bue, un d Kinda wäre sich gege ihri Eltere schtelle un wäre sie umbringe helfe. </verse>
+        <verse osisID='Matt.10.22'>Un ihr wäre ghaßt wäre vu jedem wägä minem Name. Wer aba bis an`s End vuharrt, der wird selig wäre. </verse>
+        <verse osisID='Matt.10.23'>Wenn sie äich aba in einare Schtadt jage, so haue ab in ä anderi. Gwiß, i(ich) sag äich: Ihr sin mit d Schtädt Israels nit zue End, bis dr Menschebue kummt. </verse>
+        <verse osisID='Matt.10.24'>Dr Jinger schtoht nit iba sinem Meischta un dr Knecht nit iba sinem Herr. </verse>
+        <verse osisID='Matt.10.25'>S isch fir d Jinger gnoe, daß sa(er) isch we si Meischta un dr Knecht we si Herr. Hän sie d Husherr Beelzebul gnennt, weviel me wäre sie sini Husgnosse so nenne! </verse>
+        <verse osisID='Matt.10.26'>Drum firchtet äich nit vor ne. </verse>
+        <title>Menschefurcht un Gottesfurcht</title>
+        <title>(Lk 12,2-9)</title>
+        <title>S isch nigs vuborge, was nit bekannt wird, un nigs geheim, was ma nit wisse wird.</title>
+        <verse osisID='Matt.10.27'>Was i(ich) äich sag im Dunkle, des schwätzt im Lecht; un was äich gsait wird in`s Ohr, des predigt uf d Dächa. </verse>
+        <verse osisID='Matt.10.28'>Un firchte äich nit vor däne, de d Leib (Ranze) umbringe, doch d Seele nit umbringe kenne; firchtet äich aba viel me vor däm, der Leib (Ranze) un Seele vuderbe ka in dr Hell. </verse>
+        <verse osisID='Matt.10.29'>Kauft ma nit zwei Schpatze fir ä Grosche? Trozdäm flegt keina vu nene uf d Bode ohni äira Vada (Babbe). </verse>
+        <verse osisID='Matt.10.30'>Etze aba sin au äiri Hoor uf fem Schädel alli zehlt. </verse>
+        <verse osisID='Matt.10.31'>Drum firchte äich nit; ihr sin bessa als vieli Schpatze. </verse>
+        <verse osisID='Matt.10.32'>Wer drno mich bekannt macht vor d Lit, den will i(ich) au bekannt mache vor minem himmlische Vada (Babbe). </verse>
+        <verse osisID='Matt.10.33'>Wer mich aba vuliignet vor d Lit, den will i(ich) au vuliigne vor minem himmlische Vada (Babbe). </verse>
+        <title>Wäge Jesus</title>
+        <verse osisID='Matt.10.34'>Ihr sollt nit meine, daß i(ich) kumme bi, Friede z bringe uf d Erde. Ich bi nit kumme, Friede z bringe, sundern s Schwert. </verse>
+        <verse osisID='Matt.10.35'>Denn i(ich) bi kumme, d Mensche z entzweie mit sinem Vada (Babbe) un Dochta mit ihra Muetter un d Schwiegadochta mit ihra Schwiegamuetter. </verse>
+        <verse osisID='Matt.10.36'>Un des Mensche Gegna(Feinde) wäre sini eigene Husgnosse si. </verse>
+        <verse osisID='Matt.10.37'>Wer Vada (Babbe) odr Muetter me liebt (leb het) als mich, der isch`s ma(mir) nit wert; un wer Bue odr Dochta me liebt (leb het) als mich, der isch`s ma(mir) nit wert. </verse>
+        <verse osisID='Matt.10.38'>Un wer nit si Kriiz uf sich nimmt un goht ma(mir) nohch, der isch`s ma(mir) nit wert. </verse>
+        <verse osisID='Matt.10.39'>Wer si Läbä findet, der wird's vuliere; un wer si Läbä vuliert wägä ma(mir), der wird's finde. </verse>
+        <title>Ufnähme um Jesus wille</title>
+        <verse osisID='Matt.10.40'>Wer äich ufnimmt, der nimmt mich uf; un wer mich ufnimmt, der nimmt den uf, der mich gschickt het. </verse>
+        <verse osisID='Matt.10.41'>Wer ä Prophete ufnimmt, wel`s ä Prophet isch, der wird d Lohn vumä Prophet gregä. Wer ä Grechte ufnimmt, wel s ä Grechte isch, der wird d Lohn vumä Grechte gregä. </verse>
+        <verse osisID='Matt.10.42'>Un wer einem vu d Geringe au nur ei Becha kaltes Wassa z trinke git, wel`s ä Jinger isch, gwiß i(ich) sag äich: s wird nem nit unbelohnt bliebe. </verse>
+      </chapter>
+      <chapter osisID='Matt.11'>
+        <title>D Frog vum Johannes</title>
+        <title>(Lk 7,18-23)</title>
+        <verse osisID='Matt.11.1'>Un s isch bassiert, als Jesus mit d Gebote an sini zwöelf Jinger fertig war, daß sa(er) vu dert wietagoht, um in ihre Schtädt z lehre un predige. </verse>
+        <verse osisID='Matt.11.2'>Als aba Johannes im Gfängnis (Loch) vu d Werke Chrischti ghärt het, schickt da(er) sini Jinger </verse>
+        <verse osisID='Matt.11.3'>un losst froge: Bisch dü`s, der do kumme soll, odr solle ma(mir) uf ä andere warte? </verse>
+        <verse osisID='Matt.11.4'>Jesus git zantwort un het gsait zue nene: Gehn hi un sage Johannes des, was ihr ghärt un gsähne hän: </verse>
+        <verse osisID='Matt.11.5'>Blindi luege wida un Lahmi gehn, Üssätzige wäre sufa un Daubi härä, Doti schtehn uf, un Arme wird`s Evangelium predigt; </verse>
+        <verse osisID='Matt.11.6'>un selig isch, wer sich nit an ma(mir) ärgert. </verse>
+        <title>Jesu Ziignis iba d Däufer</title>
+        <title>(Lk 7,24-35)</title>
+        <verse osisID='Matt.11.7'>Als sie fortgange sin, fangt Jesus an, zue d Lit iba Johannes z schwätze a: Was sin ihr nüsgange in d Wüschte z säh? Wellet da ä Rohr säh, des dr Wind hi un her weht? </verse>
+        <verse osisID='Matt.11.8'>Odr was sin ihr nüsgange z säh? Wellet da ä Mensch in schene Kleida säh? lueg (gib obacht), de de scheni Kleida hän, sin in d Hisa vu d Kenig. </verse>
+        <verse osisID='Matt.11.9'>Odr was sin ihr nüsgange z säh? Wellet da ä Prophet säh? Nur, i(ich) sag äich: er isch me als ä Prophet. </verse>
+        <verse osisID='Matt.11.10'>Des ischa, vum däm gschribe schtoht (Maleachi 3,1): "Lueg, i(ich) schick mi Bote vor da her, der di Wäg vor dir mache soll." </verse>
+        <verse osisID='Matt.11.11'>Gwiß, i(ich) sag äich: Unda alle, däne de vu me Wieb uf d Welt kumme sin, isch keina ufträte, der greßa isch als Johannes dr Däufer; der aba isch dr Klienschte im Himmelrich, s isch keina greßa als sa(er). </verse>
+        <verse osisID='Matt.11.12'>Aba vu d Däg Johannes a vum Däufa bis hiit liedet s Himmelrich Gwalt, un di Gwalttätige riße`s an sich. </verse>
+        <verse osisID='Matt.11.13'>Denn alli Prophete un s Gsetz hän gwiessagt (vorusgsait) bis hi zue Johannes; </verse>
+        <verse osisID='Matt.11.14'>un wenn ihr's annehme wen: er isch Elia, der do kumme soll. </verse>
+        <verse osisID='Matt.11.15'>Wer Ohre het, der soll härä! </verse>
+        <verse osisID='Matt.11.16'>Mit wäm soll i(ich) aba des Gschlecht vuglichä? S glicht d Kinda, de uf fem Markt hocke un röfä d andere zue: </verse>
+        <verse osisID='Matt.11.17'>Mir hän äich ufgschpielt, un ihr wen nit tanze; ma(mir) hän drürigi Leda gsunge, un ihr wellet nit hiile. </verse>
+        <verse osisID='Matt.11.18'>Johannes isch kumme, ißt nit un trinkt nit; so sage sie: Er isch bsesse. </verse>
+        <verse osisID='Matt.11.19'>Dr Menschebue isch kumme, ißt un trinkt; so sage sie: lueg (gib obacht), was isch der Mensch fir ä Frässa un Wisüfa, ä Fründ(Freund) dr Zöllna un Sinda! Un doch isch d Wisheit grecht bfunde worde üs ihre Werke. </verse>
+        <title>Jesu Weheruef iba galiläische Schtädt</title>
+        <title>(Lk 10,13-15)</title>
+        <verse osisID='Matt.11.20'>Do fangt da(er) a, de Schtädt z schelte, in däne di meischte vu sinene Tade bassiert ware; denn sie hän nit Buße doe: </verse>
+        <verse osisID='Matt.11.21'>Wehe dir, Chorazin! Mai dir, Betsaida! Wäre solchi Tade in Tyrus un Sidon bassiert, we sie bi äich bassiert sin, sie hättä längscht in Sack un Asche Buße doe. </verse>
+        <verse osisID='Matt.11.22'>Doch i(ich) sag äich: S wird Tyrus un Sidon bessa ergoh am Dag vum Gricht als äich. </verse>
+        <verse osisID='Matt.11.23'>Un dü, Kapernaum, wirsch dü bis zum Himmel ghobe wäre? Dü wirsch bis in d Hell nabgschtoße wäre. Denn wenn in Sodom de Tade bassiert wäre, de in dir bassiert sin, s schtünd noh hiit. </verse>
+        <verse osisID='Matt.11.24'>Doch i(ich) sag äich: S wird däm Land dr Sodomer bessa ergoh am Dag vum Gricht als dir. </verse>
+        <title>Jesu Lobpreis un Heilandsruef</title>
+        <verse osisID='Matt.11.25'>Zue därä Ziit fangt Jesus an un het gsait: Ich pries(lobe) di, Vada (Babbe), Herr vum Himmel un dr Erde, wel dü des d Schlaue vuborge hesch un hesch`s d Unmindige zeigt (offenbart). </verse>
+        <verse osisID='Matt.11.26'>Gel, Vada (Babbe); denn so het`s dir gfalle. </verse>
+        <verse osisID='Matt.11.27'>Alles isch ma(mir) ibage vu minem Vada (Babbe); un nemads kennt d Bue als nur dr Vada (Babbe); un nemads kennt d Vada (Babbe) als nur dr Bue un wäm`s dr Bue zeige (offenbare) will. </verse>
+        <verse osisID='Matt.11.28'>Kummt her zue ma(mir), alli, de ihr mühselig un blade sin; i(ich) will äich erquicke. </verse>
+        <verse osisID='Matt.11.29'>Nähme uf äich mi Joch un lernt vu ma(mir); denn i(ich) bi sanftmuetig un vu Herze demuetig; so den ihr Rueh find fir äiri Seele. </verse>
+        <verse osisID='Matt.11.30'>Denn mi Joch isch sanft, un mi Lascht isch liecht. </verse>
+      </chapter>
+      <chapter osisID='Matt.12'>
+        <title>S Ähreraufe am Sabbat</title>
+        <title>(Mk 2,23-28; Lk 6,1-5)</title>
+        <verse osisID='Matt.12.1'>Zue der Ziit goht Jesus durch ä Kornfeld am Sabbat; un sini Jinger ware hungrig un fange a, Ähre abzrieße un z ässä. </verse>
+        <verse osisID='Matt.12.2'>Als des d Pharisäer sähn, sage sie zue nem: lueg (gib obacht), dini Jinger den, was am Sabbat nit recht isch. </verse>
+        <verse osisID='Matt.12.3'>Er aba het gsait zue nene: Hän ihr nit gläse, was David doe het, als sa un de bi nem ware hunga ka hän? </verse>
+        <verse osisID='Matt.12.4'>we na(er) in des Zelt (Gotteshus) goht un ißt de Schaubrot, de doch nit er noh de bi nem ware, ässä dürfe, sundern ällei d Prieschta (Pfarra)? </verse>
+        <verse osisID='Matt.12.5'>Odr hän ihr nit gläse im Gsetz, we d Prieschta (Pfarra) am Sabbat im Tempel d Sabbat breche un sin doch ohni Schuld? </verse>
+        <verse osisID='Matt.12.6'>Ich sag äich aba: Do isch Größeres als dr Tempel. </verse>
+        <verse osisID='Matt.12.7'>Wenn ihr aba wüßtet, was des heißt (Hosea 6,6): "Ich ha Wohlgfalle an Barmherzigkeit un nit am Opfa", dann(dnoh) hätte ihr de Unschuldige nit vudammt. </verse>
+        <verse osisID='Matt.12.8'>Dr Menschebue isch d Herr iba d Sabbat. </verse>
+        <title>D Heilig vumä Ma am Sabbat</title>
+        <title>(Mk 3,1-6; Lk 6,6-11)</title>
+        <verse osisID='Matt.12.9'>Un na(er) goht vu dert witer un kummt in ihri Synagoge(Gotteshus). </verse>
+        <verse osisID='Matt.12.10'>Un lueg (gib obacht), do war ä Mensch, der het ä vudorrti Hand. Un sie froge nen un hän gsait: Isch's recht, am Sabbat z heile?, dmit sie nen vuklage kennte. </verse>
+        <verse osisID='Matt.12.11'>Aba na(er) het gsait zue nene: Wer isch unda äich, der si einziges Schof, wenn`s nem am Sabbat in ä Gruebe flegt, nit packt un nem rushilft? </verse>
+        <verse osisID='Matt.12.12'>Weviel me isch drno ä Mensch als ä Schof! Drum darf ma am Sabbat Guetes doe. </verse>
+        <verse osisID='Matt.12.13'>Do het da(er) gsait zue däm Mensch: Schtreck di Hand üs! Un na(er) schtreckt sie üs; un sie isch nem wieda gsund wore we di anda. </verse>
+        <verse osisID='Matt.12.14'>Do gehn d Pharisäer üsä un halte Rot iba nen, we sie nen umbringe. </verse>
+        <title>Dr Gottesknecht</title>
+        <title>(Mk 3,7-12; Lk 6,17-19)</title>
+        <verse osisID='Matt.12.15'>Aba als Jesus des erfahrt(gwahr nimmt), vuschwindet da(er) vu dert. Un ä großi Schar Lit goht mit nem, un na(er) heilt sie alli </verse>
+        <verse osisID='Matt.12.16'>un bfielt däne, daß sie nen nit bekannt mache solle, </verse>
+        <verse osisID='Matt.12.17'>dmit itreffe doet, was gsait isch durch d Prophet Jesaja, der do sait (Jesaja 42,1-4): " </verse>
+        <verse osisID='Matt.12.18'>lueg (gib obacht), des isch mi Knecht, den i(ich) üsgwählt ha, un mi Gliebte, an däm mi Seele Wohlgfalle het; i(ich) will mi Geischt uf nen lege, un na(er) soll d Heide s Recht vuzele. </verse>
+        <verse osisID='Matt.12.19'>Er wird nit schtriete noh brelle, un ma wird sini Schtimm nit härä uf d Gasse; </verse>
+        <verse osisID='Matt.12.20'>s knickte Rohr wird da(er) nit vubreche, un d glimmenden Docht wird da(er) nit uslesche, bis sa(er) s Recht nusfihrt zum Sieg; </verse>
+        <verse osisID='Matt.12.21'>un d Heide wäre uf si Name hoffe." </verse>
+        <title>Jesu Macht iba di bese Geischta</title>
+        <title>(Mk 3,22-27; Lk 11,14-23)</title>
+        <verse osisID='Matt.12.22'>Do isch ä Besessene zue Jesus brocht wore, der war blind un schtumm; un na(er) heilt nen, so daß d Schtumme schwätzt un wida gsäh het. </verse>
+        <verse osisID='Matt.12.23'>Un alli Lit schtaune un hän gfrogt: Isch der nit David`s Bue? </verse>
+        <verse osisID='Matt.12.24'>Aba als d Pharisäer des ghärt hän, sage sie: Er tribt di bese Geischta nit andascht üs als durch Beelzebul, ihr Obaschte. </verse>
+        <verse osisID='Matt.12.25'>Jesus erkennt aba ihr denke un het gsait zue nene: Jedes Rich, des mit sich selbscht ueis isch, wird vuwüschtet; un jedi Schtadt odr jedes Hus, des mit sich selbscht ueis isch, ka nit bschtoh. </verse>
+        <verse osisID='Matt.12.26'>Wenn drno dr Sadan d Sadan ustreibt, so mueß sa(er) mit sich selbscht ueis si; we ka dann(dnoh) si Rich bschtoh? </verse>
+        <verse osisID='Matt.12.27'>Wenn i(ich) aba di bese Geischta durch Beelzebul üstrib, durch wen tribä äiri Buebä sie üs? Drum wäre sie äiri Richta si. </verse>
+        <verse osisID='Matt.12.28'>Wenn i(ich) aba di bese Geischta durch d Geischt Gottes üstrib, so isch jo s Rich Gottes zue äich kumme. </verse>
+        <verse osisID='Matt.12.29'>Odr we ka jemads in`s Hus vumä Starke indringe un nem sini Sache schtähle, wenn na(er) nit zvor d Starke fesselt? Erst dann(dnoh) ka er si Hus üsraube. </verse>
+        <verse osisID='Matt.12.30'>Wer nit mit ma(mir) isch, der isch gege mich; un wer nit mit ma(mir) sammlet, der vuschtreit. </verse>
+        <title>D Sinde gege d heilige Geischt</title>
+        <title>(Mk 3,28-30; Lk 12,10; 6,43-45)</title>
+        <verse osisID='Matt.12.31'>Drum sag i(ich) äich: Alli Sinde un Läschterige wird d Mensche vuge; aba s Läschtere gege d Geischt wird nit vuge. </verse>
+        <verse osisID='Matt.12.32'>Un wer ebis schwätzt gege d Menschebue, däm wird`s vuge; aba wer ebis schwätzt gege d heilige Geischt, däm wird's nit vuge, nit in der noh in sella Welt. </verse>
+        <title>Vum Baum un sinene Fricht</title>
+        <verse osisID='Matt.12.33'>Nähme a, ä Baum isch guet, so wird au sini Frucht guet si; odr nähmä a, ä Baum isch ful, so wird au sini Frucht ful si. Denn an dr Frucht kennet da d Baum. </verse>
+        <verse osisID='Matt.12.34'>Ihr Schlangebruet, we kennt ihr Guetes schwätze, de ihr bes sin? Mit was des Herz voll isch, vum däm lauft d Gosch iba. </verse>
+        <verse osisID='Matt.12.35'>Ä guete Mensch holt Guetes viiri üs däm guete Schatz vu sinem Herz; un ä bese Mensch holt Beses viiri üs sinem bese Schatz. </verse>
+        <verse osisID='Matt.12.36'>Ich sag äich aba, daß d Mensche Antwort ge mehn am Dag vum Gricht iba jedes nigsnutzige Wort, des sie gsait hän. </verse>
+        <verse osisID='Matt.12.37'>Üs dinem Wort wirsch dü grecht bfunde wäre, un üs dinem Wort wirsch dü vudammt wäre. </verse>
+        <title>D Pharisäer</title>
+        <title>(Mk 8,11.12; Lk 11,29-32)</title>
+        <verse osisID='Matt.12.38'>Do fange ä baar vu d Schriftglehrti un Pharisäer a un sage zue nem: Meischta, ma(mir) wen gern ä Zeiche vu dir säh. </verse>
+        <verse osisID='Matt.12.39'>Un na(er) git zantwort un het zue nene gsait: Ä beses un abtrinniges Gschlecht fordert ä Zeiche, aba s wird nem kei Zeiche ge wäre, s isch denn des Zeiche vum Prophet Jona. </verse>
+        <verse osisID='Matt.12.40'>Denn we Jona dräi Däg un dräi Nächte im Ranze vum Fisches war, so wird dr Menschebue dräi Däg un dräi Nächte im Schoß dr Erde si. </verse>
+        <verse osisID='Matt.12.41'>De Lit vu Ninive wäre ufträte bim Jingschte Gricht mit däm Gschlecht un wäre`s vudamme; denn sie hän Buße doe nohch dr Predigt vum Jona. Un lueg (gib obacht), do isch me als Jona. </verse>
+        <verse osisID='Matt.12.42'>D Kenigin vum Süde wird ufträte bim Jingschte Gricht mit däm Gschlecht un wird`s vudamme; denn sie kummt vum End dr Erde, um Salomos Wisheit z härä. Un lueg (gib obacht), do isch me als Salomo. </verse>
+        <title>D Ruckkehr vum bese Geischt</title>
+        <title>(Lk 11,24-26)</title>
+        <verse osisID='Matt.12.43'>Wenn dr dräckige(bese) Geischt vu nem Mensche üsgfahre isch, so durchschtrieft da(er) dürri Schtätt, suecht Rueh un findet sie nit. </verse>
+        <verse osisID='Matt.12.44'>Dann(Dnoh) sait da(er): Ich will wieda zruckgo in mi Hus, üs däm i(ich) furtgange bi. Un wenn na(er) kummt, so findet er's leer, gwischt un gschmückt. </verse>
+        <verse osisID='Matt.12.45'>Dann(Dnoh) goht da(er) hi un nimmt mit sich siebä andari Geischta, de besa sin als sa(er) selbscht; un wenn sie inekumme, huse sie drin; un s wird mit däm Mensch dnoh ärga, als ses dvor war. So wird's au däm bese Gschlecht ergoh. </verse>
+        <title>Jesus wahri Vuwandti</title>
+        <title>(Mk 3,31-35; Lk 8,19-21)</title>
+        <verse osisID='Matt.12.46'>Als sa(er) noh zue d Lit schwätzt, lueg (gib obacht), do sin sini Muetter un sini Breda druße gschtande, de wen mit nem schwätze. </verse>
+        <verse osisID='Matt.12.47'>Do het eina zue nem gsait: lueg (gib obacht), di Muetter un dini Breda schtehn druße un wen mit dir schwätze. </verse>
+        <verse osisID='Matt.12.48'>Er git zantwort aba un het gsait zue däm, der`s nem agsait het: Wer isch mini Muetter, un wer sin mini Breda? </verse>
+        <verse osisID='Matt.12.49'>Un na(er) schtreckt d Hand üs iba sini Jinger un het gsait: lueg (gib obacht) do, des isch mi Muetter, un des sin mi Breda! </verse>
+        <verse osisID='Matt.12.50'>Denn wer d Wille doet vu minem Vada (Babbe) im Himmel, der isch ma(mir) Brueda un Schweschta un Muetter. </verse>
+      </chapter>
+      <chapter osisID='Matt.13'>
+        <title>Vum Säma</title>
+        <title>(Mk 4,1-9; Lk 8,4-8)</title>
+        <verse osisID='Matt.13.1'>An demselbe Dag goht Jesus üs däm Hus un het sich anekockt an d See. </verse>
+        <verse osisID='Matt.13.2'>Un s vusammlet sich ä großi Schar Lit bi nem, so daß sa(er) in ä Boot schtiegt un sich anekockt het, un alli Lit schtehn am Ufa. </verse>
+        <verse osisID='Matt.13.3'>Un na(er) schwätzt vieles zue nene in Glichnisse un het gsait: lueg (gib obacht), s goht ä Säma üs, z saje. </verse>
+        <verse osisID='Matt.13.4'>Un indäm er sajt, flegt ebis uf d Wäg; do kumme d Vegel un fräße's uf. </verse>
+        <verse osisID='Matt.13.5'>Ebis flegt uf felsige Bode, wo`s nit viel Erde het, un goht bald uf, wel`s kei defi Erde het. </verse>
+        <verse osisID='Matt.13.6'>Als aba d Sunne ufgoht, vuwelkt`s, un wel`s keini Wurzle het, vudorrt`s. </verse>
+        <verse osisID='Matt.13.7'>Ebis flegt unda d Dorne; un d Dorne wuchse nuff un erschtickte's. </verse>
+        <verse osisID='Matt.13.8'>Ebis flegt uf guetes Land un trait Frucht, ebis hundertfach, ebis sechzigfach, ebis driißigfach. </verse>
+        <verse osisID='Matt.13.9'>Wer Ohre het, der soll härä! </verse>
+        <title>D Sinn (Gmeht) vu d Glichniss</title>
+        <title>(Mk 4,10-12; Lk 8,9.10)</title>
+        <verse osisID='Matt.13.10'>Un d Jinger schtehn zue nem hii un hän gsait: Wurum schwätzesch dü zue nene in Glichniss? </verse>
+        <verse osisID='Matt.13.11'>Er git zantwort un het gsait zue nene: Äi(ich) isch's ge, d Gheimniss vum Himmelrich z vuschtoh, däne aba isch's nit ge. </verse>
+        <verse osisID='Matt.13.12'>Denn wer do het, däm wird ge, daß sa(er) d Massig(Fülle) het; wer aba nit het, däm wird au des gnumme, was sa(er) het. </verse>
+        <verse osisID='Matt.13.13'>Drum schwätz i(ich) zue nene in Glichnisse. Denn mit d Auge luege sie nit un mit d Ohre härä sie nit; un sie vuschtehn`s nit. </verse>
+        <verse osisID='Matt.13.14'>Un an nene wird d Wissagig Jesajas itreffe, de do sait (Jesaja 6,9.10): "Mit d Ohre den ihr härä un den`s nit vuschtoh; un mit d Auge den ihr luege un den`s nit erkenne. </verse>
+        <verse osisID='Matt.13.15'>Denn des Herz vu d Lit isch vuschtockt: ihri Ohre härä schwer, un ihri Auge sin zue, dmit sie nit etwa mit d Auge luege un mit d Ohre härä un mit däm Herz vuschtehn un sich umkähre, un i(ich) ne hilf." </verse>
+        <verse osisID='Matt.13.16'>Aba selig sin äiri Auge, daß sie luege, un äiri Ohre, daß sie härä. </verse>
+        <verse osisID='Matt.13.17'>Gwiß, i(ich) sag äich: Vieli Prophete un Grechti hätte gern, agluegt, was ihr aluege, un hän's nit gsähne, un gern ghärt, was ihr härä, un hän's nit ghärt. </verse>
+        <title>S Glichniss vum Säma</title>
+        <title>(Mk 4,13-20; Lk 8,11-15)</title>
+        <verse osisID='Matt.13.18'>So härt drno ihr des Glichnis vum Säma: </verse>
+        <verse osisID='Matt.13.19'>Wenn jemads des Wort vum Rich härt un nit vuschtoht, so kummt dr Bese un rißt wäg, was in si Herz gsajt isch; des isch der, bi däm uf d Wäg gsajt isch. </verse>
+        <verse osisID='Matt.13.20'>Bi däm aba uf felsigem Bode gsajt isch, des isch, der`s Wort härt un`s gli mit Fräid(Freud) ufnimmt; </verse>
+        <verse osisID='Matt.13.21'>aba na(er) het keini Wurzle in sich, sundern na(er) isch wetterwendisch; wenn sich not odr Vufolgig hoch kumme um des Wortes wägä, so flegt er gli ab. </verse>
+        <verse osisID='Matt.13.22'>Bi däm aba unda d Dorne gsajt isch, des isch, der`s Wort härt, un d Sorge vu d Welt un dr betrug vum Richtum erschticke s Wort, un na(er) het kei Frucht. </verse>
+        <verse osisID='Matt.13.23'>Bi däm aba uf guetes Land gsajt isch, des isch, der`s Wort härt un vuschtoht un dann(dnoh) au Frucht bringt; un eina trait hundatfach, dr andre sechzigfach, dr dritte driißigfach. </verse>
+        <title>Vum Unkrut unda däm Weize</title>
+        <verse osisID='Matt.13.24'>Er legt tene ä anderes Glichnis vor un het gsait: Des Himmelrich glicht nem Mensche, der guete Some uf si Acka sajt. </verse>
+        <verse osisID='Matt.13.25'>Als aba d Lit schlofe, kummt si Fäind un sajt Unkrut zwische d Weize un goht dvu. </verse>
+        <verse osisID='Matt.13.26'>Als drno d Saat gwachse isch un Frucht bringt, do findet sich au des Unkrut. </verse>
+        <verse osisID='Matt.13.27'>Do schtehn d Knecht zum Husvada un hän gsait: Herr, hesch dü nit guete Some uf di Acka gsajt? Woher het da(er) denn des Unkrut? </verse>
+        <verse osisID='Matt.13.28'>Er het gsait zue nene: Des het ä Fäind doe. Do sage d Knecht: Willsch dü denn, daß ma(mir) higehn un`s üsjäte? </verse>
+        <verse osisID='Matt.13.29'>Er het gsait: Nei! dmit ihr nit au d Weize mit üsriße, wenn ihr`s Unkrut üsjätet. </verse>
+        <verse osisID='Matt.13.30'>Len beides mitänanda wachse bis zue d Ernte; un um d Ernteziit will i(ich) zue d Schnitter sage: Sammle zerscht`s Unkrut un bindet`s in Bindel, dmit ma`s vubrenne ka; aba d Weize sammlet ma(mir) in mi Schichä. </verse>
+        <title>Vum Senfkorn</title>
+        <title>(Mk 4,30-32; Lk 18.19)</title>
+        <verse osisID='Matt.13.31'>Ä anderes Glichnis legt er ne vor un het gsait: Des Himmelrich glicht nem Senfkorn, des ä Mensch nimmt un uf si Acka sajt; </verse>
+        <verse osisID='Matt.13.32'>des isch`s klienschte unda ällei Samenkerna; wenn`s aba gwachse isch, so isch`s greßa als alles andare Krut un wird ä Baum, so daß d Vegel unda däm Himmel kumme un huse in sinene Äscht. </verse>
+        <title>Vum Surdeig</title>
+        <verse osisID='Matt.13.33'>Ä anderes Glichnis het da(er) ne gsait: S Himmelrich glicht nem Surdeig, den ä Wieb nimmt un unda ä halbe Zentna Mehl mengt, bis ses ganz durchgsäuert war. </verse>
+        <verse osisID='Matt.13.34'>Des alles schwätzt Jesus in Glichnisse zue d Lit, un ohni Glichnisse schwätzt da(er) nigs zue nene, </verse>
+        <verse osisID='Matt.13.35'>dmit itreffe doet, was gsait isch durch d Prophet, der do sait (Psalm 78,2): "Ich will mi Mul (Gosch) ufdoe in Glichnisse un will schwätze, was vuborge war vum Afang dr Welt a." </verse>
+        <title>S Gleichnisses vum Unkrut</title>
+        <verse osisID='Matt.13.36'>Do losst Jesus d Lit go un kummt heim. Un sini Jinger schtehn zue nem un hän gsait: Sag uns(us) des Glichnis vum Unkrut uf fem Acka. </verse>
+        <verse osisID='Matt.13.37'>Er git zantwort un het gsait zue nene: Dr Menschebue isch's, der d guete Some sajt. </verse>
+        <verse osisID='Matt.13.38'>Dr Acka isch d Welt. Dr guete Some sin d Kinda vum Rich. Des Unkrut sin de Kinda vum Bese. </verse>
+        <verse osisID='Matt.13.39'>Dr Fäind, der`s Unkrut sajt, isch dr Deufel. D Ernte isch s End vu d Welt. D Schnitta sin d Engel. </verse>
+        <verse osisID='Matt.13.40'>Wenn ma drno des Unkrut üsjätet un mit Fiir vubrennt, so wird's au am End dr Welt go. </verse>
+        <verse osisID='Matt.13.41'>Dr Menschebue wird sini Engel schicke, un sie wäre sammle üs sinem Rich alles, was zum Wäggoh vufihrt, un de do Unrecht den, </verse>
+        <verse osisID='Matt.13.42'>un sie wäre in d Fiirofe gworfe; do wird Hiile un s Zähneklappere si. </verse>
+        <verse osisID='Matt.13.43'>Dann(Dnoh) wäre di Grechte laichte we d Sunne im Vada (Babbe) sinem Rich. Wer Ohre het, der soll härä! </verse>
+        <title>D Schatz im Acka un dr koschtbare Perle</title>
+        <verse osisID='Matt.13.44'>Des Himmelrich glicht nem Schatz, vuborge im Acka, den ä Mensch findet un vuschteckt; un in sinere Fräid(Freud) goht da(er) hi un vukauft alles, was sa het, un kauft d Acka. </verse>
+        <verse osisID='Matt.13.45'>Ebeso glicht s Himmelrich nem Kaufma (Händla), der gueti Perle suecht, </verse>
+        <verse osisID='Matt.13.46'>un als sa(er) ä koschtbari Perle findet, goht da(er) hi un vukauft alles, was sa(er) het, un kauft sie. </verse>
+        <title>Vum Fischnetz</title>
+        <verse osisID='Matt.13.47'>Ebeso glich s Himmelrich nem Netz, des ins Meer gworfe wird un Fisch alla Art fangt. </verse>
+        <verse osisID='Matt.13.48'>Wenn`s aba voll isch, zen sie`s üsä an`s Ufa, un den anesitzä un läse di guete in Töpf zsämme, aba di schlechte werfe sie wäg. </verse>
+        <verse osisID='Matt.13.49'>So wird`s au am End dr Welt go: d Engel wäre üsgoh un di Bese vu d Grechte trenne </verse>
+        <verse osisID='Matt.13.50'>un wäre sie in d Fiirofe werfe; do wird Hiile un Zähneklappere si. </verse>
+        <verse osisID='Matt.13.51'>Hän ihr des alles vuschtande? Sie sage: Jo. </verse>
+        <verse osisID='Matt.13.52'>Do het da(er) gsait: Drum glicht jeda Schriftglehrte, der ä Jinger vum Himmelrich wore isch, nem Husvada, der üs sinem Schatz Näjes(Naies) un Altes vorholt. </verse>
+        <title>Jesus in Nazareth</title>
+        <title>(Mk 6,1-6; Lk 4,16-30)</title>
+        <verse osisID='Matt.13.53'>Un s isch bassiert, als Jesus de Glichnisse gmacht het, daß sa(er) dvugange isch </verse>
+        <verse osisID='Matt.13.54'>un kummt Heim (in si Vadaschtadt) un lehrt sie in ihra Synagoge (Gotteshus), so daß sie sich vuschrecke un froge: Woher het der solchi Wisheit un solchi Tade? </verse>
+        <verse osisID='Matt.13.55'>Isch er nit dr Bue vum Zimmama? Heißt nit si Muetter Maria? Un sini Breda Jakobus un Josef un Simon un Judas? </verse>
+        <verse osisID='Matt.13.56'>Un sini Schweschtare, sin sie nit alli bi uns(us)? Woher kummt nem denn des alles? </verse>
+        <verse osisID='Matt.13.57'>Un sie ärgerte sich a nem. Jesus aba het gsait zue nene: Ä Prophet gilt nirgends weniger als Dheim un in sinem Hus. </verse>
+        <verse osisID='Matt.13.58'>Un na(er) doet dert nit vieli Zeiche wägä ihrem Unglaube. </verse>
+      </chapter>
+      <chapter osisID='Matt.14'>
+        <title>Des End vu Johannes</title>
+        <title>(Mk 6,14-29; Lk 3,19.20; 9,7-9)</title>
+        <verse osisID='Matt.14.1'>Zue der Ziit kummt d Kunde vu Jesus vor d Landesfirscht Herodes. </verse>
+        <verse osisID='Matt.14.2'>Un na(er) het gsait zue sinene Lit: Des isch Johannes dr Däufer; er isch vu d Dote ufgschtande, drum doet da(er) solchi Tade. </verse>
+        <verse osisID='Matt.14.3'>Denn Herodes het Johannes packt, gfesselt un in`s Gfängnis (Loch) gworfe wägä dr Herodias, des Wieb vu sinem Brueda Philippus. </verse>
+        <verse osisID='Matt.14.4'>Denn Johannes het zue nem gsait: S isch nit recht, daß dü sie hesch. </verse>
+        <verse osisID='Matt.14.5'>Un na(er) hät nen gern umbrocht, firchtet sich aba vor rem Volk; denn sie hän nen fir ä Prophet ghalte. </verse>
+        <verse osisID='Matt.14.6'>Als aba Herodes si Geburtstag gfiirt het, do tanzt d Dochta vu d Herodias vor nene. Des het däm Herodes guet gfalle. </verse>
+        <verse osisID='Matt.14.7'>Dert het da(er) ihr mit nem Eid vuschproche, er wott ihr ge, was sie fordare doet. </verse>
+        <verse osisID='Matt.14.8'>Un we sie zvor vu ihra Muetter agschtiftet war, het sie gsait: Gib ma(mir) do uf einare Schale d Schädel vum Johannes däm Däufa! </verse>
+        <verse osisID='Matt.14.9'>Un dr Kenig isch trurig gsi; doch wägä däm Eid un dänä, de mit nem z Disch hockt sin, bpfiehlt er, ihr`s z ge, </verse>
+        <verse osisID='Matt.14.10'>un schickt hi un hän Johannes im Gfängnis (Loch) köpft. </verse>
+        <verse osisID='Matt.14.11'>Un si Schädel isch ritrage wore uf einare Schale un däm Maidle ge worde; un sie bringts ihra Muetter. </verse>
+        <verse osisID='Matt.14.12'>Do kumme sini Jinger un nähmä si Leiche un beerdige nen; un sie kumme un vuzehle des Jesus. </verse>
+        <title>Fünfdusig Ässä</title>
+        <title>(Mk 6,31-44; Lk 9,10-17; Joh 6,1-13)</title>
+        <verse osisID='Matt.14.13'>Als des Jesus ghärt het, fahrt er vu dert wäg in nem Boot an ä insami Gegend ällei. Un als d Lit des ghärt hän, gehn sie zue nem z Foeß üs d Schtädt. </verse>
+        <verse osisID='Matt.14.14'>Un Jesus schtiegt üs un als sa sie gsäh het de großi Schar Lit; do jammerts nen, un er heilt ihri Kranke. </verse>
+        <verse osisID='Matt.14.15'>Am Obend aba gehn sini Jinger zue nem un hän gsait: De Gegend isch öd, un d Nacht bricht ri; loß d Lit go, dmit sie in de Derfa (Käffa) go kenne un sich z ässä kaufe. </verse>
+        <verse osisID='Matt.14.16'>Aba Jesus het zue nene gsait: S isch nit nedig, daß sie fortgehn; gen ihr ne z ässä. </verse>
+        <verse osisID='Matt.14.17'>Sie sage zue nem: Mir hän doch nigs als fünf Brot un zwei Fisch. </verse>
+        <verse osisID='Matt.14.18'>Un na(er) het gsait: Hole sie ma(mir) her! </verse>
+        <verse osisID='Matt.14.19'>Un na(er) losst de Lit sich uf`s Gras sitze un nimmt de fünf Brot un de zwei Fisch, luegt ufe zum Himmel, dankt un bricht's un git de Brot d Jinger, un de Jinger gän sie d Lit. </verse>
+        <verse osisID='Matt.14.20'>Un sie ässä alli un wäre satt un sammle uf, was an Brocke ibrigbliebt, zwöelf Kerb voll. </verse>
+        <verse osisID='Matt.14.21'>De aba gässä hän, ware etwa fünfdusig Ma, ohni Wieba un Kinda. </verse>
+        <title>Jesus un dr sinkende Petrus uf fem See</title>
+        <title>(Mk 6,45-56; Joh 6,15-21)</title>
+        <verse osisID='Matt.14.22'>Un drno trieb Jesus sini Jinger, in`s Boot z schtiege un vor nem nibazfahre, bis sa(er) de Lit go lo het. </verse>
+        <verse osisID='Matt.14.23'>Un als sa(er) des Volk het go losse, schtiegt da(er) ällei uf ä Berg, um z bäte. Un am Obend war er dert ällei. </verse>
+        <verse osisID='Matt.14.24'>Un des Boot war scho wit vum Land wäg un kummt in Not durch d Wellä; denn dr Wind schtod ne entgegä. </verse>
+        <verse osisID='Matt.14.25'>Aba in dr vierte Nachtwache kummt Jesus zue nene un goht uf fem See. </verse>
+        <verse osisID='Matt.14.26'>Un als nen d Jinger sähn uf fem See go, vuschrekä sie un refe: S isch ä Gschpenscht! un brellä vor Angscht. </verse>
+        <verse osisID='Matt.14.27'>Aba gli druf schwätzt Jesus mit ne un het gsait: Sin getroscht, i(ich) bi's; firchte äich nit! </verse>
+        <verse osisID='Matt.14.28'>Petrus aba git zantwort un het gsait: Herr, bisch dü`s, so bfiehl ma(mir), zue da z kumme uf fem Wassa. </verse>
+        <verse osisID='Matt.14.29'>Un na(er) het gsait: Kumm her! Un Petrus schtiegt üs däm Boot un goht uf fem Wassa un kummt uf Jesus zue. </verse>
+        <verse osisID='Matt.14.30'>Als sa(er) aba d schtarke Wind gsäh het, vuschrekt er un fangt a z sinke un brellt: Herr, hilf ma! </verse>
+        <verse osisID='Matt.14.31'>Jesus aba schtreckt gli druf d Hand üs un packt nen un het gsait zue nem: Dü Kleigläubiga, wurum hesch dü zwiefelt? </verse>
+        <verse osisID='Matt.14.32'>Un sie schtiege ins Boot, un dr Wind legt sich. </verse>
+        <verse osisID='Matt.14.33'>De aba im Boot ware, flege vor rem ane un hän gsait: Dü bisch wirklich Gottes Bue! </verse>
+        <title>Kranki in Genezareth</title>
+        <title>(Mk 6,53-56)</title>
+        <verse osisID='Matt.14.34'>Un sie fahre niba un kumme ans Land in Genezareth. </verse>
+        <verse osisID='Matt.14.35'>Un als de Lit an däm Platz Jesus erkenne, schickte sie d Botschaft ringsum in des ganze Land un bringe alli Kranke zue nem </verse>
+        <verse osisID='Matt.14.36'>un bitt nen, daß sie nur d Saum vu sinem Gwand (Häß) berihre derfte. Un alli, de nen berihrt hän, wäre gsund </verse>
+      </chapter>
+      <chapter osisID='Matt.15'>
+        <title>Sufa un Dreck</title>
+        <title>(Mk 7,1-23)</title>
+        <verse osisID='Matt.15.1'>Do kumme zue Jesus Pharisäer un Schriftglehrti üs Jerusalem un hän gsait: </verse>
+        <verse osisID='Matt.15.2'>Wurum ibaträte dini Jinger d Satzunge vu d Älteschte? Denn sie wäsche ihri Händ(Pfode) nit, wenn sie Brot ässä. </verse>
+        <verse osisID='Matt.15.3'>Er git zantwort un het gsait zue nene: Wurum ibaträte denn ihr Gottes Gebot um äira Satzunge wägä? </verse>
+        <verse osisID='Matt.15.4'>Denn Gott het bpfohle (2. Moses 20,12; 21,17): "Due sollsch Vada (Babbe) un Muetter ehre; wer aba Vada (Babbe) un Muetter fluecht, der soll schterbe." </verse>
+        <verse osisID='Matt.15.5'>Aba ihr lehrt: Wer zum Vada (Babbe) odr Muetter sait: Ä Opfagabe soll`s si, was dir vu ma(mir) zueschtoht, </verse>
+        <verse osisID='Matt.15.6'>der brucht si Vada (Babbe) nit z ehre. Dmit hän ihr Gottes Gebot ufghobe wägä äira Satzunge. </verse>
+        <verse osisID='Matt.15.7'>Ihr Heuchla, we fain het Jesaja vu äich gwiessagt (vorusgsait) un gschwätzt (Jesaja 29,13): " </verse>
+        <verse osisID='Matt.15.8'>Des Volk ehrt mi mit sinene Lippe, aba ihr Herz isch wiet vu ma(mir); </verse>
+        <verse osisID='Matt.15.9'>vugeblich diene sie ma(mir), wel sie lehre solchi Lehre, de nigs als Menschegebote sin." </verse>
+        <verse osisID='Matt.15.10'>Un na(er) reft d Lit zue sich un het gsait zue nene: Häre zue un begrieftes: </verse>
+        <verse osisID='Matt.15.11'>Was zum Mul (Gosch) inegoht, des macht d Mensch nit dreckig; sundern was üs sem Mul (Gosch) ruskummt, des macht d Mensch dreckig. </verse>
+        <verse osisID='Matt.15.12'>Do schtehn sini Jinger zue nem un froge: Weisch dü au, daß d Pharisäer an däm Wort Aschtoß nähmä, als sie`s ghärt hän? </verse>
+        <verse osisID='Matt.15.13'>Aba na(er) git zantwort un het gsait: Alli Pflanze, de mi himmlische Vada (Babbe) nit abäut het, de wäre üsgrisse. </verse>
+        <verse osisID='Matt.15.14'>Len sie, sie sin blindi Blindefihrer! Wenn aba ä Blindä d andere fihrt, so flege sie beide in d Gruebe. </verse>
+        <verse osisID='Matt.15.15'>Do git zantwort Petrus un het gsait zue nem: Sag uns(us) des Glichnis! </verse>
+        <verse osisID='Matt.15.16'>Un Jesus het zue nene gsait: Sin denn au ihr noh imma unvuschtändig? </verse>
+        <verse osisID='Matt.15.17'>Merkt ihr nit, daß alles, was zum Mul (Gosch) inegoht, des goht in d Ranze un wird dnoh in d Gruebe üsgleert? </verse>
+        <verse osisID='Matt.15.18'>Was aba üs sem Mul (Gosch) ruskummt, des kummt üs sem Herz, un des macht d Mensch dreckig. </verse>
+        <verse osisID='Matt.15.19'>Denn üs sem Herz kummt beses denke, Mord, Ehebruch, Unzucht, Diebschtahl, falsches Ziignis, Läschtere. </verse>
+        <verse osisID='Matt.15.20'>Des sin de Sach, de d Mensch dreckig mache. Aba mit ungwäschene Händ(Pfode) ässä, macht d Mensch nit dreckig. </verse>
+        <title>Ä kanaanäisches Wieb</title>
+        <title>(Mk 7,24-30)</title>
+        <verse osisID='Matt.15.21'>Un Jesus goht wäg vu dert un zeht sich zruck in de Gegend vu Tyrus un Sidon. </verse>
+        <verse osisID='Matt.15.22'>Un lueg (gib obacht), ä kanaanäische Wieb kummt üs däm Gebiet un brellt: Ach Herr, dü Bue David, erbarm dich wägä ma(mir)! Mini Dochta wird vu nem bese Geischt schlecht plagt. </verse>
+        <verse osisID='Matt.15.23'>Un na(er) git zantwort ihr kei Wort. Do kumme sini Jinger zue nem, bitte nen un hän gsait: Loß sie doch go, denn sie brellt uns(us) noh zämme. </verse>
+        <verse osisID='Matt.15.24'>Er git zantwort aba un het gsait: Ich bi nur gschickt zue d vulorene Schof vum Hus Israel. </verse>
+        <verse osisID='Matt.15.25'>Sie aba kummt un flegt vor nem ane un het gsait: Herr, hilf ma(mir)! </verse>
+        <verse osisID='Matt.15.26'>Aba na(er) git zantwort un het gsait: S isch nit recht, daß ma d Kinda ihr Brot nihmt un wirft`s vor d Hund. </verse>
+        <verse osisID='Matt.15.27'>Sie het gsait: Jo, Herr; aba doch frässä d Hund vu d Brosame, de vum Disch ihra Herre flege. </verse>
+        <verse osisID='Matt.15.28'>Do git zantwort Jesus un het zue ihr gsait: Wieb, di Glaube isch groß. Dir gschiht, we dü willsch! Un ihri Dochta isch gsund wore zue dselbe Schtund. </verse>
+        <title>Wiedari Heilige</title>
+        <verse osisID='Matt.15.29'>Un Jesus goht vu dert witer un kummt an des Galiläische Meer un goht uf ä Berg un het sich anekockt. </verse>
+        <verse osisID='Matt.15.30'>Un s kummt ä großi Schar Lit zue nem; de hän bi sich Gelähmti, Vukrippelti, Blindi, Schtummi un vieli anderi Kranki un lege sie Jesus vor de Feß, un na(er) heilt sie, </verse>
+        <verse osisID='Matt.15.31'>so daß sich d Lit vuwundrete, als sie sähn, daß di Schtumme schwätze, di Vukrippelte gsund wäre, di Glähmte gehn, di Blindä sähn; un sie priese d Gott Israels. </verse>
+        <title>Vierdusig</title>
+        <title>(Mk 8,1-10)</title>
+        <verse osisID='Matt.15.32'>Un Jesus reft sini Jinger zue sich un het gsait: Des Volk jammert mich ; denn sie sin scho dräi Däg bi ma(mir) un hän nigs z ässä; un i(ich) will sie nit hungrig go losse, dmit sie nit vuschmachte uf fem Wäg. </verse>
+        <verse osisID='Matt.15.33'>Do sage sini Jinger zue nem: Woher soll ma(mir) soviel Brot nähmä in dr Wüschte, um ä so großi Schar Lit satt z ässä lo? </verse>
+        <verse osisID='Matt.15.34'>Un Jesus het gsait zue nene: We vieli Brot hän ihr? Sie antwortete: Siebe un ä baar Fisch. </verse>
+        <verse osisID='Matt.15.35'>Un na(er) losst d Lit sich uf d Bode lagere </verse>
+        <verse osisID='Matt.15.36'>un nimmt de siebä Brot un de Fisch, dankt, bricht sie un git sie sinene Jinger, un d Jinger gän sie d Lit. </verse>
+        <verse osisID='Matt.15.37'>Un sie ässä alli un wäre satt; un sie sammle uf, was an Brocke ibrigbliebe, siebä Kerb voll. </verse>
+        <verse osisID='Matt.15.38'>Un de gässä hän, ware vierdusig Männa, ohni Wieba un Kinda. </verse>
+        <verse osisID='Matt.15.39'>Un als sa(er) des Volk go losse het, schtiegt da(er) ins Boot un kummt in des Gebiet vu Magadan. </verse>
+      </chapter>
+      <chapter osisID='Matt.16'>
+        <title>D Pharisäer</title>
+        <title>(Mk 8,11.12; Lk 12,54-56)</title>
+        <verse osisID='Matt.16.1'>Do schtehn d Pharisäer un Sadduzäer zue nem; de vusuechte nen un vulangte, das sie ä Zeiche vum Himmel aluege derfte. </verse>
+        <verse osisID='Matt.16.2'>Aba na(er) git zantwort un het gsait: Am Obend sage ihr: S wird ä schene Dag wäre, denn dr Himmel isch rot. </verse>
+        <verse osisID='Matt.16.3'>Un am Morge sage ihr: S wird hiit ä Unwetta kumme, denn dr Himmel isch rot un treb. Iba`s Üssähe vum Himmel kennt da urteile; kennt ihr denn nit au iba de Zeiche vu d Ziit urteile? </verse>
+        <verse osisID='Matt.16.4'>Ä beses un abtrinniges Gschlecht fordert ä Zeiche; doch soll nem kei Zeiche ge wäre, s isch denn des Zeiche vum Jona. Un na(er) het sie schtoh glo un goht dvu. </verse>
+        <title>Warnig vor dr Lehr vu d Pharisäer un Sadduzäer</title>
+        <title>(Mk 8,14-21)</title>
+        <verse osisID='Matt.16.5'>Un als d Jinger ans andare Ufa kumme ware, hän sie vugässä, Brot mitzneh. </verse>
+        <verse osisID='Matt.16.6'>Jesus aba het gsait zue nene: Luege zue un hete äich vor rem Surdeig vu d Pharisäer un Sadduzäer! </verse>
+        <verse osisID='Matt.16.7'>Do denkte sie bi sich selbscht un hän gsait: Des wird's si, daß ma(mir) kei Brot mitgnumme hän. </verse>
+        <verse osisID='Matt.16.8'>Als des Jesus gmerkt het, het da(er) gsait zue nene: Ihr Kleigläubige, was jommere ihr doch, daß ihr kei Brot hän? </verse>
+        <verse osisID='Matt.16.9'>Vuschtehn ihr noh nit? Denkt ihr nit an de fünf Brot fir de fünfdusig un weviel Kerb voll ihr do ufgsammelt hän? </verse>
+        <verse osisID='Matt.16.10'>au nit an de siebä Brot fir de vierdusig un weviel Kerb voll ihr do ufgsammelt hän? </verse>
+        <verse osisID='Matt.16.11'>Wieso vuschtehn ihr denn nit, daß i(ich) nit vum Brot des zue äich gsait ha? Hete äich vielme vor rem Surdeig vu d Pharisäer un Sadduzäer! </verse>
+        <verse osisID='Matt.16.12'>Do vuschten sie, daß sa(er) nit gsait het, sie solle sich hete vor rem Surdeig vum Brot, sundern vor dr Lehr vu d Pharisäer un Sadduzäer. </verse>
+        <title>D Petrus un d Vuheißig an nen</title>
+        <title>(Mk 8,27-30; Lk 9,18-21)</title>
+        <verse osisID='Matt.16.13'>Do kummt Jesus in de Gegend vu Cäsarea Philippi un frogt sini Jinger un het gsait: Wer sage d Lit, daß dr Menschebue isch? </verse>
+        <verse osisID='Matt.16.14'>Sie hän gsait: Ä baar sage, dü bisch Johannes dr Däufer, anderi, dü bisch Elia, wieda anderi, dü bisch Jeremia odr eina vu d Prophete. </verse>
+        <verse osisID='Matt.16.15'>Er frogt sie: Was sage denn ihr, daß i(ich) bi? </verse>
+        <verse osisID='Matt.16.16'>Do git zantwort Simon Petrus un het gsait: Dü bisch Chrischtus, vum lebändige Gott d Bue! </verse>
+        <verse osisID='Matt.16.17'>Un Jesus git zantwort un het gsait zue nem: Selig bisch dü, Simon, Jonas Bue; denn Fleisch un Bloet hän dir des nit zeigt (offenbart), sundern mi Vada (Babbe) im Himmel. </verse>
+        <verse osisID='Matt.16.18'>Un i(ich) sag dir au: Dü bisch Petrus, un uf dän (dinem) Felse will i(ich) mi Gmeinde bäue, un d Pforte vu d Hell solle sie nit ibawältige. </verse>
+        <verse osisID='Matt.16.19'>Ich will dir d Schlissel vum Himmelrich ge: alles, was dü uf d Erde binde wirsch, soll au im Himmel bunde si, un alles, was dü uf Erde löse wirsch, soll au im Himmel glest si. </verse>
+        <verse osisID='Matt.16.20'>Do bfielt er sinene Jinger, nemads z sage, daß sa(er) dr Chrischtus isch. </verse>
+        <title>Jesu Liede un Uferschtehig</title>
+        <title>(Mk 8,31-33; Lk 9,22)</title>
+        <verse osisID='Matt.16.21'>Siet der Ziit fangt Jesus a, sinene Jinger z zeigä, we na(er) nohch Jerusalem go muess un viel liede müss vu d Älteschte un Hohenpriester un Schriftglehrti un umbrocht wird un am dritte Dag ufschtoht. </verse>
+        <verse osisID='Matt.16.22'>Un Petrus nimmt nen uf d siete un fahrt nen a un het gsait: Gott bewahr di, Herr! Des bassiert dir nur nit! </verse>
+        <verse osisID='Matt.16.23'>Er aba drillt sich um un het gsait zue Petrus: Gang wäg vu ma(mir), Sadan! Dü bisch ma(mir) ä Ärgernis; denn dü meinsch nit, was göttlich isch, sundern was menschlich isch. </verse>
+        <title>Vu dr Nohchfolge</title>
+        <title>(Mk 8,34-9,1; Lk 9,23-27)</title>
+        <verse osisID='Matt.16.24'>Do het Jesus zue sinene Jinger gsait: Will ma(mir) jemads nohchfolge, der vuleuignet sich selbscht un nihmt si Kriiz uf sich un folg ma(mir). </verse>
+        <verse osisID='Matt.16.25'>Denn wer si Läbä gregä will, dr wird's vuliere; wer aba si Läbä vuliert wägä ma(mir), der wird's finde. </verse>
+        <verse osisID='Matt.16.26'>Was hülf`s däm Mensch, wenn na(er) di ganz Welt gwönne un nähm doch Schadä an sinere Seele? Odr was ka dr Mensch ge, womit er sini Seele üslese? </verse>
+        <verse osisID='Matt.16.27'>Denn s wird bassiere, daß dr Menschebue kummt in dr Herrlichkeit vu sinem Vada (Babbe) mit sinene Engel, un dann(dnoh) wird da(er) jedem zruck ge nohch sinene Tade. </verse>
+        <verse osisID='Matt.16.28'>Gwiß, i(ich) sag äich: S schtehn ä baar do, de wäre d Dod nit schmeckä, bis sie d Menschebue kumme sähn in sinem Rich. </verse>
+      </chapter>
+      <chapter osisID='Matt.17'>
+        <title>D Vuklärig vu Jesus</title>
+        <title>(Mk 9,2-13; Lk 9,28-36)</title>
+        <verse osisID='Matt.17.1'>Un nohch sechs Däg nimmt Jesus mit sich Petrus un Jakobus un Johannes, däm si Brueda, un fihrt sie ällei uf ä hohe Berg. </verse>
+        <verse osisID='Matt.17.2'>Un na(er) isch vuklärt vor ne, un si Gsicht(Visasch) laichtet we d Sunne, un sini Kleida wäre wiß we`s Lecht. </verse>
+        <verse osisID='Matt.17.3'>Un lueg (gib obacht), do erschiene Moses un Elia; de schwätze mit nem. </verse>
+        <verse osisID='Matt.17.4'>Petrus aba fangt an un het gsait zue Jesus: Herr, do isch guet si! Willsch dü, so will i(ich) do dräi Hitte bäue, dir eini, Moses eini un Elia eini. </verse>
+        <verse osisID='Matt.17.5'>Als sa(er) noh so schwätzt, lueg (gib obacht), do ibaschattet sie ä lichti Wolke. Un lueg (gib obacht), ä Schtimm üs dr Wolke het gsait: Des isch mi liebe Bue, an däm i(ich) Wohlgfalle ha; uf dän solle na härä! </verse>
+        <verse osisID='Matt.17.6'>Als des d Jinger ghärt hän, flege sie uf ihri Gsicht(Visasch) un vuschrekä arg. </verse>
+        <verse osisID='Matt.17.7'>Jesus aba kunnt zue nene, rihrt sie an un het gsait: Schtehn uf un firchte äich nit! </verse>
+        <verse osisID='Matt.17.8'>Als sie aba ihri Auge ufhebe, sähn sie nemads als Jesus ällei. </verse>
+        <verse osisID='Matt.17.9'>Un als sie vum Berg nabgehn, bfielt ne Jesus un het gsait: Ihr sollt vu der Erschinig nemads sage, bis dr Menschebue vu d Dote ufgschtande isch. </verse>
+        <verse osisID='Matt.17.10'>Un sini Jinger froge nen un hän gsait: Wurum sage denn d Schriftglehrti, zerscht müsse Elia kumme? </verse>
+        <verse osisID='Matt.17.11'>Jesus git zantwort un het gsait zue nene: Elia soll scho kumme un alles zrechtbringe. </verse>
+        <verse osisID='Matt.17.12'>Doch i(ich) sag äich: Elia isch scho kumme, aba sie hän nen nit agnumme, sundern hän mit nem doe, was sie wen. So wird au dr Menschebue durch sie liede mese. </verse>
+        <verse osisID='Matt.17.13'>Do vuschten d Jinger, daß sa(er) vu Johannes däm Däufer zue nene gschwätzt het. </verse>
+        <title>D Heilig vumä mondsüchtige Bebli</title>
+        <title>(Mk 9,14-29; Lk 9,37-42)</title>
+        <verse osisID='Matt.17.14'>Un als sie zue d Lit kumme, kunnt ä Mensch zue nem, flegt nem vor d Feß </verse>
+        <verse osisID='Matt.17.15'>un het gsait: Herr, erbarm di iba mi Bue! denn na(er) isch mondsüchtig un het schwer zue liede; er flegt me(oft) ins Fiir un me(oft) ins Wassa; </verse>
+        <verse osisID='Matt.17.16'>un i(ich) ha nen zue dinene Jinger brocht, un sie kenne nem nit helfe. </verse>
+        <verse osisID='Matt.17.17'>Jesus aba git zantwort un het gsait: O dü ungläubiges un vukehrtes Gschlecht, we lang soll i(ich) bi äich si? We lang soll i(ich) äich ertrage? Hole nen ma(mir) her! </verse>
+        <verse osisID='Matt.17.18'>Un Jesus schelt nen; un dr bese Geischt fahrt üs vu nem, un des Bebli isch gsund gsi zue dselbe Schtund. </verse>
+        <verse osisID='Matt.17.19'>Do kumme sini Jinger zue nem, als sie ällei ware, un froge: Wurum kenne ma(mir) nen nit üstriebe? </verse>
+        <verse osisID='Matt.17.20'>Er aba het gsait zue nene: Wägä äirem kliene Glaube. Denn gwiß, i(ich) sag äich: Wenn ihr Glaube hän we ä Senfkorn, so kennt ihr sage zue däm Berg: Heb di derthi!, so wird da(er) sich hebe; un äich wird nigs unmeglich si. </verse>
+        <verse osisID='Matt.17.21'/>
+        <title>Di zweiti Ankündigig vu Jesus Liede un Uferschtehig</title>
+        <title>(Mk 9,30-32; Lk 9,43-45)</title>
+        <verse osisID='Matt.17.22'>Als sie aba binanda ware in Galiläa, het Jesus zue nene gsait: Dr Menschebue wird ibaantwortet wäre in d Händ(Pfode) dr Mensche, </verse>
+        <verse osisID='Matt.17.23'>un sie wäre nen umbringe, un am dritte Dag wird da(er) ufschtoh. Un sie wäre arg trurig. </verse>
+        <title>D Tempelschtiir</title>
+        <verse osisID='Matt.17.24'>Als sie drno nohch Kapernaum kumme, kumme zue Petrus, de d Tempelgrosche inähme, un hän gsait: Doet aicha Meischta nit d Tempelgrosche ge? </verse>
+        <verse osisID='Matt.17.25'>Er het gsait: Doch. Un als sa(er) heimkummt, kummt nem Jesus zvor un het gfrogt: Was meinsch dü, Simon? Vu wäm nähmä d Kenig uf d Erde Zoll odr Schtiire (Zinsgrosche): vu ihre Kinda odr vu d Fremde? </verse>
+        <verse osisID='Matt.17.26'>Als sa(er) git zantwort: Vu d Fremde, het Jesus zue nem gsait: So sin d Kinda fräi. </verse>
+        <verse osisID='Matt.17.27'>Dmit ma(mir) däne aba kei Aschtoß ge wän, gang hi an d See un wirf d Angle üs, un d erschte Fisch, der rufkummt, sälla nimm; un wenn dü si Mul ufmachsch, wirsch dü ä zweigroscheschtickli finde; des nimm un gib's ne fir mich un dich. </verse>
+      </chapter>
+      <chapter osisID='Matt.18'>
+        <title>D Jinger</title>
+        <title>(Mk 9,33-37; Lk 9,46-48)</title>
+        <verse osisID='Matt.18.1'>Zue dselbe Schtund kumme d Jinger zue Jesus un froge: Wer isch dr Greschte im Himmelrich? </verse>
+        <verse osisID='Matt.18.2'>Jesus reft ä Kind zue sich un schtellt`s midde unda sie </verse>
+        <verse osisID='Matt.18.3'>un het gsait: Gwiß, i(ich) sag äich: Wenn ihr nit umkehrt un sin we d Kinda, so wäre ihr nit ins Himmelrich kumme. </verse>
+        <verse osisID='Matt.18.4'>Wer drno sich selbscht niedrig macht un wird we des Kind, der isch dr Greschte im Himmelrich. </verse>
+        <verse osisID='Matt.18.5'>Un wer ä Kind ufnimmt in minem Name, der nimmt mich uf. </verse>
+        <title>Warnig vor Vuführig zum Wäggoh</title>
+        <title>(Mk 9,42-47; Lk 17,1.2)</title>
+        <verse osisID='Matt.18.6'>Wer aba eins vu däne Kliene, de an mi glaube, zum Wäggoh vufihrt, fir den wär`s bessa, daß ä Mihlischtei an si Hals ghängt wird un na(er) ersäuft wird im Meer, wo`s am defschte isch. </verse>
+        <verse osisID='Matt.18.7'>Mai dir Welt dr Vusöhrige wägä! S mehn jo Vusöhrige kumme; doch mai däm Mensche, der zum Wäggoh vufihrt! </verse>
+        <verse osisID='Matt.18.8'>Wenn aba di Hand odr di Foeß dich zum Wäggoh vufihrt, so hau sie ab un wirf sie vu da. S isch bessa fir di, daß dü lahm odr vukrippelt zum Läbä igohsch, als daß dü zwei Händ(Pfode) odr zwei Feß hesch un wirsch ins ewige Fiir gworfe. </verse>
+        <verse osisID='Matt.18.9'>Un wenn dich di Aug zum Wäggoh vufihrt, reißes üs un wirf's vu da. S isch bessa fir di, daß dü einäugig zum Läbä igohsch, als daß dü zwei Auge hesch un wirsch ins helle Fiir gworfe. </verse>
+        <title>Vum vulorene Schof</title>
+        <title>(Lk 15,4-7)</title>
+        <verse osisID='Matt.18.10'/>
+        <verse osisID='Matt.18.11'>Luege zue, daß ihr nit eines vu däne Kliene vuachtet. Denn i(ich) sag äich: Ihri Engel im Himmel sähn alliziit d Gsicht(Visasch) vu minem Vada (Babbe) im Himmel. "Denn dr Menschebue isch kumme, selig zue mache, was vulore isch." </verse>
+        <verse osisID='Matt.18.12'>Was meinet ihr? Wenn ä Mensch hundat Schof het un eins vu däne doet sich vuirre: losst er nit de nineninzig uf d Berge, goht hi un suecht des vuirrte? </verse>
+        <verse osisID='Matt.18.13'>Un wenn`s bassiert, daß er's findet, gwiß, i(ich) sag äich: er fräit sich doriba me als iba de nineninzig, de sich nit vuirrt hän. </verse>
+        <verse osisID='Matt.18.14'>So isch's au nit dr Wille bi äirem Vada (Babbe) im Himmel, daß au nur eins vu däne Kliene vulore wäre. </verse>
+        <verse osisID='Matt.18.15'>Sindigt aba di Brueda an dir, so gang hi un wies nen zrecht zwische dir un nem ällei. Härt er uf di, so hesch dü di Brueda gwunne. </verse>
+        <verse osisID='Matt.18.16'>Härt er nit uf di, so nimm noh eina odr zwei zue da, dmit jedi Sach durch`s Mul (Gosch) vu zwei odr dräi Ziige bschtätigt wird. </verse>
+        <verse osisID='Matt.18.17'>Härt er uf di nit, so sag`s dr Gmeinde. Härt er au uf d Gmeinde nit, so isch scha(er) fir di we ä Heide un Zöllna. </verse>
+        <verse osisID='Matt.18.18'>Gwiß, i(ich) sag äich: Was ihr uf Erde binden den, soll au im Himmel bunde si, un was ihr uf Erde löse den, soll au im Himmel glest si. </verse>
+        <verse osisID='Matt.18.19'>Gwiß, i(ich) sag äich au: Wenn zwei unda äich eins wäre uf Erde, worum sie bitte den, so soll`s ne widafahre vu minem Vada (Babbe) im Himmel. </verse>
+        <verse osisID='Matt.18.20'>Denn wo zwei odr dräi vusammelt sin in minem Name, do bi i(ich) midde unda ne. </verse>
+        <title>Vu dr Vugebig</title>
+        <verse osisID='Matt.18.21'>Do kunnt Petrus zue nem un het gfrogt: Herr, we me(oft) mueß i(ich) denn minem Brueda, der an ma(mir) sindigt, vuge? Längt`s siebemol? </verse>
+        <verse osisID='Matt.18.22'>Jesus het gsait zue nem: Ich sag dir: nit siebemol, sundern siebzigmol siebemol. </verse>
+        <verse osisID='Matt.18.23'>Drum glicht s Himmelrich nem Kenig, dr mit sinene Knecht abrechne wot. </verse>
+        <verse osisID='Matt.18.24'>Un als sa(er) afangt abzrechne, isch eina vor ren brocht, der war nem zehndusig Zentna Silba schuldig. </verse>
+        <verse osisID='Matt.18.25'>Do er's drno nit zahle ka, bpfiehlt dr Herr, den un si Wieb un sini Kinda un alles, was sa het, z vukaufe un dmit z zahle. </verse>
+        <verse osisID='Matt.18.26'>Do flegt nem dr Knecht vor d Feß un fleht nen a un het gsait: Ha Geduld mit ma(mir); i(ich) will dir alles zahle. </verse>
+        <verse osisID='Matt.18.27'>Do het dr Herr Erbarme mit däm Knecht un losst nen fräi, un d Schuld losst er nem au. </verse>
+        <verse osisID='Matt.18.28'>Do goht dr Knecht üsä un trift eina vu sinene Mitknecht, der war nem hundat Silbagrosche schuldig; un na(er) packt un würgt nen un het gsait: Zahl, was dü ma(mir) schuldig bisch! </verse>
+        <verse osisID='Matt.18.29'>Do flegt si Mitknecht ane un bittet nen un het gsait: Ha Geduld mit ma(mir); i(ich) will dir's zahle. </verse>
+        <verse osisID='Matt.18.30'>Er wot aba nit, sundern goht hi un wirft nen ins Gfängnis (Loch), bis sa(er) vugeldet (heimzahlt) het, was sa(er) schuldig war. </verse>
+        <verse osisID='Matt.18.31'>Als aba sini Mitknechte des sähn, wäre sie arg trurig un kumme un bringe bi ihrem Herrn alles vor, was sich begebe het. </verse>
+        <verse osisID='Matt.18.32'>Do forderet nen si Herr vor sich un het gsait zue nem: Dü bese Knecht! Was isch mit Dir di ganzi Schuld ha i(ich) dir erlosse, wel dü mi gfrogt hesch; </verse>
+        <verse osisID='Matt.18.33'>hättesch dü di do nit au erbarme solle iba di Mitknecht, we i(ich) mi iba di erbarmt ha? </verse>
+        <verse osisID='Matt.18.34'>Un si Herr isch zornig un ibaantwortet nen d Peiniger, bis er alles vugeldet (heimzahlt) het, was sa(er) nem schuldig war. </verse>
+        <verse osisID='Matt.18.35'>So wird au mi himmlische Vada (Babbe) an äich doe, wenn ihr änanda nit vu Herze vugen, jeda sinem Brueda. CAPTION Vu Ehe, Ehescheidig, Ehelosigkeit /CAPTION </verse>
+      </chapter>
+      <chapter osisID='Matt.19'>
+        <title>(Mk 10,1-12)</title>
+        <verse osisID='Matt.19.1'>Un s isch bassiert, als Jesus des Gschwätzt het, daß sa(er) sich ufgmacht het üs Galiläa un kummt in des Gebiet vu Judäa gegeiba vum Jordan; </verse>
+        <verse osisID='Matt.19.2'>un ä großi Schar Lit goht nem nohch, un na(er) heilt sie dert. </verse>
+        <verse osisID='Matt.19.3'>Do kumme Pharisäer zue nem un vusuechte nen un hän gsait: Isch's recht, daß sich ä Ma üs irgendeinem Grund vu sinem Wieb schiedet? </verse>
+        <verse osisID='Matt.19.4'>Er aba git zantwort un het gsait: Hän ihr nit gläse: Der im Afang d Mensch gschaffe het, het sie als Ma un Wieb gschaffe </verse>
+        <verse osisID='Matt.19.5'>un het gsait (1. Moses 2,24): "Drum wird ä Ma Vada (Babbe) un Muetter vulo un an si Wieb hänge, un de zwei wäre ei Fleisch si"? </verse>
+        <verse osisID='Matt.19.6'>So sin sie drno nimi zwei, sundern ei Fleisch. Was drno Gott zsämmegfegt het, des soll dr Mensch nit trenne! </verse>
+        <verse osisID='Matt.19.7'>Do froge sie: Wurum het dann(dnoh) Moses bpfohle, ihr ä Scheidebref z ge un sich vu ihr z trenne? </verse>
+        <verse osisID='Matt.19.8'>Er het zue nene gsait: Moses het äich des recht ge, äich z trenne vu äire Wieba, wägä äirem härte Herz; vu Afang a aba isch's nit so gsi. </verse>
+        <verse osisID='Matt.19.9'>Ich aba sag äich: Wer sich vu sinem Wieb schiedet, s isch denn wägä Ehebruch, un hirotet ä anderi, der bricht d Ehe. </verse>
+        <verse osisID='Matt.19.10'>Do sage sini Jinger zue nem: Schtehn de Sache vumä Ma mit sinem Wieb so, dann(dnoh) isch's nit guet z hirote. </verse>
+        <verse osisID='Matt.19.11'>Er het aba zue nene gsait: Des Wort fasse (blicke) nit alli, sundern nur de, däne`s ge isch. </verse>
+        <verse osisID='Matt.19.12'>Denn ä baar sin uf d Welt unfähig zue d Ehe; anderi sin vu d Mensche dzue unfähig gmacht; un wieda anderi hän sich selbscht dzue unfähig gmacht um`s Himmelrich wille. Wer`s fasse (blicke) ka, der fasses (blickts)! </verse>
+        <title>D Segnig vu d Kinda</title>
+        <title>(Mk 10,13-16; Lk 18,15-17)</title>
+        <verse osisID='Matt.19.13'>Do wäre Kinda zue nem brocht, dmit da(er) d Händ(Pfode) uf sie legt un bätet. D Jinger aba brelle sie an. </verse>
+        <verse osisID='Matt.19.14'>Aba Jesus het gsait: Len de Kinda un wehret ne nit, zue ma(mir) z kumme; denn däne ghärt s Himmelrich. </verse>
+        <verse osisID='Matt.19.15'>Un na(er) legt d Händ(Pfode) uf sie un zeht vu dert witer. </verse>
+        <title>D Gfahr vum viele Geld</title>
+        <title>(Mk 10,17-27; Lk 18,18-27)</title>
+        <verse osisID='Matt.19.16'>Un lueg (gib obacht), eina kunnt zue nem un het gfrogt: Meischta, was soll i(ich) Guetes doe, dmit i(ich) s ewige Läbä ha? </verse>
+        <verse osisID='Matt.19.17'>Er aba het gsait zue nem: Was frogsch dü mich nohch däm, was guet isch? Guet isch nur Eina. Willsch dü aba ins Läbä igo, so halt d Gebote. </verse>
+        <verse osisID='Matt.19.18'>Do het da(er) nen gfrogt: Weli? Jesus aba het gsait: "Dü sollsch nit umbringe; dü sollsch nit ehebreche; dü sollsch nit schtähle; dü sollsch nit falschi Ziignis ge; </verse>
+        <verse osisID='Matt.19.19'>ehre Vada (Babbe) un Muetter" (2. Moses 20,12- 16); un: "Dü sollsch di Nächschte liebe we dich selbscht" (3. Moses 19,18). </verse>
+        <verse osisID='Matt.19.20'>Do het des Bebli zue nem gsait: Des ha i(ich) alles ghalte; was fehlt ma(mir) noh? </verse>
+        <verse osisID='Matt.19.21'>Jesus git zantwort nem: Willsch dü ganz guet si, so gang hi, vukauf, was dü hesch, un gib's d Arme, so wirsch dü ä Schatz im Himmel ha; un kumm un folg ma(mir) nohch! </verse>
+        <verse osisID='Matt.19.22'>Als des Bebli des Wort ghärt het, goht da(er) trurig dvu; denn na(er) het vieli Sache. </verse>
+        <verse osisID='Matt.19.23'>Jesus aba het zue sinene Jinger gsait: Gwiß, i(ich) sag äich: Ä Richä wird schwer ins Himmelrich kumme. </verse>
+        <verse osisID='Matt.19.24'>Un witer sag i(ich) äich: S isch lichta, daß ä Kamel durch ä Nodelöhr goht, als daß ä Richä ins Rich Gottes kummt. </verse>
+        <verse osisID='Matt.19.25'>Als des sini Jinger ghärt hän, vuschrecke sie sich arg un hän gsait: Ha, wer ka dann(dnoh) selig wäre? </verse>
+        <verse osisID='Matt.19.26'>Jesus aba het sie a gluegt un het gsait zue nene: Bi d Mensche isch's unmeglich; aba bi Gott sin alli Sache meglich. </verse>
+        <title>Dr Lohn vum Nohchfolge</title>
+        <title>(Mk 10,28-31; Lk 18,28-30)</title>
+        <verse osisID='Matt.19.27'>Do fangt Petrus a un het gsait zue nem: lueg (gib obacht), ma(mir) hän alles vulo un sin dir nochgange; was wird uns(us) dfir ge? </verse>
+        <verse osisID='Matt.19.28'>Jesus aba het zue nene gsait: Gwiß, i(ich) sag äich: Ihr, de ihr ma(mir) nochgange sin, ihr den bi d Wiedageburt, wenn dr Menschebue hocke wird uf fem Thron sinere Herrlichkeit, au hocke uf zwöelf Throne un richte de zwöelf Schtämm Israels. </verse>
+        <verse osisID='Matt.19.29'>Un wer Hiisa odr Breda odr Schweschtare odr Vada (Babbe) odr Muetter odr Kinda odr Äcker vulosst wägä minem Name, der wird's hundatfach gregä un s ewige Läbä erbe. </verse>
+        <verse osisID='Matt.19.30'>Aba vieli, de di Erschte sin, wäre di Letschte un di Letschte wäre di Erschte si. </verse>
+      </chapter>
+      <chapter osisID='Matt.20'>
+        <title>Vu d Arbeita im Wiberg</title>
+        <verse osisID='Matt.20.1'>Denn des Himmelrich glicht nem Husherr, der freh am Morge üsgange isch, um Arbeita fir si Wiberg izschtelle. </verse>
+        <verse osisID='Matt.20.2'>Un als sa(er) mit d Arbeita einig isch iba ä Silbagrosche als Daglohn, schickt da(er) sie in si Wiberg. </verse>
+        <verse osisID='Matt.20.3'>Un na(er) goht üs um di dritti Schtund un het anderi gsäh müßig uf fem Markt schtoh </verse>
+        <verse osisID='Matt.20.4'>un het gsait zue nene: Gehn ihr au hi in d Wiberg; i(ich) will äich ge, was recht isch. </verse>
+        <verse osisID='Matt.20.5'>Un sie gehn hi. Abamols goht da(er) üs um di sechsti un um di ninti Schtund un doet desselbe. </verse>
+        <verse osisID='Matt.20.6'>Um di elfti Schtund aba goht da(er) üs un findet anderi un het gsait zue nene: Was schtehn ihr d ganze Dag müßig do? </verse>
+        <verse osisID='Matt.20.7'>Sie sage zue nem: S het uns(us) nemads igschtellt. Er het zue nene gsait: Gehn ihr au hi in d Wiberg. </verse>
+        <verse osisID='Matt.20.8'>Als ses drno Obend isch, het dr Herr vum Wiberg zue sinem Vuwalta gsait: Ruef d Arbeita un gib ne d Lohn un fang a bi d letschte bis zue d erschte. </verse>
+        <verse osisID='Matt.20.9'>Do kumme, de um d elfte Schtund igschtellt ware, un jeda gregt si Silbagrosche. </verse>
+        <verse osisID='Matt.20.10'>Als aba di erschte kumme, meine sie, sie däte me gregä; un au sie gregä jeda si Silbagrosche. </verse>
+        <verse osisID='Matt.20.11'>Un als sie des gregt, hän schtängere sie gege d Husherr </verse>
+        <verse osisID='Matt.20.12'>un hän gsait: Di letschte hän nur ä Schtund gschafft, doch dü hesch sie uns(us) glichgschtellt, de ma(mir) am Dag Lascht un Hitzi trage hän. </verse>
+        <verse osisID='Matt.20.13'>Er git zantwort aba un het zue nene gsait: Mi Fründ(Freund), i(ich) doe dir nit Unrecht. Bisch dü nit mit ma(mir) einig wore iba ä Silbagrosche? </verse>
+        <verse osisID='Matt.20.14'>Nimm, was di isch, un gang! Ich will aba däm letschte desselbe ge we dir. </verse>
+        <verse osisID='Matt.20.15'>Odr ha i(ich) nit Macht zue doe, was i(ich) will, mit däm, was mi isch? Siehsch dü schreg dri, wel i(ich) so gütig bi? </verse>
+        <verse osisID='Matt.20.16'>So wäre di Letschte di Erschte un di Erschte di Letschte si. "Denn vieli sin bruefe, aba wenig sin üserwählt" (vgl. 22,14). </verse>
+        <title>Di dritti Akündigig vu Jesus Liede un Uferschtehig</title>
+        <title>(Mk 10,32-34; Lk 18,31-33)</title>
+        <verse osisID='Matt.20.17'>Un Jesus zeht nuf nohch Jerusalem un nimmt de zwöelf Jinger uf d siete un het gsait zue nene uf fem Wäg: </verse>
+        <verse osisID='Matt.20.18'>luegä (gän obacht), ma(mir) zehn nuf nohch Jerusalem, un dr Menschebue wird d Hohenpriester un Schriftglehrte ibaantwortet wäre; un sie wäre nen zum Dod vuurteile </verse>
+        <verse osisID='Matt.20.19'>un wäre nen d Heide ibaantworte, dmit sie nen vuschpotte un üsbeitsche un kriizige; un am dritte Dag wird da(er) ufschtoh. </verse>
+        <title>Vum Herrsche un vum Diene</title>
+        <title>(Mk 10,35-45)</title>
+        <verse osisID='Matt.20.20'>Do kunnt zue nem d Muetter dr Buebä vum Zebedäus mit ihre Sehn, flegt vor nem ane un wot nen um ebis bitte. </verse>
+        <verse osisID='Matt.20.21'>Un na(er) het gsait zue ihr: Was willsch dü? Sie het zue nem gsait: Loß mini beidi Buebä hocke in dinem Rich eina zue dinere Rechte un d andere zue dinere Linke. </verse>
+        <verse osisID='Matt.20.22'>Aba Jesus git zantwort un het gsait: Ihr wißt nit, was ihr bitte. Kennt ihr d Kelch trinke, den i(ich) trinke wir? Sie sage nem: Häjo, des kenne ma(mir). </verse>
+        <verse osisID='Matt.20.23'>Er het zue nene gsait: Mi Kelch den ihr zwar trinke, aba des Sitze zue minere Rechte un Linke zge, schtoht ma(mir) nit zue. Des wird däne zdeil, fir de`s bschtimmt isch vu minem Vada (Babbe). </verse>
+        <verse osisID='Matt.20.24'>Als des de Zehn hän, wäre sie unwillig iba de zwei Breda. </verse>
+        <verse osisID='Matt.20.25'>Aba Jesus reft sie zue sich un het gsait: Ihr wißt, daß d Herrscha ihri Velka niedrighalte un de Mächtige ne Gwalt aden. </verse>
+        <verse osisID='Matt.20.26'>So soll`s nit si unda äich; sundern wer unda äich groß si will, der isch aicha Diena; </verse>
+        <verse osisID='Matt.20.27'>un wer unda äich dr Erschte si will, der isch aicha Knecht, </verse>
+        <verse osisID='Matt.20.28'>so we dr Menschebue nit kumme isch, daß sa(er) sich diene losst, sundern daß sa(er) dient un gib si Läbä zuenare Erlesig fir vieli. </verse>
+        <title>D Heilig vu zwei Blindä bi Jericho</title>
+        <title>(Mk 10,46-52; Lk 18,35-43)</title>
+        <verse osisID='Matt.20.29'>Un als sie vu Jericho fortgange sin, goht nem ä großi Schar Lit nohch. </verse>
+        <verse osisID='Matt.20.30'>Un lueg (gib obacht), zwei Blindi hocke am Wäg; un als sie häre, daß Jesus vorbigange isch, brellä sie: Ach Herr, dü Bue David, erbarm di unsa! </verse>
+        <verse osisID='Matt.20.31'>Aba d Lit fahrt sie a, daß sie schwiege solle. Doch sie brellä noh viel me: Ach Herr, dü Bue David, erbarm di unsa! </verse>
+        <verse osisID='Matt.20.32'>Jesus aba bliebt schtoh, reft sie un het gsait: Was wen ihr, daß i(ich) fir äich doe soll? </verse>
+        <verse osisID='Matt.20.33'>Sie sag zue nem: Herr, daß unseri Auge ufdoe wäre. </verse>
+        <verse osisID='Matt.20.34'>Un s jammat Jesus, un na(er) brihrt ihri Auge; un gli druf wäre sie wieda sehend, un sie folg nem nohch. </verse>
+      </chapter>
+      <chapter osisID='Matt.21'>
+        <title>Jesu Izug in Jerusalem</title>
+        <title>(Mk 11,1-10; Lk 19,29-38; Joh 12,12-19)</title>
+        <verse osisID='Matt.21.1'>Als sie drno in d Nechi vu Jerusalem kumme, nohch Betfage an d Elberg, schickt Jesus zwei Jinger vorus </verse>
+        <verse osisID='Matt.21.2'>un het gsait zue nene: Gehn hi in des Dorf (Kaff), des vor äich liet, un gli den ihr ä Eselin abunde find un ä Esili bi ihr; binde sie los un fihrt sie zue ma(mir)! </verse>
+        <verse osisID='Matt.21.3'>Un wenn äich jemads ebis sag wird, so sage: D Herr bruucht ihra. Gli wird da(er) sie äich ibalosse. </verse>
+        <verse osisID='Matt.21.4'>Des isch bassiert aba, dmit itreffe doet, was gsait isch durch d Prophete, der do sait (Sacharja 9,9): " </verse>
+        <verse osisID='Matt.21.5'>Sagt d Dochta Zion: lueg (gib obacht), di Kenig kummt zue dir sanftmütig un rietet uf nem Esel un uf nem Esili, däm Junge vumä Laschttiers." </verse>
+        <verse osisID='Matt.21.6'>D Jinger gehn hi un hän alles gmacht, we nene Jesus bfohle het, </verse>
+        <verse osisID='Matt.21.7'>un bringe d Eselin un des Esili un lege ihri Kleida druf, un na(er) het sich druf ghockt. </verse>
+        <verse osisID='Matt.21.8'>Aba ä arg großi Schar Lit legt ihri Kleida uf d Wäg; anderi haue Zwiegli vu d Baim un schtreute sie uf d Wäg. </verse>
+        <verse osisID='Matt.21.9'>D Lit aba, de nem vorusgange un nohch gfolgt sin, brelle: Hosianna däm Bue David! Globt isch, der do kummt in däm Name vum Herrn! Hosianna in dr Hechi! </verse>
+        <verse osisID='Matt.21.10'>Un als sa(er) in Jerusalem izeht, regte sich di ganzi Schtadt un het gfrogt: Wer isch der? </verse>
+        <verse osisID='Matt.21.11'>D Lit aba hän gsait: Des isch Jesus, dr Prophet üs Nazareth in Galiläa. </verse>
+        <title>D Tempel</title>
+        <title>(Mk 11,15-19; Lk 19,45-48; Joh 2,13-16)</title>
+        <verse osisID='Matt.21.12'>Un Jesus goht in d Tempel inä un trieb üsä alli Vukäufa un Käufa im Tempel un schuckt de Tisch vu d Geldwechsla um un de Ständ vu d Dubehändla </verse>
+        <verse osisID='Matt.21.13'>un het gsait zue nene: S schtoht gschribe (Jesaja 56,7): "Mi Hus soll ä Bäthus heiße"; ihr aba macht ä Raibahehli drus. </verse>
+        <verse osisID='Matt.21.14'>Un s gehn zue nem Blindi un Lahmi im Tempel, un na(er) heilt sie. </verse>
+        <verse osisID='Matt.21.15'>Als aba d Hohenpriester un Schriftglehrti de Wunda sähn, de na(er) doet, un d Kinda, de im Tempel brellä: Hosianna däm Bue David!, ärgere sie sich </verse>
+        <verse osisID='Matt.21.16'>un sage zue nem: Hersch dü au, was de sage? Jesus git zantwort ne: Häjo! Hän ihr ne gläse (Psalm 8,3): "Us däm Mul (Gosch) vu d Unmindige un Säuglinge hesch dü dir Lob gmacht"? </verse>
+        <verse osisID='Matt.21.17'>Un na(er) het sie schtoh glo un goht zue d Schtadt üsä nohch Betanien un bliebt dert iba Nacht. </verse>
+        <title>D vudorrte Fiegebaum</title>
+        <title>(Mk 11,12-14.20-24)</title>
+        <verse osisID='Matt.21.18'>Als sa(er) aba am Morgen wieda in d Schtadt goht, het da(er) hunga ka. </verse>
+        <verse osisID='Matt.21.19'>Un na(er) het ä Fiegebaum am Wäg gsäh, goht hi un findet nigs dra als Blätta un het gsait zue nem: Etze wachst uf dir nemols me Frucht! Un d Fiegebaum vudorrt gli druf. </verse>
+        <verse osisID='Matt.21.20'>Un als des d Jinger sähn, vuwundrete sie sich un froge: We isch der Fiegebaum so gschwind vudorrt? </verse>
+        <verse osisID='Matt.21.21'>Jesus aba git zantwort un het gsait zue nene: Gwiß, i(ich) sag äich: Wenn ihr Glaube hän un nit zwieflet, so den ihr nit ällei Tade we de mit däm Fiegebaum, sundern, wenn ihr zue däm Berg sage: Heb di un wirf di ins Meer!, so wird's bassiere. </verse>
+        <verse osisID='Matt.21.22'>Un alles, was ihr bittet im Gebet, wenn ihr glaube, so den ihr's gregä. </verse>
+        <title>Di Frog nohch Jesu Vollmacht</title>
+        <title>(Mk 11,27-33; Lk 20,1-8)</title>
+        <verse osisID='Matt.21.23'>Un als sa(er) in d Tempel kummt un lehrt, kumme d Hohenpriester un di Älteschte vum Volk zue nem un froge: Üs wela Vollmacht doesch dü des, un wer het dir de Vollmacht ge? </verse>
+        <verse osisID='Matt.21.24'>Jesus aba git zantwort un het gsait zue nene: Ich will äich au ä Sach froge; wenn ihr ma(mir) des sage den, will i(ich) äich au sage, üs wela Vollmacht i(ich) des doe. </verse>
+        <verse osisID='Matt.21.25'>Wuher war de Daufe vum Johannes? War sie vum Himmel odr vu d Mensche? Do luege sie's sich a un hän gsait: Sage ma(mir), sie war vum Himmel, so wird da(er) zue uns(us) sage: Wurum hän ihr nem dann(dnoh) nit glaubt? </verse>
+        <verse osisID='Matt.21.26'>Sage ma(mir) aba, sie war vu Mensche, so mehn ma(mir) uns(us) vor rem Volk firchte, denn sie meine alli Johannes war ä Prophete. </verse>
+        <verse osisID='Matt.21.27'>Un sie antworte Jesus un hän gsait: Mir wissen's nit. Do het er zue nene gsait: So sag i(ich) äich au nit, üs wela Vollmacht i(ich) des doe. </verse>
+        <title>D Söhn</title>
+        <verse osisID='Matt.21.28'>Was meinet ihr aba? S het ä Ma zwei Buebä un goht zue däm erschte un het gsait: Mi Bue, gang hi un schaff hiit im Wiberg. </verse>
+        <verse osisID='Matt.21.29'>Er git zantwort aba un het gsait: Nei, i(ich) will nit. Dnohch reut`s nen, un na(er) goht hi. </verse>
+        <verse osisID='Matt.21.30'>Un dr Vada (Babbe) goht zum zweite Bue un het desselbe gsait. Der aba git zantwort un het gsait: Ja, Herr! un goht nit hi. </verse>
+        <verse osisID='Matt.21.31'>Wer vu däne beidi het d Wille vum Vada (Babbe) doe? Sie antworte: Dr erschte. Jesus het gsait zue nene: Gwiß, i(ich) sag äich: D Zöllna un Hure kumme eher ins Rich Gottes als ihr. </verse>
+        <verse osisID='Matt.21.32'>Denn Johannes kummt zue äich un lehrt äich d rechte Wäg, un ihr glaubtet nem nit; aba de Zöllna un Hure glaube nem. Un obwohl ihr's gsähne hän, den ihr trozdem nit Buße, so daß ihr nem dann(dnoh) au glaubt hättet. </verse>
+        <title>Vu d bese Wigärtna</title>
+        <title>(Mk 12,1-12; Lk 20,9-19)</title>
+        <verse osisID='Matt.21.33'>Häre ä anderes Glichnis: S war ä Husherr, der legt ä Wiberg a un zeht ä Zaun drum un grabt ä Kelter dri un bäut ä Turm un vudlehnt nen an Wigärtna un goht üßa Land. </verse>
+        <verse osisID='Matt.21.34'>Als drno de Ziit vu d Fricht kunnt, schickt da(er) sini Knecht zue d Wigärtna, dmit sie sini Fricht hole däte. </verse>
+        <verse osisID='Matt.21.35'>Do nähmä de Wigärtna sini Knecht: eina schlen sie, d zweite bringe sie um, d dritte schteinigte sie. </verse>
+        <verse osisID='Matt.21.36'>Abamols schickt da(er) anderi Knecht, me als des erschte Mol; un sie hän mit ne desselbe gmacht. </verse>
+        <verse osisID='Matt.21.37'>Zletscht aba schickt da(er) si Bue zue nene un het sich gsait: Sie wäre sich vor minem Bue firchte. </verse>
+        <verse osisID='Matt.21.38'>Als aba de Wigärtna d Bue sähn, sage sie zueänanda: Des isch dr Erbe; kummt, len uns(us) nen umbringe un si Erbguet an uns(us) bringe! </verse>
+        <verse osisID='Matt.21.39'>Un sie nähmä nen un schtoße nen zum Wiberg üsä un den nen umbringe. </verse>
+        <verse osisID='Matt.21.40'>Wenn drno dr Herr vum Wiberg kumme wird, was wird da(er) mit däne Wigärtna doe? </verse>
+        <verse osisID='Matt.21.41'>Sie antworte nem: Er wird d Bese ä beses End mache un si Wiberg andere Wigärtna vupachte, de nem d Fricht zue d rechte Ziit gän. </verse>
+        <verse osisID='Matt.21.42'>Jesus het gsait zue nene: Hän ihr ne gläse in dr Schrift (Psalm 118,22.23): "Dr Schtei (Wackes), den d Bäulit rüssgworfe hän, der isch zum Eckschtei wore. Vum Herrn isch des bassiert un isch ä Wunda vor unsari Auge"? </verse>
+        <verse osisID='Matt.21.43'>Drum sag i(ich) äich: Des Rich Gottes wird vu äich gnumme un nem Volk ge wäre, des sini Fricht git. </verse>
+        <verse osisID='Matt.21.44'>Un wer uf den Schtei (Wackes) flegt, der wird zerschelle; uf wen aba na(er) flegt, den wird da(er) zermalme. </verse>
+        <verse osisID='Matt.21.45'>Un als de Hohenpriester un Pharisäer sini Glichnisse ghärt hän, erkenne sie, daß sa(er) vu nene schwätzt. </verse>
+        <verse osisID='Matt.21.46'>Un sie vulange dnohch, nen zue ergriefe; aba sie firchte sich vor rem Volk, denn sie hebet (haltet) nen fir ä Prophete. </verse>
+      </chapter>
+      <chapter osisID='Matt.22'>
+        <title>D keniglichi Hochziit</title>
+        <title>(Lk 14,16-24)</title>
+        <verse osisID='Matt.22.1'>Un Jesus fangt a un schwätzt abamols in Glichnisse zue nene un het gsait: </verse>
+        <verse osisID='Matt.22.2'>Des Himmelrich glich nem Kenig, der sinem Bue d Hochziit usgrichtet het. </verse>
+        <verse osisID='Matt.22.3'>Un na(er) schickt sini Knecht üs, d Gäscht zue d Hochziit z laden; doch sie wen nit kumme. </verse>
+        <verse osisID='Matt.22.4'>Abamols schickt da(er) anderi Knecht üs un het gsait: Sage d Gäscht: lueg (gib obacht), mi Ässä ha i(ich) gmacht, mi Ochs un mi Viech isch gschlachtet, un alles isch parat; kumme zue d Hochziit! </verse>
+        <verse osisID='Matt.22.5'>Aba sie hän nen vuachtet un gehn wäg, eina uf si Acka, dr andere a si Gschäft. </verse>
+        <verse osisID='Matt.22.6'>Ä baar aba packe sini Knecht, schellte un den sie umbringe. </verse>
+        <verse osisID='Matt.22.7'>Do isch dr Kenig zornig un schickt si Heer üs un hole d Mörda un zinde ihri Schtadt a. </verse>
+        <verse osisID='Matt.22.8'>Dann(Dnoh) het da(er) zue sinene Knecht gsait: D Hochziit isch zwar parat, aba d Gäscht ware's nit wert. </verse>
+        <verse osisID='Matt.22.9'>Drum gehn üsä uf d Schtroße un lade zue d Hochziit i, wen na finde. </verse>
+        <verse osisID='Matt.22.10'>Un d Knecht gehn uf d Schtroße üsä un bringe zsämme, wen sie finde, Besi un Gueti; un d Tische wäre alli voll. </verse>
+        <verse osisID='Matt.22.11'>Do goht dr Kenig inä, sich d Gäscht azluege, un het do ä Mensch gsäh, der het kei Hochziitsgwand a, </verse>
+        <verse osisID='Matt.22.12'>un het zue nem gsait: Fründ(Freund), we bisch dü do inekumme un hesch doch kei Hochziitsgwand a? Er aba isch vuschtummt. </verse>
+        <verse osisID='Matt.22.13'>Do het dr Kenig zue sinene Diena gsait: Bindet nem d Händ(Pfode) un Feß un werfe nen in d Nacht üsä! Do wird Hiile un Zähneklappere si. </verse>
+        <verse osisID='Matt.22.14'>Denn vieli sin bruefe, aba wenig sin üserwählt. </verse>
+        <title>D Frog nohch dr Schtiir (Zinsgrosche)</title>
+        <title>(Mk 12,13-17; Lk 20,20-26)</title>
+        <verse osisID='Matt.22.15'>Do gehn d Pharisäer hi un halte Rot, we sie nen in sinene Wort fange kennte; </verse>
+        <verse osisID='Matt.22.16'>un schickte zue nem ihri Jinger samt d Ahänger vum Herodes. De hän gsait: Meischta, ma(mir) wisse, daß dü wohr bisch un lehrsch d Wäg Gottes recht un frogsch nohch nemads; denn dü achtesch nit des Asähe vu d Mensche. </verse>
+        <verse osisID='Matt.22.17'>Drum sag uns(us), was meinsch dü: Isch's recht, daß ma däm Kaisa Schtiire (Zinsgrosche) zahlt odr nit? </verse>
+        <verse osisID='Matt.22.18'>Als drno Jesus ihri Bosheit gmerkt het, het da(er) gsait: Ihr Heuchla, was vusuecht ihr mi? </verse>
+        <verse osisID='Matt.22.19'>Zeigt ma(mir) ä Stiirminze! Un sie gän nem ä Silbagrosche. </verse>
+        <verse osisID='Matt.22.20'>Un na(er) het zue nene gsait: Wem si Bild un Ufschrift isch des? </verse>
+        <verse osisID='Matt.22.21'>Sie sage zue nem: Vum Kaisa. Do het da(er) zue nene gsait: So gen däm Kaisa, was vum Kaisa isch, un Gott, was Gottes isch! </verse>
+        <verse osisID='Matt.22.22'>Als sie des ghärt hän, wundre sie sich, len vu nem ab un gehn dvu. </verse>
+        <title>D Frog nohch dr Uferschtehig</title>
+        <title>(Mk 12,18-27; Lk 20,27-40)</title>
+        <verse osisID='Matt.22.23'>An demselbe Dag kumme d Sadduzäer zue nem, de lehre, s gibt keini Uferschtehig, un froge nen </verse>
+        <verse osisID='Matt.22.24'>un hän gsait: Meischta, Moses het gsait (5. Moses 25,5.6): "Wenn eina schtirbt un het keini Kinda, so soll si Brueda si Wieb hirote un sinem Brueda Nochkumme mache." </verse>
+        <verse osisID='Matt.22.25'>Etze ware bi uns(us) siebä Breda. Dr erschte hirotet un schtirbt; un wel la(er) keini Nochkumme het, hintaloßt er si Wieb sinem Brueda; </verse>
+        <verse osisID='Matt.22.26'>gnau so d zweite un d dritte bis zum siebte. </verse>
+        <verse osisID='Matt.22.27'>Zletscht noh ällei schtirbt des Wieb. </verse>
+        <verse osisID='Matt.22.28'>Etze in dr Uferschtehig: wäm si Wieb wird sie si vu däne siebä? Sie hän sie jo alli ka. </verse>
+        <verse osisID='Matt.22.29'>Jesus aba git zantwort un het gsait zue nene: Ihr blicke`s nit, wel ihr nit d Schrift kennt noh d Kraft Gottes. </verse>
+        <verse osisID='Matt.22.30'>Denn in dr Uferschtehig wäre sie nit hirote noh sich hirote losse, sundern sie sin we Engel im Himmel. </verse>
+        <verse osisID='Matt.22.31'>Hän ihr denn nit gläse vu d Uferschtehig vu d Dote, was äich gsait isch vu Gott, der do sait (2. Moses 3,6): " </verse>
+        <verse osisID='Matt.22.32'>Ich bi d Gott Abrahams un d Gott Isaaks un d Gott Jakobs"? Gott isch nit ä Gott vu d Dote, sundern dr Lebändige. </verse>
+        <verse osisID='Matt.22.33'>Un als d Lit des ghärt hän, vuschrecke sie iba sini Lehr. </verse>
+        <title>D Frog nohch däm hechschte Gebot</title>
+        <title>(Mk 12,28-31; Lk 10,25-28)</title>
+        <verse osisID='Matt.22.34'>Als aba d Pharisäer ghärt hän, daß sa(er) d Sadduzäern s Mul gschtopft het, vusammle sie sich. </verse>
+        <verse osisID='Matt.22.35'>Un eina vu nene, ä Schriftglehrte, vusuecht nen un het gfrogt: </verse>
+        <verse osisID='Matt.22.36'>Meischta, welches isch des hechschte Gebot im Gsetz? </verse>
+        <verse osisID='Matt.22.37'>Jesus aba git zantwort nem: "Dü sollsch d Herrn, di Gott, liebe vu ganzem Herze, vu ganza Seele un vu ganzem Gmet" (5. Moses 6,5). </verse>
+        <verse osisID='Matt.22.38'>Des isch des hechschte un greschte Gebot. </verse>
+        <verse osisID='Matt.22.39'>Des andere aba isch däm glich: "Dü sollsch di Nächschte liebe we di selbscht" (3. Moses 19,18). </verse>
+        <verse osisID='Matt.22.40'>In däne beidi Gebote hängt des ganze Gsetz un d Prophete. </verse>
+        <title>D Frog nohch däm Davidsbue</title>
+        <title>(Mk 12,35-37; Lk 20,41-44)</title>
+        <verse osisID='Matt.22.41'>Als drno d Pharisäer binanda ware, het sie Jesus gfrogt: </verse>
+        <verse osisID='Matt.22.42'>Was denkt ihr vum Chrischtus? Wem si Bue isch scha(er)? Sie antwortete: David. </verse>
+        <verse osisID='Matt.22.43'>Do het da(er) sie gfrogt: We ka nen dann(dnoh) David durch d Geischt Herr nenne, wenn na(er) sait (Psalm 110,1): " </verse>
+        <verse osisID='Matt.22.44'>Dr Herr het zue minem Herrn gsait: Hock di zue mina Rechte, bis i(ich) dini Gegna(Feinde) unda dini Feß lege"? </verse>
+        <verse osisID='Matt.22.45'>Wenn drno David nen Herr nennt, we isch scha(er) dann(dnoh) si Bue? </verse>
+        <verse osisID='Matt.22.46'>Un nemads ka nem ä Wort sage, au träut nemads vu däm Dag a, nen ebis z froge. </verse>
+      </chapter>
+      <chapter osisID='Matt.23'>
+        <title>Gege d Schriftglehrti un Pharisäer</title>
+        <title>(Mk 12,38-40; Lk 20,45-47; 11,39-52)</title>
+        <verse osisID='Matt.23.1'>Do schwätzt Jesus zum Volk un zue sinene Jinger </verse>
+        <verse osisID='Matt.23.2'>un het gsait: Uf däm Schtuehl vum Moses hocke d Schriftglehrti un Pharisäer. </verse>
+        <verse osisID='Matt.23.3'>Alles drno, was sie äich sage, des den un hebet (haltet); aba nohch ihre Werke sollt ihr nit handle; denn sie sages zwar, dens aba nit. </verse>
+        <verse osisID='Matt.23.4'>Sie binde schwäri un unerträglichi Laschte un lege sie d Lit uf d Schulta; aba sie selbscht wen kei Finga dfir krumm mache. </verse>
+        <verse osisID='Matt.23.5'>Alli ihri Werke aba den sie, dmit sie vu d Lit gsähne wäre. Sie mache ihri Gebetsrieme breit un de Quaschte an ihre Kleida groß. </verse>
+        <verse osisID='Matt.23.6'>Sie hocke gern obena bim Disch un in d Synagoge (Gotteshus) (Gotteshiisa) </verse>
+        <verse osisID='Matt.23.7'>un hän's gern, daß sie uf fem Markt greßt un vu d Lit Rabbi gnennt wäre. </verse>
+        <verse osisID='Matt.23.8'>Aba ihr sollt äich nit Rabbi nenne losse; denn eina isch aicha Meischta; ihr aba sin alles Breda. </verse>
+        <verse osisID='Matt.23.9'>Un ihr sollt nemads unda äich Vada (Babbe) nenne uf Erde; denn eina isch aicha Vada (Babbe), der im Himmel isch. </verse>
+        <verse osisID='Matt.23.10'>Un ihr sollt äich nit Lehrer nenne losse; denn eina isch aicha Lehrer: Chrischtus. </verse>
+        <verse osisID='Matt.23.11'>Der greschte unda äich soll aicha Diena si. </verse>
+        <verse osisID='Matt.23.12'>Denn wer sich selbscht hoch gmacht het, der wird niedrig gmacht; un wer sich selbscht niedrig macht, der wird hoch gmacht . </verse>
+        <verse osisID='Matt.23.13'>Mai äich, Schriftglehrti un Pharisäer, ihr Heuchla, de ihr s Himmelrich zueschleßt vor d Mensche! Ihr gehn nit inä, un de inä wen, len ihr nit inegoh. </verse>
+        <verse osisID='Matt.23.14'>"Weh äich, Schriftglehrti un Pharisäer, ihr Heuchla, de ihr d Hiisa vu d Witwe freßt un zum Schien langi Gebete vurichtet! Drum wäre ihr ä um so härteres Urdeil gregä" (vgl. Mk 12,40). </verse>
+        <verse osisID='Matt.23.15'>Mai äich, Schriftglehrti un Pharisäer, ihr Heuchla, de ihr Land un Meer durchzeht, dmit ihr ä Judengenosse gwinnt; un wenn er's wore isch, macht ihr üs nem ä Kind vu d Hell, doppelt so schlimm we ihr. </verse>
+        <verse osisID='Matt.23.16'>Mai äich, ihr vublendeti Führer, de ihr sage: Wenn eina schwört bi däm Tempel, des gilt nit; wenn aba eina schwört bi däm Gold vum Tempel, der isch bunde. </verse>
+        <verse osisID='Matt.23.17'>Ihr Narre un Blindi! Was isch me: des Gold odr dr Tempel, der des Gold heilig macht? </verse>
+        <verse osisID='Matt.23.18'>Odr: Wenn eina schwört bi däm Altar, des gilt nit; wenn aba eina schwört bi däm Opfa, des druf liet, der isch bunde. </verse>
+        <verse osisID='Matt.23.19'>Ihr Blindi! Was isch me: des Opfa odr dr Altar, der des Opfa heilig macht? </verse>
+        <verse osisID='Matt.23.20'>Drum, wer schwört bi däm Altar, der schwört bi nem un bi allem, was druf liet. </verse>
+        <verse osisID='Matt.23.21'>Un wer schwört bi däm Tempel, der schwört bi nem un bi däm, der drin wohnt. </verse>
+        <verse osisID='Matt.23.22'>Un wer schwört bi däm Himmel, der schwört bi däm Thron Gottes un bi däm, der druf hockt. </verse>
+        <verse osisID='Matt.23.23'>Mai äich, Schriftglehrti un Pharisäer, ihr Heuchla, de ihr d Zehnte gen vu Minze, Dill un Kümmel un len des Wichtigschte im Gsetz uf d siete, nämlich des Recht, d Barmherzigkeit un d Glaube! Doch des soll ma doe un jenes nit losse. </verse>
+        <verse osisID='Matt.23.24'>Ihr vublendeti Führer, de ihr Mücke üssiebe den, aba Kamele vuschlucke den! </verse>
+        <verse osisID='Matt.23.25'>Mai äich, Schriftglehrti un Pharisäer, ihr Heuchla, de ihr d Becha un Schissle uße reinigt, innen aba sin sie volla Raub un Gier! </verse>
+        <verse osisID='Matt.23.26'>Dü blinde Pharisäer, reinige zerscht s Innere vum Becha, dmit au s Ußere sufa wird! </verse>
+        <verse osisID='Matt.23.27'>Mai äich, Schriftglehrti un Pharisäer, ihr Heuchla, de ihr sin we di ibatünchte Gräba, de vu uße hübsch ussehn, aba inne sin sie volla Dotebei un luta Unrat! </verse>
+        <verse osisID='Matt.23.28'>So au ihr: vu uße schient ihr vor d Mensch fromm, aba inne sin ihr volla Haichelei un Unrecht. </verse>
+        <verse osisID='Matt.23.29'>Mai äich, Schriftglehrti un Pharisäer, ihr Heuchla, de ihr d Prophete Grabmäla bäut un de Gräba vu d Grechte schmückt </verse>
+        <verse osisID='Matt.23.30'>un sage: Hätte ma(mir) zue d Ziit unsera Vädare gläbt, so wäre ma(mir) nit mit ne schuldig wore am Bloet vu d Prophete! </verse>
+        <verse osisID='Matt.23.31'>Dmit beziige ihr vu äich selbscht, daß ihr Kinda dera sin, de d Prophete umbrocht hän. </verse>
+        <verse osisID='Matt.23.32'>Wohlau, macht au ihr des Maß äira Vädare voll! </verse>
+        <verse osisID='Matt.23.33'>Ihr Schlange, ihr Otternbruet! We wen ihr dr höllische Vudammnis entrinne? </verse>
+        <verse osisID='Matt.23.34'>Drum: lueg (gib obacht), i(ich) schick zue äich Prophete un Schriftglehrti; un vu däne den ihr ä baar umbringe un kriizige, un ä baar den ihr üsbeitsche in äire Synagoge (Gotteshus) (Gotteshiisa) un den sie jage vu einare Schtadt zue d andere, </verse>
+        <verse osisID='Matt.23.35'>dmit iba äich kummt all des Grechte Bloet, des vuschittet isch uf d Erde, des Bloet vum Grechte Abel a bis uf des Bloet vum Secharja, vum Bue Berechjas, den ihr umbrocht hän zwische Tempel un Altar. </verse>
+        <verse osisID='Matt.23.36'>Gwiß, i(ich) sag äich: des alles wird iba des Gschlecht kumme. </verse>
+        <title>Jesus Jammat iba Jerusalem</title>
+        <title>(Lk 13,34.35)</title>
+        <verse osisID='Matt.23.37'>Jerusalem, Jerusalem, de dü umbringsch d Prophete un schteinigsch, de zue dir gschickt sin! We me(oft) ha i(ich) dini Kinda vusammle welle, we ä Henne ihri Gigile (Bibile) vusammelt unda ihri Fligel; un ihr hän nit welle! </verse>
+        <verse osisID='Matt.23.38'>lueg (gib obacht), "äira Hus soll äich wescht wäre" (Jeremia 22,5; Psalm 69,26). </verse>
+        <verse osisID='Matt.23.39'>Denn i(ich) sag äich: Ihr den mi vu etzed a nit aluege, bis ihr sage den: Globt isch, der do kummt im Name vum Herrn! </verse>
+      </chapter>
+      <chapter osisID='Matt.24'>
+        <title>Des End vum Tempel</title>
+        <title>(Mk 13,1.2; Lk 21,5.6)</title>
+        <verse osisID='Matt.24.1'>Un Jesus goht üs sem Tempel fort, un sini Jinger kumme zue nem un zeigte nem de Mure vum Tempel. </verse>
+        <verse osisID='Matt.24.2'>Er aba het gsait zue nene: Sähn ihr des allees? Gwiß, i(ich) sag äich: S wird do nit ei Schtei (Wackes) uf fem andere bliebe, de nit vubroche wäre. </verse>
+        <title>D Wehe</title>
+        <title>(Mk 13,3-13; Lk 21,7-19)</title>
+        <verse osisID='Matt.24.3'>Un als sa(er) uf fem Elberg hockt, kumme sini Jinger zue nem un sage, als sie ällei ware: Sag uns(us), wenn wird des bassiere? un was wird des Zeiche si fir di Kumme un fir s End vu d Welt? </verse>
+        <verse osisID='Matt.24.4'>Jesus aba git zantwort un het gsait zue nene: Luege zue, daß äich nit jemads vufihrt. </verse>
+        <verse osisID='Matt.24.5'>Denn s wäre vieli kumme unda minem Name un sage: Ich bi dr Chrischtus, un sie wäre vieli vufihre. </verse>
+        <verse osisID='Matt.24.6'>Ihr den härä vu Kreg un Kregsgschrei; luege zue un erschreckt nit. Denn des mueß so bassiere; aba s isch noh nit s End do. </verse>
+        <verse osisID='Matt.24.7'>Denn s wird sich ä Volk gege s andere erhebe un ä Kenigrich gege des andere; un s wäre Hungasnet si un Erdbebe do un dert. </verse>
+        <verse osisID='Matt.24.8'>Des alles aba isch dr Afang vu d Wehe. </verse>
+        <verse osisID='Matt.24.9'>Dann(Dnoh) wäre sie äich dr Vufolgig priesge un äich umbringe. Un ihr den ghaßt wäre wägä minem Name wille vu ällei Mensche. </verse>
+        <verse osisID='Matt.24.10'>Dann(Dnoh) wäre vieli abfege un wäre sich undaänanda vurote un wäre sich undaänanda hasse. </verse>
+        <verse osisID='Matt.24.11'>Un s wäre sich vieli falsche Prophete erhebe un wäre vieli vufihre. </verse>
+        <verse osisID='Matt.24.12'>Un wel de Ungrechtigkeit ibahand nähmä wird, wird d Lebi (Liebe) in viele erkalte. </verse>
+        <verse osisID='Matt.24.13'>Wer aba vuharrt bis ans End, der wird selig wäre. </verse>
+        <verse osisID='Matt.24.14'>Un s wird predigt wäre des Evangelium vum Rich in dr ganze Welt zum Ziignis fir alli Velka, un dann(dnoh) wird s End kumme. </verse>
+        <title>D Vufolgig</title>
+        <title>(Mk 13,14-23; Lk 21,20-24)</title>
+        <verse osisID='Matt.24.15'>Wenn ihr drno aluege den des Greuelbild vum Undagang schtoh am heilige Platz, wovu gsait isch durch d Prophet Daniel (Daniel 9,27; 11,31), - wenn das liesesch, dann(dnoh) merk uf! -, </verse>
+        <verse osisID='Matt.24.16'>alsdann haue ab uf d Berg, wer in Judäa isch; </verse>
+        <verse osisID='Matt.24.17'>un wer uf fem Dach isch, der schtiegt nit abe, ebis üs sinem Hus z holen; </verse>
+        <verse osisID='Matt.24.18'>un wer uf fem Feld isch, der kähr nit zruck, si Mandel z hole. </verse>
+        <verse osisID='Matt.24.19'>Mai aba d Schwangere un d Schtillende zue sellare Ziit! </verse>
+        <verse osisID='Matt.24.20'>Bittet aba, daß äiri Flucht nit gschiht im Winta odr am Sabbat. </verse>
+        <verse osisID='Matt.24.21'>Denn s wird dann(dnoh) ä großi Vufolgig si, we sie nit gsi isch vum Afang dr Welt bis etzed un au nit wieda wäre wird. </verse>
+        <verse osisID='Matt.24.22'>Un wenn d Däg nit vukirzt wäre, so dät kei Mensch selig wäre; aba um dr Üserwählte wille wäre de Däg vukirzt. </verse>
+        <verse osisID='Matt.24.23'>Wenn dann(dnoh) jemads zue äich sage wird: lueg (gib obacht), do isch dr Chrischtus! odr do!, so sollt ihr's nit glaube. </verse>
+        <verse osisID='Matt.24.24'>Denn`s wäre falschi Christuse un falsche Prophete ufschtoh un großi Zeiche un Wunda doe, so daß sie, wenn`s meglich wär, au di Üserwählte vufihrte. </verse>
+        <verse osisID='Matt.24.25'>lueg (gib obacht), i(ich) ha`s äich vorusgsait. </verse>
+        <verse osisID='Matt.24.26'>Wenn sie eso zue äich sage wäre: lueg (gib obacht), er isch in dr Wüschte!, so gehn nit üsä; lueg (gib obacht), er isch drinne im Hus!, so glaubet`s nit. </verse>
+        <verse osisID='Matt.24.27'>Denn we dr Blitz üsgoht vum Oschte un laichtet bis zum Weschte, so wird au des Kumme vum Menschebue si. </verse>
+        <verse osisID='Matt.24.28'>Wo d Kadaver isch, do sammle sich d Geia. </verse>
+        <title>Des Kumme vum Menschebue</title>
+        <title>(Mk 13,24-27; Lk 21,25-28)</title>
+        <verse osisID='Matt.24.29'>Gli aba nohch dr Vufolgig um selli Ziit wird d Sunne sich vudunkle un dr Mond si Schien vuliere, un d Schterne wäre vum Himmel flege, un de Kräfte dr Himmel wäre ins Wanke kumme. </verse>
+        <verse osisID='Matt.24.30'>Un dann(dnoh) wird erschiene des Zeiche vum Menschebue am Himmel. Un dann(dnoh) wäre jommerä alli Gschlechta uf Erde un wäre aluege d Menschebue kumme uf d Wolke vum Himmel mit großa Kraft un Herrlichkeit. </verse>
+        <verse osisID='Matt.24.31'>Un na(er) wird sini Engel schicke mit helle Päpare, un sie wäre sini Üserwählte sammle vu d vier Wind, vu einem End vum Himmel bis zum andere. </verse>
+        <title>Mahnig zum wache</title>
+        <title>(Mk 13,28-32; Lk 21,29-33; 12,39.40)</title>
+        <verse osisID='Matt.24.32'>An däm Fiegebaum lernt ä Glichnis: wenn sini Zwiegli etzed saftig wäre un Blätta tribä, so wißt ihr, daß dr Summa nooch isch. </verse>
+        <verse osisID='Matt.24.33'>Ebeso au: wenn ihr des alles luege, so wißt, daß sa(er) nooch vor dr Dire isch. </verse>
+        <verse osisID='Matt.24.34'>Gwiß, i(ich) sag äich: Des Gschlecht wird nit vugoh, bis des alles bassiert. </verse>
+        <verse osisID='Matt.24.35'>Himmel un Erde wäre vugoh; aba mini Wort wäre nit vugoh. </verse>
+        <verse osisID='Matt.24.36'>Vu däm Dag aba un vu dr Schtund weiß nemads, au d Engel im Himmel nit, au dr Bue nit, sundern ällei dr Vada (Babbe). </verse>
+        <verse osisID='Matt.24.37'>Denn we`s in d Däg Noahs war, so wird au si des Kumme vum Menschebue. </verse>
+        <verse osisID='Matt.24.38'>Denn we sie ware in d Däg vor dr Sintflut - sie ässä, sie trinke, sie hirote un len sich hirote bis an d Dag, an däm Noah in d Arche nigoht; </verse>
+        <verse osisID='Matt.24.39'>un sie beachtete`s nit, bis d Sintflut kummt un rafft sie alli dohi -, so wird`s au si bim Kumme vum Menschebue. </verse>
+        <verse osisID='Matt.24.40'>Dann(Dnoh) wäre zwei uf fem Feld si; dr eine wird agnumme, dr andere wird priesge. </verse>
+        <verse osisID='Matt.24.41'>Zwei Wieba wäre mahle mit d Miihli; di eine wird agnumme, di andere wäre priesge. </verse>
+        <verse osisID='Matt.24.42'>Drum wache; denn ihr wißt nit, an welem Dag aicha Herr kummt. </verse>
+        <verse osisID='Matt.24.43'>Des solle na aba wisse: Wenn ä Husvada gwüßt hät, zue wela Schtund in d Nacht dr Deb kummt, so dät er jo wache un nit in si Hus ibreche losse. </verse>
+        <verse osisID='Matt.24.44'>Drum sin au ihr parat! Denn dr Menschebue kummt zue nare Schtund, do ihr's nit meinet. </verse>
+        <title>Vum treue un vum bese Knecht</title>
+        <title>(Lk 12,41-46)</title>
+        <verse osisID='Matt.24.45'>Wer isch drno dr treue un schlaue Knecht, den d Herr iba sini Lit bschtimmt het, dmit da(er) ne zue d rechte Ziit z ässä git? </verse>
+        <verse osisID='Matt.24.46'>Selig isch der Knecht, den si Herr, wenn na(er) kummt, des doe sieht. </verse>
+        <verse osisID='Matt.24.47'>Gwiß, i(ich) sag äich: Er wird nen iba alli sini Sache schtellä. </verse>
+        <verse osisID='Matt.24.48'>Wenn aba sella als ä bese Knecht in sinem Herz sait: Mi Herr kummt noh lang nit, </verse>
+        <verse osisID='Matt.24.49'>un fangt an, sini Mitknecht z schla, ißt un trinkt mit d Bsofene: </verse>
+        <verse osisID='Matt.24.50'>dann(dnoh) wird dr Herr vum Knecht kumme an nem Dag, an däm er's nit meint, un zue na Schtund, de na(er) nit kennt, </verse>
+        <verse osisID='Matt.24.51'>un na(er) wird nen in Schtickli haue losse un nem si Deil ge bi d Heuchla; do wird si Hiile un Zähneklappere. </verse>
+      </chapter>
+      <chapter osisID='Matt.25'>
+        <title>Vu d schlaue un dumme Jungfraue (Wieble)</title>
+        <verse osisID='Matt.25.1'>Dann(Dnoh) wird des Himmelrich gliche zehn Jungfraue, de ihri Lampe (Funzle) nähmä un gehn üsä, däm Bräutigam entgegä. </verse>
+        <verse osisID='Matt.25.2'>Aba fünf vu nene ware dumm, un fünf ware schlau. </verse>
+        <verse osisID='Matt.25.3'>Di dumme nähmä ihri Lampe (Funzle), aba sie nähmä kei El mit. </verse>
+        <verse osisID='Matt.25.4'>Di schlaue aba nähmä El mit in ihre Kanne, samt ihre Lampe (Funzle). </verse>
+        <verse osisID='Matt.25.5'>Als drno dr Bräutigam lang usbliebt, wäre sie alli med un schlofe i. </verse>
+        <verse osisID='Matt.25.6'>Um midde in d Nacht aba hert ma lutes Ruefe: lueg (gib obacht), dr Bräutigam kummt! Gehn üsä, nem entgegä! </verse>
+        <verse osisID='Matt.25.7'>Do sin de Jungfraue ufgschtande un mache ihri Lampe (Funzle) parat. </verse>
+        <verse osisID='Matt.25.8'>Di dumme aba sage zue d schlaue: Gen uns(us) vu äirem El, denn unsri Lampe (Funzle) gen üs. </verse>
+        <verse osisID='Matt.25.9'>Do antworte di schlaue un hän gsait: Nei, sunscht doet s fir uns(us) un äich nit gnoe si; gehn aba zum Kaufma (Händla) un kaufe fir äich selba El. </verse>
+        <verse osisID='Matt.25.10'>Un als sie higehn z kaufe, kummt dr Bräutigam; un de parat ware, gehn mit nem inä zue d Hochziit, un Dire isch vuschlosse. </verse>
+        <verse osisID='Matt.25.11'>Schpäta kumme au di andere Jungfraue un hän gsait: Herr, Herr, doe uns(us) uf! </verse>
+        <verse osisID='Matt.25.12'>Er git zantwort aba un het gsait: Gwiß, i(ich) sag äich: Ich kenn äich nit. </verse>
+        <verse osisID='Matt.25.13'>Drum wachet! Denn ihr wißt nit Dag noh Schtund. </verse>
+        <title>Vu d avutraute Zentna</title>
+        <title>(Lk 19,12-27)</title>
+        <verse osisID='Matt.25.14'>Denn s isch we mit nem Mensch, der üßa Land goht: er reft sini Knecht un vuträut ne si Vumöge (Hab un Guet) a; </verse>
+        <verse osisID='Matt.25.15'>däm eine git da(er) fünf Zentna Silba, däm andere zwei, däm dritte eina, jeda we na Tichtig isch, un zeht fort. </verse>
+        <verse osisID='Matt.25.16'>Gli goht der hi, der fünf Zentna gregt het, un handelt mit ne un gwinnt witeri fünf dzue. </verse>
+        <verse osisID='Matt.25.17'>Ebeso gwinnt der, der zwei Zentna gregt het, zwei witeri dzue. </verse>
+        <verse osisID='Matt.25.18'>Der aba eina gregt het, goht hi, grabt ä Loch in d Erde un vuschteckt des Geld vu sinem Herr. </verse>
+        <verse osisID='Matt.25.19'>Nohch langa Ziit kummt dr Herr vu d Knecht un forderet Antwort vu nene. </verse>
+        <verse osisID='Matt.25.20'>Do kunnt dzue, der fünf Zentna gregt het, un legt witeri fünf Zentna dzue un het gsait: Herr, dü hesch ma(mir) fünf Zentna avuträut; lueg (gib obacht) do, i(ich) ha dmit witeri fünf Zentna gwunne. </verse>
+        <verse osisID='Matt.25.21'>Do het si Herr zue nem gsait: Recht so, dü tichtige un treue Knecht, dü bisch iba wenigem treu gsi, i(ich) will di iba viel anesitzä; gang inä zue dines Herrn Fräid(Freud)! </verse>
+        <verse osisID='Matt.25.22'>Do kunnt au dzue, der zwei Zentna gregt het, un het gsait: Herr, dü hesch ma(mir) zwei Zentna avuträut; lueg (gib obacht) do, i(ich) ha dmit zwei witeri gwunne. </verse>
+        <verse osisID='Matt.25.23'>Si Herr het gsait zue nem: Recht so, dü tichtige un treue Knecht, dü bisch iba wenigem treu gsi, i(ich) will di iba viel anesitzä; gang inä zue dines Herrn Fräid(Freud)! </verse>
+        <verse osisID='Matt.25.24'>Do kunnt au dzue, dr ei Zentna gregt het, un het gsait: Herr, i(ich) ha gwüßt, daß dü ä härte Ma bisch: dü erntesch, wo dü nit gsajt hesch, un sammelsch i, wo dü nit üsgschtreut hesch; </verse>
+        <verse osisID='Matt.25.25'>un i(ich) ha mi gfirchtet, bi hi gange un ha di Zentna in dr Erde vuschteckt. lueg (gib obacht), do hesch dü des was Dir isch. </verse>
+        <verse osisID='Matt.25.26'>Si Herr aba git zantwort un het gsait zue nem: Dü bese un fule Knecht! Dü hesch gwüßt, daß i(ich) ernte, wo i(ich) nit gsajt ha, un isammle, wo i(ich) nit üsgschtreut ha? </verse>
+        <verse osisID='Matt.25.27'>Dann(Dnoh) hättesch dü mi Geld zue d Wechsler bringe solle, un wenn i(ich) kumme wär, hät i(ich) Mins wiedagregt mit Zinse. </verse>
+        <verse osisID='Matt.25.28'>Drum riße nem d Zentna wäg un gen nen däm, der zehn Zentna het. </verse>
+        <verse osisID='Matt.25.29'>Denn wer do het, däm wird ge wäre, un na(er) wird d Massig(Fülle) ha; wer aba nit het, däm wird au, was sa(er) het, gnumme wäre. </verse>
+        <verse osisID='Matt.25.30'>Un den unnütze Knecht werft ins Dunkle üsä; do wird si Hiile un Zähneklappere. </verse>
+        <title>Vum Weltgricht</title>
+        <verse osisID='Matt.25.31'>Wenn aba dr Menschebue kumme wird in sinere Herrlichkeit, un alli Engel mit nem, dann(dnoh) wird da(er) hocke uf fem Thron sinere Herrlichkeit, </verse>
+        <verse osisID='Matt.25.32'>un alli Velka wäre vor nem vusammelt wäre. Un er wird sie vuänanda trenne, we ä Hirt d Schof vu d Böcke schiedet, </verse>
+        <verse osisID='Matt.25.33'>un wird d Schof zue sinere Rechte schtelle un d Böck zue d Linke. </verse>
+        <verse osisID='Matt.25.34'>Do wird dann(dnoh) dr Kenig sage zue däne zue sinere Rechte: Kummt her, ihr Gsegneti vu minem Vada (Babbe), erbt des Rich, des äich gmacht isch vum Afang vu d Welt! </verse>
+        <verse osisID='Matt.25.35'>Denn i(ich) bi hungrig gsi, un ihr hän ma(mir) z ässä ge. Ich bi durschtig gsi, un ihr hän ma(mir) z trinke ge. Ich bi ä Fremde gsi, un ihr hän mi ufgnumme. </verse>
+        <verse osisID='Matt.25.36'>Ich bi nackt gsi, un ihr hän mi azogä. Ich bi krank gsi, un ihr hän mi bsuecht. Ich bi im Gfängnis (Loch) gsi, un ihr sin zue ma(mir) kumme. </verse>
+        <verse osisID='Matt.25.37'>Dann(Dnoh) wäre nem di Grechte sage: Herr, wenn hän ma(mir) dich hungrig gsähne un hän dir z ässä ge? odr durschtig un hän dir z trinke ge? </verse>
+        <verse osisID='Matt.25.38'>Wenn hän ma(mir) dich als Fremde gsähne un hän di ufgnumme? odr nackt un hän di azogä? </verse>
+        <verse osisID='Matt.25.39'>Wenn hän ma(mir) di krank odr im Gfängnis (Loch) gsähne un sin zue da kumme? </verse>
+        <verse osisID='Matt.25.40'>Un dr Kenig wird sage zue nene: Gwiß, i(ich) sag äich: Was ihr doe hän einem vu däne minene gringschte Breda, des hän ihr ma(mir) doe. </verse>
+        <verse osisID='Matt.25.41'>Dann(Dnoh) wird da(er) au zue däne zue d Linke sage: Gehn wäg vu ma(mir), ihr Vufluechti, ins ewige Fiir, des gmacht isch däm Deufel un sinene Engel! </verse>
+        <verse osisID='Matt.25.42'>Denn i(ich) bi hungrig gsi, un ihr hän ma(mir) nit z ässä ge. Ich bi durschtig gsi, un ihr hän ma(mir) nit z trinke ge. </verse>
+        <verse osisID='Matt.25.43'>Ich bi ä Fremde gsi, un ihr hän mi nit ufgnumme. Ich bi nackt gsi, un ihr hän mi nit azogä. Ich bi krank un im Gfängnis (Loch) gsi, un ihr hän mi nit bsuecht. </verse>
+        <verse osisID='Matt.25.44'>Dann(Dnoh) wäre sie nem au sage: Herr, wenn hän ma(mir) dich hungrig odr durschtig gsähne odr als Fremde odr nackt odr krank odr im Gfängnis (Loch) un hän dir nit dient? </verse>
+        <verse osisID='Matt.25.45'>Dann(Dnoh) wird da(er) ne sage: Gwiß, i(ich) sag äich: Was ihr nit doe hän einem vu däne Kleinschte, des hän ihr ma(mir) au nit doe. </verse>
+        <verse osisID='Matt.25.46'>Un sie wäre higo: zue d ewige Schtrof, aba di Grechte ins ewige Läbä. </verse>
+      </chapter>
+      <chapter osisID='Matt.26'>
+        <title>(Mk 14-16; Lk 22-24; Joh 18-21)</title>
+        <title>D Plan vu d Hohenpriester un Älteschte</title>
+        <verse osisID='Matt.26.1'>Un s isch bassiert, als Jesus alles des Gsaite het, daß sa(er) dann(dnoh) zue sinene Jinger gsait het: </verse>
+        <verse osisID='Matt.26.2'>Ihr wißt, daß in zwei Däg Passa isch; un dr Menschebue wird ibaantwortet wäre, daß sa(er) kriizigt wär. </verse>
+        <verse osisID='Matt.26.3'>Do vusammle sich d Hohenpriester un d Älteschte vum Volk im Palascht vum Hohenpriester, der hieß Kaiphas, </verse>
+        <verse osisID='Matt.26.4'>un halte Rot, we sie Jesus mit Lischt ergriefe un umbringe kennte. </verse>
+        <verse osisID='Matt.26.5'>Sie sage aba: Jo nit bim Fescht, dmit s nit ä Ufruhr git im Volk. </verse>
+        <title>D Salbig in Betanien</title>
+        <title>(Lk 7,36-50; Joh 12,1-8)</title>
+        <verse osisID='Matt.26.6'>Als drno Jesus in Betanien war im Hus Simons vum Üssätzige, </verse>
+        <verse osisID='Matt.26.7'>kunnt zue nem ä Wieb, de het ä Glas mit wertvollem Salbel un gießt`s uf si Schädel, als sa(er) am Disch hockt. </verse>
+        <verse osisID='Matt.26.8'>Als des d Jinger sähn, wäre sie unwillig un hän gsait: Wozue de Vuschwendig? </verse>
+        <verse osisID='Matt.26.9'>S het diir vukauft un des Geld d Arme ge wäre kenne. </verse>
+        <verse osisID='Matt.26.10'>Als Jesus des gmerkt het, het da(er) zue nene gsait: Was mache ihr des Wieb trurig? Sie het ä gueti Sach an ma(mir) doe. </verse>
+        <verse osisID='Matt.26.11'>Di Arme hän ihr alliziit bi äich, mi aba hän ihr nit alliziit. </verse>
+        <verse osisID='Matt.26.12'>Daß sie des El uf mi Leib (Ranze) gschittet het, des het sie fir mi Beerdigung doe. </verse>
+        <verse osisID='Matt.26.13'>Gwiß, i(ich) sag äich: Wo des Evangelium predigt wird in dr ganze Welt, do wird ma au des vuzehle zue ihrem Adenke, was sie doe het. </verse>
+        <title>D Vurot vum Judas</title>
+        <verse osisID='Matt.26.14'>Do goht eina vu d Zwöelf, mit Name Judas Iskariot, hi zue d Hohenpriester </verse>
+        <verse osisID='Matt.26.15'>un het gsait: Was wen ihr ma(mir) ge? Ich will nen äich vurote. Un sie wen nem driißig Silberlinge ge. </verse>
+        <verse osisID='Matt.26.16'>Un vu do a suecht er ä Glegeheit, daß sa(er) nen vurote kennt. </verse>
+        <title>Des Obendässä</title>
+        <title>(Joh 13,21-26)</title>
+        <verse osisID='Matt.26.17'>Aba am erschte Dag vu d Ungsäuerte Brot kumme d Jinger zue Jesus un froge: Wo willsch dü, daß ma(mir) dir s Passalamm zum Ässä mache? </verse>
+        <verse osisID='Matt.26.18'>Er het gsait: Gehn hi in d Schtadt zue däm un däm sage zue nem: Dr Meischta losst dir sage: Mini Ziit isch nooch; i(ich) will bi dir s Passa fieche mit minene Jinger. </verse>
+        <verse osisID='Matt.26.19'>Un d Jinger hän gmacht, we ne Jesus bfohle het, un richte s Passalamm. </verse>
+        <verse osisID='Matt.26.20'>Un am Obend het da(er) sich anekockt an d Disch mit d Zwöelf. </verse>
+        <verse osisID='Matt.26.21'>Un als sie ässä, het da(er) gsait: Gwiß, i(ich) sag äich: Eina unda äich wird mi vurote. </verse>
+        <verse osisID='Matt.26.22'>Un sie wäre arg trurig un fange a, jeda einzelne, nen z froge: Herr, bi ich's? </verse>
+        <verse osisID='Matt.26.23'>Er git zantwort un het gsait: Der d Hand mit ma(mir) in d Schissle täucht, der wird mi vurote. </verse>
+        <verse osisID='Matt.26.24'>Dr Menschebue goht zwar dohi, mai vu däm gschribe schtoht; doch mai däm Mensch, wägä däm dr Menschebue vurote wird! S wär fir den Mensch bessa, wenn na(er) nee uf d Welt kumme wär. </verse>
+        <verse osisID='Matt.26.25'>Do git zantwort Judas, der nen vurote het, un het gsait: Bi ich's, Rabbi? Er het zue nem gsait: Dü saisch`s. </verse>
+        <verse osisID='Matt.26.26'>Als sie aba ässä, nimmt Jesus vum Brot, dankt un bricht's un git's d Jinger un het gsait: Nähmet, ässä; des isch mi Leib (Ranze). </verse>
+        <verse osisID='Matt.26.27'>Un na(er) nimmt d Kelch un dankt, git ne des un het gsait: Trinke alli drus; </verse>
+        <verse osisID='Matt.26.28'>des isch mi Bloet vum Bunde, des vuschittet wird fir vieli zue d Vugebig vu d Sinde. </verse>
+        <verse osisID='Matt.26.29'>Ich sag äich: Ich wär drno nimi vu däm Gwägs vum Wischtock trinke bis an den Dag, an däm i(ich) vu naiem dvu trinke wär mit äich in minem Vada (Babbe) sinem Rich. </verse>
+        <verse osisID='Matt.26.30'>Un als sie d Lobgsang gsunge hän, gehn sie üsä an d Elberg. </verse>
+        <title>D Petrus</title>
+        <verse osisID='Matt.26.31'>Do het Jesus zue nene gsait: In däre Nacht den ihr alli Ärgernis nähmä an ma(mir). Denn s schtoht gschribe (Sacharja 13,7): "Ich wär d Schäfa (Hirte) schla, un d Schof vu d Herde wäre sich vuschtreue." </verse>
+        <verse osisID='Matt.26.32'>Wenn i(ich) aba ufgschtande bi, will i(ich) vor äich higo nohch Galiläa. </verse>
+        <verse osisID='Matt.26.33'>Petrus aba git zantwort un het gsait zue nem: Wenn sie au alli Ärgernis nähmä, so will i(ich) doch nemols Ärgernis nähmä an dir. </verse>
+        <verse osisID='Matt.26.34'>Jesus het zue nem gsait: Gwiß, i(ich) sag dir: In däre Nacht, bvor d Guller kräht, wirsch dü mi draimol vuliigne. </verse>
+        <verse osisID='Matt.26.35'>Petrus het zue nem gsait: Un wenn i(ich) mit dir schterbe müßt, will i(ich) di nit vuliigne. Des gliche sage au alli Jinger. </verse>
+        <title>Jesus in Gethsemane</title>
+        <verse osisID='Matt.26.36'>Do kummt Jesus mit ne zue nem Garte, der heißt Gethsemane, un het gsait zue d Jinger: Setze äich do ane, solang i(ich) derthi gang un bät. </verse>
+        <verse osisID='Matt.26.37'>Un er nimmt mit sich Petrus un de zwei Buebä vum Zebedäus un fangt a trurig z si un vuzage. </verse>
+        <verse osisID='Matt.26.38'>Do het Jesus zue nene gsait: Mini Seele isch trurig bis an d Dod; bliebe do un wache mit ma(mir)! </verse>
+        <verse osisID='Matt.26.39'>Un na(er) goht ä weng witer, flegt ane uf si Gsicht(Visasch) un bätet un het gsait: Vada (Babbe), isch's meglich, so goht der Kelch an ma(mir) vorbi; doch nit we i(ich) will, sundern we dü willsch! </verse>
+        <verse osisID='Matt.26.40'>Un na(er) kummt zue sinene Jinger un findet sie schlofe un het zue Petrus gsait: Kennt ihr denn nit ä Schtund mit ma(mir) wache? </verse>
+        <verse osisID='Matt.26.41'>Wache un bäte den, dmit ihr nit in Afechtig fallt! Dr Geischt isch willig; aba s Fleisch isch schwach. </verse>
+        <verse osisID='Matt.26.42'>Zum zweite Mol goht da(er) wieda hi, bäte un het gsait: Vada (Babbe), isch's nit meglich, daß d Kelch an ma(mir) vorbigoht, ohni daß i(ich) nen trink, so gschiht di Wille! </verse>
+        <verse osisID='Matt.26.43'>Un na(er) kummt un findet sie abamols schlofe, un ihri Aug ware volla Schlof. </verse>
+        <verse osisID='Matt.26.44'>Un na(er) het sie glo un goht abamols hi un bäte zum dritte Mol un schwätzt dieselbe Wort. </verse>
+        <verse osisID='Matt.26.45'>Dann(Dnoh) kummt er zue sinene Jinger un het gsait zue nene: Ach, wen ihr witer schlofe un ruehe? lueg (gib obacht), de Schtund isch do, daß dr Menschebue in d Händ(Pfode) vu d Sinda ibaantwortet wird. </verse>
+        <verse osisID='Matt.26.46'>Schtehn uf, len uns(us) go! lueg (gib obacht), er isch do, der mi vurotet. </verse>
+        <title>Jesus wird Gfangegnu</title>
+        <verse osisID='Matt.26.47'>Un als sa(er) noh schwätzt, lueg (gib obacht), do kummt Judas, eina vu d Zwöelf, un mit nem ä großi Schar mit Schwerter un mit Stange, vu d Hohenpriester un Älteschte vum Volk. </verse>
+        <verse osisID='Matt.26.48'>Un dr Vuräter het ne ä Zeiche ge un gsait: Welcha i(ich) küsse wär, der isch's; den packe. </verse>
+        <verse osisID='Matt.26.49'>Un drno kunnt er zue Jesus un het gsait: Friede mit dir, Rabbi! un küßt nen. </verse>
+        <verse osisID='Matt.26.50'>Jesus aba het gsait zue nem: Mi Fründ(Freund), dzue bisch dü kumme? Do kumme sie rah un lege Hand an Jesus un packe nen. </verse>
+        <verse osisID='Matt.26.51'>Un lueg (gib obacht), eina vu däne, de bi Jesus ware, schtreckt d Hand üs un zeht si Schwert un schlat noh däm Knecht vum Hohenpriester un haut nem ä Ohr ab. </verse>
+        <verse osisID='Matt.26.52'>Do het Jesus zue nem gsait: Schteck di Schwert an si Platz! Denn wer s Schwert nimmt, der soll durch s Schwert umkumme. </verse>
+        <verse osisID='Matt.26.53'>Odr meinsch dü, i(ich) kennt mi Vada (Babbe) nit bitte, daß sa(er) ma(mir) gli druf me als zwöelf Legione Engel schickt? </verse>
+        <verse osisID='Matt.26.54'>We doet dann(dnoh) aba d Schrift itreffe, daß ses so bassiere mueß? </verse>
+        <verse osisID='Matt.26.55'>Zue der Schtund het Jesus zue d Schar gsait: Ihr sin usgzoge we gege ä Raiba (Deb, Vubrecha) mit Schwerter un mit Schtange, mi z fange. Ha i(ich) doch jede Dag im Tempel gsässä un glehrt, un ihr hän mi nit packt. </verse>
+        <verse osisID='Matt.26.56'>Aba des isch alles bassiert, dmit itreffe dät d Schrifte vu d Prophete. Do vuloße nen alli Jinger un haue ab. </verse>
+        <title>Jesus vor rem Hohe Rot</title>
+        <verse osisID='Matt.26.57'>De aba Jesus packt hän, fihre nen zum Hohenpriester Kaiphas, wo d Schriftglehrti un Älteschte sich vusammelt hän. </verse>
+        <verse osisID='Matt.26.58'>Petrus aba goht nem vu wietem bis zum Palascht vum Hohenpriester nohch un goht inä un het sich anekockt zue d Knecht, um azluege, woruf s üsä wot. </verse>
+        <verse osisID='Matt.26.59'>D Hohenpriester aba un d ganze Hohe Rot sueche ä falsches Ziignis gege Jesus, daß sie nen umbringe däte. </verse>
+        <verse osisID='Matt.26.60'>Un obwohl vieli falschi Ziige ruskumme, finde sie doch nigs. Zletscht kumme zwei dzue </verse>
+        <verse osisID='Matt.26.61'>un hän gsait: Er het gsait: Ich ka d Tempel Gottes abbreche un in dräi Däg ufbäue. </verse>
+        <verse osisID='Matt.26.62'>Un dr Hohepriester schtod uf un het gsait zue nem: Antwortesch dü nigs uf des, was de gege di beziige? </verse>
+        <verse osisID='Matt.26.63'>Aba Jesus schwieg schtill. Un dr Hohepriester het gsait zue nem: Ich bschwör di bi däm lebändige Gott, daß dü uns(us) saisch, ob dü d Chrischtus bisch, d Bue Gottes. </verse>
+        <verse osisID='Matt.26.64'>Jesus het zue nem gsait: Dü saisch`s. Doch sag i(ich) äich: Vu drno a das ihr säh den d Menschebue hocke zue d Rechte vu d Kraft un kumme uf d Wolke vum Himmel. </verse>
+        <verse osisID='Matt.26.65'>Do vuriß d Hohepriester sini Kleida un het gsait: Er het Gott gläschtert! Was bruche ma(mir) wiedari Ziige? lueg (gib obacht), etzed hän ihr d Gottesläschterig ghärt. </verse>
+        <verse osisID='Matt.26.66'>Was isch aicha Urdeil? Sie antwortete un hän gsait: Er isch d Dod schuldig. </verse>
+        <verse osisID='Matt.26.67'>Do schpucke sie nem in Gsicht(Visasch) un schle nen mit d Fuscht. Ä baar aba schle nem ins Gsicht </verse>
+        <verse osisID='Matt.26.68'>un hän gsait: Weissag uns(us), Chrischtus, wer isch's, der di schlat? </verse>
+        <title>D Petrus</title>
+        <verse osisID='Matt.26.69'>Petrus aba hockt druße im Hof; do kunnt ä Magd zue nem un het gsait: Un dü warsch au mit däm Jesus üs Galiläa. </verse>
+        <verse osisID='Matt.26.70'>Er legt aba vor ällei un het gsait: Ich weiß nit, was dü saisch. </verse>
+        <verse osisID='Matt.26.71'>Als sa(er) aba üsä gange isch in d Torhalle, het nen ä andere gsäh un het gsait zue däne, de do ware: Der war au mit däm Jesus vu Nazareth. </verse>
+        <verse osisID='Matt.26.72'>Un na(er) legt abamols un schwört dzue: Ich kenn den Mensch nit. </verse>
+        <verse osisID='Matt.26.73'>Un nohch eina kleine Wieli kumme dzue, de do gschtande sin, un sage zue Petrus: Gwiß, dü bisch au eina vu däne, denn di Schproch vurotet di. </verse>
+        <verse osisID='Matt.26.74'>Do fangt da(er) a, sich z vufluechen un z schwör: Ich kenn den Mensch nit. Un drno kräht d Guller. </verse>
+        <verse osisID='Matt.26.75'>Do het Petrus an des Wort denkt, des Jesus zue nem gsait het: Ehe d Guller kräht, wirsch dü mi draimol vuliigne. Un na(er) goht üsä un hiilt ganz arg. </verse>
+      </chapter>
+      <chapter osisID='Matt.27'>
+        <title>Jesus vor Pilatus. Des End vum Judas</title>
+        <verse osisID='Matt.27.1'>Am Morge aba hän alli Hohenpriester un d Älteschte vum Volk d bschloße iba Jesus, nen umzbringe, </verse>
+        <verse osisID='Matt.27.2'>un sie hän nen gfesselt, fihre nen ab un ibaantwortete nen däm Schtadthaltr Pilatus. </verse>
+        <verse osisID='Matt.27.3'>Als Judas, der nen vurote het, gsäh het, daß sa(er) zum Dod vuurdeilt war, reut`s nen, un na(er) nimmt de driißig Silberlinge vu d Hohenpriester un Älteschte un git sie zruck </verse>
+        <verse osisID='Matt.27.4'>un het gsait: Ich ha Unrecht doe, daß i(ich) unschuldiges Bloet vurote ha. Sie aba hän gsait: Was goht uns(us) des a? Do lueg dü zue! </verse>
+        <verse osisID='Matt.27.5'>Un na(er) wirft de Silberlinge in d Tempel, goht fort un erhängt sich. </verse>
+        <verse osisID='Matt.27.6'>Aba d Hohenpriester nähmä de Silberlinge un hän gsait: S isch nit recht, daß ma(mir) sie in d Gotteskaschte lege; denn s isch Bluetgeld. </verse>
+        <verse osisID='Matt.27.7'>Sie bschlosse aba, d Töpferacka dvu z kaufe zur Beerdigig fir Fremdi. </verse>
+        <verse osisID='Matt.27.8'>Drum heißt der Acka Bluetacka bis uf d hiitige Dag. </verse>
+        <verse osisID='Matt.27.9'>Do isch itroffe, was gsait isch durch d Prophet Jeremia, der do sait: "Sie hän de driißig Silberlinge gnumme, d Pries fir d Vukaufte, der gschätzt isch bi d Israelite, </verse>
+        <verse osisID='Matt.27.10'>un sie hän des Geld fir d Töpferacka ge, we ma(mir) dr Herr bfohle het" (Jeremia 32,9; Sacharja 11,12.13). </verse>
+        <verse osisID='Matt.27.11'>Jesus aba schtod vor rem Schtadthaltr; un d Schtadthaltr het nen gfrogt un het gsait: Bisch dü d Kenig vu d Jude? Jesus aba het gsait: Dü saisch`s. </verse>
+        <verse osisID='Matt.27.12'>Un als sa(er) vu d Hohenpriester un Älteschte vuklagt isch, git zantwort er nigs. </verse>
+        <verse osisID='Matt.27.13'>Do het Pilatus zue nem gsait: Hersch dü nit, we hert sie di vuklage? </verse>
+        <verse osisID='Matt.27.14'>Un na(er) git zantwort nem nit uf kei einziges Wort, so daß sich d Schtadthaltr arg vuwundret het. </verse>
+        <title>Jesus Vuurteilig</title>
+        <verse osisID='Matt.27.15'>Zum Fescht aba het d Schtadthaltr de Gwohnet ka, däm Volk ä Gfangene loszge, was fir eina sie wen. </verse>
+        <verse osisID='Matt.27.16'>Sie hän aba zue der Ziit ä brüchtigte Gfangene, der het Jesus Barabbas gheiße. </verse>
+        <verse osisID='Matt.27.17'>Un als sie vusammelt ware, het Pilatus zue nene gsait: Welcha wen ihr? Wela soll i(ich) äich losge, Jesus Barabbas odr Jesus, vum däm gsait wird, er isch dr Chrischtus? </verse>
+        <verse osisID='Matt.27.18'>Denn na(er) het gwüßt, daß sie nen üs Näid ibaantwortet hän. </verse>
+        <verse osisID='Matt.27.19'>Un als sa(er) uf fem Richtaschtuehl hockt, schickt si Wieb zue nem un losst nem sage: Ha dü nigs z schaffe mit däm Grechte; denn i(ich) ha hiit viel glitte im Träum um sinetwägä. </verse>
+        <verse osisID='Matt.27.20'>Aba d Hohenpriester un Älteschte ibaräde s Volk, daß sie um Barabbas bitte, Jesus aba umbringe solle. </verse>
+        <verse osisID='Matt.27.21'>Do fangt d Schtadthaltr a un het gsait zue nene: Welcha wen ihr? Wen vu däne beidi soll i(ich) äich losge? Sie hän gsait: Barabbas! </verse>
+        <verse osisID='Matt.27.22'>Pilatus het zue nene gsait: Was soll i(ich) denn mache mit Jesus, vu däm gsait wird, er isch dr Chrischtus? Sie sage alli: Loß sen kriizige! </verse>
+        <verse osisID='Matt.27.23'>Er aba het gsait: Was het da(er) denn Beses doe? Sie brellä aba noh me: Loß sen kriizige! </verse>
+        <verse osisID='Matt.27.24'>Als aba Pilatus gsäh het, daß sa(er) nigs usgrichtet het, sundern des Gwimmel imma greßa isch, nimmt da(er) Wassa un wäscht sich d Händ(Pfode) vor rem Volk un het gsait: Ich bi unschuldig an sinem Bloet; luege ihr zue! </verse>
+        <verse osisID='Matt.27.25'>Do git zantwort s ganze Volk un het gsait: Si Bloet kummt iba uns(us) un unseri Kinda! </verse>
+        <verse osisID='Matt.27.26'>Do git da(er) ne Barabbas los, aba Jesus losst er üsbeitsche un ibaantwortet nen, daß sa(er) kriizigt wird. </verse>
+        <verse osisID='Matt.27.27'>Do nähmä d Soldate vum Schtatthalta Jesus mit sich in s Prätorium un vusammle di ganzi Abteilige um nen. </verse>
+        <verse osisID='Matt.27.28'>Un zen nen üs un lege nem ä Purpurmantel a </verse>
+        <verse osisID='Matt.27.29'>un flochte ä Dornekrone un hocke sie nem uf d Schädel un gän nem ä Rohr in sini rechti Hand un beugte ihri Knie vor rem un vuschpotte nen un hän gsait: Greßt bisch dü, dr Jude Kenig! </verse>
+        <verse osisID='Matt.27.30'>un schpucke nen a un nähmä s Rohr un schlen dmit si Schädel. </verse>
+        <title>Jesus wird Kriizigt</title>
+        <verse osisID='Matt.27.31'>Un als sie nen gscholte hän, zen sie nem d Mandel üs un zen nem sini Kleida a un fihre nen ab, um nen z kriizige. </verse>
+        <verse osisID='Matt.27.32'>Un als sie rüsgehn, find sie ä Mensch üs Kyrene mit Name Simon; den zwinge sie, daß sa(er) nem si Kriiz trait. </verse>
+        <verse osisID='Matt.27.33'>Un als sie an d Platz kumme mit Name Golgatha, des heißt: Schädelstätte, </verse>
+        <verse osisID='Matt.27.34'>gän sie nem Wi z trinke mit Galle vumischt; un als er's schmeckt, wot da(er) nit trinke. </verse>
+        <verse osisID='Matt.27.35'>Als sie nen aba kriizigt hän, vudeilte sie sini Kleida un werfe s Los drum. </verse>
+        <verse osisID='Matt.27.36'>Un sie hocke do un bwache doet nen. </verse>
+        <verse osisID='Matt.27.37'>Un obe iba sinem Schädel mache sie ä Ufschrift mit d Ursache vu sinem Dod: Des isch Jesus, dr Jude Kenig. </verse>
+        <verse osisID='Matt.27.38'>Un do wäre zwei Raiba (Deb, Vubrecha) mit nem kriizigt, eina zue d Rechte un eina zue d Linke. </verse>
+        <verse osisID='Matt.27.39'>D aba vorbiigehn, läschtere nen un schittle ihri Kepfe </verse>
+        <verse osisID='Matt.27.40'>un hän gsait: Der dü d Tempel abbrichsch un bäusch nen uf in dräi Däg, hilf dir selba, wenn dü Gottes Bue bisch, un schtieg rab vum Kriiz! </verse>
+        <verse osisID='Matt.27.41'>eso schelte au d Hohenpriester mit d Schriftglehrte un Älteschte un hän gsait: </verse>
+        <verse osisID='Matt.27.42'>Andere het da(er) ghulfe un ka sich selba nit helfe. Isch er d Kenig vu Israel, so schtieg er drno vum Kriiz rab. Dann(Dnoh) wen ma(mir) a nen glaube. </verse>
+        <verse osisID='Matt.27.43'>Er het sich uf Gott vulo; der erles nen drno, wenn na(er) Gfalle a nem het; denn na(er) het gsait: Ich bi Gottes Bue. </verse>
+        <verse osisID='Matt.27.44'>Eso schmähe nen au d Raiba (Deb, Vubrecha), de mit nem kriizigt ware. </verse>
+        <verse osisID='Matt.27.45'>Un vu d sechste Schtund a kummt ä Nacht iba s ganze Land bis zue d ninte Schtund. </verse>
+        <verse osisID='Matt.27.46'>Un um di ninti Schtund brellt Jesus lut: Eli, Eli, lama asabtani? des heißt: Mi Gott, mi Gott, wurum hesch dü mi vulo? </verse>
+        <verse osisID='Matt.27.47'>Ä baar aba, de do gschtande sin, als sie des ghärt hän, sage sie: Der rueft nohch Elia. </verse>
+        <verse osisID='Matt.27.48'>Un gli druf lauft eina vu nene, nimmt ä Schwamm un fillt nen mit Essig un schteckt nen uf ä Rohr un git nem z trinke. </verse>
+        <verse osisID='Matt.27.49'>Di andere aba hän gsait: Halt, loß uns(us) luege, ob Elia kummt un nem z helfä! </verse>
+        <verse osisID='Matt.27.50'>Aba Jesus brellt abamols lut un schtirbt. </verse>
+        <verse osisID='Matt.27.51'>Un lueg (gib obacht), dr Vorhang im Tempel vuriß in zwei Schtickli vu obe a bis nab. </verse>
+        <verse osisID='Matt.27.52'>Un d Erde het bebt, un d Felse zerrisse, un d Gräba sin uf gange, un vieli Leiba (Ranze) vu d dote Heilige sin ufgschtande </verse>
+        <verse osisID='Matt.27.53'>un gehn üs d Gräba nohch sinere Uferschtehig un kumme in di heilige Schtadt un erschiene viele. </verse>
+        <verse osisID='Matt.27.54'>Als aba d Hauptma un de mit nem Jesus bwacht hän des Erdbebe sähn un was do so bassiert isch, vuschrekä sie arg un hän gsait: Gwiß, der isch Gottes Bue gsi! </verse>
+        <verse osisID='Matt.27.55'>Un s ware vieli Wieba do, de vu wietem zuegluegt hän; de ware Jesus üs Galiläa nohchgange un hän nem dient; </verse>
+        <verse osisID='Matt.27.56'>unda däne war Maria vu Magdala un Maria, d Muetter vum Jakobus un Josef, un d Muetter vu d Buebä vum Zebedäus. </verse>
+        <title>Jesus im Grab</title>
+        <verse osisID='Matt.27.57'>Am Obend aba kummt ä riche Ma üs Arimathäa, der heißt Josef un war au ä Jinger Jesus. </verse>
+        <verse osisID='Matt.27.58'>Der goht zue Pilatus un bittet um d Leib (Ranze) Jesus. Do bpfiehlt Pilatus, ma sollen nem ge. </verse>
+        <verse osisID='Matt.27.59'>Un Josef nimmt d Leib (Ranze) un wickelt nen in ä sufares Lienduech </verse>
+        <verse osisID='Matt.27.60'>un legt nen in si eigenes näjes(naies) Grab, des sa(er) in ä Felse het haue losse, un wälzte ä große Schtei (Wackes) vor d Dire vum Grab un goht dvu. </verse>
+        <verse osisID='Matt.27.61'>S ware aba dert Maria vu Magdala un di anderi Maria; de hocke gegeiba vum Grab. </verse>
+        <title>Am Grab</title>
+        <verse osisID='Matt.27.62'>Am nägschte Dag, der uf d Rischtdag goht, kumme d Hohenpriester mit d Pharisäer zue Pilatus </verse>
+        <verse osisID='Matt.27.63'>un hän gsait: Herr, ma(mir) hän dra denkt, daß der Vufihra gsait het, als sa(er) noh gläbt het: Ich will nohch dräi Däg ufschtoh. </verse>
+        <verse osisID='Matt.27.64'>Drum bfiehl, daß ma des Grab bwache doet bis zum dritte Dag, dmit nit sini Jinger kumme un nen schtähle un zue d Lit sage: Er isch ufgschtande vu d Dote, un dr letschte Lug isch ärga als d erschte. </verse>
+        <verse osisID='Matt.27.65'>Pilatus het zue nene gsait: Do hän ihr d Wache; gehn hi un bwaches, so guet da kennt. </verse>
+        <verse osisID='Matt.27.66'>Sie gehn hi un sichere s Grab mit d Wache un vusiegle d Schtei (Wackes). </verse>
+      </chapter>
+      <chapter osisID='Matt.28'>
+        <title>Jesu Uferschtehig</title>
+        <title>(Mk 16,1-10; Lk 24,1-10; Joh 20,1-18)</title>
+        <verse osisID='Matt.28.1'>Als aba dr Sabbat vorbi war un d erschte Dag vu d Wuche abroche het, kumme Maria vu Magdala un di andre Maria, um nohch däm Grab z aluege. </verse>
+        <verse osisID='Matt.28.2'>Un lueg (gib obacht), s isch bassiert ä großes Erdbebe. Denn d Engel vum Herrn kummt vum Himmel rab, kunnt dzue un wälzte d Schtei (Wackes) wäg un het sich anekockt obe druf. </verse>
+        <verse osisID='Matt.28.3'>Sini Gschtalt war we d Blitz un si Gwand (Häß) wiß we d Schnee. </verse>
+        <verse osisID='Matt.28.4'>D Wache aba vuschrekä üs Angscht vor nem un ware, als wäre sie dot. </verse>
+        <verse osisID='Matt.28.5'>Aba d Engel het gsait zue d Wieba: Firchte äich nit! Ich weiß, daß ihr Jesus, d Gkriizigte, sueche. </verse>
+        <verse osisID='Matt.28.6'>Er isch nit do; er isch ufgschtande, we na(er) gsait het. Kummt her un luege d Platz a, wo na(er) gläge het; </verse>
+        <verse osisID='Matt.28.7'>un gehn schnell hi un sages sinene Jinger, daß sa(er) ufgschtande isch vu d Dote. Un lueg (gib obacht), er wird vor äich higo nohch Galiläa; dert den ihr nen säh. Lueg (gib obacht), i(ich) ha`s äich gsait. </verse>
+        <verse osisID='Matt.28.8'>Un sie gehn schnell wäg vum Grab mit Angscht un große Fräid(Freud) un laufe, um`s sinene Jinger z vukündige. </verse>
+        <verse osisID='Matt.28.9'>Un lueg (gib obacht), do trifft ne Jesus un het gsait: Sin greßt! Un sie kumme zue nem un umfaßte sini Feß un flege vor rem ane. </verse>
+        <verse osisID='Matt.28.10'>Do het Jesus zue nene gsait: Firchte äich nit! Gehn hi un vukindigt`s minene Breda, daß sie nohch Galiläa gehn: dert wäre sie mi säh. </verse>
+        <verse osisID='Matt.28.11'>Als sie aba higehn, lueg (gib obacht), do kumme ä baar vu d Wache in d Schtadt un vuzehle d Hohenpriester alles, was bassiert war. </verse>
+        <verse osisID='Matt.28.12'>Un sie kumme mit d Älteschte zsämme, halte Rot un gän d Soldate viel Geld </verse>
+        <verse osisID='Matt.28.13'>un hän gsait: Sage, sini Jinger sin in d Nacht kumme un hän nen gschtohle, während ma(mir) gschlofe hän. </verse>
+        <verse osisID='Matt.28.14'>Un wenn`s däm Schtadthaltr z Ohre kummt, wenn ma(mir) nen bschwichtige un dfir sorge, daß ihr sicha sin. </verse>
+        <verse osisID='Matt.28.15'>Sie nähmä des Geld un hän gmacht, we sie agwiese ware. Un so isch des zum Gschwätz wore bi d Jude bis uf d hiitige Dag. </verse>
+        <title>Nüsgo</title>
+        <verse osisID='Matt.28.16'>Aba de elf Jinger gehn nohch Galiläa uf d Berg, wohi Jesus sie bschiede het. </verse>
+        <verse osisID='Matt.28.17'>Un als sie nen sähn, flege sie vor rem ane; ä baar aba hän zwieflet. </verse>
+        <verse osisID='Matt.28.18'>Un Jesus kunnt dzue un het gsait zue nene: Mir isch ge alli Gwalt im Himmel un uf d Erde. </verse>
+        <verse osisID='Matt.28.19'>Drum gehet hi un mache zue Jinger alli Velka: Tauft sie uf d Name vum Vada (Babbe) un vum Bue un vum heilige Geischt </verse>
+        <verse osisID='Matt.28.20'>un lehrt sie doe alles, was i(ich) äich bfohle ha. Un lueg (gib obacht), i(ich) bi bi äich alli Däg bis an dr Welt End. </verse>
+      </chapter>
+    </div></osisText>
+</osis>

@@ -1,0 +1,1192 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <osisText osisRefWork='Bible' osisIDWork='TAF' xml:lang='de'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='TAF'>
+        <title>Tafelbibel</title>
+        <contributor>Martin</contributor>
+        <creator>Jens Grabner</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject>holy bible</subject>
+        <date>2009-01-20</date>
+        <description>Die Bibel - Übersetzung von Johann Friedrich Leonhard Tafel
+
+      Die vorliegende Neuausgabe ist eine Abschrift der Übersetzung von Dr. Leonhard
+      Tafel, revidiert von Ludwig H. Tafel, dritte Ausgabe 1911, und wurde auf ihre
+      Vollständigkeit überprüft. Es wurde die Rechtschreibregel der heutigen Zeit (noch
+      vor der Rechtschreibreform 1998) angewendet, ohne den Stil der Sprache zu verändern.
+
+      Wer in dieser Bibel einige Bücher vermisst, sei auf das Vorwort der Source verwiesen.
+      Auf der zweiten Seite steht dort:
+      Der zweite Band enthält die übrigen, sogenannten
+      Hagiographen oder heiligen Bücher: die Bücher Hiob, Sprichwörter, Hohelied, Prediger, Ruth, Chronika, Esra,
+      Nehemia, Esther und die Apokryphen.²
+      2. Gegenwärtige, Revision des Zefania XML Moduls  enthält die Hagiographen und Apokryphen nicht, da
+      sie nicht verfügbar waren.</description>
+        <publisher>FREE BIBLE SOFTWARE GROUP</publisher>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>TAF</identifier>
+        <source>http://www.ubf-dortmund.de/bibel/tafel.htm</source>
+        <language type='IETF'>de</language>
+        <relation/>
+        <coverage>provide the bible to the world</coverage>
+        <rights>Mit freundlicher Genehmigung des Swedenborg Verlag Postfach 1205 CH - 8032 Zürich</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Acts'>
+      <chapter osisID='Acts.1'>
+        <title>Apostelgeschichte</title>
+        <title>Christi Himmelfahrt. - Erwählung des Apostels Matthias.</title>
+        <verse osisID='Acts.1.1'>In meiner ersten Schrift habe ich, mein Thophilus, von alle dem berichtet, was Jesus von Anfang an tat und lehrte,</verse>
+        <verse osisID='Acts.1.2'>Bis zu dem Tag, da Er emporgenommen ward, nachdem Er durch den Heiligen Geist den Aposteln, die Er erwählt hatte, Befehle gegeben.</verse>
+        <verse osisID='Acts.1.3'>Welchen Er Sich auch nach Seinem Leiden lebend darstellte in vielen Bezeugungen, indem Er ihnen vierzig Tage lang erschien und über das Reich Gottes mit ihnen redete.</verse>
+        <verse osisID='Acts.1.4'>Und als Er sie um Sich versammelt hatte, befahl Er ihnen, nicht von Jerusalem zu weichen, sondern auf die Verheißung des Vaters zu warten, â¬Sdie ihr von Mir gehört habtâ¬_.</verse>
+        <verse osisID='Acts.1.5'>Denn Johannes taufte mit Wasser; ihr aber sollt nicht lange nach diesen Tagen mit dem Heiligen Geist getauft werden.</verse>
+        <verse osisID='Acts.1.6'>Die also zusammengekommen waren, fragten Ihn und sagten: Herr, wirst Du auf diese Zeit das Reich wieder für Israel aufrichten?</verse>
+        <verse osisID='Acts.1.7'>Er aber sprach zu ihnen: Euch steht es nicht zu, Zeit oder Stunde zu wissen, die der Vater für Seine Macht bestimmt hat.</verse>
+        <verse osisID='Acts.1.8'>Ihr werdet aber die Kraft des über euch kommenden Heiligen Geistes empfangen und Mir Zeugen sein in Jerusalem und in ganz Judäa und Samarien und bis an das Ende der Erde.</verse>
+        <verse osisID='Acts.1.9'>Und da Er solches gesprochen, ward Er zusehends aufgehoben, und eine Wolke nahm Ihn vor ihren Augen weg.</verse>
+        <verse osisID='Acts.1.10'>Und wie sie, während Er auffuhr gen Himmel, Ihm nachsahen, siehe, da standen zwei Männer in weißen Kleidern vor ihnen.</verse>
+        <verse osisID='Acts.1.11'>Die sprachen: Männer von Galiläa, was steht ihr hier und schaut gen Himmel? Dieser Jesus, Der von euch ist aufgenommen gen Himmel empor, wird wiederkommen, wie ihr Ihn gen Himmel fahren sahet.</verse>
+        <verse osisID='Acts.1.12'>Sie kehrten sodann von dem Berge, dem sogenannten Eläon<note>Ölberg</note>, der nahe bei Jerusalem liegt und nur einen Sabbathweg entfernt ist, nach Jerusalem zurück.</verse>
+        <verse osisID='Acts.1.13'>Und als sie hineinkamen, stiegen sie auf den Söller, wo sie wohnten, Petrus und Jakobus und Johannes und Andreas, Philippus und Thomas, Bartholomäus und Matthäus, Jakobus des Alphäus<note>Sohn</note> und Simon, der Eiferer, und Judas des Jakobus<note>Sohn</note>.</verse>
+        <verse osisID='Acts.1.14'>Diese alle hielten einmütig an im Gebet und Flehen mit den Weibern und Maria, der Mutter Jesus, und mit Seinen Brüdern.</verse>
+        <verse osisID='Acts.1.15'>In dieses Tagen trat Petrus inmitten der Jünger auf und sprach: es waren etwa hundertzwanzig beisammen,</verse>
+        <verse osisID='Acts.1.16'>Männer, Brüder, es mußte das Wort der Schrift erfüllt werden, das der Heilige Geist durch den Mund Davids über Judas geweissagt hat, der ein Wegweiser ward denen, die Jesus gefangennahmen.</verse>
+        <verse osisID='Acts.1.17'>Er war uns beigezählt und hatte das Los dieses Dienstes.</verse>
+        <verse osisID='Acts.1.18'>Dieser nun hat erworben den Acker für den Lohn der Ungerechtigkeit, hat sich erhängt und ist mitten entzwei geborsten und ward all sein Eingeweide ausgeschüttet.</verse>
+        <verse osisID='Acts.1.19'>Und es ward kund allen, die zu Jerusalem wohnen, so daß der Acker in ihrer Mundart Hakeldama, das ist Blutacker, genannt worden ist.</verse>
+        <verse osisID='Acts.1.20'>Denn es steht geschrieben im Psalmbuch: Ihre Behausung soll wüste werden, und niemand sein, der darin wohne, und sein Amt ein anderer empfangen.</verse>
+        <verse osisID='Acts.1.21'>So muß denn einer der Männer, welche die ganze Zeit über, die der Herr Jesus unter uns ist aus- und eingegangen, mit uns gewesen sind,</verse>
+        <verse osisID='Acts.1.22'>Anfangend von der Taufe des Johannes bis auf den Tag, da Er vor uns aufgenommen ward, ein Zeuge Seiner Auferstehung mit uns werden.</verse>
+        <verse osisID='Acts.1.23'>Und sie stellten zwei, Joseph, genannt Barsabas, mit dem Zunamen Justus, und Matthias dar;</verse>
+        <verse osisID='Acts.1.24'>Beteten und sprachen: Herr, aller Herzenskündiger, zeige an, welchen Du von diesen zweien auserwählt hast,</verse>
+        <verse osisID='Acts.1.25'>Daß er empfange das Los dieses Dienstes und Apostelamtes, davon Judas abgewichen ist, daß er hinginge an seinen Ort.</verse>
+        <verse osisID='Acts.1.26'>Und sie warfen das Los über sie, und das Los fiel auf Matthias, und er ward den elf Aposteln zugezählt.</verse>
+      </chapter>
+      <chapter osisID='Acts.2'>
+        <title>Ausgießung des Heiligen Geistes. - Predigt des Petrus.</title>
+        <verse osisID='Acts.2.1'>Und als der Tag der Pfingsten erfüllt ward, waren sie alle einmütig beisammen.</verse>
+        <verse osisID='Acts.2.2'>Da geschah plötzlich ein Brausen vom Himmel wie eines gewaltig daherfahrenden Windes, und erfüllte das ganze Haus, wo sie saßen.</verse>
+        <verse osisID='Acts.2.3'>Und es erschienen ihnen Zungen wie Feuer, die sich verteilten, und er<note>der Heilige Geist</note> setzte sich auf jeden von ihnen, und alle wurden vom Heiligen Geiste erfüllt.</verse>
+        <verse osisID='Acts.2.4'>Und fingen an mit anderen Zungen zu reden, je nachdem der Geist sie antrieb zu sprechen.</verse>
+        <verse osisID='Acts.2.5'>Es hielten sich aber Juden in Jerusalem auf, gottesfürchtige Männer aus allerlei Volk, das unter dem Himmel ist.</verse>
+        <verse osisID='Acts.2.6'>Als nun dieses Sausen geschah, kam die Menge zusammen und sie waren erstaunt, da jeder sie seine eigene Mundart sprechen hörte.</verse>
+        <verse osisID='Acts.2.7'>Und sie entsetzten sich alle und fragten einander verwundert: Siehe, sind nicht alle, die da sprechen, Galiläer?</verse>
+        <verse osisID='Acts.2.8'>Und wie hören denn wir sie sprechen ein jeglicher in seiner Sprache, in der er geboren ist,</verse>
+        <verse osisID='Acts.2.9'>Parther und Meder und Elamiter und die wir wohnen in Mesopotamien und Judäa und Kappadozien, Pontus und Asien,</verse>
+        <verse osisID='Acts.2.10'>Und Phrygien und Pamphylien, Ägypten und den Gegenden Libyens um Cyrene und die Ausländer von Rom,</verse>
+        <verse osisID='Acts.2.11'>Juden und Judengenossen, Kreter und Araber? Wir hören sie mit unseren Zungen die großen Taten Gottes preisen.</verse>
+        <verse osisID='Acts.2.12'>Sie entsetzten sich alle und wußten nicht es zu deuten, indem einer zum anderen sprach: Was will das werden?</verse>
+        <verse osisID='Acts.2.13'>Andere aber hatten ihren Spott und sagten: Sie sind voll süßen Weines.</verse>
+        <verse osisID='Acts.2.14'>Da trat Petrus auf mit den Elfen, erhob seine Stimme und redete zu ihnen: Männer von Judah, und ihr alle, die ihr in Jerusalem wohnt, das sei euch kundgetan und schenkt Gehör meinen Worten.</verse>
+        <verse osisID='Acts.2.15'>Die da sind fürwahr nicht, wie ihr wähnt, betrunken, sintemal es die dritte Stunde am Tage ist.</verse>
+        <verse osisID='Acts.2.16'>Vielmehr tritt ein, was durch den Propheten Joel gesagt worden ist;</verse>
+        <verse osisID='Acts.2.17'>In den letzten Tagen wird geschehen, spricht Gott, daß Ich von Meinen Geist ausgießen werde über alles Fleisch, und weissagen werden eure Söhne und Töchter, und eure Jünglinge Gesichte sehen, und die Alten Traumgesichte haben.</verse>
+        <verse osisID='Acts.2.18'>Und auf Meine Knechte und Mägde werde Ich in jenen Tagen von Meinem Geist ausgießen, daß sie weissagen werden.</verse>
+        <verse osisID='Acts.2.19'>Und Ich werde Wunder tun am Himmel oben, und Zeichen unten auf Erden mit Blut, Feuer und Rauchdampf.</verse>
+        <verse osisID='Acts.2.20'>Die Sonne soll sich in Finsternis verkehren und der Mond in Blut, ehe denn der große und herrliche Tag des Herrn kommt.</verse>
+        <verse osisID='Acts.2.21'>Und soll geschehen, daß, wer den Namen des Herrn anruft, gerettet wird.</verse>
+        <verse osisID='Acts.2.22'>Ihr Männer von Israel, hört diese Worte: Jesus von Nazareth, den Mann von Gott unter euch beglaubigt mit Taten, Wundern und Zeichen, die Gott durch Ihn in eurer Mitte tat, wie denn ihr selbst es wisset.</verse>
+        <verse osisID='Acts.2.23'>Diesen habt ihr, als Er euch durch Gottes Ratschluß und Vorhersehung in eure Gewalt gegeben worden, durch gottlose Hände ans Kreuz geschlagen und zum Tode gebracht.</verse>
+        <verse osisID='Acts.2.24'>Ihn hat Gott auferweckt, und gelöst die Schmerzen des Todes, wie es denn nicht möglich war, daß Er von ihnen sollte gehalten werden.</verse>
+        <verse osisID='Acts.2.25'>Denn David sagt von Ihm: Ich sah den Herrn vor mir immerdar; denn Er ist mir zur Rechten, auf daß ich nicht wanke.</verse>
+        <verse osisID='Acts.2.26'>Deshalb freute sich mein Herz und frohlockte meine Zunge; zudem wird auch mein Fleisch in Hoffnung ruhen;</verse>
+        <verse osisID='Acts.2.27'>Du wirst meine Seele nicht in der Hölle lassen, nicht zugeben, daß Dein Heiliger Verwesung sehe.</verse>
+        <verse osisID='Acts.2.28'>Du hast mir kund getan die Wege des Lebens, und erfüllst mich mit Freuden vor Deinem Angesicht.</verse>
+        <verse osisID='Acts.2.29'>Männer, Brüder! sintemal ich mit allem Freimut zu euch von unserem Erzvater David reden darf, daß er gestorben und begraben worden, und seine Grabstätte bei uns sich findet bis auf diesen Tag.</verse>
+        <verse osisID='Acts.2.30'>Da er nun ein Prophet war und eingedenk, daß ihm Gott mit einem Eide verheißen hatte, daß von der Frucht seiner Lenden Einer auf seinem Throne sitzen werde;</verse>
+        <verse osisID='Acts.2.31'>Hat er vorhergesehen und geredet von Christus Auferstehung, daß Seine Seele nicht in der Hölle gelassen und Sein Fleisch die Verwesung nicht sehen würde.</verse>
+        <verse osisID='Acts.2.32'>Diesen Jesus hat Gott auferweckt, dessen wir alle Zeugen sind.</verse>
+        <verse osisID='Acts.2.33'>Nun Er zur Rechten Gottes erhöht ist, und die Verheißung des Heiligen Geistes vom Vater empfangen hat, hat Er ausgegossen das, was ihr seht und hört.</verse>
+        <verse osisID='Acts.2.34'>Denn David ist nicht in den Himmel aufgestiegen; er selbst aber spricht: Der Herr sprach zu meinem Herrn: Setze Dich zu Meiner Rechten,</verse>
+        <verse osisID='Acts.2.35'>Bis daß Ich Deine Feinde Dir als Schemel zu Füßen lege.</verse>
+        <verse osisID='Acts.2.36'>So erkenne denn das ganze Haus Israel mit Gewißheit, daß Gott diesen Jesus, Den ihr gekreuzigt, zum Herrn und Christus gemacht hat.</verse>
+        <verse osisID='Acts.2.37'>Da sie das hörten, ging es ihnen durch das Herz, und sie sprachen zu Petrus und den anderen Aposteln: Was sollen wir tun, ihr Männer und Brüder?</verse>
+        <verse osisID='Acts.2.38'>Petrus aber sprach zu ihnen: Tut Buße und lasse sich ein jeder von euch taufen auf den Namen von Jesus Christus zur Vergebung der Sünden, so werdet ihr die Gabe des Heiligen Geistes empfangen.</verse>
+        <verse osisID='Acts.2.39'>Denn für euch und eure Kinder ist diese Verheißung, und für alle, die noch ferne sind, so viel ihrer der Herr, unser Gott, herzurufen wird.</verse>
+        <verse osisID='Acts.2.40'>Und mit vielen anderen Worten bezeugte er und ermahnte sie, indem er sprach: Rettet euch von diesem verkehrten Geschlecht!</verse>
+        <verse osisID='Acts.2.41'>Sie nahmen seine Rede bereitwillig an und ließen sich taufen, und an jenem Tage wurden bei dreitausend Seelen hinzugetan.</verse>
+        <verse osisID='Acts.2.42'>Sie hielten aber an der Lehre der Apostel und an der Gemeinschaft und am Brotbrechen und am Gebet.</verse>
+        <verse osisID='Acts.2.43'>Es kam aber über alle Seelen eine Furcht, und viele Wunder und Zeichen geschahen durch die Apostel.</verse>
+        <verse osisID='Acts.2.44'>Alle aber, die gläubig geworden waren, hielten zusammen und hatten alle Dinge gemein.</verse>
+        <verse osisID='Acts.2.45'>Güter und Habe verkauften sie und verteilten<note>den Erlös</note> an alle, je wie einer dessen bedürftig war.</verse>
+        <verse osisID='Acts.2.46'>Alltäglich beharrten sie einmütig im Tempel, brachen hin und wieder das Brot in den Häusern,</verse>
+        <verse osisID='Acts.2.47'>Hielten ihre Mahle in Fröhlichkeit und Einfalt des Herzens, lobpreisten Gott und hatten Gunst bei dem ganzen Volk. Der Herr aber mehrte täglich die Zahl der Geretteten in der Gemeinde.</verse>
+      </chapter>
+      <chapter osisID='Acts.3'>
+        <title>Des Petrus Wundertat an dem Lahmen. - Predigt von Jesus.</title>
+        <verse osisID='Acts.3.1'>Petrus aber und Johannes gingen zusammen hinauf in den Tempel um die neunte Stunde, da man zu beten pflegte.</verse>
+        <verse osisID='Acts.3.2'>Und es war ein Mann, lahm von Mutterleib, der ließ sich hertragen, und sie setzten ihn täglich vor des Tempels Pforte, die da heißt die schöne, damit er Almosen bettelte von denen, die in den Tempel gingen.</verse>
+        <verse osisID='Acts.3.3'>Da dieser nun Petrus und Johannes sah, wie sie eben in den Tempel treten wollten, bat er um ein Almosen.</verse>
+        <verse osisID='Acts.3.4'>Petrus aber sah ihn fest an mit Johannes und sprach: Sieh uns an!</verse>
+        <verse osisID='Acts.3.5'>Er aber schaute auf sie, indem er erwartete, daß er etwas empfinge.</verse>
+        <verse osisID='Acts.3.6'>Petrus aber sprach: Silber und Gold habe ich nicht; was ich aber habe, das gebe ich dir: Im Namen des Jesus Christus von Nazareth stehe auf und wandle!</verse>
+        <verse osisID='Acts.3.7'>Und er griff ihn bei der rechten Hand und richtete ihn auf. Alsbald wurden seine Füße und Knöchel fest.</verse>
+        <verse osisID='Acts.3.8'>Und er sprang auf, stand und wandelte umher, und trat mit ihnen in den Tempel, wandelte umher und sprang und lobte Gott.</verse>
+        <verse osisID='Acts.3.9'>Und alles Volk sah ihn umherwandeln und Gott lobpreisen.</verse>
+        <verse osisID='Acts.3.10'>Und sie erkannten ihn, daß er der war, der um Almosen an der schönen Pforte des Tempels saß, und wurden voll Staunens und waren vor Verwunderung außer sich über dem, was sich mit ihm hatte zugetragen.</verse>
+        <verse osisID='Acts.3.11'>Da sich der Lahme, der nun gesund geworden, zu Petrus und Johannes hielt, lief alles Volk voll Erstaunens nach der Halle, die da heißt Salomohs.</verse>
+        <verse osisID='Acts.3.12'>Da das Petrus sah, hob er an zum Volke<note>zu reden</note>: Ihr Männer von Israel, was verwundert ihr euch über diesen? Oder warum richtet ihr eure Blicke auf uns, als hätten wir durch eigene Kraft und Frömmigkeit bewirkt, daß dieser gehen kann?</verse>
+        <verse osisID='Acts.3.13'>Der Gott Abrahams und Isaaks und Jakobs, der Gott unserer Väter, hat Seinen Sohn Jesus verherrlicht, Welchen ihr habt überantwortet und verleugnet vor dem Angesichte des Pilatus, obschon dieser beschlossen hatte, Denselben freizulassen.</verse>
+        <verse osisID='Acts.3.14'>Ihr aber verleugnetet den Heiligen und Gerechten, und verlangtet, man solle euch den Mörder freigeben.</verse>
+        <verse osisID='Acts.3.15'>Aber den Fürsten des Lebens habt ihr getötet, Ihn aber hat Gott von den Toten erweckt, dessen wir Zeugen sind.</verse>
+        <verse osisID='Acts.3.16'>Und um des Glaubens willen an Seinen Namen hat diesen, den ihr seht und kennt, Sein Name gestärkt und der durch ihn bewirkte Glaube ihm vor euer aller Augen die Vollkraft seiner Glieder geschenkt.</verse>
+        <verse osisID='Acts.3.17'>Und nun, Brüder, weiß ich, daß ihr es aus Unwissenheit getan habt, sowie auch eure Obern.</verse>
+        <verse osisID='Acts.3.18'>Gott aber ließ so, was Er durch den Mund aller Seiner Propheten voraus verkündigt hatte, daß Christus müßte leiden, in Erfüllung gehen.</verse>
+        <verse osisID='Acts.3.19'>So tut nun Buße und bekehrt euch, auf daß eure Sünden ausgetilgt werden.</verse>
+        <verse osisID='Acts.3.20'>Auf daß da kommen Zeiten der Erquikkung vor dem Angesicht des Herrn, und daß Er euch den vorher verkündigten Jesus Christus senden wird.</verse>
+        <verse osisID='Acts.3.21'>Welchen indessen der Himmel aufnehmen mußte, bis zu den Zeiten der Wiederbringung aller Dinge, wovon Gott durch den Mund Seiner heiligen Propheten von Anbeginn gesprochen hatte.</verse>
+        <verse osisID='Acts.3.22'>Denn Moses hat zu den Vätern gesprochen: Der Herr, euer Gott, wird euch aus euren Brüdern einen Propheten wie mich erwecken. Auf Ihn sollt ihr hören in allem, was Er zu euch reden wird.</verse>
+        <verse osisID='Acts.3.23'>Es wird aber geschehen, daß jegliche Seele, die nicht auf selbigen Propheten hören wird, aus dem Volke ausgerottet wird.</verse>
+        <verse osisID='Acts.3.24'>Und alle Propheten von Samuel an und hernach, soviel deren geredet, haben auch diese Tage voraus verkündigt.</verse>
+        <verse osisID='Acts.3.25'>Ihr seid die Söhne der Propheten und des Bundes, den Gott mit unseren Vätern geschlossen hat, da Er zu Abraham sprach: Durch deinen Samen sollen alle Geschlechter der Erde gesegnet werden.</verse>
+        <verse osisID='Acts.3.26'>Euch zuvörderst hat Gott Seinen Sohn erweckt und gesandt, euch zu segnen, so ein jeglicher umkehrt von seinen Übeltaten.</verse>
+      </chapter>
+      <chapter osisID='Acts.4'>
+        <title>Petrus und Johannes werden verhaftet und wieder freigelassen.</title>
+        <verse osisID='Acts.4.1'>Als sie so zu dem Volke redeten, traten zu ihnen die Priester und der Tempelhauptmann und die Sadduzäer;</verse>
+        <verse osisID='Acts.4.2'>Die es verdroß, daß sie das Volk lehrten und an Jesus die Auferstehung von den Toten verkündigten.</verse>
+        <verse osisID='Acts.4.3'>Und legten die Hände an sie und nahmen sie in Gewahrsam für den morgenden Tag; denn es war schon Abend.</verse>
+        <verse osisID='Acts.4.4'>Aber viele von denen, so die Rede gehört, wurden gläubig, und die Zahl der Männer ward bei fünftausend.</verse>
+        <verse osisID='Acts.4.5'>Am Morgen aber versammelten sich die Obern und Ältesten und die Schriftgelehrten gen Jerusalem,</verse>
+        <verse osisID='Acts.4.6'>Und Hannas, der Hohepriester, und Kaiaphas und Johannes und Alexander; und so viel ihrer vom Geschlechte der Hohenpriester waren;</verse>
+        <verse osisID='Acts.4.7'>Und ließen sie vorführen in ihre Mitte und fragten sie: Aus welcher Macht und in wessen Namen habt ihr das getan?</verse>
+        <verse osisID='Acts.4.8'>Da ward Petrus vom Heiligen Geist erfüllt und sprach zu ihnen: Ihr Obern des Volkes und ihr Ältesten Israels!</verse>
+        <verse osisID='Acts.4.9'>Wenn wir heute verhört werden wegen der Wohltat an einem Kranken und durch wen er ist gesund geworden,</verse>
+        <verse osisID='Acts.4.10'>So sei euch allen und allem Volke Israel kundgetan, daß er durch den Namen des Jesus Christus von Nazareth, Den ihr gekreuzigt habt, Den Gott von den Toten auferweckt hat, durch Diesen der Mann gesund vor euren Augen steht.</verse>
+        <verse osisID='Acts.4.11'>Das ist der Stein, den die Bauleute verworfen haben, der zum Eckstein geworden ist.</verse>
+        <verse osisID='Acts.4.12'>Und ist in keinem anderen das Heil; denn kein anderer Name unter dem Himmel ist den Menschen gegeben, durch den wir könnten selig werden.</verse>
+        <verse osisID='Acts.4.13'>Da sie nun die Freimütigkeit des Petrus und Johannes sahen, und wußten, daß sie ungelehrte Leute und Laien waren, verwunderten sie sich denn sie kannten sie, daß sie mit Jesus gewesen waren;</verse>
+        <verse osisID='Acts.4.14'>Und den Mann, der geheilt worden war, bei ihnen stehen, wußten sie nichts dagegen zu sagen;</verse>
+        <verse osisID='Acts.4.15'>Sondern hießen sie aus der Versammlung abtreten, berieten sich miteinander und sprachen:</verse>
+        <verse osisID='Acts.4.16'>Was fangen wir mit diesen Leuten an? Denn ein kundbares Zeichen ist durch sie geschehen, und offenbar vor den Augen aller, die in Jerusalem wohnen, und wir können es nicht verleugnen.</verse>
+        <verse osisID='Acts.4.17'>Damit es sich aber nicht weiter unter dem Volk verbreite, wollen wir sie ernstlich bedrohen, daß sie hinfort niemanden von diesem Namen sagen.</verse>
+        <verse osisID='Acts.4.18'>Und riefen sie herein und geboten ihnen, durchaus im Namen Jesus nicht zu reden, noch zu lehren.</verse>
+        <verse osisID='Acts.4.19'>Petrus aber und Johannes antworteten ihnen und sprachen: Richtet selbst, ob es recht ist vor Gott, daß wir euch mehr gehorchen als Gott;</verse>
+        <verse osisID='Acts.4.20'>Denn wir können nicht schweigen von dem, was wir gesehen und gehört haben.</verse>
+        <verse osisID='Acts.4.21'>Sie bedrohten sie aber noch weiter, und ließen sie dann gehen, da sie nichts fanden, wie sie sie bestrafen könnten, um des Volkes willen; denn sie priesen alle Gott ob dem, das geschehen war.</verse>
+        <verse osisID='Acts.4.22'>Denn der Mann, an dem dieses Heilwunder geschehen, war über vierzig Jahre alt.</verse>
+        <verse osisID='Acts.4.23'>Als man sie freigelassen, kamen sie zu den Ihrigen und verkündeten, was die Hohenpriester und Ältesten zu ihnen gesagt hatten.</verse>
+        <verse osisID='Acts.4.24'>Da sie das hörten, erhoben sie einmütig ihre Stimme zu Gott und sprachen: Herr, Gott, Der den Himmel und die Erde und das Meer und alles, was darin ist, geschaffen hat;</verse>
+        <verse osisID='Acts.4.25'>Der Du durch den Mund Davids, Deines Knechtes, gesprochen hast: Warum tobten die Völker, und sannen Eitles die Völkerschaften?</verse>
+        <verse osisID='Acts.4.26'>Die Könige der Erde sind aufgetreten und die Fürsten versammelt zu Hauf wider den Herrn und Seinen Christus<note>Gesalbten</note>.</verse>
+        <verse osisID='Acts.4.27'>Es haben sich in Wahrheit versammelt wider Deinen heiligen Sohn Jesus, Den Du gesalbt hast, Herodes und Pontius mit den Heiden und denen vom Volk Israel,</verse>
+        <verse osisID='Acts.4.28'>Zu tun, was Deine Hand und Dein Rat zuvor bestimmt hatte, was geschehen sollte.</verse>
+        <verse osisID='Acts.4.29'>Und nun, Herr, siehe an ihre Drohungen und verleih Deinen Knechten, mit allem Freimut zu reden Dein Wort;</verse>
+        <verse osisID='Acts.4.30'>Und strecke Deine Hand aus zur Heilung, und laß Zeichen und Wunder durch den Namen Deines heiligen Sohnes Jesus geschehen.</verse>
+        <verse osisID='Acts.4.31'>Und als sie so beteten, erbebte die Stätte, da sie versammelt waren, und alle wurden des Heiligen Geistes voll, und verkündeten mit Freimut das Wort Gottes.</verse>
+        <verse osisID='Acts.4.32'>Die Menge aber der Gläubigen war ein Herz und eine Seele, auch sagte keiner von seinen Gütern, daß sie sein wären, vielmehr hatten sie alles miteinander gemein.</verse>
+        <verse osisID='Acts.4.33'>Und mit großer Kraft gaben die Apostel Zeugnis von der Auferstehung des Herrn Jesus, und war große Gnade bei ihnen allen.</verse>
+        <verse osisID='Acts.4.34'>Es war auch keiner unter ihnen, der Mangel litt; denn wie viele derselben Grundstücke oder Häuser besaßen, die verkauften dieselben und brachten den Erlös des Verkauften,</verse>
+        <verse osisID='Acts.4.35'>Und legten es zu den Füßen der Apostel, und wurde davon einem jeden gegeben, so viel er bedurfte.</verse>
+        <verse osisID='Acts.4.36'>So tat Joses, von den Aposteln Barnabas benannt, was verdolmetscht heißt: Sohn des Trostes, ein Levit, aus Zypern gebürtig.</verse>
+        <verse osisID='Acts.4.37'>Er hatte ein Grundstück, verkaufte es, brachte das Geld und legte es zu den Füßen der Apostel nieder.</verse>
+      </chapter>
+      <chapter osisID='Acts.5'>
+        <title>Ananias und Sapphira. - Befreiung der Apostel. Gamaliel.</title>
+        <verse osisID='Acts.5.1'>Ein Mann aber, mit Namen Ananias, verkaufte mit seinem Weibe Sapphira ein Gut,</verse>
+        <verse osisID='Acts.5.2'>Und behielt mit Wissen seines Weibes von dem Erlös zurück, brachte einen Teil und legte ihn zu den Füßen der Apostel.</verse>
+        <verse osisID='Acts.5.3'>Petrus aber sprach: Ananias, warum hat der Satan dein Herz erfüllt, daß du den Heiligen Geist belogest und von dem Erlös des Grundstückes zurückbehieltest?</verse>
+        <verse osisID='Acts.5.4'>Blieb es nicht, unverkauft, dein eigen, und verkauft in deiner Gewalt? Was hast du den solches in deinem Herzen beschlossen? Du hast nicht Menschen, sondern Gott belogen.</verse>
+        <verse osisID='Acts.5.5'>Da Ananias diese Worte hörte, fiel er nieder und gab den Geist auf. Und es kam eine große Furcht über alle, die es hörten.</verse>
+        <verse osisID='Acts.5.6'>Es standen aber die Jüngeren auf, nahmen ihn bei Seite, trugen ihn hinaus und begruben ihn.</verse>
+        <verse osisID='Acts.5.7'>Es begab sich aber nach Verlauf von etwa drei Stunden, daß sein Weib, die nichts von dem Vorgefallenen wußte, eintrat.</verse>
+        <verse osisID='Acts.5.8'>Da hob Petrus an zu ihr: Sage mir, habt ihr das Grundstück so teuer verkauft? Sie sprach: Ja, so teuer.</verse>
+        <verse osisID='Acts.5.9'>Petrus aber sprach zu ihr: Was seid ihr übereingekommen, den Geist des Herrn zu versuchen? Siehe, die Füße derer, die deinen Mann begruben, sind vor der Tür und werden dich hinaustragen.</verse>
+        <verse osisID='Acts.5.10'>Da stürzte sie alsbald zu seinen Füßen nieder und gab den Geist auf. Da traten die Jünglinge ein, fanden sie tot, trugen sie fort und begruben sie bei ihrem Manne.</verse>
+        <verse osisID='Acts.5.11'>Und es kam eine große Furcht über die ganze Gemeinde und über alle, die solches hörten.</verse>
+        <verse osisID='Acts.5.12'>Es geschahen aber durch die Hände der Apostel viele Zeichen und Wunder unter dem Volke, und sie waren alle einmütig beisammen in Salomohs Halle.</verse>
+        <verse osisID='Acts.5.13'>Von den übrigen aber wagte keiner sich ihnen zuzugesellen, aber das Volk hielt große Dinge auf sie.</verse>
+        <verse osisID='Acts.5.14'>Es wurden aber eine Menge Männer und Weiber, die an den Herrn glaubten, hinzugetan;</verse>
+        <verse osisID='Acts.5.15'>So daß man die Kranken auf die Gassen herausbrachte und auf Tragstellen und Betten niederließ, auf daß, wenn Petrus käme, auch nur sein Schatten ihrer einen überschattete.</verse>
+        <verse osisID='Acts.5.16'>Es kamen auch viele aus den Städten umher nach Jerusalem, und brachten Kranke und die von unsauberen Geistern geplagt wurden, und alle wurden geheilt.</verse>
+        <verse osisID='Acts.5.17'>Da erhob sich aber der Hohepriester und alle, die mit ihm waren, und die Sekte der Sadduzäer, und wurden voll Eifers,</verse>
+        <verse osisID='Acts.5.18'>Und legten ihre Hände an die Apostel und brachten sie in öffentlichen Gewahrsam.</verse>
+        <verse osisID='Acts.5.19'>Der Engel des Herrn aber tat während der Nacht die Türen des Gefängnisses auf, führte sie heraus und sprach:</verse>
+        <verse osisID='Acts.5.20'>Gehet hin, stehet in dem Tempel und redet zum Volke alle die Worte dieses Lebens.</verse>
+        <verse osisID='Acts.5.21'>Da sie das gehört hatten, gingen sie in aller Frühe in den Tempel und lehrten. Der Hohepriester aber kam herbei und die mit ihm waren, und beriefen den Hohen Rat und alle Ältesten der Söhne Israels und schickten nach dem Gefängnis, um sie vorführen zu lassen.</verse>
+        <verse osisID='Acts.5.22'>Als aber die Diener kamen, fanden sie dieselben nicht im Gefängnis, kehrten wieder und verkündigten es,</verse>
+        <verse osisID='Acts.5.23'>Und sprachen: Das Gefängnis haben wir mit allem Fleiß verschlossen gefunden und die Hüter standen vor den Türen; da wir aber auftaten, fanden wir niemand darin.</verse>
+        <verse osisID='Acts.5.24'>Wie sie diese Reden hörten, wurden der Oberpriester, der Tempelhauptmann und die Hohenpriester betreten und wußten nicht, was doch das werden sollte.</verse>
+        <verse osisID='Acts.5.25'>Da kam jemand und sagte ihnen an: Siehe, die Männer, die ihr ins Gefängnis geworfen, sind im Tempel, stehen und lehren das Volk.</verse>
+        <verse osisID='Acts.5.26'>Da ging der Tempelhauptmann mit den Gerichtsdienern ab, und führte sie herbei, nicht mit Gewalt; denn sie fürchteten sich vor dem Volke, sie möchten gesteinigt werden.</verse>
+        <verse osisID='Acts.5.27'>Und da sie selbige brachten, stellten sie sie vor den Hohen Rat, und der Hohepriester befragte sie,</verse>
+        <verse osisID='Acts.5.28'>Und sprach: Haben wir euch nicht ernstlich untersagt, in diesem Namen zu lehren? Und siehe, ihr habt ganz Jerusalem mit eurer Lehre erfüllt, und wollt das Blut dieses Menschen auf uns bringen.</verse>
+        <verse osisID='Acts.5.29'>Da antworteten Petrus und die Apostel und sprachen: Man muß Gott mehr gehorchen als den Menschen.</verse>
+        <verse osisID='Acts.5.30'>Der Gott unserer Väter hat Jesus auferweckt, Den ihr zum Tode gebracht und ans Kreuz geschlagen habt.</verse>
+        <verse osisID='Acts.5.31'>Diesen hat Gott mit Seiner Rechten zu einem Fürsten und Heiland erhöht, zu geben Israel Buße und Vergebung der Sünden.</verse>
+        <verse osisID='Acts.5.32'>Und wir sind über diese Dinge Seine Zeugen, und der Heilige Geist, den Gott gegeben hat denen, die Ihm gehorchen.</verse>
+        <verse osisID='Acts.5.33'>Da sie dies hörten, schnitt es ihnen durchs Herz, und sie gedachten, sie umzubringen.</verse>
+        <verse osisID='Acts.5.34'>Da stand aber in dem Hohen Rat ein Pharisäer auf, mit Namen Gamaliel, ein Schriftgelehrter, der bei allem Volk in Achtung stand, und hieß die Apostel für eine Weile abführen;</verse>
+        <verse osisID='Acts.5.35'>Und sprach zu ihnen: Männer von Israel, nehmet euch wohl in Acht, was ihr mit diesen Männern tun wollet,</verse>
+        <verse osisID='Acts.5.36'>Vor diesen Tagen stand Theudas auf und gab vor, er sei etwas, und es hingen ihm eine Anzahl Männer an, bei vierhundert; der ward erschlagen, und alle, die sich zu ihm hielten, sind zerstreut und zunichte geworden.</verse>
+        <verse osisID='Acts.5.37'>Nach ihm stand der Galiläer Judas auf, in den Tagen der Schatzung, und brachte viel Volks zum Abfall. Auch er kam um, und alle, die zu ihm hielten, wurden zerstreut.</verse>
+        <verse osisID='Acts.5.38'>Und nun sage ich euch, befasset euch nicht mit diesen Leuten, und lasset sie gehen! Ist dieses Vorgehen, oder dies Werk von Menschen, so wird es untergehen;</verse>
+        <verse osisID='Acts.5.39'>Ist es aber von Gott, so könnt ihr sie nicht unterdrücken, auf daß ihr nicht als solche erfunden werdet, die wider Gott streiten wollen.</verse>
+        <verse osisID='Acts.5.40'>Da fielen sie ihm zu und riefen den Aposteln, stäupten sie und verboten ihnen, sie sollten nicht reden im Namen Jesus, und gaben sie frei.</verse>
+        <verse osisID='Acts.5.41'>Sie aber verließen den Hohen Rat hocherfreut, daß sie gewürdigt wurden, um dieses Namens willen Schmach zu erleiden,</verse>
+        <verse osisID='Acts.5.42'>und hörten nicht auf, alle Tage im Tempel und in den Häusern zu lehren und das Evangelium von Jesus Christus zu predigen.</verse>
+      </chapter>
+      <chapter osisID='Acts.6'>
+        <title>Almosenpflege.</title>
+        <verse osisID='Acts.6.1'>Als in diesen Tagen die Zahl der Jünger sich mehrte, entstand ein Murren unter den griechischen Juden gegen die Hebräer, daß bei der täglichen Handreichung ihre Witwen hintangesetzt würden.</verse>
+        <verse osisID='Acts.6.2'>Da riefen die Zwölf die Menge der Jünger zusammen und sprachen: Es will sich nicht geziemen, daß wir das Wort Gottes hintansetzen und Tische besorgen.</verse>
+        <verse osisID='Acts.6.3'>Darum, ihr Brüder, sehet euch nach sieben Männern um, die ein gutes Gerücht unter euch haben und voll Heiligen Geistes und Weisheit sind, die wir zu diesem Behufe bestellen mögen.</verse>
+        <verse osisID='Acts.6.4'>Wir aber wollen anhalten am Gebet und am Dienste des Wortes.</verse>
+        <verse osisID='Acts.6.5'>Und die Rede gefiel der ganzen Gemeinde wohl, und sie wählten Stephanus, einen Mann voll Glaubens und Heiligen Geistes, und Philippus und Prochorus, Nikanor und Timon und Parmenas und Nikolaus, einen Proselyten aus Antiochia.</verse>
+        <verse osisID='Acts.6.6'>Diese stellten sie vor die Apostel, und nachdem sie gebetet hatten, legten sie ihnen die Hände auf.</verse>
+        <verse osisID='Acts.6.7'>Und das Wort Gottes nahm zu und die Zahl der Jünger mehrte sich sehr in Jerusalem, auch eine große Menge Priester nahm den Glauben an.</verse>
+        <verse osisID='Acts.6.8'>Stephanus aber, voll Gnade und Kraft, tat große Wunder und Zeichen unter dem Volk.</verse>
+        <verse osisID='Acts.6.9'>Da standen etliche auf aus der Schule der sogenannten Libertiner, Cyrenäer und Alexandriner und derer aus Cilicien und Asien, und stritten mit Stephanus.</verse>
+        <verse osisID='Acts.6.10'>Und vermochten nicht der Weisheit und dem Geist, womit er redete, zu widerstehen.</verse>
+        <verse osisID='Acts.6.11'>Sie stifteten dann aber Männer auf, die vorgaben: Wir haben ihn wider Moses und Gott Lästerworte reden hören;</verse>
+        <verse osisID='Acts.6.12'>Und hetzten das Volk und die Ältesten und die Schriftgelehrten auf, traten hinzu, schleppten ihn fort, und brachten ihn vor den Hohen Rat und stellten falsche Zeugen auf, die aussagten:</verse>
+        <verse osisID='Acts.6.13'>Dieser Mensch hört nicht auf, wider die heilige Stätte und das Gesetz Lästerworte zu reden.</verse>
+        <verse osisID='Acts.6.14'>Denn wir hörten ihn sagen: Jesus, der Nazarener da, wird diese Stätte zerstören und die Satzungen ändern, die uns Moses übergeben hat.</verse>
+        <verse osisID='Acts.6.15'>Und alle, die im Rate saßen, richteten ihre Blicke auf ihn und sahen sein Angesicht, wie eines Engels Angesicht.</verse>
+      </chapter>
+      <chapter osisID='Acts.7'>
+        <title>Rede des Stephanus, seine Entzückung und sein Tod.</title>
+        <verse osisID='Acts.7.1'>Da sprach der Hohepriester: Ist dem also?</verse>
+        <verse osisID='Acts.7.2'>Da sprach er: Männer, Brüder und Väter, höret: Der Gott der Herrlichkeit erschien unserem Vater Abraham, da er in Mesopotamien war, eher er sich in Charan niederließ;</verse>
+        <verse osisID='Acts.7.3'>Und sprach zu ihm: Gehe aus deinem Lande und aus deiner Verwandtschaft hin in ein Land, das Ich dir zeigen werde.</verse>
+        <verse osisID='Acts.7.4'>Da zog er aus von der Chaldäer Land und ließ sich in Charan nieder; und von dannen nach dem Tode seines Vaters führte Er ihn über in dieses Land, darin ihr nun wohnet.</verse>
+        <verse osisID='Acts.7.5'>Und gab ihm kein Besitztum darin, auch nicht eines Fußes breit; verhieß aber, es ihm und seinen Samen nach ihm zum Besitze zu geben, als er noch kein Kind hatte.</verse>
+        <verse osisID='Acts.7.6'>Es redete aber Gott also: Dein Same wird ein Fremdling sein in einem fremden Lande, und sie werden ihn dienstbar machen und mißhandeln vierhundert Jahre lang.</verse>
+        <verse osisID='Acts.7.7'>Aber Ich werde das Volk, dem sie dienen, richten, sprach Gott: Und danach werden sie ausziehen und Mir an dieser Stätte dienen.</verse>
+        <verse osisID='Acts.7.8'>Und gab ihm den Bund der Beschneidung; und so zeugte er Isaak und beschnitt ihn am achten Tage, und Isaak den Jakob, und Jakob die zwölf Erzväter,</verse>
+        <verse osisID='Acts.7.9'>Und die Erzväter neideten Joseph und verkauften ihn nach Ägypten.</verse>
+        <verse osisID='Acts.7.10'>Aber Gott war mit ihm, und errettete ihn aus all seinen Trübsalen und schenkte ihm Gnade und Weisheit vor Pharao, dem König Ägyptens, daß er ihn setzte zum Fürsten über Ägypten und über sein ganzes Haus.</verse>
+        <verse osisID='Acts.7.11'>Da kam eine Teuerung über ganz Ägyptenland und Kanaan und eine große Trübsal, und unsere Väter fanden nicht Nahrung genug.</verse>
+        <verse osisID='Acts.7.12'>Jakob aber hörte, daß Korn in Ägypten wäre und sandte unsere Väter aus aufs erste Mal.</verse>
+        <verse osisID='Acts.7.13'>Und beim anderen Mal ward Joseph von seinen Brüdern erkannt und ward dem Pharao Josephs Geschlecht offenbar.</verse>
+        <verse osisID='Acts.7.14'>Joseph sandte aus und ließ seinen Vater Jakob und sein ganzes Geschlecht, fünfundsiebzig Seelen, zu sich rufen.</verse>
+        <verse osisID='Acts.7.15'>Und Jakob zog hinab nach Ägypten und starb allda, er und unsere Väter.</verse>
+        <verse osisID='Acts.7.16'>Und sie wurden herübergebracht nach Sichem und in der Grabstätte beigesetzt, die Abraham um Geld von den Kindern Hemors zu Sichem erkauft hatte.</verse>
+        <verse osisID='Acts.7.17'>Wie nun die Zeit der Verheißung nahte, die Gott dem Abraham geschworen hatte, wuchs das Volk und mehrte sich in Ägypten.</verse>
+        <verse osisID='Acts.7.18'>Bis daß ein anderer König aufkam, der nichts von Joseph wußte.</verse>
+        <verse osisID='Acts.7.19'>Dieser handelte arglistig gegen unser Geschlecht und tat übel an unseren Vätern, so daß man die Kindlein aussetzen mußte, und nicht am Leben lassen durfte.</verse>
+        <verse osisID='Acts.7.20'>Zu der Zeit ward Moses geboren und war schön vor Gott, und ward drei Monate in seines Vaters Haus ernährt.</verse>
+        <verse osisID='Acts.7.21'>Als er aber ausgesetzt ward, hob ihn die Tochter Pharaos auf und ließ ihn für sich zum Sohne auferziehen.</verse>
+        <verse osisID='Acts.7.22'>Und Moses ward unterrichtet in aller Weisheit der Ägypter und war kräftig in Worten und Werken.</verse>
+        <verse osisID='Acts.7.23'>Da er aber volle vierzig Jahre alt war, kam ihm in den Sinn, nach seinen Brüdern, den Söhnen Israels, zu sehen.</verse>
+        <verse osisID='Acts.7.24'>Und er sah, wie einer mißhandelt wurde und verteidigte ihn, und nahm Rache für den, dem Leid geschah, indem er den Ägypter erschlug.</verse>
+        <verse osisID='Acts.7.25'>Er meinte aber, seine Brüder verstünden, daß Gott durch seine Hand ihnen Heil gäbe; aber sie verstunden es nicht.</verse>
+        <verse osisID='Acts.7.26'>Am anderen Tag traf er sie, wie sie sich stritten und trieb sie zum Frieden an und sagte: Ihr Männer seid Brüder, warum tut ihr einander Unrecht?</verse>
+        <verse osisID='Acts.7.27'>Der aber dem anderen Unrecht tat, stieß ihn von sich und sagte: Wer hat dich zum Herrn und Richter über uns bestellt?</verse>
+        <verse osisID='Acts.7.28'>Willst du mich umbringen, wie du gestern den Ägypter hast umgebracht?</verse>
+        <verse osisID='Acts.7.29'>Da floh Moses über dieser Rede und hielt sich in Midjan auf und zeugte daselbst zwei Söhne.</verse>
+        <verse osisID='Acts.7.30'>Und als die vierzig Jahre um waren, erschien ihm in der Wüste am Berge Sinai der Engel des Herrn in einer Feuerflamme in dem Busch.</verse>
+        <verse osisID='Acts.7.31'>Da es Moses sah, wunderte er sich über das Gesicht, und da er hinzutreten wollte, um es sich anzusehen, geschah die Stimme des Herrn zu ihm:</verse>
+        <verse osisID='Acts.7.32'>Ich bin der Gott deiner Väter, der Gott Abrahams, und der Gott Isaaks, und der Gott Jakobs. Moses aber erzitterte und wagte nicht mehr hinzuschauen.</verse>
+        <verse osisID='Acts.7.33'>Der Herr aber sprach zu ihm: Ziehe deine Schuhe von den Füßen; denn die Stätte, da du stehst, ist heiliges Land.</verse>
+        <verse osisID='Acts.7.34'>Ich habe wohl gesehen die Mißhandlung Meines Volks in Ägypten und ihr Seufzen gehört, und bin herabgekommen, sie zu befreien, und nun komm her, Ich will dich hin nach Ägypten senden.</verse>
+        <verse osisID='Acts.7.35'>Diesen Moses, den sie verleugnet und gesagt hatten: Wer hat dich zum Herrn und Richter gesetzt, diesen sandte Gott als Herrn und Erlöser durch die Hand des Engels, Der ihm erschien in dem Busche.</verse>
+        <verse osisID='Acts.7.36'>Dieser führte sie aus und tat Wunder und Zeichen in Ägyptenland, im Roten Meer und in der Wüste vierzig Jahre lang.</verse>
+        <verse osisID='Acts.7.37'>Dies ist der Moses, der zu den Söhnen Israels gesprochen hat: Gott, der Herr, wird euch aus euren Brüdern einen Propheten erwecken, gleich wie mich; Ihn sollt ihr hören.</verse>
+        <verse osisID='Acts.7.38'>Dieser ist es, Der in der Gemeinde in der Wüste war mit dem Engel, Der zu ihm redete auf dem Berg Sinai, und mit unseren Vätern, Welcher empfing das lebendige Wort, um es uns mitzuteilen.</verse>
+        <verse osisID='Acts.7.39'>Dem unsere Väter nicht untertan sein wollten, sondern sich abkehrten von Ihm und mit ihren Herzen sich Ägypten zuwendeten und zu Aharon sagten:</verse>
+        <verse osisID='Acts.7.40'>Mache uns Götter, die vor uns herziehen; denn was aus diesem Moses, der uns aus Ägyptenland führte, geworden ist, wissen wir nicht.</verse>
+        <verse osisID='Acts.7.41'>Und sie machten sich in selbigen Tagen ein Kalb und brachten dem Götzenbild Opfer, und freuten sich der Werke ihrer Hände.</verse>
+        <verse osisID='Acts.7.42'>Gott aber wandte Sich ab und gab sie hin, daß sie dem Himmelsheere dienten, wie im Buche der Propheten geschrieben steht: Brachtet ihr Mir, ihr vom Hause Israel, in der Wüste je Schlacht- und Brandopfer die vierzig Jahre lang?</verse>
+        <verse osisID='Acts.7.43'>Und ihr truget daher das Zelt Molochs und das Sternbild eures Gottes Remphan, die Gußbilder, die ihr gemacht, um sie anzubeten; Ich aber werde euch über Babylon hinaus in Gefangenschaft führen.</verse>
+        <verse osisID='Acts.7.44'>Das Zelt des Zeugnisses war inmitten unserer Väter in der Wüste, so wie es zu machen verordnet hatte, Der mit Moses redete, nach dem Vorbilde, das er gesehen hatte.</verse>
+        <verse osisID='Acts.7.45'>Welches auch unsere Väter überkamen und hineinbrachten mit Joschua in das Besitztum der Heiden, die Gott vor dem Angesicht unserer Väter ausstieß, bis auf die Tage Davids.</verse>
+        <verse osisID='Acts.7.46'>Dieser fand Gnade vor Gott und erbat sich eine Zeltwohnung zu finden für den Gott Jakobs.</verse>
+        <verse osisID='Acts.7.47'>Salomoh aber erbaute Ihm ein Haus.</verse>
+        <verse osisID='Acts.7.48'>Aber der Höchste wohnt nicht in Tempeln, von Menschenhänden gemacht, wie der Prophet spricht:</verse>
+        <verse osisID='Acts.7.49'>Der Himmel ist Mein Thron und die Erde Meiner Füße Schemel, was wollt ihr Mir für ein Haus bauen, spricht der Herr, oder welches ist die Stätte, da Ich ruhen möchte?</verse>
+        <verse osisID='Acts.7.50'>Hat nicht Meine Hand alles dies gemacht?</verse>
+        <verse osisID='Acts.7.51'>Ihr Halsstarrigen und Unbeschnittenen an Herz und Ohren, immer widerstrebt ihr dem Heiligen Geist, wie eure Väter, also auch ihr.</verse>
+        <verse osisID='Acts.7.52'>Welchen Propheten haben eure Väter nicht verfolgt, und getötet die, so die Zukunft des Gerechten verkündeten, dessen Verräter und Mörder ihr nunmehr geworden seid.</verse>
+        <verse osisID='Acts.7.53'>Ihr, die ihr das Gesetz durch die Dienstleistungen von Engeln empfangen und nicht bewahrt habt!</verse>
+        <verse osisID='Acts.7.54'>Da sie solches hörten, ergrimmten sie in ihren Herzen und knirschten mit den Zähnen wider ihn.</verse>
+        <verse osisID='Acts.7.55'>Er aber voll Heiligen Geistes schaute an den Himmel auf und sah die Herrlichkeit Gottes, und Jesus zur Rechten Gottes stehen:</verse>
+        <verse osisID='Acts.7.56'>Siehe, ich sehe die Himmel aufgetan und des Menschen Sohn zur Rechten Gottes stehen.</verse>
+        <verse osisID='Acts.7.57'>Sie aber schrien mit lauter Stimme, hielten sich die Ohren zu und stürmten einmütig auf ihn ein, stießen ihn zur Stadt hinaus und steinigten ihn.</verse>
+        <verse osisID='Acts.7.58'>Und die Zeugen legten ihre Kleider zu den Füßen eines Jünglings nieder, der Saulus hieß.</verse>
+        <verse osisID='Acts.7.59'>Und so steinigten sie den Stephanus, indem er betete und sprach: Herr Jesus, nimm meinen Geist auf!</verse>
+        <verse osisID='Acts.7.60'>Er aber beugte seine Knie und rief mit lauter Stimme: Herr, rechne ihnen diese Sünde nicht auf. Und da er so gesprochen, entschlief er.</verse>
+      </chapter>
+      <chapter osisID='Acts.8'>
+        <title>Sauls Verfolgung. Bekehrung der Samariter. Der Zauberer Simon. - Der äthiopische Kämmerer.</title>
+        <verse osisID='Acts.8.1'>Saulus hatte Wohlgefallen an seiner Hinrichtung; es erhob sich am selben Tag eine große Verfolgung über die Gemeinde in Jerusalem. Alle zerstreuten sich in die Lande Judäas und Samariens, die Apostel ausgenommen.</verse>
+        <verse osisID='Acts.8.2'>Den Stephanus aber bestatteten gottesfürchtige Männer und hielten eine große Klage über ihn.</verse>
+        <verse osisID='Acts.8.3'>Saulus aber wütete gegen die Gemeinde, trat in ihre Häuser ein, schleppte Männer und Weiber hervor und überantwortete sie ins Gefängnis.</verse>
+        <verse osisID='Acts.8.4'>Die Zerstreuten gingen indessen nach allen Richtungen hin und verkündeten das Wort.</verse>
+        <verse osisID='Acts.8.5'>Philippus aber kam hinab in eine Stadt in Samarien und predigte dort Christus.</verse>
+        <verse osisID='Acts.8.6'>Und das Volk schenkte den Worten, die von Philippus gesprochen wurden, einmütig Gehör, da sie auch die Zeichen, die er tat, sahen und hörten.</verse>
+        <verse osisID='Acts.8.7'>Denn die unsauberen Geister, von denen viele besessen waren, schrien mit lauter Stimme und fuhren aus, auch viele Gichtbrüchige und Lahme wurden geheilt.</verse>
+        <verse osisID='Acts.8.8'>Und war eine große Freude in selbiger Stadt.</verse>
+        <verse osisID='Acts.8.9'>Es war aber ein Mann mit Namen Simon in der Stadt, der zuvor Zauberei trieb und das Volk Samarias in Erstaunen setzte, indem er vorgab, er wäre etwas Großes.</verse>
+        <verse osisID='Acts.8.10'>Und alle, groß und klein, hielten sich an ihn und sagten: Der ist die große Kraft Gottes, wie sie es nannten.</verse>
+        <verse osisID='Acts.8.11'>Sie hielten sich aber zu ihm, weil er sie lange Zeit durch seine Zauberei in Erstaunen gesetzt hatte.</verse>
+        <verse osisID='Acts.8.12'>Als sie aber dem Philippus, der die Heilsbotschaft über das Reich Gottes und den Namen von Jesus Christus verkündigte, Glauben schenkten, ließen sie sich, Männer und Weiber, taufen.</verse>
+        <verse osisID='Acts.8.13'>Simon selbst ward gläubig, ließ sich taufen und hielt sich zu Philippus, und da er die Wundertaten und großen Zeichen sah, die da geschahen, geriet er in Erstaunen.</verse>
+        <verse osisID='Acts.8.14'>Als die Apostel in Jerusalem hörten, daß Samarien das Wort Gottes angenommen habe, sandten sie Petrus und Johannes zu ihnen.</verse>
+        <verse osisID='Acts.8.15'>Als sie hinabkamen, beteten sie über sie, daß sie den Heiligen Geist empfingen,</verse>
+        <verse osisID='Acts.8.16'>Denn er war noch über keinen von ihnen gekommen, sie waren bloß auf den Namen des Herrn Jesus getauft.</verse>
+        <verse osisID='Acts.8.17'>Dann legten sie die Hände auf sie und sie empfingen den Heiligen Geist.</verse>
+        <verse osisID='Acts.8.18'>Als Simon sah, daß durch Auflegung der Hände der Apostel der Heilige Geist verliehen werde, brachte er ihnen Geld und sagte:</verse>
+        <verse osisID='Acts.8.19'>Gebt auch mir diese Macht, daß, so ich einem die Hände auflege, derselbe den Heiligen Geist empfange.</verse>
+        <verse osisID='Acts.8.20'>Petrus aber sprach zu ihm: Daß du verdammt seiest mit deinem Gelde, weil du die Gabe Gottes wähntest mit Geld erlangen zu können.</verse>
+        <verse osisID='Acts.8.21'>Du hast weder Teil noch Erbe an diesem Worte; denn dein Herz ist nicht gerade vor Gott.</verse>
+        <verse osisID='Acts.8.22'>So kehre denn um und bitte Gott, ob Er dir vergeben möchte die Tücke deines Herzens.</verse>
+        <verse osisID='Acts.8.23'>Denn ich sehe, du bist voll bitterer Galle und in die Bande des Frevels geraten.</verse>
+        <verse osisID='Acts.8.24'>Da hob Simon an und sprach: Betet ihr für mich zum Herrn, daß nichts von dem, wovon ihr gesprochen, über mich komme!</verse>
+        <verse osisID='Acts.8.25'>Sie aber, da sie das Wort des Herrn bezeugt und verkündet hatten, kehrten nach Jerusalem zurück und predigten die Heilsbotschaft in vielen Flecken der Samariter.</verse>
+        <verse osisID='Acts.8.26'>Ein Engel des Herrn aber redete zu Philippus und sagte: Mache dich auf und ziehe gen Mittag, auf den Weg, der von Jerusalem hinab nach Gaza führt, der ist öde.</verse>
+        <verse osisID='Acts.8.27'>Und er machte sich auf und ging dahin; und siehe, ein äthiopischer Mann, ein Eunuche, ein Gewaltiger Kandaces, der Königin der Äthiopier, der über ihren ganzen Schatz gesetzt,</verse>
+        <verse osisID='Acts.8.28'>Und nach Jerusalem gekommen war, um anzubeten, war auf dem Heimweg, und las auf seinem Wagen sitzend den Propheten Jesajah.</verse>
+        <verse osisID='Acts.8.29'>Da sprach der Geist zu Philippus: Tritt hinzu und halte dich zu diesem Wagen!</verse>
+        <verse osisID='Acts.8.30'>Philippus lief hinzu und hörte ihn lesen im Propheten Jesajah und sprach: Verstehst du auch, was du liest?</verse>
+        <verse osisID='Acts.8.31'>Er aber sprach: Wie könnte ich, so mich nicht jemand zurecht weiset? und lud den Philippus ein, aufzusteigen und sich zu ihm zu setzen.</verse>
+        <verse osisID='Acts.8.32'>Die Stelle der Schrift, die er eben las, lautete: Wie ein Schaf ward Er zur Schlachtbank geführt, und wie ein Lamm vor dem Scherer verstummt, also tut Er Seinen Mund nicht auf,</verse>
+        <verse osisID='Acts.8.33'>Durch Seine Erniedrigung ist das Gericht aufgehoben. Wer wird Sein Geschlecht kundbar machen, weil von der Erde Sein Leben weggenommen wird?</verse>
+        <verse osisID='Acts.8.34'>Da hob der Eunuche an und sprach zu Philippus: Bitte, sage mir an, von wem spricht der Prophet? - Von ihm selber, oder von einem anderen?</verse>
+        <verse osisID='Acts.8.35'>Philippus aber tat seinen Mund auf, fing mit der Schriftstelle an und verkündete ihm die Heilsbotschaft von Jesus.</verse>
+        <verse osisID='Acts.8.36'>Wie sie so ihres Weges dahinzogen, kamen sie an ein Wasser. Und der Kämmerer spricht: Siehe, da ist Wasser, was hindert es, daß ich mich taufen lasse?</verse>
+        <verse osisID='Acts.8.37'>Philippus aber sprach: Wenn du von ganzem Herzen glaubst, so ist es erlaubt. Er aber antwortete und sprach: Ich glaube, daß Jesus Christus der Sohn Gottes ist.</verse>
+        <verse osisID='Acts.8.38'>Und er ließ den Wagen halten; und beide stiegen hinab in das Wasser, Philippus und der Kämmerer, und er taufte ihn.</verse>
+        <verse osisID='Acts.8.39'>Da sie aber aus dem Wasser heraufstiegen, entrückte der Geist des Herrn den Philippus und der Kämmerer sah ihn nicht mehr; er zog aber seines Weges mit Freuden.</verse>
+        <verse osisID='Acts.8.40'>Philippus aber ward gefunden in Asdod und wandelte umher und verkündete das Evangelium in allen Städten, bis er kam gen Cäsarea.</verse>
+      </chapter>
+      <chapter osisID='Acts.9'>
+        <title>Sauls Bekehrung.</title>
+        <verse osisID='Acts.9.1'>Saulus aber schnaubte noch Drohung und Mord wider die Jünger des Herrn und trat zu dem Hohenpriester,</verse>
+        <verse osisID='Acts.9.2'>Und erbat sich von ihm Briefe nach Damaskus an die Synagogen, auf daß, so er etwelche fände auf dem Wege, er sie, Männer und Weiber, gebunden gen Jerusalem führete.</verse>
+        <verse osisID='Acts.9.3'>Und da er auf dem Wege war und nahe zu Damaskus kam, umblitzte ihn plötzlich ein Licht vom Himmel.</verse>
+        <verse osisID='Acts.9.4'>Er stürzte zu Boden und hörte eine Stimme, die ihm zurief: Saul, Saul, was verfolgst du Mich!</verse>
+        <verse osisID='Acts.9.5'>Er aber sprach: Wer bist Du, Herr? Der Herr sprach: Ich bin Jesus, Den du verfolgst; es wird dir schwer werden, wider den Stachel zu löcken.</verse>
+        <verse osisID='Acts.9.6'>Und er sprach mit Zittern und Zagen: Herr, was willst Du, daß ich tue? Der Herr sprach zu ihm: Mache dich auf und gehe hin in die Stadt, da wird man dir sagen, was du tun sollst.</verse>
+        <verse osisID='Acts.9.7'>Die Männer aber, die mit ihm zogen, standen sprachlos da; denn sie hörten zwar die Stimme, sahen aber niemand.</verse>
+        <verse osisID='Acts.9.8'>Saulus aber richtete sich auf von der Erde, und da seine Augen sich auftaten, sah er niemand. Da nahmen sie ihn bei der Hand und führten ihn nach Damaskus.</verse>
+        <verse osisID='Acts.9.9'>Drei Tage lang sah er nicht, aß und trank nicht.</verse>
+        <verse osisID='Acts.9.10'>Es war aber ein Jünger in Damaskus, mit Namen Ananias, und der Herr sprach zu ihm in einem Gesichte: Ananias! Er sprach: Siehe, hier bin ich, Herr!</verse>
+        <verse osisID='Acts.9.11'>Der Herr sprach zu ihm: Mache dich auf und gehe hin in die Straße, die man die gerade nennt, und frage in dem Hause des Judas nach einem, mit Namen Saul aus Tarsus; denn siehe, er betet,</verse>
+        <verse osisID='Acts.9.12'>Und hat gesehen im Gesicht einen Mann mit Namen Ananias eintreten, und ihm die Hand auflegen, auf daß er wieder sehend werde.</verse>
+        <verse osisID='Acts.9.13'>Da antwortete Ananias: Herr, ich habe von vielen gehört, wieviel Übles dieser Mann deinen Heiligen in Jerusalem getan hat;</verse>
+        <verse osisID='Acts.9.14'>Und allhier hat er Vollmacht von den Hohenpriestern, alle zu binden, die deinen Namen anrufen.</verse>
+        <verse osisID='Acts.9.15'>Der Herr aber sprach zu ihm: Gehe hin, denn er ist Mir ein auserwähltes Werkzeug, Meinen Namen vor Völker und Könige und die Kinder Israels zu tragen;</verse>
+        <verse osisID='Acts.9.16'>Denn Ich werde ihm zeigen, wieviel er für Meinen Namen leiden muß.</verse>
+        <verse osisID='Acts.9.17'>Da ging Ananias hin und kam in das Haus und legte ihm die Hände auf und sprach: Bruder Saul, der Herr hat mich gesandt,</verse>
+        <verse osisID='Acts.9.18'>Und alsbald fiel es wie Schuppen von seinen Augen, und er ward wieder sehend, und stand auf und ließ sich taufen.</verse>
+        <verse osisID='Acts.9.19'>Und er nahm Speise zu sich und stärkte sich; und war etliche Tage bei den Jüngern in Damaskus.</verse>
+        <verse osisID='Acts.9.20'>Und alsbald predigte er in den Synagogen von Jesus, daß dieser ist der Sohn Gottes.</verse>
+        <verse osisID='Acts.9.21'>Und alle, die ihn hörten, erstaunten und sagten: Ist das nicht der, so in Jerusalem wütete gegen alle, die diesen Namen anriefen, und hierher zu dem Ende gekommen war, sie gebunden an die Hohenpriester zu überantworten?</verse>
+        <verse osisID='Acts.9.22'>Saul aber ward mehr und mehr gekräftigt, so daß er die Juden, die in Damaskus wohnten, überführte, und erwies, daß dieser ist der Christ.</verse>
+        <verse osisID='Acts.9.23'>Wie aber viele Tage um waren, hielten die Juden einen Rat, wie sie ihn umbrächten.</verse>
+        <verse osisID='Acts.9.24'>Ihr Anschlag aber ward dem Saul kundgetan. sie hielten jedoch Tag und Nacht die Tore bewacht, um ihn umzubringen.</verse>
+        <verse osisID='Acts.9.25'>Da nahmen ihn die Jünger und ließen ihn in einem Korb von der Mauer hinab.</verse>
+        <verse osisID='Acts.9.26'>Als Saulus in Jerusalem ankam, versuchte er, sich an die Jünger zu halten; alle aber fürchteten ihn, indem sie nicht glaubten, daß er ein Jünger wäre.</verse>
+        <verse osisID='Acts.9.27'>Barnabas aber nahm ihn zu sich, und führte ihn zu den Aposteln und erzählte ihnen, wie er auf dem Wege den Herrn gesehen, und Dieser zu ihm gesprochen habe, und wie er in Damaskus frei Jesus Namen verkündete.</verse>
+        <verse osisID='Acts.9.28'>Und er ging aus und ein mit ihnen und verkündigte frei den Namen des Herrn Jesus.</verse>
+        <verse osisID='Acts.9.29'>Auch redete und stritt er mit den griechischen Juden; diese aber trachteten danach, wie sie ihn umbrächten.</verse>
+        <verse osisID='Acts.9.30'>Als die Brüder davon hörten, geleiteten sie ihn hinab nach Cäsarea und entsandten ihn nach Tarsus.</verse>
+        <verse osisID='Acts.9.31'>So hatten nun die Gemeinden in ganz Judäa, Galiläa und Samaria Frieden, erbauten sich, und wandelten in der Furcht des Herrn und mehrten sich unter dem Beistand des Heiligen Geistes.</verse>
+        <verse osisID='Acts.9.32'>Da begab sich, daß Petrus sie alle heimsuchte und auch zu den Heiligen kam, die in Lydda wohnten.</verse>
+        <verse osisID='Acts.9.33'>Allda fand er einen Mann, mit Namen Aeneas, der acht Jahre gichtbrüchig<note>gelähmt</note> auf dem Bette darniedergelegen.</verse>
+        <verse osisID='Acts.9.34'>Und Petrus sprach zu ihm: Aeneas, Jesus Christus heilt dich, stehe auf und mache dir dein Bett zurecht! Und alsbald stand er auf.</verse>
+        <verse osisID='Acts.9.35'>Und alle, die ihn Lydda und Saron wohnten, sahen ihn und bekehrten sich zum Herrn.</verse>
+        <verse osisID='Acts.9.36'>Zu Joppe aber war eine Jüngerin mit Namen Tabitha, das verdolmetscht heißt Dorkas<note>Reh</note>. Diese war voll guter Werke und Wohltätigkeit, die sie erwies.</verse>
+        <verse osisID='Acts.9.37'>Es begab sich aber in selbigen Tagen, daß sie erkrankte und starb. Da wuschen sie selbige und legten sie auf den Söller.</verse>
+        <verse osisID='Acts.9.38'>Da Lydda nahe bei Joppe war, sandten die Jünger auf die Nachricht, daß Petrus allda wäre, zwei Männer an ihn, mit der Bitte unverweilt zu ihnen herüberzukommen.</verse>
+        <verse osisID='Acts.9.39'>Petrus stand auf und ging mit ihnen. Als er ankam, führten sie ihn auf den Söller und alle Witwen umstanden ihn, weinten und zeigten ihm die Röcke und Gewänder, welche die Reh gemacht, während sie bei ihnen war.</verse>
+        <verse osisID='Acts.9.40'>Petrus hieß sie alle hinausgehen, kniete nieder und betete, und wandte sich dann zu der Leiche und sprach: Tabitha, stehe auf! Sie tat ihre Augen auf, und da sie den Petrus sah, setzte sie sich auf.</verse>
+        <verse osisID='Acts.9.41'>Er gab ihr die Hand und richtete sie auf, rief die Heiligen und die Witwen herein und stellte sie lebend dar.</verse>
+        <verse osisID='Acts.9.42'>Und es ward bekannt in ganz Joppe, und viele glaubten an den Herrn.</verse>
+        <verse osisID='Acts.9.43'>Petrus aber blieb viele Tage in Joppe bei Simon, einem Gerber.</verse>
+      </chapter>
+      <chapter osisID='Acts.10'>
+        <title>Das Christentum unter den Heiden. - Cornelius.</title>
+        <verse osisID='Acts.10.1'>Es war ein Mann zu Cäsarea, mit Namen Cornelius, ein Hauptmann von der sogenannten italischen Kohorte,</verse>
+        <verse osisID='Acts.10.2'>Fromm und gottesfürchtig mit seinem ganzen Hause, der dem Volke viele Wohltaten erwies und stets zu Gott betete.</verse>
+        <verse osisID='Acts.10.3'>Dieser sah in einem Gesichte um die neunte Stunde des Tages offenbarlich einen Engel bei sich eintreten und zu ihm sprechen: Cornelius!</verse>
+        <verse osisID='Acts.10.4'>Er aber sah ihn an, erschrak und sprach: Was ist es Herr? Er sprach zu ihm: Deine Gebete und Almosen sind hinaufgekommen zum Gedächtnis vor Gott.</verse>
+        <verse osisID='Acts.10.5'>Und nun sende Männer nach Joppe und entbiete zu dir Simon, der zubenannt wird Petrus.</verse>
+        <verse osisID='Acts.10.6'>Welcher ist zur Herberge bei einem Gerber Simon, dessen Haus am Meere liegt. Der wird dir sagen, was du tun sollst.</verse>
+        <verse osisID='Acts.10.7'>Als der Engel, der mit ihm redete, hinwegegegangen war, rief er zwei seiner Knechte und einen gottesfürchtigen Kriegsknecht, von denen, die ihm aufwarteten.</verse>
+        <verse osisID='Acts.10.8'>Und erzählte ihnen alles und entsandte sie gen Joppe.</verse>
+        <verse osisID='Acts.10.9'>Des anderen Tages, während sie auf dem Wege waren und der Stadt nahten, stieg Petrus hinauf auf den Söller, um zu beten, um die sechste Stunde.</verse>
+        <verse osisID='Acts.10.10'>Da ward er hungrig und wollte etwas essen; während sie aber zurichteten, fiel er in eine Entzückung,</verse>
+        <verse osisID='Acts.10.11'>Und sah den Himmel aufgetan, und ein Gefäß zu ihm herabsinken, wie ein großes Linnentuch, das an den vier Enden gebunden war und auf den Boden hernieder gelassen ward.</verse>
+        <verse osisID='Acts.10.12'>Darin waren allerlei vierfüßige Tiere der Erde und Gewild und Kriechtiere und Vögel des Himmels.</verse>
+        <verse osisID='Acts.10.13'>Und es geschah eine Stimme zu ihm: Stehe auf, Petrus, schlachte und iß.</verse>
+        <verse osisID='Acts.10.14'>Petrus aber sprach: Nimmermehr, Herr! noch nie habe ich etwas Gemeines oder Unreines gegessen.</verse>
+        <verse osisID='Acts.10.15'>Und eine Stimme sprach zum andern Mal zu ihm: Was Gott hat rein gemacht, das achte du nicht für gemein.</verse>
+        <verse osisID='Acts.10.16'>Dies geschah zu drei Malen, und das Gefäß ward wieder gen Himmel emporgenommen.</verse>
+        <verse osisID='Acts.10.17'>Als aber Petrus bei sich selbst nachsann, was wohl das Gesichte, das er gesehen, zu bedeuten hätte, siehe, da fragten die, so von Cornelius abgesandt waren, nach dem Hause Simons und standen vor dem Tor.</verse>
+        <verse osisID='Acts.10.18'>Riefen und erkundigten sich, ob Simon, mit dem Zunamen Petrus, allda zur Herberge wäre.</verse>
+        <verse osisID='Acts.10.19'>Als Petrus immer noch über das Gesichte nachdachte, sprach der Geist zu ihm: Siehe, drei Männer fragen nach dir.</verse>
+        <verse osisID='Acts.10.20'>So mache dich auf, steige hinab, und ziehe mit ihnen, und bedenke nicht lange, denn Ich habe sie gesandt.</verse>
+        <verse osisID='Acts.10.21'>Da stieg Petrus hinab zu den Männern, die Cornelius an ihn abgesendet hatte, und sprach: Siehe, ich bin es, nach dem ihr fraget; was ist die Sache, darum ihr hier seid?</verse>
+        <verse osisID='Acts.10.22'>Sie aber sprachen: Der Hauptmann Cornelius, ein gerechter und gottesfürchtiger Mann, der bei allem Volke der Juden ein gutes Zeugnis hat, ward von einem heiligen Engel angewiesen, dich in sein Haus rufen zu lassen, auf daß er Worte von dir höre.</verse>
+        <verse osisID='Acts.10.23'>Da rief er sie herein zu sich und bewirtete sie. Des andern Tages zog Petrus mit ihnen, und zwei der Brüder aus Joppe gingen mit ihm.</verse>
+        <verse osisID='Acts.10.24'>Am andern Tag kamen sie nach Cäsarea. Cornelius wartete auf sie und hatte seine Verwandten und vertrauten Freunde zusammengerufen.</verse>
+        <verse osisID='Acts.10.25'>Als Petrus eintrat, kam ihm Cornelius entgegen, fiel ihm zu Füßen und betete ihn an.</verse>
+        <verse osisID='Acts.10.26'>Petrus aber richtete ihn auf und sprach: Stehe auf! auch ich bin ein Mensch.</verse>
+        <verse osisID='Acts.10.27'>Als er sich mit ihm besprochen hatte, trat er ein und fand ihrer viele versammelt.</verse>
+        <verse osisID='Acts.10.28'>Er sprach zu ihnen: Ihr wisset, daß es einem jüdischen Manne nicht erlaubt ist, sich einem Fremden zuzugesellen und Gemeinschaft mit ihm zu haben; aber mir hat Gott gezeigt, daß ich keinen Menschen sollte gemein oder unrein heißen.</verse>
+        <verse osisID='Acts.10.29'>Darum bin ich auch unweigerlich gekommen, als man mich beschied; ich frage nun, zu welchem Ende ihr mich beschieden habt?</verse>
+        <verse osisID='Acts.10.30'>Da sprach Cornelius: Bis zu dieser Stunde sind es vier Tage, daß ich fastete; und um die neunte Stunde betete ich in meinem Hause, und siehe, da stand ein Mann vor mir in glänzendem Gewand,</verse>
+        <verse osisID='Acts.10.31'>Und sprach: Cornelius, dein Gebet ist erhört, und deiner Almosen ist gedacht worden vor Gott.</verse>
+        <verse osisID='Acts.10.32'>So sende nun nach Joppe und laß rufen Simon, mit dem Zunamen Petrus. Dieser ist zur Herberge im Hause des Gerbers Simon am Meer; wenn dieser kommt, so wird er dich berichten.</verse>
+        <verse osisID='Acts.10.33'>Da sandte ich von Stund an zu dir, und du hast wohlgetan, daß du gekommen bist; nun sind wir alle vor Gott hier gegenwärtig, zu hören alles, was dir von Gott ward aufgetragen.</verse>
+        <verse osisID='Acts.10.34'>Da tat Petrus seinen Mund auf und sprach: In Wahrheit erfahre ich nun, daß Gott die Person nicht ansieht,</verse>
+        <verse osisID='Acts.10.35'>Sondern unter allem Volk ein jeglicher, der Ihn fürchtet und recht tut, der ist Ihm wohlgefällig.</verse>
+        <verse osisID='Acts.10.36'>Das Wort nun, das Er den Söhnen Israels zugesendet hat, indem Er Frieden verkündete durch Jesus Christus<note>dies ist Er, der Herr aller</note>:</verse>
+        <verse osisID='Acts.10.37'>Ihr wisset, was nach der Taufe, die Johannes predigte, durch das ganze jüdische Land geschehen ist, und in Galiläa seinen Anfang genommen hat;</verse>
+        <verse osisID='Acts.10.38'>Wie Jesus von Nazareth, Den Gott mit dem Heiligen Geist und Wunderkraft gesalbt hat, umhergezogen ist, und hat wohlgetan, und alle gesund gemacht, die von dem Teufel überwältigt waren; denn Gott war mit Ihm.</verse>
+        <verse osisID='Acts.10.39'>Und wir sind alle Zeugen dessen, was Er im Lande der Juden und in Jerusalem getan hat. Ihn haben sie zum Tode gebracht und an das Kreuz geheftet.</verse>
+        <verse osisID='Acts.10.40'>Diesen hat Gott am dritten Tage auferweckt und Ihn lassen offenbar werden,</verse>
+        <verse osisID='Acts.10.41'>Nicht allem Volk, sondern uns, den Zeugen, die von Gott vorerwählt worden, uns, die wir mit Ihm gegessen und getrunken haben, nachdem Er von den Toten auferstanden war.</verse>
+        <verse osisID='Acts.10.42'>Und Er hat uns geboten, dem Volke zu predigen und bezeugen, daß Er ist von Gott verordnet zum Richter der Lebendigen und der Toten.</verse>
+        <verse osisID='Acts.10.43'>Für Ihn zeugen alle Propheten, daß durch Seinen Namen jeder, der an Ihn glaubt, Vergebung der Sünden empfangen soll.</verse>
+        <verse osisID='Acts.10.44'>Während Petrus noch diese Worte redete, fiel der Heilige Geist auf alle, die das Wort hörten.</verse>
+        <verse osisID='Acts.10.45'>Und es entsetzten sich die Gläubigen aus der Beschneidung, die mit Petrus gekommen waren, daß auch auf die Heiden die Gabe des Heiligen Geistes ausgegossen ward.</verse>
+        <verse osisID='Acts.10.46'>Denn sie hörten sie mit Zungen reden und Gott lobpreisen. Da nahm Petrus wieder das Wort:</verse>
+        <verse osisID='Acts.10.47'>Mag auch jemand das Wasser vorenthalten, daß die nicht getauft werden, die, wie auch wir, den Heiligen Geist empfangen haben?</verse>
+        <verse osisID='Acts.10.48'>Und er befahl, sie zu taufen im Namen des Herrn. Sie baten ihn sodann, noch einige Tage zu bleiben.</verse>
+      </chapter>
+      <chapter osisID='Acts.11'>
+        <title>Heidenbekehrung. Christen in Antiochia.</title>
+        <verse osisID='Acts.11.1'>Die Apostel und die Brüder in Judäa hörten, daß auch die Heiden das Wort Gottes angenommen hätten.</verse>
+        <verse osisID='Acts.11.2'>Und als Petrus hinauf nach Jerusalem kam, stritten die aus der Beschneidung mit ihm und sagten:</verse>
+        <verse osisID='Acts.11.3'>Du bist zu Männern eingegangen, welche die Vorhaut haben, und hast gegessen mit ihnen.</verse>
+        <verse osisID='Acts.11.4'>Petrus aber hob an und berichtete ihnen den Verlauf der Dinge also:</verse>
+        <verse osisID='Acts.11.5'>Ich war in der Stadt Joppe im Gebet und sah in einer Entzückung ein Gesicht: ein Gefäß wie ein großes Linnentuch kam vom Himmel herab und ward an vier Enden niedergelassen und kam bis zu mir,</verse>
+        <verse osisID='Acts.11.6'>Ich sah darauf hin, ward gewahr, und sah vierfüßige Tiere der Erde und Gewild und Kriechtiere und Gevögel des Himmels.</verse>
+        <verse osisID='Acts.11.7'>Da hörte ich eine Stimme zu mir sprechen: Stehe auf, Petrus, schlachte und iß!</verse>
+        <verse osisID='Acts.11.8'>Ich sprach aber: Nimmermehr, Herr, denn noch nie ist Gemeines oder Unreines in meinen Mund gekommen.</verse>
+        <verse osisID='Acts.11.9'>Zum zweitenmal aber kam eine Stimme vom Himmel: Was Gott rein gemacht, das mache du nicht gemein.</verse>
+        <verse osisID='Acts.11.10'>Dies geschah zu drei Malen; und alles ward wieder in den Himmel hinaufgezogen.</verse>
+        <verse osisID='Acts.11.11'>Und siehe, zur selben Stunde standen drei Männer vor dem Hause, darin ich war. Sie waren von Cäsarea an mich abgesandt.</verse>
+        <verse osisID='Acts.11.12'>Der Geist aber hieß mich ohne Bedenken mit ihnen gehen; es kamen aber mit mir auch die sechs Brüder da, und wir traten in das Haus des Mannes.</verse>
+        <verse osisID='Acts.11.13'>Und er sagte uns an, wie er einen Engel in seinem Hause stehen sah, und derselbe zu ihm sprach: Sende nach Joppe und rufe Simon, mit dem Zunamen Petrus, zu dir,</verse>
+        <verse osisID='Acts.11.14'>Der wird Worte zu dir reden, durch die du mit deinem ganzen Haus wirst selig werden.</verse>
+        <verse osisID='Acts.11.15'>Als ich nun anfing zu reden, fiel der Heilige Geist auf sie, wie auch auf uns am Anfang.</verse>
+        <verse osisID='Acts.11.16'>Da gedachte ich an das Wort des Herrn, das Er sprach: Johannes hat mit Wasser getauft, ihr aber sollt mit dem Heiligen Geiste getauft werden.</verse>
+        <verse osisID='Acts.11.17'>So nun Gott ihnen die gleiche Gabe verlieh, wie auch uns, die an den Herrn Jesus Christus glaubten, wie hätte ich vermocht, Gott zu wehren?</verse>
+        <verse osisID='Acts.11.18'>Als sie diese Worte hörten, gaben sie sich zufrieden, lobten Gott und sprachen: So hat denn Gott auch den Heiden die Buße zum Leben gegeben.</verse>
+        <verse osisID='Acts.11.19'>Die nun, welche sich zerstreut hatten wegen der Verfolgung, die sich über Stephanus erhob, zogen umher bis Phönizien, Zypern und Antiochia, und trugen niemand, als Juden, das Wort vor.</verse>
+        <verse osisID='Acts.11.20'>Es waren aber etliche unter ihnen, Männer aus Zypern und Cyrene, die nach Antiochia kamen und auch zu den Griechen redeten und die Heilsbotschaft vom Herrn Jesus verkündeten.</verse>
+        <verse osisID='Acts.11.21'>Und die Hand des Herrn war mit ihnen, und eine große Zahl ward gläubig und bekehrte sich zum Herrn.</verse>
+        <verse osisID='Acts.11.22'>Es kam aber die Rede davon der Gemeinde in Jerusalem zu Ohren, und sie sandten Barnabas ab, daß er bis nach Antiochien zöge.</verse>
+        <verse osisID='Acts.11.23'>Als er dahin kam und die Gnade Gottes sah, ward er erfreut, und ermahnte alle, mit Festigkeit des Herzens beim Herrn zu verharren.</verse>
+        <verse osisID='Acts.11.24'>Denn er war ein wackerer Mann und voll Heiligen Geistes und Glaubens, und eine große Menge ward dem Herrn zugetan.</verse>
+        <verse osisID='Acts.11.25'>Von da ging er<note>Barnabas</note> aus gen Tarsus, um Saul aufzusuchen; und da er ihn gefunden, führte er ihn gen Antiochia.</verse>
+        <verse osisID='Acts.11.26'>Ein ganzes Jahr blieben sie mit der Gemeinde zusammen, lehrten viel Volk, und brachten es dahin, daß die Jünger in Antiochia zuerst Christen genannt wurden.</verse>
+        <verse osisID='Acts.11.27'>In selbigen Tagen aber kamen Propheten von Jerusalem herab nach Antiochien.</verse>
+        <verse osisID='Acts.11.28'>Einer von ihnen, mit Namen Agabus, trat auf und deutete durch den Geist, daß über alles Land eine große Teuerung kommen würde, die auch eintrat unter Claudius.</verse>
+        <verse osisID='Acts.11.29'>Von den Jüngern aber beschloß ein jeder, je nach seinem Vermögen eine Unterstützung zu senden den Brüdern, die in Judäa wohnten;</verse>
+        <verse osisID='Acts.11.30'>Was sie auch taten, indem sie solche durch Barnabas und Saulus absendeten.</verse>
+      </chapter>
+      <chapter osisID='Acts.12'>
+        <title>Tod des Jakobus. Befreiung des Petrus. - Tod des Herodes.</title>
+        <verse osisID='Acts.12.1'>Um selbige Zeit ließ der König Herodes Hand an einige von der Gemeinde legen und sie peinigen.</verse>
+        <verse osisID='Acts.12.2'>Den Jakobus aber, des Johannes Bruder, ließ er mit dem Schwert hinrichten.</verse>
+        <verse osisID='Acts.12.3'>Und da er sah, daß es den Juden gefiel, fuhr er fort und ließ Petrus in Verhaft nehmen. - Es waren gerade die Tage der ungesäuerten Brote.</verse>
+        <verse osisID='Acts.12.4'>Er griff ihn, legte ihn ins Gefängnis und überantwortete ihn einer vierfachen Wache von Kriegsknechten, indem er ihn nach dem Osterfest dem Volk vorführen wollte.</verse>
+        <verse osisID='Acts.12.5'>Petrus ward in Gewahrsam gehalten, die Gemeinde aber betete inbrünstig zu Gott für ihn.</verse>
+        <verse osisID='Acts.12.6'>Als aber Herodes ihn eben vorführen wollte, schlief Petrus in selbiger Nacht, an zwei Ketten gelegt, zwischen zwei Kriegsknechten, auch hielten Hüter Wache vor der Tür des Gefängnisses.</verse>
+        <verse osisID='Acts.12.7'>Und siehe, ein Engel des Herrn erschien, und ein Licht leuchtete in dem Gemach. Er schlug Petrus an die Seite, weckte ihn auf und sprach: Mache dich auf in Eile! und es fielen die Ketten ihm von den Händen.</verse>
+        <verse osisID='Acts.12.8'>Und der Engel sprach zu ihm: Umgürte dich und binde die Sohlen unter! Und er tat also; und er sprach zu ihm: Wirf deinen Mantel um und folge mir!</verse>
+        <verse osisID='Acts.12.9'>Er ging hinaus und folgte ihm, wußte aber nicht, daß ihm in Wirklichkeit so durch den Engel geschah, sondern meinte, es sei ein Traumgesicht.</verse>
+        <verse osisID='Acts.12.10'>Sie gingen durch die erste und zweite Wache und gelangten an das eiserne Tor, das nach der Stadt führte, das öffnete sich ihnen von selbst; und sie traten hinaus und gingen eine Gasse weit, und alsbald entwich der Engel von ihm.</verse>
+        <verse osisID='Acts.12.11'>Als nun Petrus zu sich kam, sprach er: Nun weiß ich wahrhaftig, daß der Herr Seinen Engel gesandt und mich aus der Hand des Herodes und aus allem Warten des Volkes der Juden gerettet hat.</verse>
+        <verse osisID='Acts.12.12'>Und als er sich so besann, kam er an das Haus der Maria, der Mutter des Johannes, mit dem Zunamen Markus, wo viele beisammen waren und beteten.</verse>
+        <verse osisID='Acts.12.13'>Als aber Petrus an das Hoftor klopfte, trat eine Magd mit Namen Rhode herzu, um zu hören, wer es sei.</verse>
+        <verse osisID='Acts.12.14'>Und da sie die Stimme des Petrus erkannte, tat sie vor Freude das Tor nicht auf, lief hinein und verkündete, Petrus stünde vor dem Tor.</verse>
+        <verse osisID='Acts.12.15'>Sie aber sprachen zu ihr: Du bist von Sinnen. Sie aber bestand darauf, es sei also. Da sagten sie: Es ist sein Engel!</verse>
+        <verse osisID='Acts.12.16'>Petrus aber fuhr fort zu klopfen; da taten sie auf und waren außer sich vor Erstaunen, als sie ihn vor sich sahen.</verse>
+        <verse osisID='Acts.12.17'>Er aber winkte ihnen mit der Hand, zu schweigen, und erzählte ihnen, wie ihn der Herr aus dem Gefängnis geführt hätte, und sprach: Verkündet dies dem Jakobus und den Brüdern! Er entfernte sich und begab sich an einen anderen Ort.</verse>
+        <verse osisID='Acts.12.18'>Als es Tag ward, war kein geringer Schrecken unter den Kriegsknechten, wie es doch mit Petrus ergangen wäre.</verse>
+        <verse osisID='Acts.12.19'>Als Herodes nach ihm sandte und man ihn nicht fand, hielt er Gericht über die Wachen, und ließ sie zum Tode führen, und begab sich von Judäa nach Cäsarea und verweilte allda.</verse>
+        <verse osisID='Acts.12.20'>Er hatte aber einen Groll wider die Tyrier und Sidonier; diese jedoch erschienen einmütig vor ihm, brachten Blastus, des Königs Kämmerer, auf ihre Seite, und baten um Frieden, weil ihr Land sich von dem des Königs nährte.</verse>
+        <verse osisID='Acts.12.21'>Am anberaumten Tage erschien Herodes im königlichen Gewand und setzte sich auf den Richtstuhl und hielt eine Anrede an sie.</verse>
+        <verse osisID='Acts.12.22'>Da rief das Volk: Das ist eines Gottes Stimme und nicht eines Menschen!</verse>
+        <verse osisID='Acts.12.23'>Da schlug ihn alsbald der Engel des Herrn, dafür, daß er nicht Gott die Ehre gab; er ward von den Würmern gefressen und verschied.</verse>
+        <verse osisID='Acts.12.24'>Das Wort Gottes aber nahm zu und mehrte sich.</verse>
+        <verse osisID='Acts.12.25'>Barnabas aber und Saulus kehrten, nachdem sie die Handreichung ausgerichtet, zurück nach Jerusalem und nahmen mit sich Johannes, der den Zunamen Markus führt.</verse>
+      </chapter>
+      <chapter osisID='Acts.13'>
+        <title>Paulus und Barnabas unter den Heiden. - Sergius Paulus.</title>
+        <verse osisID='Acts.13.1'>Es waren aber in Antiochia in der dortigen Gemeinde Propheten und Lehrer, Barnabas und Simeon, mit dem Zunamen Niger, Lucius aus Cyrene und Manahen, Milchbruder des Vierfürsten Herodes, und Saulus.</verse>
+        <verse osisID='Acts.13.2'>Da sie aber dem Herrn dienten und fasteten, sprach der Heilige Geist zu ihnen: Sondert mir Barnabas und Saulus zu dem Werk aus, für das ich sie berufen habe.</verse>
+        <verse osisID='Acts.13.3'>Da fasteten und beteten sie und legten ihnen die Hände auf und entließen sie.</verse>
+        <verse osisID='Acts.13.4'>Diese nun, vom Heiligen Geist ausgesandt, kamen hinab nach Seleucia und fuhren von da nach Zypern ab.</verse>
+        <verse osisID='Acts.13.5'>In Salamis angekommen, predigten sie das Wort Gottes in den Synagogen der Juden und hatten den Johannes als Gehilfen mit sich.</verse>
+        <verse osisID='Acts.13.6'>Sie durchzogen die ganze Insel bis nach Paphos, wo sie einen Zauberer und falschen Propheten fanden, der ein Jude war und der Barjesus hieß,</verse>
+        <verse osisID='Acts.13.7'>Der war bei dem Proconsul Sergius Paulus, einem verständigen Mann. Dieser ließ Barnabas und Saulus vor sich rufen und begehrte das Wort Gottes zu hören.</verse>
+        <verse osisID='Acts.13.8'>Es widerstand ihnen aber der Zauberer Elymas, denn so wird dessen Name verdolmetscht, und suchte den Statthalter vom Glauben abzuwenden.</verse>
+        <verse osisID='Acts.13.9'>Saulus aber, der auch Paulus heißt, vom Heiligen Geist erfüllt, schaute ihn an,</verse>
+        <verse osisID='Acts.13.10'>Und sprach: O du, voll aller Arglist und Schalkheit, Kind des Teufels, Feind aller Gerechtigkeit, wirst du nicht aufhören, die geraden Wege des Herrn zu verkehren?</verse>
+        <verse osisID='Acts.13.11'>Und siehe, die Hand des Herrn ist über dir und du sollst blind sein und die Sonne nicht schauen eine Zeitlang. Und von Stund an fiel auf ihn Dunkelheit und Finsternis, und er tappte umher und suchte Handleiter.</verse>
+        <verse osisID='Acts.13.12'>Als der Statthalter sah, was geschehen war, glaubte er und war von Staunen erfüllt über die Lehre des Herrn.</verse>
+        <verse osisID='Acts.13.13'>Paulus aber, und die mit ihm waren, schifften sich von Paphos ein und kamen nach Perge in Pamphylien. Johannes aber schied von ihnen und kehrte zurück nach Jerusalem.</verse>
+        <verse osisID='Acts.13.14'>Sie aber zogen von Perge weiter und gelangten nach Antiochia in Pisidien und begaben sich am Sabbathtage in die Synagoge und setzten sich.</verse>
+        <verse osisID='Acts.13.15'>Nach Lesung des Gesetzes und der Propheten ließen ihnen die Vorsteher der Synagoge sagen: Männer, Brüder, habt ihr ein Wort der Ermahnung an das Volk, so sprecht.</verse>
+        <verse osisID='Acts.13.16'>Da stand Paulus auf, winkte mit der Hand und sprach: Männer von Israel, und die ihr Gott fürchtet, höret zu.</verse>
+        <verse osisID='Acts.13.17'>Der Gott dieses Volkes hat unsere Väter erwählt und das Volk während ihres Aufenthaltes in Ägyptenland erhöht und mit hohem Arm sie von da ausgeführt.</verse>
+        <verse osisID='Acts.13.18'>Und hat sie bei vierzig Jahren gepflegt und ernährt in der Wüste.</verse>
+        <verse osisID='Acts.13.19'>Und nachdem Er sieben Völker im Lande Kanaan vertilgt, gab Er ihnen ihr Land nach dem Los zum Erbe.</verse>
+        <verse osisID='Acts.13.20'>Und danach gab Er ihnen bei vierhundertfünfzig Jahren Richter bis auf den Propheten Samuel.</verse>
+        <verse osisID='Acts.13.21'>Von da an verlangten sie einen König, und Gott gab ihnen Saul, den Sohn von Kis, einen Mann aus dem Stamme Benjamin, vierzig Jahre lang.</verse>
+        <verse osisID='Acts.13.22'>Und nachdem Er diesen weggetan, stellte Er für sie David als König auf und zeugte für ihn: Ich habe David, den Sohn Jesses gefunden, einen Mann nach Meinem Herzen, der allen Meinen Willen tun soll.</verse>
+        <verse osisID='Acts.13.23'>Aus dessen Samen ließ Gott nach der Verheißung Jesus zum Retter für Israel kommen,</verse>
+        <verse osisID='Acts.13.24'>Nachdem Johannes vor Seinem Auftreten dem ganzen Volke Israel die Taufe der Buße gepredigt hatte.</verse>
+        <verse osisID='Acts.13.25'>Wie nun Johannes seinen Lauf erfüllte, sprach er: Für wen haltet ihr mich? Ich bin es nicht; aber siehe, es kommt nach mir Einer, Dem ich nicht wert bin, den Schuhriemen aufzulösen.</verse>
+        <verse osisID='Acts.13.26'>Männer, Brüder, Söhne vom Geschlecht Abrahams, und die unter euch Gott fürchten, an euch ist das Wort dieses Heils gesandt.</verse>
+        <verse osisID='Acts.13.27'>Denn die in Jerusalem wohnen und ihre Oberen haben Ihn verkannt und damit die Stimmen der Propheten, die jeden Sabbath vorgelesen werden, durch ihre Verurteilung in Erfüllung gebracht.</verse>
+        <verse osisID='Acts.13.28'>Obwohl sie keine Schuld des Todes an Ihm fanden, verlangten sie von Pilatus, daß Er zum Tode gebracht würde.</verse>
+        <verse osisID='Acts.13.29'>Als sie alles, was von Ihm geschrieben steht, erfüllt hatten, nahmen sie Ihn vom Kreuz und legten Ihn in das Grab.</verse>
+        <verse osisID='Acts.13.30'>Gott aber hat Ihn von den Toten auferweckt.</verse>
+        <verse osisID='Acts.13.31'>Er ist viele Tage erschienen denen, die mit Ihm aus Galiläa nach Jerusalem hinaufgezogen und nun Seine Zeugen sind vor dem Volk.</verse>
+        <verse osisID='Acts.13.32'>Und auch wir verkünden euch die frohe Botschaft der Verheißung, die den Vätern geworden,</verse>
+        <verse osisID='Acts.13.33'>Daß solche Gott uns, deren Kindern, durch die Auferweckung Jesu erfüllt hat, wie im zweiten Psalm geschrieben steht: Mein Sohn bist Du, Ich habe heute Dich gezeugt.</verse>
+        <verse osisID='Acts.13.34'>Daß Er Ihn aber von den Toten auferweckt, und Er nimmer sollte zur Verwesung wiederkehren, hat Er mit den Worten ausgesprochen: Das Heilige Davids, das Unverbrüchliche will Ich euch geben.</verse>
+        <verse osisID='Acts.13.35'>Deshalb sagt Er auch an einer anderen Stelle: Du wirst nicht zulassen, daß Dein Heiliger die Verwesung sehe.</verse>
+        <verse osisID='Acts.13.36'>Denn David, da er zu seiner Zeit dem Willen Gottes gedient hatte, ist entschlafen und zu seinen Vätern versammelt worden, und hat die Verwesung gesehen.</verse>
+        <verse osisID='Acts.13.37'>Er aber, Den Gott hat auferweckt, hat die Verwesung nicht gesehen.</verse>
+        <verse osisID='Acts.13.38'>So sei euch denn kundgetan, Männer und Brüder, daß durch Diesen euch Vergebung der Sünden verkündigt wird.</verse>
+        <verse osisID='Acts.13.39'>Und von allem, davon ihr im Gesetz Moses nicht konntet gerechtfertigt werden, wird in Diesem ein jeglicher, der da glaubt, gerechtfertigt.</verse>
+        <verse osisID='Acts.13.40'>Seht nun zu, daß nicht über euch komme, was in den Propheten gesagt worden ist:</verse>
+        <verse osisID='Acts.13.41'>Seht, ihr Verächter, erstaunt und werdet zuschanden; denn Ich tue ein Werk in euren Tagen, an das ihr nicht glauben werdet, so es euch einer erzählt.</verse>
+        <verse osisID='Acts.13.42'>Als nun die Juden aus der Synagoge kamen, baten die Heiden, daß ihnen auf den folgenden Sabbath diese Worte geredet würden.</verse>
+        <verse osisID='Acts.13.43'>Als nun die Synagoge auseinanderging, folgten viele Juden und gottesfürchtige Proselyten Paulus und Barnabas. Diese redeten zu ihnen und vermahnten sie, in der Gnade Gottes zu beharren.</verse>
+        <verse osisID='Acts.13.44'>Und am folgenden Sabbath versammelte sich beinahe die ganze Stadt, um das Wort Gottes zu hören.</verse>
+        <verse osisID='Acts.13.45'>Da nun die Juden die Menge Volks sahen, wurden sie voll Neides und widersprachen dem, was von Paulus gesagt wurde, widersprachen und lästerten.</verse>
+        <verse osisID='Acts.13.46'>Paulus aber und Barnabas erklärten frei öffentlich: Zu euch mußte zuerst das Wort Gottes geredet werden; nun ihr es aber von euch stoßt, und euch selbst nicht würdig erachtet des ewigen Lebens, siehe, so wenden wir uns zu den Heiden.</verse>
+        <verse osisID='Acts.13.47'>Denn also hat uns der Herr geboten: Ich habe Dich zum Licht für die Heiden gesetzt, auf daß Du zum Heile werdest bis an das Ende der Erde.</verse>
+        <verse osisID='Acts.13.48'>Da dies die Heiden hörten, freuten sie sich und priesen das Wort des Herrn und wurden gläubig alle, so bestimmt waren zum ewigen Leben.</verse>
+        <verse osisID='Acts.13.49'>Und des Herrn Wort verbreitete sich durch das ganze Land.</verse>
+        <verse osisID='Acts.13.50'>Die Juden aber reizten auf die frommen und ehrbaren Weiber und die Oberen der Stadt und erregten eine Verfolgung wider Paulus und Barnabas, und stießen sie zu ihren Grenzen hinaus.</verse>
+        <verse osisID='Acts.13.51'>Sie aber schüttelten den Staub von ihren Füßen über sie und kamen nach Ikonium.</verse>
+        <verse osisID='Acts.13.52'>Die Jünger aber wurden voll Freude und Heiligen Geistes.</verse>
+      </chapter>
+      <chapter osisID='Acts.14'>
+        <title>Paulus und Barnabas zu Ikonium, Lystra und anderen Städten; ihre Wunder.</title>
+        <verse osisID='Acts.14.1'>Es geschah nun zu Ikonium, daß sie in der Synagoge der Juden zusammenkamen und also redeten, daß eine große Menge Juden und Griechen gläubig wurden.</verse>
+        <verse osisID='Acts.14.2'>Die ungläubigen Juden aber reizten und erbitterten die Gemüter der Heiden wider die Brüder.</verse>
+        <verse osisID='Acts.14.3'>Sie blieben allda geraume Zeit und predigten im Vertrauen auf den Herrn, Der das Wort Seiner Gnade bezeugte, indem Er durch ihre Hände Zeichen und Wunder geschehen ließ.</verse>
+        <verse osisID='Acts.14.4'>Die Menge der Stadt aber teilte sich; und die einen hielten es mit den Juden, die anderen mit den Aposteln.</verse>
+        <verse osisID='Acts.14.5'>Als sich nun ein Sturm erhob von seiten der Heiden und der Juden mit ihren Oberen, um sie zu mißhandeln und zu steinigen,</verse>
+        <verse osisID='Acts.14.6'>Wurden sie dessen inne und flüchteten in die Städte Lykaoniens, gen Lystra und Derbe und die Umgegend.</verse>
+        <verse osisID='Acts.14.7'>Und sie predigten daselbst das Evangelium.</verse>
+        <verse osisID='Acts.14.8'>In Lystra saß ein Mann, seiner Füße nicht mächtig und lahm von Mutterleibe, der noch nie gegangen war.</verse>
+        <verse osisID='Acts.14.9'>Der hörte Paulus reden, und als er ihn anblickte und ihm ansah, daß er Glauben hatte, ihm könnte geholfen werden.</verse>
+        <verse osisID='Acts.14.10'>Sprach er mit lauter Stimme: Stehe aufrecht auf deine Füße! und er sprang auf und wandelte.</verse>
+        <verse osisID='Acts.14.11'>Da aber die Menge sah, was Paulus getan hatte, erhoben sie ihre Stimme und riefen auf lykaonisch: Die Götter sind in Menschengestalt zu uns herabgekommen.</verse>
+        <verse osisID='Acts.14.12'>Und nannten Barnabas Zeus, Paulus aber Hermes, weil er das Wort führte.</verse>
+        <verse osisID='Acts.14.13'>Der Priester des Zeus aber, der vor der Stadt war, brachte Stiere und Kränze an das Tor und wollte mit der Menge opfern.</verse>
+        <verse osisID='Acts.14.14'>Da die Apostel Barnabas und Paulus es hörten, zerrissen sie ihre Kleider, sprangen unter die Menge und riefen,</verse>
+        <verse osisID='Acts.14.15'>Und sprachen: Männer, was macht ihr da? Auch wir sind sterbliche Menschen, wie ihr, und ermahnen euch, von diesen falschen Dingen euch abzukehren zu dem lebendigen Gott, Der Himmel und Erde und Meer und alles, was darin ist, geschaffen hat;</verse>
+        <verse osisID='Acts.14.16'>Der in vergangenen Zeiten alle Völker ihre eigenen Wege wandeln ließ.</verse>
+        <verse osisID='Acts.14.17'>Obwohl Er Sich nicht unbezeugt gelassen, indem Er Gutes tat, uns vom Himmel Regen und fruchtbare Zeiten gab und unsere Herzen mit reichlicher Speise und Freude erquickte.</verse>
+        <verse osisID='Acts.14.18'>Kaum konnten sie mit diesen Worten die Menge abhalten, ihnen zu opfern.</verse>
+        <verse osisID='Acts.14.19'>Es kamen aber aus Antiochia und Ikonium Juden, die das Volk überredeten, den Paulus steinigten, und ihn, da sie meinten, er wäre tot, zur Stadt hinausschleppten.</verse>
+        <verse osisID='Acts.14.20'>Da ihn aber die Jünger umringten, stand er auf, und ging in die Stadt. Des anderen Tages aber begab er sich mit Barnabas gen Derbe;</verse>
+        <verse osisID='Acts.14.21'>Und nachdem sie selbiger Stadt das Evangelium verkündigt und viele zu Jüngern gemacht hatten, kehrten sie wieder um nach Lystra, Ikonium und Antiochia;</verse>
+        <verse osisID='Acts.14.22'>Stärkten die Gemüter der Jünger und ermahnten sie, im Glauben zu beharren, und daß wir durch viele Trübsale in das Reich Gottes eingehen müßten.</verse>
+        <verse osisID='Acts.14.23'>Sie bestellten ihnen in den Gemeinden Älteste, beteten und fasteten und empfahlen sie dem Herrn, an Den sie gläubig geworden waren.</verse>
+        <verse osisID='Acts.14.24'>Sie zogen sodann durch Pisidien und kamen nach Pamphylien;</verse>
+        <verse osisID='Acts.14.25'>Redeten in Perge das Wort und begaben sich hinab nach Attalia.</verse>
+        <verse osisID='Acts.14.26'>Und von dannen schifften sie nach Antiochia, von wo sie für das Werk, das sie ausgerichtet hatten, der Gnade Gottes waren übergeben worden.</verse>
+        <verse osisID='Acts.14.27'>Als sie da ankamen, versammelten sie die Gemeinde und verkündeten, wie viel Gott mit ihnen getan, und wie Er den Heiden die Tür zum Glauben aufgetan hätte.</verse>
+        <verse osisID='Acts.14.28'>Sie verweilten geraume Zeit allda bei den Jüngern..</verse>
+      </chapter>
+      <chapter osisID='Acts.15'>
+        <title>Der Streit über die Beschneidung wird in Jerusalem entschieden. - Paulus und Barnabas trennen sich.</title>
+        <verse osisID='Acts.15.1'>Es kamen etliche herab von Judäa und wollten die Brüder lehren: Wenn ihr euch nicht nach dem Gesetz Moses beschneiden lasset, so könnt ihr nicht selig werden.</verse>
+        <verse osisID='Acts.15.2'>Da sich nun nicht geringe Unruhe erhob, und Paulus und Barnabas mit ihnen in Streit gerieten, beschloß man, Paulus und Barnabas und einige andere aus ihrer Mitte wegen dieser Streitfrage an die Apostel und Ältesten nach Jerusalem abzuordnen.</verse>
+        <verse osisID='Acts.15.3'>Die Gemeinde gab ihnen das Geleit, und sie zogen durch Phönizien und Samarien, erzählten von der Bekehrung der Heiden und erregten große Freude bei allen Brüdern.</verse>
+        <verse osisID='Acts.15.4'>Als sie nach Jerusalem kamen, wurden sie von der Gemeinde und den Aposteln und Ältesten empfangen und verkündeten, wie viel Gott mit ihnen ausgerichtet habe.</verse>
+        <verse osisID='Acts.15.5'>Da traten etliche auf von der Sekte der Pharisäer, die gläubig geworden waren, und sagten: Man muß sie beschneiden und ihnen anbefehlen, Mose Gesetz zu halten.</verse>
+        <verse osisID='Acts.15.6'>Die Apostel und Ältesten aber traten nun zusammen, um die Sache in Betrachtung zu nehmen.</verse>
+        <verse osisID='Acts.15.7'>Da nun viel darüber gestritten wurde, trat Petrus auf und sprach zu ihnen: Männer, Brüder, ihr wißt, daß vor längerer Zeit Gott unter uns verordnet hat, daß durch meinen Mund die Heiden das Wort des Evangeliums hören und gläubig werden sollten.</verse>
+        <verse osisID='Acts.15.8'>Und Gott, der Herzenskündiger, zeugte für sie, indem Er ihnen, wie uns, den Heiligen Geist gegeben hat.</verse>
+        <verse osisID='Acts.15.9'>Und hat nicht zwischen uns und ihnen unterschieden, indem Er durch den Glauben ihre Herzen gereinigt hat.</verse>
+        <verse osisID='Acts.15.10'>Was versucht ihr nun Gott, daß ihr dem Nacken der Jünger ein Joch wollt auflegen, das weder unsere Väter noch wir zu tragen vermochten.</verse>
+        <verse osisID='Acts.15.11'>Vielmehr glauben wir, daß wir durch die Gnade des Herrn Jesus, so wie jene, selig werden.</verse>
+        <verse osisID='Acts.15.12'>Da schwieg die ganze Versammlung und hörte, wie Barnabas und Paulus erzählten, wie viel Zeichen und Wunder Gott durch sie unter den Heiden getan hatte.</verse>
+        <verse osisID='Acts.15.13'>Nachdem sie ausgeredet hatten, hob Jakobus an: Männer, Brüder, hört mir zu.</verse>
+        <verse osisID='Acts.15.14'>Simon hat erzählt, wie es Gott zuerst gefallen hat, aus den Heiden ein Volk auf Seinen Namen anzunehmen.</verse>
+        <verse osisID='Acts.15.15'>Auch stimmen damit überein die Worte der Propheten, wie denn geschrieben steht:</verse>
+        <verse osisID='Acts.15.16'>Danach will Ich wiederkommen und aufbauen das zerfallene Zelt Davids und will seine Trümmer wieder aufbauen und dasselbe aufrichten;</verse>
+        <verse osisID='Acts.15.17'>Auf daß die übrigen Menschen den Herrn suchen, sowie alle die Völkerschaften, die nach Meinem Namen werden genannt werden.</verse>
+        <verse osisID='Acts.15.18'>So spricht der Herr, Der alles dies kund tut von Ewigkeit her.</verse>
+        <verse osisID='Acts.15.19'>Darum halte ich dafür, daß man denen aus der Heidenwelt, die sich zu Gott bekehren, keine Beschwerde mache;</verse>
+        <verse osisID='Acts.15.20'>Sondern ihnen schreibe, sie sollten sich der Befleckungen der Götzenmahle, der Hurerei, des Erstickten und des Blutes enthalten.</verse>
+        <verse osisID='Acts.15.21'>Denn Moses hat von alten Zeiten her in jeder Stadt solche, die ihn verkündigen und wird an jedem Sabbath in den Synagogen gelesen.</verse>
+        <verse osisID='Acts.15.22'>Hierauf fanden die Apostel und die Ältesten samt der ganzen Gemeinde für gut, aus ihrer Mitte Männer zu wählen und sie mit Paulus und Barnabas nach Antiochia zu senden, nämlich Judas, mit dem Zunamen Barsabas, und Silas, Männer, die bei den Brüdern in Ansehen standen.</verse>
+        <verse osisID='Acts.15.23'>Und schrieben ihnen durch sie also: Die Apostel und die Ältesten und die Brüder entbieten den Brüdern aus dem Heidentum in Antiochia, Syrien und Cilicien ihren Gruß.</verse>
+        <verse osisID='Acts.15.24'>Weil wir gehört haben, daß etliche der Unseren hinausgingen und euch in Unruhe versetzten und mit Lehren eure Gemüter verwirrten und sagten: Ihr müßtet euch beschneiden lassen und das Gesetz halten, ohne daß wir ihnen Auftrag gegeben,</verse>
+        <verse osisID='Acts.15.25'>Hat es uns gut gedünkt, einmütig versammelt, Männer zu erwählen und an euch zu senden mit unseren Geliebten Barnabas und Paulus;</verse>
+        <verse osisID='Acts.15.26'>Männer, die dem Namen unseres Herrn Jesus Christus ihr Leben geweiht haben.</verse>
+        <verse osisID='Acts.15.27'>So haben wir nun Judas und Silas abgesandt, die auch mündlich dasselbe verkündigen.</verse>
+        <verse osisID='Acts.15.28'>Denn es hat dem Heiligen Geist und uns gefallen, euch keine weitere Bürde aufzulegen, als nur die drei notwendigen Stücke:</verse>
+        <verse osisID='Acts.15.29'>Daß ihr euch enthaltet der Götzenmahle, des Blutes, des Erstickten und der Hurerei. Wenn ihr euch deren enthaltet, so wird es euch wohlergehen. Gehabt euch wohl!</verse>
+        <verse osisID='Acts.15.30'>Als diese abgefertigt waren, kamen sie nach Antiochia, versammelten die Menge und übergaben den Brief.</verse>
+        <verse osisID='Acts.15.31'>Als sie solchen lasen, freuten sie sich über den Trost.</verse>
+        <verse osisID='Acts.15.32'>Judas und Silas, die selbst Propheten waren, ermahnten die Brüder mit vielen Reden und bestärkten sie.</verse>
+        <verse osisID='Acts.15.33'>Als sie eine Zeitlang dort sich aufgehalten, wurden sie von den Brüdern mit Segenswünschen entlassen an die Apostel.</verse>
+        <verse osisID='Acts.15.34'>Silas zog vor, dort zu bleiben.</verse>
+        <verse osisID='Acts.15.35'>Paulus aber und Barnabas verweilten in Antiochia, lehrten und predigten samt vielen anderen das Wort des Herrn.</verse>
+        <verse osisID='Acts.15.36'>Nach einiger Zeit sagte Paulus zu Barnabas: Wir wollen umkehren und von Stadt zu Stadt, wo wir das Wort des Herrn verkündigt haben, nachsehen, wie es um die Brüder steht.</verse>
+        <verse osisID='Acts.15.37'>Barnabas aber war Rats, sie sollten auch Johannes, mit dem Zunamen Markus, mit sich nehmen.</verse>
+        <verse osisID='Acts.15.38'>Paulus aber achtete es für besser, ihn, der in Pamphylien von ihnen gewichen und nicht mit ihnen zum Werke gezogen, nicht mitzunehmen.</verse>
+        <verse osisID='Acts.15.39'>Sie gerieten scharf aneinander, also, daß sie sich voneinander trennten, und Barnabas Markus zu sich nahm und nach Zypern schiffte.</verse>
+        <verse osisID='Acts.15.40'>Paulus aber wählte Silas und zog aus, von den Brüdern der Gnade Gottes empfohlen.</verse>
+        <verse osisID='Acts.15.41'>Er nahm seinen Weg durch Syrien und Cilicien und bestärkte die Gemeinden.</verse>
+      </chapter>
+      <chapter osisID='Acts.16'>
+        <title>Zweite Reise des Paulus, ohne Barnabas. - Timotheus und Lukas begleiten ihn nach Mazedonien.</title>
+        <verse osisID='Acts.16.1'>Er kam hinab gen Derbe und Lystra, und siehe, daselbst war ein Jünger mit Namen Timotheus, der Sohn eines jüdischen gläubigen Weibes, hatte aber einen Griechen zum Vater.</verse>
+        <verse osisID='Acts.16.2'>Der hatte ein gutes Zeugnis von den Brüdern in Lystra und Ikonium.</verse>
+        <verse osisID='Acts.16.3'>Von dem wollte Paulus, daß er mitzöge, und nahm und beschnitt ihn, wegen der Juden, die an selbigen Orten waren; denn alle wußten, daß sein Vater ein Grieche war.</verse>
+        <verse osisID='Acts.16.4'>Wie sie nun durch die Städte zogen, teilten sie ihnen zur Beachtung die Verordnungen mit, die von den Aposteln und Ältesten in Jerusalem festgesetzt worden waren.</verse>
+        <verse osisID='Acts.16.5'>Die Gemeinden wurden im Glauben bestärkt und nahmen täglich zu an der Zahl.</verse>
+        <verse osisID='Acts.16.6'>Da sie aber Phrygien und das galatische Land durchzogen hatten, wehrte ihnen der Heilige Geist, das Wort Gottes in Asien zu verkündigen;</verse>
+        <verse osisID='Acts.16.7'>Als sie gen Mysien kamen versuchten sie nach Bithynien zu ziehen, aber auch dies ließ ihnen der Geist nicht zu.</verse>
+        <verse osisID='Acts.16.8'>So gingen sie an Mysien vorbei und wandten sich nach Troas hinab.</verse>
+        <verse osisID='Acts.16.9'>Und Nachts erschien dem Paulus ein Gesicht: Ein mazedonischer Mann stand da, bat ihn und sprach: Komm nach Mazedonien hinüber und hilf uns.</verse>
+        <verse osisID='Acts.16.10'>So wie er das Gesicht gesehen, trachteten wir alsbald nach Mazedonien zu kommen, indem wir schlossen, daß der Herr uns berufen hätte, denen dort das Evangelium zu predigen.</verse>
+        <verse osisID='Acts.16.11'>Wir fuhren denn von Troas ab und gelangten geraden Weges nach Samothrace, am folgenden Tage nach Neapolis,</verse>
+        <verse osisID='Acts.16.12'>Und von da nach Philippi, das eine Hauptstadt<note>dieses</note> Teils von Mazedonien und eine<note>römische</note> Pflanzstadt ist.</verse>
+        <verse osisID='Acts.16.13'>Wir verweilten in selbiger Stadt einige Tage; am Sabbathtage aber gingen wir hinaus vor die Stadt an den Fluß, da man zu beten pflegte, setzten uns und redeten zu den Weibern, die dort waren zusammengekommen.</verse>
+        <verse osisID='Acts.16.14'>Und ein Weib mit Namen Lydia, eine Purpurhändlerin aus der Stadt Thyatira, die Gott fürchtete, hörte zu; und ihr tat der Herr das Herz auf, daß sie dem, was Paulus redete, Gehör gab.</verse>
+        <verse osisID='Acts.16.15'>Als aber sie und ihr Haus getauft ward, bat sie und sprach: Wenn ihr erachtet habt, daß ich an den Herrn gläubig bin, so tretet in mein Haus ein und bleibt allda; und sie nötigte uns.</verse>
+        <verse osisID='Acts.16.16'>Es geschah aber, da wir zum Gebet gingen, daß uns eine Magd begegnete, die einen Wahrsagergeist hatte und ihren Herren durch Wahrsagen großen Gewinn brachte.</verse>
+        <verse osisID='Acts.16.17'>Diese folgte Paulus und uns nach und schrie: Diese Menschen sind Knechte des höchsten Gottes, die euch den Weg des Heils verkündigen.</verse>
+        <verse osisID='Acts.16.18'>Dies tat sie viele Tage. Dem Paulus war das lästig, und er wandte sich um und sprach zu dem Geiste: Ich gebiete dir im Namen Jesu Christi, daß du von ihr ausfahrst. Und er fuhr aus von ihr zur selbigen Stunde.</verse>
+        <verse osisID='Acts.16.19'>Da aber ihre Herren sahen, daß ihnen ihre Hoffnung auf Gewinn entging, ergriffen sie Paulus und Silas und schleppten sie auf den Markplatz vor die Oberen,</verse>
+        <verse osisID='Acts.16.20'>Und stellten sie vor die Stadtrichter und sagten: Diese Menschen stiften Unruhen in unserer Stadt und sind Juden,</verse>
+        <verse osisID='Acts.16.21'>Und verkündigen Gebräuche, die uns nicht geziemt anzunehmen, noch auszuüben, weil wir Römer sind.</verse>
+        <verse osisID='Acts.16.22'>Auch stand das Volk wider sie auf, und die Stadtrichter ließen ihnen die Kleider abreißen und sie geißeln.</verse>
+        <verse osisID='Acts.16.23'>Und nachdem sie ihnen viele Streiche gegeben, warfen sie dieselben ins Gefängnis und befahlen dem Kerkermeister, daß er sie wohl bewahrete.</verse>
+        <verse osisID='Acts.16.24'>Als dieser solchen Befehl erhielt, führte er sie in das innerste Gefängnis und legte ihre Füße in den Stock.</verse>
+        <verse osisID='Acts.16.25'>Um Mitternacht aber beteten Paulus und Silas und lobpriesen Gott, und es hörten ihnen die Gefangenen zu.</verse>
+        <verse osisID='Acts.16.26'>Da entstand plötzlich ein gewaltiges Erdbeben, so daß die Grundfesten des Gefängnisses erschüttert wurden, und alsbald sprangen alle Türen auf, und aller Bande entfielen.</verse>
+        <verse osisID='Acts.16.27'>Der Kerkermeister fuhr aus dem Schlafe auf, und da er die Türen des Gefängnisses offen sah, zog er sein Schwert und wollte sich entleiben, indem er meinte, die Gefangenen wären entflohen.</verse>
+        <verse osisID='Acts.16.28'>Paulus aber rief mit lauter Stimme: Tue dir kein Leid, denn wir sind alle hier!</verse>
+        <verse osisID='Acts.16.29'>Darauf ließ er Lichter bringen, sprang hinein und fiel Paulus und Silas zitternd zu Füßen;</verse>
+        <verse osisID='Acts.16.30'>Und führte sie heraus und sprach: Ihr Herren, was muß ich tun, daß ich selig werde?</verse>
+        <verse osisID='Acts.16.31'>Sie antworteten: Glaube an den Herrn Jesus Christus, so wirst du und dein Haus selig werden!</verse>
+        <verse osisID='Acts.16.32'>Und sie redeten zu ihm und allen, die in seinem Hause waren, das Wort des Herrn.</verse>
+        <verse osisID='Acts.16.33'>Und er nahm sie zur selben Stunde in der Nacht zu sich und wusch ihnen die Striemen ab, und ließ sich alsbald mit seinem ganzen Hause taufen;</verse>
+        <verse osisID='Acts.16.34'>Und er führte sie in sein Haus, bereitete ihnen ein Mahl und freute sich mit seinem ganzen Hause, daß er an Gott gläubig geworden war.</verse>
+        <verse osisID='Acts.16.35'>Als es Tag ward, schickten die Stadtrichter die Gerichtsdiener und ließen sagen: Laß die Leute los.</verse>
+        <verse osisID='Acts.16.36'>Da verkündete der Kerkermeister dem Paulus diese Worte: Die Stadtrichter haben hergesandt, daß ihr sollt losgelassen werden; nun könnt ihr ausziehen und im Frieden eure Wege gehen.</verse>
+        <verse osisID='Acts.16.37'>Paulus aber ließ ihnen sagen: Man hat uns, die wir Römer sind, ohne Verhör öffentlich gegeißelt, in das Gefängnis geworfen, und will uns nun heimlich fortschicken; nicht also, sie mögen selbst kommen und uns hinausführen.</verse>
+        <verse osisID='Acts.16.38'>Die Gerichtsdiener hinterbrachten den Stadtrichtern diese Worte, und diese gerieten in Furcht, da sie hörten, daß sie Römer wären.</verse>
+        <verse osisID='Acts.16.39'>Sie kamen und redeten ihnen zu, führten sie heraus und baten sie, die Stadt zu verlassen.</verse>
+        <verse osisID='Acts.16.40'>Da traten sie aus dem Gefängnis und begaben sich zu der Lydia, sahen die Brüder, ermahnten sie und zogen aus.</verse>
+      </chapter>
+      <chapter osisID='Acts.17'>
+        <title>Paulus in Thessalonich, Beröa und Athen.</title>
+        <verse osisID='Acts.17.1'>Sie nahmen ihren Weg über Amphipolis und Apollonia und kamen nach Thessalonich, wo die Synagoge der Juden war.</verse>
+        <verse osisID='Acts.17.2'>Paulus ging nach seiner Gewohnheit zu ihnen und besprach sich drei Sabbathe mit ihnen aus den Schriften.</verse>
+        <verse osisID='Acts.17.3'>Er erschloß sie ihnen und legte ihnen dar, daß der Christus<note>Messias</note> mußte leiden und von den Toten auferstehen, und daß Dieser ist eben der Jesus Christus<note>sprach er</note>, Den ich euch verkündige.</verse>
+        <verse osisID='Acts.17.4'>Und etliche unter ihnen ließen sich überzeugen, und hielten sich zu Paulus und Silas, auch eine große Menge der gottesfürchtigen Griechen, und der vornehmsten Frauen nicht wenige.</verse>
+        <verse osisID='Acts.17.5'>Die ungläubigen Juden aber, voll Neides, nahmen etliche schlechte Leute vom Marktpöbel zu sich, erregten einen Auflauf und setzten die Stadt in Bewegung. Sie zogen vor Jasons Haus, und suchten sie unter die Menge zu führen.</verse>
+        <verse osisID='Acts.17.6'>Da sie sie aber nicht fanden, schleppten sie Jason und etliche Brüder vor die Stadtober- sten und schrien: Diese, die den ganzen Erdkreis aufregen, sind auch hierher gekommen, und sie hat Jason zur Herberge.</verse>
+        <verse osisID='Acts.17.7'>Diese alle handeln den Verordnungen des Kaisers entgegen, und sagen: Ein anderer -Jesus - sei König.</verse>
+        <verse osisID='Acts.17.8'>So brachten sie das Volk und die Stadtobersten, die solches hörten, in Aufregung.</verse>
+        <verse osisID='Acts.17.9'>Nachdem sie aber von Jason und den anderen Sicherheit genommen, entließen sie dieselben.</verse>
+        <verse osisID='Acts.17.10'>Die Brüder aber entließen alsbald in der Nacht Paulus und Silas gen Beröa. Als sie dort angekommen waren, begaben sie sich in die Synagoge der Juden.</verse>
+        <verse osisID='Acts.17.11'>Diese waren besser gesinnt, als die in Thessalonich, und nahmen das Wort mit aller Bereitwilligkeit auf und forschten täglich in den Schriften, ob es sich also verhielte.</verse>
+        <verse osisID='Acts.17.12'>Viele von ihnen wurden gläubig, und auch von den griechischen ehrbaren Frauen und Männern nicht wenige.</verse>
+        <verse osisID='Acts.17.13'>Als aber die Juden in Thessalonich erfuhren, daß auch in Beröa das Wort Gottes von Paulus verkündigt wurde, kamen sie und bewegten auch dort das Volk.</verse>
+        <verse osisID='Acts.17.14'>Die Brüder aber schafften Paulus alsbald fort an das Meer; Silas aber und Timotheus blieben allda.</verse>
+        <verse osisID='Acts.17.15'>Die aber Paulus geleiteten, führten ihn bis nach Athen und gingen wieder ab, mit dem Auftrag an Silas und Timotheus, daß sie ehestens zu ihm kommen sollten.</verse>
+        <verse osisID='Acts.17.16'>Während Paulus sie in Athen erwartete, ergrimmte sein Geist in ihm, wie er die Stadt so voller Götzenbilder sah.</verse>
+        <verse osisID='Acts.17.17'>Und er redete nun in der Synagoge zu den Juden und Gottesfürchtigen, und auf dem Markte den ganzen Tag zu denen, die sich herzufanden.</verse>
+        <verse osisID='Acts.17.18'>Etliche aber der Epikureer und der stoischen Philosophen stritten sich mit ihm, und einige sagten: Was will doch dieser Schwätzer da; andere: Er will fremde Götter bei uns ankündigen; weil er ihnen von Jesus und der Auferstehung predigte.</verse>
+        <verse osisID='Acts.17.19'>Sie aber nahmen ihn und führten ihn auf den Areopag und sprachen: Können wir erfahren, was das für eine neue Lehre ist, die du vorträgst?</verse>
+        <verse osisID='Acts.17.20'>Denn du bringst ganz neue Dinge vor unsere Ohren, und wir wollen hören, wie es sich damit verhält.</verse>
+        <verse osisID='Acts.17.21'>Alle Athener und auch die Fremden, die sich allda aufhielten, hatten für nichts mehr Sinn, als von etwas Neuem zu reden oder zu hören.</verse>
+        <verse osisID='Acts.17.22'>Paulus trat denn mitten auf dem Areopag auf und sprach: Ihr Männer von Athen, ich sehe, daß ihr vor allen anderen gottesfürchtig seid;</verse>
+        <verse osisID='Acts.17.23'>Denn wie ich so herumging und eure Götterbilder ansah, traf ich auch auf einen Altar mit der Inschrift: Dem unbekannten Gott. Diesen nun, Den ihr, ohne Ihn zu kennen, verehrt, verkündige ich euch.</verse>
+        <verse osisID='Acts.17.24'>Der Gott, Der die Welt und alles darin geschaffen hat, ist der Herr des Himmels und der Erde, wohnt nicht in Tempeln, mit Händen gemacht;</verse>
+        <verse osisID='Acts.17.25'>Auch wird Er nicht von Menschenhänden bedient, als bedürfte Er jemandes, da Er Selbst allen Leben, Odem und alle Dinge gibt.</verse>
+        <verse osisID='Acts.17.26'>Auch ließ Er, aus einem Blute entsprossen, das Geschlecht aller Menschen auf dem ganzen Erdboden wohnen, indem Er bestimmte Zeiten und die Grenzen ihrer Wohnsitze festsetzte.</verse>
+        <verse osisID='Acts.17.27'>Auf daß sie Gott suchten, ob sie Ihn nicht irgendwo mit Händen greifen und finden könnten, obwohl Er von keinem unter uns ferne ist;</verse>
+        <verse osisID='Acts.17.28'>Denn in Ihm leben, weben und sind wir, wie auch etliche eurer Dichter gesagt haben: Wir sind Seines Geschlechtes.</verse>
+        <verse osisID='Acts.17.29'>So wir nun vom Geschlechte Gottes sind, sollten wir nicht meinen, daß die Gottheit dem Gold, Silber oder Stein, einem Meißelbild der Kunst oder menschlicher Einbildung gleiche.</verse>
+        <verse osisID='Acts.17.30'>Die Zeiten der Unwissenheit übersehend, kündigt Gott jetzt allen Menschen an, daß sie Buße tun sollten.</verse>
+        <verse osisID='Acts.17.31'>Darum hat Er einen Tag gesetzt, an dem Er den ganzen Erdkreis mit Gerechtigkeit richten will, durch einen Mann, den Er verordnet und vor allen beglaubigt hat, da Er Ihn von den Toten auferweckte.</verse>
+        <verse osisID='Acts.17.32'>Da sie von der Auferstehung der Toten hörten, spotteten einige; andere aber sagten: Wir wollen dich darüber ein anderes Mal weiter hören.</verse>
+        <verse osisID='Acts.17.33'>Und so trat denn Paulus aus ihrer Mitte.</verse>
+        <verse osisID='Acts.17.34'>Einige Männer aber hielten sich zu ihm und glaubten, darunter auch der Areopagite Dionysius, und eine Frau, mit Namen Damaris, und andere mit ihnen.</verse>
+      </chapter>
+      <chapter osisID='Acts.18'>
+        <title>Paulus in Korinth, Ephesus, Jerusalem und Antiochien. Apollos.</title>
+        <verse osisID='Acts.18.1'>Hierauf schied Paulus von Athen und kam nach Korinth;</verse>
+        <verse osisID='Acts.18.2'>Und fand allda einen Juden, mit Namen Aquila, aus Pontus gebürtig, der kurz zuvor mit seinem Weibe Priscilla aus Italien gekommen war, weil Claudius alle Juden aus Rom ausgewiesen hatte. Zu diesen ging er ein.</verse>
+        <verse osisID='Acts.18.3'>Und weil er gleichen Handwerks war, blieb er bei ihnen und arbeitete; denn sie waren ihres Handwerks Zeltmacher.</verse>
+        <verse osisID='Acts.18.4'>Jeden Sabbath aber besprach er sich in der Synagoge mit Juden und Griechen und überzeugte sie.</verse>
+        <verse osisID='Acts.18.5'>Als aber Silas und Timotheus aus Mazedonien kamen, ward Paulus im Geiste von dem Worte gedrungen, und bezeugte eifrig Jesus Christus vor den Juden.</verse>
+        <verse osisID='Acts.18.6'>Da sie sich ihm aber widersetzten und lästerten, schüttelte er seine Kleider aus und sprach zu ihnen: Euer Blut komme auf euer Haupt! ich bin rein. Von nun an wende ich mich zu den Heiden.</verse>
+        <verse osisID='Acts.18.7'>Und er wandte sich von dannen, und kam in das Haus eines Mannes, mit Namen Justus, der gottesfürchtig war und dessen Haus an die Synagoge stieß.</verse>
+        <verse osisID='Acts.18.8'>Crispus aber, der Vorsteher der Synagoge, glaubte mit seinem ganzen Haus an den Herrn, und viele Korinther, die ihn hörten, wurden gläubig, und ließen sich taufen.</verse>
+        <verse osisID='Acts.18.9'>Der Herr aber sprach in einem Gesicht in der Nacht zu Paulus: Fürchte dich nicht, sondern rede und schweige nicht!</verse>
+        <verse osisID='Acts.18.10'>Denn Ich bin mit dir, niemand soll sich an dir vergreifen und dir ein Leid zufügen; denn Ich habe viel Volks in dieser Stadt.</verse>
+        <verse osisID='Acts.18.11'>Er blieb daselbst ein Jahr und sechs Monate und lehrte sie das Wort Gottes.</verse>
+        <verse osisID='Acts.18.12'>Während aber Gallio Statthalter von Achaja<note>Griechenland</note> war, traten die Juden sämtlich wider Paulus auf und führten ihn vor den Richterstuhl.</verse>
+        <verse osisID='Acts.18.13'>Und sprachen: Dieser überredet die Leute, dem Gesetz zuwider Gott zu verehren.</verse>
+        <verse osisID='Acts.18.14'>Da wollte Paulus den Mund auftun, aber Gallio sprach zu den Juden: Wenn es ein Frevel oder ein schlechtes Bubenstück wäre, ihr Juden, so würde ich billigerweise euch anhören,</verse>
+        <verse osisID='Acts.18.15'>Nun es sich aber um Streitfragen über Lehre, Namen und euer Gesetz handelt, mögt ihr selbst zusehen. Ich will darüber nicht zu Gericht sitzen.</verse>
+        <verse osisID='Acts.18.16'>Und er trieb sie fort vom Richterstuhl.</verse>
+        <verse osisID='Acts.18.17'>Da ergriffen alle den Synagogenvorsteher Sosthenes, und schlugen ihn vor dem Richterstuhl, und Gallio kümmerte sich nicht darum.</verse>
+        <verse osisID='Acts.18.18'>Paulus blieb noch viele Tage dort, und nahm dann Abschied von den Brüdern, und ging zu Schiff nach Syrien, und mit ihm Priscilla und Aquila, der sich in Kenchrea das Haupt scheren ließ; denn er hatte ein Gelübde.</verse>
+        <verse osisID='Acts.18.19'>Sie fuhren an das Land nach Ephesus, und dort ließ er sie; er selbst aber ging in die Synagoge, und besprach sich mit den Juden.</verse>
+        <verse osisID='Acts.18.20'>Als sie ihn baten, länger bei ihnen zu bleiben, lehnte er es ab,</verse>
+        <verse osisID='Acts.18.21'>Und verabschiedete sich von ihnen, indem er sagte: Ich muß durchaus auf das kommende Fest in Jerusalem sein, werde aber, so Gott will, wieder zu euch kommen, und so fuhr er wieder ab von Ephesus.</verse>
+        <verse osisID='Acts.18.22'>Er fuhr an das Land gen Cäsarea, ging hinauf und grüßte die Gemeinde, und begab sich sodann hinab nach Antiochia.</verse>
+        <verse osisID='Acts.18.23'>Hier verweilte er einige Zeit, zog dann aus und reiste von Ort zu Ort durch das galatische Land und Phrygien, indem er überall die Jünger bestärkte.</verse>
+        <verse osisID='Acts.18.24'>Es kam aber ein gewisser Jude, mit Namen Apollos, aus Alexandria gebürtig, ein beredter Mann, mächtig in der Schrift, gen Ephesus.</verse>
+        <verse osisID='Acts.18.25'>Dieser war in der Lehre des Herrn unterrichtet, redete und lehrte voll Begeisterung treulich vom Herrn, wußte aber nur von der Taufe des Johannes.</verse>
+        <verse osisID='Acts.18.26'>Dieser redete mit Freimut in der Synagoge. Ihn hörten Aquila und Priscilla, nahmen ihn zu sich und legten ihm noch genauer den Weg Gottes aus.</verse>
+        <verse osisID='Acts.18.27'>Da er nach Achaja<note>Griechenland</note> reisen wollte, munterten ihn die Brüder auf und schrieben den Jüngern, daß sie ihn aufnehmen sollten. Als er ankam, half er viel denen, die gläubig geworden durch die Gnade Gottes.</verse>
+        <verse osisID='Acts.18.28'>Denn er widerlegte die Juden öffentlich auf das nachdrücklichste, indem er aus der Schrift bewies, daß Jesus der Christ<note>Messias</note> sei.</verse>
+      </chapter>
+      <chapter osisID='Acts.19'>
+        <title>Paulus zu Ephesus.</title>
+        <verse osisID='Acts.19.1'>Es begab sich aber, während Apollos in Korinth war, daß Paulus, nachdem er landeinwärts gezogen, nach Ephesus kam.</verse>
+        <verse osisID='Acts.19.2'>Hier fand er etliche Jünger und fragte sie: Habt ihr, als ihr gläubig wurdet, den Heiligen Geist empfangen? Sie sagten ihm: Wir haben nicht einmal gehört, ob ein Heiliger Geist sei.</verse>
+        <verse osisID='Acts.19.3'>Da fragte er sie: Auf was seid ihr denn getauft worden? Sie antworteten: Auf die Taufe des Johannes.</verse>
+        <verse osisID='Acts.19.4'>Da sprach Paulus: Johannes hat mit der Taufe der Buße getauft, und dem Volk gesagt, sie sollten an Den glauben, Der nach ihm komme, das heißt an Jesus, daß Er Christus sei.</verse>
+        <verse osisID='Acts.19.5'>Als sie solches hörten, ließen sie sich auf den Namen des Herrn Jesus taufen.</verse>
+        <verse osisID='Acts.19.6'>Da Paulus ihnen die Hände auflegte, kam der Heilige Geist auf sie, und sie redeten mit Zungen und weissagten.</verse>
+        <verse osisID='Acts.19.7'>Der Männer aber waren es bei zwölfen.</verse>
+        <verse osisID='Acts.19.8'>Er ging nun in die Synagoge und redete dort frei drei Monate, indem er sich mit ihnen besprach, und sie vom Reich Gottes zu überzeugen suchte.</verse>
+        <verse osisID='Acts.19.9'>Als aber ein Teil verstockt blieb und nicht glauben wollte, vielmehr die Lehre vor der Menge verleumdete, ließ er von ihnen ab, und sonderte die Jünger ab, indem er in der Schule eines gewissen Tyrannus mit ihnen redete.</verse>
+        <verse osisID='Acts.19.10'>Dies geschah zwei Jahre lang, so daß alle, die in Asia wohnten, das Wort des Herrn hörten, Juden und Griechen.</verse>
+        <verse osisID='Acts.19.11'>Und Gott wirkte durch die Hände des Paulus außerordentliche Wundertaten,</verse>
+        <verse osisID='Acts.19.12'>So daß sie von seinem Leib weg Schweißtücher oder Binden auf die Kranken legten, und die Krankheiten von ihnen wichen und böse Geister ausfuhren.</verse>
+        <verse osisID='Acts.19.13'>Da unterfingen sich einige der umherziehenden jüdischen Beschwörer, über die, so böse Geister hatten, den Namen des Herrn Jesus zu nennen und zu sagen: Ich beschwöre euch bei dem Jesus, den Paulus verkündigt!</verse>
+        <verse osisID='Acts.19.14'>Es waren sieben Söhne eines jüdischen Hohenpriesters Skewah, die solches taten.</verse>
+        <verse osisID='Acts.19.15'>Der böse Geist aber antwortete und sprach: Den Jesus kenne ich, auch weiß ich von Paulus; wer seid aber ihr?</verse>
+        <verse osisID='Acts.19.16'>Und der Mensch, in dem der böse Geist war, sprang auf sie los, bemächtigte sich ihrer und überwältigte sie, so daß sie nackt und verwundet aus selbigem Hause entflohen.</verse>
+        <verse osisID='Acts.19.17'>Solches ward kund allen Juden und Griechen, die in Ephesus wohnten; und sie alle gerieten in Furcht, und der Name des Herrn Jesus wurde hoch gepriesen.</verse>
+        <verse osisID='Acts.19.18'>Und viele derer, die gläubig geworden waren, kamen und bekannten und verkündeten, was sie früher ausgerichtet hatten.</verse>
+        <verse osisID='Acts.19.19'>Viele derer, die solch unnützes Zeug getrieben, brachten die Bücher zusammen, und verbrannten sie vor aller Augen; auch berechneten sie ihre Einnahmen und fanden des Geldes fünfzigtausend Drachmen.</verse>
+        <verse osisID='Acts.19.20'>So gewaltig wuchs das Wort des Herrn und nahm überhand.</verse>
+        <verse osisID='Acts.19.21'>Als solches vollbracht war, setzte sich Paulus vor im Geiste, nach einer Reise durch Mazedonien und Achaja sich nach Jerusalem zu wenden, und sprach: Nachdem ich dort gewesen bin, muß ich auch Rom sehen.</verse>
+        <verse osisID='Acts.19.22'>Er sandte zwei von denen, die ihm dienten, Timotheus und Erastus, nach Mazedonien voraus; er selbst aber verzog noch eine Zeitlang in Asien.</verse>
+        <verse osisID='Acts.19.23'>Um selbige Zeit entstand eine nicht geringe Bewegung über dem Weg des Herrn.</verse>
+        <verse osisID='Acts.19.24'>Denn ein Silberschmied, mit Namen Demetrius, der silberne Tempelchen der Diana fertigte, gab den Arbeitern viel zu verdienen.</verse>
+        <verse osisID='Acts.19.25'>Diese nun und alle, die dabei zu tun hatten, versammelte er und sprach: Ihr wißt, Männer, daß wir von dieser Arbeit unseren Wohlstand haben.</verse>
+        <verse osisID='Acts.19.26'>Ihr seht aber und hört, daß nicht allein in Ephesus, sondern auch beinahe in ganz Asien dieser Paulus viel Volks abwendig gemacht hat, indem er sagt: Das sind keine Götter, die mit Händen gemacht sind.</verse>
+        <verse osisID='Acts.19.27'>Nicht allein ist dieser unser Erwerb in Gefahr in Verruf zu kommen, sondern es wird auch der Tempel der großen Göttin Diana für nichts geachtet, und ihre Majestät, die ganz Asien und der Weltkreis verehrt, vernichtet werden.</verse>
+        <verse osisID='Acts.19.28'>Als sie solches hörten, wurden sie entrüstet und riefen: Groß ist die Diana der Epheser!</verse>
+        <verse osisID='Acts.19.29'>Und die ganze Stadt geriet in Verwirrung, sie stürmten einmütig in das Theater und rissen die Mazedonier Gajus und Aristarchus, des Paulus Gefährten, mit sich dahin.</verse>
+        <verse osisID='Acts.19.30'>Da Paulus unter das Volk treten wollte, ließen es ihm die Jünger nicht zu.</verse>
+        <verse osisID='Acts.19.31'>Auch einige der Asiarchen, die ihm befreundet waren, ließen ihn verwarnen, sich nicht in das Theater zu wagen.</verse>
+        <verse osisID='Acts.19.32'>Die einen schrien dies, die anderen anderes; denn die Versammlung war in Verwirrung, und die Mehrzahl wußte nicht, warum sie zusammengekommen wären.</verse>
+        <verse osisID='Acts.19.33'>Da zogen sie aus der Menge Alexander hervor, den die Juden vorschoben. Alexander aber machte eine Bewegung mit der Hand und wollte vor dem Volke Verantwortung tun.</verse>
+        <verse osisID='Acts.19.34'>Da sie aber hörten, daß er ein Jude sei, erhob sich eine Stimme von allen, indem sie bei zwei Stunden schrien: Groß ist die Diana der Epheser!</verse>
+        <verse osisID='Acts.19.35'>Der Kanzler aber beschwichtigte das Volk und sprach: Männer von Ephesus, wo ist ein Mensch auf Erden, der nicht wüßte, daß die Stadt der Epheser Tempelwärterin der großen Diana und des himmlischen Bildes ist?</verse>
+        <verse osisID='Acts.19.36'>Da dies nun unwidersprechlich ist, so gebührt es uns, ruhig zu bleiben und nichts Übereiltes zu tun.</verse>
+        <verse osisID='Acts.19.37'>Ihr habt diese Männer vorgeführt, die weder Tempelräuber noch Lästerer eurer Göttin sind.</verse>
+        <verse osisID='Acts.19.38'>Hat aber Demetrius und seine Kunstgenossen eine Sache wider einen, so hält man ja Gerichte und hat Statthalter, da mögen sie einander Rede stehen.</verse>
+        <verse osisID='Acts.19.39'>Habt ihr noch weitere Beschwerden, so wird es in der gesetzlichen Versammlung erledigt werden;</verse>
+        <verse osisID='Acts.19.40'>Denn wir stehen in Gefahr, wegen des heutigen Auftritts des Aufruhrs angeklagt zu werden, ohne daß ein Grund vorliegt, mit dem wir diesen Auflauf verantworten könnten.</verse>
+        <verse osisID='Acts.19.41'>Damit ließ er die Versammlung auseinandergehen.</verse>
+      </chapter>
+      <chapter osisID='Acts.20'>
+        <title>Paulus in Mazedonien, Griechenland und zu Jerusalem.</title>
+        <verse osisID='Acts.20.1'>Nachdem dieser Aufruhr gestillt war, rief Paulus die Jünger zusammen, nahm Abschied und machte sich auf, nach Mazedonien zu reisen.</verse>
+        <verse osisID='Acts.20.2'>Wie er durch selbige Lande kam, ermahnte er sie mit vielen Worten, und gelangte dann nach Griechenland.</verse>
+        <verse osisID='Acts.20.3'>Nachdem er allda drei Monate verzogen und ihm dann, wie er im Begriff war nach Syrien abzufahren, von den Juden nachgestellt wurde, war der Rats, über Mazedonien zurückzukehren.</verse>
+        <verse osisID='Acts.20.4'>Es folgte ihm aber bis nach Asien Sopater, des Pyrrhus Sohn, von Beröa, Aristarchus und Secundus von den Thessalonichern, Gajus von Derbe und Timotheus, Tychikus und Trophimus aus Asien.</verse>
+        <verse osisID='Acts.20.5'>Diese reisten voraus und erwarteten uns in Troas.</verse>
+        <verse osisID='Acts.20.6'>Wir aber fuhren nach den Tagen der ungesäuerten Brote von Philippi ab, und kamen in fünf Tagen zu ihnen nach Troas, woselbst wir sieben Tage verweilten.</verse>
+        <verse osisID='Acts.20.7'>Am ersten Wochentage aber waren die Jünger beisammen, das Brot zu brechen, und Paulus hielt eine Ansprache an sie, weil er am morgenden Tage abreisen wollte, und dehnte seinen Vortrag bis um Mitternacht aus.</verse>
+        <verse osisID='Acts.20.8'>Es waren aber viele Lampen auf dem Söller, da wir versammelt waren.</verse>
+        <verse osisID='Acts.20.9'>Da saß ein junger Mensch, mit Namen Eutychus, am Fenster, und sank in einen tiefen Schlaf, weil Paulus so lange redete, und fiel, vom Schlaf bewältigt, vom dritten Stockwerk hinab und ward tot aufgehoben.</verse>
+        <verse osisID='Acts.20.10'>Paulus aber stieg hinab, legte sich über ihn und umfaßte ihn und sprach: Macht euch keine Unruhe; denn seine Seele ist noch in ihm.</verse>
+        <verse osisID='Acts.20.11'>Er stieg wieder hinauf, brach das Brot, aß, und redete dann noch lange bis zu Tagesanbruch. Dann reiste er ab.</verse>
+        <verse osisID='Acts.20.12'>Den Jungen aber brachte man lebendig herauf, und sie waren nicht wenig getröstet.</verse>
+        <verse osisID='Acts.20.13'>Wir aber waren voraus nach dem Schiff gegangen und nach Assos gefahren, wo wir Paulus aufnehmen sollten; denn so hatte er es angeordnet, da er zu Land dahin reisen wollte.</verse>
+        <verse osisID='Acts.20.14'>Als er in Assos bei uns eintraf, nahmen wir ihn zu uns, und kamen nach Mitylene.</verse>
+        <verse osisID='Acts.20.15'>Von dannen schifften wir ab, und kamen am folgenden Tag auf der Höhe von Chios an; am anderen Tag legten wir in Samos an und blieben in Trogyllion, und gelangten am Tage darauf nach Milet;</verse>
+        <verse osisID='Acts.20.16'>Denn Paulus hatte beschlossen, an Ephesus vorüberzufahren, um sich nicht in Asien aufzuhalten; denn er hatte Eile, um noch, wo möglich, am Pfingsttage in Jerusalem zu sein.</verse>
+        <verse osisID='Acts.20.17'>Von Milet schickte er nach Ephesus und entbot die Ältesten der Gemeinde zu sich.</verse>
+        <verse osisID='Acts.20.18'>Als sie zu ihm kamen, sprach er zu ihnen: Ihr wißt, wie ich vom ersten Tage an, da ich nach Asien gekommen, allezeit bei euch war,</verse>
+        <verse osisID='Acts.20.19'>Und dem Herrn diente mit aller Demut und unter Tränen und Anfechtungen, die mir durch die Nachstellungen der Juden widerfuhren;</verse>
+        <verse osisID='Acts.20.20'>Wie ich euch nichts, das zu eurem Besten diente, vorenthielt, daß ich es euch nicht verkündet und euch gelehrt hätte öffentlich und in den Häusern umher;</verse>
+        <verse osisID='Acts.20.21'>Und Juden und Griechen zur Umkehr zu Gott und zum Glauben an unseren Herrn Jesus Christus vermahnte.</verse>
+        <verse osisID='Acts.20.22'>Und siehe, ich reise nun, gebunden im Geiste, nach Jerusalem, und weiß nicht, was mir daselbst widerfahren wird;</verse>
+        <verse osisID='Acts.20.23'>Außer daß mir der Heilige Geist von Stadt zu Stadt bezeugt und sagt, daß Bande und Drangsale meiner warten.</verse>
+        <verse osisID='Acts.20.24'>Aber ich achte deren keines, auch gilt mir mein Leben nichts für mich selbst, um meinen Lauf mit Freuden zu vollenden und im Dienste, den ich vom Herrn Jesu empfangen, das Evangelium der Gnade Gottes zu bezeugen.</verse>
+        <verse osisID='Acts.20.25'>Und nun siehe, ich weiß, daß ihr alle, denen ich auf meinen Reisen das Reich Gottes verkündigt, mein Angesicht nicht wieder sehen werdet,</verse>
+        <verse osisID='Acts.20.26'>Darum bezeuge ich euch am heutigen Tage, daß ich rein bin von aller Blut.</verse>
+        <verse osisID='Acts.20.27'>Denn ich habe euch nichts vorenthalten, daß ich nicht den ganzen Ratschluß Gottes verkündet hätte.</verse>
+        <verse osisID='Acts.20.28'>So habt nun Acht auf euch selbst und auf die ganze Herde, über die euch der Heilige Geist zu Vorstehern gesetzt hat, um zu weiden die Kirche Gottes, die Er Sich durch Sein eigen Blut erworben hat.</verse>
+        <verse osisID='Acts.20.29'>Denn das weiß ich, daß nach meinem Scheiden reißende Wölfe werden unter euch kommen, die der Herde nicht schonen werden.</verse>
+        <verse osisID='Acts.20.30'>Selbst aus eurer Mitte werden Männer aufstehen, die verkehrte Dinge reden, um die Jünger an sich zu ziehen.</verse>
+        <verse osisID='Acts.20.31'>Darum wachet und seid eingedenk, daß ich drei Jahre lang Tag und Nacht nicht aufhörte, einen jeden mit Tränen zu vermahnen.</verse>
+        <verse osisID='Acts.20.32'>Und nun empfehle ich euch, Brüder, Gott und dem Worte Seiner Gnade, Ihm, Der mächtig ist, euch weiter zu erbauen und euch ein Erbteil unter allen Heiligen zu verleihen.</verse>
+        <verse osisID='Acts.20.33'>Silber oder Gold oder Kleidung habe ich von niemand begehrt.</verse>
+        <verse osisID='Acts.20.34'>Ihr wißt selbst, daß diese meine Hände für meine und meiner Gefährten Bedürfnisse gesorgt haben.</verse>
+        <verse osisID='Acts.20.35'>Ich habe euch in allem gezeigt, daß man also arbeiten müsse, und sich der Schwachen annehmen, stets eingedenk der Worte des Herrn Jesus, daß Er sprach: Geben ist seliger denn nehmen.</verse>
+        <verse osisID='Acts.20.36'>Und als er solches gesprochen, kniete er nieder mit ihnen allen und betete.</verse>
+        <verse osisID='Acts.20.37'>Es war aber viel Weinens unter allen, und sie fielen Paulus um den Hals und küßten ihn.</verse>
+        <verse osisID='Acts.20.38'>Am meisten aber betrübten sie sich darüber, daß er sagte, sie würden sein Angesicht nicht mehr schauen. Sie geleiteten ihn in das Schiff.</verse>
+      </chapter>
+      <chapter osisID='Acts.21'>
+        <title>Paulus reist von Milet gen Jerusalem und wird dort gefangengenommen.</title>
+        <verse osisID='Acts.21.1'>Nachdem wir von ihnen geschieden, gingen wir in die See und fuhren stracken Laufs gen Kos, und am folgenden Tage gen Rhodus und von dannen gen Patara.</verse>
+        <verse osisID='Acts.21.2'>Und da wir ein Schiff fanden, das nach Phönizien überfuhr, stiegen wir ein und fuhren ab.</verse>
+        <verse osisID='Acts.21.3'>Als wir Zypern ansichtig wurden, ließen wir es links liegen, fuhren nach Syrien und landeten in Tyrus, wo das Schiff ausladen sollte.</verse>
+        <verse osisID='Acts.21.4'>Wir suchten die Jünger auf und blieben allda sieben Tage. Sie sagten Paulus durch den Geist, er sollte nicht nach Jerusalem ziehen.</verse>
+        <verse osisID='Acts.21.5'>Als wir die Tage dort zugebracht, zogen wir aus und machten uns auf den Weg, und alle begleiteten uns mit Weibern und Kindern bis vor die Stadt, knieten nieder am Gestade und beteten.</verse>
+        <verse osisID='Acts.21.6'>Nachdem wir voneinander Abschied genommen, traten wir in das Schiff, sie aber kehrten nach Hause.</verse>
+        <verse osisID='Acts.21.7'>Wir vollendeten unsere Fahrt und landeten in Ptolemais, begrüßten dort die Brüder und blieben einen Tag bei ihnen.</verse>
+        <verse osisID='Acts.21.8'>Am folgenden Tage zogen wir aus, und kamen gen Cäsarea, und begaben uns in das Haus des Evangelisten Philippus, der einer der Sieben war, und blieben bei ihm.</verse>
+        <verse osisID='Acts.21.9'>Derselbige hatte vier Töchter, die Jungfrauen waren und weissagten.</verse>
+        <verse osisID='Acts.21.10'>Da wir mehrere Tage dort blieben, kam ein Prophet, mit Namen Agabus, von Judäa herab.</verse>
+        <verse osisID='Acts.21.11'>Als er zu uns kam, nahm er des Paulus Gürtel, band sich Hände und Füße und sprach: So spricht der Heilige Geist: Den Mann, dem dieser Gürtel gehört, werden so die Juden in Jerusalem binden und in der Heiden Hände überantworten.</verse>
+        <verse osisID='Acts.21.12'>Da wir solches hörten, baten wir samt denen, die aus selbigem Orte waren, ihn, er sollte nicht hinauf nach Jerusalem ziehen.</verse>
+        <verse osisID='Acts.21.13'>Paulus aber antwortete: Was tut ihr, daß ihr da weint und mir das Herz schwer macht? denn ich bin bereit, in Jerusalem für den Namen des Herrn Jesus nicht allein mich binden zu lassen, sondern auch zu sterben.</verse>
+        <verse osisID='Acts.21.14'>Da er sich nicht abbringen ließ, gaben wir uns zufrieden und sprachen: Es geschehe der Wille des Herrn.</verse>
+        <verse osisID='Acts.21.15'>Nach diesen Tagen brachen wir auf und zogen hinauf gen Jerusalem.</verse>
+        <verse osisID='Acts.21.16'>Es gingen aber mit uns einige der Jünger von Cäsarea und führten uns zu einem alten Jünger, Mnason aus Zypern, bei dem wir herbergen sollten.</verse>
+        <verse osisID='Acts.21.17'>Da wir nach Jerusalem kamen, nahmen uns die Brüder freundlich auf.</verse>
+        <verse osisID='Acts.21.18'>Am anderen Tage ging Paulus mit uns zu Jakobus und alle Ältesten kamen auch dahin.</verse>
+        <verse osisID='Acts.21.19'>Und als er sie gegrüßt hatte, erzählte er im einzelnen alles, was Gott unter den Heiden durch seine Dienstleistung getan.</verse>
+        <verse osisID='Acts.21.20'>Als sie das hörten, lobpriesen sie Gott, sagten ihm aber: Du siehst, Bruder, wie viel tausend Juden gläubig geworden, aber alle noch Eiferer für das Gesetz sind.</verse>
+        <verse osisID='Acts.21.21'>Nun sind sie über dich berichtet worden, du lehrst alle Juden unter den Heiden, sie sollten von Moses abfallen, ihre Kinder nicht mehr beschneiden, auch nicht mehr die Satzungen halten.</verse>
+        <verse osisID='Acts.21.22'>Was ist nun zu tun? Die Menge wird jedenfalls zusammenkommen; denn sie werden hören, daß du gekommen bist.</verse>
+        <verse osisID='Acts.21.23'>So tue nun, was wir dir sagen: Wir haben vier Männer, die ein Gelübde auf sich haben.</verse>
+        <verse osisID='Acts.21.24'>Diese nimm zu dir und heilige sie mit dir, und wende die Kosten für sie auf, daß sie ihr Haupt scheren lassen, und alle werden erkennen, daß nichts an dem sei, was über dich berichtet wurde, daß du vielmehr selbst auch nach dem Gesetz wandelst.</verse>
+        <verse osisID='Acts.21.25'>Den gläubigen Heiden aber haben wir geschrieben und beschlossen, sie brauchten nichts dergleichen zu halten, ausgenommen, daß sie sich hüten sollten vor Götzenopfer, vor Blut, vor Ersticktem und vor Hurerei.</verse>
+        <verse osisID='Acts.21.26'>Da nahm Paulus die Männer zu sich, heiligte sich am anderen Tag mit ihnen, und begab sich in den Tempel, indem er ankündigte, daß er die Tage der Heiligung aushielte, bis für jeden von ihnen das Opfer dargebracht wäre.</verse>
+        <verse osisID='Acts.21.27'>Als nun die sieben Tage beinahe vorbei waren, brachten die Juden aus Asien, die ihn im Tempel sahen, das ganze Volk wider ihn auf, legten die Hände an ihn und schrien:</verse>
+        <verse osisID='Acts.21.28'>Ihr Männer von Israel, kommt zu Hilfe! Das ist der Mensch, der überall jedermann lehrt wider das Volk, das Gesetz und diese Stätte; überdies hat er auch Griechen in den Tempel geführt, und diese Stätte entweiht.</verse>
+        <verse osisID='Acts.21.29'>Sie hatten nämlich den Epheser Trophimus mit ihm in der Stadt gesehen, und meinten, Paulus hätte ihn in den Tempel geführt.</verse>
+        <verse osisID='Acts.21.30'>Die ganze Stadt war in Aufregung, es entstand ein Volksauflauf, und sie griffen Paulus und schleppten ihn zum Tempel hinaus, und alsbald wurden die Türen geschlossen.</verse>
+        <verse osisID='Acts.21.31'>Da sie ihn aber töten wollten, ward dem Obersten der Kohorte angezeigt, daß ganz Jerusalem in Aufruhr sei.</verse>
+        <verse osisID='Acts.21.32'>Dieser nahm alsbald Kriegsleute und Centurionen und eilte auf sie zu. Da sie den Obersten und die Kriegsleute sahen, hörten sie auf, den Paulus zu schlagen.</verse>
+        <verse osisID='Acts.21.33'>Da trat der Oberste hinzu, griff ihn und ließ ihm zwei Ketten anlegen, und fragte, wer er wäre und was er getan hätte?</verse>
+        <verse osisID='Acts.21.34'>Der eine schrie dies, der andere das in der Menge. Da er aber wegen des Lärmens nichts Gewisses erfahren konnte, ließ er ihn in das Standlager führen.</verse>
+        <verse osisID='Acts.21.35'>Als er an die Treppen kam, geschah es, daß wegen des Andrangs der Menge die Kriegsleute ihn tragen mußten.</verse>
+        <verse osisID='Acts.21.36'>Denn die Volksmenge folgte nach und schrie: Weg mit ihm!</verse>
+        <verse osisID='Acts.21.37'>Als man den Paulus in das Standlager abführen wollte, sprach er zu dem Obersten: Ist es mir erlaubt, mit dir zu sprechen? Er fragte: Verstehst du griechisch?</verse>
+        <verse osisID='Acts.21.38'>Bist du nicht der Ägypter, der in diesen Tagen einen Aufruhr erregte und die viertausend Meuchelmörder in die Wüste geführt hat?</verse>
+        <verse osisID='Acts.21.39'>Paulus aber sagte: Ich bin ein jüdischer Mann aus Tarsus in Cilicien, Bürger einer nicht unansehnlichen Stadt. Ich bitte dich, laß mich zu dem Volk reden.</verse>
+        <verse osisID='Acts.21.40'>Als er es ihm erlaubte, trat Paulus vor auf die Stufen und winkte dem Volk mit der Hand. Als eine große Stille eintrat, redete er zu ihnen auf hebräisch und sprach:</verse>
+      </chapter>
+      <chapter osisID='Acts.22'>
+        <title>Paulus verantwortet sich und beruft sich auf sein römisches Bürgerrecht.</title>
+        <verse osisID='Acts.22.1'>Brüder und Väter, vernehmt meine Verantwortung, die ich jetzt an euch richte.</verse>
+        <verse osisID='Acts.22.2'>Da sie hörten, daß er hebräisch zu ihnen redete, wurden sie noch stiller.</verse>
+        <verse osisID='Acts.22.3'>Er sprach: Ich bin ein jüdischer Mann, geboren zu Tarsus in Cilicien, aber erzogen in dieser Stadt zu den Füßen Gamaliels, unterrichtet nach der Strenge des väterlichen Gesetzes, und war ein Eiferer Gottes, wie ihr alle heute noch seid.</verse>
+        <verse osisID='Acts.22.4'>Auch habe ich diesen Weg verfolgt bis zum Tode, band und überantwortete in das Gefängnis Männer und Weiber;</verse>
+        <verse osisID='Acts.22.5'>Wie mir auch der Hohepriester und die Gesamtheit der Ältesten bezeugen muß, von denen ich mit Briefen an die Brüder gen Damaskus reiste, um auch die dortigen gebunden nach Jerusalem zur Bestrafung abzuführen.</verse>
+        <verse osisID='Acts.22.6'>Da geschah es, wie ich dahinzog und nahe zu Damaskus kam, da umstrahlte mich am Mittag plötzlich ein starkes Licht vom Himmel.</verse>
+        <verse osisID='Acts.22.7'>Ich fiel zu Boden und hörte eine Stimme, die zu mir sprach: Saul, Saul, was verfolgst du Mich?</verse>
+        <verse osisID='Acts.22.8'>Ich aber antwortete: Wer bist Du, Herr? Und Er sprach zu mir: Ich bin Jesus von Nazareth, Den du verfolgst.</verse>
+        <verse osisID='Acts.22.9'>Die aber mit mir waren, sahen das Licht und gerieten in Furcht; die Stimme aber Dessen, Der mit mir redete, hörten sie nicht.</verse>
+        <verse osisID='Acts.22.10'>Ich aber sprach: Was soll ich tun, Herr? Der Herr aber sprach zu mir: Stehe auf und gehe nach Damaskus, da wird man dir sagen von allem, was dir verordnet ist, zu tun.</verse>
+        <verse osisID='Acts.22.11'>Da ich aber nicht sehen konnte nach jenem Lichtglanz, ward ich an der Hand geleitet von denen, die mit mir waren, und kam gen Damaskus.</verse>
+        <verse osisID='Acts.22.12'>Es war aber allda ein gottesfürchtiger Mann nach dem Gesetze, Ananias, der bei allen Juden, die dort wohnten, ein gutes Zeugnis hatte.</verse>
+        <verse osisID='Acts.22.13'>Der kam zu mir, trat vor mich und sprach: Bruder Saul, siehe auf; und ich sah zur selben Stunde auf zu ihm.</verse>
+        <verse osisID='Acts.22.14'>Er aber sprach: Der Gott unserer Väter hat dich verordnet, Seinen Willen zu erkennen und den Gerechten zu sehen, und die Stimme Seines Mundes zu hören;</verse>
+        <verse osisID='Acts.22.15'>Denn du sollst Ihm vor allen Menschen ein Zeuge sein dessen, was du gesehen und gehört hast.</verse>
+        <verse osisID='Acts.22.16'>Und nun, was verziehst du? Stehe auf und laß dich taufen und deine Sünden abwaschen und rufe Seinen Namen an.</verse>
+        <verse osisID='Acts.22.17'>Es geschah aber, da ich zurückkam gen Jerusalem und im Tempel betete, daß ich entzückt ward und Ihn schaute,</verse>
+        <verse osisID='Acts.22.18'>Da Er zu mir sprach: Eile und verlaß ungesäumt Jerusalem, weil sie dein Zeugnis von mir nicht annehmen werden.</verse>
+        <verse osisID='Acts.22.19'>Und ich sprach: Herr, sie selbst wissen, daß ich die, so an Dich glaubten, in das Gefängnis warf und in den Synagogen geißeln ließ.</verse>
+        <verse osisID='Acts.22.20'>Und als das Blut deines Zeugen Stephanus vergossen ward, stand auch ich dabei und hatte Wohlgefallen an seinem Tode und verwahrte denen, die ihn töteten, die Kleider.</verse>
+        <verse osisID='Acts.22.21'>Da sprach Er zu mir: Gehe hin; denn Ich will dich fern unter die Heiden senden.</verse>
+        <verse osisID='Acts.22.22'>Sie hörten ihn an bis auf dieses Wort, da erhoben sie ihre Stimme und schrien: Fort von der Welt mit einem solchen Menschen; er verdient nicht, daß er am Leben bleibe.</verse>
+        <verse osisID='Acts.22.23'>Da sie so schrien und ihre Kleider emporwarfen und Staub in die Luft streuten,</verse>
+        <verse osisID='Acts.22.24'>Befahl der Oberste, ihn in das Lager zu führen und durch Geißeln zum Geständnis zu bringen, auf daß er erführe, um welcher Ursache willen sie so wider ihn schrien.</verse>
+        <verse osisID='Acts.22.25'>Als sie ihn aber für die Riemen darstreckten, sprach Paulus zu dem dabeistehenden Hauptmann: Ist es euch erlaubt, einen römischen Mann und dazu ohne Urteil und Recht zu geißeln?</verse>
+        <verse osisID='Acts.22.26'>Da das der Hauptmann hörte, ging er zu dem Obersten und hinterbrachte es ihm und sagte: Was willst du tun? der Mann da ist ja Römer.</verse>
+        <verse osisID='Acts.22.27'>Da kam der Oberste herbei und sprach zu ihm: Sage mir, bist du ein Römer? Er antwortete: Ja.</verse>
+        <verse osisID='Acts.22.28'>Darauf sagte der Oberste: Ich habe dieses Bürgerrecht für eine große Summe erworben. Paulus aber sprach: Ich aber bin als solcher geboren.</verse>
+        <verse osisID='Acts.22.29'>Da traten die, so ihn peinigen sollten, alsbald von ihm ab, und der Oberste fürchtete sich, da er nun wußte, daß er Römer war und er ihn gebunden hatte.</verse>
+        <verse osisID='Acts.22.30'>Am folgenden Tage wollte er Gewißheit haben, warum er von den Juden angeklagt wäre, ließ ihm die Fesseln abnehmen, berief die Hohenpriester und den gesamten Rat, führte Paulus hinab und ließ ihn vor sie treten.</verse>
+      </chapter>
+      <chapter osisID='Acts.23'>
+        <title>Paulus vor dem Sanhedrin. - Streit der Pharisäer mit den Sadduzäern. - Lysias rettet ihn.</title>
+        <verse osisID='Acts.23.1'>Mit festem Blick schaute Paulus auf den Rat und sprach: Männer, Brüder, ich habe mit allem guten Gewissen bis auf diesen Tag vor Gott gewandelt.</verse>
+        <verse osisID='Acts.23.2'>Der Hohepriester Ananias aber hieß, die neben ihm standen, ihn auf den Mund schlagen.</verse>
+        <verse osisID='Acts.23.3'>Da sprach Paulus zu ihm: Gott wird dich schlagen, du übertünchte Wand! Und du sitzest, mich zu richten nach dem Gesetz und heißt mich schlagen wider das Gesetz!</verse>
+        <verse osisID='Acts.23.4'>Die Umstehenden aber sprachen: Schiltst du den Hohenpriester Gottes?</verse>
+        <verse osisID='Acts.23.5'>Da sprach Paulus: Ich wußte nicht, Brüder, daß es der Hohepriester ist; es steht ja geschrieben: den Führer deines Volkes sollst du nicht schmähen.</verse>
+        <verse osisID='Acts.23.6'>Da aber Paulus wußte, daß ein Teil Sadduzäer war, der andere Pharisäer, rief er in dem Rat: Männer, Brüder, ich bin ein Pharisäer und eines Pharisäers Sohn, wegen der Hoffnung der Auferstehung der Toten werde ich gerichtet.</verse>
+        <verse osisID='Acts.23.7'>Wie er das sagte, entstand ein Zwiespalt unter den Pharisäern und Sadduzäern, und die Versammlung teilte sich.</verse>
+        <verse osisID='Acts.23.8'>Denn die Sadduzäer sagen, es gebe keine Auferstehung, keinen Engel, keinen Geist, die Pharisäer aber bekennen beides.</verse>
+        <verse osisID='Acts.23.9'>Da entstand nun ein großer Lärm, und die Schriftgelehrten von der Partei der Pharisäer standen auf, stritten und sagten: Wir finden nichts Arges an diesem Menschen; wenn aber ein Geist oder ein Engel zu ihm sprach, so können wir mit Gott nicht streiten.</verse>
+        <verse osisID='Acts.23.10'>Da aber der Lärm zu groß ward, besorgte der Oberste, Paulus möchte von ihnen zerrissen werden, und befahl der Mannschaft, ihn aus ihrer Mitte wegzunehmen und in das Lager zu führen.</verse>
+        <verse osisID='Acts.23.11'>In der folgenden Nacht aber erschien ihm der Herr und sprach: Sei getrost, Paulus! Denn wie du für Mich in Jerusalem gezeugt hast, so sollst du auch in Rom zeugen.</verse>
+        <verse osisID='Acts.23.12'>Wie es aber Tag ward, verschworen sich etliche Juden und verbannten sich, weder zu essen, noch zu trinken, bis daß sie Paulus umgebracht hätten.</verse>
+        <verse osisID='Acts.23.13'>Es waren ihrer mehr denn vierzig, die sich so verschworen</verse>
+        <verse osisID='Acts.23.14'>Diese traten vor die Hohenpriester und die Ältesten und sprachen: Wir haben uns verflucht und verschworen, nichts zu kosten, bis wir Paulus getötet haben.</verse>
+        <verse osisID='Acts.23.15'>So tut nun kund dem Obersten samt dem Rat, daß er ihn morgen zu euch herabführen sollte, weil ihr seinen Fall genauer untersuchen wollet; wir aber sind bereit, ihm, ehe er herzutritt, niederzustoßen.</verse>
+        <verse osisID='Acts.23.16'>Als aber der Sohn der Schwester des Paulus von dem Anschlag hörte, kam er, ging hinein in das Lager und sagte es Paulus an.</verse>
+        <verse osisID='Acts.23.17'>Paulus ließ einen der Hauptleute zu sich rufen und sagte: Führe den jungen Menschen da zu dem Obersten; denn er hat ihm eine Anzeige zu machen.</verse>
+        <verse osisID='Acts.23.18'>Der nahm ihn nun, führte ihn zum Obersten und sagte: Der gefangene Paulus ließ mich zu sich rufen, und bat mich, den jungen Menschen da zu dir zu führen, er habe dir etwas zu sagen.</verse>
+        <verse osisID='Acts.23.19'>Da nahm ihn der Oberste bei der Hand, trat mit ihm beiseite und fragte ihn: Was ist es, das du mir zu berichten hast?</verse>
+        <verse osisID='Acts.23.20'>Er aber sagte: Die Juden sind eins geworden, dich zu bitten, Paulus morgen in den Rat herabzuführen, als hätten sie vor, seine Angelegenheit genauer zu untersuchen.</verse>
+        <verse osisID='Acts.23.21'>Du aber traue ihnen nicht; denn mehr denn vierzig Männer unter ihnen halten auf ihn, und haben sich verbannt, weder zu essen noch zu trinken, bis daß sie ihn umgebracht hätten, und sind schon bereit und warten auf Nachricht von dir.</verse>
+        <verse osisID='Acts.23.22'>Der Oberste entließ nun den Jungen und verbot ihm, weiter zu sagen, daß er ihm diese Anzeige machte.</verse>
+        <verse osisID='Acts.23.23'>Er ließ nun zwei der Hauptleute rufen und sagte: Haltet zweihundert Kriegsknechte bereit, daß sie nach Cäsarea ziehen, und mit ihnen siebzig Reiter und zweihundert Schleuderer, auf die dritte Stunde der Nacht.</verse>
+        <verse osisID='Acts.23.24'>Auch sollten sie Tiere bereithalten, um Paulus daraufzusetzen und ihn wohlbewahrt zum Landpfleger Felix zu bringen.</verse>
+        <verse osisID='Acts.23.25'>Auch schrieb er einen Brief, der also lautete:</verse>
+        <verse osisID='Acts.23.26'>Claudius Lysias entbietet dem edlen Landpfleger Felix seinen Gruß.</verse>
+        <verse osisID='Acts.23.27'>Diesen Mann, der vor den Juden ergriffen und beinahe umgebracht worden wäre, habe ich mit der Mannschaft herausgerissen, da ich erfuhr, daß er ein Römer ist.</verse>
+        <verse osisID='Acts.23.28'>Da ich die Ursache erfahren wollte, warum sie ihn anklagten, ließ ich ihn vor ihren Rat bringen,</verse>
+        <verse osisID='Acts.23.29'>Und befand, daß er wegen Fragen ihres Gesetzes angeschuldigt ward, aber keines Verbrechens, das des Todes oder der Bande wert ist, schuldig war.</verse>
+        <verse osisID='Acts.23.30'>Da mir aber angezeigt wurde, daß von den Juden ein Anschlag gegen ihn gemacht worden, schicke ich ihn alsbald an dich, und beschied seine Ankläger, dir vorzutragen, was sie wider ihn hätten. Gehab dich wohl!</verse>
+        <verse osisID='Acts.23.31'>Die Kriegsleute nahmen nun, wie ihnen befohlen war, Paulus, und führten ihn in der Nacht nach Antipatris.</verse>
+        <verse osisID='Acts.23.32'>Des anderen Tages ließen sie die Reiter mit ihm weiterziehen und wandten wieder um nach dem Lager.</verse>
+        <verse osisID='Acts.23.33'>Da sie nach Cäsarea kamen, übergaben sie dem Landpfleger das Schreiben und überantworteten ihm Paulus.</verse>
+        <verse osisID='Acts.23.34'>Als der Landpfleger den Brief las, fragte er, aus welcher Provinz er wäre, und erfuhr, daß er aus Cilicien sei.</verse>
+        <verse osisID='Acts.23.35'>Da sprach er: Ich will dich verhören, wenn deine Ankläger angekommen sind; und ließ ihn im Palaste des Herodes verwahren.</verse>
+      </chapter>
+      <chapter osisID='Acts.24'>
+        <title>Paulus vor dem Landpfleger von den Juden angeklagt.</title>
+        <verse osisID='Acts.24.1'>Nach fünf Tagen begab sich der Hohepriester Ananias mit den Ältesten und einem Redner Tertullus hinab, allwo sie vor dem Landpfleger wider Paulus auftraten.</verse>
+        <verse osisID='Acts.24.2'>Als er vorgerufen ward, fing der Redner seine Anklage damit an, daß er sprach:</verse>
+        <verse osisID='Acts.24.3'>Daß wir in tiefem Frieden leben durch dich, und unser Volk durch deine Vorsorge sich besserer Einrichtungen erfreut, edelster Felix, erkennen wir allezeit und allenthalben auf das dankbarste an.</verse>
+        <verse osisID='Acts.24.4'>Auf daß ich dich aber nicht zu lange aufhalte, bitte ich dich, uns nach deiner Güte kürzlich anzuhören.</verse>
+        <verse osisID='Acts.24.5'>Wir haben diesen Mann als verderblich erfunden, und daß er unter allen Juden in der Welt Unruhen erregt und der Anführer der Sekte der Nazarener ist,</verse>
+        <verse osisID='Acts.24.6'>Der auch versucht hat, den Tempel zu entweihen, worauf wir ihn ergriffen und nach unserem Gesetz richten wollten.</verse>
+        <verse osisID='Acts.24.7'>Da erschien der Oberste Lysius mit vieler Mannschaft und führte ihn weg aus unseren Händen,</verse>
+        <verse osisID='Acts.24.8'>Und hieß seine Ankläger vor dich kommen. Von ihm kannst du selbst, wenn du ihn hören willst, erfahren, wessen wir ihn anklagen.</verse>
+        <verse osisID='Acts.24.9'>Auch die Juden fielen mit ein und bestätigten, daß es sich also verhielte.</verse>
+        <verse osisID='Acts.24.10'>Als der Landpfleger Paulus winkte, zu reden, begann er: Da ich weiß, daß du seit vielen Jahren unter diesem Volke Richter bist, so verantworte ich mich umso getroster.</verse>
+        <verse osisID='Acts.24.11'>Du kannst erfahren, daß es nicht mehr denn zwölf Tage sind, seit ich gen Jerusalem gekommen bin anzubeten.</verse>
+        <verse osisID='Acts.24.12'>Auch haben sie mich nicht erfunden, daß ich im Tempel mit jemand redete, noch einen Auflauf der Menge in den Synagogen oder in der Stadt erregte.</verse>
+        <verse osisID='Acts.24.13'>Auch können sie das, was sie mir Schuld geben, nicht beweisen.</verse>
+        <verse osisID='Acts.24.14'>Soviel aber bekenne ich dir, daß ich nach dem Lehrwege, den sie eine Sekte nennen, dem Gott meiner Väter diene und an alles glaube, was in dem Gesetz und den Propheten geschrieben steht;</verse>
+        <verse osisID='Acts.24.15'>Indem ich dieselbe Hoffnung auf Gott habe, welche diese selbst auch haben, daß eine Auferstehung der Toten, sowohl der Gerechten als der Ungerechten, zukünftig sei.</verse>
+        <verse osisID='Acts.24.16'>Deshalb befleißige ich mich auch gegen Gott und die Menschen, allenthalben ein reines Gewissen zu erhalten.</verse>
+        <verse osisID='Acts.24.17'>Nach mehreren Jahren kam ich hin, um meinem Volke Almosen und Opfer zu bringen.</verse>
+        <verse osisID='Acts.24.18'>Dabei fanden sie mich, wie ich mich im Tempel heiligte, ohne Ruhestörung oder Getümmel.</verse>
+        <verse osisID='Acts.24.19'>Das aber waren etliche Juden aus Asien. Die hätten vor dir auftreten und mich verklagen sollen, so sie etwas gegen mich hätten.</verse>
+        <verse osisID='Acts.24.20'>Oder die da sollen selbst sagen, was für eine Schuld sie gegen mich fanden, als ich vor dem Rat stand;</verse>
+        <verse osisID='Acts.24.21'>Außer etwa wegen der einzigen Rede, da ich unter ihnen stand und rief: Ich werde heute wegen der Auferstehung der Toten vor euch gerichtet.</verse>
+        <verse osisID='Acts.24.22'>Als Felix solches hörte, beschied er sie auf weiteres, weil er näheres über die Lehre wußte, und sagte: Wenn der Oberste Lysias herabkommt, will ich über eure Sache erkennen.</verse>
+        <verse osisID='Acts.24.23'>Dem Hauptmann aber befahl er, ihn in Gewahrsam zu halten, ihn aber gelinde zu behandeln und keinem der Seinen zu wehren, ihm zu Dienste zu sein<note>oder: zu ihm zu kommen</note>.</verse>
+        <verse osisID='Acts.24.24'>Nach etlichen Tagen aber kam Felix mit seinem Weibe Drusilla, die eine Jüdin war, ließ Paulus rufen und hörte ihn über den Glauben an Christus.</verse>
+        <verse osisID='Acts.24.25'>Als er aber von Rechtschaffenheit und Keuschheit und künftigem Gericht redete, ward Felix betreten und sagte: Gehe vorerst hin. Wenn ich gelegene Zeit habe, will ich dich wieder rufen lassen.</verse>
+        <verse osisID='Acts.24.26'>Er hoffte auch daneben, daß ihm von Paulus Geld gegeben würde, um ihn loszulassen. Weshalb er ihn öfter kommen ließ, und sich mit ihm besprach.</verse>
+        <verse osisID='Acts.24.27'>Da aber zwei Jahre um waren, erhielt Felix den Porcius Festus zum Nachfolger. Da Felix aber den Juden eine Gunst erzeigen wollte, ließ er den Paulus gefangen zurück.</verse>
+      </chapter>
+      <chapter osisID='Acts.25'>
+        <title>Paulus appelliert vor Festus an den Kaiser und wird dem König Agrippa vorgestellt.</title>
+        <verse osisID='Acts.25.1'>Da nun Festus in die Provinz gekommen war, zog er nach drei Tagen von Cäsarea hinauf gen Jerusalem.</verse>
+        <verse osisID='Acts.25.2'>Da erschienen vor ihm die Hohenpriester und die Vornehmsten der Juden wider Paulus und baten um Gunst wider ihn, daß er ihn ließe nach Jerusalem bringen.</verse>
+        <verse osisID='Acts.25.3'>Sie hatten nämlich einen Anschlag gemacht, daß sie ihn unterwegs umbrächten.</verse>
+        <verse osisID='Acts.25.4'>Festus antwortete nun, Paulus würde ja in Cäsarea in Gewahrsam gehalten; er selbst werde in kurzem dahin abreisen.</verse>
+        <verse osisID='Acts.25.5'>Die nun von euch die Vollmacht haben, die sollen mit mir hinabziehen, und, wenn etwelches Unrecht an dem Manne ist, es klagend wider ihn vorbringen.</verse>
+        <verse osisID='Acts.25.6'>Nachdem er sich nicht mehr denn acht oder zehn Tage bei ihnen aufgehalten hatte, begab er sich hinab gen Cäsarea, setzte sich tags darauf auf den Richtstuhl und ließ Paulus vorführen.</verse>
+        <verse osisID='Acts.25.7'>Als er vorkam, umstanden ihn die Juden, die von Jerusalem herabgekommen waren, und brachten viele schwere Beschuldigungen vor, die sie nicht beweisen konnten.</verse>
+        <verse osisID='Acts.25.8'>Als er sich dahin verantwortete: Ich habe weder gegen das Gesetz der Juden, noch gegen den Tempel, noch gegen den Kaiser etwas verbrochen,</verse>
+        <verse osisID='Acts.25.9'>Antwortete Festus, der den Juden eine Gunst erzeigen wollte, dem Paulus und sagte: Willst du nach Jerusalem hinaufziehen und dich dort darüber von mir richten lassen?</verse>
+        <verse osisID='Acts.25.10'>Darauf sprach Paulus: Ich stehe vor dem Richterstuhl des Kaisers, und muß allda gerichtet werden. Den Juden habe ich kein Leid getan, wie auch du auf das beste einsiehst.</verse>
+        <verse osisID='Acts.25.11'>Wenn ich nun schuldig bin und etwas getan habe, das den Tod verdient, so weigere ich mich nicht zu sterben; wenn aber nichts an dem ist, dessen mich diese beschuldigen, so darf mich ihnen niemand preisgeben; ich appelliere an den Kaiser.</verse>
+        <verse osisID='Acts.25.12'>Da besprach sich Festus mit dem Rat und gab den Bescheid: An den Kaiser hast du appelliert, zum Kaiser sollst du ziehen.</verse>
+        <verse osisID='Acts.25.13'>Nach etlichen Tagen kam der König Agrippa und Bernice herab nach Cäsarea, um Festus zu begrüßen.</verse>
+        <verse osisID='Acts.25.14'>Da sie sich mehrere Tage daselbst aufhielten, legte Festus dem König den Fall mit Paulus vor und sagte: Da ist ein Mann, den Felix mir gefangen hinterlassen hat,</verse>
+        <verse osisID='Acts.25.15'>Wegen dessen der Hohepriester und die Ältesten der Juden bei mir, als ich nach Jerusalem kam, Klage führten, und um ein Urteil wider ihn baten.</verse>
+        <verse osisID='Acts.25.16'>Ich antwortete ihnen, daß es nicht Römersitte ist, einen Menschen aus Gunst zu verurteilen, ehe denn der Verklagte seinen Klägern gegenübergestellt wäre und Gelegen- heit hätte, sich gegen die Anklage zu verteidigen.</verse>
+        <verse osisID='Acts.25.17'>Als sie sich nun hier eingefunden, setzte ich mich ohne Aufschub am folgenden Tag auf den Richterstuhl und ließ den Mann vorführen.</verse>
+        <verse osisID='Acts.25.18'>Die Ankläger traten auf, brachten aber keinerlei Schuld vor, deren ich mich versah.</verse>
+        <verse osisID='Acts.25.19'>Wohl hatten sie einige Streitpunkte in betreff ihrer besonderen Gottesverehrung und über einen Jesus, der gestorben, und von dem Paulus sagte, Er lebe.</verse>
+        <verse osisID='Acts.25.20'>Da ich aber von der Frage über diesen Gegenstand nichts verstand, fragte ich, ob er nach Jerusalem reisen und sich allda darüber wollte richten lassen?</verse>
+        <verse osisID='Acts.25.21'>Als aber Paulus begehrte, für das Erkenntnis des Kaisers in Haft zu bleiben, hieß ich ihn in Gewahrsam halten, bis daß ich ihn an den Kaiser absenden könnte.</verse>
+        <verse osisID='Acts.25.22'>Da bemerkte Agrippas dem Festus: Ich möchte den Menschen gern auch selber hören. Er sagte: Morgen sollst du ihn hören.</verse>
+        <verse osisID='Acts.25.23'>Am anderen Tage nun kam Agrippa und Bernice mit großem Gepränge und betraten den Verhörsaal mit den Kriegsobersten und den angesehensten Männern der Stadt, und auf Befehl des Festus ward Paulus vorgeführt.</verse>
+        <verse osisID='Acts.25.24'>Da sprach Festus: König Agrippa und ihr Männer alle, die ihr mit uns hier zugegen seid, da seht ihr den Mann, um den mich die ganze Menge der Juden zu Jerusalem und hier angegangen und geschrien hat, daß er nicht länger am Leben bleiben dürfte.</verse>
+        <verse osisID='Acts.25.25'>Da ich aber fand, daß er nichts getan hatte, das des Todes wert ist, und er an den Kaiser appellierte, habe ich beschlossen, ihn abzusenden.</verse>
+        <verse osisID='Acts.25.26'>Da ich nun nichts Bestimmtes habe, das ich dem Herrn schriebe, lasse ich ihn vor euch führen, und vornehmlich vor dich, König Agrippa, auf daß ich nach geschehenem Verhöre etwas zu schreiben wüßte.</verse>
+        <verse osisID='Acts.25.27'>Denn es scheint mir ungereimt, einen Gefangenen einzuliefern, ohne die Klagepunkte wider ihn anzugeben.</verse>
+      </chapter>
+      <chapter osisID='Acts.26'>
+        <title>Paulus Rede vor Agrippa.</title>
+        <verse osisID='Acts.26.1'>Agrippa aber sprach zu Paulus: Es ist dir erlaubt, für dich zu reden. Da verantwortete sich Paulus, indem er die Hand ausreckte.</verse>
+        <verse osisID='Acts.26.2'>Ich achte mich glücklich, König Agrippa, daß ich mich heute über alles, dessen ich von den Juden beschuldigt werde, vor dir verantworten soll;</verse>
+        <verse osisID='Acts.26.3'>Zumal da du alle Sitten und Streitfragen der Juden kennst; darum bitte ich dich, du wollest mich geduldig anhören.</verse>
+        <verse osisID='Acts.26.4'>Mein Leben von Jugend auf, wie ich es von Anbeginn unter meinem Volke zu Jerusalem geführt, kennen alle.</verse>
+        <verse osisID='Acts.26.5'>Die Juden, die mich vorher von Anfang an gekannt haben müßten, wenn sie zeugen wollten, mir bezeugen, daß ich nach der strengsten Sekte unserer Religion als Pharisäer gelebt habe.</verse>
+        <verse osisID='Acts.26.6'>Und nun stehe ich hier, und werde angeklagt über der Hoffnung auf die Verheißung, die von Gott unseren Vätern geworden ist,</verse>
+        <verse osisID='Acts.26.7'>Und welche die zwölf Stämme unseres Volkes, Tag und Nacht angelegentlich betend, zu erlangen hoffen; über diese Hoffnung werde ich, König Agrippa, von den Juden angeklagt.</verse>
+        <verse osisID='Acts.26.8'>Warum wird es bei euch für unglaublich geachtet, daß Gott Tote auferweckt?</verse>
+        <verse osisID='Acts.26.9'>Zwar meinte ich auch bei mir selbst, ich müßte vieles wider den Namen des Jesus von Nazareth tun;</verse>
+        <verse osisID='Acts.26.10'>Was ich denn auch in Jerusalem tat, und viele Heilige ins Gefängnis verschloß, wozu ich Vollmacht von den Hohenpriestern empfing, und stimmte mit, daß sie zum Tode gebracht wurden.</verse>
+        <verse osisID='Acts.26.11'>Und in allen Synagogen ließ ich sie züchtigen, und zwang sie zu lästern, und wütete im Übermaß, und verfolgte sie bis in die fremden Städte.</verse>
+        <verse osisID='Acts.26.12'>Während ich so mit Vollmacht und im Auftrag der Hohenpriester nach Damaskus reiste,</verse>
+        <verse osisID='Acts.26.13'>Sah ich, o König, mitten am Tage auf dem Wege, wie mich, und die mit mir reisten, ein Licht umstrahlte, das heller war, denn der Sonnenglanz.</verse>
+        <verse osisID='Acts.26.14'>Da wir alle zur Erde fielen, hörte ich eine Stimme, die in hebräischer Sprache zu mir redete und sagte: Saul, Saul, was verfolgst du Mich? Es wird dir schwer werden, wider den Stachel zu löcken.</verse>
+        <verse osisID='Acts.26.15'>Ich aber sprach: Wer bist Du, Herr? Der Herr aber sprach. Ich bin Jesus, Den du verfolgst.</verse>
+        <verse osisID='Acts.26.16'>Aber stehe auf und tritt auf deine Füße; denn dazu bin Ich dir erschienen, daß Ich dich zum Diener und Zeugen dessen bestelle, was du gesehen hast und weshalb Ich dir ferner erscheinen werde.</verse>
+        <verse osisID='Acts.26.17'>Und will dich erretten vor dem Volk und von den Heiden, unter die Ich dich jetzt sende;</verse>
+        <verse osisID='Acts.26.18'>Ihnen die Augen aufzutun, auf daß sie umkehren aus der Finsternis in das Licht, und aus der Gewalt des Satans zu Gott, auf daß sie Vergebung der Sünden und ein Erbteil unter den Heiligen durch den Glauben an Mich erlangen.</verse>
+        <verse osisID='Acts.26.19'>Deshalb, König Agrippa, war ich der himmlischen Erscheinung nicht ungehorsam,</verse>
+        <verse osisID='Acts.26.20'>Sondern kündigte zuerst denen in Damaskus und Jerusalem und dem ganzen Lande Judäa und den Heiden an, sie sollten Buße tun, und umkehren zu Gott und der Buße würdige Werke tun.</verse>
+        <verse osisID='Acts.26.21'>Um deswillen haben mich die Juden im Tempel ergriffen und suchten mich zum Tode zu bringen.</verse>
+        <verse osisID='Acts.26.22'>Aber es ward mir Hilfe von Gott zuteil, und ich stehe bis auf diesen Tag, wohlbezeugt bei Kleinen und bei Großen, indem ich nichts spreche, als was die Propheten und Moses als zukünftig vorausgesagt haben:</verse>
+        <verse osisID='Acts.26.23'>Daß Christus würde leiden, und der Erste sein aus der Auferstehung der Toten, dem Volk und den Heiden Licht zu verkündigen.</verse>
+        <verse osisID='Acts.26.24'>Da er sich also verantwortete, sprach Festus mit lauter Stimme: Paulus, du rasest; dein vieles Wissen bringt dich zum Wahnsinn.</verse>
+        <verse osisID='Acts.26.25'>Er aber sprach: Ich rase nicht, edelster Festus, sondern spreche Worte der Wahrheit und Nüchternheit.</verse>
+        <verse osisID='Acts.26.26'>Denn um diese Dinge weiß der König wohl, zu dem ich auch freimütig rede; denn ich glaube nicht, daß ihm von diesem allem etwas in irgendeiner Hinsicht verborgen blieb; denn solches ist nicht im Winkel geschehen.</verse>
+        <verse osisID='Acts.26.27'>Glaubst du, König Agrippa, den Propheten? Ich weiß, daß du glaubst.</verse>
+        <verse osisID='Acts.26.28'>Agrippa aber sprach zu Paulus: Es fehlt wenig, so überredest du mich, ein Christ zu werden.</verse>
+        <verse osisID='Acts.26.29'>Paulus aber sagte: Ich möchte wohl zu Gott beten, daß weder viel noch wenig fehlte, daß nicht allein du, sondern auch alle, die mich heute hören, solche würden, wie ich bin, diese Bande ausgenommen.</verse>
+        <verse osisID='Acts.26.30'>Und da er solches gesagt hatte, stand der König und der Landpfleger und Bernice und die mit ihnen saßen, auf,</verse>
+        <verse osisID='Acts.26.31'>Entfernten sich, redeten miteinander und sprachen: Dieser Mensch tut nichts, was Tod oder Fesseln verdiente.</verse>
+        <verse osisID='Acts.26.32'>Agrippa sagte nun zu Festus: Dieser Mann hätte können freigegeben werden, wenn er sich nicht auf den Kaiser berufen hätte..</verse>
+      </chapter>
+      <chapter osisID='Acts.27'>
+        <title>Des Paulus Schiffahrt, Sturm und Schiffbruch.</title>
+        <verse osisID='Acts.27.1'>Als nun entschieden ward, daß wir nach Italien schiffen sollten, übergaben sie Paulus und etliche andere Gefangene einem Hauptmann mit Namen Julius, von der kaiserlichen Kohorte.</verse>
+        <verse osisID='Acts.27.2'>Wir betraten nun ein adramyttisches Schiff, um die Asien entlang gelegenen Orte zu befahren, und segelten ab; auch war mit uns Aristarchus aus Thessalonich in Mazedonien.</verse>
+        <verse osisID='Acts.27.3'>Am anderen Tag liefen wir zu Sidon ein, und Julius war freundlich gegen Paulus und erlaubte ihm, zu den Freunden zu gehen und seiner zu pflegen.</verse>
+        <verse osisID='Acts.27.4'>Und von dannen stießen wir ab und schifften unter Zypern hin, weil uns die Winde entgegen waren.</verse>
+        <verse osisID='Acts.27.5'>Und durchschifften das Meer von Cilicien und Pamphylien und kamen gen Myra in Lycien.</verse>
+        <verse osisID='Acts.27.6'>Und daselbst fand der Hauptmann ein Schiff von Alexandrien, das nach Italien fuhr, und lud uns darauf.</verse>
+        <verse osisID='Acts.27.7'>Da wir in vielen Tagen nur langsam weiterfuhren, und mit Mühe gen Knidus gekommen waren, da der Wind uns nicht anließ, fuhren wir unter Kreta hin bei Salmone vorbei.</verse>
+        <verse osisID='Acts.27.8'>Mit Mühe fuhren wir der Küste entlang und kamen an einen Ort, der Schönhafen hieß, in dessen Nähe die Stadt Lasäa lag.</verse>
+        <verse osisID='Acts.27.9'>Da nun viel Zeit vergangen und es bereits gefährlich war zu schiffen, weil auch schon die Fastenzeit vorüber war, vermahnte sie Paulus und sprach zu ihnen:</verse>
+        <verse osisID='Acts.27.10'>Ihr Männer, ich sehe, daß die Fahrt nicht nur mit Ungemach und vielem Verlust, sowohl der Ladung als des Schiffes, sondern auch unseres Lebens verbunden sein wird.</verse>
+        <verse osisID='Acts.27.11'>Aber der Hauptmann glaubte dem Steuermann und dem Schiffsherrn mehr, als den Worten des Paulus.</verse>
+        <verse osisID='Acts.27.12'>Und da der Hafen zum Wintern ungelegen war, wurden die meisten Rats, von dannen zu fahren, um, wo möglich, nach Phönix, einem Hafen von Kreta gegen Südwest und gegen Nordwest, zu gelangen, um dort zu überwintern.</verse>
+        <verse osisID='Acts.27.13'>Da aber gelinder Südwind eingetreten war, glaubten sie ihres Vorsatzes Herr geworden zu sein, lichteten die Anker und fuhren näher an Kretas Küste hin.</verse>
+        <verse osisID='Acts.27.14'>Es dauerte aber nicht lange, da stieß ein Sturmwind, den sie Euroklydon nennen, gegen die Insel.</verse>
+        <verse osisID='Acts.27.15'>Als aber das Schiff mit fortgerissen ward und dem Wind nicht widerstehen konnte, gaben wir uns preis und fuhren dahin.</verse>
+        <verse osisID='Acts.27.16'>Wir liefen aber gegen eine kleine Insel, mit Namen Klauda, und konnten kaum des Bootes mächtig werden.</verse>
+        <verse osisID='Acts.27.17'>Da sie es aufgehoben hatten, wandten sie Schutzmittel an und untergürteten das Schiff; und weil sie fürchteten, auf die Syrte verschlagen zu werden, strichen sie die Segel und trieben so dahin.</verse>
+        <verse osisID='Acts.27.18'>Da wir aber vom Sturm hin und her geworfen wurden, warfen sie am folgenden Tag einen Teil der Ladung über Bord.</verse>
+        <verse osisID='Acts.27.19'>Und am dritten Tag warfen wir mit eigenen Händen die Schiffsgerätschaft aus.</verse>
+        <verse osisID='Acts.27.20'>Da aber mehrere Tage weder Sonne noch Gestirn zu sehen war und ein gewaltiger Sturm wütete, verschwand vollends alle Hoffnung auf Rettung.</verse>
+        <verse osisID='Acts.27.21'>Da man lange nichts gegessen hatte, trat Paulus ins Mittel und sprach: Männer, man hätte mir folgen und nicht von Kreta abfahren sollen, was uns dieses Ungemachs und Verlustes überhoben hätte.</verse>
+        <verse osisID='Acts.27.22'>Und nun ermahne ich euch, getrosten Muts zu sein; wir werden kein Leben, nur das Schiff verlieren.</verse>
+        <verse osisID='Acts.27.23'>Heute Nacht erschien mir ein Engel des Gottes, Dem ich angehöre und Dem ich auch diene, und sprach.</verse>
+        <verse osisID='Acts.27.24'>Fürchte dich nicht, Paulus, du mußt vor den Kaiser treten; und siehe, Gott hat dir alle geschenkt, die mit dir zu Schiffe sind.</verse>
+        <verse osisID='Acts.27.25'>Darum seid guten Mutes, Männer, denn ich vertraue dem Gott, daß es also geschehen wird, wie mir gesagt ist.</verse>
+        <verse osisID='Acts.27.26'>Wir müssen aber an eine Insel auffahren.</verse>
+        <verse osisID='Acts.27.27'>Da aber die vierzehnte Nacht kam und wir im adriatischen Meere umhertrieben, meinten die Schiffsleute um die Mitternacht, daß sie an ein Land kommen.</verse>
+        <verse osisID='Acts.27.28'>Und da sie das Senkblei auswarfen, fanden sie zwanzig Klafter, und als sie eine Strecke weiterfuhren und wieder auswarfen, fanden sie fünfzehn Klafter Tiefe.</verse>
+        <verse osisID='Acts.27.29'>Weil sie nun fürchteten, auf Felsenriffe zu geraten, warfen sie vom Hinterteil des Schiffes vier Anker aus, und wünschten, daß es Tag werden möchte.</verse>
+        <verse osisID='Acts.27.30'>Da die Schiffleute aber aus dem Schiff zu entfliehen suchten, und unter dem Vorwand, sie wollten vom Vorderschiff Anker auswerfen, das Boot ins Meer niederließen;</verse>
+        <verse osisID='Acts.27.31'>Sprach Paulus zu dem Hauptmann und den Kriegsleuten: Wenn diese nicht im Schiff bleiben, so könnt ihr nicht gerettet werden.</verse>
+        <verse osisID='Acts.27.32'>Da hieben die Kriegsleute die Taue des Bootes ab und ließen es fallen.</verse>
+        <verse osisID='Acts.27.33'>Bis es nun Tag wurde, forderte Paulus alle auf, Speise zu sich zu nehmen, und sagte: Vierzehn Tage lang habt ihr ungegessen zugewartet und nichts zu euch genommen.</verse>
+        <verse osisID='Acts.27.34'>Deshalb ermahne ich euch, Speise zu euch zu nehmen; denn dies trägt zu eurer Erhaltung bei, denn kein Haar von eurem Haupte wird verlorengehen.</verse>
+        <verse osisID='Acts.27.35'>Da er solches gesprochen, nahm er Brot, dankte Gott im Angesichte aller, brach es und fing an zu essen.</verse>
+        <verse osisID='Acts.27.36'>Da faßten sie alle Mut und nahmen auch Speise zu sich.</verse>
+        <verse osisID='Acts.27.37'>Unser waren aber auf dem Schiff zweihundertsechsundsiebzig Seelen.</verse>
+        <verse osisID='Acts.27.38'>Da sie nun satt waren, erleichterten sie das Schiff und warfen den Mundvorrat ins Meer.</verse>
+        <verse osisID='Acts.27.39'>Da es nun Tag ward, erkannten sie das Land nicht, wurden aber eines Busens gewahr, der ein flaches Ufer hatte, auf das sie das Schiff wo möglich antreiben wollten.</verse>
+        <verse osisID='Acts.27.40'>Und so kappten sie die Anker und ließen sie im Meer, indem sie zugleich die Bande der Steuerruder lösten, das Braamsegel spannten, und fuhren dem Strande zu.</verse>
+        <verse osisID='Acts.27.41'>Sie gerieten aber auf einen Ort, der auf zwei Seiten Meer hatte, und stießen das Schiff auf, so daß das Vorderteil unbeweglich aufsaß, das Hinterteil aber von der Gewalt der Fluten auseinanderging.</verse>
+        <verse osisID='Acts.27.42'>Die Kriegsleute faßten nun den Entschluß, die Gefangenen zu töten, damit keiner durch Schwimmen entkäme.</verse>
+        <verse osisID='Acts.27.43'>Der Hauptmann aber wollte Paulus retten, und verhinderte sie an ihrem Vorhaben, und hieß die, so schwimmen könnten, zuerst sich ins Wasser werfen, um an das Land zu kommen.</verse>
+        <verse osisID='Acts.27.44'>Die anderen sollten auf Brettern oder auf anderen Stücken des Schiffes das gleiche tun; und so geschah es, daß alle glücklich das Land erreichten.</verse>
+      </chapter>
+      <chapter osisID='Acts.28'>
+        <title>Paulus auf Malta, heilt Kranke und kommt dann in Rom an.</title>
+        <verse osisID='Acts.28.1'>Als wir uns nun gerettet hatten, erfuhren wir, daß die Insel Melite<note>Malta</note> hieß.</verse>
+        <verse osisID='Acts.28.2'>Die Inselbewohner erzeigten uns ungewöhnliche Leutseligkeit, zündeten ein Feuer an und nahmen uns alle wegen des eingetretenen Regens und der Kälte bei sich auf.</verse>
+        <verse osisID='Acts.28.3'>Da aber Paulus einen Haufen Reiser zusammenraffte und sie auf das Feuer legte, kam eine Otter wegen der Hitze daraus hervor und hängte sich ihm an die Hand.</verse>
+        <verse osisID='Acts.28.4'>Als die Inselbewohner das Tier an seiner Hand hängen sahen, sagten sie zueinander: Dieser Mensch ist ganz gewiß ein Mörder, den die Rachegöttin nicht am Leben ließ, ob er gleich aus dem Meere sich gerettet hatte.</verse>
+        <verse osisID='Acts.28.5'>Er schleuderte nun das Tier in das Feuer und erlitt keinen Schaden.</verse>
+        <verse osisID='Acts.28.6'>Sie erwarteten aber, daß er aufschwellen oder sogleich tot niederfallen würde. Da sie aber lange warteten und sahen, daß es ihm keinen Schaden tat, wurden sie anderen Glaubens und sagten, er wäre ein Gott.</verse>
+        <verse osisID='Acts.28.7'>In der Nähe des Ortes hatte der vornehmste Mann auf der Insel, mit Namen Publius, Ländereien, nahm uns auf und bewirtete uns freundlich drei Tage lang.</verse>
+        <verse osisID='Acts.28.8'>Es traf sich, daß der Vater des Publius Fieberanfälle hatte und an der Ruhr darniederlag. Paulus ging zu ihm hinein, betete, legte ihm die Hände auf und heilte ihn.</verse>
+        <verse osisID='Acts.28.9'>Da dies geschehen war, kamen auch die anderen Kranken der Insel zu ihm und ließen sich heilen.</verse>
+        <verse osisID='Acts.28.10'>Und sie erwiesen uns viele Ehre und brachten uns, da wir abfuhren was wir<note>auf die Reise</note> bedurften.</verse>
+        <verse osisID='Acts.28.11'>Nach drei Monaten gingen wir in einem Schiff von Alexandrien, das auf der Insel überwinterte und das Abzeichen der Zwillinge führte, auf die See.</verse>
+        <verse osisID='Acts.28.12'>Als wir in Syrakus landeten, blieben wir allda drei Tage,</verse>
+        <verse osisID='Acts.28.13'>Schifften von da herum und liefen in Rhegium ein, und da nach einem Tage sich ein Südwind erhob, kamen wir am anderen Tag nach Puteoli.</verse>
+        <verse osisID='Acts.28.14'>Fanden allda Brüder und wurden gebeten, sieben Tage bei ihnen zu bleiben, und so gingen wir dann nach Rom ab.</verse>
+        <verse osisID='Acts.28.15'>Und von dort kamen die Brüder, da sie von uns hörten, uns bis gen Appifer und Tretabern entgegen. Da Paulus sie sah, dankte er Gott und gewann Zuversicht.</verse>
+        <verse osisID='Acts.28.16'>Als wir in Rom ankamen, überantwortete der Hauptmann die Gefangenen dem Obersten der Leibwache; dem Paulus aber ward erlaubt, für sich zu bleiben mit dem Kriegsknechte, der ihn bewachte.</verse>
+        <verse osisID='Acts.28.17'>Drei Tage darauf lud er die angesehensten Juden zu sich ein; und da sie zusammenkamen, sprach er zu ihnen: Ihr Männer und Brüder! Ich habe nichts gegen das Volk, noch wider die väterlichen Gesetze getan, darob ich von Jerusalem aus als Gefangener in die Hände der Römer überantwortet wurde.</verse>
+        <verse osisID='Acts.28.18'>Als diese mich verhört hatten, wollten sie mich freigeben, weil keine Schuld des Todes an mir erfunden wurde.</verse>
+        <verse osisID='Acts.28.19'>Da die Juden aber dawider sprachen, sah ich mich genötigt, an den Kaiser zu appellieren, nicht, als ob ich Klage gegen mein Volk führen wollte.</verse>
+        <verse osisID='Acts.28.20'>Aus diesem Grunde habe ich mir erbeten, euch zu sehen und zu euch zu sprechen; denn um der Hoffnung Israels willen trage ich diese Kette.</verse>
+        <verse osisID='Acts.28.21'>Sie aber sprachen zu ihm: Wir haben weder ein Schreiben über dich aus Judäa erhalten, noch ist ein Bruder gekommen, der Böses über dich verkündigt oder geredet hätte.</verse>
+        <verse osisID='Acts.28.22'>Wir wollen aber von dir hören, auf was du hältst; denn wir haben von dieser Sekte gehört, daß sie überall Widerspruch findet.</verse>
+        <verse osisID='Acts.28.23'>Sie bestimmten ihm einen Tag, und es kamen noch mehrere zu ihm in die Herberge, denen er das Reich Gottes nachdrücklich bezeugte und auslegte, und er suchte sie zu überzeugen von Jesus aus dem Gesetz Moses und aus den Propheten, vom frühen Morgen bis an den Abend.</verse>
+        <verse osisID='Acts.28.24'>Die einen glaubten dem, was er sagte, die anderen aber glaubten nicht.</verse>
+        <verse osisID='Acts.28.25'>Sie wurden untereinander uneins, und gingen weg, nachdem Paulus noch die eine Rede getan: Wohl hat der Heilige Geist durch den Propheten Jesajah zu unseren Vätern geredet,</verse>
+        <verse osisID='Acts.28.26'>Und gesagt: Gehe hin zu diesem Volke und sprich: Ihr werdet hören, aber nicht verstehen, werdet sehen, aber nicht einsehen;</verse>
+        <verse osisID='Acts.28.27'>Denn das Herz dieses Volkes ist verstockt, und schwer hören sie mit den Ohren, und drücken ihre Augen zu, daß sie nicht sehen mit ihren Augen und hören mit den Ohren und verstehen mit dem Herzen und umkehren, und Ich sie heile.</verse>
+        <verse osisID='Acts.28.28'>So sei euch nun kundgetan, daß zu den Heiden das Heil Gottes gesandt worden ist, und sie werden darauf hören.</verse>
+        <verse osisID='Acts.28.29'>Da er solches geredet hatte, gingen die Juden fort und hatten viel Streitens unter sich.</verse>
+        <verse osisID='Acts.28.30'>Er blieb zwei ganze Jahre in seinem eigenen Geding und nahm alle auf, die zu ihm einkamen;</verse>
+        <verse osisID='Acts.28.31'>Predigte das Reich Gottes und lehrte von Jesus Christus mit aller Freimütigkeit ungehindert.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

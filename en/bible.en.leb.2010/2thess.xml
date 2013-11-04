@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+<osisText osisRefWork='Bible' osisIDWork='Bible.en.LEB.2010' xml:lang='en'>
+<header>
+<work osisWork='Bible.en.LEB.2010'>
+<title>The Lexham English Bible</title>
+<creator type='x-edt'>W. Hall Harris III</creator>
+<date>2010-03-23</date>
+<publisher>Logos Research Systems, Inc.</publisher>
+<type type='OSIS'>Bible</type>
+<format type='x-MIME'>text/xml</format>
+<source>LEB.xml, 2010-03-23</source>
+<language type='IETF'>en</language>
+<rights>Copyright 2010 Logos Research Systems, Inc. All rights reserved. Further licensing information is provided in the License and Trademark sections at the start of the text.</rights>
+<scope>Matt-Rev</scope>
+<refSystem>Bible.NRSVA</refSystem>
+</work>
+</header>
+<div type='front'>
+<titlePage>
+<p>The Lexham English Bible</p>
+<p>W. Hall Harris III</p>
+<p>General Editor</p>
+<p>Copyright 2010 Logos Research Systems, Inc.</p>
+<p>All rights reserved.</p>
+</titlePage>
+<div type='x-license'>
+<title>License</title>
+<p>You can give away the Lexham English Bible, but you can’t sell it on its own. If the LEB comprises less than 25% of the content of a larger work, you can sell it as part of that work.</p>
+<p>If you give away the LEB for use with a commercial product, or sell a work containing more than 1,000 verses from the LEB, you must annually report the number of units sold, distributed, and/or downloaded.</p>
+<p>You must always attribute quotations of the LEB.</p>
+<p>If you quote less than 100 verses of the LEB in a single work you can attribute it by simply adding (LEB) after the quotation. Longer quotations, or use of 100 or more verses in a single work, must be accompanied by the following statement:</p>
+<p>Scripture quotations marked (LEB) are from the Lexham English Bible. Copyright 2010 Logos Bible Software. Lexham is a registered trademark of Logos Bible Software.</p>
+<p>In electronic use, link “LEB” and “Lexham English Bible” to <a href='http://lexhamenglishbible.com'>http://lexhamenglishbible.com</a>, and “Logos Bible Software” to <a href='http://logos.com'>http://logos.com</a>. If all quotations are unmarked and from the LEB, you may remove “marked (LEB) are” from the statement.</p>
+<p>In support of non-English Bible translation, non-profit organizations may use 50% as the maximum portion the LEB may comprise of a work offered for sale. (This specifically allows the creation and commercial sale of diglot Bibles.)</p>
+</div>
+<div type='x-trademark'>
+<p>Lexham is a registered trademark of Logos Bible Software. You may use LEB or Lexham English Bible to refer to the Lexham English Bible, but may not use the Lexham trademark as any part of the name of a larger work quoting or containing it.</p>
+</div>
+<div type='preface'>
+<p>With approximately one hundred different English translations of the Bible already published,<note>This figure includes translations of the New Testament alone. For one of the most comprehensive lists, see Wikipedia (<a href='http://en.wikipedia.org/wiki/List_of_English_Bible_translations'>http://en.wikipedia.org/wiki/List_of_English_Bible_translations</a>).</note> the reader may well wonder why yet another English version has been produced. Those actually engaged in the work of translating the Bible might answer that the quest for increased accuracy, the incorporation of new scholarly discoveries in the fields of semantics, lexicography, linguistics, new archaeological discoveries, and the continuing evolution of the English language all contribute to the need for producing new translations. But in the case of the Lexham English Bible (LEB), the answer to this question is much simpler; in fact, it is merely twofold.</p>
+<p>First, the LEB achieves an unparalleled level of transparency with the original language text because the LEB had as its starting point the <hi type='italic'>Lexham Greek-English Interlinear New Testament</hi>. It was produced with the specific purpose of being used alongside the original language text of the Bible. Existing translations, however excellent they may be in terms of English style and idiom, are frequently so far removed from the original language texts of scripture that straightforward comparison is difficult for the average user. Of course distance between the original language text and the English translation is not a criticism of any modern English translation. To a large extent this distance is the result of the philosophy of translation chosen for a particular English version, and it is almost always the result of an attempt to convey the meaning of the original in a clearer and more easily understandable way to the contemporary reader. However, there are many readers, particularly those who have studied some biblical Greek, who desire a translation that facilitates straightforward and easy comparisons between the translation and the original language text. The ability to make such comparisons easily in software formats like Logos Bible Software makes the need for an English translation specifically designed for such comparison even more acute.</p>
+<p>Second, the LEB is designed from the beginning to make extensive use of the most up-to-date lexical reference works available. For the New Testament this is primarily the third edition of Walter Bauer’s <hi type='italic'>A Greek-English Lexicon of the New Testament and Other Early Christian Literature</hi> (BDAG). Users can be assured that the LEB as a translation is based on the best scholarly research available. The Greek text on which the LEB New Testament is based is that of NA27 (<hi type='italic'>Novum Testamentum Graece</hi> editio XXVII). Often referred to as the “critical” text, this is the most widely used Greek text of the New Testament in use today.</p>
+<p>Naturally, when these two factors are taken into consideration, it should not be surprising that the character of the LEB as a translation is fairly literal. This is a necessary by-product of the desire to have the English translation correspond transparently to the original language text. Nevertheless, a serious attempt has been made within these constraints to produce a clear and readable English translation instead of a woodenly literal one.<note>A small amount of foreignness in a Bible translation is not necessarily a bad thing, because it reminds us that we are reading an ancient text from a different culture. Not only do the linguistic constructions differ considerably from our own, but the cultural presuppositions and assumptions differ as well. I am not convinced that, as a reader of the Bible in the early twenty-first century, I am particularly well-served if Paul comes across sounding like an op-ed columnist in the newspaper or Luke sounds like the anchor of a cable news channel on television. Clarity in translation is one thing, but obliterating the cultural distance that separate the modern reader from the first century is something else again.</note></p>
+<p>There are three areas in particular that need to be addressed to make a translation like the LEB more accessible to readers today, while at the same time maintaining easy comparison with the original language text. First, differences in word order have to be addressed. In this regard, the LEB follows standard English word order, not the word order of Koiné Greek.<note>Koiné Greek (sometimes called Hellenistic Greek) is the form of Greek in which the New Testament is written.</note> Anyone who needs to see the word order of the original Greek can readily consult the <hi type='italic'>Lexham Greek-English Interlinear New Testament</hi>, which contains a sequence line which gives this information. Second, some expressions in biblical Greek are idiomatic, so that a literal translation would be meaningless or would miscommunicate the true meaning. The LEB uses <seg type='x-idiom'>˻lower corner˼</seg> brackets to indicate such expressions, with a literal rendering given in a note. Third, words which have no equivalent in the original language text must sometimes be supplied in the English translation. Because the LEB is designed to be used alongside the original language texts of scripture, these supplied words are indicated with <hi type='italic'>italics</hi>. In some cases the need for such supplied words is obvious, but in other cases where it is less clear a note has been included.</p>
+<p>Finally, the reader should remember that any Bible translation, to be useful to the person using it, must actually be read. I would encourage every user of the LEB, whether reading it alongside the original languages text or not, to remember that once we understand the meaning of a biblical text we are responsible to apply it first in our own lives, and then to share it with those around us.</p>
+<p>W. Hall Harris III</p>
+<p>General Editor</p>
+<p>Lexham English Bible</p>
+<p>For the word of God <hi type='italic'>is</hi> living and active and sharper than any double-edged sword, and piercing as far as the division of soul and spirit, both joints and marrow, and able to judge the reflections and thoughts of the heart. (<reference osisRef='Heb.4.12'>Heb 4:12</reference> LEB)</p>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div type='book' osisID='2Thess'>
+<chapter osisID='2Thess.1'>
+<div type='section'>
+<title>Greeting</title>
+<p><verse osisID='2Thess.1.1' sID='2Thess.1.1'/>Paul and Silvanus and Timothy, to the church of the Thessalonians in God our Father and the Lord Jesus Christ.<verse eID='2Thess.1.1'/> <verse osisID='2Thess.1.2' sID='2Thess.1.2'/>Grace to you and peace from God our Father and the Lord Jesus Christ.<verse eID='2Thess.1.2'/></p>
+</div>
+<div type='section'>
+<title>Thanksgiving for the Thessalonian Believers</title>
+<p><verse osisID='2Thess.1.3' sID='2Thess.1.3'/>We ought to give thanks to God always concerning you, brothers, just as it is fitting, because your faith is flourishing and the love of each one of you all toward one another is increasing<verse eID='2Thess.1.3'/> <verse osisID='2Thess.1.4' sID='2Thess.1.4'/>so that we ourselves boast in you in the churches of God about your patient endurance and faith in all your persecutions and the afflictions that you are enduring,<verse eID='2Thess.1.4'/> <verse osisID='2Thess.1.5' sID='2Thess.1.5'/>a proof of the righteous judgment of God, so that you may be considered worthy of the kingdom of God, on behalf of which also you are suffering,<verse eID='2Thess.1.5'/> <verse osisID='2Thess.1.6' sID='2Thess.1.6'/>since <transChange type='added'>it is</transChange> righteous in the sight of God to pay back those who are afflicting you with affliction,<verse eID='2Thess.1.6'/> <verse osisID='2Thess.1.7' sID='2Thess.1.7'/>and to you who are being afflicted, rest with us at the revelation of the Lord Jesus from heaven with his powerful angels,<verse eID='2Thess.1.7'/> <verse osisID='2Thess.1.8' sID='2Thess.1.8'/>with flaming fire giving punishment to those who do not know God and who do not obey the gospel of our Lord Jesus,<verse eID='2Thess.1.8'/> <verse osisID='2Thess.1.9' sID='2Thess.1.9'/>who will pay the penalty <transChange type='added'>of</transChange> eternal destruction, away from the presence of the Lord and from the glory of his strength,<verse eID='2Thess.1.9'/> <verse osisID='2Thess.1.10' sID='2Thess.1.10'/>whenever he should come to be glorified on that day by his saints and to be marveled at by all who believe, because our testimony was believed among you,<verse eID='2Thess.1.10'/> <verse osisID='2Thess.1.11' sID='2Thess.1.11'/>for which <transChange type='added'>purpose</transChange> we also pray always for you, that you may be considered worthy of the calling of our God, and he might fulfill every desire for goodness and work of faith with power,<note>Or “by <catchWord>his</catchWord> power”</note><verse eID='2Thess.1.11'/> <verse osisID='2Thess.1.12' sID='2Thess.1.12'/>in order that the name of our Lord Jesus may be glorified in you, and you in him, according to the grace of our God and the Lord Jesus Christ.<verse eID='2Thess.1.12'/></p>
+</div>
+</chapter>
+<chapter osisID='2Thess.2'>
+<div type='section'>
+<title>The Man of Lawlessness Will Be Revealed</title>
+<p><verse osisID='2Thess.2.1' sID='2Thess.2.1'/>Now we ask you, brothers, concerning the coming of our Lord Jesus Christ and our assembling to him,<verse eID='2Thess.2.1'/> <verse osisID='2Thess.2.2' sID='2Thess.2.2'/>that you not be easily shaken from your composure, nor be troubled either by a spirit or by a message or by a letter <seg type='x-idiom'>˻alleged to be from us˼</seg><note>Literally “as <catchWord>if</catchWord> by us”</note>, to the effect that the day of the Lord has arrived.<verse eID='2Thess.2.2'/> <verse osisID='2Thess.2.3' sID='2Thess.2.3'/>Do not let anyone deceive you in any way, for <transChange type='added'>that day will not come</transChange> unless the rebellion comes first, and the man of lawlessness is revealed, the son of destruction,<verse eID='2Thess.2.3'/> <verse osisID='2Thess.2.4' sID='2Thess.2.4'/>who opposes and who exalts himself over every so-called god or object of worship, so that he sits down in the temple of God, proclaiming that he himself is God.<verse eID='2Thess.2.4'/></p>
+<p><verse osisID='2Thess.2.5' sID='2Thess.2.5'/>Do you not remember that <transChange type='added'>while</transChange><note>bHere “<catchWord>while</catchWord>” is supplied as a component of the participle (“were”) which is understood as temporal</note> we were still with you, we were saying these <transChange type='added'>things</transChange> to you?<verse eID='2Thess.2.5'/> <verse osisID='2Thess.2.6' sID='2Thess.2.6'/>And you know that which restrains <transChange type='added'>him</transChange> now, so that he will be revealed in his own time.<verse eID='2Thess.2.6'/> <verse osisID='2Thess.2.7' sID='2Thess.2.7'/>For the mystery of lawlessness is at work already; only the one who now restrains<note>﻿cOr “restrains it” (referring to the “mystery of lawlessness”; or “restrains him” (referring to the “man of lawlessness” in v. <reference osisRef='2Thess.2.3'>3</reference>)</note> <transChange type='added'>will do so</transChange> until he is out of the way,<note>Literally “out of the midst”</note><verse eID='2Thess.2.7'/> <verse osisID='2Thess.2.8' sID='2Thess.2.8'/>and then the lawless one will be revealed, whom the Lord Jesus will slay with the breath of his mouth, and wipe out by the appearance of his coming,<verse eID='2Thess.2.8'/> <verse osisID='2Thess.2.9' sID='2Thess.2.9'/>whose coming is in accordance with the working of Satan, with all power and signs and lying wonders,<verse eID='2Thess.2.9'/> <verse osisID='2Thess.2.10' sID='2Thess.2.10'/>and with every unrighteous deception against those who are perishing, in place of which they did not accept the love of the truth, so that they would be saved.<verse eID='2Thess.2.10'/> <verse osisID='2Thess.2.11' sID='2Thess.2.11'/>And because of this, God sends them <seg type='x-idiom'>˻a powerful delusion˼</seg><note>eLiterally “a working of deceit”</note> so that they will believe the lie,<verse eID='2Thess.2.11'/> <verse osisID='2Thess.2.12' sID='2Thess.2.12'/>in order that all may be condemned who did not believe the truth, but delighted in unrighteousness.<verse eID='2Thess.2.12'/></p>
+</div>
+<div type='section'>
+<title>Stand Firm and Hold Fast</title>
+<p><verse osisID='2Thess.2.13' sID='2Thess.2.13'/>But we ought to give thanks to God always concerning you, brothers <transChange type='added'>dearly</transChange> loved by the Lord, because God has chosen you <transChange type='added'>as</transChange> first fruits for salvation by the sanctification of the Spirit and faith in the truth,<verse eID='2Thess.2.13'/> <verse osisID='2Thess.2.14' sID='2Thess.2.14'/>for which <transChange type='added'>purpose</transChange> also he called you through our gospel for the obtaining of the glory of our Lord Jesus Christ.<verse eID='2Thess.2.14'/> <verse osisID='2Thess.2.15' sID='2Thess.2.15'/>So then, brothers, stand firm and hold fast to the traditions which you were taught, whether by <transChange type='added'>spoken</transChange> word or by letter from us.<verse eID='2Thess.2.15'/> <verse osisID='2Thess.2.16' sID='2Thess.2.16'/>Now may our Lord Jesus Christ himself and God our Father, who has loved us and given <transChange type='added'>us</transChange> eternal encouragement and good hope by grace,<verse eID='2Thess.2.16'/> <verse osisID='2Thess.2.17' sID='2Thess.2.17'/>encourage your hearts and strengthen <transChange type='added'>you</transChange> in every good work and word.<verse eID='2Thess.2.17'/></p>
+</div>
+</chapter>
+<chapter osisID='2Thess.3'>
+<div type='section'>
+<title>Paul’s Prayer Request</title>
+<p><verse osisID='2Thess.3.1' sID='2Thess.3.1'/>Finally, brothers, pray for us, that the word of the Lord may progress and be honored, just as also <transChange type='added'>it was</transChange> with you,<verse eID='2Thess.3.1'/> <verse osisID='2Thess.3.2' sID='2Thess.3.2'/>and that we may be delivered from evil and wicked people, <seg type='x-idiom'>˻for not all have the faith˼</seg><note>Literally “for not of all <catchWord>is</catchWord> the faith”</note>.<verse eID='2Thess.3.2'/> <verse osisID='2Thess.3.3' sID='2Thess.3.3'/>But the Lord is faithful, who will strengthen you and guard <transChange type='added'>you</transChange> from the evil one.<verse eID='2Thess.3.3'/> <verse osisID='2Thess.3.4' sID='2Thess.3.4'/>And we have confidence in the Lord about you, that you are both doing and you will do <transChange type='added'>the things</transChange> that we are commanding.<verse eID='2Thess.3.4'/> <verse osisID='2Thess.3.5' sID='2Thess.3.5'/>Now may the Lord direct your hearts toward the love of God and toward the patient endurance of Christ.<verse eID='2Thess.3.5'/></p>
+</div>
+<div type='section'>
+<title>Warning Against Lazy, Irresponsible Behavior</title>
+<p><verse osisID='2Thess.3.6' sID='2Thess.3.6'/>But we command you, brothers, in the name of our Lord Jesus Christ, <transChange type='added'>that</transChange> you keep away from every brother who lives irresponsibly and not according to the tradition that they received from us.<verse eID='2Thess.3.6'/> <verse osisID='2Thess.3.7' sID='2Thess.3.7'/>For you yourselves know how it is necessary to imitate us, that we did not behave irresponsibly among you,<verse eID='2Thess.3.7'/> <verse osisID='2Thess.3.8' sID='2Thess.3.8'/>nor did we eat bread from anyone without paying, but with toil and labor, <transChange type='added'>we were</transChange> working night and day in order not to be a burden to any of you,<verse eID='2Thess.3.8'/> <verse osisID='2Thess.3.9' sID='2Thess.3.9'/>not that we do not have the right, but so that we may give ourselves <transChange type='added'>as</transChange> an example to you, so that <transChange type='added'>you</transChange> may imitate us.<verse eID='2Thess.3.9'/> <verse osisID='2Thess.3.10' sID='2Thess.3.10'/>For even when we were with you, we used to command this to you: that if anyone does not want to work, neither should he eat.<verse eID='2Thess.3.10'/> <verse osisID='2Thess.3.11' sID='2Thess.3.11'/>For we hear <transChange type='added'>that</transChange> some among you are living irresponsibly, working <transChange type='added'>at</transChange> nothing, but being busybodies.<verse eID='2Thess.3.11'/> <verse osisID='2Thess.3.12' sID='2Thess.3.12'/>Now we command and we exhort such people in the Lord Jesus Christ that, working with quietness, they eat their own bread.<verse eID='2Thess.3.12'/> <verse osisID='2Thess.3.13' sID='2Thess.3.13'/>But <transChange type='added'>as for</transChange> you, brothers, do not be discouraged <transChange type='added'>while</transChange><note>Here “<catchWord>while</catchWord>” is supplied as a component of the participle (“doing what is right”) which is understood as temporal</note> doing what is right.<verse eID='2Thess.3.13'/> <verse osisID='2Thess.3.14' sID='2Thess.3.14'/>But if anyone does not obey our message through this letter, take note not to associate with him, in order that he may be put to shame.<verse eID='2Thess.3.14'/> <verse osisID='2Thess.3.15' sID='2Thess.3.15'/>And do not consider <transChange type='added'>him</transChange> as an enemy, but admonish <transChange type='added'>him</transChange> as a brother.<verse eID='2Thess.3.15'/></p>
+</div>
+<div type='section'>
+<title>Final Greeting and Benediction</title>
+<p><verse osisID='2Thess.3.16' sID='2Thess.3.16'/>Now may the Lord of peace himself grant you peace through everything in every way. <transChange type='added'>May</transChange> the Lord <transChange type='added'>be</transChange> with all of you.<verse eID='2Thess.3.16'/> <verse osisID='2Thess.3.17' sID='2Thess.3.17'/>The greeting <transChange type='added'>is</transChange> by my hand, Paul’s, which is <seg type='x-idiom'>˻a sign of genuineness˼</seg><note>Literally “a sign”</note> in every letter: <seg type='x-idiom'>˻this is how I write˼</seg><note>Literally “in this way I write”</note>.<verse eID='2Thess.3.17'/> <verse osisID='2Thess.3.18' sID='2Thess.3.18'/>The grace of our Lord Jesus Christ <transChange type='added'>be</transChange> with all of you.<verse eID='2Thess.3.18'/></p>
+</div>
+</chapter>
+</div></osisText>
+</osis>

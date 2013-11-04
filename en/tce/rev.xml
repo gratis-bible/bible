@@ -1,0 +1,615 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <osisText osisRefWork='Bible' osisIDWork='TCE' xml:lang='en'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='TCE'>
+        <title>The Common Edition: New Testament</title>
+        <contributor/>
+        <creator>Jens Grabner</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject>holy bible</subject>
+        <date>2009-01-20</date>
+        <description>
+                      ---------------------------------
+                      The Common Edition: New Testament
+                             --------------------
+                             All rights reserved.
+                      ----------------------------------
+                      Copyright © Timothy E. Clontz 1999
+
+
+The Common Edition: New Testament
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+  The Common Edition is the result of a decade long study of the New Testament
+  and numerous English translations in the modern church. The goals for this
+  edition are:
+
+        1.  To be accurate to the Greek Scriptures and yet highly readable, 
+
+        2.  To balance traditional wording with modern English, and
+
+        3.  To reflect the standard Christian understanding and wording of the
+            New Testament.
+
+  The purpose of these goals is to create a standardized New Testament for the
+  modern English reader.
+
+  There are two ways to create a standardized text. [The first way] is to
+  create a text of such surpassing scholarship and expression that it
+  practically eliminates the use of other editions for decades or perhaps
+  centuries. [The second way] is to isolate what the most widely used
+  editions have in common, eliminate what they do not have in common, and
+  place the results in a single text.
+
+  
+  The King James Version succeeded in both of these two ways.
+
+  Over the past hundred years there have been numerous attempts to create a
+  new English standard Bible. Each of these attempts has sought to produce a
+  standardized edition in the first way I have described. The Common Edition
+  New Testament follows the second method.
+
+  A standardized edition of any work seeks a balance between extremes. The
+  most literally accurate version may not be the easiest to read. The most
+  traditionally worded may not be very modern.
+
+  It cannot have a target audience; what is best for preachers and theologians
+  may not be best for the daily devotional reader.
+
+  Finally, a standardized edition cannot be innovative. One reviewer gave me
+  the highest compliment I could receive when he said, "there's nothing new
+  about it!"
+
+  I hope that readers will find in these pages exactly what they would expect
+  from a standardized edition, and that no matter what versions they have used
+  in the past, they will find something familiar here.
+
+   
+  This initial release into the public domain is intended for free
+  distribution. The text itself is copyrighted, with the following provisions:
+
+        1.  The Common Edition: New Testament may be copied and distributed in
+            electronic or printed form for free.
+
+        2.  It may be bound or downloaded for personal use or for a gift.
+
+        3.  It may not be sold by anyone other than the editor. 
+
+        4.  The text may not be altered.
+
+        5.  No more than 10,000 words may be included in a document published
+            for sale without the express written permission of the editor.
+
+        6.  No more than 20% of a document published for sale may be quoted
+            from this edition without the express written permission of the
+            editor. 
+
+        7.  All distributions of the Common Edition, and all documents which
+            quote the Common Edition, must contain the following copyright
+            notice: Common Edition New Testament, Copyright © Timothy E.
+            Clontz 1999. All rights reserved.
+
+  If you find a phrase or word which is unclear, or which you believe needs
+  review, please email the editor at {teclontz@aol.com}.
+
+   
+  Although it is not appropriate to dedicate a New Testament to any
+  individual, the editor would like to give his gratitude to the many people
+  who have labored to preserve this text. Those who penned the autographs
+  often faced ridicule or death. Nameless monks sleep in the dust, who
+  faithfully copied one manuscript to another down through the centuries. By
+  the time of the Reformation, William Tyndale had one wish: to make the
+  Christian Bible available in English to the poorest farmhand in England. For
+  this crime he was strangled and burned at the stake.
+
+  And then there are those who have simply loved these words enough to live by
+  their highest ideals. Without the goodness of their lives no one would
+  believe there to be anything Holy about a Bible. One such godly man was M.
+  D. Barefield, who learned to read as an adult just so that he could make
+  this word his own. My grandfather, Bill Clontz, who will always be an
+  example for my family, gradually bought larger and larger print Bibles and
+  finally began using the Bible on tape - just to keep the Word fresh in his
+  heart. Such people always stay fresh in the hearts of those who have known
+  them, and their love for God is contagious.
+
+
+  Timothy Clontz
+  March 14, 1999
+  
+  </description>
+        <publisher>FREE BIBLE SOFTWARE GROUP</publisher>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>TCE</identifier>
+        <source>http://www.ccel.org/olb/tolbss/zipfiles/translations/twenty.exe
+            http://www.ccel.org/olb/tolbss/zipfiles/translations/comed10d.zip</source>
+        <language type='IETF'>en</language>
+        <relation/>
+        <coverage>provide the bible to the world</coverage>
+        <rights>Public Domain</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Rev'>
+      <chapter osisID='Rev.1'>
+        <verse osisID='Rev.1.1'>The revelation of Jesus Christ, which God gave him to show to his servants what must soon take place. And he made it known by sending his angel to his servant John,</verse>
+        <verse osisID='Rev.1.2'>who bore witness to the word of God and to the testimony of Jesus Christ, even to all that he saw.</verse>
+        <verse osisID='Rev.1.3'>Blessed is he who reads the words of this prophecy, and blessed are those who hear, and who keep what is written in it; for the time is near.</verse>
+        <verse osisID='Rev.1.4'>John, to the seven churches which are in Asia: grace to you and peace from him who is and who was and who is to come, and from the seven spirits who are before his throne,</verse>
+        <verse osisID='Rev.1.5'>and from Jesus Christ, who is the faithful witness, the firstborn from the dead, and the ruler of the kings of the earth. To him who loves us and has freed us from our sins by his blood,</verse>
+        <verse osisID='Rev.1.6'>and has made us a kingdom and priests to his God and Father, to him be glory and dominion for ever and ever. Amen.</verse>
+        <verse osisID='Rev.1.7'>Behold, he is coming with the clouds,and every eye will see him,even those who pierced him;and all tribes of the earth will mourn because of him.Even so. Amen.</verse>
+        <verse osisID='Rev.1.8'>»I am the Alpha and the Omega,« says the Lord God, »who is, and who was, and who is to come, the Almighty.«</verse>
+        <verse osisID='Rev.1.9'>I, John, your brother and companion in the tribulation and kingdom and patient endurance that are ours in Jesus, was on the island called Patmos because of the word of God and the testimony of Jesus.</verse>
+        <verse osisID='Rev.1.10'>I was in the Spirit on the Lords Day, and I heard behind me a loud voice like a trumpet,</verse>
+        <verse osisID='Rev.1.11'>saying, »Write in a book what you see, and send it to the seven churches: to Ephesus and to Smyrna and to Pergamum and to Thyatira and to Sardis and to Philadelphia and to Laodicea.«</verse>
+        <verse osisID='Rev.1.12'>Then I turned to see the voice that was speaking to me. And having turned I saw seven golden lampstands,</verse>
+        <verse osisID='Rev.1.13'>and in the midst of the lampstands one like a Son of Man, clothed with a robe down to the feet and girded round his chest with a golden band.</verse>
+        <verse osisID='Rev.1.14'>His head and hair were white like wool, as white as snow, and his eyes were like a flame of fire;</verse>
+        <verse osisID='Rev.1.15'>his feet were like burnished bronze, refined as in a furnace, and his voice was like the sound of many waters;</verse>
+        <verse osisID='Rev.1.16'>he held in his right hand seven stars, out of his mouth went a sharp two-edged sword, and his face was like the sun shining in its strength.</verse>
+        <verse osisID='Rev.1.17'>And when I saw him, I fell at his feet as though dead. But he laid his right hand on me, saying, »Do not be afraid. I am the First and the Last,</verse>
+        <verse osisID='Rev.1.18'>and the Living One; I was dead, and behold, I am alive for evermore! And I have the keys of death and Hades.</verse>
+        <verse osisID='Rev.1.19'>Write, therefore, what you have seen, what is now and what will take place after this.</verse>
+        <verse osisID='Rev.1.20'>The mystery of the seven stars which you saw in my right hand, and the seven golden lampstands: the seven stars are the angels of the seven churches, and the seven lampstands are the seven churches.</verse>
+      </chapter>
+      <chapter osisID='Rev.2'>
+        <verse osisID='Rev.2.1'>»To the angel of the church in Ephesus write: These are the words of him who holds the seven stars in his right hand, who walks among the seven golden lampstands:</verse>
+        <verse osisID='Rev.2.2'>I know your works, your toil and your patient endurance. I know that you cannot bear evil men, but you have tested those who call themselves apostles and are not, and have found them to be false;</verse>
+        <verse osisID='Rev.2.3'>I know you have persevered and have endured for my name's sake, and you have not grown weary.</verse>
+        <verse osisID='Rev.2.4'>But I have this against you, that you have left your first love.</verse>
+        <verse osisID='Rev.2.5'>Remember then from where you have fallen, repent and do the works you did at first. If not, I will come to you and remove your lampstand from its place, unless you repent.</verse>
+        <verse osisID='Rev.2.6'>But this you have, that you hate the deeds of the Nicolaitans, which I also hate.</verse>
+        <verse osisID='Rev.2.7'>He who has an ear, let him hear what the Spirit says to the churches. To him who overcomes, I will give the right to eat from the tree of life, which is in the Paradise of God.</verse>
+        <verse osisID='Rev.2.8'>»And to the angel of the church in Smyrna write: These are the words of the First and the Last, who died, and came to life:</verse>
+        <verse osisID='Rev.2.9'>I know your tribulation and your poverty (but you are rich) and I know the slander of those who say that they are Jews and are not, but are a synagogue of Satan.</verse>
+        <verse osisID='Rev.2.10'>Do not fear what you are about to suffer. Behold, the devil is about to throw some of you into prison, that you may be tested, and for ten days you will have tribulation. Be faithful even until death, and I will give you the crown of life.</verse>
+        <verse osisID='Rev.2.11'>He who has an ear, let him hear what the Spirit says to the churches. He who overcomes will not be hurt at all by the second death.</verse>
+        <verse osisID='Rev.2.12'>»And to the angel of the church in Pergamum write: These are the words of him who has the sharp two-edged sword:</verse>
+        <verse osisID='Rev.2.13'>I know your works, and where you dwell, where Satan's throne is. And you hold fast to my name, and did not deny my faith even in the days of Antipas my faithful witness, who was killed among you, where Satan dwells.</verse>
+        <verse osisID='Rev.2.14'>But I have a few things against you: you have some there who hold the teaching of Balaam, who taught Balak to put a stumbling block before the sons of Israel, to eat food sacrificed to idols and to practice sexual immorality.</verse>
+        <verse osisID='Rev.2.15'>So you also have those who hold to the teaching of the Nicolaitans.</verse>
+        <verse osisID='Rev.2.16'>Repent therefore, or else I will soon come to you and will fight against them with the sword of my mouth.</verse>
+        <verse osisID='Rev.2.17'>He who has an ear, let him hear what the Spirit says to the churches. To him who overcomes I will give some of the hidden manna. And I will give him a white stone, with a new name written on the stone which no one knows except him who receives it.</verse>
+        <verse osisID='Rev.2.18'>»And to the angel of the church in Thyatira write: These are the words of the Son of God, who has eyes like a flame of fire, and whose feet are like burnished bronze:</verse>
+        <verse osisID='Rev.2.19'>I know your works, your love and faith, your service and perseverance, and that your works are now more than at the first.</verse>
+        <verse osisID='Rev.2.20'>Nevertheless I have this against you, that you tolerate the woman Jezebel, who calls herself a prophetess and is teaching and beguiling my servants to practice sexual immorality and to eat food sacrificed to idols.</verse>
+        <verse osisID='Rev.2.21'>I gave her time to repent, but she refuses to repent of her immorality.</verse>
+        <verse osisID='Rev.2.22'>So I will cast her on a sickbed, and I will throw those who commit adultery with her into great tribulation, unless they repent of her ways.</verse>
+        <verse osisID='Rev.2.23'>And I will strike her children dead. And all the churches shall know that I am he who searches minds and hearts, and I will give to each of you according to your works.</verse>
+        <verse osisID='Rev.2.24'>But to the rest of you in Thyatira, who do not hold this teaching, who have not learned what some call the deep things of Satan, to you I say, I will not lay upon you any other burden;</verse>
+        <verse osisID='Rev.2.25'>only hold fast what you have until I come.</verse>
+        <verse osisID='Rev.2.26'>He who overcomes, and keeps my works until the end, to him I will give power over the nations</verse>
+        <verse osisID='Rev.2.27'>»He shall rule them with a rod of iron;as when potters vessels are broken in pieces«</verse>
+        <verse osisID='Rev.2.28'>just as I also have received from my Father; and I will give him the morning star.</verse>
+        <verse osisID='Rev.2.29'>He who has an ear, let him hear what the Spirit says to the churches.</verse>
+      </chapter>
+      <chapter osisID='Rev.3'>
+        <verse osisID='Rev.3.1'>»And to the angel of the church in Sardis write: These are the words of him who has the seven spirits of God and the seven stars: I know your works; you have a name of being alive, but you are dead.</verse>
+        <verse osisID='Rev.3.2'>Wake up, and strengthen what remains and is about to die, for I have not found your works perfect in the sight of my God.</verse>
+        <verse osisID='Rev.3.3'>Remember therefore what you have received and heard; keep it, and repent. But if you will not wake up, I will come like a thief, and you will not know at what hour I will come upon you.</verse>
+        <verse osisID='Rev.3.4'>Yet you have a few names in Sardis, people who have not soiled their garments; and they shall walk with me in white, for they are worthy.</verse>
+        <verse osisID='Rev.3.5'>He who overcomes shall be clothed in white garments, and I will not blot out his name from the Book of Life; but I will confess his name before my Father and before his angels.</verse>
+        <verse osisID='Rev.3.6'>He who has an ear, let him hear what the Spirit says to the churches.</verse>
+        <verse osisID='Rev.3.7'>»And to the angel of the church in Philadelphia write: These are the words of him who is holy, who is true,who has the key of David,who opens and no one shuts,and shuts and no one opens:</verse>
+        <verse osisID='Rev.3.8'>I know your works. See, I have set before you an open door, and no one can shut it. I know that you have little strength, yet you have kept my word, and have not denied my name.</verse>
+        <verse osisID='Rev.3.9'>Behold, I will make those of the synagogue of Satan who say that they are Jews and are not, but lielook, I will make them come and bow down before your feet, and know that I have loved you.</verse>
+        <verse osisID='Rev.3.10'>Because you have kept my command to persevere, I also will keep you from the hour of trial which shall come upon the whole world, to test those who dwell on the earth.</verse>
+        <verse osisID='Rev.3.11'>I am coming soon; hold fast to what you have, so that no one may take your crown.</verse>
+        <verse osisID='Rev.3.12'>He who overcomes, I will make him a pillar in the temple of my God, and he shall never go out of it. And I will write on him the name of my God and the name of the city of my God, the New Jerusalem, which comes down out of heaven from my God. And I will write on him my new name.</verse>
+        <verse osisID='Rev.3.13'>He who has an ear, let him hear what the Spirit says to the churches.</verse>
+        <verse osisID='Rev.3.14'>»And to the angel of the church in Laodicea write: These are the words of the Amen, the faithful and true witness, the beginning of Gods creation:</verse>
+        <verse osisID='Rev.3.15'>I know your works, that you are neither cold nor hot. I could wish you were cold or hot!</verse>
+        <verse osisID='Rev.3.16'>So then, because you are lukewarm, and neither cold nor hot, I will spit you out of my mouth.</verse>
+        <verse osisID='Rev.3.17'>You say, »I am rich; I have become wealthy, and have need of nothing«and do not know that you are wretched, miserable, poor, blind, and naked,</verse>
+        <verse osisID='Rev.3.18'>Therefore I counsel you to buy from me gold refined in the fire, that you may be rich; and white garments to clothe you, and to keep the shame of your nakedness from being seen; and salve to anoint your eyes, that you may see.</verse>
+        <verse osisID='Rev.3.19'>Those whom I love, I rebuke and chasten. So be zealous and repent.</verse>
+        <verse osisID='Rev.3.20'>Behold, I stand at the door and knock. If any one hears my voice and opens the door, I will come in to him and eat with him, and he with me.</verse>
+        <verse osisID='Rev.3.21'>To him who overcomes, I will grant to sit with me on my throne, as I also overcame and sat down with my Father on his throne.</verse>
+        <verse osisID='Rev.3.22'>He who has an ear, let him hear what the Spirit says to the churches.«</verse>
+      </chapter>
+      <chapter osisID='Rev.4'>
+        <verse osisID='Rev.4.1'>After this I looked, and behold, a door standing open in heaven. And the voice, which I had first heard speaking to me like a trumpet said, »Come up here, and I will show you what must take place after this.«</verse>
+        <verse osisID='Rev.4.2'>At once I was in the Spirit; and behold, a throne was standing in heaven, with one sitting on the throne.</verse>
+        <verse osisID='Rev.4.3'>And he who sat there was like jasper and carnelian in appearance, and round the throne was a rainbow that looked like an emerald.</verse>
+        <verse osisID='Rev.4.4'>Round the throne were twenty-four thrones, and seated on the thrones were twenty-four elders, clothed in white garments, and golden crowns on their heads.</verse>
+        <verse osisID='Rev.4.5'>From the throne come flashes of lightning, and voices and peals of thunder. And before the throne were seven lamps of fire, which are the seven spirits of God;</verse>
+        <verse osisID='Rev.4.6'>and before the throne there was as it were a sea of glass, like crystal. And in the center, around the throne, are four living creatures, full of eyes in front and behind.</verse>
+        <verse osisID='Rev.4.7'>The first living creature was like a lion, the second creature like an ox, the third creature had a face like that of a man, and the fourth creature was like a flying eagle.</verse>
+        <verse osisID='Rev.4.8'>And the four living creatures, each of them with six wings, are full of eyes all around and within, and day and night they never cease to sing, »Holy, holy, holy,is the Lord God Almighty,who was and is and is to come.«</verse>
+        <verse osisID='Rev.4.9'>And whenever the living creatures give glory and honor and thanks to him who sits on the throne, who lives for ever and ever,</verse>
+        <verse osisID='Rev.4.10'>the twenty-four elders fall down before him who sits on the throne and worship him who lives for ever and ever; they cast their crowns before the throne, saying,</verse>
+        <verse osisID='Rev.4.11'>»You are worthy, our Lord and our God,to receive glory and honor and power,for you created all things,and by your will they existed and were created.«</verse>
+      </chapter>
+      <chapter osisID='Rev.5'>
+        <verse osisID='Rev.5.1'>I saw in the right hand of him who sat on the throne a scroll written inside and on the back, sealed with seven seals.</verse>
+        <verse osisID='Rev.5.2'>And I saw a strong angel proclaiming with a loud voice, »Who is worthy to open the scroll and break its seals?«</verse>
+        <verse osisID='Rev.5.3'>And no one in heaven or on earth or under the earth was able to open the scroll or to look into it.</verse>
+        <verse osisID='Rev.5.4'>And I wept greatly because no one was found worthy to open the scroll or to look into it.</verse>
+        <verse osisID='Rev.5.5'>Then one of the elders said to me, »Weep not; behold, the Lion of the tribe of Judah, the Root of David, has conquered, so that he can open the scroll and its seven seals.«</verse>
+        <verse osisID='Rev.5.6'>And between the throne and the four living creatures and among the elders, I saw a Lamb standing, as if it had been slain, with seven horns and with seven eyes, which are the seven spirits of God sent out into all the earth.</verse>
+        <verse osisID='Rev.5.7'>And he came and took the scroll from the right hand of him who sat on the throne.</verse>
+        <verse osisID='Rev.5.8'>And when he had taken the scroll, the four living creatures and the twenty-four elders fell down before the Lamb, each one holding a harp and golden bowls full of incense, which are the prayers of the saints.</verse>
+        <verse osisID='Rev.5.9'>And they sang a new song, saying, »Worthy are you to take the scrolland to open its seals;for you were slain, and with your blood purchased men for Godfrom every tribe and tongue and people and nation.</verse>
+        <verse osisID='Rev.5.10'>You have made them to be a kingdom and priests to our God,and they will reign on the earth.«</verse>
+        <verse osisID='Rev.5.11'>Then I looked, and I heard the voice of many angels around the throne and the living creatures and the elders, numbering myriads of myriads and thousands of thousands,</verse>
+        <verse osisID='Rev.5.12'>saying with a loud voice, »Worthy is the Lamb who was slain,to receive power and wealth and wisdom and mightand honor and glory and blessing!«</verse>
+        <verse osisID='Rev.5.13'>And I heard every creature in heaven and on earth and under the earth and on the sea, and all that is in them, saying, »To him who sits on the throne and to the Lambbe blessing and honor and glory and power,for ever and ever!«</verse>
+        <verse osisID='Rev.5.14'>And the four living creatures said, »Amen!« And the elders fell down and worshipped.</verse>
+      </chapter>
+      <chapter osisID='Rev.6'>
+        <verse osisID='Rev.6.1'>Then I saw when the Lamb opened one of the seven seals. And I heard one of the four living creatures say, as with a voice of thunder, »Come!«</verse>
+        <verse osisID='Rev.6.2'>I looked, and behold, a white horse, and its rider had a bow; and a crown was given to him, and he went out conquering and to conquer.</verse>
+        <verse osisID='Rev.6.3'>When he opened the second seal, I heard the second living creature say, »Come!«</verse>
+        <verse osisID='Rev.6.4'>And out came a horse, bright red; its rider was permitted to take peace from the earth, so that men should slay one another; and to him was given a great sword.</verse>
+        <verse osisID='Rev.6.5'>When he opened the third seal, I heard the third living creature say, »Come.« And I looked, and behold, a black horse; and its rider had a pair of scales in his hand.</verse>
+        <verse osisID='Rev.6.6'>And I heard what sounded like a voice in the center of the four living creatures saying, »A quart of wheat for a denarius, and three quarts of barley for a denarius; and do not damage the oil and the wine!«</verse>
+        <verse osisID='Rev.6.7'>When the Lamb opened the fourth seal, I heard the voice of the fourth living creature say, »Come!«</verse>
+        <verse osisID='Rev.6.8'>I looked, and behold, a pale horse; and its rider's name was Death, and Hades was following him. And they were given power over a fourth of the earth, to kill with sword and with famine and with pestilence and by wild beasts of the earth.</verse>
+        <verse osisID='Rev.6.9'>When he opened the fifth seal, I saw under the altar the souls of those who had been slain because of the word of God and the testimony they had maintained;</verse>
+        <verse osisID='Rev.6.10'>they cried out with a loud voice, »O Sovereign Lord, holy and true, how long before you judge and avenge our blood on those who dwell on the earth?«</verse>
+        <verse osisID='Rev.6.11'>Then each of them were given a white robe, and they were told to rest a little longer, until the number of their fellow servants and their brethren should be completed, who were to be killed as they had been.</verse>
+        <verse osisID='Rev.6.12'>I looked when he opened the sixth seal, and there was a great earthquake; and the sun became black as sackcloth made of hair, and the whole moon became like blood;</verse>
+        <verse osisID='Rev.6.13'>and the stars of the sky fell to the earth, as a fig tree casts its unripe figs when shaken by a great wind.</verse>
+        <verse osisID='Rev.6.14'>The sky vanished like a scroll that is rolled up, and every mountain and island was removed from its place.</verse>
+        <verse osisID='Rev.6.15'>Then the kings of the earth and the great men and the generals and the rich and the strong, and every one, slave and free, hid in the caves and among the rocks of the mountains,</verse>
+        <verse osisID='Rev.6.16'>and they said to the mountains and to the rocks, »Fall on us and hide us from the face of him who sits on the throne, and from the wrath of the Lamb;</verse>
+        <verse osisID='Rev.6.17'>for the great day of their wrath has come, and who can stand?«</verse>
+      </chapter>
+      <chapter osisID='Rev.7'>
+        <verse osisID='Rev.7.1'>After this I saw four angels standing at the four corners of the earth, holding back the four winds of the earth, that no wind would blow on the earth or the sea or on any tree.</verse>
+        <verse osisID='Rev.7.2'>Then I saw another angel ascend from the rising of the sun, having the seal of the living God, and he called out with a loud voice to the four angels who had been given power to harm the earth and sea,</verse>
+        <verse osisID='Rev.7.3'>saying, »Do not harm the earth, the sea, or the trees until we have sealed the servants of our God on their foreheads.«</verse>
+        <verse osisID='Rev.7.4'>And I heard the number of those who were sealed, one hundred and forty-four thousand sealed from every tribe of the sons of Israel:</verse>
+        <verse osisID='Rev.7.5'>From the tribe of Judah, twelve thousand were sealed,from the tribe of Reuben twelve thousand,from the tribe of Gad twelve thousand,</verse>
+        <verse osisID='Rev.7.6'>from the tribe of Asher twelve thousand,from the tribe of Naphtali twelve thousand,from the tribe of Manasseh twelve thousand,</verse>
+        <verse osisID='Rev.7.7'>from the tribe of Simeon twelve thousand,from the tribe of Levi twelve thousand,from the tribe of Issachar twelve thousand,</verse>
+        <verse osisID='Rev.7.8'>from the tribe of Zebulun twelve thousand,from the tribe of Joseph twelve thousand,from the tribe of Benjamin, twelve thousand were sealed.</verse>
+        <verse osisID='Rev.7.9'>After this I looked, and behold, a great multitude which no one could count, from every nation and all tribes and peoples and tongues, standing before the throne and before the Lamb, clothed in white robes, and palm branches were in their hands;</verse>
+        <verse osisID='Rev.7.10'>and they cry out with a loud voice, saying, »Salvation belongs to our Godwho sits on the throne, and to the Lamb.«</verse>
+        <verse osisID='Rev.7.11'>And all the angels were standing around the throne and around the elders and the four living creatures; and they fell on their faces before the throne and worshipped God,</verse>
+        <verse osisID='Rev.7.12'>saying, »Amen! Blessing and glory and wisdomand thanksgiving and honor and power and mightbe to our God for ever and ever!Amen.«</verse>
+        <verse osisID='Rev.7.13'>Then one of the elders addressed me, saying, »Who are these, clothed in white robes, and where have they come from?«</verse>
+        <verse osisID='Rev.7.14'>I said to him, »Sir, you know.« And he said to me, »These are they who have come out of the great tribulation; they have washed their robes and made them white in the blood of the Lamb.</verse>
+        <verse osisID='Rev.7.15'>Therefore, they are before the throne of Godand serve him day and night in his temple;and he who sits on the thronewill spread his tent over them.</verse>
+        <verse osisID='Rev.7.16'>They will hunger no more, nor thirst anymore;the sun will not beat down on them,nor any scorching heat.</verse>
+        <verse osisID='Rev.7.17'>For the Lamb in the center of the throne will be their shepherd,and he will guide them to springs of living water;and God will wipe away every tear from their eyes.«</verse>
+      </chapter>
+      <chapter osisID='Rev.8'>
+        <verse osisID='Rev.8.1'>When the Lamb opened the seventh seal, there was silence in heaven for about half an hour.</verse>
+        <verse osisID='Rev.8.2'>And I saw the seven angels who stand before God, and to them were given seven trumpets.</verse>
+        <verse osisID='Rev.8.3'>Another angel, who had a golden censer, came and stood at the altar. And he was given much incense to offer, with the prayers of all the saints, on the golden altar before the throne.</verse>
+        <verse osisID='Rev.8.4'>And the smoke of the incense, with the prayers of the saints, went up before God from the angel's hand.</verse>
+        <verse osisID='Rev.8.5'>Then the angel took the censer and filled it with fire from the altar and threw it on the earth; and there were peals of thunder, voices, flashes of lightning, and an earthquake.</verse>
+        <verse osisID='Rev.8.6'>The seven angels who had the seven trumpets prepared to sound them.</verse>
+        <verse osisID='Rev.8.7'>The first angel sounded his trumpet, and there came hail and fire, mixed with blood, and they were thrown to the earth; and a third of the earth was burned up, and a third of the trees were burned up, and all the green grass was burned up.</verse>
+        <verse osisID='Rev.8.8'>The second angel sounded his trumpet, and something like a great mountain burning with fire was thrown into the sea; and a third of the sea became blood,</verse>
+        <verse osisID='Rev.8.9'>and a third of the living creatures in the sea died; and a third of the ships were destroyed.</verse>
+        <verse osisID='Rev.8.10'>The third angel sounded his trumpet, and a great star fell from heaven, blazing like a torch, and it fell on a third of the rivers and on the springs of water.</verse>
+        <verse osisID='Rev.8.11'>The name of the star is Wormwood. A third of the waters became Wormwood, and many men died from the waters, because they were made bitter.</verse>
+        <verse osisID='Rev.8.12'>The fourth angel sounded his trumpet, and a third of the sun was struck, a third of the moon, and a third of the stars, so that a third of them darkened. And a third of the day was without light, and also a third of the night.</verse>
+        <verse osisID='Rev.8.13'>Then I looked, and I heard an eagle flying in midheaven, saying with a loud voice, »Woe, woe, woe to those who dwell on the earth, because of the blasts of the other trumpets of the three angels who are about to sound!«</verse>
+      </chapter>
+      <chapter osisID='Rev.9'>
+        <verse osisID='Rev.9.1'>And the fifth angel sounded his trumpet, and I saw a star which had fallen from heaven to earth; and he was given the key of the shaft of the bottomless pit.</verse>
+        <verse osisID='Rev.9.2'>He opened the bottomless pit, and smoke went up from the pit, like the smoke of a great furnace; and the sun and the air were darkened by the smoke from the pit.</verse>
+        <verse osisID='Rev.9.3'>Then out of the smoke came locusts on the earth, and they were given power like the power of scorpions of the earth.</verse>
+        <verse osisID='Rev.9.4'>They were told not to harm the grass of the earth or any green growth or any tree, but only those of mankind who have not the seal of God on their foreheads.</verse>
+        <verse osisID='Rev.9.5'>They were allowed to torture them for five months, but not to kill them, and their torture was like the torture of a scorpion, when it stings a man.</verse>
+        <verse osisID='Rev.9.6'>And in those days men will seek death and will not find it; they will long to die, and death will fly from them.</verse>
+        <verse osisID='Rev.9.7'>In appearance the locusts were like horses prepared for battle. On their heads were what looked like crowns of gold; and their faces were like human faces,</verse>
+        <verse osisID='Rev.9.8'>their hair was like women's hair, and their teeth were like lions' teeth.</verse>
+        <verse osisID='Rev.9.9'>They had breastplates like breastplates of iron, and the sound of their wings was like the thundering of many horses and chariots rushing into battle.</verse>
+        <verse osisID='Rev.9.10'>They have tails like scorpions, and stings, and their power to hurt men for five months lies in their tails.</verse>
+        <verse osisID='Rev.9.11'>They have as king over them the angel of the abyss; his name in Hebrew is Abaddon, and in Greek he has the name Apollyon.</verse>
+        <verse osisID='Rev.9.12'>The first woe is past; behold, two woes are still to come.</verse>
+        <verse osisID='Rev.9.13'>Then the sixth angel sounded his trumpet, and I heard a voice from the four horns of the golden altar which is before God,</verse>
+        <verse osisID='Rev.9.14'>saying to the sixth angel who had the trumpet, »Release the four angels who are bound at the great river Euphrates.«</verse>
+        <verse osisID='Rev.9.15'>And the four angels, who had been held ready for the hour and day and month and year, were released to kill a third of mankind.</verse>
+        <verse osisID='Rev.9.16'>The number of the troops of cavalry was two hundred million; I heard their number.</verse>
+        <verse osisID='Rev.9.17'>And this was how I saw the horses in my vision: the riders wore breastplates the color of fire and of sapphire and of sulfur, and the heads of the horses were like the heads of lions, and out of their mouths came fire and smoke and sulfur.</verse>
+        <verse osisID='Rev.9.18'>A third of mankind was killed by these three plagues, by the fire and the smoke and sulfur that came out of their mouths.</verse>
+        <verse osisID='Rev.9.19'>For the power of the horses is in their mouths and in their tails; for their tails are like serpents and have heads, and with them they do harm.</verse>
+        <verse osisID='Rev.9.20'>The rest of mankind, who were not killed by these plagues, did not repent of the works of their hands nor give up worshipping demons and idols of gold and silver and bronze and stone and wood, which can neither see nor hear nor walk;</verse>
+        <verse osisID='Rev.9.21'>nor did they repent of their murders, their sorceries, their sexual immorality or their thefts.</verse>
+      </chapter>
+      <chapter osisID='Rev.10'>
+        <verse osisID='Rev.10.1'>Then I saw another mighty angel coming down from heaven, wrapped in a cloud, with a rainbow over his head; and his face was like the sun, and his legs like pillars of fire.</verse>
+        <verse osisID='Rev.10.2'>He had a little scroll which was open in his hand. And he set his right foot on the sea, and his left foot on the land,</verse>
+        <verse osisID='Rev.10.3'>and he cried out with a loud voice, like the roar of a lion. When he shouted, the voices of the seven thunders spoke.</verse>
+        <verse osisID='Rev.10.4'>And when the seven thunders had sounded, I was about to write; but I heard a voice from heaven saying, »Seal up what the seven thunders have said, and do not write it down.«</verse>
+        <verse osisID='Rev.10.5'>Then the angel whom I saw standing on the sea and on the land lifted up his right hand to heaven,</verse>
+        <verse osisID='Rev.10.6'>and swore by him who lives for ever and ever, who created heaven and the things in it, the earth and the things in it, and the sea and the things in it, that there will be no more delay,</verse>
+        <verse osisID='Rev.10.7'>but in the days of the trumpet of the seventh angel, when he is about to sound, then the mystery of God will be finished, as he announced to his servants the prophets.</verse>
+        <verse osisID='Rev.10.8'>Then the voice which I had heard from heaven spoke to me again, saying, »Go, take the scroll which is open in the hand of the angel who is standing on the sea and on the land.«</verse>
+        <verse osisID='Rev.10.9'>So I went to the angel, telling him to give me the little scroll. And he said to me, »Take it and eat it; it will make your stomach bitter, but in your mouth it will be sweet as honey.«</verse>
+        <verse osisID='Rev.10.10'>I took the little scroll from the angel's hand and ate it, and in my mouth it was sweet as honey; but when I had eaten it, my stomach was made bitter.</verse>
+        <verse osisID='Rev.10.11'>And I was told, »You must again prophesy about many peoples and nations and tongues and kings.«</verse>
+      </chapter>
+      <chapter osisID='Rev.11'>
+        <verse osisID='Rev.11.1'>Then I was given a measuring rod like a staff, and I was told, »Rise and measure the temple of God and the altar and those who worship there.</verse>
+        <verse osisID='Rev.11.2'>But leave out the court outside the temple and do not measure it, for it has been given over to the nations; and they will trample over the holy city for forty-two months.</verse>
+        <verse osisID='Rev.11.3'>And I will grant power to my two witnesses, and they will prophesy for twelve hundred and sixty days, clothed in sackcloth.«</verse>
+        <verse osisID='Rev.11.4'>These are the two olive trees and the two lampstands that stand before the Lord of the earth.</verse>
+        <verse osisID='Rev.11.5'>And if anyone wants to harm them, fire flows out from their mouth and devours their enemies; so if anyone wants to harm them, he must be killed in this way.</verse>
+        <verse osisID='Rev.11.6'>These have the power to shut up the sky, so that rain will not fall during the days of their prophesying; and they have power over the waters to turn them into blood, and to strike the earth with every plague, as often as they desire.</verse>
+        <verse osisID='Rev.11.7'>When they have finished their testimony, the beast that comes up from the abyss will make war with them, and overcome them and kill them.</verse>
+        <verse osisID='Rev.11.8'>And their dead bodies will lie in the street of the great city which mystically is called Sodom and Egypt, where also their Lord was crucified.</verse>
+        <verse osisID='Rev.11.9'>For three days and a half men from the peoples and tribes and tongues and nations will gaze at their dead bodies and refuse to let them be placed in a tomb.</verse>
+        <verse osisID='Rev.11.10'>And those who dwell on the earth will rejoice over them and celebrate; and they will send gifts to one another, because these two prophets tormented those who dwell on the earth.</verse>
+        <verse osisID='Rev.11.11'>But after the three and a half days a breath of life from God entered them, and they stood up on their feet, and great fear fell on those who saw them.</verse>
+        <verse osisID='Rev.11.12'>Then they heard a loud voice from heaven saying to them, »Come up here.« And they went up to heaven in a cloud, while their enemies looked on.</verse>
+        <verse osisID='Rev.11.13'>And at that hour there was a great earthquake, and a tenth of the city fell; seven thousand people were killed in the earthquake, and the rest were terrified and gave glory to the God of heaven.</verse>
+        <verse osisID='Rev.11.14'>The second woe has passed; behold, the third woe is coming soon.</verse>
+        <verse osisID='Rev.11.15'>Then the seventh angel sounded his trumpet, and there were loud voices in heaven, saying, »The kingdom of the world has become the kingdom of our Lordand of his Christ,and he will reign for ever and ever.«</verse>
+        <verse osisID='Rev.11.16'>And the twenty-four elders, who sit on their thrones before God, fell on their faces and worshipped God,</verse>
+        <verse osisID='Rev.11.17'>saying, »We give thanks to you, O Lord God, the Almighty,who is and who was,because you have taken your great powerand have begun to reign.</verse>
+        <verse osisID='Rev.11.18'>And the nations raged,and your wrath came,and the time for the dead to be judged,for rewarding your servants the prophetsand the saints and those who fear your name,both small and great,and for destroying those who destroy the earth.«</verse>
+        <verse osisID='Rev.11.19'>Then God's temple in heaven was opened, and within his temple was seen the ark of his covenant; and there were flashes of lightning, voices, peals of thunder, an earthquake and a great hailstorm.</verse>
+      </chapter>
+      <chapter osisID='Rev.12'>
+        <verse osisID='Rev.12.1'>A great sign appeared in heaven: a woman clothed with the sun, and with the moon under her feet, and on her head a crown of twelve stars;</verse>
+        <verse osisID='Rev.12.2'>and she was with child, and she cried out in labor and in pain to give birth.</verse>
+        <verse osisID='Rev.12.3'>Then another sign appeared in heaven: and behold, a great red dragon with seven heads and ten horns, and on his heads were seven diadems.</verse>
+        <verse osisID='Rev.12.4'>And his tail swept away a third of the stars of heaven, and threw them to the earth. And the dragon stood before the woman who was about to give birth, so that he might devour her child when it was born.</verse>
+        <verse osisID='Rev.12.5'>And she gave birth to a son, a male child, who is to rule all the nations with a rod of iron; and her child was caught up to God and to his throne.</verse>
+        <verse osisID='Rev.12.6'>And the woman fled into the wilderness, where she has a place prepared by God, in which to be nourished for one thousand two hundred and sixty days.</verse>
+        <verse osisID='Rev.12.7'>And there was war in heaven. Michael and his angels fought against the dragon, and the dragon and his angels fought back,</verse>
+        <verse osisID='Rev.12.8'>but they were not strong enough, and there was no longer a place found for them in heaven.</verse>
+        <verse osisID='Rev.12.9'>And the great dragon was thrown down, that ancient serpent, who is called the Devil and Satan, the deceiver of the whole worldhe was thrown down to the earth, and his angels were thrown down with him.</verse>
+        <verse osisID='Rev.12.10'>Then I heard a loud voice in heaven, saying, »Now the salvation, and the power,and the kingdom of our Godand the authority of his Christ have come,for the accuser of our brethren has been thrown down,who accuses them before our Godday and night.</verse>
+        <verse osisID='Rev.12.11'>They overcame him by the blood of the Lamband by the word of their testimony,and they did not love their lives even to the death.</verse>
+        <verse osisID='Rev.12.12'>Rejoice then, O heavensand you that dwell in them!But woe to the earth and the sea,for the devil has come down to youin great wrath,because he knows that his time is short!«</verse>
+        <verse osisID='Rev.12.13'>And when the dragon saw that he had been thrown down to the earth, he pursued the woman who had given birth to the male child.</verse>
+        <verse osisID='Rev.12.14'>But the woman was given the two wings of the great eagle, so that she might fly into the wilderness to her place, where she is to be nourished for a time and times and half a time, from the presence of the serpent.</verse>
+        <verse osisID='Rev.12.15'>And the serpent poured water like a river out of his mouth after the woman, to sweep her away with the flood.</verse>
+        <verse osisID='Rev.12.16'>But the earth helped the woman, and the earth opened its mouth and drank up the river which the dragon had poured out of his mouth.</verse>
+        <verse osisID='Rev.12.17'>Then the dragon was enraged with the woman, and went off to make war on the rest of her offspring, on those who keep the commandments of God and hold to the testimony of Jesus.</verse>
+      </chapter>
+      <chapter osisID='Rev.13'>
+        <verse osisID='Rev.13.1'>And the dragon stood on the shore of the sea. And I saw a beast coming out of the sea. He had ten horns and seven heads, with ten diadems on his horns, and on his heads were blasphemous names.</verse>
+        <verse osisID='Rev.13.2'>The beast that I saw was like a leopard, and his feet were like those of a bear, and his mouth like the mouth of a lion. And the dragon gave him his power and his throne and great authority.</verse>
+        <verse osisID='Rev.13.3'>One of its heads seemed to have a fatal wound, but its fatal wound was healed, and the whole earth followed the beast with wonder.</verse>
+        <verse osisID='Rev.13.4'>Men worshipped the dragon, because he had given his authority to the beast, and they worshipped the beast, saying, »Who is like the beast, and who can make war against him?«</verse>
+        <verse osisID='Rev.13.5'>And the beast was given a mouth speaking arrogant words and blasphemies, and it was allowed to exercise authority for forty-two months.</verse>
+        <verse osisID='Rev.13.6'>And he opened his mouth in blasphemies against God, to blaspheme his name and his dwelling, that is, those who dwell in heaven.</verse>
+        <verse osisID='Rev.13.7'>Also it was given power to make war on the saints and to conquer them. And authority was given it over every tribe and people and tongue and nation,</verse>
+        <verse osisID='Rev.13.8'>and all who dwell on earth will worship it, every one whose name has not been written from the foundation of the world in the book of life of the Lamb that was slain.</verse>
+        <verse osisID='Rev.13.9'>If anyone has an ear, let him hear.</verse>
+        <verse osisID='Rev.13.10'>If anyone is destined for captivity,to captivity he goes;if anyone kills with the sword,with the sword he must be killed. Here is the endurance and faith of the saints.</verse>
+        <verse osisID='Rev.13.11'>Then I saw another beast coming up out of the earth; and he had two horns like a lamb and he spoke like a dragon.</verse>
+        <verse osisID='Rev.13.12'>He exercises all the authority of the first beast in his presence, and makes the earth and its inhabitants worship the first beast, whose fatal wound was healed.</verse>
+        <verse osisID='Rev.13.13'>He performs great signs, even causing fire to come down from heaven to earth in the sight of men.</verse>
+        <verse osisID='Rev.13.14'>And he deceives those who dwell on the earth because of the signs which he was given power to do in the presence of the beast. He ordered them to make an image in honor of the beast who was wounded by the sword and yet lived.</verse>
+        <verse osisID='Rev.13.15'>And it was given to him to give breath to the image of the beast so that the image of the beast should even speak, and to cause those who would not worship the image of the beast to be killed.</verse>
+        <verse osisID='Rev.13.16'>And he causes all, both small and great, rich and poor, free and slave, to be given a mark on their right hand or the forehead,</verse>
+        <verse osisID='Rev.13.17'>so that no one can buy or sell unless he has the mark, which is the name of the beast or the number of his name.</verse>
+        <verse osisID='Rev.13.18'>This calls for wisdom. Let him who has understanding calculate the number of the beast, for it is the number of a man; its number is six hundred and sixty-six.</verse>
+      </chapter>
+      <chapter osisID='Rev.14'>
+        <verse osisID='Rev.14.1'>Then I looked, and behold, the Lamb was standing on Mount Zion, and with him a hundred and forty-four thousand who had his name and his Father's name written on their foreheads.</verse>
+        <verse osisID='Rev.14.2'>I heard a voice from heaven like the sound of many waters and like the sound of loud thunder, and the voice I heard was like the sound of harpists playing on their harps.</verse>
+        <verse osisID='Rev.14.3'>And they sang a new song before the throne and before the four living creatures and before the elders. No one could learn the song except the hundred and forty-four thousand who had been redeemed from the earth.</verse>
+        <verse osisID='Rev.14.4'>These are the ones who have not been defiled with women, for they have kept themselves chaste. These are the ones who follow the Lamb wherever he goes. They have been purchased from among men as first fruits to God and to the Lamb.</verse>
+        <verse osisID='Rev.14.5'>And no lie was found in their mouth; they are blameless.</verse>
+        <verse osisID='Rev.14.6'>Then I saw another angel flying in midheaven, having an eternal gospel to proclaim to those who live on the earth, and to every nation and tribe and tongue and people;</verse>
+        <verse osisID='Rev.14.7'>and he said with a loud voice, »Fear God, and give him glory, because the hour of his judgment has come; worship him who made the heaven and the earth and sea and springs of water.«</verse>
+        <verse osisID='Rev.14.8'>And another angel, a second, followed, saying, »Fallen, fallen is Babylon the great, she who made all the nations drink the wine of her impure passion.«</verse>
+        <verse osisID='Rev.14.9'>And another angel, a third, followed them, saying with a loud voice, »If any one worships the beast and its image, and receives a mark on his forehead or on his hand,</verse>
+        <verse osisID='Rev.14.10'>he also will drink of the wine of Gods wrath, which is poured in full strength into the cup of his anger, and he will be tormented with fire and sulfur in the presence of the holy angels and in the presence of the Lamb.</verse>
+        <verse osisID='Rev.14.11'>And the smoke of their torment goes up for ever and ever; they have no rest day and night, those who worship the beast and his image, and whoever receives the mark of his name.«</verse>
+        <verse osisID='Rev.14.12'>Here is a call for the endurance of the saints, those who keep the commandments of God and the faith of Jesus.</verse>
+        <verse osisID='Rev.14.13'>And I heard a voice from heaven, saying, »Write, Blessed are the dead who die in the Lord from now on!« »Yes,« says the Spirit, »that they may rest from their labors, for their deeds follow them.«</verse>
+        <verse osisID='Rev.14.14'>Then I looked, and behold, a white cloud, and seated on the cloud was one like a son of man, with a golden crown on his head, and a sharp sickle in his hand.</verse>
+        <verse osisID='Rev.14.15'>And another angel came out of the temple, crying out with a loud voice to him who sat on the cloud, »Put in your sickle and reap, for the hour to reap has come, because the harvest of the earth is ripe.«</verse>
+        <verse osisID='Rev.14.16'>So he who sat on the cloud swung his sickle over the earth, and the earth was reaped.</verse>
+        <verse osisID='Rev.14.17'>And another angel came out of the temple in heaven, and he too had a sharp sickle.</verse>
+        <verse osisID='Rev.14.18'>Then another angel came out from the altar, the one who has power over fire, and he called with a loud voice to him who had the sharp sickle, »Put in your sharp sickle, and gather the clusters from the vine of the earth, because its grapes are ripe.«</verse>
+        <verse osisID='Rev.14.19'>So the angel swung his sickle on the earth and gathered the clusters from the vine of the earth, and threw them into the great wine press of the wrath of God.</verse>
+        <verse osisID='Rev.14.20'>And the wine press was trodden outside the city, and blood flowed from the wine press, as high as the horses' bridles for a distance of one thousand six hundred stadia.</verse>
+      </chapter>
+      <chapter osisID='Rev.15'>
+        <verse osisID='Rev.15.1'>Then I saw another sign in heaven, great and marvelous, seven angels with seven plagues, which are the last, because with them the wrath of God is finished.</verse>
+        <verse osisID='Rev.15.2'>And I saw what looked like a sea of glass mixed with fire and, standing beside the sea of glass, those who had been victorious over the beast and his image and over the number of his name. They held harps of God</verse>
+        <verse osisID='Rev.15.3'>and they sang the song of Moses, the servant of God, and the song of the Lamb, saying, »Great and marvelous are your deeds,O Lord God the Almighty!Just and true are your ways,O King of the ages!</verse>
+        <verse osisID='Rev.15.4'>Who will not fear, O Lord,and glorify your name?For you alone are holy.All the nations will comeand worship before you,for your righteous acts have been revealed.«</verse>
+        <verse osisID='Rev.15.5'>After this I looked, and the temple of the tabernacle of testimony in heaven was opened,</verse>
+        <verse osisID='Rev.15.6'>and the seven angels who had the seven plagues came out of the temple, clothed in linen, clean and bright, and girded around their chests with golden sashes.</verse>
+        <verse osisID='Rev.15.7'>Then one of the four living creatures gave to the seven angels seven golden bowls full of the wrath of God, who lives for ever and ever.</verse>
+        <verse osisID='Rev.15.8'>And the temple was filled with smoke from the glory of God and from his power, and no one could enter the temple until the seven plagues of the seven angels were completed.</verse>
+      </chapter>
+      <chapter osisID='Rev.16'>
+        <verse osisID='Rev.16.1'>Then I heard a loud voice from the temple, saying to the seven angels, »Go and pour out on the earth the seven bowls of the wrath of God.«</verse>
+        <verse osisID='Rev.16.2'>So the first angel went and poured out his bowl on the earth, and foul and loathsome sores broke out on the people who had the mark of the beast and worshipped his image.</verse>
+        <verse osisID='Rev.16.3'>The second angel poured out his bowl on the sea, and it became blood like that of a dead man, and every living thing in the sea died.</verse>
+        <verse osisID='Rev.16.4'>The third angel poured out his bowl into the rivers and the springs of water, and they became blood.</verse>
+        <verse osisID='Rev.16.5'>And I heard the angel of the waters say, »Righteous are you, who are and who were, O Holy One,because you judged these things;</verse>
+        <verse osisID='Rev.16.6'>for they shed the blood of saints and prophets,and you have given them blood to drink.They deserve it.«</verse>
+        <verse osisID='Rev.16.7'>And I heard the altar saying, »Yes, O Lord God, the Almighty,true and just are your judgments.«</verse>
+        <verse osisID='Rev.16.8'>The fourth angel poured out his bowl on the sun, and it was given to it to scorch men with fire.</verse>
+        <verse osisID='Rev.16.9'>Men were scorched by the fierce heat, and they cursed the name of God who had power over these plagues, and they did not repent and give him glory.</verse>
+        <verse osisID='Rev.16.10'>The fifth angel poured out his bowl on the throne of the beast, and his kingdom was plunged into darkness; men gnawed their tongues in agony</verse>
+        <verse osisID='Rev.16.11'>and they cursed the God of heaven because of their pains and their sores, and they did not repent of their deeds.</verse>
+        <verse osisID='Rev.16.12'>The sixth angel poured out his bowl on the great river Euphrates, and its water was dried up, to prepare the way for the kings from the East.</verse>
+        <verse osisID='Rev.16.13'>And I saw coming out of the mouth of the dragon and out of the mouth of the beast and out of the mouth of the false prophet, three unclean spirits like frogs;</verse>
+        <verse osisID='Rev.16.14'>for they are spirits of demons, performing miraculous signs, and they go out to the kings of the whole world, to gather them for the battle on the great day of God Almighty.</verse>
+        <verse osisID='Rev.16.15'>(»Behold, I am coming like a thief! Blessed is he who stays awake and keeps his clothes with him, so that he may not go naked and be shamefully exposed.«)</verse>
+        <verse osisID='Rev.16.16'>And they gathered them together at the place which in Hebrew is called Armageddon.</verse>
+        <verse osisID='Rev.16.17'>The seventh angel poured out his bowl into the air, and out of the temple came a loud voice from the throne, saying, »It is done!«</verse>
+        <verse osisID='Rev.16.18'>And there were flashes of lightning and voices and peals of thunder; and there was a great earthquake, such as there had not been since man came to be on the earth, so great an earthquake was it, and so mighty.</verse>
+        <verse osisID='Rev.16.19'>The great city was split into three parts, and the cities of the nations fell. Babylon the great was remembered before God, to give her the cup of the wine of the fury of his wrath.</verse>
+        <verse osisID='Rev.16.20'>And every island fled away, and the mountains were not found.</verse>
+        <verse osisID='Rev.16.21'>Huge hailstones, about a hundred pounds each, fell from heaven upon men. And men cursed God for the plague of hail, because the plague was so terrible.</verse>
+      </chapter>
+      <chapter osisID='Rev.17'>
+        <verse osisID='Rev.17.1'>Then one of the seven angels who had the seven bowls came and said to me, »Come, I will show you the judgment of the great harlot who sits on many waters,</verse>
+        <verse osisID='Rev.17.2'>with whom the kings of the earth committed fornication, and the inhabitants of the earth were made drunk with the wine of her fornication.«</verse>
+        <verse osisID='Rev.17.3'>And he carried me away in the Spirit into a wilderness, and I saw a woman sitting on a scarlet beast which was full of blasphemous names, and it had seven heads and ten horns.</verse>
+        <verse osisID='Rev.17.4'>The woman was clothed in purple and scarlet, and adorned with gold and precious stones and pearls, having in her hand a golden cup full of abominations and of the unclean things of her immorality,</verse>
+        <verse osisID='Rev.17.5'>And on her forehead was written a name of mystery, »BABYLON THE GREAT, THE MOTHER OF HARLOTS AND OF THE ABOMINATIONS OF THE EARTH.«</verse>
+        <verse osisID='Rev.17.6'>And I saw the woman drunk with the blood of the saints, and with the blood of the witnesses of Jesus. When I saw her, I wondered greatly.</verse>
+        <verse osisID='Rev.17.7'>And the angel said to me, »Why do you wonder? I will tell you the mystery of the woman and of the beast that carries her, which has the seven heads and the ten horns.</verse>
+        <verse osisID='Rev.17.8'>The beast that you saw was, and is not, and is about to come up out of the abyss and go to destruction. And those who dwell on the earth, whose names have not been written in the book of life from the foundation of the world, will wonder when they see the beast, because he was and is not and will come.</verse>
+        <verse osisID='Rev.17.9'>This calls for a mind with wisdom. The seven heads are seven mountains on which the woman sits.</verse>
+        <verse osisID='Rev.17.10'>And they are also seven kings; five have fallen, one is, the other has not yet come; and when he comes, he must remain a little while.</verse>
+        <verse osisID='Rev.17.11'>The beast who was, and is not, is an eighth. He belongs to the seven and he goes to destruction.</verse>
+        <verse osisID='Rev.17.12'>And the ten horns which you saw are ten kings, who have not yet received a kingdom, but they receive authority as kings with the beast for one hour.</verse>
+        <verse osisID='Rev.17.13'>These have one purpose and they give their power and authority to the beast.</verse>
+        <verse osisID='Rev.17.14'>These will make war against the Lamb, and the Lamb will overcome them, because he is Lord of lords and King of kings, and those who are with him are the called and chosen and faithful.«</verse>
+        <verse osisID='Rev.17.15'>And he said to me, »The waters you saw where the harlot sits, are peoples and multitudes and nations and tongues.</verse>
+        <verse osisID='Rev.17.16'>And the ten horns you saw, they and the beast will hate the harlot; they will make her desolate and naked, and will eat her flesh and burn her up with fire,</verse>
+        <verse osisID='Rev.17.17'>for God has put it into their hearts to carry out his purpose by being of one mind and giving over their royal power to the beast, until the words of God shall be fulfilled.</verse>
+        <verse osisID='Rev.17.18'>The woman that you saw is the great city which has dominion over the kings of the earth.«</verse>
+      </chapter>
+      <chapter osisID='Rev.18'>
+        <verse osisID='Rev.18.1'>After this I saw another angel coming down from heaven, having great authority; and the earth was made bright with his splendor.</verse>
+        <verse osisID='Rev.18.2'>And he called out with a mighty voice, »Fallen, fallen is Babylon the great!She has become a dwelling place of demons,a haunt of every unclean spirit,a haunt of every uncleanand hateful bird.</verse>
+        <verse osisID='Rev.18.3'>For all nations have drunk the wineof her impure passion,and the kings of the earth have committed fornication with her,and the merchants of the earth have grown richwith the wealth of her wantonness.«</verse>
+        <verse osisID='Rev.18.4'>Then I heard another voice from heaven, saying, »Come out of her, my people,so that you will not share in her sinsand receive of her plagues;</verse>
+        <verse osisID='Rev.18.5'>for her sins are piled up as high as heaven,and God has remembered her iniquities.</verse>
+        <verse osisID='Rev.18.6'>Pay her back even as she has paid,and give back to her double according to her deeds;in the cup which she has mixed,mix a double portion for her.</verse>
+        <verse osisID='Rev.18.7'>As she glorified herself and played the wanton,so give her a like measure of torment and mourning;for she says in her heart,A queen I sit,and I am not a widow,mourning I will never see.</verse>
+        <verse osisID='Rev.18.8'>Therefore in one day her plagues will come,pestilence and mourning and famine,and she will be burned with fire;for mighty is the Lord God who judges her.</verse>
+        <verse osisID='Rev.18.9'>And the kings of the earth, who committed fornication and were wanton with her, will weep and wail over her when they see the smoke of her burning;</verse>
+        <verse osisID='Rev.18.10'>they will stand far off, in fear of her torment, and say, Woe, woe, the great city,the mighty city, Babylon!In one hour has your judgment come.</verse>
+        <verse osisID='Rev.18.11'>And the merchants of the earth weep and mourn over her, because no one buys their cargoes any more</verse>
+        <verse osisID='Rev.18.12'>cargoes of gold, silver, precious stones and pearls; fine linen, purple, silk and scarlet cloth; every sort of citron wood, and articles of every kind made of ivory, costly wood, bronze, iron and marble;</verse>
+        <verse osisID='Rev.18.13'>cargoes of cinnamon and spice, of incense, myrrh and frankincense, of wine and olive oil, of fine flour and wheat; cattle and sheep; horses and chariots; and slaves and human souls.</verse>
+        <verse osisID='Rev.18.14'>The fruit you longed forhas gone from you,and all your riches and splendorhave vanished,never to be recovered.</verse>
+        <verse osisID='Rev.18.15'>The merchants of these things, who gained wealth from her, will stand far off, in fear of her torment, weeping and mourning,</verse>
+        <verse osisID='Rev.18.16'>saying, Woe, woe, the great city,she who was clothed in fine linenand purple and scarlet,and adorned with goldand precious stones and pearls!</verse>
+        <verse osisID='Rev.18.17'>In one hour such great wealth has been laid waste!And every shipmaster and all passengers and sailors, and all who make their living by the sea, stood far off,</verse>
+        <verse osisID='Rev.18.18'>and cried out as they saw the smoke of her burning, saying, What city is like the great city?</verse>
+        <verse osisID='Rev.18.19'>And they threw dust on their heads and were crying out, weeping and mourning, saying, Woe, woe, the great city,where all who had ships at seabecame rich by her wealth,for in one hour she has been laid waste!</verse>
+        <verse osisID='Rev.18.20'>Rejoice over her, O heaven,and you saints and apostles and prophets,because God has pronounced judgment for you against her!«</verse>
+        <verse osisID='Rev.18.21'>Then a mighty angel took up a stone like a great millstone and threw it into the sea, saying, »So will Babylon, the great city,be thrown down with violence,and will not be found any longer.</verse>
+        <verse osisID='Rev.18.22'>And the sound of harpists and musiciansand flute-players and trumpeterswill not be heard in you any longer;and no craftsman of any craftwill be found in you any longer;and the sound of a millstonewill not be heard in you any longer;</verse>
+        <verse osisID='Rev.18.23'>and the light of a lampwill not shine in you any longer;and the voice of the bridegroom and bridewill not be heard in you any longer;for your merchants were the great men of the earth,because all the nations were deceived by your sorcery.</verse>
+        <verse osisID='Rev.18.24'>And in her was found the blood of prophets and of saints,and of all who have been slain on the earth.«</verse>
+      </chapter>
+      <chapter osisID='Rev.19'>
+        <verse osisID='Rev.19.1'>After this I heard what sounded like the loud voice of a great multitude in heaven, crying, »Hallelujah!Salvation and glory and power belong to our God,</verse>
+        <verse osisID='Rev.19.2'>for his judgments are true and just;he has judged the great harlotwho corrupted the earth with her fornication,and he has avenged on herthe blood of his servants.«</verse>
+        <verse osisID='Rev.19.3'>And again they shouted, »Hallelujah!The smoke from her goes up for ever and ever.«</verse>
+        <verse osisID='Rev.19.4'>And the twenty-four elders and the four living creatures fell down and worshipped God who is seated on the throne, saying, »Amen. Hallelujah!«</verse>
+        <verse osisID='Rev.19.5'>And a voice came from the throne, saying, »Praise our God,all you his servants,you who fear him,both small and great.«</verse>
+        <verse osisID='Rev.19.6'>Then I heard what sounded like the voice of a great multitude, like the sound of many waters and like the sound of mighty peals of thunder, crying, »Hallelujah!For the Lordour God the Almighty reigns.</verse>
+        <verse osisID='Rev.19.7'>Let us rejoice and be gladand give him the glory!For the marriage of the Lamb has come,and his bride has made herself ready.</verse>
+        <verse osisID='Rev.19.8'>It was given to her to clothe herself in fine linen,bright and clean«;for the fine linen is the righteous acts of the saints.</verse>
+        <verse osisID='Rev.19.9'>Then the angel said to me, »Write, Blessed are those who are invited to the marriage supper of the Lamb.« And he said to me, »These are true words of God.«</verse>
+        <verse osisID='Rev.19.10'>Then I fell at his feet to worship him, but he said to me, »You must not do that! I am a fellow servant with you and your brethren who hold the testimony of Jesus. Worship God. For the testimony of Jesus is the spirit of prophecy.«</verse>
+        <verse osisID='Rev.19.11'>Then I saw heaven opened, and behold, a white horse! He who sat on it is called Faithful and True, and in righteousness he judges and makes war.</verse>
+        <verse osisID='Rev.19.12'>His eyes are like a flame of fire, and on his head are many diadems; and he has a name written on him which no one knows but himself.</verse>
+        <verse osisID='Rev.19.13'>He is clothed in a robe dipped in blood, and his name is called the Word of God.</verse>
+        <verse osisID='Rev.19.14'>The armies of heaven were following him, riding on white horses, and dressed in fine linen, white and clean.</verse>
+        <verse osisID='Rev.19.15'>From his mouth comes a sharp sword with which to strike down the nations, and he will rule them with a rod of iron; he treads the wine press of the fury of the wrath of God the Almighty.</verse>
+        <verse osisID='Rev.19.16'>And he has on his robe and on his thigh a name written, KING OF KINGS AND LORD OF LORDS.</verse>
+        <verse osisID='Rev.19.17'>Then I saw an angel standing in the sun, and with a loud voice he cried to all the birds that fly in midheaven, »Come, gather for the great supper of God,</verse>
+        <verse osisID='Rev.19.18'>so that you may eat the flesh of kings, the flesh of captains, and the flesh of mighty men, the flesh of horses and their riders, and the flesh of all men, both free and slave, both small and great.«</verse>
+        <verse osisID='Rev.19.19'>And I saw the beast and the kings of the earth with their armies gathered to make war against him who sits on the horse and against his army.</verse>
+        <verse osisID='Rev.19.20'>And the beast was captured, and with him the false prophet who had performed the signs in his presence, by which he deceived those who had received the mark of the beast and those who worshipped his image. These two were thrown alive into the lake of fire which burns with sulfur.</verse>
+        <verse osisID='Rev.19.21'>And the rest were killed with the sword that came from the mouth of him who sat on the horse, and all the birds were gorged with their flesh.</verse>
+      </chapter>
+      <chapter osisID='Rev.20'>
+        <verse osisID='Rev.20.1'>Then I saw an angel coming down from heaven, holding in his hand the key of the abyss and a great chain.</verse>
+        <verse osisID='Rev.20.2'>And he seized the dragon, that ancient serpent, who is the Devil and Satan, and bound him for a thousand years,</verse>
+        <verse osisID='Rev.20.3'>and he threw him into the abyss, and shut it and sealed it over him, so that he would not deceive the nations any more, until the thousand years were ended. After these things he must be released for a short time.</verse>
+        <verse osisID='Rev.20.4'>Then I saw thrones, and seated on them were those to whom judgment was given. Also I saw the souls of those who had been beheaded because of their testimony to Jesus and because of the word of God, and who had not worshipped the beast or his image and had not received its mark on their foreheads or their hands. They came to life, and reigned with Christ a thousand years.</verse>
+        <verse osisID='Rev.20.5'>The rest of the dead did not come to life until the thousand years were ended. This is the first resurrection.</verse>
+        <verse osisID='Rev.20.6'>Blessed and holy is the one who has a part in the first resurrection; over these the second death has no power, but they will be priests of God and of Christ and will reign with him for a thousand years.</verse>
+        <verse osisID='Rev.20.7'>When the thousand years are ended, Satan will be released from his prison</verse>
+        <verse osisID='Rev.20.8'>and will come out to deceive the nations which are at the four corners of the earth, that is, Gog and Magog, to gather them for battle; their number is like the sand of the seashore.</verse>
+        <verse osisID='Rev.20.9'>And they marched up over the broad plain of the earth and surrounded the camp of the saints and the beloved city, but fire came down from heaven and devoured them.</verse>
+        <verse osisID='Rev.20.10'>And the devil who had deceived them was thrown into the lake of fire and sulfur where the beast and the false prophet were, and they will be tormented day and night for ever and ever.</verse>
+        <verse osisID='Rev.20.11'>Then I saw a great white throne and him who sat upon it; from his presence earth and sky fled away, and no place was found for them.</verse>
+        <verse osisID='Rev.20.12'>And I saw the dead, great and small, standing before the throne, and books were opened. Also another book was opened, which is the book of life. And the dead were judged by what was written in the books, according to what they had done.</verse>
+        <verse osisID='Rev.20.13'>The sea gave up the dead which were in it, and death and Hades gave up the dead which were in them, and all were judged according to what they had done.</verse>
+        <verse osisID='Rev.20.14'>Then death and Hades were thrown into the lake of fire. This is the second death, the lake of fire.</verse>
+        <verse osisID='Rev.20.15'>And if anyone's name was not found written in the book of life, he was thrown into the lake of fire.</verse>
+      </chapter>
+      <chapter osisID='Rev.21'>
+        <verse osisID='Rev.21.1'>Then I saw a new heaven and a new earth; for the first heaven and the first earth had passed away, and there was no longer any sea.</verse>
+        <verse osisID='Rev.21.2'>And I saw the holy city, new Jerusalem, coming down out of heaven from God, prepared as a bride adorned for her husband.</verse>
+        <verse osisID='Rev.21.3'>And I heard a loud voice from the throne saying, »Behold, the dwelling of God is with men. And he will dwell with them, and they shall be his people, and God himself will be with them;</verse>
+        <verse osisID='Rev.21.4'>he will wipe away every tear from their eyes, and death will be no more, neither will there be mourning nor crying nor pain any more, for the former things have passed away.«</verse>
+        <verse osisID='Rev.21.5'>And he who sits on the throne said, »Behold, I am making all things new.« And he said, »Write this, for these words are trustworthy and true.«</verse>
+        <verse osisID='Rev.21.6'>Then he said to me, »It is done. I am the Alpha and the Omega, the beginning and the end. I will give to the one who is thirsty from the spring of the water of life without cost.</verse>
+        <verse osisID='Rev.21.7'>He who overcomes will inherit all this, and I will be his God and he will be my son.</verse>
+        <verse osisID='Rev.21.8'>But as for the cowardly, the unbelieving, the immoral, as for murderers, fornicators, sorcerers, idolaters, and all liars, their lot will be in the lake that burns with fire and sulfur, which is the second death.«</verse>
+        <verse osisID='Rev.21.9'>Then came one of the seven angels who had the seven bowls full of the seven last plagues, and spoke to me, saying, »Come, I will show you the Bride, the wife of the Lamb.«</verse>
+        <verse osisID='Rev.21.10'>And he carried me away in the Spirit to a great and high mountain, and showed me the holy city, Jerusalem, coming down out of heaven from God,</verse>
+        <verse osisID='Rev.21.11'>having the glory of God, and its brilliance was like that of a very precious jewel, like a jasper, clear as crystal.</verse>
+        <verse osisID='Rev.21.12'>It had a great, high wall, with twelve gates, and at the gates twelve angels, and on the gates were written the names of the twelve tribes of the sons of Israel.</verse>
+        <verse osisID='Rev.21.13'>There were three gates on the east, three gates on the north, three gates on the south, and three gates on the west.</verse>
+        <verse osisID='Rev.21.14'>And the wall of the city had twelve foundations, and on them were the twelve names of the twelve apostles of the Lamb.</verse>
+        <verse osisID='Rev.21.15'>The one who talked with me had a gold measuring rod to measure the city, and its gates and its walls.</verse>
+        <verse osisID='Rev.21.16'>The city is laid out as a square, and its length is as great as the width; and he measured the city with the rod, twelve thousand stadia; its length and width and height are equal.</verse>
+        <verse osisID='Rev.21.17'>He also measured its wall, a hundred and forty-four cubits by a man's measure, which is also an angel's.</verse>
+        <verse osisID='Rev.21.18'>The wall was made of jasper, and the city of pure gold, as clear as glass.</verse>
+        <verse osisID='Rev.21.19'>The foundations of the city wall were adorned with every kind of precious stone. The first foundation was jasper, the second sapphire, the third chalcedony, the fourth emerald,</verse>
+        <verse osisID='Rev.21.20'>the fifth sardonyx, the sixth carnelian, the seventh chrysolite, the eighth beryl, the ninth topaz, the tenth chrysoprase, the eleventh jacinth, and the twelfth amethyst.</verse>
+        <verse osisID='Rev.21.21'>And the twelve gates were twelve pearls, each of the gates made of a single pearl. And the street of the city was pure gold, like transparent glass.</verse>
+        <verse osisID='Rev.21.22'>And I saw no temple in the city, for the Lord God Almighty and the Lamb are its temple.</verse>
+        <verse osisID='Rev.21.23'>And the city has no need of the sun or of the moon to shine on it, for the glory of God gives it light, and its lamp is the Lamb.</verse>
+        <verse osisID='Rev.21.24'>The nations will walk by its light, and the kings of the earth will bring their glory into it.</verse>
+        <verse osisID='Rev.21.25'>In the daytime (for there will be no night there) its gates will never be shut;</verse>
+        <verse osisID='Rev.21.26'>they will bring into it the glory and the honor of the nations.</verse>
+        <verse osisID='Rev.21.27'>Nothing unclean shall enter it, nor any one who practices abomination or falsehood, but only those whose names are written in the Lamb's book of life.</verse>
+      </chapter>
+      <chapter osisID='Rev.22'>
+        <verse osisID='Rev.22.1'>Then he showed me the river of the water of life, clear as crystal, flowing from the throne of God and of the Lamb,</verse>
+        <verse osisID='Rev.22.2'>through the middle of the street of the city; also, on either side of the river, the tree of life bearing twelve kinds of fruit, yielding its fruit every month. And the leaves of the tree were for the healing of the nations.</verse>
+        <verse osisID='Rev.22.3'>There will no longer be any curse; and the throne of God and of the Lamb will be in it, and his servants will serve him.</verse>
+        <verse osisID='Rev.22.4'>They will see his face, and his name will be on their foreheads.</verse>
+        <verse osisID='Rev.22.5'>And there will be no more night. They will not need the light of a lamp or the light of the sun, for the Lord God will give them light; and they will reign for ever and ever.</verse>
+        <verse osisID='Rev.22.6'>And he said to me, »These words are trustworthy and true. And the Lord, the God of the spirits of the prophets, has sent his angel to show his servants the things which must soon take place.«</verse>
+        <verse osisID='Rev.22.7'>»And behold, I am coming soon. Blessed is he who keeps the words of the prophecy of this book.«</verse>
+        <verse osisID='Rev.22.8'>I, John, am the one who heard and saw these things. And when I heard and saw them, I fell down to worship at the feet of the angel who showed them to me.</verse>
+        <verse osisID='Rev.22.9'>But he said to me, »Do not do that! I am a fellow servant with you and your brethren the prophets, and with those who keep the words of this book. Worship God.«</verse>
+        <verse osisID='Rev.22.10'>And he said to me, »Do not seal up the words of the prophecy of this book, for the time is near.</verse>
+        <verse osisID='Rev.22.11'>He who does wrong, let him do wrong still; and he who is filthy, let him be filthy still; and he who does right, let him do right still; and he who is holy, let him be holy still.«</verse>
+        <verse osisID='Rev.22.12'>»Behold, I am coming soon, and my reward is with me, to render to every man according to what he has done.</verse>
+        <verse osisID='Rev.22.13'>I am the Alpha and the Omega, the first and the last, the beginning and the end.«</verse>
+        <verse osisID='Rev.22.14'>Blessed are those who wash their robes, so that they may have the right to the tree of life, and may enter by the gates into the city.</verse>
+        <verse osisID='Rev.22.15'>Outside are the dogs and the sorcerers and the immoral persons and the murderers and the idolaters, and everyone who loves and practices falsehood.</verse>
+        <verse osisID='Rev.22.16'>»I, Jesus, have sent my angel to give you this testimony for the churches. I am the Root and the Offspring of David, the bright Morning Star.«</verse>
+        <verse osisID='Rev.22.17'>The Spirit and the Bride say, »Come.« And let him who hears say, »Come.« And let him who is thirsty come; let him who wishes take the water of life without price.</verse>
+        <verse osisID='Rev.22.18'>I warn everyone who hears the words of the prophecy of this book: if anyone adds to them, God will add to him the plagues described in this book,</verse>
+        <verse osisID='Rev.22.19'>and if anyone takes away from the words of the book of this prophecy, God will take away his share from the tree of life and from the holy city, which are described in this book.</verse>
+        <verse osisID='Rev.22.20'>He who testifies to these things says, »Yes, I am coming soon.« Amen. Come, Lord Jesus.</verse>
+        <verse osisID='Rev.22.21'>The grace of the Lord Jesus be with all. Amen.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

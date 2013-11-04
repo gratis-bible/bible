@@ -1,0 +1,1104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <osisText xml:lang='ru' osisIDWork='RusVZh' osisRefWork='Bible'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='RusVZh'>
+        <title>Russian New Testament Strongs</title>
+        <contributor>http://christ4you.org/</contributor>
+        <creator>Free Bible Software Group</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject>holy bible</subject>
+        <date>2009-01-20</date>
+        <description>Russian New Testament with Strongs Numbers under edition of Victor R. Zhuromsky. (RusVZh)</description>
+        <publisher>Free Bible Software Group</publisher>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>RusVZh</identifier>
+        <source/>
+        <language type='IETF'>ru</language>
+        <relation/>
+        <coverage/>
+        <rights>Victor Zhuromsky</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork='strong'>
+        <refSystem>Dict.Strongs</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='2Cor'>
+      <chapter osisID='2Cor.1'>
+        <verse osisID='2Cor.1.1'>
+          <w lemma='strong:H3972'>Павел </w>
+          <w lemma='strong:H1223'>, </w>
+          <w lemma='strong:H2307'>волею </w>
+          <w lemma='strong:H2316'>Божиею </w>
+          <w lemma='strong:H652'>Апостол </w>
+          <w lemma='strong:H2424'>Иисуса </w>
+          <w lemma='strong:H5547'>Христа </w>, <w lemma='strong:H2532'>и </w><w lemma='strong:H5095'>Тимофей </w><w lemma='strong:H3588'>- </w><w lemma='strong:H80'>брат </w><w lemma='strong:H3588'>, </w><w lemma='strong:H1577 strong:H3588'>церкви </w><w lemma='strong:H2316'>Божией </w><w lemma='strong:H3588'>, </w><w lemma='strong:H5607'>находящейся </w><w lemma='strong:H1722'>в </w><w lemma='strong:H2882'>Коринфе </w>, <w lemma='strong:H4862 strong:H3588'>со </w><w lemma='strong:H3956'>всеми </w><w lemma='strong:H40 strong:H3588 strong:H5607'>святыми </w><w lemma='strong:H1722'>по </w><w lemma='strong:H3650 strong:H3588'>всей </w><w lemma='strong:H882'>Ахаии </w>: </verse>
+        <verse osisID='2Cor.1.2'>
+          <w lemma='strong:H5485'>благодать </w>
+          <w lemma='strong:H5213'>вам </w>
+          <w lemma='strong:H2532'>и </w>
+          <w lemma='strong:H1515'>мир </w>
+          <w lemma='strong:H575'>от </w>
+          <w lemma='strong:H2316'>Бога </w>
+          <w lemma='strong:H3962'>Отца </w>
+          <w lemma='strong:H2257'>нашего </w>
+          <w lemma='strong:H2532'>и </w>
+          <w lemma='strong:H2962'>Господа </w>
+          <w lemma='strong:H2424'>Иисуса </w>
+          <w lemma='strong:H5547'>Христа </w>. </verse>
+        <verse osisID='2Cor.1.3'>
+          <w lemma='strong:H2128 strong:H3588'>Благословен </w>
+          <w lemma='strong:H2316'>Бог </w>
+          <w lemma='strong:H2532'>и </w>
+          <w lemma='strong:H3962 strong:H3588'>Отец </w>
+          <w lemma='strong:H2962'>Господа </w>
+          <w lemma='strong:H2257'>нашего </w>
+          <w lemma='strong:H2424'>Иисуса </w>
+          <w lemma='strong:H5547'>Христа </w>
+          <w lemma='strong:H3588'>, </w>
+          <w lemma='strong:H3962 strong:H3588'>Отец </w>
+          <w lemma='strong:H3628'>милосердия </w>
+          <w lemma='strong:H2532'>и </w>
+          <w lemma='strong:H2316'>Бог </w>
+          <w lemma='strong:H3956'>всякого </w>
+          <w lemma='strong:H3874'>утешения </w>, </verse>
+        <verse osisID='2Cor.1.4'>
+          <w lemma='strong:H3588'/>
+          <w lemma='strong:H3870'>утешающий </w>
+          <w lemma='strong:H2248'>нас </w>
+          <w lemma='strong:H1909'>во </w>
+          <w lemma='strong:H3956 strong:H3588'>всякой </w>
+          <w lemma='strong:H2347'>скорби </w>
+          <w lemma='strong:H2257'>нашей </w>, <w lemma='strong:H1519 strong:H3588'>чтобы </w>и <w lemma='strong:H2248'>мы </w><w lemma='strong:H1410'>могли </w><w lemma='strong:H3870'>утешать </w><w lemma='strong:H3588'>находящихся </w><w lemma='strong:H1722'>во </w><w lemma='strong:H3956'>всякой </w><w lemma='strong:H2347 strong:H1223'>скорби </w><w lemma='strong:H3588'>тем </w><w lemma='strong:H3874'>утешением </w>, <w lemma='strong:H3739 strong:H3588'>которым </w><w lemma='strong:H2316'>Бог </w><w lemma='strong:H3870'>утешает </w>нас <w lemma='strong:H846 strong:H5259'>самих </w>! </verse>
+        <verse osisID='2Cor.1.5'>
+          <w lemma='strong:H3754'>Ибо </w>по мере, <w lemma='strong:H2531'>как </w><w lemma='strong:H4052 strong:H3588'>умножаются </w><w lemma='strong:H1519'>в </w><w lemma='strong:H2248'>нас </w><w lemma='strong:H3804 strong:H3588'>страдания </w><w lemma='strong:H5547'>Христовы </w><w lemma='strong:H3779 strong:H1223'>, </w><w lemma='strong:H4052'>умножается </w><w lemma='strong:H5547'>Христом </w><w lemma='strong:H2532 strong:H3588'>и </w><w lemma='strong:H3874'>утешение </w><w lemma='strong:H2257'>наше </w>. </verse>
+        <verse osisID='2Cor.1.6'>
+          <w lemma='strong:H2346 strong:H1161'>Скорбим </w>
+          <w lemma='strong:H1535'>ли </w>мы, скорбим <w lemma='strong:H5228 strong:H3588'>для </w><w lemma='strong:H5216'>вашего </w><w lemma='strong:H3874'>утешения </w><w lemma='strong:H2532'>и </w><w lemma='strong:H4991'>спасения </w>, <w lemma='strong:H3588'>которое </w><w lemma='strong:H1754 strong:H1722'>совершается </w><w lemma='strong:H5281'>перенесением </w><w lemma='strong:H3588'>тех </w><w lemma='strong:H846'>же </w><w lemma='strong:H3804'>страданий </w>, <w lemma='strong:H3739'>какие </w><w lemma='strong:H2532'>и </w><w lemma='strong:H2249'>мы </w><w lemma='strong:H3958'>терпим </w>. </verse>
+        <verse osisID='2Cor.1.7'>
+          <w lemma='strong:H2532 strong:H3588'>И </w>
+          <w lemma='strong:H1680'>надежда </w>
+          <w lemma='strong:H2257'>наша </w>
+          <w lemma='strong:H5228'>о </w>
+          <w lemma='strong:H5216'>вас </w>
+          <w lemma='strong:H949'>тверда </w>. <w lemma='strong:H3870'>Утешаемся </w><w lemma='strong:H1535'>ли </w>, утешаемся <w lemma='strong:H5228 strong:H3588'>для </w><w lemma='strong:H5216'>вашего </w><w lemma='strong:H3874'>утешения </w><w lemma='strong:H2532'>и </w><w lemma='strong:H4991'>спасения </w>, <w lemma='strong:H1492'>зная </w>, <w lemma='strong:H3754'>что </w>вы <w lemma='strong:H2844'>участвуете </w><w lemma='strong:H5618 strong:H2075'>как </w><w lemma='strong:H3588'>в </w><w lemma='strong:H3804'>страданиях </w>наших, <w lemma='strong:H3779'>так </w><w lemma='strong:H2532'>и </w><w lemma='strong:H3588'>в </w><w lemma='strong:H3874'>утешении </w>. </verse>
+        <verse osisID='2Cor.1.8'>
+          <w lemma='strong:H1063'>Ибо </w>мы <w lemma='strong:H3756'>не </w><w lemma='strong:H2309'>хотим </w>оставить <w lemma='strong:H5209'>вас </w>, <w lemma='strong:H80'>братия </w>, в <w lemma='strong:H50'>неведении </w><w lemma='strong:H5228 strong:H3588'>о </w><w lemma='strong:H2347'>скорби </w><w lemma='strong:H2257'>нашей </w><w lemma='strong:H3588'>, </w><w lemma='strong:H1096'>бывшей </w>с <w lemma='strong:H2254'>нами </w><w lemma='strong:H1722 strong:H3588'>в </w><w lemma='strong:H773'>Асии </w>, потому <w lemma='strong:H3754'>что </w>мы <w lemma='strong:H916'>отягчены </w>были <w lemma='strong:H2596 strong:H5236'>чрезмерно </w>и <w lemma='strong:H5228'>сверх </w><w lemma='strong:H1411'>силы </w>, так <w lemma='strong:H5620'>что </w>не <w lemma='strong:H1820 strong:H2248 strong:H2532 strong:H3588'>надеялись </w>остаться в <w lemma='strong:H2198'>живых </w>. </verse>
+        <verse osisID='2Cor.1.9'>
+          <w lemma='strong:H235'>Но </w>
+          <w lemma='strong:H846'>сами </w>
+          <w lemma='strong:H1722'>в </w>
+          <w lemma='strong:H1438 strong:H3588'>себе </w>
+          <w lemma='strong:H2192'>имели </w>
+          <w lemma='strong:H610'>приговор </w>
+          <w lemma='strong:H3588'>к </w>
+          <w lemma='strong:H2288'>смерти </w>, для того, <w lemma='strong:H2443'>чтобы </w><w lemma='strong:H3982'>надеяться </w><w lemma='strong:H3361 strong:H5600'>не </w><w lemma='strong:H1909'>на </w>самих <w lemma='strong:H1438'>себя </w>, <w lemma='strong:H235'>но </w><w lemma='strong:H1909 strong:H3588'>на </w><w lemma='strong:H2316'>Бога </w><w lemma='strong:H3588'>, </w><w lemma='strong:H1453 strong:H3588'>воскрешающего </w><w lemma='strong:H3498'>мертвых </w>, </verse>
+        <verse osisID='2Cor.1.10'>
+          <w lemma='strong:H3739'>Который </w>и <w lemma='strong:H4506'>избавил </w><w lemma='strong:H2248'>нас </w><w lemma='strong:H1537'>от </w><w lemma='strong:H5082'>столь </w>близкой <w lemma='strong:H2288'>смерти </w>, <w lemma='strong:H2532'>и </w><w lemma='strong:H4506'>избавляет </w>, и <w lemma='strong:H1519'>на </w><w lemma='strong:H3739'>Которого </w><w lemma='strong:H1679'>надеемся </w>, <w lemma='strong:H3754'>что </w><w lemma='strong:H2532'>и </w><w lemma='strong:H2089'>еще </w><w lemma='strong:H4506'>избавит </w>, </verse>
+        <verse osisID='2Cor.1.11'>при <w lemma='strong:H4943'>содействии </w><w lemma='strong:H2532'>и </w><w lemma='strong:H5216 strong:H3588'>вашей </w><w lemma='strong:H1162'>молитвы </w><w lemma='strong:H5228'>за </w><w lemma='strong:H2257'>нас </w>, <w lemma='strong:H2443 strong:H3588'>дабы </w><w lemma='strong:H1519'>за </w><w lemma='strong:H5486'>дарованное </w><w lemma='strong:H2248'>нам </w>, <w lemma='strong:H1537'>по </w><w lemma='strong:H4383'>ходатайству </w><w lemma='strong:H4183'>многих </w><w lemma='strong:H1223'>, </w><w lemma='strong:H4183'>многие </w><w lemma='strong:H2168'>возблагодарили </w><w lemma='strong:H5228'>за </w><w lemma='strong:H2257'>нас </w>. </verse>
+        <verse osisID='2Cor.1.12'>
+          <w lemma='strong:H3588'/>
+          <w lemma='strong:H1063'>Ибо </w>
+          <w lemma='strong:H2746'>похвала </w>
+          <w lemma='strong:H2257'>наша </w>
+          <w lemma='strong:H3778'>сия </w>
+          <w lemma='strong:H2076 strong:H3588'>есть </w>
+          <w lemma='strong:H3142 strong:H3588'>свидетельство </w>
+          <w lemma='strong:H4893'>совести </w>
+          <w lemma='strong:H2257'>нашей </w>, <w lemma='strong:H3754'>что </w>мы <w lemma='strong:H1722'>в </w><w lemma='strong:H572'>простоте </w><w lemma='strong:H2532'>и </w><w lemma='strong:H2316'>богоугодной </w><w lemma='strong:H1505'>искренности </w>, <w lemma='strong:H3756'>не </w><w lemma='strong:H1722'>по </w><w lemma='strong:H4559'>плотской </w><w lemma='strong:H4678'>мудрости </w>, <w lemma='strong:H235'>но </w><w lemma='strong:H1722'>по </w><w lemma='strong:H5485'>благодати </w><w lemma='strong:H2316'>Божией </w>, <w lemma='strong:H390'>жили </w><w lemma='strong:H1722 strong:H3588'>в </w><w lemma='strong:H2889'>мире </w>, <w lemma='strong:H4056'>особенно </w><w lemma='strong:H1161'>же </w><w lemma='strong:H4314'>у </w><w lemma='strong:H5209'>вас </w>. </verse>
+        <verse osisID='2Cor.1.13'>
+          <w lemma='strong:H1063'>И </w>мы <w lemma='strong:H1125'>пишем </w><w lemma='strong:H5213'>вам </w><w lemma='strong:H3756'>не </w><w lemma='strong:H243'>иное </w><w lemma='strong:H235'>, </w><w lemma='strong:H2228'>как </w><w lemma='strong:H3739'>то </w>, что вы <w lemma='strong:H314'>читаете </w><w lemma='strong:H2228 strong:H2532'>или </w><w lemma='strong:H1921'>разумеете </w>, <w lemma='strong:H1161'>и </w>что, как <w lemma='strong:H1679'>надеюсь </w><w lemma='strong:H3754 strong:H2532'>, </w><w lemma='strong:H2193'>до </w><w lemma='strong:H5056'>конца </w><w lemma='strong:H1921'>уразумеете </w>, </verse>
+        <verse osisID='2Cor.1.14'>так <w lemma='strong:H2531'>как </w>вы <w lemma='strong:H575 strong:H3313'>отчасти </w><w lemma='strong:H2532'>и </w><w lemma='strong:H1921 strong:H2248'>уразумели </w>уже, <w lemma='strong:H3754'>что </w>мы <w lemma='strong:H2070'>будем </w><w lemma='strong:H5216'>вашею </w><w lemma='strong:H2745'>похвалою </w>, <w lemma='strong:H2509'>равно </w><w lemma='strong:H2532'>и </w><w lemma='strong:H5210'>вы </w><w lemma='strong:H2257'>нашею </w>, <w lemma='strong:H1722 strong:H3588'>в </w><w lemma='strong:H2250 strong:H3588'>день </w><w lemma='strong:H2962'>Господа </w>нашего <w lemma='strong:H2424'>Иисуса </w>Христа. </verse>
+        <verse osisID='2Cor.1.15'>
+          <w lemma='strong:H2532'>И </w>в <w lemma='strong:H5026 strong:H3588'>этой </w><w lemma='strong:H4006'>уверенности </w>я <w lemma='strong:H1014'>намеревался </w><w lemma='strong:H2064'>придти </w><w lemma='strong:H4314'>к </w><w lemma='strong:H5209'>вам </w><w lemma='strong:H4386'>ранее </w>, <w lemma='strong:H2443'>чтобы </w>вы <w lemma='strong:H1208'>вторично </w><w lemma='strong:H2192'>получили </w><w lemma='strong:H5485'>благодать </w>, </verse>
+        <verse osisID='2Cor.1.16'>
+          <w lemma='strong:H2532'>и </w>
+          <w lemma='strong:H1223'>через </w>
+          <w lemma='strong:H5216'>вас </w>
+          <w lemma='strong:H1330'>пройти </w>
+          <w lemma='strong:H1519'>в </w>
+          <w lemma='strong:H3109'>Македонию </w>, <w lemma='strong:H575'>из </w><w lemma='strong:H3109'>Македонии </w><w lemma='strong:H2532'>же </w><w lemma='strong:H3825'>опять </w><w lemma='strong:H2064'>придти </w><w lemma='strong:H4314'>к </w><w lemma='strong:H5209'>вам </w>; <w lemma='strong:H2532 strong:H5259'>а </w><w lemma='strong:H5216'>вы </w><w lemma='strong:H4311'>проводили </w>бы меня <w lemma='strong:H1519 strong:H3588'>в </w><w lemma='strong:H2449'>Иудею </w>. </verse>
+        <verse osisID='2Cor.1.17'>Имея <w lemma='strong:H5124 strong:H3767'>такое </w><w lemma='strong:H1011'>намерение </w>, <w lemma='strong:H1644'>легкомысленно </w><w lemma='strong:H3361 strong:H5100 strong:H687 strong:H3588'>ли </w>я <w lemma='strong:H5530'>поступил </w>? <w lemma='strong:H2228'>Или </w>, <w lemma='strong:H3739'>что </w>я <w lemma='strong:H1011'>предпринимаю </w>, <w lemma='strong:H2596'>по </w><w lemma='strong:H4561'>плоти </w><w lemma='strong:H1011'>предпринимаю </w>, так <w lemma='strong:H2443 strong:H5600'>что </w><w lemma='strong:H3844'>у </w><w lemma='strong:H1698 strong:H3588'>меня </w>то <w lemma='strong:H3483'>"да </w>, <w lemma='strong:H3483'>да </w>", <w lemma='strong:H2532 strong:H3588'>то </w><w lemma='strong:H3756'>"нет </w>, <w lemma='strong:H3756'>нет </w>"? </verse>
+        <verse osisID='2Cor.1.18'>
+          <w lemma='strong:H4103 strong:H1161 strong:H3588'>Верен </w>
+          <w lemma='strong:H2316'>Бог </w>, <w lemma='strong:H3754 strong:H3588'>что </w><w lemma='strong:H3056'>слово </w><w lemma='strong:H2257 strong:H3588'>наше </w><w lemma='strong:H4314'>к </w><w lemma='strong:H5209'>вам </w><w lemma='strong:H3756'>не </w><w lemma='strong:H1096'>было </w>то <w lemma='strong:H3483'>"да </w>", <w lemma='strong:H2532'>то </w><w lemma='strong:H3756'>"нет </w>". </verse>
+        <verse osisID='2Cor.1.19'>
+          <w lemma='strong:H3588'/>
+          <w lemma='strong:H1063 strong:H3588'>Ибо </w>
+          <w lemma='strong:H5207'>Сын </w>
+          <w lemma='strong:H2316'>Божий </w>, <w lemma='strong:H2424'>Иисус </w><w lemma='strong:H5547'>Христос </w><w lemma='strong:H3588'>, </w><w lemma='strong:H2784'>проповеданный </w><w lemma='strong:H1722'>у </w><w lemma='strong:H5213 strong:H1223'>вас </w><w lemma='strong:H2257'>нами </w><w lemma='strong:H1223'>, </w><w lemma='strong:H1223 strong:H1700'>мною </w><w lemma='strong:H2532'>и </w><w lemma='strong:H4610'>Силуаном </w><w lemma='strong:H2532'>и </w><w lemma='strong:H5095'>Тимофеем </w>, <w lemma='strong:H3756'>не </w><w lemma='strong:H1096'>был </w><w lemma='strong:H3483'>"да </w>" <w lemma='strong:H2532'>и </w><w lemma='strong:H3756'>"нет </w>"; <w lemma='strong:H235'>но </w><w lemma='strong:H1722'>в </w><w lemma='strong:H846'>Нем </w><w lemma='strong:H1096'>было </w><w lemma='strong:H3483'>"да </w>", - </verse>
+        <verse osisID='2Cor.1.20'>
+          <w lemma='strong:H1063'>ибо </w>
+          <w lemma='strong:H3745'>все </w>
+          <w lemma='strong:H1860'>обетования </w>
+          <w lemma='strong:H2316'>Божии </w>
+          <w lemma='strong:H1722'>в </w>
+          <w lemma='strong:H846 strong:H3588'>Нем </w>
+          <w lemma='strong:H3483'>"да </w>" <w lemma='strong:H2532'>и </w><w lemma='strong:H1722'>в </w><w lemma='strong:H846 strong:H3588'>Нем </w><w lemma='strong:H281'>"аминь </w>", <w lemma='strong:H3588'>- </w><w lemma='strong:H4314'>в </w><w lemma='strong:H1391'>славу </w><w lemma='strong:H2316'>Божию </w>, <w lemma='strong:H1223'>через </w><w lemma='strong:H2257'>нас </w>. </verse>
+        <verse osisID='2Cor.1.21'>
+          <w lemma='strong:H3588'/>
+          <w lemma='strong:H950'>Утверждающий </w>
+          <w lemma='strong:H1161'>же </w>
+          <w lemma='strong:H2248'>нас </w>
+          <w lemma='strong:H4862'>с </w>
+          <w lemma='strong:H5213'>вами </w>
+          <w lemma='strong:H1519'>во </w>
+          <w lemma='strong:H5547'>Христе </w>
+          <w lemma='strong:H2532'>и </w>
+          <w lemma='strong:H5548'>помазавший </w>
+          <w lemma='strong:H2248'>нас </w>есть <w lemma='strong:H2316'>Бог </w>, </verse>
+        <verse osisID='2Cor.1.22'>
+          <w lemma='strong:H3588'>Который </w>
+          <w lemma='strong:H2532'>и </w>
+          <w lemma='strong:H4972'>запечатлел </w>
+          <w lemma='strong:H2248'>нас </w>
+          <w lemma='strong:H2532'>и </w>
+          <w lemma='strong:H1325 strong:H3588'>дал </w>
+          <w lemma='strong:H728 strong:H3588'>залог </w>
+          <w lemma='strong:H4151'>Духа </w>
+          <w lemma='strong:H1722 strong:H3588'>в </w>
+          <w lemma='strong:H2588'>сердца </w>
+          <w lemma='strong:H2257'>наши </w>. </verse>
+        <verse osisID='2Cor.1.23'>
+          <w lemma='strong:H1473 strong:H1161 strong:H3588'/>
+          <w lemma='strong:H2316'>Бога </w>
+          <w lemma='strong:H1941'>призываю </w>во <w lemma='strong:H3144'>свидетели </w><w lemma='strong:H1909 strong:H3588'>на </w><w lemma='strong:H5590'>душу </w><w lemma='strong:H1699'>мою </w>, <w lemma='strong:H3754'>что </w>, <w lemma='strong:H5339'>щадя </w><w lemma='strong:H5216'>вас </w>, я доселе <w lemma='strong:H3765'>не </w><w lemma='strong:H2064'>приходил </w><w lemma='strong:H1519'>в </w><w lemma='strong:H2882'>Коринф </w>, </verse>
+        <verse osisID='2Cor.1.24'>
+          <w lemma='strong:H3756'>не </w>потому, <w lemma='strong:H3754'>будто </w>мы берем <w lemma='strong:H2961'>власть </w><w lemma='strong:H3588'>над </w><w lemma='strong:H4102'>верою </w><w lemma='strong:H5216'>вашею </w>; <w lemma='strong:H235'>но </w>мы <w lemma='strong:H4904 strong:H2070 strong:H3588'>споспешествуем </w><w lemma='strong:H5479'>радости </w><w lemma='strong:H5216'>вашей </w><w lemma='strong:H3588'>: </w><w lemma='strong:H1063'>ибо </w><w lemma='strong:H4102'>верою </w>вы <w lemma='strong:H2476'>тверды </w>. </verse>
+      </chapter>
+      <chapter osisID='2Cor.2'>
+        <verse osisID='2Cor.2.1'>
+          <w lemma='strong:H1063'>Итак </w>я <w lemma='strong:H2919'>рассудил </w>сам в <w lemma='strong:H1683 strong:H5124 strong:H3588'>себе </w><w lemma='strong:H3361'>не </w><w lemma='strong:H2064'>приходить </w><w lemma='strong:H4314'>к </w><w lemma='strong:H5209'>вам </w><w lemma='strong:H3825'>опять </w><w lemma='strong:H1722'>с </w><w lemma='strong:H3077'>огорчением </w>. </verse>
+        <verse osisID='2Cor.2.2'>
+          <w lemma='strong:H1063'>Ибо </w>
+          <w lemma='strong:H1487'>если </w>
+          <w lemma='strong:H1473'>я </w>
+          <w lemma='strong:H3076'>огорчаю </w>
+          <w lemma='strong:H5209'>вас </w>
+          <w lemma='strong:H2532'>, </w>то <w lemma='strong:H5101 strong:H2076 strong:H3588'>кто </w><w lemma='strong:H2165'>обрадует </w><w lemma='strong:H3165'>меня </w>, <w lemma='strong:H1487'>как </w><w lemma='strong:H3361'>не </w>тот, <w lemma='strong:H3588'>кто </w><w lemma='strong:H3076 strong:H1537'>огорчен </w><w lemma='strong:H1700'>мною </w>? </verse>
+        <verse osisID='2Cor.2.3'>
+          <w lemma='strong:H5124'>Это </w>
+          <w lemma='strong:H846'>самое </w>
+          <w lemma='strong:H2532'>и </w>
+          <w lemma='strong:H1125'>писал </w>я <w lemma='strong:H5213'>вам </w>, <w lemma='strong:H2443'>дабы </w>, <w lemma='strong:H2064'>придя </w>, <w lemma='strong:H3361'>не </w><w lemma='strong:H2192'>иметь </w><w lemma='strong:H3077'>огорчения </w><w lemma='strong:H575'>от </w>тех, о <w lemma='strong:H3739'>которых </w><w lemma='strong:H3165'>мне </w><w lemma='strong:H1163'>надлежало </w><w lemma='strong:H5463'>радоваться </w>: ибо я <w lemma='strong:H1909'>во </w><w lemma='strong:H3956'>всех </w><w lemma='strong:H5209'>вас </w><w lemma='strong:H3982'>уверен </w>, <w lemma='strong:H3754 strong:H3588'>что </w><w lemma='strong:H1699'>моя </w><w lemma='strong:H5479'>радость </w><w lemma='strong:H2076'>есть </w>радость и для <w lemma='strong:H3956'>всех </w><w lemma='strong:H5216'>вас </w>. </verse>
+        <verse osisID='2Cor.2.4'>
+          <w lemma='strong:H1537 strong:H1063'>От </w>
+          <w lemma='strong:H4183'>великой </w>
+          <w lemma='strong:H2347'>скорби </w>
+          <w lemma='strong:H2532'>и </w>
+          <w lemma='strong:H4928'>стесненного </w>
+          <w lemma='strong:H2588'>сердца </w>я <w lemma='strong:H1125'>писал </w><w lemma='strong:H5213'>вам </w><w lemma='strong:H1223'>со </w><w lemma='strong:H4183'>многими </w><w lemma='strong:H1144'>слезами </w>, <w lemma='strong:H3756'>не </w>для того, <w lemma='strong:H2443'>чтобы </w><w lemma='strong:H3076'>огорчить </w>вас, <w lemma='strong:H235 strong:H3588'>но </w><w lemma='strong:H2443'>чтобы </w>вы <w lemma='strong:H1097'>познали </w><w lemma='strong:H26'>любовь </w>, <w lemma='strong:H3739'>какую </w>я в <w lemma='strong:H4056'>избытке </w><w lemma='strong:H2192'>имею </w><w lemma='strong:H1519'>к </w><w lemma='strong:H5209'>вам </w>. </verse>
+        <verse osisID='2Cor.2.5'>
+          <w lemma='strong:H1487'>Если </w>
+          <w lemma='strong:H1161'>же </w>
+          <w lemma='strong:H5100'>кто </w>
+          <w lemma='strong:H3076'>огорчил </w>, то <w lemma='strong:H3756'>не </w><w lemma='strong:H1691'>меня </w><w lemma='strong:H3076'>огорчил </w>, <w lemma='strong:H235 strong:H575'>но </w><w lemma='strong:H3313'>частью </w>, - <w lemma='strong:H2443'>чтобы </w><w lemma='strong:H3361'>не </w>сказать <w lemma='strong:H1912'>много </w>, - и <w lemma='strong:H3956'>всех </w><w lemma='strong:H5209'>вас </w>. </verse>
+        <verse osisID='2Cor.2.6'>
+          <w lemma='strong:H3588'>Для </w>
+          <w lemma='strong:H5108'>такого </w>
+          <w lemma='strong:H2425 strong:H3588'>довольно </w>
+          <w lemma='strong:H3778'>сего </w>
+          <w lemma='strong:H2009 strong:H3588'>наказания </w>
+          <w lemma='strong:H5259 strong:H3588'>от </w>
+          <w lemma='strong:H4119'>многих </w>, </verse>
+        <verse osisID='2Cor.2.7'>
+          <w lemma='strong:H5620'>так </w>что <w lemma='strong:H5209'>вам </w><w lemma='strong:H3123'>лучше </w><w lemma='strong:H5121'>уже </w><w lemma='strong:H5483'>простить </w>его <w lemma='strong:H2532'>и </w><w lemma='strong:H3870'>утешить </w>, <w lemma='strong:H3381 strong:H4459 strong:H3588 strong:H3588'>дабы </w><w lemma='strong:H5108'>он </w>не был <w lemma='strong:H2666'>поглощен </w><w lemma='strong:H4055'>чрезмерною </w><w lemma='strong:H3077'>печалью </w>. </verse>
+        <verse osisID='2Cor.2.8'>И <w lemma='strong:H1352'>потому </w><w lemma='strong:H3870'>прошу </w><w lemma='strong:H5209'>вас </w><w lemma='strong:H2964 strong:H1519'>оказать </w><w lemma='strong:H846'>ему </w><w lemma='strong:H26'>любовь </w>. </verse>
+        <verse osisID='2Cor.2.9'>
+          <w lemma='strong:H1063'>Ибо </w>я <w lemma='strong:H1519'>для </w><w lemma='strong:H5124'>того </w><w lemma='strong:H2532'>и </w><w lemma='strong:H1125'>писал </w>, <w lemma='strong:H2443'>чтобы </w><w lemma='strong:H1097'>узнать </w><w lemma='strong:H3588'>на </w><w lemma='strong:H1382 strong:H5416'>опыте </w>, <w lemma='strong:H1519'>во </w><w lemma='strong:H3956'>всем </w><w lemma='strong:H1487'>ли </w>вы <w lemma='strong:H5255 strong:H2075'>послушны </w>. </verse>
+        <verse osisID='2Cor.2.10'>
+          <w lemma='strong:H1161'>А </w>
+          <w lemma='strong:H3739'>кого </w>вы в <w lemma='strong:H5100'>чем </w><w lemma='strong:H5483'>прощаете </w>, того <w lemma='strong:H2532'>и </w><w lemma='strong:H1473'>я </w>; <w lemma='strong:H1063'>ибо </w><w lemma='strong:H2532'>и </w><w lemma='strong:H1473'>я </w>, <w lemma='strong:H1487'>если </w>в <w lemma='strong:H5100'>чем </w><w lemma='strong:H5483'>простил </w><w lemma='strong:H3739'>кого </w>, <w lemma='strong:H5483'>простил </w><w lemma='strong:H1223'>для </w><w lemma='strong:H5209'>вас </w><w lemma='strong:H1722'>от </w><w lemma='strong:H4383'>лица </w><w lemma='strong:H5547'>Христова </w>, </verse>
+        <verse osisID='2Cor.2.11'>
+          <w lemma='strong:H2443'>чтобы </w>
+          <w lemma='strong:H3361'>не </w>сделал нам <w lemma='strong:H4122 strong:H5259 strong:H3588'>ущерба </w><w lemma='strong:H4567'>сатана </w>, <w lemma='strong:H1063'>ибо </w>нам <w lemma='strong:H3756'>не </w><w lemma='strong:H50'>безызвестны </w><w lemma='strong:H846 strong:H3588'>его </w><w lemma='strong:H3540'>умыслы </w>. </verse>
+        <verse osisID='2Cor.2.12'>
+          <w lemma='strong:H2064 strong:H1161'>Придя </w>
+          <w lemma='strong:H1519 strong:H3588'>в </w>
+          <w lemma='strong:H5174'>Троаду </w>
+          <w lemma='strong:H1519 strong:H3588'>для </w>
+          <w lemma='strong:H2098 strong:H3588'>благовествования </w>о <w lemma='strong:H5547'>Христе </w>, хотя <w lemma='strong:H3427'>мне </w><w lemma='strong:H2532'>и </w><w lemma='strong:H455'>отверста </w>была <w lemma='strong:H2374 strong:H1722'>дверь </w><w lemma='strong:H2962'>Господом </w>, </verse>
+        <verse osisID='2Cor.2.13'>я <w lemma='strong:H3756'>не </w><w lemma='strong:H2192'>имел </w><w lemma='strong:H425 strong:H3588'>покоя </w><w lemma='strong:H4151'>духу </w><w lemma='strong:H3450'>моему </w><w lemma='strong:H3588'>, </w>потому <w lemma='strong:H3165'>что </w><w lemma='strong:H3361'>не </w><w lemma='strong:H2147'>нашел </w>там <w lemma='strong:H80'>брата </w><w lemma='strong:H3450'>моего </w><w lemma='strong:H5103'>Тита </w>; <w lemma='strong:H235'>но </w>, <w lemma='strong:H657'>простившись </w>с <w lemma='strong:H846'>ними </w>, я <w lemma='strong:H1831'>пошел </w><w lemma='strong:H1519'>в </w><w lemma='strong:H3109'>Македонию </w>. </verse>
+        <verse osisID='2Cor.2.14'>
+          <w lemma='strong:H3588'/>
+          <w lemma='strong:H1161'>Но </w>
+          <w lemma='strong:H5485'>благодарение </w>
+          <w lemma='strong:H2316'>Богу </w>, <w lemma='strong:H3588'>Который </w><w lemma='strong:H3842'>всегда </w>дает <w lemma='strong:H2248'>нам </w><w lemma='strong:H2358'>торжествовать </w><w lemma='strong:H1722 strong:H3588'>во </w><w lemma='strong:H5547'>Христе </w><w lemma='strong:H2532 strong:H3588'>и </w><w lemma='strong:H3744 strong:H3588'>благоухание </w><w lemma='strong:H1108'>познания </w>о <w lemma='strong:H846'>Себе </w><w lemma='strong:H5319 strong:H1223'>распространяет </w><w lemma='strong:H2257'>нами </w><w lemma='strong:H1722'>во </w><w lemma='strong:H3956'>всяком </w><w lemma='strong:H5117'>месте </w>. </verse>
+        <verse osisID='2Cor.2.15'>
+          <w lemma='strong:H3754'>Ибо </w>
+          <w lemma='strong:H2070'>мы </w>- <w lemma='strong:H5547'>Христово </w><w lemma='strong:H2175 strong:H3588'>благоухание </w><w lemma='strong:H2316'>Богу </w><w lemma='strong:H1722 strong:H3588'>в </w><w lemma='strong:H4982'>спасаемых </w><w lemma='strong:H2532'>и </w><w lemma='strong:H1722 strong:H3588'>в </w><w lemma='strong:H622'>погибающих </w>: </verse>
+        <verse osisID='2Cor.2.16'>
+          <w lemma='strong:H3739'>для </w>
+          <w lemma='strong:H3303'>одних </w>
+          <w lemma='strong:H3744'>запах </w>
+          <w lemma='strong:H2288'>смертоносный </w>
+          <w lemma='strong:H1519'>на </w>
+          <w lemma='strong:H2288'>смерть </w>, <w lemma='strong:H1161'>а </w>для <w lemma='strong:H3739'>других </w><w lemma='strong:H3744'>запах </w><w lemma='strong:H2222'>живительный </w><w lemma='strong:H1519'>на </w><w lemma='strong:H2222'>жизнь </w>. <w lemma='strong:H2532'>И </w><w lemma='strong:H5101'>кто </w><w lemma='strong:H2425'>способен </w><w lemma='strong:H4314'>к </w><w lemma='strong:H5023'>сему </w>? </verse>
+        <verse osisID='2Cor.2.17'>
+          <w lemma='strong:H1063'>Ибо </w>
+          <w lemma='strong:H2070'>мы </w>
+          <w lemma='strong:H3756'>не </w>
+          <w lemma='strong:H2585 strong:H3588'>повреждаем </w>
+          <w lemma='strong:H3056 strong:H3588'>слова </w>
+          <w lemma='strong:H2316'>Божия </w>, <w lemma='strong:H5613 strong:H3588'>как </w><w lemma='strong:H4183'>многие </w>, <w lemma='strong:H235 strong:H5613 strong:H1537'>но </w><w lemma='strong:H2980'>проповедуем </w><w lemma='strong:H1505'>искренно </w><w lemma='strong:H235'>, </w><w lemma='strong:H5613'>как </w><w lemma='strong:H1537'>от </w><w lemma='strong:H2316'>Бога </w>, <w lemma='strong:H2714 strong:H3588'>пред </w><w lemma='strong:H2316'>Богом </w>, <w lemma='strong:H1722'>во </w><w lemma='strong:H5547'>Христе </w>. </verse>
+      </chapter>
+      <chapter osisID='2Cor.3'>
+        <verse osisID='2Cor.3.1'>
+          <w lemma='strong:H756'>Неужели </w>нам <w lemma='strong:H3825 strong:H1438'>снова </w><w lemma='strong:H4921'>знакомиться </w>с вами? <w lemma='strong:H2228 strong:H3361'>Неужели </w><w lemma='strong:H5535'>нужны </w>для нас, <w lemma='strong:H5613'>как </w>для <w lemma='strong:H5100'>некоторых </w>, <w lemma='strong:H4956'>одобрительные </w><w lemma='strong:H1992'>письма </w><w lemma='strong:H4314'>к </w><w lemma='strong:H5209'>вам </w><w lemma='strong:H2228'>или </w><w lemma='strong:H1537'>от </w><w lemma='strong:H5216 strong:H4956'>вас </w>? </verse>
+        <verse osisID='2Cor.3.2'>
+          <w lemma='strong:H3588'/>
+          <w lemma='strong:H5210'>Вы </w>- <w lemma='strong:H2257'>наше </w><w lemma='strong:H1992 strong:H2075'>письмо </w>, <w lemma='strong:H1449'>написанное </w><w lemma='strong:H1722 strong:H3588'>в </w><w lemma='strong:H2588'>сердцах </w><w lemma='strong:H2257'>наших </w>, <w lemma='strong:H1097'>узнаваемое </w><w lemma='strong:H2532'>и </w><w lemma='strong:H314 strong:H5259'>читаемое </w><w lemma='strong:H3956'>всеми </w><w lemma='strong:H444'>человеками </w>; </verse>
+        <verse osisID='2Cor.3.3'>вы <w lemma='strong:H5319'>показываете </w>собою, <w lemma='strong:H3754'>что </w><w lemma='strong:H2075'>вы </w>- <w lemma='strong:H1992'>письмо </w><w lemma='strong:H5547'>Христово </w>, через <w lemma='strong:H1247 strong:H5259'>служение </w><w lemma='strong:H2257'>наше </w><w lemma='strong:H1449'>написанное </w><w lemma='strong:H3756'>не </w><w lemma='strong:H3188'>чернилами </w>, <w lemma='strong:H235'>но </w><w lemma='strong:H4151'>Духом </w><w lemma='strong:H2316'>Бога </w><w lemma='strong:H2198'>живого </w>, <w lemma='strong:H3756'>не </w><w lemma='strong:H1722'>на </w><w lemma='strong:H4109'>скрижалях </w><w lemma='strong:H3035'>каменных </w>, <w lemma='strong:H235'>но </w><w lemma='strong:H1722'>на </w><w lemma='strong:H4560'>плотяных </w><w lemma='strong:H4109'>скрижалях </w><w lemma='strong:H2588'>сердца </w>. </verse>
+        <verse osisID='2Cor.3.4'>
+          <w lemma='strong:H5108 strong:H1161'>Такую </w>
+          <w lemma='strong:H4006'>уверенность </w>мы <w lemma='strong:H2192'>имеем </w><w lemma='strong:H4314 strong:H3588'>в </w><w lemma='strong:H2316'>Боге </w><w lemma='strong:H1223 strong:H3588'>через </w><w lemma='strong:H5547'>Христа </w>, </verse>
+        <verse osisID='2Cor.3.5'>
+          <w lemma='strong:H3756'>не </w>потому, <w lemma='strong:H3754'>чтобы </w>мы сами <w lemma='strong:H2425'>способны </w><w lemma='strong:H2070'>были </w><w lemma='strong:H3049'>помыслить </w><w lemma='strong:H5100'>что </w><w lemma='strong:H575'>от </w><w lemma='strong:H1438'>себя </w>, <w lemma='strong:H5613'>как </w>бы <w lemma='strong:H1537'>от </w><w lemma='strong:H1438'>себя </w>, <w lemma='strong:H235 strong:H3588'>но </w><w lemma='strong:H2426'>способность </w><w lemma='strong:H2257'>наша </w><w lemma='strong:H1537 strong:H3588'>от </w><w lemma='strong:H2316'>Бога </w>. </verse>
+        <verse osisID='2Cor.3.6'>
+          <w lemma='strong:H3739 strong:H2532'>Он </w>дал <w lemma='strong:H2248'>нам </w><w lemma='strong:H2427'>способность </w>быть <w lemma='strong:H1249'>служителями </w><w lemma='strong:H2537'>Нового </w><w lemma='strong:H1242'>Завета </w>, <w lemma='strong:H3756'>не </w><w lemma='strong:H1121'>буквы </w>, <w lemma='strong:H235'>но </w><w lemma='strong:H4151'>духа </w><w lemma='strong:H3588'>, </w>потому <w lemma='strong:H1063'>что </w><w lemma='strong:H1121'>буква </w><w lemma='strong:H615'>убивает </w><w lemma='strong:H3588'>, </w><w lemma='strong:H1161'>а </w><w lemma='strong:H4151'>дух </w><w lemma='strong:H2227'>животворит </w>. </verse>
+        <verse osisID='2Cor.3.7'>
+          <w lemma='strong:H1487'>Если </w>
+          <w lemma='strong:H1161 strong:H3588'>же </w>
+          <w lemma='strong:H1248 strong:H3588'>служение </w>
+          <w lemma='strong:H2288 strong:H1722'>смертоносным </w>
+          <w lemma='strong:H1121'>буквам </w>, <w lemma='strong:H1795'>начертанное </w><w lemma='strong:H1722'>на </w><w lemma='strong:H3037'>камнях </w>, <w lemma='strong:H1096 strong:H1722'>было </w>так <w lemma='strong:H1391'>славно </w>, <w lemma='strong:H5620'>что </w><w lemma='strong:H5207'>сыны </w><w lemma='strong:H2474'>Израилевы </w><w lemma='strong:H3361'>не </w><w lemma='strong:H1410'>могли </w><w lemma='strong:H816 strong:H3588'>смотреть </w><w lemma='strong:H1519 strong:H3588'>на </w><w lemma='strong:H4383'>лице </w><w lemma='strong:H3475'>Моисеево </w>по <w lemma='strong:H1223 strong:H3588'>причине </w><w lemma='strong:H1391 strong:H3588'>славы </w><w lemma='strong:H4383'>лица </w><w lemma='strong:H846 strong:H3588'>его </w><w lemma='strong:H2673'>преходящей </w>, - </verse>
+        <verse osisID='2Cor.3.8'>
+          <w lemma='strong:H4459'>то </w>
+          <w lemma='strong:H3780'>не </w>гораздо ли <w lemma='strong:H3123 strong:H3588'>более </w>должно <w lemma='strong:H2071 strong:H1722'>быть </w><w lemma='strong:H1391'>славно </w><w lemma='strong:H1248 strong:H3588'>служение </w><w lemma='strong:H4151'>духа </w>? </verse>
+        <verse osisID='2Cor.3.9'>
+          <w lemma='strong:H1063'>Ибо </w>
+          <w lemma='strong:H1487 strong:H3588'>если </w>
+          <w lemma='strong:H1248 strong:H3588'>служение </w>
+          <w lemma='strong:H2633 strong:H1722'>осуждения </w>
+          <w lemma='strong:H1391'>славно </w>, то <w lemma='strong:H4183'>тем </w><w lemma='strong:H3123'>паче </w><w lemma='strong:H4052 strong:H3588'>изобилует </w><w lemma='strong:H1391'>славою </w><w lemma='strong:H1248 strong:H3588'>служение </w><w lemma='strong:H1343'>оправдания </w>. </verse>
+        <verse osisID='2Cor.3.10'>
+          <w lemma='strong:H1063'>То </w>
+          <w lemma='strong:H1392'>прославленное </w>
+          <w lemma='strong:H2532'>даже </w>
+          <w lemma='strong:H3761'>не </w>оказывается <w lemma='strong:H1392 strong:H3588'>славным </w><w lemma='strong:H1722'>с </w><w lemma='strong:H5129 strong:H3588'>сей </w><w lemma='strong:H3313'>стороны </w>, по <w lemma='strong:H1752 strong:H3588'>причине </w><w lemma='strong:H5235'>преимущественной </w><w lemma='strong:H1391'>славы </w>последующего . </verse>
+        <verse osisID='2Cor.3.11'>
+          <w lemma='strong:H1063'>Ибо </w>, <w lemma='strong:H1487 strong:H3588'>если </w><w lemma='strong:H2673 strong:H1223'>преходящее </w><w lemma='strong:H1391'>славно </w>, <w lemma='strong:H4183'>тем </w><w lemma='strong:H3123 strong:H3588'>более </w><w lemma='strong:H1391 strong:H1722'>славно </w><w lemma='strong:H3306'>пребывающее </w>. </verse>
+        <verse osisID='2Cor.3.12'>
+          <w lemma='strong:H2192 strong:H3767'>Имея </w>
+          <w lemma='strong:H5108'>такую </w>
+          <w lemma='strong:H1680'>надежду </w>, мы <w lemma='strong:H5530'>действуем </w>с <w lemma='strong:H4183'>великим </w><w lemma='strong:H3954'>дерзновением </w>, </verse>
+        <verse osisID='2Cor.3.13'>
+          <w lemma='strong:H2532'>а </w>
+          <w lemma='strong:H3756'>не </w>так, <w lemma='strong:H2509'>как </w><w lemma='strong:H3475'>Моисей </w>, который <w lemma='strong:H5087'>полагал </w><w lemma='strong:H2571'>покрывало </w><w lemma='strong:H1909 strong:H3588'>на </w><w lemma='strong:H4383'>лице </w><w lemma='strong:H1438'>свое </w>, <w lemma='strong:H4314 strong:H3588 strong:H3588'>чтобы </w><w lemma='strong:H5207'>сыны </w><w lemma='strong:H2474'>Израилевы </w><w lemma='strong:H3361'>не </w><w lemma='strong:H816'>взирали </w><w lemma='strong:H1519 strong:H3588'>на </w><w lemma='strong:H5056 strong:H3588'>конец </w><w lemma='strong:H2673'>преходящего </w>. </verse>
+        <verse osisID='2Cor.3.14'>
+          <w lemma='strong:H235 strong:H3588'>Но </w>
+          <w lemma='strong:H3540'>умы </w>
+          <w lemma='strong:H846'>их </w>
+          <w lemma='strong:H4456'>ослеплены </w>: <w lemma='strong:H1063'>ибо </w><w lemma='strong:H3588'>то </w>же <w lemma='strong:H846'>самое </w><w lemma='strong:H2571'>покрывало </w><w lemma='strong:H891 strong:H3588 strong:H4594'>доныне </w><w lemma='strong:H3306'>остается </w><w lemma='strong:H3361 strong:H343'>неснятым </w><w lemma='strong:H1909 strong:H3588'>при </w><w lemma='strong:H320 strong:H3588'>чтении </w><w lemma='strong:H3820'>Ветхого </w><w lemma='strong:H1242'>Завета </w>, потому <w lemma='strong:H3739 strong:H1722'>что </w>оно <w lemma='strong:H2673'>снимается </w><w lemma='strong:H5547'>Христом </w>. </verse>
+        <verse osisID='2Cor.3.15'>
+          <w lemma='strong:H235'/>
+          <w lemma='strong:H2193 strong:H4594'>Доныне </w>, <w lemma='strong:H2259'>когда </w>они <w lemma='strong:H314'>читают </w><w lemma='strong:H3475'>Моисея </w>, <w lemma='strong:H2571'>покрывало </w><w lemma='strong:H2749'>лежит </w><w lemma='strong:H1909 strong:H3588'>на </w><w lemma='strong:H2588'>сердце </w><w lemma='strong:H846'>их </w>; </verse>
+        <verse osisID='2Cor.3.16'>
+          <w lemma='strong:H1161'>но </w>
+          <w lemma='strong:H2259 strong:H302'>когда </w>
+          <w lemma='strong:H1994'>обращаются </w>
+          <w lemma='strong:H4314'>к </w>
+          <w lemma='strong:H2962'>Господу </w>, тогда <w lemma='strong:H3588'>это </w><w lemma='strong:H2571'>покрывало </w><w lemma='strong:H4014'>снимается </w>. </verse>
+        <verse osisID='2Cor.3.17'>
+          <w lemma='strong:H3588 strong:H1161'/>
+          <w lemma='strong:H2962 strong:H3588'>Господь </w>
+          <w lemma='strong:H2076'>есть </w>
+          <w lemma='strong:H4151'>Дух </w>; <w lemma='strong:H1161'>а </w><w lemma='strong:H3757 strong:H3588'>где </w><w lemma='strong:H4151'>Дух </w><w lemma='strong:H2962'>Господень </w>, <w lemma='strong:H1563'>там </w><w lemma='strong:H1657'>свобода </w>. </verse>
+        <verse osisID='2Cor.3.18'>
+          <w lemma='strong:H2249'>Мы </w>
+          <w lemma='strong:H1161'>же </w>
+          <w lemma='strong:H3956'>все </w>
+          <w lemma='strong:H343'>открытым </w>
+          <w lemma='strong:H4383'>лицем </w>, как в зеркале, <w lemma='strong:H2734'>взирая </w><w lemma='strong:H3588'>на </w><w lemma='strong:H1391'>славу </w><w lemma='strong:H2962'>Господню </w><w lemma='strong:H3588'>, </w><w lemma='strong:H3339'>преображаемся </w>в <w lemma='strong:H846'>тот </w>же <w lemma='strong:H1504'>образ </w><w lemma='strong:H575'>от </w><w lemma='strong:H1391'>славы </w><w lemma='strong:H1519'>в </w><w lemma='strong:H1391'>славу </w>, <w lemma='strong:H2509'>как </w><w lemma='strong:H575'>от </w><w lemma='strong:H2962'>Господня </w><w lemma='strong:H4151'>Духа </w>. </verse>
+      </chapter>
+      <chapter osisID='2Cor.4'>
+        <verse osisID='2Cor.4.1'>
+          <w lemma='strong:H1223 strong:H5124'>Посему </w>, <w lemma='strong:H2192 strong:H3588'>имея </w><w lemma='strong:H2531'>по </w><w lemma='strong:H1653'>милости </w>Божией <w lemma='strong:H5026'>такое </w><w lemma='strong:H1248'>служение </w>, мы <w lemma='strong:H3756'>не </w><w lemma='strong:H1573'>унываем </w>; </verse>
+        <verse osisID='2Cor.4.2'>
+          <w lemma='strong:H235'>но </w>, <w lemma='strong:H550 strong:H3588'>отвергнув </w><w lemma='strong:H2927 strong:H3588'>скрытные </w><w lemma='strong:H152'>постыдные </w>дела , <w lemma='strong:H3361'>не </w><w lemma='strong:H4043'>прибегая </w><w lemma='strong:H1722'>к </w><w lemma='strong:H3834'>хитрости </w>и <w lemma='strong:H3366'>не </w><w lemma='strong:H1389 strong:H3588'>искажая </w><w lemma='strong:H3056 strong:H3588'>слова </w><w lemma='strong:H2316'>Божия </w>, <w lemma='strong:H235 strong:H3588'>а </w><w lemma='strong:H5321 strong:H3588'>открывая </w><w lemma='strong:H225'>истину </w>, <w lemma='strong:H4921'>представляем </w><w lemma='strong:H1438 strong:H4314'>себя </w><w lemma='strong:H4893'>совести </w><w lemma='strong:H3956'>всякого </w><w lemma='strong:H444'>человека </w><w lemma='strong:H1799 strong:H3588'>пред </w><w lemma='strong:H2316'>Богом </w>. </verse>
+        <verse osisID='2Cor.4.3'>
+          <w lemma='strong:H1487'>Если </w>
+          <w lemma='strong:H1161'>же </w>
+          <w lemma='strong:H2532 strong:H2076'>и </w>
+          <w lemma='strong:H2572 strong:H3588'>закрыто </w>
+          <w lemma='strong:H2098'>благовествование </w>
+          <w lemma='strong:H2257'>наше </w>, то <w lemma='strong:H2572'>закрыто </w><w lemma='strong:H1722 strong:H3588'>для </w><w lemma='strong:H622 strong:H2076'>погибающих </w>, </verse>
+        <verse osisID='2Cor.4.4'>
+          <w lemma='strong:H1722'>для </w>
+          <w lemma='strong:H571'>неверующих </w>, у <w lemma='strong:H3739 strong:H3588'>которых </w><w lemma='strong:H2316 strong:H3588'>бог </w><w lemma='strong:H165'>века </w><w lemma='strong:H5127'>сего </w><w lemma='strong:H5186 strong:H3588'>ослепил </w><w lemma='strong:H3540 strong:H3588'>умы </w>, <w lemma='strong:H1519 strong:H3588'>чтобы </w>для <w lemma='strong:H846'>них </w><w lemma='strong:H3361'>не </w><w lemma='strong:H826 strong:H3588'>воссиял </w><w lemma='strong:H5462 strong:H3588'>свет </w><w lemma='strong:H2098 strong:H3588'>благовествования </w>о <w lemma='strong:H1391 strong:H3588'>славе </w><w lemma='strong:H5547'>Христа </w>, <w lemma='strong:H3739'>Который </w><w lemma='strong:H2076'>есть </w><w lemma='strong:H1504 strong:H3588'>образ </w><w lemma='strong:H2316'>Бога </w>невидимого. </verse>
+        <verse osisID='2Cor.4.5'>
+          <w lemma='strong:H1063'>Ибо </w>мы <w lemma='strong:H3756'>не </w><w lemma='strong:H1438'>себя </w><w lemma='strong:H2784'>проповедуем </w>, <w lemma='strong:H235'>но </w><w lemma='strong:H5547'>Христа </w><w lemma='strong:H2424'>Иисуса </w>, <w lemma='strong:H2962'>Господа </w>; <w lemma='strong:H1161'>а </w><w lemma='strong:H1438'>мы </w>- <w lemma='strong:H1401'>рабы </w><w lemma='strong:H5216'>ваши </w><w lemma='strong:H1223'>для </w><w lemma='strong:H2424'>Иисуса </w>, </verse>
+        <verse osisID='2Cor.4.6'>потому <w lemma='strong:H3754 strong:H3588'>что </w><w lemma='strong:H2316'>Бог </w><w lemma='strong:H3588'>, </w><w lemma='strong:H2036'>повелевший </w><w lemma='strong:H1537'>из </w><w lemma='strong:H4655'>тьмы </w><w lemma='strong:H2989'>воссиять </w><w lemma='strong:H5457'>свету </w><w lemma='strong:H3739'>, </w><w lemma='strong:H2989 strong:H1722 strong:H3588'>озарил </w><w lemma='strong:H2257'>наши </w><w lemma='strong:H2588'>сердца </w>, <w lemma='strong:H4314'>дабы </w><w lemma='strong:H5462 strong:H3588'>просветить </w>нас <w lemma='strong:H1108 strong:H3588'>познанием </w><w lemma='strong:H1391 strong:H3588'>славы </w><w lemma='strong:H2316'>Божией </w><w lemma='strong:H1722'>в </w><w lemma='strong:H4383'>лице </w><w lemma='strong:H2424'>Иисуса </w><w lemma='strong:H5547'>Христа </w>. </verse>
+        <verse osisID='2Cor.4.7'>
+          <w lemma='strong:H1161 strong:H3588'>Но </w>
+          <w lemma='strong:H2344'>сокровище </w>
+          <w lemma='strong:H5126'>сие </w>мы <w lemma='strong:H2192'>носим </w><w lemma='strong:H1722'>в </w><w lemma='strong:H3749'>глиняных </w><w lemma='strong:H4632'>сосудах </w>, <w lemma='strong:H2443 strong:H3588'>чтобы </w><w lemma='strong:H5236 strong:H3588'>преизбыточная </w><w lemma='strong:H1411'>сила </w><w lemma='strong:H5600 strong:H3588'>была </w>приписываема <w lemma='strong:H2316'>Богу </w>, <w lemma='strong:H2532'>а </w><w lemma='strong:H3361 strong:H1537'>не </w><w lemma='strong:H2257'>нам </w>. </verse>
+        <verse osisID='2Cor.4.8'>Мы <w lemma='strong:H1722 strong:H3956'>отовсюду </w><w lemma='strong:H2346'>притесняемы </w>, <w lemma='strong:H235'>но </w><w lemma='strong:H3756'>не </w><w lemma='strong:H4729'>стеснены </w>; мы в отчаянных <w lemma='strong:H639'>обстоятельствах </w>, <w lemma='strong:H235'>но </w><w lemma='strong:H3756'>не </w><w lemma='strong:H1820'>отчаиваемся </w>; </verse>
+        <verse osisID='2Cor.4.9'>мы <w lemma='strong:H1377'>гонимы </w>, <w lemma='strong:H235'>но </w><w lemma='strong:H3756'>не </w><w lemma='strong:H1459'>оставлены </w>; <w lemma='strong:H2598'>низлагаемы </w>, <w lemma='strong:H235'>но </w><w lemma='strong:H3756'>не </w><w lemma='strong:H622'>погибаем </w>. </verse>
+        <verse osisID='2Cor.4.10'>
+          <w lemma='strong:H3842 strong:H3588'>Всегда </w>
+          <w lemma='strong:H4064'>носим </w>
+          <w lemma='strong:H1722 strong:H3588'>в </w>
+          <w lemma='strong:H4983'>теле </w>
+          <w lemma='strong:H3500 strong:H3588'>мертвость </w>
+          <w lemma='strong:H2962'>Господа </w>
+          <w lemma='strong:H2424'>Иисуса </w>, <w lemma='strong:H2443'>чтобы </w><w lemma='strong:H2532 strong:H3588'>и </w><w lemma='strong:H2222 strong:H3588'>жизнь </w><w lemma='strong:H2424'>Иисусова </w><w lemma='strong:H5319'>открылась </w><w lemma='strong:H1722 strong:H3588'>в </w><w lemma='strong:H4983'>теле </w><w lemma='strong:H2257'>нашем </w>. </verse>
+        <verse osisID='2Cor.4.11'>
+          <w lemma='strong:H1063'>Ибо </w>
+          <w lemma='strong:H2249 strong:H3588'>мы </w>
+          <w lemma='strong:H2198'>живые </w>
+          <w lemma='strong:H104'>непрестанно </w>
+          <w lemma='strong:H3860'>предаемся </w>
+          <w lemma='strong:H1519'>на </w>
+          <w lemma='strong:H2288'>смерть </w>
+          <w lemma='strong:H1223'>ради </w>
+          <w lemma='strong:H2424'>Иисуса </w>, <w lemma='strong:H2443'>чтобы </w><w lemma='strong:H2532 strong:H3588'>и </w><w lemma='strong:H2222 strong:H3588'>жизнь </w><w lemma='strong:H2424'>Иисусова </w><w lemma='strong:H5319'>открылась </w><w lemma='strong:H1722 strong:H3588'>в </w><w lemma='strong:H2349'>смертной </w><w lemma='strong:H4561'>плоти </w><w lemma='strong:H2257'>нашей </w>, </verse>
+        <verse osisID='2Cor.4.12'>так <w lemma='strong:H5620 strong:H3588 strong:H3303'>что </w><w lemma='strong:H2288'>смерть </w><w lemma='strong:H1754'>действует </w><w lemma='strong:H1722'>в </w><w lemma='strong:H2254'>нас </w><w lemma='strong:H3588'>, </w><w lemma='strong:H1161'>а </w><w lemma='strong:H2222'>жизнь </w>- <w lemma='strong:H1722'>в </w><w lemma='strong:H5213'>вас </w>. </verse>
+        <verse osisID='2Cor.4.13'>
+          <w lemma='strong:H1161'>Но </w>, <w lemma='strong:H2192 strong:H3588'>имея </w><w lemma='strong:H846'>тот </w>же <w lemma='strong:H4151 strong:H3588'>дух </w><w lemma='strong:H4102'>веры </w>, <w lemma='strong:H2596 strong:H3588'>как </w><w lemma='strong:H1125'>написано </w>: "я <w lemma='strong:H4100'>веровал </w>и <w lemma='strong:H1352'>потому </w><w lemma='strong:H2980'>говорил </w>", <w lemma='strong:H2532'>и </w><w lemma='strong:H2249'>мы </w><w lemma='strong:H4100'>веруем </w>, <w lemma='strong:H1352'>потому </w><w lemma='strong:H2532'>и </w><w lemma='strong:H2980'>говорим </w>, </verse>
+        <verse osisID='2Cor.4.14'>
+          <w lemma='strong:H1492'>зная </w>, <w lemma='strong:H3754 strong:H3588'>что </w><w lemma='strong:H1453 strong:H3588'>Воскресивший </w><w lemma='strong:H2962'>Господа </w><w lemma='strong:H2424'>Иисуса </w><w lemma='strong:H1453'>воскресит </w><w lemma='strong:H1223'>через </w><w lemma='strong:H2424'>Иисуса </w><w lemma='strong:H2532'>и </w><w lemma='strong:H2248'>нас </w><w lemma='strong:H2532'>и </w><w lemma='strong:H3936'>поставит </w>перед Собою <w lemma='strong:H4862'>с </w><w lemma='strong:H5213'>вами </w>. </verse>
+        <verse osisID='2Cor.4.15'>
+          <w lemma='strong:H3588'/>
+          <w lemma='strong:H1063'>Ибо </w>
+          <w lemma='strong:H3956'>все </w>
+          <w lemma='strong:H1223'>для </w>
+          <w lemma='strong:H5209'>вас </w>, <w lemma='strong:H2443 strong:H3588'>дабы </w><w lemma='strong:H4121'>обилие </w><w lemma='strong:H5485'>благодати </w>тем большую <w lemma='strong:H1223 strong:H3588'>во </w><w lemma='strong:H4119 strong:H3588'>многих </w><w lemma='strong:H4052'>произвело </w><w lemma='strong:H2169'>благодарность </w><w lemma='strong:H1519 strong:H3588'>во </w><w lemma='strong:H1391 strong:H3588'>славу </w><w lemma='strong:H2316'>Божию </w>. </verse>
+        <verse osisID='2Cor.4.16'>
+          <w lemma='strong:H1352'>Посему </w>мы <w lemma='strong:H3756'>не </w><w lemma='strong:H1573'>унываем </w>; <w lemma='strong:H235'>но </w><w lemma='strong:H1487 strong:H3588'>если </w><w lemma='strong:H1854'>внешний </w><w lemma='strong:H2257'>наш </w><w lemma='strong:H444'>человек </w><w lemma='strong:H2532'>и </w><w lemma='strong:H1311'>тлеет </w>, <w lemma='strong:H235 strong:H3588'>то </w><w lemma='strong:H2081'>внутренний </w>со <w lemma='strong:H2250'>дня </w><w lemma='strong:H2532'>на </w><w lemma='strong:H2250'>день </w><w lemma='strong:H341'>обновляется </w>. </verse>
+        <verse osisID='2Cor.4.17'>
+          <w lemma='strong:H3588'/>
+          <w lemma='strong:H1063'>Ибо </w>
+          <w lemma='strong:H3910'>кратковременное </w>
+          <w lemma='strong:H1645 strong:H3588'>легкое </w>
+          <w lemma='strong:H2347'>страдание </w>
+          <w lemma='strong:H2257'>наше </w>
+          <w lemma='strong:H2716'>производит </w>
+          <w lemma='strong:H2596'>в </w>
+          <w lemma='strong:H5236 strong:H1519'>безмерном </w>
+          <w lemma='strong:H5236'>преизбытке </w>
+          <w lemma='strong:H166 strong:H922'>вечную </w>
+          <w lemma='strong:H1391 strong:H2254'>славу </w>, </verse>
+        <verse osisID='2Cor.4.18'>когда <w lemma='strong:H2257'>мы </w><w lemma='strong:H4648'>смотрим </w><w lemma='strong:H3361'>не </w><w lemma='strong:H3588'>на </w><w lemma='strong:H991'>видимое </w>, <w lemma='strong:H235'>но </w><w lemma='strong:H3588'>на </w><w lemma='strong:H3361 strong:H991'>невидимое </w><w lemma='strong:H3588'>: </w><w lemma='strong:H1063'>ибо </w><w lemma='strong:H991'>видимое </w><w lemma='strong:H4340'>временно </w><w lemma='strong:H3588'>, </w><w lemma='strong:H1161'>а </w><w lemma='strong:H3361 strong:H991'>невидимое </w><w lemma='strong:H166'>вечно </w>. </verse>
+      </chapter>
+      <chapter osisID='2Cor.5'>
+        <verse osisID='2Cor.5.1'>
+          <w lemma='strong:H1063'>Ибо </w>
+          <w lemma='strong:H1492'>знаем </w>, <w lemma='strong:H3754'>что </w>, <w lemma='strong:H1437 strong:H3588'>когда </w><w lemma='strong:H1919'>земной </w><w lemma='strong:H2257'>наш </w><w lemma='strong:H3614'>дом </w>, <w lemma='strong:H3588'>эта </w><w lemma='strong:H4636'>хижина </w>, <w lemma='strong:H2647'>разрушится </w>, мы <w lemma='strong:H2192'>имеем </w><w lemma='strong:H1537'>от </w><w lemma='strong:H2316'>Бога </w><w lemma='strong:H3619'>жилище </w><w lemma='strong:H1722 strong:H3588'>на </w><w lemma='strong:H3772'>небесах </w>, <w lemma='strong:H3614'>дом </w><w lemma='strong:H886'>нерукотворенный </w>, <w lemma='strong:H166'>вечный </w>. </verse>
+        <verse osisID='2Cor.5.2'>
+          <w lemma='strong:H1063'/>
+          <w lemma='strong:H1722'>От </w>
+          <w lemma='strong:H5129'>того </w>мы <w lemma='strong:H2532'>и </w><w lemma='strong:H4727'>воздыхаем </w><w lemma='strong:H3588'>, </w><w lemma='strong:H1971'>желая </w><w lemma='strong:H1902'>облечься </w><w lemma='strong:H3588 strong:H1537'>в </w><w lemma='strong:H3772'>небесное </w><w lemma='strong:H2257'>наше </w><w lemma='strong:H3613'>жилище </w>; </verse>
+        <verse osisID='2Cor.5.3'>
+          <w lemma='strong:H1489'>только </w>бы нам <w lemma='strong:H2532'>и </w><w lemma='strong:H1746'>одетым </w><w lemma='strong:H3756'>не </w><w lemma='strong:H2147'>оказаться </w><w lemma='strong:H1131'>нагими </w>. </verse>
+        <verse osisID='2Cor.5.4'>
+          <w lemma='strong:H2532'/>
+          <w lemma='strong:H1063'>Ибо </w>
+          <w lemma='strong:H3588'>мы, </w>
+          <w lemma='strong:H5607'>находясь </w>
+          <w lemma='strong:H1722'>в </w>
+          <w lemma='strong:H3588'>этой </w>
+          <w lemma='strong:H4636'>хижине </w>, <w lemma='strong:H4727'>воздыхаем </w>под <w lemma='strong:H916'>бременем </w>, потому <w lemma='strong:H1909 strong:H3739'>что </w><w lemma='strong:H3756'>не </w><w lemma='strong:H2309'>хотим </w><w lemma='strong:H1562'>совлечься </w>, <w lemma='strong:H235'>но </w><w lemma='strong:H1902'>облечься </w>, <w lemma='strong:H2443 strong:H3588'>чтобы </w><w lemma='strong:H2349'>смертное </w><w lemma='strong:H2666'>поглощено </w><w lemma='strong:H5259 strong:H3588'>было </w><w lemma='strong:H2222'>жизнью </w>. </verse>
+        <verse osisID='2Cor.5.5'>
+          <w lemma='strong:H3588'/>
+          <w lemma='strong:H1519'>На </w>
+          <w lemma='strong:H5124'>сие </w>
+          <w lemma='strong:H846'>самое </w>
+          <w lemma='strong:H1161'>и </w>
+          <w lemma='strong:H2716'>создал </w>
+          <w lemma='strong:H2248'>нас </w>
+          <w lemma='strong:H2316 strong:H3588'>Бог </w>
+          <w lemma='strong:H2532'>и </w>дал <w lemma='strong:H1325 strong:H3588'>нам </w><w lemma='strong:H728 strong:H3588'>залог </w><w lemma='strong:H4151'>Духа </w>. </verse>
+        <verse osisID='2Cor.5.6'>
+          <w lemma='strong:H3767'>Итак </w>мы <w lemma='strong:H3842'>всегда </w><w lemma='strong:H2292'>благодушествуем </w>; <w lemma='strong:H2532'>и </w>как <w lemma='strong:H1492'>знаем </w>, <w lemma='strong:H3754'>что </w>, <w lemma='strong:H1736'>водворяясь </w><w lemma='strong:H1722 strong:H3588'>в </w><w lemma='strong:H4983'>теле </w>, мы <w lemma='strong:H1553'>устранены </w><w lemma='strong:H575 strong:H3588'>от </w><w lemma='strong:H2962'>Господа </w>, - </verse>
+        <verse osisID='2Cor.5.7'>
+          <w lemma='strong:H1223'/>
+          <w lemma='strong:H1063'>ибо </w>мы <w lemma='strong:H4043'>ходим </w><w lemma='strong:H4102'>верою </w>, а <w lemma='strong:H3756 strong:H1223'>не </w><w lemma='strong:H1491'>видением </w>, - </verse>
+        <verse osisID='2Cor.5.8'>то мы <w lemma='strong:H2292 strong:H1161'>благодушествуем </w><w lemma='strong:H2532'>и </w><w lemma='strong:H2106'>желаем </w><w lemma='strong:H3123'>лучше </w><w lemma='strong:H1553'>выйти </w><w lemma='strong:H1537 strong:H3588'>из </w><w lemma='strong:H4983'>тела </w><w lemma='strong:H2532'>и </w><w lemma='strong:H1736'>водвориться </w><w lemma='strong:H4314 strong:H3588'>у </w><w lemma='strong:H2962'>Господа </w>. </verse>
+        <verse osisID='2Cor.5.9'>
+          <w lemma='strong:H2532'>И </w>
+          <w lemma='strong:H1352'>потому </w>ревностно <w lemma='strong:H5389'>стараемся </w>, <w lemma='strong:H1736'>водворяясь </w><w lemma='strong:H1535'>ли </w>, <w lemma='strong:H1553'>выходя </w><w lemma='strong:H1535'>ли </w>, <w lemma='strong:H1511'>быть </w><w lemma='strong:H846'>Ему </w><w lemma='strong:H2101'>угодными </w>; </verse>
+        <verse osisID='2Cor.5.10'>
+          <w lemma='strong:H3588'/>
+          <w lemma='strong:H1063'>ибо </w>
+          <w lemma='strong:H3956'>всем </w>
+          <w lemma='strong:H2248'>нам </w>
+          <w lemma='strong:H1163'>должно </w>
+          <w lemma='strong:H5319'>явиться </w>
+          <w lemma='strong:H1715 strong:H3588'>пред </w>
+          <w lemma='strong:H968 strong:H3588'>судилище </w>
+          <w lemma='strong:H5547'>Христово </w>, <w lemma='strong:H2443'>чтобы </w><w lemma='strong:H1538'>каждому </w><w lemma='strong:H2865 strong:H3588'>получить </w>соответственно тому <w lemma='strong:H4314'>, </w><w lemma='strong:H3739'>что </w>он <w lemma='strong:H4238'>делал </w>, живя <w lemma='strong:H1223 strong:H3588'>в </w><w lemma='strong:H4983'>теле </w>, <w lemma='strong:H1535'>- </w><w lemma='strong:H18'>доброе </w><w lemma='strong:H1535'>или </w><w lemma='strong:H2556'>худое </w>. </verse>
+        <verse osisID='2Cor.5.11'>
+          <w lemma='strong:H3767'>Итак </w>, <w lemma='strong:H1492 strong:H3588'>зная </w><w lemma='strong:H5401 strong:H3588'>страх </w><w lemma='strong:H2962'>Господень </w>, мы <w lemma='strong:H3982'>вразумляем </w><w lemma='strong:H444'>людей </w>, <w lemma='strong:H2316'>Богу </w><w lemma='strong:H1161'>же </w>мы <w lemma='strong:H5319'>открыты </w>; <w lemma='strong:H1679 strong:H1161'>надеюсь </w>, что <w lemma='strong:H5319'>открыты </w><w lemma='strong:H2532 strong:H1722 strong:H3588'>и </w><w lemma='strong:H5216'>вашим </w><w lemma='strong:H4893'>совестям </w>. </verse>
+        <verse osisID='2Cor.5.12'>
+          <w lemma='strong:H3756 strong:H1063'>Не </w>
+          <w lemma='strong:H3825'>снова </w>
+          <w lemma='strong:H4921'>представляем </w>
+          <w lemma='strong:H1438'>себя </w>
+          <w lemma='strong:H5213'>вам </w>, <w lemma='strong:H235'>но </w><w lemma='strong:H1325'>даем </w><w lemma='strong:H5213'>вам </w><w lemma='strong:H874'>повод </w><w lemma='strong:H2745 strong:H5228'>хвалиться </w><w lemma='strong:H2257'>нами </w>, <w lemma='strong:H2443'>дабы </w><w lemma='strong:H2192 strong:H4314'>имели </w>вы что сказать тем, <w lemma='strong:H3588 strong:H1722'>которые </w><w lemma='strong:H2744'>хвалятся </w><w lemma='strong:H4383'>лицем </w>, <w lemma='strong:H2532'>а </w><w lemma='strong:H3756'>не </w><w lemma='strong:H2588'>сердцем </w>. </verse>
+        <verse osisID='2Cor.5.13'>
+          <w lemma='strong:H1535 strong:H1063'>Если </w>мы выходим из <w lemma='strong:H1839'>себя </w>, то для <w lemma='strong:H2316'>Бога </w>; <w lemma='strong:H1535'>если </w>же <w lemma='strong:H4993'>скромны </w>, то для <w lemma='strong:H5213'>вас </w>. </verse>
+        <verse osisID='2Cor.5.14'>
+          <w lemma='strong:H3588'/>
+          <w lemma='strong:H1063'>Ибо </w>
+          <w lemma='strong:H26 strong:H3588'>любовь </w>
+          <w lemma='strong:H5547'>Христова </w>
+          <w lemma='strong:H4912'>объемлет </w>
+          <w lemma='strong:H2248'>нас </w>, <w lemma='strong:H2919'>рассуждающих </w><w lemma='strong:H5124 strong:H3754'>так </w>: <w lemma='strong:H1487'>если </w><w lemma='strong:H1520'>один </w><w lemma='strong:H599'>умер </w><w lemma='strong:H5228'>за </w><w lemma='strong:H3956'>всех </w>, <w lemma='strong:H686 strong:H3588'>то </w><w lemma='strong:H3956'>все </w><w lemma='strong:H599'>умерли </w>. </verse>
+        <verse osisID='2Cor.5.15'>
+          <w lemma='strong:H2532'>А </w>Христос <w lemma='strong:H5228'>за </w><w lemma='strong:H3956'>всех </w><w lemma='strong:H599'>умер </w>, <w lemma='strong:H2443 strong:H3588'>чтобы </w><w lemma='strong:H2198'>живущие </w>уже <w lemma='strong:H3371'>не </w>для <w lemma='strong:H1438'>себя </w><w lemma='strong:H2198'>жили </w>, <w lemma='strong:H235 strong:H3588'>но </w>для <w lemma='strong:H599'>умершего </w><w lemma='strong:H5228'>за </w><w lemma='strong:H846'>них </w><w lemma='strong:H2532'>и </w><w lemma='strong:H1453'>воскресшего </w>. </verse>
+        <verse osisID='2Cor.5.16'>
+          <w lemma='strong:H5620 strong:H575 strong:H3588'>Потому </w>
+          <w lemma='strong:H3568'>отныне </w>
+          <w lemma='strong:H2249'>мы </w>
+          <w lemma='strong:H3762'>никого </w>не <w lemma='strong:H1492'>знаем </w><w lemma='strong:H2596'>по </w><w lemma='strong:H4561'>плоти </w>; <w lemma='strong:H1487'>если </w><w lemma='strong:H1161'>же </w><w lemma='strong:H2532'>и </w><w lemma='strong:H1097'>знали </w><w lemma='strong:H5547'>Христа </w><w lemma='strong:H2596'>по </w><w lemma='strong:H4561'>плоти </w>, <w lemma='strong:H235'>то </w><w lemma='strong:H3568'>ныне </w>уже <w lemma='strong:H3765'>не </w><w lemma='strong:H1097'>знаем </w>. </verse>
+        <verse osisID='2Cor.5.17'>
+          <w lemma='strong:H5620'>Итак </w>
+          <w lemma='strong:H1487'>, </w>
+          <w lemma='strong:H5100'>кто </w>
+          <w lemma='strong:H1722'>во </w>
+          <w lemma='strong:H5547'>Христе </w>, тот <w lemma='strong:H2537'>новая </w><w lemma='strong:H2937'>тварь </w><w lemma='strong:H3588'>; </w><w lemma='strong:H744'>древнее </w><w lemma='strong:H3928'>прошло </w>, <w lemma='strong:H2400 strong:H1096 strong:H3588'>теперь </w><w lemma='strong:H3956'>все </w><w lemma='strong:H2537'>новое </w>. </verse>
+        <verse osisID='2Cor.5.18'>
+          <w lemma='strong:H3588'/>
+          <w lemma='strong:H3956'>Все </w>
+          <w lemma='strong:H1161'>же </w>
+          <w lemma='strong:H1537 strong:H3588'>от </w>
+          <w lemma='strong:H2316'>Бога </w>
+          <w lemma='strong:H3588'>, </w>
+          <w lemma='strong:H2424'>Иисусом </w>
+          <w lemma='strong:H5547'>Христом </w>
+          <w lemma='strong:H2644'>примирившего </w>
+          <w lemma='strong:H2248'>нас </w>с <w lemma='strong:H1438 strong:H1223'>Собою </w><w lemma='strong:H2532'>и </w><w lemma='strong:H1325'>давшего </w><w lemma='strong:H2254 strong:H3588'>нам </w><w lemma='strong:H1248 strong:H3588'>служение </w><w lemma='strong:H2643'>примирения </w>, </verse>
+        <verse osisID='2Cor.5.19'>потому <w lemma='strong:H5613 strong:H3754'>что </w><w lemma='strong:H2316 strong:H2258'>Бог </w><w lemma='strong:H1722'>во </w><w lemma='strong:H5547'>Христе </w><w lemma='strong:H2644'>примирил </w>с <w lemma='strong:H1438'>Собою </w><w lemma='strong:H2889'>мир </w>, <w lemma='strong:H3361'>не </w><w lemma='strong:H3049'>вменяя </w>людям <w lemma='strong:H3900'>преступлений </w><w lemma='strong:H846'>их </w>, <w lemma='strong:H2532'>и </w><w lemma='strong:H5087 strong:H1722'>дал </w><w lemma='strong:H2254 strong:H3588'>нам </w><w lemma='strong:H3056 strong:H3588'>слово </w><w lemma='strong:H2643'>примирения </w>. </verse>
+        <verse osisID='2Cor.5.20'>
+          <w lemma='strong:H3767'>Итак </w>, мы - <w lemma='strong:H4243'>посланники </w>от <w lemma='strong:H5228'>имени </w><w lemma='strong:H5547'>Христова </w>, и <w lemma='strong:H5613'>как </w>бы <w lemma='strong:H3588'>Сам </w><w lemma='strong:H2316'>Бог </w><w lemma='strong:H3870'>увещевает </w><w lemma='strong:H1223'>через </w><w lemma='strong:H2257'>нас </w>; от <w lemma='strong:H5228'>имени </w><w lemma='strong:H5547'>Христова </w><w lemma='strong:H1189'>просим </w>: <w lemma='strong:H2644'>примиритесь </w><w lemma='strong:H3588'>с </w><w lemma='strong:H2316'>Богом </w>. </verse>
+        <verse osisID='2Cor.5.21'>
+          <w lemma='strong:H3588'/>
+          <w lemma='strong:H1063'>Ибо </w>
+          <w lemma='strong:H3361'>не </w>
+          <w lemma='strong:H1097'>знавшего </w>
+          <w lemma='strong:H266'>греха </w>Он <w lemma='strong:H4160'>сделал </w><w lemma='strong:H5228'>для </w><w lemma='strong:H2257'>нас </w>жертвою за <w lemma='strong:H266'>грех </w>, <w lemma='strong:H2443'>чтобы </w><w lemma='strong:H2249'>мы </w><w lemma='strong:H1722'>в </w><w lemma='strong:H846'>Нем </w><w lemma='strong:H1096'>сделались </w><w lemma='strong:H1343'>праведными </w>пред <w lemma='strong:H2316'>Богом </w>. </verse>
+      </chapter>
+      <chapter osisID='2Cor.6'>
+        <verse osisID='2Cor.6.1'>Мы <w lemma='strong:H1161'>же </w>, как <w lemma='strong:H4903'>споспешники </w><w lemma='strong:H2532'>, </w><w lemma='strong:H3870'>умоляем </w>вас, чтобы <w lemma='strong:H5485 strong:H3588'>благодать </w><w lemma='strong:H2316'>Божия </w><w lemma='strong:H3361 strong:H1519'>не </w><w lemma='strong:H2756 strong:H3588'>тщетно </w>была <w lemma='strong:H1209'>принята </w><w lemma='strong:H5209'>вами </w>. </verse>
+        <verse osisID='2Cor.6.2'>
+          <w lemma='strong:H1063'>Ибо </w>
+          <w lemma='strong:H3004'>сказано </w>: "во <w lemma='strong:H2540'>время </w><w lemma='strong:H1184'>благоприятное </w>Я <w lemma='strong:H1873'>услышал </w><w lemma='strong:H4675'>тебя </w><w lemma='strong:H2532'>и </w><w lemma='strong:H1722'>в </w><w lemma='strong:H2250'>день </w><w lemma='strong:H4991'>спасения </w><w lemma='strong:H997'>помог </w><w lemma='strong:H4671'>тебе </w>". <w lemma='strong:H2400'>Вот </w>, <w lemma='strong:H3568'>теперь </w><w lemma='strong:H2540'>время </w><w lemma='strong:H2144'>благоприятное </w>, <w lemma='strong:H2400'>вот </w>, <w lemma='strong:H3568'>теперь </w><w lemma='strong:H2250'>день </w><w lemma='strong:H4991'>спасения </w>. </verse>
+        <verse osisID='2Cor.6.3'>Мы <w lemma='strong:H3367'>никому </w>ни <w lemma='strong:H1722'>в </w><w lemma='strong:H3367'>чем </w>не <w lemma='strong:H1325'>полагаем </w><w lemma='strong:H4349'>претыкания </w>, <w lemma='strong:H2443'>чтобы </w><w lemma='strong:H3361'>не </w>было <w lemma='strong:H3469 strong:H3588'>порицаемо </w><w lemma='strong:H1248'>служение </w>, </verse>
+        <verse osisID='2Cor.6.4'>
+          <w lemma='strong:H235'>но </w>
+          <w lemma='strong:H1722'>во </w>
+          <w lemma='strong:H3956'>всем </w>
+          <w lemma='strong:H4921'>являем </w>
+          <w lemma='strong:H1438'>себя </w>, <w lemma='strong:H5613'>как </w><w lemma='strong:H1249'>служители </w><w lemma='strong:H2316'>Божии </w>, <w lemma='strong:H1722'>в </w><w lemma='strong:H4183'>великом </w><w lemma='strong:H5281'>терпении </w>, <w lemma='strong:H1722'>в </w><w lemma='strong:H2347'>бедствиях </w>, <w lemma='strong:H1722'>в </w><w lemma='strong:H318'>нуждах </w>, <w lemma='strong:H1722'>в </w>тесных <w lemma='strong:H4730'>обстоятельствах </w>, </verse>
+        <verse osisID='2Cor.6.5'>
+          <w lemma='strong:H1722'>под </w>
+          <w lemma='strong:H4127'>ударами </w>, <w lemma='strong:H1722'>в </w><w lemma='strong:H5438'>темницах </w>, <w lemma='strong:H1722'>в </w><w lemma='strong:H181'>изгнаниях </w>, <w lemma='strong:H1722'>в </w><w lemma='strong:H2873'>трудах </w>, <w lemma='strong:H1722'>в </w><w lemma='strong:H70'>бдениях </w>, <w lemma='strong:H1722'>в </w><w lemma='strong:H3521'>постах </w>, </verse>
+        <verse osisID='2Cor.6.6'>
+          <w lemma='strong:H1722'>в </w>
+          <w lemma='strong:H54'>чистоте </w>, <w lemma='strong:H1722'>в </w><w lemma='strong:H1108'>благоразумии </w>, <w lemma='strong:H1722'>в </w><w lemma='strong:H3115'>великодушии </w>, <w lemma='strong:H1722'>в </w><w lemma='strong:H5544'>благости </w>, <w lemma='strong:H1722'>в </w><w lemma='strong:H4151'>Духе </w><w lemma='strong:H40'>Святом </w>, <w lemma='strong:H1722'>в </w><w lemma='strong:H505'>нелицемерной </w><w lemma='strong:H26'>любви </w>, </verse>
+        <verse osisID='2Cor.6.7'>
+          <w lemma='strong:H1722'>в </w>
+          <w lemma='strong:H3056'>слове </w>
+          <w lemma='strong:H225'>истины </w>, <w lemma='strong:H1722'>в </w><w lemma='strong:H1411'>силе </w><w lemma='strong:H2316'>Божией </w>, <w lemma='strong:H1223 strong:H3588'>с </w><w lemma='strong:H3696 strong:H3588'>оружием </w><w lemma='strong:H1343'>правды </w><w lemma='strong:H3588'>в </w><w lemma='strong:H1188'>правой </w><w lemma='strong:H2532'>и </w><w lemma='strong:H710'>левой </w>руке, </verse>
+        <verse osisID='2Cor.6.8'>
+          <w lemma='strong:H1223'>в </w>
+          <w lemma='strong:H1391'>чести </w>
+          <w lemma='strong:H2532'>и </w>
+          <w lemma='strong:H819'>бесчестии </w>, <w lemma='strong:H1223'>при </w><w lemma='strong:H1426'>порицаниях </w><w lemma='strong:H2532'>и </w><w lemma='strong:H2162'>похвалах </w>: нас <w lemma='strong:H5613'>почитают </w><w lemma='strong:H4108'>обманщиками </w>, <w lemma='strong:H2532'>но </w>мы <w lemma='strong:H227'>верны </w>; </verse>
+        <verse osisID='2Cor.6.9'>
+          <w lemma='strong:H5613'/>мы <w lemma='strong:H50'>неизвестны </w>, <w lemma='strong:H2532'>но </w>нас <w lemma='strong:H1921'>узнают </w>; нас <w lemma='strong:H5613'>почитают </w><w lemma='strong:H599'>умершими </w>, <w lemma='strong:H2532'>но </w><w lemma='strong:H2400'>вот </w>, мы <w lemma='strong:H2198'>живы </w><w lemma='strong:H5613'>; </w>нас <w lemma='strong:H3811'>наказывают </w>, <w lemma='strong:H2532'>но </w>мы <w lemma='strong:H3361'>не </w><w lemma='strong:H2289'>умираем </w>; </verse>
+        <verse osisID='2Cor.6.10'>
+          <w lemma='strong:H5613'/>нас <w lemma='strong:H3076'>огорчают </w>, <w lemma='strong:H1161'>а </w>мы <w lemma='strong:H104'>всегда </w><w lemma='strong:H5463'>радуемся </w><w lemma='strong:H5613'>; </w>мы <w lemma='strong:H4434'>нищи </w>, <w lemma='strong:H1161'>но </w><w lemma='strong:H4183'>многих </w><w lemma='strong:H4148'>обогащаем </w><w lemma='strong:H5613'>; </w>мы <w lemma='strong:H3367'>ничего </w>не <w lemma='strong:H2192'>имеем </w>, <w lemma='strong:H2532'>но </w><w lemma='strong:H3956'>всем </w><w lemma='strong:H2722'>обладаем </w>. </verse>
+        <verse osisID='2Cor.6.11'>
+          <w lemma='strong:H3588'/>
+          <w lemma='strong:H4750'>Уста </w>
+          <w lemma='strong:H2257'>наши </w>
+          <w lemma='strong:H455'>отверсты </w>
+          <w lemma='strong:H4314'>к </w>
+          <w lemma='strong:H5209'>вам </w>, <w lemma='strong:H2881'>Коринфяне </w><w lemma='strong:H3588'>, </w><w lemma='strong:H2588'>сердце </w><w lemma='strong:H2257'>наше </w><w lemma='strong:H4115'>расширено </w>. </verse>
+        <verse osisID='2Cor.6.12'>Вам <w lemma='strong:H3756'>не </w><w lemma='strong:H4729'>тесно </w><w lemma='strong:H1722'>в </w><w lemma='strong:H2254'>нас </w>; <w lemma='strong:H1161'>но </w><w lemma='strong:H1722 strong:H3588'>в </w><w lemma='strong:H4698'>сердцах </w><w lemma='strong:H5216'>ваших </w><w lemma='strong:H4729'>тесно </w>. </verse>
+        <verse osisID='2Cor.6.13'>
+          <w lemma='strong:H3588 strong:H1161'>В </w>
+          <w lemma='strong:H846'>равное </w>
+          <w lemma='strong:H489'>возмездие </w>, - <w lemma='strong:H3004'>говорю </w>, <w lemma='strong:H5613'>как </w><w lemma='strong:H5043'>детям </w>, - <w lemma='strong:H4115'>распространитесь </w><w lemma='strong:H2532'>и </w><w lemma='strong:H5210'>вы </w>. </verse>
+        <verse osisID='2Cor.6.14'>
+          <w lemma='strong:H3361'>Не </w>
+          <w lemma='strong:H1096'>преклоняйтесь </w>под чужое <w lemma='strong:H2086'>ярмо </w>с <w lemma='strong:H571'>неверными </w>, <w lemma='strong:H1063'>ибо </w><w lemma='strong:H5101'>какое </w><w lemma='strong:H3352'>общение </w><w lemma='strong:H1343'>праведности </w><w lemma='strong:H2532'>с </w><w lemma='strong:H458'>беззаконием </w><w lemma='strong:H2258'>? </w><w lemma='strong:H5101'>Что </w><w lemma='strong:H2842'>общего </w>у <w lemma='strong:H5457'>света </w><w lemma='strong:H4314'>с </w><w lemma='strong:H4655'>тьмою </w>? </verse>
+        <verse osisID='2Cor.6.15'>
+          <w lemma='strong:H5101 strong:H1161'>Какое </w>
+          <w lemma='strong:H4857'>согласие </w>между <w lemma='strong:H5547'>Христом </w><w lemma='strong:H4314'>и </w><w lemma='strong:H955'>Велиаром </w>? <w lemma='strong:H2228'>Или </w><w lemma='strong:H5101'>какое </w><w lemma='strong:H3310'>соучастие </w><w lemma='strong:H4103'>верного </w><w lemma='strong:H3326'>с </w><w lemma='strong:H571'>неверным </w>? </verse>
+        <verse osisID='2Cor.6.16'>
+          <w lemma='strong:H5101 strong:H1161'>Какая </w>
+          <w lemma='strong:H4783'>совместность </w>
+          <w lemma='strong:H3485'>храма </w>
+          <w lemma='strong:H2316'>Божия </w>
+          <w lemma='strong:H3326'>с </w>
+          <w lemma='strong:H1497'>идолами </w>? <w lemma='strong:H1063'>Ибо </w><w lemma='strong:H5210'>вы </w>- <w lemma='strong:H3485'>храм </w><w lemma='strong:H2316 strong:H2075'>Бога </w><w lemma='strong:H2198'>живого </w>, <w lemma='strong:H2531'>как </w><w lemma='strong:H2036 strong:H3588'>сказал </w><w lemma='strong:H2316 strong:H3754'>Бог </w>: <w lemma='strong:H1774'>"вселюсь </w><w lemma='strong:H1722'>в </w><w lemma='strong:H846'>них </w><w lemma='strong:H2532'>и </w>буду <w lemma='strong:H1704'>ходить </w>в них ; <w lemma='strong:H2532'>и </w><w lemma='strong:H2071'>буду </w><w lemma='strong:H846'>их </w><w lemma='strong:H2316'>Богом </w>, <w lemma='strong:H2532'>и </w><w lemma='strong:H846'>они </w><w lemma='strong:H2071'>будут </w><w lemma='strong:H3427'>Моим </w><w lemma='strong:H2992'>народом </w>". </verse>
+        <verse osisID='2Cor.6.17'>"И <w lemma='strong:H1352'>потому </w><w lemma='strong:H1831'>выйдите </w><w lemma='strong:H1537'>из </w><w lemma='strong:H3319'>среды </w><w lemma='strong:H846'>их </w><w lemma='strong:H2532'>и </w><w lemma='strong:H873'>отделитесь </w>, <w lemma='strong:H3004'>говорит </w><w lemma='strong:H2962'>Господь </w>, <w lemma='strong:H2532'>и </w><w lemma='strong:H3361'>не </w><w lemma='strong:H680'>прикасайтесь </w>к <w lemma='strong:H169'>нечистому </w>; и <w lemma='strong:H2504'>Я </w><w lemma='strong:H1523'>прииму </w><w lemma='strong:H5209'>вас </w>". </verse>
+        <verse osisID='2Cor.6.18'>
+          <w lemma='strong:H2532'>"И </w>
+          <w lemma='strong:H2071'>буду </w>
+          <w lemma='strong:H5213 strong:H1519'>вам </w>
+          <w lemma='strong:H3962'>Отцем </w>, <w lemma='strong:H2532'>и </w><w lemma='strong:H5210'>вы </w><w lemma='strong:H2071'>будете </w><w lemma='strong:H3427 strong:H1519'>Моими </w><w lemma='strong:H5207'>сынами </w><w lemma='strong:H2532'>и </w><w lemma='strong:H2364'>дщерями </w>, <w lemma='strong:H3004'>говорит </w><w lemma='strong:H2962'>Господь </w><w lemma='strong:H3841'>Вседержитель </w>". </verse>
+      </chapter>
+      <chapter osisID='2Cor.7'>
+        <verse osisID='2Cor.7.1'>
+          <w lemma='strong:H3778'/>
+          <w lemma='strong:H3767'>Итак </w>, <w lemma='strong:H27'>возлюбленные </w>, <w lemma='strong:H2192'>имея </w><w lemma='strong:H5025'>такие </w><w lemma='strong:H1860'>обетования </w>, <w lemma='strong:H2511'>очистим </w><w lemma='strong:H1438'>себя </w><w lemma='strong:H575'>от </w><w lemma='strong:H3956'>всякой </w><w lemma='strong:H3436'>скверны </w><w lemma='strong:H4561'>плоти </w><w lemma='strong:H2532'>и </w><w lemma='strong:H4151'>духа </w>, <w lemma='strong:H2005'>совершая </w><w lemma='strong:H42'>святыню </w><w lemma='strong:H1722'>в </w><w lemma='strong:H5401'>страхе </w><w lemma='strong:H2316'>Божием </w>. </verse>
+        <verse osisID='2Cor.7.2'>
+          <w lemma='strong:H5562'>Вместите </w>
+          <w lemma='strong:H2248'>нас </w>. Мы <w lemma='strong:H3762'>никого </w>не <w lemma='strong:H91'>обидели </w>, <w lemma='strong:H3762'>никому </w>не <w lemma='strong:H5351'>повредили </w>, ни от <w lemma='strong:H3762'>кого </w>не искали <w lemma='strong:H4122'>корысти </w>. </verse>
+        <verse osisID='2Cor.7.3'>
+          <w lemma='strong:H3756'>Не </w>
+          <w lemma='strong:H4314'>в </w>
+          <w lemma='strong:H2633'>осуждение </w>
+          <w lemma='strong:H3004'>говорю </w>; <w lemma='strong:H1063'>ибо </w>я прежде <w lemma='strong:H4280'>сказал </w>, <w lemma='strong:H3754'>что </w><w lemma='strong:H2075'>вы </w><w lemma='strong:H1722 strong:H3588'>в </w><w lemma='strong:H2588'>сердцах </w><w lemma='strong:H2257'>наших </w>, так <w lemma='strong:H1519 strong:H3588'>чтобы </w>вместе и <w lemma='strong:H4880'>умереть </w><w lemma='strong:H2532'>и </w><w lemma='strong:H4800'>жить </w>. </verse>
+        <verse osisID='2Cor.7.4'>Я <w lemma='strong:H4183 strong:H3427'>много </w><w lemma='strong:H3954'>надеюсь </w><w lemma='strong:H4314'>на </w><w lemma='strong:H5209'>вас </w>, <w lemma='strong:H4183 strong:H3427'>много </w><w lemma='strong:H2746 strong:H5228'>хвалюсь </w><w lemma='strong:H5216'>вами </w>; я <w lemma='strong:H4137 strong:H3588'>исполнен </w><w lemma='strong:H3874'>утешением </w>, <w lemma='strong:H5248 strong:H3588'>преизобилую </w><w lemma='strong:H5479'>радостью </w>, <w lemma='strong:H1063'>при </w><w lemma='strong:H3956 strong:H3588'>всей </w><w lemma='strong:H2347'>скорби </w><w lemma='strong:H2257'>нашей </w>. </verse>
+        <verse osisID='2Cor.7.5'>
+          <w lemma='strong:H1063'>Ибо </w>, <w lemma='strong:H2532'>когда </w><w lemma='strong:H2064'>пришли </w><w lemma='strong:H2257'>мы </w><w lemma='strong:H1519'>в </w><w lemma='strong:H3109'>Македонию </w><w lemma='strong:H3588'>, </w><w lemma='strong:H4561'>плоть </w><w lemma='strong:H2257'>наша </w><w lemma='strong:H3762'>не </w><w lemma='strong:H2192'>имела </w>никакого <w lemma='strong:H425'>покоя </w>, <w lemma='strong:H235 strong:H1722'>но </w>мы были <w lemma='strong:H2346'>стеснены </w><w lemma='strong:H3956'>отовсюду </w>: <w lemma='strong:H1855'>отвне </w>- <w lemma='strong:H3163'>нападения </w>, <w lemma='strong:H2081'>внутри </w>- <w lemma='strong:H5401'>страхи </w>. </verse>
+        <verse osisID='2Cor.7.6'>
+          <w lemma='strong:H235 strong:H3588 strong:H3588'>Но </w>
+          <w lemma='strong:H2316'>Бог </w>, <w lemma='strong:H3870 strong:H3588'>утешающий </w><w lemma='strong:H5011'>смиренных </w>, <w lemma='strong:H3870'>утешил </w><w lemma='strong:H2248 strong:H1722 strong:H3588'>нас </w><w lemma='strong:H3952'>прибытием </w><w lemma='strong:H5103'>Тита </w>, </verse>
+        <verse osisID='2Cor.7.7'>
+          <w lemma='strong:H1161'>и </w>
+          <w lemma='strong:H3756'>не </w>
+          <w lemma='strong:H3440 strong:H1722 strong:H3588'>только </w>
+          <w lemma='strong:H3952'>прибытием </w>
+          <w lemma='strong:H846'>его </w>, <w lemma='strong:H235'>но </w><w lemma='strong:H2532 strong:H1722 strong:H3588'>и </w><w lemma='strong:H3874'>утешением </w>, <w lemma='strong:H3739'>которым </w>он <w lemma='strong:H3870'>утешался </w><w lemma='strong:H1909'>о </w><w lemma='strong:H5213'>вас </w>, <w lemma='strong:H312'>пересказывая </w><w lemma='strong:H2254'>нам </w><w lemma='strong:H3588'>о </w><w lemma='strong:H5216'>вашем </w><w lemma='strong:H1972'>усердии </w>, <w lemma='strong:H3588'>о </w><w lemma='strong:H5216'>вашем </w><w lemma='strong:H3602'>плаче </w>, <w lemma='strong:H3588'>о </w><w lemma='strong:H5216'>вашей </w><w lemma='strong:H2205'>ревности </w><w lemma='strong:H5228'>по </w><w lemma='strong:H1700'>мне </w>, так <w lemma='strong:H5620'>что </w><w lemma='strong:H3165'>я </w>еще <w lemma='strong:H3123'>более </w><w lemma='strong:H5463'>обрадовался </w>. </verse>
+        <verse osisID='2Cor.7.8'>
+          <w lemma='strong:H3754'>Посему </w>, <w lemma='strong:H1487 strong:H2532'>если </w>я <w lemma='strong:H3076'>опечалил </w><w lemma='strong:H5209 strong:H1722 strong:H3588'>вас </w><w lemma='strong:H1992'>посланием </w>, <w lemma='strong:H3756'>не </w><w lemma='strong:H3338'>жалею </w>, <w lemma='strong:H1487'>хотя </w><w lemma='strong:H2532'>и </w><w lemma='strong:H3338'>пожалел </w>было; <w lemma='strong:H1063'>ибо </w><w lemma='strong:H991'>вижу </w>, <w lemma='strong:H3754 strong:H3588'>что </w><w lemma='strong:H1992'>послание </w><w lemma='strong:H1565'>то </w><w lemma='strong:H3076'>опечалило </w><w lemma='strong:H5209'>вас </w>, <w lemma='strong:H1487 strong:H2532'>впрочем </w><w lemma='strong:H4314'>на </w><w lemma='strong:H5610'>время </w>. </verse>
+        <verse osisID='2Cor.7.9'>
+          <w lemma='strong:H3568'>Теперь </w>я <w lemma='strong:H5463'>радуюсь </w><w lemma='strong:H3756'>не </w>потому, <w lemma='strong:H3754'>что </w>вы <w lemma='strong:H3076'>опечалились </w>, <w lemma='strong:H235'>но </w><w lemma='strong:H3754'>что </w>вы <w lemma='strong:H3076'>опечалились </w><w lemma='strong:H1519'>к </w><w lemma='strong:H3341'>покаянию </w>; <w lemma='strong:H1063'>ибо </w><w lemma='strong:H3076'>опечалились </w><w lemma='strong:H2596'>ради </w><w lemma='strong:H2316'>Бога </w>, так <w lemma='strong:H2443 strong:H1722'>что </w><w lemma='strong:H3367'>нисколько </w>не понесли <w lemma='strong:H1537'>от </w><w lemma='strong:H2257'>нас </w><w lemma='strong:H2210'>вреда </w>. </verse>
+        <verse osisID='2Cor.7.10'>
+          <w lemma='strong:H3588'/>
+          <w lemma='strong:H1063'>Ибо </w>
+          <w lemma='strong:H3077'>печаль </w>
+          <w lemma='strong:H2596'>ради </w>
+          <w lemma='strong:H2316'>Бога </w>
+          <w lemma='strong:H2716'>производит </w>
+          <w lemma='strong:H278'>неизменное </w>
+          <w lemma='strong:H3341'>покаяние </w>
+          <w lemma='strong:H1519'>ко </w>
+          <w lemma='strong:H4991'>спасению </w>
+          <w lemma='strong:H3588'>, </w>
+          <w lemma='strong:H1161 strong:H3588'>а </w>
+          <w lemma='strong:H3077'>печаль </w>
+          <w lemma='strong:H2889'>мирская </w>
+          <w lemma='strong:H2716'>производит </w>
+          <w lemma='strong:H2288'>смерть </w>. </verse>
+        <verse osisID='2Cor.7.11'>
+          <w lemma='strong:H1063'>Ибо </w>
+          <w lemma='strong:H5124'>то </w>
+          <w lemma='strong:H846'>самое </w>
+          <w lemma='strong:H3588'>, </w>что <w lemma='strong:H5209'>вы </w><w lemma='strong:H3076'>опечалились </w><w lemma='strong:H2596'>ради </w><w lemma='strong:H2316'>Бога </w>, <w lemma='strong:H2400'>смотрите </w>, <w lemma='strong:H4214'>какое </w><w lemma='strong:H2716'>произвело </w>в <w lemma='strong:H5213'>вас </w><w lemma='strong:H4710'>усердие </w>, <w lemma='strong:H235'>какие </w><w lemma='strong:H627'>извинения </w>, <w lemma='strong:H235'>какое </w><w lemma='strong:H24'>негодование </w>на виновного , <w lemma='strong:H235'>какой </w><w lemma='strong:H5401'>страх </w>, <w lemma='strong:H235'>какое </w><w lemma='strong:H1972'>желание </w>, <w lemma='strong:H235'>какую </w><w lemma='strong:H2205'>ревность </w>, <w lemma='strong:H235'>какое </w><w lemma='strong:H1557'>взыскание </w>! <w lemma='strong:H1722'>По </w><w lemma='strong:H3956'>всему </w>вы <w lemma='strong:H4921'>показали </w><w lemma='strong:H1438'>себя </w><w lemma='strong:H53 strong:H1511'>чистыми </w><w lemma='strong:H1722'>в </w><w lemma='strong:H3588'>этом </w><w lemma='strong:H4229'>деле </w>. </verse>
+        <verse osisID='2Cor.7.12'>
+          <w lemma='strong:H686'>Итак </w>, <w lemma='strong:H1487 strong:H2532'>если </w>я <w lemma='strong:H1125'>писал </w>к <w lemma='strong:H5213'>вам </w>, то <w lemma='strong:H3756'>не </w><w lemma='strong:H1752 strong:H3588'>ради </w><w lemma='strong:H91'>оскорбителя </w>и <w lemma='strong:H3761'>не </w><w lemma='strong:H1752 strong:H3588'>ради </w><w lemma='strong:H91'>оскорбленного </w>, <w lemma='strong:H235'>но </w><w lemma='strong:H1752 strong:H3588'>чтобы </w><w lemma='strong:H5216'>вам </w><w lemma='strong:H5319 strong:H3588'>открылось </w><w lemma='strong:H4710 strong:H3588 strong:H5228'>попечение </w><w lemma='strong:H2257'>наше </w><w lemma='strong:H4314'>о </w><w lemma='strong:H5209'>вас </w><w lemma='strong:H1799 strong:H3588'>пред </w><w lemma='strong:H2316'>Богом </w>. </verse>
+        <verse osisID='2Cor.7.13'>
+          <w lemma='strong:H1223'/>
+          <w lemma='strong:H5124'>Посему </w>мы <w lemma='strong:H3870 strong:H1909 strong:H3588'>утешились </w><w lemma='strong:H3874'>утешением </w><w lemma='strong:H5216'>вашим </w>; <w lemma='strong:H1161'>а </w><w lemma='strong:H3123'>еще </w><w lemma='strong:H4056'>более </w><w lemma='strong:H5463 strong:H1909 strong:H3588'>обрадованы </w>мы <w lemma='strong:H5479'>радостью </w><w lemma='strong:H5103'>Тита </w>, <w lemma='strong:H3754'>что </w><w lemma='strong:H5216'>вы </w><w lemma='strong:H3956'>все </w><w lemma='strong:H373 strong:H3588'>успокоили </w><w lemma='strong:H4151'>дух </w><w lemma='strong:H846 strong:H575'>его </w>. </verse>
+        <verse osisID='2Cor.7.14'>
+          <w lemma='strong:H3754'>Итак </w>я <w lemma='strong:H3756'>не </w>остался в <w lemma='strong:H2617'>стыде </w>, <w lemma='strong:H1487'>если </w><w lemma='strong:H5100'>чем-либо </w><w lemma='strong:H5228'>о </w><w lemma='strong:H5216'>вас </w><w lemma='strong:H2744'>похвалился </w>перед <w lemma='strong:H846'>ним </w>, <w lemma='strong:H235'>но </w><w lemma='strong:H5613'>как </w><w lemma='strong:H5213'>вам </w>мы <w lemma='strong:H2980'>говорили </w><w lemma='strong:H3956 strong:H1722'>все </w><w lemma='strong:H225'>истину </w>, <w lemma='strong:H3779'>так </w><w lemma='strong:H2532 strong:H3588 strong:H3588'>и </w><w lemma='strong:H1909'>перед </w><w lemma='strong:H5103'>Титом </w><w lemma='strong:H2746'>похвала </w><w lemma='strong:H2257'>наша </w><w lemma='strong:H1096'>оказалась </w><w lemma='strong:H225'>истинною </w>; </verse>
+        <verse osisID='2Cor.7.15'>
+          <w lemma='strong:H2532 strong:H3588'>и </w>
+          <w lemma='strong:H4698'>сердце </w>
+          <w lemma='strong:H846'>его </w>
+          <w lemma='strong:H4056'>весьма </w>
+          <w lemma='strong:H2076'>расположено </w>
+          <w lemma='strong:H1519'>к </w>
+          <w lemma='strong:H5209'>вам </w>, при <w lemma='strong:H363'>воспоминании </w><w lemma='strong:H3588'>о </w><w lemma='strong:H5218'>послушании </w><w lemma='strong:H3956'>всех </w><w lemma='strong:H5216'>вас </w>, <w lemma='strong:H5613'>как </w>вы <w lemma='strong:H1209'>приняли </w><w lemma='strong:H846'>его </w><w lemma='strong:H3326'>со </w><w lemma='strong:H5401'>страхом </w><w lemma='strong:H2532'>и </w><w lemma='strong:H5156'>трепетом </w>. </verse>
+        <verse osisID='2Cor.7.16'>
+          <w lemma='strong:H3767'>Итак </w>
+          <w lemma='strong:H5463'>радуюсь </w>, <w lemma='strong:H3754'>что </w><w lemma='strong:H1722'>во </w><w lemma='strong:H3956'>всем </w>могу <w lemma='strong:H2292'>положиться </w><w lemma='strong:H1722'>на </w><w lemma='strong:H5213'>вас </w>. </verse>
+      </chapter>
+      <chapter osisID='2Cor.8'>
+        <verse osisID='2Cor.8.1'>
+          <w lemma='strong:H1107 strong:H1161'>Уведомляем </w>
+          <w lemma='strong:H5213'>вас </w>, <w lemma='strong:H80'>братия </w>, <w lemma='strong:H3588'>о </w><w lemma='strong:H5485 strong:H3588'>благодати </w><w lemma='strong:H2316'>Божией </w><w lemma='strong:H3588'>, </w><w lemma='strong:H1325 strong:H1722 strong:H3588'>данной </w><w lemma='strong:H1577 strong:H3588'>церквам </w><w lemma='strong:H3109'>Македонским </w>, </verse>
+        <verse osisID='2Cor.8.2'>
+          <w lemma='strong:H3754'>ибо </w>
+          <w lemma='strong:H846'>они </w>
+          <w lemma='strong:H1722'>среди </w>
+          <w lemma='strong:H4183'>великого </w>
+          <w lemma='strong:H1382'>испытания </w>
+          <w lemma='strong:H2347 strong:H3588'>скорбями </w>
+          <w lemma='strong:H4050 strong:H3588'>преизобилуют </w>
+          <w lemma='strong:H5479'>радостью </w>; <w lemma='strong:H2532 strong:H3588 strong:H2596'>и </w><w lemma='strong:H899'>глубокая </w><w lemma='strong:H4432'>нищета </w><w lemma='strong:H846'>их </w><w lemma='strong:H4052'>преизбыточествует </w><w lemma='strong:H1519 strong:H3588'>в </w><w lemma='strong:H4149 strong:H3588'>богатстве </w><w lemma='strong:H846'>их </w><w lemma='strong:H572'>радушия </w>. </verse>
+        <verse osisID='2Cor.8.3'>
+          <w lemma='strong:H3754'>Ибо </w>они <w lemma='strong:H830'>доброхотны </w><w lemma='strong:H2596'>по </w><w lemma='strong:H1411'>силам </w><w lemma='strong:H2532'>и </w><w lemma='strong:H5228'>сверх </w><w lemma='strong:H1411'>сил </w>- я <w lemma='strong:H3140'>свидетель </w>: </verse>
+        <verse osisID='2Cor.8.4'>
+          <w lemma='strong:H3326'/>они <w lemma='strong:H4183'>весьма </w><w lemma='strong:H3874'>убедительно </w><w lemma='strong:H1189'>просили </w><w lemma='strong:H2257 strong:H3588'>нас </w><w lemma='strong:H1209'>принять </w><w lemma='strong:H5485'>дар </w><w lemma='strong:H2532 strong:H3588'>и </w><w lemma='strong:H2842'>участие </w>их <w lemma='strong:H1519 strong:H3588'>в </w><w lemma='strong:H1248 strong:H3588 strong:H3588'>служении </w><w lemma='strong:H40 strong:H2248'>святым </w>; </verse>
+        <verse osisID='2Cor.8.5'>
+          <w lemma='strong:H2532'>и </w>
+          <w lemma='strong:H3756'>не </w>
+          <w lemma='strong:H2531'>только </w>то, чего мы <w lemma='strong:H1679'>надеялись </w>, <w lemma='strong:H235'>но </w>они <w lemma='strong:H1325'>отдали </w>самих <w lemma='strong:H1438'>себя </w>, <w lemma='strong:H4412'>во-первых </w><w lemma='strong:H3588'>, </w><w lemma='strong:H2962'>Господу </w>, потом <w lemma='strong:H2532'>и </w><w lemma='strong:H2254'>нам </w><w lemma='strong:H1223'>по </w><w lemma='strong:H2307'>воле </w><w lemma='strong:H2316'>Божией </w>; </verse>
+        <verse osisID='2Cor.8.6'>
+          <w lemma='strong:H1519 strong:H3588'>поэтому </w>
+          <w lemma='strong:H2248'>мы </w>
+          <w lemma='strong:H3870'>просили </w>
+          <w lemma='strong:H5103'>Тита </w>, <w lemma='strong:H2443'>чтобы </w>он, <w lemma='strong:H2531'>как </w><w lemma='strong:H4278'>начал </w>, <w lemma='strong:H3779'>так </w><w lemma='strong:H2532'>и </w><w lemma='strong:H2005'>окончил </w><w lemma='strong:H1519'>у </w><w lemma='strong:H5209'>вас </w><w lemma='strong:H2532 strong:H3588'>и </w><w lemma='strong:H5026'>это </w>доброе <w lemma='strong:H5485'>дело </w>. </verse>
+        <verse osisID='2Cor.8.7'>
+          <w lemma='strong:H235'>А </w>
+          <w lemma='strong:H5618 strong:H1722'>как </w>вы <w lemma='strong:H4052'>изобилуете </w><w lemma='strong:H3956'>всем </w>: <w lemma='strong:H4102'>верою </w><w lemma='strong:H2532'>и </w><w lemma='strong:H3056'>словом </w>, <w lemma='strong:H2532'>и </w><w lemma='strong:H1108'>познанием </w>, <w lemma='strong:H2532'>и </w><w lemma='strong:H3956'>всяким </w><w lemma='strong:H4710'>усердием </w>, <w lemma='strong:H2532 strong:H3588 strong:H1537'>и </w><w lemma='strong:H26'>любовью </w><w lemma='strong:H5216'>вашею </w><w lemma='strong:H1722'>к </w><w lemma='strong:H2254'>нам </w>, - <w lemma='strong:H2443'>так </w><w lemma='strong:H4052'>изобилуйте </w><w lemma='strong:H2532 strong:H1722'>и </w><w lemma='strong:H5026 strong:H3588'>сею </w><w lemma='strong:H5485'>добродетелью </w>. </verse>
+        <verse osisID='2Cor.8.8'>
+          <w lemma='strong:H3004'>Говорю </w>это <w lemma='strong:H3756'>не </w>в <w lemma='strong:H2596'>виде </w><w lemma='strong:H2003'>повеления </w>, <w lemma='strong:H235 strong:H1223 strong:H3588'>но </w><w lemma='strong:H4710'>усердием </w><w lemma='strong:H2087'>других </w><w lemma='strong:H1381'>испытываю </w><w lemma='strong:H1103'>искренность </w><w lemma='strong:H2532 strong:H3588 strong:H3588'>и </w><w lemma='strong:H5212'>вашей </w><w lemma='strong:H26'>любви </w>. </verse>
+        <verse osisID='2Cor.8.9'>
+          <w lemma='strong:H1063'>Ибо </w>вы <w lemma='strong:H1097 strong:H3588'>знаете </w><w lemma='strong:H5485 strong:H3588'>благодать </w><w lemma='strong:H2962'>Господа </w><w lemma='strong:H2257'>нашего </w><w lemma='strong:H2424'>Иисуса </w><w lemma='strong:H5547'>Христа </w>, <w lemma='strong:H3754'>что </w>Он, <w lemma='strong:H5607'>будучи </w><w lemma='strong:H4145'>богат </w>, <w lemma='strong:H4433'>обнищал </w><w lemma='strong:H1223'>ради </w><w lemma='strong:H5209'>вас </w>, <w lemma='strong:H2443'>дабы </w><w lemma='strong:H5210 strong:H3588'>вы </w><w lemma='strong:H4147'>обогатились </w><w lemma='strong:H1565'>Его </w><w lemma='strong:H4432'>нищетою </w>. </verse>
+        <verse osisID='2Cor.8.10'>
+          <w lemma='strong:H2532'/>Я <w lemma='strong:H1325'>даю </w><w lemma='strong:H1722'>на </w><w lemma='strong:H5129'>это </w><w lemma='strong:H1106'>совет </w>: <w lemma='strong:H1063'>ибо </w><w lemma='strong:H5124'>это </w><w lemma='strong:H4851'>полезно </w><w lemma='strong:H5213'>вам </w>, <w lemma='strong:H3748'>которые </w><w lemma='strong:H3756'>не </w><w lemma='strong:H3440 strong:H3588'>только </w><w lemma='strong:H4278'>начали </w><w lemma='strong:H4160'>делать </w>сие, <w lemma='strong:H235'>но </w><w lemma='strong:H2532 strong:H3588'>и </w><w lemma='strong:H2309'>желали </w>того еще <w lemma='strong:H575'>с </w>прошедшего <w lemma='strong:H4070'>года </w>. </verse>
+        <verse osisID='2Cor.8.11'>
+          <w lemma='strong:H2005'>Совершите </w>
+          <w lemma='strong:H1161'>же </w>
+          <w lemma='strong:H3570 strong:H2532'>теперь </w>
+          <w lemma='strong:H3588'>самое </w>
+          <w lemma='strong:H4160'>дело </w>, <w lemma='strong:H3704'>дабы </w>, <w lemma='strong:H2509 strong:H3588'>чего </w><w lemma='strong:H4288 strong:H3588'>усердно </w><w lemma='strong:H2309'>желали </w>, <w lemma='strong:H3779'>то </w><w lemma='strong:H2532 strong:H3588'>и </w><w lemma='strong:H2005'>исполнено </w>было <w lemma='strong:H1537 strong:H3588'>по </w><w lemma='strong:H2192'>достатку </w>. </verse>
+        <verse osisID='2Cor.8.12'>
+          <w lemma='strong:H1063'>Ибо </w>
+          <w lemma='strong:H1487 strong:H3588'>если </w>
+          <w lemma='strong:H4295'>есть </w>
+          <w lemma='strong:H4288'>усердие </w>, то оно <w lemma='strong:H2144'>принимается </w>смотря <w lemma='strong:H2526'>по </w>тому, <w lemma='strong:H5100'>кто </w><w lemma='strong:H1437'>что </w><w lemma='strong:H2192'>имеет </w>, а <w lemma='strong:H3756'>не </w><w lemma='strong:H2526'>по </w>тому, чего <w lemma='strong:H3756'>не </w><w lemma='strong:H2192'>имеет </w>. </verse>
+        <verse osisID='2Cor.8.13'>
+          <w lemma='strong:H3756 strong:H1063'>Не </w>требуется , <w lemma='strong:H2443'>чтобы </w><w lemma='strong:H243'>другим </w>было <w lemma='strong:H425'>облегчение </w>, <w lemma='strong:H1161'>а </w><w lemma='strong:H5213'>вам </w><w lemma='strong:H2347'>тяжесть </w>, <w lemma='strong:H235'>но </w><w lemma='strong:H1537'>чтобы </w>была <w lemma='strong:H2471'>равномерность </w>. </verse>
+        <verse osisID='2Cor.8.14'>
+          <w lemma='strong:H1722 strong:H3588'/>
+          <w lemma='strong:H3568 strong:H2540 strong:H3588'>Ныне </w>
+          <w lemma='strong:H5216'>ваш </w>
+          <w lemma='strong:H4051'>избыток </w>
+          <w lemma='strong:H1519 strong:H3588'>в </w>восполнение <w lemma='strong:H1565'>их </w><w lemma='strong:H5303'>недостатка </w>; <w lemma='strong:H2443 strong:H2532 strong:H3588'>а </w>после <w lemma='strong:H1565'>их </w><w lemma='strong:H4051 strong:H1096'>избыток </w><w lemma='strong:H1519 strong:H3588'>в </w>восполнение <w lemma='strong:H5216'>вашего </w><w lemma='strong:H5303'>недостатка </w>, <w lemma='strong:H3704'>чтобы </w><w lemma='strong:H1096'>была </w><w lemma='strong:H2471'>равномерность </w>, </verse>
+        <verse osisID='2Cor.8.15'>
+          <w lemma='strong:H2531'>как </w>
+          <w lemma='strong:H1125'>написано </w>: <w lemma='strong:H3588 strong:H3588'>"кто </w>собрал <w lemma='strong:H4183'>много </w>, <w lemma='strong:H3756'>не </w>имел <w lemma='strong:H4121'>лишнего </w>; <w lemma='strong:H2532'>и </w><w lemma='strong:H3588 strong:H3588'>кто </w><w lemma='strong:H3641'>мало </w>, <w lemma='strong:H3756'>не </w>имел <w lemma='strong:H1641'>недостатка </w>". </verse>
+        <verse osisID='2Cor.8.16'>
+          <w lemma='strong:H5485 strong:H1161 strong:H3588'>Благодарение </w>
+          <w lemma='strong:H2316'>Богу </w>
+          <w lemma='strong:H3588'>, </w>
+          <w lemma='strong:H1325 strong:H3588'>вложившему </w>
+          <w lemma='strong:H1722 strong:H3588'>в </w>
+          <w lemma='strong:H2588'>сердце </w>
+          <w lemma='strong:H5103'>Титово </w>
+          <w lemma='strong:H846'>такое </w>
+          <w lemma='strong:H4710'>усердие </w>
+          <w lemma='strong:H5228'>к </w>
+          <w lemma='strong:H5216'>вам </w>. </verse>
+        <verse osisID='2Cor.8.17'>
+          <w lemma='strong:H3754'>Ибо </w>
+          <w lemma='strong:H3588'>, </w>
+          <w lemma='strong:H3303'>хотя </w>и я <w lemma='strong:H3874 strong:H1209'>просил </w>его, <w lemma='strong:H1161'>впрочем </w>он, <w lemma='strong:H5225'>будучи </w>очень <w lemma='strong:H4707'>усерден </w>, <w lemma='strong:H1831'>пошел </w><w lemma='strong:H4314'>к </w><w lemma='strong:H5209'>вам </w><w lemma='strong:H830'>добровольно </w>. </verse>
+        <verse osisID='2Cor.8.18'>
+          <w lemma='strong:H3326'>С </w>
+          <w lemma='strong:H846'>ним </w>
+          <w lemma='strong:H4842 strong:H1161 strong:H3588'>послали </w>мы также <w lemma='strong:H80'>брата </w><w lemma='strong:H3739 strong:H3588'>, </w><w lemma='strong:H1223'>во </w><w lemma='strong:H3956 strong:H3588'>всех </w><w lemma='strong:H1577'>церквах </w><w lemma='strong:H1868'>похваляемого </w><w lemma='strong:H1722 strong:H3588'>за </w><w lemma='strong:H2098'>благовествование </w>, </verse>
+        <verse osisID='2Cor.8.19'>
+          <w lemma='strong:H1161'>и </w>
+          <w lemma='strong:H3756 strong:H3440 strong:H235 strong:H2532'>притом </w>
+          <w lemma='strong:H5500'>избранного </w>
+          <w lemma='strong:H5259 strong:H3588'>от </w>
+          <w lemma='strong:H1577'>церквей </w>
+          <w lemma='strong:H4898'>сопутствовать </w>
+          <w lemma='strong:H2257'>нам </w>
+          <w lemma='strong:H4862 strong:H3588'>для </w>
+          <w lemma='strong:H5026'>сего </w>
+          <w lemma='strong:H5485'>благотворения </w>, <w lemma='strong:H3588'>которому </w><w lemma='strong:H2257 strong:H5259'>мы </w><w lemma='strong:H1247'>служим </w><w lemma='strong:H4314 strong:H3588'>во </w><w lemma='strong:H1391'>славу </w><w lemma='strong:H846 strong:H3588'>Самого </w><w lemma='strong:H2962'>Господа </w><w lemma='strong:H2532'>и </w>в соответствие <w lemma='strong:H5216'>вашему </w><w lemma='strong:H4288'>усердию </w>, </verse>
+        <verse osisID='2Cor.8.20'>
+          <w lemma='strong:H4724 strong:H5124'>остерегаясь </w>, чтобы <w lemma='strong:H2248'>нам </w><w lemma='strong:H3361'>не </w>подвергнуться от <w lemma='strong:H5100'>кого </w><w lemma='strong:H3469'>нареканию </w><w lemma='strong:H1722 strong:H3588'>при </w><w lemma='strong:H5026'>таком </w><w lemma='strong:H100'>обилии </w><w lemma='strong:H3588'>приношений, </w><w lemma='strong:H1247 strong:H5259'>вверяемых </w><w lemma='strong:H2257'>нашему </w>служению; </verse>
+        <verse osisID='2Cor.8.21'>ибо мы <w lemma='strong:H4306'>стараемся </w>о <w lemma='strong:H2570'>добром </w><w lemma='strong:H3756'>не </w><w lemma='strong:H3440'>только </w><w lemma='strong:H1799'>пред </w><w lemma='strong:H2962'>Господом </w>, <w lemma='strong:H235'>но </w><w lemma='strong:H2532'>и </w><w lemma='strong:H1799'>пред </w><w lemma='strong:H444'>людьми </w>. </verse>
+        <verse osisID='2Cor.8.22'>Мы <w lemma='strong:H4842 strong:H1161'>послали </w>с <w lemma='strong:H846 strong:H3588'>ними </w>и <w lemma='strong:H80'>брата </w><w lemma='strong:H2257'>нашего </w>, <w lemma='strong:H3739'>которого </w><w lemma='strong:H4705'>усердие </w><w lemma='strong:H4178'>много </w>раз <w lemma='strong:H1381'>испытали </w><w lemma='strong:H1722'>во </w><w lemma='strong:H4183'>многом </w>и <w lemma='strong:H5607'>который </w><w lemma='strong:H3570 strong:H1161'>ныне </w><w lemma='strong:H4183'>еще </w><w lemma='strong:H4707'>усерднее </w>по <w lemma='strong:H4183'>великой </w><w lemma='strong:H4006 strong:H3588'>уверенности </w><w lemma='strong:H1519'>в </w><w lemma='strong:H5209'>вас </w>. </verse>
+        <verse osisID='2Cor.8.23'>
+          <w lemma='strong:H1535'>Что </w>
+          <w lemma='strong:H5228'>касается </w>до <w lemma='strong:H5103'>Тита </w>, это - <w lemma='strong:H1699'>мой </w><w lemma='strong:H2844'>товарищ </w><w lemma='strong:H2532'>и </w><w lemma='strong:H4904'>сотрудник </w><w lemma='strong:H1519'>у </w><w lemma='strong:H5209'>вас </w>; <w lemma='strong:H1535'>а </w>что до <w lemma='strong:H80'>братьев </w><w lemma='strong:H2257'>наших </w>, это - <w lemma='strong:H652'>посланники </w><w lemma='strong:H1577'>церквей </w>, <w lemma='strong:H1391'>слава </w><w lemma='strong:H5547'>Христова </w>. </verse>
+        <verse osisID='2Cor.8.24'>
+          <w lemma='strong:H3588'/>
+          <w lemma='strong:H3767'>Итак </w>, <w lemma='strong:H1519 strong:H2532 strong:H1519'>перед </w><w lemma='strong:H4383 strong:H3588'>лицем </w><w lemma='strong:H1577'>церквей </w><w lemma='strong:H1731'>дайте </w><w lemma='strong:H846'>им </w><w lemma='strong:H1732 strong:H3588'>доказательство </w><w lemma='strong:H26'>любви </w><w lemma='strong:H5216'>вашей </w><w lemma='strong:H2532'>и </w>того, что <w lemma='strong:H2257'>мы </w>справедливо <w lemma='strong:H2746 strong:H5229'>хвалимся </w><w lemma='strong:H5216'>вами </w>. </verse>
+      </chapter>
+      <chapter osisID='2Cor.9'>
+        <verse osisID='2Cor.9.1'>Для <w lemma='strong:H3427'>меня </w>впрочем <w lemma='strong:H4053 strong:H2076 strong:H3588'>излишне </w><w lemma='strong:H1125'>писать </w><w lemma='strong:H5213'>вам </w><w lemma='strong:H4012 strong:H3303 strong:H1063 strong:H3588'>о </w><w lemma='strong:H1248 strong:H3588 strong:H1519 strong:H3588'>вспоможении </w><w lemma='strong:H40'>святым </w>, </verse>
+        <verse osisID='2Cor.9.2'>
+          <w lemma='strong:H1063'>ибо </w>я <w lemma='strong:H1492 strong:H3588'>знаю </w><w lemma='strong:H4288'>усердие </w><w lemma='strong:H5216 strong:H3739 strong:H5228'>ваше </w>и <w lemma='strong:H2744'>хвалюсь </w><w lemma='strong:H5216'>вами </w>перед <w lemma='strong:H3110'>Македонянами </w>, <w lemma='strong:H3754'>что </w><w lemma='strong:H882'>Ахаия </w><w lemma='strong:H3903'>приготовлена </w>еще <w lemma='strong:H575'>с </w>прошедшего <w lemma='strong:H4070'>года </w>; <w lemma='strong:H2532 strong:H3588 strong:H1537'>и </w><w lemma='strong:H2205'>ревность </w><w lemma='strong:H5216'>ваша </w><w lemma='strong:H2042 strong:H3588'>поощрила </w><w lemma='strong:H4119'>многих </w>. </verse>
+        <verse osisID='2Cor.9.3'>
+          <w lemma='strong:H3588'/>
+          <w lemma='strong:H80'>Братьев </w>
+          <w lemma='strong:H1161'>же </w>
+          <w lemma='strong:H3992'>послал </w>я для того, <w lemma='strong:H2443 strong:H3588'>чтобы </w><w lemma='strong:H2745'>похвала </w><w lemma='strong:H2257 strong:H3588'>моя </w><w lemma='strong:H5228'>о </w><w lemma='strong:H5216'>вас </w><w lemma='strong:H3361'>не </w>оказалась <w lemma='strong:H2758'>тщетною </w><w lemma='strong:H1722 strong:H3588'>в </w><w lemma='strong:H5129'>сем </w><w lemma='strong:H3313'>случае </w>, но <w lemma='strong:H2443'>чтобы </w>вы, <w lemma='strong:H2531'>как </w>я <w lemma='strong:H3004'>говорил </w>, <w lemma='strong:H5600'>были </w><w lemma='strong:H3903'>приготовлены </w>, </verse>
+        <verse osisID='2Cor.9.4'>и <w lemma='strong:H3381'>чтобы </w>, <w lemma='strong:H1437'>когда </w><w lemma='strong:H2064'>придут </w><w lemma='strong:H4862'>со </w><w lemma='strong:H1698'>мною </w><w lemma='strong:H3110'>Македоняне </w><w lemma='strong:H2532'>и </w><w lemma='strong:H2147'>найдут </w><w lemma='strong:H5209'>вас </w><w lemma='strong:H532'>неготовыми </w>, не остались в <w lemma='strong:H2617'>стыде </w><w lemma='strong:H2249'>мы </w>, <w lemma='strong:H2443'>- </w><w lemma='strong:H3361'>не </w><w lemma='strong:H3004'>говорю </w><w lemma='strong:H5210'>"вы </w>", <w lemma='strong:H1722 strong:H3588 strong:H3588'>- </w><w lemma='strong:H2746'>похвалившись </w>с <w lemma='strong:H5026'>такою </w><w lemma='strong:H5287'>уверенностью </w>. </verse>
+        <verse osisID='2Cor.9.5'>
+          <w lemma='strong:H3767'>Посему </w>я <w lemma='strong:H2233'>почел </w>за <w lemma='strong:H316'>нужное </w><w lemma='strong:H3870 strong:H3588'>упросить </w><w lemma='strong:H80'>братьев </w>, <w lemma='strong:H2443'>чтобы </w>они наперед <w lemma='strong:H4281'>пошли </w><w lemma='strong:H1519'>к </w><w lemma='strong:H5209'>вам </w><w lemma='strong:H2532'>и </w>предварительно <w lemma='strong:H4294'>озаботились </w><w lemma='strong:H3588'>, </w>дабы <w lemma='strong:H4293'>возвещенное </w>уже <w lemma='strong:H2129'>благословение </w><w lemma='strong:H5216 strong:H3778'>ваше </w><w lemma='strong:H1511'>было </w><w lemma='strong:H2092'>готово </w><w lemma='strong:H3779'>, </w><w lemma='strong:H5613'>как </w><w lemma='strong:H2129'>благословение </w>, <w lemma='strong:H2532'>а </w><w lemma='strong:H3361'>не </w><w lemma='strong:H5618'>как </w><w lemma='strong:H4124'>побор </w>. </verse>
+        <verse osisID='2Cor.9.6'>
+          <w lemma='strong:H1161'>При </w>
+          <w lemma='strong:H5124'>сем </w>скажу: <w lemma='strong:H3588'>кто </w><w lemma='strong:H4687'>сеет </w><w lemma='strong:H5340'>скупо </w>, тот <w lemma='strong:H5340'>скупо </w><w lemma='strong:H2532'>и </w><w lemma='strong:H2325'>пожнет </w>; <w lemma='strong:H2532'>а </w><w lemma='strong:H3588'>кто </w><w lemma='strong:H4687 strong:H1909'>сеет </w><w lemma='strong:H2129'>щедро </w><w lemma='strong:H1909'>, </w>тот <w lemma='strong:H2129'>щедро </w><w lemma='strong:H2532'>и </w><w lemma='strong:H2325'>пожнет </w>. </verse>
+        <verse osisID='2Cor.9.7'>
+          <w lemma='strong:H1538'>Каждый </w>уделяй <w lemma='strong:H2531'>по </w><w lemma='strong:H4255 strong:H3588'>расположению </w><w lemma='strong:H2588'>сердца </w>, <w lemma='strong:H3361'>не </w><w lemma='strong:H1537'>с </w><w lemma='strong:H3077'>огорчением </w><w lemma='strong:H2228'>и </w>не <w lemma='strong:H1537'>с </w><w lemma='strong:H318'>принуждением </w>; <w lemma='strong:H1063'>ибо </w><w lemma='strong:H2431'>доброхотно </w><w lemma='strong:H1395'>дающего </w><w lemma='strong:H25 strong:H3588'>любит </w><w lemma='strong:H2316'>Бог </w>. </verse>
+        <verse osisID='2Cor.9.8'>
+          <w lemma='strong:H3588'/>
+          <w lemma='strong:H2316'>Бог </w>
+          <w lemma='strong:H1161'>же </w>
+          <w lemma='strong:H1415'>силен </w>
+          <w lemma='strong:H4052 strong:H1519'>обогатить </w>
+          <w lemma='strong:H5209'>вас </w>
+          <w lemma='strong:H3956'>всякою </w>
+          <w lemma='strong:H5485'>благодатью </w>, <w lemma='strong:H2443'>чтобы </w>вы, <w lemma='strong:H3842'>всегда </w>и <w lemma='strong:H1722'>во </w><w lemma='strong:H3956'>всем </w><w lemma='strong:H2192'>имея </w><w lemma='strong:H3956'>всякое </w><w lemma='strong:H841'>довольство </w>, были <w lemma='strong:H4052'>богаты </w><w lemma='strong:H1519'>на </w><w lemma='strong:H3956'>всякое </w><w lemma='strong:H18'>доброе </w><w lemma='strong:H2041'>дело </w>, </verse>
+        <verse osisID='2Cor.9.9'>
+          <w lemma='strong:H2531'>как </w>
+          <w lemma='strong:H1125'>написано </w>: <w lemma='strong:H4650'>"расточил </w>, <w lemma='strong:H1325 strong:H3588'>раздал </w><w lemma='strong:H3993'>нищим </w><w lemma='strong:H3588'>; </w><w lemma='strong:H1343'>правда </w><w lemma='strong:H846'>его </w><w lemma='strong:H3306'>пребывает </w><w lemma='strong:H1519 strong:H3588'>в </w><w lemma='strong:H165'>век </w>". </verse>
+        <verse osisID='2Cor.9.10'>
+          <w lemma='strong:H3588'/>
+          <w lemma='strong:H2023'>Дающий </w>
+          <w lemma='strong:H1161'>же </w>
+          <w lemma='strong:H4690 strong:H3588'>семя </w>
+          <w lemma='strong:H4687'>сеющему </w>
+          <w lemma='strong:H2532'>и </w>
+          <w lemma='strong:H740'>хлеб </w>
+          <w lemma='strong:H1519'>в </w>
+          <w lemma='strong:H1035'>пищу </w>
+          <w lemma='strong:H5524 strong:H2532'>подаст </w>
+          <w lemma='strong:H4129 strong:H3588'>обилие </w>
+          <w lemma='strong:H4703'>посеянному </w>
+          <w lemma='strong:H5216'>вами </w>
+          <w lemma='strong:H2532'>и </w>
+          <w lemma='strong:H837 strong:H3588'>умножит </w>
+          <w lemma='strong:H1081 strong:H3588'>плоды </w>
+          <w lemma='strong:H1343'>правды </w>
+          <w lemma='strong:H5216'>вашей </w>, </verse>
+        <verse osisID='2Cor.9.11'>
+          <w lemma='strong:H1722'/>так чтобы вы <w lemma='strong:H3956'>всем </w><w lemma='strong:H4148'>богаты </w>были <w lemma='strong:H1519'>на </w><w lemma='strong:H3956'>всякую </w><w lemma='strong:H572'>щедрость </w>, <w lemma='strong:H3748'>которая </w><w lemma='strong:H1223'>через </w><w lemma='strong:H2257'>нас </w><w lemma='strong:H2716'>производит </w><w lemma='strong:H2169 strong:H3588'>благодарение </w><w lemma='strong:H2316'>Богу </w>. </verse>
+        <verse osisID='2Cor.9.12'>
+          <w lemma='strong:H3754 strong:H3588'>Ибо </w>
+          <w lemma='strong:H1248 strong:H3588'>дело </w>
+          <w lemma='strong:H3009'>служения </w>
+          <w lemma='strong:H5026'>сего </w>
+          <w lemma='strong:H3756'>не </w>
+          <w lemma='strong:H3440 strong:H2076'>только </w>
+          <w lemma='strong:H4322 strong:H3588'>восполняет </w>
+          <w lemma='strong:H5303 strong:H3588'>скудость </w>
+          <w lemma='strong:H40'>святых </w>, <w lemma='strong:H235'>но </w><w lemma='strong:H2532'>и </w><w lemma='strong:H4052'>производит </w><w lemma='strong:H1223'>во </w><w lemma='strong:H4183'>многих </w>обильные <w lemma='strong:H2169 strong:H3588'>благодарения </w><w lemma='strong:H2316'>Богу </w>; </verse>
+        <verse osisID='2Cor.9.13'>ибо, <w lemma='strong:H1223 strong:H3588'>видя </w><w lemma='strong:H1382 strong:H3588'>опыт </w><w lemma='strong:H5026'>сего </w><w lemma='strong:H1248'>служения </w>, они <w lemma='strong:H1392 strong:H3588'>прославляют </w><w lemma='strong:H2316'>Бога </w><w lemma='strong:H1909 strong:H3588'>за </w><w lemma='strong:H5292 strong:H3588'>покорность </w><w lemma='strong:H3671'>исповедуемому </w><w lemma='strong:H5216 strong:H1519 strong:H3588'>вами </w><w lemma='strong:H2098 strong:H3588'>Евангелию </w><w lemma='strong:H5547'>Христову </w><w lemma='strong:H2532'>и </w>за <w lemma='strong:H572 strong:H3588'>искреннее </w><w lemma='strong:H2842'>общение </w><w lemma='strong:H1519'>с </w><w lemma='strong:H846'>ними </w><w lemma='strong:H2532'>и </w><w lemma='strong:H1519'>со </w><w lemma='strong:H3956'>всеми </w>, </verse>
+        <verse osisID='2Cor.9.14'>
+          <w lemma='strong:H2532 strong:H846'/>
+          <w lemma='strong:H1162'>молясь </w>
+          <w lemma='strong:H5228'>за </w>
+          <w lemma='strong:H5216'>вас </w>, по <w lemma='strong:H1971'>расположению </w>к <w lemma='strong:H5209'>вам </w>, <w lemma='strong:H1223 strong:H3588'>за </w><w lemma='strong:H5235'>преизбыточествующую </w><w lemma='strong:H1909'>в </w><w lemma='strong:H5213'>вас </w><w lemma='strong:H5485 strong:H3588'>благодать </w><w lemma='strong:H2316'>Божию </w>. </verse>
+        <verse osisID='2Cor.9.15'>
+          <w lemma='strong:H5485 strong:H1161 strong:H3588'>Благодарение </w>
+          <w lemma='strong:H2316'>Богу </w>
+          <w lemma='strong:H1909 strong:H3588'>за </w>
+          <w lemma='strong:H411'>неизреченный </w>
+          <w lemma='strong:H1431'>дар </w>
+          <w lemma='strong:H846'>Его </w>! </verse>
+      </chapter>
+      <chapter osisID='2Cor.10'>
+        <verse osisID='2Cor.10.1'>
+          <w lemma='strong:H846'/>
+          <w lemma='strong:H1473'>Я </w>
+          <w lemma='strong:H1161'>же </w>, <w lemma='strong:H3972'>Павел </w>, <w lemma='strong:H3739 strong:H2596'>который </w><w lemma='strong:H4383 strong:H3303'>лично </w><w lemma='strong:H1722'>между </w><w lemma='strong:H5213'>вами </w><w lemma='strong:H5011'>скромен </w>, <w lemma='strong:H1161'>а </w><w lemma='strong:H548'>заочно </w><w lemma='strong:H1519'>против </w><w lemma='strong:H5209'>вас </w><w lemma='strong:H2292'>отважен </w>, <w lemma='strong:H3870'>убеждаю </w><w lemma='strong:H5209 strong:H1223 strong:H3588'>вас </w><w lemma='strong:H4236'>кротостью </w><w lemma='strong:H2532'>и </w><w lemma='strong:H1932 strong:H3588'>снисхождением </w><w lemma='strong:H5547'>Христовым </w>. </verse>
+        <verse osisID='2Cor.10.2'>
+          <w lemma='strong:H1189 strong:H1161'>Прошу </w>
+          <w lemma='strong:H3588'>, </w>чтобы мне по <w lemma='strong:H3918'>пришествии </w>моем <w lemma='strong:H3361'>не </w>прибегать к <w lemma='strong:H3588'>той </w><w lemma='strong:H4006'>твердой </w><w lemma='strong:H2292'>смелости </w>, <w lemma='strong:H3739'>которую </w><w lemma='strong:H3049'>думаю </w><w lemma='strong:H5111'>употребить </w><w lemma='strong:H1909'>против </w><w lemma='strong:H5100'>некоторых </w><w lemma='strong:H3588'>, </w><w lemma='strong:H3049'>помышляющих </w>о <w lemma='strong:H2248'>нас </w>, <w lemma='strong:H5613'>что </w>мы <w lemma='strong:H4043'>поступаем </w><w lemma='strong:H2596'>по </w><w lemma='strong:H4561'>плоти </w>. </verse>
+        <verse osisID='2Cor.10.3'>
+          <w lemma='strong:H1063'>Ибо </w>мы, <w lemma='strong:H4043'>ходя </w><w lemma='strong:H1722'>во </w><w lemma='strong:H4561'>плоти </w>, <w lemma='strong:H3756'>не </w><w lemma='strong:H2596'>по </w><w lemma='strong:H4561'>плоти </w><w lemma='strong:H4754'>воинствуем </w>. </verse>
+        <verse osisID='2Cor.10.4'>
+          <w lemma='strong:H3588 strong:H1063'/>
+          <w lemma='strong:H3696 strong:H3588'>Оружия </w>
+          <w lemma='strong:H4752'>воинствования </w>
+          <w lemma='strong:H2257'>нашего </w>
+          <w lemma='strong:H3756'>не </w>
+          <w lemma='strong:H4559'>плотские </w>, <w lemma='strong:H235'>но </w><w lemma='strong:H1415 strong:H3588'>сильные </w><w lemma='strong:H2316'>Богом </w><w lemma='strong:H4314'>на </w><w lemma='strong:H2506'>разрушение </w><w lemma='strong:H3794'>твердынь </w>: ими <w lemma='strong:H2507'>ниспровергаем </w><w lemma='strong:H3053'>замыслы </w></verse>
+        <verse osisID='2Cor.10.5'>
+          <w lemma='strong:H2532'>и </w>
+          <w lemma='strong:H3956'>всякое </w>
+          <w lemma='strong:H5313'>превозношение </w>, <w lemma='strong:H1869'>восстающее </w><w lemma='strong:H2596 strong:H3588'>против </w><w lemma='strong:H1108 strong:H3588'>познания </w><w lemma='strong:H2316'>Божия </w>, <w lemma='strong:H2532'>и </w><w lemma='strong:H163'>пленяем </w><w lemma='strong:H3956'>всякое </w><w lemma='strong:H3540'>помышление </w><w lemma='strong:H1519 strong:H3588'>в </w><w lemma='strong:H5218 strong:H3588'>послушание </w><w lemma='strong:H5547'>Христу </w>, </verse>
+        <verse osisID='2Cor.10.6'>
+          <w lemma='strong:H2532 strong:H1722'>и </w>
+          <w lemma='strong:H2092 strong:H2192'>готовы </w>
+          <w lemma='strong:H1556'>наказать </w>
+          <w lemma='strong:H3956'>всякое </w>
+          <w lemma='strong:H3876'>непослушание </w>, <w lemma='strong:H3752'>когда </w><w lemma='strong:H5216 strong:H3588'>ваше </w><w lemma='strong:H5218'>послушание </w><w lemma='strong:H4137'>исполнится </w>. </verse>
+        <verse osisID='2Cor.10.7'>
+          <w lemma='strong:H3588'/>
+          <w lemma='strong:H2596'>На </w>
+          <w lemma='strong:H4383'>личность </w>ли <w lemma='strong:H991'>смотрите </w><w lemma='strong:H1487'>? </w><w lemma='strong:H5100'>Кто </w><w lemma='strong:H3982'>уверен </w>в <w lemma='strong:H1438'>себе </w>, что <w lemma='strong:H1511'>он </w><w lemma='strong:H5547'>Христов </w>, <w lemma='strong:H5124'>тот </w>сам <w lemma='strong:H575'>по </w><w lemma='strong:H1438'>себе </w><w lemma='strong:H3049 strong:H3825'>суди </w>, <w lemma='strong:H3754'>что </w>, <w lemma='strong:H2531'>как </w><w lemma='strong:H846'>он </w><w lemma='strong:H5547'>Христов </w>, <w lemma='strong:H3779'>так </w><w lemma='strong:H2532'>и </w><w lemma='strong:H2249'>мы </w><w lemma='strong:H5547'>Христовы </w>. </verse>
+        <verse osisID='2Cor.10.8'>
+          <w lemma='strong:H1063'>Ибо </w>
+          <w lemma='strong:H1437'>если </w>
+          <w lemma='strong:H5037'>бы </w>я <w lemma='strong:H2532'>и </w><w lemma='strong:H4055 strong:H5100'>более </w>стал <w lemma='strong:H2744 strong:H4012 strong:H3588'>хвалиться </w><w lemma='strong:H2257'>нашею </w><w lemma='strong:H1849'>властью </w>, <w lemma='strong:H3739 strong:H3588'>которую </w><w lemma='strong:H2962'>Господь </w><w lemma='strong:H1325'>дал </w><w lemma='strong:H2254'>нам </w><w lemma='strong:H1519'>к </w><w lemma='strong:H3619'>созиданию </w>, <w lemma='strong:H2532'>а </w><w lemma='strong:H3756'>не </w><w lemma='strong:H1519'>к </w><w lemma='strong:H2506'>расстройству </w><w lemma='strong:H5216'>вашему </w>, то <w lemma='strong:H3756'>не </w>остался бы в <w lemma='strong:H153'>стыде </w>. </verse>
+        <verse osisID='2Cor.10.9'>Впрочем, <w lemma='strong:H2443'>да </w><w lemma='strong:H3361'>не </w><w lemma='strong:H1380'>покажется </w>, <w lemma='strong:H5613 strong:H302'>что </w>я <w lemma='strong:H1629'>устрашаю </w><w lemma='strong:H5209 strong:H1223 strong:H3588'>вас </w>только <w lemma='strong:H1992'>посланиями </w>. </verse>
+        <verse osisID='2Cor.10.10'>Так <w lemma='strong:H3754 strong:H3588 strong:H3303'>как </w>некто <w lemma='strong:H5346'>говорит </w>: "в <w lemma='strong:H1992'>посланиях </w>он <w lemma='strong:H926'>строг </w><w lemma='strong:H2532'>и </w><w lemma='strong:H2478'>силен </w><w lemma='strong:H3588'>, </w><w lemma='strong:H1161'>а </w>в <w lemma='strong:H4983 strong:H3588'>личном </w><w lemma='strong:H3952'>присутствии </w><w lemma='strong:H772'>слаб </w>, <w lemma='strong:H2532 strong:H3588'>и </w><w lemma='strong:H3056'>речь </w>его <w lemma='strong:H1848'>незначительна </w>", - </verse>
+        <verse osisID='2Cor.10.11'>
+          <w lemma='strong:H5124 strong:H3588'/>
+          <w lemma='strong:H5108'>такой </w>пусть <w lemma='strong:H3049'>знает </w>, <w lemma='strong:H3754'>что </w>, <w lemma='strong:H3634'>каковы </w><w lemma='strong:H2070'>мы </w><w lemma='strong:H3588'>на </w><w lemma='strong:H3056'>словах </w><w lemma='strong:H1223'>в </w><w lemma='strong:H1992'>посланиях </w><w lemma='strong:H548'>заочно </w>, <w lemma='strong:H5108'>таковы </w><w lemma='strong:H2532 strong:H3588'>и </w>на <w lemma='strong:H2041'>деле </w><w lemma='strong:H3918'>лично </w>. </verse>
+        <verse osisID='2Cor.10.12'>
+          <w lemma='strong:H1063'>Ибо </w>мы <w lemma='strong:H3756'>не </w><w lemma='strong:H5111'>смеем </w><w lemma='strong:H1469'>сопоставлять </w><w lemma='strong:H2228'>или </w><w lemma='strong:H4793'>сравнивать </w><w lemma='strong:H1438'>себя </w>с <w lemma='strong:H5100'>теми </w>, <w lemma='strong:H3588'>которые </w>сами <w lemma='strong:H1438'>себя </w><w lemma='strong:H4921'>выставляют </w><w lemma='strong:H235'>: </w><w lemma='strong:H846 strong:H1722'>они </w><w lemma='strong:H3354'>измеряют </w>себя <w lemma='strong:H1438'>самими </w><w lemma='strong:H1438'>собою </w><w lemma='strong:H2532'>и </w><w lemma='strong:H4793'>сравнивают </w><w lemma='strong:H1438'>себя </w>с <w lemma='strong:H1438'>собою </w><w lemma='strong:H3756 strong:H4920'>неразумно </w>. </verse>
+        <verse osisID='2Cor.10.13'>
+          <w lemma='strong:H1161'>А </w>
+          <w lemma='strong:H2249'>мы </w>
+          <w lemma='strong:H3780'>не </w>
+          <w lemma='strong:H1519 strong:H3588'>без </w>
+          <w lemma='strong:H280'>меры </w>
+          <w lemma='strong:H2744'>хвалиться </w>будем, <w lemma='strong:H235'>но </w><w lemma='strong:H2596 strong:H3588'>по </w><w lemma='strong:H3358 strong:H3588'>мере </w><w lemma='strong:H2583'>удела </w>, <w lemma='strong:H3739'>какой </w><w lemma='strong:H3307'>назначил </w><w lemma='strong:H2254 strong:H3588'>нам </w><w lemma='strong:H2316'>Бог </w>в такую <w lemma='strong:H3358'>меру </w>, чтобы <w lemma='strong:H2185'>достигнуть </w><w lemma='strong:H2532'>и </w><w lemma='strong:H891'>до </w><w lemma='strong:H5216'>вас </w>. </verse>
+        <verse osisID='2Cor.10.14'>
+          <w lemma='strong:H1063'>Ибо </w>мы <w lemma='strong:H3756'>не </w><w lemma='strong:H5239'>напрягаем </w><w lemma='strong:H1438'>себя </w>, <w lemma='strong:H5613'>как </w><w lemma='strong:H3361'>не </w><w lemma='strong:H2185'>достигшие </w><w lemma='strong:H1519'>до </w><w lemma='strong:H5209'>вас </w>, потому что <w lemma='strong:H5348'>достигли </w><w lemma='strong:H2532 strong:H1063'>и </w><w lemma='strong:H891'>до </w><w lemma='strong:H5216 strong:H1722 strong:H3588'>вас </w><w lemma='strong:H2098 strong:H3588'>благовествованием </w><w lemma='strong:H5547'>Христовым </w>. </verse>
+        <verse osisID='2Cor.10.15'>Мы <w lemma='strong:H3756'>не </w><w lemma='strong:H1519 strong:H3588'>без </w><w lemma='strong:H280'>меры </w><w lemma='strong:H2744'>хвалимся </w><w lemma='strong:H1722'>, </w>не <w lemma='strong:H245'>чужими </w><w lemma='strong:H2873'>трудами </w>, <w lemma='strong:H1161'>но </w><w lemma='strong:H1680 strong:H2192'>надеемся </w>, с <w lemma='strong:H837 strong:H3588'>возрастанием </w><w lemma='strong:H4102'>веры </w><w lemma='strong:H5216'>вашей </w>, <w lemma='strong:H1519'>с </w><w lemma='strong:H4050'>избытком </w><w lemma='strong:H3170'>увеличить </w><w lemma='strong:H1722'>в </w><w lemma='strong:H5213 strong:H2596 strong:H3588'>вас </w><w lemma='strong:H2583'>удел </w><w lemma='strong:H2257'>наш </w>, </verse>
+        <verse osisID='2Cor.10.16'>
+          <w lemma='strong:H1519 strong:H3588'/>так чтобы и <w lemma='strong:H5238'>далее </w><w lemma='strong:H5216'>вас </w>проповедывать <w lemma='strong:H2097'>Евангелие </w>, а <w lemma='strong:H3756'>не </w><w lemma='strong:H2744'>хвалиться </w><w lemma='strong:H2092'>готовым </w><w lemma='strong:H1722'>в </w><w lemma='strong:H245'>чужом </w><w lemma='strong:H2583'>уделе </w>. </verse>
+        <verse osisID='2Cor.10.17'>
+          <w lemma='strong:H3588 strong:H1161'/>
+          <w lemma='strong:H2744'>Хвалящийся </w>
+          <w lemma='strong:H2744'>хвались </w>
+          <w lemma='strong:H1722'>о </w>
+          <w lemma='strong:H2962'>Господе </w>. </verse>
+        <verse osisID='2Cor.10.18'>
+          <w lemma='strong:H1063'>Ибо </w>
+          <w lemma='strong:H3756'>не </w>
+          <w lemma='strong:H1565 strong:H2076'>тот </w>
+          <w lemma='strong:H1384'>достоин </w>, <w lemma='strong:H3588'>кто </w>сам <w lemma='strong:H1438'>себя </w><w lemma='strong:H4921'>хвалит </w>, <w lemma='strong:H235'>но </w><w lemma='strong:H3739 strong:H3588'>кого </w><w lemma='strong:H4921'>хвалит </w><w lemma='strong:H2962'>Господь </w>. </verse>
+      </chapter>
+      <chapter osisID='2Cor.11'>
+        <verse osisID='2Cor.11.1'>О, <w lemma='strong:H3785'>если </w>бы вы <w lemma='strong:H3397'>несколько </w>были <w lemma='strong:H430'>снисходительны </w>к <w lemma='strong:H3450 strong:H3588'>моему </w><w lemma='strong:H877'>неразумию </w>! <w lemma='strong:H235'>Но </w>вы <w lemma='strong:H2532'>и </w><w lemma='strong:H430'>снисходите </w>ко <w lemma='strong:H3450'>мне </w>. </verse>
+        <verse osisID='2Cor.11.2'>
+          <w lemma='strong:H1063'>Ибо </w>я <w lemma='strong:H2206'>ревную </w>о <w lemma='strong:H5209'>вас </w><w lemma='strong:H2205'>ревностью </w><w lemma='strong:H2316'>Божиею </w>; потому <w lemma='strong:H1063'>что </w>я <w lemma='strong:H718'>обручил </w><w lemma='strong:H5209'>вас </w><w lemma='strong:H1520'>единому </w><w lemma='strong:H435'>мужу </w>, чтобы <w lemma='strong:H3936 strong:H3588'>представить </w><w lemma='strong:H5547'>Христу </w><w lemma='strong:H53'>чистою </w><w lemma='strong:H3933'>девою </w>. </verse>
+        <verse osisID='2Cor.11.3'>
+          <w lemma='strong:H1161'>Но </w>
+          <w lemma='strong:H5399'>боюсь </w>, <w lemma='strong:H3381'>чтобы </w>, <w lemma='strong:H5613 strong:H3588'>как </w><w lemma='strong:H3789 strong:H1722 strong:H3588'>змий </w><w lemma='strong:H3834'>хитростью </w><w lemma='strong:H846'>своею </w><w lemma='strong:H1818'>прельстил </w><w lemma='strong:H2096'>Еву </w>, <w lemma='strong:H3779'>так </w>и <w lemma='strong:H5216'>ваши </w><w lemma='strong:H3540 strong:H3588'>умы </w>не <w lemma='strong:H5351'>повредились </w>, уклонившись <w lemma='strong:H575 strong:H3588'>от </w><w lemma='strong:H572 strong:H3588'>простоты </w><w lemma='strong:H1519 strong:H3588'>во </w><w lemma='strong:H5547'>Христе </w>. </verse>
+        <verse osisID='2Cor.11.4'>
+          <w lemma='strong:H1063'>Ибо </w>
+          <w lemma='strong:H1487'>если </w>
+          <w lemma='strong:H3303'>бы </w>
+          <w lemma='strong:H3588'>кто </w>, <w lemma='strong:H2064'>придя </w>, начал <w lemma='strong:H2784'>проповедывать </w><w lemma='strong:H243'>другого </w><w lemma='strong:H2424'>Иисуса </w>, <w lemma='strong:H3739'>которого </w>мы <w lemma='strong:H3756'>не </w><w lemma='strong:H2784'>проповедывали </w>, <w lemma='strong:H2228'>или </w>если бы вы <w lemma='strong:H2983'>получили </w><w lemma='strong:H2087'>иного </w><w lemma='strong:H4151'>Духа </w>, <w lemma='strong:H3739'>которого </w><w lemma='strong:H3756'>не </w><w lemma='strong:H2983'>получили </w>, <w lemma='strong:H2228'>или </w><w lemma='strong:H2087'>иное </w><w lemma='strong:H2098'>благовестие </w>, <w lemma='strong:H3739'>которого </w><w lemma='strong:H3756'>не </w><w lemma='strong:H1209'>принимали </w>, - то вы были бы <w lemma='strong:H2573'>очень </w><w lemma='strong:H430'>снисходительны </w>к тому . </verse>
+        <verse osisID='2Cor.11.5'>
+          <w lemma='strong:H1063'>Но </w>я <w lemma='strong:H3049'>думаю </w>, что у меня ни в <w lemma='strong:H3367'>чем </w>нет <w lemma='strong:H5302 strong:H3588'>недостатка </w><w lemma='strong:H5228'>против </w><w lemma='strong:H3029'>высших </w><w lemma='strong:H652'>Апостолов </w>: </verse>
+        <verse osisID='2Cor.11.6'>
+          <w lemma='strong:H1487 strong:H1161'>хотя </w>я <w lemma='strong:H2532'>и </w><w lemma='strong:H2399'>невежда </w><w lemma='strong:H3588'>в </w><w lemma='strong:H3056'>слове </w>, <w lemma='strong:H235'>но </w><w lemma='strong:H3756'>не </w><w lemma='strong:H3588'>в </w><w lemma='strong:H1108'>познании </w>. <w lemma='strong:H235'>Впрочем </w>мы <w lemma='strong:H1722'>во </w><w lemma='strong:H3956'>всем </w><w lemma='strong:H3956 strong:H1722'>совершенно </w><w lemma='strong:H5319 strong:H1519'>известны </w><w lemma='strong:H5209'>вам </w>. </verse>
+        <verse osisID='2Cor.11.7'>
+          <w lemma='strong:H266'>Согрешил </w>
+          <w lemma='strong:H2228 strong:H4160'>ли </w>я тем, что <w lemma='strong:H5013'>унижал </w><w lemma='strong:H1683'>себя </w>, <w lemma='strong:H2443'>чтобы </w><w lemma='strong:H5312'>возвысить </w><w lemma='strong:H5210'>вас </w>, потому <w lemma='strong:H3754'>что </w><w lemma='strong:H1432 strong:H3588 strong:H3588'>безмездно </w><w lemma='strong:H2097'>проповедывал </w><w lemma='strong:H5213'>вам </w><w lemma='strong:H2098'>Евангелие </w><w lemma='strong:H2316'>Божие </w>? </verse>
+        <verse osisID='2Cor.11.8'>
+          <w lemma='strong:H243'>Другим </w>
+          <w lemma='strong:H1577'>церквам </w>я причинял <w lemma='strong:H4813'>издержки </w>, <w lemma='strong:H2983'>получая </w>от них <w lemma='strong:H3800'>содержание </w><w lemma='strong:H4314 strong:H3588'>для </w><w lemma='strong:H1248'>служения </w><w lemma='strong:H5216'>вам </w>; <w lemma='strong:H2532'>и </w>, <w lemma='strong:H3918'>будучи </w><w lemma='strong:H4314'>у </w><w lemma='strong:H5209'>вас </w>, <w lemma='strong:H2532'>хотя </w>терпел <w lemma='strong:H5302'>недостаток </w>, <w lemma='strong:H3762'>никому </w><w lemma='strong:H3756'>не </w><w lemma='strong:H2655'>докучал </w>, </verse>
+        <verse osisID='2Cor.11.9'>
+          <w lemma='strong:H3588'/>
+          <w lemma='strong:H1063'>ибо </w>
+          <w lemma='strong:H5303'>недостаток </w>
+          <w lemma='strong:H3450'>мой </w>
+          <w lemma='strong:H4322 strong:H3588'>восполнили </w>
+          <w lemma='strong:H80'>братия </w>, <w lemma='strong:H2064'>пришедшие </w><w lemma='strong:H575'>из </w><w lemma='strong:H3109'>Македонии </w>; да <w lemma='strong:H2532'>и </w><w lemma='strong:H1722'>во </w><w lemma='strong:H3956'>всем </w><w lemma='strong:H1683'>я </w><w lemma='strong:H5083'>старался </w><w lemma='strong:H2532'>и </w><w lemma='strong:H5083'>постараюсь </w>не быть <w lemma='strong:H5213'>вам </w>в <w lemma='strong:H4'>тягость </w>. </verse>
+        <verse osisID='2Cor.11.10'>
+          <w lemma='strong:H2076'>По </w>
+          <w lemma='strong:H225'>истине </w>
+          <w lemma='strong:H5547'>Христовой </w>
+          <w lemma='strong:H1722'>во </w>
+          <w lemma='strong:H1698'>мне </w>скажу , <w lemma='strong:H3754 strong:H3588'>что </w><w lemma='strong:H2746'>похвала </w><w lemma='strong:H3778'>сия </w><w lemma='strong:H3756'>не </w><w lemma='strong:H4972'>отнимется </w><w lemma='strong:H1519'>у </w><w lemma='strong:H1691'>меня </w><w lemma='strong:H1722 strong:H3588'>в </w><w lemma='strong:H2824 strong:H3588'>странах </w><w lemma='strong:H882'>Ахаии </w>. </verse>
+        <verse osisID='2Cor.11.11'>
+          <w lemma='strong:H1302'>Почему </w>же так поступаю ? <w lemma='strong:H3754'>Потому </w>ли, что <w lemma='strong:H3756'>не </w><w lemma='strong:H25'>люблю </w><w lemma='strong:H5209'>вас </w><w lemma='strong:H3588'>? </w><w lemma='strong:H2316'>Богу </w><w lemma='strong:H1492'>известно </w>! <w lemma='strong:H1161'>Но </w><w lemma='strong:H3739'>как </w><w lemma='strong:H4160'>поступаю </w>, так <w lemma='strong:H2532'>и </w>буду <w lemma='strong:H4160'>поступать </w>, </verse>
+        <verse osisID='2Cor.11.12'>
+          <w lemma='strong:H2443'>чтобы </w>не <w lemma='strong:H1581 strong:H3588'>дать </w><w lemma='strong:H874 strong:H3588'>повода </w><w lemma='strong:H2309'>ищущим </w><w lemma='strong:H874'>повода </w>, <w lemma='strong:H2443'>дабы </w><w lemma='strong:H1722'>они, </w><w lemma='strong:H3739'>чем </w><w lemma='strong:H2744'>хвалятся </w>, в том <w lemma='strong:H2147'>оказались </w>такими же , <w lemma='strong:H2531'>как </w><w lemma='strong:H2532'>и </w><w lemma='strong:H2249'>мы </w>. </verse>
+        <verse osisID='2Cor.11.13'>
+          <w lemma='strong:H3588'/>
+          <w lemma='strong:H1063'>Ибо </w>
+          <w lemma='strong:H5108'>таковые </w>
+          <w lemma='strong:H5570'>лжеапостолы </w>, <w lemma='strong:H1386'>лукавые </w><w lemma='strong:H2040'>делатели </w>, принимают <w lemma='strong:H3345 strong:H1519'>вид </w><w lemma='strong:H652'>Апостолов </w><w lemma='strong:H5547'>Христовых </w>. </verse>
+        <verse osisID='2Cor.11.14'>
+          <w lemma='strong:H2532'>И </w>
+          <w lemma='strong:H3756 strong:H2298'>неудивительно </w>: потому <w lemma='strong:H1063'>что </w><w lemma='strong:H846 strong:H3588'>сам </w><w lemma='strong:H4567'>сатана </w>принимает <w lemma='strong:H3345 strong:H1519'>вид </w><w lemma='strong:H32'>Ангела </w><w lemma='strong:H5457'>света </w>, </verse>
+        <verse osisID='2Cor.11.15'>а <w lemma='strong:H3767'>потому </w><w lemma='strong:H3756'>не </w><w lemma='strong:H3173'>великое </w>дело, <w lemma='strong:H1487'>если </w><w lemma='strong:H2532 strong:H3588'>и </w><w lemma='strong:H1249'>служители </w><w lemma='strong:H846'>его </w>принимают <w lemma='strong:H3345 strong:H5613'>вид </w><w lemma='strong:H1249'>служителей </w><w lemma='strong:H1343'>правды </w>; но <w lemma='strong:H5056 strong:H3588'>конец </w><w lemma='strong:H3739'>их </w><w lemma='strong:H2071'>будет </w><w lemma='strong:H2596 strong:H3588'>по </w><w lemma='strong:H2041'>делам </w><w lemma='strong:H846'>их </w>. </verse>
+        <verse osisID='2Cor.11.16'>
+          <w lemma='strong:H3825'>Еще </w>
+          <w lemma='strong:H3004'>скажу </w>: <w lemma='strong:H3361'>не </w><w lemma='strong:H1380'>почти </w><w lemma='strong:H5100'>кто-нибудь </w><w lemma='strong:H3165'>меня </w><w lemma='strong:H878 strong:H1511'>неразумным </w>; <w lemma='strong:H1161'>а </w><w lemma='strong:H1487'>если </w><w lemma='strong:H3361'>не </w>так, то <w lemma='strong:H1209'>примите </w><w lemma='strong:H3165'>меня </w>, <w lemma='strong:H2579'>хотя </w><w lemma='strong:H5613'>как </w><w lemma='strong:H878'>неразумного </w>, <w lemma='strong:H2443'>чтобы </w>и <w lemma='strong:H2504'>мне </w><w lemma='strong:H3397 strong:H5100'>сколько-нибудь </w><w lemma='strong:H2744'>похвалиться </w>. </verse>
+        <verse osisID='2Cor.11.17'>
+          <w lemma='strong:H3739'>Что </w>
+          <w lemma='strong:H2980'>скажу </w>, то <w lemma='strong:H2980'>скажу </w><w lemma='strong:H3756'>не </w><w lemma='strong:H2596'>в </w><w lemma='strong:H2962'>Господе </w>, <w lemma='strong:H235'>но </w><w lemma='strong:H5613'>как </w>бы <w lemma='strong:H1722'>в </w><w lemma='strong:H877'>неразумии </w><w lemma='strong:H1722'>при </w><w lemma='strong:H5026 strong:H3588'>такой </w><w lemma='strong:H5287'>отважности </w><w lemma='strong:H3588'>на </w><w lemma='strong:H2746'>похвалу </w>. </verse>
+        <verse osisID='2Cor.11.18'>
+          <w lemma='strong:H1893'>Как </w>
+          <w lemma='strong:H4183'>многие </w>
+          <w lemma='strong:H2744'>хвалятся </w>
+          <w lemma='strong:H2596 strong:H3588'>по </w>
+          <w lemma='strong:H4561'>плоти </w>, то и <w lemma='strong:H2504'>я </w>буду <w lemma='strong:H2744'>хвалиться </w>. </verse>
+        <verse osisID='2Cor.11.19'>
+          <w lemma='strong:H1063'>Ибо </w>вы, люди <w lemma='strong:H5429'>разумные </w>, <w lemma='strong:H2234'>охотно </w><w lemma='strong:H430 strong:H3588'>терпите </w><w lemma='strong:H878 strong:H5607'>неразумных </w>: </verse>
+        <verse osisID='2Cor.11.20'>вы <w lemma='strong:H430 strong:H1063'>терпите </w>, <w lemma='strong:H1487'>когда </w><w lemma='strong:H5100'>кто </w><w lemma='strong:H5209'>вас </w><w lemma='strong:H2615'>порабощает </w>, <w lemma='strong:H1487'>когда </w><w lemma='strong:H5100'>кто </w><w lemma='strong:H2719'>объедает </w>, <w lemma='strong:H1487'>когда </w><w lemma='strong:H5100'>кто </w><w lemma='strong:H2983'>обирает </w>, <w lemma='strong:H1487'>когда </w><w lemma='strong:H5100'>кто </w><w lemma='strong:H1869'>превозносится </w>, <w lemma='strong:H1487'>когда </w><w lemma='strong:H5100'>кто </w><w lemma='strong:H1194'>бьет </w><w lemma='strong:H5209'>вас </w><w lemma='strong:H1519'>в </w><w lemma='strong:H4383'>лицо </w>. </verse>
+        <verse osisID='2Cor.11.21'>
+          <w lemma='strong:H2596'>К </w>
+          <w lemma='strong:H819'>стыду </w>
+          <w lemma='strong:H3004'>говорю </w>
+          <w lemma='strong:H5613'>, </w>
+          <w lemma='strong:H3754'>что </w>на это у <w lemma='strong:H2249'>нас </w>недоставало <w lemma='strong:H770'>сил </w><w lemma='strong:H1722'>. </w><w lemma='strong:H1161'>А </w><w lemma='strong:H302'>если </w><w lemma='strong:H5100'>кто </w><w lemma='strong:H5111'>смеет </w>хвалиться <w lemma='strong:H3739'>чем-либо </w>, то, <w lemma='strong:H3004'>скажу </w><w lemma='strong:H1722'>по </w><w lemma='strong:H877'>неразумию </w>, <w lemma='strong:H5111'>смею </w>и <w lemma='strong:H2504'>я </w>. </verse>
+        <verse osisID='2Cor.11.22'>
+          <w lemma='strong:H1526'>Они </w>
+          <w lemma='strong:H1445'>Евреи </w>? и <w lemma='strong:H2504'>я </w>. <w lemma='strong:H2475 strong:H1526'>Израильтяне </w>? и <w lemma='strong:H2504'>я </w>. <w lemma='strong:H4690'>Семя </w><w lemma='strong:H11 strong:H1526'>Авраамово </w>? и <w lemma='strong:H2504'>я </w>. </verse>
+        <verse osisID='2Cor.11.23'>
+          <w lemma='strong:H5547'>Христовы </w>
+          <w lemma='strong:H1249 strong:H1526'>служители </w>? в <w lemma='strong:H3912'>безумии </w><w lemma='strong:H2980'>говорю </w>: <w lemma='strong:H1473'>я </w><w lemma='strong:H5228'>больше </w>. Я гораздо <w lemma='strong:H4056'>более </w>был <w lemma='strong:H1722'>в </w><w lemma='strong:H2873'>трудах </w>, <w lemma='strong:H5234'>безмерно </w><w lemma='strong:H1722'>в </w><w lemma='strong:H4127'>ранах </w>, <w lemma='strong:H4056'>более </w><w lemma='strong:H1722'>в </w><w lemma='strong:H5438'>темницах </w>и <w lemma='strong:H4178'>многократно </w><w lemma='strong:H1722'>при </w><w lemma='strong:H2288'>смерти </w>. </verse>
+        <verse osisID='2Cor.11.24'>
+          <w lemma='strong:H5259'>От </w>
+          <w lemma='strong:H2453'>Иудеев </w>пять <w lemma='strong:H3999'>раз </w><w lemma='strong:H2983'>дано </w>мне было по <w lemma='strong:H5062'>сорока </w>ударов <w lemma='strong:H3844'>без </w><w lemma='strong:H3391'>одного </w>; </verse>
+        <verse osisID='2Cor.11.25'>три <w lemma='strong:H5151'>раза </w>меня били <w lemma='strong:H4463'>палками </w>, <w lemma='strong:H530'>однажды </w>камнями <w lemma='strong:H3034'>побивали </w>, три <w lemma='strong:H5151'>раза </w>я терпел <w lemma='strong:H3489'>кораблекрушение </w>, ночь и <w lemma='strong:H3574'>день </w><w lemma='strong:H4160'>пробыл </w><w lemma='strong:H1722 strong:H3588'>во </w><w lemma='strong:H1037'>глубине </w>морской ; </verse>
+        <verse osisID='2Cor.11.26'>
+          <w lemma='strong:H4178'>много </w>раз был в <w lemma='strong:H3597'>путешествиях </w>, в <w lemma='strong:H2794'>опасностях </w>на <w lemma='strong:H4215'>реках </w>, в <w lemma='strong:H2794'>опасностях </w>от <w lemma='strong:H3027'>разбойников </w>, в <w lemma='strong:H2794'>опасностях </w><w lemma='strong:H1537'>от </w><w lemma='strong:H1085'>единоплеменников </w>, в <w lemma='strong:H2794'>опасностях </w><w lemma='strong:H1537'>от </w><w lemma='strong:H1484'>язычников </w>, в <w lemma='strong:H2794'>опасностях </w><w lemma='strong:H1722'>в </w><w lemma='strong:H4172'>городе </w>, в <w lemma='strong:H2794'>опасностях </w><w lemma='strong:H1722'>в </w><w lemma='strong:H2047'>пустыне </w>, в <w lemma='strong:H2794'>опасностях </w><w lemma='strong:H1722'>на </w><w lemma='strong:H2281'>море </w>, в <w lemma='strong:H2794'>опасностях </w><w lemma='strong:H1722'>между </w><w lemma='strong:H5569'>лжебратиями </w>, </verse>
+        <verse osisID='2Cor.11.27'>
+          <w lemma='strong:H1722'>в </w>
+          <w lemma='strong:H2873'>труде </w>
+          <w lemma='strong:H2532'>и </w>в <w lemma='strong:H3449'>изнурении </w>, <w lemma='strong:H4178'>часто </w><w lemma='strong:H1722'>в </w><w lemma='strong:H70'>бдении </w>, <w lemma='strong:H1722'>в </w><w lemma='strong:H3042'>голоде </w><w lemma='strong:H2532'>и </w><w lemma='strong:H1373'>жажде </w>, <w lemma='strong:H4178'>часто </w><w lemma='strong:H1722'>в </w><w lemma='strong:H3521'>посте </w>, <w lemma='strong:H1722'>на </w><w lemma='strong:H5592'>стуже </w><w lemma='strong:H2532'>и </w>в <w lemma='strong:H1132'>наготе </w>. </verse>
+        <verse osisID='2Cor.11.28'>
+          <w lemma='strong:H5565 strong:H3588'>Кроме </w>
+          <w lemma='strong:H3924'>посторонних </w>приключений <w lemma='strong:H3588'>, </w>у <w lemma='strong:H3450 strong:H3588 strong:H2596'>меня </w><w lemma='strong:H2250'>ежедневно </w><w lemma='strong:H1999'>стечение </w>людей <w lemma='strong:H3588'>, </w><w lemma='strong:H3308'>забота </w>о <w lemma='strong:H3956 strong:H3588'>всех </w><w lemma='strong:H1577'>церквах </w>. </verse>
+        <verse osisID='2Cor.11.29'>
+          <w lemma='strong:H5101'>Кто </w>
+          <w lemma='strong:H770'>изнемогает </w>, с кем бы <w lemma='strong:H2532'>и </w>я <w lemma='strong:H3756'>не </w><w lemma='strong:H770'>изнемогал </w>? <w lemma='strong:H5101'>Кто </w><w lemma='strong:H4624'>соблазняется </w><w lemma='strong:H2532'>, </w>за кого бы <w lemma='strong:H1473'>я </w><w lemma='strong:H3756'>не </w><w lemma='strong:H4448'>воспламенялся </w>? </verse>
+        <verse osisID='2Cor.11.30'>
+          <w lemma='strong:H1487'>Если </w>
+          <w lemma='strong:H1163'>должно </w>мне <w lemma='strong:H2744'>хвалиться </w><w lemma='strong:H3588 strong:H3588'>, </w>то буду <w lemma='strong:H2744'>хвалиться </w><w lemma='strong:H769'>немощью </w><w lemma='strong:H3450'>моею </w>. </verse>
+        <verse osisID='2Cor.11.31'>
+          <w lemma='strong:H3588'/>
+          <w lemma='strong:H2316'>Бог </w>
+          <w lemma='strong:H2532'>и </w>
+          <w lemma='strong:H3962 strong:H3588'>Отец </w>
+          <w lemma='strong:H2962'>Господа </w>
+          <w lemma='strong:H2257'>нашего </w>
+          <w lemma='strong:H2424'>Иисуса </w>
+          <w lemma='strong:H5547'>Христа </w>
+          <w lemma='strong:H3588 strong:H5607'>, </w>
+          <w lemma='strong:H2128'>благословенный </w>
+          <w lemma='strong:H1519 strong:H3588'>во </w>
+          <w lemma='strong:H165'>веки </w>, <w lemma='strong:H1492'>знает </w>, <w lemma='strong:H3754'>что </w>я <w lemma='strong:H3756'>не </w><w lemma='strong:H5574'>лгу </w>. </verse>
+        <verse osisID='2Cor.11.32'>
+          <w lemma='strong:H1722'>В </w>
+          <w lemma='strong:H1154 strong:H3588'>Дамаске </w>областной <w lemma='strong:H1481 strong:H3588'>правитель </w><w lemma='strong:H935'>царя </w><w lemma='strong:H702'>Ареты </w><w lemma='strong:H5432 strong:H3588'>стерег </w><w lemma='strong:H4172'>город </w><w lemma='strong:H1153'>Дамаск </w>, <w lemma='strong:H2309'>чтобы </w><w lemma='strong:H4084'>схватить </w><w lemma='strong:H3165'>меня </w>; </verse>
+        <verse osisID='2Cor.11.33'>
+          <w lemma='strong:H2532'>и </w>я <w lemma='strong:H1722'>в </w><w lemma='strong:H4553'>корзине </w>был <w lemma='strong:H5465'>спущен </w><w lemma='strong:H1223'>из </w><w lemma='strong:H2376'>окна </w><w lemma='strong:H1223 strong:H3588'>по </w><w lemma='strong:H5038'>стене </w><w lemma='strong:H2532'>и </w><w lemma='strong:H1628 strong:H3588'>избежал </w><w lemma='strong:H846'>его </w><w lemma='strong:H5495'>рук </w>. </verse>
+      </chapter>
+      <chapter osisID='2Cor.12'>
+        <verse osisID='2Cor.12.1'>
+          <w lemma='strong:H1211'/>
+          <w lemma='strong:H3756'>Не </w>
+          <w lemma='strong:H4851'>полезно </w>
+          <w lemma='strong:H2744'>хвалиться </w>
+          <w lemma='strong:H3427'>мне </w>, <w lemma='strong:H1063'>ибо </w>я <w lemma='strong:H2064'>приду </w><w lemma='strong:H1519'>к </w><w lemma='strong:H3701'>видениям </w><w lemma='strong:H2532'>и </w><w lemma='strong:H602'>откровениям </w><w lemma='strong:H2962'>Господним </w>. </verse>
+        <verse osisID='2Cor.12.2'>
+          <w lemma='strong:H1492'>Знаю </w>
+          <w lemma='strong:H444'>человека </w>
+          <w lemma='strong:H1722'>во </w>
+          <w lemma='strong:H5547'>Христе </w>, который <w lemma='strong:H4253'>назад </w>тому <w lemma='strong:H1180'>четырнадцать </w><w lemma='strong:H2094'>лет </w><w lemma='strong:H1722'>(в </w><w lemma='strong:H4983'>теле </w><w lemma='strong:H1535'>ли </w>- <w lemma='strong:H3756'>не </w><w lemma='strong:H1492'>знаю </w>, <w lemma='strong:H1622'>вне </w><w lemma='strong:H1535 strong:H3588'>ли </w><w lemma='strong:H4983'>тела </w>- <w lemma='strong:H3756'>не </w><w lemma='strong:H1492'>знаю </w><w lemma='strong:H3588'>: </w><w lemma='strong:H2316'>Бог </w><w lemma='strong:H1492'>знает </w>) восхищен <w lemma='strong:H726 strong:H3588 strong:H5108'>был </w><w lemma='strong:H2193'>до </w><w lemma='strong:H5154'>третьего </w><w lemma='strong:H3772'>неба </w>. </verse>
+        <verse osisID='2Cor.12.3'>
+          <w lemma='strong:H2532'>И </w>
+          <w lemma='strong:H1492'>знаю </w>
+          <w lemma='strong:H3588'>о </w>
+          <w lemma='strong:H5108'>таком </w>
+          <w lemma='strong:H444'>человеке </w>
+          <w lemma='strong:H1535'>( </w>только <w lemma='strong:H3756'>не </w><w lemma='strong:H1492'>знаю </w>- <w lemma='strong:H1722'>в </w><w lemma='strong:H4983'>теле </w>, <w lemma='strong:H1535'>или </w><w lemma='strong:H1622 strong:H3588'>вне </w><w lemma='strong:H4983'>тела </w><w lemma='strong:H3588'>: </w><w lemma='strong:H2316'>Бог </w><w lemma='strong:H1492'>знает </w>), </verse>
+        <verse osisID='2Cor.12.4'>
+          <w lemma='strong:H3754'>что </w>он был <w lemma='strong:H726'>восхищен </w><w lemma='strong:H1519 strong:H3588'>в </w><w lemma='strong:H3857'>рай </w><w lemma='strong:H2532'>и </w><w lemma='strong:H191'>слышал </w><w lemma='strong:H731'>неизреченные </w><w lemma='strong:H4487'>слова </w>, <w lemma='strong:H3739'>которых </w><w lemma='strong:H444'>человеку </w><w lemma='strong:H3756 strong:H1832'>нельзя </w><w lemma='strong:H2980'>пересказать </w>. </verse>
+        <verse osisID='2Cor.12.5'>
+          <w lemma='strong:H5228 strong:H3588'/>
+          <w lemma='strong:H5108'>Таким </w>человеком могу <w lemma='strong:H2744'>хвалиться </w><w lemma='strong:H5228'>; </w><w lemma='strong:H1683'>собою </w><w lemma='strong:H1161'>же </w><w lemma='strong:H3756'>не </w><w lemma='strong:H2744'>похвалюсь </w>, <w lemma='strong:H1487'>разве </w><w lemma='strong:H3361 strong:H1722 strong:H3588'>только </w><w lemma='strong:H769'>немощами </w><w lemma='strong:H3450'>моими </w>. </verse>
+        <verse osisID='2Cor.12.6'>
+          <w lemma='strong:H1063'>Впрочем </w>, <w lemma='strong:H1437'>если </w><w lemma='strong:H2309'>захочу </w><w lemma='strong:H2744'>хвалиться </w>, <w lemma='strong:H3756'>не </w><w lemma='strong:H2071'>буду </w><w lemma='strong:H878'>неразумен </w>, потому <w lemma='strong:H1063'>что </w><w lemma='strong:H2046'>скажу </w><w lemma='strong:H225'>истину </w>; <w lemma='strong:H1161'>но </w>я <w lemma='strong:H5339'>удерживаюсь </w>, чтобы <w lemma='strong:H5100'>кто </w><w lemma='strong:H3361'>не </w><w lemma='strong:H3049'>подумал </w><w lemma='strong:H1519'>о </w><w lemma='strong:H1691'>мне </w><w lemma='strong:H5228'>более </w>, нежели <w lemma='strong:H3739'>сколько </w>во <w lemma='strong:H3165'>мне </w><w lemma='strong:H991'>видит </w><w lemma='strong:H2228'>или </w><w lemma='strong:H191 strong:H5100'>слышит </w><w lemma='strong:H1537'>от </w><w lemma='strong:H1700'>меня </w>. </verse>
+        <verse osisID='2Cor.12.7'>
+          <w lemma='strong:H2532 strong:H3588'>И </w>
+          <w lemma='strong:H2443'>чтобы </w>я <w lemma='strong:H3361'>не </w><w lemma='strong:H5229'>превозносился </w><w lemma='strong:H5236 strong:H3588'>чрезвычайностью </w><w lemma='strong:H602'>откровений </w>, <w lemma='strong:H1325'>дано </w><w lemma='strong:H3427'>мне </w><w lemma='strong:H4647'>жало </w><w lemma='strong:H3588'>в </w><w lemma='strong:H4561'>плоть </w>, <w lemma='strong:H32'>ангел </w><w lemma='strong:H4566'>сатаны </w><w lemma='strong:H2443'>, </w><w lemma='strong:H2852'>удручать </w><w lemma='strong:H3165'>меня </w>, <w lemma='strong:H2443'>чтобы </w>я <w lemma='strong:H3361'>не </w><w lemma='strong:H5229'>превозносился </w>. </verse>
+        <verse osisID='2Cor.12.8'>
+          <w lemma='strong:H5151 strong:H3588'>Трижды </w>
+          <w lemma='strong:H3870'>молил </w>я <w lemma='strong:H2962'>Господа </w><w lemma='strong:H5228'>о </w><w lemma='strong:H5127'>том </w>, <w lemma='strong:H2443'>чтобы </w><w lemma='strong:H868'>удалил </w>его <w lemma='strong:H575'>от </w><w lemma='strong:H1700'>меня </w>. </verse>
+        <verse osisID='2Cor.12.9'>
+          <w lemma='strong:H2532'>Но </w>Господь <w lemma='strong:H2046'>сказал </w><w lemma='strong:H3427'>мне </w>: <w lemma='strong:H714'>"довольно </w>для <w lemma='strong:H4671 strong:H3588'>тебя </w><w lemma='strong:H5485'>благодати </w><w lemma='strong:H3450'>Моей </w><w lemma='strong:H3588'>, </w><w lemma='strong:H1063'>ибо </w><w lemma='strong:H1411'>сила </w><w lemma='strong:H3450'>Моя </w><w lemma='strong:H5048'>совершается </w><w lemma='strong:H1722'>в </w><w lemma='strong:H769'>немощи </w>". И <w lemma='strong:H3767'>потому </w>я <w lemma='strong:H3123'>гораздо </w><w lemma='strong:H2236'>охотнее </w>буду <w lemma='strong:H2744 strong:H1722 strong:H3588'>хвалиться </w><w lemma='strong:H3450'>своими </w><w lemma='strong:H769'>немощами </w>, <w lemma='strong:H2443'>чтобы </w><w lemma='strong:H1981'>обитала </w><w lemma='strong:H1909'>во </w><w lemma='strong:H1691 strong:H3588'>мне </w><w lemma='strong:H1411 strong:H3588'>сила </w><w lemma='strong:H5547'>Христова </w>. </verse>
+        <verse osisID='2Cor.12.10'>
+          <w lemma='strong:H1352'>Посему </w>я <w lemma='strong:H2106'>благодушествую </w><w lemma='strong:H1722'>в </w><w lemma='strong:H769'>немощах </w>, <w lemma='strong:H1722'>в </w><w lemma='strong:H5196'>обидах </w>, <w lemma='strong:H1722'>в </w><w lemma='strong:H318'>нуждах </w>, <w lemma='strong:H1722'>в </w><w lemma='strong:H1375'>гонениях </w>, <w lemma='strong:H1722'>в </w><w lemma='strong:H4730'>притеснениях </w><w lemma='strong:H5228'>за </w><w lemma='strong:H5547'>Христа </w>, <w lemma='strong:H1063'>ибо </w>, <w lemma='strong:H3752'>когда </w>я <w lemma='strong:H770'>немощен </w>, <w lemma='strong:H5119'>тогда </w><w lemma='strong:H1415 strong:H1510'>силен </w>. </verse>
+        <verse osisID='2Cor.12.11'>Я <w lemma='strong:H1096'>дошел </w>до <w lemma='strong:H878'>неразумия </w>, <w lemma='strong:H2744'>хвалясь </w>; <w lemma='strong:H5210'>вы </w><w lemma='strong:H3165'>меня </w>к сему <w lemma='strong:H315'>принудили </w>. <w lemma='strong:H5216'>Вам </w><w lemma='strong:H1063'>бы </w><w lemma='strong:H3784 strong:H5259'>надлежало </w><w lemma='strong:H4921'>хвалить </w><w lemma='strong:H1473'>меня </w>, <w lemma='strong:H1063'>ибо </w>у меня ни в <w lemma='strong:H3762'>чем </w>нет <w lemma='strong:H5302 strong:H3588'>недостатка </w>против <w lemma='strong:H5228 strong:H3029'>высших </w><w lemma='strong:H652'>Апостолов </w>, <w lemma='strong:H1487'>хотя </w>я <w lemma='strong:H2532'>и </w><w lemma='strong:H3762 strong:H1510'>ничто </w>. </verse>
+        <verse osisID='2Cor.12.12'>
+          <w lemma='strong:H3588 strong:H3303'/>
+          <w lemma='strong:H4592 strong:H3588'>Признаки </w>
+          <w lemma='strong:H652'>Апостола </w>
+          <w lemma='strong:H2716'>оказались </w>
+          <w lemma='strong:H1722'>перед </w>
+          <w lemma='strong:H5213 strong:H1722'>вами </w>
+          <w lemma='strong:H3956'>всяким </w>
+          <w lemma='strong:H5281'>терпением </w>
+          <w lemma='strong:H1722'>, </w>
+          <w lemma='strong:H4592'>знамениями </w>
+          <w lemma='strong:H2532'>, </w>
+          <w lemma='strong:H5059'>чудесами </w>
+          <w lemma='strong:H2532'>и </w>
+          <w lemma='strong:H1411'>силами </w>. </verse>
+        <verse osisID='2Cor.12.13'>
+          <w lemma='strong:H1063'>Ибо </w>
+          <w lemma='strong:H5101 strong:H2076 strong:H3739'>чего </w>у вас <w lemma='strong:H2274'>недостает </w><w lemma='strong:H5228 strong:H3588'>перед </w><w lemma='strong:H3062'>прочими </w><w lemma='strong:H1577'>церквами </w>, <w lemma='strong:H1487'>разве </w><w lemma='strong:H3361'>только </w>того, <w lemma='strong:H3754'>что </w><w lemma='strong:H846'>сам </w><w lemma='strong:H1473'>я </w><w lemma='strong:H3756'>не </w>был <w lemma='strong:H5216'>вам </w>в <w lemma='strong:H2655'>тягость </w>? <w lemma='strong:H5483'>Простите </w><w lemma='strong:H3427 strong:H3588'>мне </w><w lemma='strong:H5026'>такую </w><w lemma='strong:H93'>вину </w>. </verse>
+        <verse osisID='2Cor.12.14'>
+          <w lemma='strong:H2400'>Вот </w>, в третий <w lemma='strong:H5154'>раз </w>я <w lemma='strong:H2093 strong:H2192'>готов </w><w lemma='strong:H2064'>идти </w><w lemma='strong:H4314'>к </w><w lemma='strong:H5209'>вам </w>, <w lemma='strong:H2532'>и </w><w lemma='strong:H3756'>не </w>буду <w lemma='strong:H2655'>отягощать </w><w lemma='strong:H5216'>вас </w>, <w lemma='strong:H1063'>ибо </w>я <w lemma='strong:H2212'>ищу </w><w lemma='strong:H3756 strong:H3588'>не </w><w lemma='strong:H5216'>вашего </w>, <w lemma='strong:H235'>а </w><w lemma='strong:H5209'>вас </w>. <w lemma='strong:H3756 strong:H1063 strong:H3588'>Не </w><w lemma='strong:H5043'>дети </w><w lemma='strong:H3784'>должны </w>собирать <w lemma='strong:H2343'>имение </w><w lemma='strong:H3588'>для </w><w lemma='strong:H1118'>родителей </w>, <w lemma='strong:H235 strong:H3588'>но </w><w lemma='strong:H1118'>родители </w><w lemma='strong:H3588'>для </w><w lemma='strong:H5043'>детей </w>. </verse>
+        <verse osisID='2Cor.12.15'>
+          <w lemma='strong:H1473 strong:H1161'>Я </w>
+          <w lemma='strong:H2236'>охотно </w>буду <w lemma='strong:H1159'>издерживать </w>свое <w lemma='strong:H2532'>и </w><w lemma='strong:H1550'>истощать </w>себя <w lemma='strong:H5228 strong:H3588'>за </w><w lemma='strong:H5590'>души </w><w lemma='strong:H5216'>ваши </w>, <w lemma='strong:H1487'>несмотря </w>на то, <w lemma='strong:H2532'>что </w>, <w lemma='strong:H4056'>чрезвычайно </w><w lemma='strong:H25'>любя </w><w lemma='strong:H5209'>вас </w>, я <w lemma='strong:H2276'>менее </w><w lemma='strong:H25'>любим </w>вами. </verse>
+        <verse osisID='2Cor.12.16'>
+          <w lemma='strong:H2077 strong:H1161'>Положим </w>, что сам <w lemma='strong:H1473'>я </w><w lemma='strong:H3756'>не </w><w lemma='strong:H2599'>обременял </w><w lemma='strong:H5209'>вас </w>, <w lemma='strong:H235'>но </w>, <w lemma='strong:H5225'>будучи </w><w lemma='strong:H3835'>хитр </w>, <w lemma='strong:H1388'>лукавством </w><w lemma='strong:H2983'>брал </w>с <w lemma='strong:H5209'>вас </w>. </verse>
+        <verse osisID='2Cor.12.17'>Но <w lemma='strong:H4122'>пользовался </w><w lemma='strong:H3361'>ли </w>я чем от <w lemma='strong:H5209'>вас </w><w lemma='strong:H1223'>через </w><w lemma='strong:H3739'>кого </w><w lemma='strong:H5100'>-нибудь </w>из тех, <w lemma='strong:H846'>кого </w><w lemma='strong:H649'>посылал </w><w lemma='strong:H4314'>к </w><w lemma='strong:H5209'>вам </w>? </verse>
+        <verse osisID='2Cor.12.18'>Я <w lemma='strong:H3870'>упросил </w><w lemma='strong:H5103'>Тита </w><w lemma='strong:H2532'>и </w><w lemma='strong:H4882'>послал </w>с ним <w lemma='strong:H3588'>одного </w>из <w lemma='strong:H80'>братьев </w>: <w lemma='strong:H5103'>Тит </w><w lemma='strong:H4122'>воспользовался </w><w lemma='strong:H3361'>ли </w><w lemma='strong:H5100'>чем </w>от <w lemma='strong:H5209'>вас </w>? <w lemma='strong:H3756 strong:H3588'>Не </w>в <w lemma='strong:H846'>одном </w>ли <w lemma='strong:H4151'>духе </w>мы <w lemma='strong:H4043'>действовали </w>? <w lemma='strong:H3756 strong:H3588'>Не </w><w lemma='strong:H846'>одним </w>ли <w lemma='strong:H2487'>путем </w>ходили? </verse>
+        <verse osisID='2Cor.12.19'>Не <w lemma='strong:H1380'>думаете </w>ли <w lemma='strong:H3825'>еще </w>, <w lemma='strong:H3754'>что </w>мы только <w lemma='strong:H626'>оправдываемся </w>перед <w lemma='strong:H5213'>вами </w>? Мы <w lemma='strong:H2980'>говорим </w><w lemma='strong:H2714 strong:H3588'>пред </w><w lemma='strong:H2316'>Богом </w>, <w lemma='strong:H1722'>во </w><w lemma='strong:H5547'>Христе </w><w lemma='strong:H3588'>, </w><w lemma='strong:H1161'>и </w><w lemma='strong:H3956'>все </w>это, <w lemma='strong:H27'>возлюбленные </w>, <w lemma='strong:H5228 strong:H3588'>к </w><w lemma='strong:H5216'>вашему </w><w lemma='strong:H3619'>назиданию </w>. </verse>
+        <verse osisID='2Cor.12.20'>
+          <w lemma='strong:H1063'>Ибо </w>я <w lemma='strong:H5399'>опасаюсь </w>, <w lemma='strong:H3381'>чтобы </w>мне, по <w lemma='strong:H2064'>пришествии </w>моем, <w lemma='strong:H3756'>не </w><w lemma='strong:H2147'>найти </w><w lemma='strong:H5209'>вас </w>такими, <w lemma='strong:H3634'>какими </w>не <w lemma='strong:H2309'>желаю </w>, также чтобы и <w lemma='strong:H5213'>вам </w>не <w lemma='strong:H2147'>найти </w><w lemma='strong:H2504'>меня </w>таким, <w lemma='strong:H3634'>каким </w><w lemma='strong:H3756'>не </w><w lemma='strong:H2309'>желаете </w>: <w lemma='strong:H3381'>чтобы </w>не найти у вас <w lemma='strong:H2054'>раздоров </w>, <w lemma='strong:H2205'>зависти </w>, <w lemma='strong:H2372'>гнева </w>, <w lemma='strong:H2052'>ссор </w>, <w lemma='strong:H2636'>клевет </w>, <w lemma='strong:H5587'>ябед </w>, <w lemma='strong:H5450'>гордости </w>, <w lemma='strong:H181'>беспорядков </w>, </verse>
+        <verse osisID='2Cor.12.21'>чтобы <w lemma='strong:H3825'>опять </w>, когда <w lemma='strong:H2064'>приду </w>, <w lemma='strong:H3361'>не </w><w lemma='strong:H5013'>уничижил </w><w lemma='strong:H3165 strong:H3588'>меня </w><w lemma='strong:H4314'>у </w><w lemma='strong:H5209'>вас </w><w lemma='strong:H2316'>Бог </w><w lemma='strong:H3450'>мой </w><w lemma='strong:H2532'>и </w>чтобы не <w lemma='strong:H3996'>оплакивать </w>мне <w lemma='strong:H4183'>многих </w>, <w lemma='strong:H3588'>которые </w>согрешили <w lemma='strong:H4258'>прежде </w><w lemma='strong:H2532'>и </w><w lemma='strong:H3361'>не </w><w lemma='strong:H3340'>покаялись </w><w lemma='strong:H1909 strong:H3588'>в </w><w lemma='strong:H167'>нечистоте </w><w lemma='strong:H2532'>, </w><w lemma='strong:H4202'>блудодеянии </w><w lemma='strong:H2532'>и </w><w lemma='strong:H766'>непотребстве </w>, <w lemma='strong:H3739'>какое </w><w lemma='strong:H4238'>делали </w>. </verse>
+      </chapter>
+      <chapter osisID='2Cor.13'>
+        <verse osisID='2Cor.13.1'>В <w lemma='strong:H5154'>третий </w><w lemma='strong:H5124'>уже </w>раз <w lemma='strong:H2064'>иду </w><w lemma='strong:H4314'>к </w><w lemma='strong:H5209'>вам </w>. <w lemma='strong:H1909'>При </w><w lemma='strong:H4750'>устах </w><w lemma='strong:H1417'>двух </w><w lemma='strong:H2532'>или </w><w lemma='strong:H5140'>трех </w><w lemma='strong:H3144'>свидетелей </w>будет <w lemma='strong:H2476'>твердо </w><w lemma='strong:H3956'>всякое </w><w lemma='strong:H4487'>слово </w>. </verse>
+        <verse osisID='2Cor.13.2'>Я <w lemma='strong:H4280'>предварял </w><w lemma='strong:H2532'>и </w><w lemma='strong:H4302'>предваряю </w>, <w lemma='strong:H5613'>как </w>бы <w lemma='strong:H3918'>находясь </w>у вас <w lemma='strong:H3588'>во </w><w lemma='strong:H1208'>второй </w>раз, <w lemma='strong:H2532'>и </w><w lemma='strong:H3568'>теперь </w>, <w lemma='strong:H548'>отсутствуя </w>, <w lemma='strong:H1125 strong:H3588'>пишу </w>прежде <w lemma='strong:H4258'>согрешившим </w><w lemma='strong:H2532 strong:H3588'>и </w><w lemma='strong:H3956'>всем </w><w lemma='strong:H3062'>прочим </w>, <w lemma='strong:H3754'>что </w>, <w lemma='strong:H1437 strong:H1519 strong:H3588'>когда </w><w lemma='strong:H3825'>опять </w><w lemma='strong:H2064'>приду </w>, <w lemma='strong:H3756'>не </w><w lemma='strong:H5339'>пощажу </w>. </verse>
+        <verse osisID='2Cor.13.3'>
+          <w lemma='strong:H1893'/>Вы <w lemma='strong:H2212'>ищете </w><w lemma='strong:H1382'>доказательства </w>на <w lemma='strong:H3588'>то </w>, <w lemma='strong:H5547'>Христос </w>ли <w lemma='strong:H2980'>говорит </w><w lemma='strong:H1722'>во </w><w lemma='strong:H1698'>мне </w>: <w lemma='strong:H3739'>Он </w><w lemma='strong:H3756'>не </w><w lemma='strong:H770'>бессилен </w><w lemma='strong:H1519'>для </w><w lemma='strong:H5209'>вас </w>, <w lemma='strong:H235'>но </w><w lemma='strong:H1414'>силен </w><w lemma='strong:H1722'>в </w><w lemma='strong:H5213'>вас </w>. </verse>
+        <verse osisID='2Cor.13.4'>
+          <w lemma='strong:H2532'/>
+          <w lemma='strong:H1063'>Ибо </w>, <w lemma='strong:H1487'>хотя </w>Он и <w lemma='strong:H4717'>распят </w><w lemma='strong:H1537'>в </w><w lemma='strong:H769'>немощи </w>, <w lemma='strong:H235'>но </w><w lemma='strong:H2198 strong:H1537'>жив </w><w lemma='strong:H1411'>силою </w><w lemma='strong:H2316'>Божиею </w>; <w lemma='strong:H2532 strong:H1063'>и </w><w lemma='strong:H2249'>мы </w><w lemma='strong:H2532'>также </w>, хотя <w lemma='strong:H770'>немощны </w><w lemma='strong:H1722'>в </w><w lemma='strong:H846'>Нем </w>, <w lemma='strong:H235'>но </w>будем <w lemma='strong:H2198'>живы </w><w lemma='strong:H4862'>с </w><w lemma='strong:H846 strong:H1537'>Ним </w><w lemma='strong:H1411'>силою </w><w lemma='strong:H2316'>Божиею </w><w lemma='strong:H1519'>в </w><w lemma='strong:H5209'>вас </w>. </verse>
+        <verse osisID='2Cor.13.5'>
+          <w lemma='strong:H3985'>Испытывайте </w>самих <w lemma='strong:H1438'>себя </w>, <w lemma='strong:H1722 strong:H3588'>в </w><w lemma='strong:H4102'>вере </w><w lemma='strong:H1487'>ли </w><w lemma='strong:H2075'>вы </w>; самих <w lemma='strong:H1438'>себя </w><w lemma='strong:H1381'>исследывайте </w>. <w lemma='strong:H2228'>Или </w>вы <w lemma='strong:H3756'>не </w><w lemma='strong:H1921'>знаете </w>самих <w lemma='strong:H1438'>себя </w>, <w lemma='strong:H3754'>что </w><w lemma='strong:H2424'>Иисус </w><w lemma='strong:H5547'>Христос </w><w lemma='strong:H1722'>в </w><w lemma='strong:H5213 strong:H2076'>вас </w>? Разве <w lemma='strong:H1509'>только </w>вы не <w lemma='strong:H2075'>то </w>, чем <w lemma='strong:H96'>должны </w>быть. </verse>
+        <verse osisID='2Cor.13.6'>О нас <w lemma='strong:H1161'>же </w>, <w lemma='strong:H1679'>надеюсь </w><w lemma='strong:H3754'>, </w><w lemma='strong:H1097'>узнаете </w>, <w lemma='strong:H3754'>что </w><w lemma='strong:H2249 strong:H3756'>мы </w>то, чем <w lemma='strong:H2070'>быть </w><w lemma='strong:H96'>должны </w>. </verse>
+        <verse osisID='2Cor.13.7'>
+          <w lemma='strong:H2172 strong:H1161 strong:H4314 strong:H3588'>Молим </w>
+          <w lemma='strong:H2316'>Бога </w>, чтобы <w lemma='strong:H5209'>вы </w><w lemma='strong:H3361'>не </w><w lemma='strong:H4160'>делали </w><w lemma='strong:H3367'>никакого </w><w lemma='strong:H2556'>зла </w>, <w lemma='strong:H3756'>не </w>для того, <w lemma='strong:H2443'>чтобы </w><w lemma='strong:H2249'>нам </w><w lemma='strong:H5316'>показаться </w>, чем <w lemma='strong:H1384'>должны </w>быть; <w lemma='strong:H235'>но </w><w lemma='strong:H2443'>чтобы </w><w lemma='strong:H5210 strong:H3588'>вы </w><w lemma='strong:H4160'>делали </w><w lemma='strong:H2570'>добро </w>, <w lemma='strong:H1161'>хотя </w>бы <w lemma='strong:H2249 strong:H5613'>мы </w><w lemma='strong:H5600'>казались </w>и не тем, чем <w lemma='strong:H96'>должны </w>быть. </verse>
+        <verse osisID='2Cor.13.8'>
+          <w lemma='strong:H1063'>Ибо </w>мы <w lemma='strong:H3756'>не </w><w lemma='strong:H1410 strong:H5100'>сильны </w><w lemma='strong:H2596 strong:H3588'>против </w><w lemma='strong:H225'>истины </w>, <w lemma='strong:H235'>но </w>сильны <w lemma='strong:H5228 strong:H3588'>за </w><w lemma='strong:H225'>истину </w>. </verse>
+        <verse osisID='2Cor.13.9'>
+          <w lemma='strong:H2249'>Мы </w>
+          <w lemma='strong:H5463'>радуемся </w>
+          <w lemma='strong:H1063'>, </w>
+          <w lemma='strong:H3752'>когда </w>мы <w lemma='strong:H770'>немощны </w>, <w lemma='strong:H1161'>а </w><w lemma='strong:H5210'>вы </w><w lemma='strong:H1415 strong:H5600'>сильны </w>; о <w lemma='strong:H5124 strong:H1161'>сем-то </w><w lemma='strong:H2532'>и </w><w lemma='strong:H2172'>молимся </w>, <w lemma='strong:H3588'>о </w><w lemma='strong:H5216'>вашем </w><w lemma='strong:H2676'>совершенстве </w>. </verse>
+        <verse osisID='2Cor.13.10'>
+          <w lemma='strong:H1223'>Для </w>
+          <w lemma='strong:H5124'>того </w>я и <w lemma='strong:H1125'>пишу </w><w lemma='strong:H5023'>сие </w>в <w lemma='strong:H548'>отсутствии </w>, <w lemma='strong:H2443'>чтобы </w>в <w lemma='strong:H3918'>присутствии </w><w lemma='strong:H3361'>не </w><w lemma='strong:H5530'>употребить </w><w lemma='strong:H664'>строгости </w><w lemma='strong:H2596 strong:H3588'>по </w><w lemma='strong:H1849'>власти </w><w lemma='strong:H3739'>, </w><w lemma='strong:H1325'>данной </w><w lemma='strong:H3427 strong:H3588'>мне </w><w lemma='strong:H2962'>Господом </w><w lemma='strong:H1519'>к </w><w lemma='strong:H3619'>созиданию </w>, <w lemma='strong:H2532'>а </w><w lemma='strong:H3756'>не </w><w lemma='strong:H1519'>к </w><w lemma='strong:H2506'>разорению </w>. </verse>
+        <verse osisID='2Cor.13.11'>
+          <w lemma='strong:H3063'>Впрочем </w>, <w lemma='strong:H80'>братия </w>, <w lemma='strong:H5463'>радуйтесь </w>, <w lemma='strong:H2675'>усовершайтесь </w>, <w lemma='strong:H3870'>утешайтесь </w><w lemma='strong:H3588'>, </w>будьте <w lemma='strong:H846 strong:H5426'>единомысленны </w>, <w lemma='strong:H1514'>мирны </w>, - <w lemma='strong:H2532 strong:H3588'>и </w><w lemma='strong:H2316 strong:H3588'>Бог </w><w lemma='strong:H26'>любви </w><w lemma='strong:H2532'>и </w><w lemma='strong:H1515'>мира </w><w lemma='strong:H2071'>будет </w><w lemma='strong:H3326'>с </w><w lemma='strong:H5216'>вами </w>. </verse>
+        <verse osisID='2Cor.13.12'>
+          <w lemma='strong:H782'>Приветствуйте </w>друг <w lemma='strong:H240 strong:H1722'>друга </w><w lemma='strong:H5370'>лобзанием </w><w lemma='strong:H40'>святым </w>. <w lemma='strong:H782'>Приветствуют </w><w lemma='strong:H5209 strong:H3588'>вас </w><w lemma='strong:H3956'>все </w><w lemma='strong:H40'>святые </w>. </verse>
+        <verse osisID='2Cor.13.13'>
+          <w lemma='strong:H3588'/>
+          <w lemma='strong:H5485 strong:H3588'>Благодать </w>
+          <w lemma='strong:H2962'>Господа </w>нашего <w lemma='strong:H2424'>Иисуса </w><w lemma='strong:H5547'>Христа </w>, <w lemma='strong:H2532 strong:H3588'>и </w><w lemma='strong:H26 strong:H3588'>любовь </w><w lemma='strong:H2316'>Бога </w>Отца, <w lemma='strong:H2532 strong:H3588'>и </w><w lemma='strong:H2842 strong:H3588'>общение </w><w lemma='strong:H40'>Святого </w><w lemma='strong:H4151'>Духа </w><w lemma='strong:H3326'>со </w><w lemma='strong:H3956'>всеми </w><w lemma='strong:H5216'>вами </w>. </verse>
+        <verse osisID='2Cor.13.14'>
+          <w lemma='strong:H281'>Аминь </w>. </verse>
+      </chapter>
+    </div></osisText>
+</osis>

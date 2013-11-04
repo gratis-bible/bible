@@ -1,0 +1,990 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <osisText osisRefWork='Bible' osisIDWork='LXXE' xml:lang='en'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='LXXE'>
+        <title>Brenton's English Septuagint</title>
+        <contributor/>
+        <creator>Jens Grabner</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject>holy bible</subject>
+        <date>2009-01-20</date>
+        <description>
+
+Introduction
+~~~~~~~~~~~~
+
+  The Septuagint is the most ancient translation of the Old Testament into
+  Greek. The translators were likely Jews of the dispersion, living in
+  Alexandria, Egypt.
+
+  The beginning of the Jewish presence in Egypt is difficult to date
+  precisely. There may have been a Jewish colony there as early as the tenth
+  century BC, when Shishak (Shashanq) invaded Palestine and took treasures
+  from the temple and the king's palace (2 Chronicles 12.1-8). But certainly a
+  number of Jews lived in Egypt after the murder of Gedaliah (~586 BC), when
+  "the captains of the forces set out and went to Egypt; for they were afraid
+  of the Chaldeans" (2 Kings 25-26). Jeremiah, Baruch, and the princesses also
+  went into Egypt at that time, though Jeremiah prophecied that they would all
+  "perish by the sword and by famine, until not one is left" (Jeremiah 43.6,
+  44.27). One expects, on the basis of that prophecy, that this was not the
+  beginning of a permanent settlement. A lasting Jewish presence in Egypt can,
+  however, be definitely dated from the the time of the founding of the city
+  of Alexandria in 332 BC, when Alexander the Great granted them citizenship.
+
+  In time, the Jews in Alexandria lost familiarity with Hebrew, and spoke
+  Greek instead. It was natural, then, that they would require a translation
+  of the scriptures into Greek for public worship in the synagogues and for
+  private study. An account of the translation of the Septuagint is told in
+  The Letter of Aristeas, which claims that Demetrius Phalereus, who ran the
+  royal library in Alexandria, urged the king (Philadelphus (285-247 BC)) to
+  obtain a copy of the Jewish law for the library. Philadelphus sent a
+  deputation to the high priest Eleazar in Jerusalem, and the result was that
+  seventy-two elders arrived in Egypt with a copy of the Hebrew law written on
+  rolls of skins in golden letters. They were given accommodations on the
+  island of Pharos, and completed their translation in seventy-two days. The
+  same basic account is given in Aristobulus, Philo, and Josephus.
+
+  Even if the account given in the Letter of Aristeas is inaccurate, it seems
+  clear that the Hebrew Old Testament was available in Greek in Alexandria
+  before the birth of Christ. As Christianity began to spread, the Septuagint
+  was used with persuasive effect by Christian apologists - so well, in fact,
+  that in time the Jews of the dispersion replaced it with newer works. For
+  instance, a proselyte to Judaism named Aquila completed a extremely literal
+  translation of the Old Testament into Greek about the year 128. Other
+  translations were made by Theodotion of Ephesus and a certain Symmachus,
+  called an Ebionite, also in the second century.
+
+  The most ancient manuscripts of the complete (or nearly complete) Septuagint
+  are known as Vaticanus, Sinaiticus, and Alexandrinus. Vaticanus and
+  Sinaiticus have been dated to the mid-fourth century, and Alexandrinus to
+  the fifth. 
+
+  Based on an earlier Hebrew original, the Septuagint departs from the
+  Masoretic text* frequently. "The book of Jeremiah is noteworthy," for
+  instance, "in that the present Hebrew text differs substantially from the
+  Greek version (the Septuagint) in both content and order. Thus the
+  Septuagint omits several passages (e.g., 33.14-26) and combines the oracles
+  against foreign nations into a single section following 25.14, though in a
+  different order. In addition, there are many smaller differences from verse
+  to verse. Remarkably, among the portions of the text of Jeremiah in Hebrew
+  that are found among the Dead Sea Scrolls are not only those that reflect
+  the standard Hebrew text but also those that reflect the text tradition
+  represented by the Septuagint. It is likely, then, that these two text
+  traditions represent the contrasting editorial work on the book of Jeremiah
+  that took place in Egypt (the Septuagint tradition) and in Palestine or
+  Babylon (the traditional Hebrew text)." [Introduction to the book of
+  Jeremiah, The New Oxford Annotated Bible, page 960.] Around the end of the
+  first century, the Hebrew text was standardized to a form nearly identical
+  with the modern Masoretic text. Variant readings, such as those represented
+  in the Septuagint, were no longer transmitted in the Hebrew language. 
+
+      * The Masoretic text is the source from which modern translations intoEnglish are made. While the oldest complete manuscripts of theSeptuagint date from the fourth century, the oldest complete HebrewOld Testament, the Leningrad Codex, was copied in ~ 1008 A.D. ModernEnglish translations of the Old Testament rely primarily on theLeningrad Codex as published in the Hebraica Stuttgartensia. Forexamples of Septuagint departures from the Masoretic text supported bythe Dead Sea Scrolls, see the appendix.
+
+      * Another contrast between the Septuagint and the modern Hebrew OldTestament involves the canon of scripture. The Septuagint includesseveral books and sections of books absent from the modern Hebrewtext: 1 Esdras; Tobit; Judith; 1-3 Maccabees; the Wisdom of Solomon;the Wisdom of Sirach (Ecclesiasticus); Baruch; the Epistle ofJeremiah; The Song of the Three Children; Daniel and Susanna; Daniel,Bel and the Dragon; Additions to the Book of Esther; Psalm 151; andthe Prayer of Manasseh. The difference in content has been explainedin various ways. Perhaps the most straightforward account is that theJews of Alexandria had a relatively broad canon, which was generallyadopted by the Christians as they employed the Septuagint as their OldTestament. The Jews of Palestine, when they established their canonaround the turn of the first century at the council of Jamnia, mayhave been reiterating the position that had been more or less settledin Palestine for some time - though some books just made (Esther,Ecclesiastes, the Song of Solomon, and Ezekiel, for instance) ormissed (Sirach) the cut. The conflict with Christians may have servedas a catalyst to push the Jews of the dispersion into the Palestiniancamp. This article - concerned with the text of the books within theHebrew canon - will not address the controversy surrounding the OldTestament canon in any depth.
+
+  From the time of Jerome (early fifth century), Old Testament translations to
+  the vernacular in the West have used the Hebrew as the primary source - the
+  Septuagint has been relegated to a secondary role. (Incidentally, some are
+  under the mistaken impression - given by misleading language in the preface
+  to the 1899 edition - that the Douay Old Testament was translated from a
+  Latin text based on the Septuagint. Unfortunately, Jerome's Vulgate - apart
+  from the Psalms and the books then available only in Greek - by and large
+  follows the Hebrew text.) It is hoped that the reader will reconsider the
+  wisdom of this course of action, given the clear preference the New
+  Testament displays for Septuagint readings. Fortunately, a new English
+  translation of the Septuagint is being prepared for publication in 2004.
+
+  This article comprises two main sections. The first deals with the early
+  Church’s use of the Septuagint - particularly their sense that the Hebrew
+  text was unreliable. It begins with the discussion between Jerome and
+  Augustine regarding the former’s decision to craft his Latin translation
+  from the available Hebrew text, rather than from the Septuagint. It is from
+  Jerome’s fateful choice that the West derives its tradition of favoring the
+  Hebrew to the Greek. The second part of this article provides a detailed
+  comparison of the New Testament quotations from the Old. These were made to
+  assess the extent to which the New Testament authors depended on the
+  Septuagint instead of the Hebrew text. Conclusions are given in the The
+  Septuagint in the New Testament.
+
+    </description>
+        <publisher>FREE BIBLE SOFTWARE GROUP</publisher>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>LXXE</identifier>
+        <source>
+
+http://www.answersingenesis.org/OnlineBible/files/lxxe.exe
+
+The Septuagint LXX in English
+http://www.christianmedia.us/LXXE/
+
+The English Translation of the Septuagint Bible Online
+http://www.ecmarsh.com/lxx/    
+
+    </source>
+        <language type='IETF'>en</language>
+        <relation/>
+        <coverage>provide the bible to the world</coverage>
+        <rights>
+    
+      1851 Brenton's English Septuagint
+
+The Bible text designated LXXE is from an English
+translation of The Septuagint by Sir Lancelot 
+Charles Lee Brenton, originally published in 1851. 
+The electronic text is copyright 1988 by FABS 
+International, Inc. Footnotes, additions, and 
+corrections to the main text copyright 1999 by Larry 
+Nelson, Box 2083, Rialto, CA  92376. All rights 
+reserved. Used by permission.
+
+  </rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='2Kgs'>
+      <chapter osisID='2Kgs.1'>
+        <verse osisID='2Kgs.1.1'>And Moab <note>Gr. despised</note> repelled against Israel after the death of Achaab.</verse>
+        <verse osisID='2Kgs.1.2'>And Ochozias fell through the lattice that was in his upper chamber in Samaria and was sick; and he sent messengers, and said to them, Go and enquire of Baal fly, the god of Accaron, whether I shall recover of this my sickness. And they went to enquire of him.</verse>
+        <verse osisID='2Kgs.1.3'>And an angel of the Lord called Eliu the Thesbite, saying, Arise, and go to meet the messengers of Ochozias king of Samaria, and thou shalt say to them, Is it because there is no God in Israel, that ye go to enquire of Baal fly, the God of Accaron? but it shall not be so.</verse>
+        <verse osisID='2Kgs.1.4'>For thus saith the Lord, The bed on which thou art gone up, thou shalt not come down from it, for thou shalt surely die. And Eliu went, and said so to them.</verse>
+        <verse osisID='2Kgs.1.5'>And the messengers returned to him, and he said to them, Why have ye returned?</verse>
+        <verse osisID='2Kgs.1.6'>And they said to him, A man came up to meet us, and said to us, Go, return to the king that sent you, and say to him, Thus saith the Lord, Is it because there is no God in Israel, that thou goest to enquire of Baal fly, the God of Accaron? it shall not be so: the bed on which thou art gone up, thou shalt not come down from it, for thou shalt surely die.</verse>
+        <verse osisID='2Kgs.1.7'>So they returned and reported to the king as Eliu said: and he said to them, What was the manner of the man who went up to meet you, and spoke to you these words?</verse>
+        <verse osisID='2Kgs.1.8'>And they said to him, He was a hairy man, and girt with a leathern girdle about his loins. And he said, This is Eliu the Thesbite.</verse>
+        <verse osisID='2Kgs.1.9'>And he sent to him a captain of fifty and his fifty; and he went up to him: and, behold, Eliu sat on the top of a mountain. And the captain of fifty spoke to him, and said, O man of God, the king has called thee, come down.</verse>
+        <verse osisID='2Kgs.1.10'>And Eliu answered and said to the captain of fifty, And if I am a man of God, fire shall come down out of heaven, and devour thee and thy fifty. And fire came down out of heaven, and devoured him and his fifty.</verse>
+        <verse osisID='2Kgs.1.11'>And the king <note>Gr. added and sent</note> sent a second time to him another captain of fifty, and his fifty. And the captain of fifty spoke to him, and said, O man of God, thus says the king, Come down quickly.</verse>
+        <verse osisID='2Kgs.1.12'>And Eliu answered and spoke to him, and said, If I am a man of God, fire shall come down out of heaven, and devour thee and thy fifty. And fire came down out of heaven, and devoured him and his fifty.</verse>
+        <verse osisID='2Kgs.1.13'>And the king <note>Gr. added yet to send</note> sent yet again a captain and his fifty. And the third captain of fifty came, and knelt on his knees before Eliu, and entreated him, and spoke to him and said, O man of God, let my life, and the life of these fifty thy servants, be precious in thine eyes.</verse>
+        <verse osisID='2Kgs.1.14'>Behold, fire came down from heaven, and devoured the two first captains of fifty: and now, I pray, let my life be precious in thine eyes.</verse>
+        <verse osisID='2Kgs.1.15'>And the angel of the Lord spoke to Eliu, and said, Go down with him, be not afraid of them. And Eliu rose up, and went down with him to the king.</verse>
+        <verse osisID='2Kgs.1.16'>And Eliu spoke to him, and said, Thus saith the Lord, Why hast thou sent messengers to enquire of Baal fly, the god of Accaron? it shall not be so: the bed on which thou art gone up, thou shalt not come down from it, for thou shalt surely die.</verse>
+        <verse osisID='2Kgs.1.17'>So he died according to the word of the Lord which Eliu has spoken.</verse>
+        <verse osisID='2Kgs.1.18'>And the rest of the <note>Gr. words</note> acts of Ochozias which he did, behold, are they not written in the book of the chronicles of the kings of Israel? <note>(1:18AA)</note> and Joram son of Achaab reigns over Israel in Samaria twelve years beginning in the eighteenth year of Josaphat king of Juda: <note>(1:18BA)</note> and he did that which was evil in the sight of the Lord, only not as his brethren, nor as his mother: <note>(1:18CA)</note> and he removed the pillars of Baal which his father made, and broke them in pieces: only he was joined to the sins of the house of Jeroboam, who led Israel to sin; he departed not from them. <note>(1:18DA)</note> And the Lord was very angry with the house of Achaab.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.2'>
+        <verse osisID='2Kgs.2.1'>And it came to pass, when the Lord was going to take Eliu with a whirlwind as it were into heaven, that Eliu and Elisaie went out of Galgala.</verse>
+        <verse osisID='2Kgs.2.2'>And Eliu said to Elisaie, Stay here, I pray thee; for God has sent me to Baethel. And Elisaie said, <note>Gr. The Lord lives if, etc.</note> As the Lord lives and thy soul lives, I will not leave thee; so they came to Baethel.</verse>
+        <verse osisID='2Kgs.2.3'>And the sons of the prophets who were in Baethel came to Elisaie, and said to him, <note>Gr. if thou knowest</note> Dost thou know, that the Lord this day <note>Gr. takes</note> is going to take thy lord away from thy head? And he said, Yea, I know it; be silent.</verse>
+        <verse osisID='2Kgs.2.4'>And Eliu said to Elisaie, Stay here, I pray thee; for the Lord has sent me to Jericho. And he said, <note>Gr. The Lord lives if, etc.</note> As the Lord lives and thy soul lives, I will not leave thee. And they came to Jericho.</verse>
+        <verse osisID='2Kgs.2.5'>And the sons of the prophets who were in Jericho drew near to Elisaie, and said to him, <note>Gr. The Lord lives if, etc.</note> Dost thou know that the Lord is about to take away thy master to-day from thy head? And he said, Yea, I know it; hold your peace.</verse>
+        <verse osisID='2Kgs.2.6'>And Eliu said to him, Stay here, I pray thee, for the Lord has sent me to Jordan. And Elisaie said, As the Lord lives and thy soul lives, I will not leave thee: and they both went on.</verse>
+        <verse osisID='2Kgs.2.7'>And fifty men of the sons of the prophets went also, and they stood opposite afar off: and both stood on the bank of Jordan.</verse>
+        <verse osisID='2Kgs.2.8'>And Eliu took his mantle, and wrapped it together, and smote the water: and the water was divided on this side and on that side, and they both went over <note>Lit. «into the wilderness’</note> on dry ground.</verse>
+        <verse osisID='2Kgs.2.9'>And it came to pass while they were crossing over, that Eliu said to Elisaie, Ask what I shall do for thee before I am taken up from thee. And Elisaie said, Let there be, I pray thee, <note>Gr. double portions in thy spirit</note> a double portion of thy spirit upon me.</verse>
+        <verse osisID='2Kgs.2.10'>And Eliu said, Thou hast <note>Gr. hardened in asking</note> asked a hard thing: if thou shalt see me when I am taken up from thee, then shall it be so to thee; and if not, it shall not be so.</verse>
+        <verse osisID='2Kgs.2.11'>And it came to pass as they were going, they <note>Gr. went and talked</note> went on talking; and, behold, a chariot of fire, and horses of fire, and it separated between them both; and Eliu was taken up in a whirlwind as it were into heaven.</verse>
+        <verse osisID='2Kgs.2.12'>And Elisaie saw, and cried, Father, father, the chariot of Israel, and the horseman thereof! And he saw him no more: and he took hold of his garments, and rent them into two pieces.</verse>
+        <verse osisID='2Kgs.2.13'>And Elisaie took up the mantle of Eliu, which fell from off him upon Elisaie; and Elisaie returned, and stood upon the brink of Jordan;</verse>
+        <verse osisID='2Kgs.2.14'>and he took the mantle of Eliu, which fell from off him, and smote the water, and said, Where is the Lord God of Eliu? <note>The Gr. here copies the Heb. wh-Pa «he also’</note> and he smote the waters, and they were divided hither and thither; and Elisaie went over.</verse>
+        <verse osisID='2Kgs.2.15'>And the sons of the prophets who were in Jericho on the opposite side saw him, and said, The spirit of Eliu has rested upon Elisaie. And they came to meet him, and did obeisance to him to the ground.</verse>
+        <verse osisID='2Kgs.2.16'>And they said to him, Behold now, there are with thy servants fifty men <note>Gr. sons of strength; Hebraism</note> of strength: let them go now, and seek thy lord: <note>Gr. lest at any time</note> peradventure the Spirit of the Lord has taken him up, and cast him into Jordan, or on one of the mountains, or on one of the hills. And Elisaie said, Ye shall not send.</verse>
+        <verse osisID='2Kgs.2.17'>And they pressed him until he was ashamed; and he said, Send. And they sent fifty men, and sought three days, and found him not.</verse>
+        <verse osisID='2Kgs.2.18'>And they returned to him, for he dwelt in Jericho: and Elisaie said, Did I not say to you, Go not?</verse>
+        <verse osisID='2Kgs.2.19'>And the men of the city said to Elisaie, Behold, the situation of the city is good, as our lord sees; but the waters are bad, and the ground barren.</verse>
+        <verse osisID='2Kgs.2.20'>And Elisaie said, Bring me a new pitcher, and put salt in it. And they took one, and brought it to him.</verse>
+        <verse osisID='2Kgs.2.21'>And Elisaie went out to the spring of the waters, and cast salt therein, and says, Thus saith the Lord, I have healed these waters; there shall not be any longer death thence or barren land.</verse>
+        <verse osisID='2Kgs.2.22'>And the waters were healed until this day, according to the word of Elisaie which he spoke.</verse>
+        <verse osisID='2Kgs.2.23'>And he went up thence to Baethel: and as he was going up by the way there came up also little children from the city, and mocked him, and said to him, Go up, bald-head, go up.</verse>
+        <verse osisID='2Kgs.2.24'>And he turned after them, and saw them, and cursed them in the name of the Lord. And, behold, there came out two bears out of the wood, and they tore forty and two children of them.</verse>
+        <verse osisID='2Kgs.2.25'>And he went thence to mount Carmel, and returned thence to Samaria.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.3'>
+        <verse osisID='2Kgs.3.1'>And Joram the son of Achaab <note>Gr. reigned</note> began to reign in Israel in the eighteenth year of Josaphat king of Juda, and he reigned twelve years.</verse>
+        <verse osisID='2Kgs.3.2'>And he did that which was evil in the sight of the Lord, only not as his father, nor as his mother: and he removed the pillars of Baal which his father had made.</verse>
+        <verse osisID='2Kgs.3.3'>Only he adhered to the sin of Jeroboam the son of Nabat, who made Israel to sin; he departed not from it.</verse>
+        <verse osisID='2Kgs.3.4'>And Mosa king of Moab was a sheep-master, and he rendered to the king of Israel <note>Lit. in the rising up</note> in the beginning of the year, a hundred thousand lambs, and a hundred thousand rams, with the wool.</verse>
+        <verse osisID='2Kgs.3.5'>And it came to pass, after the death of Achaab, that the king of Moab <note>Gr. despised</note> rebelled against the king of Israel.</verse>
+        <verse osisID='2Kgs.3.6'>And king Joram went forth in that day out of Samaria, and numbered Israel.</verse>
+        <verse osisID='2Kgs.3.7'>And he went and sent to Josaphat king of Juda, saying, The king of Moab has rebelled against me: wilt thou go with me against Moab to war? And he said, I will go up: thou art as I, I am as thou; as my people, so is thy people, as my horses, so are thy horses.</verse>
+        <verse osisID='2Kgs.3.8'>And he said, What way shall I go up? and he said, The way of the wilderness of Edom.</verse>
+        <verse osisID='2Kgs.3.9'>And the king of Israel went, and the king of Juda, and the king of Edom: and <note>Gr. compassed a journey of seven days</note> they fetched a compass of seven days’ journey; and there was no water for the army, and for the cattle <note>Gr. at their feet</note> that went with them.</verse>
+        <verse osisID='2Kgs.3.10'>And the king of Israel said, Alas! that the Lord should have called the three kings on their way, to give them into the hand of Moab.</verse>
+        <verse osisID='2Kgs.3.11'>And Josaphat said, Is there not here a prophet of the Lord, <note>Gr. and we will</note> that we may enquire of the Lord by him? And one of the servants of the king of Israel answered and said, There is here Elisaie son of Saphat, who poured water on the hands of Eliu.</verse>
+        <verse osisID='2Kgs.3.12'>And Josaphat said, He has the word of the Lord. And the king of Israel, and Josaphat king of Juda, and the king of Edom, went down to him.</verse>
+        <verse osisID='2Kgs.3.13'>And Elisaie said to the king of Israel, What have I to do with thee? go to the prophets of thy father, and the prophets of thy mother. And the king of Israel said to him, <note>Gr. Is it that</note> Has the Lord called the three kings to deliver them into the hands of Moab?</verse>
+        <verse osisID='2Kgs.3.14'>And Elisaie said, As the Lord of hosts before whom I <note>Gr. stood</note> stand lives, unless I <note>Gr. regard</note> regarded the presence of Josaphat the king of Juda, I would not have looked on thee, nor seen thee.</verse>
+        <verse osisID='2Kgs.3.15'>And now fetch me a harper. And it came to pass, as the harper harped, that the hand of the Lord came upon him.</verse>
+        <verse osisID='2Kgs.3.16'>And he said, Thus saith the Lord, Make this <note>Lit. brook</note> valley full of trenches.</verse>
+        <verse osisID='2Kgs.3.17'>For thus saith the Lord, Ye shall not see wind, neither shall ye see rain, yet this valley shall be filled with water, and ye, and your <note>Lit. possessions</note> flocks, and your cattle shall drink.</verse>
+        <verse osisID='2Kgs.3.18'>And this is a light thing in the eyes of the Lord: I will also deliver Moab <note>Gr. in</note> into your hand.</verse>
+        <verse osisID='2Kgs.3.19'>And ye shall smite every strong city, and ye shall <note>Gr. throw donw</note> cut down every good tree, and ye shall stop all wells of water, and spoil every good piece of land with stones.</verse>
+        <verse osisID='2Kgs.3.20'>And it came to pass in the morning, when the sacrifice was <note>Gr. going up</note> offered, that, behold! waters came from the way of Edom, and the land was filled with water.</verse>
+        <verse osisID='2Kgs.3.21'>And all Moab heard that the three kings were come up to fight against them; and they cried out <note>Gr. from</note> on every side, even all that were girt with a girdle, <note>Alex. kai epana, «and above’</note> and they said, Ho! and stood upon the border.</verse>
+        <verse osisID='2Kgs.3.22'>And they rose early in the morning, and the sun rose upon the waters, and Moab saw the waters on the opposite side red as blood.</verse>
+        <verse osisID='2Kgs.3.23'>And they said, This is the blood of the sword; and the kings have fought, and each man has smitten his neighbour; now then to the spoils, Moab.</verse>
+        <verse osisID='2Kgs.3.24'>And they entered into the camp of Israel; and Israel arose and smote Moab, and they fled from before them; and they <note>Gr. went in, going in and smiting</note> went on and smote Moab as they went.</verse>
+        <verse osisID='2Kgs.3.25'>And they razed the cities, and cast every man his stone on every good piece of land and filled it; and they stopped every well, and <note>Gr. threw down</note> cut down every good tree, until they left only the stones of the wall cast down; and the slingers compassed the land, and smote it.</verse>
+        <verse osisID='2Kgs.3.26'>And the king of Moab saw that the battle prevailed against him; and he took with him seven hundred men that drew sword, to cut through to the king of Edom: and they could not.</verse>
+        <verse osisID='2Kgs.3.27'>And he took his eldest son whom he had designed to reign in his stead, and offered him up for a whole-burnt-offering on the walls. And there was a great <note>Gr. repentance</note> indignation against Israel; and they departed from him, and returned to their land.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.4'>
+        <verse osisID='2Kgs.4.1'>And one of the wives of the sons of the prophets cried to Elisaie, saying, Thy servant my husband is dead; and thou knowest that thy servant feared the Lord: and the creditor is come to take my two sons to be his servants.</verse>
+        <verse osisID='2Kgs.4.2'>And Elisaie said, What shall I do for thee? tell me what thou hast in the house. And she said, Thy servant has nothing in the house, except oil wherewith I <note>Gr. shall anoint</note> anoint myself.</verse>
+        <verse osisID='2Kgs.4.3'>And he said to her, Go, borrow for thyself vessels without of all thy neighbours, even empty vessels; borrow not a few.</verse>
+        <verse osisID='2Kgs.4.4'>And thou shalt go in and shut the door upon thee and upon thy sons, and thou shalt pour forth into these vessels, and remove that which is filled.</verse>
+        <verse osisID='2Kgs.4.5'>And she departed from him, and shut the door upon herself and upon her sons: they brought the vessels near to her, and she poured in until the vessels were filled.</verse>
+        <verse osisID='2Kgs.4.6'>And she said to her sons, Bring me yet a vessel. And they said to her, There is not a vessel more. And the oil stayed.</verse>
+        <verse osisID='2Kgs.4.7'>And she came and told the man of God: and Elisaie said, Go, and sell the oil, and thou shalt pay thy <note>Gr. interest, pl.</note> debts, and thou and thy sons shall live of the remaining oil.</verse>
+        <verse osisID='2Kgs.4.8'>And a day came, when Elisaie passed over to Soman, and there was a great lady there, and she constrained him to eat bread: and it came to pass as often as he went into the city, that he turned aside to eat there.</verse>
+        <verse osisID='2Kgs.4.9'>And the woman said to her husband, See now, I know that this is a holy man of God who comes over continually to us.</verse>
+        <verse osisID='2Kgs.4.10'>Let us now make for him an upper chamber, a small place; and let us put there for him a bed, and a table, and a stool, and a candlestick: and it shall come to pass that when he comes in to us, he shall <note>Or, turn aside</note> turn in thither.</verse>
+        <verse osisID='2Kgs.4.11'>And a day came, and he went in thither, and turned aside into the upper chamber, and lay there.</verse>
+        <verse osisID='2Kgs.4.12'>And he said to Giezi his servant, Call me this Somanite. and he called her, and she stood before him.</verse>
+        <verse osisID='2Kgs.4.13'>And he said to him, Say now to her, Behold, thou hast <note>Gr. been astonished with all this astonishment</note> taken all this trouble for us; what should I do for thee? Hast thou any <note>Gr. word or business</note> request to make to the king, or to the captain of the host? And she said, I dwell in the midst of my people.</verse>
+        <verse osisID='2Kgs.4.14'>And he said to Giezi, What must we do for her? and Giezi his servant said, Indeed she has no son, and her husband is old.</verse>
+        <verse osisID='2Kgs.4.15'>And he called her, and she stood by the door.</verse>
+        <verse osisID='2Kgs.4.16'>And Elisaie said to her, At this time next year, as the season is, thou shalt be alive, and embrace a son. And she said, Nay, my lord, do not lie to thy servant.</verse>
+        <verse osisID='2Kgs.4.17'>And the woman conceived, and bore a son at the very time, as the season was, being alive, as Elisaie said to her.</verse>
+        <verse osisID='2Kgs.4.18'>And the child grew: and it came to pass when he went out to his father to the reapers,</verse>
+        <verse osisID='2Kgs.4.19'>that he said to his father, My head, my head. and his father said to a servant, carry him to his mother.</verse>
+        <verse osisID='2Kgs.4.20'>And he carried him to his mother, and he lay upon her knees till noon, and died.</verse>
+        <verse osisID='2Kgs.4.21'>And she carried him up and laid him on the bed of the man of god; and she shut the door upon him, and went out.</verse>
+        <verse osisID='2Kgs.4.22'>And she called her husband, and said, Send now for me one of the young men, and one of the asses, and I will <note>Gr. run</note> ride quickly to the man of God, and return.</verse>
+        <verse osisID='2Kgs.4.23'>And he said, Why art thou going to him to-day? It is neither new moon, nor the Sabbath. And she said, <note>Gr. peace</note> It is well.</verse>
+        <verse osisID='2Kgs.4.24'>And she saddled the ass, and said to her servant, Be quick, proceed: spare not on my account to ride, unless I shall tell thee. Go, and thou shalt proceed, and come to the man of God to mount Carmel.</verse>
+        <verse osisID='2Kgs.4.25'>And she <note>Gr. went</note> rode and came to the man of God to the mountain: and it came to pass when Elisaie saw her coming, that he said to Giezi his servant, See now, that Somanite comes.</verse>
+        <verse osisID='2Kgs.4.26'>Now run to meet her, and thou shalt say, <note>Gr. peace</note> Is it well with thee? is it well with thy husband? is it well with the child? and she said, It is well.</verse>
+        <verse osisID='2Kgs.4.27'>And she came to Elisaie to the mountain, and laid hold of his feet; and Giezi drew near to thrust her away. And Elisaie said, Let her alone, for her soul is much grieved in her, and the Lord has hidden it from me, and has not told it me.</verse>
+        <verse osisID='2Kgs.4.28'>And she said, Did I ask a son of my lord? For did I not say, <note>Gr. Thou shalt not</note> Do not deal deceitfully with me?</verse>
+        <verse osisID='2Kgs.4.29'>And Elisaie said to Giezi, Gird up thy loins, and take my staff in thy hand, and go: if thou meet any man, thou shalt not <note>Gr. bless</note> salute him, and if a man salute thee thou shalt not answer him: and thou shalt lay my staff on the child’s face.</verse>
+        <verse osisID='2Kgs.4.30'>And the mother of the child said, As the Lord lives and as thy soul lives, I will not leave thee. And Elisaie arose, and went after her.</verse>
+        <verse osisID='2Kgs.4.31'>And Giezi went on before her, and laid his staff on the child’s face: but there was neither voice nor any hearing. So he returned to meet him, and told him, saying, The child is not awaked.</verse>
+        <verse osisID='2Kgs.4.32'>And Elisaie went into the house, and, behold, the dead child was laid upon his bed.</verse>
+        <verse osisID='2Kgs.4.33'>And Elisaie went into the house, and shut the door upon themselves, the two, and prayed to the Lord.</verse>
+        <verse osisID='2Kgs.4.34'>And he went up, and lay upon the child, and put his mouth upon his mouth, and his eyes upon his eyes, and his hands upon his hands; and bowed himself upon him, and the flesh of the child grew warm.</verse>
+        <verse osisID='2Kgs.4.35'>And he returned, and walked up and down in the house: and he went up, and bowed himself on the child seven times; and the child opened his eyes.</verse>
+        <verse osisID='2Kgs.4.36'>And Elisaie cried out to Giezi, and said, Call this Somanite. So he called her, and she came in to him: and Elisaie said, Take thy son.</verse>
+        <verse osisID='2Kgs.4.37'>And the woman went in, and fell at his feet, and did obeisance bowing to the ground; and she took her son, and went out.</verse>
+        <verse osisID='2Kgs.4.38'>And Elisaie returned to Galgala: and a famine was in the land; and the sons of the prophets sat before him: and Elisaie said to his servant, Set on the great pot, and boil pottage for the sons of the prophets.</verse>
+        <verse osisID='2Kgs.4.39'>And he went out into the field to gather herbs, and found a vine in the field, and gathered of it wild <note>Gr. sing. colocynth</note> gourds, his garment full; and he cast it into the caldron of pottage, for they knew them not.</verse>
+        <verse osisID='2Kgs.4.40'>And he poured it out for the men to eat: and it came to pass, when they were eating of the pottage, that lo! they cried out, and said, There is death in the pot, O man of God. And they could not eat.</verse>
+        <verse osisID='2Kgs.4.41'>And he said, Take meal, and cast it into the pot. And Elisaie said to his servant Giezi, Pour out for the people, and let them eat. And there was no longer there any hurtful thing in the pot.</verse>
+        <verse osisID='2Kgs.4.42'>And there came a man over from Baetharisa, and brought to the man of God twenty barley loaves and cakes of figs, of the first-fruits. And he said, Give to the people, and let them eat.</verse>
+        <verse osisID='2Kgs.4.43'>And his servant said, Why should I set this before a hundred men? and he said, Give to the people, and let them eat; for thus saith the Lord, They shall eat and leave.</verse>
+        <verse osisID='2Kgs.4.44'>And they ate and left, according to the word of the Lord.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.5'>
+        <verse osisID='2Kgs.5.1'>Now Naiman, the captain of the host of Syria, was a great man before his master, and <note>Gr. wondered at in countenance</note> highly respected, because by him the Lord had given deliverance to Syria, and the man was mighty in strength, but a leper.</verse>
+        <verse osisID='2Kgs.5.2'>And the Syrians went forth <note>Gr. light armed, etc.</note> in small bands, and took captive out of the land of Israel a little maid: and she <note>Gr. was before</note> waited on Naiman’s wife.</verse>
+        <verse osisID='2Kgs.5.3'>And she said to her mistress, O that my lord were before the prophet of God in Samaria; then he <note>Gr. will detach him</note> would recover him from his leprosy.</verse>
+        <verse osisID='2Kgs.5.4'>And she went in and told her lord, and said, Thus and thus spoke the maid from the land of Israel.</verse>
+        <verse osisID='2Kgs.5.5'>And the king of Syria said to Naiman, Go to, go, and I will send a letter to the king of Israel. And he went, and took in his hand ten talents of silver, and six thousand pieces of gold, and ten <note>Gr. changing robes</note> changes of raiment.</verse>
+        <verse osisID='2Kgs.5.6'>And he brought the letter to the king of Israel, saying, Now then, as soon as this letter shall reach thee, behold, I have sent to thee my servant Naiman, and thou shalt recover him from his leprosy.</verse>
+        <verse osisID='2Kgs.5.7'>And it came to pass, when the king of Israel read the letter, that he rent his garments, and said, Am I God, to kill and to make alive, that this man sends to me to recover a man of his leprosy? consider, however, I pray you, and see that this man seeks an occasion against me.</verse>
+        <verse osisID='2Kgs.5.8'>And it came to pass, when Elisaie heard that the king of Israel had rent his garments, that he sent to the king of Israel, saying, Wherefore hast thou rent thy garments? Let Naiman, I pray thee, come to me, and let him know that there is a prophet in Israel.</verse>
+        <verse osisID='2Kgs.5.9'>So Naiman came with horse and chariot, and stood at the door of the house of Elisaie.</verse>
+        <verse osisID='2Kgs.5.10'>And Elisaie sent a messenger to him, saying, Go and wash seven times in Jordan, and thy flesh shall return to thee, and thou shalt be cleansed.</verse>
+        <verse osisID='2Kgs.5.11'>And Naiman was angry, and departed, and said, Behold, I said, He will by all means come out to me, and stand, and call on the name of his God, and lay his hand upon the place, and recover the leper.</verse>
+        <verse osisID='2Kgs.5.12'>Are not the Abana and Pharphar, rivers of Damascus, better than all the waters of Israel? <note>Gr. shall I not, etc.</note> may I not go and wash in them, and be cleansed? and he turned and went away in a rage.</verse>
+        <verse osisID='2Kgs.5.13'>And his servants came near and said to him, Suppose the prophet had spoken a great thing to thee, <note>Gr. wilt thou</note> wouldest thou not perform it? yet he has but said to thee, Wash, and be cleansed.</verse>
+        <verse osisID='2Kgs.5.14'>So Naiman went down, and dipped himself seven times in Jordan, according to the word of Elisaie: and his flesh returned to him as the flesh of a little child, and he was cleansed.</verse>
+        <verse osisID='2Kgs.5.15'>And he and all his <note>Gr. army or camp</note> company returned to Elisaie, and he came and stood before him, and said, Behold, I know that there is no God in all the earth, save only in Israel: and now receive a blessing of thy servant.</verse>
+        <verse osisID='2Kgs.5.16'>And Elisaie said, As the Lord lives, before whom I stand, I will not take one. And he pressed him to take one: but he would not.</verse>
+        <verse osisID='2Kgs.5.17'>And Naiman said, Well then, if not, let there be given to thy servant, I pray thee, the load of a yoke of mules; and thou shalt give me of the red earth: for henceforth thy servant will not offer whole-burnt-offering or sacrifice to other gods, but only to the Lord <note>Probably this last clause belongs to verse 18</note> by reason of this thing.</verse>
+        <verse osisID='2Kgs.5.18'>And l <note>Or, The Lord shall be, etc.</note> let the Lord be propitious to thy servant when my master goes into the house of Remman to worship there, and he shall lean on my hand, and I shall bow down in the house of Remman when he bows down in the house of Remman; even let the Lord, I pray, be merciful to thy servant in this matter.</verse>
+        <verse osisID='2Kgs.5.19'>And Elisaie said to Naiman, Go in peace. And he departed from him a little way.</verse>
+        <verse osisID='2Kgs.5.20'>And Giezi the servant of Elisaie said, Behold, my Lord has spared this Syrian Naiman, so as not to take of his hand what he has brought: as the Lord lives, I will surely run after him, and take somewhat of him.</verse>
+        <verse osisID='2Kgs.5.21'>So Giezi followed after Naiman: and Naiman saw him running after him, and turned back from his chariot to meet him. <note>Alex. +’Is all well?’</note></verse>
+        <verse osisID='2Kgs.5.22'>And Giezi said, All is well: my master has sent me, saying, Behold, now are there come to me two young men of the sons of the prophets from mount Ephraim; give them, I pray thee, a talent of silver, and two <note>Gr. changing robes</note> changes of raiment.</verse>
+        <verse osisID='2Kgs.5.23'>And Naiman said, Take two talents of silver. And he took two talents of silver in two bags, and two changes of raiment, and <note>Gr. gave</note> put them upon two of his servants, and they bore them before him.</verse>
+        <verse osisID='2Kgs.5.24'>And he came to <note>Gr. a dark place, or the dark</note> a secret place, and took them from their hands, and laid them up in the house, and dismissed the men.</verse>
+        <verse osisID='2Kgs.5.25'>And he went in himself and stood before his master; and Elisaie said to him,</verse>
+        <verse osisID='2Kgs.5.26'>Whence comest thou, Giezi? and Giezi said, Thy servant has not been hither or thither. And Elisaie said to him, Went not my heart with thee, when the man returned from his chariot to meet thee? and now thou hast received silver, and now thou hast received raiment, and olive yards, and vineyards, and sheep, and oxen, and menservants, and maidservants.</verse>
+        <verse osisID='2Kgs.5.27'>The leprosy also of Naiman shall cleave to thee, and to thy seed for ever. And he went out from his presence leprous, like snow.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.6'>
+        <verse osisID='2Kgs.6.1'>And the sons of the prophets said to Elisaie, Behold now, the place wherein we dwell before thee is too narrow for us.</verse>
+        <verse osisID='2Kgs.6.2'>Let us go, we pray thee, unto Jordan, and take thence every man a beam, and make for ourselves a <note>Gr. a place of inhabiting</note> habitation there.</verse>
+        <verse osisID='2Kgs.6.3'>And he said, Go. And one of them said gently, Come with thy servants. And he said, I will go.</verse>
+        <verse osisID='2Kgs.6.4'>And he went with them, and they came to Jordan, and began to cut down <note>Or, trees</note> wood.</verse>
+        <verse osisID='2Kgs.6.5'>And behold, one was cutting down a beam, and the <note>Gr. iron</note> axe head fell into the water: and he cried out, Alas! master: and it was hidden.</verse>
+        <verse osisID='2Kgs.6.6'>And the man of God said, Where did it fall? and he shewed him the place: and he <note>Lit. pinched off with the nail, etc.</note> broke off a stick, and threw it in there, and the iron came to the surface.</verse>
+        <verse osisID='2Kgs.6.7'>And he said, Take it up to thyself. And he stretched out his hand, and took it.</verse>
+        <verse osisID='2Kgs.6.8'>And the king of Syria was at war with Israel: and he consulted with his servants, saying, I will encamp in such a place.</verse>
+        <verse osisID='2Kgs.6.9'>And Elisaie sent to the king of Israel, saying, Take heed that thou pass not by <note>Gr. this</note> that place, for the Syrians are hidden there.</verse>
+        <verse osisID='2Kgs.6.10'>And the king of Israel sent to the place which Elisaie mentioned to him, and saved himself thence not once or twice.</verse>
+        <verse osisID='2Kgs.6.11'>And the mind of the king of Syria was very much disturbed concerning this thing; and he called his servants, and said to them, Will ye not tell me who betrays me to the king of Israel?</verse>
+        <verse osisID='2Kgs.6.12'>And one of his servants said, Nay, my Lord, O king, for Elisaie the prophet that is in Israel reports to the king of Israel all the words whatsoever thou mayest say in thy <note>Gr. closet of thy bedchamber</note> bedchamber.</verse>
+        <verse osisID='2Kgs.6.13'>And he said, Go, see where this man is, and I will send and take him. And they sent word to him, saying, Behold, he is in Dothaim.</verse>
+        <verse osisID='2Kgs.6.14'>And he sent thither horses, and chariots, and a mighty host: and they came by night, and compassed about the city.</verse>
+        <verse osisID='2Kgs.6.15'>And the servant of Elisaie <note>Gr. was early to rise</note> rose up early and went out; and, behold, a host compassed the city, and horses and chariots: and the servant said to him, O master, <note>Gr. how shall we do?</note> what shall we do?</verse>
+        <verse osisID='2Kgs.6.16'>And Elisaie said, Fear not, for they who are with us are more than they that are with them.</verse>
+        <verse osisID='2Kgs.6.17'>And Elisaie prayed, and said, Lord, open, I pray thee, the eyes of the servant, and let him see. And the Lord opened his eyes, and he saw: and, behold, the mountain was full of horses, and there were chariots of fire round about Elisaie.</verse>
+        <verse osisID='2Kgs.6.18'>And they came down to him; and he prayed to the Lord, and said, Smite, I pray thee, this <note>Gr. nation</note> people with blindness. And he smote them with blindness, according to the word of Elisaie.</verse>
+        <verse osisID='2Kgs.6.19'>And Elisaie said to them, This is not the city, and this is not the way: follow me, and I will bring you to the man whom ye seek. And he led them away to Samaria.</verse>
+        <verse osisID='2Kgs.6.20'>And it came to pass when they entered into Samaria, that Elisaie said, Open, I pray thee, O Lord, their eyes, and let them see. And the Lord opened their eyes, and they saw; and, behold, they were in the midst of Samaria.</verse>
+        <verse osisID='2Kgs.6.21'>And the king of Israel said to Elisaie, when he saw them, Shall I not verily smite them, my father?</verse>
+        <verse osisID='2Kgs.6.22'>And he said, Thou shalt not smite them, unless thou <note>Gr. smitest</note> wouldest smite those whom thou hast taken captive with thy sword and with thy bow: set bread and water before them, and let them eat and drink, and depart to their master.</verse>
+        <verse osisID='2Kgs.6.23'>And he set before them a great feast, and they ate and drank: and he dismissed them and they departed to their master. And the bands of Syria came no longer into the land of Israel.</verse>
+        <verse osisID='2Kgs.6.24'>And it came to pass after this, that the son of Ader king of Syria gathered all his army, and went up, and besieged Samaria.</verse>
+        <verse osisID='2Kgs.6.25'>And there was a great famine in Samaria: and, behold, they besieged it, until an ass’s head was valued at fifty pieces of silver, and the fourth part of a cab of dove’s dung at five pieces of silver.</verse>
+        <verse osisID='2Kgs.6.26'>And the king of Israel was passing by on the wall, and a woman cried to him, saying, Help, my lord, O king.</verse>
+        <verse osisID='2Kgs.6.27'>And he said to her, Unless the Lord help thee, whence shall I help thee? from the corn-floor, or from the wine-press?</verse>
+        <verse osisID='2Kgs.6.28'>And the king said to her, What is the matter with thee? And the woman said to him, This woman said to me, Give thy son, and we will eat him to-day, and we will eat my son to-morrow.</verse>
+        <verse osisID='2Kgs.6.29'>So we boiled my son, and ate him; and I said to her on the second day, Give thy son, and let us eat him: and she has hidden her son.</verse>
+        <verse osisID='2Kgs.6.30'>And it came to pass, when the king of Israel heard the words of the woman, that he rent his garments; and he passed by on the wall, and the people saw sackcloth within upon his flesh.</verse>
+        <verse osisID='2Kgs.6.31'>And he said, God <note>Gr. do these things to me and add these things</note> do so to me and more also, if the head of Elisaie shall stand upon him this day.</verse>
+        <verse osisID='2Kgs.6.32'>And Elisaie was sitting in his house, and the elders were sitting with him; and the king sent a man before him: before the messenger came to him, he also said to the elders, Do ye see that this son of a murderer has sent to take away my head? See, as soon as the messenger shall have come, shut the door, and forcibly detain him at the door: is not the sound of his master’s feet behind him?</verse>
+        <verse osisID='2Kgs.6.33'>While he was yet speaking with them, behold, a messenger came to him: and he said, Behold, this evil is of the Lord; why should I wait for the Lord any longer?</verse>
+      </chapter>
+      <chapter osisID='2Kgs.7'>
+        <verse osisID='2Kgs.7.1'>And Elisaie said, Hear thou the word of the Lord; Thus saith the Lord, <note>Gr. As is this, etc.</note> As at this time, to-morrow a measure of fine flour shall be sold for a shekel, and two measures of barley for a shekel, in the gates of Samaria.</verse>
+        <verse osisID='2Kgs.7.2'>And the officer on whose hand the king rested, answered Elisaie, and said, Behold, if the Lord shall make flood-gates in heaven, <note>Gr. shall</note> might this thing be? and Elisaie said, Behold, thou shalt see with thine eyes, but shalt not eat thereof.</verse>
+        <verse osisID='2Kgs.7.3'>And there were four leprous men by the gate of the city: and one said to his neighbour, Why sit we here until we die?</verse>
+        <verse osisID='2Kgs.7.4'>If we should say, Let us go into the city, then there is famine in the city, and we shall die there: and if we sit here, then we shall die. Now then come, and let us fall upon the camp of the Syrians: if they should take us alive, then we shall live; and if they should put us to death, then we shall only die.</verse>
+        <verse osisID='2Kgs.7.5'>And they rose up <note>Gr. in the dark</note> while it was yet night, to go into the camp of Syria; and they came into a part of the camp of Syria, and behold, there <note>Gr. is</note> was no man there.</verse>
+        <verse osisID='2Kgs.7.6'>
+          <note>Gr. and</note> For the Lord had made the army of Syria to hear a sound of chariots, and a sound of horses, even the sound of a great host: and each man said to his fellow, Now has the king of Israel hired against us the kings of the Chettites, and the kings of Egypt, to come against us.</verse>
+        <verse osisID='2Kgs.7.7'>And they arose and fled while it was yet dark, and left their tents, and their horses, and their asses in the camp, <note>Gr. as it is</note> as they were, and fled <note>Gr. to their life</note> for their lives.</verse>
+        <verse osisID='2Kgs.7.8'>And these lepers entered a little way into the camp, and went into one tent, and ate and drank, and took thence silver, and gold, and raiment; and they went and returned thence, and entered into another tent, and took thence, and went and hid the spoil.</verse>
+        <verse osisID='2Kgs.7.9'>And one man said to his neighbour, We are not doing well thus: this day is a day of glad tidings, and we hold our peace, and are waiting till the morning light, and shall find mischief: now them come, and let us go into the city, and report to the house of the king.</verse>
+        <verse osisID='2Kgs.7.10'>So they <note>Gr. went in</note> went and cried toward the gate of the city, and reported to them, saying, We went into the camp of Syria, and, behold, there is not there a man, nor voice of man, only <note>Gr. horse</note> horses tied and <note>Gr. ass</note> asses, and their tents as they were.</verse>
+        <verse osisID='2Kgs.7.11'>And the porters cried aloud, and reported to the house of the king within.</verse>
+        <verse osisID='2Kgs.7.12'>And the king rose up by night, and said to his servants, I will now tell you what the <note>Gr. Syria</note> Syrians have done to us. They knew that we are hungry; and they have gone forth from the camp and hidden themselves in the field, saying, They will come out of the city, and we shall catch them alive, and go into the city.</verse>
+        <verse osisID='2Kgs.7.13'>And one of his servants answered and said, Let them now take five of the horses that were left, which were left here; behold, they are the number left to all the multitude of Israel; and we will send thither and see.</verse>
+        <verse osisID='2Kgs.7.14'>So they took two horsemen; and the king of Israel sent after the king of Syria, saying, Go, and see.</verse>
+        <verse osisID='2Kgs.7.15'>And they went after them even to Jordan: and, behold, all the way was full of garments and vessels, which the Syrians had cast away in their panic. and the messengers returned, and brought word to the king.</verse>
+        <verse osisID='2Kgs.7.16'>And the people went out, and plundered the camp of Syria: and a measure of fine flour was sold for a shekel, according to the word of the Lord, and two measures of barley for a shekel.</verse>
+        <verse osisID='2Kgs.7.17'>And the king appointed the officer on whose hand the king leaned to have charge over the gate: and the people trampled on him in the gate, and he died, as the man of God had said, who spoke when the messenger came down to him.</verse>
+        <verse osisID='2Kgs.7.18'>So it came to pass as Elisaie had spoken to the king, saying, Two measures of barley shall be sold for a shekel, and a measure of fine flour for a shekel; and it shall be <note>Gr. as this time is</note> as at this time to-morrow in the gate of Samaria.</verse>
+        <verse osisID='2Kgs.7.19'>And the officer answered Elisaie, and said, Behold, if the Lord makes flood-gates in heaven, shall this thing be? and Elisaie said, Behold, thou shalt see it with thine eyes, but thou shalt not eat thereof.</verse>
+        <verse osisID='2Kgs.7.20'>And it was so: for the people trampled on him in the gate, and he died.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.8'>
+        <verse osisID='2Kgs.8.1'>And Elisaie spoke to the woman, whose son he had <note>The Gr. signifies, to rekindle the fire</note> restored to life, saying, Arise, and go thou and thy house, and sojourn wherever thou mayest sojourn: for the Lord has called for a famine upon the land; indeed it is come upon the land for seven years.</verse>
+        <verse osisID='2Kgs.8.2'>And the woman arose, and did according to the word of Elisaie, both she and her house; and they sojourned in the land of the Philistines seven years.</verse>
+        <verse osisID='2Kgs.8.3'>And it came to pass after the expiration of the seven years, that the woman returned out of the land of the Philistines to the city; and came to cry to the king for her house and for her lands.</verse>
+        <verse osisID='2Kgs.8.4'>And the king spoke to Giezi the servant of Elisaie the man of God, saying, Tell me, I pray thee, all the great things which Elisaie has done.</verse>
+        <verse osisID='2Kgs.8.5'>And it came to pass, as he was telling the king how he had restored to life the dead son, behold, the woman whose son Elisaie restored to life came crying to the king for her house and for her lands. And Giezi said, My lord, O king, this is the woman, and this is her son, whom Elisaie restored to life.</verse>
+        <verse osisID='2Kgs.8.6'>And the king asked the woman, and she told him: and the king appointed her a eunuch, saying, Restore all that was hers, and all the fruits of the field from the day that she left the land until now.</verse>
+        <verse osisID='2Kgs.8.7'>And Elisaie came to Damascus; and the king of Syria the son of Ader was ill, and they brought him word, saying, The man of God is come hither.</verse>
+        <verse osisID='2Kgs.8.8'>And the king said to Azael, Take in thine hand <note>The Gr. retains the Heb. word</note> a present, and go to meet the man of God, and enquire of the Lord by him, saying, Shall I <note>Gr. live?</note> recover of this my disease?</verse>
+        <verse osisID='2Kgs.8.9'>And Azael went to meet him, and he took a present in his hand, and all the good things of Damascus, forty camels’ load, and came and stood before him, and said to Elisaie, Thy son the son of Ader, the king of Syria, has sent me to thee to enquire, saying, Shall I recover of this my disease?</verse>
+        <verse osisID='2Kgs.8.10'>And Elisaie said, Go, say, Thou shalt certainly live; yet the Lord has shewed me that <note>Complut. and Ald. apoyaneitai</note> thou shalt surely die.</verse>
+        <verse osisID='2Kgs.8.11'>And he stood before him, and fixed his countenance till he was ashamed: and the man of God wept.</verse>
+        <verse osisID='2Kgs.8.12'>And Azael said, Why does my lord weep? And he said, Because I know all the evil that thou wilt do to the children of Israel: thou wilt <note>Gr. send away</note> utterly destroy their strong holds with fire, and thou wilt slay their choice men with the sword, and thou wilt dash their infants against the ground, and their women with child thou wilt rip up.</verse>
+        <verse osisID='2Kgs.8.13'>And Azael said, Who is thy servant? a dead dog, that he <note>Gr. shall</note> should do this thing? And Elisaie said, The Lord has shewn me thee ruling over Syria.</verse>
+        <verse osisID='2Kgs.8.14'>And he departed from Elisaie, and went in to his lord; and he said to him, What said Elisaie to thee? and he said, He said to me, Thou shalt surely live.</verse>
+        <verse osisID='2Kgs.8.15'>And it came to pass on the next day that he took a <note>The Gr. is from the Heb. rug or quilt, etc.</note> thick cloth, and dipped it in water, and put it on his face, and he died: and Azael reigned in his stead.</verse>
+        <verse osisID='2Kgs.8.16'>In the fifth year <note>Gr. to</note> of Joram son of Achaab king of Israel, and while Josaphat was king of Juda, Joram the son of Josaphat king of Juda <note>Gr. reigned</note> began to reign.</verse>
+        <verse osisID='2Kgs.8.17'>
+          <note>Gr. a son of 32 years in reigning</note> Thirty and two years old was he when he began to reign, and he reigned eight years in Jerusalem.</verse>
+        <verse osisID='2Kgs.8.18'>And he walked in the way of the kings of Israel, as did the house of Achaab; for the daughter of Achaab was his wife: and he did that which was evil in the sight of the Lord.</verse>
+        <verse osisID='2Kgs.8.19'>But the Lord would not destroy Juda for David his servant’s sake, as he said he would give a light to him and to his sons continually.</verse>
+        <verse osisID='2Kgs.8.20'>In his days Edom revolted from under the hand of Juda, and they made a king over <note>Gr. himself</note> themselves.</verse>
+        <verse osisID='2Kgs.8.21'>And Joram went up to Sior, and all the chariots that were with him: and it came to pass after he had arisen, that he smote Edom who compassed him about, and the captains of the chariots; and the people fled to their tents.</verse>
+        <verse osisID='2Kgs.8.22'>Yet Edom revolted from under the hand of Juda till this day. Then Lobna revolted at that time.</verse>
+        <verse osisID='2Kgs.8.23'>And the rest of the acts of Joram, and all that he did, behold, are not these written in the book of the chronicles of the kings of Juda?</verse>
+        <verse osisID='2Kgs.8.24'>So Joram slept with his fathers, and was buried with his fathers in the city of his father David: and Ochozias his son reigned in his stead.</verse>
+        <verse osisID='2Kgs.8.25'>In the twelfth year <note>Gr. to</note> of Joram son of Achaab king of Israel, Ochozias son of Joram <note>Gr. reigned</note> began to reign.</verse>
+        <verse osisID='2Kgs.8.26'>
+          <note>Gr. a son of 22 years, in his reigning</note> Twenty and two years old was Ochozias when he began to reign, and he reigned one year in Jerusalem: and the name of his mother was Gotholia, daughter of Ambri king of Israel.</verse>
+        <verse osisID='2Kgs.8.27'>And he walked in the way of the house of Achaab, and did that which was evil in the sight of the Lord, as did the house of Achaab.</verse>
+        <verse osisID='2Kgs.8.28'>And he went with Joram the son of Achaab to war <note>Gr. with</note> against Azael king of <note>The Gr. word allofuloi is almost always applied elsewhere to the Philistines</note> the Syrians in Remmoth Galaad; and the Syrians wounded Joram.</verse>
+        <verse osisID='2Kgs.8.29'>And king Joram returned to be healed in Jezrael of the wounds with which they wounded him in Remmoth, when he fought with Azael king of Syria. And Ochozias son of Joram went down to see Joram the son of Achaab in Jezrael, because he was sick.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.9'>
+        <verse osisID='2Kgs.9.1'>And Elisaie the prophet called one of the sons of the prophets, and said to him, Gird up thy loins, and take this cruse of oil in thy hand, and go to Remmoth Galaad.</verse>
+        <verse osisID='2Kgs.9.2'>And thou shalt enter there, and shalt see there Ju the son of Josaphat son of Namessi, and shalt go in and make him rise up from among his brethren, and shalt bring him into a secret chamber.</verse>
+        <verse osisID='2Kgs.9.3'>And thou shalt take the cruse of oil, and pour it on his head, and say thou, Thus saith the Lord, I have anointed thee king over Israel: and thou shalt open the door, and flee, and not tarry.</verse>
+        <verse osisID='2Kgs.9.4'>And the young man the prophet went to Remmoth Galaad.</verse>
+        <verse osisID='2Kgs.9.5'>And he went in, and, behold, the captains of the host were sitting; and he said, I have a message to thee, O captain. And Ju said, To which of all us? And he said, To thee, O captain.</verse>
+        <verse osisID='2Kgs.9.6'>And he arose, and went into the house: and he poured the oil upon his head, and said to him, Thus saith the Lord God of Israel, I have anointed thee to be king over the people of the Lord, even over Israel.</verse>
+        <verse osisID='2Kgs.9.7'>And thou shalt utterly destroy the house of Achaab thy master from before me, and shalt avenge the <note>Gr. bloods</note> blood of my servants the prophets, and the blood of all the servants of the Lord, at the hand of Jezabel,</verse>
+        <verse osisID='2Kgs.9.8'>and at the hand of the whole house of Achaab: and thou shalt utterly cut off from the house of Achaab every male, and him that is shut up and left in Israel.</verse>
+        <verse osisID='2Kgs.9.9'>And I will <note>Gr. give</note> make the house of Achaab like the house of Jeroboam the son of Nabat, and as the house of Baasa the son of Achia.</verse>
+        <verse osisID='2Kgs.9.10'>And the dogs shall eat Jezabel in the portion of Jezreel, and <note>Gr. there is not a buryer</note> there shall be none to bury her. And he opened the door, and fled.</verse>
+        <verse osisID='2Kgs.9.11'>And Ju went forth to the servants of his lord, and they said to him, Is <note>Gr. peace</note> all well? Why came this mad fellow in to thee? And he said to them, Ye know the man, and his communication.</verse>
+        <verse osisID='2Kgs.9.12'>And they said, It is wrong: tell us now. And Ju said to them, Thus and thus spoke he to me, saying, —and he said, Thus saith the Lord, I have anointed thee to be king over Israel.</verse>
+        <verse osisID='2Kgs.9.13'>And when they heard it, they hasted, and took every man his garment, and put it under him on the <note>Heb. word in Gr.</note> top of the stairs, and blew with the trumpet, and said, Ju <note>Lit. has reigned</note> is king.</verse>
+        <verse osisID='2Kgs.9.14'>So Ju the son of Josaphat the son of Namessi conspired against Joram, and Joram was defending Remmoth Galaad, he and all Israel, <note>Gr. from the face of</note> because of Azael king of Syria.</verse>
+        <verse osisID='2Kgs.9.15'>And king Joram had returned to be healed in Jezrael of the wounds which the Syrians had given him, in his war with Azael king of Syria. And Ju said, If your heart is with me, let there not go forth out of the city <note>Gr. one having escaped</note> one fugitive to go and report to Jezrael.</verse>
+        <verse osisID='2Kgs.9.16'>And Ju rode and advanced, and came down to Jezrael; for Joram king of Israel was getting healed in Jezrael of the arrow-wounds wherewith the Syrians had wounded him in Rammath in the war with Azael king of Syria; for he was strong and a mighty man: and Ochozias king of Juda was come down to see Joram.</verse>
+        <verse osisID='2Kgs.9.17'>And there went up a watchman upon the tower of Jezrael, and saw the dust made by Ju as he approached; and he said, I see dust. And Joram said, Take a horseman, and send <note>Gr. before them</note> to meet them, and let him say, Peace.</verse>
+        <verse osisID='2Kgs.9.18'>And there went a horseman to meet them, and said, Thus says the king, Peace. And Ju said, What hast thou to do with peace? turn behind me. And the watchman reported, saying, The messenger came up to them, and has not returned.</verse>
+        <verse osisID='2Kgs.9.19'>And he sent another horseman, and he came to him, and said, Thus says the king, Peace. And Ju said, What hast thou to do with peace? turn behind me.</verse>
+        <verse osisID='2Kgs.9.20'>And the watchman reported, saying, He came up to them, and has not returned: and the driver <note>Gr. has driven</note> drives Ju the son of Namessi, for it is with furious haste.</verse>
+        <verse osisID='2Kgs.9.21'>And Joram said, Make ready. And one made ready the chariot: and Joram the king of Israel went forth, and Ochozias king of Juda, each in his chariot, and they went to meet Ju, and found him in the portion of Nabuthai the Jezraelite.</verse>
+        <verse osisID='2Kgs.9.22'>And it came to pass when Joram saw Ju, that he said, Is it peace, Ju? And Ju said, How can it be peace? as yet there are the whoredoms of thy mother Jezabel, and her abundant witchcrafts.</verse>
+        <verse osisID='2Kgs.9.23'>And Joram turned his hands, and fled, and said to Ochozias, Treachery, Ochozias.</verse>
+        <verse osisID='2Kgs.9.24'>And Ju <note>Lit. filled his hand with the bow</note> bent his bow with his full strength, and smote Joram between his arms, and his arrow went out at his heart, and he bowed upon his knees.</verse>
+        <verse osisID='2Kgs.9.25'>And Ju said to Badecar his chief officer, Cast him into the portion of ground of Nabuthai the Jezraelite, for I and thou remember, riding as we were <note>Gr. on yokes, or chariots with pairs of horses</note> on chariots after Achaab his father, <note>Gr. and the Lord</note> that the Lord took up this burden against him, saying,</verse>
+        <verse osisID='2Kgs.9.26'>
+          <note>Gr. if I have not seen</note> Surely, I have seen yesterday the blood of Nabuthai, and the blood of his sons, saith the Lord; and I will recompense him in this portion, saith the Lord. Now then, I pray thee, take him up and cast him into the portion, according to the word of the Lord.</verse>
+        <verse osisID='2Kgs.9.27'>And Ochozias king of Juda saw it, and fled by the way of <note>Heb. the garden house</note> Baethgan. And Ju pursued after him, and said, Slay him also. And one smote him in the chariot at the going up of Gai, which is Jeblaam: and he fled to Mageddo, and died there.</verse>
+        <verse osisID='2Kgs.9.28'>And his servants put him on a chariot, and brought him to Jerusalem, and they buried him in his sepulchre in the city of David.</verse>
+        <verse osisID='2Kgs.9.29'>And in the eleventh year of Joram king of Israel, Ochozias began to reign over Juda.</verse>
+        <verse osisID='2Kgs.9.30'>And Ju came to Jezrael; and Jezabel heard of it, and coloured her eyes, and adorned her head, and looked through the window.</verse>
+        <verse osisID='2Kgs.9.31'>And Ju entered into the city; and she said, Had Zambri, the murderer of his master, peace?</verse>
+        <verse osisID='2Kgs.9.32'>And he lifted up his face toward the window, and saw her, and said, Who art thou? Come down with me. And two eunuchs looked down towards him.</verse>
+        <verse osisID='2Kgs.9.33'>And he said, Throw her down. And they threw her down; and some of her blood was sprinkled on the wall, and on the horses: and they trampled on her.</verse>
+        <verse osisID='2Kgs.9.34'>And Ju went in and ate and drank, and said, Look now, after this cursed woman, and bury her, for she is a king’s daughter.</verse>
+        <verse osisID='2Kgs.9.35'>And they went to bury her; but they found nothing of her but the skull, and the feet, and the palms of her hands.</verse>
+        <verse osisID='2Kgs.9.36'>And they returned and told him. And he said, It is the word of the Lord, which he spoke by the hand of Eliu the Thesbite, saying, In the portion of Jezrael shall the dogs eat the flesh of Jezabel.</verse>
+        <verse osisID='2Kgs.9.37'>And the carcass of Jezabel shall be as dung on the face of the field in the portion of Jezrael, so that they shall not say, This is Jezabel.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.10'>
+        <verse osisID='2Kgs.10.1'>And Achaab had seventy sons in Samaria. And Ju wrote a letter, and sent it into Samaria to the rulers of Samaria, and to the elders, and to the guardians of the children of Achaab, saying.</verse>
+        <verse osisID='2Kgs.10.2'>Now then, as soon as this letter shall have reached you, whereas there are with you the sons of your master, and with you <note>Gr. the chariot and the horses</note> chariots and horses, and strong cities, and arms,</verse>
+        <verse osisID='2Kgs.10.3'>do ye accordingly look out the best and <note>Gr. upright, q. d. unblemished</note> fittest among your master’s sons, and set him on the throne of his father, and fight for the house of your master.</verse>
+        <verse osisID='2Kgs.10.4'>And they feared greatly, and said, Behold, two kings stood not before him: and how shall we stand?</verse>
+        <verse osisID='2Kgs.10.5'>So they that were over the house, and they that were over the city, and the elders and the guardians, sent to Ju, saying, We also are thy servants, and whatsoever thou shalt say to us we will do; we will not make any man king: we will do that which is right in thine eyes.</verse>
+        <verse osisID='2Kgs.10.6'>And Ju wrote them a second letter, saying, If ye are for me, and hearken to my voice, take the heads of the men your master’s sons, and bring them to me at this time to-morrow in Jezrael. Now the sons of the king were seventy men; these great men of the city brought them up.</verse>
+        <verse osisID='2Kgs.10.7'>And it came to pass, when the letter came to them, that they took the king’s sons, and slew them, even seventy men, and put their heads in baskets, and sent them to him at Jezrael.</verse>
+        <verse osisID='2Kgs.10.8'>And a messenger came and told him, saying, They have brought the heads of the king’s sons. And he said, Lay them in two heaps by the door of the gate until the morning.</verse>
+        <verse osisID='2Kgs.10.9'>And the morning came, and he went forth, and stood, and said to all the people, Ye are righteous: behold, I conspired against my master, and slew him: but who slew all these?</verse>
+        <verse osisID='2Kgs.10.10'>See now that there shall not fall to the ground anything of the word of the Lord which the Lord spoke against the house of Achaab: for the Lord has performed all that he spoke of by the hand of his servant Eliu.</verse>
+        <verse osisID='2Kgs.10.11'>And Ju smote all that were left of the house of Achaab in Jezrael, and all his great men, and his acquaintance, and his priests, so as not to leave him any remnant.</verse>
+        <verse osisID='2Kgs.10.12'>And he arose and went to Samaria, and he was in the house of sheep-shearing in the way.</verse>
+        <verse osisID='2Kgs.10.13'>And Ju found the brethren of Ochozias king of Juda, and said, Who are ye? And they said, We are the brethren of Ochozias, and we have come down to salute the sons of the king, and the sons of the queen.</verse>
+        <verse osisID='2Kgs.10.14'>And he said, Take them alive. And they slew them at the shearing-house, forty and two men: he left not a man of them.</verse>
+        <verse osisID='2Kgs.10.15'>And he went thence and found Jonadab the son of Rechab coming to meet him; and he <note>Gr. blessed him</note> saluted him, and Ju said to him, Is thy heart right with my heart, as my heart is with thy heart? And Jonadab said, It is. And Ju said, If it is then, give me thy hand. And he gave him his hand, and he took him up to him <note>Gr. upon</note> into the chariot.</verse>
+        <verse osisID='2Kgs.10.16'>And he said to him, Come with me, and see me zealous for the Lord. And he caused him to sit in his chariot.</verse>
+        <verse osisID='2Kgs.10.17'>And he entered into Samaria, and smote all that were left of Achaab in Samaria, until he had utterly destroyed him, according to the word of the Lord, which he spoke to Eliu.</verse>
+        <verse osisID='2Kgs.10.18'>And Ju gathered all the people, and said to them, Achaab served Baal a little; Ju shall serve him much.</verse>
+        <verse osisID='2Kgs.10.19'>Now then do all ye the prophets of Baal call all his servants and his priests to me; let not a man be wanting: for I have a great sacrifice to offer to Baal; every one who shall be missing shall die. But Ju did it in subtilty, that he might destroy the servants of Baal.</verse>
+        <verse osisID='2Kgs.10.20'>And Ju said, Sanctify a solemn festival to Baal, and they made a proclamation.</verse>
+        <verse osisID='2Kgs.10.21'>And Ju sent throughout all Israel, saying, Now then let all Baal’s servants, and all his priests, and all his prophets come, let none be lacking: for I am <note>Gr. offering</note> going to offer a great sacrifice; whosoever shall be missing, shall not live. So all the servants of Baal came, and all his priests, and all his prophets: there was not one left who came not. And they entered into the house of Baal; and the house of Baal was filled <note>Gr. mouth to mouth</note> from one end to the other.</verse>
+        <verse osisID='2Kgs.10.22'>And he said to the man who was over the house of the <note>The Greek is from the Hebrew word</note> wardrobe, Bring forth a robe for all the servants of Baal. And the keeper of the robes brought forth to them.</verse>
+        <verse osisID='2Kgs.10.23'>And Ju and Jonadab the son of Rechab entered into the house of Baal, and said to the servants of Baal, Search, and see whether there is among you any of the servants of the Lord, or only the servants of Baal, by themselves.</verse>
+        <verse osisID='2Kgs.10.24'>And he went in to offer sacrifices and whole-burnt-offerings; and Ju set for himself eighty men without, and said, Every man who shall escape of the men whom I bring into your hand, the life of him that spares him shall go for his life.</verse>
+        <verse osisID='2Kgs.10.25'>And it came to pass, when he had finished offering the whole-burnt-offering, that Ju said to the footmen and to the officers, Go ye in and slay them; let not a man of them escape. So they smote them with the edge of the sword, and the footmen and the officers cast the bodies forth, and went to the city of the house of Baal.</verse>
+        <verse osisID='2Kgs.10.26'>And they brought out the pillar of Baal, and burnt it.</verse>
+        <verse osisID='2Kgs.10.27'>And they tore down the pillars of Baal, and made <note>Gr. him</note> his house a draught-house until this day.</verse>
+        <verse osisID='2Kgs.10.28'>So Ju abolished Baal out of Israel.</verse>
+        <verse osisID='2Kgs.10.29'>Nevertheless Ju departed not from following the sins of Jeroboam the son of Nabat, who led Israel to sin: these were the golden heifers in Baethel and in Dan.</verse>
+        <verse osisID='2Kgs.10.30'>And the Lord said to Ju, Because of all thy deeds wherein thou hast acted well in doing that which was right in my eyes, according to all things which thou hast done to the house of Achaab as they were in my heart, thy sons to the fourth generation shall sit upon the throne of Israel.</verse>
+        <verse osisID='2Kgs.10.31'>But Ju took no heed to walk in the law of the Lord God of Israel with all his heart: he departed not from following the sins of Jeroboam, who made Israel to sin.</verse>
+        <verse osisID='2Kgs.10.32'>In those days the Lord began to cut <note>Gr. in Israel; Hebraism</note> Israel short; and Azael smote them in every coast of Israel;</verse>
+        <verse osisID='2Kgs.10.33'>from Jordan eastward all the land of Galaad belonging to the Gadites, of Gaddi and that of Ruben, and of Manasses, from Aroer, which is on the brink of the brook of Arnon, and Galaad and Basan.</verse>
+        <verse osisID='2Kgs.10.34'>And the rest of the acts of Ju, and all that he did, and all his might, and the wars wherein he engaged, are not these things written in the book of the chronicles of the kings of Israel?</verse>
+        <verse osisID='2Kgs.10.35'>And Ju slept with his fathers; and they buried him in Samaria: and Joachaz his son reigned in his stead.</verse>
+        <verse osisID='2Kgs.10.36'>And the days which Ju reigned over Israel were twenty-eight years in Samaria.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.11'>
+        <verse osisID='2Kgs.11.1'>And Gotholia the mother of Ochozias saw that her son was dead, and she destroyed all the <note>Gr. seed of the kingdom</note> seed royal.</verse>
+        <verse osisID='2Kgs.11.2'>And Josabee daughter of king Joram, sister of Ochozias, took Joas the son of her brother, and stole him from among the king’s sons that were put to death, secreting him and his nurse in the bedchamber, and hid him from the face of Gotholia, and he was not slain.</verse>
+        <verse osisID='2Kgs.11.3'>And he remained with her hid in the house of the Lord six years: and Gotholia reigned over the land.</verse>
+        <verse osisID='2Kgs.11.4'>And in the seventh year Jodae sent and took the captains of hundreds of the <note>Heb. guards</note> Chorri and of the <note>Heb. runners</note> Rhasim, and brought them to him into the house of the Lord, and made a covenant of the Lord with them, and adjured them, and Jodae shewed them the king’s son.</verse>
+        <verse osisID='2Kgs.11.5'>And charged them, saying, This is the <note>Gr. word</note> thing which ye shall do.</verse>
+        <verse osisID='2Kgs.11.6'>Let a third part of you go in on the sabbath-day, and keep ye the watch of the king’s house in the porch; and another third in the gate of the high way, and a third at the gate behind the footmen; and keep ye the guard of the house.</verse>
+        <verse osisID='2Kgs.11.7'>And there shall be two <note>Gr. hands</note> parties among you, even every one that goes out on the Sabbath, and they shall keep the guard of the Lord’s house before the king.</verse>
+        <verse osisID='2Kgs.11.8'>And do ye compass the king about every man with his weapon in his hand, and he that goes into the ranges shall die: and they shall be with the king in his going out and in his coming in.</verse>
+        <verse osisID='2Kgs.11.9'>And the captains of hundreds did all things that the wise Jodae commanded; and they took each his men, both those that went in on the sabbath-day, <note>Gr. with those</note> and those that went out on the sabbath-day, and went in to Jodae the priest.</verse>
+        <verse osisID='2Kgs.11.10'>And the priest gave to the captains of hundreds the swords and spears of king David that were in the house of the Lord.</verse>
+        <verse osisID='2Kgs.11.11'>And the footmen stood each <note>Gr. and his weapon</note> with his weapon in his hand from the right corner of the house to the left corner of the house, by the altar and the house round about the king.</verse>
+        <verse osisID='2Kgs.11.12'>And he <note>Gr. sent forth</note> brought forth the king’s son, and <note>Gr. gave</note> put upon him the crown and gave him the testimony; and he made him king, and anointed him: and they clapped their hands, and said, Long live the king.</verse>
+        <verse osisID='2Kgs.11.13'>And Gotholia heard the sound of the people running, and she went in to the people to the house of the Lord.</verse>
+        <verse osisID='2Kgs.11.14'>And she looked, and, behold, the king stood near a pillar according to the manner; and the singers and the <note>Gr. trumpets</note> trumpeters were before the king and all the people of the land even rejoicing and sounding with trumpets: and Gotholia rent her garments, and cried, A conspiracy, a conspiracy.</verse>
+        <verse osisID='2Kgs.11.15'>And Jodae the priest commanded the captains of hundreds who were over the host, and said to them, Bring her forth without the ranges, and he that goes in after her shall certainly die by the sword. For the priest said, Let her not however be slain in the house of the Lord.</verse>
+        <verse osisID='2Kgs.11.16'>And they laid hands upon her, and went in by the way of the horses’ entrance into the house of the Lord, and she was slain there.</verse>
+        <verse osisID='2Kgs.11.17'>And Jodae made a covenant between the Lord and the king and the people, that they should be the Lord’s people; also between the king and the people.</verse>
+        <verse osisID='2Kgs.11.18'>And all the people of the land went into the house of Baal, and tore it down, and completely broke in pieces his altars and his images, and they slew Mathan the priest of Baal before the altars. And the priest <note>Gr. placed; See Joh 15:16</note> appointed overseers <note>Gr. in or into</note> over the house of the Lord.</verse>
+        <verse osisID='2Kgs.11.19'>And he took the captains of the hundreds, and the Chorri, and the Rhasim, and all the people of the land, and brought down the king out of the house of the Lord; and they went in by the way of the gate of the <note>Or, guard, A. V.</note> footmen of the king’s house, and seated him there on the throne of the kings.</verse>
+        <verse osisID='2Kgs.11.20'>And all the people of the land rejoiced, and the city was at rest: and they slew Gotholia with the sword in the house of the king.</verse>
+        <verse osisID='2Kgs.11.21'>Joas was <note>Gr. a son of seven years in his reigning</note> seven years old when he began to reign.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.12'>
+        <verse osisID='2Kgs.12.1'>Joas <note>Gr. reigned</note> began to reign in the seventh year of Ju, and he reigned forty years in Jerusalem: and his mother’s name was Sabia of Bersabee.</verse>
+        <verse osisID='2Kgs.12.2'>And Joas did that which was right in the sight of the Lord all the days that Jodae the priest instructed him.</verse>
+        <verse osisID='2Kgs.12.3'>Only there were not any of the high places removed, and the people still sacrificed there, and burned incense on the high places.</verse>
+        <verse osisID='2Kgs.12.4'>And Joas said to the priests, As for all the money of the holy things that is brought into the house of the Lord, the money of valuation, as each man brings the money of valuation, all the money which <note>Gr. it may come into the heart, etc.</note> any man may feel disposed to bring into the house of the Lord,</verse>
+        <verse osisID='2Kgs.12.5'>let the priests take it to themselves, every man from the proceeds of his sale: and they shall repair the breaches of the house in all places wheresoever a breach shall be found.</verse>
+        <verse osisID='2Kgs.12.6'>And it came to pass in the twenty-third year of king Joas the priests had not repaired the breaches of the house.</verse>
+        <verse osisID='2Kgs.12.7'>And king Joas called Jodae the priest, and the other priests, and said to them, Why have ye not repaired the <note>Gr. breach</note> breaches of the house? now then receive no more money from your sales, for ye shall give it to repair the breaches of the house.</verse>
+        <verse osisID='2Kgs.12.8'>And the priests consented to receive no more money of the people, and not to repair the breaches of the house.</verse>
+        <verse osisID='2Kgs.12.9'>And Jodae the priest took a chest, and bored a hole in the lid of it, and set it by the <note>The Gr. is a Hebrew word in Greek letters</note> altar in the house of a man belonging to the house of the Lord, and the priests that kept the door put therein all the money that was found in the house of the Lord.</verse>
+        <verse osisID='2Kgs.12.10'>And it came to pass, when they saw that there was much money in the chest, that the king’s scribe and the high priest went up, and they tied up and counted the money that was found in the house of the Lord.</verse>
+        <verse osisID='2Kgs.12.11'>And they gave the money that had been <note>Gr. prepared</note> collected into the hands of them that wrought the works, the overseers of the house of the Lord; and they gave it out to the carpenters and to the builders that wrought in the house of the Lord.</verse>
+        <verse osisID='2Kgs.12.12'>And to the <note>Gr. wall-builders</note> masons, and to the hewers of stone, to purchase timber and hewn stone to repair the <note>Gr. breach</note> breaches of the house of the Lord, for all that was spent on the house of the Lord to repair it.</verse>
+        <verse osisID='2Kgs.12.13'>Only there <note>Gr. shall not be made; This change of future and past is frequent</note> were not to be made for the house of the Lord silver <note>Gr. doors</note> plates, studs, bowls, or trumpets, any vessel of gold or vessel of silver, of the money that was brought <note>Gr. in</note> into the house of the Lord:</verse>
+        <verse osisID='2Kgs.12.14'>for they <note>Gr. will give, vide verse 13</note> were to give it to the workmen, and they repaired therewith the house of the Lord.</verse>
+        <verse osisID='2Kgs.12.15'>Also they took no account of the men into whose hands they gave the money to give to the workmen, for they <note>Heb. Mh hnmab</note> acted faithfully.</verse>
+        <verse osisID='2Kgs.12.16'>Money for a sin-offering, and money for a trespass-offering, whatever happened to be brought into the house of the Lord, went to the priests.</verse>
+        <verse osisID='2Kgs.12.17'>Then went up Azael king of Syria, and fought against Geth, and took it: and Azael set his face to go against Jerusalem.</verse>
+        <verse osisID='2Kgs.12.18'>And Joas king of Juda took all the holy things which Josaphat, and Joram, Ochozias, his fathers, and kings of Juda had consecrated, and <note>Gr. his own holy things</note> what he had himself dedicated, and all the gold that was found in the treasures of the Lord’s house and the king’s house, and he sent them to Azael king of Syria; and he went up from Jerusalem.</verse>
+        <verse osisID='2Kgs.12.19'>And the rest of the acts of Joas, and all that he did, behold, are not these things written in the book of the chronicles of the kings of Juda?</verse>
+        <verse osisID='2Kgs.12.20'>And his servants rose up and made a <note>Complut.—panta</note> conspiracy, and smote Joas in the house of Mallo that is in Sela.</verse>
+        <verse osisID='2Kgs.12.21'>And Jezirchar the son of Jemuath, and Jezabuth Somer’s son, his servants, smote him, and he died; and they buried him with his fathers in the city of David: and Amessias his son reigned in his stead.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.13'>
+        <verse osisID='2Kgs.13.1'>In the twenty-third year of Joas son of Ochozias king of Juda <note>Gr. reigned</note> began Joachaz the son of Ju to reign in Samaria, and he reigned seventeen years.</verse>
+        <verse osisID='2Kgs.13.2'>And he did that which was evil in the sight of the Lord, and walked after the sins of Jeroboam the son of Nabat, who led Israel to sin; he departed not from <note>Gr. it</note> them.</verse>
+        <verse osisID='2Kgs.13.3'>And the Lord was very angry with Israel, and delivered them into the hand of Azael king of Syria, and into the hand of the son of Ader son of Azael, all their days.</verse>
+        <verse osisID='2Kgs.13.4'>And Joachaz besought the Lord, and the Lord hearkened to him, for he saw the affliction of Israel, because the king of Syria afflicted them.</verse>
+        <verse osisID='2Kgs.13.5'>And the Lord gave deliverance to Israel, and they escaped from under the hand of Syria: and the children of Israel dwelt in their tents as <note>Gr. yesterday and to-day</note> heretofore.</verse>
+        <verse osisID='2Kgs.13.6'>Only they departed not from the sins of the house of Jeroboam, who led Israel to sin: they walked in <note>Gr. it, sc. amartia</note> them—moreover the grove also remained in Samaria.</verse>
+        <verse osisID='2Kgs.13.7'>Whereas there was not left any <note>Gr. people</note> army to Joachaz, except fifty horsemen, and ten chariots, and ten thousand infantry: for the king of Syria had destroyed them, and they made them as dust for trampling.</verse>
+        <verse osisID='2Kgs.13.8'>And the rest of the acts of Joachaz, and all that he did, and his mighty acts are not these things written in the book of the chronicles of the kings of Israel?</verse>
+        <verse osisID='2Kgs.13.9'>And Joachaz slept with his fathers, and they buried him in Samaria: and Joas his son reigned in his stead.</verse>
+        <verse osisID='2Kgs.13.10'>In the thirty-seventh year of Joas king of Juda, Joas the son of Joachaz <note>Gr. reigned</note> began to reign over Israel in Samaria sixteen years.</verse>
+        <verse osisID='2Kgs.13.11'>And he did that which was evil in the sight of the Lord; he departed not from all the sin of Jeroboam the son of Nabat, who led Israel to sin: he walked in it.</verse>
+        <verse osisID='2Kgs.13.12'>And the rest of the acts of Joas, and all that he did, and his mighty acts which he performed together with Amessias king of Juda, are not these written in the book of the chronicles of the kings of Israel?</verse>
+        <verse osisID='2Kgs.13.13'>And Joas slept with his fathers, and Jeroboam sat upon his throne, and he was buried in Samaria with the kings of Israel.</verse>
+        <verse osisID='2Kgs.13.14'>Now Elisaie was sick of his sickness, whereof he died: and Joas king of Israel went down to him, and wept over his face, and said, My father, my father, the chariot of Israel, and the horseman thereof!</verse>
+        <verse osisID='2Kgs.13.15'>And Elisaie said to him, Take bow and <note>Gr. weapons</note> arrows. And he took to himself a bow and arrows.</verse>
+        <verse osisID='2Kgs.13.16'>And he said to the king, Put thy hand on the bow. And Joas put his hand upon it: and Elisaie put his hands upon the king’s hands.</verse>
+        <verse osisID='2Kgs.13.17'>And he said, Open the window eastward. And he opened it. And Elisaie said, Shoot. And he shot. And Elisaie said, The arrow of the Lord’s deliverance, and the arrow of deliverance <note>Gr. in</note> from Syria; and thou shalt smite the Syrians in Aphec until thou have consumed them.</verse>
+        <verse osisID='2Kgs.13.18'>And Elisaie said to him, Take bow and arrows. And he took them. And he said to the king of Israel, Smite upon the ground. And the king smote three times, and stayed.</verse>
+        <verse osisID='2Kgs.13.19'>And the man of God was grieved at him, and said, If thou hadst smitten five or six times, then thou shouldest have smitten Syria till thou hadst consumed them; but now thou shalt smite Syria only thrice.</verse>
+        <verse osisID='2Kgs.13.20'>And Elisaie died, and they buried him. And the bands of the Moabites came into the land, <note>Gr. the year having come</note> at the beginning of the year.</verse>
+        <verse osisID='2Kgs.13.21'>And it came to pass as they were burying a man, that behold, they saw a band of men, and they cast the man into the grave of Elisaie: and as soon as he touched the bones of Elisaie, he revived and stood up on his feet.</verse>
+        <verse osisID='2Kgs.13.22'>And Azael greatly afflicted Israel all the days of Joachaz.</verse>
+        <verse osisID='2Kgs.13.23'>And the Lord had mercy and compassion upon them, and had respect to them because of his covenant with Abraam, and Isaac, and Jacob; and the Lord would not destroy them, and did not cast them out from his presence.</verse>
+        <verse osisID='2Kgs.13.24'>And Azael king of Syria died, and the son of Ader his son reigned in his stead.</verse>
+        <verse osisID='2Kgs.13.25'>And Joas the son of Joachaz returned, and took the cities out of the hand of the son of Ader the son of Azael, which he had taken out of the hand of Joachaz his father in the war: thrice did Joas smite him, and he recovered the cities of Israel.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.14'>
+        <verse osisID='2Kgs.14.1'>In the second year of Joas the son of Joachaz king of Israel, did Amessias also the son of Joas the king of Juda <note>Gr. reigned</note> begin to reign.</verse>
+        <verse osisID='2Kgs.14.2'>
+          <note>Gr. a son of 25 years in his reigning</note> Twenty and five years old was he when he began to reign, and he reigned twenty and nine years in Jerusalem: and his mother’s name was Joadim of Jerusalem.</verse>
+        <verse osisID='2Kgs.14.3'>And he did that which was right in the sight of the Lord, but not as David his father: he did according to all things that his father Joas did.</verse>
+        <verse osisID='2Kgs.14.4'>Only he removed not the high places: as yet the people sacrificed and burnt incense on the high places.</verse>
+        <verse osisID='2Kgs.14.5'>And it came to pass when the kingdom was established in his hand, that he <note>Gr. smote</note> slew his servants that had <note>Gr. smitten</note> slain the king his father.</verse>
+        <verse osisID='2Kgs.14.6'>But he slew not the sons of those that had slain him; according as it is written in the book of the laws of Moses, as the Lord gave commandment, saying, The fathers shall not be put to death for the children, and the children shall not be put to death for the fathers; but every one <note>Or, be put to death, etc.</note> shall die for his own sins.</verse>
+        <verse osisID='2Kgs.14.7'>He smote of Edom ten thousand in the <note>The Gr. is from xlm-ygb Keri</note> valley of salt, and took <note>Heb. Selah</note> the Rock in the war, and called its name Jethoel until this day.</verse>
+        <verse osisID='2Kgs.14.8'>Then Amessias sent messengers to Joas son of Joachaz son of Ju king of Israel, saying, Come, let us <note>Gr. appear to faces</note> look one another in the face.</verse>
+        <verse osisID='2Kgs.14.9'>And Joas the king of Israel sent to Amessias king of Juda, saying, The thistle that was in Libanus sent to the cedar that was in Libanus, saying, Give my daughter to thy son to wife: and the wild beasts of the field that were in Libanus passed by and trod down the thistle.</verse>
+        <verse osisID='2Kgs.14.10'>Thou hast smitten and wounded Edom, and thy heart has lifted thee up: <note>Gr. glorify thyself sitting in thy house</note> stay at home and glorify thyself; for wherefore art thou quarrelsome to thy hurt? So both thou wilt fall and Juda with thee.</verse>
+        <verse osisID='2Kgs.14.11'>Nevertheless Amessias hearkened not: so Joas king of Israel went up, and he and Amessias king of Juda looked one another in the face in Baethsamys of Juda.</verse>
+        <verse osisID='2Kgs.14.12'>And Juda <note>Gr. fell</note> was overthrown before Israel, and every man fled to his tent.</verse>
+        <verse osisID='2Kgs.14.13'>And Joas king of Israel took Amessias the son of Joas the son of Ochozias, in Baethsamys; and he came to Jerusalem, and broke down the wall of Jerusalem, beginning at the gate of Ephraim as far as the gate of the corner, four hundred cubits.</verse>
+        <verse osisID='2Kgs.14.14'>And he took the gold, and the silver, and all the vessels that were found in the house of the Lord, and in the treasures of the king’s house, and the <note>Gr. and Heb. lit. sons of exchange</note> hostages, and returned to Samaria.</verse>
+        <verse osisID='2Kgs.14.15'>And the rest of the acts of Joas, even all that he did in his might, how he warred with Amessias king of Juda, are not these things written in the book of the chronicles of the kings of Israel?</verse>
+        <verse osisID='2Kgs.14.16'>And Joas slept with his fathers, and was buried in Samaria with the kings of Israel; and Jeroboam his son reigned in his stead.</verse>
+        <verse osisID='2Kgs.14.17'>And Amessias the son of Joas king of Juda lived after the death of Joas son of Joachaz king of Israel fifteen years.</verse>
+        <verse osisID='2Kgs.14.18'>And the rest of the acts of Amessias, and all that he did, are not these written in the book of the chronicles of the kings of Juda?</verse>
+        <verse osisID='2Kgs.14.19'>And they <note>Gr. conspired with a conspiracy</note> formed a conspiracy against him in Jerusalem, and he fled to Lachis: and they sent after him to Lachis, and slew him there.</verse>
+        <verse osisID='2Kgs.14.20'>And they <note>Gr. lifted him</note> brought him upon horses; and he was buried in Jerusalem with his fathers in the city of David.</verse>
+        <verse osisID='2Kgs.14.21'>And all the people of Juda took Azarias, and he was <note>Gr. a son of 16 years</note> sixteen years old, and made him king in the room of his father Amessias.</verse>
+        <verse osisID='2Kgs.14.22'>He built Æloth, and restored it to Juda, after the king slept with his fathers.</verse>
+        <verse osisID='2Kgs.14.23'>In the fifteenth year of Amessias son of Joas king of Juda <note>Gr. reigned</note> began Jeroboam son of Joas to reign over Israel in Samaria forty and one years.</verse>
+        <verse osisID='2Kgs.14.24'>And he did that which was evil in the sight of the Lord: he departed not from all the sins of Jeroboam the son of Nabat, who led Israel to sin.</verse>
+        <verse osisID='2Kgs.14.25'>He recovered the coast of Israel from the entering in of Æmath to the sea of <note>i. e. the plain</note> Araba, according to the word of the Lord God of Israel, which he spoke by <note>Gr. the hand of his servant</note> his servant Jonas the son of Amathi, the prophet of Gethchopher.</verse>
+        <verse osisID='2Kgs.14.26'>For the Lord saw that the affliction of Israel was very bitter, and that they were few in number, straitened and in want, and <note>Or, left alone</note> destitute, and Israel had no helper.</verse>
+        <verse osisID='2Kgs.14.27'>And the Lord <note>Or, said not that he would</note> said that he would not blot out the seed of Israel from under heaven; so he delivered them by the hand of Jeroboam the son of Joas.</verse>
+        <verse osisID='2Kgs.14.28'>And the rest of the acts of Jeroboam and all that he did, and his mighty deeds, which he achieved in war, and how he recovered Damascus and Æmath to Juda in Israel, are not these things written in the book of the chronicles of the kings of Israel?</verse>
+        <verse osisID='2Kgs.14.29'>And Jeroboam slept with his fathers, even with the kings of Israel; and Zacharias his son reigned in his stead.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.15'>
+        <verse osisID='2Kgs.15.1'>In the twenty-seventh year of Jeroboam king of Israel Azarias the son of Amessias king of Juda <note>Gr. reigned</note> began to reign.</verse>
+        <verse osisID='2Kgs.15.2'>
+          <note>Gr. a son of 16 years was he in his reigning</note> Sixteen years old was he when he began to reign, and he reigned fifty-two years in Jerusalem: and his mother’s name was Jechelia of Jerusalem.</verse>
+        <verse osisID='2Kgs.15.3'>And he did that which was right in the eyes of the Lord, according to all things that Amessias his father did.</verse>
+        <verse osisID='2Kgs.15.4'>Only he took not away any of the high places: as yet the people sacrificed and burnt incense on the high places.</verse>
+        <verse osisID='2Kgs.15.5'>And the Lord <note>Gr. touched</note> plagued the king, and he was <note>made leprous</note> leprous till the day of his death; and he reigned in <note>The Gr. is from tyvpxh</note> a separate house. And Joatham the king’s son was over the household, judging the people of the land.</verse>
+        <verse osisID='2Kgs.15.6'>And the rest of the acts of Azarias, and all that he did, are not these written in the book of the chronicles of the kings of Juda?</verse>
+        <verse osisID='2Kgs.15.7'>And Azarias slept with his fathers, and they buried him with his fathers in the city of David: and Joatham his son reigned in his stead.</verse>
+        <verse osisID='2Kgs.15.8'>In the thirty and eighth year of Azarias king of Juda Zacharias the son of Jeroboam <note>Gr. reigned</note> began to reign over Israel in Samaria six months.</verse>
+        <verse osisID='2Kgs.15.9'>And he did that which was evil in the eyes of the Lord, as his fathers had done: he departed not from all the sins of Jeroboam the son of Nabat, who made Israel to sin.</verse>
+        <verse osisID='2Kgs.15.10'>And Sellum the son of Jabis and others conspired against him, and they smote him <note>Heb. Me-lbq before the people</note> in Keblaam, and slew him, and he reigned in his stead.</verse>
+        <verse osisID='2Kgs.15.11'>And the rest of the acts of Zacharias, behold, they are written in the book of the chronicles of the kings of Israel.</verse>
+        <verse osisID='2Kgs.15.12'>This was the word of the Lord which he spoke to Ju, saying, Thy sons of the fourth generation shall sit upon the throne of Israel: and it was so.</verse>
+        <verse osisID='2Kgs.15.13'>And Sellum the son of Jabis reigned: and in the thirty and ninth year of Azarias king of Juda <note>Gr. reigned</note> began Sellum to reign a full month in Samaria.</verse>
+        <verse osisID='2Kgs.15.14'>And Manaem the son of Gaddi went up out of Tharsila, and came to Samaria, and smote Sellum the son of Jabis in Samaria, and slew him.</verse>
+        <verse osisID='2Kgs.15.15'>And the rest of the acts of Sellum, and his conspiracy wherein he was engaged, behold, they are written in the book of the chronicles of the kings of Israel.</verse>
+        <verse osisID='2Kgs.15.16'>Then Manaem smote both Thersa and all that was in it, and its borders extending beyond Thersa, because they opened not to him: and he smote it, and ripped up the women with child.</verse>
+        <verse osisID='2Kgs.15.17'>In the thirty and ninth year of Azarias king of Juda <note>Gr. reigned</note> began Manaem the son of Gaddi to reign over Israel in Samaria ten years.</verse>
+        <verse osisID='2Kgs.15.18'>And he did that which was evil in the sight of the Lord: he departed not from all the sins of Jeroboam the son of Nabat, who led Israel to sin.</verse>
+        <verse osisID='2Kgs.15.19'>In his days went up Phua king of the Assyrians against the land: and Manaem gave to Phua a thousand talents of silver to aid him with his power.</verse>
+        <verse osisID='2Kgs.15.20'>And Manaem raised the silver by a tax upon Israel, even on every mighty man in wealth, to give to the king of the Assyrians, fifty shekels levied on each man; and the king of the Assyrians departed, and remained not there in the land.</verse>
+        <verse osisID='2Kgs.15.21'>And the rest of the acts of Manaem, and all that he did, behold, are not these written in the book of the chronicles of the kings of Israel?</verse>
+        <verse osisID='2Kgs.15.22'>And Manaem slept with his fathers; and Phakesias his son reigned in his stead.</verse>
+        <verse osisID='2Kgs.15.23'>In the fiftieth year of Azarias king of Juda, <note>Gr. reigned</note> began Phakesias the son of Manaem to reign over Israel in Samaria two years.</verse>
+        <verse osisID='2Kgs.15.24'>And he did that which was evil in the sight of the Lord: he departed not from the sins of Jeroboam the son of Nabat, who made Israel to sin.</verse>
+        <verse osisID='2Kgs.15.25'>And Phakee the son of Romelias, his officer, conspired against him, and smote him in Samaria in the front of the king’s house, with Argob and Aria, and with him there were fifty men of the four hundred: and he slew him, and reigned in his stead.</verse>
+        <verse osisID='2Kgs.15.26'>And the rest of the acts of Phakesias, and all that he did, behold, they are written in the book of the chronicles of the kings of Israel.</verse>
+        <verse osisID='2Kgs.15.27'>In the fifty-second year of Azarias king of Juda <note>Gr. reigned</note> began Phakee the son of Romelias to reign over Israel in Samaria twenty years.</verse>
+        <verse osisID='2Kgs.15.28'>And he did that which was evil in the eyes of the Lord: he departed not from all the sins of Jeroboam the son of Nabat, who led Israel to sin.</verse>
+        <verse osisID='2Kgs.15.29'>In the days of Phakee king of Israel came Thalgath-phellasar king of the Assyrians, and took Ain, and Abel, and Thamaacha, and Anioch, and Kenez, and Asor, and <note>Or, Galaan</note> Galaa, and Galilee, even all the land of Nephthali, and carried them away to the Assyrians.</verse>
+        <verse osisID='2Kgs.15.30'>And Osee son of Ela <note>Gr. conspired, etc.</note> formed a conspiracy against Phakee the son of Romelias, and smote him, and slew him, and reigned in his stead, in the twentieth year of Joatham the son of Azarias.</verse>
+        <verse osisID='2Kgs.15.31'>And the rest of the acts of Phakee, and all that he did, behold, these are written in the book of the chronicles of the kings of Israel.</verse>
+        <verse osisID='2Kgs.15.32'>In the second year of Phakee son of Romelias king of Israel <note>Gr. reigned</note> began Joatham the son of Azarias king of Juda to reign.</verse>
+        <verse osisID='2Kgs.15.33'>
+          <note>Gr. a son of 25 years in his reigning</note> Twenty and five years old was he when he began to reign, and he reigned sixteen years in Jerusalem: and his mother’s name was Jerusa daughter of Sadoc.</verse>
+        <verse osisID='2Kgs.15.34'>And he did that which was right in the sight of the Lord, according to all things that his father Azarias did.</verse>
+        <verse osisID='2Kgs.15.35'>Nevertheless he took not away the high places: as yet the people sacrificed and burnt incense on the high places. He built the upper gate of the Lord’s house.</verse>
+        <verse osisID='2Kgs.15.36'>And the rest of the acts of Joatham, and all that he did, are not these written in the book of the chronicles of the kings of Juda?</verse>
+        <verse osisID='2Kgs.15.37'>In those days the Lord began to <note>Or, let loose</note> send forth against Juda Raasson king of Syria, and Phakee son of Romelias.</verse>
+        <verse osisID='2Kgs.15.38'>And Joatham slept with his fathers, and was buried with his fathers in the city of David his father: and Achaz his son reigned in his stead.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.16'>
+        <verse osisID='2Kgs.16.1'>In the seventeenth year of Phakee son of Romelias <note>Gr. reigned</note> began Achaz the son of Joatham king of Juda to reign.</verse>
+        <verse osisID='2Kgs.16.2'>Twenty years old was Achaz when he began to reign, and he reigned sixteen years in Jerusalem; and he did not that which was right in the eyes of the Lord his God faithfully, as David his father had done.</verse>
+        <verse osisID='2Kgs.16.3'>And he walked in the way of the kings of Israel, yea, he made his son to pass through the fire, according to the abominations of the heathen whom the Lord cast out from before the children of Israel.</verse>
+        <verse osisID='2Kgs.16.4'>And he sacrificed and burnt incense on the high places, and upon the hills, and under every <note>Gr. tree of the grove or wood</note> shady tree.</verse>
+        <verse osisID='2Kgs.16.5'>Then went up Raasson king of Syria and Phakee son of Romelias king of Israel against Jerusalem to war, and besieged Achaz, but could not <note>Gr. fight</note> prevail against him.</verse>
+        <verse osisID='2Kgs.16.6'>At that time Raasson king of Syria recovered Ælath to Syria, and drove out the Jews from Ælath, and the Idumeans came to Ælath, and dwelt there until this day.</verse>
+        <verse osisID='2Kgs.16.7'>And Achaz sent messengers to Thalgath-phellasar king of the Assyrians, saying, I am thy servant and thy son: come up, deliver me out of the hand of the king of Syria, and out of the hand of the king of Israel, who are rising up against me.</verse>
+        <verse osisID='2Kgs.16.8'>And Achaz took the silver and the gold that was found in the treasures of the house of the Lord, and of the king’s house, and sent gifts to the king.</verse>
+        <verse osisID='2Kgs.16.9'>And the king of the Assyrians hearkened to him: and the king of the Assyrians went up to Damascus and took it, and removed <note>Gr. it</note> the inhabitants, and slew king Raasson.</verse>
+        <verse osisID='2Kgs.16.10'>And king Achaz went to Damascus to meet Thalgath-phellasar king of the Assyrians at Damascus; and he saw <note>Or, the altar</note> an altar at Damascus. And king Achaz sent to Urias the priest the pattern of the altar, and its proportions, and all its workmanship.</verse>
+        <verse osisID='2Kgs.16.11'>And Urias the priest built the altar, according to all the directions which king Achaz sent from Damascus.</verse>
+        <verse osisID='2Kgs.16.12'>And the king saw the altar, and went up to it,</verse>
+        <verse osisID='2Kgs.16.13'>and <note>Gr. and Heb. offered in way of incense; See 2 Ch 13:10</note> offered his whole-burnt-offering, and his meat-offering, and his drink-offering, and poured out the blood of his peace-offerings on the brazen altar that was before the Lord.</verse>
+        <verse osisID='2Kgs.16.14'>And he brought forward the one before the house of the Lord from between the altar and the house of the Lord, and he <note>Or, displayed it</note> set it openly by the <note>Gr. thigh</note> side of the altar northwards.</verse>
+        <verse osisID='2Kgs.16.15'>And king Achaz charged Urias the priest, saying, Offer upon the great altar the whole-burnt-offering in the morning and the meat-offering in the evening, and the whole-burnt-offering of the king, and his meat-offering, and the whole-burnt-offering of all the people, and their meat-offering, and their drink-offering; and thou shalt pour <note>Or, the blood of every, etc</note> all the blood of the whole-burnt-offering, and all the blood of any other sacrifice upon it: and the brazen altar shall be for me in the morning.</verse>
+        <verse osisID='2Kgs.16.16'>And Urias the priest did according to all that king Achaz commanded him.</verse>
+        <verse osisID='2Kgs.16.17'>And king Achaz cut off the borders of the bases, and removed the laver from off them, and took down the sea from the brazen oxen that were under it, and set it upon a base of stone.</verse>
+        <verse osisID='2Kgs.16.18'>And he made a base for the throne in the house of the Lord, and he turned the king’s entrance without in the house of the Lord because of the king of the Assyrians.</verse>
+        <verse osisID='2Kgs.16.19'>And the rest of the acts of Achaz, even all that he did, are not these written in the book of the chronicles of the kings of Juda?</verse>
+        <verse osisID='2Kgs.16.20'>And Achaz slept with his fathers, and was buried in the city of David: and Ezekias his son reigned in his stead.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.17'>
+        <verse osisID='2Kgs.17.1'>In the twelfth year of Achaz king of Juda <note>Gr. reigned</note> began Osee the son of Ela to reign in Samaria over Israel nine years.</verse>
+        <verse osisID='2Kgs.17.2'>And he did evil in the eyes of the Lord, only not as the kings of Israel that were before him.</verse>
+        <verse osisID='2Kgs.17.3'>Against him came up Salamanassar king of the Assyrians; and Osee became his servant, and rendered him tribute.</verse>
+        <verse osisID='2Kgs.17.4'>And the king of the Assyrians found iniquity in Osee, in that he sent messengers to Segor king of Egypt, and brought not a tribute to the king of the Assyrians in that year: and the king of the Assyrians besieged him, and bound him in the prison-house.</verse>
+        <verse osisID='2Kgs.17.5'>And the king of the Assyrians went up <note>Or, through</note> against all the land, and went up to Samaria, and besieged it for three years.</verse>
+        <verse osisID='2Kgs.17.6'>In the ninth year of Osee the king of the Assyrians took Samaria, and carried Israel away to the Assyrians, and settled them in Alae, and in Abor, near the rivers of Gozan, and in the mountains of the Medes.</verse>
+        <verse osisID='2Kgs.17.7'>For it came to pass that the children of Israel had transgressed against the Lord their God, who had brought them up out of the land of Egypt, from under the hand of Pharao king of Egypt, and they feared other gods,</verse>
+        <verse osisID='2Kgs.17.8'>and walked in the <note>Or, customs</note> statutes of the nations which the Lord cast out before the face of the children of Israel, and of the kings of Israel as many as did such things,</verse>
+        <verse osisID='2Kgs.17.9'>and in those of the children of Israel as many as <note>Gr. cloaked matters</note> secretly practised customs, not as they should have done, against the Lord their God:</verse>
+        <verse osisID='2Kgs.17.10'>and they built for themselves high places in all their cities, from the tower of the watchmen to the <note>Gr. strong</note> fortified city. And they made for themselves pillars and groves on every high hill, and under every shady tree.</verse>
+        <verse osisID='2Kgs.17.11'>And burned incense there on all high places, as the nations did whom the Lord removed from before them, and dealt with familiar spirits, and they carved images to provoke the Lord to anger.</verse>
+        <verse osisID='2Kgs.17.12'>And they served the idols, of which the Lord said to them, Ye shall not do this thing against the Lord.</verse>
+        <verse osisID='2Kgs.17.13'>And the Lord testified against Israel and against Juda, even by the hand of all his prophets, and of every seer, saying, Turn ye from your evil ways, and keep my commandments and my ordinances, and all the law which I commanded your fathers, and all that I sent to them by the hand of my servants the prophets.</verse>
+        <verse osisID='2Kgs.17.14'>But they hearkened not, and made their <note>Gr. back; Heb. back part of the neck</note> neck harder than the neck of their fathers.</verse>
+        <verse osisID='2Kgs.17.15'>And they kept not any of his testimonies which he charged them; and they walked after vanities, and became vain, and after the nations round about them, concerning which the Lord had charged them not to do accordingly.</verse>
+        <verse osisID='2Kgs.17.16'>They forsook the commandments of the Lord their God, and made themselves <note>Gr. a graven image</note> graven images, even two heifers, and they made groves, and worshipped all the host of heaven, and served Baal.</verse>
+        <verse osisID='2Kgs.17.17'>And they caused their sons and their daughters to pass through the fire, and used divinations and auspices, and <note>Gr. were sold</note> sold themselves to work wickedness in the sight of the Lord, to provoke him.</verse>
+        <verse osisID='2Kgs.17.18'>And the Lord was very angry with Israel, and removed them out of his sight; and there was only left the tribe of Juda quite alone.</verse>
+        <verse osisID='2Kgs.17.19'>Nay even Juda kept not the commandments of the Lord their God, but they walked according to the customs of Israel which they practised, and rejected the Lord.</verse>
+        <verse osisID='2Kgs.17.20'>And the Lord was angry with the whole seed of Israel, and <note>Or, unsettled them</note> troubled them, and gave them into the hand of them that spoiled them, until he cast them out of his presence.</verse>
+        <verse osisID='2Kgs.17.21'>
+          <note>The Complut. is better, plhn oti erragh o israhl ap oikou k. t. l.</note> Forasmuch as Israel revolted from the house of David, and they made Jeroboam the son of Nabat king: and Jeroboam drew off Israel from following the Lord, and led them to sin a great sin.</verse>
+        <verse osisID='2Kgs.17.22'>And the children of Israel walked in all the sin of Jeroboam which he committed; they departed not from it,</verse>
+        <verse osisID='2Kgs.17.23'>until the Lord removed Israel from his presence, as the Lord spoke <note>Gr. by the hand of</note> by all his servants the prophets; and Israel was removed from off their land to the Assyrians until this day.</verse>
+        <verse osisID='2Kgs.17.24'>And the king of Assyria brought from Babylon the men of Chutha, and men from Aia, and from Æmath, and Seppharvaim, and they were settled in the cities of Samaria in the place of the children of Israel: and they inherited Samaria, and were settled in its cities.</verse>
+        <verse osisID='2Kgs.17.25'>And it was so at the beginning of their establishment there that they feared not the Lord, and the Lord sent lions among them, and they slew some of them.</verse>
+        <verse osisID='2Kgs.17.26'>And they spoke to the king of the Assyrians, saying, The nations whom thou hast removed and substituted in the cities of Samaria for the Israelites, know not <note>Gr. judgement; Hebraism</note> the manner of the God of the land: and he has sent the lions against them, and, behold, they are slaying them, because they know not the manner of the God of the land.</verse>
+        <verse osisID='2Kgs.17.27'>And the king of the Assyrians commanded, saying, Bring some Israelites thence, and let them go and dwell there, and they shall teach them the manner of the God of the land.</verse>
+        <verse osisID='2Kgs.17.28'>And they brought one of the priests whom they had removed from Samaria, and he settled in Baethel, and taught them how they should fear the Lord.</verse>
+        <verse osisID='2Kgs.17.29'>But the nations made each their own gods, and put them in the house of the high places which the Samaritans had made, each nation in the cities in which they dwelt.</verse>
+        <verse osisID='2Kgs.17.30'>And the men of Babylon made Socchoth Benith, and the men of Chuth made Ergel, and the men of Haemath made Asimath.</verse>
+        <verse osisID='2Kgs.17.31'>And the Evites made Eblazer and Tharthac, and the inhabitant of Seppharvaim did evil when they burnt their sons in the fire to Adramelech and Anemelech, the gods of Seppharvaim.</verse>
+        <verse osisID='2Kgs.17.32'>And they feared the Lord, yet they established their abominations in the houses of the high places which they made in Samaria, each nation in the city in which they dwelt: and they feared the Lord, and they made for themselves priests of the high places, and sacrificed for themselves in the house of the high places.</verse>
+        <verse osisID='2Kgs.17.33'>And they feared the Lord, and served their gods according to the manner of the nations, whence their lords brought them.</verse>
+        <verse osisID='2Kgs.17.34'>Until this day they did according to their manner: they fear the Lord, and they do according to their customs, and according to their manner, and according to the law, and according to the commandment which the Lord commanded the sons of Jacob, whose name he made Israel.</verse>
+        <verse osisID='2Kgs.17.35'>And the Lord made a covenant with them, and charged them, saying, Ye shall not fear other gods, neither shall ye worship them, nor serve them, nor sacrifice to them:</verse>
+        <verse osisID='2Kgs.17.36'>but only to the Lord, who brought you up out of the land of Egypt with great strength and with a high arm: him shall ye fear, and him shall ye worship; to him shall ye sacrifice.</verse>
+        <verse osisID='2Kgs.17.37'>Ye shall observe continually the ordinances, and the judgements, and the law, and the commandments which he wrote for you to do; and ye shall not fear other gods.</verse>
+        <verse osisID='2Kgs.17.38'>Neither shall ye forget the covenant which he made with you: and ye shall not fear other gods.</verse>
+        <verse osisID='2Kgs.17.39'>But ye shall fear the Lord your God, and he shall deliver you from all your enemies.</verse>
+        <verse osisID='2Kgs.17.40'>Neither shall ye comply with their practice, which they follow.</verse>
+        <verse osisID='2Kgs.17.41'>So these nations feared the Lord, and served their graven images: yea, their sons and their son’s sons do until this day even as their fathers did.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.18'>
+        <verse osisID='2Kgs.18.1'>And it came to pass in the third year of Osee son of Ela king of Israel that Ezekias son of Achaz king of Juda <note>Gr. reigned</note> began to reign.</verse>
+        <verse osisID='2Kgs.18.2'>
+          <note>Gr. a son of 25 years in his reigning</note> Five and twenty years old was he when he began to reign, and he reigned twenty and nine years in Jerusalem: and his mother’s name was Abu, daughter of Zacharias.</verse>
+        <verse osisID='2Kgs.18.3'>And he did that which was right in the sight of the Lord, according to all that his father David did.</verse>
+        <verse osisID='2Kgs.18.4'>He <note>Or, destroyed</note> removed the high places, and broke in pieces the pillars, and utterly destroyed the groves, and the brazen serpent which Moses made: because until those days the children of Israel burnt incense to it: and he called it Neesthan.</verse>
+        <verse osisID='2Kgs.18.5'>He <note>Gr. hoped</note> trusted in the Lord God of Israel; and after him there was not any like him among the kings of Juda, <note>Gr. and</note> nor among those that were before him.</verse>
+        <verse osisID='2Kgs.18.6'>And he clave to the Lord, he departed not <note>Gr. from behind him</note> from following him; and he kept his commandments, as many as he commanded Moses.</verse>
+        <verse osisID='2Kgs.18.7'>And the Lord was with him; and he was wise in all that he undertook: and he revolted from the king of the Assyrians, and served him not.</verse>
+        <verse osisID='2Kgs.18.8'>He smote the Philistines even to Gaza, and to the border of it, from the tower of the watchmen even to the strong city.</verse>
+        <verse osisID='2Kgs.18.9'>And it came to pass in the fourth year of King Ezekias (this is the seventh year of Osee son of Ela king of Israel,) that Salamanassar king of the Assyrians came up against Samaria, and besieged it.</verse>
+        <verse osisID='2Kgs.18.10'>And he took it <note>Gr. from</note> at the end of three years, in the sixth year of Ezekias, (this is the ninth year of Osee king of Israel, when Samaria was taken.)</verse>
+        <verse osisID='2Kgs.18.11'>And the king of the Assyrians carried away the <note>Gr. Samaria to the Assyrians</note> Samaritans to Assyria, and put them in Alae and in Abor, by the river Gozan, and in the mountains of the Medes;</verse>
+        <verse osisID='2Kgs.18.12'>because they hearkened not to the voice of the Lord their God, and transgressed his covenant, even in all things that Moses the servant of the Lord commanded, and hearkened not to them, nor did them.</verse>
+        <verse osisID='2Kgs.18.13'>And in the fourteenth year of king Ezekias came up Sennacherim king of the Assyrians against the strong cities of Juda, and took them.</verse>
+        <verse osisID='2Kgs.18.14'>And Ezekias king of Juda sent messengers to the king of the Assyrians to Lachis, saying, I have offended; depart from me: whatsoever thou shalt lay upon me, I will bear. And the king of Assyria laid upon Ezekias king of Juda a tribute of three hundred talents of silver, and thirty talents of gold.</verse>
+        <verse osisID='2Kgs.18.15'>And Ezekias gave all the silver that was found in the house of the Lord, and in the treasures of the king’s house.</verse>
+        <verse osisID='2Kgs.18.16'>At that time Ezekias cut off the gold from the doors of the temple, and from the pillars which Ezekias king of Juda had overlaid with gold, and gave <note>Gr. them</note> it to the king of the Assyrians.</verse>
+        <verse osisID='2Kgs.18.17'>And the king of the Assyrians sent Tharthan and Raphis and Rapsakes from Lachis to king Ezekias with a <note>Gr. heavy</note> strong force against Jerusalem. And they went up and came to Jerusalem, and stood by the aqueduct of the upper pool, which is by the way of the fuller’s field.</verse>
+        <verse osisID='2Kgs.18.18'>And they cried to Ezekias: and there came to him Heliakim the son of Chelcias the steward, and Somnas the scribe, and Joas the son of Saphat the recorder.</verse>
+        <verse osisID='2Kgs.18.19'>And Rapsakes said to them, Say now to Ezekias, Thus says the king, the great king of the Assyrians, What is this confidence wherein thou trustest?</verse>
+        <verse osisID='2Kgs.18.20'>Thou hast said, (but they are <note>Gr. words of lips</note> mere words,) I have counsel and strength for war. Now then <note>Gr. in whom trusting, etc.</note> in whom dost thou trust, that thou hast revolted from me?</verse>
+        <verse osisID='2Kgs.18.21'>See now, art thou trusting for thyself on this broken staff of reed, even upon Egypt? whosoever shall stay himself upon it, it shall even go into his hand, and pierce it: so is Pharao king of Egypt to all that trust on him.</verse>
+        <verse osisID='2Kgs.18.22'>And whereas thou hast said to me, We trust on the Lord God: is not this he, <note>Gr. his</note> whose high places and altars Ezekias has removed, and has said to Juda and Jerusalem, Ye shall worship before this altar in Jerusalem?</verse>
+        <verse osisID='2Kgs.18.23'>And now, I pray you, make an agreement with my lord the king of the Assyrians, and I will give thee two thousand horses, if thou shalt be able on thy part to <note>Gr. give</note> set riders upon them.</verse>
+        <verse osisID='2Kgs.18.24'>How then wilt thou turn away the face of one <note>Gr. local ruler</note> petty governor, from among the least of my lord’s servants? whereas thou trustest for thyself on Egypt for chariots and horsemen.</verse>
+        <verse osisID='2Kgs.18.25'>And now have we come up without the Lord against this place to destroy it? The Lord said to me, Go up against this land, and destroy it.</verse>
+        <verse osisID='2Kgs.18.26'>And Heliakim the son of Chelkias, and Somnas, and Joas, said to Rapsakes, Speak now to thy servants in the Syrian language, for we understand it; and speak not with us in the Jewish language: and why dost thou speak in the ears of the people that are on the wall?</verse>
+        <verse osisID='2Kgs.18.27'>And Rapsakes said to them, Has my master sent me to thy master, and to thee, to speak these words? has he not sent me to the men who sit on the wall, that they may eat their own dung, and drink their own water together with you.</verse>
+        <verse osisID='2Kgs.18.28'>And Rapsakes stood, and cried with a loud voice in the Jewish language, and spoke, and said, Hear the words of the great king of the Assyrians:</verse>
+        <verse osisID='2Kgs.18.29'>thus says the king, Let not Ezekias encourage you with words: for he shall not be able to deliver you out of his hand.</verse>
+        <verse osisID='2Kgs.18.30'>And let not Ezekias cause you to trust on the Lord, saying, The Lord will certainly deliver us; this city shall not be delivered <note>Gr. in</note> into the hand of the king of the Assyrians: hearken not to Ezekias:</verse>
+        <verse osisID='2Kgs.18.31'>for thus says the king of the Assyrians, <note>Lit. make a blessing with me</note> Gain my favour, and come forth to me, and every man shall drink of the wine of his own vine, and every man shall eat of his own fig-tree, and shall drink water out of his own cistern;</verse>
+        <verse osisID='2Kgs.18.32'>until I come and remove you to a land like your own land, a land of corn and wine, and bread and vineyards, a land of olive oil, and honey, and ye shall live and not die: and do not ye hearken to Ezekias, for he deceives you, saying, The Lord shall deliver you.</verse>
+        <verse osisID='2Kgs.18.33'>Have the Gods of the nations at all delivered each their own land out of the hand of the king of the Assyrians?</verse>
+        <verse osisID='2Kgs.18.34'>Where is the god of Haemath, and of Arphad? where is the god of Seppharvaim, Ana, and Aba? for have they delivered Samaria out of my hand?</verse>
+        <verse osisID='2Kgs.18.35'>Who is there among all the gods of the countries, who have delivered their countries out of my hand, that the Lord <note>Gr. shall deliver</note> should deliver Jerusalem out of my hand?</verse>
+        <verse osisID='2Kgs.18.36'>But the men were silent, and answered him not a word: for there was a commandment of the king, saying, Ye shall not answer him.</verse>
+        <verse osisID='2Kgs.18.37'>And Heliakim the son of Chelcias, the steward, and Somnas the scribe, and Joas the son of Saphat the recorder came in to Ezekias, having rent their garments; and they reported to him the words of Rapsakes.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.19'>
+        <verse osisID='2Kgs.19.1'>And it came to pass when king Ezekias heard it, that he rent his clothes, and put on sackcloth, an went into the house of the Lord.</verse>
+        <verse osisID='2Kgs.19.2'>And he sent Heliakim the steward, and Somnas the scribe, and the elders of the priests, clothed with <note>Gr. sackclothes</note> sackcloth, to Esaias the prophet the son of Amos.</verse>
+        <verse osisID='2Kgs.19.3'>And they said to him, Thus says Ezekias, This day is a day of tribulation, and rebuke, and provocation: for the children are come to the travail-pangs, but the mother has no strength.</verse>
+        <verse osisID='2Kgs.19.4'>
+          <note>Gr. if by any means</note> Peradventure the Lord thy God will hear all the words of Rapsakes, whom the king of Assyria his master has sent to reproach the living God and to revile him with the words which the Lord thy God has heard: and thou shalt <note>Gr. take</note> offer thy prayer for the remnant that is found.</verse>
+        <verse osisID='2Kgs.19.5'>So the servants of king Ezekias came to Esaias.</verse>
+        <verse osisID='2Kgs.19.6'>And Esaias said to them, Thus shall ye say to your master, Thus saith the Lord, Be not afraid of the words which thou hast heard, wherewith the servants of the king of the Assyrians have blasphemed.</verse>
+        <verse osisID='2Kgs.19.7'>Behold, I <note>Gr. give</note> send a blast upon him, and he shall hear a report, and shall return to his own land; and I will overthrow him with the sword in his own land.</verse>
+        <verse osisID='2Kgs.19.8'>So Rapsakes returned, and found the king of Assyria warring against Lobna: for he heard that he had departed from Lachis.</verse>
+        <verse osisID='2Kgs.19.9'>And he heard concerning Tharaca king of the Ethiopians, saying, Behold, he is come forth to fight with thee: and he returned, and sent messengers to Ezekias, saying,</verse>
+        <verse osisID='2Kgs.19.10'>Let not thy God on whom thou trustest encourage thee, saying, Jerusalem shall not be delivered into the hands of the king of the Assyrians.</verse>
+        <verse osisID='2Kgs.19.11'>Behold, thou hast heard all that the kings of the Assyrians have done in all the lands, to <note>Gr. curse them, q. d. devoted to destruction</note> waste them utterly: and shalt thou be delivered?</verse>
+        <verse osisID='2Kgs.19.12'>Have the gods of the nations at all delivered them, whom my fathers destroyed; both Gozan, and Charran, and Raphis, and the sons of Edem who were in Thaesthen?</verse>
+        <verse osisID='2Kgs.19.13'>Where is the king of Haemath, and the king of Arphad? and where is the king of the city of Seppharvaim, of Ana, and Aba?</verse>
+        <verse osisID='2Kgs.19.14'>And Ezekias took <note>Gr. the books</note> the letter from the hand of the messengers, and read <note>Gr. them</note> it: and he went up to the house of the Lord, an Ezekias spread it before the Lord,</verse>
+        <verse osisID='2Kgs.19.15'>and said, O Lord God of Israel that dwellest over the cherubs, thou art the only god in all the kingdoms of the earth; thou hast made heaven and earth.</verse>
+        <verse osisID='2Kgs.19.16'>Incline thine ear, O Lord, and hear: open, Lord, thine eyes, and see: and hear the words of Sennacherim, which he has sent to reproach the living God.</verse>
+        <verse osisID='2Kgs.19.17'>For truly, Lord, the kings of <note>Gr. the Assyrians</note> Assyria have wasted the nations,</verse>
+        <verse osisID='2Kgs.19.18'>and <note>Gr. gave</note> have cast their gods into the fire: because they are no gods, but the works of men’s hands, wood and stone; and they have destroyed them.</verse>
+        <verse osisID='2Kgs.19.19'>And now, O Lord our God, deliver us out of his hand, and all the kingdoms of the earth shall know that thou alone art the Lord God.</verse>
+        <verse osisID='2Kgs.19.20'>And Esaias the son of Amos sent to Ezekias, saying, Thus saith the Lord God of hosts, the God of Israel, I have heard <note>Lit. what things thou hast prayed</note> thy prayer to me concerning Sennacherim king of the Assyrians.</verse>
+        <verse osisID='2Kgs.19.21'>This is the word which the Lord has spoken against him; The virgin daughter of Sion has made light of thee, and mocked thee; the daughter of Jerusalem has shaken her head at thee.</verse>
+        <verse osisID='2Kgs.19.22'>Whom hast thou reproached, and whom hast thou reviled? and against whom hast thou lifted up thy voice, and raised thine eyes on high? Is it against the Holy One of Israel?</verse>
+        <verse osisID='2Kgs.19.23'>By <note>Gr. by the hand of</note> thy messengers thou has reproached the Lord, and hast said, I will go up with the multitude of my chariots, to the height of the mountains, to the sides of Libanus, and I have cut down the <note>Gr. bulk or size</note> height of his cedar, and his choice cypresses; and I have come into the midst of the forest and of Carmel.</verse>
+        <verse osisID='2Kgs.19.24'>I have <note>Alex. reads efulaxa</note> refreshed myself, and have drunk strange waters, and I have dried up with the sole of my foot all the rivers of fortified places.</verse>
+        <verse osisID='2Kgs.19.25'>I have brought about the matter, I have brought it to a conclusion; and it is come to the <note>Gr. captivities</note> destruction of the bands of warlike prisoners, even of strong cities.</verse>
+        <verse osisID='2Kgs.19.26'>And they that dwelt in them were weak in hand, they quaked and were confounded, they became as grass of the field, or as the green herb, the grass growing on houses, and that which is trodden down <note>Or, before it stands up</note> by him that stands upon it.</verse>
+        <verse osisID='2Kgs.19.27'>But I know thy <note>Gr. seat</note> down-sitting, and thy going forth, and thy rage against me.</verse>
+        <verse osisID='2Kgs.19.28'>Because thou was angry against me, and thy fierceness is come up into my ears, therefore will I put my hooks in thy nostrils, and my bridle in thy lips, and I will turn thee back by the way by which thou camest.</verse>
+        <verse osisID='2Kgs.19.29'>And this shall be a sign to thee; eat this year the things that grow of themselves, and in the second year the things which spring up: and in the third year let there be sowing, and reaping, and planting of vineyards, and eat ye the fruit of them.</verse>
+        <verse osisID='2Kgs.19.30'>And he shall <note>Gr. add</note> increase <note>Alex. to diases oikon</note> him that has escaped of the house of Juda: and the remnant shall strike root beneath, and it shall produce fruit above.</verse>
+        <verse osisID='2Kgs.19.31'>For from Jerusalem shall go forth a remnant, and he that escapes from the mountain of Sion: the zeal of the Lord of host shall do this.</verse>
+        <verse osisID='2Kgs.19.32'>Is it not so? Thus saith the Lord <note>Or, of; Hebrew</note> concerning the king of the Assyrians, He shall not enter into this city, and he shall not shoot <note>Gr. a weapon</note> an arrow there, neither shall a shield <note>Gr. come against it beforehand, etc.</note> come against it, neither shall he heap a mound against it.</verse>
+        <verse osisID='2Kgs.19.33'>By the way by which he comes, by it shall he return, and he shall not enter into this city, saith the Lord.</verse>
+        <verse osisID='2Kgs.19.34'>And I will defend this city as with a shield, for my own sake, and for my servant David’s sake.</verse>
+        <verse osisID='2Kgs.19.35'>And it came to pass at night that the angel of the Lord went forth, an smote in the camp of the Assyrians a hundred and eighty-five thousand: and they rose early in the morning, and, behold, these were all dead corpses.</verse>
+        <verse osisID='2Kgs.19.36'>And Sennacherim king of the Assyrians departed, and went and returned, and dwelt in Nineve.</verse>
+        <verse osisID='2Kgs.19.37'>And it came to pass, while he was worshipping in the house of Meserach his god, that Adramelech and Sarasar his sons smote him with the sword: and they escaped into the land of Ararath; and Asordan his son reigned in his stead.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.20'>
+        <verse osisID='2Kgs.20.1'>In those days was Ezekias sick even to death. And the prophet Esaias the son of Amos came in to him, and said to him, Thus saith the Lord, Give charge to thy household; for thou <note>Gr. diest</note> shalt die, and not live.</verse>
+        <verse osisID='2Kgs.20.2'>And Ezekias turned to the wall, and prayed to the Lord, saying,</verse>
+        <verse osisID='2Kgs.20.3'>Lord, remember, I pray thee, how I have walked before thee in truth and with a <note>Gr. full</note> perfect heart, and have done that which is good in thine eyes. And Ezekias wept with a great weeping.</verse>
+        <verse osisID='2Kgs.20.4'>And Esaias was in the middle court, and the word of the Lord came to him, saying,</verse>
+        <verse osisID='2Kgs.20.5'>Turn back, and thou shalt say to Ezekias the ruler of my people, Thus saith the Lord God of thy father David, I have heard thy prayer, I have seen thy tears: behold, I will heal thee: on the third day thou shalt go up to the house of the Lord.</verse>
+        <verse osisID='2Kgs.20.6'>And I will add to thy days fifteen years; and I will deliver thee and this city out of the hand of the king of the Assyrians, and I will defend this city for my own sake, and for my servant’s David sake.</verse>
+        <verse osisID='2Kgs.20.7'>And he said, Let them take a cake of figs, and lay it upon the ulcer, and he shall be well.</verse>
+        <verse osisID='2Kgs.20.8'>And Ezekias said to Esaias, What is the sign that the Lord will heal me, and I shall go up to the house of the Lord on the third day?</verse>
+        <verse osisID='2Kgs.20.9'>And Esaias said, This is the sign from the Lord, that the Lord will perform the word which he has spoken, the shadow of the dial shall advance ten degrees: or if it should go back ten degrees this would also be the sign.</verse>
+        <verse osisID='2Kgs.20.10'>And Ezekias said, It is a light thing for the shadow to go down ten degrees: nay, but let the shadow return ten degrees backward <note>Gr. in the degrees</note> on the dial.</verse>
+        <verse osisID='2Kgs.20.11'>And Esaias the prophet cried to the Lord: and the shadow returned back ten degrees <note>Gr. in the degrees</note> on the dial.</verse>
+        <verse osisID='2Kgs.20.12'>At that time Marodach Baladan, son of Baladan king of Babylon, sent letters and a present to Ezekias, because he had heard that Ezekias was sick.</verse>
+        <verse osisID='2Kgs.20.13'>And Ezekias rejoiced at them, and shewed all the house of his spices, the silver and the gold, the spices, and the fine oil, and the armory, and all that was found in his treasures: there was nothing which Ezekias did not shew them in his house, and in all his dominion.</verse>
+        <verse osisID='2Kgs.20.14'>And Esaias the prophet went in to king Ezekias, and said to him, What said these men? and whence came they to thee? And Ezekias said, they came to me from a distant land, even from Babylon.</verse>
+        <verse osisID='2Kgs.20.15'>And he said, What saw they in thy house? And he said, They saw all things that are in my house: there was nothing in my house which I shewed not to them; yea, all that was in my treasures also.</verse>
+        <verse osisID='2Kgs.20.16'>And Esaias said to Ezekias, Hear the word of the Lord:</verse>
+        <verse osisID='2Kgs.20.17'>Behold, the days come, that all things that are in thy house shall be taken, and all that thy fathers have treasured up until this day, to Babylon; and there shall not <note>Gr. be left behind</note> fail a word, which the Lord has spoken.</verse>
+        <verse osisID='2Kgs.20.18'>And as for thy sons which shall come forth of thee, which thou shalt beget, the enemy shall take them, and they shall be eunuchs in the house of the king of Babylon.</verse>
+        <verse osisID='2Kgs.20.19'>And Ezekias said to Esaias, Good is the word of the Lord which he has spoken: only let there be peace in my days.</verse>
+        <verse osisID='2Kgs.20.20'>And the rest of the acts of Ezekias, and all his might, and all that he made, the fountain and the aqueduct, and how he brought water into the city, are not these things written in the book of the chronicles of the kings of Juda?</verse>
+        <verse osisID='2Kgs.20.21'>And Ezekias slept with his fathers: and Manasses his son reigned in his stead.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.21'>
+        <verse osisID='2Kgs.21.1'>
+          <note>Gr. a son of 12 years in his reigning</note> Manasses was twelve years old when he began to reign, and he reigned fifty-five years in Jerusalem: and his mother’s name was Apsiba.</verse>
+        <verse osisID='2Kgs.21.2'>And he did that which was evil in the eyes of the Lord, according to the abominations of the nations which the Lord cast out from before the children of Israel.</verse>
+        <verse osisID='2Kgs.21.3'>And he <note>Gr. returned and built</note> built again the high places, which Ezekias his father had demolished; and <note>Gr. or built</note> set up an altar to Baal, and made groves as Achaab king of Israel made them; and worshipped all the host of heaven, and served them.</verse>
+        <verse osisID='2Kgs.21.4'>And he built an altar in the house of the Lord, whereas he had said, In Jerusalem I will place my name.</verse>
+        <verse osisID='2Kgs.21.5'>And he built an altar to all the host of heaven in the two courts of the house of the Lord.</verse>
+        <verse osisID='2Kgs.21.6'>And he caused his sons to pass through the fire, and used divination and auspices, and made <note>Lit. peculiar places cut off</note> groves, and multiplied <note>Alex. yelhthn</note> wizards, so as to do that which was evil in the sight of the Lord, to provoke him to anger.</verse>
+        <verse osisID='2Kgs.21.7'>And he set up the graven image of the grove in the house of which the Lord said to David, and to Solomon his son, In this house, and in Jerusalem which I have chosen out of all the tribes of Israel, will I even place my name for ever.</verse>
+        <verse osisID='2Kgs.21.8'>And I will not again remove the foot of Israel from the land which I gave to their fathers, even of those who shall keep all that I commanded, according to all the commandments which my servant Moses commanded them.</verse>
+        <verse osisID='2Kgs.21.9'>But they hearkened not; and Manasses led them astray to do evil in the sight of the Lord, beyond the nations whom the Lord utterly destroyed from before the children of Israel.</verse>
+        <verse osisID='2Kgs.21.10'>And the Lord spoke by his servants the prophets, saying,</verse>
+        <verse osisID='2Kgs.21.11'>Forasmuch as Manasses the king of Juda has wrought all these evil abominations, beyond all that the Amorite did, who lived before him, and has led Juda also into sin by their idols,</verse>
+        <verse osisID='2Kgs.21.12'>it shall not be so. Thus saith the Lord God of Israel, Behold, I bring calamities upon Jerusalem and Juda, so that both the ears of every one that hears shall <note>Gr. sound</note> tingle.</verse>
+        <verse osisID='2Kgs.21.13'>And I will stretch out over Jerusalem the measure of Samaria, and the plummet of the house of Achaab: and I will wipe Jerusalem as a jar is wiped, and turned upside down in the wiping.</verse>
+        <verse osisID='2Kgs.21.14'>And I will reject the remnant of my inheritance, and will deliver them into the hands of their enemies; and they shall be for a plunder and for a spoil to all their enemies:</verse>
+        <verse osisID='2Kgs.21.15'>forasmuch as they have done wickedly in my sight, and have provoked me from the day that I brought out their fathers out of Egypt, even until this day.</verse>
+        <verse osisID='2Kgs.21.16'>Moreover Manasses shed very much innocent blood, until he filled Jerusalem with it <note>Gr. mouth to mouth</note> from one end to the other, beside his sins with which he caused Juda to sin, in doing evil in the eyes of the Lord.</verse>
+        <verse osisID='2Kgs.21.17'>And the rest of the acts of Manasses, and all that he did, and his sin which he sinned, are not these things written in the book of the chronicles of the kings of Juda?</verse>
+        <verse osisID='2Kgs.21.18'>And Manasses slept with his fathers, and was buried in the garden of his house, even in the garden of Oza: and Amos his son reigned in his stead.</verse>
+        <verse osisID='2Kgs.21.19'>Twenty and two years old was Amos when he began to reign, and he reigned two years in Jerusalem: and his mother’s name was Mesollam, daughter of Arus of Jeteba.</verse>
+        <verse osisID='2Kgs.21.20'>And he did that which was evil in the sight of the Lord, as Manasses his father did.</verse>
+        <verse osisID='2Kgs.21.21'>And he walked in all the way in which his father walked, and served the idols which his father served, and worshipped them.</verse>
+        <verse osisID='2Kgs.21.22'>And he forsook the Lord God of his fathers, and walked not in the way of the Lord.</verse>
+        <verse osisID='2Kgs.21.23'>And the servants of Amos conspired against him, and slew the king in his house.</verse>
+        <verse osisID='2Kgs.21.24'>And the people of the land <note>Gr. smote</note> slew all that had conspired against king Amos; and the people of the land made Josias king in his room.</verse>
+        <verse osisID='2Kgs.21.25'>And the rest of the acts of Amos, even all that he did, behold, are not these written in the book of the chronicles of the kings of Juda?</verse>
+        <verse osisID='2Kgs.21.26'>And they buried him in his tomb in the garden of Oza: and Josias his son reigned in his stead.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.22'>
+        <verse osisID='2Kgs.22.1'>Josias was eight years old when he began to <note>Gr. a son of eight years in his reigning</note> reign, and he reigned thirty and one years in Jerusalem: and his mother’s name was Jedia, daughter of Edeia of Basuroth.</verse>
+        <verse osisID='2Kgs.22.2'>And he did that which was right in the sight of the Lord, and walked in all the way of David his father; he turned not aside to the right hand or to the left.</verse>
+        <verse osisID='2Kgs.22.3'>And it came to pass in the eighteenth year of king Josias, in the eighth month, the king sent Sapphan the son of Ezelias the son of Mesollam, the scribe of the house of the Lord, saying,</verse>
+        <verse osisID='2Kgs.22.4'>Go up to Chelcias the high priest, and <note>Gr. seal</note> take account of the money that is brought into the house of the Lord, which they that keep the door have collected of the people.</verse>
+        <verse osisID='2Kgs.22.5'>And let them give it into the hand of the workmen that are appointed in the house of the Lord. And he gave it to the workmen in the house of the Lord, to <note>Gr. strengthen</note> repair the <note>Gr. breach, as in chapter 12</note> breaches of the house,</verse>
+        <verse osisID='2Kgs.22.6'>even to the carpenters, and builders, and masons, and also to purchase timber and hewn stones, to repair the <note>Gr. breach, as in chapter 12</note> breaches of the house.</verse>
+        <verse osisID='2Kgs.22.7'>Only they did not call them to account for the money that was given to them, because they dealt faithfully.</verse>
+        <verse osisID='2Kgs.22.8'>And Chelcias the high priest said to Saphan the scribe, I have found the book of the law in the house of the Lord. And Chelcias gave the book to Sapphan, and he read it.</verse>
+        <verse osisID='2Kgs.22.9'>And he went into the house of the Lord to the king, and reported the matter to the king, and said, Thy servants have <note>Gr. melted down</note> collected the money that was found in the house of the Lord, and have given it into the hand of the workmen that are appointed in the house of the Lord.</verse>
+        <verse osisID='2Kgs.22.10'>And Sapphan the scribe spoke to the king, saying, Chelcias the priest has given me a book. And Sapphan read it before the king.</verse>
+        <verse osisID='2Kgs.22.11'>And it came to pass, when the king heard the words of the book of the law, that he rent his garments.</verse>
+        <verse osisID='2Kgs.22.12'>And the king commanded Chelcias the priest, and Achikam the son of Sapphan, and Achobor the son of Michaias, and Sapphan the scribe, and Asaias the king’s servant, saying,</verse>
+        <verse osisID='2Kgs.22.13'>Go, enquire of the Lord for me, and for all the people, and for all Juda, and concerning the words of this book that has been found: for the wrath of the Lord that has been kindled against us is great, because our fathers hearkened not to the words of this book, to do according to all the things written concerning us.</verse>
+        <verse osisID='2Kgs.22.14'>So Chelcias the priest went, and Achicam, and Achobor, and Sapphan, and Asaias, to Olda the prophetess, the mother of Sellem the son of Thecuan son of Aras, keeper of the robes; and she dwelt in Jerusalem in <note>A. V. «the college; Margin, «the second part’</note> Masena; and they spoke to her.</verse>
+        <verse osisID='2Kgs.22.15'>And she said to them, Thus saith the Lord God of Israel, Say to the man that sent you to me,</verse>
+        <verse osisID='2Kgs.22.16'>Thus saith the Lord, Behold, I bring evil upon this place, and upon them that dwell in it, even all the words of the book which the king of Juda has read:</verse>
+        <verse osisID='2Kgs.22.17'>because they have forsaken me, and burnt incense to other gods, that they might provoke me with the works of their hands: therefore my wrath shall burn forth against this place, and shall not be quenched.</verse>
+        <verse osisID='2Kgs.22.18'>And to the king of Juda that sent you to enquire of the Lord, —thus shall ye say to him, Thus saith the Lord God of Israel, As for the words which thou hast heard;</verse>
+        <verse osisID='2Kgs.22.19'>because thy heart was softened, and thou was humbled before me, when thou heardest all that I spoke against this place, and against the inhabitants of it, that it should be <note>Gr. for an abolition and a curse</note> utterly destroyed and accursed, and thou didst rend thy garments, and weep before me; I also have heard, saith the Lord.</verse>
+        <verse osisID='2Kgs.22.20'>It shall not be so therefore: behold, I will add thee to thy fathers, and thou shalt be gathered to thy tomb in peace, and thine <note>Gr. none, etc. shall be seen by thine eyes</note> eyes shall not see any among all the evils which I bring upon this place.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.23'>
+        <verse osisID='2Kgs.23.1'>So they reported the word to the king: and the king sent and gathered all the elders of Juda and Jerusalem to <note>Or, to his house</note> himself.</verse>
+        <verse osisID='2Kgs.23.2'>And the king went up to the house of the Lord, and every man of Juda and all who dwelt in Jerusalem with him, and the priests, and the prophets, and all the people small and great; and he read in their ears all the words of the book of the covenant that was found in the house of the Lord.</verse>
+        <verse osisID='2Kgs.23.3'>And the king stood by a pillar, and made a covenant before the Lord, to walk after the Lord, to keep his commandments and his testimonies and his ordinances with all the heart and with all the soul, to confirm the words of this covenant; even the things written <note>Gr. on</note> in this book. And all the people stood <note>Gr. in</note> to the covenant.</verse>
+        <verse osisID='2Kgs.23.4'>And the king commanded Chelcias the high priest, and the priests of the second order, and them that kept the door, to bring out of the temple of the Lord all the vessels that were made for Baal, and for the grove, and all the host of heaven, and he burned them without Jerusalem in the <note>The Gr. is from the Heb. word</note> fields of Kedron, and <note>Gr. cast</note> took the ashes of them to Baethel.</verse>
+        <verse osisID='2Kgs.23.5'>And he burned the <note>Heb. Myrmkh</note> idolatrous priests, whom the kings of Juda had <note>Gr. given</note> appointed, (and they burned incense in the high places and in the cities of Juda, and the places around about Jerusalem); and them that burned incense to Baal, and to the sun, and to the moon, and to <note>Or, the twelve signs; Heb. twlzmlw compare Job 38:32</note> Mazuroth, and to all the host of heaven.</verse>
+        <verse osisID='2Kgs.23.6'>And he carried out the grove from the house of the Lord to the brook Kedron, and burned it at the brook Kedron, and reduced it to <note>Or, ashes</note> powder, and cast its powder on the sepulchres of the sons of the people.</verse>
+        <verse osisID='2Kgs.23.7'>And he pulled down the house of the <note>The Gr. is from the Hebrew word</note> sodomites that were by the house of the Lord, where the women wove tents for the grove.</verse>
+        <verse osisID='2Kgs.23.8'>And he brought up all the priest from the cities of Juda, and defiled the high places where the priests burned incense, from Gaebal even to Bersabee; and he pulled down the house of the gates that was by the door of the gate of Joshua the ruler of the city, on a man’s left hand at the gate of the city.</verse>
+        <verse osisID='2Kgs.23.9'>Only the priests of the high places went not up to the altar of the Lord in Jerusalem, for they only ate leavened bread in the midst of their brethren.</verse>
+        <verse osisID='2Kgs.23.10'>And he defiled Tapheth which is in the valley of the son of Ennom, constructed for a man to cause his son or his daughter to pass <note>Gr. in fire</note> through fire to Moloch.</verse>
+        <verse osisID='2Kgs.23.11'>And he burned the horses which the king of Juda had given to the sun in the entrance of the house of the Lord, <note>Gr. to</note> by the treasury of Nathan the <note>Heb. Nathan-melech</note> king’s eunuch, in the <note>Gr. again from the Hebrew</note> suburbs; and he burned the chariot of the sun with fire.</verse>
+        <verse osisID='2Kgs.23.12'>And the altars that were on the roof of the upper chamber of Achaz, which the kings of Juda had made, and the altars which Manasses had made in the two courts of the house of the Lord, did the king pull down and forcibly remove from thence, and cast their dust into the brook of Kedron.</verse>
+        <verse osisID='2Kgs.23.13'>And the king defiled the house that was before Jerusalem, on the right hand of the mount of Mosthath, which Solomon king of Israel built to Astarte the abomination of the Sidonians, and to Chamos the abomination of Moab, and to Moloch the abomination of the children of Ammon.</verse>
+        <verse osisID='2Kgs.23.14'>And he broke in pieces the pillars, and utterly destroyed the groves, and filled their places with the bones of men.</verse>
+        <verse osisID='2Kgs.23.15'>Also the high altar in Baethel, which Jeroboam the son of Nabat, who made Israel to sin, had made, even that high altar he tore down, and broke in pieces the stones of it, and reduced it to powder, and burnt the grove.</verse>
+        <verse osisID='2Kgs.23.16'>And Josias turned aside, and saw the tombs that were there in the city, and sent, and took the bones out of the tombs, and burnt them on the altar, and defiled it, according to the word of the Lord which the man of God spoke, when Jeroboam stood by the altar at the feast: and he turned and raised his eyes to the tomb of the man of God that spoke these words.</verse>
+        <verse osisID='2Kgs.23.17'>And he said, What is that mound which I see? And the men of the city said to him, It is the grave of the man of God that came out of Juda, and uttered these imprecations which he imprecated upon the altar of Baethel.</verse>
+        <verse osisID='2Kgs.23.18'>And he said, Let him alone; let no one disturb his bones. So his bones were <note>Gr. delivered</note> spared, together with the bones of the prophet that came out of Samaria.</verse>
+        <verse osisID='2Kgs.23.19'>Moreover Josias removed all the houses of the high places that were in the cities of Samaria, which the kings of Israel made to provoke the Lord, and did to them all that he did in Baethel.</verse>
+        <verse osisID='2Kgs.23.20'>And he sacrificed all the priests of the high places that were there on the altars, and burnt the bones of men upon them, and returned to Jerusalem.</verse>
+        <verse osisID='2Kgs.23.21'>And the king commanded all the people, saying, Keep the passover to the Lord your God, as it is written in the book of this covenant.</verse>
+        <verse osisID='2Kgs.23.22'>For a passover such as this had not been kept from the days of the judges who judged Israel, even all the days of the kings of Israel, and of the kings of Juda.</verse>
+        <verse osisID='2Kgs.23.23'>But in the eighteenth year of king Josias, was the passover kept to the Lord in Jerusalem.</verse>
+        <verse osisID='2Kgs.23.24'>Moreover Josias removed the sorcerers, and the wizards, and the theraphin, and the idols, and all the abominations that had been set up in the land of Juda and in Jerusalem, that he might <note>Gr. establish or confirm</note> keep the words of the law that were written in the book, which Chelcias the priest found in the house of the Lord.</verse>
+        <verse osisID='2Kgs.23.25'>There was no king like him before him, who turned to the Lord with all his heart, and with all his soul, and with all his strength, according to all the law of Moses; and after him there rose not one like him.</verse>
+        <verse osisID='2Kgs.23.26'>Nevertheless the Lord turned not from the fierceness of his great anger, wherewith he was wroth in his anger against Juda, <note>Gr. upon or against</note> because of the provocations, wherewith Manasses provoked him.</verse>
+        <verse osisID='2Kgs.23.27'>And the Lord said, I will also remove Juda from my presence, as I removed Israel, and will reject this city which I have chosen even Jerusalem, and the house of which I said, My name shall be there.</verse>
+        <verse osisID='2Kgs.23.28'>And the rest of the acts of Josias, and all that he did, are not these things written in the book of the chronicles of the kings of Juda?</verse>
+        <verse osisID='2Kgs.23.29'>And in his days went up Pharao Nechao king of Egypt against the king of the Assyrians to the river Euphrates: and Josias went out to meet him: and Nechao slew him in Mageddo when he saw him.</verse>
+        <verse osisID='2Kgs.23.30'>And his servants carried him dead from Mageddo, and brought him to Jerusalem, and buried him in his sepulchre: and the people of the land took Joachaz the son of Josias, and anointed him, and made him king in the room of his father.</verse>
+        <verse osisID='2Kgs.23.31'>
+          <note>Gr. a son of 23 years was Joachaz in his reigning</note> Twenty and three years old was Joachaz when he began to reign, and he reigned three months in Jerusalem: and his mother’s name was Amital, daughter of Jeremias of Lobna.</verse>
+        <verse osisID='2Kgs.23.32'>And he did that which was evil in the sight of the Lord, according to all that his fathers did.</verse>
+        <verse osisID='2Kgs.23.33'>And Pharao Nechao removed him to Rablaam in the land of Emath, so that he should not reign in Jerusalem; and imposed a tribute on the land, a hundred talents of silver, and a hundred talents of gold.</verse>
+        <verse osisID='2Kgs.23.34'>And Pharao Nechao made Eliakim son of Josias king of Juda king over them in the place of his father Josias, and he changed his name to Joakim, and he took Joachaz and brought him to Egypt, and he died there.</verse>
+        <verse osisID='2Kgs.23.35'>And Joakim gave the silver and the gold to Pharao; but he assessed the land to give the money at the command of Pharao: they gave the silver and the gold each man according to his assessment together with the people of the land to give to Pharao Nechao.</verse>
+        <verse osisID='2Kgs.23.36'>
+          <note>Gr. a son of 25 years was Joakim in his reigning</note> Twenty-five years old was Joakim when he began to reign, and he reigned eleven years in Jerusalem: and his mother’s name was Jeldaph, daughter of Phadail of Ruma.</verse>
+        <verse osisID='2Kgs.23.37'>And he did that which was evil in the eyes of the lord, according to all that his fathers had done.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.24'>
+        <verse osisID='2Kgs.24.1'>In his days went up Nabuchodonosor king of Babylon, and Joakim became his servant three years; and then he turned and revolted from him.</verse>
+        <verse osisID='2Kgs.24.2'>And the lord sent against him the bands of the Chaldeans, and the bands of Syria, and the bands of Moab, and the bands of the children of Ammon, and sent them into the land of Juda to prevail against it, according to the word of the Lord, which he spoke by his servants the prophets.</verse>
+        <verse osisID='2Kgs.24.3'>Moreover it was <note>Gr. on the mind</note> the purpose of the Lord concerning Juda, to remove <note>Gr. him</note> them from his presence, because of the sins of Manasses, according to all that he did.</verse>
+        <verse osisID='2Kgs.24.4'>Moreover he shed innocent blood, and filled Jerusalem with innocent blood, and the Lord would not <note>Gr. be propitiated</note> pardon it.</verse>
+        <verse osisID='2Kgs.24.5'>And the rest of the acts of Joakim, and all that he did, behold, are not these written in the book of the chronicles of the kings of Juda?</verse>
+        <verse osisID='2Kgs.24.6'>And Joakim slept with his fathers: and Joachim his son reigned in his stead.</verse>
+        <verse osisID='2Kgs.24.7'>And the king of Egypt came no more out of his land: for the king of Babylon took away all that belonged to the king of Egypt from the river of Egypt as far as the river Euphrates.</verse>
+        <verse osisID='2Kgs.24.8'>
+          <note>Gr. Joachim a son of 18 years in reigning</note> Eighteen years old was Joachim when he began to reign, and he reigned three months in Jerusalem: and his mother’s name was Nestha, daughter of Ellanastham, of Jerusalem.</verse>
+        <verse osisID='2Kgs.24.9'>And he did that which was evil in the sight of the Lord, according to all that his father did.</verse>
+        <verse osisID='2Kgs.24.10'>At that time went up Nabuchodonosor king of Babylon to Jerusalem, and the city <note>Gr. came into siege</note> was besieged.</verse>
+        <verse osisID='2Kgs.24.11'>And Nabuchodonosor king of Babylon came against the city, and his servants besieged it.</verse>
+        <verse osisID='2Kgs.24.12'>And Joachim king of Juda came forth to the king of Babylon, he and his servants, and his mother, and his princes, and his eunuchs; and the king of Babylon took him in the eighth year of his reign.</verse>
+        <verse osisID='2Kgs.24.13'>And he brought forth thence all the treasures of the house of the Lord, and the treasures of the king’s house, and he cut up all the golden vessels which Solomon the king of Israel had made in the temple of the Lord, according to the word of the Lord.</verse>
+        <verse osisID='2Kgs.24.14'>And he carried away the inhabitants of Jerusalem, and all the captains, and the mighty men, taking captive ten thousand <note>Lit. captives</note> prisoners, and every artificer and <note>Lit. shutter-up</note> smith: and only the poor of the land were left.</verse>
+        <verse osisID='2Kgs.24.15'>And he carried Joachim away to Babylon, and the king’s mother, and the king’s wives, and his eunuchs: and he carried away the mighty men of the land into <note>Gr. emigration</note> captivity from Jerusalem to Babylon.</verse>
+        <verse osisID='2Kgs.24.16'>And all the men of might, even seven thousand, and one thousand artificers and smiths: all were mighty men fit for war; and the king of Babylon carried them captive to Babylon.</verse>
+        <verse osisID='2Kgs.24.17'>And the king of Babylon made <note>A. V. Mattaniah</note> Batthanias his son king in his stead, and called his name Sedekias.</verse>
+        <verse osisID='2Kgs.24.18'>
+          <note>Gr. a son of 21 years, Sedekias</note> Twenty and one years old was Sedekias when he began to reign, and he reigned eleven years in Jerusalem: and his mother’s name was Amital daughter of Jeremias.</verse>
+        <verse osisID='2Kgs.24.19'>And he did that which was evil in the sight of the Lord, according to all that Joachim did.</verse>
+        <verse osisID='2Kgs.24.20'>For it was <note>Lit. it was in the Lord’s mind to bring evil upon</note> according to the Lord’s anger against Jerusalem and on Juda, until he cast them out of his presence, that Sedekias revolted against the king of Babylon.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.25'>
+        <verse osisID='2Kgs.25.1'>And it came to pass in the ninth year of his reign, in the tenth month, that Nabuchodonosor king of Babylon came, and all his host, against Jerusalem; and he encamped against it, and built a <note>Or, circumvallation</note> mound against it.</verse>
+        <verse osisID='2Kgs.25.2'>And the city was besieged until the eleventh year of king Sedekias on the ninth day of the month.</verse>
+        <verse osisID='2Kgs.25.3'>And the famine prevailed in the city, and there was no bread for the people of the land.</verse>
+        <verse osisID='2Kgs.25.4'>And the city was broken up, and all the men of war went forth by night, by the way of the gate between the walls, this is the gate of the king’s garden: and the Chaldeans were set against the city round about: and the king went by the way of <note>Gr. from the Heb.</note> the plain.</verse>
+        <verse osisID='2Kgs.25.5'>And the force of the Chaldeans pursued the king, and overtook him in the plains of Jericho: and all his army was dispersed from about him.</verse>
+        <verse osisID='2Kgs.25.6'>And they took the king, and brought him to the king of Babylon to Reblatha; and he gave judgement upon him.</verse>
+        <verse osisID='2Kgs.25.7'>And he slew the sons of Sedekias before his eyes, and put out the eyes of Sedekias, and bound him in fetters, and brought him to Babylon.</verse>
+        <verse osisID='2Kgs.25.8'>And in the fifth month, on the seventh day of the month (this is the nineteenth year of Nabuchodonosor king of Babylon), came Nabuzardan, <note>Gr. chief cook</note> captain of the guard, who stood before the king of Babylon, to Jerusalem.</verse>
+        <verse osisID='2Kgs.25.9'>And he burnt the house of the Lord, and the king’s house, and all the houses of Jerusalem, even every house did the captain of the guard burn.</verse>
+        <verse osisID='2Kgs.25.10'>And the force of the Chaldeans pulled down the wall of Jerusalem round about.</verse>
+        <verse osisID='2Kgs.25.11'>And Nabuzardan the captain of the guard removed the rest of the people that were left in the city, and the <note>Gr. deserters</note> men who had deserted to the king of Babylon, and the rest of the multitude.</verse>
+        <verse osisID='2Kgs.25.12'>But the captain of the guard left of the poor of the land to be vine-dressers and husbandmen.</verse>
+        <verse osisID='2Kgs.25.13'>And the Chaldeans broke to pieces the brazen pillars that were in the house of the Lord, and the bases, and the brazen sea that was in the house of the Lord, and carried their brass to Babylon.</verse>
+        <verse osisID='2Kgs.25.14'>And the caldrons, and the shovels, and the bowls, and the censers, and all the brazen vessels with which they minister, he took.</verse>
+        <verse osisID='2Kgs.25.15'>And the captain of the guard took the fire-pans, and the gold and silver bowls.</verse>
+        <verse osisID='2Kgs.25.16'>Two pillars, and one sea, and the bases which Solomon made for the house of the Lord: there was no weight of the brass of all the vessels.</verse>
+        <verse osisID='2Kgs.25.17'>The height of one pillar was eighteen cubits, and the chapiter upon it was of brass: and the height of the chapiter was three cubits: the border, and the pomegranates on the chapiter round about were all of brass: and so it was with the second pillar with its border.</verse>
+        <verse osisID='2Kgs.25.18'>And the captain of the guard took Saraias the <note>Gr. first priest</note> high-priest, and Sophonias <note>Gr. the son of the second rank</note> the second in order, and the three doorkeepers.</verse>
+        <verse osisID='2Kgs.25.19'>And they took out of the city one eunuch who was commander of the men of war, and five men that saw the face of the king, that were found in the city, and the secretary of the commander-in-chief, who took account of the people of the land, and sixty men of the people of the land that were found in the city.</verse>
+        <verse osisID='2Kgs.25.20'>And Nabuzardan the captain of the guard took them, and brought them to the king of Babylon to Reblatha.</verse>
+        <verse osisID='2Kgs.25.21'>And the king of Babylon smote them and slew them at Reblatha in the land of Æmath. So Juda was carried away from his land.</verse>
+        <verse osisID='2Kgs.25.22'>And as for the people that were left in the land of Juda, whom Nabuchodonosor king of Babylon left, even over them he set Godolias son of Achicam son of Saphan.</verse>
+        <verse osisID='2Kgs.25.23'>And all the captains of the host, they and their men, heard that the king of Babylon had thus appointed Godolias, and they came to Godolias to Massephath, both Ismael the son of Nathanias, and Jona son of Careth, and Saraias, son of Thanamath the Netophathite, and Jezonias son of a Machathite, they and their men.</verse>
+        <verse osisID='2Kgs.25.24'>And Godolias swore to them and their men, and said to them, Fear not the <note>Gr. passage</note> incursion of the Chaldeans; dwell in the land, and serve the king of Babylon, and it shall be well with you.</verse>
+        <verse osisID='2Kgs.25.25'>And it came to pass in the seventh month that Ismael son of Nathanias son of Helisama, of the <note>Gr. seed of the kings</note> seed royal, came, and ten men with him, and he smote Godolias, that he died, him and the Jews and the Chaldeans that were with him in Massepha.</verse>
+        <verse osisID='2Kgs.25.26'>And all the people, great and small rose up, they and the captains of the forces, and went into Egypt; because they were afraid of the Chaldeans.</verse>
+        <verse osisID='2Kgs.25.27'>And it came to pass in the thirty-seventh year of the carrying away of Joachim king of Juda, in the twelfth month, on the twenty-seventh day of the month, that Evialmarodec king of Babylon in the first year of his reign lifted up the head of Joachim king of Juda, and brought him out of his prison-house.</verse>
+        <verse osisID='2Kgs.25.28'>And he spoke <note>Gr. good things with him</note> kindly to him, and set his throne above the thrones of the kings that were with him in Babylon;</verse>
+        <verse osisID='2Kgs.25.29'>And changed his prison garments: and he ate bread continually before him all the days of his life.</verse>
+        <verse osisID='2Kgs.25.30'>And his portion, a continual portion, was given him out of the house of the king, <note>Gr. a rate of a day in his day</note> a daily rate for every day all the days of his life.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

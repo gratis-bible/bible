@@ -1,0 +1,582 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <osisText osisRefWork='Bible' osisIDWork='TAF' xml:lang='de'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='TAF'>
+        <title>Tafelbibel</title>
+        <contributor>Martin</contributor>
+        <creator>Jens Grabner</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject>holy bible</subject>
+        <date>2009-01-20</date>
+        <description>Die Bibel - Übersetzung von Johann Friedrich Leonhard Tafel
+
+      Die vorliegende Neuausgabe ist eine Abschrift der Übersetzung von Dr. Leonhard
+      Tafel, revidiert von Ludwig H. Tafel, dritte Ausgabe 1911, und wurde auf ihre
+      Vollständigkeit überprüft. Es wurde die Rechtschreibregel der heutigen Zeit (noch
+      vor der Rechtschreibreform 1998) angewendet, ohne den Stil der Sprache zu verändern.
+
+      Wer in dieser Bibel einige Bücher vermisst, sei auf das Vorwort der Source verwiesen.
+      Auf der zweiten Seite steht dort:
+      Der zweite Band enthält die übrigen, sogenannten
+      Hagiographen oder heiligen Bücher: die Bücher Hiob, Sprichwörter, Hohelied, Prediger, Ruth, Chronika, Esra,
+      Nehemia, Esther und die Apokryphen.²
+      2. Gegenwärtige, Revision des Zefania XML Moduls  enthält die Hagiographen und Apokryphen nicht, da
+      sie nicht verfügbar waren.</description>
+        <publisher>FREE BIBLE SOFTWARE GROUP</publisher>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>TAF</identifier>
+        <source>http://www.ubf-dortmund.de/bibel/tafel.htm</source>
+        <language type='IETF'>de</language>
+        <relation/>
+        <coverage>provide the bible to the world</coverage>
+        <rights>Mit freundlicher Genehmigung des Swedenborg Verlag Postfach 1205 CH - 8032 Zürich</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Rom'>
+      <chapter osisID='Rom.1'>
+        <title>Des Paulus Brief an die Römer</title>
+        <title>Gruß des Apostels. Freude über den Glauben der Christen. Zustand der Heiden.</title>
+        <verse osisID='Rom.1.1'>Paulus, ein Knecht Jesu Christi, zum Apostel berufen, ausgesondert zum Evangelium Gottes.</verse>
+        <verse osisID='Rom.1.2'>Welches Er zuvor verheißen hat durch Seine Propheten in heiligen Schriften,</verse>
+        <verse osisID='Rom.1.3'>Von dem Sohne, Der aus dem Samen Davids geboren worden nach dem Fleisch,</verse>
+        <verse osisID='Rom.1.4'>Aber wunderkräftig Sich als Sohn Gottes erwiesen hat nach dem Geiste der Heiligkeit durch die Auferstehung von den Toten, als Jesus Christus, unseren Herrn.</verse>
+        <verse osisID='Rom.1.5'>Durch Den wir empfangen haben Gnade und Apostelamt, Gehorsam des Glaubens für Seinen Namen unter allen Völkern zu bewir- ken,</verse>
+        <verse osisID='Rom.1.6'>Unter denen auch ihr Berufene von Jesus Christus seid.</verse>
+        <verse osisID='Rom.1.7'>An alle in Rom befindliche Geliebte Gottes und berufene Heilige. Gnade euch und Friede von Gott unserem Vater und dem Herrn Jesus Christus!</verse>
+        <verse osisID='Rom.1.8'>Zuvörderst danke ich meinem Gott durch Jesus Christus um euer aller willen, daß euer Glaube in aller Welt verkündigt wird.</verse>
+        <verse osisID='Rom.1.9'>Denn Gott ist mein Zeuge, Dem ich diene in meinem Geist durch das Evangelium Seines Sohnes, wie ich euer unablässig gedenke,</verse>
+        <verse osisID='Rom.1.10'>Und allezeit in meinen Gebeten flehe, ob mir wohl das Glück werde, nach dem Willen Gottes zu euch zu kommen.</verse>
+        <verse osisID='Rom.1.11'>Denn mich verlangt, euch zu sehen, auf daß ich euch etwas geistiger Gnadengabe mitteile, damit ihr gestärkt werdet.</verse>
+        <verse osisID='Rom.1.12'>Damit meine ich, daß ich an euch ermuntert werde durch unseren gemeinsamen Glauben, den euren und den meinigen.</verse>
+        <verse osisID='Rom.1.13'>Ich will euch aber nicht verhalten, Brüder, daß ich mir oft vorgesetzt hatte und bis jetzt immer verhindert wurde, zu euch zu kommen, auf daß ich auch unter euch einige Frucht hätte, gleich wie unter den übrigen Völkern.</verse>
+        <verse osisID='Rom.1.14'>Denn ich bin ein Schuldner sowohl der Griechen, als der Nichtgriechen, der Weisen und der Unverständigen.</verse>
+        <verse osisID='Rom.1.15'>So bin ich denn, soviel an mir ist, bereit, auch euch in Rom das Evangelium zu verkündigen.</verse>
+        <verse osisID='Rom.1.16'>Denn ich schäme mich der Heilsbotschaft von Christus nicht, weil sie eine Kraft Gottes ist, und Heil bringt allen, die daran glauben, Juden zunächst und Griechen.</verse>
+        <verse osisID='Rom.1.17'>Weil die Gerechtigkeit Gottes in ihr geoffenbart wird, aus Glauben in Glauben, wie denn geschrieben steht: Der Gerechte wird durch seinen Glauben leben.</verse>
+        <verse osisID='Rom.1.18'>Denn der Zorn Gottes wird geoffenbart vom Himmel über alle Gottlosigkeit und Ungerechtigkeit der Menschen, welche die Wahrheit durch Ungerechtigkeit aufhalten.</verse>
+        <verse osisID='Rom.1.19'>Denn daß ein Gott ist, ist ihnen offenbar, weil Gott es ihnen geoffenbart hat.</verse>
+        <verse osisID='Rom.1.20'>Denn Sein Unschaubares wird von der Schöpfung der Welt an durch das Erschaffene erschaut, und mit der Vernunft wahrgenommen, Seine ewige Kraft und Göttlichkeit, so daß sie keine Entschuldigung haben,</verse>
+        <verse osisID='Rom.1.21'>Weil sie Gott kannten; sie priesen Ihn aber nicht als Gott, noch dankten sie, sondern ließen sich betören in ihren Gedanken und ihr unverständiges Herz verfinsterte sich.</verse>
+        <verse osisID='Rom.1.22'>Während sie sagten, sie wären weise, wurden sie Toren,</verse>
+        <verse osisID='Rom.1.23'>Und vertauschten die Herrlichkeit des unvergänglichen Gottes mit Bildern vergänglicher Menschen, Vögel, vierfüßiger und kriechender Tiere.</verse>
+        <verse osisID='Rom.1.24'>Weshalb sie Gott auch hingab in die Gelüste ihrer Herzen, in Unzucht, so daß sie ihre Leiber untereinander entehrten.</verse>
+        <verse osisID='Rom.1.25'>Als welche die Wahrheit Gottes umtauschten für die Lüge, und die Schöpfung mehr als den Schöpfer, Der doch in Wahrheit ewiglich zu preisen ist, anbeteten und verehrten. Amen.</verse>
+        <verse osisID='Rom.1.26'>Darum gab sie Gott in schandbare Leidenschaften hin; denn ihre Weiber verwandelten den natürlichen Genuß in unnatürlichen.</verse>
+        <verse osisID='Rom.1.27'>Desgleichen auch die Männer den natürlichen Umgang mit dem Weibe verließen und in geiler Lust gegeneinander entbrannten, und Männer mit Männern schändliche Unzucht trieben, und den verdienten Lohn ihres Irrwahns, wie es denn sein sollte, an sich selbst empfingen.</verse>
+        <verse osisID='Rom.1.28'>Und gleich wie sie die Erkenntnis Gottes verwarfen, gab sie Gott dahin ihrem verkehrten Sinn, zu tun, was sich nicht gebührte.</verse>
+        <verse osisID='Rom.1.29'>So daß sie aller Ungerechtigkeit, Hurerei, Schlechtigkeit, Habsucht und Bosheit sich ergaben, voll Neides, Mordsucht, Zänkerei, Arglist und Tücke;</verse>
+        <verse osisID='Rom.1.30'>Ohrenbläser, Verleumder, Gottverhaßte, Übermütige, Hoffärtige, Ruhmredige, Unheilstifter, den Eltern Ungehorsame,</verse>
+        <verse osisID='Rom.1.31'>Unbesonnene, unverträgliche, lieblose, unbarmherzige Menschen wurden,</verse>
+        <verse osisID='Rom.1.32'>Die, obgleich sie wußten, was vor Gott recht ist, daß die, welche solches tun, des Todes würdig sind, dasselbige nicht nur selbst tun, sondern auch an denen, die es tun, Gefallen finden.</verse>
+      </chapter>
+      <chapter osisID='Rom.2'>
+        <title>Die Juden sind Sünder wie die Heiden, obgleich sie sich des Gesetzes und der Beschneidung rühmen.</title>
+        <verse osisID='Rom.2.1'>Darum kannst du dich, o Mensch, wer du auch bist, der da richtet, nicht entschuldigen; denn indem du den anderen richtest, sprichst du dir selbst das Urteil, weil du, der du richtest, dasselbe tust.</verse>
+        <verse osisID='Rom.2.2'>Wir wissen aber, daß Gott über die, welche solches tun, gerechtes Urteil spricht.</verse>
+        <verse osisID='Rom.2.3'>Denkst du aber, o Mensch, daß du, der du richtest die, so solches tun, und dasselbe tust, dem Gerichte Gottes entfliehen werdest?</verse>
+        <verse osisID='Rom.2.4'>Oder achtest du gering den Reichtum seiner Güte, Geduld und Langmut, indem du verkennst, daß die Güte Gottes dich zur Buße treibt?</verse>
+        <verse osisID='Rom.2.5'>Du aber häufst nach deiner Verstocktheit und deinem unbußfertigen Herzen dir selbst Zorn auf den Tag des Zorns und der Offenbarung des gerechten Gerichtes Gottes,</verse>
+        <verse osisID='Rom.2.6'>Welcher einem jeglichen geben wird nach seinen Werken,</verse>
+        <verse osisID='Rom.2.7'>Denen, die durch Beharrlichkeit im guten Werk nach Herrlichkeit, Ehre und Unvergänglichkeit strebten, ewiges Leben;</verse>
+        <verse osisID='Rom.2.8'>Denen aber, die parteisüchtig sind und der Wahrheit nicht gehorchen, gehorchen aber der Ungerechtigkeit, Zorn und Entrüstung;</verse>
+        <verse osisID='Rom.2.9'>Drangsal und Angst über alle Menschenseelen, die Böses tun, zuerst den Juden und den Griechen;</verse>
+        <verse osisID='Rom.2.10'>Herrlichkeit aber und Ehre und Frieden einem jeglichen, der das Gute tut, den Juden zuerst und den Griechen;</verse>
+        <verse osisID='Rom.2.11'>Denn es ist kein Ansehen der Person bei Gott.</verse>
+        <verse osisID='Rom.2.12'>Denn alle, die ohne das Gesetz gesündigt haben, werden ohne das Gesetz verlorengehen, und alle, die unter dem Gesetz gesündigt, werden durch das Gesetz gerichtet werden;</verse>
+        <verse osisID='Rom.2.13'>Weil nicht die Hörer des Gesetzes vor Gott gerecht sind, sondern die Täter des Gesetzes werden gerechtfertigt werden;</verse>
+        <verse osisID='Rom.2.14'>Denn so die Heiden, die das Gesetz nicht haben, von Natur tun, was das Gesetz will, so sind diese, die das Gesetz nicht haben, sich selbst Gesetz,</verse>
+        <verse osisID='Rom.2.15'>Als die da zeigen, des Gesetzes Werk sei in ihre Herzen geschrieben, weil zugleich ihr Gewissen ihnen Zeugnis gibt und ihre Gedanken sich untereinander anklagen oder auch entschuldigen],</verse>
+        <verse osisID='Rom.2.16'>An dem Tage, da Gott das Verborgene der Menschen durch Jesus Christus richten wird, laut meines Evangeliums.</verse>
+        <verse osisID='Rom.2.17'>Wenn du nun ein Jude heißest und dich auf das Gesetz verläßt und dich Gottes rühmst,</verse>
+        <verse osisID='Rom.2.18'>Und kennst den Willen Desselben, und aus dem Gesetz unterrichtet prüfen kannst, was Recht und Unrecht ist,</verse>
+        <verse osisID='Rom.2.19'>Und dir getraust ein Führer der Blinden zu werden, ein Licht derer, die in Finsternis sind,</verse>
+        <verse osisID='Rom.2.20'>Ein Erzieher der Unverständigen, ein Lehrer der Einfältigen, der den Inbegriff der Erkenntnis und der Wahrheit in dem Gesetz hat;</verse>
+        <verse osisID='Rom.2.21'>Warum belehrst du, der du andere belehrst, dich selber nicht? Du predigst, man solle nicht stehlen, und stiehlst!</verse>
+        <verse osisID='Rom.2.22'>Du sagst, man soll nicht ehebrechen, und brichst die Ehe! Du sprichst deinen Abscheu vor Götzen aus und bist ein Tempelräuber?</verse>
+        <verse osisID='Rom.2.23'>Du rühmst dich des Gesetzes, und schändest Gott durch Übertretung des Gesetzes?</verse>
+        <verse osisID='Rom.2.24'>Denn euretwegen wird der Name Gottes gelästert unter den Heiden, wie die Schrift sagt.</verse>
+        <verse osisID='Rom.2.25'>Die Beschneidung hat zwar ihren Nutzen, wenn du das Gesetz hältst; bist du aber ein Übertreter des Gesetzes, so ist deine Beschneidung zur Vorhaut geworden.</verse>
+        <verse osisID='Rom.2.26'>So nun die Vorhaut die Rechte des Gesetzes hält, wird ihm da die Vorhaut nicht für eine Beschneidung angerechnet werden?</verse>
+        <verse osisID='Rom.2.27'>Wird also nicht die natürliche Vorhaut, die das Gesetz vollbringt, dich richten, der du bei dem Buchstaben und der Beschneidung ein Übertreter des Gesetzes bist?</verse>
+        <verse osisID='Rom.2.28'>Denn der ist noch kein rechter Jude, der auswendig ein Jude ist, auch ist das keine Beschneidung, die nur auswendig am Fleisch geschieht;</verse>
+        <verse osisID='Rom.2.29'>Sondern der ist ein Jude, der inwendig ein Jude ist, und die wahre Beschneidung ist die des Herzens, im Geist und nicht im Buchstaben; ein solcher hat sein Lob nicht von Menschen, sondern von Gott.</verse>
+      </chapter>
+      <chapter osisID='Rom.3'>
+        <title>Die Gerechtigkeit kommt aus dem Glauben.</title>
+        <verse osisID='Rom.3.1'>Was hat nun der Jude voraus, oder was nützt die Beschneidung?</verse>
+        <verse osisID='Rom.3.2'>Viel in alle Wege. Zum ersten ist ihnen anvertraut, was Gott gesprochen hat.</verse>
+        <verse osisID='Rom.3.3'>Denn wie? Wenn welche nicht glaubten, so wird doch ihr Unglaube die Glaubhaftigkeit Gottes nicht aufheben.</verse>
+        <verse osisID='Rom.3.4'>Das sei ferne! Gott muß wahrhaftig sein, wenn auch jeder Mensch unwahr ist, wie geschrieben steht: Auf daß du gerecht erscheinst in deinen Worten, und Sieger bleibst, wenn du zu Gericht gehst.</verse>
+        <verse osisID='Rom.3.5'>Wenn aber unsere Ungerechtigkeit Gottes Gerechtigkeit ins Licht stellt, was sagen wir dann? Ist Gott ungerecht, daß Er Zorn verhängt? Ich spreche nach menschlicher Weise.</verse>
+        <verse osisID='Rom.3.6'>Das sei ferne! Wie könnte sonst Gott die Welt richten?</verse>
+        <verse osisID='Rom.3.7'>Denn wenn die Wahrhaftigkeit Gottes durch meine Unwahrheit größer erschienen ist zu Seiner Verherrlichung, warum werde ich dann noch als Sünder gerichtet?</verse>
+        <verse osisID='Rom.3.8'>Und warum sollen wir nicht tun, wie man uns verleumdet, und wie einige behaupten, daß wir sagen: Laßt uns das Böse tun, auf daß Gutes herauskomme? Solcher Verdammung wäre gerecht.</verse>
+        <verse osisID='Rom.3.9'>Wie nun? Haben wir etwas voraus? Gar nichts; denn wir haben oben bewiesen, daß Juden und Griechen allzumal Sünder sind.</verse>
+        <verse osisID='Rom.3.10'>Wie denn geschrieben steht: Da ist keiner, der gerecht wäre, auch nicht einer;</verse>
+        <verse osisID='Rom.3.11'>Keiner, der verständig wäre, keiner, der nach Gott fragete.</verse>
+        <verse osisID='Rom.3.12'>Alle sind abgewichen, zumal untüchtig geworden. Da ist keiner, der Gutes täte, auch nicht einer.</verse>
+        <verse osisID='Rom.3.13'>Ihr Schlund ist ein offenes Grab. Mit ihren Zungen reden sie trüglich, Otterngift ist unter ihren Lippen;</verse>
+        <verse osisID='Rom.3.14'>Ihr Mund ist voll Fluchens und Bitterkeit;</verse>
+        <verse osisID='Rom.3.15'>Schnell sind ihre Füße zum Blutvergie-ßen.</verse>
+        <verse osisID='Rom.3.16'>Elend und Herzeleid ist auf ihren Wegen,</verse>
+        <verse osisID='Rom.3.17'>Und den Weg des Friedens haben sie nicht kennengelernt.</verse>
+        <verse osisID='Rom.3.18'>Es ist keine Furcht Gottes vor ihren Augen.</verse>
+        <verse osisID='Rom.3.19'>Wir wissen aber, daß alles, was das Gesetz sagt, es denen sagt, die unter dem Gesetz sind, auf daß aller Mund verstumme und alle Welt vor Gott straffällig sei.</verse>
+        <verse osisID='Rom.3.20'>Weil durch des Gesetzes Werke kein Fleisch vor Ihm gerechtfertigt werden wird; denn durch das Gesetz kommt Erkenntnis der Sünde.</verse>
+        <verse osisID='Rom.3.21'>Nun aber ist ohne das Gesetz die Gerechtigkeit Gottes geoffenbart, bezeugt von dem Gesetz und den Propheten.</verse>
+        <verse osisID='Rom.3.22'>Die Gerechtigkeit Gottes aber durch den Glauben an Jesus Christus erstreckt sich zu allen und auf alle, die da glauben.</verse>
+        <verse osisID='Rom.3.23'>Denn es ist kein Unterschied, weil alle sündigten und ermangeln des Ruhms vor Gott.</verse>
+        <verse osisID='Rom.3.24'>Indem sie unverdient gerechtfertigt werden durch Seine Gnade, durch die Erlösung in Jesus Christus.</verse>
+        <verse osisID='Rom.3.25'>Den Gott in Seinem Blut als Sühnmittel durch den Glauben hingestellt hat, um Seine Gerechtigkeit zu zeigen, durch die Erlassung vorhergegangener Sünden, vermöge der Nachsicht Gottes.</verse>
+        <verse osisID='Rom.3.26'>Zum Beweis Seiner Gerechtigkeit in jetziger Zeit, so daß Er gerecht sei und gerecht mache den, der da ist im Glauben an Jesus.</verse>
+        <verse osisID='Rom.3.27'>Wo bleibt nun das Rühmen? Es ist ausgeschlossen. Durch welches Gesetz?</verse>
+        <verse osisID='Rom.3.28'>So halten wir denn dafür, daß der Mensch durch den Glauben gerecht werde ohne des Gesetzes Werke.</verse>
+        <verse osisID='Rom.3.29'>Oder ist Er allein der Juden Gott? nicht auch der Heiden? Ja, auch der Heiden,</verse>
+        <verse osisID='Rom.3.30'>Sintemal es ein alleiniger Gott ist, Der die Beschneidung gerecht macht durch den Glauben, und die Vorhaut durch den Glauben.</verse>
+        <verse osisID='Rom.3.31'>Heben wir denn nun das Gesetz durch den Glauben auf? Das sei ferne! wir richten vielmehr das Gesetz auf.</verse>
+      </chapter>
+      <chapter osisID='Rom.4'>
+        <title>Abraham wird durch den Glauben gerecht.</title>
+        <verse osisID='Rom.4.1'>Was wollen wir denn sagen von unserem Vater Abraham, daß er dem Fleische nach erlangt habe?</verse>
+        <verse osisID='Rom.4.2'>Denn wenn Abraham durch Werke gerechtfertigt ward, so hatte er Ruhm, aber nicht bei Gott.</verse>
+        <verse osisID='Rom.4.3'>Denn was sagt die Schrift? Abraham glaubte Gott, und es ward ihm zur Gerechtigkeit gerechnet.</verse>
+        <verse osisID='Rom.4.4'>Dem aber, der Werke tut, wird der Lohn nicht aus Gnade zugerechnet, sondern aus Schuldigkeit.</verse>
+        <verse osisID='Rom.4.5'>Dem aber, der nicht Werke tut, aber an Den glaubt, Der den Gottlosen gerecht macht, wird sein Glaube zur Gerechtigkeit gerechnet.</verse>
+        <verse osisID='Rom.4.6'>Wie denn auch David den Menschen selig preist, dem Gott Gerechtigkeit zurechnet ohne Werke:</verse>
+        <verse osisID='Rom.4.7'>Selig sind die, denen die Missetaten vergeben und deren Sünden bedeckt sind.</verse>
+        <verse osisID='Rom.4.8'>Selig ist der Mann, dem der Herr die Sünde nicht zurechnet.</verse>
+        <verse osisID='Rom.4.9'>Geht nun dieses Seligpreisen auf die Beschneidung oder auch auf die Vorhaut? Denn wir sagen, daß dem Abraham der Glaube zur Gerechtigkeit gerechnet ward.</verse>
+        <verse osisID='Rom.4.10'>Wie ward er ihm nun angerechnet? In der Beschneidung, oder in der Vorhaut? nicht in der Beschneidung, sondern in der Vorhaut.</verse>
+        <verse osisID='Rom.4.11'>Und das Zeichen der Beschneidung empfing er als Siegel der Gerechtigkeit des Glaubens in der Vorhaut, auf daß er Vater würde aller derer, die da glauben in der Vorhaut, auf daß auch ihnen die Gerechtigkeit zugerechnet werde;</verse>
+        <verse osisID='Rom.4.12'>Und auch Vater der Beschneidung denen, die nicht nur in der Beschneidung sind, sondern auch in die Fußstapfen ihres Vaters Abraham treten, da dieser noch in der Vorhaut Glauben bewies.</verse>
+        <verse osisID='Rom.4.13'>Denn nicht durch das Gesetz ist dem Abraham oder seinem Samen die Verheißung geworden, daß er Erbe der Welt werden sollte, sondern durch die Gerechtigkeit des Glaubens.</verse>
+        <verse osisID='Rom.4.14'>Denn wenn die, welche das Gesetz haben, Erben sind, so ist der Glaube zunichte gemacht und die Verheißung aufgehoben,</verse>
+        <verse osisID='Rom.4.15'>Weil das Gesetz Zorn bewirkt; wo aber kein Gesetz ist, da ist auch keine Übertretung,</verse>
+        <verse osisID='Rom.4.16'>Darum ward sie gegeben wegen des Glaubens, auf daß die Verheißung aus Gnade allem Samen gesichert wäre, nicht allein dem, der unter dem Gesetz ist, sondern auch dem, der den Glauben Abrahams hat, der unser aller Vater ist,</verse>
+        <verse osisID='Rom.4.17'>Wie denn geschrieben steht: Ich habe dich zum Vater vieler Völker gemacht; vor dem Gott, Dem er Glauben schenkte, Der die Toten lebendig macht, und das, was nicht ist, ins Dasein ruft.</verse>
+        <verse osisID='Rom.4.18'>Der gegen Hoffnung auf Hoffnung glaubte, daß er Vater vieler Völker werden würde<note>nach der Verheißung: Also soll dein Same sein</note>.</verse>
+        <verse osisID='Rom.4.19'>Und weil er nicht nachließ im Glauben und nicht in Betracht nahm seinen bereits abgestorbenen Leib, weil er schon hundert Jahre alt war, und auf den abgestorbenen Mutterleib der Sarah,</verse>
+        <verse osisID='Rom.4.20'>Zweifelte er nicht ungläubig an der Verheißung Gottes, sondern blieb stark im Glauben, und gab Gott die Ehre;</verse>
+        <verse osisID='Rom.4.21'>Und war voll überzeugt, daß Er, was Er verheißen, auch zu erfüllen die Macht hat.</verse>
+        <verse osisID='Rom.4.22'>Darum ward es ihm auch zur Gerechtigkeit gerechnet;</verse>
+        <verse osisID='Rom.4.23'>Aber es ward nicht allein um seinetwillen geschrieben, daß es ihm zugerechnet wurde, sondern auch um unsertwillen, denn es wird zugerechnet werden,</verse>
+        <verse osisID='Rom.4.24'>So wir an Den glauben, Der unseren Herrn Jesus von den Toten auferweckt hat,</verse>
+        <verse osisID='Rom.4.25'>Der um unserer Übertretungen willen hingegeben ward, und um unserer Rechtfertigung willen auferweckt worden ist.</verse>
+      </chapter>
+      <chapter osisID='Rom.5'>
+        <title>Früchte der Gerechtigkeit des Glaubens.</title>
+        <verse osisID='Rom.5.1'>Nun wir denn sind gerechtfertigt aus dem Glauben, so haben wir Frieden mit Gott durch unseren Herrn Jesus Christus,</verse>
+        <verse osisID='Rom.5.2'>Durch Den wir auch durch den Glauben Zugang zu dieser Gnade haben, in der wir stehen, und der Hoffnung uns rühmen auf die Herrlichkeit bei Gott.</verse>
+        <verse osisID='Rom.5.3'>Nicht allein aber das, sondern wir rühmen uns auch der Drangsale, weil wir wissen, daß die Drangsal Beharrlichkeit erwirkt;</verse>
+        <verse osisID='Rom.5.4'>Beharrlichkeit aber bewirkt Bewährung, Bewährung aber Hoffnung.</verse>
+        <verse osisID='Rom.5.5'>Hoffnung aber läßt nicht zuschanden werden; denn die Liebe Gottes ist ausgegossen in unsere Herzen durch den Heiligen Geist, der uns gegeben ist.</verse>
+        <verse osisID='Rom.5.6'>Ist doch Christus, da wir noch schwach waren zur Zeit, für<note>uns</note> Gottlose gestorben;</verse>
+        <verse osisID='Rom.5.7'>Denn für einen Gerechten stirbt nicht leicht jemand; ja für den Guten könnte jemand sein Leben lassen.</verse>
+        <verse osisID='Rom.5.8'>Darum erweist Gott Seine Liebe gegen uns, daß Christus, da wir noch Sünder waren, für uns gestorben ist.</verse>
+        <verse osisID='Rom.5.9'>Um so viel mehr werden wir, die wir nun durch Sein Blut gerechtfertigt sind, durch Ihn vom Zorn erlöst werden.</verse>
+        <verse osisID='Rom.5.10'>Denn wenn wir, da wir noch Feinde waren, mit Gott durch den Tod Seines Sohnes versöhnt worden sind, werden wir, nunmehr versöhnt, durch Sein Leben beseligt werden.</verse>
+        <verse osisID='Rom.5.11'>Nicht allein aber das, sondern wir rühmen uns auch Gottes durch unseren Herrn Jesus Christus, durch Den wir die Versöhnung erlangt haben.</verse>
+        <verse osisID='Rom.5.12'>Darum wie durch einen Menschen die Sünde in die Welt gekommen und durch die Sünde der Tod, und ist so der Tod zu allen Menschen hindurchgedrungen, weil sie alle gesündigt haben;</verse>
+        <verse osisID='Rom.5.13'>Denn bis auf das Gesetz war die Sünde in der Welt; die Sünde wird aber nicht zugerechnet, wo kein Gesetz ist.</verse>
+        <verse osisID='Rom.5.14'>Aber der Tod herrschte von Adam bis auf Moses, auch über die, die nicht in gleicher Übertretung wie Adam gesündigt hatten, der ein Vorbild des Künftigen ist.</verse>
+        <verse osisID='Rom.5.15'>Jedoch verhält es sich nicht wie mit der Übertretung ebenso auch mit der Gnadengabe; denn wie durch die Übertretung des einen die vielen gestorben sind, so ist doch um so viel mehr die Gnade und die Gabe Gottes durch die Gnade des einen Menschen, Jesus Christus, den vielen im Übermaß zuteil geworden.</verse>
+        <verse osisID='Rom.5.16'>Und nicht verhält sich die Gnadengabe, wie bei dem einen, der gesündigt hatte; denn die Schuld von dem einen gereichte zur Verdammnis, die Gnadengabe aber nach vielen Übertretungen zur Rechtfertigung.</verse>
+        <verse osisID='Rom.5.17'>Denn wenn durch des einen Übertretung mittelst des einen der Tod herrschte, so werden um so viel mehr die, welche die Fülle der Gnade und die Gabe der Gerechtigkeit empfangen, durch den einen Jesus Christus im Leben<note>der Seligkeit</note> herrschen.</verse>
+        <verse osisID='Rom.5.18'>Wie nun durch eine Übertretung die Verdammnis zu allen Menschen gekommen ist, so ist auch des Einen Rechtfertigung für alle Menschen zur Rechtfertigung des Lebens geworden.</verse>
+        <verse osisID='Rom.5.19'>Denn wie durch den Ungehorsam des einen Menschen die vielen Sünder geworden sind, so werden auch durch den Gehorsam des Einen die vielen gerecht gemacht werden.</verse>
+        <verse osisID='Rom.5.20'>Das Gesetz trat noch daneben ein, auf daß die Übertretung gehäuft würde; da aber die Sünde sich häufte, da ward die Gnade noch überschwenglicher,</verse>
+        <verse osisID='Rom.5.21'>Auf daß, wie die Sünde durch den Tod herrschte, also auch die Gnade durch unseren Herrn Jesus Christus durch Gerechtigkeit zum ewigen Leben herrschte.</verse>
+      </chapter>
+      <chapter osisID='Rom.6'>
+        <title>Heiligung und neuer Gehorsam.</title>
+        <verse osisID='Rom.6.1'>Was sollen wir nun sagen? Sollen wir in der Sünde beharren, auf daß die Gnade überschwenglicher werde?</verse>
+        <verse osisID='Rom.6.2'>Das sei ferne! Wie sollten wir, die wir der Sünde abgestorben sind, noch in ihr leben?</verse>
+        <verse osisID='Rom.6.3'>Oder wisset ihr nicht, daß, wie viele von uns auf Jesus Christus getauft worden sind, die sind auf Seinen Tod getauft.</verse>
+        <verse osisID='Rom.6.4'>Mitbegraben sind wir denn mit Ihm durch die Taufe auf den Tod, auf daß, wie Christus durch die Herrlichkeit des Vaters von den Toten auferweckt worden, also auch wir in einem neuen Leben wandeln;</verse>
+        <verse osisID='Rom.6.5'>Denn sind wird durch die Ähnlichkeit des Todes auf das innigste mit Ihm verbunden, so werden wir es auch in der Auferstehung sein.</verse>
+        <verse osisID='Rom.6.6'>Wir wissen ja, daß unser alter Mensch mitgekreuzigt worden ist, auf daß der Leib der Sünde zerstört würde, damit wir nicht mehr der Sünde dieneten.</verse>
+        <verse osisID='Rom.6.7'>Denn wer<note>ihr</note> gestorben ist, der ist von der Sünde freigesprochen.</verse>
+        <verse osisID='Rom.6.8'>Sind wir aber mit Christus gestorben, so glauben wir, daß wir mit Ihm auch leben werden;</verse>
+        <verse osisID='Rom.6.9'>Indem wir wissen, daß Christus, von den Toten auferweckt, nicht mehr stirbt. Der Tod hat keine Macht mehr über Ihn;</verse>
+        <verse osisID='Rom.6.10'>Denn was gestorben ist, ist der Sünde gestorben ein für alle Mal.</verse>
+        <verse osisID='Rom.6.11'>Also auch ihr: achtet euch der Sünde abgestorben und lebet Gott in Jesus Christus.</verse>
+        <verse osisID='Rom.6.12'>So lasset nun die Sünde in eurem sterblichen Leibe nicht herrschen, daß ihr in seinen Lüsten ihr gehorchtet.</verse>
+        <verse osisID='Rom.6.13'>Auch gebt nicht eure Glieder der Sünde zu Werkzeugen der Ungerechtigkeit hin, sondern begebt euch selbst Gott, als die aus Toten lebendig geworden, und eure Glieder zu Werkzeugen der Gerechtigkeit für Gott.</verse>
+        <verse osisID='Rom.6.14'>Denn die Sünde wird nicht herrschen über euch, weil ihr nicht unter dem Gesetz seid, sondern unter der Gnade.</verse>
+        <verse osisID='Rom.6.15'>Wie nun? sollen wir sündigen, weil wir nicht unter dem Gesetz, sondern unter der Gnade sind? Das sei ferne!</verse>
+        <verse osisID='Rom.6.16'>Wisset ihr nicht, daß, wem ihr euch zu Knechten zum Gehorsam begebt, ihr dessen Knechte seid, dem ihr gehorcht? entweder der Sünde, zum Tode; oder des Gehorsams, zur Gerechtigkeit?</verse>
+        <verse osisID='Rom.6.17'>Gott aber sei Dank, daß ihr, die ihr Knechte der Sünde waret, nun von Herzen gehorcht habt der Lehre, die euch zuteil geworden.</verse>
+        <verse osisID='Rom.6.18'>Von der Sünde frei gemacht, seid ihr Knechte der Gerechtigkeit geworden.</verse>
+        <verse osisID='Rom.6.19'>Ich spreche auf menschliche Weise zu euch wegen der Schwachheit eures Fleisches; so wie ihr eure Glieder zum Dienst der Unreinheit von einer Gesetzwidrigkeit zur anderen hingegeben hattet, so gebt nun eure Glieder in den Dienst der Gerechtigkeit zur Heiligung hin;</verse>
+        <verse osisID='Rom.6.20'>Denn als ihr Knechte der Sünde waret, waret ihr Freie in Hinsicht der Gerechtigkeit.</verse>
+        <verse osisID='Rom.6.21'>Welche Frucht hattet ihr da? Solche, deren ihr euch jetzt schämt; denn ihr Ende ist der Tod.</verse>
+        <verse osisID='Rom.6.22'>Nun ihr aber von der Sünde frei und Gottes Knechte geworden seid, habt ihr eure Frucht zur Heiligung, ihr Ende aber ist ewiges Leben.</verse>
+        <verse osisID='Rom.6.23'>Denn der Sünde Sold ist der Tod, aber die Gnadengabe Gottes ist das ewige Leben in unserem Herrn Jesus Christus.</verse>
+      </chapter>
+      <chapter osisID='Rom.7'>
+        <title>Kampf des inneren und des äußeren Menschen.</title>
+        <verse osisID='Rom.7.1'>Oder wisset ihr nicht, meine Brüder - ich rede zu denen, die das Gesetz kennen - daß das Gesetz über den Menschen herrscht, so lange er lebt?</verse>
+        <verse osisID='Rom.7.2'>Denn das Weib unter dem Mann ist durch das Gesetz an den Mann gebunden, so lange er lebt. Wenn der Mann aber stirbt, so ist sie von dem Gesetz in bezug auf den Mann entbunden.</verse>
+        <verse osisID='Rom.7.3'>Für eine Ehebrecherin wird sie gelten, wenn sie bei Lebzeiten des Mannes einem anderen Manne sich hingibt; wenn aber der Mann gestorben ist, so ist sie frei von dem Gesetz, so daß sie keine Ehebrecherin ist, wenn sie mit einem anderen Manne lebt.</verse>
+        <verse osisID='Rom.7.4'>So seid denn auch ihr, meine Brüder, dem Gesetz getötet durch den Leib Christi, auf daß ihr eines anderen seid, des von den Toten Auferweckten, damit wir für Gott Frucht bringen.</verse>
+        <verse osisID='Rom.7.5'>Denn da wir im Fleische waren, da waren die Leidenschaften der Sünde, die durch das Gesetz sich regten, in unseren Gliedern wirksam, daß wir dem Tode Frucht brächten.</verse>
+        <verse osisID='Rom.7.6'>Nun aber sind wir des Gesetzes erledigt, da wir dem, das uns gefangen hielt, gestorben sind; so daß wir<note>Gott</note> im neuen Geiste und nicht im alten Buchstaben dienen sollen.</verse>
+        <verse osisID='Rom.7.7'>Was sollen wir nun sagen? Ist das Gesetz Sünde? Das sei ferne! Aber ich erkannte die Sünde nur durch das Gesetz; denn ich wußte nichts von der Sündhaftigkeit der Lust, wenn das Gesetz nicht sagte: Laß dich nicht gelüsten!</verse>
+        <verse osisID='Rom.7.8'>Die Sünde nahm Anlaß von dem Gebot, und erregte in mir jegliche Lust, denn ohne Gesetz war die Sünde tot.</verse>
+        <verse osisID='Rom.7.9'>So lebte ich denn ohne das Gesetz; da aber das Gebot kam, lebte die Sünde in mir auf.</verse>
+        <verse osisID='Rom.7.10'>Da starb ich hin, und es fand sich, daß das Gebot für das Leben mir zum Tode ward.</verse>
+        <verse osisID='Rom.7.11'>Denn die Sünde ward veranlaßt durch das Gebot und verführte mich und tötete mich durch dasselbe.</verse>
+        <verse osisID='Rom.7.12'>So ist denn allerdings das Gesetz heilig, und das Gebot heilig und gerecht und gut.</verse>
+        <verse osisID='Rom.7.13'>Ist also, was gut war, für mich zum Tode geworden? das sei ferne! aber die Sünde; auf daß sie als Sünde erscheine, indem sie durch das Gute den Tod bewirkte, und damit die Sünde durch das Gebot noch viel sündiger würde.</verse>
+        <verse osisID='Rom.7.14'>Denn wir wissen, daß das Gesetz geistig ist, ich aber bin fleischlich, unter die Sünde verkauft.</verse>
+        <verse osisID='Rom.7.15'>Denn, was ich tue, weiß ich nicht; denn ich tue nicht, was ich will, sondern was ich hasse, das tue ich.</verse>
+        <verse osisID='Rom.7.16'>Wenn ich nun das, was ich nicht will, tue, so stimme ich dem Gesetz bei, daß es recht ist.</verse>
+        <verse osisID='Rom.7.17'>So tue denn nicht mehr ich dasselbe, sondern die Sünde, die in mir wohnt;</verse>
+        <verse osisID='Rom.7.18'>Denn ich weiß, daß Gutes nicht in mir wohnt, das heißt in meinem Fleische; denn das Wollen ist vorhanden bei mir, das Vollbringen des Rechten finde ich nicht.</verse>
+        <verse osisID='Rom.7.19'>Denn das Gute, das ich will, das tue ich nicht, sondern das Böse, das ich nicht will, das tue ich.</verse>
+        <verse osisID='Rom.7.20'>So ich aber tue, was ich nicht will, so tue nicht ich dasselbe mehr, sondern die Sünde, die in mir wohnt.</verse>
+        <verse osisID='Rom.7.21'>So finde ich nun in mir, der ich das Rechte tun will, das Gesetz, daß mir das Böse anhängt.</verse>
+        <verse osisID='Rom.7.22'>Denn ich habe Lust an Gottes Gesetz nach dem inwendigen Menschen;</verse>
+        <verse osisID='Rom.7.23'>Ich sehe aber ein anderes Gesetz in meinen Gliedern, das dem Gesetz meiner Vernunft entgegenkämpft und mich gefangennimmt unter das Gesetz der Sünde, das in meinen Gliedern gilt.</verse>
+        <verse osisID='Rom.7.24'>Ich elender Mensch, wer wird mich erlösen von dem Leibe dieses Todes?</verse>
+        <verse osisID='Rom.7.25'>Ich danke Gott durch unseren Herrn Jesus Christus; ich diene mit meiner Vernunft dem Gesetz Gottes, mit dem Fleisch aber dem Gesetz der Sünde.</verse>
+      </chapter>
+      <chapter osisID='Rom.8'>
+        <title>Der Christ hat nichts zu fürchten, alles zu hoffen.</title>
+        <verse osisID='Rom.8.1'>So gibt es denn keine Verdammnis für die, so in Jesus Christus sind, weil sie nicht nach dem Fleisch, sondern nach dem Geist wandeln.</verse>
+        <verse osisID='Rom.8.2'>Denn das Gesetz des Geistes, des Lebens in Jesus Christus, hat mich frei gemacht von dem Gesetz der Sünde und des Todes.</verse>
+        <verse osisID='Rom.8.3'>Denn was dem Gesetz unmöglich war, weil es durch das Fleisch geschwächt war, das tat Gott, und sandte Seinen Sohn in der Gestalt des sündhaften Fleisches, und um der Sünde willen verurteilte Er die Sünde in dem Fleisch;</verse>
+        <verse osisID='Rom.8.4'>Auf daß die Rechtfertigung des Gesetzes an uns, die wir nicht nach dem Fleisch, sondern nach dem Geist wandeln, erfüllt würde.</verse>
+        <verse osisID='Rom.8.5'>Denn die da nach dem Fleisch sind, die sind fleischlich gesinnt, die aber nach dem Geist sind, die sind geistlich gesinnt.</verse>
+        <verse osisID='Rom.8.6'>Denn fleischlich gesinnt sein ist Tod, geistlich gesinnt sein aber ist Leben und Friede.</verse>
+        <verse osisID='Rom.8.7'>Weil fleischlich gesinnt sein ist, eine Feindschaft wider Gott, da es sich nicht dem Gesetz Gottes unterwirft, und es auch nicht kann.</verse>
+        <verse osisID='Rom.8.8'>Die aber im Fleisch sind, können Gott nicht gefallen.</verse>
+        <verse osisID='Rom.8.9'>Ihr aber seid nicht im Fleisch, sondern im Geist, wenn anders der Geist Gottes in euch wohnt; wenn aber einer Christi Geist nicht hat, so ist er nicht Sein.</verse>
+        <verse osisID='Rom.8.10'>Ist aber Christus in euch, so ist der Leib zwar tot um der Sünde willen, der Geist aber ist Leben um der Gerechtigkeit willen.</verse>
+        <verse osisID='Rom.8.11'>So aber der Geist Dessen, Der Jesus von den Toten auferweckt hat, in euch wohnt, so wird Der, Der Christus von den Toten auferweckt hat, auch eure sterblichen Leiber lebendig machen durch Seinen Geist, der in euch wohnt.</verse>
+        <verse osisID='Rom.8.12'>Deshalb sind wir, meine Brüder, nicht dem Fleisch schuldig, nach dem Fleisch zu leben;</verse>
+        <verse osisID='Rom.8.13'>Denn wenn ihr nach dem Fleisch lebt, so werdet ihr sterben; so ihr aber durch den Geist die Werke des Fleisches tötet, werdet ihr leben.</verse>
+        <verse osisID='Rom.8.14'>Denn die vom Geist Gottes angetrieben werden, sind alle Gottes Kinder.</verse>
+        <verse osisID='Rom.8.15'>Denn ihr habt nicht den Geist der Knechtschaft empfangen, um euch wieder zu fürchten, sondern ihr habt den Geist der Kindschaft empfangen, in dem wir Abba, Vater! rufen.</verse>
+        <verse osisID='Rom.8.16'>Derselbe Geist gibt Zeugnis unserem Geist, daß wir Kinder Gottes sind.</verse>
+        <verse osisID='Rom.8.17'>Sind wir denn Kinder, so sind wir auch Erben, Erben Gottes und Miterben Christi, wenn wir anders mit Ihm leiden, auf daß wir mit Ihm auch verherrlicht werden.</verse>
+        <verse osisID='Rom.8.18'>Denn ich halte dafür, daß dieser Zeit Leiden nicht wert sind der Herrlichkeit, die an uns soll geoffenbart werden.</verse>
+        <verse osisID='Rom.8.19'>Denn das Harren der Schöpfung wartet auf die Offenbarung der Kinder Gottes.</verse>
+        <verse osisID='Rom.8.20'>Weil die Schöpfung der Nichtigkeit unterworfen ward, nicht aus eigener Wahl, sondern von Dem, Der sie derselben unterwarf, auf Hoffnung;</verse>
+        <verse osisID='Rom.8.21'>Daß auch sie, die Schöpfung, von der Knechtschaft der Vergänglichkeit befreit, und in die Freiheit der Herrlichkeit der Kinder Gottes<note>versetzt</note> werden würde.</verse>
+        <verse osisID='Rom.8.22'>Denn wir wissen, daß bisher noch die ganze Schöpfung mit stöhnt, und mit im Kreißen begriffen ist.</verse>
+        <verse osisID='Rom.8.23'>Nicht allein aber sie, sondern auch wir selbst, die wir des Geistes Erstlinge haben, auch wir stöhnen, indem wir der Kindschaft der Erlösung unseres Leibes harren.</verse>
+        <verse osisID='Rom.8.24'>Denn wir sind zwar gerettet in der Hoffnung; die Hoffnung aber, die man sieht, ist keine Hoffnung, denn wie kann man das hoffen, was man schon sieht?</verse>
+        <verse osisID='Rom.8.25'>So wir aber auf das hoffen, was wir nicht sehen, so warten wir mit Beharrlichkeit.</verse>
+        <verse osisID='Rom.8.26'>Gleichermaßen aber hilft auch der Geist unseren schwachen Zuständen auf; denn wir wissen nicht, um was wir beten sollen, wie es sich gebührt, aber der Geist selbst verwendet sich für uns mit unaussprechlichem Seufzen.</verse>
+        <verse osisID='Rom.8.27'>Der aber die Herzen erforscht, weiß, wie der Geist gesinnt ist, weil er die Heiligen Gott gefällig vertritt.</verse>
+        <verse osisID='Rom.8.28'>Wir wissen aber, daß denen, die Gott lieben, alle Dinge zum Besten dienen, denen, die nach<note>Seinem</note> Ratschluß berufen sind;</verse>
+        <verse osisID='Rom.8.29'>Denn die, welche Er zuvor erkannt hatte, bestimmte Er auch voraus, daß sie gleich gestaltet sein sollten dem Ebenbilde Seines Sohnes, auf daß Er der Erstgeborene unter vielen Brüdern wäre.</verse>
+        <verse osisID='Rom.8.30'>Welche Er aber voraus bestimmt hatte, diese berief Er auch, und die Er berufen hatte, die hat Er auch gerechtfertigt, die Er aber gerechtfertigt, die hat Er auch verherrlicht.</verse>
+        <verse osisID='Rom.8.31'>Was wollen wir nun dazu sagen? Ist Gott für uns, wer mag wider uns sein?</verse>
+        <verse osisID='Rom.8.32'>Wie sollte Er, Der Seines eigenen Sohnes nicht verschont, sondern Ihn für uns alle dahingegeben hat, wie sollte Er uns mit Ihm nicht alles schenken?</verse>
+        <verse osisID='Rom.8.33'>Wer wird die Auserwählten Gottes anklagen? Gott ist es, Der da gerecht macht.</verse>
+        <verse osisID='Rom.8.34'>Wer will verdammen? Christus ist hier, Der gestorben ist, ja vielmehr Der auch auferweckt ist, und zur Rechten Gottes ist und uns vertritt.</verse>
+        <verse osisID='Rom.8.35'>Wer will uns scheiden von der Liebe Christi? Trübsal, oder Angst, oder Verfolgung, oder Hunger, oder Blöße, oder Gefahr, oder Schwert?</verse>
+        <verse osisID='Rom.8.36'>Wie denn geschrieben steht: Um deinetwillen werden wir den ganzen Tag hingemordet, sind wir wie Schlachtschafe geachtet.</verse>
+        <verse osisID='Rom.8.37'>Aber in alledem siegen wir überschwenglich durch Ihn, Der uns geliebt hat.</verse>
+        <verse osisID='Rom.8.38'>Ja, ich bin des Glaubens, daß weder Tod noch Leben, weder Engel, noch Herrschaften, noch Gewalten, weder Gegenwärtiges, noch Zukünftiges,</verse>
+        <verse osisID='Rom.8.39'>Weder Hohes, noch Niederes, noch irgendein Geschöpf uns scheiden kann von der Liebe Gottes, die in unserem Herrn Jesus Christus<note>uns geworden ist</note>.</verse>
+      </chapter>
+      <chapter osisID='Rom.9'>
+        <title>Der beklagenswerte Zustand der Juden ist selbstverschuldet.</title>
+        <verse osisID='Rom.9.1'>Ich sage die Wahrheit in Christus: Ich lüge nicht, mein Gewissen ist mein Zeuge im Heiligen Geist,</verse>
+        <verse osisID='Rom.9.2'>Daß ich großen Schmerz habe und ohne Unterlaß bekümmert bin in meinem Herzen.</verse>
+        <verse osisID='Rom.9.3'>Denn gerne wollte ich mich verbannen lassen von Christus für meine Brüder, die mir dem Fleische nach verwandt sind,</verse>
+        <verse osisID='Rom.9.4'>Die da sind von Israel, welche die Kindschaft und Herrlichkeit<note>Gottes</note> und den Bund und die Gesetzgebung und den Gottesdienst und die Verheißungen haben,</verse>
+        <verse osisID='Rom.9.5'>Denen die Väter angehören, und von denen dem Fleische nach Christus herkommt, Der da Gott ist über alle, hochgelobt in Ewigkeit! Amen.</verse>
+        <verse osisID='Rom.9.6'>Aber dem ist nicht also, daß Gottes Verheißung darum aus sei; denn nicht alle von Israel sind Israel.</verse>
+        <verse osisID='Rom.9.7'>Auch sind nicht alle Kinder, weil sie von Abrahams Samen sind, sondern: nach Isaak soll der Same dir genannt werden.</verse>
+        <verse osisID='Rom.9.8'>Das ist: nicht die dem Fleische nach Kinder sind, sind damit Gottes Kinder, sondern die Kinder der Verheißung werden für Samen gerechnet;</verse>
+        <verse osisID='Rom.9.9'>Denn dies ist ein Wort der Verheißung: Um diese Zeit will Ich wiederkommen, und Sarah soll einen Sohn haben.</verse>
+        <verse osisID='Rom.9.10'>Und dies nicht allein, sondern auch Rebecka, die von einem, unserem Vater Isaak, empfangen hatte;</verse>
+        <verse osisID='Rom.9.11'>Denn noch ehe sie geboren waren und weder Gutes noch Böses getan hatten</verse>
+        <verse osisID='Rom.9.12'>Der Größere soll dem Kleineren dienstbar werden.</verse>
+        <verse osisID='Rom.9.13'>Wie denn geschrieben steht: Jakob habe Ich geliebt, Esau aber gehaßt.</verse>
+        <verse osisID='Rom.9.14'>Was wollen wir nun sagen: Ist Gott ungerecht? Das sei ferne!</verse>
+        <verse osisID='Rom.9.15'>Denn zu Moses spricht Er: Wem Ich gnädig bin, dem bin Ich gnädig, und wessen Ich Mich erbarme, dessen erbarme Ich Mich.</verse>
+        <verse osisID='Rom.9.16'>So kommt es also nicht auf den Wollenden oder Laufenden, sondern auf den erbarmenden Gott an.</verse>
+        <verse osisID='Rom.9.17'>Denn die Schrift sagt zu Pharao: Eben darum habe Ich dich erweckt, daß Ich an dir Meine Macht zeige und Mein Name auf der ganzen Erde verkündigt werde.</verse>
+        <verse osisID='Rom.9.18'>Er erbarmt Sich nun, wessen Er will, und verstockt, wen Er will.</verse>
+        <verse osisID='Rom.9.19'>Du wirst nun zu mir sagen: Was schilt Er denn einen? Denn wer konnte jemals Seinem Willen widerstehen?</verse>
+        <verse osisID='Rom.9.20'>Wer bist du denn, Mensch, der du mit Gott rechten willst? Spricht je ein Werk zu seinem Meister: Warum machtest du mich so?</verse>
+        <verse osisID='Rom.9.21'>Oder hat der Töpfer nicht Macht über den Ton, aus demselben Teige ein Gefäß zu Ehren, ein anderes zu Unehren zu machen?</verse>
+        <verse osisID='Rom.9.22'>Wenn nun Gott Zorn zeigen und Seine Macht kundtun wollte, so hat Er mit aller Langmut getragen Gefäße des Zorns, die zur Verdammnis zugerichtet waren,</verse>
+        <verse osisID='Rom.9.23'>Und auf daß Er kund täte den Reichtum Seiner Herrlichkeit an Gefäßen der Barmherzigkeit, die Er voraus zur Herrlichkeit bereitet hatte;</verse>
+        <verse osisID='Rom.9.24'>Als welche Er uns auch berufen hat, nicht bloß aus den Juden, sondern auch aus den Heiden.</verse>
+        <verse osisID='Rom.9.25'>Wie Er denn auch im Hoschea spricht: Ich will Mein Volk nennen, das nicht Mein Volk war, und die Nichtgeliebte:</verse>
+        <verse osisID='Rom.9.26'>Und soll geschehen an dem Ort, da ihnen gesagt ward: Ihr seid nicht Mein Volk, daß sie sollen Söhne des lebendigen Gottes genannt werden.</verse>
+        <verse osisID='Rom.9.27'>Jesajah aber ruft über Israel, wenn auch die Zahl der Söhne Israels wie der Sand am Meer wäre, so wird doch nur ein Überrest gerettet werden.</verse>
+        <verse osisID='Rom.9.28'>Denn Er vollendet den Spruch und faßt ihn kurz in Gerechtigkeit; denn den kurzgefaßten Spruch vollbringt der Herr auf der Erde.</verse>
+        <verse osisID='Rom.9.29'>Und wie Jesajah vorausgesagt hat: Wenn uns der Herr Zebaoth nicht Samen übriggelassen hätte, so wären wir wie Sodom und Gomorrah gleich geworden.</verse>
+        <verse osisID='Rom.9.30'>Was wollen wir nun sagen? Daß die Heiden, die nicht nach Gerechtigkeit strebten, Gerechtigkeit erlangten, Gerechtigkeit aber, die aus dem Glauben kommt.</verse>
+        <verse osisID='Rom.9.31'>Israel aber hat nach dem Gesetz der Gerechtigkeit gestrebt, und ist nicht zum Gesetz der Gerechtigkeit gelangt.</verse>
+        <verse osisID='Rom.9.32'>Warum? Darum, daß sie nicht aus dem Glauben, sondern aus Werken des Gesetzes dieselbe suchten. Sie haben sich an dem Stein des Anstoßes gestoßen.</verse>
+        <verse osisID='Rom.9.33'>Wie denn geschrieben steht: Siehe, Ich setze in Zion den Stein des Anstoßes und den Fels des Ärgernisses, und wer an ihn glaubt, der soll nicht zuschanden werden.</verse>
+      </chapter>
+      <chapter osisID='Rom.10'>
+        <title>Hartnäckiges Beharren der Juden beim Gesetz.</title>
+        <verse osisID='Rom.10.1'>Meines Herzens Wunsch, Brüder, und mein Flehen zu Gott ist für das Heil Israels.</verse>
+        <verse osisID='Rom.10.2'>Denn ich gebe ihnen das Zeugnis, daß sie für Gott eifern, aber mit Unverstand.</verse>
+        <verse osisID='Rom.10.3'>Denn sie kennen die Gerechtigkeit Gottes nicht, und suchen die eigene Gerechtigkeit aufzurichten, und haben sich so der Gerechtigkeit Gottes nicht unterworfen.</verse>
+        <verse osisID='Rom.10.4'>Das Ende des Gesetzes ist Christus zur Gerechtigkeit für einen jeden, der an Ihn glaubt.</verse>
+        <verse osisID='Rom.10.5'>Denn Moses schreibt wohl von der Gerechtigkeit aus dem Gesetz: Welcher Mensch diese Dinge tut, der wird durch sie leben.</verse>
+        <verse osisID='Rom.10.6'>Die Gerechtigkeit aus dem Glauben aber spricht also: Sprich nicht in deinem Herzen: Wer will hinauffahren gen Himmel? Das heißt: Christus herabzuholen.</verse>
+        <verse osisID='Rom.10.7'>Oder wer will hinab in den Abgrund fahren? Das heißt: Christus von den Toten heraufzuholen.</verse>
+        <verse osisID='Rom.10.8'>Aber was sagt sie? Das Wort ist dir nahe in deinem Munde und in deinem Herzen, das ist das Wort des Glaubens, das wir predigen.</verse>
+        <verse osisID='Rom.10.9'>Wenn du mit deinem Munde Jesus als den Herrn bekennst, und in deinem Herzen glaubst, daß Ihn Gott von den Toten auferweckt hat, so wirst du selig.</verse>
+        <verse osisID='Rom.10.10'>Denn so man mit dem Herzen glaubt, so wird man gerecht, und so man mit dem Munde bekennt, so wird man selig.</verse>
+        <verse osisID='Rom.10.11'>Denn die Schrift sagt: Ein jeder, der auf Ihn vertraut, wird nicht zuschanden werden.</verse>
+        <verse osisID='Rom.10.12'>Es ist ja kein Unterschied zwischen dem Juden und dem Griechen; alle haben denselben Herrn, Der reich ist<note>an Gaben</note> für alle, die Ihn anrufen.</verse>
+        <verse osisID='Rom.10.13'>Denn jeder, der den Namen des Herrn anruft, soll gerettet werden.</verse>
+        <verse osisID='Rom.10.14'>Denn wie werden sie einen anrufen, an den sie nicht glauben? Wie werden sie glauben an einen, von dem sie nicht gehört haben?</verse>
+        <verse osisID='Rom.10.15'>Wie werden sie von einem hören ohne einen, der ihnen predigt? Wie wird man ihnen predigen, wenn man nicht abgeordnet ist, wie denn geschrieben steht: Wie lieblich sind die Füße derer, die da Frieden verkündigen, die da gute Botschaft bringen.</verse>
+        <verse osisID='Rom.10.16'>Allein nicht alle haben auf die gute Botschaft gehört, denn Jesajahs spricht: Herr, wer hat auf unsere Botschaft gehört?</verse>
+        <verse osisID='Rom.10.17'>Der Glaube kommt aus der Verkündigung, die Verkündigung aber aus dem Worte Gottes.</verse>
+        <verse osisID='Rom.10.18'>Ich aber sage: Haben sie es etwa nicht gehört? Ihr Stimme ist in alle Lande ausgegangen, und ihre Worte bis an der Welt Enden.</verse>
+        <verse osisID='Rom.10.19'>Ich aber sage: Hat sie Israel nicht erkannt? Gleich Moses spricht: Ich will euch eifern lassen gegen ein Volk, das nicht Mein Volk ist, gegen ein unverständig Volk sollt ihr in Zorn geraten.</verse>
+        <verse osisID='Rom.10.20'>Jesajahs sagt gar: Ich ward gefunden von denen, die Mich nicht suchten, und ward offenbar denen, die nicht nach Mir fragten.</verse>
+        <verse osisID='Rom.10.21'>Zu Israel aber spricht Er: Den ganzen Tag habe Ich Meine Hände ausgereckt gegen ein Volk, das Mir nicht gehorchen will und widerspricht.</verse>
+      </chapter>
+      <chapter osisID='Rom.11'>
+        <title>Israel ist nicht verstoßen.</title>
+        <verse osisID='Rom.11.1'>So sage ich nun: Hat Gott Sein Volk verstoßen? Mitnichten, ich bin ja selbst ein Israelite vom Samen Abrahams, aus dem Stamme Benjamin.</verse>
+        <verse osisID='Rom.11.2'>Gott hat Sein Volk, das Er zuerst auserwählt hatte, nicht verstoßen; oder wißt ihr nicht, was die Schrift bei Elias sagt, wie er vor Gott gegen Israel auftritt?</verse>
+        <verse osisID='Rom.11.3'>Herr, Deine Propheten haben sie getötet und Deine Altäre umgestürzt, und ich bin allein übriggeblieben, und auch mir stehen sie nach dem Leben.</verse>
+        <verse osisID='Rom.11.4'>Was wird ihm aber zur Antwort? Ich habe Mir übriggelassen siebentausend Männer, die ihre Knie vor dem Baal nicht gebeugt haben.</verse>
+        <verse osisID='Rom.11.5'>So ist nun auch in der jetzigen Zeit nach der Auswahl der Gnade ein Überrest geblieben.</verse>
+        <verse osisID='Rom.11.6'>Ist es aber aus Gnade, so ist es nicht der Werke wegen, da die Gnade sonst aufhört, Gnade zu sein. Wenn aber um der Werke willen, so ist es nicht mehr Gnade, sonst ist das Werk nicht mehr Werk.</verse>
+        <verse osisID='Rom.11.7'>Wie nun? Was Israel sucht, das hat es nicht erlangt, die Auswahl aber hat es erlangt.</verse>
+        <verse osisID='Rom.11.8'>Die übrigen sind verstockt geblieben, wie denn geschrieben steht: Gott hat ihnen den Geist der Betäubung gegeben, Augen, daß sie nicht sehen, und Ohren, daß sie nicht hören, bis auf den heutigen Tag.</verse>
+        <verse osisID='Rom.11.9'>Und David spricht: Ihr Tisch werde ihnen zum Fallstrick und zur Berückung und zum Anstoß und zur Vergeltung.</verse>
+        <verse osisID='Rom.11.10'>Laß ihre Augen sich verdunkeln, daß sie nicht sehen, und beuge allezeit ihren Rükken.</verse>
+        <verse osisID='Rom.11.11'>Ich sage nun: Mußten sie darum straucheln, daß sie fallen sollten? Das sei ferne! Vielmehr kam durch ihren Fall das Heil zu den Heiden, auf daß sie ihnen nacheifern sollten.</verse>
+        <verse osisID='Rom.11.12'>Wenn aber ihr Fall der Reichtum der Welt geworden ist, und ihre geringe Zahl den Heiden zugute kam, um wie viel mehr würde ihre Vollzahl zugute kommen?</verse>
+        <verse osisID='Rom.11.13'>Euch, den Heiden, sage ich: Weil ich Heidenapostel bin, will ich mein Amt preisen,</verse>
+        <verse osisID='Rom.11.14'>Ob ich etwa mein Fleisch zum Eifer reizen und etliche derselben retten könnte.</verse>
+        <verse osisID='Rom.11.15'>Denn wenn ihre Verwerfung die Erlösung der Welt geworden ist, was wird ihre Annahme anderes werden, denn ein Aufleben vom Tode?</verse>
+        <verse osisID='Rom.11.16'>Ist das Erstlingsbrot heilig, so wird der Teig heilig, und ist die Wurzel heilig, so sind es auch die Zweige.</verse>
+        <verse osisID='Rom.11.17'>Sind nun etliche der Zweige ausgebrochen, und du, der du vom wilden Ölbaum bist, wirst unter sie gepfropft, und bist der Wurzel und der Fettigkeit des Ölbaums teilhaftig geworden, so rühme dich nicht wider die Zweige.</verse>
+        <verse osisID='Rom.11.18'>Rühmst du dich aber wider sie, so trägst du ja die Wurzel nicht, sondern die Wurzel dich.</verse>
+        <verse osisID='Rom.11.19'>Du wirst wohl sagen: Zweige wurden abgeschnitten, auf daß ich eingepfropft würde.</verse>
+        <verse osisID='Rom.11.20'>Schon recht, sie wurden ihres Unglaubens wegen ausgeschnitten, du aber stehst durch deinen Glauben. Überhebe dich nicht, sondern sei auf deiner Hut.</verse>
+        <verse osisID='Rom.11.21'>Denn wenn Gott der naturwüchsigen Zweige nicht verschonte, so möchte Er auch dein nicht verschonen.</verse>
+        <verse osisID='Rom.11.22'>So siehe denn die Güte und die Strenge Gottes an - gegen die Gefallenen die Strenge, gegen dich die Güte, wenn du bei der Güte verbleibst, sonst wirst auch du ausgeschnitten.</verse>
+        <verse osisID='Rom.11.23'>Und jene, wenn sie nicht bei ihrem Unglauben verbleiben, werden eingepfropft werden: Gott kann sie ja wohl wieder einpfropfen.</verse>
+        <verse osisID='Rom.11.24'>Denn wenn du aus dem von Natur wilden Ölbaum ausgeschnitten und gegen deine Natur auf den edlen Ölbaum gepfropft worden bist, um wieviel mehr können nicht ursprünglich edle Zweige in ihren eigenen Ölbaum eingepfropft werden?</verse>
+        <verse osisID='Rom.11.25'>Denn ich will euch, Brüder, das Geheimnis nicht vorenthalten auf daß ihr euch nicht selbst für klug haltet, daß von seiten eines Teils bei Israel eine Verstockung eingetreten ist, bis daß die Vollzahl der Heiden eingegangen wäre.</verse>
+        <verse osisID='Rom.11.26'>Und so wird dann ganz Israel erlöst werden, wie geschrieben steht: Aus Zion wird kommen, Der da erlöse, und abwenden von Jakob die Gottlosigkeit.</verse>
+        <verse osisID='Rom.11.27'>Das ist Mein Bund mit ihnen, wenn Ich ihre Sünden werde weggenommen haben.</verse>
+        <verse osisID='Rom.11.28'>In Hinsicht des Evangeliums sind sie Feinde um euretwillen, nach der Auswahl aber sind sie geliebt um der Väter willen.</verse>
+        <verse osisID='Rom.11.29'>Denn Gottes Gnadengaben und Berufung mögen Ihn nicht gereuen.</verse>
+        <verse osisID='Rom.11.30'>Denn wie ihr einst Gott nicht glaubtet, nun aber Erbarmung fandet durch den Unglauben dieser,</verse>
+        <verse osisID='Rom.11.31'>So sind auch diese nun ungläubig geworden, auf daß durch das Erbarmen gegen euch auch sie Erbarmung fänden;</verse>
+        <verse osisID='Rom.11.32'>Denn Gott hatte alle unter den Unglauben beschlossen, auf daß Er Sich ihrer aller erbarmete.</verse>
+        <verse osisID='Rom.11.33'>O! welche Tiefe des Reichtums und der Weisheit und Erkenntnis Gottes! Wie unerforschlich sind Seine Gerichte und wie unergründlich sind Seine Wege!</verse>
+        <verse osisID='Rom.11.34'>Denn wer hat des Herrn Sinn erkannt, oder wer ist Sein Ratgeber gewesen?</verse>
+        <verse osisID='Rom.11.35'>Oder wer hat Ihm vorhergegeben, daß Ihm vergolten würde?</verse>
+        <verse osisID='Rom.11.36'>Denn von Ihm und durch Ihn und für Ihn sind alle Dinge; Ihm sei Ehre in Ewigkeit! Amen.</verse>
+      </chapter>
+      <chapter osisID='Rom.12'>
+        <title>Ermahnungen zur christlichen Gesinnung und Tugend.</title>
+        <verse osisID='Rom.12.1'>Ich ermahne euch nun, Brüder, durch die Barmherzigkeit Gottes, daß ihr eure Leiber hingebet, als ein lebendiges, heiliges, Gott wohlgefälliges Opfer zu eurem geistigen Gottesdienst.</verse>
+        <verse osisID='Rom.12.2'>Und stellet euch nicht dieser Welt gleich, sondern bildet euch um durch die Erneuerung eures Sinnes, auf daß ihr prüfen möget, welches da sei der gute, der wohlgefällige und der vollkommene Gotteswille.</verse>
+        <verse osisID='Rom.12.3'>Denn ich sage vermöge der mir verliehenen Gnade einem jeglichen unter euch, daß er nicht weiter von sich halte, denn sich es gebührt zu halten, sondern daß er sich bescheiden soll, je nach dem Maß des Glaubens, das ihm Gott zugeteilt hat.</verse>
+        <verse osisID='Rom.12.4'>Denn gleich wie wir an dem einen Körper viele Glieder, alle Glieder aber nicht die gleiche Verrichtung haben;</verse>
+        <verse osisID='Rom.12.5'>Also sind wir viele ein Leib in Christus, aber jeder einzelne ist des anderen Glied,</verse>
+        <verse osisID='Rom.12.6'>Indem wir je nach der uns verliehenen Gnade verschiedene Gaben haben.</verse>
+        <verse osisID='Rom.12.7'>Hat jemand die Gabe der Weissagung, so geschehe sie nach dem Maß seines Glaubens. Hat jemand ein Amt, so warte er des Amtes. Hat er zu lehren, so warte er der Lehre.</verse>
+        <verse osisID='Rom.12.8'>Oder ermahnt einer, so ermahne er treulich. Hat einer von dem Seinen milde Gaben zu geben, so gebe er in Einfalt. Hat er vorzustehen, so tue er es mit Eifer. Hat er für Leidende zu sorgen, so tue er es mit Freundlichkeit.</verse>
+        <verse osisID='Rom.12.9'>Eure Liebe sei ungeheuchelt, verabscheut das Böse, hanget dem Guten an.</verse>
+        <verse osisID='Rom.12.10'>Eure Bruderliebe untereinander sei herzlich. Gehe einer dem anderen voran in der Achtung gegen ihn.</verse>
+        <verse osisID='Rom.12.11'>Lasset nicht nach an Eifer. Seid brünstig im Geist. Schicket euch in die Zeit!</verse>
+        <verse osisID='Rom.12.12'>Seid fröhlich in Hoffnung, geduldig in Trübsal, haltet an am Gebet.</verse>
+        <verse osisID='Rom.12.13'>Nehmt euch der Notdurft der Heiligen an, fleißiget euch der Gastfreundschaft.</verse>
+        <verse osisID='Rom.12.14'>Segnet, die euch verfolgen! Segnet, und verwünschet nicht!</verse>
+        <verse osisID='Rom.12.15'>Seid fröhlich mit den Fröhlichen, und weinet mit den Weinenden.</verse>
+        <verse osisID='Rom.12.16'>Seid einträchtig untereinander. Trachtet nicht nach Hohem, sondern haltet euch zu den Niedrigen. Bildet euch nicht zu viel ein auf euch selbst.</verse>
+        <verse osisID='Rom.12.17'>Vergeltet niemand Böses mit Bösem. Befleißigt euch des Guten vor aller Welt.</verse>
+        <verse osisID='Rom.12.18'>Womöglich haltet, so viel an euch ist, mit allen Menschen Frieden.</verse>
+        <verse osisID='Rom.12.19'>Rächt euch nicht selbst, Geliebte, sondern gebt Raum dem Zorne; denn es steht geschrieben: Mein ist die Rache; Ich will vergelten, spricht der Herr.</verse>
+        <verse osisID='Rom.12.20'>So nun deinen Feind hungert, so speise ihn, dürstet ihn, so tränke ihn; denn wenn du das tust, wirst du feurige Kohlen auf sein Haupt sammeln.</verse>
+        <verse osisID='Rom.12.21'>Laß dich nicht das Böse überwinden, sondern überwinde das Böse mit Gutem.</verse>
+      </chapter>
+      <chapter osisID='Rom.13'>
+        <title>Ermahnung zum Gehorsam gegen die Obrigkeit. Pflicht gegen den Nächsten. - Wandel in Licht.</title>
+        <verse osisID='Rom.13.1'>Jedermann sei untertan den Obrigkeiten, die Gewalt über ihn haben; denn es ist keine Obrigkeit außer von Gott. Und die bestehenden Obrigkeiten sind von Gott verordnet.</verse>
+        <verse osisID='Rom.13.2'>Wer sich daher der Obrigkeit widersetzt, widerstrebt der Ordnung Gottes; die aber widerstreben, ziehen sich selbst ihr Urteil zu.</verse>
+        <verse osisID='Rom.13.3'>Denn die Gewalt haben, sind nicht den guten Werken, sondern den bösen ein Schrekken. Willst du die Gewalt nicht fürchten, so tue Gutes, und du wirst noch Lob von ihr haben.</verse>
+        <verse osisID='Rom.13.4'>Denn sie ist Gottes Dienerin dir zu Gute; tust du aber Böses, so fürchte dich; denn nicht umsonst führt sie das Schwert; denn sie ist Gottes Dienerin, eine Rächerin zur Strafe für den, der das Böse tut.</verse>
+        <verse osisID='Rom.13.5'>Darum tut es Not, daß man untertan ist, nicht allein um der Strafe willen, sondern auch aus Gewissen.</verse>
+        <verse osisID='Rom.13.6'>Deshalb zahlt ihr ja auch Steuern; denn sie sind Gottes Dienstleute, die ihres Amtes warten.</verse>
+        <verse osisID='Rom.13.7'>So gebt nun allen, was ihr zu geben schuldig seid: Steuer dem, der die Steuer, Zoll dem, der den Zoll, Ehrerbietung dem, der Ehrerbietung, Achtung dem, der Achtung zu fordern hat.</verse>
+        <verse osisID='Rom.13.8'>Bleibt niemand etwas schuldig, außer daß ihr einander liebet, denn wer den anderen liebt, hat das Gesetz erfüllt.</verse>
+        <verse osisID='Rom.13.9'>Denn die Gebote: Du sollst nicht ehebrechen, nicht töten, nicht stehlen, kein falsch Zeugnis reden, dich nicht gelüsten lassen, und so noch ein anderes Gebot ist, sind in dem einen zusammengefaßt: Du sollst deinen Nächsten lieben wie dich selbst.</verse>
+        <verse osisID='Rom.13.10'>Die Liebe tut dem Nächsten nichts Böses; so ist nun die Liebe des Gesetzes Erfüllung.</verse>
+        <verse osisID='Rom.13.11'>Und dies darum, da wir die Zeit wissen, daß bereits die Stunde da ist, daß wir aus dem Schlaf erwachen; denn jetzt ist uns das Heil näher, als da wir gläubig wurden.</verse>
+        <verse osisID='Rom.13.12'>Die Nacht ist vorbei, der Tag ist herbeigekommen; so laßt uns nun die Werke der Finsternis von uns tun und die Rüstung des Lichts anlegen.</verse>
+        <verse osisID='Rom.13.13'>Lasset uns ehrbar wandeln, als am Tage, nicht in Schmausereien und Trinkgelagen, nicht in Unzucht und Schwelgerei, nicht in Hader und Eifersucht.</verse>
+        <verse osisID='Rom.13.14'>Laßt uns vielmehr den Herrn Jesus Christus anziehen, und nicht den Wollüsten des Fleisches dienen.</verse>
+      </chapter>
+      <chapter osisID='Rom.14'>
+        <title>Schwache Brüder, christliche Freiheit, Ärgernis.</title>
+        <verse osisID='Rom.14.1'>Den Schwachen im Glauben nehmt auf, ohne Streit über Meinungen.</verse>
+        <verse osisID='Rom.14.2'>Der eine glaubt, alles essen zu dürfen, der Schwächere ißt nur Gemüse.</verse>
+        <verse osisID='Rom.14.3'>Wer da ißt, verachte den nicht, der nicht ißt; der aber nicht ißt, richte den nicht, der da ißt; denn Gott hat ihn angenommen.</verse>
+        <verse osisID='Rom.14.4'>Wer bist du, daß du einen fremden Knecht richtest? Seinem eigenen Herrn steht oder fällt er, er wird aber wohl stehend erhalten werden; denn Gott vermag ihn aufrecht zu erhalten.</verse>
+        <verse osisID='Rom.14.5'>Der eine entscheidet sich für einen Tag vor dem anderen; der andere hält jeden Tag gleich heilig.</verse>
+        <verse osisID='Rom.14.6'>Der auf den Tag hält, tut es dem Herrn, und wer nicht auf den Tag hält, hält nicht darauf, auch dem Herrn. Wer da ißt, ißt dem Herrn, denn er dankt Gott, und wer nicht ißt, ißt nicht, auch dem Herrn, und dankt Gott.</verse>
+        <verse osisID='Rom.14.7'>Denn keiner von uns lebt ihm selber und keiner stirbt ihm selber.</verse>
+        <verse osisID='Rom.14.8'>Leben wir, so leben wir ja dem Herrn, und sterben wir, so sterben wir dem Herrn; wir mögen also leben oder sterben, so sind wir des Herrn.</verse>
+        <verse osisID='Rom.14.9'>Denn dazu ist Christus auch gestorben und auferstanden und wieder in das Leben getreten, daß Er sowohl über Tote als Lebendige Herr sei.</verse>
+        <verse osisID='Rom.14.10'>Du aber, was richtest du deinen Bruder? oder auch du, was verachtest du deinen Bruder? Wir werden ja alle vor den Richterstuhl Christus treten.</verse>
+        <verse osisID='Rom.14.11'>Denn es steht geschrieben: So wahr Ich lebe, spricht Jehovah, alle Knie sollen sich Mir beugen, und alle Zungen Gott bekennen.</verse>
+        <verse osisID='Rom.14.12'>So wird denn ein jeglicher von uns für sich selber Gott Rechenschaft geben.</verse>
+        <verse osisID='Rom.14.13'>Darum lasset uns nicht mehr einander richten, sondern richtet vielmehr, ob wir nicht dem Bruder Anstoß oder Ärgernis geben.</verse>
+        <verse osisID='Rom.14.14'>Ich weiß und bin überzeugt im Herrn Jesus, daß nichts an und für sich gemein ist, es sei denn für den gemein, der es dafür erachtet.</verse>
+        <verse osisID='Rom.14.15'>Wenn aber dein Bruder ob deiner Speise sich betrübt, so wandelst du nicht mehr nach der Liebe. Verdirb doch nicht durch deine Speise den, für den Christus gestorben ist!</verse>
+        <verse osisID='Rom.14.16'>Laß darum euer Gutes nicht verlästert werden.</verse>
+        <verse osisID='Rom.14.17'>Denn das Reich Gottes ist nicht Essen und Trinken, sondern Gerechtigkeit und Friede und Freude im Heiligen Geist.</verse>
+        <verse osisID='Rom.14.18'>Denn wer darin Christus dient, ist Gott wohlgefällig und den Menschen wert.</verse>
+        <verse osisID='Rom.14.19'>Laßt uns daher nach dem streben, was zum Frieden und zu gegenseitiger Erbauung dient.</verse>
+        <verse osisID='Rom.14.20'>Zerstöre darum nicht der Speise wegen Gottes Werk. Alles ist zwar rein, wird aber zur Sünde dem Menschen, der durch das Essen Anstoß gibt.</verse>
+        <verse osisID='Rom.14.21'>Es ist besser, du ißt kein Fleisch und trinkst keinen Wein, und tust nichts, daran dein Bruder Anstoß oder Ärgernis und Schaden nimmt.</verse>
+        <verse osisID='Rom.14.22'>Hast du Glauben? Habe ihn für dich vor Gott! Selig, wer nicht Gericht hält über sich selbst bei dem, was er billigt.</verse>
+        <verse osisID='Rom.14.23'>Wer aber im Zweifel ist, der, wenn er doch ißt, ist verurteilt, weil er nicht aus gutem Glauben gehandelt hat. Alles, was nicht aus Glauben geschieht, ist Sünde.</verse>
+      </chapter>
+      <chapter osisID='Rom.15'>
+        <title>Judenchristen. Heidenchristen.</title>
+        <verse osisID='Rom.15.1'>Wir aber, die wir stark sind, sollen die Schwächen der Nichtstarken tragen und nicht aus Selbstgefälligkeit handeln.</verse>
+        <verse osisID='Rom.15.2'>Ein jeder von uns suche seinem Nächsten zu gefallen zum Guten, zur Erbauung.</verse>
+        <verse osisID='Rom.15.3'>Denn auch Christus hatte nicht an Ihm selber Gefallen, sondern, wie geschrieben steht: Die Schmähungen derer, die dich schmähen, sind auf Mich gefallen.</verse>
+        <verse osisID='Rom.15.4'>Denn was vorher geschrieben worden ist, ist uns zur Lehre geschrieben, auf daß wir durch die Beharrlichkeit und die Tröstung der Schriften Hoffnung haben.</verse>
+        <verse osisID='Rom.15.5'>Der Gott der Beharrlichkeit und des Trostes gebe euch, daß ihr nach dem Sinn von Jesus Christus einträchtig untereinander seid.</verse>
+        <verse osisID='Rom.15.6'>Auf daß ihr einmütig mit einem Munde Gott und den Vater unseres Herrn Jesus Christus lobet.</verse>
+        <verse osisID='Rom.15.7'>Darum nehmt einander an, gleich wie auch Christus euch zum Lobe Gottes angenommen hat.</verse>
+        <verse osisID='Rom.15.8'>Ich will aber sagen, daß Jesus Christus ein Diener der Beschneidung geworden ist, um der Wahrhaftigkeit Gottes willen, zu bestätigen die Verheißungen an die Väter.</verse>
+        <verse osisID='Rom.15.9'>Daß die Heiden aber Gott loben um der Barmherzigkeit willen, wie geschrieben steht: Darum will ich dich loben unter den Heiden und deinem Namen lobsingen.</verse>
+        <verse osisID='Rom.15.10'>Und abermals heißt es: Frohlocket ihr Heiden mit Seinem Volke!</verse>
+        <verse osisID='Rom.15.11'>Und abermals: Lobet den Herrn alle Völker und lobpreiset Ihn alle Völkerschaften.</verse>
+        <verse osisID='Rom.15.12'>Und abermals spricht Jesajah: Es wird da sein die Wurzel Isais, und Der aufstehen wird, zu herrschen über die Heiden. Auf Ihn werden die Heiden hoffen.</verse>
+        <verse osisID='Rom.15.13'>Der Gott der Hoffnung aber erfülle euch mit aller Freude und<note>allem</note> Frieden im Glauben, daß ihr der Hoffnung durch die Kraft des Heiligen Geistes die Fülle habet.</verse>
+        <verse osisID='Rom.15.14'>Ich selbst, meine Brüder, bin von euch überzeugt, daß ihr voller Güte seid, erfüllt mit aller Erkenntnis, und im Stande, einander zu ermahnen.</verse>
+        <verse osisID='Rom.15.15'>Doch wollte ich mir herausnehmen, euch freimütig zu schreiben, Brüder, zum Teil, um euch zu erinnern, um der Gnade willen, die mir von Gott verliehen worden,</verse>
+        <verse osisID='Rom.15.16'>Daß ich ein Diener von Jesus Christus unter den Heiden sein soll, priesterlich zu wirken am Evangelium Christus, auf daß das Opfer der Heiden genehm sei und durch den Heiligen Geist gesegnet werde.</verse>
+        <verse osisID='Rom.15.17'>Darum darf ich mich rühmen in Jesus Christus, was die Sache Gottes anbelangt.</verse>
+        <verse osisID='Rom.15.18'>Aber ich vermesse mich nicht, etwas zu sagen, das Christus nicht durch mich gewirkt hätte, um die Heiden durch Wort und Werk gehorsam zu machen,</verse>
+        <verse osisID='Rom.15.19'>Durch Kraft der Zeichen und Wunder, und durch die Kraft des Geistes Gottes, so daß ich von Jerusalem und den umliegenden Landen bis nach Illyrien das Evangelium allenthalben verkündigt habe.</verse>
+        <verse osisID='Rom.15.20'>Auch predigte ich geflissentlich das Evangelium nicht da, wo Christus schon verkündigt worden, um nicht auf einen von anderen gelegten Grund zu bauen;</verse>
+        <verse osisID='Rom.15.21'>Sondern, wie geschrieben steht, denen nicht zuvor davon verkündet worden, die sollen es sehen, und die nicht davon gehört haben, sollen es vernehmen.</verse>
+        <verse osisID='Rom.15.22'>Darum ich auch vielmal verhindert worden bin, zu euch zu kommen.</verse>
+        <verse osisID='Rom.15.23'>Nun ich aber nicht mehr Gelegenheit habe in diesen Gegenden, aber Verlangen trage von vielen Jahren her, zu euch zu kommen:</verse>
+        <verse osisID='Rom.15.24'>So hoffe ich, wenn ich nach Spanien gehe, auf der Durchreise euch zu sehen, und allda dorthin ein Geleite von euch zu erhalten, wenn ich mich zuerst meinerseits an euch ersättigt habe.</verse>
+        <verse osisID='Rom.15.25'>Jetzt aber reise ich im Dienste für die Heiligen nach Jerusalem.</verse>
+        <verse osisID='Rom.15.26'>Denn die in Mazedonien und Achaja fanden sich geneigt, eine gemeinsame Leistung für die Armen der Heiligen in Jerusalem zu leisten.</verse>
+        <verse osisID='Rom.15.27'>Sie taten so aus freien Stücken, auch sind sie ihre Schuldner; denn da sie die Heiden an ihren geistigen Gütern Teilnehmen ließen, so sind diese auch schuldig, ihnen im Leiblichen zu Hilfe zu kommen.</verse>
+        <verse osisID='Rom.15.28'>Wenn ich nun solches ausgerichtet und ihnen den Betrag eingehändigt habe, will ich bei euch durchreisen nach Spanien.</verse>
+        <verse osisID='Rom.15.29'>Ich weiß aber, daß ich, wenn ich zu euch komme, mit dem vollen Segen des Evangeliums von Christus kommen werde.</verse>
+        <verse osisID='Rom.15.30'>Ich bitte euch nun, meine Brüder, bei unserem Herrn Jesus Christus und der Liebe des Geistes, mit mir zu ringen in Gebeten vor Gott für mich,</verse>
+        <verse osisID='Rom.15.31'>Daß ich errettet werde aus den Händen der Ungläubigen in Judäa, und daß meine Dienstleistung in Jerusalem genehm sei den Heiligen.</verse>
+        <verse osisID='Rom.15.32'>Auf daß ich, so Gott will, in Freuden zu euch komme und mich mit euch erquicke.</verse>
+        <verse osisID='Rom.15.33'>Der Gott aber des Friedens sei mit euch allen. Amen.</verse>
+      </chapter>
+      <chapter osisID='Rom.16'>
+        <title>Empfehlungen, Grüße, Ermahnungen.</title>
+        <verse osisID='Rom.16.1'>Ich empfehle euch unsere Schwester Phöbe, welche ist im Dienste der Gemeinde in Kenchreä,</verse>
+        <verse osisID='Rom.16.2'>Daß ihr sie aufnehmt im Herren, so wie es Heiligen geziemt, und ihr beisteht in allem, worin sie eurer Hilfe bedarf; denn sie hat vielen und auch mir Fürsorge geleistet.</verse>
+        <verse osisID='Rom.16.3'>Grüßet die Prisca und den Aquila, meine Gehilfen in Jesus Christus,</verse>
+        <verse osisID='Rom.16.4'>Welche für mein Leben ihre Nacken preisgegeben, denen nicht allein ich danke, sondern auch alle Gemeinden der Heiden] und ihre Haus-Gemeinde.</verse>
+        <verse osisID='Rom.16.5'>Grüßet meinen geliebten Epänetus, welcher ist der Erstling Achajas in Asien<note>im Glauben</note> an Christus.</verse>
+        <verse osisID='Rom.16.6'>Grüßet Maria, die so viele Mühe mit uns gehabt hat.</verse>
+        <verse osisID='Rom.16.7'>Grüßet Andronikus und Junias, meine Verwandten und Mitgefangenen, die rühmlich bekannt sind unter den Aposteln und vor mir in Christus gewesen sind.</verse>
+        <verse osisID='Rom.16.8'>Grüßet Amplias, meinen Geliebten im Herrn.</verse>
+        <verse osisID='Rom.16.9'>Grüßet Urbanus, unseren Gehilfen in Christus, und meinen geliebten Stachys.</verse>
+        <verse osisID='Rom.16.10'>Grüßet Apelles, den Bewährten in Christus, grüßet die vom Hause des Aristobulus.</verse>
+        <verse osisID='Rom.16.11'>Grüßet Herodion, meinen Verwandten, grüßet die vom Hause des Narcissus, die in dem Herrn sind.</verse>
+        <verse osisID='Rom.16.12'>Grüßet die Tryphäna und die Tryphosa, die in dem Herrn gearbeitet haben. Grüßet die geliebte Persis, die viel im Herrn gearbeitet hat.</verse>
+        <verse osisID='Rom.16.13'>Grüßet Rufus, den Auserwählten im Herrn, und seine und meine Mutter.</verse>
+        <verse osisID='Rom.16.14'>Grüßet Asynkritus, Phlegon, Hermas, Patrobas, Hermes, und die Brüder bei ihnen.</verse>
+        <verse osisID='Rom.16.15'>Grüßet Philologus und Julia, Nereus und seine Schwester und Olympas und alle Heiligen bei ihnen.</verse>
+        <verse osisID='Rom.16.16'>Grüßet euch untereinander mit dem heiligen Kuß. Alle Christengemeinden grüßen euch.</verse>
+        <verse osisID='Rom.16.17'>Ich ermahne euch, Brüder, daß ihr ein Auge habt auf die, so da Spaltungen und Ärgernis wider die Lehre anrichten, die ihr gelernt habt; und kehrt euch ab von ihnen.</verse>
+        <verse osisID='Rom.16.18'>Denn solche dienen nicht unserem Herrn Christus, sondern ihrem Bauche, und täuschen durch wohlgesetzte Reden und schöne Worte die Herzen der Arglosen.</verse>
+        <verse osisID='Rom.16.19'>Denn euer Gehorsam ist allen zu Ohren gekommen, darum freue ich mich euer; ich wünsche aber, daß ihr weise seid zum Guten, wie ihr lauter seid in bezug auf das Böse.</verse>
+        <verse osisID='Rom.16.20'>Aber der Gott des Friedens wird den Satan bald unter eure Füße treten. Die Gnade unseres Herrn Jesus Christus sei mit euch!</verse>
+        <verse osisID='Rom.16.21'>Es grüßen euch Timotheus, mein Mitarbeiter, und Lucius und Jason und Sosipater, meine Verwandten.</verse>
+        <verse osisID='Rom.16.22'>Ich Tertius, der ich diesen Brief geschrieben habe, grüße euch in dem Herrn.</verse>
+        <verse osisID='Rom.16.23'>Es grüßt euch Gajus, mein und der ganzen Gemeinde Gastfreund, auch grüßet euch Erastus, der Stadtkämmerer, und der Bruder Quartus.</verse>
+        <verse osisID='Rom.16.24'>Die Gnade unseres Herrn Jesus Christus sei mit euch allen! Amen.</verse>
+        <verse osisID='Rom.16.25'>Dem aber, Der euch befestigen kann kraft meines Evangeliums und der Predigt von Jesus Christus, durch die Offenbarung des Geheimnisses, das ewige Zeiten verschwiegen geblieben,</verse>
+        <verse osisID='Rom.16.26'>Nun aber geoffenbart und durch die prophetischen Schriften auf Befehl des ewigen Gottes zu gläubiger Annahme allen Heiden kund gemacht worden ist;</verse>
+        <verse osisID='Rom.16.27'>Dem allein weisen Gott sei Ehre durch Jesus Christus in Ewigkeit!</verse>
+      </chapter>
+    </div></osisText>
+</osis>

@@ -1,0 +1,697 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <osisText osisRefWork='Bible' osisIDWork='SACC' xml:lang='fr'>
+    <header>
+      <revisionDesc>
+        <date>2010-09-05</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='SACC'>
+        <title>La Bible de Saci 1759</title>
+        <contributor>Numérisation Yves PETRAKIAN Juillet 2008 - France</contributor>
+        <creator>TextToZefaniaXML</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject>BIBLE COMPLETE</subject>
+        <date>2010-09-05</date>
+        <description>BIBLE COMPLETE TRADUIT SUR LA VULGATE PAR LE MAISTRE DE SACI dite aussi Bible de Mons (Port Royal)</description>
+        <publisher>The Free Bible Group</publisher>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>SACC</identifier>
+        <source>http://456-bible.123-bible.com/saci/saci.htm</source>
+        <language type='IETF'>fr</language>
+        <relation/>
+        <coverage/>
+        <rights>Public Domain</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Dan'>
+      <chapter osisID='Dan.1'>
+        <title>Numérisation Yves PETRAKIAN Octobre 2008 - France</title>
+        <title>DANIEL</title>
+        <title>ARGUMENT. — Daniel étoit de la tribu de Juda, et de race royale; car c'est ainsi que les Juifs expliquent le vers 3 du chap. I de ce livre. (Voyez Joséphe.) il fut du nombre de ceux qui furent emmenés à Babylone par Nabuchodonosor, la quatrième année du régne de Joachim. dit Jéchonias, roi de Juda, selon ce qui a été prédit car Isaïe, ch XXXIV, v. 7 Ce prophète n'avoit alors que douze ans, et fut choisi avec trois autres jeunes Juifs de même tribu pour être élevé à la cour de Nabuchodonosor, et nourri aux dépens de ce prince, et il y reçut le surnom de Baltassar, nom commun aux rois et aux princes des Chaldéens. Sa fermeté dans l'observance des préceptes et ses commandements de Dieu, le progrès qu'il fit dans les sciences humaines et divines, le don de prophétie et de révélation, et les grâces extraordinaires que Dieu lui communiqua, le rendirent célèbre et recommandable à la cour, et le firent estimer généralement de tous, et des Juifs, ses frères. Ézéchiel même ne fait pas difficulté de le mettre, quoique encore vivant, au nombre des patriarches Noé et Job, dont la sainteté et les prières pouvoient fléchir la colère de Dieu irrité contre son peuple. ;Voyez Ezéch., ch. XIV, v.14 et ch. XXVIII, V. 3) Sa réputation s'étoit établie par le jugement qu'il prononça contre deux infâmes vieillards qui avoient insulté à l'innocence de Susanne, ch. XIII; par l'explication des songes de Nabuchodonosor, ch. II et IV ; et de la vision de Baltassar, ch. V; par la découverte des supercheries des prêtres de l'idole de Bel, ch. XIV; par sa délivrance de la fosse aux lions, ch. VI et XIV ; enfin par la sublimité de ses révélations et de ses prophéties. Il a prophétisé depuis la cinquième année de la captivité de Joachim ou Jéchonias, jusqu'au régne de Cyrus, c'est-à-dire pendant plus de quatre-vingts ans, et l'on croit qu'il en a vécu quatre-vingt- quatorze, puisqu'il fut emmené en captivité la troisième année de la captivité de Joachim, ch. I, v. 1 l'an du monde 3397 ou 3398, et qu'il a prophétisé jusqu'à la troisième année du règne de Cyrus. ch. X, v. I, l’an 3470 On ne sait point s’il est revenu à Jérusalem au retour de ses frères; car on  croit qu’il mourut à Babylone : c'est le sentiment de l’auteur du livre de la Vie et de la Mort des prophètes, attribué à saint Épiphane.</title>
+        <title>On peu considérer le livre de Daniel comme ayant trois parties : la première, contenue dans les six premiers chapitres, renferme l'histoire de Nabuchodonosor depuis le</title>
+        <title>commencement de son règne jusqu'au renversement de son empire par les Mèdes et par les Perses; la seconde comprend les six autres chapitres suivants, qui contiennent les visions que Daniel a eues pendant tout ce temps ; enfin la troisième renferme trois faits historiques qui avoient comme échappé de la première partie, savoir : l'histoire de Susanne, celle de Bel, et la seconde délivrance de Daniel de la fosse aux lions. Cette dernière partie n'est composée que de fragments qui n'ont pas eu chez les Juifs la même autorité que les deux premières; ils ont été omis dans leur canon, aussi bien que l'oraison et le cantique d'Azarias qui commence au verset 24 et finit au verset 91 du chap. III ; ainsi ils ne se trouvent point dans l'hébreu. ni dans la version des Septante, ni dans le chaldéen, niais dans la version grecque de Théodotien, d'où saint Jérôme les a pris; c'est ce qui a partagé les sentiments de quelques Pères sur l'autorité que peuvent avoir ces fragments. Africanus, Eusèbe, Apollinaire, ne les ont point compris dans le même rang que les livres sacrés; mais ils sont cités par saint Irénée, Clément d'Alexandrie. Tertullien, et presque tous les anciens Pères; plusieurs même d'entre eux ont soutenu la vérité des faits qu'ils renferment, comme Origène, qui a combattu Julien l'Africain, qui en rejetoit les histoires comme apocryphes. Porphyre, dans un livre spécial, avait osé attaquer non-seulement ces fragments, mais tout le livre de Daniel, et soutenait qu'il n'étoit point l'ouvrage de ce prophète, mais de quelque Juif helléniste qui vivoit du temps d'Antiochus Epiphanès, prétendant que les prophéties étaient si claires, qu'elles ne pouvoient être écrites qu'après leur accomplissement; mais il a été réfuté par Méthodius, Eusèbe et Apollinaire.</title>
+        <title>Le premier chapitre de ce prophète, jusqu'au verset 4 du chap. est écrit en hébreu; et les versets suivants, jusqu'au chap. VIII, sont écrits en chaldéen, langue du pays où Daniel demeuroit alors; le reste ne se trouve que dans la version de Théodotien. Les Juifs n'ont point donné le nom de prophète à Daniel, parce que sa naissance et la place qu'il occupait à la cour lui donnoient un rang et un litre plus relevé parmi ces peuples étrangers; cependant il en a reçu le titre de Jésus-Christ même, Matth., ch. XXIV, v. 15, et avec justice, puisque, comme dit saint Jérôme, en prédisant l'avenir, il l'a fait avec tant d'évidence et un si juste détail, qu'il semble ne pas prédire des choses futures, mais rapporter des événements passés. Le style de ce prophète est naturel, aisé, et tient beaucoup plus de l'historien que du prophète; mais ses révélations et ses prophéties sont sublimes, soutenues de visions qui leur donnent de la majesté, et attirent le respect.</title>
+        <title>Il prédit clairement tout ce qui doit arriver sous le règne d'Antiochus Épiphanès; divers événements touchant les quatre grandes monarchies ou empires du monde, l'avènement de Jésus-Christ, la destruction du règne des Juifs, et le règne futur de Antechrist.</title>
+        <title>L’ordre et les temps de la narration sont assez bien observés dans ce livre; excepté qu'il faut placer le chapitre XIII entre le premier et le second, et mettre le XIV entre le quatrième et le cinquième.</title>
+        <title>CHAPITRE I</title>
+        <title>Daniel. Ananias, Misaël et Azarias choisis pour servir à la cour de Nabuchodonosor. Ils ne veulent point se souiller en mangeant des viandes de le table du roi. Dieu les remplit de lumières.</title>
+        <verse osisID='Dan.1.1'>La troisième année du règne de Joachim, roi de Juda, Nabuchodonosor, roi de Babylone, vint mettre le siége devant la ville de Jérusalem ;</verse>
+        <verse osisID='Dan.1.2'>Et le Seigneur livra entre ses mains Joachim, roi de Juda, et une partie des vases de la maison de Dieu, qu'il emporta au pays de Sennaar, dans la maison de son dieu ; et il mit les vases dans la maison du trésor de son dieu.</verse>
+        <verse osisID='Dan.1.3'>Alors le roi dit à Asphénez, chef des eunuques, de prendre entre les enfants d'Israël, et de la race des rois et des princes, de jeunes hommes,</verse>
+        <verse osisID='Dan.1.4'>En qui il n'y eut aucun défaut, qui fussent bien faits, instruits dans tout ce qui regarde la sagesse, habiles dans les sciences et dans les arts, afin qu'ils demeurassent dans le palais du roi, et qu'il leur apprit à écrire et à parler la langue des Chaldéens.</verse>
+        <verse osisID='Dan.1.5'>Et le roi ordonna de plus qu'on leur servit chaque jour des viandes qu'on servoit devant lui, et du vin dont il buvait lui-même, afin qu'avant été nourris pendant trois ans de cette sorte, ils pussent paroître ensuite, et demeurer en la présence du roi.</verse>
+        <verse osisID='Dan.1.6'>Entre ces jeunes gens, il s'en trouva quatre qui étoient des enfants de Juda; Daniel, Ananias, Misaël et Azarias.</verse>
+        <verse osisID='Dan.1.7'>Et le chef des eunuques leur donna des noms, appelant Daniel Baltassar ; Ananias, Sidrach ; Misaël, Misach ; et Azarias, Abdénago.</verse>
+        <verse osisID='Dan.1.8'>Or Daniel résolut dans son cœur de ne point se souiller en mangeant de ce qui venoit de la table du roi, et en buvant du vin dont il buvoit et il pria le chef des eunuques de lui permettre de ne point manger de ces viandes, qui l'auroient rendu impur. </verse>
+        <verse osisID='Dan.1.9'>Dieu fit en même temps que Daniel se concilia les bonnes grâces et la bienveillance du chef des eunuques. </verse>
+        <verse osisID='Dan.1.10'>Alors le chef des eunuques dit à Daniel : Je crains le roi, mou seigneur, qui a ordonné qu'on vous servit des viandes et du vin de sa table; car s'il voit vos visages plus maigres que ceux des autres jeunes hommes de votre âge, vous serez cause que le roi me fera mourir.</verse>
+        <verse osisID='Dan.1.11'>Daniel répondit à Malasar, qui le chef des eunuques avoit ordonné de prendre soin de Daniel, d'Ananias, de Misaël et d'Azarias:</verse>
+        <verse osisID='Dan.1.12'>Éprouvez, je vous prie, vos serviteurs pendant dix jours, et qu'on ne nous donne que des légumes à manger, et que de l'eau à boire;</verse>
+        <verse osisID='Dan.1.13'>Ensuite regardez nos visages, et les visages des jeunes hommes qui mangent des viandes du roi; et vous traiterez vos serviteurs selon ce que vous aurez vu vous-même.</verse>
+        <verse osisID='Dan.1.14'>Ayant entendu ces paroles, il les éprouva pendant dix jours.</verse>
+        <verse osisID='Dan.1.15'>Et après les dix jours, leur visage parut meilleur et plus florissant que celui de tous les jeunes hommes qui mangeoient des viandes du roi.</verse>
+        <verse osisID='Dan.1.16'>Malasar prenoit donc les viandes, et le vin qu'on leur donnoit pour boire, et leur donnoit des légumes.</verse>
+        <verse osisID='Dan.1.17'>Or Dieu donna à ces jeunes hommes la science et la connoissance de tous les livres et de toute la sagesse; et il communiqua en particulier à Daniel l'intelligence de toutes les visions et de tous les songes.</verse>
+        <verse osisID='Dan.1.18'>Le temps étant donc passé, après lequel le roi avoit commandé que l'on fit paroître ces jeunes hommes devant lui, le chef des eunuques les présenta devant Nabuchodonosor.</verse>
+        <verse osisID='Dan.1.19'>Et le roi, s'étant entretenu avec eux, trouva qu'il n'y en avoit point parmi tous les autres jeunes hommes qui égalassent Daniel, Ananias, Misaël et Azarias; et ils demeurèrent pour servir à la chambre du roi.</verse>
+        <verse osisID='Dan.1.20'>Quelque question que le roi leur fit touchant la sagesse et l'intelligence des choses, il trouva en eux dix fois plus de lumières qu'il n'en avoit trouvé dans tous les devins et les mages qui étoient dans tout son royaume.</verse>
+        <verse osisID='Dan.1.21'>Or Daniel vécut jusqu'à la première année du roi Cyrus.</verse>
+      </chapter>
+      <chapter osisID='Dan.2'>
+        <title>CHAPITRE II</title>
+        <title>Songe de Nabuchodonosor ; statue composée de quatre métaux. Les devins de Chaldée ne peuvent foire connoître au roi ce songe qu'il avoit oublié. Daniel le lui fait connoître et le lui explique. Honneurs que Nabuchodonosor fait à Daniel.</title>
+        <verse osisID='Dan.2.1'>La seconde année du règne de Nabuchodonosor, ce prince eut un songe dont son esprit fut extrêmement effrayé, et ensuite il l'oublia entièrement.</verse>
+        <verse osisID='Dan.2.2'>Le roi commanda en même temps qu'on fit assembler les devins, les mages, les enchanteurs et les Chaldéens, pour lui déclarer quel avoit été son songe. Ils vinrent donc, et se présentèrent devant lui.</verse>
+        <verse osisID='Dan.2.3'>Et le roi leur dit : J'ai eu un songe, et je ne sais ce que j'ai vu, parce que rien ne m'en est resté dans l'esprit qu'une idée confuse.</verse>
+        <verse osisID='Dan.2.4'>Les Chaldéens répondirent au roi en langue syriaque : O roi, vivez à jamais ! dites à vos serviteurs le songe que vous avez eu, et nous l'interpréterons.</verse>
+        <verse osisID='Dan.2.5'>Le roi répondit aux Chaldéens : Mon songe m'est sorti de la mémoire; si vous ne me déclarez ce que j'ai songé, et ce que mon songe signifie, vous périrez tous, et vos maisons seront confisquées.</verse>
+        <verse osisID='Dan.2.6'>Mais si vous me dites mon songe, et ce qu'il signifie, je vous ferai des dons et des présents, et je vous élèverai à de grands honneurs. Dites-moi donc, et interprétez-moi ce que j'ai songé.</verse>
+        <verse osisID='Dan.2.7'>Les Chaldéens lui répondirent pour la seconde fois : S'il plaît au roi de déclarer son songe à ses serviteurs, nous lui en donnerons l'interprétation.</verse>
+        <verse osisID='Dan.2.8'>Le roi leur répondit : Je vois bien que vous ne cherchez qu'à gagner du temps, parce que vous savez que j'ai oublié mon songe.</verse>
+        <verse osisID='Dan.2.9'>Que si vous ne me pouvez dire ce que j'ai songé, c'est une marque que si je vous l'avois dit, vous lui euriez donné une interprétation trompeuse et pleine d'illusion, pour m'entretenir de paroles jusqu'à ce qu'il se fût passé beaucoup de temps. Dites-moi donc quel a été mon songe, afin que je sache que l'interprétation que vous lui donnerez sera aussi véritable. </verse>
+        <verse osisID='Dan.2.10'>Les Chaldéens répondirent au roi : Seigneur, il n'y a point d'homme sur la terre qui puisse faire ce que vous nous commandez ; et il n'y a point de roi, quelque grand et puissant qu'il soit, qui ait jamais exigé une telle chose des devins, des magiciens et des Chaldéens.</verse>
+        <verse osisID='Dan.2.11'>Car ce que vous nous demandez, ô roi, est si difficile, qu'il ne se trouvera personne qui puisse vous en donner l'explication, excepté les dieux, qui n'ont point de commerce avec les hommes.</verse>
+        <verse osisID='Dan.2.12'>A cette réponse, le roi entra en fureur, et dans son extrême colère il commanda qu'on fit mourir tous les sages de Babylone.</verse>
+        <verse osisID='Dan.2.13'>Cet arrêt ayant été prononcé, on alloit faire mourir les sages ; et on cherchoit Daniel et ses compagnons, pour les faire périr avec les autres.</verse>
+        <verse osisID='Dan.2.14'>Alors Daniel, voulant savoir qu'elle étoit cette loi et cette ordonnance, s'en informa auprès d'Arioch, général des armées du roi, qui se préparoit à faire mourir les sages de Babylone;</verse>
+        <verse osisID='Dan.2.15'>Et comme c'étoit lui qui avoit reçu cet ordre du roi, Daniel lui demanda quel sujet avoit pu porter le roi à prononcer une sentence si cruelle. Arioch ayant dit toute l'affaire à Daniel. </verse>
+        <verse osisID='Dan.2.16'>Daniel se présenta devant le roi, et le supplia de lui accorder quelque temps pour lui donner l'éclaircissement qu'il désiroit.</verse>
+        <verse osisID='Dan.2.17'>Et étant entré dans sa maison, déclara ce qui se passoit à ses compagnons, Ananias, Misaël et Azarias,</verse>
+        <verse osisID='Dan.2.18'>Afin qu'ils implorassent la miséricorde du Dieu du ciel pour la révélation de ce secret, et que Daniel et ses compagnons ne périssent pas avec les autres sages de Babylone.</verse>
+        <verse osisID='Dan.2.19'>Alors ce mystère fut découvert à Daniel dans une vision pendant la nuit; et il bénit le Dieu du ciel, et dit :</verse>
+        <verse osisID='Dan.2.20'>Que le nom du Seigneur soit béni dans tous les siècles comme il l'a été dès le commencement, parce que la sagesse et la force sont à lui !</verse>
+        <verse osisID='Dan.2.21'>C'est lui qui change les temps et les siècles, qui transfère et établit les royaumes, et qui donne la sagesse aux sages,et la science à ceux qui ont l'intelligence et la lumière.</verse>
+        <verse osisID='Dan.2.22'>C'est lui qui révèle les choses les plus profondes et les plus cachées, qui connoît ce qui est dans les ténèbres; et c'est en lui que se trouve la vraie lumière.</verse>
+        <verse osisID='Dan.2.23'>Je vous rends grâces et je vous bénis, ô Dieu de nos pères, parce que vous m'avez donné la sagesse et la force, et que vous m'avez fait voir ce que nous vous avons demandé, en nous découvrant ce que le roi désire de nous.</verse>
+        <verse osisID='Dan.2.24'>Daniel alla ensuite trouver Arioch, à qui le roi avoit ordonné de faire mourir les sages de Babylone, et il lui dit : Ne faites point mourir les sages de Babylone ; conduisez-moi près du roi, et je lui donnerai l'éclaircissement qu'il désire.</verse>
+        <verse osisID='Dan.2.25'>Arioch aussitôt présenta Daniel au roi, et lui dit: J'ai trouvé un homme d'entre les captifs des enfants de Juda, qui donnera au roi l'éclaircissement qu'il demande.</verse>
+        <verse osisID='Dan.2.26'>Le roi répondit en se tournant vers Daniel, surnommé Baltassar : Croyez-vous me pouvoir dire véritablement ce que j'ai vu dans mon songe, et m'en donner l'interprétation?</verse>
+        <verse osisID='Dan.2.27'>Daniel répondit au roi : Le mystère que le roi propose, les sages, les mages, les devins et les augures ne peuvent le découvrir au roi.</verse>
+        <verse osisID='Dan.2.28'>Mais il y a au ciel un Dieu qui révèle les mystères; c'est lui qui vous a montré, ô roi, les choses qui doivent arriver dans les derniers temps. Voici donc quel a été votre songe, et les visions qui voua ont passé dans l'esprit, lorsque vous étiez dans votre lit.</verse>
+        <verse osisID='Dan.2.29'>Vous pensiez, ô roi, étant dans votre lit, à ce qui devoit arriver après ce temps-ci ; et celui qui révèle les mystères vous a découvert les choses à venir.</verse>
+        <verse osisID='Dan.2.30'>Ce secret m'a aussi été particulièrement révélé, non par une sagesse naturelle que j'aie, et qui ne se trouve pas dans le reste des hommes, mais afin que le roi sût l'interprétation de son songe, et que les pensées de son esprit lui fussent connues.</verse>
+        <verse osisID='Dan.2.31'>Voici donc, ô roi, ce que vous avez vu. Il vous a paru comme une grande statue : cette statue, grande et extraordinairement haute, se tenoit debout devant vous, et son regard étoit effroyable.</verse>
+        <verse osisID='Dan.2.32'>La tête de cette statue étoit d'un or très-pur, la poitrine et les bras étoient d'argent, le ventre et les cuisses étoient d'airain ;</verse>
+        <verse osisID='Dan.2.33'>Les jambes étoient de fer, et une partie des pieds étoit de fer, et l'autre d'argile.</verse>
+        <verse osisID='Dan.2.34'>Vous étiez attentif à cette vision, lorsqu'une pierre se détacha d'elle‑même, et sans la main d'aucun homme, de la montagne, et frappant la statue à ses pieds de fer et d'argile, elle les mit en pièces.</verse>
+        <verse osisID='Dan.2.35'>Alors le fer, l'argile, l'airain, l'argent et l'or se brisèrent tout ensemble, et devinrent comme la menue paille que le vent emporte hors de l'aire pendant l'été, et ils disparurent sans qu'il s'en trouvât plus rien en aucun lieu; mais la pierre qui avoit frappé la statue devint une grande montagne qui remplit toute la terre.</verse>
+        <verse osisID='Dan.2.36'>Voilà votre songe, ô roi ; et nous l'interpréterons aussi devant vous.</verse>
+        <verse osisID='Dan.2.37'>Vous êtes le roi des rois, et le Dieu du ciel vous a donné le royaume, la force, l'empire et la gloire ;</verse>
+        <verse osisID='Dan.2.38'>Il vous a assujetti les enfants des hommes et les bêtes de la campagne, en quelque lieu qu'ils habitent ; il a mis en votre main les oiseaux mêmes du ciel et il a soumis toutes choses à votre puissance : c'est donc vous qui êtes la tête d'or.</verse>
+        <verse osisID='Dan.2.39'>Il s'élèvera après vous un autre royaume moindre que le vôtre, un royaume d'argent, et ensuite un troisième royaume, qui sera d'airain, et qui commandera à toute la terre,</verse>
+        <verse osisID='Dan.2.40'>Le quatrième royaume sera comme le fer : il brisera, et il réduira tout en poudre, comme le fer brise et dompte toutes choses.</verse>
+        <verse osisID='Dan.2.41'>Mais comme vous avez vu que les pieds de la statue, et les doigts pieds étoient en partie d'argile partie de fer, le royaume, quoique prenant son origine du fer, sera divisé, comme vous avez vu que le fer étoit mêlé avec la terre et l'argile.</verse>
+        <verse osisID='Dan.2.42'>Et comme les doigts des pieds étoient en partie de fer et en partie de terre, le royaume aussi sera ferme en partie, et en partie foible et fragile.</verse>
+        <verse osisID='Dan.2.43'>Et comme vous avez vu que le fur étoit mêlé avec la terre et l'argile, ils se mêleront aussi par des alliances humaines; mais ils ne demeureront point unis, comme le fer ne peut se lier ni s'unir avec l'argile.</verse>
+        <verse osisID='Dan.2.44'>Dans le temps de ces royaumes, le Dieu du ciel suscitera un royaume qui ne sera jamais détruit, un royaume qui ne passera point dans un autre peuple; qui renversera, et réduira en poudre tous ces royaumes, et subsistera éternellement.</verse>
+        <verse osisID='Dan.2.45'>Comme vous avez vu que la pierre qui avoit été arrachée de la montagne sans la main d'aucun homme, a brisé l'argile, le fer, l'airain, l'argent et l'or, le grand Dieu a fait voir au roi ce qui doit arriver à l'avenir; le songe est véritable, et l'interprétation en est très-certaine.</verse>
+        <verse osisID='Dan.2.46'>Alors le roi Nabuchodonosor se prosterna le visage contre terre, et adora Daniel; et il commanda que l'on fit venir des victimes et de l'encens, et qu'on lui sacrifiât.</verse>
+        <verse osisID='Dan.2.47'>Et le roi, parlant ensuite à Daniel, lui dit : Votre Dieu est véritablement le Dieu des dieux, et le Seigneur des rois, et celui qui révèle les mystères, puisque vous avez pu découvrir un mystère si caché.</verse>
+        <verse osisID='Dan.2.48'>Alors le roi éleva en honneur Daniel, et lui fit beaucoup de grands et magnifiques présents; il lui donna le gouvernement de toutes les provinces de Babylone, et l'éleva au-dessus de ceux qui possédoient les première dignités.</verse>
+        <verse osisID='Dan.2.49'>Et le roi ordonna, selon que Daniel le lui avoit demandé, que Sidrach, Misach et Abdénago auroient l'intendance des affaires de la provinces de Babylone ; mais Daniel étoit toujours dans le palais et près de la personne du roi.</verse>
+      </chapter>
+      <chapter osisID='Dan.3'>
+        <title>CHAPITRE III</title>
+        <title>Statue d'or dressée par Nabuchodonosor. Les trois compagnons de Daniel refusent d'adorer cette statue; ils sont jetés dlans une fournaise ardente. Dieu les y conserve. Prière d'Azarias. Cantique d'Azarias et de ses compagnons. Ordonnance de Nabuchodonosor en faveur de la religion des Juifs.</title>
+        <verse osisID='Dan.3.1'>Le roi Nabuchodonosor fit faire une statue d'or qui avoit soixante coudées de haut et six de large, et il la fit placer dans la campagne de Dura, qui étoit de la province de Babylone.</verse>
+        <verse osisID='Dan.3.2'>Il envoya ensuite un ordre pour faire assembler les satrapes, les magistrats, les juges, les officiers de l'armée, les intendants, ceux qui possédoient les premières charges, et tous les gouverneurs de provinces, afin qu'ils se trouvassent au jour où on dédieroit la statue qu'il avoit élevée.</verse>
+        <verse osisID='Dan.3.3'>Alors les satrapes, les magistrats, les juges, les officiers de l'armée, les intendants, les seigneurs qui étoient établis dans les premières charges, et tous les gouverneurs de provinces, s'assemblèrent pour assister à la dédicace de la statue que le roi Nabuchodonosor avoit élevée. Ils se tenoient debout devant la statue que le roi Nabuchodonosor avoit fait dresser;</verse>
+        <verse osisID='Dan.3.4'>Et le héraut crioit à haute voix : Peuples et tribus de toutes langues, on vous ordonne,</verse>
+        <verse osisID='Dan.3.5'>Qu'au moment où vous entendrez le son de la trompette, de la flûte, de la harpe, du hautbois, de la lyre, et des concerts de toute sorte de musiciens, vous vous prosterniez en terre, et que vous adoriez la statue d'or que le roi Nabuchodonosor a élevée.</verse>
+        <verse osisID='Dan.3.6'>Que si quelqu'un ne se prosterne pas, et n'adore point cette statue, il sera jeté sur l'heure au milieu des flammes de la fournaise.</verse>
+        <verse osisID='Dan.3.7'>Aussitôt donc que tous les peuples entendirent le son de la trompette, de la flûte, de la harpe, du hautbois, de la lyre, et des concerts de toute sorte de musiciens, tous les hommes, de quelque nation, de quelque tribu et de quelque langue qu'ils fussent, adorèrent la statue d'or que Nabuchodonosor avoit dressée.</verse>
+        <verse osisID='Dan.3.8'>Aussitôt, et dans le même moment, des Chaldéens s'approchèrent et accusèrent des Juifs,</verse>
+        <verse osisID='Dan.3.9'>En disant au roi Nabuchodonosor : O roi, vivez à jamais !</verse>
+        <verse osisID='Dan.3.10'>Vous avez fait une ordonnance, ô roi, que tout homme, au moment où il entendroit le son de la trempette, de la flûte, de la harpe, du hautbois, de la lyre, et des concerts de toute sorte de musiciens, se prosternât en terre, et adorât la statue d'or ;</verse>
+        <verse osisID='Dan.3.11'>Et que si quelqu'un ne se prosternoit pas, et ne l'adoroit point, il seroit jeté au milieu des flammes de la fournaise.</verse>
+        <verse osisID='Dan.3.12'>Cependant ceux des Juifs à qui vous avez donné l'intendance des affaires de la province de Babylone, Sidrach, Misach et Abdénago, méprisent, ô roi, votre ordonnance; ils n'honorent point vos dieux, et ils n'adorent point la statue d'or que vous avez élevée.</verse>
+        <verse osisID='Dan.3.13'>Alors Nabuchodonosor, plein de furie et de colère, commanda qu'on amenât devant lui Sidrach, Misach et Abdénago, qui furent amenés aussitôt devant leroi.</verse>
+        <verse osisID='Dan.3.14'>Et le roi Nabuchodonosor leur dit ces paroles : Est-il vrai, Sidrach, Misach et Abdénago, que vous n'honorez point mes dieux, et que vous n'adorez point la statue d'or que j'ai dressée?</verse>
+        <verse osisID='Dan.3.15'>Maintenant donc si vous êtes prêts à m'obéir, au moment où vous entendrez le son de la trompette, de la flûte, de la harpe, du hautbois, de la lyre, et des concerts de toute sorte de musiciens, prosternez-vous en terre, et adorez la statue que j'ai faite. Que si vous ne l'adorez pas, vous serez jetés au même moment au milieu des flammes de la fournaise. Et quel est le Dieu qui vous puisse arracher d'entre mes mains?</verse>
+        <verse osisID='Dan.3.16'>Sidrach, Misach et Abdénago répondirent au roi Nabuchodonosor : Il n'est pas besoin, ô roi, que nous répondions sur ce sujet ;</verse>
+        <verse osisID='Dan.3.17'>Car notre Dieu, le Dieu que nous adorons, peut certainement nous retirer du milieu des flammes de la fournaise, et nous délivrer, ô roi, d'entre vos mains.</verse>
+        <verse osisID='Dan.3.18'>Que s'il, ne veut pas le faire, nous vous déclarons, ô roi, que nous n'honorons point vos dieux, et que nous n'adorons point la statue d'or que vous avez fait élever.</verse>
+        <verse osisID='Dan.3.19'>Alors Nabuchodonosor fut rempli de fureur; il changea de visage, et il regarda d'un oeil de colère Sidrach, Misach et Abdénago ; il commanda que le feu de la fournaise fût sept fois plus ardent qu'il n'avoit accoutumé d'être.</verse>
+        <verse osisID='Dan.3.20'>Il donna ordre aux plus forts soldats de ses gardes de lier les pieds à Sidrach, Misach et Abdénago, et de les jeter ainsi au milieu de la fournaise.</verse>
+        <verse osisID='Dan.3.21'>En même temps ces trois hommes furent liés et jetés au milieu des flammes de la fournaise, avec leurs chausses, leurs tiares, leurs souliers, et leurs vêtements ;</verse>
+        <verse osisID='Dan.3.22'>Car le commandement du roi étoit pressant. Et comme la fournaise étoit extraordinairement embrasée, les flammes du feu firent mourir les hommes qui y avoient jeté Sidrach, Misach et Abdénago.</verse>
+        <verse osisID='Dan.3.23'>Cependant ces trois hommes, Sidrach, Misach et Abdénago, tombèrent tous liés au milieu des flammes de la fournaise.</verse>
+        <title>Ce qui suit jusqu'au verset 91 ne se trouve pas dans l'hébreu, et a été pris de l'édition de la Bible de Théodolien. (Cette remarque est de saint Jérôme.)</title>
+        <verse osisID='Dan.3.24'>Ils marchoient au milieu de la flamme, louant Dieu, et bénissant le Seigneur.</verse>
+        <verse osisID='Dan.3.25'>Mais Azarias se tenant debout fit cette prière, et ouvrant sa bouche au milieu du feu, il dit :</verse>
+        <verse osisID='Dan.3.26'>Soyez béni, Seigneur, Dieu de nos pères, et que votre nom soit loué et glorifié dans tous les siècles!</verse>
+        <verse osisID='Dan.3.27'>Parce que vous êtes juste dans tout ce que vous nous avez fait, que toutes vos oeuvres sont fondées sur l'équité, que vos voies sont droites, et que tous vos jugements sont justes et véritables.</verse>
+        <verse osisID='Dan.3.28'>Vos jugements ont été très-équitables dans tous les maux que vous avez fait venir sur nous, et sur Jérusalem, la cité sainte de nos pères, parce que vous nous avez envoyé tous ces châtiments dans la vérité et dans la justice, à cause de nos péchés.</verse>
+        <verse osisID='Dan.3.29'>Car nous avons péché, et nous sommes tombés dans l'iniquité en nous retirant de vous, et nous avons manqué en toutes choses ;</verse>
+        <verse osisID='Dan.3.30'>Nous n'avons point écouté vos ordonnances, nous ne les avons point observées, et nous ne les avons point gardées comme vous nous l'aviez com- rmeaunxdé, afin que nous fussions heureux.</verse>
+        <verse osisID='Dan.3.31'>Ainsi c'est avec une justice très-véritable que vous nous avez envoiyé ces châtiments, que vous nous avez fait tous ces maux,</verse>
+        <verse osisID='Dan.3.32'>Et que vous nous avez livrés entre les mains de nos ennemis, qui sont des injustes, des scélérats et des prévaricateurs de votre loi, et entre les mains d'un roi qui est le plus injuste et le plus méchant qui soit sur la terre.</verse>
+        <verse osisID='Dan.3.33'>Et maintenant nous n'osons pas ouvrir la bouche; et nous sommes devenus un sujet de confusion et de honte à vos serviteurs et à ceux qui vous adorent.</verse>
+        <verse osisID='Dan.3.34'>Ne nous abandonnez pas, Seigneur, pour jamais, à cause de votre nom, nous vous en conjurons ; ne détruisez pas votre alliance ;</verse>
+        <verse osisID='Dan.3.35'>Et ne retirez pas de nous votre miséricorde, à cause d'Abraham, votre bien-aimé, d'Isaac, votre serviteur, et d'Israël, votre saint,</verse>
+        <verse osisID='Dan.3.36'>Auxquels vous avez promis que vous multiplieriez leur race comme les étoiles du ciel, et comme le sable qui est sur le rivage de la mer;</verse>
+        <verse osisID='Dan.3.37'>Car nous sommes au contraire réduits à un plus petit nombre que toutes les autres nations, et nous sommes aujourd'hui humiliés par toute la terre à cause de nos péchés.</verse>
+        <verse osisID='Dan.3.38'>Et il n'y a plus maintenant parmi nous ni prince, ni chef, ni prophète, ni holocauste, ni sacrifice, ni oblation, ni encens, ni lieu pour vous offrir nos prémices,</verse>
+        <verse osisID='Dan.3.39'>Afin que nous puissions avoir part à votre miséricorde. Mais recevez-nous, Seigneur, dans un coeur contrit et dans un esprit humilié ;</verse>
+        <verse osisID='Dan.3.40'>Que notre sacrifice se consomme aujourd'hui devant vous, et qu'il vous soit agréable comme si nous vous offrions des holocaustes de béliers et de taureaux, et mille agneaux gras, parce que ceux qui mettent leur confiance en vous ne tomberont point dans la confusion.</verse>
+        <verse osisID='Dan.3.41'>Et maintenant nous vous suivons de tout notre coeur; nous vous craignons, et nous recherchons votre face.</verse>
+        <verse osisID='Dan.3.42'>Ne nous confondez pas, mais traitez-nous selon votre douceur, et selon la multitude de vos miséricordes.</verse>
+        <verse osisID='Dan.3.43'>Délivrez-nous par les merveilles de votre puissance, et donnez, Seigneur, gloire à votre nom;</verse>
+        <verse osisID='Dan.3.44'>Que tous ceux qui font souffrir des maux à vos serviteurs soient confondus, qu'ils soient confondus par votre toute-puissance, que leur force soit réduite en poudre,</verse>
+        <verse osisID='Dan.3.45'>Et qu'ils sachent que c'est vous seul qui êtes le Seigneur, le Dieu et le Roi de gloire sur toute la terre.</verse>
+        <verse osisID='Dan.3.46'>Cependant les serviteurs du roi, qui avoient jeté ces trois jeunes homme: dans le feu, ne cessoient point d'allumer la fournaise avec du bitume, de l'étoupe, de la poix, et du sarment;</verse>
+        <verse osisID='Dan.3.47'>Et la flamme s'élevoit de quarante-neuf coudées au-dessus de la fournaise ;</verse>
+        <verse osisID='Dan.3.48'>Et elle s'élança dehors, et dévora les Chaldéens qu'elle trouva les plus rapprochés de la fournaise.</verse>
+        <verse osisID='Dan.3.49'>Or l'ange du Seigneur descendit vers Azarias et ses compagnons dans la fournaise ; il écarta les flammes,</verse>
+        <verse osisID='Dan.3.50'>Et fit souffler au milieu de la fournaise un vent plein d'une douce rosée; et le feu ne les toucha on aucune façon, et ne les incommoda point, et ne leur fit aucun mal.</verse>
+        <verse osisID='Dan.3.51'>Alors ces trois hommes louoient Dieu dans la fournaise, et le glorifioient et le bénissoient d'une seule voix, en disant :</verse>
+        <verse osisID='Dan.3.52'>Vous êtes béni, Seigneur, Dieu de nos pères; vous êtes digne de toutes louanges, vous êtes plein de gloire, et élevé au-dessus de tout dans tous les siècles; le saint nom de votre gloire est béni; il est digne de toutes louanges, et élevé au-dessus de tout dans tous les siècles.</verse>
+        <verse osisID='Dan.3.51'>Vous êtes béni dans le temple saint de votre gloire, et élevé au-dessus de toute louange et de toute gloire dans tous les siècles.</verse>
+        <verse osisID='Dan.3.54'>Vous êtes béni sur le trône de votre royaume, et élevé au-dessus de toute louange et au-dessus de toute gloire dans tous les siècles.</verse>
+        <verse osisID='Dan.3.55'>Vous êtes béni, vous qui voyez le fond des abîmes, et qui êtes assis sur les chérubins; et vous êtes digne de toute louange, et élevé au-dessus de toute gloire dans tous les siècles.</verse>
+        <verse osisID='Dan.3.56'>Vous êtes béni dans le firmament du ciel, et vous êtes digne de toute louange et de toute gloire dans tous les siècles.</verse>
+        <verse osisID='Dan.3.57'>Ouvrages du Seigneur, bénissez tous le Seigneur; louez-le, et relevez sa souveraine grandeur dans tous les siècles.</verse>
+        <verse osisID='Dan.3.58'>Anges du Seigneur, bénissez le Seigneur ; louez-le, et célébrez sa souveraine grandeur dans tous les siècles.</verse>
+        <verse osisID='Dan.3.59'>Cieux, bénissez le Seigneur ; louez-le, et célébrez sa souveraine grandeur dans tous les siècles.</verse>
+        <verse osisID='Dan.3.60'>Eaux qui êtes au dessus des cieux, bénissez toutes le Seigneur; louez-le, et célébrez sa souveraine grandeur dans tous les siècles.</verse>
+        <verse osisID='Dan.3.61'>Puissances et vertus du Seigneur, bénissez toutes le Seigneur ; louez-le, et célébrez sa souveraine grandeur dans tous les siècles.</verse>
+        <verse osisID='Dan.3.62'>Soleil et lune, bénissez le Seigneur; louez-le, et célébrez sa souveraine grandeur dans tous les siècles.</verse>
+        <verse osisID='Dan.3.63'>Étoiles du ciel, bénissez le Seigneur ; louez-le, et célébrez sa souveraine grandeur dans tous les siècles.</verse>
+        <verse osisID='Dan.3.61'>Pluies et rosées, bénissez toutes le Seigneur ; louez-le, et célébrez sa souveraine grandeur dans tous les siècles.</verse>
+        <verse osisID='Dan.3.65'>Vents et souffles de Dieu, bénissez tous le Seigneur ; louez-le, et célébrez sa souveraine grandeur dans tous les siècles.</verse>
+        <verse osisID='Dan.3.66'>Feux et chaleurs de l'été, bénissez le Seigneur ; louez-le, et célébrez sa souveraine grandeur dans tous les siècles.</verse>
+        <verse osisID='Dan.3.67'>Froids et rigueurs de l'hiver, bénissez le Seigneur ; louez-le, et élébrez sa souveraine grandeur dans tous les siècles.</verse>
+        <verse osisID='Dan.3.68'>Rosées et bruines, bénissez le Seigneur ; louez-le, et célébrez sa souveraine grandeur dans tous les siècles.</verse>
+        <verse osisID='Dan.3.69'>Gelées et froidures, bénissez le Seigneur; louez-le, et célébrez sa souveraine grandeur dans tous les siècles.</verse>
+        <verse osisID='Dan.3.70'>Glace, et neiges, bénissez le Seigneur ; louez-le, et célébrez sa souveraine grandeur dans tous les siècles.</verse>
+        <verse osisID='Dan.3.71'>Nuits et jours, bénissez le Seigneur; louez-le, et célébrez sa souveraine grandeur dans tous les siècles.</verse>
+        <verse osisID='Dan.3.72'>Lumière et ténèbres bénissez le Seigneur ; louez-le, et célébrez sa souveraine grandeur dans tous les siècles.</verse>
+        <verse osisID='Dan.3.73'>Éclairs et nuages, bénissez le Seigneur ; louez-le, et célébrez sa souveraine grandeur dans tous les siècles.</verse>
+        <verse osisID='Dan.3.74'>Que la terre bénisse le Seigneur; qu'elle loue et qu'elle célèbre sa souveraine grandeur dans tous les siècles.</verse>
+        <verse osisID='Dan.3.75'>Montagnes et collines, bénissez le Seigneur ; louez-le, et célébrez sa souveraine grandeur dans tous les siècles.</verse>
+        <verse osisID='Dan.3.76'>Plantes qui naissez de la terre, bénissez toutes le Seigneur ; 1ouez-le, et célébrez sa souveraine grandeur dans tous les siècles.</verse>
+        <verse osisID='Dan.3.77'>Fontaines, bénissez le Seigneur ; louez-le, et célébrez sa souveraine grandeur dans tous les siècles.</verse>
+        <verse osisID='Dan.3.78'>Mers et fleuves, bénissez le Seigneur ; louez-le, et célébrez sa souveraine grandeur dans tous les siècles.</verse>
+        <verse osisID='Dan.3.79'>Baleines et poissons qui vivez dans les eaux, bénissez tous le Seigneur ; louez-le, et célébrez sa souveraine grandeur dans tous les siècles.</verse>
+        <verse osisID='Dan.3.80'>Oiseaux du ciel, bénissez tous le Seigneur ; louez et célébrez sa souveraine grandeur dans tous les siècles.</verse>
+        <verse osisID='Dan.3.81'>Bêtes, ou privées ou sauvages, bénissez toutes le Seigneur; louez-le, et célébrez sa souveraine grandeur dans tous les siècles.</verse>
+        <verse osisID='Dan.3.82'>Enfants des hommes, bénissez le Seigneur ; louez-le, et célébrez sa souveraine grandeur dans tous les siècles.</verse>
+        <verse osisID='Dan.3.83'>Qu'Israël bénisse le Seigneur ; qu'il le loue, et qu'il célèbre sa souveraine grandeur dans tous les siècles.</verse>
+        <verse osisID='Dan.3.84'>Prètres du Seigneur, baissez le Seigneur; louez-le, et célébrez sa souveraine grandeur dans tous les siècles.</verse>
+        <verse osisID='Dan.3.85'>Serviteurs du Seigneur, bénissez le Seigneur ; louez-le, et célébrez sa souveraine grandeur dans tous les siècles.</verse>
+        <verse osisID='Dan.3.86'>Esprits et âmes des justes, bénissez le Seigneur ; louez-le, et célébrez sa souveraine grandeur dans tous les siècles.</verse>
+        <verse osisID='Dan.3.87'>Vous qui êtes saints et humbles de cœur, bénissez le Seigneur, louez-le, et célébrez sa souveraine grandeur dans tous les siècles.</verse>
+        <verse osisID='Dan.3.88'>Ananias, Azarias et Misael, bénissez le Seigneur; louez-le, et célébrez sa souveraine grandeur dans tous les siècles, parce qu'il nous a tirés de l'enfer, qu'il nous a sauvés de la puissance de la mort, qu'il nous a délivrés du milieu des flammes ardentes, et nous a tirés du milieu du feu.</verse>
+        <verse osisID='Dan.3.89'>Rendez grâces au Seigneur, parce qu'il est bon, parce que sa miséricorde s'étend dans tous les siècles.</verse>
+        <verse osisID='Dan.3.90'>Vous qui êtes religieux et craignant Dieu, bénissez le Seigneur, le Dieu des dieux ; louez-le, et rendez-lui des actions de gràces, parce que sa miséricorde s'étend dans la suite de tous les siècles.</verse>
+        <verse osisID='Dan.3.91'>Alors le roi Nabuchodonosor fut frappé d'étonnement: il se leva tout d'un coup, et dit aux grands de sa cour : N'avons-nous pas jeté trois hommes liés au milieu du feu? Ils répondirent au roi : Oui, seigneur.</verse>
+        <verse osisID='Dan.3.92'>Nabuchodonosor leur dit : J'en vois quatre néanmoins qui marchent sans être liés au milieu du feu, qui sont incorruptibles dans les flammes, et dont le quatrième est semblable au Fils de Dieu.</verse>
+        <verse osisID='Dan.3.93'>Alors Nabuchodonosor, s'étant approché de la porte de la fournaise ardente, dit : Sidrach. Misach et Abdénago, serviteurs du Dieu très-haut, sortez et venez. Aussitôt Sidrach, Misach et Abdénago sortirent du milieu du feu ;</verse>
+        <verse osisID='Dan.3.94'>Et les satrapes, les premiers officiers, les juges, et les grands de la cour du roi, regardoient attentivement ces jeunes hommes, voyant que le feu n'avoit eu aucun pouvoir sur leur corps, que pas un seul cheveu de leur tète n'en avoit été brûlé, qu'il n'en paroissoit aucune trace sur leurs vêtements, et que l'odeur même du feu n'étoit pas venue jusqu'à eux.</verse>
+        <verse osisID='Dan.3.95'>Alors Nabuchodonosor, comme hors de lui-même, s'écria : Béni soit leur Dieu, le Dieu de Sidrach, de Misach et d'Abdénago, qui a envoyé son ange, et a délivré ses serviteurs qui ont cru en lui, qui ont résisté au commandement du roi, et qui ont abandonné leur corps pour ne se point rendre esclaves, et pour n'adorer aucun autre dieu que le seul Dieu qu'ils adorent!</verse>
+        <verse osisID='Dan.3.96'>Voici donc l'ordonnance que je fais : Que tout homme, de quelque peuple, de quelque tribu, et de quelque langue qu'il puisse être, qui aura proféré un blasphème contre le Dieu de Sidrach, de Misach et d'Abdénago, périsse, et que sa maison soit détruite; parce qu'il n'y a point d'autre Dieu qui puisse sauver que celui-là.</verse>
+        <verse osisID='Dan.3.97'>Alors le roi éleva en dignité Sidrach, Misach et Abdénago dans la province de Babylone.</verse>
+        <verse osisID='Dan.3.98'>Le roi Nabuchodonosor : A tous les peuples et à toutes les nations, quelque langue qu'elles parlent dans toute la terre; que la paix s'établisse en vous de plus en plus !</verse>
+        <verse osisID='Dan.3.99'>Le Dieu très-haut a fait des prodiges et des merveilles dans mon royaume.</verse>
+        <verse osisID='Dan.3.100'>J'ai donc résolu de publier ses prodiges, parce qu'ils sont grands ; et ses merveilles, parce qu'elles sont étonnantes; car son royaume est un royaume éternel, et sa puissance s'étend dans la suite de tous les siècles.</verse>
+      </chapter>
+      <chapter osisID='Dan.4'>
+        <title>CHAPITRE IV</title>
+        <title>Songe de Nabuchodonosor; arbre abattu. Daniel lui explique ce songe. Ce songe s'accomplit. Nabuchodonosor est réduit pendant sept ans au rang des bêtes. Il reconnoît la main de Dieu, et est rétabli dans son royaume.</title>
+        <verse osisID='Dan.4.1'>Moi, Nabuchodonosor, étant en paix dans ma maison, et plein de gloire dans mon palais,</verse>
+        <verse osisID='Dan.4.2'>J'ai vu un songe qui m'a effrayé ; et étant dans mon lit, mes pensées et les images qui se présentoient à mon imagination m'épouvantèrent.</verse>
+        <verse osisID='Dan.4.3'>C'est pourquoi je publiai une ordornance pour faire venir devant moi tous les sages de Babylone, afin qu'ils me donnassent l'explication de mon songe.</verse>
+        <verse osisID='Dan.4.4'>Alors les devins, les mages, les Chaldéens et les augures étant venus devant moi, je leur racontai mon songe. et ils ne purent me l'expliquer ;</verse>
+        <verse osisID='Dan.4.5'>Enfin Daniel. notre collègue, parut devant nous, lui à qui j'ai donné le nom de Baltassar, qui est le nom de mon Dieu, et qui a en lui-même l'esprit des dieux saints. Je lui racontai mon songe, et je lui dis :</verse>
+        <verse osisID='Dan.4.6'>Baltassar, prince des devins, comme je sais que vous avez en vous l'esprit des dieux saints, et qu'il n'y a point de secret que vous ne puissiez pénétrer, dites-moi ce que j'ai vu en songe, et donnez-m'en l'explication.</verse>
+        <verse osisID='Dan.4.7'>Voici ce qui m'a été représenté en vision lorsque j'étois dans mon lit : Il me sembloit que je voyois, au milieu de la terre, un arbre qui étoit excessivement haut.</verse>
+        <verse osisID='Dan.4.8'>C'étoit un arbre grand et fort, dont la hauteur alloit jusqu'au ciel, et qui paroissoit s'étendre jusqu'aux extrémités du monde.</verse>
+        <verse osisID='Dan.4.9'>Ses feuilles étoient très-belles, et il étoit chargé de fruits capables de fournir une nourriture universelle; les animaux domestiques et les bêtes sauvages habitoient dessous, les oiseaux du ciel demeuroient sur ses branches, et tout ce qui avoit vie y trouvoit de quoi se nourrir.</verse>
+        <verse osisID='Dan.4.10'>J'eus cette vision étant sur mon lit; alors celui qui veille, et qui est saint, descendit du ciel,</verse>
+        <verse osisID='Dan.4.11'>Et cria d’une voix forte : Abattez l'arbre par le pied, coupez-en les branches, faites-en tomber les feuilles, et répandez-en les fruits; que les bêtes qui étoient dessous s'enfuient, et que les oiseaux s'envolent de dessus ses branches.</verse>
+        <verse osisID='Dan.4.12'>Laissez-en néanmoins en terre la tige avec ses racines, qu'elle soit liée avec des chaînes de fer et d'airain parmi les herbes des champs, qu'elle soit mouillée de la rosée du ciel, et qu'elle paisse avec les bêtes sauvages l'herbe de la terre.</verse>
+        <verse osisID='Dan.4.13'>Qu'on lui ôte son cœur d'homme, et qu'on lui donne un cœur de bête, et que sept ans passent sur lui.</verse>
+        <verse osisID='Dan.4.14'>C'est ce qui a été ordonné par ceux qui veillent, c'est la parole et la demande des saints, jusqu'à ce que les vivants connoissent que c'est le Très-Haut qui a la domination sur les</verse>
+        <title>royaumes des hommes, qui les donne à qui il lui plaît, et qui établit roi, quand il veut, le dernier d'entre les hommes.</title>
+        <verse osisID='Dan.4.15'>Voilà le songe que j'ai eu, moi Nabuchodonosor, roi. Hâtez-vous donc, Baltassar, de m'en donner l’explication ; car tous les sages de mon royaume n'ont pu me l'interpréter; mais pour vous, vous le pouvez, parce que l'esprit des dieux saints est en vous.</verse>
+        <verse osisID='Dan.4.16'>Alors Daniel, surnommé Baltassar, commença à penser en lui-même sans rien dire, pendant près d'une heure; et les pensées qui lui venoient lui jetoient le trouble dans l'esprit. Mais le roi prenant la parole lui dit : Baltassar, que ce songe et l'interprétation que vous avez à lui donner ne vous troublent point. Baltassar lui répondit : Seigneur, que le songe retourne sur ceux qui vous haissent, et son interprétation sur vos ennemis !</verse>
+        <verse osisID='Dan.4.17'>Vous avez vu un arbre qui étoit très-grand et très-fort, dont la hauteur alloit jusqu'au ciel, qui sembloit s'étendre sur toute la terre;</verse>
+        <verse osisID='Dan.4.18'>Ses branches étoient très-belles, il étoit chargé de fruits, et tous y trouvoient de quoi se nourrir; les bêtes de la campagne habitoient dessous, et les oiseaux du ciel se retiroient sur ses branches.</verse>
+        <verse osisID='Dan.4.19'>Cet arbre, ô roi, c'est vous-même qui êtes devenu si grand et si puissant; car votre grandeur s'est accrue et élevée jusqu'au ciel, votre puissance s'est étendue jusqu'aux extrémités du monde.</verse>
+        <verse osisID='Dan.4.20'>Vous avez vu ensuite, ô roi, que celui qui veille et qui est saint est descendu du ciel, et qu'il a dit : Abattez cet arbre, coupez-en les branches, réservez-en néanmoins en terre la tige avec les racines ; qu'il soit lié avec le fer et l'airain parmi les herbes des champs, qu'il soit mouillé par la rosée du ciel, et qu'il paisse avec les bêtes sauvages, jusqu'à ce que sept ans soient passés sur lui.</verse>
+        <verse osisID='Dan.4.21'>Et voici l'interprétation de la sentence du Très-Haut, qui a été prononcée contre le roi, mon seigneur :</verse>
+        <verse osisID='Dan.4.22'>Vous serez chassé de la compagnie des hommes, et vous habiterez avec les animaux et les bêtes sauvages ;vous mangerez du foin comme le boeuf, vous serez trempé de la rosée du ciel; sept années passeront sur vous, jusqu'à ce que vous reconnoissiez que le Très-Haut tient sous sa domination les royaumes des hommes, et qu'il les donne à qui il lui plait.</verse>
+        <verse osisID='Dan.4.23'>Quant à l'ordre de réserver la tige de l'arbre avec ses racines, cela vous marque que votre royaume vous demeurera, après que vous aurez reconnu que toute puissance vient du ciel.</verse>
+        <verse osisID='Dan.4.24'>C'est pourquoi suivez, ô roi, le conseil que je vous donne; rachetez vos péchés par les aumônes, et vos iniquités par les oeuvres de miséricorde envers les pauvres; peut-être le Seigneur vous pardonnera-t-il vos offenses.</verse>
+        <verse osisID='Dan.4.25'>Toutes ces choses arrivèrent depuis au roi Nabuchodonosor.</verse>
+        <verse osisID='Dan.4.26'>Douze mois après, il se promenoit dans le palais de Babylone;</verse>
+        <verse osisID='Dan.4.27'>Et il commença à dire: N'est-ce pas là cette grande Babylone dont j'ai fait le siége de mon royaume, que j'ai bâtie dans la grandeur de ma puissance, et dans l'éclat de ma gloire?</verse>
+        <verse osisID='Dan.4.28'>A peine le roi avoit prononcé cette parole, qu'on entendit cette voix du ciel : Voici ce qui vous est annoncé, ô Nabuchodonosor, roi : Votre royaume passera en d'autres mains;</verse>
+        <verse osisID='Dan.4.29'>Vous serez chassé de la compagnie des hommes, vous habiterez avec les animaux et les bêtes sauvages ; vous mangerez du foin comme un boeuf, et sept ans passeront sur vous, jusqu'à ce que vous reconnoissiez que le Très-Haut a un pouvoir absolu sur les royaumes des hommes, et qu'il les donne à qui il lui plait.</verse>
+        <verse osisID='Dan.4.30'>Cette parole fut accomplie à la même heure en la personne de Nabuchodonosor; il fut chassé de la compagnie des hommes, il mangea du foin comme un boeuf, son corps fut trempé de la rosée du ciel, en sorte que ses cheveux crûrent comme les plumes d'un aigle, et que ses ongles devinrent comme les griffes des oiseaux.</verse>
+        <verse osisID='Dan.4.31'>Après que le temps marque de Dieu eut été accompli, moi, Nabuchodonosor, j'élevai les yeux au ciel ; le sens et l'esprit me furent rendus; je bénis le Très-Haut, je louai et glorifiai celui qui vit éternellement parce que sa puissance est une puissance éternelle, et que son royaume s'étend dans la suite des siècles.</verse>
+        <verse osisID='Dan.4.32'>Tous les habitants de la terre sont devant lui comme un néant; il fait tout ce qu'il lui plaît, soit dans les vertus célestes, soit parmi ceux qui sont sur la terre ; et nul ne peut résister à sa main puissante, ni lui dire: Pourquoi avez-vous fait ainsi?</verse>
+        <verse osisID='Dan.4.33'>En ce même temps le sens me revint, et je recouvrai tout l'éclat et toute la gloire de la dignité royale ; ma première forme me fut rendue ; les grands de ma cour et mes principaux officiers me vinrent chercher; je fus rétabli dans mon royaume, et je devins plus grand que jamais.</verse>
+        <verse osisID='Dan.4.34'>Maintenant donc, moi, Nabuchodonosor, je loue le Roi du ciel, et je publie sa grandeur et sa gloire, parce que toutes ses oeuvres sont fondées sur la vérité, que toutes ses voies sont pleines de justice. et qu'il peut humilier les superbes quand il lui plaît.</verse>
+      </chapter>
+      <chapter osisID='Dan.5'>
+        <title>CHAPITRE V</title>
+        <title>Festin sacrilège du roi Baltassar. Apparition d'une main qui écrit sur la muraille. Les sages de Babylone ne peuvent lire ni expliquer cette écriture. Daniel le lit et l'explique. Mort de Baltassar. Darius le Mède lui succède</title>
+        <verse osisID='Dan.5.1'>Le roi Baltassar fit un grand festin à mille des principaux de sa cour, et chacun buvoit selon son âge.</verse>
+        <verse osisID='Dan.5.2'>Le roi, déjà plein de vin, commanda qu'on apportât les vases d'or et d'argent que son père, Nabuchodonosor, avoit emportés du temple de Jérusalem, afin que le roi bût dedans avec ses femmes, ses concubines, et les grands de sa cour.</verse>
+        <verse osisID='Dan.5.3'>On apporta donc aussitôt les vases d'or et d'argent qui avoient été transportés du temple de Jérusalem, et le roi but dedans avec ses femmes, ses concubines, et les grands de sa cour.</verse>
+        <verse osisID='Dan.5.4'>Ils buvoient du vin, et ils louoient leurs dieux d'or et d'argent, d'airain et de fer, de bois et de pierre.</verse>
+        <verse osisID='Dan.5.5'>Au même moment on vit paroître des doigte, et comme la main d'un homme qui écrivoit près du chandelier sur la muraille de la salle du roi ; et le roi voyoit le mouvement des doigts de le main qui écrivoit,</verse>
+        <verse osisID='Dan.5.6'>Alors le visage du roi s'altéra, son esprit fut saisi d'un grand trouble, ses reins se relâchèrent, et dans son tremblement ses genoux se choquoient l'un l'autre.</verse>
+        <verse osisID='Dan.5.7'>Le roi jeta donc un grand cri, et ordonna qu'on fit venir les mages, les Chaldéens et les augures; et le roi dit aux sages de Babylone : Quiconque lira cette écriture, et me l'interprétera, sera revêtu de pourpre, aura un collier d'or au cou, et sera la troisième personne de mon royaume.</verse>
+        <verse osisID='Dan.5.8'>Mais tous les sages du roi étant venus devant lui ne purent ni lire cette écriture, ni lui en donner l'interprétation ;</verse>
+        <verse osisID='Dan.5.9'>Ce qui redoubla encore le trouble du roi Baltassar ; son visage en fut tout changé ; et les grands de sa cour en furent épouvantés comme lui.</verse>
+        <verse osisID='Dan.5.10'>Mais la reine, touchée de ce qui étoit arrivé au roi, et aux grands qui étoient près de lui, entra dans la salle du festin, et lui dit : O roi, vivez à jamais! que vos pensées ne vous troublent point, et que votre visage ne s'altère point !</verse>
+        <verse osisID='Dan.5.11'>Il y a dans votre royaume un homme qui a en lui-même l'esprit des dieux saints, en qui on a trouvé plus de science et de sagesse qu'en aucun autre sous le règne de votre père c'est pourquoi le roi Nabuchodonosor, votre père, l'établit chef des mages, des enchanteurs, des Chaldéens et des augures : votre père, dis-je, ô roi, l'établit au-dessus d'eux tous;</verse>
+        <verse osisID='Dan.5.12'>Parce qu'on reconnut que cet homme, appelé Daniel, à qui le roi donna le nom de Baltassar, avoit reçu une plus grande étendue d'esprit qu'aucun autre, plus de prudence et d'intelligence pour interpréter les songes, découvrir les secrets, et expliquer les choses les plus obscures et les plus embarrassées. Qu'on fasse donc maintenant venir Daniel, et il interprétera cette écriture.</verse>
+        <verse osisID='Dan.5.13'>Aussitot on fit venir Daniel devant le roi ; et le roi lui dit : Etes-vous Daniel, l'un des captifs des enfants de Juda, que le roi, mon père, a amené de Judée?</verse>
+        <verse osisID='Dan.5.14'>On m'a dit de vous que vous avez l’esprit des dieux, et qu'il s'est trouvé en vous plus de science, d'intelligence et de sagesse qu'en aucun autre.</verse>
+        <verse osisID='Dan.5.15'>Je viens de faire venir devant moi les sages et les mages pour lire cette écriture, et m'en donner l'interprétation, et ils n'ont pu m'expliquer le sens de ces paroles.</verse>
+        <verse osisID='Dan.5.16'>Or on m'a dit de vous, que vous pouvez expliquer les choses les plus obscures, et développer les plus embarrassées; si donc vous pouvez lire cette écriture, et m'en donner l'interprétation, vous serez vêtu de pourpre, vous porterez au cou un collier d'or, et vous serez le troisième entre les princes de mon royaume.</verse>
+        <verse osisID='Dan.5.17'>Daniel répondit à ces paroles du roi, et lui dit : Que vos présents, ô roi, soient pour vous, et faites part à un autre des honneurs de votre maison ; je ne laisserai pas de vous lire cette écriture, et de vous dire ce qu'elle signifie.</verse>
+        <verse osisID='Dan.5.18'>Le Dieu très-haut, ô roi, donna à Nabuchodonosor, votre père, le royaume, la grandeur, la gloire et l'honneur ;</verse>
+        <verse osisID='Dan.5.19'>Et à cause de cette grande puissance que Dieu lui avoit donnée, tous les peuples et toutes les nations, de quelque langue qu'elles fussent, le respectoient et trembloient devant lui : il faisoit mourir ceux qu'il vouloit, il détruisoit ceux qu'il lui plaisoit, il élevoit ou il abaissoit les uns ou les autres, selon sa volonté.</verse>
+        <verse osisID='Dan.5.20'>Mais après que son coeur se fut élevé, et que son esprit se fut affermi dans son orgueil, il fut chassé du trône, il perdit son royaume, et sa gloire lui fut ôtée;</verse>
+        <verse osisID='Dan.5.21'>Il fut retranché de la société des enfants des hommes ; son coeur devint semblable à celui des bêtes, il demeura avec les ânes sauvages ; et il mangea l'herbe des champs, comme un boeuf, et son corps fut trempé de la rosée du ciel, jusqu'à ce qu'il reconnût que le Très-Haut a un souverain pouvoir sur les royaumes des hommes, et qu'il établit sur le trône qui il lui plaît.</verse>
+        <verse osisID='Dan.5.22'>Et vous, Baltassar, qui êtes son fils, vous-même n'avez point humilié votre coeur, quoique vous sussiez toutes ces choses ;</verse>
+        <verse osisID='Dan.5.23'>Mais vous vous êtes élevé contre le Dominateur du ciel ; vous avez fait apporter devant vous les vases de sa maison sainte, et vous avez bu dedans, vous, vos femmes et vos concubines, avec les grands de votre cour; vous avez loué en même temps vos dieux d'argent et d'or, d'airain et de fer, de bois et de pierre, qui ne voient point, qui n'entendent point, et qui ne sentent point; et vous n'avez point rendu gloire au Dieu qui tient dans sa main votre âme et tous les moments de votre vie.</verse>
+        <verse osisID='Dan.5.24'>C'est pourquoi Dieu a envoyé les doigts de cette main qui a écrit ce qui est marqué sur la muraille.</verse>
+        <verse osisID='Dan.5.25'>Or voici ce qui est écrit : MANÉ, THÉCEL, PHARÈS.</verse>
+        <verse osisID='Dan.5.26'>Et en voici l'interprétation : MANÉ, Dieu a compté les jours de votre règne, et il en a marqué l'accomplissement.</verse>
+        <verse osisID='Dan.5.27'>THÉCEL, vous avez été pesé dans la balance, et on vous a trouvé trop léger.</verse>
+        <verse osisID='Dan.5.28'>PHARÈS, votre royaume a été divisé, et il a été donné aux Mèdes et aux Perses.</verse>
+        <verse osisID='Dan.5.29'>Alors Daniel fut vêtu de pourpre par l'ordre du roi ; on lui mit au cou un collier d'or, et on fit publier qu'il auroit la puissance dans le royaume, comme en étant la troisième personne.</verse>
+        <verse osisID='Dan.5.30'>Cette même nuit, Baltassar, roi des Chaldéens, fut tué.</verse>
+        <verse osisID='Dan.5.31'>Darius, qui étoit Mède, lui succéda au royaume, étant âgé de soixante et deux ans.</verse>
+      </chapter>
+      <chapter osisID='Dan.6'>
+        <title>CHAPITRE VI</title>
+        <title>Daniel élevé en honneur par Darius le Mède. Jalousie des satrapes contre lui. Ordonnance qu'ils obtiennent du prince. Accusations qu'ils forment contre Daniel. Daniel est jeté dans la fosse aux lions ; il en sort sans être blessé. Édit de Darius en faveur de la religion des Juifs.</title>
+        <verse osisID='Dan.6.1'>Darius fit un édit, et établit cent vingt satrapes sur son royaume, afin qu'ils eussent l'autorité dans toutes les provinces de son État.</verse>
+        <verse osisID='Dan.6.2'>Mais il mit au-dessus d'eux trois princes, dont Daniel étoit un, afin que ces satrapes leur rendissent compte, et que le roi fût déchargé de tout soin.</verse>
+        <verse osisID='Dan.6.3'>Daniel surpassoit donc en autorité tous les princes et tous les satrapes, parce qu'il étoit plus rempli de l'esprit de Dieu.</verse>
+        <verse osisID='Dan.6.4'>Et comme le roi pensoit à l'établir sur tout son royaume, les princes et les satrapes cherchoient un sujet de l'accuser dans ce qui regardoit les affaires du roi ; mais ils ne purent trouver aucun prétexte pour le rendre suspect, parce qu'il étoit très-fidèle, et qu'on ne pouvoit faire tomber sur lui le soupçon de la moindre faute.</verse>
+        <verse osisID='Dan.6.5'>Ils dirent donc entre eux : Nous ne trouverons point d'occasion d'accuser Daniel, si nous ne la faisons naître de la loi de son Dieu.</verse>
+        <verse osisID='Dan.6.6'>Alors les princes et les satrapes surprirent le roi en cette manière, et lui dirent: O roi, vivez éternellement!</verse>
+        <verse osisID='Dan.6.7'>tous les princes de votre royaume, les principaux officiers, les satrapes, les sénateurs et les juges, sont d'avis qu'il émane de votre puissance impériale un édit qui ordonne que tout homme qui, durant l'espace de trente jours, demandera quoi que ce soit à quelque dieu ou à quelque homme que ce puisse être, sinon à vous seul, ô roi, soit jeté dans la fosse aux lions.</verse>
+        <verse osisID='Dan.6.8'>Confirmez donc maintenant, ô roi, cet avis, et faites cet édit, afin qu'il ne soit rien changé à ce qui a été établi par les Mèdes et par les Perses, et qu'il ne soit permis à personne de le violer.</verse>
+        <verse osisID='Dan.6.9'>Le roi Darius fit donc publier cet édit et cette défense.</verse>
+        <verse osisID='Dan.6.10'>Daniel, ayant appris que cette loi avoit été faite, entra dans sa maison ; et, ouvrant les fenêtres de sa chambre du côté de Jérusalem, il fléchissoit les genoux chaque jour à trois différentes heures, et il adoroit son Dieu, et lui rendoit ses actions de grâces, comme il avoit coutume de faire auparavant.</verse>
+        <verse osisID='Dan.6.11'>Ces hommes donc, qui épioient avec grand soin toutes les actions de Daniel, le trouvèrent qui prioit et qui adoroit son Dieu.</verse>
+        <verse osisID='Dan.6.12'>Et ils vinrent aussitôt auprès du roi pour lui représenter son édit, et lui dirent : O roi, n'avez-vous pas ordonné que, pendant l'espace de trente jours, tout homme qui feroit quelque prière à quelqu'un des dieux ou des hommes, sinon à vous seul, ô roi, seroit jeté dans la fosse aux lions? Le roi leur répondit : Ce que vous dites est vrai, et c'est une ordonnance des Perses et des Mèdes, qu'il n'est permis à personne de violer.</verse>
+        <verse osisID='Dan.6.13'>Alors ils dirent au roi : Daniel, un des captifs d'entre les enfants de Juda, sans avoir égard à votre loi ni à l'édit que vous avez fait, prie son Dieu chaque jour à trois heures différentes.</verse>
+        <verse osisID='Dan.6.14'>Ce qu'ayant entendu, le roi fut extrêmement affligé, il prit en lui-même la résolution de délivrer Daniel, et jusqu'au soleil couché il fit ce qu'il put pour le sauver.</verse>
+        <verse osisID='Dan.6.15'>Mais ces personnes, voyant bien quelle étoit l'intention du roi, lui dirent : O roi, sachez que c'est une loi des Mèdes et des Perses, qu'il n'est permis de rien changer à tous les édits que le roi a faits.</verse>
+        <verse osisID='Dan.6.16'>Alors Daniel fut emmené par le commandement du roi, et ils le jetèrent dans la fosse aux lions. Et le roi dit à Daniel : Votre Dieu, que vous adorez sans cesse, vous délivrera.</verse>
+        <verse osisID='Dan.6.17'>En même temps on apporta une pierre qui fut mise à l'entrée de la fosse, et scellée du sceau du roi, et du sceau des grands de sa cour, de peur qu'on ne fit quelque chose contre Daniel.</verse>
+        <verse osisID='Dan.6.18'>Le roi rentra dans sa maison, et se mit au lit sans avoir soupé ; on ne servit point de viandes devant lui, et il ne put pas même dormir.</verse>
+        <verse osisID='Dan.6.19'>Le lendemain il se leva dès le point du jour, et alla en toute hâte à la fosse aux lions;</verse>
+        <verse osisID='Dan.6.20'>Et étant près de la fosse, il appela Daniel avec une voix triste et entrecoupée de soupirs, et lui cria : Daniel, serviteur du Dieu vivant, votre Dieu que vous servez sans cesse, auroit-il bien pu vous délivrer de la gueule des lions?</verse>
+        <verse osisID='Dan.6.21'>Daniel lui répondit : O roi, vivez éternellement!</verse>
+        <verse osisID='Dan.6.22'>Mon Dieu a envoyé son ange, qui a fermé la gueule des lions, et ils ne m'ont fait aucun mal, parce que j'ai été trouvé juste devant lui ; et je n'ai rien fait non plus devant vous, ô roi, qui puisse me rendre coupable.</verse>
+        <verse osisID='Dan.6.23'>Alors le roi fut transporté de joie, et il commanda qu'on fit sortir Daniel de la fosse aux lions ; Daniel fut donc retiré de la fosse, et on ne trouva sur son corps aucune blessure, parce qu'il avoit cru eu son Dieu.</verse>
+        <verse osisID='Dan.6.24'>En même temps le roi commanda qu'on fit venir ceux qui avoient accusé Daniel, et ils furent jetés dans la fosse aux lions avec leurs femmes et leurs enfants ; et avant qu'ils fussent parvenus au pavé de la fosse, les lions les saisirent entre leurs dents, et leur brisèrent tous les os.</verse>
+        <verse osisID='Dan.6.25'>Alors Darius envoya cette ordonnance à tous les peuples et à toutes les nations, de quelque langue qu'elles fussent, qui habitoient dans toute la terre : Que la paix s'affermisse parmi vous de plus en plus!</verse>
+        <verse osisID='Dan.6.26'>J'ordonne par cet édit que, dans tout mon empire et mon royaume, tous mes sujets révèrent le Dieu de Daniel avec crainte et tremblement ; car c'est lui qui est le Dieu vivant, l'Éternel qui vit dans tous les siècles; son royaume ne sera jamais détruit, et sa puissance passera jusque dans l'éternité.</verse>
+        <verse osisID='Dan.6.27'>C'est lui qui est le Libérateur et le Sauveur, qui fait des prodiges et des merveilles dans le ciel et sur la terre, qui a délivré Daniel de la fosse aux lions.</verse>
+        <verse osisID='Dan.6.28'>Or Daniel fut toujours en dignité jusqu'au règne de Darius, et au règne de Cyrus, roi de Perse.</verse>
+      </chapter>
+      <chapter osisID='Dan.7'>
+        <title>CHAPITRE VII</title>
+        <title>Vision des quatre bêtes qui représentent quatre empires. Caractères particuliers de la quatrième bête. Puissance ennemie des saints Jugement du Seigneur. Règne du Fils de l'homme ; règne des saints</title>
+        <verse osisID='Dan.7.1'>La première année de Baltassar roi de Babylone, Daniel eut une vision en songe; il eut cette vision étant dans son lit ; et ayant écrit son songe, il le recueillit en peu de mots, et en marqua ainsi les principaux points :</verse>
+        <verse osisID='Dan.7.2'>J’eus, dit-il, cette vision pendant la nuit : il me sembloit que les quatre vents du ciel se combattoient l'un l'autre sur une grande mer,</verse>
+        <verse osisID='Dan.7.3'>Et que quatre grandes bêtes, fort différentes les unes des autres, montoient hors de la mer.</verse>
+        <verse osisID='Dan.7.4'>La première étoit comme une lionne, et elle avoit des ailes d'aigle; et comme je la regardois, ses ailes lui furent arrachées; elle fut ensuite relevée de terre, et elle se tint sur ses pieds comme un homme, et il lui fut donné un coeur d'homme.</verse>
+        <verse osisID='Dan.7.5'>Et à côté parut une autre bête qui ressembloit à un ours; elle avoit trois rangs de dents dans la gueule, et il y en avoit qui lui disoient : Levez-vous, et rassasiez-vous de carnage.</verse>
+        <verse osisID='Dan.7.6'>Après cela comme je regardois, j'en vis une autre qui étoit comme un léopard ; et elle avoit au-dessus d'elle quatre ailes comme les ailes d'un oiseau ; cette bête avoit quatre têtes, et la puissance lui fut donnée.</verse>
+        <verse osisID='Dan.7.7'>Je regardois ensuite dans cette vision que j'avois pendant la nuit, et je vis paroître une quatrième bête qui étoit terrible et étonnante ; elle étoit extraordinairement forte ; elle avoit de grandes dents de fer ; elle dévoroit, elle mettoit en pièces, et fouloit aux pieds ce qui restoit ; elle étoit fort différente des autres bêtes que j'avois vues avant elle, et elle avoit dix cornes.</verse>
+        <verse osisID='Dan.7.8'>Je considérois ces cornes, et je vis une petite corne qui sortoit du milieu des autres; trois de ses premières cornes furent arrachées de devant elle ; cette corne avoit des yeux comme les yeux d'un homme, et une bouche qui disoit de grandes choses.</verse>
+        <verse osisID='Dan.7.9'>J'étois attentif à ce que je voyois, jusqu'à ce que des trônes furent placés, et que l'ancien des jours s'assit. Son vêtement étoit blanc comme la neige, et les cheveux de sa tête étoient comme la laine la plus blanche et la plus pure ; son trône étoit des flammes ardentes, et les roues de ce trône un feu brûlant.</verse>
+        <verse osisID='Dan.7.10'>Un fleuve de feu, très-rapide, sortoit de devant sa face; un million d'anges le servoient, et mille millions assistoient devant lui. Le jugement se tint, et les livres furent ouverts.</verse>
+        <verse osisID='Dan.7.11'>Je regardois attentivement, à cause du bruit des grandes paroles que cette corne prononçoit; et je vis que la bête avoit été tuée, que son corps étoit détruit, et qu'il avoit été livré au feu pour être brûlé ;</verse>
+        <verse osisID='Dan.7.12'>Je vis aussi que la puissance des autres bêtes leur avoit été otée, et que la durée de leur vie leur avoit été marquée jusqu'à un temps et un temps.</verse>
+        <verse osisID='Dan.7.13'>Je considérais ces choses dans une vision de nuit, et je vis comme le Fils de l'homme qui venoit avec les, nuées du ciel, qui s'avança jusqu'à l'ancien des jours. Ils le présentèrent devant lui,</verse>
+        <verse osisID='Dan.7.14'>Et il lui donna la puissance, l'honneur et le royaume, et tous les peuples, et toutes les tribus, et toutes les langues le serviront; sa puissance est une puissance éternelle qui ne lui sera point ôtée, et son royaume ne sera jamais détruit.</verse>
+        <verse osisID='Dan.7.15'>Mon esprit fut saisi d'étonnement; moi, Daniel, je fus épouvanté par ces choses, et ces visions, qui m'étaient représentées, me troublèrent.</verse>
+        <verse osisID='Dan.7.16'>Je m'approchai d'un de ceux qui étoient présents, et je lui demandai la vérité de toutes ces choses; et il m'interpréta ce qui se passoit, et me l'enseigna.</verse>
+        <verse osisID='Dan.7.17'>Ces quatre grandes bêtes sont quatre royaumes qui s'élèveront de la terre.</verse>
+        <verse osisID='Dan.7.18'>Mais les saints du Dieu très-haut entreront en possession du royaume, et ils régneront jusqu'à la fin des siècles, et dans les siècles des siècles.</verse>
+        <verse osisID='Dan.7.19'>J'eus ensuite un grand désir d'apprendre ce qu'étoit la quatrième bête, qui étoit très-différente de toutes les autres, et effroyable au delà de ce qu'on peut dire : ses dents et ses ongle; étoient de fer; elle dévoroit et mettoit en pièces, et elle foulait aux pieds ce qui avoit échappé à sa violence;</verse>
+        <verse osisID='Dan.7.20'>Je voulus m'enquérir aussi des dix cornes qu'elle avoit à la tête, et d'une autre qui lui vint de nouveau, devant laquelle trois de ces cornes étoient tombées ; et de cette corne qui avoit des yeux, et une bouche qui prononçait de grandes choses ; et cette corne étoit plus grande que les autres.</verse>
+        <verse osisID='Dan.7.21'>Et comme je regardais attentivement, je vis que cette corne faisoit la guerre contre les saints, et avait l'avantage sur eux,</verse>
+        <verse osisID='Dan.7.22'>Jusqu'à ce que l'ancien des jours parut; alors il donna aux saints du Très-Haut la puissance de juger ; et, le temps étant accompli, les saints entrèrent en possession du royaume.</verse>
+        <verse osisID='Dan.7.23'>Et il me dit : La quatrième bête est le quatrième royaume qui dominera sur la terre, et il sera plus grand que tous les autres royaumes: il dévorera toute la terre, la foulera aux pieds, et la réduira en poudre.</verse>
+        <verse osisID='Dan.7.24'>Les dix cornes de ce même royaume sont dix rois qui y régneront ; il s'en élèvera un autre après eux, qui sera plus puissant que ceux qui l'auront devancé, et il abaissera trois rois.</verse>
+        <verse osisID='Dan.7.25'>Il parlera insolemment contre le Très-Haut, il foulera aux pieds les saints du Très-Haut, et il s'imaginera qu'il pourra changer les temps et les lois ; et ils seront livrés entre ses mains jusqu'à un temps, deux temps, et la moitié d'un temps.</verse>
+        <verse osisID='Dan.7.26'>Le jugement se tiendra ensuite, afin que la puissance soit ôtée à cet homme, qu'elle soit entièrement détruite, et qu'il périsse pour jamais ;</verse>
+        <verse osisID='Dan.7.27'>Et qu'en même temps le royaume, la puissance, et l'étendue de l'empire de tout ce qui est sous le ciel, soit donné au peuple des saints du Très-Haut ! car son royaume est un royaume éternel auquel tous les rois seront assujettis avec une entière soumission.</verse>
+        <verse osisID='Dan.7.28'>Ce fut la fin de ce qui me fut dit. Moi Daniel, je fus fort troublé ensuite dans mes pensées, mon visage en fut tout changé ; et je conservai ces paroles dans mon coeur.</verse>
+      </chapter>
+      <chapter osisID='Dan.8'>
+        <title>CHAPITRE VIII</title>
+        <title>Vision d'un bélier qui représente le monarchie des Perses et des Mèdes, et d'un bouc qui représente la monarchie des Grecs. Grande corne de ce bouc, à laquelle quatre autres succèdent; autre corne qui sort de l'une de ces quatre, et représente un prince cruel et impie.</title>
+        <verse osisID='Dan.8.1'>La troisième année du règne du roi Baltassar, j'eus une vision. Moi Daniel, après ce que j'avois vu au commencement,</verse>
+        <verse osisID='Dan.8.2'>Je vis dans une vision, lorsque j'étois à la forteresse de Suse, qui est au pays d'Élam, et il me parut dans cette vision que j'étois à la porte d'Ulaï.</verse>
+        <verse osisID='Dan.8.3'>Je levai les yeux, et je vis un bélier qui se tenoit devant les marais; il avoit les cornes élevées, et l'une l’étoit plus que l'autre, et croissoit peu à peu.</verse>
+        <verse osisID='Dan.8.4'>Je vis ce bélier donner des coups de corne contre l'occident, contre l'aquilon et contre le midi, et toutes les bêtes ne lui pouvoient résister, ni se délivrer de sa puissance; il fit tout ce qu'il voulut, et il devint fort puissant.</verse>
+        <verse osisID='Dan.8.5'>J'étois attentif à ce que je voyais ; et en même temps un bouc vint de l'occident sur la face de toute la terre, sans qu'il touchât néanmoins la terre; et ce bouc avoit une corne fort grande entre les deux yeux.</verse>
+        <verse osisID='Dan.8.6'>Il vint jusqu'à ce bélier qui avoit des cornes, que j'avois vu se tenir devant la porte ; et s'élançant avec une grande impétuosité, il courut à lui de toute sa force.</verse>
+        <verse osisID='Dan.8.7'>Lorsqu'il fut venu près du bélier, il l'attaqua avec furie, et le perça de coups; il lui rompit les deux cornes, sans que le bélier lui pût résister; et l'ayant jeté par terre, il le foula aux pieds, et personne ne put délivrer le bélier de sa puissance.</verse>
+        <verse osisID='Dan.8.8'>Le bouc ensuite devint extraordinairement grand ; et, lorsqu'il eut crû., sa grande corne se rompit, et il se forma quatre cornes au-dessous vers les quatre vents du ciel.</verse>
+        <verse osisID='Dan.8.9'>Mais de l'une de ces quatre cornes il en sortit une petite qui s'agrandit fort vers le midi, vers l'orient, et vers les peuples les plus forts.</verse>
+        <verse osisID='Dan.8.10'>Il éleva sa grande corne jusqu'aux armées du ciel, et il fit tomber les plus forts et ceux, qui étoient comme des étoiles, et il les foula aux pieds.</verse>
+        <verse osisID='Dan.8.11'>Il s'éleva même jusqu'au prince des forts, il lui ravit son sacrifice perpétuel, et il déshonora le lieu de son sanctuaire.</verse>
+        <verse osisID='Dan.8.12'>La puissance lui fut donnée contre le sacrifice perpétuel, à cause des péchés des hommes; et la vérité sera renversée sur la terre ; il entreprendra tout, et tout lui réussira.</verse>
+        <verse osisID='Dan.8.13'>Alors j'entendis un des saints qui parloit; et un saint dit à un autre, que je ne connoissois point, et qui lui parloit : Jusqu'à quand durera cette vision, touchant la violation du sacrifice perpétuel, et le péché qui causera cette désolation? jusqu'à quand le sanctuaire et le pouvoir de Dieu seront-ils foulés aux pieds?</verse>
+        <verse osisID='Dan.8.14'>Et il lui dit : Jusqu'au soir et au matin, il se passera deux mille trois cents jours; et le sanctuaire sera purifié.</verse>
+        <verse osisID='Dan.8.15'>Moi Daniel, lorsque j'avois cette vision, et que j'en cherchois l'intelligence, il se présenta devant moi comme une figure d'homme ;</verse>
+        <verse osisID='Dan.8.16'>Et j'entendis la voix d'un homme à la porte d'Ulaï, qui cria, et, qui dit: Gabriel, faites-lui entendre cette vision.</verse>
+        <verse osisID='Dan.8.17'>En même temps Gabriel vint, et se tint au lieu où j'étois ; et lorsqu'il fut venu à moi, je tombai le visage contre terre, tout tremblant de crainte, et il me dit : Comprenez bien, fils de l'homme, parce que cette vision s'accomplira à la fin, en son temps.</verse>
+        <verse osisID='Dan.8.18'>Et lorsqu'il me parloit encore, je tombai le visage contre terre; alors il me toucha, et m'ayant fait tenir debout,</verse>
+        <verse osisID='Dan.8.19'>Il me dit : Je vous ferai voir ce qui doit arriver au dernier jour de la malédiction, parce que le temps de ces visions s'accomplira enfin.</verse>
+        <verse osisID='Dan.8.20'>Le bélier que vous avez vu ayant des cornes, est le roi des Perses et des Mèdes.</verse>
+        <verse osisID='Dan.8.21'>Le bouc est le roi des Grecs; et la grande corne qu'il avoit entre les deux yeux, est le premier de leurs rois.</verse>
+        <verse osisID='Dan.8.22'>Les quatre cornes qui se sont élevées après que la première a été rompue, sont les quatre rois qui s'élèveront, de sa nation, mais non avec sa force et sa puissance;</verse>
+        <verse osisID='Dan.8.23'>Et après leur règne, lorsque les iniquités se seront accrues, il s'élèvera un roi qui aura l'impudence sur le front, qui entendra les paraboles et les énigmes.</verse>
+        <verse osisID='Dan.8.24'>Sa puissance rétablira, mais non par ses forces ; et il fera un ravage étrange et au delà de toute créance; il réussira dans tout ce qu'il aura entrepris. Il fera mourir, selon qu'il lui plaira, les plus forts et le peuple des saints ;</verse>
+        <verse osisID='Dan.8.25'>Il conduira avec succès tous ses artifices et toutes ses tromperies; son coeur s'enflera de plus en plus, et se voyant comblé de toutes sortes de prospérités, il en fera mourir plusieurs; il s'élèvera contre le prince des princes, et il sera enfin réduit en poudre sans la main des hommes.</verse>
+        <verse osisID='Dan.8.26'>Cette vision du soir et du matin qui vous a été représentée, est véritable; scellez donc vous-même cette vision, parce qu'elle n'arrivera qu'après beaucoup de ours.</verse>
+        <verse osisID='Dan.8.27'>Et moi, Daniel, je tombai dans la langueur, et je fus malade pendant quelques jours; et m'étant levé, je travaillois aux affaires du roi, et j'étois dans l'étonnement en pensant à cette vision, sans trouver personne qui pût nie l'interpréter.</verse>
+      </chapter>
+      <chapter osisID='Dan.9'>
+        <title>CHAPITRE IX</title>
+        <title>Daniel implore la miséricorde du Seigneur pour son peuple. L'ange Gabriel lui annonce le temps précis de la venue du MessIe.</title>
+        <verse osisID='Dan.9.1'>La première année de Darius, fils d'Assuérus, de la race des Mèdes, qui régna dans l'empire des Chaldéens;</verse>
+        <verse osisID='Dan.9.2'>La première année, dis-je, de son règne, moi, Daniel, j'eus, par la lecture des livres saints, l'intelligence du nombre d'années que devoit durer la désolation de Jérusalem, dont le Seigneur a parlé au prophète Jérémie, laquelle étoit de soixante et dix ans.</verse>
+        <verse osisID='Dan.9.3'>J'arrêtai mes yeux et mon visage sur le Seigneur mon Dieu, pour le prier et le conjurer dans les jeûnes, le sac et la cendre.</verse>
+        <verse osisID='Dan.9.4'>Je priai le Seigneur mon Dieu, je lui confessai mes fautes, et je lui dis : Écoutez ma prière, ô Seigneur, Dieu grand et terrible, qui gardez votre alliance et votre miséricorde envers ceux qui vous aiment et qui observent vos commandements !</verse>
+        <verse osisID='Dan.9.5'>Nous avons péché, nous avons commis l'iniquité, nous avons fait des actions impies, nous nous sommes détournés de la voie de vos préceptes et de vos ordonnances.</verse>
+        <verse osisID='Dan.9.6'>Nous n'avons point obéi à vos serviteurs, les prophètes, qui ont parlé en votre nom à nos rois, à nos princes, à nos pères, et à tout le peuple de la terre.</verse>
+        <verse osisID='Dan.9.7'>La justice est à vous, ô Seigneur ! et à nous la confusion du visage, comme aujourd'hui aux hommes de Juda, aux habitants de Jérusalem, à tous les enfants d'Israël, et à ceux qui sont prêts, et à ceux qui sont éloignés dans tous les pays où vous les avez chassés, à cause des iniquités qu'ils ont commises contre vous.</verse>
+        <verse osisID='Dan.9.8'>Oui, Seigneur, la confusion du visage, à nous, à nos rois, à nos princes, et à nos pères, qui ont péché.</verse>
+        <verse osisID='Dan.9.9'>Mais à vous, qui êtes le Seigneur notre Dieu, la miséricorde et la grâce de la réconciliation ; car nous nous sommes retirés de vous,</verse>
+        <verse osisID='Dan.9.10'>Et nous n'avons point écouté la voix du Seigneur notre Dieu, pour marcher dans la loi qu'il nous avoit prescrite par ses serviteurs, les prophètes.</verse>
+        <verse osisID='Dan.9.11'>Tout Israël a violé votre loi, ils se sont détournés pour ne point écouter votre voix ; et cette malédiction et cette exécration qui est décrite dans la loi de Moïse serviteur de Dieu, est tombée sur nous, parce que nous avons péché contre vous.</verse>
+        <verse osisID='Dan.9.12'>Le Seigneur a accompli ses oracles, qu'il a prononcés contre nous et contre nos princes, qui nous ont jugés, pour faire fondre sur nous ces grands maux, qui ont accablé Jérusalem, tels qu'on n'en a jamais vu de semblables sous le ciel.</verse>
+        <verse osisID='Dan.9.13'>Tous ces maux sont tombés sur nous, selon qu'il est écrit dans la loi de Moise; et nous ne nous sommes point présentés devant votre face pour vous prier, ô Seigneur notre Dieu, de nous retirer de nos iniquités, et de nous appliquer à la connoissance de votre vérité.</verse>
+        <verse osisID='Dan.9.14'>Ainsi l'oeil du Seigneur a été ouvert et attentif au mal, et il l'a fait fondre sur nous. Le Seigneur notre Dieu est juste dans toutes les oeuvres qu'il a faites, parce que nous n'avons point écouté sa voix.</verse>
+        <verse osisID='Dan.9.15'>Et maintenant, ô Seigneur notre Dieu, qui avez tiré votre peuple de l'Egypte avec une main puissante, et qui vous êtes acquis alors un nom qui dure encore aujourd'hui, je confesse que nous avons péché, que nous avons commis l'iniquité.</verse>
+        <verse osisID='Dan.9.16'>Mais je vous conjure, selon toute votre justice, Seigneur, que votre colère et votre fureur se détournent de votre cité de Jérusalem et de votre montagne sainte ; car Jérusalem et votre peuple sont aujourd'hui en opprobre à toutes les nations qui nous environnent, à cause de nos péchés, et des iniquités de nos pères.</verse>
+        <verse osisID='Dan.9.17'>Écoutez donc maintenant, Seigneur, les voeux et les prières de votre serviteur ; faites reluire votre face sur votre sanctuaire, qui est désert, et faites-le pour vous-même.</verse>
+        <verse osisID='Dan.9.18'>Abaissez, mon Dieu, votre oreille jusqu'à nous, et nous écoutez ; ouvrez les yeux, et considérez notre désolation et la ruine de cette ville qui a eu la gloire de porter votre nom ; car ce n'est point au nom de notre propre justice que nous répandons devant vous nos prières, mais au nom de vos infinies miséricordes.</verse>
+        <verse osisID='Dan.9.19'>Exaucez-nous, Seigneur, Seigneur, apaisez votre colère, jetez les yeux sur nous, et agissez ; ne différez plus, mon Dieu, pour l'amour de vous-même, parce que cette ville et ce peuple sont à vous, et ont la gloire de porter votre nom !</verse>
+        <verse osisID='Dan.9.20'>Lorsque je parlois encore, et que je priois, et que je confessois mes péchés et les péchés d'Israël, mon peuple, et que, dans un profond abaissement, j'offrois mes prières en la présence de mon Dieu pour sa montagne sainte ;</verse>
+        <verse osisID='Dan.9.21'>Je n'avois pas encore achevé les paroles de ma prière. et voici que Gabriel, que j'avois vu au commencement dans la vision, vola tout à coup vers moi, et me toucha au temps du sacrifice du soir.</verse>
+        <verse osisID='Dan.9.22'>Il m'instruisit, il me parla, et me dit : Daniel, je suis venu maintenant pour vous instruire et vous donner l'intelligence.</verse>
+        <verse osisID='Dan.9.23'>Dès le commencement de votre prière j'ai reçu cet ordre ; et je suis venu pour vous découvrir toutes choses, parce que vous êtes un homme rempli de désirs ; soyez donc attentif à ce que je vais vous dire, et comprenez cette vision.</verse>
+        <verse osisID='Dan.9.24'>Dieu a abrégé et fixé le temps à soixante et dix semaines en faveur de votre peuple et de votre ville sainte, afin que ses prévarications soient abolies, que le péché trouve sa fin, que l'iniquité soit effacée, que la justice éternelle vienne sur la terre, que les visions et les prophéties soient accomplies, et que le saint des saints reçoive l'onction de l'huile sacrée.</verse>
+        <verse osisID='Dan.9.25'>Sachez donc ceci, et gravez-le dans votre esprit : Depuis l'ordre qui sera donné pour rebâtir Jérusalem, jusqu'au Christ, chef de mon peuple, il y aura sept semaines et soixante et deux semaines ; et les places et les murailles de la ville seront bâties de nouveau en des temps fâcheux et difficiles.</verse>
+        <verse osisID='Dan.9.26'>Et après soixante et deux semaines le Christ sera mis à mort ; et le peuple qui le doit renier ne sera point son peuple. Un peuple avec son chef qui doit venir détruira la ville et le sanctuaire ; elle finira par une ruine entière, et la désolation qui lui a été prédite arrivera après la fin de la guerre.</verse>
+        <verse osisID='Dan.9.27'>Il confirmera son alliance avec plusieurs dans une semaine ; et à la moitié de la semaine, les hosties et les sacrifices seront abolis, l'abomination de la désolation sera dans le temple, et la désolation durera jusqu'à la consommation et jusqu'à la fin.</verse>
+      </chapter>
+      <chapter osisID='Dan.10'>
+        <title>CHAPITRE X</title>
+        <title>Vision de Daniel sur le Tigre. Le prince du royaume des Perses résiste à l'ange Gabriel. Saint Michel, prince d'Israël, vient au secours de Gabriel. Le prince des Grecs vient se joindre au prince des Perses contre Gabriel.</title>
+        <verse osisID='Dan.10.1'>La troisième année du règne de Cyrus, roi des Perses, une parole fut révélée à Daniel, surnommé Baltassar, une parole véritable, et une grande vertu; il comprit ce qui lui fut dit; car on a besoin d'intelligence dans les visions.</verse>
+        <verse osisID='Dan.10.2'>En ce temps-là, moi, Daniel, je fus dans les pleurs tous les jours pendant trois semaines ;</verse>
+        <verse osisID='Dan.10.3'>Je ne mangeai d'aucun pain agréable au goût; ni chair ni vin n'entra dans ma bouche, et je ne me servis d'aucune huile, jusqu'à ce que ces trois semaines fussent accomplies.</verse>
+        <verse osisID='Dan.10.4'>Le vingt-quatrième jour du premier mois, j'étois près du grand fleuve du Tigre.</verse>
+        <verse osisID='Dan.10.5'>Et ayant levé les yeux, je vis tout à coup un homme qui étoit vêtu de lin, dont les reins étoient ceints d'une ceinture d'or très-pur ;</verse>
+        <verse osisID='Dan.10.6'>Son corps étoit comme la pierre de chrysolithe, son visage brilloit comme les éclairs, et ses yeux paroissoient une lampe ardente ; ses bras, et tout le reste du corps jusqu'aux pieds, étoient comme d'un airain étincelant; et le son de sa voix comme le bruit d'une multitude.</verse>
+        <verse osisID='Dan.10.7'>Moi, Daniel, je vis seul cette vision ; et ceux qui étoient avec moi ne la virent point ; mais ils furent saisis d'horreur et d'épouvante, et ils s'enfuirent dans des lieux obscurs.</verse>
+        <verse osisID='Dan.10.8'>Étant donc demeuré seul, j'eus cette grande vision ; la vigueur de mon corps m'abandonna, mon visage fut tout changé, je tombai en foiblesse, et il ne me demeura aucune force.</verse>
+        <verse osisID='Dan.10.9'>Et j'entendis le bruit de sa voix ; et l'entendant, j'étois couché sur le visage dans une extrême frayeur, et mon visage étoit collé à la terre.</verse>
+        <verse osisID='Dan.10.10'>Alors une main me toucha, et me fit lever sur mes genoux et sur mes mains.</verse>
+        <verse osisID='Dan.10.11'>Et il me dit : Daniel, homme de désirs, entendez les paroles que je viens vous dire, et tenez-vous debout ; car je suis maintenant envoyé vers vous. Après qu'il m'eut dit cela, je me tins debout, tout tremblant.</verse>
+        <verse osisID='Dan.10.12'>Et il me dit : Daniel, ne craignez point; car dès le premier jour que, vous affligeant en la présence de votre Dieu, vous avez appliqué votre coeur à l'intelligence, vos paroles ont été exaucées, et vos prières m'ont fait venir ici.</verse>
+        <verse osisID='Dan.10.13'>Le prince du royaume des Perses m'a résisté vingt et un jours; mais Michel, le premier d'entre les premiers princes, est venu à mon secours ; et cependant je suis resté là près du roi des Perses.</verse>
+        <verse osisID='Dan.10.14'>Mais je suis venu pour vous apprendre ce qui doit arriver à votre peuple aux derniers jours, car cette vision ne s'accomplira qu'après bien du temps.</verse>
+        <verse osisID='Dan.10.15'>Lorsqu'il me disoit ces paroles, je baissois le visage contre terre, et je demeurois dans le silence.</verse>
+        <verse osisID='Dan.10.16'>Et en même temps celui qui avoit la ressemblance d'un homme me toucha les lèvres ; et ouvrant la bouche, je parlai, et je dis à celui qui se tenoit debout devant moi : Mon seigneur, lorsque je vous ai vu, tout ce qu'il y a en moi de nerfs et de jointures s'est relâché, et il ne m'est resté aucune force;</verse>
+        <verse osisID='Dan.10.17'>Et comment le serviteur de mon seigneur pourra-t-il parler avec mon seigneur? je suis demeuré sans aucune force, et je perds même la respiration.</verse>
+        <verse osisID='Dan.10.18'>Celui donc que je voyois sous la figure d'un homme me toucha encore, me fortifia, et me dit :</verse>
+        <verse osisID='Dan.10.19'>Ne craignez point, Daniel, homme de désirs ; la paix soit avec vous ! reprenez vigueur, et soyez ferme. Lorsqu'il me parloit encore, je me trouvai plein de force, et je lui dis : Parlez, mon seigneur, parce que vous m'avez fortifié.</verse>
+        <verse osisID='Dan.10.20'>Alors il me dit : Savez-vous pourquoi je suis venu à vous ? Je retourne maintenant pour combattre contre le prince des Perses. Lorsque je sortois, le prince des Grecs est venu à paroître.</verse>
+        <verse osisID='Dan.10.21'>Mais je vous annoncerai présentement ce qui est marqué dans l'Écriture de la vérité ; et nul ne m'assiste dans toutes ces choses, sinon Michel, qui est votre prince.</verse>
+      </chapter>
+      <chapter osisID='Dan.11'>
+        <title>CHAPITRE XI</title>
+        <title>Empire des Perses ruiné par le roi des Grecs. Successeurs de ce prince. Guerres entre les rois du midi et du septentrion. Roi impie, ses expéditions contre l'Egypte et contre la Judée; sa fin malheureuse.</title>
+        <verse osisID='Dan.11.1'>Dès la première année du règne de Darius, de la race des Mèdes, j'ai travaillé pour l'aider à s'établir et à se fortifier dans son royaume.</verse>
+        <verse osisID='Dan.11.2'>Mais maintenant je vous annoncerai la vérité. Il y aura encore trois rois en Perse; le quatrième s'élèvera par la grandeur de ses richesses et de sa puissance au-dessus de tout; et lorsqu'il sera devenu puissant et riche, il animera tous les peuples contre le royaume des Grecs.</verse>
+        <verse osisID='Dan.11.3'>Mais il s'élèvera un roi vaillant, qui dominera avec une grande puissance, et qui fera ce qu'il lui plaira.</verse>
+        <verse osisID='Dan.11.4'>Et après qu'il se sera affermi, son royaume sera détruit, et il se partagera vers les quatre vents du ciel ; il ne passera point à sa postérité, et son royaume ne conservera point la même puissance qu'avoit eue ce premier roi ; car son royaume sera déchiré, et il passera à des princes étrangers, outre ces quatre plus grands.</verse>
+        <verse osisID='Dan.11.5'>Le roi du midi se fortifiera ; l'un de ses princes sera plus puissant que lui ; il dominera sur beaucoup de pays, car son empire sera grand.</verse>
+        <verse osisID='Dan.11.6'>Quelques années après ils feront alliance ensemble, et la fille du roi du midi viendra épouser le roi de l'aquilon pour faire amitié ensemble; mais elle ne s'établira point par un bras fort, et sa race ne subsistera point ; elle sera livrée elle-même avec les jeunes hommes qui l'avoient emmenée, et qui l'avoient soutenue en divers temps.</verse>
+        <verse osisID='Dan.11.7'>Mais il sortira un rejeton de la même tige du roi du midi; il viendra avec une grande armée, il entrera dans les provinces du roi de l'aquilon, il y fera de grands ravages, et il s'en rendra le maître.</verse>
+        <verse osisID='Dan.11.8'>Il emmènera en Égypte leurs dieux captifs, leurs statues, et leurs vases d'argent et d'or les plus précieux ; et il prévaudra contre le roi de l'aquilon.</verse>
+        <verse osisID='Dan.11.9'>Le roi du midi entrera dans son royaume, et il reviendra ensuite en son pays.</verse>
+        <verse osisID='Dan.11.10'>Les enfants du roi du septentrion, animés par tant de pertes, lèveront de puissantes armées, et l'un d'eux marchera avec une grande vitesse comme un torrent qui déborde ; il reviendra ensuite, et, plein d'ardeur, il combattra contre les forces de l'Égypte.</verse>
+        <verse osisID='Dan.11.11'>Le roi du midi, étant attaqué, se mettra en campagne, et combattra contre le roi de l'aquilon ; il lèvera une grande armée, et des troupes nombreuses seront livrées entre ses mains.</verse>
+        <verse osisID='Dan.11.12'>11 en prendra un très-grand nombre, et son coeur s'élèvera ; il en fera passer plusieurs milliers au fil de l’épée, mais il ne pourra se saisir de son ennemi ;</verse>
+        <verse osisID='Dan.11.13'>Car le roi de l'aquilon viendra de nouveau; il assemblera encore plus de troupes qu'auparavant ; et après un certain nombre d'années, il s'avancera en grande hâte avec une armée nombreuse et une grande puissance.</verse>
+        <verse osisID='Dan.11.14'>En ces temps-là plusieurs s'élèveront contre le roi du midi ; les enfants de ceux de votre peuple qui auront violé la loi du Seigneur s'élèveront aussi pour accomplir une prophétie, et ils tomberont.</verse>
+        <verse osisID='Dan.11.15'>Le roi de l'aquilon viendra, il fera des terrasses et des remparts, il prendra les villes les plus fortes ; les bras du midi n'en pourront soutenir l'effort, les plus vaillants d'entre eux s'élèveront pour lui résister, et ils se trouveront sans force.</verse>
+        <verse osisID='Dan.11.16'>Il fera contre le roi du midi tout ce qu'il lui plaira, et il ne se trouvera personne qui puisse subsister devant lui ; il entrera dans cette terre célèbre, et elle sera abattue sous sa puissance.</verse>
+        <verse osisID='Dan.11.17'>Il s'affermira dans le dessein de venir s'emparer de tout le royaume du roi du midi; il feindra de vouloir agir de bonne foi avec lui, il lui donnera en mariage sa fille d'une excellente beauté afin de le perdre; mais son dessein ne lui réussira pas, et elle ne sera point pour lui.</verse>
+        <verse osisID='Dan.11.18'>Il se tournera contre les îles, et il en prendra plusieurs; il arrêtera d'abord le prince qui doit le couvrir d'opprobre; et la honte dont il couvroit les autres retombera sur lui.</verse>
+        <verse osisID='Dan.11.19'>Il reviendra de nouveau dans les terres de son empire, où il trouvera un piège; il tombera enfin, et il disparoîtra pour jamais.</verse>
+        <verse osisID='Dan.11.20'>Un homme très-méprisable et indigne du nom de roi prendra sa place ; et il périra en peu de jours, non par une mort violente, ni dans un combat.</verse>
+        <verse osisID='Dan.11.21'>Un prince méprisé lui succédera, à qui on ne donnera point d'abord le titre de roi; il viendra en secret, et il se rendra maître du royaume par sa dissimulation et ses artifices.</verse>
+        <verse osisID='Dan.11.22'>Un prince combattant contre lui fuira devant lui, et ses grandes forces seront détruites, et avec elles le chef de l'alliance.</verse>
+        <verse osisID='Dan.11.23'>Et après avoir fait amitié avec lui, il le trompera, il s'avancera dans l'Égypte, et l'assujettira avec peu de troupes.</verse>
+        <verse osisID='Dan.11.21'>Il entrera dans les villes les plus grandes et les plus riches; il era ce que ne tirent jamais ses pères, ni les pères de ses pères : il amassera un grand butin de leurs dépouilles, et il pillera toutes leurs richesses ; il formera des entreprises contre leurs villes les plus fortes; mais cela ne durera qu'un certain temps.</verse>
+        <verse osisID='Dan.11.25'>Sa force se réveillera, son coeur s'animera contre le roi du midi, qui l'attaquera avec une grande armée; et le roi du midi opposera à cette provocation hostile de grands secours et</verse>
+        <title>de fortes troupes, qui ne demeureront pas fermes parce qu'ils feront des entreprises contre lui.</title>
+        <verse osisID='Dan.11.26'>Et étant à table avec lui, ils le ruineront, son armée sera accablée, et un grand nombre des siens seront mis à mort.</verse>
+        <verse osisID='Dan.11.27'>Ces deux rois auront le coeur attentif à se faire du mal l'un à l'autre ; étant assis à la même table, ils diront des paroles pleines de mensonges, et ils ne viendront pas à bout de leurs desseins, parce que le temps n'en sera pas encore venu.</verse>
+        <verse osisID='Dan.11.28'>Antiochus retournera en son pays avec de grandes richesses; son coeur se déclarera contre l'alliance sainte ; il fera beaucoup de mal, et retournera en son pays.</verse>
+        <verse osisID='Dan.11.29'>Il retournera au temps prescrit, et reviendra vers le midi ; et son dernier état ne sera pas semblable au premier.</verse>
+        <verse osisID='Dan.11.30'>Les Romains viendront contre lui sur des vaisseaux ; il sera abattu, il retournera, et il concevra une grande indignation contre l'alliance du sanctuaire; il retournera encore, et mépitera une entreprise contre ceux qui ont abandonné l'alliance du sanctuaire.</verse>
+        <verse osisID='Dan.11.31'>Des hommes puissants soutiendront son parti, et ils souilleront le sanctuaire du Dieu fort ; ils feront cesser le sacrifice perpétuel, et ils placeront dans le temple l'abomination de la désolation.</verse>
+        <verse osisID='Dan.11.32'>Et les impies violateurs de la sainte alliance useront de déguisement et de fiction; mais le peuple qui connoîtra Dieu s'attachera fermement à la loi, et fera ce qu'elle ordonne.</verse>
+        <verse osisID='Dan.11.33'>Ceux qui seront savants parmi le peuple en instruiront plusieurs; et ils seront tourmentés par l'épée, par la flamme, par la captivité, et par des brigandages qui dureront de longs jours.</verse>
+        <verse osisID='Dan.11.34'>Au milieu de ces ruines, ils seront un peu soulagés par un petit secours, et plusieurs se joindront à eux par une alliante îeinte.</verse>
+        <verse osisID='Dan.11.35'>Il y en aura parmi les savants qui tomberont en de grands malheurs, afin qu'ils passent par le feu, et qu'ils deviennent purs et blancs de plus en plus jusqu'au temps prescrit, parce qu’il y aura encore un autre temps.</verse>
+        <verse osisID='Dan.11.36'>Le roi agira selon son bon plaisir; il s'élèvera, et il portera le faste de son orgueil contre tout dieu ; il parlera insolemment contre le Dieu des dieux ; il réussira jusqu'à ce que la colère de Dieu soit accomplie, parce qu'il a été ainsi arrêté.</verse>
+        <verse osisID='Dan.11.37'>Il n'aura aucun égard au Dieu de ses pères, il se livrera à la passion des femmes, il ne se souciera de quelque dieu que ce soit, parce qu'il s'élèvera contre toutes choses.</verse>
+        <verse osisID='Dan.11.38'>Il révérera le dieu Maozim, dans le lieu qu'il lui aura choisi; et il honorera avec l'or, l'argent, les pierres précieuses, et tout ce qu'il y a de plus beau, un dieu que ses pères ont ignoré.</verse>
+        <verse osisID='Dan.11.39'>Il fortifiera les citadelles par le culte du dieu étranger qu'il a connu, il en élèvera les adorateurs à une grande gloire, il leur donnera beaucoup de puissance, et il partagera la terre gratuitement.</verse>
+        <verse osisID='Dan.11.40'>Le roi du midi combattra contre lui au temps qui a été marqué; et le roi d'aquilon marchera contre lui comme une tempête, avec une multitude de chariots et de cavaliers, et avec une grande flotte ; il entrera dans ses terres, il ravagera tout, et il passera au travers de son pays.</verse>
+        <verse osisID='Dan.11.41'>Il entrera ensuite dans le pays glorieux, et plusieurs provinces seront ruinées. Ceux-ci seulement seront sauvés de ses mains : Édom, Moab, et les premières terres des enfants d'Ammon.</verse>
+        <verse osisID='Dan.11.42'>Il étendra sa main contre les provinces, et le pays d'Égypte n'échappera point.</verse>
+        <verse osisID='Dan.11.43'>Il se rendra maître des trésors d'or et d'argent, et de tout ce qu'il y a de plus précieux dans l'Égypte; il passera au travers de la Libye et de l'Éthiopie.</verse>
+        <verse osisID='Dan.11.44'>Il sera troublé par des nouvelles qui lui viendront de l'orient et de l'aquilon ; et il viendra avec de grandes troupes pour perdre tout, et pour faire un grand carnage.</verse>
+        <verse osisID='Dan.11.45'>Il dressera ses tentes entre les mers, sur la montagne célèbre et sainte ; et il montera jusqu'au haut de la montagne, et il ne se trouvera personne pour le secourir.</verse>
+      </chapter>
+      <chapter osisID='Dan.12'>
+        <title>CHAPITRE XII</title>
+        <title>Délivrance du peuple de Dieu. Résurrection. Gloire des saints. Terme de la durée de la grande désolation.</title>
+        <verse osisID='Dan.12.1'>En ce temps-là Michel, le grand prince, s'élèvera, lui qui est le protecteur des enfants de votre peuple; et il viendra un temps tel qu'on n'en aura jamais vu un semblable jusqu'alors, depuis que les peuples ont été établis. En ce temps-là tous ceux de votre peuple qui seront trouvés écrits dans le livre seront sauvés.</verse>
+        <verse osisID='Dan.12.2'>Et toute cette multitude de ceux qui dorment dans la poussière de la terre se réveilleront, les uns pour la vie éternelle, et les autres pour un opprobre éternel qu'ils auront toujours devant les yeux.</verse>
+        <verse osisID='Dan.12.3'>Or ceux qui auront été savants brilleront comme les feux du firmament; et ceux qui en auront instruit plusieurs dans la voie de la justice luiront comme des étoiles dans l'éternité.</verse>
+        <verse osisID='Dan.12.4'>Pour vous, Daniel, tenez ces paroles fermées, et mettez le sceau sur ce livre jusqu'au temps marqué; car plusieurs le parcourront, et la science se multipliera.</verse>
+        <verse osisID='Dan.12.5'>Alors, moi Daniel, je vis comme deux autres hommes qui étoient debout : l'un étoit en deçà sur le bord du fleuve, et l'autre au delà sur le bord du même fleuve.</verse>
+        <verse osisID='Dan.12.6'>Et je dis à l'homme vêtu de lin qui se tenait debout sur les eaux du fleuve : Quand sera-ce que l'accomplissement de ces prodiges arrivera?</verse>
+        <verse osisID='Dan.12.7'>Et j'entendis cet homme vêtu de lin, et qui se tenoit debout sur les eaux du fleuve, qui, élevant au ciel la main droite et la main gauche, jura par celui qui vit dans l'éternité, que ce seroit dans un temps, deux temps, et la moitié d'un temps; et que toutes ces choses seraient accomplies lorsque la dispersion de l'assemblée du peuple saint seroit achevée.</verse>
+        <verse osisID='Dan.12.8'>J'entendis ce qu'il disoit, mais je ne le compris pas, et je lui dis : Mon seigneur, qu'arrivera-t-il après cela?</verse>
+        <verse osisID='Dan.12.9'>Et il me dit : Allez, Daniel ; car ces paroles sont fermées et sont scellées jusqu’au temps qui a été marqué.</verse>
+        <verse osisID='Dan.12.10'>Plusieurs seront élus, seront rendus blancs et purs, et seront éprouvés comme par le feu ; les impies agiront avec impiété, et tous les impies n'auront point l'intelligence ; mais ceux qui seront instruits comprendront la vérité des choses.</verse>
+        <verse osisID='Dan.12.11'>Depuis le temps où le sacrifice perpétuel aura été aboli, et l'abomination de la désolation établie, il se passera mille deux cent quatre-vingt-dix jours.</verse>
+        <verse osisID='Dan.12.12'>Heureux celui qui attend, et qui arrive jusqu'à mille trois cent trente-cinq jours !</verse>
+        <verse osisID='Dan.12.13'>Pour vous, allez jusqu'au temps qui a été marqué, et vous serez en repos, et vous demeurerez dans l'état où vous êtes jusqu'à la fin de vos jours.</verse>
+      </chapter>
+      <chapter osisID='Dan.13'>
+        <title>Ce qui a été mis jusqu'ici de Daniel se trouve dans l’hébreu. Ce qui suit, jusqu'à la fin du livre, a été traduit de l'édition de Théodotien. (Ces paroles sont de saint Jérôme.)</title>
+        <title>CHAPITRE XIII</title>
+        <title>Histoire de Susanne injustement accusée et condamnée. Daniel la délivre.</title>
+        <verse osisID='Dan.13.1'>Il y avoit un homme qui demeuroit dans Babylone, et son nom étoit Joachim</verse>
+        <verse osisID='Dan.13.2'>Il épousa une femme nommée Susanne, fille d'Helcias, parfaitement belle, et craignant Dieu;</verse>
+        <verse osisID='Dan.13.3'>Car comme son père et sa mère étoient justes, ils avoient instruit leur fille selon la loi de Moise.</verse>
+        <verse osisID='Dan.13.4'>Or Joachim étoit fort riche, et il avait un jardin fruitier près de sa maison ; et les Juifs allaient souvent chez lui, parce qu'il étoit le plus considérable de tous.</verse>
+        <verse osisID='Dan.13.5'>On avoit établi pour juges cette année-là deux vieillards d'entre le peuple, dont le Seigneur a parlé lorsqu'il a dit : Que l'iniquité est sortie de Babylone par des vieillards qui étoient juges, et qui semblaient conduire le peuple.</verse>
+        <verse osisID='Dan.13.6'>Ces vieillards alloient d'ordinaire à la maison de Joachim, et tous ceux qui avoient des affaires à juger venoient les y trouver. </verse>
+        <verse osisID='Dan.13.7'>Vers midi, lorsque le peuple s’en étoit allé, Susanne entroit et se promenoit dans le jardin de son mari.</verse>
+        <verse osisID='Dan.13.8'>Ces vieillards l'y voyoient entrer et se promener tous les jours; et ils conçurent une ardente passion pour elle;</verse>
+        <verse osisID='Dan.13.9'>Leur sens en fut perverti, et ils détournèrent leurs yeux pour ne point voir le ciel, et ne se point souvenir des justes jugements de Dieu.</verse>
+        <verse osisID='Dan.13.10'>Ils étoient tous deux blessés de l'amour de Suzanne, et néanmoins ils ne s'entre-dirent point le sujet de leurs peines ;</verse>
+        <verse osisID='Dan.13.11'>Car ils rougissoient de se découvrir l'un à l'autre leur passion criminelle, ayant dessein séparément de corrompre cette femme ;</verse>
+        <verse osisID='Dan.13.12'>Et ils observoient tous les jours avec un grand soin le temps où ils la pourroient voir. Un jour l'un dit à l'autre :</verse>
+        <verse osisID='Dan.13.13'>Allons-nous-en chez nous, parce qu'il est temps de dîner; et étant sortis, ils se séparèrent l'un de l'autre.</verse>
+        <verse osisID='Dan.13.14'>Mais revenant aussitôt, ils se rencontrèrent ; et après s'en être demandé la raison l'un à l'autre, ils s'entr'avouèrent leur passion; et alors ils convinrent de prendre le temps où ils pourroient trouver Suzanne seule.</verse>
+        <verse osisID='Dan.13.15'>Or, comme ils cherchoient un jour propre à leur dessein, il arriva que Suzanne entra dans le jardin selon sa coutume, accompagnée de deux filles seulement, et qu'elle voulut se baigner, parce qu'il faisoit chaud ;</verse>
+        <verse osisID='Dan.13.16'>Et il n'y avoit alors personne que les deux vieillards qui s'étoient cachés, et qui la regardoient.</verse>
+        <verse osisID='Dan.13.17'>Alors Suzanne dit à ses filles : Apportez-moi de l'huile et des parfums, et fermez les portes du jardin, afin que je me baigne.</verse>
+        <verse osisID='Dan.13.18'>Ses filles firent ce qu'elle leur avoit commandé ; elles fermèrent les portes du jardin, et elles sortirent par une porte de derrière pour apporter ce que Suzanne leur avoit demandé; et elles ne savoient point que les vieillards fussent cachés dans le jardin.</verse>
+        <verse osisID='Dan.13.19'>Aussitôt que les filles furent sorties, les deux vieillards accoururent à Suzanne, et lui dirent :</verse>
+        <verse osisID='Dan.13.20'>Les portes du jardin sont fermées, personne ne nous voit, et nous brûlons de passion pour vous ; rendez-vous donc à notre désir, et faites ce que nous voulons.</verse>
+        <verse osisID='Dan.13.21'>Que si vous ne le voulez pas, nous porterons témoignage contre vous, et nous dirons qu'il y avoit un jeune homme avec vous, et que c'est pour cela que vous avez renvoyé vos filles.</verse>
+        <verse osisID='Dan.13.22'>Suzanne jeta un profond soupir, et leur dit : Je ne vois que péril et qu'angoisses de toutes parts; car si je fais ce que vous désirez, je suis morte; et si je ne le fais point, je n'échapperai pas de vos mains.</verse>
+        <verse osisID='Dan.13.23'>Mais il me vaut mieux tomber entre vos mains, sans avoir commis le mal, que de pécher en la présence du Seigneur.</verse>
+        <verse osisID='Dan.13.24'>Suzanne aussitôt jeta un grand cri ; et les vieillards crièrent aussi contre elle.</verse>
+        <verse osisID='Dan.13.25'>Et l'un d'eux courut à la porte du jardin, et l'ouvrit.</verse>
+        <verse osisID='Dan.13.26'>Les serviteurs de la maison, ayant entendu crier dans le jardin, y coururent par la porte de derrière pour voir ce que c'étoit.</verse>
+        <verse osisID='Dan.13.27'>Et les vieillards le leur ayant dit, ces serviteurs en furent extrêmement surpris, parce qu'on n'avoit jamais rien dit de semblable de Suzanne.</verse>
+        <verse osisID='Dan.13.28'>Le lendemain le peuple étant venu en la maison de Joachim, son mari, les deux vieillards y vinrent aussi, pleins de la résolution criminelle qu'ils avoient formée contre Suzanne pour lui faire perdre la vie.</verse>
+        <verse osisID='Dan.13.29'>Et ils dirent devant le peuple : Envoyez quérir Suzanne, fille d'Helcias, femme de Joachim.</verse>
+        <verse osisID='Dan.13.30'>On y envoya aussitôt ; et elle vint accompagnée de son père et de sa mère, de ses enfants, et de toute sa famille.</verse>
+        <verse osisID='Dan.13.31'>Suzanne avoit une délicatesse de traits et une beauté extraordinaires.</verse>
+        <verse osisID='Dan.13.32'>Et comme elle avoit alors le visage couvert d'un voile, ces méchants commandèrent qu'on le lui ôtat, afin de se rassasier encore ainsi de sa beauté.</verse>
+        <verse osisID='Dan.13.33'>Tous ses parents répandoient des larmes, et tous ceux qui l'avoient connue auparavant.</verse>
+        <verse osisID='Dan.13.34'>Alors ces deux vieillards, se levant au milieu du peuple, mirent leurs mains sur la tête de Suzanne,</verse>
+        <verse osisID='Dan.13.35'>Qui leva en pleurant les yeux au ciel, parce que son coeur avoit une ferme confiance au Seigneur.</verse>
+        <verse osisID='Dan.13.36'>Et ces vieillards dirent : Lorsque nous nous promenions seuls dans le jardin, cette femme est venue avec deux filles ; et, ayant fait fermer les portes du jardin, elle a renvoyé ses filles.</verse>
+        <verse osisID='Dan.13.37'>Et un jeune homme qui étoit caché, est venu, et a commis le crime avec elle.</verse>
+        <verse osisID='Dan.13.38'>Nous étions alors dans un coin du jardin ; et voyant cette méchante action, nous sommes accourus à eux, et nous les avons vus dans cette infamie.</verse>
+        <verse osisID='Dan.13.39'>Nous n'avons pu prendre le jeune homme, parce qu'il étoit plus fort que nous, et que, ayant ouvert la porte, il s'est sauvé.</verse>
+        <verse osisID='Dan.13.40'>Mais pour elle, nous l'avons prise, et nous lui avons demandé quel étoit ce jeune homme ; et elle n'a point voulu nous le dire. C'est de quoi nous sommes témoins.</verse>
+        <verse osisID='Dan.13.41'>Toute l'assemblée les crut comme étant anciens et juges du peuple; et ils condamnèrent Suzanne à la mort.</verse>
+        <verse osisID='Dan.13.42'>Alors Suzanne jeta un grand cri, et elle dit : Dieu éternel, qui pénétrez ce qui est le plus caché, et qui connoissez toutes choses avant même qu'elles soient faites,</verse>
+        <verse osisID='Dan.13.43'>Vous savez qu'ils ont porté contre moi un faux témoignage ; et cependant je meurs sans avoir rien fait de tout ce qu'ils ont méchamment inventé contre moi.</verse>
+        <verse osisID='Dan.13.41'>Le Seigneur exauça se prière.</verse>
+        <verse osisID='Dan.13.45'>Et lorsqu'on la conduisoit à la mort, il suscita l'esprit saint d'un jeune enfant nommé Daniel,</verse>
+        <verse osisID='Dan.13.46'>Qui cria à haute voix : Je suis innocent du sang de cette femme.</verse>
+        <verse osisID='Dan.13.47'>Tout le peuple se tourna vers lui, et lui dit : Que veut dire cette parole que vous venez de prononcer ?</verse>
+        <verse osisID='Dan.13.48'>Daniel se tenant debout au milieu d'eux, leur dit : Êtes-vous si insensés, enfants d'Israël, que d'avoir ainsi, sans juger et sans connoître la vérité, condamné une fille d'Israël ?</verse>
+        <verse osisID='Dan.13.49'>Retournez pour la juger de nouveau, parce qu'ils ont porté un faux témoignage contre elle.</verse>
+        <verse osisID='Dan.13.50'>Le peuple retourna donc en grande hâte, et les vieillards dirent. Daniel : Venez, et prenez votre place au milieu de nous, et instruisez-nous, parce que Dieu vous a donné l'honneur de la vieillesse.</verse>
+        <verse osisID='Dan.13.51'>Daniel dit au peuple : Séparez-les l'un de l'autre, et je les jugerai.</verse>
+        <verse osisID='Dan.13.52'>Ayant donc été séparés l'un de l'autre, Daniel appela l'un deux, et lui dit : Homme, qui avez vieilli dans le mal, les péchés que vous avez commis autrefois sont retombés maintenant sur vous ;</verse>
+        <verse osisID='Dan.13.53'>Vous qui rendiez des jugements injustes, qui opprimiez les innocents, et sauviez les coupables, quoique le Seigneur ait dit : Vous ne ferez point mourir l'innocent et le juste ;</verse>
+        <verse osisID='Dan.13.54'>Maintenant donc, si vous avez surpris cette femme, dites-moi sous quel arbre vous les avez vus parler ensemble ? Il lui répondit : Sous un lentisque.</verse>
+        <verse osisID='Dan.13.55'>Daniel lui dit : C'est justement que votre mensonge va retomber sur votre tête ; car voici l'ange qui sera l'exécuteur de l'arrêt que le Seigneur a prononcé contre vous, et qui vous coupera en deux.</verse>
+        <verse osisID='Dan.13.56'>Après l'avoir fait retirer, il commanda qu'on fit venir l'autre, et il lui dit : Race de Chanaan, et non de Juda, la beauté vous a surpris, et la passion vous a perverti le coeur.</verse>
+        <verse osisID='Dan.13.57'>C'est ainsi que vous traitiez les fille: d'Israël; et elles, ayant peur de vous, vous parloient ; mais la fille de Juda n'a pu souffrir votre iniquité.</verse>
+        <verse osisID='Dan.13.58'>Maintenant donc, dites-moi sous quel arbre vous les avez surpris lorsqu'ils se parloient ? Il lui répondit : Sous un chêne.</verse>
+        <verse osisID='Dan.13.59'>Daniel lui dit : C'est justement que votre mensonge va retomber maintenant sur votre tête; car l'ange du Seigneur est tout prêt, et tient l'épée pour vous couper par le milieu du corps, et pour vous faire mourir tous deux.</verse>
+        <verse osisID='Dan.13.60'>Aussitôt tout le peuple jeta un grand cri; et ils bénirent Dieu qui sauve ceux qui espèrent en lui;</verse>
+        <verse osisID='Dan.13.61'>Et ils s'élevèrent contre les deux vieillards, parce que Daniel les avoit convaincus par leur propre bouche d'avoir porté un faux témoignage, et ils leur firent souffrir le même mal qu'ils avoient voulu faire à leur prochain,</verse>
+        <verse osisID='Dan.13.62'>Pour exécuter la loi de Moise. Ainsi ils les firent mourir, et le sang innocent fut sauvé en ce jour-là.</verse>
+        <verse osisID='Dan.13.63'>Helcias et sa femme rendirent grâces à Dieu pour Suzanne, leur fille, avec Joachim, son mari, et tous ses parents, de ce qu'il ne s'étoit trouvé en elle rien qui blessât l'honnêteté.</verse>
+        <verse osisID='Dan.13.64'>Quant à Daniel, depuis ce jour-là et dans la suite du temps, il devint grand devant le peuple.</verse>
+        <verse osisID='Dan.13.65'>Et le roi Astyages ayant été réuni à ses pères par la mort, Cyrus de Perse lui succéda au royaume.</verse>
+      </chapter>
+      <chapter osisID='Dan.14'>
+        <title>CHAPITRE XIV</title>
+        <title>Daniel découvre l'imposture des prêtres de Bel, fait mourir un dragon adoré par les Babyloniens, est jeté dans la fosse aux lions, et en est délivré.</title>
+        <verse osisID='Dan.14.1'>Daniel mangeait à la table du roi, et le roi l'avoit élevé en honneur au-dessus de tous ceux qui étoient aimés de lui.</verse>
+        <verse osisID='Dan.14.2'>Les Babyloniens avoient alors une idole nommée Bel, pour laquelle on sacrifioit tous les jours douze mesures de farine du plus pur froment, quarante brebis, et six grands vases de vin.</verse>
+        <verse osisID='Dan.14.3'>Le roi honorait aussi cette idole, et il alloit tous les jours l'adorer. Mais Daniel adorait son Dieu ; et le roi lui dit Pourquoi n'adorez-vous point Bel ?</verse>
+        <verse osisID='Dan.14.4'>Daniel répondit au roi : Parce que je n'adore point les idoles qui sont faites de la main des hommes, mais le Dieu vivant qui a créé le ciel et la terre, et qui tient en sa puissance tout ce qui a vie.</verse>
+        <verse osisID='Dan.14.5'>Le roi dit à Daniel : Croyez-vous que Bel ne soit pas un dieu vivant ? Ne voyez-vous pas combien il mange et combien il boit chaque jour ?</verse>
+        <verse osisID='Dan.14.6'>Daniel lui répondit en souriant : O roi, ne vous y trompez pas ; ce Bel est de boue au dedans, et d'airain au dehors, et il ne mangea jamais.</verse>
+        <verse osisID='Dan.14.7'>Alors le roi entrant en colère appela les prêtres de Bel, et leur dit : Si vous ne me dites qui est celui qui mange tout ce qui s'emploie pour Bel, vous mourrez.</verse>
+        <verse osisID='Dan.14.8'>Mais si vous me faites voir qui c'est Bel qui mange toutes ces viandes Daniel mourra, parce qu'il a blasphémé contre Bel. Daniel dit au roi Qu'il soit îait selon votre parole.</verse>
+        <verse osisID='Dan.14.9'>Or il y avoit soixante et dix prêtres de Bel, sans leurs femmes, leurs enfants, et leurs petits-enfants. Le roi alla avec Daniel au temple de Bel ;</verse>
+        <verse osisID='Dan.14.10'>Et les prêtres de Bel lui dirent : Nous allons sortir dehors ; et vous, ô roi, faites mettre les viandes et servir le vin ; fermez la porte du temple, et la scellez de votre anneau ;</verse>
+        <verse osisID='Dan.14.11'>Et demain au matin, lorsque vous entrerez, si vous ne trouvez que Bel aura tout mangé, nous mourrons tous, ou bien Daniel mourra, pour avoir rendu un faux témoignage contre</verse>
+        <title>nous.</title>
+        <verse osisID='Dan.14.12'>Ils parlaient ainsi de lui avec mépris, et se tenoient assurés, parce qu'ils avoient fait sous la table de l'autel une entrée secrète par laquelle ils venoient toujours, et mangeaient ce qu'on avoit servi pour Bel.</verse>
+        <verse osisID='Dan.14.13'>Après donc que les prêtres furent sortis, le roi mit les viandes devant Bel ; et Daniel commanda à ses gens d'apporter de la cendre, et il la répandit par tout le temple devant le roi, la faisant passer par un crible. Ils sortirent ensuite, et fermèrent la porte du temple ; et l'ayant scellée du cachet du roi, ils s'en allèrent.</verse>
+        <verse osisID='Dan.14.14'>Les prêtres entrèrent durant la nuit, selon leur coutume, avec leurs femmes et leurs enfants, et mangèrent et burent tout ce qui avoit été servi.</verse>
+        <verse osisID='Dan.14.15'>Le roi se leva dès la pointe du jour, et Daniel vint au temple avec lui.</verse>
+        <verse osisID='Dan.14.16'>Le roi lui dit : Daniel, le sceau est-il intact ? Intact, ô roi, répondit Daniel.</verse>
+        <verse osisID='Dan.14.17'>Aussitôt le roi ayant ouvert la porte, et voyant la table de l'autel, jeta un grand cri, en disant : Vous êtes grand, ô Bel, et il n'y a point en vous de tromperie !</verse>
+        <verse osisID='Dan.14.18'>Daniel sourit, et, retenant le roi afin qu'il n'avançât pas plus avant, il lui dit : Voyez le pavé ; considérez de qui sont ces traces de pieds.</verse>
+        <verse osisID='Dan.14.19'>Je vois, dit le roi, des traces de pieds d'hommes, de femmes et de petits enfants. Et il entra dans une grande colère.</verse>
+        <verse osisID='Dan.14.20'>Il fit alors arrêter les prêtres, leurs femmes et leurs enfants ; et ils lui montrèrent les petites portes secrètes par où ils entroient, et venoient manger tout ce qui étoit sur la table.</verse>
+        <verse osisID='Dan.14.21'>Le roi les fit donc mourir, et livra l'idole de Bel en la puissance de Daniel, qui la renversa avec son temple.</verse>
+        <verse osisID='Dan.14.22'>Il y avoit aussi en ce lieu-là un grand dragon que les Babyloniens adoroient ;</verse>
+        <verse osisID='Dan.14.23'>Et le roi dit à Daniel : Vous ne pouvez pas dire maintenant que celui-ci ne soit un dieu vivant; adorez-le donc.</verse>
+        <verse osisID='Dan.14.24'>Daniel lui répondit : J'adore le Seigneur mon Dieu, parce que c'est lui qui est un dieu vivant ; mais celui-ci n'est point un dieu vivant.</verse>
+        <verse osisID='Dan.14.25'>Que s'il vous plaît, ô roi, de me le permettre, je tuerai ce dragon sans me servir ni d'épée ni de bâton. Le roi lui dit : Je vous le permets.</verse>
+        <verse osisID='Dan.14.26'>Daniel prit donc de la poix, de la graisse, et du poil ; et ayant fait cuire le tout ensemble, il en fit des masses qu'il jeta dans la gueule du dragon ; et le dragon creva. Et Daniel dit : Voilà celui que vous adoriez.</verse>
+        <verse osisID='Dan.14.27'>Les Babyloniens l'ayant appris en conçurent une extrême colère ; et, s'étant assemblés contre le roi, ils dirent : Ce Juif est devenu roi ; il a renversé Bel, il a tué le dragon, et il a fait mourir les prêtres.</verse>
+        <verse osisID='Dan.14.28'>Étant donc venus trouver le roi, ils lui dirent Abandonnez-nous Daniel, ou autrement nous vous ferons mourir avec toute votre maison.</verse>
+        <verse osisID='Dan.14.29'>Le roi, voyant qu'ils le pressoient avec tant de violence, et contraint par la nécessité, leur abandonna Daniel.</verse>
+        <verse osisID='Dan.14.30'>Ils le jetèrent aussitôt dans la fosse aux lions; et il y demeura six jours.</verse>
+        <verse osisID='Dan.14.31'>Il y avoit dans la fosse sept lions, et on leur donnoit chaque jour deux corps avec deux brebis; mais on ne leur en donna point alors, afin qu'ils dévorassent Daniel.</verse>
+        <verse osisID='Dan.14.32'>En ce même temps le prophète Habacuc étoit en,iodée; et ayant apprêté du potage, il le mit avec du pain trempé dans un vase, et l'alloit porter dans le champ à ses moissonneurs.</verse>
+        <verse osisID='Dan.14.33'>L'ange du Seigneur dit à Habacuc: Portez à Babylone le dîner que vous avez, pour le donner à Daniel, qui est dans la fosse aux lions.</verse>
+        <verse osisID='Dan.14.34'>Habacuc répondit : Seigneur, je n'ai jamais été à Babylone, et je ne sais où est la fosse.</verse>
+        <verse osisID='Dan.14.35'>Alors l'ange du Seigneur le prit. par le haut de la tète, et le tenant par les cheveux, il le porta avec la rapidité d'un esprit céleste jusqu'à Babylone, où il le plaça au- dessus de la fosse aux lions.</verse>
+        <verse osisID='Dan.14.36'>Et Habacuc dit avec un grand cri : Daniel, serviteur de Dieu, recevez le dîner que Dieu vous a envoyé!</verse>
+        <verse osisID='Dan.14.37'>Daniel répondit : O Dieu, vous vous êtes souvenu de moi, et vous n'avez point abandonné ceux qui vous aiment.</verse>
+        <verse osisID='Dan.14.38'>Et se levant, il mangea. Mais l'ange du Seigneur remit aussitôt Habacuc dans le même lieu où il l'avoit pris.</verse>
+        <verse osisID='Dan.14.39'>Le septième jour le roi vint pour pleurer Daniel ; et s'étant approché de la fosse, il regardoit dedans, et il vit Daniel qui étoit assis au milieu des lions.</verse>
+        <verse osisID='Dan.14.40'>Il jeta aussitôt un grand cri, et dit : Vous êtes grand, ô Seigneur, Dieu de Daniel! Et il le fit tirer de la fosse aux lions.</verse>
+        <verse osisID='Dan.14.41'>En même temps il y fit jeter ceux qui avoient voulu perdre Daniel ; et les lions les dévorèrent devant lui en un moment.</verse>
+        <verse osisID='Dan.14.42'>Alors le roi dit Que tous les habitants de la terre entière craignent le Dieu de Daniel, parce que c'est lui qui est le Sauveur qui fait des prodiges et des merveilles sur la terre, et qui a délivré Daniel de la fosse aux lions.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

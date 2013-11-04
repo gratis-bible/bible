@@ -1,0 +1,782 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <osisText osisRefWork='Bible' osisIDWork='TAF' xml:lang='de'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='TAF'>
+        <title>Tafelbibel</title>
+        <contributor>Martin</contributor>
+        <creator>Jens Grabner</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject>holy bible</subject>
+        <date>2009-01-20</date>
+        <description>Die Bibel - Übersetzung von Johann Friedrich Leonhard Tafel
+
+      Die vorliegende Neuausgabe ist eine Abschrift der Übersetzung von Dr. Leonhard
+      Tafel, revidiert von Ludwig H. Tafel, dritte Ausgabe 1911, und wurde auf ihre
+      Vollständigkeit überprüft. Es wurde die Rechtschreibregel der heutigen Zeit (noch
+      vor der Rechtschreibreform 1998) angewendet, ohne den Stil der Sprache zu verändern.
+
+      Wer in dieser Bibel einige Bücher vermisst, sei auf das Vorwort der Source verwiesen.
+      Auf der zweiten Seite steht dort:
+      Der zweite Band enthält die übrigen, sogenannten
+      Hagiographen oder heiligen Bücher: die Bücher Hiob, Sprichwörter, Hohelied, Prediger, Ruth, Chronika, Esra,
+      Nehemia, Esther und die Apokryphen.²
+      2. Gegenwärtige, Revision des Zefania XML Moduls  enthält die Hagiographen und Apokryphen nicht, da
+      sie nicht verfügbar waren.</description>
+        <publisher>FREE BIBLE SOFTWARE GROUP</publisher>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>TAF</identifier>
+        <source>http://www.ubf-dortmund.de/bibel/tafel.htm</source>
+        <language type='IETF'>de</language>
+        <relation/>
+        <coverage>provide the bible to the world</coverage>
+        <rights>Mit freundlicher Genehmigung des Swedenborg Verlag Postfach 1205 CH - 8032 Zürich</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Judg'>
+      <chapter osisID='Judg.1'>
+        <title>Buch der Richter</title>
+        <title>Der Stamm Judah führt an Joschuas Statt den Krieg.</title>
+        <verse osisID='Judg.1.1'>Und es geschah nach dem Tode Joschuas, daß die Söhne Israels Jehovah fragten und sprachen: Wer soll für uns hinaufziehen wider den Kanaaniter, um zu beginnen, mit ihm zu streiten?</verse>
+        <verse osisID='Judg.1.2'>Und Jehovah sprach: Judah soll hinaufziehen. Siehe, Ich habe das Land in seine Hand gegeben.</verse>
+        <verse osisID='Judg.1.3'>Und Judah sprach zu Schimeon, seinem Bruder: Ziehe mit mir hinauf in mein Los und laß uns wider den Kanaaniter streiten, und ich werde auch mit dir gehen in dein Los. Und Schimeon ging mit ihm.</verse>
+        <verse osisID='Judg.1.4'>Und Judah zog hinauf, und Jehovah gab den Kanaaniter und den Pherisiter in ihre Hand, und sie schlugen ihrer in Besek zehntausend Mann.</verse>
+        <verse osisID='Judg.1.5'>Und sie trafen<note>fanden</note> in Besek auf Adoni-Besek<note>d.h. den Herrn von Besek</note> und stritten wider ihn und schlugen den Kanaaniter und den Pherisiter.</verse>
+        <verse osisID='Judg.1.6'>Und Adoni-Besek floh, und sie setzten ihm nach hinter ihm her und griffen ihn und schnitten ihm die Daumen an Händen und Füßen ab.</verse>
+        <verse osisID='Judg.1.7'>Und Adoni-Besek sprach: Siebzig Könige mit abgeschnittenen Daumen an Händen und Füßen lasen unter meinem Tische auf. Wie ich getan, so hat mir Gott vergolten. Und sie brachten ihn herein nach Jerusalem, und er starb allda.</verse>
+        <verse osisID='Judg.1.8'>Und die Söhne Judahs stritten gegen Jerusalem und eroberten es und schlugen es mit der Schärfe<note>mit dem Munde</note> des Schwertes und steckten die Stadt mit Feuer an<note>sandten die Stadt ins Feuer</note>.</verse>
+        <verse osisID='Judg.1.9'>Und danach gingen die Söhne Judahs hinab, wider den Kanaaniter zu streiten, der auf dem Gebirge und im Mittag und in der Niederung wohnte<note>saß</note>.</verse>
+        <verse osisID='Judg.1.10'>Und Judah zog gegen den Kanaaniter, der in Chebron wohnte,</verse>
+        <verse osisID='Judg.1.11'>Und von da ging er gegen die Einwohner von Debir. Und der Name Debir war vordem Kirjath Sepher.</verse>
+        <verse osisID='Judg.1.12'>Und Kaleb sprach: Wer Kirjath Sepher schlägt und es erobert, dem gebe ich Achsah, meine Tochter, zum Weibe.</verse>
+        <verse osisID='Judg.1.13'>Und Othniel eroberte sie, der Sohn des Kenas, des Bruders von Kaleb, der jünger war als er, und er gab ihm Achsah, seine Tochter, zum Weibe.</verse>
+        <verse osisID='Judg.1.14'>Und es geschah, als sie hereinkam, trieb sie ihn an, von ihrem Vater Feld zu erbitten. Und sie ließ sich vom Esel herab und Kaleb sprach zu ihr: Was ist dir?</verse>
+        <verse osisID='Judg.1.15'>Und sie sprach zu ihm: Gib mir einen Segen, denn du hast mir Mittagsland gegeben, so gib mir auch Wasserquellen. Und Kaleb gab ihr die oberen und die unteren Wasserquellen.</verse>
+        <verse osisID='Judg.1.16'>Und die Söhne des Keniters, des Schwagers Moses, zogen von der Palmenstadt mit den Söhnen Judahs herauf in die Wüste Judah, die gegen Mittag von Arad ist, und ging<note>d.i. der Keniter</note> hin und wohnte<note>saß</note> beim Volk.</verse>
+        <verse osisID='Judg.1.17'>Und Judah zog mit seinem Bruder Schimeon hin, und sie schlugen den Kanaaniter, der in Zephath wohnte<note>saß</note> und verbannten dasselbe, und man nannte den Namen der Stadt Chormah<note>d.h. Bann</note>.</verse>
+        <verse osisID='Judg.1.18'>Und Judah eroberte Gazah und ihre Grenze und Aschkelon und ihre Grenze und Ekron und ihre Grenze.</verse>
+        <verse osisID='Judg.1.19'>Und Jehovah war mit Judah, daß er das Gebirge einnahm; aber die im Talgrunde wohnten<note>saßen</note>, vermochte er nicht auszutreiben, weil sie eiserne Wagen hatten.</verse>
+        <verse osisID='Judg.1.20'>Und dem Kaleb gaben sie Chebron, wie Mose geredet hatte, und er trieb aus von da die drei Enakssöhne.</verse>
+        <verse osisID='Judg.1.21'>Und den Jebusiter, der in Jerusalem wohnte<note>saß</note>, trieben die Söhne Benjamins nicht aus, und der Jebusiter wohnt<note>sitzt</note> mit den Söhnen Benjamins in Jerusalem bis auf diesen Tag.</verse>
+        <verse osisID='Judg.1.22'>Und das Haus Josephs zog auch hinauf wider Beth-El, und Jehovah war mit ihnen.</verse>
+        <verse osisID='Judg.1.23'>Und das Haus Josephs spähte Beth-El aus der Name der Stadt war aber vordem Lus.</verse>
+        <verse osisID='Judg.1.24'>Und die Hüter sahen einen Mann aus der Stadt herauskommen und sprachen zu ihm: Zeige uns doch den Eingang in die Stadt, und wir wollen Barmherzigkeit an dir tun.</verse>
+        <verse osisID='Judg.1.25'>Und er zeigte ihnen den Eingang in die Stadt, und sie schlugen die Stadt mit der Schärfe<note>mit dem Munde</note> des Schwertes; den Mann aber und seine ganze Familie entließen sie.</verse>
+        <verse osisID='Judg.1.26'>Und der Mann ging hin in das Land der Chethiter und baute eine Stadt und nannte ihren Namen Lus. Das ist ihr Name bis auf diesen Tag.</verse>
+        <verse osisID='Judg.1.27'>Und Menascheh nahm nicht ein Beth-Schean und seine Töchterstädte<note>Töchter</note>, noch Thaanach und seine Töchterstädte, noch die Einwohner Dors und ihre Töchterstädte, noch die Einwohner Jibleams und dessen Töchterstädte, noch Megiddos Einwohner und ihre Töchterstädte<note>Töchter</note>; und der Kanaaniter wollte in diesem Lande wohnen.</verse>
+        <verse osisID='Judg.1.28'>Und es geschah, als Israel stark ward, machte<note>setzte</note> es den Kanaaniter zinsbar und trieb ihn nicht ganz aus.</verse>
+        <verse osisID='Judg.1.29'>Und Ephraim trieb den Kanaaniter nicht aus, der in Geser wohnte<note>saß</note>, und der Kanaaniter wohnte in seiner Mitte in Geser.</verse>
+        <verse osisID='Judg.1.30'>Sebulun trieb die Einwohner Kitrons, und die in Nahalal wohnten<note>saßen</note> nicht aus, und der Kanaaniter wohnte in seiner Mitte und wurde zinsbar.</verse>
+        <verse osisID='Judg.1.31'>Ascher trieb nicht aus die Einwohner von Akko, noch die Einwohner von Zidon und Achlab und Achsib und Chelbah und Aphik und Rechob.</verse>
+        <verse osisID='Judg.1.32'>Und der Ascherite wohnte inmitten der Kanaaniter, die im Lande wohnten<note>saßen</note>; denn er trieb sie nicht aus.</verse>
+        <verse osisID='Judg.1.33'>Naphthali trieb nicht aus die Einwohner von Beth-Schemesch, noch die Einwohner von Beth-Anath und wohnte<note>saß</note> inmitten der Kanaaniter, die im Lande wohnten; und die Einwohner von Beth-Schemesch und Beth-Anath waren ihnen zinsbar.</verse>
+        <verse osisID='Judg.1.34'>Und die Amoriter drängten die Söhne Dans auf das Gebirge und gestatteten ihnen nicht, in den Talgrund herabzukommen.</verse>
+        <verse osisID='Judg.1.35'>Und der Amoriter wollte auf dem Berg Cheres in Aijalon und in Schaalbim wohnen; und die Hand des Hauses Josephs ward schwer, so daß sie zinsbar wurden.</verse>
+        <verse osisID='Judg.1.36'>Und die Grenze des Amoriters war Maaleh Akrabbim<note>d.h. Skorpionensteig</note> von der Felsklippe an und aufwärts.</verse>
+      </chapter>
+      <chapter osisID='Judg.2'>
+        <title>Abfall und Strafe Israels.</title>
+        <verse osisID='Judg.2.1'>Und ein Engel Jehovahs stieg von Gilgal herauf nach Bochim und sprach: Ich habe euch aus Ägypten heraufgeführt und euch in das Land gebracht, das Ich euren Vätern geschworen hatte und gesprochen: Ich will Meinen Bund mit euch nicht zunichte machen ewiglich.</verse>
+        <verse osisID='Judg.2.2'>Und ihr sollt keinen Bund schließen mit den Einwohnern dieses Landes, ihre Altäre sollt ihr niederreißen; aber ihr habt nicht auf Meine Stimme gehört. Warum habt ihr das getan?</verse>
+        <verse osisID='Judg.2.3'>Und Ich habe auch gesprochen: Ich will sie nicht vor euch forttreiben, und sie sollen euch zu Stacheln und ihre Götter zum Fallstrick werden.</verse>
+        <verse osisID='Judg.2.4'>Und es geschah, da der Engel Jehovahs diese Worte zu allen Söhnen Israels redete, hob das Volk seine Stimme auf und sie weinten.</verse>
+        <verse osisID='Judg.2.5'>Und sie nannten den Namen dieses Ortes Bochim und opferten allda dem Jehovah.</verse>
+        <verse osisID='Judg.2.6'>Und Joschua entließ das Volk, und die Söhne Israels gingen, jeglicher Mann nach seinem Erbe, um das Land einzunehmen.</verse>
+        <verse osisID='Judg.2.7'>Und das Volk diente Jehovah alle die Tage Joschuas und all die Tage der Ältesten, die ihre Tage verlängerten nach Joschua, welche alle die großen Taten Jehovahs gesehen, die Er an Israel getan hatte.</verse>
+        <verse osisID='Judg.2.8'>Und Joschua, der Sohn Nuns, der Knecht Jehovahs, starb in einem Alter von hundertzehn Jahren<note>ein Sohn von 110 Jahren</note>.</verse>
+        <verse osisID='Judg.2.9'>Und sie begruben ihn in der Grenze seines Erbes in Thimnath Cheres auf dem Gebirge Ephraim, nördlich vom Berge Gaasch.</verse>
+        <verse osisID='Judg.2.10'>Und auch jenes ganze Geschlecht wurde zu seinen Vätern versammelt, und es erstand nach ihnen ein anderes Geschlecht, das Jehovah nicht kannte, noch auch die Taten, die Er an Israel getan hatte.</verse>
+        <verse osisID='Judg.2.11'>Und die Söhne Israel taten, was böse war in den Augen Jehovahs, und dienten den Baalim.</verse>
+        <verse osisID='Judg.2.12'>Und verließen Jehovah, den Gott ihrer Väter, Der sie aus Ägyptenland ausgeführt, und gingen anderen Göttern nach, von den Göttern der Völker, die rings um sie waren, und beteten sie an und reizten Jehovah.</verse>
+        <verse osisID='Judg.2.13'>Und sie verließen Jehovah und dienten Baal und Aschtharoth.</verse>
+        <verse osisID='Judg.2.14'>Und es entbrannte der Zorn Jehovahs wider Israel, und Er gab sie in die Hand von Plünderern, und sie plünderten sie, und Er verkaufte sie in die Hand ihrer Feinde ringsum. Und sie vermochten nicht mehr vor ihren Feinden zu bestehen.</verse>
+        <verse osisID='Judg.2.15'>Überall, wo sie auszogen, war die Hand Jehovahs wider sie zum Bösen, wie Jehovah geredet und wie Jehovah ihnen geschworen hatte. Und sie wurden sehr bedrängt.</verse>
+        <verse osisID='Judg.2.16'>Und Jehovah ließ Richter aufstehen, und sie retteten sie aus der Hand ihrer Plünderer.</verse>
+        <verse osisID='Judg.2.17'>Aber auf die Richter hörten sie nicht, sondern buhlten anderen Göttern nach und beteten sie an, und eilends wichen sie ab von dem Wege, den ihre Väter gegangen waren, daß sie auf die Gebote Jehovahs hörten. Sie taten nicht also.</verse>
+        <verse osisID='Judg.2.18'>Und wenn Jehovah für sie Richter aufstehen ließ, so war Jehovah mit dem Richter, und Er rettete sie aus der Hand ihrer Feinde alle die Tage des Richters; denn es jammerte Jehovah ob ihrem Stöhnen ob denen, so sie bedrückten und zwangen.</verse>
+        <verse osisID='Judg.2.19'>Und es geschah, wenn der Richter starb, so wandten sie sich zurück und taten noch Verderblicheres, als ihre Väter, daß sie anderen Göttern nachgingen, ihnen zu dienen und sie anzubeten, und ließen nichts fallen von ihren Handlungen und von ihrem harten Wege.</verse>
+        <verse osisID='Judg.2.20'>Und es entbrannte der Zorn Jehovahs wider Israel und Er sprach: Weil diese Völkerschaft Meinen Bund überschritten, den Ich ihren Vätern geboten, und nicht auf Meine Stimme gehört haben:</verse>
+        <verse osisID='Judg.2.21'>So werde Ich keinen Mann mehr vor ihnen austreiben von den Völkerschaften, die Joschua gelassen, da er starb,</verse>
+        <verse osisID='Judg.2.22'>Auf daß Ich Israel durch sie versuche, ob sie den Weg Jehovahs halten, um darauf zu wandeln, wie ihre Väter daran hielten, oder nicht.</verse>
+        <verse osisID='Judg.2.23'>Darum ließ Jehovah diese Völkerschaften bleiben, daß Er sie nicht eilends austrieb und nicht in Joschuas Hand gab.</verse>
+      </chapter>
+      <chapter osisID='Judg.3'>
+        <title>Richter Othniel, Ehud, Samgar.</title>
+        <verse osisID='Judg.3.1'>Und das sind die Völkerschaften, die Jehovah ließ bleiben, daß Er an ihnen Israel versuchete, alle, die nichts wußten von all den Kriegen Kanaans.</verse>
+        <verse osisID='Judg.3.2'>Nur damit die Geschlechter der Söhne Israel es wüßten, um sie streiten zu lehren, nur sie, die vordem davon nichts wußten:</verse>
+        <verse osisID='Judg.3.3'>Die fünf Fürsten<note>wörtlich: die Achsen</note> der Philister und alle Kanaaniter und die Zidonier und die Chiviter, die da wohnen<note>sitzen</note> auf dem Berge Libanon, vom Berge Baal Chermon, bis man kommt gen Chamath.</verse>
+        <verse osisID='Judg.3.4'>Und sie waren dazu da, Israel an ihnen zu versuchen, auf daß man wisse, ob sie auf die Gebote Jehovahs, die Er ihren Vätern durch Moses Hand geboten hatte, hören wollten.</verse>
+        <verse osisID='Judg.3.5'>Und die Söhne Israels wohnten<note>saßen</note> inmitten der Kanaaniter, der Chethiter und Amoriter und Pherisiter und Chiviter und Jebusiter.</verse>
+        <verse osisID='Judg.3.6'>Und sie nahmen sich ihre Töchter zu Weibern und gaben ihre Töchter ihren Söhnen und dienten ihren Göttern.</verse>
+        <verse osisID='Judg.3.7'>Und die Söhne Israels taten Böses in den Augen Jehovahs und vergaßen Jehovahs, ihres Gottes, und dienten den Baalim und den Ascheren<note>d.h. den Hainen</note>.</verse>
+        <verse osisID='Judg.3.8'>Und es entbrannte der Zorn Jehovahs gegen Israel, und Er verkaufte sie in die Hand des Kuschan Rischathajim, König von Aram der beiden Flüsse<note>Mesopotamien</note>, und die Söhne Israels dienten dem Kuschan Rischathajim acht Jahre.</verse>
+        <verse osisID='Judg.3.9'>Und die Söhne Israels schrien zu Jehovah, und Jehovah ließ den Söhnen Israels einen Retter erstehen, und er rettete sie: Othniel, den Sohn des Kenas, des Bruders von Kaleb, jünger als er.</verse>
+        <verse osisID='Judg.3.10'>Und der Geist Jehovahs war auf ihm, und er richtete Israel und zog zum Streite aus, und Jehovah gab Kuschan Rischathajim, den König Arams, in seine Hand; und seine Hand ward stark über Kuschan Rischathajim.</verse>
+        <verse osisID='Judg.3.11'>Und das Land war stille vierzig Jahre, und Othniel, des Kenas Sohn, starb.</verse>
+        <verse osisID='Judg.3.12'>Und die Söhne Israels taten wiederum Böses<note>taten hinzu, Böses zu tun</note> in den Augen Jehovahs, und Jehovah stärkte Eglon, Moabs König, wider Israel, darum, daß sie taten, was böse war in den Augen Jehovahs.</verse>
+        <verse osisID='Judg.3.13'>Und er sammelte wider dasselbe die Söhne Ammons und Amaleks und zog hin und schlug Israel und sie nahmen ein die Palmenstadt.</verse>
+        <verse osisID='Judg.3.14'>Und die Söhne Israels dienten Eglon, Moabs König, achtzehn Jahre.</verse>
+        <verse osisID='Judg.3.15'>Und die Söhne Israels schrien zu Jehovah, und Jehovah ließ ihnen erstehen einen Retter, den Ehud, Geras Sohn, den Benjaminiter, einen Mann, dessen rechte Hand lahm war<note>ausgeschlossen von der rechten Hand, d.h. links</note>; und die Söhne Israels sandten durch seine Hand an Eglon, Moabs König, ein Geschenk<note>Speiseopfer</note>.</verse>
+        <verse osisID='Judg.3.16'>Und Ehud machte sich ein Schwert, das zwei Schneiden<note>Munde</note> hatte, eine Elle<note>Abgeschnittene</note> lang, und gürtete es unter seine Obergewänder auf seine rechte Hüfte.</verse>
+        <verse osisID='Judg.3.17'>Und er brachte das Geschenk<note>Speiseopfer</note> dar dem Eglon, dem König von Moab. Eglon aber war ein sehr feister Mann.</verse>
+        <verse osisID='Judg.3.18'>Und es geschah, da er das Darbringen des Geschenkes vollendet, da entließ er das Volk, welches das Geschenk getragen hatte;</verse>
+        <verse osisID='Judg.3.19'>Und er kehrte von den Schnitzbildern, die bei Gilgal sind, zurück und sprach: Ich habe ein geheimes Wort an dich, König. Und er gebot Stille, und alle gingen von ihm hinaus, die bei ihm gestanden.</verse>
+        <verse osisID='Judg.3.20'>Und Ehud kam zu ihm hinein. Und er saß in dem Söller seines Kühlungsgemachs allein. Und Ehud sprach: Ich habe ein Wort Gottes an dich. Und er stand auf von seinem Thron.</verse>
+        <verse osisID='Judg.3.21'>Und Ehud reckte seine linke Hand aus und nahm das Schwert von seiner rechten Hüfte und stieß es ihm in den Leib,</verse>
+        <verse osisID='Judg.3.22'>Und auch das Heft ging nach der Klinge hinein, und das Fett schloß sich hinter der Klinge, denn er zog das Schwert nicht aus seinem Leib, und es ging durch den Mastdarm hinaus.</verse>
+        <verse osisID='Judg.3.23'>Und Ehud ging auf den Vorsaal hinaus und verschloß die Türen des Söllers hinter sich und riegelte.</verse>
+        <verse osisID='Judg.3.24'>Und er ging hinaus und seine Diener kamen und sahen, und siehe, die Türen des Söllers waren verriegelt, und sie sprachen: Er bedeckt nur seine Füße in der Kammer des Kühlungsgemachs.</verse>
+        <verse osisID='Judg.3.25'>Und sie warteten, bis sie sich schämten, und siehe, niemand öffnete die Türen des Söllers, und sie nahmen den Schlüssel und öffneten, und siehe, ihr Herr war zur Erde gefallen, tot.</verse>
+        <verse osisID='Judg.3.26'>Und Ehud entrann, während sie zauderten, und kam an den Schnitzbildern vorüber und entrann nach Seirath.</verse>
+        <verse osisID='Judg.3.27'>Und wie er dorthin kam, stieß er auf dem Gebirge Ephraim in die Posaune. Und die Söhne Israels kamen hinter ihm vom Berge herab und er vor ihnen her.</verse>
+        <verse osisID='Judg.3.28'>Und er sprach zu ihnen: Setzet mir nach; denn Jehovah hat eure Feinde, die Moabiter, in eure Hand gegeben, und sie kamen hinter ihm herab und gewannen die Furten des Jordans, Moab zu, und gestatteten<note>gaben</note> niemand, überzusetzen;</verse>
+        <verse osisID='Judg.3.29'>Und sie schlugen Moab zu selbiger Zeit bei zehntausend Mann, alle feiste<note>fette</note> und alle tapfere Männer, und kein Mann entrann.</verse>
+        <verse osisID='Judg.3.30'>Und Moab wurde am selbigen Tage unter die Hand Israels niedergebeugt, und das Land war stille achtzig Jahre.</verse>
+        <verse osisID='Judg.3.31'>Und nach ihm war Schamgar, der Sohn des Anath; und er schlug den Philistern sechshundert Mann mit einem Ochsenstecken, und auch er rettete Israel.</verse>
+      </chapter>
+      <chapter osisID='Judg.4'>
+        <title>Deborah.</title>
+        <verse osisID='Judg.4.1'>Und die Söhne Israels taten wieder Böses<note>taten hinzu, Böses zu tun</note> in den Augen Jehovahs, und Ehud war tot.</verse>
+        <verse osisID='Judg.4.2'>Und Jehovah verkaufte sie in die Hand Jabins, eines Königs von Kanaan, der in Chazor regierte. Und der Oberste seines Heeres war Sisera und wohnte<note>saß</note> in Charoschet Gojim<note>Gewerkstadt der Heiden</note></verse>
+        <verse osisID='Judg.4.3'>Und die Söhne Israels schrien zu Jehovah; denn er hatte neunhundert eiserne Streitwagen und bedrückte stark die Söhne Israels zwanzig Jahre.</verse>
+        <verse osisID='Judg.4.4'>Und das Weib Deborah, das Weib des Lappidoth, war eine Prophetin, sie richtete Israel um diese Zeit.</verse>
+        <verse osisID='Judg.4.5'>Und sie saß unter der Palme Deborahs zwischen Ramah und Bethel auf dem Gebirge Ephraim. Die Söhne Israels kamen zu ihr hinauf zum Gericht.</verse>
+        <verse osisID='Judg.4.6'>Und sie sandte hin und rief Barak, Abinoams Sohn, aus Kedesch Naphthali und sprach zu ihm: Hat nicht Jehovah, der Gott Israels, dir geboten: Gehe hin und zieh hinaus auf den Berg Thabor und nimm mit dir zehntausend Mann von den Söhnen Naphthalis und von den Söhnen Sebuluns.</verse>
+        <verse osisID='Judg.4.7'>Und ich locke<note>ziehe</note> heraus wider dich an den Bach Kischon Sisera, den Obersten des Heeres Jabins, mit seinem Streitwagen und seiner Menge, und gebe ihn in deine Hand.</verse>
+        <verse osisID='Judg.4.8'>Und Barak sprach zu ihr: Wenn du mit mir gehst, so gehe ich; und gehst du nicht mit mir, so gehe ich nicht.</verse>
+        <verse osisID='Judg.4.9'>Und sie antwortete. Wohl will ich mit dir gehen<note>gehend gehe ich</note>, allein es wird dir keinen Ruhm bringen auf dem Wege, den du gehst, denn in der Hand eines Weibes wird Jehovah den Sisera verkaufen. Und Deborah machte sich auf und ging mit Barak gen Kedesch.</verse>
+        <verse osisID='Judg.4.10'>Und Barak berief<note>schrie</note> Sebulun und Naphthali nach Kedesch, und zehntausend Mann zogen zu Fuß hinauf zu ihm, und Deborah zog mit ihm hinauf.</verse>
+        <verse osisID='Judg.4.11'>Und Cheber, der Keniter, hatte sich von Kajin, von den Söhnen Chobabs, des Schwagers von Mose, getrennt und sein Zelt bei Elon<note>d.h. Eiche</note> in Zaannajim, das bei Kedesch ist, aufgeschlagen.</verse>
+        <verse osisID='Judg.4.12'>Und man sagte Sisera an, daß Barak, der Sohn Abinoams, auf den Berg Thabor hinaufgezogen wäre.</verse>
+        <verse osisID='Judg.4.13'>Und Sisera berief<note>schrie</note> alle seine Streitwagen, neunhundert eiserne Streitwagen, und all sein Volk, das mit ihm war, von Charoscheth Gojim, an den Bach Kischon.</verse>
+        <verse osisID='Judg.4.14'>Und Deborah sprach zu Barak: Mache dich auf, denn das ist der Tag, an dem Jehovah den Sisera in deine Hand gegeben hat. Geht nicht Jehovah aus vor dir? Und Barak ging hinab von dem Berge Thabor und zehntausend Mann hinter ihm.</verse>
+        <verse osisID='Judg.4.15'>Und Jehovah brachte den Sisera und all seine Streitwagen und all sein Lager mit der Schärfe<note>dem Munde</note> des Schwertes vor Barak her in Verwirrung und Sisera kam vom Streitwagen herab und floh zu Fuß.</verse>
+        <verse osisID='Judg.4.16'>Und Barak setzte hinter den Streitwagen und dem Heere<note>Lager</note> nach bis Charoscheth Gojim; und das ganze Heer Siseras fiel mit der Schärfe<note>dem Munde</note> des Schwertes, daß nicht einer verblieb.</verse>
+        <verse osisID='Judg.4.17'>Und Sisera floh zu Fuß zu dem Zelte von Jael, Chebers, des Keniten Weib; denn es war Frieden zwischen dem König Jabin von Chazor und des Keniten Chebers Haus.</verse>
+        <verse osisID='Judg.4.18'>Und Jael kam heraus, dem Sisera entgegen und sprach zu ihm: Kehre bei mir ein, Herr, kehre bei mir ein, fürchte dich nicht. Und er kehrte zu ihr ein in das Zelt, und sie bedeckte ihn mit einer Decke.</verse>
+        <verse osisID='Judg.4.19'>Und er sprach zu ihr: Gib mir doch ein wenig Wasser zu trinken; denn mich dürstet. Und sie öffnete einen Milchschlauch und gab ihm zu trinken und bedeckte ihn.</verse>
+        <verse osisID='Judg.4.20'>Und er sprach zu ihr: Stehe am Eingang des Zeltes, und es sei, so ein Mann kommt und dich fragt und sagt: Ist ein Mann hier? so sprich: Nein.</verse>
+        <verse osisID='Judg.4.21'>Und Jael, Chebers Weib, nahm den Zeltpflock und nahm<note>legte</note> den Hammer in ihre Hand und ging sachte zu ihm hinein und schlug den Pflock in seine Schläfe, und er drang in die Erde hinein. Er aber lag im festen Schlaf, denn er war müde, und er starb.</verse>
+        <verse osisID='Judg.4.22'>Und siehe, Barak setzte dem Sisera nach, und Jael kam heraus, ihm entgegen, und sprach zu ihm: Komm, und ich zeige dir den Mann, den du suchst. Und er kam zu ihr hinein, und siehe, Sisera war gefallen, tot, und der Pflock in seiner Schläfe!</verse>
+        <verse osisID='Judg.4.23'>Und Gott beugte an selbigem Tage Jabin, den König Kanaans, nieder vor den Söhnen Israels.</verse>
+        <verse osisID='Judg.4.24'>Und die Hand der Söhne Israels war immer härter<note>ging gehend und ward hart</note> über Jabin, dem Könige Kanaans, bis sie Jabin, den König von Kanaan, ausgerottet hatten..</verse>
+      </chapter>
+      <chapter osisID='Judg.5'>
+        <title>Deborahs und Baraks Siegeslied.</title>
+        <verse osisID='Judg.5.1'>Und es sang Deborah und Barak, der Sohn Abinoams, am selben Tag und sprach:</verse>
+        <verse osisID='Judg.5.2'>Weil sie mit Hingebung sich hingaben in Israel, weil das Volk willig war, segnet Jehovah.</verse>
+        <verse osisID='Judg.5.3'>Höret ihr Könige, nehmet zu Ohren, ihr Beherrscher! Ich, ich will Jehovah singen, ich will Psalmen singen Jehovah, dem Gott Israels.</verse>
+        <verse osisID='Judg.5.4'>Da du, Jehovah, ausgingst aus Seir, da Du aus dem Felde Edoms schrittest einher, erbebte die Erde, auch die Himmel troffen, auch die dichten Wolken troffen Wasser.</verse>
+        <verse osisID='Judg.5.5'>Berge zerflossen<note>rieselten</note> vor Jehovah, dieser Sinai vor Jehovah, dem Gott Israels.</verse>
+        <verse osisID='Judg.5.6'>In den Tagen Schamgars, des Sohnes Anaths, in den Tagen Jaels hörten die Pfade auf; die auf Steigen gingen, gingen auf krummen Pfaden.</verse>
+        <verse osisID='Judg.5.7'>Die Landstädte hörten in Israel auf<note>d.h. wurden nicht mehr bewohnt</note>, sie hörten auf, bis daß ich aufstand, ich Deborah, bis daß ich aufstand, eine Mutter in Israel.</verse>
+        <verse osisID='Judg.5.8'>Er wählet neue Götter. Da war Streit an den Toren. Man sieht nicht Schild<note>Tartsche</note> noch Speer bei den Vierzigtausenden in Israel.</verse>
+        <verse osisID='Judg.5.9'>Mein Herz ist für die Gesetzgeber Israels, die willig sich zeigten in dem Volk. Segnet Jehovah!</verse>
+        <verse osisID='Judg.5.10'>Ihr, die ihr reitet auf weißen<note>schimmernd weißen</note> Eselinnen, die ihr sitzet auf Prachtteppichen, die ihr auf dem Weg geht. Sinnet nach.</verse>
+        <verse osisID='Judg.5.11'>Mit der Stimme der Pfeilschützen zwischen den Schöpferinnen. Laßt erzählen<note>geben</note> sie die Gerechtigkeiten Jehovahs, die Gerechtigkeiten Seiner Landstädte in Israel. Dann lasset sie, Jehovahs Volk, hinabgehen zu den Toren.</verse>
+        <verse osisID='Judg.5.12'>Wach auf, wach auf, du Deborah! Wach auf, wach auf! Sprich den Gesang! Mache auf dich, Barak, nimm deine Gefangenschaft gefangen, Sohn Abinoams.</verse>
+        <verse osisID='Judg.5.13'>Nun wird der Rest beherrschen die Stattlichen, o Volk; Jehovah wird für mich beherrschen die Mächtigen.</verse>
+        <verse osisID='Judg.5.14'>Von Ephraim, was auf dem Amalek wurzelt, hinter dir her Benjamin mit deinen Völkern. Von Machir kommen die Gesetzgeber herab, und von Sebulun, die des Schreibers Rute führen<note>herausziehen</note>.</verse>
+        <verse osisID='Judg.5.15'>Und Oberste in Issaschar sind mit Deborah. Und wie Barak ist Issaschar. Auf seinen Füßen wird er in den Talgrund gesandt. In den Reihen Rubens sind große Bedenken<note>oder Satzungen</note> des Herzens.</verse>
+        <verse osisID='Judg.5.16'>Warum bliebst du sitzen zwischen zwei Bürden, zu hören das Flöten bei den Herden. In den Reihen Rubens sind große Ergründungen des Herzens.</verse>
+        <verse osisID='Judg.5.17'>Gilead wohnt jenseits des Jordan. Und Dan, weshalb bangt dir vor den Schiffen? Ascher sitzt am Gestade der Meere und wohnt an seinen Buchten.</verse>
+        <verse osisID='Judg.5.18'>Sebulun ist ein Volk, das sein Leben bloßlegt dem Tod, und Naphthali auf den Höhen des Feldes.</verse>
+        <verse osisID='Judg.5.19'>Könige kamen, sie stritten. Da stritten die Könige Kanaans in Thaanach, an Megiddos Wassern. Keinen Gewinn von Silber nahmen sie davon.</verse>
+        <verse osisID='Judg.5.20'>Vom Himmel stritten sie, die Sterne stritten von ihren Bahnen wider Sisera.</verse>
+        <verse osisID='Judg.5.21'>Weg schwemmte sie der Bach Kischon. Ein Bach der Vorzeit ist der Bach Kischon. Tritt, meine Seele, auf die Stärke!</verse>
+        <verse osisID='Judg.5.22'>Da stampften die Hufe der Rosse von dem Jagen, von dem Jagen seiner Gewaltigen.</verse>
+        <verse osisID='Judg.5.23'>Verfluchet Meros! spricht Jehovahs Engel. Verfluchet seine Einwohner; denn sie kamen nicht Jehovah beizustehen, beizustehen Jehovah wider die Mächtigen.</verse>
+        <verse osisID='Judg.5.24'>Gesegnet sei vor den Weibern Jael, das Weib des Cheber, des Keniten; vor den Weibern im Zelte sei sie gesegnet!</verse>
+        <verse osisID='Judg.5.25'>Er erbat sich Wasser, sie gab Milch. In der Schale des Stattlichen brachte sie Rahm dar.</verse>
+        <verse osisID='Judg.5.26'>Sie reckte ihre Hand aus nach dem Pflocke und ihre Rechte nach der Arbeiter Hammer. Und sie zerhämmerte Sisera, zerschlug sein Haupt; und sie zerschmetterte und durchbohrte seine Schläfe.</verse>
+        <verse osisID='Judg.5.27'>Zwischen ihren Füßen krümmt er sich, er fällt, er liegt. Zwischen ihren Füßen krümmt er sich, er fällt. Wie er sich krümmt, da fällt er zerscheitert.</verse>
+        <verse osisID='Judg.5.28'>Durch das Fenster schaute aus, durch das Gitter jammerte die Mutter Siseras. Warum verzieht sein Streitwagen, daß er komme? Warum zögern seiner Streitwagen Rollgänge?</verse>
+        <verse osisID='Judg.5.29'>Die weisen von ihren Edelfrauen antworten ihr; auch sie erwidert selber sich Rede:</verse>
+        <verse osisID='Judg.5.30'>Ob sie nicht Beute finden und verteilen? Eine Dirne<note>Mutterschoß</note>, zwei Dirnen auf jedes Mannes<note>mächtigen Mannes</note> Haupt? Beute an bunten Gewändern für Sisera; Beute an bunten gewirkten Gewändern. Bunte, doppelt gewirkte Zeuge um den Hals der Beute?</verse>
+        <verse osisID='Judg.5.31'>Also müssen umkommen alle deine Feinde, Jehovah! Und die Ihn lieben, wie die Sonne ausgeht in ihrer Macht! - Und das Land war stille vierzig Jahr.</verse>
+      </chapter>
+      <chapter osisID='Judg.6'>
+        <title>Gideon.</title>
+        <verse osisID='Judg.6.1'>Und die Söhne Israels taten Böses in den Augen Jehovahs, und Jehovah gab sie in die Hand Midjans sieben Jahre.</verse>
+        <verse osisID='Judg.6.2'>Und die Hand Midjans ward stark über Israel. Da machten sich die Söhne Israels vor Midjan Klüfte an den Bergen und Höhlen und Bergfesten.</verse>
+        <verse osisID='Judg.6.3'>Und es geschah, wenn Israel säte, da zog herauf Midjan und Amalek und die Söhne des Ostens, und kamen herauf über sie.</verse>
+        <verse osisID='Judg.6.4'>Und sie lagerten sich wider sie und verdarben das Gewächs des Landes, bis man gen Gazah kommt, und ließen in Israel keine Lebensmittel übrig, weder Kleinvieh, noch Ochse, noch Esel.</verse>
+        <verse osisID='Judg.6.5'>Denn sie zogen herauf mit ihren Viehherden und ihren Zelten. Wie die Heuschrecken an Menge kamen sie, und sie und ihre Kamele waren ohne Zahl, und sie kamen in das Land, es zu verderben.</verse>
+        <verse osisID='Judg.6.6'>Und Israel verarmte sehr vor Midjan, und die Söhne Israels schrien zu Jehovah.</verse>
+        <verse osisID='Judg.6.7'>Und es geschah, da die Söhne Israels schrien zu Jehovah um Midjans willen,</verse>
+        <verse osisID='Judg.6.8'>Da sandte Jehovah einen Mann, einen Propheten, zu den Söhnen Israels, und er sprach zu ihnen: Also spricht Jehovah, der Gott Israels: Ich habe euch aus Ägypten heraufgeführt und euch ausgeführt aus dem Hause der Knechte.</verse>
+        <verse osisID='Judg.6.9'>Und habe euch errettet aus der Ägypter Hand und aus der Hand aller, die euch unterdrückt und habe sie vor euch ausgetrieben, und euch ihr Land gegeben;</verse>
+        <verse osisID='Judg.6.10'>Und habe zu euch gesprochen: Ich, Jehovah, bin euer Gott. Fürchtet nicht die Götter der Amoriter, in deren Land ihr wohnt; aber ihr habt nicht auf Meine Stimme gehört.</verse>
+        <verse osisID='Judg.6.11'>Und es kam ein Engel Jehovahs und setzte Sich unter die Eiche zu Ophrah, die des Joasch, des Abiesriters war; und sein Sohn Gideon, der klopfte Weizen aus in der Kelterkufe, auf daß er es flüchtete vor Midjan.</verse>
+        <verse osisID='Judg.6.12'>Und es erschien ihm der Engel Jehovahs und sprach zu ihm: Jehovah sei mit dir, du tapferer Held!</verse>
+        <verse osisID='Judg.6.13'>Und Gideon sprach zu Ihm: Ach, Mein Herr, und ist Jehovah mit uns, warum trifft<note>findet</note> uns alles dies? Und wo sind alle Seine Wunder, von denen unsere Väter uns erzählen und sagen: Hat uns Jehovah nicht aus Ägypten heraufgebracht? Jetzt aber hat Jehovah uns fahren lassen und uns in die Hand<note>hohle Hand</note> Midjans gegeben.</verse>
+        <verse osisID='Judg.6.14'>Und Jehovah wandte Sich ihm zu und sprach: Gehe mit dieser deiner Kraft und rette Israel aus der Hand<note>hohlen Hand</note> Midjans. Habe Ich dich nicht gesandt?</verse>
+        <verse osisID='Judg.6.15'>Und er aber sprach zu Ihm: Ach, Herr, womit soll ich Israel retten? Siehe, mein Tausend ist das ärmste in Menascheh; und ich bin der jüngste in meines Vaters Haus.</verse>
+        <verse osisID='Judg.6.16'>Und Jehovah sprach zu ihm: Weil Ich werde mit dir sein; und du sollst Midjan schlagen wie einen Mann.</verse>
+        <verse osisID='Judg.6.17'>Und er sprach zu Ihm: Finde ich doch Gnade in Deinen Augen, daß Du mir ein Zeichen tust, daß Du es bist, Der mit mir redet.</verse>
+        <verse osisID='Judg.6.18'>Weiche doch nicht von hinnen, bis ich zu Dir kommen und mein Speiseopfer herausbringe und vor dir niederlege. Und Er sprach: Ich will bleiben<note>sitzen</note>, bis du zurückkommst.</verse>
+        <verse osisID='Judg.6.19'>Und Gideon ging hinein und bereitete ein Ziegenböcklein und von einem Epha Mehls ungesäuerte Kuchen; das Fleisch tat er in einen Korb, und die Brühe tat er in einen Topf, und brachte es zu Ihm heraus unter die Eiche und reichte es her.</verse>
+        <verse osisID='Judg.6.20'>Und der Engel Gottes sprach zu ihm: Nimm das Fleisch und die ungesäuerten Kuchen und lege sie nieder auf den Fels da und gieße die Brühe aus; und er tat also.</verse>
+        <verse osisID='Judg.6.21'>Und der Engel Jehovahs reckte das Ende des Steckens aus, der in Seiner Hand war, und berührte das Fleisch und die ungesäuerten Kuchen, und von dem Felsen stieg ein Feuer auf und fraß auf das Fleisch und die ungesäuerten Kuchen; und der Engel Jehovahs ging fort aus seinen Augen.</verse>
+        <verse osisID='Judg.6.22'>Und Gideon sah, daß Er der Engel Jehovahs war, und Gideon sprach: Ach, Herr, Jehovah, denn nun habe ich den Engel Jehovahs von Angesicht zu Angesicht gesehen!</verse>
+        <verse osisID='Judg.6.23'>Und Jehovah sprach zu ihm: Friede sei mit dir! Fürchte dich nicht. Du sollst nicht sterben!</verse>
+        <verse osisID='Judg.6.24'>Und Gideon baute allda einen Altar dem Jehovah und nannte ihn: Jehovah Schalom<note>d.h. Jehovah ist Friede</note>. Bis auf diesen Tag ist er noch in Ophra des Abiesriten.</verse>
+        <verse osisID='Judg.6.25'>Und es geschah in der selbigen Nacht, daß Jehovah zu ihm sprach: Nimm den Farren, den Ochsen deines Vaters, und den zweiten Farren von sieben Jahren, und reiße den Altar des Baal ein, der deinem Vater gehört, und die Aschere<note>d.h. den Hain = Holzsäule</note>, die dabei steht, haue um.</verse>
+        <verse osisID='Judg.6.26'>Und baue Jehovah, deinem Gott, einen Altar auf der Spitze<note>auf dem Haupte</note> dieser Feste nach der Ordnung, und nimm den zweiten Farren und opfere ihn auf als Brandopfer mit dem Holze der Aschere, die du umhauen wirst.</verse>
+        <verse osisID='Judg.6.27'>Und Gideon nahm zehn Männer von seinen Knechten und tat, wie Jehovah zu ihm geredet hatte. Und es geschah, da er sich fürchtete vor dem Hause seines Vaters und den Männern der Stadt, daß er es bei Tag täte, so tat er es bei der Nacht.</verse>
+        <verse osisID='Judg.6.28'>Und die Männer der Stadt standen früh am Morgen auf und siehe, da war der Baalsaltar niedergerissen und die Aschere, die dabei war, umgehauen, und der zweite Farre als Brandopfer auf dem gebauten Altar.</verse>
+        <verse osisID='Judg.6.29'>Und sie sagten, der Mann zu seinen Genossen: Wer hat das getan? Und sie fragten nach und forschten und sie sagten: Gideon, des Joasch Sohn, hat es<note>das Wort</note> getan!</verse>
+        <verse osisID='Judg.6.30'>Und die Männer der Stadt sprachen zu Joasch: Bringe deinen Sohn heraus, daß er sterbe; denn er hat den Altar des Baal niedergerissen und die Aschere, die dabei stand, umgehauen.</verse>
+        <verse osisID='Judg.6.31'>Joasch aber sprach zu allen, die bei ihm standen: Wollt ihr für den Baal hadern? Wollt ihr ihm helfen? Wer für ihn hadert, soll diesen Morgen des Todes sterben. Ist er ein Gott, so hadere er selber mit ihm, weil er seinen Altar niedergerissen hat.</verse>
+        <verse osisID='Judg.6.32'>Und an dem Tage hieß man ihn Jerubbaal, indem man sprach: Es hadere Baal mit ihm, weil er seinen Altar niedergerissen hat.</verse>
+        <verse osisID='Judg.6.33'>Und ganz Midjan und Amalek und die Söhne des Ostens sammelten sich allzumal und setzten über und lagerten sich im Talgrunde Jesreel.</verse>
+        <verse osisID='Judg.6.34'>Und der Geist Gottes zog Gideon an, und er stieß in die Posaune und Abieser ward gerufen<note>geschrien</note>, ihm nach.</verse>
+        <verse osisID='Judg.6.35'>Und er sandte Boten in ganz Menascheh, und auch dieses ward gerufen<note>geschrien</note> ihm nach; und nach Ascher und Sebulun und Naphthali sandte er Boten, und sie zogen herauf, ihnen entgegen.</verse>
+        <verse osisID='Judg.6.36'>Und Gideon sprach zu Gott: Wenn Du Israel durch meine Hand retten willst, wie Du gesagt hast;</verse>
+        <verse osisID='Judg.6.37'>Siehe, so lege ich die Wollenschur in die Tenne. Wenn Tau auf der Schur allein und die ganze Erde trocken sein wird, so weiß ich, daß Du Israel durch meine Hand retten willst, wie Du gesagt hast.</verse>
+        <verse osisID='Judg.6.38'>Und es geschah also. Und am morgenden Tage stand er früh auf und drückte die Schur zusammen, und drückte den Tau aus von der Schur, eine Schale voll Wassers.</verse>
+        <verse osisID='Judg.6.39'>Und Gideon sprach zu Gott: Dein Zorn wird nicht entbrennen wider mich, daß ich nur diesmal rede. Ich will nur noch diesmal versuchen mit der Schur: Laß es doch auf der Schur allein trocken sein, und auf der ganzen Erde sei Tau.</verse>
+        <verse osisID='Judg.6.40'>Und Gott tat also in selbiger Nacht: Trockenheit war auf der Schur allein, und auf der ganzen Erde war Tau.</verse>
+      </chapter>
+      <chapter osisID='Judg.7'>
+        <title>Gideons Sieg über Midjan.</title>
+        <verse osisID='Judg.7.1'>Und Jerubbaal, das ist Gideon, stand früh auf und alles Volk, das mit ihm war, und sie lagerten an der Quelle Charod, und das Lager Midjans war ihm gegen Mitternacht am Hügel Moreh im Talgrunde.</verse>
+        <verse osisID='Judg.7.2'>Und Jehovah sprach zu Gideon: Zu viel ist das Volk mit dir, als daß Ich Midjan in ihre Hand geben könnte, auf daß Israel nicht prahle über Mich und spreche: Meine Hand hat mich gerettet.</verse>
+        <verse osisID='Judg.7.3'>Und rufe nun aus vor den Ohren des Volkes und sage: Wer sich fürchtet und erzittert, der kehre zurück und hebe sich hinweg vom Gebirge Gilead. Und es kehrten vom Volke zurück zweiundzwanzigtausend, und zehntausend verblieben.</verse>
+        <verse osisID='Judg.7.4'>Und Jehovah sprach zu Gideon: Noch ist des Volkes zu viel. Bringe sie hinab an das Wasser. Daselbst will Ich sie läutern; und soll sein, von wem Ich dir sagen werde, dieser soll mit dir ziehen, der soll mit dir ziehen; und jeder, von dem Ich dir sage, dieser soll nicht mit dir ziehen, der ziehe nicht.</verse>
+        <verse osisID='Judg.7.5'>Und er brachte das Volk hinab an das Wasser, und Jehovah sprach zu Gideon: Jeder, der vom Wasser mit der Zunge leckt, wie der Hund leckt, den stelle besonders, und auch jeden, der auf die Knie niederkauert, um zu trinken.</verse>
+        <verse osisID='Judg.7.6'>Und es war die Zahl derer, die mit der Hand zum Munde geleckt hatten, dreihundert Mann; und alles übrige Volk kauerte auf die Knie nieder, um Wasser zu trinken.</verse>
+        <verse osisID='Judg.7.7'>Und Jehovah sprach zu Gideon: Mit den dreihundert Mann, die geleckt haben, rette Ich euch und gebe Midjan in deine Hand; und all das Volk laß jeden Mann an seinen Ort gehen.</verse>
+        <verse osisID='Judg.7.8'>Und sie nahmen Zehrung für das Volk in ihre Hand, und ihre Posaunen, und alle Männer Israels entließ er, jeden Mann in sein Zelt, und die dreihundert Mann hielt er zurück. Und das Lager Midjans war unter ihnen im Talgrunde.</verse>
+        <verse osisID='Judg.7.9'>Und es geschah in selbiger Nacht, daß Jehovah zu ihm sprach: Mache dich auf und gehe hinab in das Lager, denn Ich habe es in deine Hand gegeben.</verse>
+        <verse osisID='Judg.7.10'>Fürchtest du dich aber, hinabzugehen, so gehe du und dein Junge Purah hinab zum Lager.</verse>
+        <verse osisID='Judg.7.11'>Und du wirst hören, was sie reden, und danach werden deine Hände stark werden, daß du in das Lager hinabgehst. Und er ging hinab, er und Purah, sein Junge, an das Ende der Kampfgerüsteten im Lager.</verse>
+        <verse osisID='Judg.7.12'>Und Midjan und Amalek und alle Söhne des Ostens lagen<note>waren gefallen</note> im Talgrunde, wie die Heuschrecke an Menge, und ihrer Kamele war keine Zahl, wie der Sand am Strande des Meeres<note>an der Lippe des Meeres</note> an Menge.</verse>
+        <verse osisID='Judg.7.13'>Und Gideon kam und siehe, ein Mann erzählte seinem Genossen einen Traum und sprach: Siehe, ich träumte einen Traum, und siehe, ein geröstet Gerstenbrot rollte<note>kehrte sich um</note> in das Lager Midjans und kam an das Zelt und schlug dasselbe, daß es fiel, und kehrte es zuoberst, und das Zelt war gefallen.</verse>
+        <verse osisID='Judg.7.14'>Und sein Genosse antwortete und sprach: Dies ist nichts anderes, als das Schwert Gideons, des Sohnes von Joasch, des Mannes von Israel. Gott hat Midjan und das ganze Lager in seine Hand gegeben.</verse>
+        <verse osisID='Judg.7.15'>Und es geschah, als Gideon den Traum erzählen und deuten hörte, so betete er an und kehrte in Israels Lager zurück und sprach. Machet euch auf, denn Jehovah hat das Lager Midjans in eure Hand gegeben.</verse>
+        <verse osisID='Judg.7.16'>Und er teilte die dreihundert Mann in drei Haufen<note>in drei Häupter</note> und gab ihnen allen Posaunen in die Hand und leere Krüge und Fackeln inmitten der Krüge.</verse>
+        <verse osisID='Judg.7.17'>Und er sprach zu ihnen: Von mir sehet es ab und tuet also; und siehe, ich komme dahin an das Ende des Lagers, und es geschehe, daß wie ich tue, also sollt ihr tun.</verse>
+        <verse osisID='Judg.7.18'>Und stoße ich in die Posaune, ich und alle, die mit mir sind, so stoßet auch ihr rings um das ganze Lager in die Posaunen und sprechet: Für Jehovah und für Gideon!</verse>
+        <verse osisID='Judg.7.19'>Und es kam Gideon und die hundert Mann, die mit ihm waren, am Anfang<note>am Haupte</note> der mittleren Nachtwache an das Ende des Lagers, da sie eben die Hut aufgestellt hatten, und stießen in die Posaunen und zerschmissen die Krüge in ihrer Hand.</verse>
+        <verse osisID='Judg.7.20'>Und es bliesen alle drei Haufen<note>Häupter</note> mit den Posaunen und zerbrachen die Krüge und hielten die Fackeln in der linken Hand und die Posaunen zum Blasen in der rechten Hand und riefen: Schwert für Jehovah und für Gideon!</verse>
+        <verse osisID='Judg.7.21'>Und sie standen, jeder Mann an seiner Stelle, rings um das Lager; und das ganze Lager rannte, und sie schrien und flohen.</verse>
+        <verse osisID='Judg.7.22'>Und die dreihundert bliesen die Posaunen, und Jehovah setzte im Lager das Schwert eines jeden Mannes wider seine Genossen und wider das ganze Lager; und das Lager floh bis Beth-Schittah, Zererath zu, bis an den Rand<note>die Lippe</note> von Abel-Mecholah bei Tabbath.</verse>
+        <verse osisID='Judg.7.23'>Und die Männer Israels wurden aufgerufen aus Naphthali und aus Ascher und aus ganz Menascheh, und sie setzten hinter Midjan nach.</verse>
+        <verse osisID='Judg.7.24'>Und Gideon sandte Boten in das ganze Gebirge Ephraim und sprach: Gehet hinab, Midjan entgegen, und gewinnet die Wasser vor ihnen bis Beth-Barah und den Jordan; und jeder Mann in Ephraim wurde aufgerufen, und sie gewannen die Wasser bis Beth-Barah und den Jordan.</verse>
+        <verse osisID='Judg.7.25'>Und sie fingen zwei Oberste Midjans, Oreb und Seeb, und erwürgten Oreb auf Zur-Oreb<note>Fels des Rabens</note> und Seeb erwürgten sie in Jekeb-Seeb<note>Weinkufe des Wolfes</note> und sie setzten Midjan nach, und brachten die Köpfe Orebs und Seebs zu Gideon, jenseits des Jordan.</verse>
+      </chapter>
+      <chapter osisID='Judg.8'>
+        <title>Gideons Tod.</title>
+        <verse osisID='Judg.8.1'>Und die Männer von Ephraim sprachen zu ihm: Warum hast du uns das<note>das Wort</note> getan, daß du uns nicht riefst, als du zogst wider Midjan zu streiten? Und sie haderten gewaltig mit ihm.</verse>
+        <verse osisID='Judg.8.2'>Und er sprach zu ihnen: Was habe ich nun getan wie ihr? Ist nicht die Nachlese Ephraims besser, als die Weinlese Abiesers?</verse>
+        <verse osisID='Judg.8.3'>In eure Hand hat Gott die Obersten Midjans gegeben, den Oreb und den Seeb! Und was konnte ich tun, wie ihr? Da ließ ihr Geist von ihm ab, da er solches Wort redete.</verse>
+        <verse osisID='Judg.8.4'>Und Gideon kam an den Jordan und setzte über, er und die dreihundert Mann, die mit ihm waren, matt, und doch setzten sie nach<note>matt und nachsetzend</note>.</verse>
+        <verse osisID='Judg.8.5'>Und er sprach zu den Männern von Sukkoth: Gebt doch dem Volke, das mir zu Fuße folgt<note>zu meinen Füßen ist</note>, einige Laibe Brot, denn sie sind matt, und ich setze hinter dem Sebach und Zalmunna, Midjans Königen, nach.</verse>
+        <verse osisID='Judg.8.6'>Und die Obersten von Sukkoth sprachen: Hast du die Faust<note>hohle Hand</note> Sebachs und Zalmunnas schon in deiner Hand, daß wir deinem Heere Brot geben sollen?</verse>
+        <verse osisID='Judg.8.7'>Und Gideon sprach: Deshalb will ich, wenn Jehovah Sebach und Zalmunna in meine Hand gibt, dann euer Fleisch mit Dornen der Wüste und mit Stechdisteln dreschen.</verse>
+        <verse osisID='Judg.8.8'>Und von dannen zog er hinauf gen Penuel und sprach zu ihnen ebenso. Und die Männer von Penuel antworteten ihm, wie die Männer von Sukkoth geantwortet.</verse>
+        <verse osisID='Judg.8.9'>Und er sprach auch zu den Männern von Penuel und sagte: Komme ich mit Frieden zurück, so will ich diesen Turm niederreißen.</verse>
+        <verse osisID='Judg.8.10'>Und Sebach und Zalmunna waren in Karkor und ihr Lager mit ihnen bei fünfzehntausend Mann, alle, die noch übrig waren vom ganzen Lager der Söhne des Ostens; der Gefallenen aber waren hundertzwanzigtausend Männer, die das Schwert zogen.</verse>
+        <verse osisID='Judg.8.11'>Und Gideon zog den Weg der Zeltbewohner hinauf auf der Ostseite von Nobach und Jogbehah und schlug das Lager. Das Lager war sicher.</verse>
+        <verse osisID='Judg.8.12'>Und Sebach und Zalmunna flohen, und er setzte hinter ihnen nach und fing die zwei Könige Midjans, Sebach und Zalmunna, und scheuchte ihr ganzes Lager.</verse>
+        <verse osisID='Judg.8.13'>Und Gideon, der Sohn des Joasch, kehrte, bevor die Sonne aufging, vom Streite zurück.</verse>
+        <verse osisID='Judg.8.14'>Und er fing einen Jungen der Männer von Sukkoth auf und befragte ihn. Und der schrieb ihm die Obersten von Sukkoth und ihre Ältesten auf, siebenundsiebzig Männer.</verse>
+        <verse osisID='Judg.8.15'>Und er kam zu den Männern von Sukkoth und sprach. Siehe, hier sind Sebach und Zalmunna, wegen derer ihr mich geschmäht und gesagt habt: Sind die Fäuste<note>hohle Hand</note> Sebachs und Zalmunnas schon in deiner Hand, daß wir deinen Männern, die matt sind, Brot geben sollen?</verse>
+        <verse osisID='Judg.8.16'>Und er nahm die Ältesten der Stadt und Dornen der Wüste und Stechdisteln und ließ die Männer von Sukkoth sie fühlen<note>wissen</note>.</verse>
+        <verse osisID='Judg.8.17'>Und den Turm von Penuel riß er nieder und erwürgte die Männer der Stadt.</verse>
+        <verse osisID='Judg.8.18'>Und zu Sebach und Zalmunna sprach er: Wie waren die Männer, die ihr auf Thabor erwürgtet? Und sie sprachen: Wie du, so waren sie, ein jeder<note>der eine</note> von Gestalt wie Königssöhne.</verse>
+        <verse osisID='Judg.8.19'>Und er sprach. Es waren meine Brüder, meiner Mutter Söhne. Beim Leben Jehovahs: Wenn ihr sie hättet leben lassen, so wollte ich euch nicht erwürgen.</verse>
+        <verse osisID='Judg.8.20'>Und er sprach zu Jether, seinem Erstgeborenen: Stehe auf und erwürge sie. Der Junge aber zog sein Schwert nicht, denn er fürchtete sich, weil er noch ein Junge war.</verse>
+        <verse osisID='Judg.8.21'>Und Sebach und Zalmunna sprachen: Stehe du auf und stoß auf uns, denn wie der Mann ist, ist auch seine Macht. Und Gideon stand auf und erwürgte Sebach und Zalmunna nun und nahm dann die Halbmonde, die an den Hälsen ihrer Kamele waren.</verse>
+        <verse osisID='Judg.8.22'>Und die Männer Israels sprachen zu Gideon: Herrsche du über uns, du und auch dein Sohn und auch deines Sohnes Sohn; denn du hast uns aus der Hand Midjans gerettet.</verse>
+        <verse osisID='Judg.8.23'>Und Gideon sprach zu ihnen: Ich will nicht herrschen über euch, und auch mein Sohn soll nicht herrschen über euch. Jehovah soll über euch herrschen!</verse>
+        <verse osisID='Judg.8.24'>Und Gideon sprach zu ihnen: Eine Bitte will ich mir von euch erbitten: So gebt mir ein jeder Mann den Ring<note>Reif</note> von seiner Beute; denn sie hatten goldene Ringe<note>Reife</note>, weil sie Ischmaeliten waren.</verse>
+        <verse osisID='Judg.8.25'>Und sie sprachen: Wir wollen sie geben. Und sie breiteten ein Gewand aus, und sie warfen darein, jeder Mann den Ring von seiner Beute.</verse>
+        <verse osisID='Judg.8.26'>Und das Gewicht der goldenen Ringe, die er sich erbeten, war tausendsiebenhundert Goldschekel außer den Halbmonden und Ohrgehängen und Purpurkleidern, die Midjans Könige anhatten, und außer dem Halsgehänge am Halse der Kamele.</verse>
+        <verse osisID='Judg.8.27'>Und Gideon machte es zu einem Ephod, und stellte es auf in seiner Stadt Ophrah; und ganz Israel buhlte ihm nach daselbst; und es ward Gideon und seinem Hause zum Fallstricke.</verse>
+        <verse osisID='Judg.8.28'>Midjan aber beugte sich vor den Söhnen Israels und sie erhoben ihr Haupt nicht mehr<note>taten nicht hinzu, ihr Haupt zu erheben</note>, und das Land war stille vierzig Jahre in den Tagen Gideons.</verse>
+        <verse osisID='Judg.8.29'>Und Jerubbaal, der Sohn des Joasch, ging hin und wohnte in seinem Hause.</verse>
+        <verse osisID='Judg.8.30'>Und Gideon hatte siebzig Söhne, die aus seiner Hüfte hervorgingen; denn er hatte viele Weiber.</verse>
+        <verse osisID='Judg.8.31'>Und sein Kebsweib, das er in Schechem hatte, gebar ihm auch einen Sohn, dem er den Namen Abimelech gab<note>setzte</note>.</verse>
+        <verse osisID='Judg.8.32'>Gideon, der Sohn des Joasch, starb in gutem Greisenalter und ward begraben im Grab des Joasch, seines Vaters, in Ophrah der Abieseriter.</verse>
+        <verse osisID='Judg.8.33'>Und es geschah, als Gideon gestorben war, da kehrten die Söhne Israels zurück und buhlten den Baalim nach, und setzten Baal-Berith zu ihrem Gotte.</verse>
+        <verse osisID='Judg.8.34'>Und die Söhne Israels gedachten nicht an Jehovah, ihren Gott, Der sie aus der Hand aller ihrer Feinde ringsum errettet hatte,</verse>
+        <verse osisID='Judg.8.35'>Und taten keine Barmherzigkeit dem Hause des Jerubbaal-Gideon nach all dem Guten, das er an Israel getan.</verse>
+      </chapter>
+      <chapter osisID='Judg.9'>
+        <title>Der Brudermörder Abimelech.</title>
+        <verse osisID='Judg.9.1'>Und Abimelech, Jerubbaals Sohn, ging nach Schechem zu den Brüdern seiner Mutter und redete zu ihnen und zu der ganzen Familie des Hauses des Vaters seiner Mutter und sagte:</verse>
+        <verse osisID='Judg.9.2'>Redet doch vor den Ohren aller Bürger Schechems: Was ist besser für euch, daß über euch herrschen siebzig Männer, alle Söhne Jerubbaals, oder daß ein Mann über euch herrscht; und gedenket, daß ich bin euer Gebein und euer Fleisch.</verse>
+        <verse osisID='Judg.9.3'>Und die Brüder seiner Mutter redeten über ihn vor den Ohren aller Bürger Schechems alle diese Worte; und ihr Herz neigte sich dem Abimelech nach; denn sie sagten: Er ist unser Bruder;</verse>
+        <verse osisID='Judg.9.4'>Und gaben ihm siebzig Silberlinge aus dem Hause des Baal-Berith; und Abimelech dingte damit lose<note>leere</note> leichtfertige Männer, die ihm nachfolgten.</verse>
+        <verse osisID='Judg.9.5'>Und er kam in das Haus seines Vaters nach Ophrath und erwürgte seine Brüder, die siebzig Mann, Söhne Jerubbaals, auf einem Stein; aber Jotham, Jerubbaals jüngster Sohn blieb übrig, denn er hatte sich versteckt.</verse>
+        <verse osisID='Judg.9.6'>Und es sammelten sich alle Bürger Schechems und das ganze Haus Millo und gingen und machten Abimelech zum König bei der Eiche der Denksäule in Schechem.</verse>
+        <verse osisID='Judg.9.7'>Und man sagte dem Jotham an, und er ging hin und stand auf der Spitze<note>dem Haupte</note> des Berges Gerissim und erhob seine Stimme und rief und sprach zu ihnen: Höret auf mich, Bürger von Schechem, auf daß Gott auf euch höre.</verse>
+        <verse osisID='Judg.9.8'>Die Bäume gingen<note>gingen gehend</note> einen König über sich zu salben und sprachen zum Ölbaum: Sei König über uns!</verse>
+        <verse osisID='Judg.9.9'>Und der Ölbaum sprach zu ihnen: Soll ich aufgeben meine Fettigkeit, die an mir Gott und die Menschen verherrlichen, und hingehen, um über den Bäumen zu schwanken?</verse>
+        <verse osisID='Judg.9.10'>Und die Bäume sprachen zum Feigenbaum: Gehe du, und sei König über uns!</verse>
+        <verse osisID='Judg.9.11'>Und der Feigenbaum sprach zu ihnen: Soll ich aufgeben meine Süßigkeit und meinen guten Ertrag, um hinzugehen und über den Bäumen zu schwanken?</verse>
+        <verse osisID='Judg.9.12'>Und die Bäume sprachen zu dem Weinstock: Gehe du, und sei König über uns.</verse>
+        <verse osisID='Judg.9.13'>Und der Weinstock sprach zu ihnen: Soll ich aufgeben meinen Most, der Gott und die Menschen fröhlich macht, und gehen, um über den Bäumen zu schwanken?</verse>
+        <verse osisID='Judg.9.14'>Und alle Bäume sprachen zum Dornbusch: Gehe du, und sei König über uns!</verse>
+        <verse osisID='Judg.9.15'>Und der Dornbusch sprach zu den Bäumen: Wenn ihr in Wahrheit mich über euch zum König salbet, so kommt, verlaßt euch auf meinen Schatten; und wo nicht, so gehe Feuer von dem Dornbusch aus und verzehre die Zedern Libanons.</verse>
+        <verse osisID='Judg.9.16'>Und nun, wenn ihr in Treue und Tadellosigkeit gehandelt, daß ihr den Abimelech zum Könige gemacht, und wenn ihr an dem Jerubbaal und an seinem Hause Gutes habt getan, und wenn ihr nach seiner Hände Wohltun ihm getan,</verse>
+        <verse osisID='Judg.9.17'>Dafür, daß mein Vater für euch gestritten und sein Leben<note>seine Seele</note> von sich geworfen und euch errettet hat aus Midjans Hand;</verse>
+        <verse osisID='Judg.9.18'>Und ihr seid heute aufgestanden wider meines Vaters Haus, und habt seine Söhne, siebzig Männer, auf einem Stein erwürgt, und machet seiner Magd Sohn, Abimelech, zum König über Schechems Bürger, weil er euer Bruder ist;</verse>
+        <verse osisID='Judg.9.19'>Und wenn ihr mit Treue und Tadellosigkeit an Jerubbaal und an seinem Haus heute habt gehandelt, so seid fröhlich über Abimelech und auch er sei fröhlich über euch!</verse>
+        <verse osisID='Judg.9.20'>Wo aber nicht, so gehe Feuer von Abimelech aus und fresse Schechems Bürger und Millos Haus! Und es gehe Feuer aus von den Bürgern Schechems und von Millos Haus und fresse den Abimelech.</verse>
+        <verse osisID='Judg.9.21'>Und Jotham floh und entwich und ging nach Beer und wohnte<note>saß</note> da wegen seines Bruders Abimelech.</verse>
+        <verse osisID='Judg.9.22'>Und Abimelech war drei Jahre der Oberste über Israel.</verse>
+        <verse osisID='Judg.9.23'>Und Gott sandte einen bösen Geist zwischen Abimelech und Schechems Bürger, daß Schechems Bürger gegen Abimelech treulos handelten;</verse>
+        <verse osisID='Judg.9.24'>Auf daß die Gewalttat an den siebzig Söhnen Jerubbaals über sie komme, und man ihr Blut lege auf Abimelech, ihren Bruder, der sie erwürgte, und auf Schechems Bürger, die seine Hände stärkten, seine Brüder zu erwürgen.</verse>
+        <verse osisID='Judg.9.25'>Und die Bürger Schechems legten wider ihn einen Hinterhalt auf die Spitzen<note>die Häupter</note> der Berge und plünderten jeden aus, der bei ihnen auf dem Wege vorüberzog, und es ward Abimelech angesagt.</verse>
+        <verse osisID='Judg.9.26'>Und es kam Gaal, Ebeds Sohn, und seine Brüder und zogen hinüber nach Schechem, und die Bürger Schechems vertrauten auf ihn;</verse>
+        <verse osisID='Judg.9.27'>Und sie gingen hinaus auf das Feld, lasen ihre Weinberge ab, und kelterten<note>stampften, d.i. die Trauben</note>, und machten Loblieder und gingen hinein in das Haus ihres Gottes und aßen und tranken und fluchten auf Abimelech.</verse>
+        <verse osisID='Judg.9.28'>Und Gaal, Ebeds Sohn, sprach: Wer ist Abimelech und wer Schechem, daß wir ihm dienen? Ist er nicht Jerubbaals Sohn und Sebul sein Amtsmann? Dienet den Männern von Chamor, Schechems Vater; aber warum sollen wir ihm dienen?</verse>
+        <verse osisID='Judg.9.29'>O, wer gäbe doch dies Volk in meine Hand, dann wollte ich Abimelech wegtun! Und zu Abimelech sprach er: Mehre dein Heer und zieh aus!</verse>
+        <verse osisID='Judg.9.30'>Und Sebul, der Oberste der Stadt, hörte die Worte Gaals, des Sohnes Ebeds, und sein Zorn entbrannte;</verse>
+        <verse osisID='Judg.9.31'>Und er sandte Boten an Abimelech insgeheim und sagte: Siehe, Gaal, der Sohn Ebeds, und seine Brüder sind nach Schechem gekommen, und siehe, sie drängen die Stadt wider dich auf!</verse>
+        <verse osisID='Judg.9.32'>Und nun mache dich auf bei der Nacht, du und das Volk, das bei dir ist, und lege einen Hinterhalt im Felde.</verse>
+        <verse osisID='Judg.9.33'>Und es soll sein, am Morgen, wenn die Sonne aufgeht, stehe früh auf und rücke wider die Stadt und siehe, er und das Volk, das mit ihm ist, gehen hinaus gegen dich, und dann tue mit ihnen, wie es deine Hand findet.</verse>
+        <verse osisID='Judg.9.34'>Und Abimelech machte sich auf in der Nacht und alles Volk, das mit ihm war, und sie legten sich wider Schechem mit vier Haufen<note>Häupter</note> in Hinterhalt.</verse>
+        <verse osisID='Judg.9.35'>Und Gaal, der Sohn Ebeds, kam heraus und stand am Eingang des Tores der Stadt; und Abimelech und das Volk mit ihm machte sich auf aus dem Hinterhalt.</verse>
+        <verse osisID='Judg.9.36'>Und Gaal sah das Volk und sprach zu Sebul: Siehe, Volk kommt von den Spitzen<note>Häuptern</note> der Berge herab. Und Sebul sagte zu ihm: Den Schatten der Berge siehst du für Männer an.</verse>
+        <verse osisID='Judg.9.37'>Und Gaal redete wiederum<note>tat hinzu zu reden</note> und sprach: Siehe, von der Anhöhe<note>Nabel</note> des Landes dort kommt Volk herab, und ein Haufe<note>Haupt</note> kommt von dem Weg der Eiche der Wolkendeuter.</verse>
+        <verse osisID='Judg.9.38'>Und Sebul sprach zu ihm: Wo ist denn dein Maul, daß du sprachst: Wer ist der Abimelech, daß wir ihm dienen sollen? Ist dies nicht das Volk, das du verschmäht hast? Gehe nun aus und streite mit ihm!</verse>
+        <verse osisID='Judg.9.39'>Und Gaal zog aus vor den Bürgern von Schechem und stritt wider Abimelech.</verse>
+        <verse osisID='Judg.9.40'>Und Abimelech setzte ihm nach, und er floh vor ihm; und es fielen viele Erschlagene bis zum Eingang des Tores.</verse>
+        <verse osisID='Judg.9.41'>Und Abimelech blieb<note>saß</note> in Arumah; und Sebul vertrieb Gaal und seine Brüder, da sie nicht in Schechem wohnen<note>sitzen</note> durften.</verse>
+        <verse osisID='Judg.9.42'>Und es geschah am morgenden Tage, daß das Volk hinausging ins Feld, und es ward dem Abimelech angesagt.</verse>
+        <verse osisID='Judg.9.43'>Und er nahm das Volk und teilte es in drei Haufen<note>Häupter</note> und legte sich auf dem Felde in Hinterhalt. Und er sah, und siehe, das Volk ging aus von der Stadt. Und er machte sich auf wider sie und schlug sie.</verse>
+        <verse osisID='Judg.9.44'>Und Abimelech und die Haufen<note>Häupter</note>, die mit ihm waren, rückten aus und standen am Eingang des Tores der Stadt, und zwei Haufen rückten aus wider alle, die auf dem Felde waren und schlugen sie.</verse>
+        <verse osisID='Judg.9.45'>Den ganzen Tag stritt Abimelech wider die Stadt, und er gewann die Stadt, und er erwürgte das Volk darin und riß die Stadt nieder und besäte sie mit Salz.</verse>
+        <verse osisID='Judg.9.46'>Und alle Bürger in dem Turme von Schechem hörten es, und sie gingen in die Feste des Hauses des Gottes Berith.</verse>
+        <verse osisID='Judg.9.47'>Und dem Abimelech wurde angesagt, daß alle Bürger des Turmes Schechems zusammengekommen seien;</verse>
+        <verse osisID='Judg.9.48'>Und Abimelech zog hinauf auf den Berg Zalmon, er und alles Volk, das mit ihm war; und Abimelech nahm die Axt in seine Hand und hieb einen Baumast ab und hob ihn auf und legte ihn auf seine Schulter und sprach zu dem Volke, das mit ihm war: Was ihr mich habt tun sehen, das tut eilends wie ich.</verse>
+        <verse osisID='Judg.9.49'>Und es hieb auch alles Volk, jeder Mann seinen Ast ab, und sie gingen hinter Abimelech her und legten selben an die Feste und zündeten über ihnen ein Feuer an, und es starben auch alle Männer des Turmes Schechems, über tausend, Mann und Weib.</verse>
+        <verse osisID='Judg.9.50'>Und Abimelech ging nach Thebez und lagerte wider Thebez und eroberte es.</verse>
+        <verse osisID='Judg.9.51'>Und es war ein starker Turm in der Mitte der Stadt, und dahin flohen alle Männer und Weiber und alle Bürger der Stadt, und schlossen hinter sich zu und stiegen auf das Dach des Turmes hinauf.</verse>
+        <verse osisID='Judg.9.52'>Und Abimelech kam bis an den Turm und stritt wider ihn, und er trat hinzu bis an den Eingang des Turmes, daß er ihn mit Feuer verbrennete.</verse>
+        <verse osisID='Judg.9.53'>Und ein Weib warf dem Abimelech einen oberen Mühlstein auf den Kopf und zerbrach ihm den Schädel.</verse>
+        <verse osisID='Judg.9.54'>Und er rief eilends den Jungen, der ihm die Waffen trug, und sprach zu ihm: Zieh dein Schwert heraus und töte mich, daß sie nicht von mir sagen: Ein Weib hat ihn erwürgt. Und der Junge durchstach ihn, und er starb.</verse>
+        <verse osisID='Judg.9.55'>Und die Männer Israels sahen, daß Abimelech tot war, und sie gingen jeder an seinen Ort.</verse>
+        <verse osisID='Judg.9.56'>So ließ zurückkommen Gott dem Abimelech das Böse, das er an seinem Vater tat, daß er seine siebzig Brüder erwürgte.</verse>
+        <verse osisID='Judg.9.57'>Und Gott ließ alles Böse der Männer von Schechem zurückkommen auf ihr Haupt. Und der Fluch Jothams, des Sohnes Jerubbaals, kam über sie.</verse>
+      </chapter>
+      <chapter osisID='Judg.10'>
+        <title>Thola. Jair. - Die Philister und Ammoniter.</title>
+        <verse osisID='Judg.10.1'>Und nach Abimelech stand auf, Israel zu retten, Thola, der Sohn Puahs, der Sohn Dodos, ein Mann aus Issaschar; und er wohnte<note>saß</note> in Schamir auf dem Gebirge Ephraim;</verse>
+        <verse osisID='Judg.10.2'>Und er richtete Israel dreiundzwanzig Jahre; und er starb und ward in Schamir begraben.</verse>
+        <verse osisID='Judg.10.3'>Und nach ihm stand auf Jair, der Gileaditer, und richtete Israel zweiundzwanzig Jahre.</verse>
+        <verse osisID='Judg.10.4'>Und er hatte dreißig Söhne, die auf drei-ßig Eselsfüllen ritten und dreißig Städte hatten, die auf diesen Tag Jairdörfer heißen, und sind im Lande Gilead.</verse>
+        <verse osisID='Judg.10.5'>Und Jair starb und ward in Kamon begraben.</verse>
+        <verse osisID='Judg.10.6'>Und die Söhne Israels taten wider<note>taten hinzu, Böses zu tun</note>, was böse war in den Augen Jehovahs, und dienten den Baalim und Aschtaroth und den Göttern Arams und den Göttern Zidons und den Göttern Moabs und den Göttern der Philister, und verließen Jehovah und dienten Ihm nicht.</verse>
+        <verse osisID='Judg.10.7'>Und es entbrannte der Zorn Jehovahs wider Israel, und Er verkaufte sie in die Hand der Philister und in die Hand der Söhne Ammons.</verse>
+        <verse osisID='Judg.10.8'>Und sie zerschmetterten und zerschlugen die Söhne Israels in dem Jahre, achtzehn Jahre, alle Söhne Israel, jenseits des Jordan im Land des Amoriters, das ist Gilead.</verse>
+        <verse osisID='Judg.10.9'>Und die Söhne Ammons setzten über den Jordan, um auch wider Judah, Benjamin und das Haus Ephraims zu streiten, und Israel war sehr bedrängt.</verse>
+        <verse osisID='Judg.10.10'>Und die Söhne Israels schrien zu Jehovah und sprachen: Wir haben gesündigt gegen Dich und daß wir unseren Gott verlassen und den Baalim gedient haben.</verse>
+        <verse osisID='Judg.10.11'>Und Jehovah sprach zu den Söhnen Israels: Habe Ich euch nicht von den Ägyptern und von den Amoritern und von den Söhnen Ammons und von den Philistern,</verse>
+        <verse osisID='Judg.10.12'>Und von den Zidoniern und von dem Amalek und Maon, die euch unterdrückten, und ihr zu Mir schriet, aus ihrer Hand gerettet?</verse>
+        <verse osisID='Judg.10.13'>Und ihr habt Mich verlassen und anderen Göttern gedient, darum will Ich nicht fortfahren, euch zu helfen.</verse>
+        <verse osisID='Judg.10.14'>Gehet hin und schreit zu den Göttern, die ihr euch erwählt habt; sie sollen zur Zeit der Drangsal euch helfen.</verse>
+        <verse osisID='Judg.10.15'>Und die Söhne Israels sprachen zu Jehovah: Wir haben gesündigt. Tue Du an uns, wie es gut in Deinen Augen ist, nur errette uns doch diesen Tag.</verse>
+        <verse osisID='Judg.10.16'>Und sie taten weg die Götter des Auslands aus ihrer Mitte und dienten Jehovah; und Seine Seele ward ungeduldig über dem Mühsal Israels.</verse>
+        <verse osisID='Judg.10.17'>Und es wurden zusammengerufen die Söhne Ammons, und sie lagerten sich in Gilead, und die Söhne Israels versammelten sich und lagerten in Mizpah.</verse>
+        <verse osisID='Judg.10.18'>Und das Volk, die Obersten Gileads, sprachen einer<note>der Mann</note> zum Genossen: Wer ist der Mann, der anfängt zu streiten wider die Söhne Ammons, der soll das Haupt sein über alle, die in Gilead wohnen<note>sitzen</note>.</verse>
+      </chapter>
+      <chapter osisID='Judg.11'>
+        <title>Jephthachs Sieg und Gelübde.</title>
+        <verse osisID='Judg.11.1'>Und Jephthach<note>Japhthah, Jiphthach</note>, der Gileaditer, war ein tapferer Held, und er war der Sohn eines Weibes, einer Buhlerin, und Gilead hatte Jephthach gezeugt.</verse>
+        <verse osisID='Judg.11.2'>Und das Weib Gileads gebar ihm Söhne, und die Söhne des Weibes wurden groß und vertrieben den Jephthach<note>Japhthah, Jiphthach</note> und sprachen zu ihm: Du sollst nicht erben im Hause unseres Vaters; denn du bist der Sohn eines anderen Weibes.</verse>
+        <verse osisID='Judg.11.3'>Und Jephthach entwich vor seinen Brüdern und wohnte<note>saß</note> im Lande Tob; und es sammelten sich<note>wurden zusammengelesen</note> zu Jephthach lose<note>leere</note> Männer und zogen mit ihm aus.</verse>
+        <verse osisID='Judg.11.4'>Und es geschah nach einigen Tagen, daß die Söhne Ammons mit Israel stritten.</verse>
+        <verse osisID='Judg.11.5'>Und es geschah, als die Söhne Ammons mit Israel im Streit waren, da gingen die Ältesten Gileads hin, den Jephthach aus dem Lande Tob zu holen,</verse>
+        <verse osisID='Judg.11.6'>Und sie sprachen zu Jephthach: Komm und sei unser Anführer, und wir wollen wider die Söhne Ammons streiten.</verse>
+        <verse osisID='Judg.11.7'>Und Jephthach sprach zu den Ältesten Gileads: Habt ihr nicht mich gehaßt und mich aus meines Vaters Haus vertrieben? Und warum kommt ihr jetzt zu mir, da ihr in Bedrängnis seid?</verse>
+        <verse osisID='Judg.11.8'>Und die Ältesten Gileads sprachen zu Jephthach: Darum sind wir jetzt zu dir zurückgekommen, daß du sollst mit uns gehen und streiten wider Ammons Söhne und unser Haupt sein, aller, die in Gilead wohnen<note>sitzen</note>.</verse>
+        <verse osisID='Judg.11.9'>Und Jephthach sprach zu den Ältesten Gileads: Holet ihr mich zurück, auf daß ich streite wider die Söhne Ammons, und wollet ihr, so Jehovah sie vor mir dahin gibt, daß ich euer Haupt sein soll?</verse>
+        <verse osisID='Judg.11.10'>Und die Ältesten Gileads sprachen zu Jephthach: Jehovah höre zwischen uns, wenn wir nicht also tun nach deinem Wort.</verse>
+        <verse osisID='Judg.11.11'>Und Jephthach ging mit den Ältesten Gileads und das Volk setzte ihn zum Haupt und Anführer über sich, und Jephthach redete alle seine Worte vor Jehovah in Mizpah.</verse>
+        <verse osisID='Judg.11.12'>Und Jephthach sandte Boten an den König der Söhne Ammons, ihm zu sagen: Was habe ich mit dir zu schaffen<note>was ist mir und dir</note>, daß du gekommen bist, wider mein Land zu streiten?</verse>
+        <verse osisID='Judg.11.13'>Und der König der Söhne Ammons sprach zu den Boten Jephthachs: Darum, daß Israel mein Land weggenommen hat vom Arnon und bis zum Jabbok und bis an den Jordan, als es aus Ägypten heraufzog; und nun gib es zurück in Frieden.</verse>
+        <verse osisID='Judg.11.14'>Und Jephthach sandte abermals<note>tat hinzu und sandte</note> Boten an den König der Söhne Ammons.</verse>
+        <verse osisID='Judg.11.15'>Und sprach zu ihm: So spricht Jephthach: Israel hat nicht genommen das Land Moab und das Land der Söhne Ammons.</verse>
+        <verse osisID='Judg.11.16'>Denn als sie aus Ägypten heraufzogen, da ging Israel in der Wüste bis an das Schilfmeer und kam gen Kadesch.</verse>
+        <verse osisID='Judg.11.17'>Und Israel sandte Boten an den König von Edom, ihm zu sagen: Laß mich doch durch dein Land hindurchziehen; aber der König von Edom hörte nicht darauf, und auch an den König von Moab sandte es, aber er wollte nicht. Und Israel blieb<note>saß</note> in Kadesch.</verse>
+        <verse osisID='Judg.11.18'>Und es zog in der Wüste und umging das Land Edom und das Land Moab und kam von Aufgang der Sonne an das Land Moab und sie lagerten jenseits des Arnon und kamen nicht in Moabs Grenze; denn der Arnon war Moabs Grenze.</verse>
+        <verse osisID='Judg.11.19'>Und Israel sandte Boten an Sichon, der Amoriter König, König zu Cheschbon, und Israel sprach zu ihm: Laß uns doch durch dein Land ziehen bis an meinen Ort.</verse>
+        <verse osisID='Judg.11.20'>Und Sichon traute Israel nicht, daß es durch seine Grenze hindurchzöge und Sichon versammelte all sein Volk und sie lagerten in Jahzah, und er stritt mit Israel.</verse>
+        <verse osisID='Judg.11.21'>Und Jehovah, der Gott Israels, gab Sichon und all sein Volk in die Hand Israels, und sie schlugen sie. Und Israel nahm ein das ganze Land des Amoriters, der in selbigem Land wohnte.</verse>
+        <verse osisID='Judg.11.22'>Und sie nahmen die ganze Grenze des Amoriters ein, vom Arnon und bis an den Jabbok und von der Wüste bis an den Jordan.</verse>
+        <verse osisID='Judg.11.23'>Und nun hat Jehovah, der Gott Israels, den Amoriter vor seinem Volk Israel ausgetrieben, und du willst es einnehmen?</verse>
+        <verse osisID='Judg.11.24'>Willst du nicht, was dir dein Gott Kemosch zum Erbsitze gibt, einnehmen? und alles, was Jehovah, unser Gott, vor uns zum Erbsitze gibt, das nehmen wir ein?</verse>
+        <verse osisID='Judg.11.25'>Und nun, bist du denn wohl besser als Balak, Zippors Sohn, der König Moabs? Hat er je mit Israel gehadert<note>hadernd gehadert</note>. Hat er je gestritten<note>streitend gestritten</note> wider sie?</verse>
+        <verse osisID='Judg.11.26'>Während Israel in Cheschbon und seinen Töchterstädten<note>Töchtern</note> und in Aroer und seinen Töchterstädten<note>Töchtern</note> und in allen Städten, die an Arnons Ufer liegen, dreihundert Jahre wohnte; warum habt ihr es nicht in dieser Zeit an euch entrissen?</verse>
+        <verse osisID='Judg.11.27'>Und ich habe nichts an dir gesündigt und du tust böse an mir, daß du wider mich streitest? Jehovah, der Richter, soll heute richten zwischen den Söhnen Israels und Ammons Söhnen!</verse>
+        <verse osisID='Judg.11.28'>Aber der König der Söhne Ammons hörte nicht auf Jephthachs Worte, die er an ihn sandte.</verse>
+        <verse osisID='Judg.11.29'>Und der Geist Jehovahs war auf Jephthach, und er zog hindurch durch Gilead und Menascheh, und zog hindurch bis gen Mizpeh in Gilead, und von Mizpeh in Gelead zog er hindurch wider die Söhne Ammons.</verse>
+        <verse osisID='Judg.11.30'>Und Jephthach gelobte Jehovah ein Gelübde und sprach: Wenn Du die Söhne Ammons in meine Hand gibst<note>gehend gibst</note>,</verse>
+        <verse osisID='Judg.11.31'>So soll geschehen, daß das Herauskommende, das herauskommt aus meines Hauses Türen mir entgegen, wenn ich in Frieden zurückkehre von den Söhnen Ammons, das sei Jehovahs, und ich will es Ihm als Brandopfer aufopfern.</verse>
+        <verse osisID='Judg.11.32'>Und Jephthach zog hin zu den Söhnen Ammons und stritt wider sie, und Jehovah gab sie in seine Hand.</verse>
+        <verse osisID='Judg.11.33'>Und er schlug sie von Aroer und bis du nach Minnith kommst, zwanzig Städte, und bis Abel-Keramim in einer sehr großen Schlacht. Und die Söhne Ammons wurden niedergebeugt vor den Söhnen Israels.</verse>
+        <verse osisID='Judg.11.34'>Und Jephthach kam gen Mizpah zu seinem Hause, und siehe: Seine Tochter kam heraus, ihm entgegen, mit Pauken und mit Reigen; und sie war seine einzige. Außer ihr hatte er weder Sohn noch Tochter.</verse>
+        <verse osisID='Judg.11.35'>Und es geschah, da er sie sah, zerriß er seine Kleider und sprach: Ach, meine Tochter, du beugst mich und zerrüttest mich<note>du warst unter meinen Zerrüttern</note>. Und ich habe meinen Mund aufgetan<note>aufgesperrt</note> dem Jehovah und kann nicht zurückgehen.</verse>
+        <verse osisID='Judg.11.36'>Und sie sprach zu ihm: Mein Vater, du hast deinen Mund aufgetan<note>aufgesperrt</note> dem Jehovah, tue mir, wie es aus deinem Munde ausging, nachdem Jehovah dir an deinen Feinden, den Söhnen Ammons, Rache hat bereitet<note>gemacht</note>.</verse>
+        <verse osisID='Judg.11.37'>Und sie sprach zu ihrem Vater: Das eine<note>dieses Wort</note> wollest du mir tun: Zwei Monde lasse von mir ab, und ich will hingehen und niedersteigen auf die Berge, und ich will meine Jungfrauschaft beweinen, ich und meine Genossinnen.</verse>
+        <verse osisID='Judg.11.38'>Und er sprach: Gehe hin! Und entließ sie auf zwei Monde. Und sie ging hin, sie und ihre Genossinnen, und beweinte auf den Bergen ihre Jungfrauschaft.</verse>
+        <verse osisID='Judg.11.39'>Und es geschah am Ende zweier Monde, daß sie zurückkehrte zu ihrem Vater, und er tat an ihr nach seinem Gelübde, das er gelobt. Und sie erkannte nie einen Mann. Und es ward eine Satzung in Israel.</verse>
+        <verse osisID='Judg.11.40'>Von Jahr zu Jahr<note>von Tagen, Tagen</note> gehen die Töchter Israels hin, zu trauern um die Tochter Jephthachs, des Gileaditen, vier Tage im Jahr.</verse>
+      </chapter>
+      <chapter osisID='Judg.12'>
+        <title>Jephthach schlägt Ephraim. - Ibzan. Elon. Abdon.</title>
+        <verse osisID='Judg.12.1'>Und Ephraims Mannen wurden zusammengerufen<note>geschrien</note> und zogen hin nach Mitternacht, und sie sprachen zu Jephthach: Warum bist du hingezogen, zu streiten wider die Söhne Ammons, und hast uns nicht gerufen, daß wir mit dir zögen? Dein Haus verbrennen wir über dir mit Feuer.</verse>
+        <verse osisID='Judg.12.2'>Und Jephthach sprach zu ihnen: Ein Mann des Haders war ich sehr, ich und mein Volk und die Söhne Ammons, und ich schrie zu euch, aber ihr halfet mir nicht aus ihrer Hand.</verse>
+        <verse osisID='Judg.12.3'>Und ich sah, daß du uns nicht halfest, und ich nahm<note>setzte</note> meine Seele in meine Hand und zog hinüber wider die Söhne Ammons, und Jehovah gab sie in meine Hand, und warum zieht ihr nun heute herauf, wider mich zu streiten?</verse>
+        <verse osisID='Judg.12.4'>Und Jephthach brachte alle Männer Gileads zusammen und sie stritten mit Ephraim, und die Männer Gileads schlugen Ephraim; weil sie sagten: Entkommene Ephraims seid ihr, Gilead ist inmitten Ephraims und inmitten Menaschehs.</verse>
+        <verse osisID='Judg.12.5'>Und Gilead besetzte<note>gewann</note> die Furten des Jordan vor Ephraim; und es geschah, wenn die Entkommenen Ephraims sprachen: Laßt mich hinüber, so sprachen zu ihm die Männer von Gilead: Bist du ein Ephraimite? Und wenn er sagte: Nein,</verse>
+        <verse osisID='Judg.12.6'>Da sagten sie zu ihm: Sprich doch: Schibboleth. Sprach er aber Sibboleth und konnte es nicht richtig reden, so ergriffen sie ihn und schlachteten ihn an den Furten des Jordans. Und es fielen zu selbiger Zeit von Ephraim zweiundvierzigtausend.</verse>
+        <verse osisID='Judg.12.7'>Und Jephthach richtete Israel sechs Jahre. Und Jephthach, der Gileaditer, starb und ward begraben in den Städten Gileads.</verse>
+        <verse osisID='Judg.12.8'>Und nach ihm richtete Israel Ibzan von Bethlechem.</verse>
+        <verse osisID='Judg.12.9'>Und er hatte dreißig Söhne; und dreißig Töchter entließ er hinaus und dreißig Töchter brachte er seinen Söhnen von draußen, und richtete Israel sieben Jahre.</verse>
+        <verse osisID='Judg.12.10'>Und Ibzan starb und ward in Bethlechem begraben.</verse>
+        <verse osisID='Judg.12.11'>Und nach ihm richtete Israel Elon, der Sebuluniter, und er richtete Israel zehn Jahre.</verse>
+        <verse osisID='Judg.12.12'>Und Elon, der Sebuluniter, starb und ward begraben in Aijalon, im Lande Sebulun.</verse>
+        <verse osisID='Judg.12.13'>Und nach ihm richtete Israel Abdon, Hillels Sohn, der Pirathoniter.</verse>
+        <verse osisID='Judg.12.14'>Und er hatte vierzig Söhne und dreißig Söhne seiner Töchter, die auf siebzig Eselfüllen ritten, und richtete Israel acht Jahre.</verse>
+        <verse osisID='Judg.12.15'>Und Abdon, der Sohn Hillels, der Pirathoniter, starb und ward begraben in Pirathon, im Lande Ephraim, auf dem Gebirge des Amalekiters.</verse>
+      </chapter>
+      <chapter osisID='Judg.13'>
+        <title>Simson.</title>
+        <verse osisID='Judg.13.1'>Und die Söhne Israels taten wiederum Böses<note>taten hinzu, Böses zu tun</note> in den Augen Jehovahs, und Jehovah gab sie in die Hand der Philister vierzig Jahre.</verse>
+        <verse osisID='Judg.13.2'>Und es war ein Mann aus Zorah, aus der Familie der Daniten, und sein Name war Manoach; und sein Weib war unfruchtbar und gebar nicht.</verse>
+        <verse osisID='Judg.13.3'>Und es erschien dem Weibe der Engel Jehovahs und sprach zu ihr: Siehe doch, du bist unfruchtbar und gebierst nicht, aber du wirst empfangen und einen Sohn gebären.</verse>
+        <verse osisID='Judg.13.4'>So hüte dich nun, daß du nicht Wein noch starkes Getränk trinkst, noch irgend etwas Unreines issest.</verse>
+        <verse osisID='Judg.13.5'>Denn siehe, du wirst empfangen und einen Sohn gebären. Und es soll ihm kein Schermesser auf das Haupt kommen, denn ein Nasiräer Gottes soll der Junge sein von Mutterleib an, und er soll anfangen, Israel aus der Hand der Philister zu retten.</verse>
+        <verse osisID='Judg.13.6'>Und das Weib kam und sprach zu ihrem Manne und sagte: Ein Mann Gottes kam zu mir und sein Ansehen war wie das Ansehen eines Engels Gottes, sehr furchtbar, und ich fragte ihn nicht, woher er wäre und seinen Namen hat er mir nicht angesagt.</verse>
+        <verse osisID='Judg.13.7'>Und er sprach zu mir: Siehe, du wirst empfangen und einen Sohn gebären. So trinke nun keinen Wein, noch starkes Getränk und iß nicht irgend etwa Unreines, denn der Junge soll ein Nasiräer Gottes sein von Mutterleib an bis zum Tage seines Todes.</verse>
+        <verse osisID='Judg.13.8'>Und Manoach flehte zu Jehovah und sprach: Laß doch, o Herr, den Mann Gottes, den Du gesendet hast, abermals zu uns kommen, daß Er uns unterweise, was wir zu tun haben mit dem Jungen, der geboren werden soll.</verse>
+        <verse osisID='Judg.13.9'>Und Gott hörte auf die Stimme Manoachs, und der Engel Gottes kam abermals zu dem Weibe und sie saß auf dem Felde, und Manoach, ihr Mann, war nicht bei ihr.</verse>
+        <verse osisID='Judg.13.10'>Und das Weib eilte und lief, und sagte es ihrem Manne an und sprach zu ihm: Siehe, der Mann ist mir erschienen, der an jenem Tage zu mir gekommen war.</verse>
+        <verse osisID='Judg.13.11'>Und Manoach machte sich auf und ging seinem Weibe nach und kam zu dem Manne und sprach zu ihm: Bist du der Mann, der mit dem Weibe geredet hat? Und Er sprach: Ich bin es.</verse>
+        <verse osisID='Judg.13.12'>Und Manoach sprach: Wenn nun kommen wird, was Du geredet hast, was soll dann des Jungen Weise<note>Gericht</note> sein und sein Tun?</verse>
+        <verse osisID='Judg.13.13'>Und der Engel Jehovahs sprach zu Manoach: Vor allem, was Ich dem Weibe gesagt, soll sie sich hüten.</verse>
+        <verse osisID='Judg.13.14'>Von allem, das vom Weinstock<note>Weinstock des Weins</note> ausgeht, soll sie nichts essen, und Wein und starkes Getränk soll sie nicht trinken und nichts Unreines essen. Alles, was Ich ihr gebot, das soll sie halten.</verse>
+        <verse osisID='Judg.13.15'>Und Manoach sprach zu dem Engel Jehovahs: Laß Dich doch von uns zurückhalten, daß wir vor Dir ein Ziegenböcklein bereiten<note>machen</note>.</verse>
+        <verse osisID='Judg.13.16'>Und der Engel Jehovahs sprach zu Manoach: Wenn du mich auch zurückhieltest, so äße Ich doch nicht von deinem Brote; aber wenn du Jehovah ein Brandopfer machen willst, so opfere es dem Jehovah auf; denn Manoach wußte nicht, daß es der Engel Jehovahs war.</verse>
+        <verse osisID='Judg.13.17'>Und Manoach sprach zu dem Engel Jehovahs: Was ist Dein Name? daß wir Dich ehren<note>verherrlichen</note>, wenn Dein Wort kommen wird.</verse>
+        <verse osisID='Judg.13.18'>Und der Engel Jehovahs sprach zu ihm: Warum fragst du nach Meinem Namen? Und er ist: Wunderbar.</verse>
+        <verse osisID='Judg.13.19'>Und Manoach nahm denn das Ziegenböcklein und das Speiseopfer und opferte es dem Jehovah auf auf dem Felsen. Und Er<note>d.i. der Engel</note> tat eine Wundertat und Manoach und sein Weib sahen es.</verse>
+        <verse osisID='Judg.13.20'>Und es geschah, als die Flammen vom Altar zum Himmel aufstieg, da stieg der Engel Jehovahs in der Flamme des Altars auf, und Manoach und sein Weib sahen es und fielen auf ihr Gesicht zur Erde.</verse>
+        <verse osisID='Judg.13.21'>Und der Engel Jehovahs erschien dem Manoach und seinem Weibe nicht wieder<note>tat nicht hinzu zu erscheinen</note>. Da wußte Manoach, daß es der Engel Jehovahs war.</verse>
+        <verse osisID='Judg.13.22'>Und Manoach sprach zu seinem Weibe: Wir müssen des Todes sterben; denn wir haben Gott gesehen!</verse>
+        <verse osisID='Judg.13.23'>Und sein Weib sprach zu ihm: Wenn Jehovah Lust hätte, uns zu töten, so hätte Er nicht aus unserer Hand das Brandopfer und das Speiseopfer angenommen, und hätte nicht uns solches alles sehen lassen, und in dieser Zeit uns nicht solches hören lassen, wie dies.</verse>
+        <verse osisID='Judg.13.24'>Und das Weib gebar einen Sohn und nannte seinen Namen Simson; und der Junge ward groß, und Jehovah segnete ihn.</verse>
+        <verse osisID='Judg.13.25'>Und der Geist Jehovahs fing an, ihn zu treiben<note>beunruhigen</note> in Machaneh-Dan, zwischen Zorah und Eschtaol.</verse>
+      </chapter>
+      <chapter osisID='Judg.14'>
+        <title>Simson.</title>
+        <verse osisID='Judg.14.1'>Und Simson ging hinab nach Thimnatha und sah in Thimnatha ein Weib unter den Töchtern der Philister;</verse>
+        <verse osisID='Judg.14.2'>Und er kam herauf und sagte es seinem Vater und seiner Mutter an und sprach: Ich habe ein Weib gesehen in Thimnatha von den Töchtern der Philister, und nun nehmt sie mir zum Weibe.</verse>
+        <verse osisID='Judg.14.3'>Und sein Vater und seine Mutter sprachen zu ihm: Ist denn unter den Töchtern deiner Brüder und unter all meinem Volk kein Weib, daß du hingehst und nimmst ein Weib von den unbeschnittenen Philistern? Und Simson sprach zu seinem Vater: Die nimm mir, denn sie ist recht im meinen Augen.</verse>
+        <verse osisID='Judg.14.4'>Und sein Vater und seine Mutter wußten nicht, daß es von Jehovah war, daß er Gelegenheit suchte gegen die Philister. Und zu der Zeit herrschten die Philister über Israel.</verse>
+        <verse osisID='Judg.14.5'>Und Simson ging mit seinem Vater und seiner Mutter hinab nach Thimnatha; und sie kamen an die Weinberge von Thimnatha, und siehe, ein junger Löwe<note>ein Junges der Löwinnen</note> brüllte ihm entgegen.</verse>
+        <verse osisID='Judg.14.6'>Und der Geist Jehovahs fuhr in ihn und er zerriß<note>zerspaltete</note> denselben, wie man ein Böcklein zerreißt<note>zerspaltet</note>, und doch hatte er gar nichts in seiner Hand. Und er sagte seinem Vater und seiner Mutter nicht an, was er getan hatte.</verse>
+        <verse osisID='Judg.14.7'>Und er ging hinab und redete zu dem Weibe und sie war recht in Simsons Augen.</verse>
+        <verse osisID='Judg.14.8'>Und er kam zurück nach einigen Tagen, um sie zu nehmen; und er lenkte ab, um nach dem Aas des Löwen zu sehen, und siehe, ein Schwarm Bienen war in dem Leib des Löwen, und Honig.</verse>
+        <verse osisID='Judg.14.9'>Und er nahm diesen heraus in seine Hände<note>flache Hand</note>, und ging und aß davon, während er hinging, und ging zu seinem Vater und seiner Mutter, und er gab ihnen, und sie aßen; er sagte ihnen aber nicht, daß er aus des Löwen Leib den Honig herausgenommen hatte.</verse>
+        <verse osisID='Judg.14.10'>Und sein Vater ging hinab zu dem Weibe, und Simson machte daselbst ein Gastmahl, denn so machten es die Jünglinge.</verse>
+        <verse osisID='Judg.14.11'>Und es geschah, da sie ihn sahen, nahmen sie dreißig Genossen, die bei ihm sein sollten.</verse>
+        <verse osisID='Judg.14.12'>Und Simson sprach zu ihnen: Ich will euch ein Rätsel raten lassen, und wenn ihr es mir während der sieben Tage des Gastmahls ansagt<note>ansagend ansagt</note> und ausfindet, so gebe ich euch dreißig Hemden und dreißig Feierkleider.</verse>
+        <verse osisID='Judg.14.13'>Und könnt ihr es mir nicht ansagen, so gebt ihr mir dreißig Hemden und dreißig Feierkleider. Und sie sagten zu ihm: Laß raten dein Rätsel, daß wir es hören.</verse>
+        <verse osisID='Judg.14.14'>Und er sprach zu ihnen: Von dem Esser ging aus Speise, und Süßes ging aus von dem Starken. Und sie konnten in drei Tagen das Rätsel nicht ansagen.</verse>
+        <verse osisID='Judg.14.15'>Und es geschah am siebenten Tage, daß sie sprachen zu Simsons Weib: Berede deinen Mann, daß er uns das Rätsel ansage; sonst verbrennen wir dich und deines Vaters Haus mit Feuer. Habt ihr uns hierher gerufen, um uns arm zu machen oder nicht?</verse>
+        <verse osisID='Judg.14.16'>Und das Weib Simsons weinte bei ihm und sprach: Fürwahr, du hassest mich und hast mich nicht lieb. Du läßt die Söhne meines Volkes das Rätsel raten, und mir sagst du es nicht an. Und er sprach zu ihr: Siehe, meinem Vater und meiner Mutter habe ich es nicht angesagt. Und dir sollt ich es ansagen?</verse>
+        <verse osisID='Judg.14.17'>Und sie weinte bei ihm sieben Tage, solange sie das Gastmahl hatten. Und es geschah, am siebenten Tage sagte er es ihr an, weil sie ihn beengte; und sie sagte das Rätsel den Söhnen ihres Volkes an.</verse>
+        <verse osisID='Judg.14.18'>Und die Männer der Stadt sprachen zu ihm am siebenten Tage, bevor die Sonne unterging: Was ist süßer als Honig und was stärker als der Löwe? Er aber sprach zu ihnen: Hättet ihr nicht mit meiner Färse gepflügt, ihr hättet mein Rätsel nicht ausgefunden.</verse>
+        <verse osisID='Judg.14.19'>Und der Geist Jehovahs fuhr in ihn, und er ging hinab nach Aschkelon, und erschlug ihrer dreißig Männer, und er nahm, was er ihnen auszog und gab die Feierkleider denen, die das Rätsel angesagt. Und sein Zorn entbrannte, und er ging hinauf in seines Vaters Haus.</verse>
+        <verse osisID='Judg.14.20'>Und Simsons Weib ward seinem Freunde<note>gegeben</note>, der sein Genosse war.</verse>
+      </chapter>
+      <chapter osisID='Judg.15'>
+        <title>Simsons Füchse. - Sein Sieg mit dem Eselskinnbacken.</title>
+        <verse osisID='Judg.15.1'>Und es geschah nach etlichen Tagen, in den Tagen der Weizenernte, daß Simson sein Weib besuchte mit einem Ziegenböcklein, und er sprach: Ich will zu meinem Weibe hineingehen in die Kammer. Und ihr Vater ließ ihn nicht hineingehen<note>gab ihm nicht hineinzugehen</note>.</verse>
+        <verse osisID='Judg.15.2'>Und ihr Vater sprach: Ich sprach: Du hassest sie, und gab sie denn deinem Freunde. Ist ihre jüngere<note>kleinere</note> Schwester nicht besser, denn sie? Sie sei dein an ihrer Statt.</verse>
+        <verse osisID='Judg.15.3'>Und Simson sprach zu ihnen: Diesmal bin ich unschuldig an den Philistern, wenn ich an ihnen Böses tue.</verse>
+        <verse osisID='Judg.15.4'>Und Simson ging und fing dreihundert Füchse und nahm Fackeln, und wandte sie, Schwanz gegen Schwanz, und tat je eine Fackel zwischen die zwei Schwänze in die Mitte.</verse>
+        <verse osisID='Judg.15.5'>Und zündete die Fackeln mit Feuer an und entsandte sie in die Saatfelder der Philister, und zündete<note>brannte</note> an von den Garbenhaufen und bis an die noch stehende Saat, und bis an die Weinberge und Ölgärten.</verse>
+        <verse osisID='Judg.15.6'>Und die Philister sprachen: Wer hat das getan? Und sie sagten: Simson, der Schwiegersohn des Thimniters, weil dieser sein Weib nahm und sie seinem Freunde gab. Und die Philister zogen herauf und verbrannten sie und ihren Vater mit Feuer.</verse>
+        <verse osisID='Judg.15.7'>Simson aber sprach zu ihnen: Obwohl ihr solches getan, muß ich doch erst Rache an euch nehmen. Dann will ich aufhören.</verse>
+        <verse osisID='Judg.15.8'>Und er schlug sie, Schenkel und Hüfte, mit einem großen Schlage; und er ging hinab und wohnte<note>saß</note> im Geklüfte der Felsklippe Etam.</verse>
+        <verse osisID='Judg.15.9'>Und die Philister zogen hinauf und lagerten in Judah und ließen sich nieder in Lechi.</verse>
+        <verse osisID='Judg.15.10'>Und die Männer von Judah sprachen: Warum seid ihr gegen uns heraufgezogen? Und sie sprachen: Den Simson zu binden, sind wir heraufgezogen, zu tun ihm, wie er uns getan hat.</verse>
+        <verse osisID='Judg.15.11'>Und dreitausend Mann von Judah zogen hinab nach dem Geklüfte der Felsklippe Etam und sprachen zu Simson: Weißt du nicht, daß die Philister über uns herrschen? Warum hast du uns aber das getan? Und er sprach zu ihnen: Wie sie mir taten, so habe ich ihnen getan.</verse>
+        <verse osisID='Judg.15.12'>Und sie sprachen zu ihm: Dich zu binden, sind wir herabgezogen, um dich in der Philister Hand zu geben. Und Simson sprach zu ihnen: Schwöret mir, daß ihr nicht auf mich stoßet.</verse>
+        <verse osisID='Judg.15.13'>Und sie sprachen zu ihm und sagten: Nein, nur binden<note>bindend binden</note> wollen wir dich und dich in ihre Hand geben; und werden dich nicht töten<note>tötend töten</note>. Und sie banden ihn mit zwei neuen Seilen und brachten ihn herauf von der Felsklippe.</verse>
+        <verse osisID='Judg.15.14'>Und er kam bis Lechi, und die Philister schrien ihm entgegen; aber der Geist Jehovahs fuhr in ihn, und die Seile an seinen Armen wurden wie Flachsfäden, die man im Feuer verbrennt, und seine Bande schmolzen ab von seinen Händen.</verse>
+        <verse osisID='Judg.15.15'>Und er fand einen frischen Kinnbacken eines Esels, und reckte seine Hand aus und nahm ihn und erschlug damit tausend Mann.</verse>
+        <verse osisID='Judg.15.16'>Und Simson sprach: Mit dem Eselskinnbacken habe ich einen Haufen, zwei Haufen, mit dem Eselskinnbacken habe ich tausend Mann erschlagen;</verse>
+        <verse osisID='Judg.15.17'>Und als er zu reden vollendet, warf er den Kinnbacken aus seiner Hand, und man nannte diesen Ort Ramath-Lechi.</verse>
+        <verse osisID='Judg.15.18'>Und es dürstete ihn sehr, und er rief zu Jehovah und sprach: Du hast durch die Hand Deines Knechtes dieses große Heil gegeben, und nun sterbe ich vor Durst und falle in die Hand der Unbeschnittenen!</verse>
+        <verse osisID='Judg.15.19'>Und Gott spaltete das Gebiß in dem Kinnbacken, und hervor kam daraus Wasser, und er trank und sein Geist kehrte zurück und er lebte auf. Darum nennt man ihren<note>der Quelle</note> Namen Rufersquell<note>En-Hakkore</note>, die bis auf diesen Tag in Lechi ist.</verse>
+        <verse osisID='Judg.15.20'>Und er richtete Israel in den Tagen der Philister zwanzig Jahre.</verse>
+      </chapter>
+      <chapter osisID='Judg.16'>
+        <title>Simsons Fall und Rache.</title>
+        <verse osisID='Judg.16.1'>Und Simson ging nach Gassah und sah daselbst ein Weib, eine Buhlerin, und ging zu ihr ein.</verse>
+        <verse osisID='Judg.16.2'>Den Gassitern ward gesagt: Simson ist hier hereingekommen. Und sie umgaben ihn und lagerten im Hinterhalt auf ihn die ganze Nacht am Tore der Stadt, und sie schwiegen die ganze Nacht stille und sagten: Bis an das Licht des Morgens, dann erwürgen wir ihn.</verse>
+        <verse osisID='Judg.16.3'>Und Simson lag bis Mitternacht; und um Mitternacht stand er auf und ergriff die Türen des Stadttores und die zwei Türpfosten und zog sie aus mit dem Riegel und legte sie auf seine Schultern und trug sie hinauf auf die Spitze<note>Haupt</note> des Berges vor Chebron.</verse>
+        <verse osisID='Judg.16.4'>Und es geschah danach, da liebte er ein Weib im Bachtal Schorek, und ihr Name war Delilah.</verse>
+        <verse osisID='Judg.16.5'>Und die Fürsten<note>Erhabenen</note> der Philister gingen zu ihr hinauf und sprachen zu ihr: Berede ihn und siehe, worin seine große Kraft ist, und wodurch wir ihn übermögen, so daß wir ihn binden und bezwingen können. Und wir wollen dir, jeder Mann tausend und hundert Silberlinge geben.</verse>
+        <verse osisID='Judg.16.6'>Und Delilah sprach zu Simson: Sage mir doch an, worin deine große Kraft ist, und womit man dich binden könnte, um dich zu bezwingen.</verse>
+        <verse osisID='Judg.16.7'>Und Simson sagte zu ihr: Wenn man mich mit sieben frischen Stricken bindet, die noch nicht ausgetrocknet sind, so würde ich schwach und sein wie einer der Menschen.</verse>
+        <verse osisID='Judg.16.8'>Und die Fürsten<note>Erhabenen</note> der Philister, brachten ihr sieben frische Stricke, die noch nicht ausgetrocknet waren, herauf, und sie band ihn damit.</verse>
+        <verse osisID='Judg.16.9'>Und der Hinterhalt saß bei ihr in der Kammer. Und sie sprach zu ihm: Philister über dir, Simson! Und er riß die Stricke ab, wie man die Wergschnur abreißt, wenn sie nach Feuer riecht; und nicht ward bekannt seine Kraft.</verse>
+        <verse osisID='Judg.16.10'>Und Delilah sprach zu Simson: Siehe, du hast mich hintergangen und Falsches zu mir geredet. Jetzt sage mir doch an, womit man dich binden kann.</verse>
+        <verse osisID='Judg.16.11'>Und er sprach zu ihr: Wenn man mich bände<note>bindend bände</note> mit neuen Seilen, mit denen noch keine Arbeit getan worden ist, dann würde ich schwach und wäre wie einer der Menschen.</verse>
+        <verse osisID='Judg.16.12'>Und Delilah nahm neue Seile und band ihn damit und sprach zu ihm: Philister über dir, Simson! Und der Hinterhalt war in der Kammer; und wie Faden riß er sie von seinen Armen ab.</verse>
+        <verse osisID='Judg.16.13'>Und Delilah sprach zu Simson: Bisher hast du mich hintergangen und Falsches zu mir geredet. Sage mir an, womit kann man dich binden? Und er sprach zu ihr: Wenn du die sieben Locken meines Hauptes einwebst mit dem Webeaufzug.</verse>
+        <verse osisID='Judg.16.14'>Und sie schlug sie mit dem Pflock fest und sprach zu ihm: Philister über dir, Simson! Und er erwachte aus seinem Schlafe und zog den Pflock mitsamt dem Webeaufzug aus.</verse>
+        <verse osisID='Judg.16.15'>Und sie sprach zu ihm: Wie kannst du doch sagen: Ich liebe dich, und ist doch dein Herz nicht bei mir? Diese dreimal hast du mich hintergangen und hast mir nicht angesagt, durch was so groß ist deine Kraft.</verse>
+        <verse osisID='Judg.16.16'>Und es geschah, als sie so mit ihren Worten alle Tage ihn beengte und ihn zerplagte, ward seine Seele ungeduldig bis zum Tode.</verse>
+        <verse osisID='Judg.16.17'>Und er sagte ihr an sein ganzes Herz und sprach zu ihr: Kein Schermesser ist über mein Haupt gekommen; denn vom Leibe meiner Mutter an bin ich ein Nasiräer Gottes. Würde ich geschoren, so entwiche meine Kraft von mir, und ich würde schwach und wäre wie alle Menschen.</verse>
+        <verse osisID='Judg.16.18'>Und Delilah sah, daß er ihr sein ganzes Herz angesagt hatte, und sie sandte und rief die Fürsten<note>Erhabenen</note> der Philister und sprach: Kommet herauf diesmal, denn er hat mir sein ganzes Herz angesagt. Und die Fürsten<note>Erhabenen</note> der Philister kamen herauf zu ihr, und sie brachten das Silber in ihrer Hand herauf.</verse>
+        <verse osisID='Judg.16.19'>Und sie ließ ihn einschlafen auf ihren Knien und rief dem Manne, und er schor die sieben Locken seines Hauptes ab, und sie fing an, ihm zuzusetzen<note>zwingen</note>, und seine Kraft entwich von ihm.</verse>
+        <verse osisID='Judg.16.20'>Und sie sprach: Philister über dir, Simson! Und er erwachte von seinem Schlaf und sprach: Ich will hinausgehen, diesmal wie ehemals, und mich abschütteln, und er wußte nicht, daß Jehovah von ihm entwichen war.</verse>
+        <verse osisID='Judg.16.21'>Und die Philister griffen ihn und stachen ihm die Augen aus und brachten ihn hinab nach Gassah, und banden ihn mit Erzfesseln, und er mußte mahlen in dem Hause der Gebundenen.</verse>
+        <verse osisID='Judg.16.22'>Und das Haar seines Hauptes fing wieder an zu sprossen, nachdem es abgeschoren war.</verse>
+        <verse osisID='Judg.16.23'>Und die Fürsten<note>Erhabenen</note> der Philister versammelten sich, um ihrem Gotte Dagon ein großes Opfer zu opfern und fröhlich zu sein; und sie sprachen: Unser Gott hat den Simson, unseren Feind, in unsere Hand gegeben.</verse>
+        <verse osisID='Judg.16.24'>Und das Volk sah ihn, und sie lobten ihren Gott; denn sie sprachen: Unser Gott hat unseren Feind, den, der unser Land verödete und unsere Erschlagenen mehrte, in unsere Hand gegeben.</verse>
+        <verse osisID='Judg.16.25'>Und es geschah, als ihr Herz guter Dinge war<note>ihr Herz gut war</note>, daß sie sprachen: Rufet uns Simson, daß er vor uns spiele. Und sie riefen Simson aus dem Hause der Gebundenen und er spielte vor ihnen, und sie ließen ihn zwischen den Säulen stehen.</verse>
+        <verse osisID='Judg.16.26'>Und Simson sprach zu dem Jungen, der ihn an der Hand hielt: Laß mich, daß ich die Säulen betaste, auf denen das Haus errichtet ist, auf daß ich mich darauf stütze.</verse>
+        <verse osisID='Judg.16.27'>Und das Haus war voll von Männern und Weibern, und es waren allda alle Fürsten<note>Erhabenen</note> der Philister, und auf dem Dache bei dreitausend, Mann und Weib, die sehen wollten, wie Simson spiele.</verse>
+        <verse osisID='Judg.16.28'>Und Simson rief zu Jehovah und sprach: O Herr, Jehovah! Gedenke doch meiner und stärke mich doch diesmal, Gott, daß ich mich mit einer Rache an den Philistern für meine zwei Augen räche.</verse>
+        <verse osisID='Judg.16.29'>Und Simson umfaßte die zwei Säulen in der Mitte, auf denen das Haus errichtet war, und stemmte<note>lehnte</note> sich auf sie, auf die eine mit seiner Rechten, auf die andere mit seiner Linken.</verse>
+        <verse osisID='Judg.16.30'>Und Simson sprach: Meine Seele sterbe mit den Philistern! Und er neigte sich mit Kraft; und das Haus fiel auf die Fürsten<note>Erhabenen</note> und auf alles Volk darin. Und es waren der Toten, die er bei seinem Tode tötete, mehr, als er bei seinem Leben getötet hatte.</verse>
+        <verse osisID='Judg.16.31'>Und seine Brüder und das ganze Haus seines Vaters kamen herab, und sie hoben ihn auf und brachten ihn hinauf und begruben ihn zwischen Zorah und Eschtaol im Grabe seines Vaters Manoach. Und er hatte Israel zwanzig Jahre gerichtet.</verse>
+      </chapter>
+      <chapter osisID='Judg.17'>
+        <title>Michajehu richtet Götzendienst an.</title>
+        <verse osisID='Judg.17.1'>Und es war ein Mann vom Gebirge Ephraim und sein Name war Michajehu.</verse>
+        <verse osisID='Judg.17.2'>Und er sprach zu seiner Mutter: Die tausendeinhundert Silberlinge, die dir genommen worden, und die du verwünscht und auch vor meinen Ohren gesprochen hast; siehe, dieses Silber ist bei mir, ich habe es genommen. Und seine Mutter sprach: Gesegnet sei mein Sohn von Jehovah!</verse>
+        <verse osisID='Judg.17.3'>Und er gab die tausendeinhundert Silberlinge seiner Mutter zurück. Und seine Mutter sprach: Ich heiligte das Silber dem Jehovah von meiner Hand für meinen Sohn, um ein Schnitzbild und ein Gußbild zu machen. Und nun gebe ich dir es zurück.</verse>
+        <verse osisID='Judg.17.4'>Und er gab das Silber seiner Mutter zurück und seine Mutter nahm davon zweihundert Silberlinge und gab es dem Goldschmied<note>Läuterer</note> und er machte ein Schnitzbild und ein Gußbild davon, und es war im Hause Michajehus.</verse>
+        <verse osisID='Judg.17.5'>Und der Mann Michah hatte ein Gotteshaus und machte ein Ephod und Teraphim, und er füllte die Hand eines seiner Söhne, daß er sein Priester ward.</verse>
+        <verse osisID='Judg.17.6'>In jenen Tagen war kein König in Israel. Jeder Mann tat, was recht in seinen Augen war.</verse>
+        <verse osisID='Judg.17.7'>Und es war ein Jüngling<note>ein Junge</note> aus Bethlehem Judah, aus der Familie Judahs; und er war ein Levite, und hielt sich dort als Fremdling auf.</verse>
+        <verse osisID='Judg.17.8'>Und der Mann war von der Stadt von Bethlehem Judah ausgezogen, um sich als Fremdling aufzuhalten, wo es sich fände, und er kam, als er seiner Wege ging<note>als er seinen Weg machte</note>, auf das Gebirge Ephraim zum Hause des Michah.</verse>
+        <verse osisID='Judg.17.9'>Und Michah sprach zu ihm: Woher kommst du? Und er sprach zu ihm: Ich bin ein Levite aus Bethlehem Judah, und ich gehe als Fremdling mich aufzuhalten, wo es sich findet.</verse>
+        <verse osisID='Judg.17.10'>Und Micha sprach zu ihm: Wohne<note>sitze</note> bei mir und du sollst mir ein Vater und Priester sein. Und ich gebe dir jährlich<note>die Tage</note> zehn Silberlinge, einen Anzug von Kleidern und Lebensmittel. Und der Levite ging hin.</verse>
+        <verse osisID='Judg.17.11'>Und der Levite war willens, bei dem Manne zu wohnen<note>sitzen</note>, und der Junge ward ihm wie einer seiner Söhne.</verse>
+        <verse osisID='Judg.17.12'>Und Michah füllte die Hand des Leviten, und der Jüngling<note>Junge</note> war ihm zum Priester. Und er war in Michahs Haus.</verse>
+        <verse osisID='Judg.17.13'>Und Michah sprach: Nun weiß ich, daß Jehovah mir wohl tun wird, denn ich habe einen Leviten zum Priester.</verse>
+      </chapter>
+      <chapter osisID='Judg.18'>
+        <title>Abgott und Priester von den Daniten entführt nach Laisch.</title>
+        <verse osisID='Judg.18.1'>In jenen Tagen war kein König in Israel; und in jenen Tagen suchte sich der Stamm<note>Rute</note> der Daniter ein Erbe zum Wohnen<note>sitzen</note>; denn bis auf selbigen Tag war ihm noch kein Erbe inmitten der Stämme<note>Ruten</note> Israels zugefallen.</verse>
+        <verse osisID='Judg.18.2'>Und die Söhne Dans sandten aus ihrer Familie fünf Männer aus ihren Enden, streitbare Männer<note>Männer, Söhne der Tapferkeit</note> aus Zorah und aus Eschtaol, das Land auszukundschaften und es zu erforschen, und sprachen zu ihnen: Geht und erforschet das Land. Und sie kamen auf das Gebirge Ephraim zum Hause Michahs und übernachteten allda.</verse>
+        <verse osisID='Judg.18.3'>Sie waren am Hause Michahs, und sie erkannten die Stimme des Jünglings, des Leviten, und kehrten da ein und sprachen zu ihm: Wer hat dich hierher gebracht. Und was tust du hier? Und was hast du hier?</verse>
+        <verse osisID='Judg.18.4'>Und er sprach zu ihnen: So und so hat Michah an mir getan, und hat mich gedingt, und ich ward sein Priester.</verse>
+        <verse osisID='Judg.18.5'>Und sie sprachen zu ihm: Frage doch an bei Gott, daß wir wissen, ob uns gelinge der Weg, auf dem wir ziehen.</verse>
+        <verse osisID='Judg.18.6'>Und der Priester sprach zu ihnen: Gehet hin im Frieden; euer Weg, den ihr geht, ist gerade vor Jehovah.</verse>
+        <verse osisID='Judg.18.7'>Und die fünf Männer gingen hin und kamen gen Laisch und sahen das Volk, das in seiner Mitte war, sicher wohnen<note>sitzen</note>, nach der Weise<note>dem Gerichte</note> der Zidonier, stille und sicher. Da war keiner, der wegen etwas<note>ein Wort</note> einem Schande antat, oder Gewalt besäße. Und sie waren fern von den Zidoniern und hatten mit keinem Menschen etwas<note>ein Wort</note>.</verse>
+        <verse osisID='Judg.18.8'>Und sie kamen zu ihren Brüdern nach Zorah und Eschtaol, und ihre Brüder sprachen zu ihnen: Wie ist es mit euch?</verse>
+        <verse osisID='Judg.18.9'>Und sie sprachen: Machet euch auf, und lasset uns hinaufziehen wider sie; denn wir haben das Land gesehen, und siehe, es ist sehr gut. Und nun schweiget ihr? Verziehet nicht, zu gehen, kommet, um das Land einzunehmen!</verse>
+        <verse osisID='Judg.18.10'>So ihr hinkommt, werdet ihr zu einem sicheren Volke kommen, und das Land ist weit nach beiden Seiten<note>Händen</note>. Denn Gott hat es in eure Hand gegeben. Es ist ein Ort, da es keinen Mangel hat an irgend etwas<note>ein Wort</note>, das auf Erden ist.</verse>
+        <verse osisID='Judg.18.11'>Und sie brachen auf von dannen von der Familie der Daniter, aus Zorah und aus Eschtaol, sechshundert Mann, mit Waffen zum Streit gegürtet.</verse>
+        <verse osisID='Judg.18.12'>Und sie zogen hinauf und lagerten in Kirjath-Jearim in Judah, daher nennt man selbigen Ort bis auf diesen Tag Machaneh-Dan<note>Lager Dans</note>. Siehe, es ist hinter Kirjath-Jearim.</verse>
+        <verse osisID='Judg.18.13'>Und von dannen zogen sie hinüber auf das Gebirge Ephraim und kamen zum Hause des Michah.</verse>
+        <verse osisID='Judg.18.14'>Und die fünf Männer, die gegangen waren, das Land Laisch auszukundschaften, hoben an und sprachen zu ihren Brüdern: Wisset ihr, daß da ist in diesen Häusern ein Ephod und Teraphim, und ein Schnitzbild und ein Gußbild? Und nun wisset ihr, was ihr tun sollt.</verse>
+        <verse osisID='Judg.18.15'>Und sie wandten sich dorthin und kamen zum Haus des Jungen, des Leviten, zum Haus Michahs und fragten ihn nach seinem Wohlsein<note>nach dem Frieden</note>.</verse>
+        <verse osisID='Judg.18.16'>Und die sechshundert Mann von den Söhnen Dans, gegürtet mit ihren Waffen des Streites, hatten sich am Eingang des Tores aufgestellt.</verse>
+        <verse osisID='Judg.18.17'>Und die fünf Männer, die gegangen waren, das Land auszukundschaften, gingen hinauf, kamen da hinein, nahmen das Schnitzbild und das Ephod und die Teraphim und das Gußbild. Und der Priester stand am Eingang des Tores und die sechshundert Männer, gegürtet mit Waffen des Streites.</verse>
+        <verse osisID='Judg.18.18'>Und sie kamen in Michahs Haus und nahmen das Schnitzbild, das Ephod, die Teraphim und das Gußbild und der Priester sprach zu ihnen: Was tut ihr?</verse>
+        <verse osisID='Judg.18.19'>Und sie sprachen zu ihm: Schweig still, lege deine Hand auf deinen Mund und gehe mit uns und sei uns zum Vater und zum Priester. Ist es besser für dich, daß du für das Haus eines Mannes Priester bist, oder daß du Priester seiest für einen Stamm<note>Rute</note> und eine Familie in Israel?</verse>
+        <verse osisID='Judg.18.20'>Und das Herz des Leviten ward begütigt<note>gut</note>, und er nahm das Ephod und die Teraphim und das Schnitzbild und kam in des Volkes Mitte.</verse>
+        <verse osisID='Judg.18.21'>Und sie wandten sich und zogen hin, und sie hatten Kinder, Viehherden und schwere Habe vorausgestellt.</verse>
+        <verse osisID='Judg.18.22'>Sie entfernten sich von Michahs Haus, da wurden die Männer in den Häusern, bei Michahs Haus berufen<note>geschrien</note>, und holten Dans Söhne ein;</verse>
+        <verse osisID='Judg.18.23'>Und sie riefen den Söhnen Dans zu; und sie wandten ihre Angesichte herum und sprachen zu Michah: Was hast du, daß du sie berufen hast?</verse>
+        <verse osisID='Judg.18.24'>Und er sprach: Meine Götter, die ich gemacht habe, habt ihr genommen und den Priester, und seid davongegangen. Und was habe ich noch? Und was ist es, daß ihr zu mir sagt: Was hast du denn?</verse>
+        <verse osisID='Judg.18.25'>Und die Söhne Dans sprachen zu ihm: Laß deine Stimme nicht bei uns hören, auf daß nicht Männer von erbitterter Seele auf euch stoßen, und du deine Seele und deines Hauses Seele hinraffst.</verse>
+        <verse osisID='Judg.18.26'>Und die Söhne Dans zogen ihres Weges, und Michah sah, daß sie ihm zu stark waren, und er wandte sich und kehrte in sein Haus zurück.</verse>
+        <verse osisID='Judg.18.27'>Und sie nahmen, was Michah gemacht, und den Priester, den er hatte, und sie kamen wider Laisch und wider das stille und sichere Volk, und schlugen sie mit der Schärfe<note>mit dem Munde</note> des Schwertes und verbrannten die Stadt mit Feuer.</verse>
+        <verse osisID='Judg.18.28'>Und niemand errettete sie; denn sie war ferne von Zidon und hatte mit keinem Menschen etwas<note>ein Wort</note>. Und sie war im Talgrunde bei Beth-Rechob. Sie aber bauten die Stadt und wohnten<note>saßen</note> darin,</verse>
+        <verse osisID='Judg.18.29'>Und nannten den Namen der Stadt Dan, nach dem Namen ihres Vaters Dan, der dem Israel geboren wurde. Aber zuerst war der Name der Stadt Laisch.</verse>
+        <verse osisID='Judg.18.30'>Und die Söhne Dans richteten sich das Schnitzbild auf, und Jehonathan, der Sohn Gerschom, des Sohnes Menaschehs, er und seine Söhne waren Priester dem Stamme<note>Rute</note> des Daniters, bis auf den Tag, da das Land weggeführt wurde.</verse>
+        <verse osisID='Judg.18.31'>Und sie stellten für sich auf das Schnitzbild Michahs, das er gemacht hatte, alle die Tage, die das Haus Gottes in Schiloh war.</verse>
+      </chapter>
+      <chapter osisID='Judg.19'>
+        <title>Schandtat der Einwohner von Gibeah -Benjamin.</title>
+        <verse osisID='Judg.19.1'>Und es geschah in jenen Tagen, da kein König in Israel war, daß ein Mann, ein Levite, sich auf der Hinterseite<note>Hüfte</note> des Gebirges Ephraim als Fremdling aufhielt, und sich ein Weib, ein Kebsweib nahm, aus Bethlehem Judah.</verse>
+        <verse osisID='Judg.19.2'>Und sein Kebsweib buhlte neben ihm und ging fort von ihm zum Haus ihres Vaters nach Bethlehem Judah, und war allda etliche Tage, vier Monate.</verse>
+        <verse osisID='Judg.19.3'>Und ihr Mann machte sich auf und ging ihr nach, um an ihr Herz zu reden, um sie zurückzubringen, und hatte seinen Jungen und ein Paar Esel mit sich. Und sie führte ihn hinein in das Haus ihres Vaters. Und der Vater der Dirne<note>des Mädchens</note> sah ihn und ging ihm fröhlich entgegen.</verse>
+        <verse osisID='Judg.19.4'>Und sein Schwäher, der Vater der Dirne<note>des Mädchens</note>, hielt ihn, und er blieb<note>saß</note> bei ihm drei Tage; und sie aßen und tranken und übernachteten daselbst.</verse>
+        <verse osisID='Judg.19.5'>Und es geschah am vierten Tage, daß sie sich früh am Morgen aufmachten, und er machte sich auf, um zu gehen. Und der Vater der Dirne<note>des Mädchens</note> sprach zu seinem Eidam: Labe dein Herz mit einem Bissen Brot und danach möget ihr gehen.</verse>
+        <verse osisID='Judg.19.6'>Und sie saßen nieder und aßen beide miteinander und tranken. Und der Vater der Dirne<note>des Mädchens</note> sprach zu dem Manne: Beliebe doch und bleib über Nacht, und laß dein Herz guter Dinge sein<note>gut sein</note>!</verse>
+        <verse osisID='Judg.19.7'>Und der Mann stand auf, um zu gehen; sein Schwäher aber drang in ihn, und er kehrte zurück und übernachtete allda.</verse>
+        <verse osisID='Judg.19.8'>Und am fünften Tag stand er früh am Morgen auf, um zu gehen; und der Vater der Dirne<note>des Mädchens</note> sprach: Labe doch dein Herz und säumet, bis der Tag sich neigt. Und sie aßen beide.</verse>
+        <verse osisID='Judg.19.9'>Und der Mann stand auf, um zu gehen, er und sein Kebsweib und sein Junge. Und sein Schwäher, der Vater der Dirne<note>des Mädchens</note>, sprach zu ihm: Siehe doch, der Tag senkt sich zum Abend; übernachtet doch! Siehe, der Tag hat sich geneigt<note>gelagert</note>. Übernachte hier! Laß dein Herz guter Dinge sein<note>gut sein</note>, und morgen machet ihr euch früh auf euren Weg, und du gehst nach deinem Zelt.</verse>
+        <verse osisID='Judg.19.10'>Der Mann aber wollte nicht übernachten und machte sich auf, und zog hin und kam bis vor Jebus, das ist Jerusalem, und mit ihm sein Paar beladene Esel und sein Kebsweib war mit ihm.</verse>
+        <verse osisID='Judg.19.11'>Sie waren bei Jebus, und der Tag hatte sich sehr geneigt<note>gelagert</note>. Und der Junge sprach zu seinem Herrn: Komm doch und laß uns einkehren in dieser Stadt der Jebusiter und in ihr übernachten.</verse>
+        <verse osisID='Judg.19.12'>Und sein Herr sprach zu ihm: Nein, wir wollen nicht in der Stadt der Ausländischen einkehren, die nicht von den Söhnen Israels sind, sondern nach Gibeah hinüberziehen.</verse>
+        <verse osisID='Judg.19.13'>Und er sagte zu seinem Jungen: Gehe, daß wir einem der Orte uns nähern und in Gibeah oder Ramah übernachten.</verse>
+        <verse osisID='Judg.19.14'>Und sie gingen vorüber und zogen hin; bei Gibeah aber, das des Benjamin ist, ging ihnen die Sonne unter.</verse>
+        <verse osisID='Judg.19.15'>Und sie wandten sich dort ab, um nach Gibeah zu kommen zum Übernachten. Und er kam hinein und setzte sich nieder in der Straße der Stadt; und es war kein Mann, der sie ins Haus zum Übernachten aufgenommen hätte.</verse>
+        <verse osisID='Judg.19.16'>Und siehe, ein alter Mann kam am Abend von seiner Arbeit<note>seinem Werk</note> vom Feld. Und der Mann war vom Gebirge Ephraim, und er hielt sich als Fremdling in Gibeah auf; die Männer des Ortes aber waren Benjaminiter.</verse>
+        <verse osisID='Judg.19.17'>Und er hob seine Augen auf und sah den Mann, den Reisenden, auf der Straße der Stadt; und der alte Mann sprach: Wohin gehst du, und woher kommst du?</verse>
+        <verse osisID='Judg.19.18'>Und er sprach zu ihm: Wir ziehen hin von Bethlehem Judah an die Seite<note>die Hüfte</note> des Gebirges Ephraim. Von dort bin ich, und ging nach Bethlehem Judah, und ich gehe nach dem Hause Jehovahs, und kein Mann nimmt mich ins Haus auf.</verse>
+        <verse osisID='Judg.19.19'>Und wir haben sowohl Stroh und Futter für unsere Esel, als auch Brot und Wein für mich und deine Magd und für den Jungen, der bei deinem Knechte ist; es ist kein Mangel an irgend etwas<note>an einem Wort</note>.</verse>
+        <verse osisID='Judg.19.20'>Und der alte Mann sprach: Friede sei mit dir! Nur sei alles, was dir mangelt, auf mir, nur übernachte nicht hier auf der Straße.</verse>
+        <verse osisID='Judg.19.21'>Und er brachte ihn in sein Haus, und mischte Futter für die Esel, und sie wuschen ihre Füße, und sie aßen und tranken.</verse>
+        <verse osisID='Judg.19.22'>Und ihr Herz war guter Dinge<note>machten gut ihr Herz</note>; aber siehe, die Männer der Stadt, Männer, die Belialssöhne waren, umgaben das Haus, pochten an die Tür und sprachen zu dem Manne, dem Meister des Hauses, dem Alten, und sagten: Bringe den Mann heraus, der zu deinem Haus gekommen ist, daß wir ihn erkennen.</verse>
+        <verse osisID='Judg.19.23'>Und der Mann, der Meister des Hauses, ging zu ihnen hinaus und sprach zu ihnen: Nicht doch, meine Brüder, tut doch nicht Böses, nachdem der Mann zu meinem Haus gekommen ist. Machet nicht solche Torheit!</verse>
+        <verse osisID='Judg.19.24'>Siehe, meine Tochter, die Jungfrau und sein Kebsweib, sie lasset mich zu euch herausführen, und schwächet sie und tut mit ihnen, was gut in euren Augen ist; aber an diesem Manne sollt ihr nichts<note>kein Wort</note> von solcher Torheit tun.</verse>
+        <verse osisID='Judg.19.25'>Aber die Männer waren nicht willens, auf ihn zu hören; da faßte der Mann sein Kebsweib und brachte sie hinaus zu ihnen, und sie erkannten sie und mißhandelten sie die ganze Nacht bis zum Morgen, und als die Morgenröte aufging entließen sie dieselbe.</verse>
+        <verse osisID='Judg.19.26'>Und das Weib kam mit Anbruch<note>beim Wenden</note> des Morgens und fiel hin am Eingang des Hauses des Mannes, wo ihr Herr war, bis es licht ward.</verse>
+        <verse osisID='Judg.19.27'>Und ihr Herr stand am Morgen auf und öffnete die Türen des Hauses und kam heraus, um seines Weges zu gehen, und siehe, das Weib, sein Kebsweib, war am Eingang des Hauses hingefallen und ihre Hände auf der Schwelle.</verse>
+        <verse osisID='Judg.19.28'>Und er sprach zu ihr: Stehe auf, wir wollen gehen, aber niemand antwortete; und er nahm sie auf den Esel, und der Mann machte sich auf und ging an seinen Ort.</verse>
+        <verse osisID='Judg.19.29'>Und er kam in sein Haus und nahm ein Messer und faßte sein Kebsweib und zerstückte sie nach ihren Gebeinen in zwölf Stücke und sandte sie in alle Grenzen von Israel.</verse>
+        <verse osisID='Judg.19.30'>Und es geschah, daß jeder, der es sah, sprach: So etwas ist nicht geschehen, noch gesehen worden, seit dem Tage, da die Söhne Israels aus dem Lande Ägypten heraufzogen bis auf diesen Tag. Überlegt es bei euch, ratet und redet.</verse>
+      </chapter>
+      <chapter osisID='Judg.20'>
+        <title>Krieg der Stämme mit Benjamin.</title>
+        <verse osisID='Judg.20.1'>Und alle Söhne Israels zogen aus, und die Gemeinde versammelte sich wie ein Mann von Dan bis Beer-Scheba und das Land Gilead zu Jehovah nach Mizpah.</verse>
+        <verse osisID='Judg.20.2'>Und es stellten sich ein die Anführer<note>die Ecken</note> des ganzen Volkes, alle Stämme<note>Ruten</note> Israels in der Versammlung des Volkes Gottes, vierhunderttausend Mann zu Fuß, die das Schwert zogen.</verse>
+        <verse osisID='Judg.20.3'>Und die Söhne Benjamins hörten, daß die Söhne Israels nach Mizpah heraufzogen. Und die Söhne Israels sprachen: Redet, wie dieses Böse geschehen ist.</verse>
+        <verse osisID='Judg.20.4'>Und der Mann, der Levite, der Mann des gemordeten Weibes antwortete und sprach: Nach Gibeah, das Benjamin gehört, kam ich, ich und mein Kebsweib, um zu übernachten;</verse>
+        <verse osisID='Judg.20.5'>Und es machten sich wider mich auf die Bürger von Gibeah und umgaben ob meiner das Haus in der Nacht, und waren gesonnen, mich zu erwürgen, und sie schändeten<note>schwächten</note> mein Kebsweib, daß sie starb.</verse>
+        <verse osisID='Judg.20.6'>Und ich ergriff mein Kebsweib und zerstückte sie und sandte sie in das ganze Gefilde von Israels Erbe, darum, daß sie solche Schandtat und Torheit in Israel getan.</verse>
+        <verse osisID='Judg.20.7'>Siehe, ihr alle seid Söhne Israels. Gebet für euch Wort und Rat allhier.</verse>
+        <verse osisID='Judg.20.8'>Und das ganze Volk stand auf wie ein Mann und sprach: Kein Mann von uns gehe nach seinem Zelt, und kein Mann wende sich ab nach seinem Hause.</verse>
+        <verse osisID='Judg.20.9'>Und das ist jetzt, was<note>das Wort, welches</note> wir an Gibeah tun wollen, wider dasselbe nach dem Los:</verse>
+        <verse osisID='Judg.20.10'>Daß wir nehmen zehn Mann vom Hundert von allen Stämmen<note>Ruten</note> Israels, und hundert von tausend und tausend von zehntausend, auf daß sie Zehrung holen für das Volk, um bei ihrem Kommen zu tun an Gibeah<note>Geba</note> Benjamin nach all der Torheit, die es in Israel getan.</verse>
+        <verse osisID='Judg.20.11'>Und es versammelten sich alle Männer Israels nach der Stadt, wie ein Mann verbündet.</verse>
+        <verse osisID='Judg.20.12'>Und die Stämme Israels sandten Männer zu allen Geschlechtern<note>Stämmen</note> Benjamins, um zu sagen: Was ist dieses Böse, das unter euch geschehen ist?</verse>
+        <verse osisID='Judg.20.13'>Und nun gebet die Männer, die Belialssöhne zu Gibeah her, auf daß wir sie töten und das Böse aus Israel austilgen. Aber die Söhne Benjamins waren nicht willens, zu hören auf die Stimme ihrer Brüder, der Söhne Israels.</verse>
+        <verse osisID='Judg.20.14'>Und die Söhne Benjamins versammelten sich aus den Städten nach Gibeah, um zum Streite mit den Söhnen Israels auszuziehen.</verse>
+        <verse osisID='Judg.20.15'>Und es wurden gemustert Söhne Benjamins am selbigen Tage aus den Städten sechsundzwanzigtausend Mann, die das Schwert zogen, ohne die Einwohner Gibeahs; und ihrer wurden siebenhundert auserwählte Männer gemustert.</verse>
+        <verse osisID='Judg.20.16'>Aus all diesem Volke waren siebenhundert auserwählte Männer, die an der rechten Hand lahm<note>d.h. links</note> waren. Ein jeder derselben schleuderte mit dem Stein auf ein Haar und fehlte nicht.</verse>
+        <verse osisID='Judg.20.17'>Und der Männer Israels wurden gemustert ohne Benjamin vierhunderttausend Mann, die das Schwert zogen, alle Männer des Streites.</verse>
+        <verse osisID='Judg.20.18'>Und sie machten sich auf und zogen hinauf gen Bethel und fragten Gott, und die Söhne Israels sprachen: Wer soll hinaufziehen für uns zum Streit mit den Söhnen Benjamins zum Anbeginn? Und Jehovah sprach: Judah soll beginnen.</verse>
+        <verse osisID='Judg.20.19'>Und die Söhne Israels machten sich am Morgen auf und lagerten wider Gibeah.</verse>
+        <verse osisID='Judg.20.20'>Und Israels Mannschaft zog aus zum Streite mit Benjamin, und die Männer Israels ordneten sich bei ihnen zum Streite gegen Gibeah.</verse>
+        <verse osisID='Judg.20.21'>Und die Söhne Benjamins zogen aus aus Gibeah und schlugen<note>verdarben</note> an selbigem Tage von Israel zweiundzwanzigtausend Mann zur Erde.</verse>
+        <verse osisID='Judg.20.22'>Das Volk aber, die Mannschaft Israels, verstärkte sich und sie ordneten sich an demselben Orte, wo sie am ersten Tage sich geordnet hatten, wiederum<note>sie taten hinzu zu ordnen</note> zum Streite.</verse>
+        <verse osisID='Judg.20.23'>Und die Söhne Israels gingen hinauf und weinten vor Jehovah bis zum Abend, und fragten Jehovah und sprachen: Soll ich abermals herzutreten<note>hinzutun herzuzutreten</note> zum Streite mit den Söhnen meines Bruders Benjamin? Und Jehovah sprach: Ziehet hinauf wider ihn.</verse>
+        <verse osisID='Judg.20.24'>Und die Söhne Israels nahten sich den Söhnen Benjamins am zweiten Tag.</verse>
+        <verse osisID='Judg.20.25'>Und Benjamin zog am zweiten Tag aus von Gibeah ihnen entgegen und schlugen<note>verdarben</note> abermals von den Söhnen Israels achtzehntausend Mann zur Erde, die alle das Schwert zogen.</verse>
+        <verse osisID='Judg.20.26'>Und alle Söhne Israels und alles Volk zogen hinauf und kamen nach Bethel und weinten und saßen da vor Jehovah und fasteten an selbigem Tage bis an den Abend und ließen Brandopfer und Dankopfer vor Jehovah aufgehen.</verse>
+        <verse osisID='Judg.20.27'>Und die Söhne Israels fragten an bei Jehovah, und die Bundeslade Gottes war allda in selbigen Tagen;</verse>
+        <verse osisID='Judg.20.28'>Und Pinechas, der Sohn Eleasars, des Sohnes Aharons, stand in selbigen Tagen vor Ihm, und sie sprachen: Soll ich abermals ausziehen<note>hinzutun auszuziehen</note> zum Streite mit den Söhnen meines Bruders Benjamin, oder soll ich aufhören? Und Jehovah sprach: Ziehet hinauf; denn morgen werde Ich ihn in deine Hand geben.</verse>
+        <verse osisID='Judg.20.29'>Und Israel legte Hinterhalte gegen Gibeah ringsum.</verse>
+        <verse osisID='Judg.20.30'>Und die Söhne Israels zogen hinauf wider die Söhne Benjamins am dritten Tage und ordneten sich an wider Gibeah diesmal wie das andere Mal<note>wie dasmal</note>.</verse>
+        <verse osisID='Judg.20.31'>Und die Söhne Benjamins zogen aus, dem Volke entgegen; sie wurden von der Stadt abgezogen und fingen an, diesmal wie das andere Mal<note>wie dasmal</note>, auf den Heerstraßen, von denen eine hinaufgeht nach Bethel und die andere durch das Feld hin nach Gibeah, von dem Volk zu schlagen bei dreißig Mann Erschlagener in Israel.</verse>
+        <verse osisID='Judg.20.32'>Und die Söhne Benjamins sprachen: Sie sind geschlagen vor uns wie zuerst. Und die Söhne Israels sprachen: Lasset uns fliehen und sie von der Stadt auf die Heerstraßen abziehen.</verse>
+        <verse osisID='Judg.20.33'>Und alle Männer Israels standen auf von ihren Orten und ordneten sich zu Baal-Thamar an; und der Hinterhalt Israels brach hervor aus seinem Ort aus Gibeahs Umkreis.</verse>
+        <verse osisID='Judg.20.34'>Und von Gibeah her kamen zehntausend Mann, aus ganz Israel auserwählt, und der Streit ward schwer; und sie wußten nicht, daß das Übel sie erreichen sollte.</verse>
+        <verse osisID='Judg.20.35'>Und Jehovah schlug Benjamin vor Israel, und die Söhne Israels verdarben in Benjamin an diesem Tage fünfundzwanzigtausend und hundert Mann, die alle das Schwert zogen.</verse>
+        <verse osisID='Judg.20.36'>Und die Söhne Benjamins sahen, daß sie geschlagen waren, die Männer von Israel aber gaben Benjamin Raum, weil sie auf den Hinterhalt vertrauten, den sie wider Gibeah gelegt.</verse>
+        <verse osisID='Judg.20.37'>Die in dem Hinterhalte aber kamen schleunig und rückten an gegen Gibeah, und der Hinterhalt zog aus und schlug die ganze Stadt mit der Schärfe<note>mit dem Munde</note> des Schwertes.</verse>
+        <verse osisID='Judg.20.38'>Und die Bestimmung der Männer Israels mit dem Hinterhalte war, daß sie eine große<note>viel</note> Erhebung von Rauch aus der Stadt aufsteigen lassen sollten.</verse>
+        <verse osisID='Judg.20.39'>Und die Männer Israels kehrten um in dem Streit, und Benjamin fing an, zu schlagen von den Männern Israels bei dreißig Mann Erschlagener, denn sie sagten: Sie sind eben geschlagen vor uns, wie im ersten Streit;</verse>
+        <verse osisID='Judg.20.40'>Da fing aber an, eine Erhebung aufzusteigen von der Stadt, eine Rauchsäule. Und Benjamin wandte sich hinter sich und siehe: die ganze Stadt ging auf zum Himmel.</verse>
+        <verse osisID='Judg.20.41'>Und die Männer Israels wandten sich um, und die Söhne Benjamins wurden bestürzt, denn sie sahen, daß das Übel sie erreicht.</verse>
+        <verse osisID='Judg.20.42'>Und sie wandten sich vor den Männern Israels nach dem Wege zur Wüste, aber der Streit holte sie ein, und die aus den Städten verdarben sie in der Mitte.</verse>
+        <verse osisID='Judg.20.43'>Und sie umringten Benjamin, setzten ihm nach und zertraten ihn, wo er ruhen wollte, bis gegenüber von Gibeah gegen Aufgang der Sonne.</verse>
+        <verse osisID='Judg.20.44'>Und es fielen von Benjamin achtzehntausend Mann, alle diese tapfere Männer.</verse>
+        <verse osisID='Judg.20.45'>Und sie wandten sich und flohen der Wüste zu an die Felsenklippe Rimmon; und sie hielten Nachlese über sie auf den Heerstraßen noch fünftausend Mann, und hängten sich hinten an sie bis Gideom und schlugen von ihnen zweitausend Mann.</verse>
+        <verse osisID='Judg.20.46'>Und aller, die an selbigem Tage von Benjamin fielen, waren fünfundzwanzigtausend Mann, die das Schwert zogen, alle diese tapfere Männer.</verse>
+        <verse osisID='Judg.20.47'>Und sechshundert Mann wandten sich und flohen der Wüste zu nach der Felsenklippe Rimmon, und blieben<note>saßen</note> auf der Felsenklippe Rimmon vier Monate.</verse>
+        <verse osisID='Judg.20.48'>Und die Männer Israels kamen zurück zu den Söhnen Benjamin und schlugen die von der Stadt mit der Schärfe<note>mit dem Munde</note> des Schwertes, von den Leuten bis zum Vieh, bis zu allem, das man fand, und alle Städte, die sie fanden, steckten sie in Brand<note>sandten sie ins Feuer</note>.</verse>
+      </chapter>
+      <chapter osisID='Judg.21'>
+        <title>Benjamins Stamm wird wieder aufgebaut.</title>
+        <verse osisID='Judg.21.1'>Und die Männer Israels hatten in Mizpah geschworen und gesagt: Kein Mann von uns soll seine Tochter dem Benjamin zum Weibe geben.</verse>
+        <verse osisID='Judg.21.2'>Und das Volk kam gen Bethel und blieb<note>saß</note> allda bis zum Abend vor Gott, und sie hoben auf ihre Stimme und weinten mit gro-ßem Weinen.</verse>
+        <verse osisID='Judg.21.3'>Und sie sprachen: Warum, o Jehovah, Gott Israels, geschah dies in Israel, daß heute ein Stamm<note>Rute</note> vermißt wird aus Israel?</verse>
+        <verse osisID='Judg.21.4'>Und es geschah am morgenden Tag, daß sich das Volk früh aufmachte und baute allda einen Altar und opferte Brand- und Dankopfer auf.</verse>
+        <verse osisID='Judg.21.5'>Und die Söhne Israels sprachen: Wer ist es von allen Stämmen<note>Ruten</note> Israels, der nicht heraufgekommen ist in die Versammlung zu Jehovah? Denn der große Schwur geschah, daß, wer nicht zu Jehovah nach Mizpah heraufgekommen ist, der, sprach man, sollte des Todes sterben!</verse>
+        <verse osisID='Judg.21.6'>Und es reute die Söhne Israels wegen ihres Bruders Benjamin und sie sprachen: Heute ist ein Stamm aus Israel niedergehauen!</verse>
+        <verse osisID='Judg.21.7'>Was sollen wir mit ihnen, mit den Übriggebliebenen behufs der Weiber tun? Wir haben ja geschworen bei Jehovah, daß wir ihnen keine von unseren Töchtern zu Weibern geben.</verse>
+        <verse osisID='Judg.21.8'>Und sie sprachen: Wer ist der eine aus den Stämmen Israels, der nicht zu Jehovah nach Mizpah heraufgekommen ist. Und siehe, es war kein Mann aus Jabesch Gilead in das Lager zu der Versammlung gekommen.</verse>
+        <verse osisID='Judg.21.9'>Und das Volk ward gemustert, und siehe, es war kein Mann da von den Einwohnern von Jabesch Gilead.</verse>
+        <verse osisID='Judg.21.10'>Und die Gemeinde sandte dorthin zwölftausend Männer von den Söhnen der Tapferkeit, und sie geboten ihnen und sprachen: Gehet hin und schlaget die Einwohner von Jabesch Gilead mit der Schärfe<note>mit dem Munde</note> des Schwertes, beides, Weiber und Kinder.</verse>
+        <verse osisID='Judg.21.11'>Und dies ist das Ding<note>das Wort</note>, das ihr tun sollt, jedes Männliche und jedes Weib, welches das Beilager des Männlichen gekannt, sollt ihr verbannen.</verse>
+        <verse osisID='Judg.21.12'>Und sie fanden unter den Einwohnern von Jabesch Gilead vierhundert Mädchen, Jungfrauen, die noch keinen Mann im Beilager des Männlichen erkannt, und brachten sie zum Lager nach Schiloh, das im Lande Kanaan ist.</verse>
+        <verse osisID='Judg.21.13'>Und die ganze Gemeinde sandte, und sie redeten mit den Söhnen Benjamins, die auf der Felsenklippe Rimmon waren, und riefen ihnen Frieden zu.</verse>
+        <verse osisID='Judg.21.14'>Und Benjamin kehrte zurück um selbige Zeit, und sie gaben ihnen die Weiber, die man von den Weibern in Jabesch Gilead hatte am Leben gelassen; aber man fand sie nicht zureichend<note>also</note> für sie.</verse>
+        <verse osisID='Judg.21.15'>Und es reute das Volk wegen Benjamins, daß Jehovah bei den Stämmen Israels einen Durchbruch gemacht hatte.</verse>
+        <verse osisID='Judg.21.16'>Und die Ältesten der Gemeinde sprachen: Was sollen wir tun für die Überbleibenden behufs der Weiber? das Weib ist ja aus Benjamin vernichtet.</verse>
+        <verse osisID='Judg.21.17'>Und sie sprachen: Der Erbbesitz der Entronnen sei des Benjamin, auf daß nicht ein Stamm vertilgt<note>ausgewischt</note> werde aus Israel.</verse>
+        <verse osisID='Judg.21.18'>Und wir können ihnen keine Weiber von unseren Töchtern geben; denn die Söhne Israels haben geschworen und gesagt: Verflucht sei, wer ein Weib gibt einem Benjaminiten.</verse>
+        <verse osisID='Judg.21.19'>Und sie sprachen: Siehe, es ist von Jahr zu Jahr<note>von Tagen zu Tagen</note> ein Fest Jehovahs zu Schiloh, das mitternächtlich von Bethel ist gegen Aufgang der Sonne an der Heerstraße, die von Bethel hinauf gen Sichem geht, und mittäglich von Lebona;</verse>
+        <verse osisID='Judg.21.20'>Und sie geboten den Söhnen Benjamins und sprachen: Geht und legt euch in Hinterhalt in den Weinbergen.</verse>
+        <verse osisID='Judg.21.21'>Und ihr werdet sehen, und siehe, Schilohs Töchter kommen heraus zum Tanze im Reigen, da geht ihr heraus aus den Weinbergen, und jeder Mann erhasche sich sein Weib von Schilohs Töchtern und geht nach dem Lande Benjamins.</verse>
+        <verse osisID='Judg.21.22'>Und es wird geschehen, wenn ihre Väter oder ihre Brüder zu uns kommen, zu hadern, dann wollen wir zu ihnen sprechen: Seid ihnen gnädig unserthalben, wir haben im Streite nicht für jeden Mann sein Weib genommen. Ihr habt sie ihnen ja nicht gegeben, daß ihr zur Zeit würdet schuldig sein.</verse>
+        <verse osisID='Judg.21.23'>Und Benjamins Söhne taten also und holten sich Weiber nach ihrer Zahl von den Tänzerinnen, die sie entrissen, und gingen hin und kehrten zurück zu ihrem Erbe, und bauten die Städte und wohnten<note>saßen</note> darin.</verse>
+        <verse osisID='Judg.21.24'>Und die Söhne Israels zogen ab von da zu selbiger Zeit, jeder Mann zu seinem Stamm und zu seiner Familie, und sie gingen aus von dannen, jeder Mann zu seinem Erbe.</verse>
+        <verse osisID='Judg.21.25'>In jenen Tagen war kein König in Israel, ein jeder Mann tat, was recht in seinen Augen war.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

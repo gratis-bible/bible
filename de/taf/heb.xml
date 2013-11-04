@@ -1,0 +1,443 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <osisText osisRefWork='Bible' osisIDWork='TAF' xml:lang='de'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='TAF'>
+        <title>Tafelbibel</title>
+        <contributor>Martin</contributor>
+        <creator>Jens Grabner</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject>holy bible</subject>
+        <date>2009-01-20</date>
+        <description>Die Bibel - Übersetzung von Johann Friedrich Leonhard Tafel
+
+      Die vorliegende Neuausgabe ist eine Abschrift der Übersetzung von Dr. Leonhard
+      Tafel, revidiert von Ludwig H. Tafel, dritte Ausgabe 1911, und wurde auf ihre
+      Vollständigkeit überprüft. Es wurde die Rechtschreibregel der heutigen Zeit (noch
+      vor der Rechtschreibreform 1998) angewendet, ohne den Stil der Sprache zu verändern.
+
+      Wer in dieser Bibel einige Bücher vermisst, sei auf das Vorwort der Source verwiesen.
+      Auf der zweiten Seite steht dort:
+      Der zweite Band enthält die übrigen, sogenannten
+      Hagiographen oder heiligen Bücher: die Bücher Hiob, Sprichwörter, Hohelied, Prediger, Ruth, Chronika, Esra,
+      Nehemia, Esther und die Apokryphen.²
+      2. Gegenwärtige, Revision des Zefania XML Moduls  enthält die Hagiographen und Apokryphen nicht, da
+      sie nicht verfügbar waren.</description>
+        <publisher>FREE BIBLE SOFTWARE GROUP</publisher>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>TAF</identifier>
+        <source>http://www.ubf-dortmund.de/bibel/tafel.htm</source>
+        <language type='IETF'>de</language>
+        <relation/>
+        <coverage>provide the bible to the world</coverage>
+        <rights>Mit freundlicher Genehmigung des Swedenborg Verlag Postfach 1205 CH - 8032 Zürich</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Heb'>
+      <chapter osisID='Heb.1'>
+        <title>Der Brief an die Hebräer</title>
+        <title>Christus ist Sohn Gottes und höher als die ganze Schöpfung.</title>
+        <verse osisID='Heb.1.1'>Nachdem vor Zeiten Gott vielfältig und auf verschiedene Weise zu den Vätern durch die Propheten geredet hatte,</verse>
+        <verse osisID='Heb.1.2'>So hat Er in den letzten Tagen zu uns geredet durch den Sohn, Den Er zum Erben über alles gesetzt, durch Den Er auch die Welten erschaffen hat,</verse>
+        <verse osisID='Heb.1.3'>Welcher, weil Er der Abglanz Seiner Herrlichkeit und das Ebenbild Seines Wesens und durch das Wort Seiner Kraft der Träger aller Dinge ist, und</verse>
+        <verse osisID='Heb.1.4'>Und ist um so viel höher geworden denn die Engel, einen je höheren Namen Er von ihnen ererbt hat.</verse>
+        <verse osisID='Heb.1.5'>Denn zu welchem Engel hat Er je gesagt: Du bist Mein Sohn, heute habe Ich dich gezeugt? und abermals: Ich werde Ihm Vater sein, und Er wird Mir Sohn sein?</verse>
+        <verse osisID='Heb.1.6'>Und abermals, wann Er den Erstgeborenen eingeführt hat in die Welt, dann spricht Er: Und es sollen Ihn anbeten alle Engel Gottes.</verse>
+        <verse osisID='Heb.1.7'>Und von den Engeln sagte Er zwar: Er macht Seine Engel zu Winden und Seine Diener zu Feuerflammen.</verse>
+        <verse osisID='Heb.1.8'>Vom Sohn aber: Gott, Dein Thron währt in Zeit und Ewigkeit, das Zepter Deines Reiches ist ein Zepter der Geradheit.</verse>
+        <verse osisID='Heb.1.9'>Du hast geliebt Gerechtigkeit und gehaßt Ungerechtigkeit, darum hat Dich Gott, Dein Gott, gesalbt mit dem Öl der Freuden über Deine Genossen.</verse>
+        <verse osisID='Heb.1.10'>Und Du, Herr, hast am Anfang die Erde gegründet und Werke Deiner Hände sind die Himmel.</verse>
+        <verse osisID='Heb.1.11'>Sie werden vergehen, Du aber bleibst, und sie werden alle veralten wie ein Kleid.</verse>
+        <verse osisID='Heb.1.12'>Wie ein Gewand wirst Du sie aufrollen, und sie werden verwandelt werden; Du aber bist Derselbe, und Deine Jahre nehmen kein Ende.</verse>
+        <verse osisID='Heb.1.13'>Zu welchem der Engel hat Er je gesagt: Setze Dich zu Meiner Rechten, bis Ich Deine Feinde zum Schemel Deiner Füße lege?</verse>
+        <verse osisID='Heb.1.14'>Sind sie nicht allzumal dienstbare Geister, und werden ausgesandt zum Dienst um derer willen, die ererben sollen die Seligkeit?</verse>
+      </chapter>
+      <chapter osisID='Heb.2'>
+        <title>Torheit, der Lehre von Christus zu widerstreben.</title>
+        <verse osisID='Heb.2.1'>Darum müssen wir um so mehr achten auf das, was wir hören, damit wir nicht darum kommen.</verse>
+        <verse osisID='Heb.2.2'>Denn so das Wort, durch die Engel gesprochen, bestätigt worden ist, und jegliche Übertretung und aller Ungehorsam den verdienten Lohn empfangen hat,</verse>
+        <verse osisID='Heb.2.3'>Wie wollen wir entfliehen, so wir eine so wichtige Heilslehre mißachtet haben, die zuerst durch den Herrn gepredigt und von denen, die sie gehört, für uns bestätigt worden ist?</verse>
+        <verse osisID='Heb.2.4'>Indem Gott es mitbezeugte mit Zeichen, Wundern und mancherlei Kräften und mit Austeilung des Heiligen Geistes nach Seinem Willen.</verse>
+        <verse osisID='Heb.2.5'>Denn Er hat nicht den Engeln untergetan die zukünftige Welt, von der wir reden,</verse>
+        <verse osisID='Heb.2.6'>Vielmehr hat irgendwo einer bezeugt und gesagt: Was ist der Mensch, daß seiner Du gedenkst, und des Menschen Sohn, daß Du nach Ihm siehst?</verse>
+        <verse osisID='Heb.2.7'>Du hattest Ihn auf eine kurze Zeit unter die Engel erniedrigt, hast Ihn dann aber mit Herrlichkeit und Würde gekrönt und über die Werke Deiner Hände gesetzt.</verse>
+        <verse osisID='Heb.2.8'>Du hast alles unter Seine Füße gelegt. Denn da Er Ihm alles hat untergetan, hat Er nichts gelassen, das Ihm nicht untertan wäre. Jetzt aber sehen wir noch nicht, daß Ihm alles untertan ist.</verse>
+        <verse osisID='Heb.2.9'>Ihn aber, Jesus, Der auf kurze Zeit unter die Engel erniedrigt war, auf daß Er durch die Gnade Gottes für alle den Tod schmecke, sehen wir nun durch Sein Todesleiden mit Preis und Herrlichkeit gekrönt.</verse>
+        <verse osisID='Heb.2.10'>Denn es ziemte, Den, für Den und durch Den alles ist, nachdem Er viele Söhne zur Herrlichkeit geführt, den Führer zu ihrem Heil durch Leiden zur Vollendung zu bringen.</verse>
+        <verse osisID='Heb.2.11'>Denn Er, der Heiligende, und die da geheiligt werden, sind alle aus Einem, aus welcher Ursache Er keinen Anstand nimmt, sie Brüder zu nennen,</verse>
+        <verse osisID='Heb.2.12'>Und spricht: Ich will Meinen Brüdern Deinen Namen verkündigen und mitten in der Gemeinde Dir lobsingen.</verse>
+        <verse osisID='Heb.2.13'>Und abermals: Ich werde Mein Vertrauen auf Ihn setzen. Und abermals: Siehe, Ich und die Kindlein, die Gott Mir gegeben hat.</verse>
+        <verse osisID='Heb.2.14'>Weil nun die Kindlein Fleisch und Blut gemein haben, so hat auch Er gleichermaßen an denselben teilgenommen, auf daß Er durch den Tod den, der Macht hatte über den Tod, das ist den Teufel, überwände,</verse>
+        <verse osisID='Heb.2.15'>Und erlöste die, so durch Furcht des Todes ihr Leben lang in Knechtschaft gehalten waren.</verse>
+        <verse osisID='Heb.2.16'>Denn Er nimmt Sich nirgends der Engel an, sondern des Samens Abrahams nimmt Er Sich an.</verse>
+        <verse osisID='Heb.2.17'>Darum mußte Er auch in allem den Brüdern gleich werden, auf daß Er barmherzig wäre und vor Gott ein treuer Hoherpriester würde, um die Sünden des Volkes zu sühnen.</verse>
+        <verse osisID='Heb.2.18'>Denn worin Er Selbst gelitten hat und versucht worden ist, darin kann Er denen helfen, die in Versuchung kommen.</verse>
+      </chapter>
+      <chapter osisID='Heb.3'>
+        <title>Fortsetzung.</title>
+        <verse osisID='Heb.3.1'>Darum, ihr heiligen Brüder, die ihr teilhabt an der himmlischen Berufung, schaut hin auf den Apostel und Hohenpriester unseres Bekenntnisses, Jesus Christus,</verse>
+        <verse osisID='Heb.3.2'>Der da treu ist dem, der Ihn bestellt, wie auch Moses in seinem ganzen Hause.</verse>
+        <verse osisID='Heb.3.3'>Denn Er ist höherer Herrlichkeit denn Moses gewürdigt worden, sofern der, so das Haus baut, größeren Wert hat, als das Haus.</verse>
+        <verse osisID='Heb.3.4'>Denn ein jegliches Haus wird von jemand bereitet, Der aber alles bereitet hat, ist Gott.</verse>
+        <verse osisID='Heb.3.5'>Und Moses war treu in seinem ganzen Hause, als ein Diener, zum Zeugnis dessen, das verkündet werden sollte;</verse>
+        <verse osisID='Heb.3.6'>Christus aber als Sohn über das eigene Haus, Dessen Haus wir sind, so wir anders das Vertrauen und den Ruhm der Hoffnung bis an das Ende festhalten.</verse>
+        <verse osisID='Heb.3.7'>Darum, wie der Heilige Geist spricht: Heute, so ihr hören werdet Seine Stimme,</verse>
+        <verse osisID='Heb.3.8'>So verstockt eure Herzen nicht, wie es geschah bei der Erbitterung am Tage der Versuchung in der Wüste;</verse>
+        <verse osisID='Heb.3.9'>Da eure Väter Mich versuchten, Mich auf die Probe stellten, und doch vierzig Jahre Meine Werke sahen.</verse>
+        <verse osisID='Heb.3.10'>Darum ward Ich entrüstet wider dies Geschlecht und sprach: Ihr Herz irrt immer ab. Sie aber erkannten Meine Wege nicht;</verse>
+        <verse osisID='Heb.3.11'>So daß Ich schwur in Meinem Grimm, sie sollten nicht zu Meiner Ruhe eingehen.</verse>
+        <verse osisID='Heb.3.12'>Seht zu, meine Brüder, daß nicht bei einem unter euch ein arges Herz des Unglaubens sich finde, das da abtrünnig würde von dem lebendigen Gott;</verse>
+        <verse osisID='Heb.3.13'>Sondern ermahnt euch jeden Tag untereinander, solange es heute heißt, daß nicht einer unter euch durch den Trug der Sünde verstockt werde.</verse>
+        <verse osisID='Heb.3.14'>Denn wir sind Christus Mitgenossen geworden, wenn anders wir bei dem angefangenen Werk beständig sind.</verse>
+        <verse osisID='Heb.3.15'>Solange es heißt: Heute, so ihr Seine Stimme hört, so verstockt eure Herzen nicht, wie bei der Erbitterung geschah.</verse>
+        <verse osisID='Heb.3.16'>Denn wer waren die, welche die</verse>
+        <verse osisID='Heb.3.17'>Über welche war Er entrüstet die vierzig Jahre lang? Waren es nicht solche, deren Leiber in der Wüste ihr Grab gefunden?</verse>
+        <verse osisID='Heb.3.18'>Welchen schwur Er, daß sie nicht zu Seiner Ruhe eingehen sollten, wenn nicht den Ungehorsamen?</verse>
+        <verse osisID='Heb.3.19'>Und wir sehen, daß sie ihres Unglaubens wegen nicht hineinkommen konnten.</verse>
+      </chapter>
+      <chapter osisID='Heb.4'>
+        <title>Die Sabbathruhe. Das Wort Gottes.</title>
+        <verse osisID='Heb.4.1'>So lasset uns Sorge tragen, daß wir die Verheißung, zu Seiner Ruhe einzugehen, nicht versäumen, und unser keiner dahinten bleibe.</verse>
+        <verse osisID='Heb.4.2'>Denn es ist auch uns verkündigt wie jenen, aber das Wort der Verkündigung half jenen nichts, da es sich nicht mit dem Glauben derer, die es hörten, verband.</verse>
+        <verse osisID='Heb.4.3'>Denn wir, die wir geglaubt haben, gehen in die Ruhe ein, wie Er spricht: Wie Ich schwur in Meinem Zorn, sie sollten nicht zu Meiner Ruhe eingehen; obschon die Werke seit Gründung der Welt vollendet waren.</verse>
+        <verse osisID='Heb.4.4'>Denn Er sprach an einer Stelle von dem siebenten Tage also: Und Gott ruhte am siebenten Tage von allen Seinen Werken.</verse>
+        <verse osisID='Heb.4.5'>Und an dieser Stelle abermals: Sie sollen nicht zu Meiner Ruhe eingehen.</verse>
+        <verse osisID='Heb.4.6'>Weil es also vorbehalten ist, daß etliche zu derselben eingehen sollten, und die, denen es zuerst verheißen war, ihres Unglaubens wegen nicht dazu gekommen sind,</verse>
+        <verse osisID='Heb.4.7'>Bestimmte Er abermals einen Tag, indem Er nach so langer Zeit durch David sagte: Heute, wie gesagt ist, heute, so ihr Seine Stimme hören werdet, verstockt eure Herzen nicht.</verse>
+        <verse osisID='Heb.4.8'>Denn so Josua sie hätte zur Ruhe gebracht, so würde Er hernach von keinem anderen Tag gesprochen haben.</verse>
+        <verse osisID='Heb.4.9'>Es ist also noch eine Sabbathruhe vorhanden für das Volk Gottes.</verse>
+        <verse osisID='Heb.4.10'>Denn wer zu Seiner Ruhe eingegangen ist, ruht auch selbst von seinen Werken, wie auch Gott von den Seinigen.</verse>
+        <verse osisID='Heb.4.11'>So lasset uns nun Fleiß tun, einzugehen zu dieser Ruhe, auf daß nicht einer ein warnendes Beispiel dieses Ungehorsams werde.</verse>
+        <verse osisID='Heb.4.12'>Denn das Wort Gottes ist lebendig und kräftig, und schärfer als irgendein zweischneidig Schwert, und dringt hindurch durch Mark und Bein, bis daß es Seele und Geist zerschneide, und ist ein Richter der Gedanken und Gesinnungen,</verse>
+        <verse osisID='Heb.4.13'>Und ist kein Geschöpf vor Ihm unsichtbar, alles bloß und aufgedeckt vor Dessen Augen, zu Dem wir reden.</verse>
+        <verse osisID='Heb.4.14'>Weil wir denn einen großen Hohenpriester haben, Der durch die Himmel hindurchgegangen ist, Jesus, den Sohn Gottes, so lasset uns festhalten an dem Bekenntnis.</verse>
+        <verse osisID='Heb.4.15'>Denn wir haben nicht einen Hohenpriester, der nicht könnte mitfühlen mit unseren Schwachheiten, weil Er versucht worden ist in allen Stücken gleich wie wir, doch ohne Sünde.</verse>
+        <verse osisID='Heb.4.16'>So lasset uns denn mit Vertrauen hinzutreten vor den Gnadenthron, auf daß wir Erbarmen und Gnade finden auf die Zeit, da uns Hilfe vonnöten ist.</verse>
+      </chapter>
+      <chapter osisID='Heb.5'>
+        <title>Christus mehr denn Aharon. - Erkenntnis der Mündigen.</title>
+        <verse osisID='Heb.5.1'>Denn ein jeglicher Hohepriester, aus den Menschen genommen, wird aufgestellt für Menschen, in ihren Angelegenheiten bei Gott Gaben und Opfer für Sünden darzubringen,</verse>
+        <verse osisID='Heb.5.2'>Und kann milde sein gegen Unwissende und Irrende, weil auch er der Schwachheit teilhaftig ist;</verse>
+        <verse osisID='Heb.5.3'>Und muß um dieser willen, wie für das Volk, so auch für sich selbst Sündopfer darbringen.</verse>
+        <verse osisID='Heb.5.4'>Und niemand nimmt sich selbst die Ehre, sondern muß wie Aharon von Gott dazu berufen sein.</verse>
+        <verse osisID='Heb.5.5'>Also hat auch Christus nicht Sich Selbst in die Ehre eingesetzt, Hoherpriester zu werden, sondern Der zu Ihm gesprochen hat: Mein Sohn bist Du, heute habe Ich Dich gezeugt.</verse>
+        <verse osisID='Heb.5.6'>Wie Er auch an einer anderen Stelle sagt: Du bist Priester in Ewigkeit, nach der Ordnung Melchisedeks.</verse>
+        <verse osisID='Heb.5.7'>Und Er hat in den Tagen Seines Fleisches Gebet und Flehen an Den, Der Ihn vom Tode retten konnte, mit lautem Rufe und mit Tränen dargebracht und ist erhört worden wegen Seiner Frömmigkeit.</verse>
+        <verse osisID='Heb.5.8'>Und wiewohl Er Gottes Sohn war, hat Er doch an dem, was Er litt, Gehorsam gelernt.</verse>
+        <verse osisID='Heb.5.9'>Und da Er ist vollendet, ist Er allen, die Ihm gehorsam sind, Urheber ewiger Seligkeit geworden,</verse>
+        <verse osisID='Heb.5.10'>Erklärt von Gott zum Hohenpriester nach der Ordnung Melchisedeks.</verse>
+        <verse osisID='Heb.5.11'>Davon hätten wir wohl viel zu reden, aber es ist schwer auszulegen, weil ihr wieder so träge zum Verständnis geworden seid.</verse>
+        <verse osisID='Heb.5.12'>Denn da ihr längst solltet Meister sein der Zeit nach, bedürft ihr selber wieder Belehrung über die Anfangsgründe der Lehre Gottes, und seid solche geworden, daß ihr Milch und nicht feste Speise bedürfet.</verse>
+        <verse osisID='Heb.5.13'>Denn wer noch Milch haben muß, der ist noch unerfahren im Worte der Gerechtigkeit, denn er ist noch unmündig.</verse>
+        <verse osisID='Heb.5.14'>Feste Speise gehört den Vollkommenen, die durch Übung eine schärfere Fassungskraft haben zur Unterscheidung von dem, was recht und unrecht ist.</verse>
+      </chapter>
+      <chapter osisID='Heb.6'>
+        <title>Anfangslehre. Abfall. Das gute Land. - Ermahnung zu Beständigkeit und Vertrauen.</title>
+        <verse osisID='Heb.6.1'>Darum wollen wir die Anfangslehre von Christus beiseite lassen, und uns zum Vollkommeneren wenden, ohne uns noch einmal mit der Grundlage der Bekehrung von toten Werken, dem Glauben an Gott,</verse>
+        <verse osisID='Heb.6.2'>Der Taufe, der Lehre, der Auflegung der Hände, der Auferstehung der Toten und dem ewigen Gerichte zu befassen.</verse>
+        <verse osisID='Heb.6.3'>Und das wollen wir tun, wenn anders Gott es uns verleiht.</verse>
+        <verse osisID='Heb.6.4'>Denn es ist unmöglich, die, so einmal erleuchtet worden und die himmlische Gabe geschmeckt haben, und des Heiligen Geistes teilhaftig geworden sind,</verse>
+        <verse osisID='Heb.6.5'>Zudem noch geschmeckt haben das herrliche Gotteswort, die Kräfte der zukünftigen Welt,</verse>
+        <verse osisID='Heb.6.6'>Wo sie wiederum abgefallen, zu erneuern zur Buße, als die in ihnen selbst den Sohn Gottes kreuzigen und zum Gespötte haben.</verse>
+        <verse osisID='Heb.6.7'>Denn eine Erde, die den oft über sie kommenden Regen trinkt, und denen, für die sie auch bebaut wird, nützliche Gewächse trägt, empfängt Segen von Gott.</verse>
+        <verse osisID='Heb.6.8'>Die aber, so Dornen und Disteln trägt, ist unnütz und dem Fluche nahe; ihr Ende ist, daß man sie ausbrennt.</verse>
+        <verse osisID='Heb.6.9'>Wir versehen uns aber zu euch, Geliebte, eines Besseren, und das zum Heile führt, obwohl wir also reden.</verse>
+        <verse osisID='Heb.6.10'>Denn Gott ist nicht ungerecht, daß Er vergäße eures Werkes und eurer Liebtätigkeit, die ihr an Seinem Namen bewiesen, da ihr den Heiligen Dienst geleistet habt, und noch leistet.</verse>
+        <verse osisID='Heb.6.11'>Wir wünschten aber, daß jeder von euch denselben Eifer beweise, die Hoffnung bis ans Ende voll zu bewahren.</verse>
+        <verse osisID='Heb.6.12'>Daß ihr nicht müde werdet, sondern nacheifert im Glauben und in der Ausdauer denen, so die Verheißung ererben.</verse>
+        <verse osisID='Heb.6.13'>Denn als Gott dem Abraham eine Verheißung machte, schwur Er, da Er bei nichts Höherem schwören konnte, bei Sich Selbst,</verse>
+        <verse osisID='Heb.6.14'>Und sprach: Wahrlich, Ich will dich reichlich segnen und vermehren.</verse>
+        <verse osisID='Heb.6.15'>Und so harrte er aus, und erlangte, was ihm verheißen war.</verse>
+        <verse osisID='Heb.6.16'>Die Menschen schwören bei dem Höheren, und der Eid macht bei ihnen allem Streit ein Ende durch diese Bekräftigung.</verse>
+        <verse osisID='Heb.6.17'>Darum, da Gott wollte den Erben der Verheißung die Unwandelbarkeit Seines Ratschlusses dartun, hat Er ihn durch einen Eid vermittelt.</verse>
+        <verse osisID='Heb.6.18'>Auf daß zwei unwandelbare Stücke, bei denen nicht möglich ist, daß Gott lügen könnte, einen starken Trost gewähren uns, die wir unsere Zuflucht nehmen zu der uns gewährten Hoffnung, und an ihr halten;</verse>
+        <verse osisID='Heb.6.19'>Die wir haben als sicheren und zuverlässigen Anker der Seele, der auch hineinreicht in das Inwendige des Vorhangs;</verse>
+        <verse osisID='Heb.6.20'>Dahin auch unser Vorgänger Jesus für uns eingegangen, Der nach der Ordnung Melchisedeks Hoherpriester in Ewigkeit geworden ist.</verse>
+      </chapter>
+      <chapter osisID='Heb.7'>
+        <title>Der Priester nach der Ordnung Melchisedeks.</title>
+        <verse osisID='Heb.7.1'>Dieser Melchisedek war nämlich König zu Salem, ein Priester Gottes, des Allerhöchsten, der dem Abraham entgegenging, als er aus der Schlacht wider die Könige siegreich zurückkehrte, und ihn segnete;</verse>
+        <verse osisID='Heb.7.2'>Dem auch Abraham von allem den Zehnten gab. Auf das erste wird er verdolmetscht König der Gerechtigkeit; sodann aber ist er auch König von Salem, das ist König des Friedens,</verse>
+        <verse osisID='Heb.7.3'>Ohne Vater, ohne Mutter, ohne Geschlechtsnachweis, und hat weder Anfang der Tage noch Ende des Lebens, ein Abbild des Sohnes Gottes, bleibt Er Priester in Ewigkeit.</verse>
+        <verse osisID='Heb.7.4'>Ihr seht aber, wie groß Er ist, Dem auch der Erzvater Abraham den Zehnten von der Beute gibt!</verse>
+        <verse osisID='Heb.7.5'>Zwar haben die von den Kindern Levi, so die Priesterwürde empfangen, ein Gebot, nach dem Gesetz vom Volk, das heißt von ihren Brüdern, den Zehnten zu nehmen, wiewohl auch sie aus den Lenden Abrahams gekommen sind.</verse>
+        <verse osisID='Heb.7.6'>Aber Er, Dessen Geschlecht unter ihnen nicht aufgeführt wird, nahm den Zehnten von Abraham, und segnete den, der die Verheißung hatte.</verse>
+        <verse osisID='Heb.7.7'>Nun ist es ohne allen Widerspruch also, daß das Geringere von dem Besseren gesegnet wird,</verse>
+        <verse osisID='Heb.7.8'>Und hier nehmen den Zehnten sterbliche Menschen, dort aber Einer, von Dem bezeugt wird, daß Er lebe.</verse>
+        <verse osisID='Heb.7.9'>Und durch Abraham wird sozusagen auch von Levi, der den Zehnten nimmt, der Zehnte genommen;</verse>
+        <verse osisID='Heb.7.10'>Denn er war noch in den Lenden des Vaters, da ihm Melchisedek entgegenging.</verse>
+        <verse osisID='Heb.7.11'>Wäre nun die Vollendung durch das levitische Priestertum geschehen</verse>
+        <verse osisID='Heb.7.12'>Denn wo das Priestertum verändert wird, da wird notwendig auch das Gesetz verändert,</verse>
+        <verse osisID='Heb.7.13'>Denn Der, von Dem solches gesagt wird, gehört zu einem anderen Stamm, aus dem nie einer am Altar zu tun gehabt.</verse>
+        <verse osisID='Heb.7.14'>Es ist ja offenbar, daß unser Herr aus Judah hervorgegangen ist, über welchem Stamm Moses in bezug auf das Priestertum nichts geredet hat.</verse>
+        <verse osisID='Heb.7.15'>Und es ist noch viel mehr offenbar, wenn nach der Ordnung Melchisedeks ein anderer Priester aufkommt,</verse>
+        <verse osisID='Heb.7.16'>Der es nicht nach dem Gesetz eines fleischlichen Gebotes geworden ist, sondern nach der Kraft unvergänglichen Lebens.</verse>
+        <verse osisID='Heb.7.17'>Denn Er bezeugt: Du bist Priester in Ewigkeit nach der Ordnung Melchisedeks.</verse>
+        <verse osisID='Heb.7.18'>Denn es findet eine Aufhebung des früheren Gebotes statt, weil es zu schwach und unwirksam</verse>
+        <verse osisID='Heb.7.19'>Das Gesetz brachte ja nichts zur Vollendung und es erfolgt die Einführung einer<note>neuen</note> besseren Hoffnung, durch die wir uns Gott nahen dürfen,</verse>
+        <verse osisID='Heb.7.20'>Und inwiefern dies nicht ohne eidliche Zusicherung geschieht jene sind ja ohne Eidschwur Priester geworden;</verse>
+        <verse osisID='Heb.7.21'>Er aber mit einem Eidschwur durch Den, Der da zu Ihm spricht: Der Herr hat geschworen, und es wird Ihn nicht gereuen: Du bist Priester in Ewigkeit nach der Ordnung Mel- chisedeks],</verse>
+        <verse osisID='Heb.7.22'>In sofern auch ist Jesus eines um so besseren Bundes Bürge geworden.</verse>
+        <verse osisID='Heb.7.23'>Und jener sind viele, die Priester wurden, darum, daß sie durch den Tod es nicht bleiben durften.</verse>
+        <verse osisID='Heb.7.24'>Er aber hat dadurch, daß Er es in Ewigkeit bleibt, ein unvergängliches Priestertum.</verse>
+        <verse osisID='Heb.7.25'>Darum kann Er auch ganz und gar erretten diejenigen, die durch Ihn vor Gott treten, da Er ewiglich lebt und Sich ihrer annehmen kann.</verse>
+        <verse osisID='Heb.7.26'>Denn ein solcher Hoherpriester ziemte uns, heilig, unschuldig, unbefleckt, von den Sündern abgesondert, höher denn die Himmel;</verse>
+        <verse osisID='Heb.7.27'>Der nicht, wie jene Hohenpriester, erst für die eigenen Sünden, dann für die des Volkes täglich Opfer darzubringen hatte; denn dies tat Er ein für allemal, indem Er Sich Selbst darbrachte.</verse>
+        <verse osisID='Heb.7.28'>Denn das Gesetz bestellt Menschen zu Hohenpriestern, die Schwachheit an sich haben, das Wort aber der eidlichen Verhei-ßung, die später als das Gesetz gemacht wurde, den Sohn, Der ewiglich vollendet ist.</verse>
+      </chapter>
+      <chapter osisID='Heb.8'>
+        <title>Christus der wahre Hohepriester.</title>
+        <verse osisID='Heb.8.1'>Der Inbegriff dieser Reden aber ist: Wir haben einen solchen Hohenpriester, Der da sitzt zur Rechten auf dem Throne der Majestät in den Himmeln;</verse>
+        <verse osisID='Heb.8.2'>Als Priester des Heiligen und des wahren Versammlungszeltes, welches der Herr und nicht ein Mensch aufgerichtet hat.</verse>
+        <verse osisID='Heb.8.3'>Denn jeglicher Hohepriester wird eingesetzt, Gaben und Opfer darzubringen. Darum muß auch Er etwas haben darzubringen.</verse>
+        <verse osisID='Heb.8.4'>Denn wenn Er auf Erden wäre, so wäre Er nicht einmal Priester, weil Priester da sind, die nach dem Gesetz die Gaben opfern,</verse>
+        <verse osisID='Heb.8.5'>Die ihr Amt tun nach dem Vorbild und Schatten der himmlischen Dinge, wie Moses angewiesen worden, da er das Zelt aufrichten sollte: Siehe zu, heißt es, daß du alles nach dem Vorbilde machst, das dir auf dem Berge gezeigt worden ist.</verse>
+        <verse osisID='Heb.8.6'>Nun hat Er aber ein höheres Priesteramt überkommen, weil Er eines herrlicheren Bundes Vermittler ist, der auf höhere Verhei-ßungen gegründet ist.</verse>
+        <verse osisID='Heb.8.7'>Denn wäre der erste untadelig gehalten worden, so hätte ein zweiter nicht stattgefunden.</verse>
+        <verse osisID='Heb.8.8'>Denn strafend spricht Er zu ihnen: Siehe, es kommen Tage, spricht der Herr, da Ich mit dem Hause Israel und dem Hause Judah einen neuen Bund aufrichten werde;</verse>
+        <verse osisID='Heb.8.9'>Nicht nach dem Bunde, den Ich mit ihren Vätern schloß am Tage, da Ich sie bei der Hand nahm, um sie aus Ägyptenland auszuführen; denn sie blieben nicht bei Meinem Bunde, und darum hatte Ich Mich ihrer nicht mehr angenommen.</verse>
+        <verse osisID='Heb.8.10'>Denn das ist der Bund, den Ich mit dem Hause Israel nach selbigen Tagen schließen will, spricht der Herr: Ich will Meine Gesetze in ihren Sinn legen und sie in ihre Herzen schreiben. Ich will ihr Gott sein, und sie sollen Mein Volk sein.</verse>
+        <verse osisID='Heb.8.11'>Und es wird keiner seinen Nächsten, keiner seinen Bruder lehren und sagen: Lerne den Herrn kennen; denn alle, groß und klein, werden Mich kennen.</verse>
+        <verse osisID='Heb.8.12'>Denn Ich will gnädig sein ihren Übertretungen, und ihrer Sünden nicht mehr gedenken.</verse>
+        <verse osisID='Heb.8.13'>Wenn Er von einem neuen spricht, so hat Er den ersten für veraltet erklärt; was aber veraltet und überjährt ist, das ist seinem Ende nahe.</verse>
+      </chapter>
+      <chapter osisID='Heb.9'>
+        <title>Fortsetzung.</title>
+        <verse osisID='Heb.9.1'>Zwar hatte auch der erste<note>Bund</note> Satzungen des Gottesdienstes und ein äußerliches Heiligtum.</verse>
+        <verse osisID='Heb.9.2'>Denn es war da das Vorzelt aufgeschlagen, in dem sich der Leuchter und der Tisch und die Schaubrote befanden, und diese heißen das Heilige.</verse>
+        <verse osisID='Heb.9.3'>Hinter dem zweiten Vorhang war das Zelt, das da heißt das Allerheiligste.</verse>
+        <verse osisID='Heb.9.4'>Dies enthielt den goldenen Rauchaltar und die allenthalben mit Gold überzogene Bundeslade, in der ein goldener Krug mit dem Manna und Aharons Stab, der gegrünt hatte, und die Bundestafeln sich befanden;</verse>
+        <verse osisID='Heb.9.5'>Oben darüber waren die Cherube der Herrlichkeit, die den Gnadenstuhl überschatteten, wovon jetzt insonderheit nicht zu reden ist.</verse>
+        <verse osisID='Heb.9.6'>Da nun solches also eingerichtet ist, so treten die Priester immer in das Vorzelt und verrichten den Dienst allda.</verse>
+        <verse osisID='Heb.9.7'>In das hintere tritt allein der Hohepriester einmal im Jahr, nicht ohne Blut, das er für seine und des Volkes unwissentliche Übertretungen darbringt;</verse>
+        <verse osisID='Heb.9.8'>Womit der Heilige Geist bedeutet, daß der Weg zum Heiligtum noch nicht geoffenbart sei, solange das vordere Zelt noch bestände.</verse>
+        <verse osisID='Heb.9.9'>Dieses ist ein Sinnbild auf die gegenwärtige Zeit, in welcher Gaben und Opfer dargebracht werden, die den, der Gott damit dient, im Gewissen noch nicht können vollkommen beruhigen;</verse>
+        <verse osisID='Heb.9.10'>Die nur mit Speise und Trank und mancherlei Waschungen und äußerlichen Satzungen bis zur Zeit der Besserung auferlegt sind.</verse>
+        <verse osisID='Heb.9.11'>Christus aber ist gekommen als Hoherpriester der zukünftigen Güter und trat durch das größere und vollkommenere Zelt, das nicht mit Händen gemacht, das heißt nicht von dieser Welt ist;</verse>
+        <verse osisID='Heb.9.12'>Ist auch nicht durch das Blut von Böcken und Kälbern, sondern durch Sein eigen Blut ein- für allemal eingetreten in das Heiligtum und hat ewige Erlösung zuwege gebracht.</verse>
+        <verse osisID='Heb.9.13'>Denn wenn das Blut der Ochsen und Böcke und die Asche von der Kuh, auf die Verunreinigten gesprengt, zur leiblichen Reinheit heiligt,</verse>
+        <verse osisID='Heb.9.14'>Wieviel mehr wird das Blut von Christus, Der Sich unbefleckt durch den ewigen Geist Gott dargebracht hat, unser Gewissen reinigen von toten Werken, dem lebendigen Gott zu dienen!</verse>
+        <verse osisID='Heb.9.15'>Und darum ist Er der Vermittler eines neuen Bundes, dadurch, daß ein Tod erfolgte zur Erlösung von den unter dem ersten Bunde begangenen Übertretungen, auf daß die Berufenen das verheißene ewige Erbe empfangen.</verse>
+        <verse osisID='Heb.9.16'>Denn wo ein Testament ist, da muß der Tod dessen beigebracht werden, der das Testament gemacht hat.</verse>
+        <verse osisID='Heb.9.17'>Denn ein Testament tritt inkraft durch den Tod und hat keine Kraft, wenn der noch lebt, der es gemacht hat.</verse>
+        <verse osisID='Heb.9.18'>Daher auch das erste nicht ohne Blut gestiftet ward.</verse>
+        <verse osisID='Heb.9.19'>Denn nachdem alles Gebot nach dem Gesetz von Moses an das Volk ausgesprochen war, nahm er das Blut der Kälber und Böcke mit Wasser, Purpurwolle und Ysop, und besprengte das Buch und alles Volk mit den Worten:</verse>
+        <verse osisID='Heb.9.20'>Das ist das Blut des Bundes, den Gott euch verordnet hat.</verse>
+        <verse osisID='Heb.9.21'>Und das Zelt und alle Geräte des Gottesdienstes besprengte er gleichfalls mit dem Blut.</verse>
+        <verse osisID='Heb.9.22'>Und wird fast alles dem Gesetz zufolge mit Blut gereinigt, und ohne Vergießung von Blut geschieht keine Vergebung.</verse>
+        <verse osisID='Heb.9.23'>So mußten nun die Vorbilder der Dinge in den Himmeln mit solchem gereinigt werden, die himmlischen Dinge aber mit besseren Opfern, denn diese sind.</verse>
+        <verse osisID='Heb.9.24'>Denn nicht in dieses mit Händen gemachte Heiligtum, das Vorbild des Wahrhaftigen, sondern in den Himmel selbst ist Christus eingetreten, um vor Gottes Angesicht für uns zu erscheinen;</verse>
+        <verse osisID='Heb.9.25'>Noch auch, daß Er Sich mehrmals opfere, wie der Hohepriester einmal des Jahres mit fremdem Blut in das Heiligtum eintritt;</verse>
+        <verse osisID='Heb.9.26'>Sonst hätte Er seit Anfang der Welt oft Leiden müssen; nun aber ist Er bei Vollendung der Zeitläufe einmal zur Erlassung der Sünde durch Sein Opfer offenbar worden.</verse>
+        <verse osisID='Heb.9.27'>Und wie den Menschen beschieden ist, einmal zu sterben, danach aber das Gericht,</verse>
+        <verse osisID='Heb.9.28'>Also ist Christus einmal geopfert, um die Sünden vieler zu tilgen, und wird zum zweitenmal erscheinen ohne Sünden denen, die auf Ihn warten zu ihrem Heile.</verse>
+      </chapter>
+      <chapter osisID='Heb.10'>
+        <title>Ermahnung zur Beharrlichkeit und zum Glauben.</title>
+        <verse osisID='Heb.10.1'>Denn das Gesetz stellt nur den Schatten der zukünftigen Güter, nicht das Bild der Dinge selber dar, und kann durch dieselben jährlichen Opfer, die man fort und fort darbringt, die Herzunahenden nicht vollkommen machen.</verse>
+        <verse osisID='Heb.10.2'>Hätte ihre Darbringung nicht aufgehört, weil sie, einmal gereinigt, kein Bewußtsein der Sünden mehr behalten hätten?</verse>
+        <verse osisID='Heb.10.3'>So aber wurde jährlich durch sie das Gedächtnis der Sünden aufgefrischt;</verse>
+        <verse osisID='Heb.10.4'>Denn es ist unmöglich, daß das Blut von Ochsen und Böcken Sünden wegnimmt.</verse>
+        <verse osisID='Heb.10.5'>Darum spricht Er, wie Er in die Welt kommt: Opfer und Gabe hast Du nicht gewollt, den Leib aber hast Du Mir zubereitet.</verse>
+        <verse osisID='Heb.10.6'>An Brandopfern aber und Sündopfern hast Du kein Gefallen.</verse>
+        <verse osisID='Heb.10.7'>Da sprach Ich: Siehe, Ich komme - im Buche steht von Mir geschrieben - Deinen Willen, o Gott, zu tun.</verse>
+        <verse osisID='Heb.10.8'>Zuvor hatte Er gesagt: Opfer und Gabe, und Brandopfer und Sündopfer hast Du nicht gewollt, noch hast Du Gefallen daran</verse>
+        <verse osisID='Heb.10.9'>Dann sprach Er: Siehe, Ich komme, o Gott, Deinen Willen zu tun. Er hebt das erste auf, um das andere einzusetzen.</verse>
+        <verse osisID='Heb.10.10'>Durch diesen Willen sind wir geheiligt, durch das einmalige Opfer des Leibes Jesu Christi.</verse>
+        <verse osisID='Heb.10.11'>Und jeglicher Priester steht täglich da, verrichtet seinen Dienst und bringt wiederholt dieselben Opfer dar, die doch nimmermehr Sünden wegnehmen können.</verse>
+        <verse osisID='Heb.10.12'>Er aber, der ein Opfer für die Sünden dargebracht, sitzt für immer zur Rechten Gottes.</verse>
+        <verse osisID='Heb.10.13'>Und wartet hinfort, bis Seine Feinde zum Schemel Seiner Füße gelegt sind.</verse>
+        <verse osisID='Heb.10.14'>Denn mit einem Opfer hat Er für immer zur Vollendung geführt, die da geheiligt werden.</verse>
+        <verse osisID='Heb.10.15'>Es zeugt für uns aber auch der Heilige Geist; denn, nachdem Er vorhergesagt hatte:</verse>
+        <verse osisID='Heb.10.16'>Das ist der Bund, den Ich nach diesen Tagen mit ihnen schließen werde, spricht der Herr: Ich gebe Meine Gesetze in ihre Herzen, und will sie in ihre Gedanken schreiben.</verse>
+        <verse osisID='Heb.10.17'>Und ihrer Sünden und Übertretungen will Ich nicht mehr gedenken.</verse>
+        <verse osisID='Heb.10.18'>Wo aber derselben Vergebung ist, da ist kein Opfer für die Sünde mehr.</verse>
+        <verse osisID='Heb.10.19'>Weil wir denn, Brüder, die Freiheit des Eintritts in das Heiligtum durch Jesu Blut haben,</verse>
+        <verse osisID='Heb.10.20'>Den Er für uns eingeweiht hat, als einen neuen, zum Leben führenden Weg, durch den Vorhang, das heißt durch Sein Fleisch hindurch,</verse>
+        <verse osisID='Heb.10.21'>Und haben einen Hohenpriester über das Haus Gottes,</verse>
+        <verse osisID='Heb.10.22'>So lasset uns hinzutreten mit wahrhaftigem Herzen und völligem Glauben, da wir am Herzen besprengt</verse>
+        <verse osisID='Heb.10.23'>Und lasset uns, ohne zu wanken, festhalten an dem Bekenntnis; denn treu ist Er, Der die Verheißungen gegeben hat.</verse>
+        <verse osisID='Heb.10.24'>Und lasset uns aufeinander achten, und einander zur Liebe und zu guten Werken anspornen.</verse>
+        <verse osisID='Heb.10.25'>Und nicht unsere eigene Versammlung verlassen, wie etliche tun, und das um so mehr, als wir sehen, wie der Tag immer näher rückt.</verse>
+        <verse osisID='Heb.10.26'>Denn so wir vorsätzlich sündigen, nachdem wir zur Erkenntnis der Wahrheit gekommen sind, ist kein anderes Opfer mehr für Sünden zu erwarten.</verse>
+        <verse osisID='Heb.10.27'>Wohl aber droht ein schreckliches Gericht und ein eiferndes Feuer, das die Widerwärtigen verzehren wird.</verse>
+        <verse osisID='Heb.10.28'>Wer Moses Gesetz übertreten, muß ohne Erbarmen auf die Aussage zweier oder dreier Zeugen des Todes sterben.</verse>
+        <verse osisID='Heb.10.29'>Wieviel ärgere Strafe meint ihr, wird der zu erleiden haben, der den Sohn Gottes mit Füßen tritt, und das Blut des neuen Bundes, wodurch er geheiligt worden, entheiligt, und den Geist der Gnade lästert?</verse>
+        <verse osisID='Heb.10.30'>Wir kennen ja Den, Welcher spricht: Mein ist die Rache, Ich will vergelten, spricht der Herr - und abermals: Der Herr wird richten Sein Volk.</verse>
+        <verse osisID='Heb.10.31'>Schrecklich ist es, in die Hände des lebendigen Gottes zu fallen.</verse>
+        <verse osisID='Heb.10.32'>Gedenkt aber an die vorigen Tage, in denen ihr nach der Erleuchtung einen großen Leidenskampf bestanden habt;</verse>
+        <verse osisID='Heb.10.33'>Indem ihr teils in Zuständen der Schmach und der Drangsale zur Schau gestellt wurdet, teils an anderen, die solches erlitten, Anteil nahmt.</verse>
+        <verse osisID='Heb.10.34'>Denn ihr hattet Anteil genommen an den Gefangenen, und den Raub eurer Güter frohen Mutes ertragen, als die da wußten, daß sie in sich selbst ein besseres, bleibendes Gut in den Himmeln haben.</verse>
+        <verse osisID='Heb.10.35'>So werfet nun euer Vertrauen nicht weg, das eine große Belohnung hat.</verse>
+        <verse osisID='Heb.10.36'>Denn Geduld ist euch Not, auf daß ihr den Willen Gottes tut und die Verheißung empfanget.</verse>
+        <verse osisID='Heb.10.37'>Denn noch über eine kleine Weile, so wird Der, Der da kommen soll, kommen und nicht verziehen.</verse>
+        <verse osisID='Heb.10.38'>Mein Gerechter aber wird aus dem Glauben leben, und: Wenn er davon zurückweicht, so hat meine Seele kein Gefallen an ihm.</verse>
+        <verse osisID='Heb.10.39'>Wir aber sind nicht von denen, die da zurückweichen in die Verdammnis, sondern von denen, die durch den Glauben das Leben gewinnen.</verse>
+      </chapter>
+      <chapter osisID='Heb.11'>
+        <title>Kraft des Glaubens.</title>
+        <verse osisID='Heb.11.1'>Es ist aber der Glaube eine Zuversicht dessen, das man hofft, eine Überzeugung von Dingen, die man nicht sieht.</verse>
+        <verse osisID='Heb.11.2'>Durch ihn haben die Alten Zeugnis erhalten.</verse>
+        <verse osisID='Heb.11.3'>Durch den Glauben erkennen wir, daß die Welten durch Gottes Wort bereitet worden sind, so daß das, was gesehen wird, nicht geworden ist aus Dingen, die da erscheinen.</verse>
+        <verse osisID='Heb.11.4'>Durch den Glauben hat Abel Gott ein größeres Opfer dargebracht denn Kain, durch den bezeugt wurde, daß er gerecht war, da Gott über seine Opfergaben zeugte, und durch ihn redet Er noch jetzt nach seinem Tod.</verse>
+        <verse osisID='Heb.11.5'>Durch den Glauben ward Enoch entrückt, auf daß er den Tod nicht sähe, und ward nicht erfunden, darum, daß ihn Gott entrückt hatte; denn vor seiner Entrückung ist bezeugt, daß er Gott wohlgefällig war.</verse>
+        <verse osisID='Heb.11.6'>Ohne Glauben aber ist es unmöglich, Gott zu gefallen, denn wer zu Gott kommen will, der muß glauben, daß Er ist, und denen, die Ihn suchen, ein Vergelter wird.</verse>
+        <verse osisID='Heb.11.7'>Durch den Glauben hat Noach, über das noch Unsichtbare belehrt, sich vorgesehen, und die Arche zur Rettung seines Hauses zubereitet, und durch ihn verdammte er die Welt, und er ward nach seinem Glauben der Gerechtigkeit teilhaftig.</verse>
+        <verse osisID='Heb.11.8'>Durch den Glauben gehorchte Abraham, da er berufen ward auszuziehen in das Land, das er als Erbe überkommen sollte, und er zog aus und wußte nicht, wohin er käme.</verse>
+        <verse osisID='Heb.11.9'>Durch den Glauben lebte er als Fremdling in dem Lande der Verheißung, und wohnte mit Isaak und Jakob, den Miterben derselben Verheißung.</verse>
+        <verse osisID='Heb.11.10'>Denn er wartete auf jene festgegründete Stadt, deren Baumeister und Schöpfer Gott ist.</verse>
+        <verse osisID='Heb.11.11'>Durch den Glauben erhielt selbst Sarah Kraft zur Empfängnis, und über ihr Alter hinaus gebar sie, weil sie Ihn, Der es verhei-ßen, für wahrhaftig hielt.</verse>
+        <verse osisID='Heb.11.12'>Darum sind auch von einem, der schon abgelebt, so viele entsprossen wie die Sterne am Himmel und wie der Sand am Rande des Meeres, der nicht zu zählen ist.</verse>
+        <verse osisID='Heb.11.13'>Diese alle sind gestorben im Glauben, ehe sie die Verheißungen empfangen; sie schauten sie aber von ferne, und begnügten sich dabei und bekannten, daß sie Fremdlinge und Beisaßen im Lande wären.</verse>
+        <verse osisID='Heb.11.14'>Denn die solches sprachen, gaben zu verstehen, daß sie ein Vaterland suchen;</verse>
+        <verse osisID='Heb.11.15'>Und hätten sie das gemeint, von dem sie ausgezogen waren, so hätten sie ja Zeit gehabt, wieder umzukehren.</verse>
+        <verse osisID='Heb.11.16'>So aber sehnen sie sich nach einem besseren, das ist dem himmlischen. Darum schämt Sich auch Gott ihrer nicht, Sich ihren Gott nennen zu lassen; denn Er hat ihnen eine Stadt bereitet.</verse>
+        <verse osisID='Heb.11.17'>Durch Glauben hat Abraham, da er versucht ward, den Isaak dargebracht, und wollte den Eingeborenen hingeben, er, der schon die Verheißungen empfangen hatte;</verse>
+        <verse osisID='Heb.11.18'>Von dem gesagt war: Nach Isaak soll dir der Same genannt werden;</verse>
+        <verse osisID='Heb.11.19'>Indem er dachte, daß Gott auch von den Toten erwecken könnte, weshalb er ihn, eben weil er ihn hingegeben hatte, wieder erhielt.</verse>
+        <verse osisID='Heb.11.20'>Durch den Glauben erteilte Isaak im Hinblick auf die Zukunft seinen Segen an Jakob und Esau.</verse>
+        <verse osisID='Heb.11.21'>Durch den Glauben segnete Jakob auf dem Totenbett die beiden Söhne Josephs und betete sodann, auf die Spitze seines Stabes gelehnt.</verse>
+        <verse osisID='Heb.11.22'>Durch den Glauben gedachte Joseph, da er starb des Auszugs der Söhne Israels, und gab Befehl über seine Gebeine.</verse>
+        <verse osisID='Heb.11.23'>Durch den Glauben ward Moses, da er geboren ward, von seinen Eltern drei Monate lang verborgen gehalten, als sie sahen, daß er ein so anmutiges Kindlein war; und sie fürchteten sich nicht vor dem Befehle des Königs.</verse>
+        <verse osisID='Heb.11.24'>Durch den Glauben weigerte sich Moses, ein Sohn der Tochter Pharaos zu heißen.</verse>
+        <verse osisID='Heb.11.25'>Und wollte lieber mit dem Volk Gottes Ungemach erdulden, als den zeitlichen Genuß der Sünde haben;</verse>
+        <verse osisID='Heb.11.26'>Und achtete höher denn die Schätze Ägyptens Christi Schmach, denn er sah an die Belohnung.</verse>
+        <verse osisID='Heb.11.27'>Durch den Glauben verließ er Ägypten, und fürchtete nicht den Zorn des Königs; denn er hielt fest an dem Unsichtbaren, als sähe er Ihn.</verse>
+        <verse osisID='Heb.11.28'>Im Glauben hat er das Paschah und die Besprengung des Blutes angeordnet, auf daß nicht der Würger der Erstgeburten sie antastete.</verse>
+        <verse osisID='Heb.11.29'>Im Glauben gingen sie durch das Rote Meer, wie über trockenes Land, und die Ägypter versuchten es auch und wurden verschlungen.</verse>
+        <verse osisID='Heb.11.30'>Durch den Glauben fielen die Mauern Jerichos, nachdem man sieben Tage um selbige gezogen war.</verse>
+        <verse osisID='Heb.11.31'>Durch den Glauben kam die Hure Rahab nicht um mit den Ungläubigen, weil sie die Kundschafter friedlich aufgenommen hatte.</verse>
+        <verse osisID='Heb.11.32'>Und was soll ich weiter sagen? Die Zeit würde mir zu kurz, wenn ich von Gideon und Barak und Simson und Jephtha und David und Samuel und den Propheten erzählen sollte;</verse>
+        <verse osisID='Heb.11.33'>Welche durch den Glauben Königreiche bezwangen, Gerechtigkeit übten, Verheißungen erlangten, Löwen den Rachen verstopften,</verse>
+        <verse osisID='Heb.11.34'>Des Feuers Gewalt auslöschten, der Schärfe des Schwertes entrannen, in Zuständen der Schwäche gekräftigt, zum Streite gestärkt wurden, die Heere der Feinde niederschlugen.</verse>
+        <verse osisID='Heb.11.35'>Weiber haben durch Auferstehung ihre Toten wieder erhalten, andere wurden auf die Folter gespannt, indem sie keine Freilassung annahmen, auf daß sie die bessere Auferstehung empfingen.</verse>
+        <verse osisID='Heb.11.36'>Andere erduldeten Verhöhnungen und Geißelung, dazu Bande und Gefängnis;</verse>
+        <verse osisID='Heb.11.37'>Sie wurden gesteinigt, zersägt, zerstochen, fielen durch das Schwert, gingen in Schafpelzen, in Ziegenfellen umher, hatten mit Mangel, Trübsal und Ungemach zu kämpfen.</verse>
+        <verse osisID='Heb.11.38'>Sie, deren die Welt nicht wert war, sind in Wüsten, auf Bergen, in Höhlen und Klüften der Erde umhergeirrt.</verse>
+        <verse osisID='Heb.11.39'>Und diese alle haben sich durch Glauben bewährt und trugen die Verheißung nicht davon.</verse>
+        <verse osisID='Heb.11.40'>Darum, daß für uns Gott Besseres zuvor vorgesehen hat, auf daß sie nicht ohne uns zur Vollendung gelangten.</verse>
+      </chapter>
+      <chapter osisID='Heb.12'>
+        <title>Ermahnung zur Geduld und Gottseligkeit.</title>
+        <verse osisID='Heb.12.1'>Darum lasset uns, weil wir eine solche Menge Zeugen vor uns haben, ablegen jegliche Bürde und Sünde, die uns so leicht gefangen hält, und mit Beharrlichkeit den uns verordneten Wettlauf beginnen;</verse>
+        <verse osisID='Heb.12.2'>Und aufsehen zu Ihm, Dem Anfänger und Vollender des Glaubens, zu Jesus, Der für die Ihm vorgehaltene Freude das Kreuz erduldete, Der Schmach nicht achtete, und jetzt zur Rechten des Thrones Gottes sitzt.</verse>
+        <verse osisID='Heb.12.3'>Gedenkt an Ihn, Der solchen Widerspruch von den Sündern wider Sich erduldet hat, auf daß ihr den Mut nicht sinken lasset und verzagt,</verse>
+        <verse osisID='Heb.12.4'>Denn ihr habt im Kampfe wider die Sünde noch nicht bis auf das Blut widerstanden.</verse>
+        <verse osisID='Heb.12.5'>Und ihr habt bereits die Ermahnung vergessen, die zu euch als Kindern spricht: Mein Sohn, achte nicht gering die Züchtigung des Herrn, und verzage nicht, wenn du von Ihm gestraft wirst.</verse>
+        <verse osisID='Heb.12.6'>Denn welchen der Herr lieb hat, den züchtigt Er, und gibt Streiche jeglichem Sohn, den Er aufnimmt.</verse>
+        <verse osisID='Heb.12.7'>So ihr nun in der Züchtigung ausharrt, so verfährt Gott mit euch als mit Söhnen; denn wo ist ein Sohn, den der Vater nicht züchtigt?</verse>
+        <verse osisID='Heb.12.8'>So ihr aber ohne Züchtigung bleibt, deren alle teilhaftig werden, so seid ihr Bastarde und keine Söhne.</verse>
+        <verse osisID='Heb.12.9'>Wir hatten nun unsere leiblichen Väter zu Züchtigern und scheuten uns vor ihnen; wollten wir da nicht viel mehr dem Vater der Geister untertan sein, auf daß wir das Leben haben?</verse>
+        <verse osisID='Heb.12.10'>Jene züchtigen uns nach Gutdünken eine kurze Zeit, Er aber zu unserem Besten, auf daß wir Teil hätten an Seiner Heiligung.</verse>
+        <verse osisID='Heb.12.11'>Alle Züchtigung aber, wenn sie da ist, scheint uns nicht erfreulich, sondern trübselig; danach aber gewährt sie denen, die sich einüben ließen, die Friedensfrucht der Gerechtigkeit.</verse>
+        <verse osisID='Heb.12.12'>Darum richtet wieder auf die lässigen Hände und die erschlafften Knie.</verse>
+        <verse osisID='Heb.12.13'>Und macht gerade Bahn euren Füßen, auf daß nicht, was lahm ist, ausgereckt werde, sondern zurechtkomme.</verse>
+        <verse osisID='Heb.12.14'>Strebt nach Frieden mit allen, und nach der Heiligung, ohne die niemand den Herrn schauen wird.</verse>
+        <verse osisID='Heb.12.15'>Und seht darauf, daß nicht einer hinter der Gnade Gottes zurückbleibe, auf daß keine Wurzel der Bitterkeit aufsprosse und Unfrieden anrichte und viele von ihr angesteckt werden.</verse>
+        <verse osisID='Heb.12.16'>Daß keiner sei ein Hurer, oder ein Unheiliger wie Esau, der für eine Speise seine Erstgeburt hingab.</verse>
+        <verse osisID='Heb.12.17'>Ihr wißt ja, daß er auch hernach, als er den Segen zu erlangen wünschte, verworfen ward; denn er fand keinen Raum zur Buße, wiewohl er mit Tränen nach ihr verlangte.</verse>
+        <verse osisID='Heb.12.18'>Denn ihr seid nicht hinzugetreten zu einem Berge, den man antasten kann und der mit Feuer brennt, noch zu dem Dunkel und der Finsternis und dem Ungewitter,</verse>
+        <verse osisID='Heb.12.19'>Noch zu dem Hall der Posaune und zur Stimme der Worte, deren Hörer sich verbaten, daß weiter zu ihnen geredet werde.</verse>
+        <verse osisID='Heb.12.20'>Denn sie vermochten nicht zu ertragen, was da verordnet wurde. Und wenn ein Tier den Berg anrührte, sollte es gesteinigt oder mit eine Geschoß getötet werden.</verse>
+        <verse osisID='Heb.12.21'>Und so furchtbar war die Erscheinung, daß Moses sprach: Ich bin voll Furcht und Zitterns.</verse>
+        <verse osisID='Heb.12.22'>Sondern ihr seid hinzugetreten zum Zionsberge, zur Stadt des lebendigen Gottes, zum himmlischen Jerusalem und zu den Myriaden von Engeln,</verse>
+        <verse osisID='Heb.12.23'>Und zur Versammlung und Gemeinde der Erstgeborenen, die in dem Himmel angeschrieben sind, und zu Gott, dem Richter aller, und zu den Geistern vollendeter Gerechter.</verse>
+        <verse osisID='Heb.12.24'>Und zu Jesus, dem Vermittler eines neuen Bundes, Der durch das Blut der Besprengung besser redet, denn Abels.</verse>
+        <verse osisID='Heb.12.25'>Sehet zu, daß ihr euch nicht weigert, Den zu hören, Der jetzt zu euch redet; denn wenn jene nicht entrannen, die den auf Erden Redenden nicht hören wollten, so werdet ihr noch viel weniger entrinnen, wenn ihr euch von Dem abwendet, Der vom Himmel aus zu euch spricht,</verse>
+        <verse osisID='Heb.12.26'>Dessen Stimme damals die Erde bewegte, jetzt aber hat Er verheißen: Noch einmal bewege Ich nicht allein die Erde, sondern auch den Himmel.</verse>
+        <verse osisID='Heb.12.27'>Dies noch einmal aber bedeutet die Veränderung dessen, was erschüttert wird, als etwas, das vor sich geht, auf daß Bestand habe das, was nicht bewegt wird.</verse>
+        <verse osisID='Heb.12.28'>Darum lasset uns, weil wir ein unerschütterliches Reich empfangen, damit unseren Dank beweisen, daß wir mit Zucht und Ehrfurcht Gott wohlgefällig dienen.</verse>
+        <verse osisID='Heb.12.29'>Denn unser Gott ist ein verzehrend Feuer.</verse>
+      </chapter>
+      <chapter osisID='Heb.13'>
+        <title>Ermahnung zu christlichem Wandel und reiner Lehre.</title>
+        <verse osisID='Heb.13.1'>Beharret in brüderlicher Liebe.</verse>
+        <verse osisID='Heb.13.2'>Haltet auf Gastfreundschaft; durch sie haben ohne ihr Wissen manche schon Engel beherbergt.</verse>
+        <verse osisID='Heb.13.3'>Nehmt euch der Gefangenen an, als wäret ihr mitgefangen, der Leidenden als solche, die selbst noch im Leibe wallen.</verse>
+        <verse osisID='Heb.13.4'>Die Ehe soll durchaus in Ehren gehalten werden und das Ehebett unbefleckt; Hurer und Ehebrecher wird Gott richten.</verse>
+        <verse osisID='Heb.13.5'>Euer Wandel sei ohne Geiz; lasset euch begnügen an dem, was da ist, denn Er Selbst hat gesagt: Ich will dich nicht verlassen, noch versäumen.</verse>
+        <verse osisID='Heb.13.6'>Darum dürfen wir getrost sagen: Der Herr ist mein Helfer, und ich will mich nicht fürchten. Was sollte mir ein Mensch tun?</verse>
+        <verse osisID='Heb.13.7'>Gedenket an eure Vorsteher, die euch das Wort Gottes verkündigt haben. Schaut auf den Ausgang ihres Wandels und eifert ihrem Glauben nach!</verse>
+        <verse osisID='Heb.13.8'>Jesus Christus gestern und heute und derselbe auch in Ewigkeit.</verse>
+        <verse osisID='Heb.13.9'>Lasset euch nicht durch die vielerlei fremdartigen Lehren irre machen; denn es ist ein köstlich Ding, das Herz durch die Gnade zu stärken, nicht durch Speisen, von denen keinen Nutzen hatten, die damit umgingen.</verse>
+        <verse osisID='Heb.13.10'>Wir haben einen Altar, von dem nicht essen dürfen, die dem Zelt dienen.</verse>
+        <verse osisID='Heb.13.11'>Denn welcher Tiere Blut als Sündopfer vom Hohenpriester in das Heiligtum hineingetragen wird, derselbigen Leiber werden außerhalb des Lagers verbrannt.</verse>
+        <verse osisID='Heb.13.12'>Darum hat auch Jesus, auf daß Er das Volk durch Sein eigen Blut heiligte, außerhalb des Tores gelitten.</verse>
+        <verse osisID='Heb.13.13'>So lasset uns denn zu Ihm hinaus vor das Lager gehen, und Seine Schmach tragen.</verse>
+        <verse osisID='Heb.13.14'>Denn wir haben hier keine bleibende Stadt, sondern die zukünftige suchen wir.</verse>
+        <verse osisID='Heb.13.15'>So lasset uns nun durch Ihn Gott darbringen Lobopfer allezeit, das heißt: die Frucht der Lippen, die Seinen Namen bekennen.</verse>
+        <verse osisID='Heb.13.16'>Lasset nicht ab, wohlzutun und mitzuteilen; denn an solchen Opfern hat Gott Wohlgefallen.</verse>
+        <verse osisID='Heb.13.17'>Folget euren Vorstehern und gebt ihnen nach; denn sie wachen über eure Seelen, als die da Rechenschaft geben sollen, auf daß sie es mit Freuden tun und nicht mit Seufzen; denn das frommt euch nicht.</verse>
+        <verse osisID='Heb.13.18'>Betet für uns; denn wir sind guter Zuversicht, daß wir ein gut Gewissen haben, und fleißigen uns in allen Stücken, einen guten Wandel zu führen.</verse>
+        <verse osisID='Heb.13.19'>Ich bitte euch aber um so mehr, solches zu tun, auf daß ich desto eher wieder zu euch komme.</verse>
+        <verse osisID='Heb.13.20'>Der Gott des Friedens aber, Der von den Toten heraufgeführt hat den großen Hirten der Schafe durch das Blut des ewigen Bundes, unseren Herrn Jesus,</verse>
+        <verse osisID='Heb.13.21'>Der mache euch fertig in jeglichem guten Werk, zu tun Seinen Willen, und schaffe in euch, was vor Ihm wohlgefällig ist, durch Jesus Christus, Welchem sei Ehre in alle Ewigkeit! Amen.</verse>
+        <verse osisID='Heb.13.22'>Ich ermahne euch aber, Brüder, lasset das Wort der Ermahnung an euch kommen; denn ich habe euch nur kurz geschrieben.</verse>
+        <verse osisID='Heb.13.23'>Wisset, daß Bruder Timotheus freigegeben ist; mit ihm werde ich, wenn er bald kommt, euch sehen.</verse>
+        <verse osisID='Heb.13.24'>Grüßet alle eure Vorsteher und alle Heiligen, es grüßen euch die aus Italien.</verse>
+        <verse osisID='Heb.13.25'>Die Gnade sei mit euch allen! Amen.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

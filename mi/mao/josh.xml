@@ -1,0 +1,808 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <osisText xml:lang='mi' osisIDWork='MAO' osisRefWork='Bible'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='MAO'>
+        <title>Maori Version</title>
+        <contributor> The Unbound Bible
+     Biola University: Administrative Computing
+     13800 Biola Ave.
+     La Mirada, CA 90639
+     United States of America
+     562-903-4722 </contributor>
+        <creator/>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject>holy bible</subject>
+        <date>2009-01-20</date>
+        <description>Maori Bible prepared by Timothy Mora. Text reproduced by Dr. Cleve Barlow.</description>
+        <publisher>FREE BIBLE SOFTWARE GRUOP</publisher>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>MAO</identifier>
+        <source>ftp://unboundftp.biola.edu/pub/maori.zip</source>
+        <language type='IETF'>mi</language>
+        <relation/>
+        <coverage>Provide the bible to the world</coverage>
+        <rights>i think public domain</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Josh'>
+      <chapter osisID='Josh.1'>
+        <verse osisID='Josh.1.1'> Na, i muri iho i te matenga o Mohi, o te pononga a Ihowa, ka korero a Ihowa ki a Hohua, ki te tama a Nunu, ki te tangata a Mohi, ka mea,</verse>
+        <verse osisID='Josh.1.2'>Kua mate a Mohi, taku pononga; na whakatika, whiti atu i tenei Horano, a koe me tenei iwi katoa, ki te whenua ka hoatu nei e ahau ki a ratou, ara ki nga tama a Iharaira.</verse>
+        <verse osisID='Josh.1.3'>Ko nga wahi katoa e takahia e nga kapu o o koutou waewae kua hoatu e ahau a reira ki a koutou, ka rite ki taku i korero ai ki a Mohi.</verse>
+        <verse osisID='Josh.1.4'>Ko te rohe ki a koutou kei te koraha, kei Repanona nei, a te awa nui atu ana, ara te Awa Uparati, ko te whenua katoa o nga Hiti, a tae noa ki te moana nui, ki te toenetanga o te ra.</verse>
+        <verse osisID='Josh.1.5'>E kore tetahi e kaha ki te tu ki tou aroaro i nga ra katoa e ora ai koe: i a Mohi ahau, ka pera ano ahau ki a koe; e kore ahau e whakarere i a koe, e kore hoki e mawehe i a koe.</verse>
+        <verse osisID='Josh.1.6'>Kia kaha, kia maia rawa: mau hoki tenei iwi e whakawhiwhi ki te whenua i oati ai ahau ki o ratou matua kia hoatu ki a ratou.</verse>
+        <verse osisID='Josh.1.7'>Heoi kia kaha, kia tino maia rawa ki te pupuri, ki te mahi i nga ture katoa i whakahaua ki a koe e Mohi, e taku pononga: kei peka ke koe i reira ki matau, ki maui ranei, kia tika ai tau i nga wahi katoa e haere ai koe.</verse>
+        <verse osisID='Josh.1.8'>Kei whakarerea e tou waha tenei pukapuka o te ture; engari kia u ou whakaaro ki reira i te ao, i te po, kia mau ai koe ki te mahi i nga mea katoa kua oti te tuhi ki reira: ma reira ka whai wahi ai koe i tou huarahi, ma reira hoki koe ka kake ai.</verse>
+        <verse osisID='Josh.1.9'>Kahore ianei ahau i whakahau ki a koe? Kia kaha, kia maia; kaua e wehi, kaua hoki e pawera: no te mea kei a koe a Ihowa, tou Atua, i nga wahi katoa e haere ai koe.</verse>
+        <verse osisID='Josh.1.10'> Na ka whakahau a Hohua i nga rangatira o te iwi, ka mea,</verse>
+        <verse osisID='Josh.1.11'>Haere ra waenganui o te puni, ka whakahau i te iwi, ka mea, Taka he o mo koutou; no te mea kia toru ake ra ka whiti koutou i te Horano nei, ka haere ki te tango i te whenua ka homai nei e Ihowa, e to koutou Atua, kia nohoia e koutou.</verse>
+        <verse osisID='Josh.1.12'>I korero ano a Hohua ki nga Reupeni, ki nga Kari, ki tetahi taanga hoki o te iwi o Manahi, i mea,</verse>
+        <verse osisID='Josh.1.13'>Kia mahara ki te kupu i whakahau ai a Mohi, te pononga a Ihowa ki a koutou, i mea ai, E mea ana a Ihowa, to koutou Atua, i a koutou kia okioki, ka homai hoki e ia tenei whenua ki a koutou.</verse>
+        <verse osisID='Josh.1.14'>Ko a koutou wahine, ko a koutou tamariki, me a koutou kararehe, me noho ki te whenua i hoatu e Mohi ki a koutou i tenei taha o Horano, ko koutou ia, ko nga marohirohi katoa, me haere topuni atu i te aroaro o o koutou tuakana, hei whakauru mo rat ou;</verse>
+        <verse osisID='Josh.1.15'>Kia meinga ra ano e Ihowa o koutou tuakana kia okioki, kia pena me koutou, a kia whiwhi ratou ki te whenua ka homai nei e Ihowa, e to koutou Atua, ki a ratou; katahi koutou ka hoki ai ki te whenua i riro nei i a koutou, ka noho ai hoki ki te wah i i hoatu e Mohi, e te pononga a Ihowa, ki a koutou i tenei taha o Horano, i te putanga mai o te ra.</verse>
+        <verse osisID='Josh.1.16'> Na ka whakahoki ratou ki a Hohua, ka mea, Ko nga mea katoa e whakahaua e koe ki a matou ka meatia e matou, a ka haere hoki matou ki nga wahi katoa e unga ai matou e koe.</verse>
+        <verse osisID='Josh.1.17'>Ko to matou rongo ki a Mohi i nga mea katoa, ka pera ano to matou rongo ki a koe: kia noho ra ia a Ihowa, tou Atua, ki a koe, me ia hoki i noho ki a Mohi.</verse>
+        <verse osisID='Josh.1.18'>Ahakoa ko wai te tangata e tutu ki tau whakahau, e kore hoki e rongo ki au kupu, ki nga mea katoa e whakahau ai koe ki a ia, me whakamate: ko koe ia kia kaha, kia maia.</verse>
+      </chapter>
+      <chapter osisID='Josh.2'>
+        <verse osisID='Josh.2.1'> Na ka tonoa atu e Hohua, e te tama a Nunu, etahi tangata tokorua i Hitimi hei tutei puku atu, i mea ia, Tikina, tirohia te whenua, me Heriko hoki. Na haere ana raua, a ka tae ki te whare o tetahi wahine kairau, ko Rahapa tona ingoa, a ka moe i re ira.</verse>
+        <verse osisID='Josh.2.2'>Na ka korerotia ki te kingi o Heriko, ka meatia, Nana, kua tae mai etahi tangata ki konei i te po nei, no nga tama a Iharaira, he whakataki i te whenua.</verse>
+        <verse osisID='Josh.2.3'>Na ka tonoa atu e te kingi o Heriko ki a Rahapa, ka mea, Whakaputaina mai ki waho nga tangata i haere mai na ki a koe, i haere atu na ki tou whare: i haere mai hoki raua he mataki i te whenua katoa.</verse>
+        <verse osisID='Josh.2.4'>Na ka hopu te wahine ra ki nga tangata tokorua, a huna iho e ia; a ka mea atu ia, He tika i haere mai nga tangata ki ahau, heoi, kihai ahau i mohio no hea ranei raua:</verse>
+        <verse osisID='Josh.2.5'>A, no te wa o te tutakitanga o te kuwaha, no te mea ka pouri nei, ka puta atu aua tangata ki waho: kahore ahau e mohio i haere aua tangata ki hea: kia hohoro te whai i muri i a raua; ka mau hoki raua i a koutou.</verse>
+        <verse osisID='Josh.2.6'>Kahore ia, kua kawea raua e ia ki runga ki te tuanui, a huna ana raua ki nga kakau rinena i horahorangia e ia ki runga i te tuanui.</verse>
+        <verse osisID='Josh.2.7'>Na ka whai nga tangata i muri i a raua na te huarahi ki Horano a tae noa ki nga whakawhitinga: a, no te putanga atu ano o nga kaiwhai i a raua ki waho, ka tutakina te kuwaha.</verse>
+        <verse osisID='Josh.2.8'> A, kiano raua i takoto noa, na ka haere ake ia ki a raua ki te tuanui;</verse>
+        <verse osisID='Josh.2.9'>Ka mea ki aua tangata, E mohio ana ahau kua hoatu te whenua nei e Ihowa ki a koutou, kua tau mai hoki te wehi o koutou ki a matou, a kei te ngohe noa nga tangata katoa o te whenua nei i a koutou.</verse>
+        <verse osisID='Josh.2.10'>I rongo hoki matou ki ta Ihowa whakamaroketanga i te wai o te Moana Whero i o koutou aroaro, i to koutou putanga mai i Ihipa; ki nga mea hoki i meatia e koutou ki nga kingi tokorua o nga Amori i tawahi o Horano, ki a Hihona raua ko Oka, i huna n ei e koutou.</verse>
+        <verse osisID='Josh.2.11'>A, i to matou rongonga ano, ka ngohe noa o matou ngakau, kahore atu hoki he tokonga ake o te wairua i roto i tetahi, na koutou hoki: no te mea ko Ihowa, ko to koutou Atua, ko ia te Atua i te rangi i runga, i te whenua hoki i raro.</verse>
+        <verse osisID='Josh.2.12'>Na, tena, oatitia mai a Ihowa ki ahau, i te mea kua atawhaitia nei korua e ahau, ka atawhai hoki koutou ki te whare o toku matua, a ka homai he tohu pono ki ahau:</verse>
+        <verse osisID='Josh.2.13'>Ka whakaora hoki koutou i toku papa, i toku whaea, i oku tungane, i oku tuakana, me a ratou mea katoa, a ka araarai i a matou kei mate.</verse>
+        <verse osisID='Josh.2.14'>Na ka mea aua tangata ki a ia, Ko to maua ora mo to koutou, ki te kahore koutou e whaki i ta maua take: a tenei ake, hei te homaitanga a Ihowa i te whenua ki a matou, ka puta hoki ta matou mahi atawhai, ta matou mahi pono ki a koe.</verse>
+        <verse osisID='Josh.2.15'>Na tukua iho ana raua e ia ki tetahi taura na te matapihi: kei te taiepa tonu hoki o te pa tona whare, a noho ai ia i runga i te taiepa.</verse>
+        <verse osisID='Josh.2.16'>A ka mea ia ki a raua, Haere ki te maunga, kei tutaki nga kaiwhai ki a korua; ka piri ai ki reira kia toru nga ra, kia hoki mai ra ano nga kaiwhai: katahi korua ka haere i to korua huarahi.</verse>
+        <verse osisID='Josh.2.17'>Katahi ka mea aua tangata ki a ia, E kore maua e whai hara mo tenei oati au i whakaoati nei koe i a maua.</verse>
+        <verse osisID='Josh.2.18'>Nana, ina tae mai matou ki tenei whenua, herea te miro nei, te aho whero nei ki te matapihi i tukua iho nei maua e koe na reira; a me whakahuihui mai ki a koe, ki roto ki te whare, tou papa, me tou whaea, me ou tungane, me te nohoanga katoa o to u papa.</verse>
+        <verse osisID='Josh.2.19'>Na ahakoa ko wai te tangata e puta atu ana ki waho o nga tatau o tou whare, hei runga ano i tona mahunga ona toto, ko maua ia ka harakore; tena ko nga tangata katoa i roto tahi koutou i te whare, hei o maua mahunga ona toto, ki te pa atu tetahi ringa ki a ia.</verse>
+        <verse osisID='Josh.2.20'>Otiia, ki te korero koe i ta maua take, ka watea maua i tau oati i whakaoati nei koe i a maua.</verse>
+        <verse osisID='Josh.2.21'>Ano ra ko ia, Waiho i ta korua i mea na. A tukua atu ana raua e ia, a haere ana raua: a herea ana e ia te aho whero ki te matapihi.</verse>
+        <verse osisID='Josh.2.22'> Na ka haere raua, a ka tae ki te maunga, a noho ana i reira e toru nga ra, a hoki noa nga kaiwhai: a rapu noa nga kaiwhai i a raua i te huarahi katoa, a kahore i kitea.</verse>
+        <verse osisID='Josh.2.23'>Katahi ka hoki aua tangata tokorua, ka heke iho i te maunga, a ka whiti, ka tae ki a Hohua, tama a Nunu, ka korero ki a ia i nga mea katoa i pono ki a raua.</verse>
+        <verse osisID='Josh.2.24'>A ka mea raua ki a Hohua, Koia ano, kua homai e Ihowa te whenua katoa ki o tatou ringa; a ngohe kau nga tangata katoa o te whenua i a tatou.</verse>
+      </chapter>
+      <chapter osisID='Josh.3'>
+        <verse osisID='Josh.3.1'> Na ka maranga wawe a Hohua i te ata, a ka turia atu e ratou i Hitimi, ka tae ki Horano, a ia me nga tama katoa a Iharaira, a moe ana ki reira i te mea kiano i whiti noa.</verse>
+        <verse osisID='Josh.3.2'>Na, i te paunga o nga ra e toru, ka haere nga rangatira na waenganui o te puni;</verse>
+        <verse osisID='Josh.3.3'>A ka whakahau i te iwi, ka mea, E kite koutou i te aaka o te kawenata a Ihowa, a to koutou Atua, i nga tohunga hoki, i nga Riwaiti e amo ana, hei kona ka whakatika atu i o koutou nohoanga, ka haere i muri.</verse>
+        <verse osisID='Josh.3.4'>Otiia kia whai takiwa ki waenganui o koutou, o taua mea; kia rua mano whatianga, he mea whanganga marie; kaua e whakatata ki taua mea, kia mohio ai koutou ki te huarahi e haere ai koutou: kahore nei hoki koutou i haere i tena huarahi i mua ake ne i.</verse>
+        <verse osisID='Josh.3.5'>A i mea ano a Hohua ki te iwi, Whakatapu i a koutou: ko apopo hoki a Ihowa mahi ai i nga mea whakamiharo ki waenganui i a koutou.</verse>
+        <verse osisID='Josh.3.6'>I mea ano a Hohua ki nga tohunga, Hapainga ake te aaka o te kawenata, haere i mua i te iwi. A hapainga ana e ratou te aaka o te kawenata, a haere ana i mua i te iwi.</verse>
+        <verse osisID='Josh.3.7'> A ka mea a Ihowa ki a Hohua, Ko aianei ahau timata ai te whakanui i a koe ki te aroaro o Iharaira katoa, kia mohio ai ratou, i a mohi ahau, ka pera ano ahau ki a koe.</verse>
+        <verse osisID='Josh.3.8'>A mau e whakahau ki nga tohunga e amo ana i te aaka o te kawenata, e mea, E tae koutou ki te tapa o te wai o Horano, me ata tu i roto i Horano.</verse>
+        <verse osisID='Josh.3.9'>Na ka mea a Hohua ki nga tama a Iharaira, Haere mai, whakarongo ki nga kupu a Ihowa, a to koutou Atua.</verse>
+        <verse osisID='Josh.3.10'>Na ka mea a Hohua, Ma konei koutou ka mohio ai kei roto i a koutou te Atua ora, a ka peia rawatia e ia i to koutou aroaro nga Kanaani, nga Hiti, nga Hiwi, nga Perihi, nga Kirikahi, nga Amori, me nga Iepuhi.</verse>
+        <verse osisID='Josh.3.11'>Nana, ko te aaka o te kawenata a te Ariki o te ao katoa te haere nei i mua i a koutou ki roto o Horano.</verse>
+        <verse osisID='Josh.3.12'>Na motuhia ki a koutou kia tekau ma rua tangata o nga iwi o Iharaira, kia takikotahi te tangata o te iwi.</verse>
+        <verse osisID='Josh.3.13'>A, ina tatu nga kapu o nga waewae o nga tohunga e amo ana i te aaka a Ihowa, a te Ariki o te ao katoa, ki nga wai o Horano, ka motuhia nga wai o Horano, ara nga wai e rere mai ana i runga; a ka tu ake, kotahi ano puranga.</verse>
+        <verse osisID='Josh.3.14'> A, no te haerenga atu o te iwi i o ratou teneti ki te whakawhiti i Horano, me nga tohunga hoki e amo ana i te aaka o te kawenata i mua i te iwi;</verse>
+        <verse osisID='Josh.3.15'>A, i te taenga o nga kaiamo i te aaka ki Horano, i te tukunga atu hoki o nga waewae o nga tohunga e amo ana i te aaka ki te taha o te wai; e ngawha ana hoki a Horano ki runga i ona pareparenga katoa i nga ra katoa o te kotinga;</verse>
+        <verse osisID='Josh.3.16'>Ko te tino turanga o nga wai e heke iho ana i runga, ara ake ana kotahi ano puranga, i tawhiti noa atu i te pa i Arama, i te taha o Haretana: a, ko nga wai e rere iho ana ki te moana o te mania, ki te Moana Tote, mimiti ana, motu ke atu ana: a w hiti ana te iwi i te ritenga atu o Heriko.</verse>
+        <verse osisID='Josh.3.17'>A tu marie ana nga tohunga i amo nei i te aaka o te kawenata a Ihowa i te wahi maroke i waenganui o Horano, me te haere ano a Iharaira katoa ki tawahi na te wahi maroke, a poto noa te iwi katoa te whiti i Horano.</verse>
+      </chapter>
+      <chapter osisID='Josh.4'>
+        <verse osisID='Josh.4.1'> A, ka poto katoa te iwi te whiti i Horano, na ka korero a Ihowa ki a Hohua, ka mea,</verse>
+        <verse osisID='Josh.4.2'>Tangohia mai e koutou i roto i te iwi kia kotahi tekau ma rua tangata, kia takikotahi tangata o te iwi,</verse>
+        <verse osisID='Josh.4.3'>A ka whakahau ki a ratou, ka mea, Tangohia atu i konei, i waenganui o Horano, i te wahi i ata tu ai nga waewae o nga tohunga, kia tekau ma rua nga kohatu, a maua atu, waiho ki te moenga e moe ai koutou a tenei po.</verse>
+        <verse osisID='Josh.4.4'>Na ka karangatia e Hohua nga tangata kotahi tekau ma rua i whakaritea e ia i roto i nga tama a Iharaira, takikotahi te tangata o roto o te iwi:</verse>
+        <verse osisID='Josh.4.5'>A ka mea a Hohua ki a ratou, Haere atu i mua i te aaka a Ihowa, a to koutou Atua, ki waenganui o Horano, ka hapai ake kia takikotahi te kohatu ma te tangata ki runga ki tona pokohiwi, kia rite ki nga iwi o nga tama a Iharaira te maha:</verse>
+        <verse osisID='Josh.4.6'>Kia waiho ai tenei mea hei tohu ki waenganui i a koutou; mo te ui a a koutou tamariki a mua, mo te mea, Hei aha enei kohatu ma koutou?</verse>
+        <verse osisID='Josh.4.7'>Katahi koutou ka mea atu ki a ratou, No te motuhanga i nga wai o Horano i mua i te aaka o te kawenata a Ihowa; i tona whitinga mai i Horano i motuhia nga wai o Horano: a ko enei kohatu hei whakamahara mo nga tama a Iharaira a ake ake.</verse>
+        <verse osisID='Josh.4.8'>A peratia ana e nga tama a Iharaira me ta Hohua i whakahau ai, hapainga ake ana e ratou nga kohatu kotahi tekau ma rua i waenganui o Horano, peratia ana me ta Ihowa i korero ai ki a Hohua, he mea rite ki nga iwi o nga tama a Iharaira te maha; a m auria ana ki to ratou puni, waiho ana i reira.</verse>
+        <verse osisID='Josh.4.9'>A i whakaturia e Hohua etahi kohatu kotahi tekau ma rua ki waenganui o Horano, ki te wahi i tu ai nga waewae o nga tohunga i amo i te aaka o te kawenata: kei reira ano aua kohatu a mohoa noa nei.</verse>
+        <verse osisID='Josh.4.10'> Heoi, tu ana tera nga tohunga i amo i te aaka i waenganui o Horano a oti noa nga mea katoa i whakahau ai a Ihowa ki a Hohua kia korerotia ki te iwi, i rite tonu ki nga mea katoa i whakahau ai a Mohi ki a Hohua; a i hohoro tonu te iwi te whiti.</verse>
+        <verse osisID='Josh.4.11'>A, ka tapeke katoa te iwi te whiti, na ka whiti te aaka a Ihowa, me nga tohunga i te tirohanga a te iwi.</verse>
+        <verse osisID='Josh.4.12'>Ko nga tama a Reupena, ko nga tama a Kara, me tetahi taanga o te iwi o Manahi i whiti topuni atu i te aroaro o nga tama a Iharaira, i pera me ta Mohi i korero ai ki a ratou;</verse>
+        <verse osisID='Josh.4.13'>Kei te wha tekau nga mano, he hunga tumatohi tonu mo te riri, i haere i te aroaro o Ihowa ki nga mania o Heriko ki te whawhai.</verse>
+        <verse osisID='Josh.4.14'>No taua ra i whakanui ai a Ihowa i a Hohua i te aroaro o Iharaira katoa; a wehi ana ratou i a ia, pera ana me ratou i wehi i a Mohi, i nga ra katoa i ora ai ia.</verse>
+        <verse osisID='Josh.4.15'>I korero ano a Ihowa ki a Hohua, i mea,</verse>
+        <verse osisID='Josh.4.16'>Ki atu ki nga tohunga e amo ana i te aaka o te whakaaturanga, kia haere ake i roto i Horano.</verse>
+        <verse osisID='Josh.4.17'>Na ka mea atu a hohua ki nga tohunga, Haere ake i roto i Horano.</verse>
+        <verse osisID='Josh.4.18'>A, no te haerenga ake o nga tohunga i amo i te aaka o te kawenata a Ihowa i waenganui o Horano, a ka mahuta ake nga kapu o nga waewae o nga tohunga ki te wahi maroke, ko te tino hokinga o te wai o Horano ki tona wahi ano, a huri tonu ake ki rung a i ona pareparenga, pera ana me to mua.</verse>
+        <verse osisID='Josh.4.19'>No te tekau o nga ra o te marama tuatahi te iwi i haere ake ai i Horano, a noho ana i Kirikara i te taha ki te rawhiti o Heriko.</verse>
+        <verse osisID='Josh.4.20'> A, ko aua kohatu kotahi tekau ma rua i tangohia, ake e ratou i roto i Horano, na Hohua i whakatu ki Kirikara.</verse>
+        <verse osisID='Josh.4.21'>A, i korero ia ki nga tama a Iharaira, i mea, E ui a koutou tamariki a mua ki o ratou matua, e mea, He aha enei kohatu?</verse>
+        <verse osisID='Josh.4.22'>Na me whakaatu ki a koutou tama, me ki atu, I whiti maroke mai a Iharaira i tenei Horano.</verse>
+        <verse osisID='Josh.4.23'>Na Ihowa hoki, na to koutou Atua i whakamaroke nga wai o Horano i mua i a koutou, a whiti noa koutou, rite tahi ki ta Ihowa, ki ta to koutou Atua i mea ai ki te Moana Whero, i whakamaroketia ra e ia i mua hoki i a tatou, a whiti noa mai tatou:</verse>
+        <verse osisID='Josh.4.24'>Kia mohio ai nga iwi katoa o te whenua ki te ringa o Ihowa, he kaha; kia wehi ai ratou i a Ihowa, i to koutou Atua, i nga ra katoa.</verse>
+      </chapter>
+      <chapter osisID='Josh.5'>
+        <verse osisID='Josh.5.1'> A, no te rongonga o nga kingi katoa o nga Amori, o era ki te taha ki te hauauru o Horano, me nga kingi katoa o nga Kanaani, o era i te moana, ki te whakamaroketanga a Ihowa i nga wai o Horano i te aroaro o nga tama a Iharaira a whiti noa matou, n a ka ngohe noa o ratou ngakau, kahore atu hoki o ratou wairua, i te wehi ki nga tama a Iharaira.</verse>
+        <verse osisID='Josh.5.2'>Na i taua wa ka mea a Ihowa ki a Hohua, Hanga etahi maripi kohatu mau, a ka tuarua i te kotinga o nga tama a Iharaira.</verse>
+        <verse osisID='Josh.5.3'>A hanga ana e Hohua etahi maripi kohatu, a kotia iho nga tama a Iharaira ki te pukepuke o nga kiri matamata.</verse>
+        <verse osisID='Josh.5.4'>A ko te take tenei i kokoti ai a Hohua: ko te hunga katoa i puta mai i Ihipa, ko nga tane, ko nga tangata hapai patu, i mate ki te ara i te koraha, i muri i to ratou putanga mai i Ihipa.</verse>
+        <verse osisID='Josh.5.5'>Na ko te hunga katoa i puta mai he mea kokoti katoa: tena ko te hunga i whanau ki te ara i te koraha i to ratou putanga mai i Ihipa, kihai ena i kotia e ratou.</verse>
+        <verse osisID='Josh.5.6'>E wha tekau hoki nga tau i haere ai nga tama a Iharaira i te koraha, a poto noa te hunga hapai puta katoa i puta mai i Ihipa, mo ratou kihai i rongo ki te reo o Ihowa: ko nga tangata hoki i oati nei a Ihowa ki a ratou, e kore e whakakitea ki a ra tou te whenua i oati ai a Ihowa ki o ratou matua kia homai e ia ki a tatou, te whenua hoki e rerengia ana e te waiu, e te honi.</verse>
+        <verse osisID='Josh.5.7'>A, ko a ratou tamariki i whakaarahia ake e ia hei whakakapi mo ratou, ko ratou i kotia e Hohua: no te mea kahore o ratou kotinga; kahore nei hoki ratou i kotia i te huarahi.</verse>
+        <verse osisID='Josh.5.8'>A, no ka poto katoa nga tangata te kokoti e ratou, ka noho ratou ki te puni ki o ratou wahi a mahu noa.</verse>
+        <verse osisID='Josh.5.9'>Na ka mea a Ihowa ki a Hohua, No tenei ra i hurihia atu ai e ahau te taunutanga o Ihipa i a koutou. Na reira i huaina ai te ingoa o taua wahi ko Kirikara a tae noa mai ki tenei ra.</verse>
+        <verse osisID='Josh.5.10'> A i noho nga tama a Iharaira ki Kirikara; a i mahi ratou i te kapenga i te tekau ma wha o nga ra o te marama i te ahiahi, i nga mania o Heriko.</verse>
+        <verse osisID='Josh.5.11'>A, no te aonga ake i te kapenga, i kai ai ratou i te witi o te whenua, he keke kihai i rewenatia, me te witi pahuhu, no taua rangi pu ano.</verse>
+        <verse osisID='Josh.5.12'>A i whakamutua te mana i te aonga ake o te ra, i muri i ta ratou kainga i te witi ake o te whenua; kahore atu hoki he mana ma nga tama a Iharaira; heoti, kai ana ratou i nga hua o te whenua o Kanaana i taua tau.</verse>
+        <verse osisID='Josh.5.13'> A, i a Hohua i Heriko, na ka anga ake ona kanohi, ka titiro, na he tangata e tu mai ana i tona aroaro, ko tana hoari hoki i tona ringa, unu rawa: na ka haere atu a Hohua ki a ia, ka mea ki a ia, mo matou ranei koe, mo o matou hoariri ranei?</verse>
+        <verse osisID='Josh.5.14'>Ka mea ia, Kahore; engari he rangatira no te ope a Ihowa ahau i haere mai nei. Na ka tapapa a Hohua ki te whenua, ka koropiko, ka mea ki a ia, E pehea mai ana toku ariki ki tana pononga?</verse>
+        <verse osisID='Josh.5.15'>A ka mea te rangatira o te ope a Ihowa ki a Hohua, Wetekina tou hu i tou waewae; he tapu hoki te wahi e tu na koe. A pera ana a Hohua.</verse>
+      </chapter>
+      <chapter osisID='Josh.6'>
+        <verse osisID='Josh.6.1'> Na he mea tino tutaki a Heriko i te wehi i nga tama a Iharaira; kahore he tangata i haere ki waho, kahore hoki tetahi i haere ki roto.</verse>
+        <verse osisID='Josh.6.2'>A ka mea a Ihowa ki a Hohua, Titiro, kua hoatu e ahau ki tou ringa a Heriko, me tona kingi, ratou ko nga marohirohi.</verse>
+        <verse osisID='Josh.6.3'>Na taiawhiotia te pa e koutou, e nga tangata hapai patu katoa, me haere a tawhio noa te pa, kia kotahi ano awhiotanga, Kia ono nga ra e pena ai koe.</verse>
+        <verse osisID='Josh.6.4'>A kia tokowhitu nga tohunga e mau i nga tetere haona hipi e whitu ki mua i te aaka; a i te whitu o nga ra me taiawhio e koutou te pa, kia whitu nga taiawhiotanga, a me whakatangi e nga tohunga nga tetere.</verse>
+        <verse osisID='Josh.6.5'>A, ko roa te tangi o te haona hipi, a ka rangona e koutou te tangi o te tetere, me hamama katoa te iwi, kia nui te hamama; na ka hinga te taiepa o te pa, papa rawa ki raro, a ka piki atu te iwi, tera, tera, i nga wahi e rite mai ana ki a ratou.</verse>
+        <verse osisID='Josh.6.6'> Na ka karanga a Hohua, te tama a Nunu, ki nga tohunga, ka mea ki a ratou, Hapainga te aaka o te kawenata, a ma nga tohunga tokowhitu e mau nga tetere haona hipi e whitu ki mua i te aaka a Ihowa.</verse>
+        <verse osisID='Josh.6.7'>A i mea ratou ki te iwi, Haere, taiawhiotia te pa, a ko nga tangata hapai patu e haere i mua i te aaka a Ihowa.</verse>
+        <verse osisID='Josh.6.8'>Heoi, i te korerotanga a Hohua ki te iwi, na ka mau nga tohunga tokowhitu ki nga tetere haona hipi e whitu, a haere ana i mua i a Ihowa, me te whakatangi ano i nga tetere; i haere hoki te aaka o te kawenata a Ihowa i muri i a ratou.</verse>
+        <verse osisID='Josh.6.9'>A ko nga tangata hapai patu i haere i mua i nga tohunga e whakatangi ana i nga tetere, ko te hiku i haere i muri i te aaka, haere ana nga tohunga me te whakatangi haere i nga tetere.</verse>
+        <verse osisID='Josh.6.10'>A i whakaako a Hohua i te iwi, i mea, Kaua e hamama, kaua o koutou reo e rangona, kei puta hoki tetahi kupu i o koutou waha, a tae noa ki te ra e mea ai ahau ki a koutou, kia hamama; hei reira koutou ka hamama.</verse>
+        <verse osisID='Josh.6.11'>Na meinga ana e ia kia taiawhiotia te pa e te aaka a Ihowa, haere ana a tawhio noa, kotahi ano taiawhiotanga: na ka haere ratou ki te puni, a moe ana ki te puni.</verse>
+        <verse osisID='Josh.6.12'>A ka maranga wawe a Hohua i te ata, a hapainga ake ana e nga tohunga te aaka a Ihowa.</verse>
+        <verse osisID='Josh.6.13'>I mau ano hoki nga tohunga tokowhitu i nga tetere haona hipi e whitu i mua i te aaka a Ihowa, i haere tonu me te whakatangi haere i nga tetere: a ko nga tangata hapai patu i haere i mua i a ratou; ko te nuinga ia i haere i muri i te aaka a Ihowa: haere ana nga tohunga me te whakatangi ano i nga tetere.</verse>
+        <verse osisID='Josh.6.14'>A i te rua o nga ra i taiawhiotia e ratou te pa, kotahi ano taiawhiotanga, a hoki ana ki te puni: a pera tonu ratou i nga ra e ono.</verse>
+        <verse osisID='Josh.6.15'>Na i te whitu o nga ra ka maranga wawe ratou i te puaotanga o te ra, ka taiawhio hoki i te pa, e whitu nga taiawhiotanga, ko taua ritenga ra ano; otiia i taua ra e whitu a ratou taiawhiotanga i te pa.</verse>
+        <verse osisID='Josh.6.16'>Na i te whitu o nga taiawhiotanga, ka whakatanga nga tohunga i nga tetere, ka mea a Hohua ki te iwi, Hamama; kua homai hoki e Ihowa te pa ki a koutou.</verse>
+        <verse osisID='Josh.6.17'> Hei mea oti atu ano te pa ma Ihowa, a reira me nga mea katoa i roto; ko Rahapa anake, ko te wahine kairau, ko ia kia ora me nga mea katoa i a ia i roto i te whare, mona i huna i nga tangata i tonoa atu e tatou.</verse>
+        <verse osisID='Josh.6.18'>Ko koutou ia, kia hopohopo ki te mea kua oti te kanga, kei takina he kanga ki a koutou, ki te tango i tetahi wahi o te mea kua oti te kanga; a ka meinga te ope o Iharaira kia kanga, a whakararua iho e koutou.</verse>
+        <verse osisID='Josh.6.19'>Engari nga hiriwa me nga koura, me nga mea parahi, rino hoki, kia tapu ena ma Ihowa; me riro ena ki roto ki te whare taonga a Ihowa.</verse>
+        <verse osisID='Josh.6.20'>Heoi ka hamama te iwi, a ka whakatangi nga tohunga i nga tetere: na, i te rongonga o te iwi i te tangi o te tetere, ko te tino hamamatanga o te iwi, he nui te hamama, a hinga iho te taiepa, papa rawa ki raro, a piki atu ana te iwi ki roto ki te pa, tera, tera, i te wahi e rite mai ana ki a ia, na horo ana i a ratou te pa.</verse>
+        <verse osisID='Josh.6.21'>A tino huna rawatia e ratou nga mea katoa i te pa, nga tane, nga wahine, nga taitamariki, nga koroheke, nga kau, nga hipi, nga kaihe, ki te mata o te hoari.</verse>
+        <verse osisID='Josh.6.22'>A i mea a Hohua ki nga tangata tokorua i tuteia ai te whenua, Haere ki te whare o te wahine kairau, mauria mai hoki i reira te wahine me nga mea katoa i a ia, whakaritea ta korua i oati ai ki a ia.</verse>
+        <verse osisID='Josh.6.23'>Na ka haere aua taitama, nga tutei, a mauria ana mai e raua a Rahapa, tona papa, tona whaea, ona tungane, me nga mea katoa i a ia, a mauria katoatia mai ana hoki e raua ona whanaunga katoa ki waho; a waiho ana i waho o te puni o Iharaira.</verse>
+        <verse osisID='Josh.6.24'>Na tahuna ake e ratou te pa ki te ahi, me nga mea katoa i roto: ko te hiriwa anake, me te koura, me nga mea parahi, rino hoki, i hoatu e ratou ki te whare taonga o te whare o Ihowa.</verse>
+        <verse osisID='Josh.6.25'>Otiia ko Rahapa, ko te wahine kairau, ko te nohoanga o tona papa, me nga mea katoa i a ia, i whakaorangia e Hohua; a noho ana ia i waenganui o Iharaira a tae noa mai ki tenei ra, mona i huna i nga tangata i tonoa e Hohua ki te tutei i Heriko.</verse>
+        <verse osisID='Josh.6.26'>Na ka whakaoati a Hohua i a ratou i taua wa, ka mea, Ka kanga te tangata ki te aroaro o Ihowa e whakatika ana, ka hanga i tenei pa, i Heriko: ka whakaturia e ia hei runga i tana matamua, ka whakanohoia ano nga tatau hei runga i tana tama o muri.</verse>
+        <verse osisID='Josh.6.27'>Heoi i a Hohua tonu a Ihowa; a paku ana tona rongo puta noa i te whenua.</verse>
+      </chapter>
+      <chapter osisID='Josh.7'>
+        <verse osisID='Josh.7.1'> Otiia i taka nga tama a Iharaira ki te kino i te mea kua oti te kanga: he tangohanga na Akana tama a Karami, tama a Taperi, tama a Tera, o te iwi o Hura, i tetahi wahi o te mea kua oti te kanga; a mura iho te riri o Ihowa ki nga tama a Iharaira.</verse>
+        <verse osisID='Josh.7.2'>Na ka tonoa atu e Hohua etahi tangata i Heriko ki Hai, ki te taha o Peteawene, i te taha ki te rawhiti o Peteere, ka korero hoki ki a ratou, ka mea, Haere ki runga ki te titiro i te whenua. Na ka haere aua tangata, ka titiro i Hai.</verse>
+        <verse osisID='Josh.7.3'>A ka hoki mai ratou ki a Hohua, ka mea ki a ia, Kaua e haere katoa te iwi ki runga; engari kia rua, kia toru ranei mano o nga tangata e haere ki runga ki te patu i Hai; kaua hei whakangenge kau atu i te iwi ki reira; he tokoouou hoki ratou.</verse>
+        <verse osisID='Josh.7.4'>Heoi haere ana ki reira etahi o te iwi, me te mea e toru mano: na rere ana ratou i te aroaro o nga tangata o Hai.</verse>
+        <verse osisID='Josh.7.5'>A tukitukia iho o ratou e nga tangata o Hai me te mea e toru tekau ma ono tangata; i whaia hoki ratou i mua i te kuwaha a tae noa ki Heparimi, na patupatua ana ratou i te heketanga: a ngohe kau te ngakau o te iwi, koia ano kei te wai.</verse>
+        <verse osisID='Josh.7.6'> Na ka haehae a Hohua i ona kakahu, ka tapapa ki te whenua, ki mua o te aaka a Ihowa a ahiahi noa, a ia me nga kaumatua o Iharaira; a opehia ana e ratou he puehu ki o ratou upoko.</verse>
+        <verse osisID='Josh.7.7'>Na ka mea a Hohua, Aue, e te Ariki, e Ihowa, na te aha rawa ra koe i anga ai ki te whakawhiti mai i tenei iwi i Horano, i hoatu ai matou ki te ringa o nga Amori, kia huna ai matou? Aue, me i aro matou ki te noho atu i tera taha o Horano!</verse>
+        <verse osisID='Josh.7.8'>E te Ariki, me pehea ra he kupu maku, kua parea atu nei e Iharaira o ratou tuara i te aroaro o o ratou hoariri?</verse>
+        <verse osisID='Josh.7.9'>Na te mea ka rongo nga Kanaani me nga tangata katoa o te whenua, na ka karapotia matou, ka huna hoki o matou ingoa i te whenua: a ka pehea koe ki tou ingoa nui?</verse>
+        <verse osisID='Josh.7.10'> Na ka mea a Ihowa ki a Hohua, Whakatika; he aha tau e takoto tapapa na?</verse>
+        <verse osisID='Josh.7.11'>Kua hara a Iharaira; ae, kua takahi ratou i taku kawenata i whakarite ai ahau ki a ratou: ae, kua tangohia nei e ratou tetahi wahi o te mea kua oti te kanga, me te tahae, me te teka ano ratou, a whaowhina ana e ratou ki roto ki a ratou mea.</verse>
+        <verse osisID='Josh.7.12'>Na reira nga tama a Iharaira te ahei ai te tu i te aroaro o o ratou hoariri, na hurihia ana o ratou tuara i te aroaro o o ratou hoariri, kua kanga hoki ratou: e kore ahau e haere i a koutou a muri atu, ki te kahore koutou e whakangaro i te mea k anga i roto i a koutou.</verse>
+        <verse osisID='Josh.7.13'>Whakatika, whakatapua te iwi, mea atu, whakatapu i a koutou mo apopo: ko te kupu hoki tenei a Ihowa, a te Atua o Iharaira, Kei roto i a koe, e Iharaira, te mea kanga: e kore koe e kaha ki te tu ki te aroaro o ou hoariri, kia tangohia atu ra ano e koutou te mea kanga i roto i a koutou.</verse>
+        <verse osisID='Josh.7.14'>Na i te ata me whakatata mai koutou, ara o koutou iwi; a tera ko te iwi e tango ai a Ihowa me whakatata mai a hapu; a ko te hapu e tango ai a Ihowa me whakatata a whare mai; a ko te whare e tango ai a Ihowa me whakatata mai ia tangata, ia tangat a.</verse>
+        <verse osisID='Josh.7.15'>A, ko te tangata e hopukia kei a ia te mea kanga, me tahu ki te ahi, a ia me ana mea katoa: mona i takahi i te kawenata a Ihowa, i mahi poauau hoki i roto i a Iharaira.</verse>
+        <verse osisID='Josh.7.16'> Na ka maranga wawe a Hohua i te ata, a whakatataia mai ana e ia a Iharaira, ara ona iwi; na ka mau ko te iwi o Hura.</verse>
+        <verse osisID='Josh.7.17'>Na ka arahina mai e ia te hapu o Hura: a ka mau te hapu o nga Terahi: na ka arahina mai e ia te hapu o nga Terahi, tenei tangata, tenei tangata; a ka mau ko Taperi:</verse>
+        <verse osisID='Josh.7.18'>Na ka arahi ia i tona whare, i tenei tangata, i tenei tangata; a ka mau ko Akana tama a Karami, tama a Taperi, tama a Tera, no te iwi o Hura.</verse>
+        <verse osisID='Josh.7.19'>Katahi a Hohua ka mea ki a Akana, E taku tama, whakakororiatia a Ihowa, te Atua o Iharaira, a whakina ki a ia, whakaaturia mai hoki ki ahau, i aha koe; kaua e huna i ahau.</verse>
+        <verse osisID='Josh.7.20'>Na ka whakautua e Akana ki a Hohua, ka mea, He pono i hara ahau ki a Ihowa, ki te Atua o Iharaira, a tenei taku i mea ai:</verse>
+        <verse osisID='Josh.7.21'>I taku kitenga i tetahi koroka whakapaipai no Papurona i roto i nga taonga, i nga hekere hiriwa e rua rau, i tetahi poro koura, e rima tekau hekere tona taimaha, na ka minamina ahau, ka tango; a tera kei te whenua i waenganui o toku teneti e hun a ana, me te hiriwa hoki kei raro iho.</verse>
+        <verse osisID='Josh.7.22'>Na ka tonoa atu e Hohua etahi tangata, a ko to ratou rerenga atu ki te teneti; na ko taua mea e huna ana i roto i tona teneti, me te hiriwa i raro iho.</verse>
+        <verse osisID='Josh.7.23'>Na tangohia ana e ratou aua mea i waenganui o te teneti, a mauria ana ki a Hohua ratou ko nga tama katoa a Iharaira, a whakatakotoria ana ki te aroaro o Ihowa.</verse>
+        <verse osisID='Josh.7.24'>Na ka tango a Hohua ratou tahi ko Iharaira katoa i a Akana tama a Tera, i te hiriwa, i te koroka, i te poro koura, i ana tama, i ana tamahine, i ana kau, i ana kaihe, i ana hipi, i tona teneti, i nga mea katoa hoki i a ia, a kawea ana ratou ki t e raorao o Akoro.</verse>
+        <verse osisID='Josh.7.25'>Na ka mea a Hohua, Na te aha koe i whakararu ai i a tatou? ka whakararu hoki a Ihowa i a koe i tenei ra. Na akina ana ia e Iharaira katoa ki te kamaka, a tahuna ana ki te ahi i muri iho i ta ratou akinga i a ratou ki te kamaka.</verse>
+        <verse osisID='Josh.7.26'>A whakapurangatia ana e ratou etahi kohatu ki runga i a ia, he nui te ra. Katahi ka tahuri a Ihowa i te muranga o tona riri. Na reira i huaina ai te ingoa o taua wahi, Ko te raorao o Akoro a mohoa noa nei.</verse>
+      </chapter>
+      <chapter osisID='Josh.8'>
+        <verse osisID='Josh.8.1'> Na ka mea a Ihowa ki a Hohua, Kaua e mataku, kaua e pawera: tangohia ki a koe te hunga hapai patu katoa, a whakatika, haere ki runga, ki Hai: titiro hoki, kua hoatu e ahau ki tou ringa te kingi o Hai, tona iwi, tona pa, me tona whenua:</verse>
+        <verse osisID='Josh.8.2'>A kia rite tau e mea ai ki Hai, ki tona kingi hoki, ki tau i mea ai ki Heriko, ki tona kingi: ko ona taonga ia, me ona kararehe, me tango ma koutou: whakatakotoria he pehipehi mo te pa ki tera pito.</verse>
+        <verse osisID='Josh.8.3'> Na ko te whakatikanga o Hohua me te hunga hapai patu katoa ki te whakaeke i Hai: a whiriwhiria ana e Hohua e toru tekau mano o nga tangata, he marohirohi, a tonoa atu ana ratou e ia i te po.</verse>
+        <verse osisID='Josh.8.4'>I whakahau ano ia i a ratou, i mea, Kia mahara, me whakatakoto he pehipehi mo te pa ki tera pito o te pa: kei matara rawa atu i te pa, engari kia tumatohi koutou katoa;</verse>
+        <verse osisID='Josh.8.5'>A maku, ma te hunga katoa hoki i ahau, e whakatata ki te pa: a ka puta mai ratou ki te tu i a matou, ka pera me to mua, na ka rere matou i to ratou aroaro;</verse>
+        <verse osisID='Josh.8.6'>Na ka puta mai ratou ka whai i a matou, a ka manukawhakitia e matou i roto i te pa; tera hoki ratou e mea, E rere ana ratou i o tatou aroaro, pera ano me to mua. A ka rere matou i to ratou aroaro;</verse>
+        <verse osisID='Josh.8.7'>Hei reira koutou whakatika ai i te pehipehi, a ka tomo i te pa; ma Ihowa hoki, ma to koutou Atua e tuku ki o koutou ringa.</verse>
+        <verse osisID='Josh.8.8'>Na, ka riro te pa i a koutou, tahuna te pa ki te ahi: peratia me ta Ihowa i ki ai. Kia mahara, kua whakaritea atu nei e ahau ki a koutou.</verse>
+        <verse osisID='Josh.8.9'>Na tonoa ana ratou e Hohua: a haere ana ratou ki te whakatakoto pehipehi, a noho ana i waenganui o Peteere, o Hai, ki te taha ki te hauauru o Hai: ko Hohua ia i moe i waenganui o te iwi i taua po.</verse>
+        <verse osisID='Josh.8.10'>Na ka maranga wawe a Hohua i te ata, a whakaemia ana e ia te iwi, na haere ana ia me nga kaumatua o Iharaira i mua i te iwi ki Hai.</verse>
+        <verse osisID='Josh.8.11'>A, ko te iwi katoa tae noa ki te hunga hapai patu i a ia, i haere, i whakatata, a ka tae ki mua o te pa, a noho rawa atu ki te taha ki te raki o Hai: na he wharua i waenganui o ratou, o Hai.</verse>
+        <verse osisID='Josh.8.12'>Na ka tango ia i etahi tangata tata tonu ki te rima mano, a whakanohoia ana e ia hei pehipehi ki waenganui o Peteere, o Hai, ki te taha ki te hauauru o te pa.</verse>
+        <verse osisID='Josh.8.13'>A, ka oti i a ratou te whakanoho te iwi, ara te ope katoa, tera i te raki o te pa, me a ratou pehipehi ki te hauauru o te pa, na ka haere a Hohua i taua po ano ki waenganui o te wharua.</verse>
+        <verse osisID='Josh.8.14'>A, no te kitenga o te kingi o Hai, na hohoro ana ratou, maranga wawe ana; ko te tino putanga mai o nga tangata o te pa ki te tu i a Ihariara ki te riri, a ia me tona iwi katoa i te wa i whakaritea, i te ritenga mai o te mania; kihai ia i mohio h e pehipehi tera mona kei tua o te pa.</verse>
+        <verse osisID='Josh.8.15'>A whakawhati ana a Hohua ratou ko Iharaira katoa i a ratou ano i o ratou aroaro, a rere ana i te huarahi ki te koraha.</verse>
+        <verse osisID='Josh.8.16'>Katahi ka karangatia te iwi katoa i roto i Hai ki te whai i a ratou: na whai ana ratou i muri i a Hohua, a manukawhakitia ana ratou i roto i te pa.</verse>
+        <verse osisID='Josh.8.17'>A kahore he tangata o Hai raua ko Peteere i noho i te haere ki te whai i a Iharaira: na whakarerea ana e ratou te pa kia takoto kau ana, a whai ana i muri i a Iharaira.</verse>
+        <verse osisID='Josh.8.18'>Na ka mea a Ihowa ki a Hohua, Whakatotoro atu te timata i tou ringa na ki Hai; no te mea ka hoatu e ahau a reira ki tou ringa. Na whakatoroa atu ana e Hohua te timata i tona ringa ki te pa.</verse>
+        <verse osisID='Josh.8.19'>Na hohoro tonu te rewa o te pehipehi i to ratou wahi, a rere ana i te toronga atu ano o tona ringa: a tomokia ana e ratou te pa a horo noa, na hohoro tonu ta ratou tahu i te pa ki te ahi.</verse>
+        <verse osisID='Josh.8.20'>A, no te tahuritanga o nga tangata o Hai, ka titiro, na ko te paowa o te pa e kake ana ki te rangi, na kahore o ratou kaha ki te rere penei ranei, pera ranei: na ka tahuri te hunga i rere whaka te koraha ki nga mea i whai ra.</verse>
+        <verse osisID='Josh.8.21'>A, no te kitenga o Hohua ratou ko Iharaira katoa kua horo te pa i te pehipehi, a ko te paowa o te pa e kake ana ki runga, na ka tahuri ratou, ka patu i nga tangata o Hai.</verse>
+        <verse osisID='Josh.8.22'>A ka puta mai era i roto i te pa ki te whakatutaki i a ratou; na ka noho ratou ki waenganui o Iharaira, ko etahi ki tenei taha, ko etahi ki tera taha: na tukitukia iho ratou e ratou, a kore rawa i toe tetahi morehu, tetahi ranei i rere atu.</verse>
+        <verse osisID='Josh.8.23'> A hopukia oratia ana e ratou te kingi o Hai, a kawea ana ki a Hohua.</verse>
+        <verse osisID='Josh.8.24'>A, no ka poto i a Iharaira te patu nga tangata katoa o Hai i te parea, i te koraha i whaia nei ratou ki reira, a ka hinga katoa ratou i te mata o te hoari a poto noa ratou, katahi ka hoki katoa a Iharaira ki Hai, ka tukituki hoki i reira ki te m ata o te hoari.</verse>
+        <verse osisID='Josh.8.25'>A, ko nga tangata katoa i hinga i taua ra, nga tane me nga wahine, kotahi tekau ma rua mano, ko nga tangata katoa hoki o Hai.</verse>
+        <verse osisID='Josh.8.26'>Kahore hoki a Hohua i whakahoki mai i tona ringa, i torona atu ai e ia me te timata, a ngaro noa i a ia nga tangata katoa o Hai.</verse>
+        <verse osisID='Josh.8.27'>Ko nga kararehe anake me nga taonga o taua pa i tangohia e Iharaira ma ratou, i pera ano me te kupu a Ihowa i tohutohu ai ki a Hohua.</verse>
+        <verse osisID='Josh.8.28'>A tahuna ana e Hohua a Hai, meinga iho hei puranga mo a mua tonu atu, hei ururua a tae noa mai ki tenei ra.</verse>
+        <verse osisID='Josh.8.29'>A ko te kingi o Hai i taronatia e Hohua a ahiahi noa: a, ka to te ra, ka whakahaua e Hohua kia tangohia iho tona tinana i runga i te rakau, kia maka ki te kuwaha o te tomokanga ki te pa, kia whakapurangatia he kohatu ki runga i a ia, he puranga nui e tu nei a taea noatia tenei ra.</verse>
+        <verse osisID='Josh.8.30'> Na hanga ana e Hohua tetahi aata ma Ihowa, ma te Atua o Iharaira, ki Maunga Epara,</verse>
+        <verse osisID='Josh.8.31'>Pera me ta Mohi, me ta te pononga a Ihowa i whakahau ai ki nga tama a Iharaira, he mea e rite ana ki tera i tuhituhia ki roto i te pukapuka o te ture a Mohi, he aata kamaka toitu, kihai nei i akina iho te rino ki runga; a whakaekea ana e ratou h e tahunga tinana ma Ihowa, i patua hoki he whakahere mo te pai.</verse>
+        <verse osisID='Josh.8.32'>A tuhituhia ana e ia i reira ki nga kohatu nga kupu o te ture a Mohi, he mea tuhituhi i te aroaro o nga tama a Iharaira.</verse>
+        <verse osisID='Josh.8.33'>A, ko Iharaira katoa, ko ona kaumatua, ko nga rangatira, ko ona kaiwhakawa, i tu ki tetahi taha o te aaka, ki tetahi taha, ki mua o nga tohunga, o nga Riwaiti, o nga kaiamo i te kawenata a Ihowa ratou tahi ko te manene, ko te tangata tupu; ko te tahi taanga o ratou i te ritenga atu o Maunga Keritimi, a ko tetahi taanga o ratou i te ritenga atu o Maunga Epara; i rite tonu ki ta Mohi, ki ta te pononga a Ihowa i whakahau ai i mua, hei manaaki i te iwi o Iharaira.</verse>
+        <verse osisID='Josh.8.34'>A muri iho ka korerotia e ia nga kupu katoa o te ture, nga manaaki me nga kanga, rite tonu ki nga mea katoa i tuhituhia ki te pukapuka o te ture.</verse>
+        <verse osisID='Josh.8.35'>Kahore he kupu o nga mea katoa i whakahaua e Mohi i kore te korerotia e Hohua ki te aroaro o te huihui katoa o Iharaira, o nga wahine hoki me nga tamariki, me nga manene i noho tahi nei me ratou.</verse>
+      </chapter>
+      <chapter osisID='Josh.9'>
+        <verse osisID='Josh.9.1'> Na, i te rongonga o nga kingi katoa o tenei taha o Horano, o te whenua pukepuke, o te mania, o te tahatika katoa hoki o te moana nui i te ritenga atu o Repanona, te Hiti, te Amori, te Kanaani, te Perihi, te hiwi, te Iepuhi;</verse>
+        <verse osisID='Josh.9.2'>Na huihui tahi ana ratou ki te whawhai ki a Hohua ratou ko Iharaira, kotahi tonu te whakaaro.</verse>
+        <verse osisID='Josh.9.3'> No te rongonga ia o nga tangata o Kipeono ki nga mea i meatia e Hohua ki Heriko raua ko Hai,</verse>
+        <verse osisID='Josh.9.4'>Ka mahi koroke ratou, ka haere me te mea he karere ratou; ka tango hoki ki nga putea tawhito ki runga ki o ratou kaihe, i nga koki waina hoki kua tawhitotia, kua pakarukaru, putiki rawa;</verse>
+        <verse osisID='Josh.9.5'>Me nga hu tawhito ki o ratou waewae, papaki rawa, ko o ratou kakahu he mea tawhito; ko nga taro katoa hoki, ko o ratou o, he maroke, he puruhekaheka.</verse>
+        <verse osisID='Josh.9.6'>Na haere ana ratou ki a Hohua ki te puni, ki Kirikara, a mea ana ki a ia, ki nga tangata hoki o Iharaira, I haere mai matou i te whenua mamao; na, whakaritea he kawenata ki a matou.</verse>
+        <verse osisID='Josh.9.7'>Na ka mea atu nga tangata o Iharaira ki nga Hiwi, E noho nei ano pea koe i waenganui i ahau; a me pehea e whakarite ai ahau i te kawenata ki a koe?</verse>
+        <verse osisID='Josh.9.8'>Na ka mea ratou ki a Hohua, He pononga matou nau; a ka mea a Hohua ki a ratou, Ko wai ma koutou? I haere mai koutou i hea?</verse>
+        <verse osisID='Josh.9.9'>Na ka mea ratou ki a ia, I haere mai au pononga i tetahi whenua tawhiti noa atu, na te ingoa hoki o Ihowa, o tou Atua: i rongo hoki matou ki tona rongo, ki nga mea katoa hoki i mea ai ia ki Ihipa,</verse>
+        <verse osisID='Josh.9.10'>Ki nga mea katoa ano hoki i mea ai ia ki nga kingi tokorua o nga Amori i tera taha o Horano, ki a Hihona kingi o Hehepona, raua ko Oka kingi o Pahana, i noho ra i Ahataroto.</verse>
+        <verse osisID='Josh.9.11'>Na reira i ki mai ai o matou kaumatua me nga tangata katoa o to matou whenua ki a matou, i mea ai, Maua atu i o koutou ringa he o ki te huarahi, a haere ki te whakatau i a ratou, ka mea hoki ki a ratou, Ko a koutou pononga matou; na whakaritea m ai he kawenata ki a matou.</verse>
+        <verse osisID='Josh.9.12'>Na ko a matou taro i maua mahanatia mai nei i o matou whare hei o mo matou i te ra i turia mai ai e matou, i haere mai ai ki a koutou, nana, kua maroke, kua puruhekahekatia.</verse>
+        <verse osisID='Josh.9.13'>Ko nga koki waina nei hoki, i hou nei i ta matou whakakiinga, na kua pakarukaru; ko enei kakahu hoki o matou, me o matou hu, kua tawhitotia i te roa whakaharahara o te huarahi.</verse>
+        <verse osisID='Josh.9.14'>Na ka tango nga tangata i etahi o o ratou o, a kihai i ui whakaaro i to Ihowa waha.</verse>
+        <verse osisID='Josh.9.15'> A houhia iho e Hohua te rongo ki a ratou, whakaritea ana hoki e ia he kawenata whakaora mo ratou; i oati ano nga rangatira o te huihui ki a ratou.</verse>
+        <verse osisID='Josh.9.16'>Na i te mutunga o nga ra e toru i muri iho i ta ratou whakaritenga i te kawenata ki a ratou, ka rongo ratou, e tata tonu ana ratou ki a ratou, e noho ana hoki i waenganui i a ratou.</verse>
+        <verse osisID='Josh.9.17'>Na ka hapainga atu e nga tama a Iharaira, ka tae i te ra tuatoru ki o ratou pa. Ko o ratou pa hoki ko Kipeono, ko Kepira, ko Peeroto, ko Kiriata Tearimi.</verse>
+        <verse osisID='Josh.9.18'>A kihai nga tama a Iharaira i patu i a ratou, no te mea kua oati nga rangatira o te huihuinga i a Ihowa, i te Atua o Iharaira, ki a ratou. A amuamu katoa ana te huihuinga ki nga rangatira.</verse>
+        <verse osisID='Josh.9.19'>Na ka mea nga rangatira katoa ki te huihui katoa, Kua oati tatou i a Ihowa i te Atua o Iharaira, ki a ratou; no reira e kore tatou e ahei aianei te pa ki a ratou.</verse>
+        <verse osisID='Josh.9.20'>Ko tenei ta tatou e mea ai ki a ratou, ka waiho i a ratou kia ora; kei riria tatou mo te oati i oati ai tatou ki a ratou.</verse>
+        <verse osisID='Josh.9.21'>A ka mea nga rangatira ki a ratou, me whakaora ratou; otiia me waiho ratou hei tapatapahi rakau, hei utuutu wai mo te huihui katoa; kia rite ai ki ta nga rangatira i korero ai ki a ratou.</verse>
+        <verse osisID='Josh.9.22'> Katahi ka karangatia ratou e Hohua, ka korero ia ki a ratou, ka mea, He aha koutou i nuka ai i a matou, i mea ai, Kei tawhiti noa atu koutou i a matou; e noho nei ano koutou i waenganui i a matou?</verse>
+        <verse osisID='Josh.9.23'>No reira ka kanga koutou; a e kore e kore he kaimahi o koutou, hei tapatapahi rakau, hei utuutu wai hoki mo te whare o toku Atua.</verse>
+        <verse osisID='Josh.9.24'>Na ka whakautua e ratou ki a Hohua, ka mea, I tino korerotia hoki ki au pononga nga mea i whakaritea e Ihowa, e tou Atua, ki a Mohi, ki tana pononga mo te whenua katoa, kia hoatu ki a koutou, kia huna atu hoki nga tangata katoa o te whenua i o k outou aroaro; na reira matou i tino wehi ai i a koutou, kei mate matou, na meatia ana e matou tenei mea.</verse>
+        <verse osisID='Josh.9.25'>Na, kei roto tenei matou i ou ringa: mau e mea ki a matou te mea e pai ana, e tika ana ki tau titiro.</verse>
+        <verse osisID='Josh.9.26'>Na peratia ana ratou e ia, a whakaorangia ake ratou i te ringa o nga tama a Iharaira, a kihai ratou i patua.</verse>
+        <verse osisID='Josh.9.27'>Na waiho iho ratou i taua ra e Hohua hei tapatapahi rakau, hei utuutu wai mo te huihui, mo te aata hoki a Ihowa ki te wahi e whiriwhiri ai ia a tae noa mai ki tenei ra.</verse>
+      </chapter>
+      <chapter osisID='Josh.10'>
+        <verse osisID='Josh.10.1'> A, ka rongo a Aronitereke, te kingi o Hiruharama, kua horo a Hai i a Hohua, a kua whakangaromia hoki e ia; a ko tana i mea ai ki Heriko, ki tona kingi, ko tana hoki tera i mea ai ki Hai, ki tona kingi; a kua houhia e nga tangata o Kipeono te rong o ki a Iharaira, kua noho hoki ki waenganui i a ratou;</verse>
+        <verse osisID='Josh.10.2'>Na tino wehi ana ratou; no te mea he pa nui a Kipeono, pera me tetahi o nga pa rangatira, he nui atu hoki i Hai, a ko ona tangata katoa he toa.</verse>
+        <verse osisID='Josh.10.3'>Na ka tono tangata a Aronitereke kingi o Hiruharama ki a Hohama kingi o Heperona, ki a Pirama kingi o Iaramuta, ki a Tapia kingi o Rakihi, ratou ko Repiri kingi o Ekerona, ka mea,</verse>
+        <verse osisID='Josh.10.4'>Haere mai ki ahau, hei awhina moku, kia patua ai e tatou a Kipeono, mo ratou i hohou i te rongo ki a Hohua ratou ko nga tama a Iharaira.</verse>
+        <verse osisID='Josh.10.5'>Na huihui ana, haere mai ana nga kingi tokorima o nga Amori, te kingi o Hiruharama, te kingi o Heperona, te kingi o Iaramuta, te kingi o Rakihi, te kingi o Ekerona, ratou ko a ratou taua katoa, a whakapae ana i Kipeono, tatau ana i reira.</verse>
+        <verse osisID='Josh.10.6'>Na ka tono tangata nga tangata o Kipeono ki a Hohua ki te puni, ki Kirikara, ka mea, Kei puhoi mai tou ringa ki au pononga; hohoro te haere mai ki a matou, ki te whakaora i a matou, awhinatia mai hoki matou; no te mea kua rupeke mai nga kingi kat oa o nga Amori e noho ana i nga maunga ki a matou.</verse>
+        <verse osisID='Josh.10.7'> Na haere atu ana a Hohua i Kirikara, ratou tahi ko te hunga hapai patu katoa, me nga tangata maia katoa.</verse>
+        <verse osisID='Josh.10.8'>Na ka mea a Ihowa ki a Hohua, Kaua e wehi i a ratou: kua hoatu hoki ratou e ahau ki tou ringa, a e kore tetahi tangata o ratou e tu ki tou aroaro.</verse>
+        <verse osisID='Josh.10.9'>Na huakina tatatia ana ratou e Hohua; i haere ake hoki ia i Kirikara i te po.</verse>
+        <verse osisID='Josh.10.10'>Na meinga ana ratou e Ihowa kia pororaru i mua i a Iharaira, a patua ana ratou e ia ki Kipeono, he nui te parekura, a whaia ana ratou e ia i te huarahi e haere ana ki runga ki Petehorono, na tukitukia ana ratou a tae noa ki Ateka, a Makera atu a na.</verse>
+        <verse osisID='Josh.10.11'>A, i a ratou e rere ana i te aroaro o Iharaira, i te hekenga iho ki Petehorono, na ka maka iho e Ihowa he kohatu nunui i te rangi ki runga ki a ratou a tae noa ki Ateka, na mate ana ratou: hira ake nga tangata i mate i nga nganga kohatu i nga me a i patua e nga tama a Iharaira ki te hoari.</verse>
+        <verse osisID='Josh.10.12'>Katahi ka korero a Hohua ki a Ihowa i te ra i homai ai e Ihowa nga Amori ki te aroaro o nga tama a Iharaira, ka mea hoki i te tirohanga mai o Iharaira, Kati mai koe, e te ra, i runga i Kipeono; me koe hoki, e te marama, ki te raorao o Atarono.</verse>
+        <verse osisID='Josh.10.13'>Na mau tonu mai te ra, tu tonu mai hoki te marama, a whiwhi noa te iwi ki te utu i o ratou hoariri. Kahore ianei tenei mea i tuhituhia ki te pukapuka a Tahera? Tu ana tera te komaru i waenganui o te rangi, kahore ano hoki i hohoro te heke a rite noa tetahi ra tuturu.</verse>
+        <verse osisID='Josh.10.14'>Na kahore he rite mo taua ra i mua atu, i muri mai ranei, i rongo ai a Ihowa ki te reo tangata: i whawhai hoki a Ihowa mo Iharaira.</verse>
+        <verse osisID='Josh.10.15'> Na hoki ana a Hohua ratou tahi ko Iharaira katoa ki te puni, ki Kirikara.</verse>
+        <verse osisID='Josh.10.16'>Ko aua kingi tokorima ia i rere, a piri ana ki roto ki tetahi ana i Makera.</verse>
+        <verse osisID='Josh.10.17'>A ka korerotia ki a Hohua, i meatia, Kua kitea nga kingi tokorima, kei te ana i Makera e piri ana.</verse>
+        <verse osisID='Josh.10.18'>Na ka mea a Hohua, Hurihia atu etahi kohatu nunui ki te kuwaha o te ana, whakanohoia hoki etahi tangata ki reira hei tiaki i a ratou.</verse>
+        <verse osisID='Josh.10.19'>Ko koutou ia kaua hei tu; whaia o koutou hoariri, patua te hiku o ratou; kaua hoki ratou e tukua kia tapoko ki roto ki o ratou pa: he mea hoki kua homai ratou e Ihowa, e to koutou Atua, ki to koutou ringa.</verse>
+        <verse osisID='Josh.10.20'>A, no ka mutu i a Hohua ratou ko nga tama a Iharaira te patu i a ratou, he nui rawa te parekura a poto noa ratou, ko nga morehu o ratou i toe i riro ki roto ki nga pa whai taiepa,</verse>
+        <verse osisID='Josh.10.21'>Na hoki marie ana te iwi katoa ki a Hohua, ki te puni, ki Makera: kihai rawa hoki i oraora te arero o tetahi tangata ki tetahi o nga tama a Iharaira.</verse>
+        <verse osisID='Josh.10.22'>Katahi ka mea a Hohua, Uakina te kuwaha o te ana, whakaputaina mai hoki ki ahau i te ana nga kingi tokorima na.</verse>
+        <verse osisID='Josh.10.23'>Na peratia ana e ratou, whakaputaina mai ana e ratou ki a ia i te ana aua kingi tokorima, te kingi o Hiruharama, te kingi o Heperona, te kingi o Iaramuta, te kingi o Rakihi, me te kingi o Ekerona.</verse>
+        <verse osisID='Josh.10.24'>A, ka oti aua kingi te whakaputa mai e ratou ki a Hohua, ka karanga a Hohua ki nga tangata katoa o Iharaira, a ka mea ki nga rangatira o nga tangata hapai patu i haere tahi me ia, Whakatata mai, e tu o koutou waewae ki runga ki nga kaki o enei k ingi. Na whakatata ana mai ratou, tu ana o ratou waewae ki runga ki o ratou kaki.</verse>
+        <verse osisID='Josh.10.25'>I mea ano a Hohua ki a ratou, Kaua koutou e wehi, kaua hoki e pawera, kia kaha, kia toa: no te mea ka peneitia e Ihowa o koutou hoariri katoa e whawhai nei koutou ki a ratou.</verse>
+        <verse osisID='Josh.10.26'>A muri iho ka patua ratou e Hohua, ka whakamatea, a whakairihia ake ratou ki runga ki nga rakau e rima: na iri ana ratou i runga i nga rakau a ahiahi noa.</verse>
+        <verse osisID='Josh.10.27'>Na i te wa o te tonga o te ra ka whakahaua e Hohua kia tangohia ki raro o nga rakau, kia maka hoki ki roto ki te ana i piri ai ratou, kia whakatakotoria hoki etahi kohatu nunui ki te kuwaha o te ana; e takoto mai nei a taea noatia tenei ra.</verse>
+        <verse osisID='Josh.10.28'> A horo ana i a Hohua a Makera i taua rangi ano, patua iho ana hoki e ia ki te mata o te hoari, me tona kingi ano; i whakangaromia rawatia ratou e ia me nga wairua katoa i roto, kahore he morehu i mahue i a ia: a peratia ana e ia te kingi o Maker a me tana i mea ai ki te kingi o Heriko.</verse>
+        <verse osisID='Josh.10.29'>Na haere atu ana a Hohua ratou tahi ko Iharaira katoa i Makera ki Ripina, a tauria ana e ia a Ripina:</verse>
+        <verse osisID='Josh.10.30'>A i homai ano e Ihowa a reira, me tona kingi, ki te ringa o Iharaira; na patua iho e ia a reira ki te mata o te hoari, me nga tangata katoa i roto; kihai i mahue i a ia tetahi morehu i reira; heoi peratia ana e ia te kingi o reira me tana i mea ai ki te kingi o Heriko.</verse>
+        <verse osisID='Josh.10.31'>Na haere atu ana a Hohua i Ripina, ratou tahi ko Iharaira katoa, ki Rakihi, a whakapaea ana a reira, tauria ana e ia:</verse>
+        <verse osisID='Josh.10.32'>A i homai e Ihowa a Rakihi ki te ringa o Iharaira, a horo ana a reira i a ia i te rua o nga ra; patua iho hoki ki te mata o te hoari, me nga tangata katoa i roto; i rite tonu ki nga mea katoa i mea ai ia ki Ripina.</verse>
+        <verse osisID='Josh.10.33'>I reira ano ka haere mai a Horama kingi o Ketere hei awhina mo Rakihi; a patua iho ia me tona iwi e Hohua, a kahore rawa tetahi morehu ona i toe.</verse>
+        <verse osisID='Josh.10.34'>Na ka haere atu a Hohua ratou tahi ko Iharaira katoa i Rakihi ki Ekerona; a whakapaea ana a reira e ratou, tauria ana:</verse>
+        <verse osisID='Josh.10.35'>Na horo ana a reira i a ratou i taua rangi ano, patua ana hoki ki te mata o te hoari, ko nga tangata katoa i roto huna iho e ia i taua rangi ano, rite tonu ki nga mea katoa i mea ai ia ki Rakihi.</verse>
+        <verse osisID='Josh.10.36'>Na haere atu ana a Hohua i Ekerona, me Iharaira katoa ano hoki ki Heperona, a tauria ana a reira e ia.</verse>
+        <verse osisID='Josh.10.37'>A horo ana i a ratou a reira, patua iho hoki ki te mata o te hoari, me tona kingi, me ona pa katoa, me nga tangata katoa i roto; kahore tetahi morehu i mahue i a ia, rite tonu ki nga mea katoa i mea ai ia ki Ekerona; na huna iho e ia a reira, me nga tangata katoa i roto.</verse>
+        <verse osisID='Josh.10.38'>Katahi ka hoki a Hohua ratou tahi ko Iharaira katoa ki Repiri; ka tatau hoki ki reira.</verse>
+        <verse osisID='Josh.10.39'>A riro ana i a ia a reira me tona kingi, me ona pa katoa; a patua iho e ratou ki te mata o te hoari, whakangaromia katoatia ana hoki nga tangata i roto; kahore tetahi morehu i mahue i a ia: ko tana i mea ai ki Heperona i meatia ano e ia ki Repir i, ki tona kingi; i pera ano me tana i mea ai ki Ripina, ki tona kingi.</verse>
+        <verse osisID='Josh.10.40'>Na patua ana e Hohua te whenua katoa, te whenua pukepuke, te tonga, te mania me nga pukenga wai, me nga kingi katoa hoki o reira; kahore i waiho e ia tetahi morehu: engari i huna katoatia e ia nga mea whai manawa, i rite tonu ki ta Ihowa, ki ta te Atua o Iharaira, i whakahau ai.</verse>
+        <verse osisID='Josh.10.41'>Na patua ana ratou e Hohua i Kareheparenea a tae noa ki Kaha, me te whenua katoa hoki o Kohena a tae noa ki Kipeono.</verse>
+        <verse osisID='Josh.10.42'>Ko enei kingi katoa me to ratou oneone i riro i a Hohua i te whakaekenga kotahi, no te mea i roto i a Iharaira a Ihowa e whawhai atu ana.</verse>
+        <verse osisID='Josh.10.43'>Na hoki ana a Hohua ratou tahi ko Iharaira katoa ki te puni, ki Kirikara.</verse>
+      </chapter>
+      <chapter osisID='Josh.11'>
+        <verse osisID='Josh.11.1'> Na, i te rongonga o Ihapini kingi o Hatoro, ka tono tangata ia ki a Iopapa kingi o Marono, ki te kingi o Himirono, ki te kingi hoki o Akahapa,</verse>
+        <verse osisID='Josh.11.2'>Ki nga kingi ano hoki i te raki, ki era i nga maunga, i te mania hoki ki te tonga o Kinerota, i te whenua raorao, a i nga hiwi o Roro ki te hauauru,</verse>
+        <verse osisID='Josh.11.3'>Ki te Kanaani i te rawhiti me te hauauru, ki te Amori, ki te Hiti, ki te Perihi, ki te Iepuhi i te whenua pukepuke, ki te Hiwi hoki i raro o Heremona i te whenua o Mihipa.</verse>
+        <verse osisID='Josh.11.4'>Na ka haere mai, me a ratou ope katoa, he tini te tangata, me te onepu i te taha o te moana te tokomaha, me nga hoiho, me nga hariata, tona tini.</verse>
+        <verse osisID='Josh.11.5'>Na ka huihui enei kingi katoa; a ka haere mai ratou, ka noho huihui ki nga wai o Meromo, ki te whawhai ki a Iharaira.</verse>
+        <verse osisID='Josh.11.6'>Na ko te meatanga a Ihowa ki a Hohua, Kei wehi i a ratou: kia penei hoki apopo ka hoatu katoa ratou e ahau, mate rawa, ki a Iharaira: me whakangonge a ratou hoiho, me tahu hoki a ratou hariata ki te ahi.</verse>
+        <verse osisID='Josh.11.7'>Na huakina tatatia ana ratou e Hohua ratou ko te hunga hapai pakanga katoa ki nga wai o Meromo; heoi kokiri ana ratou ki a ratou.</verse>
+        <verse osisID='Josh.11.8'>Na homai ana ratou e Ihowa ki te ringa o Iharaira, a patua iho ratou, a whaia ana e ratou a tae noa ki Hairona nui, ki Mihirepoto Maimi, ki te raorao hoki o Mihipe whaka te rawhiti; a patupatua ana ratou, kahore rawa he morehu i waiho kia toe.</verse>
+        <verse osisID='Josh.11.9'>A rite tonu ta Hohua i mea ai ki a ratou ki ta Ihowa i korero ai ki a ia: i whakangongea e ia a ratou hoiho, i tahuna hoki a ratou hariata ki te ahi.</verse>
+        <verse osisID='Josh.11.10'> A i taua wa ka tahuri a Hohua, a horo ana i a ia a Hatoro, patua iho hoki e ia tona kingi ki te hoari: ko Hatoro hoki te upoko o aua kingitanga katoa i mua.</verse>
+        <verse osisID='Josh.11.11'>Na patua iho e ratou nga mea ora katoa o reira ki te mata o te hoari a poto noa: kahore i mahue tetahi mea whai manawa: i tahuna hoki e ia a Hatoro ki te ahi.</verse>
+        <verse osisID='Josh.11.12'>Na i riro katoa i a Hohua nga pa katoa o era kingi, me nga kingi katoa o reira, a patua iho e ia ki te mata o te hoari a poto noa; i pera ano ia me ta Mohi, me ta te pononga a Ihowa i whakahau ai.</verse>
+        <verse osisID='Josh.11.13'>Ko nga pa ia i tu i runga i nga pukepuke, kihai ena i tahuna e Iharaira, heoi ano ko Hatoro anake; i tahuna tena e Hohua.</verse>
+        <verse osisID='Josh.11.14'>Otiia ko nga taonga parakete katoa o aua pa, me nga kararehe, i tangohia e nga tama a Iharaira ma ratou; ko nga tangata katoa ia i patua ki te mata o te hoari a poto noa ratou, kihai i mahue tetahi mea whai manawa.</verse>
+        <verse osisID='Josh.11.15'> Ko ta Ihowa i whakahau ai ki tana pononga ki a Mohi, ko ta Mohi ano tera i whakahau ai ki a Hohua; a koia ta Hohua i mea ai; kihai i kapea e ia tetahi o nga mea katoa i whakahaua e Ihowa ki a Mohi.</verse>
+        <verse osisID='Josh.11.16'>Na riro ana i a Hohua taua whenua katoa, te whenua pukepuke, me nga wahi katoa o te tonga, me te whenua katoa o Kohena, me te raorao, me te mania, me te whenua pukepuke o Iharaira, me tona raorao;</verse>
+        <verse osisID='Josh.11.17'>Atu i Maunga Haraka, e anga nei whakarunga ki Heira, a tae noa ki Paarakara i te raorao o Repanona, i raro iho o Maunga Heremona: a, ko o ratou kingi katoa, i mau i a ia, a patua iho, whakamatea iho.</verse>
+        <verse osisID='Josh.11.18'>He maha nga ra i whawhai ai a Hohua ki aua kingi katoa.</verse>
+        <verse osisID='Josh.11.19'>Na kahore he pa i hohou rongo ki nga tama a Iharaira, heoi anake ko nga Hiwi i noho i Kipeono: i riro katoa i a ratou i runga i te whawhai.</verse>
+        <verse osisID='Josh.11.20'>Na Ihowa hoki i whakapakeke o ratou ngakau, kia turia ai e ratou a Iharaira ki te riri, kia tino whakangaromia ai ratou e ia, kia kore ai hoki ratou e tohungia, engari kia whakangaromia ratou e ia, kia peratia me ta Ihowa i whakahau ai ki a Mohi.</verse>
+        <verse osisID='Josh.11.21'>I taua wa ano ka haere atu a Hohua, a huna iho e ia nga Anakimi o nga maunga, o Heperona, o Repiri, o Anapa, o nga maunga katoa o Hura, o nga maunga katoa ano hoki o Iharaira: i tino whakangaromia rawatia ratou e Hohua me o ratou pa.</verse>
+        <verse osisID='Josh.11.22'>Kihai tetahi o nga Anakimi i mahue i te whenua o nga tama a Iharaira: toe ake ko etahi anake i Kaha, i Kata, i Aharoro.</verse>
+        <verse osisID='Josh.11.23'>Na ka riro i a Hohua te whenua katoa, ka pera me nga mea katoa i korerotia e Ihowa ki a Mohi; a hoatu ana e Hohua hei kainga tupu mo Iharaira, he mea whakarite ki o ratou wehenga, ki o ratou iwi. Na ka takoto marie te whenua i te whawhai.</verse>
+      </chapter>
+      <chapter osisID='Josh.12'>
+        <verse osisID='Josh.12.1'> Na ko nga kingi enei o te whenua i patua nei e nga tama a Iharaira, a tangohia ana to ratou whenua i tawahi o Horano whaka te rawhiti, atu i te awa o Aranona a tae noa ki Maunga Heremona, me te mania katoa ano hoki whaka te rawhiti:</verse>
+        <verse osisID='Josh.12.2'>Ko Hihona kingi o nga Amori, i noho ra ki Hehepona, ko tona kingitanga kei Aroere, kei tera i te taha o te awaawa, o Aranona, kei te pa hoki i waenganui o te awaawa, kei te hawhe hoki o Kireara a tae noa ki Iapoko, ki te awa, ki te rohe ki nga ta ma a Amona;</verse>
+        <verse osisID='Josh.12.3'>Kei te mania hoki a tae noa ki te moana o Kinerota, whaka te rawhiti, ki te moana ano o te mania, ara ki te Moana Tote, whaka te rawhiti, ki te ara ki Peteiehimoto; kei Temana ano, kei raro i Aharoto Pihika:</verse>
+        <verse osisID='Josh.12.4'>Me te wahi o Oka kingi o Pahana, o te morehu o nga Repaima, i noho ra i Ahataroto, i Eterei,</verse>
+        <verse osisID='Josh.12.5'>Ko tona kingitanga ano hoki kei Maunga Heremona, kei Hareka, kei Pahana katoa hoki, tae noa ki te rohe ki nga Kehuri, ki nga Maakati ki te hawhe hoki o Kireara, ki te rohe ki a Hihona kingi o Hehepona.</verse>
+        <verse osisID='Josh.12.6'>Na Mohi, na te pononga a Ihowa, na ratou ko nga tama a Iharaira raua i patu: a hoatu ana e Mohi, e te pononga a Ihowa a reira hei kainga tupu ki nga Reupeni ratou ko nga Kari, ko tetahi taanga hoki o te iwi o Manahi.</verse>
+        <verse osisID='Josh.12.7'> A ko nga kingi enei o te whenua i patua e Hohua, e ratou ko nga tama a Iharaira, ki tenei taha o Horano whaka te hauauru, atu i Paarakara i te raorao o Repanona tae noa ki Maunga Haraka e anga nei whakarunga ki Heira; a na Hohua i hoatu ki nga iw i o Iharaira hei kainga tupu, he mea whakarite ki o ratou wehenga;</verse>
+        <verse osisID='Josh.12.8'>I nga maunga, i nga raorao, i te mania, i nga matapuna, i te koraha i te whenua ki te tonga; te Hiti, te Amori, te Kanaani, te Perihi, te Hiwi, te Iepuhi;</verse>
+        <verse osisID='Josh.12.9'>Ko te kingi o Heriko tetahi; ko te kingi o Hai, o tera i Peteere tetahi;</verse>
+        <verse osisID='Josh.12.10'>Ko te kingi o Hiruharama tetahi; ko te kingi o Heperona tetahi;</verse>
+        <verse osisID='Josh.12.11'>Ko te kingi o Iaramuta tetahi; ko te kingi o Rakihi tetahi;</verse>
+        <verse osisID='Josh.12.12'>Ko te kingi o Ekerona tetahi, ko te kingi o Ketere tetahi;</verse>
+        <verse osisID='Josh.12.13'>Ko te kingi o Repiri tetahi; ko te kingi o Kerere tetahi;</verse>
+        <verse osisID='Josh.12.14'>Ko te kingi o Horema tetahi; ko te kingi o Arara tetahi;</verse>
+        <verse osisID='Josh.12.15'>Ko te kingi o Ripina tetahi; ko te kingi o Aturama tetahi;</verse>
+        <verse osisID='Josh.12.16'>Ko te kingi o Makera tetahi; ko te kingi o Peteere tetahi;</verse>
+        <verse osisID='Josh.12.17'>Ko te kingi o Tapua tetahi; ko te kingi o Hepere tetahi;</verse>
+        <verse osisID='Josh.12.18'>Ko te kingi o Apeke tetahi; ko te kingi o Raharono tetahi;</verse>
+        <verse osisID='Josh.12.19'>Ko te kingi o Marono tetahi; ko te kingi o Hatoro tetahi;</verse>
+        <verse osisID='Josh.12.20'>Ko te kingi o Himirono Merono tetahi; ko te kingi a Akahapa tetahi;</verse>
+        <verse osisID='Josh.12.21'>Ko te kingi o Taanaka tetahi; ko te kingi o Mekiro tetahi;</verse>
+        <verse osisID='Josh.12.22'>Ko te kingi o Kerehe tetahi; ko te kingi o Iokoneama i Karamere tetahi;</verse>
+        <verse osisID='Josh.12.23'>Ko te kingi o Roro i te pukepuke o Roro tetahi; ko te kingi o nga iwi o Kirikara tetahi;</verse>
+        <verse osisID='Josh.12.24'>Ko te kingi o Tirita tetahi; e toru tekau ma tahi ena kingi katoa.</verse>
+      </chapter>
+      <chapter osisID='Josh.13'>
+        <verse osisID='Josh.13.1'> A ka koroheketia a Hohua, kua maha ona ra; na ka mea a Ihowa ki a ia, Kua koroheketia koe, kua maha ou ra, a he nui atu te whenua e toe ana, kahore ano i tangohia.</verse>
+        <verse osisID='Josh.13.2'>Ko te whenua tenei e toe ana: ko nga wahi o nga Pirihitini, ko nga Kehuri katoa;</verse>
+        <verse osisID='Josh.13.3'>O Hihoro mai ano, i te ritenga atu o Ihipa a tae noa ki nga rohe o Ekerona whaka te raki, e kiia nei no nga Kanaani; e rima nga wahi ariki o nga Pirihitini; ko nga Kahati, ko nga Aharori, ko nga Ahakeroni, ko nga Kiti, ko nga Ekeroni; me nga Awim i,</verse>
+        <verse osisID='Josh.13.4'>Ki te tonga; ko te whenua katoa o nga Kanaani, me Meara i te taha o nga Hironi tae noa ki Apeke, ki nga rohe o nga Amori:</verse>
+        <verse osisID='Josh.13.5'>Me te whenua o nga Kipiri, me Repanona katoa whaka te rawhiti atu o Paarakara i raro iho o Maunga Heremona tae noa ki te haerenga atu ki Hamata:</verse>
+        <verse osisID='Josh.13.6'>Ko nga tangata katoa o te whenua pukepuke, o Repanona tae noa ki Mihirepoto Maimi, me nga Hironi katoa; ka peia ratou e ahau i te aroaro o nga tama a Iharaira: mau ia e wehe a reira hei kainga tupu mo Iharaira, me pera me taku i whakahau ai ki a koe.</verse>
+        <verse osisID='Josh.13.7'> Na reira wehewehea tenei whenua hei kainga tupu mo nga iwi e iwa, ratou ko tetahi taanga o te iwi o Manahi.</verse>
+        <verse osisID='Josh.13.8'>I whiwhi tahi ratou ko nga Reupeni, ko nga Kari ki to ratou wahi, i hoatu ra ki a ratou e Mohi ki tawahi o Horano whaka te rawhiti, ara ko ta Mohi, ko ta te pononga a Ihowa i hoatu ai ki a ratou;</verse>
+        <verse osisID='Josh.13.9'>O Aroere atu i te taha o te awaawa o Aranona, me te pa i waenganui o te awaawa, me te mania katoa o Merepa tae noa ki Ripono;</verse>
+        <verse osisID='Josh.13.10'>Me nga pa katoa o Hihona kingi o nga Amori, i kingi ra ki Hehepona, tae noa ki te rohe ki nga tama a Amona;</verse>
+        <verse osisID='Josh.13.11'>Me Kireara, me te rohe ki nga Kehuri, ki nga Maakati, me Maunga Heremona katoa, me Pahana katoa, tae noa ki Hareka;</verse>
+        <verse osisID='Josh.13.12'>Te kingitanga katoa o Oka i Pahana; i kingi hoki ia ki Ahataroto, ki Eterei, he toenga ia no nga oranga o nga Repaima; i patua hoki enei e Mohi, a peia atu ana.</verse>
+        <verse osisID='Josh.13.13'>Ko nga Kehuri ia me nga Maakati kihai i peia e nga tama a Iharaira: engari i noho nga Kehuri ratou ko nga Maakati i waenganui o Iharaira a taea noatia tenei ra.</verse>
+        <verse osisID='Josh.13.14'>Ko te iwi anake o Riwai, kihai i hoatu e ia he kainga tupu; ko nga whakahere ahi a Ihowa, a te Atua o Iharaira, te wahi tupu mo ratou, ko tana hoki i korero ai ki a ia.</verse>
+        <verse osisID='Josh.13.15'>A rite tonu ki o ratou hapu ta Mohi i hoatu ai ki te iwi o nga tama a Reupena.</verse>
+        <verse osisID='Josh.13.16'>A ko te rohe ki a ratou kei Aroere, kei te taha o te awaawa o Aranona, kei te pa hoki i waenganui o te awaawa me te mania katoa i Merepa;</verse>
+        <verse osisID='Josh.13.17'>Ko Hehepona me o reira pa katoa i te mania; ko Ripono, me Pamotopaara, me Petepaara Meono,</verse>
+        <verse osisID='Josh.13.18'>Ko Iahata hoki, me Keremoto, me Mepaata,</verse>
+        <verse osisID='Josh.13.19'>Me Kiriataima, me Hipima, me Terete Hahara i te maunga o taua raorao,</verse>
+        <verse osisID='Josh.13.20'>Me Petepeoro, me Aharoto Pihika, me Peteiehimoto,</verse>
+        <verse osisID='Josh.13.21'>Me nga pa katoa o te mania, me te kingitanga katoa o Hihona, o te kingi o nga Amori, i kingi nei ki Hehepona, i patua ngatahitia nei e Mohi me nga ariki o Miriana, me Ewi, ratou ko Rekeme, ko Turu, ko Huru, ko Repa; na Hihona ena ariki, a i noho ki taua whenua.</verse>
+        <verse osisID='Josh.13.22'>I patua ano hoki e nga tama a Iharaira ki te hoari a Paraama tama a Peoro, te tohunga maori, i roto i era atu o to ratou parekura.</verse>
+        <verse osisID='Josh.13.23'>A ko te rohe ki nga tama a Reupena ko Horano, me tona rohe ano. Ko te wahi tuturu tenei i nga tama a Reupena, i o ratou hapu, nga pa me nga kainga o aua pa.</verse>
+        <verse osisID='Josh.13.24'>A i hoatu ano e Mohi he wahi ki te iwi o Kara, ki nga tama a Kara, he mea whakarite ki o ratou hapu.</verse>
+        <verse osisID='Josh.13.25'>A ko te rohe ki a ratou ko Iatere, me nga pa katoa o Kireara, me te hawhe o te whenua o nga tama a Amona, a tae noa ki Aroere ki te ritenga atu o Rapa:</verse>
+        <verse osisID='Josh.13.26'>I Hehepona hoki a tae noa ki Ramata Mihipe, ki Petonimi; i Mahanaima a tae noa ki te rohe o Repiri:</verse>
+        <verse osisID='Josh.13.27'>A i te raorao, ko Petearama, ko Petenimira, ko Hukota, ko Tawhono, a ko te toenga atu o te kingitanga o Hihona, o te kingi o Hehepona, ko Horano me tona rohe tae noa ki te pito o te moana o Kinereta, i tawahi o Horano, whaka te rawhiti.</verse>
+        <verse osisID='Josh.13.28'>Ko te wahi tupu tenei i nga tama a Kara, i o ratou hapu, ko nga pa me nga kainga o aua pa.</verse>
+        <verse osisID='Josh.13.29'>A i hoatu e Mohi he wahi tuturu ki tetahi taanga o te iwi o Manahi: a ka riro i tetahi taanga o te iwi o nga tama a Manahi, he mea whakarite ki o ratou hapu.</verse>
+        <verse osisID='Josh.13.30'>A no Mahanaima atu te rohe ki a ratou, ko Pahana katoa, me te kingitanga katoa o Oka, o te kingi o Pahana, me nga pa katoa o Haira, era i Pahana ra, e ono tekau nga pa:</verse>
+        <verse osisID='Josh.13.31'>Ko tetahi hawhe o Kireara, me Ahataroto, me Eterei, ko nga pa o te kingitanga o Oka i Pahana, i riro era i nga tama a Makiri, a te tama a Manahi, ara i tetahi taanga o nga tama a Makiri, he mea whakarite ki o ratou hapu.</verse>
+        <verse osisID='Josh.13.32'>Ko enei nga wahi i hoatu ai e Mohi hei kainga tupu i nga mania o Moapa i tawahi o Horano whaka te rawhiti, i te wahi e anga ana ki Heriko.</verse>
+        <verse osisID='Josh.13.33'>Otiia kihai i hoatu e Mohi he wahi tupu ki te iwi o Riwai: ko Ihowa, ko te Atua o Iharaira, ko ia hei wahi tupu mo ratou; ko tana hoki tena i korero ai.</verse>
+      </chapter>
+      <chapter osisID='Josh.14'>
+        <verse osisID='Josh.14.1'> A ko nga wahi enei i riro i nga tama a Iharaira i te whenua o Kanaana, i tuwhaina nei e Ereatara tohunga, e Hohua tama a Nunu, e nga upoko hoki o nga whare o nga matua o nga iwi o nga tama a Iharaira mo ratou,</verse>
+        <verse osisID='Josh.14.2'>He mea rota o ratou wahi, he mea pera me ta Ihowa whakahau i whakapuakina e Mohi, mo nga iwi e iwa me tetahi taanga hoki o tetahi iwi.</verse>
+        <verse osisID='Josh.14.3'>Kua hoatu hoki e Mohi he wahi mo nga iwi e rua, mo tetahi taanga hoki o tetahi iwi i tawahi o Horano: otiia kihai i hoatu i roto i a ratou tetahi wahi mo nga Riwaiti.</verse>
+        <verse osisID='Josh.14.4'>E rua hoki nga iwi o nga tama a Hohepa, ko Manahi raua ko Eparaima: a kihai i hoatu e ratou tetahi wahi o te whenua mo nga Riwaiti, heoi ano ko nga pa hei nohoanga, me nga wahi o waho a tawhio noa, mo a ratou kararehe, mo a ratou mea.</verse>
+        <verse osisID='Josh.14.5'>Rite tonu ki ta Ihowa i whakahau ai ki a Mohi ta nga tama a Iharaira i mea ai, a wehewehea ana e ratou te whenua.</verse>
+        <verse osisID='Josh.14.6'> Katahi ka whakatata nga tama a Hura ki a Hohua i Kirikara; a ka mea a Karepe tama a Iepune Keniti ki a ia, E mohio ana koe ki te kupu i korerotia e Ihowa ki a Mohi, ki te tangata a te Atua, moku, a mou hoki, i Kareheparenea.</verse>
+        <verse osisID='Josh.14.7'>E wha tekau oku tau i te tononga a Mohi, a te pononga a te Atua i ahau i Kareheparenea ki te tutei i te whenua; a i whakahokia e ahau he korero ki a ia, ko nga mea o roto o toku ngakau.</verse>
+        <verse osisID='Josh.14.8'>A, ko oku teina i haere tahi nei matou ki runga, na ngohe ana i a ratou nga ngakau o te iwi: ko ahau ia, i pau katoa atu ahau ki te whai i a Ihowa, i toku Atua.</verse>
+        <verse osisID='Josh.14.9'>Na ko te oatitanga mai a Mohi i taua ra, ko te meatanga, Ko taua whenua i takahia na e ou waewae, he pono mou pu hei kainga tupu, mo au tamariki hoki ake ake; mou i whakapau ki te whai i a Ihowa, i toku Atua.</verse>
+        <verse osisID='Josh.14.10'>Heoi inaianei kua whakaora a Ihowa i ahau, kua pera me tana i korero ai, ka wha tekau ma rima enei tau, mai o te korerotanga a Ihowa i tenei kupu ki a Mohi, i a Iharaira e haereere ana i te koraha: na, inaianei, ka waru tekau ma rima oku tau.</verse>
+        <verse osisID='Josh.14.11'>Kei te kaha tonu ahau i tenei ra, pera ano i te ra i tonoa ai ahau e Mohi: ko toku kaha i reira koia ano toku kaha inaianei mo te whawhai, mo te haere atu, mo te haere mai.</verse>
+        <verse osisID='Josh.14.12'>No reira homai ki ahau tenei maunga, ko ta Ihowa hoki i korero ai i taua ra; i rongo ra hoki koe taua ra kei reira nga Anakimi, me nga pa nunui, taiepa rawa: tera pea e tata mai a Ihowa ki ahau, a ka peia ratou e ahau, a ka peratia me ta Ihowa i korero ai.</verse>
+        <verse osisID='Josh.14.13'>Na ka manaakitia ia e Hohua; a hoatu ana e ia a Heperona ki a Karepe tama a Iepune hei kainga tupu.</verse>
+        <verse osisID='Josh.14.14'>Koia i waiho ai a Heperona hei kainga tupu mo Karepe, mo te tama a Iepune Keniti, a mohoa noa nei; mona i whakapau ki te whai i a Ihowa, i te Atua o Iharaira.</verse>
+        <verse osisID='Josh.14.15'>Na ko te ingoa o Heperona i mua ko Kiriata Arapa; ko taua Arapa hoki te tangata tino nui i roto i nga Anakimi. Heoi takoto kau ana te whenua i te whawhai.</verse>
+      </chapter>
+      <chapter osisID='Josh.15'>
+        <verse osisID='Josh.15.1'> Na ko te rota o te iwi o nga tama a Hura, he mea whakarite ki o ratou hapu, i tae atu ki te rohe ki a Eroma, ki te koraha o Hini ra ano whaka te tonga, ki te pito whakamutunga ki te tonga.</verse>
+        <verse osisID='Josh.15.2'>Ko to ratou rohe ki te tonga kei te pito ra ano o te Moana Tote, kei te matamata e anga ana whaka te tonga:</verse>
+        <verse osisID='Josh.15.3'>Na ka rere whaka te tonga o te pinakitanga o Akarapimi, ka haere atu ki Hini, a ka ahu whakarunga i te taha ki te tonga o Kareheparenea, na haere tonu, kei Heterono, ka anga ki runga, ki Arara, na ka whawhe kei Karakaa:</verse>
+        <verse osisID='Josh.15.4'>Na haere tonu whaka Atamono, a puta atu ki te awa o Ihipa; na ko nga pakarutanga atu o tena rohe kei te moana: ko te rohe tenei ki a koutou ki te tonga.</verse>
+        <verse osisID='Josh.15.5'>A ko te rohe ki te rawhiti ko te Moana Tote tae noa ki te kongutuawa o Horano. A ko te rohe i te taha ki te raki i te kokoru o te moana i te kongutuawa o Horano:</verse>
+        <verse osisID='Josh.15.6'>A ka haere te rohe ki runga, ki Petehokora, a haere tonu i te raki o Petearapa; a ka ahu te rohe ki runga, ki te kohatu o Pohana tama a Reupena:</verse>
+        <verse osisID='Josh.15.7'>Na haere tonu te rohe ki runga, ki Repiri, atu i te raorao o Akoro, na ka anga atu whaka te raki ki te ritenga o Kirikara, o te wahi i mua mai o te pikitanga ki Arumine, ki tera i te taha tonga o te awa: a i haere tonu te rohe ma nga wai o Enehem ehe, a ko ona pakarutanga atu i Enerokere:</verse>
+        <verse osisID='Josh.15.8'>A i rere whakarunga te rohe ra te raorao o te tama a Hinomo ma te taha o to te Iepuhi whaka te tonga, ara o Hiruharama: a i haere tonu te rohe ki te tihi o te maunga e whakapae ana i mua o te raorao o Hinomo, whaka te hauauru, ki tera i te pito r awa o te raorao o Repaima whaka te raki:</verse>
+        <verse osisID='Josh.15.9'>A i whakatakotoria atu te rohe i te tihi o te maunga ki te puna wai o Nepetoa, a i puta atu ki nga pa o Maunga Eperona; a i whakatakotoria atu te rohe ki Paara, ara ki Kiriata Tearimi:</verse>
+        <verse osisID='Josh.15.10'>Katahi ka whawhe atu te rohe i Paara, whaka te hauauru, ki Maunga Heira, a haere tonu atu ki te taha o Maunga Tearimi, ara o Keharono, ki te taha ki te raki, a ka heke ki raro ki Petehemehe, a haere tonu atu ki Timina:</verse>
+        <verse osisID='Josh.15.11'>A i puta tonu atu te rohe ki te taha o Ekerono, whaka te raki; a i whakatakotoria atu te rohe ki Hikirono, a haere tonu atu ki Maunga Paara, a puta tonu atu ki Iapaneere: a pakaru rawa atu te rohe kei te moana.</verse>
+        <verse osisID='Josh.15.12'>A ko te rohe ki te hauauru kei te moana nui me tona pareparenga. Ko te rohe tenei ki nga tama a Hura a tawhio noa, ki tenei hapu, ki tenei hapu o ratou.</verse>
+        <verse osisID='Josh.15.13'> A i hoatu e ia he wahi ki a Karepe, ki te tama a Iepune i roto i nga tama a Hura, he mea ki mai hoki na Ihowa ki a Hohua, ko Kiriata Arapa, ara ko Heperona, ko taua Arapa nei te papa o Anaka.</verse>
+        <verse osisID='Josh.15.14'>Na ka peia e Karepe i reira nga tama tokotoru a Anaka, a Hehai, a Ahimana, a Taramai, nga tama a Anaka.</verse>
+        <verse osisID='Josh.15.15'>Na ka haere atu ia i reira ki runga, ki nga tangata o Repiri: na ko te ingoa o Repiri i mua ko Kiriata Hepere.</verse>
+        <verse osisID='Josh.15.16'>Na ka mea a Karepe, Ko te tangata e patua ai a Kiriata Hepere, a ka horo i a ia, ka hoatu e ahau a Akaha, taku tamahine hei wahine mana.</verse>
+        <verse osisID='Josh.15.17'>Na ka horo i a Otoniere, i te tama a Kenaha, a te teina o Karepe; a hoatu ana e ia tana tamahine, a Akaha hei wahine mana.</verse>
+        <verse osisID='Josh.15.18'>A, i a ia e haere atu ana ki a ia, ka whakakikitia e ia te tane kia tonoa he mara i tona papa: a ka marere atu ia ki raro i te kaihe; na ka mea a Karepe ki a ia, He aha tau?</verse>
+        <verse osisID='Josh.15.19'>Na ka mea ia, Homai he manaaki ki ahau; i te mea kua whakanohoia ahau e koe ki te whenua i te tonga, homai ano hoki etahi puna wai ki ahau. Na hoatu ana e ia ki a ia nga puna o runga me nga puna o raro.</verse>
+        <verse osisID='Josh.15.20'> Ko te wahi tupu tenei o te iwi o nga tama a Hura, o o ratou hapu.</verse>
+        <verse osisID='Josh.15.21'>A ko nga pa whakamutunga o te iwi o nga tama a Hura, ki te taha ki Eroma, whaka te tonga, ko Kapateere, ko Erere, ko Iakuru,</verse>
+        <verse osisID='Josh.15.22'>Ko Kinaha, ko Rimona, ko Arara,</verse>
+        <verse osisID='Josh.15.23'>Ko Kerehe, ko Hatoro, ko Itinana,</verse>
+        <verse osisID='Josh.15.24'>Ko Tiwhi, ko Tereme, ko Pearoto,</verse>
+        <verse osisID='Josh.15.25'>Ko Hatoro, ko Harata, ko Kerioto, ko Heterono, ara ko Hatoro,</verse>
+        <verse osisID='Josh.15.26'>Ko Amama, ko Hema, ko Morara,</verse>
+        <verse osisID='Josh.15.27'>Ko Hatarakara, ko Hehemono, ko Peteperete,</verse>
+        <verse osisID='Josh.15.28'>Ko Hatarahuara, ko Peerehepa, ko Pitiotia,</verse>
+        <verse osisID='Josh.15.29'>Ko Paara, ko Iimi, ko Eteme,</verse>
+        <verse osisID='Josh.15.30'>Ko Eretorara, ko Kehiri, ko Horema,</verse>
+        <verse osisID='Josh.15.31'>Ko Tikiraka, ko Maramana, ko Hanahana,</verse>
+        <verse osisID='Josh.15.32'>Ko Repaoto, ko Hirihimi, ko Aina, ko Rimono: e rua tekau ma iwa nga pa katoa me nga kainga o aua pa.</verse>
+        <verse osisID='Josh.15.33'>O te mania ko Ehetaoro, ko Torea, ko Ahena,</verse>
+        <verse osisID='Josh.15.34'>Ko Tanoa, ko Enekanimi, ko Tapua, ko Enama,</verse>
+        <verse osisID='Josh.15.35'>Ko Iaramuta, ko Aturama, ko Hokoho, ko Ateka,</verse>
+        <verse osisID='Josh.15.36'>Ko Haraimi, ko Aritaimi, ko Kerera, ko Kererotaimi; kotahi tekau ma wha nga pa me nga kainga o aua pa.</verse>
+        <verse osisID='Josh.15.37'>Ko Tenana, ko Haraha, ko Mikirarakara,</verse>
+        <verse osisID='Josh.15.38'>Ko Rireana, ko Mihipe, ko Iokoteere,</verse>
+        <verse osisID='Josh.15.39'>Ko Rakihi, ko Pohokata, ko Ekerona,</verse>
+        <verse osisID='Josh.15.40'>Ko Kapono, ko Rahamama, ko Kitirihi,</verse>
+        <verse osisID='Josh.15.41'>Ko Kereroto, ko Peterakono, ko Naama, ko Makera; kotahi tekau ma wha nga pa me nga kainga o aua pa.</verse>
+        <verse osisID='Josh.15.42'>Ko Ripina, ko Etere, ko Ahana,</verse>
+        <verse osisID='Josh.15.43'>Ko Ipita, ko Ahena, ko Netipi,</verse>
+        <verse osisID='Josh.15.44'>Ko Keira, ko Akatipi, ko Mareha: e iwa nga pa, me nga kainga o aua pa.</verse>
+        <verse osisID='Josh.15.45'>Ko Ekerono me ona pa ririki, me ona kainga:</verse>
+        <verse osisID='Josh.15.46'>Ko nga pa katoa e tata ana ki Aharoro o Ekerono atu a tae noa ki te moana, me nga kainga ano hoki o reira.</verse>
+        <verse osisID='Josh.15.47'>Ko Aharoro me ona pa ririki, me ona kainga, ko Kaha me ona pa ririki, me ona kainga tae noa ki te awa o Ihipa, ki te moana nui ano hoki, me tona pareparenga.</verse>
+        <verse osisID='Josh.15.48'>A, o nga maunga, ko Hamiri, ko Iatiri, ko Hokoho,</verse>
+        <verse osisID='Josh.15.49'>Ko Ranaha, ko Kiriatahana, ara ko Repiri,</verse>
+        <verse osisID='Josh.15.50'>Ko Anapa, ko Ehetomo, ko Animi,</verse>
+        <verse osisID='Josh.15.51'>Ko Kohena, ko Horono, ko Kiroho; kotahi tekau ma tahi nga pa, me nga kainga o aua pa.</verse>
+        <verse osisID='Josh.15.52'>Ko Arapa, ko Rumaha, ko Eheana,</verse>
+        <verse osisID='Josh.15.53'>Ko Ianumu, ko Petetapua, ko Apeka,</verse>
+        <verse osisID='Josh.15.54'>Ko Humuta, ko Kiriata Arapa, ara ko Heperona, ko Tioro; e iwa nga pa, me nga kainga o aua pa.</verse>
+        <verse osisID='Josh.15.55'>Ko Maono, ko Karamere, ko Tiwhi, ko Iutaha,</verse>
+        <verse osisID='Josh.15.56'>Ko Ietereere, ko Iokoreama, ko Tanoa,</verse>
+        <verse osisID='Josh.15.57'>Ko Kaini, ko Kipea, ko Timina; kotahi tekau nga pa me nga kainga o aua pa.</verse>
+        <verse osisID='Josh.15.58'>Ko Harahuru, ko Peteturu, ko Keroro,</verse>
+        <verse osisID='Josh.15.59'>Ko Maarata, ko Peteanoto, ko Eretekono; e ono nga pa, me nga kainga o aua pa.</verse>
+        <verse osisID='Josh.15.60'>Ko Kiriatapaara, ara ko Kiriata Tearimi, ko Rapa; e rua nga pa, me nga kainga o aua pa.</verse>
+        <verse osisID='Josh.15.61'>O te koraha, ko Petearapa, ko Mirini, ko Hekaka,</verse>
+        <verse osisID='Josh.15.62'>Ko Nipihana, me te Pa Tote, me Enekeri; e ono nga pa, me nga kainga o aua pa.</verse>
+        <verse osisID='Josh.15.63'>Ko nga Iepuhi ia, ko nga tangata o Hiruharama, kihai ratou i taea te pei e nga tama a Hura: heoi noho tahi ana nga Iepuhi me nga tama a Hura ki Hiruharama a taea noatia tenei ra.</verse>
+      </chapter>
+      <chapter osisID='Josh.16'>
+        <verse osisID='Josh.16.1'> A, ko te rota i nga tama a Hohepa, i rere atu i Horano i Heriko, i nga wai o Heriko ki te rawhiti, a tae noa ki te koraha, e aupiki atu ra i Heriko ma te whenua pukepuke ki Peteere;</verse>
+        <verse osisID='Josh.16.2'>Na ka haere atu i Peteere ki Rutu, a tika tonu atu ki nga rohe o Araki ki Ataroto,</verse>
+        <verse osisID='Josh.16.3'>Na ka haere ki raro whaka te hauauru ki te rohe o Iapareti tae noa ki te rohe o Petehorono ki raro, ki Ketere: a ko tona putanga atu kei te moana.</verse>
+        <verse osisID='Josh.16.4'>Na ka riro i nga tama a Hohepa, i a Manahi raua ko Eparaima to ratou kainga tupu.</verse>
+        <verse osisID='Josh.16.5'> A ko te rohe tenei ki nga tama a Eparaima, ki o ratou kainga whaka te rawhiti ko Ataroto Arara, tae noa ki Petehorono ki runga;</verse>
+        <verse osisID='Josh.16.6'>A i puta atu te rohe whaka te hauauru ki Mikimeta ki te raki; a i awhio haere te rohe whaka te rawhiti ki Taanata Hiro, a ka whakarerea atu a reira i te taha ki te rawhiti o Ianoha;</verse>
+        <verse osisID='Josh.16.7'>Na ka anga i Ianoha ki raro ki Ataroto, a ki Naarata, a ka pa ki Heriko, puta rawa atu kei Horano.</verse>
+        <verse osisID='Josh.16.8'>I haere atu te rohe i Tapua whaka te hauauru ki te awa ki Kanaha; a kei te moana ona putanga atu. Ko te wahi tupu tenei o te iwi o nga tama a Eparaima, o o ratou hapu:</verse>
+        <verse osisID='Josh.16.9'>Me nga pa i motuhia mo nga tama a Eparaima i roto i te wahi o nga tama a Manahi, nga pa katoa me nga kainga o aua pa.</verse>
+        <verse osisID='Josh.16.10'>A kihai i peia e ratou te Kanaani e noho ana i Ketere: heoi noho ana te Kanaani i waenganui o Eparaima a taea noatia tenei ra, a ka meinga hei pononga, hei mahi i nga mahi.</verse>
+      </chapter>
+      <chapter osisID='Josh.17'>
+        <verse osisID='Josh.17.1'> A ko te rota tenei i te iwi o Manahi; ko ia hoki te matamua a Hohepa. I a Makiri, i te matamua a Manahi, matua o Kireara, i te mea he tangata hapai pakanga ia, i a ia a Kireara, a Pahana.</verse>
+        <verse osisID='Josh.17.2'>A ko te rota i era atu tama a Manahi, i o ratou hapu; i nga tama a Apietere, i nga tama a Hereke, i nga tama a Ahariere, i nga tama a Hekeme, i nga tama a Hewhere, i nga tama hoki a Hemira: ko nga tama enei a Manahi tama a Hohepa, i o ratou hapu.</verse>
+        <verse osisID='Josh.17.3'>Otiia kahore he tama a Teropehara, tama a Hewhere, tama a Kireara, tama a Makiri, tama a Manahi; engari he tamahine: a ko nga ingoa enei o ana tamahine, ko Mahara, ko Noa, ko Hokora, ko Mireka, ko Tirita.</verse>
+        <verse osisID='Josh.17.4'>Na ka whakatata ratou ki te aroaro o Ereatara tohunga, ki te aroaro o Hohua tama a Nunu, ki te aroaro ano hoki o nga ariki, a ka mea, I whakahau a Ihowa i a Mohi kia homai he kainga tupu ki a matou i roto i o matou tungane. Na homai ana e ia ki a ratou ta Ihowa i ki ai, he kainga tupu i roto i nga teina o to ratou papa.</verse>
+        <verse osisID='Josh.17.5'>A tekau nga wahi i taka ki a Manahi, haunga te whenua o Kireara, o Pahana, i tawahi o Horano;</verse>
+        <verse osisID='Josh.17.6'>No te mea i whiwhi nga tamahine a Manahi i te wahi tupu i roto i ana tama; a i riro te whenua o Kireara i nga tama a Manahi i mahue.</verse>
+        <verse osisID='Josh.17.7'> A ko te rohe ki a Manahi kei a Ahera a tae noa ki Mikimeta, ki tera i te ritenga atu o Hekeme; a i haere tonu te rohe ki matau, ki nga tangata o Enetapua.</verse>
+        <verse osisID='Josh.17.8'>I a Manahi te whenua o Tapua: ko Tapua ia i te rohe o Manahi, i nga tama a Eparaima tera.</verse>
+        <verse osisID='Josh.17.9'>A i puta atu te rohe ki te awa, ki Kana, whaka te tonga o te awa: ko enei pa no Eparaima i roto i nga pa o Manahi: a ko te rohe o Manahi i te taha tuaraki o te awa, a ko ona putanga kei te moana:</verse>
+        <verse osisID='Josh.17.10'>I a Eparaima te taha ki te tonga, a i a Manahi te taha ki te raki, a ko te moana te rohe ki a ia; a i tutaki raua ki a Ahera ki te raki, ki a Ihakara hoki ki te rawhiti.</verse>
+        <verse osisID='Josh.17.11'>A i riro i a Manahi i roto i to Ihakara, i to Ahera, a Peteheana me ona pa ririki, a Ipireama me ona pa ririki, nga tangata o Roro, o ona pa ririki, nga tangata o Eneroro, o ona pa ririki, nga tangata o Taanaka, o ona pa ririki, nga tangata ano hoki o Mekiro, o ona pa ririki, ara e toru nga taumata.</verse>
+        <verse osisID='Josh.17.12'>Otiia kihai i taea e nga tama a Manahi te pei nga tangata o aua pa; ko nga Kanaani ia i whakamate kia noho tonu i taua whenua.</verse>
+        <verse osisID='Josh.17.13'>Na, no ka kaha nga tama a Iharaira, ka meinga e ratou nga Kanaani hei kaimahi, a kahore i peia rawatia atu e ratou.</verse>
+        <verse osisID='Josh.17.14'> Na ka korero nga tama a Hohepa ki a Hohua, ka mea, Na te aha i kotahi tonu ai te rota, i kotahi ai te wahi i homai e koe ki ahau hei kainga tupu, he iwi nui nei hoki ahau, a he manaakitanga hoki ahau na Ihowa a mohoa noa nei?</verse>
+        <verse osisID='Josh.17.15'>Na ka mea a Hohua ki a ratou, Ki te mea he iwi nui koe, haere ki te ngahere tua ai he wahi mau i reira, i te whenua o nga Perihi ratou ko nga Repaima; ina hoki he kuiti rawa te whenua pukepuke o Eparaima mou.</verse>
+        <verse osisID='Josh.17.16'>Na ka mea nga tama a Hohepa, He iti rawa te whenua pukepuke mo matou: a ko nga Kanaani katoa e noho ana i te wahi mania he hariata o ratou, o era e noho ra i Peteheana, i ona pa ririki, o era hoki i te mania i Ietereere.</verse>
+        <verse osisID='Josh.17.17'>Na ka korero a Hohua ki te whare o Hohepa, ki a Eparaima raua ko Manahi, ka mea, He iwi nui koe, he nui hoki tou kaha: e kore e kotahi tonu te rota mou:</verse>
+        <verse osisID='Josh.17.18'>Engari mou ano te whenua pukepuke; ahakoa hoki he ngahere ia, mau e tua, a mou ona putanga atu; ka peia atu hoki e koe nga Kanaani, he ahakoa to ratou whai hariata rino, me to ratou kaha.</verse>
+      </chapter>
+      <chapter osisID='Josh.18'>
+        <verse osisID='Josh.18.1'> Na ka huihui te whakaminenga katoa o nga tama a Iharaira ki Hiro, a whakaturia ana e ratou ki reira te tapenakara o te whakaminenga: a i taea hoki te whenua e ratou.</verse>
+        <verse osisID='Josh.18.2'> Na ka toe e whitu nga iwi o nga tama a Iharaira, kahore nei i wehea to ratou kainga tupu ki a ratou.</verse>
+        <verse osisID='Josh.18.3'>Na ka mea a Hohua ki nga tama a Iharaira, Kia pehea ake te roa o to koutou nei mangere ki te haere ki te tango i te whenua kua hoatu nei ki a koutou e Ihowa, e te Atua o o koutou matua?</verse>
+        <verse osisID='Josh.18.4'>Whakaritea mo koutou kia tokotoru mo ia iwi: a maku ratou e tono, a ka whakatika ratou, ka haere i te whenua, a ka tuhituhi kia rite ki o ratou wahi; a ka haere mai ai ratou ki ahau.</verse>
+        <verse osisID='Josh.18.5'>Me wehe hoki e ratou kia whitu nga wahi: me noho a Hura ki tona wahi ki te tonga, me noho ano hoki te whare o Hohepa ki tona wahi ki te raki.</verse>
+        <verse osisID='Josh.18.6'>Na me tuhituhi e koutou te whenua kia whitu nga wahi, ka kawe mai ai i te pukapuka ki ahau ki konei, a maku e maka o koutou rota ki konei ki te aroaro o Ihowa, o to tatou Atua.</verse>
+        <verse osisID='Josh.18.7'>Otira kahore he wahi mo nga Riwaiti i roto i a koutou; ko te mahi tohunga ki a Ihowa te wahi mo ratou: a ko Kara, ko Reupena, ko tetahi taanga hoki o te iwi o Manahi, kua whiwhi ratou ki to ratou wahi i tawahi o Horano whaka te rawhiti, ki ta Moh i, ki ta te pononga a Ihowa i hoatu ai ki a ratou.</verse>
+        <verse osisID='Josh.18.8'>Na ka whakatika aua tangata, a ka haere: a i whakahau a Hohua i te hunga i haere ki te tuhituhi i te whenua, i mea, Turia atu, haereerea hoki te whenua, tuhituhia hoki, ka hoki mai ai ki ahau, a maku e maka o koutou rota ki konei, ki te aroaro o Ihowa, ki Hiro.</verse>
+        <verse osisID='Josh.18.9'>Na ka turia atu e aua tangata, ka haere a puta noa te whenua, a tuhituhia iho e ratou ki te pukapuka, e whitu nga wahi, he mea whakaaro ki nga pa, a haere ana ki a Hohua, ki te puni ki Hiro.</verse>
+        <verse osisID='Josh.18.10'>A maka ana e Hohua he rota mo ratou i Hiro, i te aroaro o Ihowa: na ka wehea e Hohua te whenua i reira mo nga tama a Iharaira, kia rite ki o ratou wehenga.</verse>
+        <verse osisID='Josh.18.11'> I puta ake te rota o te iwi o nga tama a Pineamine, ara o o ratou hapu: i haere te rohe o to ratou wahi i te takiwa o to nga tama a Hura, o to nga tama a Hohepa.</verse>
+        <verse osisID='Josh.18.12'>A ko to ratou rohe ki te taha ki te raki i Horano; na i haere te rohe ki runga, ki te taha o Heriko, ki te raki, a i haere whakarunga, na te whenua pukepuke whaka te hauauru, a puta tonu atu i te koraha o Peteawene.</verse>
+        <verse osisID='Josh.18.13'>A i tika atu te rohe i reira ki Rutu, ki te taha o Rutu, ara ki Peteere whaka te tonga; na i anga whakararo te rohe ki Ataroto Arara, tatu tonu ki te pukepuke e tu ana i te tonga o Petehorono ki raro.</verse>
+        <verse osisID='Josh.18.14'>Na ka whakatakotoria atu te rohe, a ka wahio haere ma te taha hauauru whaka te tonga, atu i te pukepuke e tu ana i te ritenga atu o Petehorono whaka te tonga; a ko ona putanga i Kiriatapaara, ara i Kiriata Tearimi, he pa no nga tama a Hura: ko t e taha tenei ki te hauauru.</verse>
+        <verse osisID='Josh.18.15'>A ko te taha ki te tonga i te pito rawa o Kiriata Tearimi, a i puta atu te rohe whaka te hauauru, a puta tonu atu ki te puna wai i Nepetoa:</verse>
+        <verse osisID='Josh.18.16'>A i anga whakararo te rohe ki te pito rawa o te maunga e tu ana i mua i te raorao o te tama a Hinomo, ki tera i te raorao o Repaima whaka te raki; na i heke ki te raorao o Hinimo, ki te taha o te Iepuhi ki te tonga, a i heke ki Enerokere;</verse>
+        <verse osisID='Josh.18.17'>Na i whakatakotoria atu te raki. a ka puta atu ki Enehemehe, a ka puta atu ki Keriroto, ki te ritenga atu o te pinakitanga ki Arumine; a heke noa ki te kohatu o Pohana, o te tama o Reupena,</verse>
+        <verse osisID='Josh.18.18'>Na i haere tonu i te tahi ki te raki ki te ritenga atu o Arapa, a i heke tonu atu ki Arapa;</verse>
+        <verse osisID='Josh.18.19'>Na i here tonu te rohe ki te taha ki te raki o Petehokora: a i pakaru rawa atu te rohe ki te kokoru whaka te raki o te Moana Toto i te pito ki te tonga o Horano: ko te rohe tenei ki te tonga.</verse>
+        <verse osisID='Josh.18.20'>A ko Horano tona rohe i te taha ki te rawhiti. Ko te kainga tupu tenei o nga tama a Pineamine, ko nga rohe hoki o reira a tawhio noa, ara o o ratou hapu.</verse>
+        <verse osisID='Josh.18.21'>Na, ko nga pa o te iwi o nga tama a Pineamine, o o ratou hapu, ko Heriko, ko Petehokora, me Emekeketiti;</verse>
+        <verse osisID='Josh.18.22'>Ko Petearapa, ko Temaraima, ko Peteere;</verse>
+        <verse osisID='Josh.18.23'>Ko Awimi, ko Paraha, ko Opora;</verse>
+        <verse osisID='Josh.18.24'>Ko Kepara Hamonai, ko Oponi, ko Kepa: kotahi tekau ma rua nga pa me nga kainga o aua pa:</verse>
+        <verse osisID='Josh.18.25'>Ko Kipeono, ko Rama, ko Peeroto;</verse>
+        <verse osisID='Josh.18.26'>Ko Mihipe, ko Kepira, ko Motaha;</verse>
+        <verse osisID='Josh.18.27'>Ko Rekeme, ko Iripeere, ko Tarara;</verse>
+        <verse osisID='Josh.18.28'>Ko Heraha, ko Erepe, ko Iepuhi, ara ko Hiruharama, ko Kipeata, ko Kiriata; kotahi tekau ma wha nga pa me nga kainga. Ko te kainga tupu tenei o nga tama a Pineamine, o o ratou hapu.</verse>
+      </chapter>
+      <chapter osisID='Josh.19'>
+        <verse osisID='Josh.19.1'> A, ka puta ake te rua o nga rota, ko to Himiona, ara ko to te iwi o nga tama a Himiona, i te ritenga o o ratou hapu: a ko to ratou wahi i waenganui o te wahi o nga tama a Hura.</verse>
+        <verse osisID='Josh.19.2'>A no o ratou kainga tupu hoki a Peerehepa, ara a Hepa, a Morara;</verse>
+        <verse osisID='Josh.19.3'>A Hatarahuara, a Para, a Ateme;</verse>
+        <verse osisID='Josh.19.4'>A Eretorara, a Peturu, a Horema;</verse>
+        <verse osisID='Josh.19.5'>A Tikiraka, a Pete Marakapoto, a Hatara Huha;</verse>
+        <verse osisID='Josh.19.6'>A Peterepaoto, a Haruhene; kotahi tekau ma toru nga pa, me nga kainga:</verse>
+        <verse osisID='Josh.19.7'>A Aina, a Rimono, a Etere, a Ahana; e wha nga pa me nga kainga;</verse>
+        <verse osisID='Josh.19.8'>Me nga kainga katoa o enei pa a tawhio noa, a tae noa ki Paarata Peere, ki Ramata ki te tonga. Ko te wahi tupu tenei o te iwi o nga tama a Himiona, o o ratou hapu.</verse>
+        <verse osisID='Josh.19.9'>No te wahi o nga tama a Hura te wahi o nga tama a Himiona: he nui rawa hoki te wahi o nga tama a Hura mo ratou: na reira i riro ai he kainga tupu mo nga tama a Himiona i roto i to ratou wahi.</verse>
+        <verse osisID='Josh.19.10'> A, ko te putanga ake o te toru o nga rota, ko to nga tama a Hepurona, ki te ritenga o o ratou hapu: a tutuki noa te rohe o to ratou wahi ki Hariri:</verse>
+        <verse osisID='Josh.19.11'>A i haere whakarunga to ratou rohe ki te hauauru, ki Marara atu ra ano, a i tae hoki ki Rapahete; i tae ano hoki ki te awa i mua i Iokoneama;</verse>
+        <verse osisID='Josh.19.12'>Na i anga atu i Hariri whaka te rawhiti ki te putanga mai o te ra, ki te rohe o Kihiroto Taporo; na i puta atu ki Taperata, a i haere tonu atu ki runga, ki Iapia;</verse>
+        <verse osisID='Josh.19.13'>Na i rere atu i reira whaka te rawhiti ki Katahewhere, ki Itakatini; a puta tonu atu ki Rimono, ki tera e takoto atu ra ki Neaha;</verse>
+        <verse osisID='Josh.19.14'>Na i taiawhio te rohe i te taha ki te raki a tae noa ki Hanatono: a ko ona pakarutanga i te raorao o Ipitaere;</verse>
+        <verse osisID='Josh.19.15'>Me Katata, me Naharara, me Himirono, me Irara, me Peterehema: kotahi tekau ma rua nga pa me nga kainga.</verse>
+        <verse osisID='Josh.19.16'>Ko te wahi tupu tenei o nga tama a Hepurona, o o ratou hapu, ko enei pa me nga kainga o aua pa.</verse>
+        <verse osisID='Josh.19.17'> A, ko te putanga ake o te wha o nga rota, ko to Ihakara, ko to nga tama a Ihakara i te ritenga o o ratou hapu.</verse>
+        <verse osisID='Josh.19.18'>A ko te rohe ki a ratou i Ietereere, na ko Kehuroto, ko Huneme;</verse>
+        <verse osisID='Josh.19.19'>Ko Haparaima, ko Hihono, ko Anaharata;</verse>
+        <verse osisID='Josh.19.20'>Ko Rapiti, ko Kihiono, ko Apete;</verse>
+        <verse osisID='Josh.19.21'>Ko Remete, ko Enekanimi, ko Eneharaha, ko Petepatere;</verse>
+        <verse osisID='Josh.19.22'>A i puta atu te rohe ki Taporo, ki Hahatima, ki Petehemehe; a i pakaru tonu atu to ratou rohe ki Horano: kotahi tekau ma ono nga pa me nga kainga.</verse>
+        <verse osisID='Josh.19.23'>Ko te wahi tupu tenei o te iwi o nga tama a Ihakara, o o ratou hapu, ko nga pa me nga kainga.</verse>
+        <verse osisID='Josh.19.24'> A, ko te putanga ake o te rima o nga rota, ko to te iwi o nga tama a Ahera, o o ratou hapu.</verse>
+        <verse osisID='Josh.19.25'>A, ko to ratou rohe, ko Herekata, ko Hari, ko Petene, ko Akahapa;</verse>
+        <verse osisID='Josh.19.26'>Ko Aramereke, ko Amara, ko Miheara; a tutuki noa ki Karamere ki te taha ki te hauauru, ki Hihoro Ripinata ano hoki;</verse>
+        <verse osisID='Josh.19.27'>Na ka anga ki te rawhiti ki Peterakono, a tutuki noa ki Hepurona, ki te raorao o Ipitaere hoki, ki te taha ki te raki o Peteemeke, o Neiere, a puta noa ki Kapuru ki maui;</verse>
+        <verse osisID='Josh.19.28'>Ko Heperona hoki, ko Rehopo, ko Hamono, ko Kanaha, a tae noa ki Hairona nui;</verse>
+        <verse osisID='Josh.19.29'>Katahi ka anga te rohe ki Rama, ki Taira hoki ki te pa taiepa; na ka anga te rohe ki Hoha; a ko ona putanga atu i te moana, i nga wahi o Akatipi:</verse>
+        <verse osisID='Josh.19.30'>Ko Umaha ano hoki, ko Apeke, ko Rehopo: e rua tekau ma rua nga pa me o ratou kainga.</verse>
+        <verse osisID='Josh.19.31'>Ko te kainga tupu tenei o te iwi o nga tama a Ahera, o o ratou hapu, ko enei pa me nga kainga o aua pa.</verse>
+        <verse osisID='Josh.19.32'> Ko te putanga ake o te ono o nga rota, ko to nga tama a Napatari, ara ko to nga tama a Napatari ki te ritenga o o ratou hapu.</verse>
+        <verse osisID='Josh.19.33'>A i anga atu to ratou rohe i Herepe, i te oki i roto i Taananimi, ki Arami Nekepe, ki Iapaneere, tae noa ki Rakumu; a ko ona pakarutanga atu i Horano:</verse>
+        <verse osisID='Josh.19.34'>Na i anga te rohe whaka te hauauru ki Atanoto Taporo, a i haere tonu i reira ki Hukoko; na i te taha ki te tonga i tutuki atu ki to Hepurona, a i te taha ki te hauauru i tutuki atu ki to Ahera, a, i te takiwa ki te rerenga mai o te ra, ki to Hur a i Horano.</verse>
+        <verse osisID='Josh.19.35'>A, ko nga pa taiepa, ko Tirimi, ko Tere, ko Hamata, ko Rakata, ko Kinereta;</verse>
+        <verse osisID='Josh.19.36'>Ko Aramaha, ko Rama, ko Hatoro;</verse>
+        <verse osisID='Josh.19.37'>Ko Kerehe, ko Eterei, ko Enehatoro;</verse>
+        <verse osisID='Josh.19.38'>Ko Irono ko Mikitaraere, ko Horeme, ko Peteanata, ko Petehemehe; kotahi tekau ma iwa nga pa me nga kainga o aua pa.</verse>
+        <verse osisID='Josh.19.39'>Ko te kainga tupu tenei o te iwi o nga tama a Napatari, o o ratou hapu, ko nga pa me o ratou kainga.</verse>
+        <verse osisID='Josh.19.40'> A, ko te putanga ake o te whitu o nga rota, ko to te iwi o nga tama a Rana, i te ritenga ki o ratou hapu.</verse>
+        <verse osisID='Josh.19.41'>A ko te rohe o to ratou wahi i Toraha, i Ehetaoro, i Irihemehe;</verse>
+        <verse osisID='Josh.19.42'>I Haarapini, i Aitarono, i Ietera;</verse>
+        <verse osisID='Josh.19.43'>I Erono, i Timinata, i Ekerono;</verse>
+        <verse osisID='Josh.19.44'>I Eretekehe, i Kipetono, i Paarata;</verse>
+        <verse osisID='Josh.19.45'>I Iehuru, i Peneperaka, i Katarimono;</verse>
+        <verse osisID='Josh.19.46'>I Meiarakono, i Rakono, me te rohe ano hoki i mua i Iapo.</verse>
+        <verse osisID='Josh.19.47'>A i puta atu te rohe o nga tama a Rana ki ko atu i a ratou: no te mea i haere nga tama a Rana ki runga, a i whawhai ki Reheme, a riro ana a reira i a ratou, a patua iho a reira ki te mata o te hoari, na tangohia ana a reira e ratou, a nohoia iho, a huaina iho a Reheme ko Rana, ko te ingoa o to ratou papa o Rana.</verse>
+        <verse osisID='Josh.19.48'>Ko te wahi tenei o te iwi o nga tama a Rana, o o ratou hapu, ko nga pa enei me nga kainga.</verse>
+        <verse osisID='Josh.19.49'> Na ka mutu ta ratou whakarite i te whenua hei kainga tupu, i tenei rohe, i tenei rohe; na ka hoatu e nga tama a Iharaira he wahi tupu mo Hohua tama a Nunu i roto i a ratou:</verse>
+        <verse osisID='Josh.19.50'>I hoatu e ratou ki a ia ta Ihowa i ki ai, te pa i tonoa e ia, ara a Timinata Heraha i te whenua pukepuke o Eparaima: na ka hanga e ia te pa, a noho ana i reira.</verse>
+        <verse osisID='Josh.19.51'>Ko nga kainga enei i tuwhaina e Ereatara tohunga, e Hohua tama a Nunu, e nga upoko o nga whare o nga matua o nga iwi o nga tama a Iharaira, he mea rota i Hiro i te aroaro o Ihowa, i te whatitoka o te tapenakara o te whakaminenga. Heoi ka mutu ta ratou wehewehe i te whenua.</verse>
+      </chapter>
+      <chapter osisID='Josh.20'>
+        <verse osisID='Josh.20.1'> Na ka korero a Ihowa ki a Hohua, ka mea,</verse>
+        <verse osisID='Josh.20.2'>Korero ki nga tama a Iharaira, mea atu, Whakaritea e koutou etahi pa whakaora, ko aku i korero ai, na Mohi i whakapuaki ki a koutou:</verse>
+        <verse osisID='Josh.20.3'>Hei rerenga atu mo te tangata whakamate, i patu nei i tetahi tangata, he mea urupa, ehara i te mea ata whakaaro: a ka waiho hei whakaora mo koutou, kei mate i te kaitakitaki toto.</verse>
+        <verse osisID='Josh.20.4'>A ka rere ia ki tetahi o enei pa, ka tu i te kuwaha o te tomokanga o te pa, na ka korero i ana korero ki nga taringa o nga kaumatua o tena pa; a me tango atu ia e ratou ki roto ki te pa, ki roto ki a ratou, ka homai he wahi ki a ia, a ka noho ia ki a ratou.</verse>
+        <verse osisID='Josh.20.5'>A, ki te whaia atu ia e te kaitakitaki toto, kaua e tukua atu te tangata whakamate e ratou ki tona ringa; no te mea ehara i te mea ata whakaaro tana patunga i tona hoa, kihai ano ia i kino ki a ia i mua ake.</verse>
+        <verse osisID='Josh.20.6'>Engari me noho ia ki taua pa, kia tu ra ano ia ki mua i te whakaminenga whakawakia ai, a kia mate ra ano te tino tohunga o aua ra: ko reira hoki ai te tangata whakamate, haere ai ki tona pa, ki tona whare hoki, ki te pa i rere atu nei ia i reira</verse>
+        <verse osisID='Josh.20.7'> Na ka whakatapua e ratou ko Kerehe i Kariri, i te whenua pukepuke o Napatari, ko Hekeme i te whenua pukepuke o Eparaima, ko Kiriata Arapa, ara ko Heperona, i te whenua pukepuke o Hura.</verse>
+        <verse osisID='Josh.20.8'>Na i tawahi o Horano, i te wahi e anga ana ki Heriko whaka te rawhiti ka whakaritea e ratou ko Petere i te koraha i te mania, no te iwi o Reupena, ko Ramoto i Kireara, no te iwi o Kara, ko Korana hoki i Pahana, no te iwi o Manahi.</verse>
+        <verse osisID='Josh.20.9'>Ko nga pa enei i whakaritea mo nga tama katoa a Iharaira, mo te manene hoki e noho ana i roto i a ratou, hei rerenga atu mo nga tangata katoa i whakamatea ai tetahi tangata, he mea urupa, kei mate i te ringa o te kaitakitaki toto, kia tu ra ano i mua i te whakaminenga.</verse>
+      </chapter>
+      <chapter osisID='Josh.21'>
+        <verse osisID='Josh.21.1'> Na ka whakatata mai nga upoko o nga whare o nga matua o nga Riwaiti ki a Ereatara tohunga, ki a Hohua tama a Nunu, ratou ko nga upoko o nga whare o nga matua o nga iwi o nga tama a Iharaira;</verse>
+        <verse osisID='Josh.21.2'>A ka korero ki a ratou i Hiro, i te whenua o Kanaana, ka mea, I whakahau a Ihowa, na Mohi i whakapuaki, kia homai ki a matou etahi pa hei nohoanga, me nga wahi o waho ake mo a matou kararehe.</verse>
+        <verse osisID='Josh.21.3'>Katahi ka hoatu e nga tama a Iharaira i roto i o ratou wahi enei pa me nga wahi o waho ake ki nga Riwaiti, ko ta Ihowa hoki ia i ki ai.</verse>
+        <verse osisID='Josh.21.4'>Na ka puta ake te rota, ko to nga hapu o nga Kohati: a i riro i nga tama a Arona tohunga, i era o nga Riwaiti, tekau ma toru nga pa, he mea rota, no roto i o te iwi o Hura, no roto i o te iwi o Himiona, no roto hoki i o te iwi o Peineamine.</verse>
+        <verse osisID='Josh.21.5'>Na i riro i era atu o nga tama a Kohata tekau nga pa, he mea rota, no roto i o nga hapu o te iwi o Eparaima, no roto i o te iwi o Rana, no roto hoki i o tetahi taanga o te iwi o Manahi.</verse>
+        <verse osisID='Josh.21.6'>A i riro i nga tama a Kerehona kotahi tekau ma toru nga pa, he mea rota, no roto i o nga hapu o te iwi o Ihakara, no roto i o te iwi o Ahera, no roto i o te iwi o Napatari, no roto hoki i o tetahi taanga o te iwi o Manahi i Pahana.</verse>
+        <verse osisID='Josh.21.7'>A i riro i nga tama a Merari, i o ratou hapu, kotahi tekau ma rua nga pa, no roto i o te iwi o Reupena, no roto i o te iwi o Kara, no roto hoki i o te iwi o Hepurona.</verse>
+        <verse osisID='Josh.21.8'>Na hoatu ana e nga tama a Iharaira ki nga Riwaiti, he mea rota, enei pa, me nga wahi o waho ake, he mea pera me ta Ihowa i whakahau ai, i whakapuakina e Mohi.</verse>
+        <verse osisID='Josh.21.9'> A i hoatu e ratou i roto i o te iwi o nga tama a Hura, i o te iwi hoki o nga tama a Himiona, enei pa ka whakahuatia nei nga ingoa;</verse>
+        <verse osisID='Josh.21.10'>A i riro i nga tama a Arona, ara i nga hapu o nga Kohati, he tama nei ratou na Riwai: no ratou hoki te rota tuatahi.</verse>
+        <verse osisID='Josh.21.11'>I hoatu ano ki a ratou a Kiriata Arapa, ko taua Arapa nei te papa o Anaka, ara o Heperona, i te whenua pukepuke o Hura, me ona wahi o waho ake a tawhio noa.</verse>
+        <verse osisID='Josh.21.12'>Ko nga mara ia o te pa, me ona kainga, i hoatu e ratou ki a Karepe tama a Iepune hei kainga tupu mona.</verse>
+        <verse osisID='Josh.21.13'>Na hoatu ana e ratou ki nga tama a te tohunga, a Arona, a Heperona me ona wahi o waho ake, hei pa rerenga atu mo te tangata whakamate, a Ripina hoki, me ona wahi o waho ake;</verse>
+        <verse osisID='Josh.21.14'>A Iatiri me ona wahi o waho ake, a Ehetemoa me ona wahi o waho ake;</verse>
+        <verse osisID='Josh.21.15'>A Horono me ona wahi o waho ake, a Tepiri me ona wahi o waho ake;</verse>
+        <verse osisID='Josh.21.16'>A Aina hoki me ona wahi o waho ake, a Iuta me ona wahi o waho ake, a Petehemehe me ona wahi o waho ake; e iwa nga pa i roto i o enei iwi e rua.</verse>
+        <verse osisID='Josh.21.17'>A, no roto i o te iwi o Pineamine, ko Kipeono me ona wahi o waho ake, ko Kepa me ona wahi o waho ake;</verse>
+        <verse osisID='Josh.21.18'>Ko Anatoto me ona wahi o waho ake, ko Aramono me ona wahi o waho ake; e wha nga pa.</verse>
+        <verse osisID='Josh.21.19'>Na, ko nga pa katoa o nga tama a Arona, o nga tohunga, kotahi tekau ma toru me nga wahi o waho ake.</verse>
+        <verse osisID='Josh.21.20'>Na i riro i nga hapu o nga tama a Kohata, i nga Riwaiti, ara i era atu o nga tama a Kohata, he mea rota, nga pa no roto i to te iwi o Eparaima.</verse>
+        <verse osisID='Josh.21.21'>A i hoatu e ratou a Hekeme i te whenua pukepuke o Eparaima ki a ratou, me ona wahi o waho ake, hei pa rerenga atu mo te tangata whakamate, a Ketere hoki me ona wahi o waho ake;</verse>
+        <verse osisID='Josh.21.22'>A Kipitaima me ona wahi o waho ake, a Petehorono me ona wahi o waho ake; e wha nga pa.</verse>
+        <verse osisID='Josh.21.23'>A, no roto i to te iwi o Rana, ko Eretekeha me ona wahi o waho ake, ko Kipetono me ona wahi o waho ake;</verse>
+        <verse osisID='Josh.21.24'>Ko Aitarono me ona wahi o waho ake, ko Katarimono me ona wahi o waho ake; e wha nga pa.</verse>
+        <verse osisID='Josh.21.25'>A, no roto i to tetahi taanga o te iwi o Manahi, ko Taanaka me ona wahi o waho ake, ko Katarimono hoki me ona wahi o waho ake; e rua nga pa.</verse>
+        <verse osisID='Josh.21.26'>Ko nga pa katoa o nga hapu o era atu o nga tama a Kohata kotahi tekau me nga wahi o waho ake.</verse>
+        <verse osisID='Josh.21.27'>Na i hoatu e ratou, no roto i to tetahi taanga o te iwi o Manahi, ki nga tama a Kerehona, o nga hapu o nga Riwaiti, ko Korana i Pahana me ona wahi o waho ake, hei pa rerenga atu mo te tangata whakamate; a Peehetera hoki me ona wahi o waho ake; e rua nga pa.</verse>
+        <verse osisID='Josh.21.28'>A, no roto i to te iwi o Iharara, ko Kihiono me ona wahi o waho ake, ko Tapare me ona wahi o waho ake;</verse>
+        <verse osisID='Josh.21.29'>Ko Iaramuta me ona wahi o waho ake, ko Enekanimi me ona wahi o waho ake; e wha nga pa.</verse>
+        <verse osisID='Josh.21.30'>No roto i to te iwi o Ahera, ko Mihara me ona wahi o waho ake, ko Aparono me ona wahi o waho ake;</verse>
+        <verse osisID='Josh.21.31'>Ko Herekata me ona wahi o waho ake, ko Rehopo me ona wahi o waho ake; e wha nga pa.</verse>
+        <verse osisID='Josh.21.32'>A, no roto i to te iwi o Napatari, ko Kerehe i Kariri me ona wahi o waho ake, hei pa rerenga atu mo te tangata whakamate, ko Hamotororo me ona wahi o waho ake, ko Karatana hoki me ona wahi o waho ake; e toru nga pa.</verse>
+        <verse osisID='Josh.21.33'>Ko nga pa katoa o nga Kerehoni, o tenei hapu, o tenei hapu o ratou, kotahi tekau ma toru nga pa me nga wahi o waho ake.</verse>
+        <verse osisID='Josh.21.34'>Na, ko to nga hapu o nga tama a Merari, ara o era atu o nga Riwaiti, no roto i o te iwi o Hepurona, ko Iokoneama me ona wahi o waho ake, ko Karata me ona wahi o waho ake,</verse>
+        <verse osisID='Josh.21.35'>Ko Rimina me ona wahi o waho ake, ko Naharara me ona wahi o waho ake; e wha nga pa.</verse>
+        <verse osisID='Josh.21.36'>A, no roto i o te iwi o Reupena, ko Petere me ona wahi o waho ake, ko Iahata me ona wahi o waho ake,</verse>
+        <verse osisID='Josh.21.37'>Ko Keremoto me ona wahi o waho ake, ko Mewhaata me ona wahi o waho ake; e wha nga pa.</verse>
+        <verse osisID='Josh.21.38'>A, no roto i to te iwi o Kara, ko Ramoto i Kireara me ona wahi o waho ake, hei pa rerenga atu mo te tangata whakamate, a ko Mahanaima me ona wahi o waho ake;</verse>
+        <verse osisID='Josh.21.39'>Ko Hehepona me ona wahi o waho ake, ko Iatere me ona wahi o waho ake; e wha katoa nga pa.</verse>
+        <verse osisID='Josh.21.40'>Ko nga pa katoa enei mo nga tama a Merari, mo tenei hapu, mo tenei hapu o ratou, ara mo era atu o nga hapu o nga Riwaiti; kotahi tekau ma rua nga pa, he mea whakarite na to ratou rota.</verse>
+        <verse osisID='Josh.21.41'>Ko nga wahi katoa o nga Riwaiti i roto i te wahi o nga tama a Iharaira, e wha tekau ma waru nga pa me nga wahi hoki o waho ake.</verse>
+        <verse osisID='Josh.21.42'>I riro enei pa me nga wahi o waho ake o tenei, o tenei, a tawhio noa: na i penei enei pa katoa.</verse>
+        <verse osisID='Josh.21.43'> Na ka homai e Ihowa ki a Iharaira te whenua katoa i oati ai ia kia homai ki o ratou matua: a ka riro a reira i a ratou, a ka nohoia e ratou.</verse>
+        <verse osisID='Josh.21.44'>Na ka meinga ratou e Ihowa kia whai okiokinga a tawhio noa, i pera me ana katoa i oati ai ki o ratou matua: a kihai rawa tetahi tangata o o ratou hoariri katoa i tu ki to ratou aroaro; i homai e Ihowa o ratou hoariri katoa ki o ratou ringa.</verse>
+        <verse osisID='Josh.21.45'>Kihai rawa i taka tetahi kupu o nga kupu pai katoa i korerotia e Ihowa ki te whare o Iharaira; i mana katoa.</verse>
+      </chapter>
+      <chapter osisID='Josh.22'>
+        <verse osisID='Josh.22.1'> Katahi ka karanga a Hohua ki nga Reupeni, ki nga Kari, a ki tetahi taanga o te iwi o Manahi,</verse>
+        <verse osisID='Josh.22.2'>A ka mea ki a ratou, Kua mau i a koutou nga mea katoa i whakahau ai a Mohi, te pononga a Ihowa ki a koutou, kua whakarongo mai hoki koutou ki toku reo i nga mea katoa i whakahau ai ahau ki a koutou:</verse>
+        <verse osisID='Josh.22.3'>Kihai koutou i whakarere i o koutou tuakana i enei rangi e maha a tae noa mai ki tenei ra, engari i ata pupuri marie koutou i te whakahau a Ihowa, a to koutou Atua.</verse>
+        <verse osisID='Josh.22.4'>Na kua mea nei a Ihowa, to koutou Atua i o koutou teina kia okioki, ka rite ki tana i korero ai ki a ratou: na reira, hoki atu, haere ki o koutou teneti, ki te whenua hoki i whiwhi na koutou, i hoatu na e Mohi, e te pononga a Ihowa ki a koutou i tawahi o Horano.</verse>
+        <verse osisID='Josh.22.5'>Otira kia mahara marie kia mahi te whakahau me te ture, i whakahau ai a Mohi, te pononga a Ihowa ki a koutou, kia aroha ki a Ihowa, ki to koutou Atua, kia haere i ana huarahi katoa, kia pupuri i ana whakahau, kia wahi hoki ki a ia, kia whakapotoa o koutou ngakau katoa, o koutou wairua katoa ki te mahi ki a ia.</verse>
+        <verse osisID='Josh.22.6'>Na ka manaaki a Hohua i a ratou, a tukua ana ratou kia haere: a haere ana ratou ki o ratou teneti.</verse>
+        <verse osisID='Josh.22.7'>Na i hoatu e Mohi he kainga i Pahana ki tetahi taanga o te iwi o Manahi: engari ki tetahi taanga i hoatu e Hohua he kainga i roto i o ratou tuakana i tenei taha o Horano, whaka te hauauru. A, i ta Hohua tukunga atu i a ratou ki o ratou teneti, i manaaki ano ia i a ratou,</verse>
+        <verse osisID='Josh.22.8'>I korero ki a ratou, i mea, Hoki atu ki o koutou teneti me nga taonga maha, me te tini noa iho o te kararehe, me te hiriwa, me te koura, me te parahi, me te rino, me te nui noa atu o te kakahu: tuwhaina atu nga taonga o o koutou hoariri ki o kout ou tuakana.</verse>
+        <verse osisID='Josh.22.9'>Na hoki ana nga tama a Reupena, me nga tama a Kara, me tetahi taanga o te iwi o Manahi, mawehe atu ana i roto i nga tama a Iharaira i Hiro, i te whenua o Kanaana, a haere ana ki te whenua o Kireara, ki te whenua i whiwhi ai ratou, i whakawhiwhia ki a ratou e te kupu a Ihowa i whakapuakina e Mohi.</verse>
+        <verse osisID='Josh.22.10'> Na, i to ratou taenga ki te takiwa i nga taha o Horano, ki tera i te whenua o Kanaana, ka hanga e nga tama a Reupena, e nga tama a Kara, e tetahi taanga o te iwi o Manahi, tetahi aata ki reira, ki te taha o Horano, he aata nui hei tiro hanga atu.</verse>
+        <verse osisID='Josh.22.11'>Na ka rongo nga tama a Iharaira e korerotia ana, Nana, kua hanga nga tama a Reupena, me nga tama a Kara, me tetahi taanga o te iwi o Manahi, i tetahi aata ki te ritenga mai o te whenua o Kanaana ki nga taha o Horano, ki te wahi i nga tama a Ihar aira.</verse>
+        <verse osisID='Josh.22.12'>A, no te rongonga o nga tama a Iharaira, huihui ana te whakaminenga katoa o nga tama a Iharaira ki Hiro, i mea kia haere ki te whawhai ki a ratou.</verse>
+        <verse osisID='Josh.22.13'>Na ka tonoa atu e nga tama a Iharaira a Pinehaha tama a Ereatara tohunga ki nga tama a Reupena, ki nga tama hoki a Kara, a ki tetahi taanga o te iwi o Manahi, ki te whenua o Kireara;</verse>
+        <verse osisID='Josh.22.14'>Me etahi rangatira kotahi tekau hoki hei hoa mona, tatakikotahi te rangatira o ia koromatua, o ia koromatua o nga iwi katoa o Iharaira; he ariki hoki ratou, ia tangata, ia tangata, no nga whare o o ratou matua i roto i nga mano o Iharaira.</verse>
+        <verse osisID='Josh.22.15'>Na haere ana ratou ki nga tama a Reupena, ki nga tama a Kara, ki tetahi taanga hoki o te iwi o Manahi, ki te whenua o Kireara, a ka korero ki a ratou, ka mea,</verse>
+        <verse osisID='Josh.22.16'>Ko te korero tenei a te whakaminenga katoa a Ihowa, He aha tenei hara i mea nei koutou ki te Atua o Iharaira, i a koutou ka tahuri atu nei i tenei ra i te whai i a Ihowa, ka hanga nei i tetahi aata ma koutou, hei mahi tutu ma koutou ki a Ihowa?</verse>
+        <verse osisID='Josh.22.17'>He nohinohi rawa ianei ki a tatou te haranga ki a Peoro, kahore ano nei i horoia atu i a tatou a tae noa mai ki tenei ra, ahakoa ra i pa he mate uruta ki te whakaminenga a Ihowa,</verse>
+        <verse osisID='Josh.22.18'>E tahuri ke nei koutou i tenei ra i te whai i a Ihowa? Na ki te mea ka tutu koutou i tenei ra ki a Ihowa, tera ia e riri apopo ki te whakaminenga katoa o Iharaira.</verse>
+        <verse osisID='Josh.22.19'>Otiia mehemea he poke te whenua e noho nei koutou, haere ake ki te whenua e nohoia ana e Ihowa, kei reira nei e tu ana te tapenakara o Ihowa, a ka noho i waenganui i a matou: engari kaua e tutu ki a Ihowa, kaua ano hoki e tutu ki a matou, i a ko utou ka hanga nei i tetahi aata ke atu ma koutou i te aata a Ihowa, a to tatou Atua.</verse>
+        <verse osisID='Josh.22.20'>Kahore ianei a Akana, te tama a Tera i taka ki te hara i te mea kanga, a tau ana te riri ki runga ki te whakaminenga katoa o Iharaira? a kihai i mate ko taua tangata anake mo tona hara.</verse>
+        <verse osisID='Josh.22.21'> Katahi ka whakahoki nga tama a Reupena, nga tama a Kara, me tetahi taanga o te iwi o Manahi, ka mea ki nga ariki o nga mano o Iharaira,</verse>
+        <verse osisID='Josh.22.22'>Ko Ihowa, ko te Atua o nga atua, ko Ihowa, ko te Atua o nga atua, e mohio ana ia, ko Iharaira hoki ka mohio ano ia; mehemea na te tutu, mehemea ranei na te hara ki a Ihowa, penei kaua matou e whakaorangia e koe i tenei ra,</verse>
+        <verse osisID='Josh.22.23'>I hanga ai e matou tetahi aata hei tahuritanga ketanga i muri i a Ihowa; mehemea ranei hei whakaekenga mo te tahunga tinana mo te whakahere ranei, hei meatanga ranei mo etahi patunga mo te pai, ma Ihowa ake ano e rapu utu;</verse>
+        <verse osisID='Josh.22.24'>Mehemea ranei kahore i meatia e matou tenei mea i runga i te tupato, me te ata whakaaro, ka ki, Apopo ake nei ka korero mai a koutou tama ki a matou tama, ka mea, He aha ta koutou kei a Ihowa, kei te Atua o Iharaira?</verse>
+        <verse osisID='Josh.22.25'>Kua whakatakotoria nei hoki e Ihowa a Horano hei rohe ki waenganui o matou, o koutou, e nga tama a Reupena, e nga tama a Kara; kahore o koutou wahi i roto i a Ihowa: pena ka meinga e a koutou tama a matou tama kia mutu te wehi i a Ihowa.</verse>
+        <verse osisID='Josh.22.26'>Koia matou i mea ai, Tena, tatou ka haere, ka hanga i tetahi aata ma tatou, ehara i te mea mo nga tahunga tinana, mo nga patunga tapu ranei:</verse>
+        <verse osisID='Josh.22.27'>Engari kia ai tena mea hei kaiwhakaatu ki a matou, ki a koutou, ki o tatou uri hoki i muri i a tatou, kia mahi ai tatou i nga mahi a Ihowa ki tona aroaro, i a tatou tahunga tinana, i a tatou patunga tapu, i a tatou whakahere mo te pai; kei mea a koutou tama ki a matou tama a ko ake nei, Kahore o koutou wahi i roto i a Ihowa.</verse>
+        <verse osisID='Josh.22.28'>Koia matou i mea ai, Na tenei ake, kei ta ratou meatanga pera ki a tatou, ki o tatou uri ranei, na ka mea tatou, Titiro ki te mea e rite ana ki te aata a Ihowa, i hanga e o matou matua, ehara i te mea mo nga tahunga tinana, mo nga patunga tapu r anei; engari hei kaiwhakaatu i waenganui i a matou, i a koutou.</verse>
+        <verse osisID='Josh.22.29'>Aue, kia tutu matou ki a Ihowa! kia tahuri atu i tenei ra i muri i a Ihowa, ki te hanga i tetahi aata mo nga tahunga tinana, mo nga whakahere, mo nga patunga tapu ranei, hei mea ke atu i te aata a Ihowa, a to tatou Atua, i mua mai o tona tapenak ara!</verse>
+        <verse osisID='Josh.22.30'> Na, i te rongonga o Pinehaha tohunga, ratou ko nga rangatira o te whakaminenga, ara ko nga upoko o nga mano o Iharaira, ki nga kupu i korerotia e nga tama a Reupena, ratou ko nga tama a Kara, ko nga tama a Manahi, ka pai ki a ratou.</verse>
+        <verse osisID='Josh.22.31'>Katahi ka mea a Pinehaha tama a Ereatara tohunga ki nga tama a Reupena ratou ko nga tama a Kara, ko nga tama a Manahi, No tenei ra matou i mohio ai, kei waenganui i a tatou a Ihowa, ina hoki kihai koutou i taka ki tenei hara ki a Ihowa: na kua w hakaora nei koutou i nga tama a Iharaira i te ringa o Ihowa.</verse>
+        <verse osisID='Josh.22.32'>Katahi ka hoki a Penehaha tama a Ereatara tohunga, me nga rangatira, i nga tama a Reupena ratou ko nga tama a Kara i te whenua o Kireara, ki te whenua o Kanaana, ki nga tama a Iharaira, ki te whakahoki i te korero ki a ratou.</verse>
+        <verse osisID='Josh.22.33'>A pai tonu te korero ki nga tama a Iharaira: na whakapai atu ana nga tama a Iharaira ki te Atua, kihai hoki ratou i mea ano kia haere ki runga ki te whawhai ki a ratou, ki te huna i te whenua e nohoia ana e nga tama a Reupena, ratou ko nga tama a Kara.</verse>
+        <verse osisID='Josh.22.34'>Na huaina iho taua aata e nga tama a Reupena, ratou ko nga tama a Kara, ko Eri: i mea hoki ratou, Hei kaiwhakaatu tena mea ki waenganui i a tatou, ko Ihowa te Atua.</verse>
+      </chapter>
+      <chapter osisID='Josh.23'>
+        <verse osisID='Josh.23.1'> A, ka maha nga ra i muri i ta Ihowa meatanga i a Iharaira kia okioki i o ratou hoariri katoa i tetahi taha, i tetahi taha, a ka maha haere nga ra o Hohua, ka koroheketia,</verse>
+        <verse osisID='Josh.23.2'>Na ka karanga a Hohua ki a Iharaira katoa, ki o ratou kaumatua, ki o ratou ariki, ki o ratou kaiwhakariterite, ki o ratou rangatira, a ka mea ki a ratou, Kua koroheketia ahau, kua maha oku ra:</verse>
+        <verse osisID='Josh.23.3'>A kua kite koutou i nga mea katoa i mea ai a Ihowa, to koutou Atua ki enei iwi katoa, na te whakaaro hoki ki a koutou; no te mea ko Ihowa, ko to koutou Atua, nana ta koutou riri.</verse>
+        <verse osisID='Josh.23.4'>Titiro, kua oti te wehe atu e ahau mo koutou enei iwi ka mahue nei, hei wahi tupu mo o koutou iwi, o Horano atu me nga iwi katoa i huna e ahau a tae noa ki te moana nui, ki te toenetanga o te ra.</verse>
+        <verse osisID='Josh.23.5'>A ko Ihowa, ko to koutou Atua, mana ratou e pei i to koutou aroaro, mana hoki ratou e huna i to koutou aroaro; a ka riro to ratou oneone i a koutou, ka pera me te kupu a Ihowa, a to koutou Atua ki a koutou.</verse>
+        <verse osisID='Josh.23.6'>No reira kia uaua rawa ki te pupuri, ki te mahi i nga mea katoa i tuhituhia ki te pukapuka o te ture a Mohi, kei peka ke i reira ki matau, ki maui;</verse>
+        <verse osisID='Josh.23.7'>Kei haere hoki ki roto ki enei iwi, i mahue iho nei ki waenganui i a koutou; kei whakahuatia nga ingoa o o ratou atua, kei oatitia, kei mahi ki a ratou, kei koropiko ki a ratou:</verse>
+        <verse osisID='Josh.23.8'>Engari me awhi ki a Ihowa, ki to koutou Atua, me pera me ta koutou i mea ai a tae noa mai ki tenei ra.</verse>
+        <verse osisID='Josh.23.9'>Kua peia hoki e Ihowa i mua i a koutou nga iwi nunui, kaha hoki: tena ko koutou, kahore ano tetahi tangata kia tu ki to koutou aroaro a taea noatia tenei ra.</verse>
+        <verse osisID='Josh.23.10'>Kia kotahi tangata o koutou hei whai i te mano: no te mea ko Ihowa, ko to koutou Atua, mana ta koutou riri, ka pera me tana i korero ai ki a koutou.</verse>
+        <verse osisID='Josh.23.11'> Na reira tiakina marietia koutou, kia aroha ai koutou ki a Ihowa, ki to koutou Atua.</verse>
+        <verse osisID='Josh.23.12'>Ki te anga hoki koutou ki te hoki atu, ki te awhi ki nga toenga o enei iwi, o enei ka mahue nei i roto i a koutou, a ka marenatia ki a ratou, ka whakauru hoki ki a ratou, me ratou hoki ki a koutou:</verse>
+        <verse osisID='Josh.23.13'>Kia tino mohio, e kore a Ihowa, to koutou Atua e pei ano i enei iwi i mua i a koutou; engari ka waiho ratou hei rore, hei mahanga mo koutou, hei whiu hoki mo o koutou kaokao, hei koikoi i roto i o koutou kanohi, kia huna ra ano koutou i runga i tenei whenua pai ka homai nei e Ihowa, e to koutou Atua ki a koutou.</verse>
+        <verse osisID='Josh.23.14'>Nana, ko aianei ahau haere ai i te huarahi o te whenua katoa; a e mohio ana o koutou ngakau katoa, o koutou wairua katoa, kahore ano i taka tetahi mea o nga mea pai katoa i korerotia e Ihowa, e to koutou Atua mo koutou; kua pono katoa ki a kouto u, kahore ano tetahi mea o ena i taka.</verse>
+        <verse osisID='Josh.23.15'>Na tenei ake ka rite ki te putanga mai ki a koutou o nga mea pai katoa i korerotia e Ihowa, e to koutou Atua ki a koutou, ka pera ano te whakaputanga mai a Ihowa i nga mea kino katoa ki a koutou, kia whakangaromia ra ano koutou e ia i tenei when ua pai, kua homai nei e Ihowa, e to koutou Atua ki a koutou.</verse>
+        <verse osisID='Josh.23.16'>Ina whakapaheketia e koutou te kawenata a Ihowa, a to koutou Atua, i whakaritea mai nei e ia ki a koutou, a ka haere, ka mahi ki nga atua ke, ka koropiko ki a ratou; ko reira mura ai te riri o Ihowa ki a koutou, a ka ngaro whakarere atu koutou i runga i te whenua pai kua homai nei e ia ki a koutou.</verse>
+      </chapter>
+      <chapter osisID='Josh.24'>
+        <verse osisID='Josh.24.1'> Na ka whakaemia e Hohua nga iwi katoa o Iharaira ki Hekeme, a ka karangatia e ia nga kaumatua o Iharaira, o ratou ariki, o ratou kaiwhakawa, o ratou rangatira; a tu ana ratou i te aroaro o te Atua.</verse>
+        <verse osisID='Josh.24.2'>Na ka mea a Hohua ki te iwi katoa, Ko te korero tenei a Ihowa, a te Atua o Iharaira, I noho o koutou matua i mua i tawahi o te awa, a Teraha matua o Aperahama, matua hoki o Nahora: i mahi ano hoki ki nga atua ke.</verse>
+        <verse osisID='Josh.24.3'>Na tangohia ana e ahau to koutou matua, a Aperahama i tawahi o te awa, a arahina ana a puta noa i te whenua o Kanaana, a whakanuia ana tona uri e ahau; i hoatu hoki a Ihaka ki a ia.</verse>
+        <verse osisID='Josh.24.4'>A hoatu ana e ahau a Hakopa raua ko Ehau ki a Ihaka: a hoatu ana e ahau a Maunga Heira ki a Ehau, hei kainga; ko Hakopa ia ratou ko ana tama i heke ki Ihipa.</verse>
+        <verse osisID='Josh.24.5'>I tonoa ano e ahau a Mohi raua ko Arona, a patua iho e ahau a Ihipa, peratia ana me taku i mea ai i waenganui i a ratou: a muri iho ka whakaputaina mai koutou e ahau.</verse>
+        <verse osisID='Josh.24.6'>A whakaputaina mai ana e ahau o koutou matua i Ihipa: a ka tae koutou ki te moana; na ka whai mai nga Ihipiana i muri i o koutou matua ki te Moana Whero, me nga hariata, me nga hoia eke hoiho.</verse>
+        <verse osisID='Josh.24.7'>A, e ta ratou karangatanga ki a Ihowa, tukua iho ana e ia he pouri ki waenganui o koutou, o nga Ihipiana, a kawea mai ana e ia te moana ki runga ki a ratou, taupokina ana ratou: a i kite o koutou kanohi i nga mea i mea ai ahau ki Ihipa: a he maha nga ra i noho ai koutou i te koraha.</verse>
+        <verse osisID='Josh.24.8'>Na kawea ana koutou e ahau ki te whenua o nga Amori, i noho ra i tawahi o Horano; a whawhai ana ratou ki a koutou: a tukua ana ratou e ahau ki o koutou ringa, na riro ana to ratou oneone i a koutou; a huna iho ratou e ahau i to koutou aroaro.</verse>
+        <verse osisID='Josh.24.9'>Na ka whakatika a Paraka tama a Tipora kingi o Moapa, kei te whawhai ki a Iharaira; a tikina ana e ia a Paraama tama a Peoro, hei kanga mo koutou:</verse>
+        <verse osisID='Josh.24.10'>Otiia kihai ahau i pai kia rongo ki a Paraama; na, ko te manaakitanga i manaaki ai ia i a koutou: a whakaorangia ake koutou e ahau i tona ringa.</verse>
+        <verse osisID='Josh.24.11'>Na ka whiti mai koutou i Horano, a ka tae ki Heriko: a whawhai ana nga tangata o Heriko ki a koutou, nga Amori, nga Perihi, nga Kanaani, nga Hiti, nga Kirikahi, nga Hiwi, me nga Iepuhi; a tukua ana ratou e ahau ki to koutou ringa.</verse>
+        <verse osisID='Josh.24.12'>A tonoa atu ana e ahau te horonete ki mua i a koutou, a nana ratou i pei i to koutou aroaro, ara nga kingi tokorua o nga Amori; ehara i te mea na tau hoari, na tau kopere ranei.</verse>
+        <verse osisID='Josh.24.13'>A hoatu ana e ahau ki a koutou he whenua kihai nei koutou i mahi, he pa hoki kihai i hanga e koutou, a noho ana koutou i reira; ehara i te mea whakato na koutou nga mara waina, mara oriwa ranei, e kainga nei e koutou.</verse>
+        <verse osisID='Josh.24.14'>Na kona kia wehi i a Ihowa, mahi atu hoki ki a ia i runga i te tika, i runga i te pono: whakarerea atu hoki nga atua i mahi na o koutou matua ki a ratou i tawahi o te awa, i Ihipa hoki; a mahi atu ki a Ihowa.</verse>
+        <verse osisID='Josh.24.15'> A, ki te mea he kino ki to koutou whakaaro te mahi ki a Ihowa, ma koutou e whiriwhiri i tenei ra ko wai ta koutou e mahi ai; ki nga atua ranei i mahi ra o koutou matua ki a ratou i tawahi o te awa, ki nga atua ranei o nga Amori, e noho nei kouto u ki to ratou oneone: ko ahau ia me toku whare, ka mahi matou ki a Ihowa.</verse>
+        <verse osisID='Josh.24.16'>Na ka whakautua e te iwi, ka mea, Aue, kia whakarere koia matou i a Ihowa, kia mahi ki nga atua ke!</verse>
+        <verse osisID='Josh.24.17'>Ko Ihowa hoki, ko to tatou Atua, nana tatou me o tatou matua i whakaputa mai: te whenua o Ihipa, i te whare pononga, nana hoki aua tohu nunui i mahi ki to tatou aroaro, a nana tatou i tiaki i te huarahi katoa i haere ra tatou i roto hoki i nga i wi katoa, i haere mai ra tatou ra waenganui i a ratou:</verse>
+        <verse osisID='Josh.24.18'>Na Ihowa ano i pei i to tatou aroaro nga iwi katoa, ara nga Amori, i noho nei i tenei whenua: ina, ka mahi matou ki a Ihowa; ko ia hoki to tatou Atua.</verse>
+        <verse osisID='Josh.24.19'>Na ka mea a Hohua ki te iwi, E kore e ahei i a koutou te mahi ki a Ihowa: he Atua tapu hoki ia; he Atua hae ia; e kore e tukua noatia e ia a koutou mahi tutu, o koutou hara.</verse>
+        <verse osisID='Josh.24.20'>Ki te whakarere koutou i a Ihowa, a ka mahi ki nga atua ke, na ka tahuri mai ia ka whakawhiu i a koutou, ka huna hoki i a koutou, i muri iho i tana mahi pai ki a koutou.</verse>
+        <verse osisID='Josh.24.21'>Na ka mea te iwi ki a Hohua, Kahore; engari ka mahi matou ki a Ihowa.</verse>
+        <verse osisID='Josh.24.22'>Na ka mea a Hohua ki te iwi, Hei kaiwhakaatu koutou ki a koutou ano mo ta koutou whiriwhiri a Ihowa, kia mahi ki a ia. A ka mea ratou, Ae, hei kaiwhakaatu matou.</verse>
+        <verse osisID='Josh.24.23'>Na reira, e ai ki tana, whakarerea atu nga atua ke i waenganui i a koutou na, ka whakatahuri i o koutou ngakau ki a Ihowa, ki te Atua o Iharaira.</verse>
+        <verse osisID='Josh.24.24'>Katahi ka mea te iwi ki a Hohua, Ka mahi matou ki a Ihowa, ki to tatou Atua, ko tona reo hoki ta matou e whakarongo ai.</verse>
+        <verse osisID='Josh.24.25'>A whakaritea iho e Hohua he kawenata ki te iwi i taua rangi ano, a hoatu ana e ia ki a ratou tetahi tikanga me tetahi ritenga i Hekeme.</verse>
+        <verse osisID='Josh.24.26'>A tuhituhia ana e Hohua enei kupu ki te pukapuka o te ture a te Atua; a ka tango ia i tetahi kohatu nui, whakaarahia ake ana i reira i raro i te oki, i te taha o te whare tapu o Ihowa.</verse>
+        <verse osisID='Josh.24.27'>A ka mea a Hohua ki te iwi katoa, Nana, ko tenei kohatu hei kaiwhakaatu ki a tatou; kua rongo hoki ia i nga kupu katoa a Ihowa i korerotia e ia ki a tatou: na hei kaiwhakaatu ia ki a koutou, kei whakakahore ki to koutou Atua.</verse>
+        <verse osisID='Josh.24.28'>Heoi tukua ana e Hohua te iwi kia haere, tena tangata, tena ki tona wahi ake.</verse>
+        <verse osisID='Josh.24.29'> A, muri iho i enei mea, na ka mate a Hohua tama a Nunu, te pononga a Ihowa, a kotahi rau kotahi tekau ona tau i ora ai.</verse>
+        <verse osisID='Josh.24.30'>A tanumia iho ia e ratou ki te rohe o tona kainga, ki Timenata Hera, ki te whenua pukepuke o Eparaima, ki te taha ki te raki o Maunga Kaaha.</verse>
+        <verse osisID='Josh.24.31'>A i mahi a Iharaira ki a Ihowa i nga ra katoa o Hohua, i nga ra katoa ano o nga kaumatua i hipa ake o ratou ra i o Hohua, i mohio hoki ki nga mahi katoa a Ihowa i mahi ai mo Iharaira.</verse>
+        <verse osisID='Josh.24.32'>A ko nga wheua o Hohepa, i maua mai e nga tama a Iharaira i Ihipa, i tanumia e ratou ki Hekeme, ki te wahi o te mara i hokona e Hakopa i nga tama a Hamora matua o Hekeme ki nga moni kotahi rau: na riro ana taua wahi i nga tama a Hohepa hei kaing a tupu.</verse>
+        <verse osisID='Josh.24.33'>Na ka mate a Ereatara tama a Arona; a tanumia ana ki te pukepuke o tana tama, o Pinehaha, i homai ki a ia i te whenua pukepuke o Eparaima.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

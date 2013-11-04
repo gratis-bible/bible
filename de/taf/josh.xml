@@ -1,0 +1,831 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <osisText osisRefWork='Bible' osisIDWork='TAF' xml:lang='de'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='TAF'>
+        <title>Tafelbibel</title>
+        <contributor>Martin</contributor>
+        <creator>Jens Grabner</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject>holy bible</subject>
+        <date>2009-01-20</date>
+        <description>Die Bibel - Übersetzung von Johann Friedrich Leonhard Tafel
+
+      Die vorliegende Neuausgabe ist eine Abschrift der Übersetzung von Dr. Leonhard
+      Tafel, revidiert von Ludwig H. Tafel, dritte Ausgabe 1911, und wurde auf ihre
+      Vollständigkeit überprüft. Es wurde die Rechtschreibregel der heutigen Zeit (noch
+      vor der Rechtschreibreform 1998) angewendet, ohne den Stil der Sprache zu verändern.
+
+      Wer in dieser Bibel einige Bücher vermisst, sei auf das Vorwort der Source verwiesen.
+      Auf der zweiten Seite steht dort:
+      Der zweite Band enthält die übrigen, sogenannten
+      Hagiographen oder heiligen Bücher: die Bücher Hiob, Sprichwörter, Hohelied, Prediger, Ruth, Chronika, Esra,
+      Nehemia, Esther und die Apokryphen.²
+      2. Gegenwärtige, Revision des Zefania XML Moduls  enthält die Hagiographen und Apokryphen nicht, da
+      sie nicht verfügbar waren.</description>
+        <publisher>FREE BIBLE SOFTWARE GROUP</publisher>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>TAF</identifier>
+        <source>http://www.ubf-dortmund.de/bibel/tafel.htm</source>
+        <language type='IETF'>de</language>
+        <relation/>
+        <coverage>provide the bible to the world</coverage>
+        <rights>Mit freundlicher Genehmigung des Swedenborg Verlag Postfach 1205 CH - 8032 Zürich</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Josh'>
+      <chapter osisID='Josh.1'>
+        <title>Buch Joschua</title>
+        <title>Joschua erhält Befehl, über den Jordan zu ziehen.</title>
+        <verse osisID='Josh.1.1'>Und es geschah nach dem Tode Moses, des Knechtes Jehovahs, daß Jehovah zu Joschua, dem Sohne Nuns, Moses Diener, sprach und sagte:</verse>
+        <verse osisID='Josh.1.2'>Mose, mein Knecht, ist tot, und nun mache du dich auf, gehe über diesen Jordan, du und all dies Volk, nach dem Lande, das Ich ihnen, den Söhnen Israels gebe.</verse>
+        <verse osisID='Josh.1.3'>Jeder Ort, darauf eure Fußsohle tritt, habe Ich euch gegeben, wie Ich zu Mose geredet habe.</verse>
+        <verse osisID='Josh.1.4'>Von der Wüste und diesem Libanon und bis zu dem großen Flusse, dem Flusse Euphrat, alles Land der Chethiter und bis zum großen Meer, zum Untergang der Sonne, soll eure Grenze sein.</verse>
+        <verse osisID='Josh.1.5'>Kein Mensch soll bestehen vor dir alle Tage deines Lebens. Wie Ich mit Mose war, will Ich mit dir sein, und dich nicht aufgeben, noch dich verlassen.</verse>
+        <verse osisID='Josh.1.6'>Sei stark und rüstig; denn du sollst diesem Volk das Land, das Ich ihren Vätern geschworen habe, ihnen zu geben, als Erbe austeilen.</verse>
+        <verse osisID='Josh.1.7'>Sei nur stark und sehr rüstig, daß du haltest zu tun nach all dem Gesetz, das dir Mose, Mein Knecht, geboten hat. Weiche nicht ab davon, weder zur Rechten, noch zur Linken, auf daß du klüglich handelst überall, wo du hingehst.</verse>
+        <verse osisID='Josh.1.8'>Laß dieses Gesetzbuch nicht von deinem Munde weichen und sinne darüber Tag und Nacht, auf daß du haltest zu tun nach allem, das darin geschrieben ist; denn dann gelingt dir es auf deinem Wege, und dann handelst du klüglich.</verse>
+        <verse osisID='Josh.1.9'>Habe Ich dir nicht geboten, du sollest stark sein und rüstig, sollst kein Grauen und kein Entsetzen haben?, denn Jehovah, dein Gott, ist mit dir, überall wo du hingehst.</verse>
+        <verse osisID='Josh.1.10'>Und Joschua gebot den Vorstehern des Volkes und sprach:</verse>
+        <verse osisID='Josh.1.11'>Gehet hin mitten durch das Lager und gebietet dem Volke und sprechet: Bereitet euch Zehrung; denn in noch drei Tagen ziehet ihr über diesen Jordan, daß ihr hineinkommt und das Land einnehmet, das Jehovah, euer Gott, euch zum Erbbesitze gibt.</verse>
+        <verse osisID='Josh.1.12'>Und zu den Rubeniten und den Gaditern und zu dem halben Stamm<note>Rute</note> Menascheh sprach Joschua und sagte:</verse>
+        <verse osisID='Josh.1.13'>Gedenket des Wortes, das euch Mose, der Knecht Jehovahs, geboten hat und gesagt: Jehovah, euer Gott, hat euch zur Ruhe gebracht und euch dies Land gegeben;</verse>
+        <verse osisID='Josh.1.14'>Eure Weiber, eure Kindlein und eure Viehherden dürfen in dem Lande bleiben<note>sitzen</note>, das euch Mose diesseits des Jordans gegeben hat. Ihr aber sollt kampfgerüstet vor euren Brüdern hinüberziehen, alle tapferen Männer<note>mächtige Männer</note>, und sollt ihnen beistehen.</verse>
+        <verse osisID='Josh.1.15'>Bis daß Jehovah eure Brüder wie euch zur Ruhe gebracht hat, und auch sie das Land eingenommen haben, das Jehovah, euer Gott, ihnen gibt. Dann dürft ihr in das Land eures Erbbesitzes zurückkehren und dasselbe erblich besitzen, das euch Mose, der Knecht Jehovahs, diesseits des Jordans gegen Aufgang der Sonne gegeben hat.</verse>
+        <verse osisID='Josh.1.16'>Und sie antworteten Joschua und sprachen: Alles, was du uns geboten hast, wollen wir tun, und wohin du uns sendest, wollen wir gehen.</verse>
+        <verse osisID='Josh.1.17'>Ganz so, wie wir auf Mose hörten, so werden wir auf dich hören. Nur möge Jehovah, dein Gott, mit dir sein, wie Er mit Mose gewesen ist.</verse>
+        <verse osisID='Josh.1.18'>Jeder Mann, der deinem Mund widerspenstig ist und nicht hört auf deine Worte in allem, das du uns gebietest, der soll getötet werden. Nur sei stark und rüstig.</verse>
+      </chapter>
+      <chapter osisID='Josh.2'>
+        <title>Kundschafter. Rachab.</title>
+        <verse osisID='Josh.2.1'>Und Joschua, der Sohn Nuns, sandte im Stillen<note>stillschweigend</note> von Schittim zwei Männer als Kundschafter und sagte ihnen: Gehet, beseht das Land und Jericho. Und sie gingen und kamen in das Haus eines Weibes, einer Buhlerin, und ihr Name war Rachab, und sie legten sich da nieder.</verse>
+        <verse osisID='Josh.2.2'>Und sie sagten dem Könige von Jericho und sprachen: Siehe, es sind in dieser Nacht Männer von den Söhnen Israels hierher hereingekommen, um das Land auszuforschen.</verse>
+        <verse osisID='Josh.2.3'>Und der König von Jericho sandte zu Rachab und sprach: Bringe die Männer, die zu dir hereingekommen, heraus, die in dein Haus eingegangen; denn sie sind hereingekommen, das ganze Land auszuforschen.</verse>
+        <verse osisID='Josh.2.4'>Das Weib aber nahm die zwei Männer und verbarg sie und sagte: Es ist also, die Männer sind hereingekommen; aber ich wußte nicht, von wannen sie waren.</verse>
+        <verse osisID='Josh.2.5'>Und als man das Tor schließen wollte in der Finsternis, gingen die Männer hinaus; ich weiß nicht, wohin die Männer gegangen sind. Setzet ihnen eilends nach; denn ihr werdet sie erreichen.</verse>
+        <verse osisID='Josh.2.6'>Sie hatte sie aber auf das Dach hinaufsteigen lassen und mit Flachsstengeln<note>Flachs von Holz</note> verdeckt<note>hehlings verdeckt</note>, die auf dem Dach von ihr waren zurechtgelegt worden.</verse>
+        <verse osisID='Josh.2.7'>Und die Männer setzten ihnen nach auf dem Wege nach dem Jordan, nach den Furten, und sie schlossen das Tor hinter ihnen zu, da die hinausgegangen waren, die ihnen nachsetzten.</verse>
+        <verse osisID='Josh.2.8'>Ehe sie sich aber niederlegten, da stieg sie zu ihnen hinauf auf das Dach,</verse>
+        <verse osisID='Josh.2.9'>Und sprach zu den Männern: Ich weiß, daß Jehovah euch das Land gegeben hat, und daß ein Schrecken vor euch auf uns gefallen ist, und alle Einwohner des Landes vor euch zerfließen.</verse>
+        <verse osisID='Josh.2.10'>Denn wir haben gehört, wie Jehovah die Wasser des Schilfmeeres vor euch vertrocknete, als ihr aus Ägypten auszogt, und was ihr den zwei Königen des Amoriters, dem Sichon und dem Og, jenseits des Jordans getan, die ihr verbannt habt.</verse>
+        <verse osisID='Josh.2.11'>Und wir haben es gehört, und nun ist unser Herz zerschmolzen und der Geist ist in keinem Mann mehr aufrecht vor euch; denn Jehovah, euer Gott, Welcher ist Gott in den Himmeln oben und auf Erden unten.</verse>
+        <verse osisID='Josh.2.12'>Und nun schwöret mir doch bei Jehovah, daß, wie ich an euch Barmherzigkeit getan, so auch ihr Barmherzigkeit tut an dem Hause meines Vaters; und gebet mir ein Zeichen der Wahrheit,</verse>
+        <verse osisID='Josh.2.13'>Daß ihr meinen Vater und meine Mutter und meine Brüder und meine Schwestern und alles, was sie haben, am Leben lasset und unsere Seelen vom Tode errettet.</verse>
+        <verse osisID='Josh.2.14'>Und die Männer sprachen zu ihr: Unsere Seele sei statt eurer des Todes. Wenn ihr dies, unsere Sache<note>Wort</note> nicht ansaget, so soll geschehen, daß wir, wenn Jehovah uns das Land gibt, Barmherzigkeit und Wahrheit an dir tun.</verse>
+        <verse osisID='Josh.2.15'>Und sie ließ dieselben an einem Stricke durch das Fenster hinab; denn ihr Haus war mit der Wand in der Stadtmauer<note>an der Wand der Stadtmauer</note>, und in der Stadtmauer wohnte sie.</verse>
+        <verse osisID='Josh.2.16'>Und sie sagte ihnen: Gehet nach dem Berge, daß, die euch nachsetzen, nicht auf euch stoßen, und versteckt euch dort drei Tage, bis die euch nachsetzen, zurückkehren, und hernach geht eures Weges.</verse>
+        <verse osisID='Josh.2.17'>Und die Männer sprachen zu ihr: Wir sind dieses deines Schwures ledig, den du uns hast schwören lassen.</verse>
+        <verse osisID='Josh.2.18'>Siehe, so wir kommen in das Land, sollst du diese Schnur von Scharlachfaden in das Fenster binden, durch das du uns herabgelassen hast, und deinen Vater und deine Mutter und deine Brüder und das ganze Haus deines Vaters zu dir ins Haus versammeln.</verse>
+        <verse osisID='Josh.2.19'>Und es geschehe, daß jeder, der aus der Tür deines Hauses hinaus auf die Gasse geht, dessen Blut sei auf seinem Haupt, und wir sind unschuldig. Jeder aber, der bei dir im Hause ist, dessen Blut komme auf unser Haupt, so eine Hand wider ihn sein wird.</verse>
+        <verse osisID='Josh.2.20'>Und wenn du diese unsere Sache<note>Wort</note> ansagst, so sind wir ledig des Schwures, den du uns schwören ließest.</verse>
+        <verse osisID='Josh.2.21'>Und sie sprach: Nach euren Worten, so sei es! Und sie entließ dieselben und sie gingen; sie aber band die Scharlachschnur in das Fenster.</verse>
+        <verse osisID='Josh.2.22'>Und sie gingen und kamen auf den Berg und blieben<note>saßen</note> allda drei Tage, bis die, so ihnen nachgesetzt, zurückgekehrt waren. Und die, so ihnen nachgesetzt, hatten auf dem ganzen Wege gesucht und sie nicht gefunden.</verse>
+        <verse osisID='Josh.2.23'>Und die zwei Männer kehrten zurück und kamen vom Berge herab und setzten über und kamen zu Joschua, dem Sohne Nuns und erzählten ihm alles, was sie betroffen<note>gefunden</note> hatte;</verse>
+        <verse osisID='Josh.2.24'>Und sprachen zu Joschua: Jehovah hat das ganze Land in unsre Hand gegeben; und alle Einwohner des Landes zerfließen auch vor uns.</verse>
+      </chapter>
+      <chapter osisID='Josh.3'>
+        <title>Israel geht trockenen Fußes durch den Jordan.</title>
+        <verse osisID='Josh.3.1'>Und Joschua stand früh am Morgen auf, und sie brachen auf von Schittim und kamen an den Jordan, er und alle Söhne Israels und übernachteten allda, ehe sie hinüberzogen.</verse>
+        <verse osisID='Josh.3.2'>Und es geschah am Ende dreier Tage, daß die Vorsteher inmitten des Lagers durchgingen,</verse>
+        <verse osisID='Josh.3.3'>Und geboten dem Volk und sprachen: Wenn ihr die Bundeslade Jehovahs, eures Gottes, sehet und die Priester, die Leviten, sie tragen, so brechet auf von eurem Orte und gehet ihr nach.</verse>
+        <verse osisID='Josh.3.4'>Doch soll zwischen euch und zwischen ihr eine Entfernung sein, bei zweitausend Ellen gemessen. Kommt ihr nicht nahe, auf daß ihr den Weg wisset, auf dem ihr gehen sollt; denn ihr seid des Weges nicht hinübergezogen gestern oder ehegestern.</verse>
+        <verse osisID='Josh.3.5'>Und Joschua sprach zum Volke: Heiligt euch; denn morgen wird Jehovah in eurer Mitte Wunder tun.</verse>
+        <verse osisID='Josh.3.6'>Und zu den Priestern sprach Joschua und sagte: Traget die Bundeslande und ziehet vor dem Volke hinüber, und sie trugen die Bundeslade und zogen vor dem Volke hin.</verse>
+        <verse osisID='Josh.3.7'>Und Jehovah sprach zu Joschua: An diesem Tage will Ich anfangen, dich groß zu machen in den Augen von ganz Israel, auf daß sie wissen, daß, wie Ich mit Mose war, so Ich mit dir sein werde.</verse>
+        <verse osisID='Josh.3.8'>Und du gebiete den Priestern, so die Bundeslade tragen, und sprich: Wenn ihr an den Rand<note>das Ende</note> der Wasser des Jordans kommt, so sollt ihr im Jordan stehen.</verse>
+        <verse osisID='Josh.3.9'>Und Joschua sprach zu den Söhnen Israel: Tretet hier herzu und höret die Worte Jehovahs, eures Gottes!</verse>
+        <verse osisID='Josh.3.10'>Und Joschua sprach: Daran sollt ihr wissen, daß ein lebendiger Gott in eurer Mitte ist, und daß Er den Kanaaniter und den Chethiter und den Chiviter und den Pherisiter und den Girgaschiter und den Amoriter und den Jebusiter vor euch austreibt.</verse>
+        <verse osisID='Josh.3.11'>Siehe, die Bundeslade des Herrn der ganzen Erde zieht vor euch hinüber im Jordan.</verse>
+        <verse osisID='Josh.3.12'>Und nun nehmet euch zwölf Männer aus den Stämmen<note>Ruten</note> Israels, aus jedem Stamm je einen Mann<note>einen Mann, einen Mann</note>.</verse>
+        <verse osisID='Josh.3.13'>Und es wird geschehen, sowie die Sohlen der Füße der Priester, so die Lade Jehovahs, des Herrn der ganzen Erde, tragen, in den Wassern des Jordans ruhen, so werden die Wasser des Jordans abgeschnitten und die Wasser, die von oben herabkommen, werden wie ein Haufen.</verse>
+        <verse osisID='Josh.3.14'>Und es geschah, als das Volk aufbrach aus seinen Zelten, um über den Jordan zu setzen, und die Priester, so die Bundeslade vor dem Volke trugen,</verse>
+        <verse osisID='Josh.3.15'>Und wie die Träger der Lade bis an den Jordan kamen, und die Füße der Priester, welche die Lade trugen, ins Ende des Wassers sich tauchten, - der Jordan aber ist voll über allen seinen Ufern alle Tage der Ernte -,</verse>
+        <verse osisID='Josh.3.16'>Da standen die Wasser, die von oben herabkamen, sie richteten sich auf in einen Haufen, sehr fern von der Stadt Adam, die zur Seite von Zarthan ist, und die Wasser, so zum Meer der Arabah<note>d.h. des Flachlandes</note>, zum Salzmeer hinabgingen wurden alle, sie wurden abgeschnitten, und das Volk zog hinüber, gegenüber von Jericho.</verse>
+        <verse osisID='Josh.3.17'>Die Priester aber, welche die Bundeslade Jehovahs trugen, standen fest im Trockenen mitten im Jordan. Und ganz Israel ging im Trockenen durch, bis daß die ganze Völkerschaft den Durchzug des Jordans vollendet hatte.</verse>
+      </chapter>
+      <chapter osisID='Josh.4'>
+        <title>Denksteine des wunderbaren Zugs durch den Jordan.</title>
+        <verse osisID='Josh.4.1'>Und es geschah, wie die ganze Völkerschaft allesamt über den Jordan gegangen war, daß Jehovah zu Joschua sprach und sagte:</verse>
+        <verse osisID='Josh.4.2'>Nehmet euch aus dem Volk zwölf Männer, je einen Mann<note>ein Mann, ein Mann</note> aus einem Stamm<note>Rute</note>.</verse>
+        <verse osisID='Josh.4.3'>Und gebietet ihnen und sprechet: Hebt euch auf hier mitten aus dem Jordan, von der Stelle, wo die Füße der Priester festgestanden, zwölf Steine, und bringt sie mit euch hinüber und legt sie nieder an dem Nachtlager, darin ihr über Nacht bleibt diese Nacht.</verse>
+        <verse osisID='Josh.4.4'>Und Joschua rief den zwölf Männer aus den Söhnen Israels, die er bereit hatte, je einen Mann<note>ein Mann, ein Mann</note> aus einem Stamm<note>Rute</note>.</verse>
+        <verse osisID='Josh.4.5'>Und Joschua sprach zu ihnen: Gehet hinüber vor der Lade Jehovahs, eures Gottes, mitten in den Jordan, und hebt euch empor jeder Mann einen Stein auf seine Schulter nach der Zahl der Stämme<note>Ruten</note> der Söhne Israels.</verse>
+        <verse osisID='Josh.4.6'>Auf daß dies ein Zeichen sei in eurer Mitte, wenn eure Söhne euch morgen fragen und sagen: Was sollen euch diese Steine?</verse>
+        <verse osisID='Josh.4.7'>Da sollt ihr ihnen sagen, wie die Wasser des Jordans abgeschnitten wurden vor der Bundeslande Jehovahs, daß bei ihrem Übergang durch den Jordan die Wasser des Jordans abgeschnitten wurden, und daß diese Steine für die Söhne Israels seien ewiglich zum Andenken.</verse>
+        <verse osisID='Josh.4.8'>Und die Söhne Israels taten also, wie ihnen Joschua geboten hatte, und hoben zwölf Steine aus der Mitte des Jordans auf, wie Jehovah zu Joschua geredet, nach der Zahl der Stämme<note>Ruten</note> der Söhne Israel, und brachten sie mit sich hinüber nach dem Nachtlager und legten sie nieder allda.</verse>
+        <verse osisID='Josh.4.9'>Und Joschua richtete zwölf Steine auf mitten im Jordan, an der Stelle der Füße der Priester, so die Bundeslade trugen, und sie sind dort bis auf diesen Tag.</verse>
+        <verse osisID='Josh.4.10'>Und die Priester, welche die Lade trugen, standen mitten im Jordan, bis daß alles<note>das ganze Wort</note> getan war, das Jehovah dem Joschua geboten hatte, zu dem Volke zu reden, nach allem, das Mose dem Joschua geboten hatte; und das Volk eilte und zog hindurch.</verse>
+        <verse osisID='Josh.4.11'>Und es geschah, als das ganze Volk allesamt hindurchgegangen war, daß auch die Lade Jehovahs hindurchging und die Priester, angesichts des Volkes.</verse>
+        <verse osisID='Josh.4.12'>Und die Söhne Rubens und die Söhne Gads und der halbe Stamm Menaschehs zogen kampfgerüstet vor den Söhnen Israels hinüber, wie Mose zu ihnen geredet hatte.</verse>
+        <verse osisID='Josh.4.13'>Bei vierzigtausend, zum Heere ausgerüstet, zogen hinüber vor Jehovah zum Streite auf Jerichos Flachland.</verse>
+        <verse osisID='Josh.4.14'>An jenem Tage machte Jehovah den Joschua groß vor den Augen von ganz Israel, und sie fürchteten ihn, wie sie Mose gefürchtet hatten, alle Tage seines Lebens.</verse>
+        <verse osisID='Josh.4.15'>Und Jehovah sprach zu Joschua und sagte:</verse>
+        <verse osisID='Josh.4.16'>Gebiete den Priestern, welche die Lade des Zeugnisses tragen, daß sie aus dem Jordan heraufsteigen;</verse>
+        <verse osisID='Josh.4.17'>Und Joschua gebot den Priestern und sprach: Steiget herauf aus dem Jordan.</verse>
+        <verse osisID='Josh.4.18'>Und es geschah, als die Priester, welche die Bundeslade Jehovahs trugen, heraufstiegen aus der Mitte des Jordans, als die Fußsohlen der Priester auf das Trockene sich herauszogen, da kehrten die Wasser des Jordans an ihren Ort zurück und gingen wie gestern und ehegestern, über alle seine Ufer.</verse>
+        <verse osisID='Josh.4.19'>Und das Volk kam herauf aus dem Jordan am zehnten des ersten Monats und sie lagerten in Gilgal an der Grenze<note>am Ende</note> Jerichos gegen Aufgang.</verse>
+        <verse osisID='Josh.4.20'>Und jene zwölf Steine, die sie aus dem Jordan genommen, richtete Joschua in Gilgal auf;</verse>
+        <verse osisID='Josh.4.21'>Und er sprach zu den Söhnen Israels und sagte: So eure Söhne morgen<note>d.h. hernachmals</note> ihre Väter fragen werden und sagen: Was sollen diese Steine?</verse>
+        <verse osisID='Josh.4.22'>So sollt ihr eure Söhne wissen lassen und ihnen sagen: Im Trockenen ist Israel durch den Jordan da durchgezogen.</verse>
+        <verse osisID='Josh.4.23'>Weil Jehovah, euer Gott, die Wasser des Jordans vor euch vertrocknet hatte, bis ihr durchgezogen waret, gleich wie Jehovah, euer Gott, mit dem Schilfmeere tat, das Er vor uns vertrocknete, bis wir durchgezogen.</verse>
+        <verse osisID='Josh.4.24'>Auf daß alle Völker der Erde erkennen die Hand Jehovahs, daß sie stark ist, auf daß ihr Jehovah, euren Gott, fürchtet alle Tage.</verse>
+      </chapter>
+      <chapter osisID='Josh.5'>
+        <title>Beschneidung und Passah. - Das Manna hört auf. Joschuas Gesicht.</title>
+        <verse osisID='Josh.5.1'>Und es geschah, da alle die Könige der Amoriter diesseits des Jordans nach dem Meere hin und alle die Könige der Kanaaniter am Meere hörten, wie Jehovah die Wasser des Jordans vor den Söhnen Israels vertrocknete, bis sie durchgezogen waren, da zerschmolz ihr Herz und es war kein Geist mehr in ihnen vor den Söhnen Israels.</verse>
+        <verse osisID='Josh.5.2'>Zu selbiger Zeit sprach Jehovah zu Joschua: Mache dir steinerne Messer<note>Schwerter vom Felsen</note> und beschneide wieder<note>kehre zurück, beschneide</note> die Söhne Israels zum zweiten Male.</verse>
+        <verse osisID='Josh.5.3'>Und Joschua machte sich steinerne Messer<note>Schwerter vom Felsen</note> und beschnitt die Söhne Israels am Hügel Araloth<note>d.h. der Vorhäute</note>.</verse>
+        <verse osisID='Josh.5.4'>Und so ist die Sache<note>das Wort</note>, daß Joschua sie beschnitt: Alles Volk, das aus Ägyptenland ausgezogen, die Männlichen, alle Männer des Streites, waren in der Wüste gestorben, auf dem Wege, da sie aus Ägypten auszogen.</verse>
+        <verse osisID='Josh.5.5'>Denn alles Volk, das auszog, war beschnitten, aber alles Volk, das in der Wüste auf dem Wege, da man auszog aus Ägypten, geboren worden, war nicht beschnitten.</verse>
+        <verse osisID='Josh.5.6'>Denn vierzig Jahre zogen die Söhne Israels in der Wüste, bis die ganze Völkerschaft alle war, die Männer des Streites, die aus Ägypten auszogen, weil sie nicht auf die Stimme Jehovahs gehört; weshalb ihnen Jehovah schwur, daß Er sie nicht wollte sehen lassen das Land, das uns zu geben Jehovah ihren Vätern geschworen hatte, ein Land, das mit Milch und Honig fließt.</verse>
+        <verse osisID='Josh.5.7'>Und er ließ aufstehen ihre Söhne an ihrer Statt; sie beschnitt Joschua; denn sie hatten Vorhaut, weil man sie auf dem Wege nicht beschnitt.</verse>
+        <verse osisID='Josh.5.8'>Und es geschah, als er beendigt hatte die ganze Völkerschaft zu beschneiden, daß sie an ihrer Stelle im Lager blieben<note>saßen</note>, bis sie genesen<note>lebendig</note> waren.</verse>
+        <verse osisID='Josh.5.9'>Und Jehovah sprach zu Joschua: Heute habe Ich die Schmach Ägyptens von euch gewälzt; und man nannte den Namen jenes Ortes Gilgal<note>d.h. Abwälzung</note> bis auf diesen Tag.</verse>
+        <verse osisID='Josh.5.10'>Und die Söhne Israels lagerten in Gilgal und begingen<note>machten</note> das Passah, am vierzehnten Tage des Monats am Abend im Flachland Jerichos;</verse>
+        <verse osisID='Josh.5.11'>Und sie aßen von der Frucht<note>dem Hervorgebrachten</note> des Landes vom morgenden Tage nach dem Passah, Ungesäuertes und Geröstetes, an eben dem Tage;</verse>
+        <verse osisID='Josh.5.12'>Und das Mannah hörte auf<note>feierte</note> am morgenden Tag, da sie von der Frucht des Landes aßen; und die Söhne Israel hatten kein Mannah mehr; sondern sie aßen von dem Ertrag des Landes Kanaan in demselbigen Jahr.</verse>
+        <verse osisID='Josh.5.13'>Und es geschah, als Joschua bei<note>in</note> Jericho war, daß er seine Augen aufhob und sah, und siehe, ein Mann stand ihm gegenüber und Sein gezücktes Schwert in Seiner Hand. Und Joschua ging zu Ihm und sprach zu Ihm: Bist Du für uns oder für unsere Dränger?</verse>
+        <verse osisID='Josh.5.14'>Und Er sprach zu ihm: Nicht doch! Ich bin der Oberste des Heeres Jehovahs, jetzt komme Ich. Und Joschua fiel auf sein Angesicht zur Erde und betete an und sprach zu Ihm: Was redet Mein Herr zu Seinem Knechte?</verse>
+        <verse osisID='Josh.5.15'>Und der Oberste des Heeres Jehovahs sprach zu Joschua: Ziehe ab deinen Schuh von deinem Fuß; denn der Ort, auf dem du stehst, ist heilig. Und Joschua tat also.</verse>
+      </chapter>
+      <chapter osisID='Josh.6'>
+        <title>Jericho erobert. Rachab mit ihrem Geschlecht verschont.</title>
+        <verse osisID='Josh.6.1'>Und Jericho hatte geschlossen und war verschlossen vor den Söhnen Israels. Niemand kam heraus und niemand ging hinein.</verse>
+        <verse osisID='Josh.6.2'>Und Jehovah sprach zu Joschua: Siehe, Ich habe Jericho und seinen König samt den Mächtigen seiner Streitmacht in deine Hand gegeben.</verse>
+        <verse osisID='Josh.6.3'>Und ihr sollt die Stadt umziehen, all ihr Männer des Streites, umringen die Stadt einmal; sechs Tage sollst du also tun.</verse>
+        <verse osisID='Josh.6.4'>Und sieben Priester sollen sieben Jubelposaunen vor der Lade tragen. Und am siebenten Tage sollt ihr siebenmal die Stadt umziehen und die Priester in die Posaunen stoßen.</verse>
+        <verse osisID='Josh.6.5'>Und es soll geschehen, wenn das Jubelhorn geblasen<note>gezogen</note> wird und ihr die Stimme der Posaune hört, so soll alles Volk mit großem Jubelruf jubeln, und die Mauer der Stadt wird fallen unter sich, und das Volk soll hinaufziehen, jeder Mann vor sich hin.</verse>
+        <verse osisID='Josh.6.6'>Und Joschua, der Sohn Nuns, rief die Priester und sprach zu ihnen: Traget die Bundeslade und sieben Priester sollen sieben Jubelposaunen vor der Lade Jehovahs tragen.</verse>
+        <verse osisID='Josh.6.7'>Und zum Volke sprach er: Ziehet hin und umziehet die Stadt, und der Ausgerüstete ziehe her vor der Lade Jehovahs!</verse>
+        <verse osisID='Josh.6.8'>Und es geschah, als Joschua zum Volke gesprochen hatte, daß die sieben Priester, welche die sieben Jubelposaunen vor Jehovah trugen, hinzogen und in die Posaunen stießen, und die Bundeslade Jehovahs hinter ihnen herging.</verse>
+        <verse osisID='Josh.6.9'>Der Ausgerüstete aber ging hin vor den Priestern, welche in die Posaune stießen und der Nachzug ging hinter der Lade, und sie gingen und stießen in die Posaunen.</verse>
+        <verse osisID='Josh.6.10'>Und dem Volke hatte Joschua geboten und gesagt: Ihr sollt nicht jubeln und eure Stimme nicht hören lassen, und kein Wort soll aus eurem Munde gehen, bis zum Tage, da ich euch sage: Jubelt! Dann sollt ihr jubeln.</verse>
+        <verse osisID='Josh.6.11'>Und die Lade Jehovahs umzog einmal die Stadt, sie umringend; und sie kamen in das Lager und blieben über die Nacht im Lager.</verse>
+        <verse osisID='Josh.6.12'>Und Joschua machte sich früh am Morgen auf, und die Priester trugen die Lade Jehovahs.</verse>
+        <verse osisID='Josh.6.13'>Und es gingen hin, die sieben Priester, welche die sieben Jubelposaunen vor der Lade Jehovahs trugen, sie gingen hin und stießen in die Posaunen, und der Ausgerüstete ging vor ihnen her, und der Nachzug ging hinter der Lade Jehovahs, sie zogen und stießen in die Posaunen.</verse>
+        <verse osisID='Josh.6.14'>Und am zweiten Tage umzogen sie einmal die Stadt und kehrten in das Lager zurück. So taten sie sechs Tage.</verse>
+        <verse osisID='Josh.6.15'>Und es geschah am siebenten Tage, daß sie früh aufstanden, da die Morgenröte aufging und nach dieser Weise<note>Gerichte</note> siebenmal um die Stadt zogen. Nur an diesem Tage zogen sie siebenmal rings um die Stadt.</verse>
+        <verse osisID='Josh.6.16'>Und es geschah beim siebenten Male, daß die Priester in die Posaunen stießen, und Joschua sprach zu dem Volke: Jubelt; denn Jehovah hat euch die Stadt gegeben!</verse>
+        <verse osisID='Josh.6.17'>Und die Stadt sei, sie und alles, was in ihr ist, dem Jehovah verbannt! Nur die Buhlerin Rachab, sie und alles, was bei ihr im Haus ist, soll am Leben bleiben, weil sie die Boten, die wir sandten, versteckt hat.</verse>
+        <verse osisID='Josh.6.18'>Hütet euch aber nur vor dem Verbannten, daß ihr euch nicht verbannt und nehmet vom Verbannten, daß ihr nicht das Lager Israels in Verbann bringt und es zerrüttet.</verse>
+        <verse osisID='Josh.6.19'>Aber alles Silber und Gold und das eherne und eiserne Gerät soll Jehovah geheiligt sein, es soll in den Schatz Jehovahs kommen.</verse>
+        <verse osisID='Josh.6.20'>Und das Volk jubelte und sie stießen in die Posaunen; und es geschah, als das Volk den Schall<note>die Stimme</note> der Posaune hörte, und das Volk mit großem Jubelruf jubelte, da fiel die Mauer unter sich zusammen und das Volk ging hinauf in die Stadt, jeder Mann vor sich hin, und so eroberten sie die Stadt.</verse>
+        <verse osisID='Josh.6.21'>Und sie verbannten alles in der Stadt mit der Schärfe<note>mit dem Munde</note> des Schwertes, vom Manne bis zum Weibe, vom Jungen bis zum Alten und zum Ochsen und Kleinvieh und Esel.</verse>
+        <verse osisID='Josh.6.22'>Und zu den zwei Männern, die das Land hatten ausgekundschaftet, sprach Joschua: Gehet hinein in das Haus des Weibes, der Buhlerin, und bringt von da heraus das Weib und alles, was sie hat, wie ihr derselben geschworen habt.</verse>
+        <verse osisID='Josh.6.23'>Und die Jünglinge, die Kundschafter, gingen hinein und brachten die Rachab und ihren Vater und ihre Mutter und ihre Brüder und alles, das sie hatte, heraus; und sie brachten ihre ganze Familie heraus und ließen sie außerhalb des Lagers Israels.</verse>
+        <verse osisID='Josh.6.24'>Und die Stadt verbrannten sie mit Feuer und alles, was darin war. Nur das Silber und das Gold und die ehernen und eisernen Geräte gaben sie in den Schatz des Hauses Jehovahs.</verse>
+        <verse osisID='Josh.6.25'>Und Rachab, die Buhlerin, und ihres Vaters Haus und alles, was sie hatte, ließ Joschua am Leben und sie wohnte<note>saß</note> inmitten Israels bis auf diesen Tag, dafür, daß sie die Boten, die Joschua gesandt, um Jericho auszukundschaften, versteckt hatte.</verse>
+        <verse osisID='Josh.6.26'>Und Joschua schwur zur selben Zeit und sprach: Verflucht sei der Mann vor Jehovah, der aufsteht und diese Stadt Jericho baut. Um seinen Erstgeborenen soll er sie gründen, und um seinen Jüngstgeborenen ihre Tore einsetzen!</verse>
+        <verse osisID='Josh.6.27'>Und Jehovah war mit Joschua, und im ganzen Lande war das Gerüchte ihm.</verse>
+      </chapter>
+      <chapter osisID='Josh.7'>
+        <title>Achan entwendet von dem Verbannten.</title>
+        <verse osisID='Josh.7.1'>Und die Söhne Israels begingen Untreue an dem Verbannten; und Achan, der Sohn Karmis, des Sohnes Sabdis, des Sohnes Serachs, vom Stamme Judah, nahm von dem Verbannten. Und der Zorn Jehovahs entbrannte wider die Söhne Israels.</verse>
+        <verse osisID='Josh.7.2'>Und Joschua sandte Männer aus von Jericho nach Ai, das bei Beth Aven östlich von Bethel ist, und sprach zu ihnen und sagte: Ziehet hinauf und kundschaftet das Land aus. Und die Männer gingen hinauf und kundschafteten Ai aus.</verse>
+        <verse osisID='Josh.7.3'>Und sie kehrten zu Joschua zurück und sprachen zu ihm: Laß nicht das ganze Volk hinaufziehen. Bei zweitausend Mann oder bei dreitausend Mann mögen hinaufziehen und Ai schlagen. Bemühe nicht das ganze Volk dahin; denn ihrer sind wenige.</verse>
+        <verse osisID='Josh.7.4'>Und es zogen vom Volke bei dreitausend Mann dort hinauf, aber sie flohen vor den Männern von Ai.</verse>
+        <verse osisID='Josh.7.5'>Und die Männer von Ai schlugen ihrer bei sechsunddreißig Mann und setzten ihnen nach vor das Tor bis Schebarim, und schlugen sie beim Hinabgehen. Und dem Volke zerschmolz das Herz und ward zu Wasser.</verse>
+        <verse osisID='Josh.7.6'>Und Joschua zerriß seine Gewänder und fiel auf sein Angesicht zur Erde vor der Lade Jehovahs bis zum Abend, er und die Ältesten Israels und taten<note>brachten herauf</note> Staub auf ihr Haupt.</verse>
+        <verse osisID='Josh.7.7'>Und Joschua sprach: Ach, Herr, Jehovah! Warum ließest Du doch dieses Volk über den Jordan herüberziehen<note>herüberbringend brachtest Du herüber</note>, um uns in die Hand des Amoriters zu geben und uns zu zerstören! Hätten wir doch jenseits des Jordans bleiben<note>sitzen</note> wollen!</verse>
+        <verse osisID='Josh.7.8'>Bitte, Herr, was soll ich sagen, nachdem Israel vor seinen Feinden den Rücken<note>den Nacken</note> gekehrt hat?</verse>
+        <verse osisID='Josh.7.9'>Und der Kanaaniter und alle Einwohner des Landes werden es hören, und uns umgeben<note>wider uns uns umgeben</note> und unseren Namen von der Erde ausrotten. Und was wirst Du für deinen großen Namen tun?</verse>
+        <verse osisID='Josh.7.10'>Und Jehovah sprach zu Joschua: Stehe auf<note>Stehe dir auf</note>! Was fällst du da auf dein Angesicht?</verse>
+        <verse osisID='Josh.7.11'>Israel hat gesündigt und sie haben auch Meinen Bund überschritten, den Ich ihnen geboten; und sie haben auch von dem Verbannten genommen, und haben auch gestohlen, sie haben es auch abgeleugnet und es auch in ihr Gerät getan.</verse>
+        <verse osisID='Josh.7.12'>Und die Söhne Israels vermögen nicht aufzustehen vor ihren Feinden, sie müssen vor ihren Feinden den Rücken<note>den Nacken</note> wenden; denn sie sind im Bann. Ich werde ferner nicht mit euch sein<note>werde nicht hinzutun mit euch zu sein</note>, wenn ihr den Bann nicht aus eurer Mitte vernichtet.</verse>
+        <verse osisID='Josh.7.13'>Stehe auf, heilige das Volk und sprich: Heiligt euch auf morgen; denn also spricht Jehovah, der Gott Israels: Ein Bann ist in deiner Mitte, Israel. Du vermagst nicht aufzustehen vor deinen Feinden, bis ihr den Bann aus eurer Mitte tut.</verse>
+        <verse osisID='Josh.7.14'>Am Morgen aber sollt ihr nahen nach euren Stämmen<note>Ruten</note>, und es soll geschehen, daß der Stamm, den Jehovah herausnimmt<note>fängt</note>, nahe nach seinen Familien, und die Familie, die Jehovah herausnimmt, soll nahen nach den Häusern, und das Haus, das Jehovah herausnimmt<note>fängt</note>, soll nahen nach den Männern<note>mächtigen Männern</note>.</verse>
+        <verse osisID='Josh.7.15'>Und es soll geschehen, daß der, als im Bann herausgenommen<note>gefangen</note> wird, mit Feuer verbrannt werde, er und all das Seine, weil er den Bund Jehovahs überschritten und eine Torheit in Israel getan hat.</verse>
+        <verse osisID='Josh.7.16'>Und Joschua stand früh am Morgen auf und ließ Israel nach seinen Stämmen<note>Ruten</note> nahen, und der Stamm Judah ward herausgenommen<note>gefangen</note>.</verse>
+        <verse osisID='Josh.7.17'>Und er ließ die Familien Judahs nahen und die Familie der Sarchiten ward herausgenommen<note>gefangen</note>; und er ließ die Familie der Sarchiten nahen nach den Männern<note>mächtigen Männern</note>, und Sabdi ward herausgenommen<note>gefangen</note>.</verse>
+        <verse osisID='Josh.7.18'>Und er ließ nahen sein Haus nach den Männern<note>mächtigen Männern</note>, und es ward herausgenommen<note>gefangen</note> Achan, der Sohn Karmis, des Sohnes Serach, vom Stamme Judah.</verse>
+        <verse osisID='Josh.7.19'>Und Joschua sprach zu Achan: Mein Sohn, gib Jehovah, dem Gotte Israels die Ehre, und gib Ihm ein Bekenntnis, und sage mir doch an, was du getan hast und verhehle es nicht vor mir.</verse>
+        <verse osisID='Josh.7.20'>Und Achan antwortete dem Joschua und sprach: In Wahrheit, ich habe gesündigt an Jehovah, dem Gott Israels und so und so habe ich getan;</verse>
+        <verse osisID='Josh.7.21'>Und ich sah unter der Beute einen guten Mantel aus Schinear und zweihundert Schekel Silber und eine Barre<note>Zunge</note> Goldes, fünfzig Schekel sein Gewicht. Und ich begehrte danach, und ich nahm sie. Und siehe, sie sind in der Erde verdeckt<note>hehlings verdeckt</note> in der Mitte meines Zeltes, und das Silber darunter.</verse>
+        <verse osisID='Josh.7.22'>Und Joschua sandte Boten, und sie liefen nach dem Zelt, und siehe, es war verdeckt<note>hehlings verdeckt</note> in seinem Zelt, und das Silber darunter.</verse>
+        <verse osisID='Josh.7.23'>Und sie nahmen dieselben aus der Mitte des Zeltes und brachten sie herein zu Joschua und zu allen Söhnen Israels und schütteten sie aus vor Jehovah.</verse>
+        <verse osisID='Josh.7.24'>Und Joschua nahm den Achan, den Sohn Serachs, und das Silber und den Mantel und die Zunge Goldes und seine Söhne und seine Töchter und seinen Ochsen und seinen Esel und sein Kleinvieh und sein Zelt und alles, was er hatte, und ganz Israel mit ihm brachten sie hinauf in den Talgrund Achor.</verse>
+        <verse osisID='Josh.7.25'>Und Joschua sprach: Wie du uns zerrüttet, so zerrütte dich Jehovah an diesem Tage. Und ganz Israel steinigte ihn mit Steinen und sie verbrannten sie mit Feuer und warfen Steine auf sie.</verse>
+        <verse osisID='Josh.7.26'>Und sie errichteten über ihm einen großen Steinhaufen bis auf diesen Tag. Und Jehovah kehrte Sich zurück von der Entbrennung Seines Zornes. Darum nennt man den Namen selbigen Ortes Emek Achor<note>d.h. Talgrund der Zerrüttung</note> bis auf diesen Tag.</verse>
+      </chapter>
+      <chapter osisID='Josh.8'>
+        <title>Eroberung von Ai. - Altar auf dem Ebal. Segen und Fluch.</title>
+        <verse osisID='Josh.8.1'>Und Jehovah sprach zu Joschua: Fürchte dich nicht und entsetze dich nicht. Nimm alles Kriegsvolk mit dir und mache dich auf und zieh hinauf nach Ai. Siehe, Ich habe den König von Ai und sein Volk und seine Stadt und sein Land in deine Hand gegeben.</verse>
+        <verse osisID='Josh.8.2'>Und du sollst mit Ai und seinem Könige tun, wie du mit Jericho und seinem Könige getan, nur möget ihr ihre Beute und ihr Vieh für euch rauben. Lege dir einen Hinterhalt für die Stadt hinter ihr.</verse>
+        <verse osisID='Josh.8.3'>Und Joschua machte sich auf und alles Kriegsvolk, um nach Ai hinaufzuziehen. Und Joschua erwählte sich dreißigtausend Mann, Helden der Tapferkeit, und sandte sie ab in der Nacht;</verse>
+        <verse osisID='Josh.8.4'>Und er gebot ihnen und sprach: Sehet, ihr sollt wider die Stadt im Hinterhalte liegen hinter der Stadt. Entfernt euch nicht zu sehr von der Stadt, und seid allesamt bereit.</verse>
+        <verse osisID='Josh.8.5'>Ich aber und alles Volk, das mit mir ist, wir werden uns der Stadt nähern, und wenn sie ausgehen uns entgegen wie zuerst, so werden wir vor ihnen fliehen.</verse>
+        <verse osisID='Josh.8.6'>Und sie werden ausziehen uns nach, bis wir sie von der Stadt abgezogen haben; denn sie werden sagen: Sie fliehen vor uns, wie zuerst. Und wir werden fliehen vor ihnen.</verse>
+        <verse osisID='Josh.8.7'>Ihr aber machet euch aus dem Hinterhalte auf und nehmt die Stadt ein. Und Jehovah, euer Gott, wird sie in eure Hand geben.</verse>
+        <verse osisID='Josh.8.8'>Und es geschehe, wenn ihr die Stadt gewonnen<note>erfaßt</note> habt, dann sollt ihr die Stadt mit Feuer anzünden; nach dem Worte Jehovahs sollt ihr tun. Sehet, ich habe es euch geboten.</verse>
+        <verse osisID='Josh.8.9'>Und Joschua entließ sie und sie gingen in den Hinterhalt und blieben<note>saßen</note> zwischen Bethel und Ai auf der Meerseite<note>d.h. Westseite</note> von Ai. Und Joschua blieb über Nacht inmitten des Volkes in dieser Nacht.</verse>
+        <verse osisID='Josh.8.10'>Und am Morgen stand Joschua früh auf, und musterte das Volk und zog hinauf, er und die Ältesten Jehovahs vor dem Volke nach Ai hinauf;</verse>
+        <verse osisID='Josh.8.11'>Und alles Kriegsvolk, das mit ihm war, zog hinauf, und sie traten herzu und kamen der Stadt gegenüber, und lagerten gen Mitternacht von Ai, und das Tal war zwischen ihm und Ai.</verse>
+        <verse osisID='Josh.8.12'>Und er nahm bei fünftausend Mann und legte sie zwischen Bethel und Ai auf der Meerseite<note>d.h. Westseite</note> von Ai in Hinterhalt.</verse>
+        <verse osisID='Josh.8.13'>Und so stellten sie das Volk, das ganze Lager, das gegen Mitternacht von der Stadt war, daß der hintere Teil<note>die Ferse</note> auf der Meerseite<note>d.h. Westseite</note> der Stadt war, und Jehoschua zog in jener Nacht in die Mitte des Talgrundes.</verse>
+        <verse osisID='Josh.8.14'>Und es geschah, als der König von Ai es sah, eilten die Männer von der Stadt und standen früh auf und zogen aus, Israel entgegen, zum Streite, er und all sein Volk, zur bestimmten Zeit vor das Flachland; er wußte aber nicht, daß hinter der Stadt ein Hinterhalt gegen ihn war.</verse>
+        <verse osisID='Josh.8.15'>Und Jehoschua und ganz Israel wurden geschlagen vor ihnen, und sie flohen auf dem Wege nach der Wüste.</verse>
+        <verse osisID='Josh.8.16'>Und sie riefen alles Volk in der Stadt, hinter ihnen nachzusetzen, und sie setzten hinter dem Joschua nach und wurden von der Stadt abgezogen.</verse>
+        <verse osisID='Josh.8.17'>Und kein Mann verblieb in Ai und Bethel, der nicht ausgezogen wäre, hinter Israel her; und sie ließen die Stadt geöffnet und setzten hinter Israel nach.</verse>
+        <verse osisID='Josh.8.18'>Und Jehovah sprach zu Joschua: Recke den Wurfspieß in deiner Hand wider Ai aus; denn Ich will sie in deine Hand geben. Und Joschua reckte den Wurfspieß, den er in seiner Hand hatte, wider die Stadt aus.</verse>
+        <verse osisID='Josh.8.19'>Und der Hinterhalt stand eilig auf von seinem Orte und sie liefen, wie er seine Hand ausreckte, und kamen in die Stadt und eroberten sie; und sie eilten und steckten die Stadt mit Feuer an.</verse>
+        <verse osisID='Josh.8.20'>Und die Männer von Ai wandten sich um hinter sich und sahen, und siehe, der Rauch der Stadt stieg gen Himmel auf, und sie hatten nicht, wohin sie fliehen sollten<note>hatten nicht Hände zum Fliehen</note>, dahin oder dorthin, und das Volk, das nach der Wüste geflohen war, kehrte um wider die, so ihnen nachgesetzt hatten.</verse>
+        <verse osisID='Josh.8.21'>Und Joschua und ganz Israel sahen, daß der Hinterhalt die Stadt erobert hatte und daß der Rauch der Stadt aufging, und sie kehrten um und schlugen die Männer von Ai.</verse>
+        <verse osisID='Josh.8.22'>Und jene gingen aus der Stadt ihnen entgegen, so daß sie mitten zwischen Israel waren, die einen von hier und die anderen dorther; und sie schlugen sie, bis daß ihnen kein Rest verblieb, noch einer entkam.</verse>
+        <verse osisID='Josh.8.23'>Und den König von Ai erfaßten sie lebendig und ließen ihn dem Joschua nahen.</verse>
+        <verse osisID='Josh.8.24'>Und da Israel alle Einwohner von Ai auf dem Felde in der Wüste, wohin sie ihnen nachsetzten, vollends erwürgt hatte, und alle durch die Schärfe des Schwertes<note>den Mund des Schwertes</note> gefallen, so daß sie alle waren, da kehrte ganz Israel nach Ai zurück und sie schlugen es mit der Schärfe des Schwertes<note>den Mund des Schwertes</note>.</verse>
+        <verse osisID='Josh.8.25'>Und alle, die an jenem Tage gefallen waren, vom Manne bis zum Weibe, waren zwölftausend, alle Leute<note>Männer</note> von Ai.</verse>
+        <verse osisID='Josh.8.26'>Und Joschua zog seine Hand, damit er den Wurfspieß ausreckte, nicht zurück, bis daß er alle Einwohner von Ai verbannt hatte.</verse>
+        <verse osisID='Josh.8.27'>Nur das Vieh und die Beute dieser Stadt nahm Israel als Raub für sich, nach dem Worte Jehovahs, das Er dem Joschua geboten hatte.</verse>
+        <verse osisID='Josh.8.28'>Und Ai verbrannte Joschua und machte es zu einem ewiglichen Schutthaufen, zur Verwüstung, bis auf diesen Tag.</verse>
+        <verse osisID='Josh.8.29'>Und den König von Ai hängte er an einem Baume auf bis zur Zeit des Abends, und da die Sonne unterging, gebot Joschua, daß sie seinen Leichnam vom Baume abnehmen und an den Eingang des Stadttores werfen sollten. Und sie richteten einen großen Steinhaufen über ihm, bis auf diesen Tag.</verse>
+        <verse osisID='Josh.8.30'>Nun baute Joschua Jehovah, dem Gotte Israels einen Altar auf dem Berge Ebal,</verse>
+        <verse osisID='Josh.8.31'>Wie Mose, der Knecht Jehovahs, den Söhnen Israels geboten hatte, wie geschrieben ist im Gesetzbuche Moses: einen Altar von ganzen Steinen, über die kein Eisen geschwungen ward, und sie opferten darauf Jehovah Brandopfer und schlachteten Dankopfer.</verse>
+        <verse osisID='Josh.8.32'>Und allda schrieb er auf die Steine eine Abschrift des Gesetzes Moses, das er vor den Söhnen Israels geschrieben hatte.</verse>
+        <verse osisID='Josh.8.33'>Und ganz Israel und seine Ältesten und Vorsteher und seine Richter standen auf beiden Seiten<note>von hier und von hier</note> der Lade, gegenüber den Priestern, den Leviten, so die Bundeslade Jehovahs trugen, wie der Fremdling so der Eingeborene; die eine Hälfte gegenüber dem Berge Gerissim, und die andere Hälfte<note>seine Hälfte</note> dem Berge Ebal gegenüber, wie Mose, der Knecht Jehovahs, zuerst geboten hatte, das Volk Israel zu segnen.</verse>
+        <verse osisID='Josh.8.34'>Und danach las er alle Worte des Gesetzes, den Segen und den Fluch, wie alles geschrieben ist im Buche des Gesetzes.</verse>
+        <verse osisID='Josh.8.35'>Da war kein Wort von allem, das Mose geboten hatte, das Joschua nicht las in Gegenwart der ganzen Versammlung Israels und den Weibern und Kindlein und dem Fremdling, der in ihrer Mitte wandelte.</verse>
+      </chapter>
+      <chapter osisID='Josh.9'>
+        <title>Die Gibeoniten.</title>
+        <verse osisID='Josh.9.1'>Und es geschah, als dies hörten alle die Könige, die diesseits des Jordans auf dem Gebirge und in der Niederung und am ganzen Gestade des großen Meeres dem Libanon gegenüber wohnten, der Chethiter und der Amoriter, der Kanaaniter und der Pherisiter, der Chiviter und der Jebusiter;</verse>
+        <verse osisID='Josh.9.2'>Kamen sie zusammen zu Hauf<note>zusammen</note>, einmütig<note>mit einem Munde</note> wider Joschua und Israel zu streiten.</verse>
+        <verse osisID='Josh.9.3'>Und die Einwohner Gibeons hörten, was Joschua mit Jericho und mit Ai getan hatte,</verse>
+        <verse osisID='Josh.9.4'>Da handelten sie auch mit List, gingen hin, machten sich eine Gesandtschaft und sie nahmen alte Säcke auf ihre Esel und alte, rissige<note>zerspaltene</note> und zusammengebundene Weinschläuche.</verse>
+        <verse osisID='Josh.9.5'>Und alte, geflickte Schuhe an ihre Füße und alte Gewänder an sich, und alles Brot ihrer Zehrung war vertrocknet und hatte Schimmelflecken.</verse>
+        <verse osisID='Josh.9.6'>Und sie gingen zu Joschua in das Lager zu Gilgal und sprachen zu ihm und zu den Männern<note>dem Manne</note> von Israel: Wir kommen aus fernem Lande, und nun schließet einen Bund mit uns.</verse>
+        <verse osisID='Josh.9.7'>Und die Männer<note>der Mann</note> von Israel sprachen zu dem Chiviter: Vielleicht wohnst<note>sitzest</note> du mitten unter mir, und wie sollte ich einen Bund mit dir schließen?</verse>
+        <verse osisID='Josh.9.8'>Und sie sprachen zu Joschua: Wir sind deine Knechte. Und Joschua sprach zu ihnen: Wer seid ihr, und von wannen kommt ihr?</verse>
+        <verse osisID='Josh.9.9'>Und sie sagten zu ihm: Aus einem sehr fernen Lande kommen deine Knechte wegen des Namens Jehovahs, deines Gottes; denn wir hörten Sein Gerücht, und alles, was Er in Ägypten hat getan;</verse>
+        <verse osisID='Josh.9.10'>Und alles, was Er getan hat den zwei Königen des Amoriters jenseits des Jordans, dem Sichon, dem Könige von Cheschbon und Og, dem Könige von Baschan, der zu Aschtaroth war.</verse>
+        <verse osisID='Josh.9.11'>Und unsere Ältesten und alle, die in unserem Lande wohnen, sprachen zu uns und sagten: Nehmet Zehrung in eure Hand auf den Weg, und geht ihnen entgegen und sprechet zu ihnen: Wir sind eure Knechte, und nun schließet einen Bund mit uns.</verse>
+        <verse osisID='Josh.9.12'>Dies unser Brot nahmen wir warm als Zehrung aus unseren Häusern am Tage, da wir auszogen, zu euch zu gehen, und siehe, nun ist es vertrocknet und mit Schimmelflecken;</verse>
+        <verse osisID='Josh.9.13'>Und diese Weinschläuche füllten wir neu, und siehe, sie sind rissig<note>zerspalten</note> geworden; und das sind unsere Gewänder und unsere Schuhe, sie sind von dem sehr vielen Wege alt geworden.</verse>
+        <verse osisID='Josh.9.14'>Und die Männer nahmen von ihrer Zehrung; aber den Mund Jehovahs fragten sie nicht.</verse>
+        <verse osisID='Josh.9.15'>Und Joschua machte Frieden mit ihnen und schloß einen Bund mit ihnen, sie am Leben zu lassen; und die Fürsten<note>Erhabenen</note> der Gemeinde schworen denselben.</verse>
+        <verse osisID='Josh.9.16'>Und es geschah am Ende dreier Tage, nachdem sie den Bund mit ihnen geschlossen hatten, da hörten sie, daß sie ihnen nahe wären und in ihrer Mitte wohnten<note>saßen</note>.</verse>
+        <verse osisID='Josh.9.17'>Und die Söhne Israels brachen auf und kamen zu ihren Städten am dritten Tage; und ihre Städte waren Gibeon und Kephirah und Beeroth und Kirjath Jearim;</verse>
+        <verse osisID='Josh.9.18'>Und die Söhne Israels schlugen sie nicht, weil die Fürsten<note>Erhabenen</note> der Gemeinde ihnen bei Jehovah, dem Gotte Israels, geschworen hatten; und die ganze Gemeinde murrte wider die Fürsten<note>Erhabenen</note>.</verse>
+        <verse osisID='Josh.9.19'>Und alle die Fürsten<note>Erhabenen</note> sprachen zu der ganzen Gemeinde: Wir haben ihnen bei Jehovah, dem Gotte Israels, geschworen, und nun vermögen wir nicht sie anzurühren.</verse>
+        <verse osisID='Josh.9.20'>Das wollen wir ihnen tun, daß wir sie leben lassen, auf daß keine Entrüstung über uns sei um des Schwures willen, den wir ihnen geschworen haben.</verse>
+        <verse osisID='Josh.9.21'>Und die Fürsten<note>Erhabenen</note> sprachen zu ihnen: Sie sollen am Leben bleiben, aber Holzhauer und Wasserschöpfer für die ganze Gemeinde werden, wie die Fürsten<note>Erhabenen</note> zu ihnen geredet hatten.</verse>
+        <verse osisID='Josh.9.22'>Und Joschua rief sie und redete zu ihnen und sprach: Warum habt ihr uns betrogen und gesagt: Wir sind sehr ferne von euch, und ihr wohnet doch mitten unter uns?</verse>
+        <verse osisID='Josh.9.23'>Und nun seid ihr verflucht! Nicht sollen unter euch aufhören<note>ausgerottet werden</note> der Knecht und die Holz hauen und Wasser schöpfen für das Haus meines Gottes!</verse>
+        <verse osisID='Josh.9.24'>Und sie antworteten Joschua und sprachen: Man hatte deinen Knechten angesagt<note>ansagend angesagt</note>, was Jehovah, dein Gott, dem Mose, Seinem Knechte, geboten hat, daß er euch das ganze Land gebe, und daß ihr alle Einwohner des Landes vor euch her vernichten sollet. Darum fürchteten wir sehr für unsere Seelen vor euch, so daß wir dieses<note>dies Wort</note> taten.</verse>
+        <verse osisID='Josh.9.25'>Und nun, siehe, wir sind in deiner Hand. Was gut und was recht ist in deinen Augen uns zu tun, das tue.</verse>
+        <verse osisID='Josh.9.26'>Und er tat ihnen also und errettete sie aus der Hand der Söhne Israels, daß sie sie nicht erwürgeten.</verse>
+        <verse osisID='Josh.9.27'>Und Joschua machte<note>gab</note> sie selbigen Tages zu Holzhauern und Wasserschöpfern für die Gemeinde und für den Altar Jehovahs bis auf diesen Tag, an dem Ort, den Er erwählen würde.</verse>
+      </chapter>
+      <chapter osisID='Josh.10'>
+        <title>Wunderbarer Sieg über die Amoriter.</title>
+        <verse osisID='Josh.10.1'>Und es geschah, da Adoni-Zedek, König von Jerusalem, hörte, daß Joschua Ai erobert und es verbannt hatte, wie er Jericho und ihrem Könige getan, also tat er mit Ai und seinem Könige, und daß die Einwohner Gibeons mit Israel Frieden gemacht hätten und in ihrer Mitte waren;</verse>
+        <verse osisID='Josh.10.2'>Da fürchteten sie sich sehr; denn Gibeon war eine große Stadt, wie eine der Königsstädte, und weil sie größer den Ai und alle ihre Männer Helden waren.</verse>
+        <verse osisID='Josh.10.3'>Und Adoni-Zedek, König von Jerusalem, sandte zu Hoham, König von Chebron, und zu Piram, König von Jarmuth, und zu Japhia, König von Lachisch und zu Debir, König von Eglon, und sagte:</verse>
+        <verse osisID='Josh.10.4'>Ziehet herauf zu mir und stehet mir bei, daß wir Gibeon schlagen, weil es Frieden mit Joschua und mit den Söhnen Israels gemacht.</verse>
+        <verse osisID='Josh.10.5'>Und sie sammelten sich und zogen herauf, fünf Könige der Amoriter, der König von Jerusalem, der König von Chebron, der König von Jarmuth, der König von Lachisch, der König von Eglon, sie und all ihre Lager, und sie lagerten sich wider Gibeon und stritten dawider.</verse>
+        <verse osisID='Josh.10.6'>Und die Männer Gibeons sandten zu Joschua zum Lager nach Gilgal, und ließen ihm sagen: Laß deine Hand nicht ab von deinen Knechten. Zieh eilig herauf zu uns, und hilf uns und stehe uns bei; denn es sind wider uns zusammengekommen alle Könige des Amoriters, die auf dem Gebirge wohnen.</verse>
+        <verse osisID='Josh.10.7'>Und Joschua zog herauf von Gilgal, er und alles Kriegsvolk mit ihm, und alle tapferen Helden.</verse>
+        <verse osisID='Josh.10.8'>Und Jehovah sprach zu Joschua: Fürchte dich nicht vor ihnen; denn Ich habe sie in deine Hände gegeben. Kein Mann von ihnen wird stehen vor dir.</verse>
+        <verse osisID='Josh.10.9'>Und Joschua kam plötzlich über sie; denn er war die ganze Nacht von Gilgal heraufgezogen.</verse>
+        <verse osisID='Josh.10.10'>Und Jehovah verwirrte sie vor Israel, und er schlug sie in einer großen Schlacht in Gibeon und setzte ihnen nach, den Weg der Steige von Beth-Choron hinan, und schlug sie bis nach Asekah und bis Makkedah.</verse>
+        <verse osisID='Josh.10.11'>Und es geschah, daß, als sie vor Israel flohen, da sie am Hinabsteigen von Beth-Choron waren, daß Jehovah große Steine vom Himmel auf sie warf, bis nach Asekah, daß sie starben. Mehr starben durch die Hagelsteine, als die Söhne Israels durch das Schwert erwürgt hatten.</verse>
+        <verse osisID='Josh.10.12'>Damals redete Joschua zu Jehovah, am Tage, da Jehovah die Amoriter hingab vor den Söhnen Israels, und sprach vor den Augen Israels: Sonne, sei still in Gibeon, und du, Mond im Talgrunde Ajalon!</verse>
+        <verse osisID='Josh.10.13'>Und die Sonne war stille, und der Mond stand, bis die Völkerschaft sich an den Feinden gerächt. Ist das nicht geschrieben in dem Buch Jaschar? Und es stand die Sonne an des Himmels Mitte<note>Hälfte</note> und eilte nicht<note>trieb nicht</note> unterzugehen fast<note>wie</note> einen ganzen Tag.</verse>
+        <verse osisID='Josh.10.14'>Und vor ihm und nach ihm war kein solcher Tag, daß Jehovah auf eines Mannes Stimme hörte; denn Jehovah stritt für Israel.</verse>
+        <verse osisID='Josh.10.15'>Und Joschua und ganz Israel mit ihm kehrte zum Lager nach Gilgal zurück.</verse>
+        <verse osisID='Josh.10.16'>Und diese fünf Könige flohen und versteckten sich in der Höhle in Makkedah.</verse>
+        <verse osisID='Josh.10.17'>Und man sagte es dem Joschua an und sprach: Die fünf Könige sind gefunden, in der Höhle in Makkedah versteckt.</verse>
+        <verse osisID='Josh.10.18'>Und Joschua sprach: Wälzet große Steine an die Mündung<note>den Mund</note> der Höhle und bestellet Männer darüber, die ihrer hüten.</verse>
+        <verse osisID='Josh.10.19'>Ihr aber bleibt nicht stehen, setzet hinter euren Feinden nach, schlagt von ihnen die Hintersten und laßt sie nicht in ihre Städte eingehen<note>gebt ihnen nicht einzugehen</note>; denn Jehovah, euer Gott, hat sie in eure Hand gegeben.</verse>
+        <verse osisID='Josh.10.20'>Und es geschah, als Joschua und die Söhne Israels vollendeten, und sie in der sehr großen Schlacht geschlagen hatten, bis sie alle wurden, und ein Rest von ihnen überblieb<note>ein Rest war</note>, und in die festen Städte gekommen war;</verse>
+        <verse osisID='Josh.10.21'>Da kehrte alles Volk im Frieden in das Lager zu Joschua nach Makkedah zurück. Und keiner durfte wider einen Mann der Söhne Israels die Zunge spitzen.</verse>
+        <verse osisID='Josh.10.22'>Und Joschua sprach: Öffnet die Mündung<note>den Mund</note> der Höhle und bringt diese fünf Könige zu mir heraus aus der Höhle.</verse>
+        <verse osisID='Josh.10.23'>Und sie taten so, und brachten zu ihm heraus aus der Höhle diese fünf Könige, den König von Jerusalem, den König von Chebron, den König von Jarmuth, den König von Lachisch, den König von Eglon.</verse>
+        <verse osisID='Josh.10.24'>Und es geschah, als man diese Könige zu Joschua herausgebracht hatte, da rief Joschua allen Männern von Israel und sprach zu den Anführern der Kriegsleute, die mit ihm gezogen: Nahet euch und setzet eure Füße auf die Hälse dieser Könige! Und sie nahten und setzten ihr Füße auf ihre Hälse.</verse>
+        <verse osisID='Josh.10.25'>Und Joschua sprach zu ihnen: Fürchtet euch nicht und entsetzet euch nicht, seid stark und rüstig; denn so wird Jehovah allen euren Feinden tun, mit denen ihr streitet.</verse>
+        <verse osisID='Josh.10.26'>Und Joschua schlug sie danach und tötete sie und hängte sie an fünf Bäume, und sie hingen an den Bäumen bis zum Abend.</verse>
+        <verse osisID='Josh.10.27'>Und es geschah zur Zeit, da die Sonne unterging, gebot Joschua, sie sollten sie von den Bäumen abnehmen, und sie warfen sie in die Höhle, in der sie sich versteckt hatten, und sie legten große Steine auf die Mündung<note>den Mund</note> der Höhle, bis auf diesen Tag.</verse>
+        <verse osisID='Josh.10.28'>Und Makkedah eroberte Joschua an demselben Tage und schlug sie und ihren König mit der Schärfe<note>mit dem Munde</note> des Schwertes; er verbannte sie und jede Seele, die darin war, und ließ keinen Rest verbleiben; und dem Könige von Makkedah tat er, wie er dem Könige von Jericho getan.</verse>
+        <verse osisID='Josh.10.29'>Und Joschua und ganz Israel mit ihm zog hinüber von Makkedah gegen Libnah und er stritt wider Libnah.</verse>
+        <verse osisID='Josh.10.30'>Und Jehovah gab auch sie in die Hand Israels und ihren König, und er schlug sie mit der Schärfe<note>mit dem Munde</note> des Schwertes, und jede Seele, die darin war; er ließ keinen Rest übrig<note>zum Reste sein</note>, und tat ihrem Könige, wie er dem König von Jericho getan.</verse>
+        <verse osisID='Josh.10.31'>Und Joschua und ganz Israel mit ihm zog hinüber von Libnah nach Lachisch, und er lagerte wider dieselbe und stritt mit ihr.</verse>
+        <verse osisID='Josh.10.32'>Und Jehovah gab Lachisch in die Hand Israels, und es eroberte sie am zweiten Tag, und schlug sie mit der Schärfe<note>mit dem Munde</note> des Schwertes und jede Seele darin, ganz so, wie er Libnah getan.</verse>
+        <verse osisID='Josh.10.33'>Damals zog Horam, König von Geser, herauf, um Lachisch beizustehen, aber Joschua schlug ihn und sein Volk, so daß er keinen Rest überließ.</verse>
+        <verse osisID='Josh.10.34'>Und Joschua zog hinüber und ganz Israel mit ihm, von Lachisch nach Eglon, und sie lagerten wider dieselbe und stritten mit ihr.</verse>
+        <verse osisID='Josh.10.35'>Und sie eroberten sie am selbigen Tage und schlugen sie mit der Schärfe<note>mit dem Munde</note> des Schwertes; und alle Seele, die darin war, verbannte er an selbigem Tage, ganz so wie er mit Lachisch getan hatte.</verse>
+        <verse osisID='Josh.10.36'>Und von Eglon zog Joschua und ganz Israel mit ihm hinauf nach Chebron, und sie stritten mit ihr.</verse>
+        <verse osisID='Josh.10.37'>Und sie eroberten sie, und schlugen sie und ihren König und alle ihre Städte, und jede Seele, die darin war, mit der Schärfe<note>mit dem Munde</note> des Schwertes; er ließ keinen Rest übrig, ganz so wie er Eglon getan hatte, und verbannte sie und jede Seele, die darin war.</verse>
+        <verse osisID='Josh.10.38'>Und Joschua und ganz Israel mit ihm kehrten zurück gen Debir und stritten mit ihr;</verse>
+        <verse osisID='Josh.10.39'>Und eroberte dasselbe und seinen König und alle seine Städte, und sie schlugen sie mit der Schärfe<note>mit dem Munde</note> des Schwertes, und sie verbannten jede Seele, die darinnen war, und ließen keinen Rest übrig. Wie er Chebron getan, so tat er Debir und ihrem Könige, und so wie er an Libnah und ihrem Könige getan hatte.</verse>
+        <verse osisID='Josh.10.40'>Und Joschua schlug das ganze Land, das Gebirge und das Mittagland<note>Negeb</note>, und die Niederung und die Abhänge, und alle ihre Könige, er ließ keinen Rest übrig, und verbannte alles, was Odem hatte, wie Jehovah, der Gott Israels, geboten hatte.</verse>
+        <verse osisID='Josh.10.41'>Und Joschua schlug sie von Kadesch-Barnea bis Gazah und das ganze Land Goschen bis Gibeon.</verse>
+        <verse osisID='Josh.10.42'>Und alle diese Könige und ihr Land eroberte Joschua mit einem Mal; denn Jehovah, der Gott Israels, stritt für Israel.</verse>
+        <verse osisID='Josh.10.43'>Und Joschua und ganz Israel mit ihm kehrte zum Lager nach Gilgal zurück.</verse>
+      </chapter>
+      <chapter osisID='Josh.11'>
+        <title>Die Kanaaniter.</title>
+        <verse osisID='Josh.11.1'>Und es geschah, da Jabin, der König von Chazor, es hörte, da sandte er an Jobab, den König von Madon und an den König von Schimron und an den König von Achschaph;</verse>
+        <verse osisID='Josh.11.2'>Und an die Könige, die von Mitternacht her auf dem Gebirge und auf dem Flachland<note>Arabah</note> gen Mittag von Kinneroth und in der Niederung und in Naphoth Dor vom Meere her waren;</verse>
+        <verse osisID='Josh.11.3'>An den Kanaaniter vom Aufgang her und vom Meere her<note>d.h. Westen</note> und den Amoriter und den Chethiter und den Pherisiter und den Jebusiter in dem Gebirge und den Chiviter unter dem Chermon im Lande Mizpah.</verse>
+        <verse osisID='Josh.11.4'>Und diese zogen aus, und all ihre Lager mit ihnen, viel Volkes wie der Sand am Ufer des Meeres<note>an der Lippe des Meeres</note> an Menge; und sehr viel Rosse und Streitwagen.</verse>
+        <verse osisID='Josh.11.5'>Und es taten sich zusammen alle diese Könige, und kamen und lagerten beisammen an den Wassern Merom, um mit Israel zu streiten.</verse>
+        <verse osisID='Josh.11.6'>Und Jehovah sprach zu Joschua: Fürchte dich nicht vor ihnen; denn morgen um diese Zeit gebe Ich sie alle erschlagen dahin vor Israel. Ihre Rosse sollst du lähmen und ihre Streitwagen im Feuer verbrennen.</verse>
+        <verse osisID='Josh.11.7'>Und Joschua und all das Kriegsvolk mit ihm kam plötzlich über sie an den Wassern Merom und fiel über sie her.</verse>
+        <verse osisID='Josh.11.8'>Und Jehovah gab sie in die Hand Israels; und sie schlugen sie und setzten ihnen nach bis Zidon, die große Stadt, und bis Misrephoth Majim und bis zur Talebene Mizpeh gegen Aufgang, und sie schlugen sie, bis ihnen kein Rest übrig war.</verse>
+        <verse osisID='Josh.11.9'>Und Joschua tat ihnen, wie ihm Jehovah gesagt hatte: Ihre Rosse lähmte er und verbrannte ihre Streitwagen im Feuer.</verse>
+        <verse osisID='Josh.11.10'>Und Joschua kehrte um in selbiger Zeit und eroberte Chazor, und schlug dessen König mit dem Schwert. Denn Chazor war vordem das Haupt aller dieser Königreiche.</verse>
+        <verse osisID='Josh.11.11'>Und jede Seele in ihr erschlugen sie mit der Schärfe<note>mit dem Munde</note> des Schwertes und verbannten es, so daß nichts überblieb, in dem Odem war. Und Chazor verbrannte er mit Feuer.</verse>
+        <verse osisID='Josh.11.12'>Und Joschua eroberte alle Städte dieser Könige und all ihre Könige, und schlug sie mit der Schärfe<note>mit dem Munde</note> des Schwertes und verbannte sie, wie Mose, der Knecht Jehovahs, geboten hatte.</verse>
+        <verse osisID='Josh.11.13'>Jedoch verbrannte Israel keine der Städte, die auf Anhöhen standen; nur Chazor allein verbrannte Joschua.</verse>
+        <verse osisID='Josh.11.14'>Und alle Beute dieser Städte und das Vieh nahmen die Söhne Israels als Raub für sich; nur die Menschen alle schlugen sie mit der Schärfe<note>mit dem Munde</note> des Schwertes, bis sie sie vernichtet hatten. Nichts, das Odem hatte, ließen sie verbleiben.</verse>
+        <verse osisID='Josh.11.15'>Wie Jehovah Seinem Knechte Mose geboten hatte, also gebot Mose dem Joschua; und also tat Joschua, und in keinem Worte wich dieser von allem ab, was Jehovah dem Mose geboten hatte.</verse>
+        <verse osisID='Josh.11.16'>Und Joschua nahm dies ganze Land, das Gebirge und das ganze Mittagsland, und das ganze Land Goschen und die Niederung, und das Flachland<note>Arabah</note>, und das Gebirge Israel und seine Niederung.</verse>
+        <verse osisID='Josh.11.17'>Von dem kahlen Berge, der aufsteigt gen Seir, bis Baal Gad in der Talebene des Libanon unten am Berge Chermon; und alle ihre Könige eroberte er und schlug und tötete sie.</verse>
+        <verse osisID='Josh.11.18'>Viele Tage hatte<note>machte</note> Joschua Streit mit allen diesen Königen.</verse>
+        <verse osisID='Josh.11.19'>Es war keine Stadt, die mit den Söhnen Israels Frieden machte, außer den Chivitern, den Einwohnern Gibeons; sie nahmen alle im Streit.</verse>
+        <verse osisID='Josh.11.20'>Denn von Jehovah war es, daß sie ihr Herz bestärkten, im Streite Israel zu begegnen, um sie zu verbannen, auf daß ihnen keine Gnade widerführe, sondern sie vernichtet würden, wie Jehovah Mose geboten hatte.</verse>
+        <verse osisID='Josh.11.21'>Und Joschua kam in selbiger Zeit und rottete die Enakim aus vom Gebirge, von Chebron, von Debir, von Anab, und vom ganzen Gebirge Judah und vom ganzen Gebirge Israel; mit ihren Städten verbannte sie Joschua.</verse>
+        <verse osisID='Josh.11.22'>Und man ließ keine Enakim im Lande der Söhne Israels übrigbleiben. Nur in Gazah, in Gath und in Aschdod verblieben sie.</verse>
+        <verse osisID='Josh.11.23'>Und Joschua nahm das ganze Land gemäß allem, was Jehovah zu Mose geredet hatte, und Joschua gab es Israel zum Erbe, nach den Teilen in ihren Stämmen<note>Ruten</note>, und das Land rastete vom Streit.</verse>
+      </chapter>
+      <chapter osisID='Josh.12'>
+        <title>Besiegte Könige.</title>
+        <verse osisID='Josh.12.1'>Und dies sind die Könige des Landes, welche die Söhne Israels schlugen und deren Land sie eingenommen, jenseits des Jordans gegen Aufgang der Sonne vom Bache Arnon bis zum Berge Chermon, und das ganze Flachland gegen Aufgang;</verse>
+        <verse osisID='Josh.12.2'>Sichon, der Amoriterkönig, der in Cheschbon wohnte<note>saß</note> und herrschte vor Aroer am Ufer<note>an der Lippe</note> des Baches Arnon und der Mitte des Baches und über die Hälfte von Gilead bis zum Bache Jabbok, der Grenze der Söhne Ammons;</verse>
+        <verse osisID='Josh.12.3'>Und über das Flachland<note>Arabah</note> bis zum Meer Kinneroth gegen Aufgang und bis zum Meer des Flachlandes<note>Arabah</note>, dem Salzmeer, gegen Aufgang auf dem Wege nach Beth-Jeschimoth, und im Süden unten an den Abhängen des Pisgah;</verse>
+        <verse osisID='Josh.12.4'>Und die Grenze Ogs, des Königs von Baschan, der von den Riesen<note>Rephaim</note> übrigblieb, und zu Aschtaroth und Edrei wohnte<note>saß</note>,</verse>
+        <verse osisID='Josh.12.5'>Und herrschte auf dem Berge Chermon und in Salchah und in ganz Baschan bis zur Grenze des Geschuriters und des Maachathiters, und über das halbe Gilead, zur Grenze Sichons, des Königs von Cheschbon.</verse>
+        <verse osisID='Josh.12.6'>Mose, der Knecht Jehovahs, und die Söhne Israels schlugen sie, und Mose, der Knecht Jehovahs, gab es als Erbbesitz dem Rubeniter und dem Gaditer und dem halben Stamm<note>Rute</note> Menascheh.</verse>
+        <verse osisID='Josh.12.7'>Und dies sind die Könige des Landes, die Joschua schlug und die Söhne Israels diesseits des Jordans, dem Meere zu von Baal-Gad in der Talebene des Libanons und bis zum kahlen Berg, der aufsteigt gen Seir; und Joschua gab es den Stämmen<note>Ruten</note> Israels nach ihren Teilen zum Erbbesitz.</verse>
+        <verse osisID='Josh.12.8'>Auf dem Gebirge und in der Niederung und in dem Flachlande<note>Arabah</note> und an den Abhängen und in der Wüste und im Mittagsland; die Chethiter, die Amoriter und die Kanaaniter, die Pherisiter, die Chiviter und die Jebusiter:</verse>
+        <verse osisID='Josh.12.9'>Der König von Jericho einer; der König von Ai, das zur Seite von Beth-El ist, einer.</verse>
+        <verse osisID='Josh.12.10'>Der König von Jerusalem einer; der König von Chebron einer;</verse>
+        <verse osisID='Josh.12.11'>Der König von Jarmuth einer; der König von Lachisch einer;</verse>
+        <verse osisID='Josh.12.12'>Der König von Eglon einer; der König von Geser einer;</verse>
+        <verse osisID='Josh.12.13'>Der König von Debir einer; der König von Geder einer;</verse>
+        <verse osisID='Josh.12.14'>Der König von Chorma einer; der König von Arad einer;</verse>
+        <verse osisID='Josh.12.15'>Der König von Libnah einer; der König von Adullam einer;</verse>
+        <verse osisID='Josh.12.16'>Der König von Makkedah einer; der König von Bethel einer;</verse>
+        <verse osisID='Josh.12.17'>Der König von Tappuach einer; der König von Chepher einer;</verse>
+        <verse osisID='Josh.12.18'>Der König von Aphek einer; der König Laschscharon einer;</verse>
+        <verse osisID='Josh.12.19'>Der König von Madon einer; der König von Chazor einer;</verse>
+        <verse osisID='Josh.12.20'>Der König von Schimron-Meron einer; der König von Achschaph einer;</verse>
+        <verse osisID='Josh.12.21'>Der König von Taanach einer; der König von Megiddo einer;</verse>
+        <verse osisID='Josh.12.22'>Der König von Kedesch einer; der König von Jokneam am Karmel einer;</verse>
+        <verse osisID='Josh.12.23'>Der König von Dor zu Naphoth-Dor einer; der König von Gojim zu Gilgal einer;</verse>
+        <verse osisID='Josh.12.24'>Der König von Tirzah einer. Aller Könige sind es einunddreißig..</verse>
+      </chapter>
+      <chapter osisID='Josh.13'>
+        <title>Verteilung des Landes. - Gebiet der dritthalb Stämme.</title>
+        <verse osisID='Josh.13.1'>Und Joschua war alt und betagt<note>in die Tage gekommen</note>; und Jehovah sprach zu ihm: Du bist alt und betagt<note>in die Tage gekommen</note>, und vom Lande verbleibt noch sehr viel einzunehmen.</verse>
+        <verse osisID='Josh.13.2'>Das ist das verbleibende Land: alle Kreise der Philister und ganz Geschuri.</verse>
+        <verse osisID='Josh.13.3'>Von Schichor, welcher vor Ägypten ist, und bis zur Grenze von Ektron gegen Norden wird es dem Kanaaniter zugerechnet; fünf Philisterfürsten sind es: der Gassiter, der Aschdoditer, der Aschkeloniter, der Gathiter, der Ekroniter und der Aviter.</verse>
+        <verse osisID='Josh.13.4'>Vom Süden, das ganze Land des Kanaaniters und Mearah<note>d.h. die Schlucht</note> der Zidonier bis Aphekah bis an die Grenze der Amoriter.</verse>
+        <verse osisID='Josh.13.5'>Und das Land der Gibliter und der ganze Libanon gegen Aufgang der Sonne von Baal-Gad an unten am Berge Chermon, bis man nach Chamath kommt.</verse>
+        <verse osisID='Josh.13.6'>Alle, die auf dem Gebirge wohnen vom Libanon bis Misrephoth Maim, alle Zidonier werde Ich austreiben vor den Söhnen Israels. Nur verlose<note>lasse es fallen</note> es Israel zum Erbe, wie Ich dir geboten habe.</verse>
+        <verse osisID='Josh.13.7'>Und nun teile dies Land zum Erbe den neun Stämmen<note>Ruten</note> und dem halben Stamm<note>Rute</note> Menascheh.</verse>
+        <verse osisID='Josh.13.8'>Mit ihm hatte der Rubeniter und der Gaditer ihr Erbe genommen, das ihnen Mose gab jenseits des Jordans gegen Aufgang, wie Mose, der Knecht Gottes, ihnen gegeben hatte.</verse>
+        <verse osisID='Josh.13.9'>Von Aroer an, das am Ufer<note>an der Lippe</note> des Baches Arnon ist, und die Stadt in der Mitte des Baches, und die ganze Ebene Medebah bis Dibon.</verse>
+        <verse osisID='Josh.13.10'>Und alle Städte Sichons des Amoriter Königs, der in Cheschbon regierte, bis zur Grenze der Söhne Ammons.</verse>
+        <verse osisID='Josh.13.11'>Und Gilead und die Grenze der Geschuriter und Maachathiter und der ganze Berg Chermon und ganz Baschan bis Salchah.</verse>
+        <verse osisID='Josh.13.12'>Das ganze Königreich Ogs in Baschan, welcher in Aschtaroth und Edrei regierte. Er verblieb von dem Überreste der Riesen<note>Rephaim</note>. Und Mose schlug sie und trieb sie aus.</verse>
+        <verse osisID='Josh.13.13'>Und die Geschuriter und die Maachathiter trieben die Söhne Israels nicht aus; und Geschur und Maachath wohnen<note>sitzen</note> bis auf diesen Tag inmitten Israels.</verse>
+        <verse osisID='Josh.13.14'>Nur dem Stamme<note>Rute</note> Levi gab Er kein Erbe, die Feueropfer Jehovahs, des Gottes Israels, sind sein Erbe, wie Er zu ihm geredet hatte.</verse>
+        <verse osisID='Josh.13.15'>Und Mose gab dem Stamme der Söhne Ruben nach ihren Familien;</verse>
+        <verse osisID='Josh.13.16'>Und ihre Grenze war von Aroer, das am Ufer<note>an der Lippe</note> des Baches Arnon ist, und die Stadt, die in der Mitte des Baches ist, und die ganze Ebene bei Medebah.</verse>
+        <verse osisID='Josh.13.17'>Cheschbon und alle seine Städte, die in der Ebene<note>Mischor</note> sind, Dibon und Bamoth-Baal<note>Opferhöhen Baals</note> und Beth-Baal- Meon.</verse>
+        <verse osisID='Josh.13.18'>Und Jahzah und Kedemoth und Mephaath;</verse>
+        <verse osisID='Josh.13.19'>Und Kirjathajim und Sibmah und ZerethHaschachar auf dem Berge des Talgrundes;</verse>
+        <verse osisID='Josh.13.20'>Und Beth-Peor und die Abhänge des Pisgah, und Beth Hajeschimoth;</verse>
+        <verse osisID='Josh.13.21'>Und alle Städte der Ebene<note>Mischor</note> und das ganze Königreich Sichons, des Amoriterkönigs, der in Cheschbon regierte, den Mose schlug, und die Fürsten Midians Evi und Rekem und Zur und Chur und Reba, die Gesalbten Sichons, die im Lande wohnten<note>saßen</note>;</verse>
+        <verse osisID='Josh.13.22'>Und Bileam, den Sohn Beors, den Wahrsager, erwürgten die Söhne Israels mit dem Schwert, samt den Erschlagenen;</verse>
+        <verse osisID='Josh.13.23'>Und es war die Grenze der Söhne Rubens der Jordan und die Grenze. Dies ist das Erbe der Söhne Rubens nach ihren Familien, die Städte und ihre Dörfer.</verse>
+        <verse osisID='Josh.13.24'>Und Mose gab dem Stamme Gad, den Söhnen Gads, nach ihren Familien:</verse>
+        <verse osisID='Josh.13.25'>Und ihre Grenze war Jaeser und alle Städte Gileads und die Hälfte des Landes der Söhne Ammons bis Aroer, welches vor Rabbah ist;</verse>
+        <verse osisID='Josh.13.26'>Und von Cheschbon bis Ramath-Mizpeh und Betonim, und von Machanajim bis an die Grenze von Debir.</verse>
+        <verse osisID='Josh.13.27'>Und im Talgrunde Beth-Haram und Beth-Nimrah und Sukkoth und Zaphon, das übrige vom Königreiche des Sichon, des Königs von Cheschbon, war der Jordan die Grenze bis an das Ende des Meeres Kinneroth über dem Jordan nach dem Aufgang.</verse>
+        <verse osisID='Josh.13.28'>Dies ist das Erbe der Söhne Gads nach ihren Familien, die Städte und ihre Dörfer.</verse>
+        <verse osisID='Josh.13.29'>Und Mose gab dem halben Stamme Menascheh, und der halbe Stamm<note>Rute</note> der Söhne Menascheh sollte nach ihren Familien haben.</verse>
+        <verse osisID='Josh.13.30'>Als Grenze von Machanajim an ganz Baschan, das ganze Königreich Ogs, des Königs von Baschan, und alle Flecken Jairs, die in Baschan waren, sechzig Städte;</verse>
+        <verse osisID='Josh.13.31'>Und das halbe Gilead und Aschtaroth und Edrei, die Städte in dem Königreiche Ogs in Baschan, den Söhnen Machirs, des Sohnes von Menascheh, der Hälfte der Söhne Machirs, nach ihren Familien.</verse>
+        <verse osisID='Josh.13.32'>Dies ist es, was Mose in dem Flachlande<note>Arboth</note> Moabs jenseits des Jordans gegen Aufgang von Jericho als Erbe verteilte.</verse>
+        <verse osisID='Josh.13.33'>Und dem Stamm<note>Rute</note> Levi gab Mose kein Erbe. Jehovah, der Gott Israels, ist ihr Erbe, wie Er zu ihnen geredet hat.</verse>
+      </chapter>
+      <chapter osisID='Josh.14'>
+        <title>Austeilung Kanaans. Kalebs Erbteil.</title>
+        <verse osisID='Josh.14.1'>Und dies ist, was die Söhne Israels im Lande Kanaan als Erbe erhielten, das ihnen zum Erbe verteilten Eleasar, der Priester, und Joschua, der Sohn Nuns, und die Häupter der Väter der Stämme, der Söhne Israels.</verse>
+        <verse osisID='Josh.14.2'>Durch das Los, wie Jehovah durch Mose<note>Moses Hand</note> geboten hatte, verteilten sie das Erbe den neun Stämmen und dem halben Stamm.</verse>
+        <verse osisID='Josh.14.3'>Denn Mose hatte den zwei Stämmen und dem halben Stamm das Erbe jenseits des Jordans gegeben, und den Leviten gab er kein Erbe in ihrer Mitte.</verse>
+        <verse osisID='Josh.14.4'>Denn die Söhne Josephs wurden zwei Stämme: Menascheh und Ephraim; und den Leviten gaben sie keinen Teil im Lande, sondern Städte zum Wohnen und deren Weichbilde für ihre Viehherden und ihren Besitz.</verse>
+        <verse osisID='Josh.14.5'>Wie Jehovah Mose geboten hatte, so taten die Söhne Israels und verteilten das Land.</verse>
+        <verse osisID='Josh.14.6'>Und die Söhne Judahs traten herzu zu Joschua in Gilgal; und Kaleb, der Sohn Jephunnehs, der Kenissite, sprach zu ihm: Du weißt das Wort, das Jehovah zu Mose, dem Manne Gottes, in Kadesch Barnea meinetwegen und deinetwegen geredet hat.</verse>
+        <verse osisID='Josh.14.7'>Vierzig Jahre war ich alt<note>ein Sohn von 40 Jahren</note>, als Mose der Knecht Jehovahs, mich aus Kadesch Barnea sandte, das Land auszukundschaften, und ich brachte ihm Nachricht<note>Wort</note> zurück, wie es in meinem Herzen war.</verse>
+        <verse osisID='Josh.14.8'>Aber meine Brüder, die mit mir hinaufgezogen waren, machten das Herz des Volkes zerschmelzen; ich aber folgte Jehovah, meinem Gotte, völlig<note>erfüllte nach Jehovah</note>.</verse>
+        <verse osisID='Josh.14.9'>Und Mose schwur selbigen Tages und sprach: Fürwahr, das Land, das dein Fuß betreten hat, soll dir und deinen Söhnen zum Erbe sein ewiglich; denn du folgtest Jehovah, meinem Gotte, völlig<note>erfülltest nach Jehovah</note>.</verse>
+        <verse osisID='Josh.14.10'>Und nun siehe, Jehovah hat mich am Leben erhalten, wie Er geredet hat, diese fünfundvierzig Jahre, seit Jehovah dies Wort geredet hat zu Mose, da Israel in der Wüste zog, und nun siehe, ich bin diesen Tag fünfundachtzig Jahre alt<note>ein Sohn von 85 Jahren</note>.</verse>
+        <verse osisID='Josh.14.11'>Noch bin ich diesen Tag so stark, wie am Tage, da Mose mich sandte; wie meine Kraft war damals, so ist meine Kraft jetzt, zum Streit, zum Ausgang und zum Eingang.</verse>
+        <verse osisID='Josh.14.12'>Und nun, gib mir diesen Berg, davon Jehovah an selbigem Tag geredet hat. Denn du hast an demselben Tage gehört, daß Enakim<note>d.h. Riesen</note> dort sind, und große, feste Städte. Vielleicht ist Jehovah mit mir, daß ich sie austreibe, wie Jehovah geredet hat.</verse>
+        <verse osisID='Josh.14.13'>Und Joschua segnete ihn und gab Chebron dem Kaleb, dem Sohne Jephunnehs, zum Erbe.</verse>
+        <verse osisID='Josh.14.14'>Deshalb ward Chebron dem Kaleb, dem Sohne Jephunnehs, dem Kenissiten zum Erbe bis auf diesen Tag, darum, daß er Jehovah, dem Gotte Israels, völlig gefolgt<note>erfüllte nach Jehovah</note>.</verse>
+        <verse osisID='Josh.14.15'>Und der Name Chebron war vordem Kirjath Arbah<note>d.h. Stadt des Arbah</note>, eines Menschen, der groß war unter den Enakim; und das Land rastete vom Krieg.</verse>
+      </chapter>
+      <chapter osisID='Josh.15'>
+        <title>Judah.</title>
+        <verse osisID='Josh.15.1'>Und das Los für den Stamm der Söhne Judahs nach ihren Familien war an der Grenze Edoms, die Wüste Zin, gegen Mittag am südlichen Ende.</verse>
+        <verse osisID='Josh.15.2'>Und ihre Mittagsgrenze war vom Ende des Salzmeeres an, von der Zunge, die sich gegen Mittag wendet.</verse>
+        <verse osisID='Josh.15.3'>Und ging hinaus mittäglich von Maaleh Akrabbim<note>d.h. Skorpionensteig</note> und ging hinüber nach Zin und stieg mittäglich von Kadesch Barnea auf, und ging hinüber nach Chezron und stieg auf nach Addar und wandte sich nach Karka um.</verse>
+        <verse osisID='Josh.15.4'>Und ging hinüber nach Azmon und ging aus am Bache Ägyptens, und die Ausläufe der Grenze waren nach dem Meere hin. Dies soll eure Mittagsgrenze sein.</verse>
+        <verse osisID='Josh.15.5'>Und die Grenze nach Osten ist das Salzmeer bis an das Ende des Jordans. Und die Grenze nach der Seite<note>Ecke</note> gegen Mitternacht ist von der Meereszunge an vom Ende des Jordans.</verse>
+        <verse osisID='Josh.15.6'>Und die Grenze steigt auf nach Beth-Choglah, und geht hinüber von Mitternacht nach Beth-Arabah, und die Grenze steigt auf nach dem Stein Bohans, des Sohnes Rubens.</verse>
+        <verse osisID='Josh.15.7'>Und die Grenze steigt auf gen Debir vom Talgrunde Achor, und Mitternacht zu wendet sie sich gen Gilgal, der Maaleh Adummim<note>d.h. dem Steige Adummim</note> stracks gegenüber, welches auf der Mittagseite des Baches liegt. Und die Grenze geht hinüber zu den Wassern von En-Schemesch<note>d.h. die Sonnenquelle</note>, und seine Ausläufe gehen bis En-Rogel<note>d.h. die Walkerquelle</note>.</verse>
+        <verse osisID='Josh.15.8'>Und die Grenze steigt auf nach der Schlucht Ben Hinnom<note>d.h. Sohn des Hinnoms</note> auf der Mittagseite<note>d.h. der südlichen Schulter</note> des Jebusiters, das ist von Jerusalem, und von da steigt die Grenze auf die Spitze<note>das Haupt</note> des Berges, der vor Ge Hinnom<note>d.h. Schlucht Hinnoms</note> ist, dem Meere zu, am Ende des Talgrundes Rephaim<note>d.h. der Riesen</note> gegen Mitternacht.</verse>
+        <verse osisID='Josh.15.9'>Und vom Gipfel<note>d.h. das Haupt</note> des Berges erstreckt sich die Grenze hin nach dem Brunnquell der Wasser von Nephthoach und geht aus nach den Städten des Berges Ephron und die Grenze erstreckt sich nach Baalah, das ist Kirjath Jearim<note>d.h. die Stadt der Wälder</note>.</verse>
+        <verse osisID='Josh.15.10'>Und die Grenze wendet sich herum von Baalah nach dem Meere zum Berge Seir und geht hinüber an die Mitternachtseite<note>Mitternachtschulter</note> des Jearimgebirges, das ist Chesalon, und geht hinab nach Beth-Schemesch<note>d.h. das Sonnenhaus</note> und geht hinüber nach Timnah.</verse>
+        <verse osisID='Josh.15.11'>Und die Grenze geht aus nach der Mitternachtseite<note>Mitternachtschulter</note> von Ekron; und die Grenze erstreckte sich nach Schikkeron und geht hinüber nach dem Berg von Baalah und geht aus nach Jabneel, und die Ausläufe der Grenze sind dem Meere zu.</verse>
+        <verse osisID='Josh.15.12'>Und die Meeresgrenze ist am großen Meer und seiner Grenze. Dies ist die Grenze der Söhne Judah ringsum nach ihren Familien.</verse>
+        <verse osisID='Josh.15.13'>Und dem Kaleb, dem Sohne Jephunnehs, gab man nach Jehovahs Befehl<note>Munde</note> an Joschua als Teil inmitten der Söhne Judahs Kirjath Arbah<note>d.h. Stadt des Arbah</note> des Vaters des Enak, das ist Chebron.</verse>
+        <verse osisID='Josh.15.14'>Und Kaleb trieb aus von da die drei Söhne Enaks, Scheschai und Achiman und Thalmai, die Enakskinder.</verse>
+        <verse osisID='Josh.15.15'>Und von dannen zog er hinauf gegen die Einwohner Debirs, und der Name Debirs war vordem Kirjath Sepher<note>d.h. Stadt des Buches</note>.</verse>
+        <verse osisID='Josh.15.16'>Und Kaleb sprach: Wer Kirjath Sepher schlägt und es erobert, dem gebe ich meine Tochter Achsah zum Weibe.</verse>
+        <verse osisID='Josh.15.17'>Und Othniel, Sohn von Kenas, Kalebs Bruder, eroberte sie, und er gab ihm seine Tochter Achsah zum Weib.</verse>
+        <verse osisID='Josh.15.18'>Und es geschah, als sie einzog, trieb sie ihn an, von ihrem Vater Feld zu erbitten; und sie ließ sich vom Esel herab und Kaleb sprach zu ihr: Was ist dir?</verse>
+        <verse osisID='Josh.15.19'>Und sie sprach: Gib mir einen Segen; du hast mir ein Mittagsland gegeben, so gib mir auch Wasser. Und er gab ihr die oberen Wasserquellen und die unteren Wasserquellen.</verse>
+        <verse osisID='Josh.15.20'>Dies ist das Erbe des Stammes der Söhne Judahs nach seinen Familien.</verse>
+        <verse osisID='Josh.15.21'>Und es waren die Städte vom Ende des Stammes der Söhne Judahs an der Grenze Edoms gen Mittag: Kabzeel und Eder und Jagur.</verse>
+        <verse osisID='Josh.15.22'>Und Kinah und Dimonah und Adadah.</verse>
+        <verse osisID='Josh.15.23'>Und Kadesch und Chazor und Jithnan.</verse>
+        <verse osisID='Josh.15.24'>Siph und Telem und Bealoth.</verse>
+        <verse osisID='Josh.15.25'>Und Chazor, Chadathah und Kerijoth, Chezron, das ist Chazor.</verse>
+        <verse osisID='Josh.15.26'>Amam und Schema und Moladah.</verse>
+        <verse osisID='Josh.15.27'>Und Chazar-Gaddah und Cheschmon und Beth Pelet.</verse>
+        <verse osisID='Josh.15.28'>Und Chazar Schual<note>d.h. Fuchshof</note> und Beerschabah und Bisjothjah.</verse>
+        <verse osisID='Josh.15.29'>Baalah und Ijim und Ezem.</verse>
+        <verse osisID='Josh.15.30'>Und Eltholad und Chesil und Chormah.</verse>
+        <verse osisID='Josh.15.31'>Und Ziklag und Madmannah und Sansannah.</verse>
+        <verse osisID='Josh.15.32'>Und Lebaoth und Schilchim und Ain und Rimmon, im ganzen neunundzwanzig Städte und ihre Dörfer.</verse>
+        <verse osisID='Josh.15.33'>In der Niederung Eschthaol und Zorah und Aschnah.</verse>
+        <verse osisID='Josh.15.34'>Und Sanoach, und En-Gannim, Tappuach und Enam.</verse>
+        <verse osisID='Josh.15.35'>Jarmuth und Adullam, Sochoh und Asekah.</verse>
+        <verse osisID='Josh.15.36'>Und Schaarajim und Adithaim und Gederah und Gederothajim, vierzehn Städte und ihre Dörfer.</verse>
+        <verse osisID='Josh.15.37'>Zenan und Chadaschah und Migdal-Gad.</verse>
+        <verse osisID='Josh.15.38'>Und Dilean, Mizpeh<note>d.h. Warte</note> und Joktheel;</verse>
+        <verse osisID='Josh.15.39'>Lachisch und Bozkath und Eglon;</verse>
+        <verse osisID='Josh.15.40'>Und Chabbon und Lachmas und Kithlisch;</verse>
+        <verse osisID='Josh.15.41'>Und Gederoth, Beth-Dagon und Naamah und Makkedah; sechzehn Städte und ihre Dörfer;</verse>
+        <verse osisID='Josh.15.42'>Libnah und Ether und Aschan;</verse>
+        <verse osisID='Josh.15.43'>Und Jiphtach und Aschnah und Nezib;</verse>
+        <verse osisID='Josh.15.44'>Kegilah und Achsib und Mareschah; neun Städte und ihre Dörfer.</verse>
+        <verse osisID='Josh.15.45'>Ekron und ihre Töchterstädte<note>Töchter</note> und ihre Dörfer;</verse>
+        <verse osisID='Josh.15.46'>Von Ekron ab und dem Meere zu alles, was zur Seite<note>Hand</note> von Aschdod ist, und ihre Dörfer;</verse>
+        <verse osisID='Josh.15.47'>Aschdod, seine Töchterstädte<note>Töchter</note> und seine Dörfer, Gassah, seine Töchterstädte<note>Töchter</note> und seine Dörfer; bis an den Bach Ägyptens und an das große Meer und seine Grenze.</verse>
+        <verse osisID='Josh.15.48'>Und auf dem Gebirge Schamir und Jathir und Sochoh;</verse>
+        <verse osisID='Josh.15.49'>Und Dannah und Kirjath-Sannah, das ist Debir.</verse>
+        <verse osisID='Josh.15.50'>Und Anab, Eschthemoh und Anim;</verse>
+        <verse osisID='Josh.15.51'>Und Goschen und Cholon und Giloh, elf Städte und ihre Dörfer;</verse>
+        <verse osisID='Josh.15.52'>Arab und Dumah und Eschan;</verse>
+        <verse osisID='Josh.15.53'>Und Janum und Beth-Tappuach und Aphekah;</verse>
+        <verse osisID='Josh.15.54'>Und Chummetah und Kirjath-Arbah, das ist Chebron, und Zior, neun Städte und ihre Dörfer;</verse>
+        <verse osisID='Josh.15.55'>Maon, Karmel und Siph und Jutah;</verse>
+        <verse osisID='Josh.15.56'>Und Jisreel und Jokdeam und Sanoach;</verse>
+        <verse osisID='Josh.15.57'>Kajin, Gibeah und Timnah, zehn Städte und ihre Dörfer;</verse>
+        <verse osisID='Josh.15.58'>Chalchul, Beth-Zur und Gedor.</verse>
+        <verse osisID='Josh.15.59'>Und Maarath und Beth und Anoth und Elthekon, sechs Städte und ihre Dörfer;</verse>
+        <verse osisID='Josh.15.60'>Kirjath Baal<note>d.h. Stadt des Herrn</note> das ist Kirjath Jearim<note>d.h. Stadt der Wälder</note> und Rabbah, zwei Städte und ihre Dörfer;</verse>
+        <verse osisID='Josh.15.61'>In der Wüste Beth-Arabah, Middin und Sechachah;</verse>
+        <verse osisID='Josh.15.62'>Und Nibschan und Ir-Hammelach<note>d.h. Salzstadt</note> und En-Gedi, sechs Städte und ihre Dörfer.</verse>
+        <verse osisID='Josh.15.63'>Und die Jebusiter, die in Jerusalem wohnen, vermochten die Söhne Judahs nicht auszutreiben; und der Jebusiter wohnt mit den Söhnen Judahs in Jerusalem bis auf diesen Tag.</verse>
+      </chapter>
+      <chapter osisID='Josh.16'>
+        <title>Erbteil Josephs.</title>
+        <verse osisID='Josh.16.1'>Und für die Söhne Josephs kam heraus das Los vom Jordan bei Jericho an die Wasser von Jericho gegen Aufgang; die Wüste hinaufsteigend von Jericho in das Gebirge nach Bethel.</verse>
+        <verse osisID='Josh.16.2'>Und sie ging aus von Bethel gen Lus und zog sich hinüber nach der Grenze des Architers nach Ataroth;</verse>
+        <verse osisID='Josh.16.3'>Und ging hinab dem Meere zu an die Grenze des Japhletiters bis zur Grenze des unteren Beth-Chorons und bis nach Geser, und seine Ausläufe waren an das Meer.</verse>
+        <verse osisID='Josh.16.4'>Und die Söhne Josephs erhielten es als Erbe, Menascheh und Ephraim.</verse>
+        <verse osisID='Josh.16.5'>Und die Grenze der Söhne Ephraims nach ihren Familien war: die Grenze ihres Erbes war aber gegen den Aufgang von Atroth-Addar bis gegen das obere Beth-Choron.</verse>
+        <verse osisID='Josh.16.6'>Und die Grenze ging hinaus nach dem Meere, gen Michmethath nördlich; und die Grenze wandte sich herum nach dem Aufgang bis Thaanath-Schiloh und zog sich hinüber vom Aufgang gen Janochah;</verse>
+        <verse osisID='Josh.16.7'>Und ging hinab von Janochah nach Ataroth und Naarath und stieß an Jericho und ging aus an den Jordan.</verse>
+        <verse osisID='Josh.16.8'>Von Tappuach ging die Grenze dem Meere zu gen Nachal Kanah<note>d.h. den Bach des Schilfrohrs</note>. Und ihre Ausläufe waren an das Meer. Dies ist das Erbe des Stammes der Söhne Ephraims nach ihren Familien.</verse>
+        <verse osisID='Josh.16.9'>Und die den Söhnen Ephraims ausgeschiedenen Städte waren inmitten des Erbes der Söhne Menaschehs, alle Städte und ihre Dörfer.</verse>
+        <verse osisID='Josh.16.10'>Sie trieben aber die Kanaaniter, die in Geser wohnten, nicht aus; und der Kanaaniter wohnt<note>sitzt</note> mitten unter Ephraim bis auf diesen Tag und wurde zum zinsbaren Knechte.</verse>
+      </chapter>
+      <chapter osisID='Josh.17'>
+        <title>Erbteil der anderen Hälfte Menaschehs.</title>
+        <verse osisID='Josh.17.1'>Und es ward ein Los dem Stamme Menaschehs, denn er war der Erstgeborene Josephs: an Machir, den Erstgeborenen Menaschehs, den Vater des Gilead; denn er war ein Kriegsmann, und es ward ihm Gilead und Baschan.</verse>
+        <verse osisID='Josh.17.2'>Und die übrigen Söhne Menaschehs nach ihren Familien: an die Söhne Abiesers und an die Söhne Cheleks und an die Söhne Asriels und an die Söhne Schechems und an die Söhne Chephers und an die Söhne Schemidas. Dies sind die Söhne Menaschehs, des Sohnes Josephs, die männlichen nach ihren Familien.</verse>
+        <verse osisID='Josh.17.3'>Und Zelophchad, der Sohn Chephers ein Sohn Gileads, des Sohnes Machirs, des Sohnes Menaschehs, hatte keine Söhne, sondern nur Töchter. Und dies sind die Namen seiner Töchter: Machlah und Noah, Choglah, Milkah und Thirzah.</verse>
+        <verse osisID='Josh.17.4'>Und sie nahten vor Eleasar, den Priester, und vor Joschua, den Sohn Nuns, und die Fürsten<note>Erhabenen</note> und sprachen: Jehovah hat dem Mose geboten, uns ein Erbe inmitten unserer Brüder zu geben; und er gab ihnen nach dem Munde Jehovahs ein Erbe in der Mitte der Brüder ihres Vaters.</verse>
+        <verse osisID='Josh.17.5'>Und es fielen auf Menascheh zehn Erbteile, außer dem Lande Gilead und Baschan, jenseits des Jordans.</verse>
+        <verse osisID='Josh.17.6'>Denn die Töchter Menaschehs erbten ein Erbe in der Mitte seiner Söhne, und das Land Gilead ward den übrigen Söhnen Menaschehs.</verse>
+        <verse osisID='Josh.17.7'>Und es war die Grenze Menaschehs von Ascher bis Michmethath, welches vor Schechem ist, und es ging die Grenze zur Rechten zu den Einwohnern von En-Tappuach;</verse>
+        <verse osisID='Josh.17.8'>Dem Menascheh ward das Land Tappuach; aber Tappuach an der Grenze Menaschehs ward den Söhnen Ephraims. Jos.16/8f.</verse>
+        <verse osisID='Josh.17.9'>Und die Grenze ging hinab an Nachal Kanah auf der Mittagseite von dem Bache. Diese Städte sind Ephraims in der Mitte der Städte Menaschehs. Und die Grenze Menaschehs war nördlich vom Bache; und ihre Ausläufe waren an das Meer.</verse>
+        <verse osisID='Josh.17.10'>Nach Mittag war es des Ephraim und nach Norden des Menascheh, und das Meer war seine Grenze; und an Ascher stießen sie gegen Mitternacht und gegen Aufgang an Issaschar.</verse>
+        <verse osisID='Josh.17.11'>Und des Menascheh waren in Issaschar und in Ascher: Beth-Schean und ihre Töchter- städte<note>Töchter</note>, und Jibleam und ihre Töchterstädte, und die Einwohner von Dor und ihre Töchterstädte, und die Einwohner von Endor und deren Töchterstädte, und die Einwohner von Thaanach und ihre Töchterstädte, und die Einwohner von Megiddo und ihre Töchterstädte, drei Landstriche.</verse>
+        <verse osisID='Josh.17.12'>Und die Söhne Menaschehs vermochten nicht diese Städte einzunehmen und ließen den Kanaaniter im Lande wohnen<note>sitzen</note>.</verse>
+        <verse osisID='Josh.17.13'>Und es geschah, als die Söhne Israels stärker wurden, machten<note>gaben</note> sie sich den Kanaaniter zinsbar, trieben ihn aber nicht aus.</verse>
+        <verse osisID='Josh.17.14'>Und die Söhne Josephs redeten zu Joschua und sagten: Warum hast du mir nur ein Los und einen Erbteil zum Erbe gegeben, und ich habe viel Volks, sintemal Jehovah mich so gesegnet hat?</verse>
+        <verse osisID='Josh.17.15'>Und Joschua sprach zu ihnen: Wenn du viel Volk hast, so zieh hinauf in den Wald und haue ihn dir dort nieder, im Lande der Pherisiter und der Rephaim, so euch zu eng ist das Gebirge Ephraim!</verse>
+        <verse osisID='Josh.17.16'>Und die Söhne Josephs sprachen: Den Berg werden wir nicht erlangen<note>wird nicht erfunden</note>, und alle Kanaaniter, die in dem Lande des Talgrundes wohnen, die in Beth-Schean und ihren Töchterstädten<note>Töchter</note> und die im Tale Jesreel haben eiserne Streitwagen.</verse>
+        <verse osisID='Josh.17.17'>Und Joschua sprach zu dem Hause Joseph, zu Ephraim und Menascheh und sagte: Viel Volks hast du und hast große Kraft. Du sollst nicht ein Los haben;</verse>
+        <verse osisID='Josh.17.18'>Sondern einen Berg sollst du haben, da Wald ist, und so du ihn niederhaust, sollen seine Ausläufe dein sein, denn du wirst den Kanaaniter austreiben, so er auch eiserne Wagen hat, so stark ist er.</verse>
+      </chapter>
+      <chapter osisID='Josh.18'>
+        <title>Die Stiftshütte in Schiloh. - Verlosung des Landes.</title>
+        <verse osisID='Josh.18.1'>Und es versammelte sich die ganze Gemeinde der Söhne Israels in Schiloh und richteten daselbst das Versammlungszelt auf<note>machten wohnen</note>; denn das Land war vor ihnen unterworfen.</verse>
+        <verse osisID='Josh.18.2'>Und es waren noch sieben Stämme<note>Ruten</note> unter den Söhnen Israels übrig, denen noch nicht ein Erbe verteilt war.</verse>
+        <verse osisID='Josh.18.3'>Und Joschua sprach zu den Söhnen Israels: Wie lange wollt ihr lässig sein, hinzugehen und das Land einzunehmen, das Jehovah, der Gott eurer Väter, euch gegeben hat?</verse>
+        <verse osisID='Josh.18.4'>Gebet her für euch von je einem Stamm<note>Rute</note> drei Männer, daß ich sie sende und sie sich aufmachen und im Land umhergehen und es beschreiben zum Behuf<note>nach dem Munde</note> ihres Erbes und kommen zu mir.</verse>
+        <verse osisID='Josh.18.5'>Und ihr sollt es in sieben Teile teilen. Judah bleibe im Mittagsland in seinen Grenzen stehen, und das Haus Joseph bleibe auf seinen Grenzen im Norden stehen!</verse>
+        <verse osisID='Josh.18.6'>Und ihr sollt das Land in sieben Teile schreiben, und es zu mir hierher bringen, auf daß ich euch hier vor Jehovah, unserem Gott, das Los werfe.</verse>
+        <verse osisID='Josh.18.7'>Denn keinen Teil haben in eurer Mitte die Leviten; denn das Priestertum Jehovahs ist ihr Erbe. Und Gad und Ruben und der halbe Stamm<note>Rute</note> Menaschehs haben jenseits des Jordans gegen den Aufgang ihr Erbe, das ihnen Mose, der Knecht Jehovahs, gegeben hat, genommen.</verse>
+        <verse osisID='Josh.18.8'>Und die Männer machten sich auf und gingen. Und Joschua gebot denen, die gingen, das Land zu beschreiben und sprach: Gehet hin und durchwandelt das Land und beschreibt es und kommt zu mir zurück, auf daß ich hier vor Jehovah in Schiloh das Los für euch werfe.</verse>
+        <verse osisID='Josh.18.9'>Und die Männer gingen und durchzogen das Land und beschrieben es nach den Städten zu sieben Teilen in ein Buch und kamen zu Joschua in das Lager nach Schiloh.</verse>
+        <verse osisID='Josh.18.10'>Und Joschua warf für sie das Los in Schiloh vor Jehovah, und Joschua verteilte allda das Land den Söhnen Israels nach ihren Teilen.</verse>
+        <verse osisID='Josh.18.11'>Und herauf kam das Los des Stammes der Söhne Benjamins nach seinen Familien. Und die Grenze ihres Loses kam heraus zwischen den Söhnen Judahs und den Söhnen Josephs.</verse>
+        <verse osisID='Josh.18.12'>Und ihre Grenze war an der Nordecke am Jordan, und die Grenze stieg auf hinter<note>an der Schulter von Jericho</note> auf der Nordseite und ging hinauf auf den Berg gegen das Meer, und ihre Ausläufe waren nach der Wüste Beth Aven.</verse>
+        <verse osisID='Josh.18.13'>Und von dannen ging die Grenze hinüber nach Lus, an die Mittagseite von Lus<note>südliche Schulter von Lus</note>, das ist Bethel, und die Grenze geht hinab nach Atroth Addar auf den Berg, der an der Mittagseite des unteren Beth-Chorons ist.</verse>
+        <verse osisID='Josh.18.14'>Und die Grenze erstreckte sich und wendete sich herum zur Westseite<note>Ecke des Meeres</note> mittäglich von dem Berge, der gegen Mittag vor Beth-Choron liegt, und seine Ausläufe waren bis Kirjath-Baal, das ist Kirjath-Jearim, eine Stadt der Söhne Judahs. Dies ist die Westseite<note>Ecke des Meeres</note>.</verse>
+        <verse osisID='Josh.18.15'>Und die Mittagsecke ist vom Ende von Kirjath-Jearim, und die Grenze ging aus meerwärts, und ging aus nach dem Brunnquell der Wasser des Nephtoach.</verse>
+        <verse osisID='Josh.18.16'>Und die Grenze ging hinab nach dem Ende des Berges, der vor der Schlucht Ben-Hinnoms, die im Talgrunde Rephaim gegen Mitternacht ist, und ging hinab in die Schlucht Hinnoms zur Mittagseite<note>südliche Schulter von Lus</note> des Jebusiters und ging hinab bis En Rogel;</verse>
+        <verse osisID='Josh.18.17'>Und erstreckte sich von Mitternacht und ging hinaus nach En Schemesch<note>Sonnenquelle</note> und ging aus nach Geliloth, das der Steige Adummim gerade gegenüber, und geht hinab zum Stein Bohans, des Sohnes Rubens;</verse>
+        <verse osisID='Josh.18.18'>Und sie zog hinüber an die Seite<note>Schulter</note> der Arabah gegen Mitternacht und ging hinab nach der Arabah;</verse>
+        <verse osisID='Josh.18.19'>Und die Grenze ging hinüber nach dem Rücken<note>Schulter</note> von Beth-Choglah gegen Mitternacht, und waren seine Ausläufe, die Grenze nach der Zunge des Salzmeeres gegen Mitternacht an dem mittäglichen Ende des Jordans. Das ist die Grenze gegen Mittag.</verse>
+        <verse osisID='Josh.18.20'>Und der Jordan begrenzt es auf der Ostseite<note>Ostecke</note>. Das ist das Erbe der Söhne Benjamins nach ihren Grenzen ringsum nach ihren Familien.</verse>
+        <verse osisID='Josh.18.21'>Und die Städte des Stammes der Söhne Benjamins nach ihren Familien waren Jericho und Beth-Chogla und Emik Geziz<note>Talgrund Teziz</note>.</verse>
+        <verse osisID='Josh.18.22'>Und Beth-Arabah und Zemarajim und Bethel.</verse>
+        <verse osisID='Josh.18.23'>Und Avim und Parah und Ophrah.</verse>
+        <verse osisID='Josh.18.24'>Und Chephar Ammonai und Ophni und Geba, zwölf Städte und ihre Dörfer;</verse>
+        <verse osisID='Josh.18.25'>Gibeon und Ramah und Beeroth.</verse>
+        <verse osisID='Josh.18.26'>Und Mizpeh und Chephirah und Mozah.</verse>
+        <verse osisID='Josh.18.27'>Und Rekem und Jirpeel und Tharalah.</verse>
+        <verse osisID='Josh.18.28'>Und Zela, Eleph und Jebusi, das ist Jerusalem, Gibath, Kirjath, vierzehn Städte und ihre Dörfer. Das ist das Erbe der Söhne Benjamins nach ihren Familien.</verse>
+      </chapter>
+      <chapter osisID='Josh.19'>
+        <title>Die übrigen sechs Stämme. - Joschuas Anteil.</title>
+        <verse osisID='Josh.19.1'>Und das zweite Los kam heraus für Schimeon, für den Stamm der Söhne Schimeons nach ihren Familien; und ihr Erbe war inmitten des Erbes der Söhne Judahs.</verse>
+        <verse osisID='Josh.19.2'>Und für sie waren in ihrem Erbe: Beer-Schaba und Scheba und Moladah;</verse>
+        <verse osisID='Josh.19.3'>Und Chazar-Schual und Balah und Ezem;</verse>
+        <verse osisID='Josh.19.4'>Und Eltholad und Bethul und Chormah;</verse>
+        <verse osisID='Josh.19.5'>Und Ziklag und Beth Marchaboth und Chazar Susah;</verse>
+        <verse osisID='Josh.19.6'>Und Beth-Lebaoth und Scharuchen, dreizehn Städte und ihre Dörfer;</verse>
+        <verse osisID='Josh.19.7'>Ain, Rimmon und Ether und Aschan, vier Städte und ihre Dörfer;</verse>
+        <verse osisID='Josh.19.8'>Und alle Dörfer, die rings um diese Städte waren bis Baalath-Beer, Ramath-Negeb. Dies das Erbe des Stammes der Söhne Schimeons nach ihren Familien.</verse>
+        <verse osisID='Josh.19.9'>Von dem Erbteil<note>Stricke</note> der Söhne Judahs ward das Erbe der Söhne Schimeons; denn der Teil der Söhne Judahs war zu viel für sie und die Söhne Schimeons erbten in der Mitte ihres Erbes.</verse>
+        <verse osisID='Josh.19.10'>Und das dritte Los stieg auf für die Söhne Sebuluns nach ihren Familien und die Grenze ihres Erbes war bis Sarid;</verse>
+        <verse osisID='Josh.19.11'>Und ihre Grenze ging hinauf gegen das Meer und Maralah und stieß an den Bach vor Jokneam.</verse>
+        <verse osisID='Josh.19.12'>Und von Sarid wendete es sich herum nach Osten, nach dem Aufgang der Sonne nach der Grenze von Chisloth-Thabor und ging hinaus nach Dabrath und ging hinauf nach Japhia.</verse>
+        <verse osisID='Josh.19.13'>Und von da ging sie hinüber nach Osten nach dem Aufgang gen Gath-Chepher, gen Itha-Kazin und ging aus nach Rimmon- Methoar, Neah;</verse>
+        <verse osisID='Josh.19.14'>Und die Grenze wandte sich um dieses nördlich nach Channathon, und ihre Ausläufe waren in der Schlucht Jiphtach-El.</verse>
+        <verse osisID='Josh.19.15'>Und Kattath und Nahalal und Schimron und Jidalah und Bethlechem, zwölf Städte und ihre Dörfer.</verse>
+        <verse osisID='Josh.19.16'>Dies ist das Erbe der Söhne Sebuluns nach ihren Familien: Diese Städte und ihre Dörfer.</verse>
+        <verse osisID='Josh.19.17'>Für Issaschar kam das vierte Los heraus, für die Söhne Issaschars nach ihren Familien.</verse>
+        <verse osisID='Josh.19.18'>Und ihre Grenze war: Jisreel, Chessulloth und Schunem.</verse>
+        <verse osisID='Josh.19.19'>Und Chapharajim und Schion und Anacharath;</verse>
+        <verse osisID='Josh.19.20'>Und Rabbith und Kischjon und Ebez;</verse>
+        <verse osisID='Josh.19.21'>Und Remeth und En-Gannim und En-Chaddah und Beth-Pazzez;</verse>
+        <verse osisID='Josh.19.22'>Und stieß die Grenze an Thabor und Schachazimah und Beth-Schemesch, und waren die Ausläufe ihrer Grenze am Jordan. Sechzehn Städte und ihre Dörfer.</verse>
+        <verse osisID='Josh.19.23'>Das ist das Erbe des Stammes der Söhne Issaschars nach ihren Familien, die Städte und ihr Dörfer.</verse>
+        <verse osisID='Josh.19.24'>Und das fünfte Los kam heraus für den Stamm der Söhne Aschers nach ihren Familien.</verse>
+        <verse osisID='Josh.19.25'>Und ihre Grenze war: Chelkath und Chali und Beten und Achschaph.</verse>
+        <verse osisID='Josh.19.26'>Und Allammelech und Amad und Mischal; und dem Meere zu stieß sie an den Karmel und an Schichor-Libnath;</verse>
+        <verse osisID='Josh.19.27'>Und wandte sich zurück nach dem Aufgang der Sonne gen Beth-Dagon und stieß an Sebulun und an die Schlucht Jiphthach-El, nördlich von Beth-Emek und Negiel und ging hinaus nach Kabul zur Linken;</verse>
+        <verse osisID='Josh.19.28'>Und Ebron und Rechob und Chammon und Kanah bis Zidon, der großen<note>d.h. Stadt</note>;</verse>
+        <verse osisID='Josh.19.29'>Und die Grenze wandte sich zurück nach Ramah und bis zur Stadt Mizbar-Zor<note>d.h. der festen Stadt Tyrus</note>; und die Grenze wandte sich zurück nach Chosah, und ihre Ausläufe waren nach dem Meere hin vom Landstrich nach Achsib;</verse>
+        <verse osisID='Josh.19.30'>Und Ummah und Aphek und Rechob, zweiundzwanzig Städte und ihre Dörfer.</verse>
+        <verse osisID='Josh.19.31'>Dies ist das Erbe des Stammes der Söhne Aschers nach ihren Familien, diese Städte und ihre Dörfer.</verse>
+        <verse osisID='Josh.19.32'>Für die Söhne Naphthalis kam das sechste Los heraus, für die Söhne Naphthalis nach ihren Familien.</verse>
+        <verse osisID='Josh.19.33'>Und ihre Grenze war von Cheleph, von Elon in Zaanannim und Adami Nekeb und Jabneel bis Lakkum, und ihre Ausläufe waren an den Jordan.</verse>
+        <verse osisID='Josh.19.34'>Und die Grenze wandte sich zurück dem Meere zu nach Asnoth Thabor und ging von da aus nach Chukkok und stieß an Sebulun auf der Mittagseite und an Ascher stieß sie gegen das Meer, und am Jordan gegen Aufgang der Sonne an Judah.</verse>
+        <verse osisID='Josh.19.35'>Und feste Städte hatten sie: Ziddim, Zer und Chammath, Rakkath und Chinnereth.</verse>
+        <verse osisID='Josh.19.36'>Und Adamah und Ramah und Chazor.</verse>
+        <verse osisID='Josh.19.37'>Und Kedesch und Edrei und En-Chazor;</verse>
+        <verse osisID='Josh.19.38'>Und Jiron und Migdal-El, Chorem und Beth-Anath und Beth-Schemesch, neunzehn Städte und ihre Dörfer.</verse>
+        <verse osisID='Josh.19.39'>Dies ist das Erbe des Stammes der Söhne Naphthalis nach ihren Familien: die Städte und ihre Dörfer.</verse>
+        <verse osisID='Josh.19.40'>Für den Stamm der Söhne Dans nach ihren Familien kam heraus das siebente Los.</verse>
+        <verse osisID='Josh.19.41'>Und die Grenze ihres Erbes war: Zorah und Eschthaol und Ir-Schemesch;</verse>
+        <verse osisID='Josh.19.42'>Und Schaalabbin und Ajalon und Jithlah;</verse>
+        <verse osisID='Josh.19.43'>Und Elon und Timnatha und Ekron</verse>
+        <verse osisID='Josh.19.44'>Und Elthekeh und Gibbethon und Baa- lath.</verse>
+        <verse osisID='Josh.19.45'>Und Jehud und Bene-Barak<note>d.h. Söhne Baraks</note>, und Gath-Rimmon;</verse>
+        <verse osisID='Josh.19.46'>Und Me-Jarkon und Rakkon mit der Grenze gegen Japho<note>d.h. Joppe</note>.</verse>
+        <verse osisID='Josh.19.47'>Und die Grenze der Söhne Dans ging über sie hinaus, und die Söhne Dans zogen hinauf und stritten mit Leschem und eroberten sie und schlugen sie mit der Schärfe<note>mit dem Munde</note> des Schwertes und nahmen sie ein und wohnten<note>saßen</note> darin, und nannten Leschem Dan nach dem Namen ihres Vaters Dan.</verse>
+        <verse osisID='Josh.19.48'>Das ist das Erbe des Stammes der Söhne Dans nach ihren Familien, diese Städte und ihre Dörfer.</verse>
+        <verse osisID='Josh.19.49'>Und als sie die Erbverteilung des Landes nach seinen Grenzen vollendet hatten, da gaben die Söhne Israels Joschua, dem Sohne Nuns, ein Erbe in ihrer Mitte.</verse>
+        <verse osisID='Josh.19.50'>Nach dem Munde Jehovahs gaben sie ihm die Stadt, die er sich erbeten, Timnath-Serach, auf dem Gebirge Ephraim, und er baute die Stadt und wohnte<note>saß</note> darin.</verse>
+        <verse osisID='Josh.19.51'>Dies sind die Erbe, die Eleasar, der Priester, und Joschua, der Sohn Nuns, und die Häupter der Väter der Stämme der Söhne Israels in Schiloh vor Jehovah am Eingang des Versammlungszeltes durch das Los zum Erbe verteilten, und sie vollendeten die Verteilung des Landes.</verse>
+      </chapter>
+      <chapter osisID='Josh.20'>
+        <title>Freistädte.</title>
+        <verse osisID='Josh.20.1'>Und Jehovah redete zu Joschua und sprach:</verse>
+        <verse osisID='Josh.20.2'>Rede zu den Söhnen Israels und sprich: Nehmet euch<note>gebet für euch</note> die Zufluchtsstätte, von denen Ich zu euch durch Moses Hand geredet habe.</verse>
+        <verse osisID='Josh.20.3'>Auf daß dahin fliehe der Totschläger, der eine Seele aus Versehen und ohne Wissen geschlagen hat; und sie sollen euch eine Zuflucht vor dem Bluträcher sein.</verse>
+        <verse osisID='Josh.20.4'>Und der da flieht zu einer von diesen Städten, soll stehen am Eingang des Tores der Stadt, und soll vor den Ohren der Ältesten dieser Stadt seine Worte reden, und sie sollen ihn zu sich in die Stadt nehmen<note>sammeln</note> und ihm einen Ort geben, daß er bei ihnen wohne<note>sitze</note>.</verse>
+        <verse osisID='Josh.20.5'>Und so der Bluträcher ihm hinten nachsetzt, sollen sie den Totschläger nicht in seine Hand überantworten, weil er ohne Wissen seinen Genossen geschlagen hat, und hat ihn nicht seit gestern oder ehegestern gehaßt.</verse>
+        <verse osisID='Josh.20.6'>Und er wohne<note>sitze</note> in selbiger Stadt, bis daß er vor der Gemeinde zu Gericht stehe, bis daß sterbe der Hohepriester<note>große Priester</note>, der in denselben Tagen sein wird. Alsdann darf der Totschläger in seine Stadt und in sein Haus zurückkehren, zur Stadt, aus der er geflohen ist.</verse>
+        <verse osisID='Josh.20.7'>Und sie heiligten Kedesch im Galil<note>Kreis</note> auf dem Gebirge Naphthali und Schechem auf dem Gebirge Ephraim und Kirjath-Arbah, das ist Chebron, auf dem Gebirge Judah.</verse>
+        <verse osisID='Josh.20.8'>Und jenseits des Jordans bei Jericho nach dem Aufgang zu, gaben sie Bezer in der Wüste in der Ebene vom Stamme Rubens, und Ramoth in Gilead vom Stamme Gad, und Golan in Baschan vom Stamm Menascheh.</verse>
+        <verse osisID='Josh.20.9'>Dies waren die Städte, bestimmt für alle Söhne Israels und den Fremdling, der sich in ihrer Mitte aufhält, auf daß dahin fliehe jeder, der aus Versehen eine Seele schlägt, auf daß er nicht durch die Hand des Bluträchers sterbe, bis daß er vor der Gemeinde gestanden ist.</verse>
+      </chapter>
+      <chapter osisID='Josh.21'>
+        <title>Levitenstädte.</title>
+        <verse osisID='Josh.21.1'>Und es traten herzu die Häupter der Väter der Leviten zu Eleasar, dem Priester, und zu Joschua, dem Sohne Nuns, und zu den Häuptern der Stammväter der Söhne Israels;</verse>
+        <verse osisID='Josh.21.2'>Und redeten zu ihnen in Schiloh im Lande Kanaan und sprachen: Jehovah hat durch Moses Hand geboten, daß man uns Städte zum Wohnen und ihre Weichbilder für unser Vieh geben soll.</verse>
+        <verse osisID='Josh.21.3'>Und die Söhne Israels gaben den Leviten von ihrem Erbe, nach dem Ausspruch<note>Munde</note> Jehovahs, diese Städte und ihre Weichbilder.</verse>
+        <verse osisID='Josh.21.4'>Und es kam heraus das Los für die Familien der Kohathiter, und es wurden den Söhnen Aharons, des Priesters, aus den Leviten, vom Stamme Judah und vom Stamme der Schimeoniter und vom Stamme Benjamin durch das Los dreizehn Städte;</verse>
+        <verse osisID='Josh.21.5'>Und den übrigen Söhnen Kohaths von den Familien des Stammes Ephraim und vom Stamme Dan und vom halben Stamm Menascheh durch das Los zehn Städte;</verse>
+        <verse osisID='Josh.21.6'>Und den Söhnen Gerschons von den Familien des Stammes Issaschar und von dem Stamme Ascher und von dem Stamme Naphthali und dem halben Stamm Menascheh und Baschan durch das Los dreizehn Städte;</verse>
+        <verse osisID='Josh.21.7'>Den Söhnen Meraris nach ihren Familien vom Stamme Ruben und vom Stamme Gad und vom Stamme Sebulun zwölf Städte.</verse>
+        <verse osisID='Josh.21.8'>So gaben durch das Los die Söhne Israels den Leviten diese Städte und ihre Weichbilder, wie Jehovah durch die Hand Moses geboten hatte.</verse>
+        <verse osisID='Josh.21.9'>Und aus dem Stamme der Söhne Judahs und aus dem Stamme der Söhne Schimeons gaben sie diese Städte, die mit Namen genannt sind.</verse>
+        <verse osisID='Josh.21.10'>Und sie wurden den Söhnen Aharons von den Familien der Kohathiter, von den Söhnen Levis, denn ihnen ward das Los zuerst.</verse>
+        <verse osisID='Josh.21.11'>Und sie gaben ihnen Kirjath<note>die Stadt</note> Arbahs, des Vaters von Anok, das ist Chebron, auf dem Gebirge Judah und sein Weichbild rings um sie her.</verse>
+        <verse osisID='Josh.21.12'>Aber das Feld der Stadt und ihre Dörfer gaben sie Kaleb, dem Sohn Jephunnehs als Eigentum.</verse>
+        <verse osisID='Josh.21.13'>Und den Söhnen Aharons, des Priesters, gaben sie die Zufluchtsstadt für den Totschläger, Chebron und ihr Weichbild,</verse>
+        <verse osisID='Josh.21.14'>Und Jathir und ihr Weichbild und Eschthemoa und ihr Weichbild.</verse>
+        <verse osisID='Josh.21.15'>Und Cholon und ihr Weichbild und Debir und ihr Weichbild.</verse>
+        <verse osisID='Josh.21.16'>Und Ajin und ihr Weichbild, und Juttah und ihr Weichbild, und Beth Schemesch und ihr Weichbild, und neun Städte von diesen zwei Stämmen<note>Ruten</note>.</verse>
+        <verse osisID='Josh.21.17'>Und vom Stamme Benjamin Gibeon und ihr Weichbild, und Gebah und ihr Weichbild,</verse>
+        <verse osisID='Josh.21.18'>Und Anathoth und ihr Weichbild und Almon und ihr Weichbild, vier Städte.</verse>
+        <verse osisID='Josh.21.19'>Alle Städte der Söhne Aharons, des Priesters, waren dreizehn Städte und ihre Weichbilder.</verse>
+        <verse osisID='Josh.21.20'>Und den übrigen Familien der Söhne Kohaths, der Leviten von den Söhnen Kohaths, wurden Städte ihres Loses vom Stamme Ephraim.</verse>
+        <verse osisID='Josh.21.21'>Und sie gaben ihnen die Zufluchtsstadt für den Totschläger: Sichem und dessen Weichbild auf dem Gebirge Ephraim und Geser und ihr Weichbild,</verse>
+        <verse osisID='Josh.21.22'>Und Kibzajim und ihr Weichbild und Beth-Choron und ihr Weichbild, vier Städte;</verse>
+        <verse osisID='Josh.21.23'>Und vom Stamme Dan: Eltheke und ihr Weichbild und Gibbethon und ihr Weichbild,</verse>
+        <verse osisID='Josh.21.24'>Ajjalon und ihr Weichbild, Gath-Rimmon und ihr Weichbild, vier Städte.</verse>
+        <verse osisID='Josh.21.25'>Und von der Hälfte des Stammes Menascheh Thaanach und ihr Weichbild, zwei Städte.</verse>
+        <verse osisID='Josh.21.26'>Aller Städte waren es zehn mit ihren Weichbildern für die Familien der Söhne Kohaths, die noch übrig waren.</verse>
+        <verse osisID='Josh.21.27'>Und den Söhnen Gerschons von den Familien der Leviten gab man vom halben Stamm Menascheh die Zufluchtsstadt des Totschlägers: Golan in Baschan und ihr Weichbild, und Beeschtherah und ihr Weichbild, zwei Städte.</verse>
+        <verse osisID='Josh.21.28'>Und vom Stamme Issaschar Kischjon und ihr Weichbild, Dobrath und ihr Weichbild,</verse>
+        <verse osisID='Josh.21.29'>Jarmuth und ihr Weichbild, En-Gannim und ihr Weichbild, vier Städte.</verse>
+        <verse osisID='Josh.21.30'>Und vom Stamme Ascher Mischal und ihr Weichbild, Abdon und ihr Weichbild,</verse>
+        <verse osisID='Josh.21.31'>Chelkath und ihr Weichbild, und Rechob und ihr Weichbild, vier Städte.</verse>
+        <verse osisID='Josh.21.32'>Und vom Stamme Naphthali die Zufluchtsstadt für den Totschläger: Kedesch im Galil<note>Kreis</note> und ihr Weichbild, und ChammothDor und ihr Weichbild, und Karthan und ihr Weichbild, drei Städte.</verse>
+        <verse osisID='Josh.21.33'>Alle Städte der Gerschumiter nach ihren Familien waren dreizehn Städte und ihre Weichbilder.</verse>
+        <verse osisID='Josh.21.34'>Und den Familien der Söhne Meraris, den Leviten, die noch übrig waren vom Stamme Sebulun: Jokneam und ihr Weichbild, Karthah und ihr Weichbild.</verse>
+        <verse osisID='Josh.21.35'>Dimnah und ihr Weichbild, und Nahalal und ihr Weichbild, vier Städte.</verse>
+        <verse osisID='Josh.21.36'>Und vom Stamme Ruben: Bezer und ihr Weichbild, und Jahzah und ihr Weichbild,</verse>
+        <verse osisID='Josh.21.37'>Kedemoth und ihr Weichbild, und Mephaath und ihr Weichbild, vier Städte.</verse>
+        <verse osisID='Josh.21.38'>Und vom Stamme Gad die Zufluchtsstadt für den Totschläger: Ramoth in Gilead und ihr Weichbild und Machanajim und ihr Weichbild,</verse>
+        <verse osisID='Josh.21.39'>Cheschbon und ihr Weichbild, und Jaser und ihr Weichbild; aller Städte waren es vier.</verse>
+        <verse osisID='Josh.21.40'>Alle Städte der Söhne Meraris nach ihren Familien, die übrig waren von den Familien der Leviten, und ihr Los waren zwölf Städte.</verse>
+        <verse osisID='Josh.21.41'>Alle Städte der Leviten in der Mitte des Eigentums der Söhne Israels waren achtundvierzig Städte und ihre Weichbilder.</verse>
+        <verse osisID='Josh.21.42'>Dies waren die Städte, jede Stadt<note>eine Stadt, eine Stadt</note> und ihr Weichbild rings um sie her. So war es bei allen diesen Städten.</verse>
+        <verse osisID='Josh.21.43'>Und Jehovah gab Israel das ganze Land, das Er seinen Vätern zu geben geschworen hatte, und sie nahmen es ein und wohnten<note>saßen</note> darin.</verse>
+        <verse osisID='Josh.21.44'>Und Jehovah ließ sie ruhen von denen ringsum, nach allem, das Er ihren Vätern geschworen hatte. Und kein Mann stand vor ihnen von allen ihren Feinden. Alle ihre Feinde gab Jehovah in ihre Hand;</verse>
+        <verse osisID='Josh.21.45'>Und es fiel kein Wort von all dem guten Worte, das Jehovah zu dem Hause Israel geredet hatte, alles kam zu.</verse>
+      </chapter>
+      <chapter osisID='Josh.22'>
+        <title>Der Altar der dritthalb Stämme.</title>
+        <verse osisID='Josh.22.1'>Nun rief Joschua den Rubeniten und den Gaditen und den halben Stamm Menascheh,</verse>
+        <verse osisID='Josh.22.2'>Und sprach zu ihnen: Ihr habt alles gehalten, was euch Mose, der Knecht Jehovahs, geboten, und habt gehört auf meine Stimme in allem, was ich euch gebot.</verse>
+        <verse osisID='Josh.22.3'>Ihr habt diese vielen Tage eure Brüder nicht verlassen bis auf diesen Tag, und die Verordnung, das Gebot Jehovahs, eures Gottes, gehalten.</verse>
+        <verse osisID='Josh.22.4'>Und nun läßt Jehovah, euer Gott, eure Brüder ruhen, wie Er zu ihnen geredet hatte. So wendet euch denn und ziehet auch nach euren Zelten in das Land eures Eigentums, das euch Mose, der Knecht Jehovahs, jenseits des Jordan gegeben hat.</verse>
+        <verse osisID='Josh.22.5'>Nur hütet euch sehr, daß ihr tut das Gebot und das Gesetz, das euch Mose, der Knecht Jehovahs, geboten hat, daß ihr liebet Jehovah, euren Gott, und in all Seinen Wegen wandelt und haltet Seine Gebote, und Ihm dienet von eurem ganzen Herzen und von eurer ganzen Seele.</verse>
+        <verse osisID='Josh.22.6'>Und Joschua segnete sie und entließ sie, und sie zogen nach ihren Zelten.</verse>
+        <verse osisID='Josh.22.7'>Und dem einen halben Stamm<note>Rute</note> Menascheh hatte Mose in Baschan gegeben, und dem anderen halben gab Joschua mit ihren Brüdern diesseits des Jordan dem Meere zu; und als Joschua sie entließ zu ihren Zelten, segnete er sie auch,</verse>
+        <verse osisID='Josh.22.8'>Und sprach zu ihnen und sagte: Kehret zurück zu euren Zelten mit vielem Wohlstand und mit sehr vielen Viehherden, mit Silber und mit Gold, und mit Erz und mit Eisen und mit sehr vielen Gewändern. Teilet die Beute von euren Feinden mit euren Brüdern.</verse>
+        <verse osisID='Josh.22.9'>Und sie kehrten zurück, die Söhne Rubens und die Söhne Gads und der halbe Stamm<note>Rute</note> Menascheh, und sie gingen von den Söhnen Israels von Schiloh im Lande Kanaan, daß sie in das Land Gilead in das Land ihres Eigentums zogen, das sie nach dem Befehl<note>Munde</note> Jehovahs durch Moses Hand zum Eigentum hatten.</verse>
+        <verse osisID='Josh.22.10'>Und sie kamen in die Kreise des Jordans, im Lande Kanaan, und die Söhne Rubens und die Söhne Gads und der halbe Stamm<note>Rute</note> Menascheh bauten allda am Jordan einen Altar, einen Altar groß zum Ansehen.</verse>
+        <verse osisID='Josh.22.11'>Und die Söhne Israels hörten sagen: Siehe, die Söhne Rubens und die Söhne Gads und der halbe Stamm<note>Rute</note> Menascheh haben den Altar gebaut dem Lande Kanaan gegenüber, in den Kreisen des Jordans, jenseits der Söhne Israels.</verse>
+        <verse osisID='Josh.22.12'>Und die Söhne Israels hörten es, und es versammelte sich die ganze Gemeinde der Söhne Israels nach Schiloh, um wider sie hinaufzuziehen zum Heerzug.</verse>
+        <verse osisID='Josh.22.13'>Und die Söhne Israels sandten an die Söhne Rubens und an die Söhne Gads und an den halben Stamm<note>Rute</note> Menascheh nach dem Lande Gilead, Pinechas, den Sohn Eleasars, des Priesters,</verse>
+        <verse osisID='Josh.22.14'>Und zehn Fürsten<note>Erhabene</note> mit ihm, je einen Fürsten<note>ein Erhabener, ein Erhabener</note> auf das Vaterhaus für alle Stämme Israels, und deren jeder Mann das Haupt des Hauses seiner Väter unter den Tausenden Israels.</verse>
+        <verse osisID='Josh.22.15'>Und sie kamen zu den Söhnen Rubens und zu den Söhnen Gads und zu dem halben Stamm<note>Rute</note> Menascheh, nach dem Lande Gilead und redeten mit ihnen und sprachen:</verse>
+        <verse osisID='Josh.22.16'>Also hat die ganze Gemeinde Jehovahs gesprochen: Was ist diese Untreue, daß ihr dem Gotte Israels untreu geworden seid, daß ihr euch heute von Jehovah zurückgewendet, indem ihr euch einen Altar gebaut habt, so daß ihr euch heute wider Jehovah empört habt?</verse>
+        <verse osisID='Josh.22.17'>Ist es uns zu wenig an der Missetat von Peor, von der wir uns nicht gereinigt bis auf diesen Tag und ob der die Plage über die Gemeinde Jehovahs kam?</verse>
+        <verse osisID='Josh.22.18'>Und ihr wendet euch heute von Jehovah zurück und empört euch heute wider Jehovah, so daß Er morgen über die ganze Gemeinde Israel Sich entrüste.</verse>
+        <verse osisID='Josh.22.19'>Und wenn ja das Land eures Eigentums unrein ist, so ziehet herüber in das Land des Eigentums Jehovahs, wo die Wohnung Jehovahs wohnt, und habt Eigentum in unserer Mitte, und empört euch nicht wider Jehovah, und empört euch nicht wider uns, daß ihr euch einen Altar baut außer dem Altar unseres Gottes Jehovah.</verse>
+        <verse osisID='Josh.22.20'>Hat nicht Achan, der Sohn Serachs ob dem Bann eine Untreue begangen, und war da nicht über die ganze Gemeinde eine Entrüstung, so daß nicht nur der eine Mann ob seiner Missetat verscheiden mußte?</verse>
+        <verse osisID='Josh.22.21'>Und die Söhne Rubens und die Söhne Gads und der halbe Stamm<note>Rute</note> Menascheh antworteten und redeten mit den Häuptern der Tausende Israels:</verse>
+        <verse osisID='Josh.22.22'>Der Gott der Götter, Jehovah, der Gott der Götter Jehovah, Er weiß es, und Israel, es soll es wissen: Wenn es Empörung und wenn es Untreue gegen Jehovah war - dann mögest Du an diesem Tag uns nicht retten!</verse>
+        <verse osisID='Josh.22.23'>Daß wir uns einen Altar bauten, um von Jehovah uns zurückzuwenden, und wenn es geschah, um darauf Brandopfer und Speiseopfer aufzuopfern, um darauf Dankopfer zu schlachten, so möge Jehovah es fordern<note>suchen</note>!</verse>
+        <verse osisID='Josh.22.24'>Und wenn wir das nicht taten aus Besorgnis für die Sache<note>wegen des Wortes</note>, daß wir sagten: Morgen könnten eure Söhne sprechen zu unseren Söhnen und sagen: Was geht euch Jehovah, der Gott Israels an<note>was ist euch und was dem Jehovah</note>?</verse>
+        <verse osisID='Josh.22.25'>Und Jehovah hat eine Grenze zwischen uns und euch, ihr Söhne Rubens und Söhne Gads, den Jordan, gesetzt<note>gegeben</note>. Ihr habt keinen Teil an Jehovah, und es möchten eure Söhne unsere Söhne abbringen<note>feiern lassen</note> von der Furcht Jehovahs.</verse>
+        <verse osisID='Josh.22.26'>Und wir sprachen: Lasset uns doch das für uns tun, daß wir den Altar bauen, nicht zum Brandopfer und nicht zum Schlachtopfer;</verse>
+        <verse osisID='Josh.22.27'>Sondern daß er ein Zeuge sei zwischen uns und euch und zwischen unseren Geschlechtern nach uns, auf daß wir den Dienst Jehovahs dienen vor Ihm mit unseren Brandopfern und mit unseren Schlachtopfern und mit unseren Dankopfern, auf daß eure Söhne nicht morgen sagen zu unseren Söhnen: Ihr habt kein Teil an Jehovah!</verse>
+        <verse osisID='Josh.22.28'>Und wir sprachen: Wenn es dennoch geschieht, daß sie so zu uns und zu unseren Geschlechtern morgen sprechen, so werden wir sagen: sehet das Muster von Jehovahs Altar, das unsere Väter gemacht, nicht zum Brandopfer, noch zum Schlachtopfer, sondern daß er ein Zeuge sei zwischen uns und euch!</verse>
+        <verse osisID='Josh.22.29'>Das sei ferne von uns, daß wir uns wider Jehovah empörten und heute von Jehovah uns zurückwendeten und einen Altar erbaueten zum Brandopfer, zum Speiseopfer und zum Schlachtopfer außer dem Altare Jehovahs, unseres Gottes, Der vor Seiner Wohnung ist!</verse>
+        <verse osisID='Josh.22.30'>Und es hörte Pinechas, der Priester, und die Fürsten<note>Erhabenen</note> der Gemeinde und die Häupter der Tausende Israels, die mit ihm waren, die Worte, welche die Söhne Rubens und die Söhne Gads und die Söhne Menaschehs redeten; und es war gut in ihren Augen.</verse>
+        <verse osisID='Josh.22.31'>Und Pinechas, der Sohn Eleasars, des Priesters, sprach zu den Söhnen Rubens und zu den Söhnen Gads und zu den Söhnen Menaschehs: Heute wissen wir, daß Jehovah in unserer Mitte ist, weil ihr nicht diese Untreue an Jehovah begangen habt. Nun habt ihr die Söhne Israels aus der Hand Jehovahs errettet.</verse>
+        <verse osisID='Josh.22.32'>Und Pinechas, der Sohn Eleasars, des Priesters, und die Fürsten<note>Erhabenen</note> kehrten von den Söhnen Rubens und von den Söhnen Gads aus dem Lande Gilead zurück ins Land Kanaan zu den Söhnen Israels und brachten ihnen das Wort zurück.</verse>
+        <verse osisID='Josh.22.33'>Und das Wort war gut in den Augen der Söhne Israels, und die Söhne Israels segneten Gott und sprachen nicht mehr, man müßte wider sie hinaufziehen zum Heerzug und das Land verderben, darin die Söhne Rubens und die Söhne Gads wohnten.</verse>
+        <verse osisID='Josh.22.34'>Und die Söhne Rubens und die Söhne Gads nannten den Altar: Er ist Zeuge zwischen uns, daß Jehovah ist Gott.</verse>
+      </chapter>
+      <chapter osisID='Josh.23'>
+        <title>Joschuas Vermahnung.</title>
+        <verse osisID='Josh.23.1'>Und es geschah nach vielen Tagen, nachdem Jehovah Israel von allen seinen Feinden ringsumher zur Ruhe gebracht, und Joschua alt und betagt<note>in die Tage gekommen</note> war,</verse>
+        <verse osisID='Josh.23.2'>Da rief Joschua ganz Israel, seine Ältesten und seine Häupter und seine Richter und seine Vorsteher und sprach zu ihnen: Ich bin alt geworden und betagt<note>in die Tage gekommen</note>,</verse>
+        <verse osisID='Josh.23.3'>Und ihr habt gesehen alles, was Jehovah, euer Gott, all diesen Völkerschaften vor euch her getan hat; denn Jehovah, euer Gott, war es, Der für euch stritt.</verse>
+        <verse osisID='Josh.23.4'>Sehet, ich habe euch diese Völkerschaften, die verbleiben, nach euren Stämmen<note>Ruten</note> zum Erbe zufallen lassen, vom Jordan an, und alle Völkerschaften, die ich ausgerottet habe, bis an das große Meer, wo die Sonne untergeht.</verse>
+        <verse osisID='Josh.23.5'>Und Jehovah, euer Gott, Er wird sie vertreiben, vor euch her und sie vor euch austreiben, daß ihr deren Land einnehmet, wie Jehovah, euer Gott, zu euch geredet hat.</verse>
+        <verse osisID='Josh.23.6'>So seid denn sehr stark und haltet und tut alles, was in Moses Buche des Gesetzes geschrieben ist, daß ihr davon nicht abweichet weder zur Rechten, noch zur Linken;</verse>
+        <verse osisID='Josh.23.7'>Auf daß ihr nicht unter diese Völkerschaften eingeht, die noch bei euch verbleiben, und nicht des Namens ihrer Götter gedenkt, noch bei ihnen schwört und ihnen nicht dient, noch sie anbetet;</verse>
+        <verse osisID='Josh.23.8'>Sondern nur Jehovah, eurem Gotte, anhanget, wie ihr getan habt bis auf diesen Tag.</verse>
+        <verse osisID='Josh.23.9'>Und Jehovah trieb große und mächtige Völkerschaften vor euch aus, und ihr, kein Mann bestand vor euch, bis auf diesen Tag.</verse>
+        <verse osisID='Josh.23.10'>Ein Mann von euch setzt Tausenden nach; denn Jehovah, euer Gott, ist es, Der für euch streitet, wie Er zu euch geredet hat.</verse>
+        <verse osisID='Josh.23.11'>So hütet euch sehr für eure Seelen, daß ihr Jehovah, euren Gott, liebt.</verse>
+        <verse osisID='Josh.23.12'>Denn wenn ihr euch wieder zurückwendet und euch hängt an diese übrigen Völkerschaften, die unter euch verblieben, und euch verschwägert mit ihnen und unter sie eingehet und sie unter euch;</verse>
+        <verse osisID='Josh.23.13'>So werdet ihr erfahren, daß Jehovah, euer Gott, diese Völkerschaften nicht ferner austreibt<note>nicht hinzutun wird auszutreiben</note> vor euch, daß sie euch zur Schlinge und zum Fallstrick werden und zur Geißel an euren Seiten und zu Stacheln in euren Augen, bis daß ihr umkommt von diesem guten Boden, den euch Jehovah, euer Gott, gegeben hat.</verse>
+        <verse osisID='Josh.23.14'>Und siehe, ich gehe heute den Weg aller Erde; ihr aber sollt wissen von eurem ganzen Herzen und von eurer ganzen Seele, daß kein einziges Wort von all den guten Worten, die Jehovah, euer Gott, über euch geredet hat, weggefallen, daß alle über euch gekommen sind, kein einziges Wort davon ist weggefallen.</verse>
+        <verse osisID='Josh.23.15'>Und es wird geschehen, daß, sowie jedes gute Wort, das Jehovah, euer Gott, zu euch geredet hat, über euch kam, so Jehovah über euch jedes böse Wort kommen läßt, bis daß Er euch von diesem guten Boden, den euch Jehovah, euer Gott, gegeben hat, vernichtet hat.</verse>
+        <verse osisID='Josh.23.16'>So ihr den Bund Jehovahs, eures Gottes, überschreitet, den Er euch geboten, und hingeht und anderen Göttern dient und sie anbetet, so wird der Zorn Jehovahs wider euch entbrennen, und ihr werdet eilends umkommen von dem guten Land, das Er euch gegeben hat.</verse>
+      </chapter>
+      <chapter osisID='Josh.24'>
+        <title>Tod Joschuas und Eleasars.</title>
+        <verse osisID='Josh.24.1'>Und Joschua versammelte alle Stämme<note>Ruten</note> Israels nach Schechem und rief den Ältesten Israels, seinen Häuptern und seinen Richtern und seinen Vorstehern, und sie stellten sich vor Gott;</verse>
+        <verse osisID='Josh.24.2'>Und Joschua sprach zu dem ganzen Volke: So sprach Jehovah, der Gott Israels: Jenseits des Flusses<note>d.i. Euphrat</note> wohnten<note>saßen</note> vor Zeiten<note>von Ewigkeit</note> eure Väter Terach, der Vater Abrahams und der Vater Nachors und dienten anderen Göttern.</verse>
+        <verse osisID='Josh.24.3'>Und Ich nahm euren Vater Abraham von jenseits des Flusses und ließ ihn ziehen durch das ganze Land Kanaan und mehrte seinen Samen und gab ihm den Isaak.</verse>
+        <verse osisID='Josh.24.4'>Und dem Isaak gab Ich Jakob und Esau; und dem Esau gab Ich das Gebirge Seir, es erblich zu besitzen, und Jakob und seine Söhne gingen hinab nach Ägypten.</verse>
+        <verse osisID='Josh.24.5'>Und Ich sandte Mose und Aharon und schlug Ägypten. Wie Ich so getan in seiner Mitte, führte Ich euch danach aus;</verse>
+        <verse osisID='Josh.24.6'>Und Ich führte eure Väter aus von Ägypten, und ihr kamt an das Meer. Und die Ägypter setzten euren Vätern nach mit Streitwagen und Reitern an das Schilfmeer.</verse>
+        <verse osisID='Josh.24.7'>Und sie schrien zu Jehovah, und Er setzte Dunkelheit zwischen euch und die Ägypter, und brachte über sie das Meer herein, daß es sie bedeckte; und eure Augen sahen, was Ich an Ägypten getan, und viele Tage wohntet<note>saßet</note> ihr in der Wüste.</verse>
+        <verse osisID='Josh.24.8'>Und Ich brachte euch nach dem Lande des Amoriters, der jenseits des Jordan wohnte<note>saß</note> und sie stritten mit euch. Und Ich gab sie in eure Hand, und ihr nahmt ihr Land ein, und Ich vernichtete sie vor euch her.</verse>
+        <verse osisID='Josh.24.9'>Und Balak machte sich auf, der Sohn Zippors, Moabs König, und stritt mit Israel, und sandte und rief Bileam, Beors Sohn, daß er euch fluchete;</verse>
+        <verse osisID='Josh.24.10'>Und Ich wollte nicht hören auf Bileam, und er segnete euch, und Ich errettete euch aus seiner Hand.</verse>
+        <verse osisID='Josh.24.11'>Und ihr setztet über den Jordan und kamt nach Jericho; und es stritten wider euch die Bürger von Jericho, der Amoriter und der Pherisiter und der Kanaaniter und der Chethiter und der Girgaschiter, der Chiviter und der Jebusiter, und Ich gab sie in eure Hand.</verse>
+        <verse osisID='Josh.24.12'>Und Ich sandte die Hornisse vor euch her und Ich trieb sie fort vor Euch, die zwei Könige des Amoriters, nicht mit deinem Schwert und nicht mit deinem Bogen.</verse>
+        <verse osisID='Josh.24.13'>Und Ich habe euch ein Land gegeben, um das du dich nicht bemüht hast, und die Städte, die ihr nicht gebaut, und ihr wohnt<note>sitzet</note> darin; von Weinbergen und Ölgärten, die ihr nicht gepflanzt habt, esset ihr.</verse>
+        <verse osisID='Josh.24.14'>Und nun fürchtet Jehovah und dient Ihm untadelig und mit Treue, und wendet euch ab von den Göttern, denen eure Väter jenseits des Flusses und in Ägypten gedient, und dienet Jehovah!</verse>
+        <verse osisID='Josh.24.15'>Ist es aber böse in euren Augen, daß ihr Jehovah dient, so erwählet heute für euch, wem ihr dienen wollt; ob den Göttern, denen eure Väter, die jenseits des Flusses waren, gedient, oder den Göttern des Amoriters, in dessen Lande ihr wohnt<note>sitzet</note>; ich aber und mein Haus, wir werden Jehovah dienen.</verse>
+        <verse osisID='Josh.24.16'>Und das Volk antwortete und sprach: Ferne sei von uns, daß wir Jehovah verließen, um anderen Göttern zu dienen.</verse>
+        <verse osisID='Josh.24.17'>Ist es ja Jehovah, unser Gott, Der uns heraufgeführt und unsere Väter aus Ägyptenland und aus der Knechte Haus, und Der vor unseren Augen diese großen Zeichen getan und uns behütet hat auf dem ganzen Wege, auf dem wir gegangen, und unter allen Völkern, durch deren Mitte wir gezogen sind.</verse>
+        <verse osisID='Josh.24.18'>Und Jehovah trieb fort vor uns alle die Völker und den Amoriter, der im Lande wohnte<note>saß</note>. Darum wollen auch wir Jehovah dienen; denn Er ist unser Gott.</verse>
+        <verse osisID='Josh.24.19'>Und Joschua sprach zu dem Volk: Ihr werdet Jehovah nicht zu dienen vermögen; denn Er ist ein heiliger Gott, ein eifernder Gott<note>El</note>, Der euch eure Übertretungen und Sünden nicht verzeihen wird.</verse>
+        <verse osisID='Josh.24.20'>Wenn ihr Jehovah verlasset und Göttern des Auslandes dient, so wird Er Sich zurückwenden und euch Übles tun und euch verzehren, nachdem Er euch Gutes getan hat.</verse>
+        <verse osisID='Josh.24.21'>Und das Volk sprach zu Joschua: Nein, sondern Jehovah wollen wir dienen.</verse>
+        <verse osisID='Josh.24.22'>Und Joschua sprach zum Volk: Ihr selbst seid Zeugen gegen euch, daß ihr Jehovah für euch erwählt habt, Ihm zu dienen. Und sie sprachen: Wir sind Zeugen.</verse>
+        <verse osisID='Josh.24.23'>Und nun tut weg von euch die Götter des Auslandes, die in eurer Mitte sind, und neigt euer Herz zu Jehovah, dem Gott Israels.</verse>
+        <verse osisID='Josh.24.24'>Und das Volk sprach zu Joschua: Jehovah, unserem Gott, werden wir dienen und auf Seine Stimme hören.</verse>
+        <verse osisID='Josh.24.25'>Und Joschua schloß selbigen Tages für das Volk einen Bund und setzte ihm Satzung und Recht in Schechem.</verse>
+        <verse osisID='Josh.24.26'>Und Joschua schrieb diese Worte in das Buch des Gesetzes Gottes und nahm einen großen Stein und richtete ihn allda auf unter der Eiche, die am Heiligtum Jehovahs war.</verse>
+        <verse osisID='Josh.24.27'>Und Joschua sprach zu allem Volk: Siehe, dieser Stein soll gegen uns zum Zeugen sein, daß er hörte all die Reden Jehovahs, die Er mit uns geredet hat, und soll zum Zeugen sein wider euch, auf daß ihr euren Gott nicht verleugnet.</verse>
+        <verse osisID='Josh.24.28'>Und Joschua entließ das Volk, jeden Mann in sein Erbe.</verse>
+        <verse osisID='Josh.24.29'>Und nach diesen Dingen<note>Worten</note> geschah, daß Joschua, der Sohn Nuns, der Knecht Jehovahs, starb, einhundertzehn Jahre alt<note>ein Sohn von 110 Jahren</note>.</verse>
+        <verse osisID='Josh.24.30'>Und sie begruben ihn in der Grenze seines Erbes in Timnath-Serach, auf dem Gebirge Ephraim, nördlich vom Berge Gaasch.</verse>
+        <verse osisID='Josh.24.31'>Und Israel diente Jehovah all die Tage Joschuas und all die Tage der Ältesten, deren Tage verlängert wurden nach Joschua, und die um alle Taten Jehovahs wußten, die Er für Israel tat.</verse>
+        <verse osisID='Josh.24.32'>Und die Gebeine Josephs, welche die Söhne Israel aus Ägypten heraufgebracht, begruben sie in Schechem in dem Teile des Feldes, das Jakob von den Söhnen Chamors, des Vaters Schichems, um hundert Kesitah gekauft hatte, und sie waren Josephs Söhnen zum Erbe.</verse>
+        <verse osisID='Josh.24.33'>Und Eleasar, der Sohn Aharons, starb, und sie begruben ihn in Gibeah des Pinechas, seines Sohnes, das ihm auf dem Gebirge Ephraims gegeben ward.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

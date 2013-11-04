@@ -1,0 +1,1256 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <osisText xml:lang='fr' osisRefWork='Bible' osisIDWork='FreBBB'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='FreBBB'>
+        <title>French Bible Bovet Bonnet (1900)</title>
+        <contributor/>
+        <creator>The mod2zef tool</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2009-03-25</date>
+        <description>Version Bible Bovet Bonnet, from the Annotated Bible 1900 (BBB) (c) Claude Royere http://epelorient.free.fr - Lorient - France FreBBB  Version 1.0 (june 2008) EN: This Sword Bible module provides the french translation of the OT by Félix Bovet (1824-1903), and of the NT by Louis Bonnet (1805-1892). They both are extracted from a well known commentary in France and Switzerland, still very appreciated today : "La Bible annotée". For practical reasons the verses reference have been modified to match the KJV one. FR: Ce module Sword FreBBB est composé de la traduction française de Félix Bovet (1824-1903)  pour l'Ancien Testament,  et de Louis Bonnet pour le Nouveau. Elles sont extraites de l'ouvrage bien connu : "La Bible annotée". Toutes les deux réunissent des qualités d'exactitude et d'expression qui les rendent agréables à lire par elles-mêmes, indépendamment de leurs notes. Afin de faciliter l'intégration aux logiciels bibliques, la numération des versets est celle de la King James. Claude Royère claude.royere@gmail.com http://epelorient.free.fr</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>FreBBB</identifier>
+        <source>http://crosswire.org/sword/modules/ModInfo.jsp?modName=FreBBB</source>
+        <language type='IETF'>fr</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted; Free non-commercial distribution</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Matt'>
+      <chapter osisID='Matt.1'>
+        <verse osisID='Matt.1.1'> Livre de la généalogie de Jésus-Christ, fils de David, fils d'Abraham.</verse>
+        <verse osisID='Matt.1.2'> Abraham engendra Isaac. Isaac engendra Jacob. Jacob engendra Juda et ses frères.</verse>
+        <verse osisID='Matt.1.3'> Juda engendra de Thamar Pharès et Zara. Pharès engendra Esrom. Esrom engendra Aram.</verse>
+        <verse osisID='Matt.1.4'> Aram engendra Aminadab. Aminadab engendra Naasson. Naasson engendra Salmon.</verse>
+        <verse osisID='Matt.1.5'> Salmon engendra Booz, de Rahab. Booz engendra Obed, de Ruth. Obed engendra Jessé.</verse>
+        <verse osisID='Matt.1.6'> Jessé engendra le roi David. David engendra Salomon, de la femme d'Urie.</verse>
+        <verse osisID='Matt.1.7'> Salomon engendra Roboam. Roboam engendra Abia. Abia engendra Asa.</verse>
+        <verse osisID='Matt.1.8'> Asa engendra Josaphat. Josaphat engendra Joram. Joram engendra Ozias.</verse>
+        <verse osisID='Matt.1.9'> Ozias engendra Joatham. Joatham engendra Achaz. Achaz engendra Ezéchias.</verse>
+        <verse osisID='Matt.1.10'> Ezéchias engendra Manassé. Manassé engendra Amos. Amos engendra Josias.</verse>
+        <verse osisID='Matt.1.11'> Josias engendra Jéchonias et ses frères, vers le temps de la déportation à Babylone.</verse>
+        <verse osisID='Matt.1.12'> Et après la déportation à Babylone, Jéchonias engendra Salathiel. Salathiel engendra Zorobabel.</verse>
+        <verse osisID='Matt.1.13'> Zorobabel engendra Abiud. Abiud engendra Eliakim. Eliakim engendra Azor.</verse>
+        <verse osisID='Matt.1.14'> Azor engendra Sadoc. Sadoc engendra Achim. Achim engendra Eliud.</verse>
+        <verse osisID='Matt.1.15'> Eliud engendra Eléazar. Eléazar engendra Matthan. Matthan engendra Jacob.</verse>
+        <verse osisID='Matt.1.16'> Et Jacob engendra Joseph, l'époux de Marie, de laquelle est né Jésus, qui est appelé Christ.</verse>
+        <verse osisID='Matt.1.17'> Ainsi toutes les générations d'Abraham jusqu'à David, furent quatorze générations ; et de David jusqu'à la déportation à Babylone, quatorze générations ; et depuis la déportation à Babylone jusqu'au Christ, quatorze générations.</verse>
+        <verse osisID='Matt.1.18'> Or la naissance de Jésus-Christ arriva ainsi :</verse>
+        <verse osisID='Matt.1.19'> Marie sa mère ayant été fiancée à Joseph, se trouva enceinte de par l'Esprit-Saint, avant qu'ils eussent été ensemble. Mais Joseph, son époux, étant juste, et ne voulant pas l'exposer à la honte, résolut de la répudier secrètement.</verse>
+        <verse osisID='Matt.1.20'> Mais comme il pensait à ces choses, voici un ange du Seigneur lui apparut en songe, disant : Joseph, fils de David, ne crains point de prendre auprès de toi Marie ta femme ; car ce qui est engendré en elle est de l'Esprit-Saint.</verse>
+        <verse osisID='Matt.1.21'> Elle enfantera un fils, et tu lui donneras le nom de Jésus, car c'est lui qui sauvera son peuple de leurs péchés.</verse>
+        <verse osisID='Matt.1.22'> Or tout cela arriva, afin que fût accompli ce que le Seigneur avait déclaré par le prophète, disant :</verse>
+        <verse osisID='Matt.1.23'>
+  Voici, la vierge sera enceinte, et elle enfantera un fils, et on appellera son nom Emmanuel, ce qui, étant traduit, signifie Dieu avec nous.</verse>
+        <verse osisID='Matt.1.24'> Joseph donc s'étant réveillé de son sommeil, fit comme l'ange du Seigneur lui avait prescrit, et il prit auprès de lui sa femme.</verse>
+        <verse osisID='Matt.1.25'> Et il ne la connut point jusqu'à ce qu'elle eût enfanté son fils premier-né, et il lui donna le nom de Jésus.</verse>
+      </chapter>
+      <chapter osisID='Matt.2'>
+        <verse osisID='Matt.2.1'> Or Jésus étant né à Bethléhem de Judée, aux jours du roi Hérode, voici des mages d'Orient arrivèrent à Jérusalem, disant :</verse>
+        <verse osisID='Matt.2.2'> Où est le roi des Juifs qui est né ? Car nous avons vu son étoile en Orient, et nous sommes venus l'adorer.</verse>
+        <verse osisID='Matt.2.3'> Le roi Hérode, l'ayant appris, fut troublé, et tout Jérusalem avec lui.</verse>
+        <verse osisID='Matt.2.4'> Et ayant assemblé tous les principaux sacrificateurs et les scribes du peuple, il s'informa d'eux où le Christ devait maître.</verse>
+        <verse osisID='Matt.2.5'> Et ils lui dirent : A Bethléhem de Judée ; car c'est ainsi qu'il a été écrit par le prophète :</verse>
+        <verse osisID='Matt.2.6'>
+  Et toi, Bethléhem, terre de Juda, tu n'es pas la moindre entre les principales villes de Juda ; car de toi sortira un conducteur qui paîtra Israël mon peuple.
+</verse>
+        <verse osisID='Matt.2.7'> Alors Hérode ayant appelé secrètement les mages, s'enquit auprès d'eux exactement du temps où l'étoile avait paru.</verse>
+        <verse osisID='Matt.2.8'> Et les envoyant à Bethléhem, il dit : Allez, et informez-vous exactement de ce petit enfant, et quand vous l'aurez trouvé, annoncez-le moi, afin que j'aille moi aussi, et que je l'adore.</verse>
+        <verse osisID='Matt.2.9'> Eux donc, ayant ouï le roi, s'en allèrent ; et voici l'étoile qu'ils avaient vue en Orient allait devant eux, jusqu'à ce qu'étant arrivée au-dessus du lieu où était le petit enfant, elle s'arrêta.</verse>
+        <verse osisID='Matt.2.10'> Et quand ils virent l'étoile, ils se réjouirent d'une fort grande joie.</verse>
+        <verse osisID='Matt.2.11'> Et étant entrés dans la maison, ils virent le petit enfant, avec Marie sa mère, et se prosternant, ils l'adorèrent ; et, après avoir ouvert leurs trésors, ils lui présentèrent des dons : de l'or, et de l'encens, et de la myrrhe.</verse>
+        <verse osisID='Matt.2.12'> Et ayant été divinement avertis en songe de ne pas retourner vers Hérode, ils se retirèrent dans leur pays par un autre chemin.</verse>
+        <verse osisID='Matt.2.13'> Or après qu'ils furent partis, voici un ange du Seigneur apparaît en songe à Joseph, disant : Lève-toi, prends le petit enfant et sa mère, et t'enfuis en Egypte, et te tiens là jusqu'à ce que je te parle ; car Hérode cherchera le petit enfant pour le faire périr.</verse>
+        <verse osisID='Matt.2.14'> Lui donc s'étant levé, prit de nuit le petit enfant et sa mère, et se retira en Egypte.</verse>
+        <verse osisID='Matt.2.15'> Et il fut là jusqu'à la mort d'Hérode, afin que fût accompli ce que le Seigneur avait déclaré par le prophète, disant : J'ai appelé mon fils hors d'Egypte.</verse>
+        <verse osisID='Matt.2.16'> Alors Hérode, voyant qu'il avait été joué par les mages, fut fort en colère ; et il envoya mettre à mort tous les enfants qui étaient dans Bethléhem et dans tous ses environs, depuis l'âge de deux ans et au-dessous, selon le temps dont il s'était exactement enquis auprès des mages.</verse>
+        <verse osisID='Matt.2.17'> Alors fut accompli ce qui avait été dit par Jérémie le prophète, disant :</verse>
+        <verse osisID='Matt.2.18'>
+  Une voix a été ouïe dans Rama, des pleurs et de grands gémissements : Rachel pleurant ses enfants ; et elle ne voulait pas être consolée, parce qu'ils ne sont plus.
+</verse>
+        <verse osisID='Matt.2.19'> Or Hérode étant mort, voici un ange du Seigneur apparaît en songe à Joseph, en Egypte,</verse>
+        <verse osisID='Matt.2.20'> disant : Lève-toi, prends le petit enfant et sa mère, et va au pays d'Israël ; car ceux qui cherchaient la vie du petit enfant sont morts.</verse>
+        <verse osisID='Matt.2.21'> S'étant donc levé, il prit le petit enfant et sa mère, et alla au pays d'Israël.</verse>
+        <verse osisID='Matt.2.22'> Mais ayant appris qu'Archélaüs régnait en Judée à la place d'Hérode son père, il craignit d'y aller ; et ayant été divinement averti en songe, il se retira dans les quartiers de la Galilée ;</verse>
+        <verse osisID='Matt.2.23'> et y étant allé, il habita dans une ville appelée Nazareth ; afin que fût accompli ce qui avait été dit par les prophètes : Il sera appelé Nazaréen.</verse>
+      </chapter>
+      <chapter osisID='Matt.3'>
+        <verse osisID='Matt.3.1'> Or en ces jours-là, paraît Jean-Baptiste, prêchant dans le désert de Judée,</verse>
+        <verse osisID='Matt.3.2'> et disant : Repentez-vous, car le royaume des cieux s'est approché.</verse>
+        <verse osisID='Matt.3.3'> Car c'est ici celui dont a parlé Esaïe le prophète, en disant : Voix de celui qui crie dans le désert : Préparez le chemin du Seigneur, aplanissez ses sentiers.</verse>
+        <verse osisID='Matt.3.4'> Or Jean lui-même avait son vêtement fait de poil de chameau, et une ceinture de cuir autour de ses reins, et sa nourriture était des sauterelles et du miel sauvage.</verse>
+        <verse osisID='Matt.3.5'> Alors Jérusalem et toute la Judée et tous les environs du Jourdain sortaient vers lui.</verse>
+        <verse osisID='Matt.3.6'> Et ils étaient baptisés par lui dans le fleuve du Jourdain, en confessant leurs péchés.</verse>
+        <verse osisID='Matt.3.7'> Mais voyant beaucoup des pharisiens et des sadducéens venir à son baptême, il leur dit : Race de vipères, qui vous a appris à fuir la colère à venir ?</verse>
+        <verse osisID='Matt.3.8'> Produisez donc du fruit digne de la repentance.</verse>
+        <verse osisID='Matt.3.9'> Et ne présumez pas de dire en vous-mêmes : Nous avons Abraham pour père ; car je vous dis que, de ces pierres-là, Dieu peut susciter des enfants à Abraham.</verse>
+        <verse osisID='Matt.3.10'> Et déjà la hache est mise à la racine des arbres ; tout arbre donc qui ne produit point de bon fruit est coupé et jeté au feu.</verse>
+        <verse osisID='Matt.3.11'> Pour moi, je vous baptise d'eau, en vue de la repentance ; mais celui qui vient après moi est plus puissant que moi, et je ne suis pas digne de lui porter ses souliers ; c'est lui qui vous baptisera d'Esprit-Saint et de feu.</verse>
+        <verse osisID='Matt.3.12'> Il a son van en sa main, et nettoiera parfaitement son aire, et amassera son froment dans le grenier, mais il brûlera la paille dans un feu qui ne s'éteint point.</verse>
+        <verse osisID='Matt.3.13'> Alors Jésus vient de la Galilée, au Jourdain, vers Jean, pour être baptisé par lui.</verse>
+        <verse osisID='Matt.3.14'> Mais Jean s'y opposait, disant : C'est moi qui ai besoin d'être baptisé par toi, et tu viens à moi !</verse>
+        <verse osisID='Matt.3.15'> Mais Jésus répondant, lui dit : Laisse faire pour le présent, car c'est ainsi qu'il nous sied d'accomplir toute justice. Alors il le laisse faire.</verse>
+        <verse osisID='Matt.3.16'> Or, après avoir été baptisé, Jésus remonta aussitôt de l'eau ; et voici, les cieux furent ouverts, et il vit l'Esprit de Dieu, descendant comme une colombe, venant sur lui.</verse>
+        <verse osisID='Matt.3.17'> Et voici une voix des cieux, qui disait : Celui-ci est mon fils bien-aimé, en qui je me complais.</verse>
+      </chapter>
+      <chapter osisID='Matt.4'>
+        <verse osisID='Matt.4.1'> Alors Jésus fut emmené dans le désert par l'Esprit, pour être tenté par le diable.</verse>
+        <verse osisID='Matt.4.2'> Et ayant jeûné quarante jours et quarante nuits, après cela, il eut faim.</verse>
+        <verse osisID='Matt.4.3'> Et le tentateur s'étant approché, lui dit : Si tu es fils de Dieu, dis que ces pierres deviennent des pains.</verse>
+        <verse osisID='Matt.4.4'> Mais lui, répondant, dit : Il est écrit : Ce n'est pas de pain seulement que l'homme vivra, mais de toute parole qui sort de la bouche de Dieu.</verse>
+        <verse osisID='Matt.4.5'> Alors le diable le transporte dans la ville sainte et le met sur l'aile du saint lieu ;</verse>
+        <verse osisID='Matt.4.6'> et lui dit : Si tu es fils de Dieu, jette-toi en bas ; car il est écrit : Il donnera à ses anges des ordres à ton sujet ; et ils te porteront sur leurs mains, de peur que tu ne heurtes ton pied contre une pierre.</verse>
+        <verse osisID='Matt.4.7'> Jésus lui dit : Il est encore écrit : Tu ne tenteras point le Seigneur ton Dieu.</verse>
+        <verse osisID='Matt.4.8'> Le diable le transporte encore sur une montagne fort haute ; et il lui montre tous les royaumes du monde et leur gloire,</verse>
+        <verse osisID='Matt.4.9'> et lui dit : Je te donnerai toutes ces choses, si, te prosternant, tu m'adores.</verse>
+        <verse osisID='Matt.4.10'> Alors Jésus lui dit : Va-t'en, Satan ; car il est écrit : Tu adoreras le Seigneur ton Dieu, et tu le serviras lui seul.</verse>
+        <verse osisID='Matt.4.11'> Alors le diable le laisse ; et voici, des anges s'approchèrent, et ils le servaient.</verse>
+        <verse osisID='Matt.4.12'> Or, ayant appris que Jean avait été livré, il se retira dans la Galilée.</verse>
+        <verse osisID='Matt.4.13'> Et ayant quitté Nazareth, il vint demeurer à Capernaüm, qui est proche de la mer, sur les confins de Zabulon et de Nephthali ;</verse>
+        <verse osisID='Matt.4.14'> afin que fût accompli ce qui a été dit par Esaïe le prophète :</verse>
+        <verse osisID='Matt.4.15'>
+  La terre de Zabulon et la terre de Nephthali, sur le chemin de la mer, au delà du Jourdain, la Galilée des Gentils,
+</verse>
+        <verse osisID='Matt.4.16'>
+  le peuple assis dans les ténèbres, a vu une grande lumière, et sur ceux qui étaient assis dans la région et l'ombre de la mort la lumière s'est levée.
+</verse>
+        <verse osisID='Matt.4.17'> Dès lors Jésus commença à prêcher, et à dire : Repentez-vous, car le royaume des cieux est proche.</verse>
+        <verse osisID='Matt.4.18'> Et marchant le long de la mer de Galilée, il vit deux frères, Simon, appelé Pierre, et André son frère, qui jetaient un filet dans la mer, car ils étaient pêcheurs,</verse>
+        <verse osisID='Matt.4.19'> et il leur dit : Venez, suivez-moi, et je vous ferai pêcheurs d'hommes.</verse>
+        <verse osisID='Matt.4.20'> Et eux, laissant aussitôt leurs filets, le suivirent.</verse>
+        <verse osisID='Matt.4.21'> Et ayant passé de là plus avant, il vit deux autres frères, Jacques, fils de Zébédée, et Jean son frère, dans la barque avec Zébédée leur père, arrangeant leurs filets, et il les appela.</verse>
+        <verse osisID='Matt.4.22'> Et eux, laissant aussitôt la barque et leur père, le suivirent.</verse>
+        <verse osisID='Matt.4.23'> Et il parcourait toute la Galilée, enseignant dans leurs synagogues, et prêchant l'Evangile du royaume, et guérissant toute maladie et toute langueur parmi le peuple.</verse>
+        <verse osisID='Matt.4.24'> Et sa renommée se répandit dans toute la Syrie, et on lui présenta tous ceux qui se portaient mal, atteints de diverses maladies et de divers tourments, démoniaques, lunatiques et paralytiques ; et il les guérit.</verse>
+        <verse osisID='Matt.4.25'> Et de grandes foules le suivirent de la Galilée, et de la Décapole, et de Jérusalem, et de Judée, et d'au delà le Jourdain.</verse>
+      </chapter>
+      <chapter osisID='Matt.5'>
+        <verse osisID='Matt.5.1'> Or, voyant les foules, il monta sur la montagne ; et s'étant assis, ses disciples s'approchèrent de lui ;</verse>
+        <verse osisID='Matt.5.2'> et ouvrant sa bouche, il les enseignait en disant :</verse>
+        <verse osisID='Matt.5.3'> Heureux les pauvres en esprit, parce que le royaume des cieux est à eux.</verse>
+        <verse osisID='Matt.5.4'> Heureux ceux qui pleurent, parce qu'ils seront consolés.</verse>
+        <verse osisID='Matt.5.5'> Heureux ceux qui sont doux, parce qu'ils hériteront la terre.</verse>
+        <verse osisID='Matt.5.6'> Heureux ceux qui ont faim et soif de la justice, parce qu'ils seront rassasiés.</verse>
+        <verse osisID='Matt.5.7'> Heureux les miséricordieux, parce qu'ils obtiendront miséricorde.</verse>
+        <verse osisID='Matt.5.8'> Heureux ceux qui sont purs de cœur, parce qu'ils verront Dieu.</verse>
+        <verse osisID='Matt.5.9'> Heureux ceux qui procurent la paix, parce qu'ils seront appelés fils de Dieu.</verse>
+        <verse osisID='Matt.5.10'> Heureux ceux qui sont persécutés à cause de la justice, parce que le royaume des cieux est à eux.</verse>
+        <verse osisID='Matt.5.11'> Heureux êtes-vous, lorsqu'on vous dira des injures, et qu'on vous persécutera, et qu'on dira faussement contre vous toute sorte de mal à cause de moi.</verse>
+        <verse osisID='Matt.5.12'> Réjouissez-vous et tressaillez de joie, parce que votre récompense est grande dans les cieux ; car c'est ainsi qu'on a persécuté les prophètes qui ont été avant vous.</verse>
+        <verse osisID='Matt.5.13'> Vous êtes le sel de la terre ; mais si le sel perd sa saveur, avec quoi sera-t-il salé ? Il n'est plus bon à rien sinon à être jeté dehors et à être foulé aux pieds par les hommes.</verse>
+        <verse osisID='Matt.5.14'> Vous êtes la lumière du monde. Une ville située sur une montagne ne peut être cachée.</verse>
+        <verse osisID='Matt.5.15'> On n'allume pas non plus une lampe pour la mettre sous le boisseau, mais sur le pied-de-lampe, et elle luit pour tous ceux qui sont dans la maison.</verse>
+        <verse osisID='Matt.5.16'> Que votre lumière luise ainsi devant les hommes, afin qu'ils voient vos bonnes œuvres, et qu'ils glorifient votre Père qui est dans les cieux.</verse>
+        <verse osisID='Matt.5.17'> Ne pensez pas que je sois venu abolir la loi ou les prophètes ; je ne suis point venu abolir, mais accomplir.</verse>
+        <verse osisID='Matt.5.18'> Car en vérité je vous le dis, jusqu'à ce que le ciel et la terre aient passé, il ne passera pas de la loi un seul iota, ni un seul trait de lettre, jusqu'à ce que tout ait été accompli.</verse>
+        <verse osisID='Matt.5.19'> Celui donc qui aura violé l'un de ces plus petits commandements, et qui aura ainsi enseigné les hommes, sera appelé le plus petit dans le royaume des cieux ; mais celui qui les aura observés et enseignés, celui-là sera appelé grand dans le royaume des cieux.</verse>
+        <verse osisID='Matt.5.20'> Car je vous dis que si votre justice ne surpasse celle des scribes et des pharisiens, vous n'entrerez point dans le royaume des cieux.</verse>
+        <verse osisID='Matt.5.21'> Vous avez entendu qu'il a été dit aux anciens : Tu ne tueras point ; et celui qui aura tué sera punissable par le jugement.</verse>
+        <verse osisID='Matt.5.22'> Mais moi, je vous dis que quiconque se met en colère contre son frère, sera punissable par le jugement ; et celui qui aura dit à son frère : Raca ! sera punissable par le sanhédrin, et celui qui lui dira fou, sera punissable par la géhenne du feu.</verse>
+        <verse osisID='Matt.5.23'> Si donc tu apportes ton offrande à l'autel, et que là tu te souviennes que ton frère a quelque chose contre toi,</verse>
+        <verse osisID='Matt.5.24'> laisse là ton offrande devant l'autel, et va premièrement, réconcilie-toi avec ton frère, et alors, viens présenter ton offrande.</verse>
+        <verse osisID='Matt.5.25'> Accorde-toi promptement avec ton adversaire, pendant que tu es en chemin avec lui, de peur que l'adversaire ne te livre au juge et le juge à l'huissier, et que tu ne sois jeté en prison.</verse>
+        <verse osisID='Matt.5.26'> Je te le dis en vérité, tu ne sortiras pas de là, jusqu'à ce que tu aies payé le dernier quadrant.</verse>
+        <verse osisID='Matt.5.27'> Vous avez entendu qu'il a été dit : Tu ne commettras point adultère.</verse>
+        <verse osisID='Matt.5.28'> Mais moi, je vous dis que quiconque regarde une femme pour la convoiter, a déjà commis adultère avec elle dans son cœur.</verse>
+        <verse osisID='Matt.5.29'> Or si ton œil droit te fait tomber, arrache-le et le jette loin de toi, car il vaut mieux pour toi qu'un de tes membres périsse et que tout ton corps ne soit pas jeté dans la géhenne.</verse>
+        <verse osisID='Matt.5.30'> Et si ta main droite te fait tomber, coupe-la, et la jette loin de toi, car il vaut mieux pour toi qu'un de tes membres périsse et que tout ton corps n'aille pas dans la géhenne.</verse>
+        <verse osisID='Matt.5.31'> Il a été dit aussi : Si quelqu'un répudie sa femme, qu'il lui donne une lettre de divorce.</verse>
+        <verse osisID='Matt.5.32'> Mais moi, je vous dis que quiconque répudie sa femme, si ce n'est pour cause de fornication, la fait devenir adultère ; et que quiconque épouse une femme répudiée, commet adultère.</verse>
+        <verse osisID='Matt.5.33'> Vous avez encore entendu qu'il a été dit aux anciens : Tu ne te parjureras point, mais tu tiendras tes serments au Seigneur.</verse>
+        <verse osisID='Matt.5.34'> Mais moi, je vous dis de ne point jurer du tout ; ni par le ciel, parce que c'est le trône de Dieu ;</verse>
+        <verse osisID='Matt.5.35'> ni par la terre, parce que c'est le marchepied de ses pieds ; ni par Jérusalem, parce que c'est la ville du grand Roi.</verse>
+        <verse osisID='Matt.5.36'> Tu ne jureras pas non plus par ta tête, parce que tu ne peux rendre un seul cheveu blanc ou noir.</verse>
+        <verse osisID='Matt.5.37'> Mais que votre parole soit oui, oui, non, non ; ce qu'on dit de plus vient du malin.</verse>
+        <verse osisID='Matt.5.38'> Vous avez entendu qu'il a été dit : œil pour œil, et dent pour dent.</verse>
+        <verse osisID='Matt.5.39'> Mais moi, je vous dis de ne pas résister au méchant ; mais quiconque te frappe sur la joue droite, présente-lui aussi l'autre.</verse>
+        <verse osisID='Matt.5.40'> Et à celui qui veut plaider contre toi, et prendre ta tunique, laisse-lui aussi le manteau.</verse>
+        <verse osisID='Matt.5.41'> Et quiconque te contraindra de faire un mille, fais-en deux avec lui.</verse>
+        <verse osisID='Matt.5.42'> Donne à celui qui te demande, et ne te détourne point de celui qui veut emprunter de toi.</verse>
+        <verse osisID='Matt.5.43'> Vous avez entendu qu'il a été dit : Tu aimeras ton prochain, et tu haïras ton ennemi.</verse>
+        <verse osisID='Matt.5.44'> Mais moi, je vous dis : Aimez vos ennemis et priez pour ceux qui vous persécutent ;</verse>
+        <verse osisID='Matt.5.45'> afin que vous soyez fils de votre Père qui est dans les cieux ; car il fait lever son soleil sur les méchants et sur les bons, et il fait pleuvoir sur les justes et sur les injustes.</verse>
+        <verse osisID='Matt.5.46'> Car si vous aimez ceux qui vous aiment, quelle récompense en aurez-vous ? les péagers aussi ne le font-ils pas ?</verse>
+        <verse osisID='Matt.5.47'> Et si vous ne faites accueil qu'à vos frères, que faites-vous d'extraordinaire ? Les païens aussi ne le font-ils pas ?</verse>
+        <verse osisID='Matt.5.48'> Soyez donc parfaits, comme votre Père céleste est parfait.</verse>
+      </chapter>
+      <chapter osisID='Matt.6'>
+        <verse osisID='Matt.6.1'> Prenez garde de ne pas pratiquer votre justice devant les hommes, afin d'être vus par eux ; autrement vous n'avez point de récompense auprès de votre Père qui est dans les cieux.</verse>
+        <verse osisID='Matt.6.2'> Quand donc tu fais l'aumône, ne sonne pas de la trompette devant toi, comme font les hypocrites, dans les synagogues et dans les rues, afin qu'ils soient glorifiés par les hommes. En vérité, je vous le dis, ils ont déjà leur récompense.</verse>
+        <verse osisID='Matt.6.3'> Mais toi, quand tu fais l'aumône, que ta main gauche ne sache pas ce que fait ta droite,</verse>
+        <verse osisID='Matt.6.4'> afin que ton aumône soit faite dans le secret ; et ton Père qui voit dans le secret, te le rendra.</verse>
+        <verse osisID='Matt.6.5'> Et quand vous priez, ne soyez pas comme les hypocrites, car ils aiment à prier en se tenant debout dans les synagogues et aux coins des rues, afin qu'ils soient vus des hommes. En vérité, je vous le dis, ils ont déjà leur récompense.</verse>
+        <verse osisID='Matt.6.6'> Mais toi, quand tu pries, entre dans ta chambre ; et ayant fermé ta porte, prie ton Père qui est là dans le secret ; et ton Père qui voit dans le secret, te le rendra.</verse>
+        <verse osisID='Matt.6.7'> Or, quand vous priez, n'usez pas de vaines redites, comme les païens, car ils pensent qu'avec beaucoup de paroles, ils seront exaucés.</verse>
+        <verse osisID='Matt.6.8'> Ne leur ressemblez donc pas, car votre Père sait de quoi vous avez besoin, avant que vous le lui demandiez.</verse>
+        <verse osisID='Matt.6.9'> Vous donc, priez ainsi : Notre Père qui es dans les cieux, que ton nom soit sanctifié.</verse>
+        <verse osisID='Matt.6.10'> Que ton règne vienne. Que ta volonté soit faite sur la terre comme au ciel.</verse>
+        <verse osisID='Matt.6.11'> Donne-nous aujourd'hui notre pain quotidien.</verse>
+        <verse osisID='Matt.6.12'> Et remets-nous nos dettes, comme nous aussi nous les avons remises à nos débiteurs.</verse>
+        <verse osisID='Matt.6.13'> Et ne nous induis point en tentation, mais délivre-nous du mal.</verse>
+        <verse osisID='Matt.6.14'> Car si vous pardonnez aux hommes leurs offenses, votre Père céleste vous pardonnera aussi ;</verse>
+        <verse osisID='Matt.6.15'> mais si vous ne pardonnez pas aux hommes, votre Père ne vous pardonnera pas non plus vos offenses.</verse>
+        <verse osisID='Matt.6.16'> Et quand vous jeûnez, ne prenez pas un air triste comme les hypocrites ; car ils se rendent le visage tout défait, afin qu'il paraisse aux hommes qu'ils jeûnent : En vérité je vous le dis, ils ont déjà leur récompense.</verse>
+        <verse osisID='Matt.6.17'> Mais toi, quand tu jeûnes, oins ta tête et lave ton visage ;</verse>
+        <verse osisID='Matt.6.18'> afin qu'il ne paraisse pas aux hommes que tu jeûnes, mais à ton Père qui est dans le secret, et ton Père qui voit dans le secret, te le rendra.</verse>
+        <verse osisID='Matt.6.19'> Ne vous amassez pas des trésors sur la terre, où la teigne et la rouille détruisent, et où les voleurs percent et dérobent ;</verse>
+        <verse osisID='Matt.6.20'> mais amassez-vous des trésors dans le ciel, où ni la teigne ni la rouille ne détruisent, et où les voleurs ne percent ni ne dérobent :</verse>
+        <verse osisID='Matt.6.21'> car où est ton trésor, là sera aussi ton cœur.</verse>
+        <verse osisID='Matt.6.22'> La lampe du corps est l'œil : si donc ton œil est sain, tout ton corps sera éclairé ;</verse>
+        <verse osisID='Matt.6.23'> mais si ton œil est mauvais, tout ton corps sera ténébreux. Si donc la lumière qui est en toi est ténèbres, combien seront grandes les ténèbres !</verse>
+        <verse osisID='Matt.6.24'> Nul ne peut servir deux, maîtres ; car, ou il haïra l'un et aimera l'autre ou il s'attachera à l'un et méprisera l'autre. Vous ne pouvez servir Dieu et Mammon.</verse>
+        <verse osisID='Matt.6.25'> C'est pourquoi je vous dis : ne vous inquiétez point pour votre vie, de ce que vous mangerez et de ce que vous boirez ; ni pour votre corps, de quoi vous serez vêtus. La vie n'est-elle pas plus que la nourriture, et le corps plus que le vêtement ?</verse>
+        <verse osisID='Matt.6.26'> Considérez les oiseaux du ciel : ils ne sèment ni ne moissonnent, ni n'amassent dans des greniers, et votre Père céleste les nourrit. Ne valez-vous pas beaucoup plus qu'eux ?</verse>
+        <verse osisID='Matt.6.27'> Qui d'entre vous peut, par ses inquiétudes, ajouter une seule coudée à la durée de sa vie ?</verse>
+        <verse osisID='Matt.6.28'> Et quant au vêtement, pourquoi vous inquiétez-vous ? Observez les lis des champs, comment ils croissent ; ils ne travaillent ni ne filent.</verse>
+        <verse osisID='Matt.6.29'> Cependant, je vous dis que Salomon même, dans toute sa gloire, n'était pas vêtu comme l'un d'eux.</verse>
+        <verse osisID='Matt.6.30'> Si donc Dieu revêt ainsi l'herbe des champs, qui est aujourd'hui, et qui demain est jetée dans le four, ne vous revêtira-t-il pas beaucoup plutôt, ô gens de petite foi ?</verse>
+        <verse osisID='Matt.6.31'> Ne vous inquiétez donc point, disant : Que mangerons- nous ? ou que boirons-nous ? ou de quoi serons-nous vêtus ?</verse>
+        <verse osisID='Matt.6.32'> car toutes ces choses, les païens les recherchent ; car votre Père céleste sait que vous avez besoin de toutes ces choses.</verse>
+        <verse osisID='Matt.6.33'> Mais cherchez premièrement le royaume de Dieu et sa justice, et toutes ces choses vous seront données par-dessus.</verse>
+        <verse osisID='Matt.6.34'> Ne vous inquiétez donc point pour le lendemain ; car le lendemain aura souci de lui-même. A chaque jour suffit sa peine.</verse>
+      </chapter>
+      <chapter osisID='Matt.7'>
+        <verse osisID='Matt.7.1'> Ne jugez point, afin que vous ne soyez point jugés.</verse>
+        <verse osisID='Matt.7.2'> Car du même jugement dont vous jugez, vous serez jugés ; et de la même mesure dont vous mesurez, il vous sera mesuré.</verse>
+        <verse osisID='Matt.7.3'> Et pourquoi regardes-tu la paille qui est dans l'œil de ton frère, tandis que tu n'aperçois pas la poutre qui est dans ton œil ?</verse>
+        <verse osisID='Matt.7.4'> Ou comment dis- tu à ton frère : Permets que j'ôte cette paille de ton œil, et voici, la poutre est dans ton œil ?</verse>
+        <verse osisID='Matt.7.5'> Hypocrite, ôte premièrement de ton œil la poutre, et alors tu verras pour ôter le brin de paille de l'œil de ton frère.</verse>
+        <verse osisID='Matt.7.6'> Ne donnez point ce qui est saint aux chiens, et ne jetez point vos perles devant les pourceaux ; de peur qu'ils ne les foulent à leurs pieds, et que, se tournant, ils ne vous déchirent.</verse>
+        <verse osisID='Matt.7.7'> Demandez, et il vous sera donné ; cherchez, et vous trouverez ; heurtez, et il vous sera ouvert ;</verse>
+        <verse osisID='Matt.7.8'> car quiconque demande, reçoit ; et qui cherche, trouve ; et à celui qui heurte, il sera ouvert.</verse>
+        <verse osisID='Matt.7.9'> Ou quel est l'homme d'entre vous qui, si son fils lui demande du pain, lui donnera une pierre ?</verse>
+        <verse osisID='Matt.7.10'> Ou encore, s'il lui demande du poisson, lui donnera-t-il un serpent ?</verse>
+        <verse osisID='Matt.7.11'> Si donc, vous, qui êtes mauvais, savez donner à vos enfants de bonnes choses, combien plus votre Père qui est dans les cieux donnera-t-il de bonnes choses à ceux qui les lui demandent ?</verse>
+        <verse osisID='Matt.7.12'> Toutes les choses donc que vous voulez que les hommes vous fassent, faites-les leur aussi vous-mêmes, car c'est la loi et les prophètes.</verse>
+        <verse osisID='Matt.7.13'> Entrez par la porte étroite, car large est la porte et spacieux le chemin qui mène à la perdition, et nombreux sont ceux qui y entrent.</verse>
+        <verse osisID='Matt.7.14'> Combien étroite est la porte et resserré le chemin qui mène à la vie ! et il y en a peu qui le trouvent.</verse>
+        <verse osisID='Matt.7.15'> Gardez-vous des faux prophètes, qui viennent à vous en vêtements de brebis, mais qui au dedans sont des loups ravisseurs.</verse>
+        <verse osisID='Matt.7.16'> Vous les reconnaîtrez à leurs fruits. Cueille-t-on des raisins sur des épines, ou des figues sur des chardons ?</verse>
+        <verse osisID='Matt.7.17'> Ainsi, tout bon arbre produit de bons fruits ; mais le mauvais arbre produit de mauvais fruits.</verse>
+        <verse osisID='Matt.7.18'> Un bon arbre ne peut produire de mauvais fruits, ni un mauvais arbre produire de bons fruits.</verse>
+        <verse osisID='Matt.7.19'> Tout arbre qui ne produit pas de bons fruits est coupé et jeté au feu.</verse>
+        <verse osisID='Matt.7.20'> C'est donc à leurs fruits que vous les reconnaîtrez.</verse>
+        <verse osisID='Matt.7.21'> Ce n'est pas quiconque me dit : Seigneur, Seigneur, qui entrera dans le royaume des cieux ; mais celui qui fait la volonté de mon Père qui est dans les cieux.</verse>
+        <verse osisID='Matt.7.22'> Plusieurs me diront en ce jour-là : Seigneur, Seigneur, n'est-ce pas en ton nom que nous avons prophétisé ? et en ton nom que nous avons chassé des démons ? et en ton nom que nous avons fait plusieurs miracles ?</verse>
+        <verse osisID='Matt.7.23'> Et alors je leur dirai ouvertement : Je ne vous ai jamais connus. Retirez-vous de moi, vous qui faites l'iniquité.</verse>
+        <verse osisID='Matt.7.24'> Quiconque donc entend ces paroles que je dis, et les met en pratique, sera comparé à un homme prudent, qui a bâti sa maison sur le roc.</verse>
+        <verse osisID='Matt.7.25'> Et la pluie est tombée, et les torrents sont venus, et les vents ont soufflé et se sont jetés contre cette maison-là ; elle n'est point tombée, car elle avait été fondée sur le roc.</verse>
+        <verse osisID='Matt.7.26'> Et quiconque entend ces paroles que je dis, et ne les met pas en pratique, sera comparé à un homme insensé, qui a bâti sa maison sur le sable.</verse>
+        <verse osisID='Matt.7.27'> Et la pluie est tombée, et les torrents sont venus, et les vents ont soufflé, et ils ont heurté contre cette maison-là ; et elle est tombée, et sa chute a été grande.</verse>
+        <verse osisID='Matt.7.28'> Et il arriva, lorsque Jésus eut achevé ces discours, que les foules étaient extrêmement frappées de son enseignement.</verse>
+        <verse osisID='Matt.7.29'> Car il les enseignait comme ayant autorité, et non pas comme leurs scribes.</verse>
+      </chapter>
+      <chapter osisID='Matt.8'>
+        <verse osisID='Matt.8.1'> Quand il fut descendu de la montagne, de grandes foules le suivirent.</verse>
+        <verse osisID='Matt.8.2'> Et voici, un lépreux s'étant approché, se prosternait devant lui, disant : Seigneur, si tu veux, tu peux me purifier.</verse>
+        <verse osisID='Matt.8.3'> Et ayant étendu la main, il le toucha, disant : Je le veux, sois purifié ; et aussitôt sa lèpre fut purifiée.</verse>
+        <verse osisID='Matt.8.4'> Et Jésus lui dit : Garde-toi de le dire à personne ; mais va, montre-toi au sacrificateur, et présente l'offrande que Moïse a ordonnée, afin que cela leur soit un témoignage.</verse>
+        <verse osisID='Matt.8.5'> Et Jésus étant entré dans Capernaüm, un centenier s'approcha de lui, le priant,</verse>
+        <verse osisID='Matt.8.6'> et disant : Seigneur, mon serviteur est couché dans la maison, atteint de paralysie, et cruellement tourmenté.</verse>
+        <verse osisID='Matt.8.7'> Et Jésus lui dit : J'irai, moi, et je le guérirai.</verse>
+        <verse osisID='Matt.8.8'> Et le centenier, répondant, dit : Seigneur, je ne suis pas digne que tu entres sous mon toit ; mais dis seulement une parole, et mon serviteur sera guéri.</verse>
+        <verse osisID='Matt.8.9'> Car aussi bien moi, je suis un homme placé sous autorité, ayant sous moi des soldats, et je dis à l'un : Va, et il va ; et à l'autre : Viens, et il vient ; et à mon esclave : Fais cela, et il le fait.</verse>
+        <verse osisID='Matt.8.10'> Jésus l'ayant entendu fut étonné, et dit à ceux qui le suivaient : En vérité, je vous le dis, même en Israël je n'ai pas trouvé une si grande foi.</verse>
+        <verse osisID='Matt.8.11'> Aussi je vous dis que plusieurs viendront d'Orient et d'Occident, et seront à table avec Abraham et Isaac et Jacob dans le royaume des cieux ;</verse>
+        <verse osisID='Matt.8.12'> mais les fils du royaume seront jetés dans les ténèbres de dehors ; là seront les pleurs et les grincements de dents.</verse>
+        <verse osisID='Matt.8.13'> Et Jésus dit au centenier : Va, et qu'il te soit fait selon que tu as cru. Et à cette heure-là, le serviteur fut guéri.</verse>
+        <verse osisID='Matt.8.14'> Et Jésus étant entré dans la maison de Pierre, vit sa belle-mère, couchée et ayant la fièvre ; et il toucha sa main, et la fièvre la quitta. Et elle se leva, et elle le servait.</verse>
+        <verse osisID='Matt.8.15'> Et le soir étant venu, on lui présenta plusieurs démoniaques ; et il chassa les esprits par une parole. Et il guérit tous ceux qui étaient malades ;</verse>
+        <verse osisID='Matt.8.16'> afin que fût accompli ce qui a été dit par Esaïe le prophète : Lui-même a pris nos infirmités et a porté nos maladies.</verse>
+        <verse osisID='Matt.8.17'> Or Jésus voyant de grandes foules autour de lui, ordonna de passer à l'autre rive.</verse>
+        <verse osisID='Matt.8.18'> Et un scribe s'étant approché, lui dit : Maître, je te suivrai partout où tu iras.</verse>
+        <verse osisID='Matt.8.19'> Et Jésus lui dit : Les renards ont des tanières, et les oiseaux du ciel ont des nids ; mais le fils de l'homme n'a pas où reposer sa tête.</verse>
+        <verse osisID='Matt.8.20'> Et un autre de ses disciples lui dit : Seigneur, permets-moi d'aller d'abord ensevelir mon père.</verse>
+        <verse osisID='Matt.8.21'> Mais Jésus lui dit : Suis-moi, et laisse les morts ensevelir leurs morts.</verse>
+        <verse osisID='Matt.8.22'> Et quand il fut entré dans la barque, ses disciples le suivirent.</verse>
+        <verse osisID='Matt.8.23'> Et voici, une grande tempête s'éleva sur la mer, en sorte que la barque était couverte par les flots ; mais lui dormait.</verse>
+        <verse osisID='Matt.8.24'> Et les disciples s'approchant, le réveillèrent, disant : Seigneur, sauve, nous périssons !</verse>
+        <verse osisID='Matt.8.25'> Et il leur dit : Pourquoi avez-vous peur, gens de petite foi ?</verse>
+        <verse osisID='Matt.8.26'> Alors s'étant levé, il réprimanda les vents et la mer, et il se fit un grand calme.</verse>
+        <verse osisID='Matt.8.27'> Et ces hommes furent dans l'admiration, et ils disaient : Quel est celui-ci, à qui même les vents et la mer obéissent ?</verse>
+        <verse osisID='Matt.8.28'> Et quand il fut arrivé à l'autre rive, dans la contrée des Gadaréniens, il vint au-devant de lui deux démoniaques, sortant des sépulcres et très dangereux, en sorte que personne ne pouvait passer par ce chemin-là.</verse>
+        <verse osisID='Matt.8.29'> Et voici, ils s'écrièrent, disant : Qu'y a-t-il entre nous et toi, Fils de Dieu ? Es-tu venu ici pour nous tourmenter avant le temps ?</verse>
+        <verse osisID='Matt.8.30'> Or il y avait loin d'eux un grand troupeau de pourceaux qui paissaient.</verse>
+        <verse osisID='Matt.8.31'> Et les démons le prièrent, disant : Si tu nous chasses, envoie-nous dans ce troupeau de pourceaux.</verse>
+        <verse osisID='Matt.8.32'> Et il leur dit : Allez. Et eux étant sortis, s'en allèrent dans les pourceaux ; et voici, tout le troupeau s'élança avec impétuosité en bas la pente, dans la mer, et ils périrent dans les eaux.</verse>
+        <verse osisID='Matt.8.33'> Et ceux qui les paissaient s'enfuirent, et étant allés dans la ville, ils racontèrent tout, et ce qui était arrivé aux démoniaques.</verse>
+        <verse osisID='Matt.8.34'> Et voici, toute la ville sortit au-devant de Jésus ; et dès qu'ils le virent, ils le prièrent de s'éloigner de leur territoire.</verse>
+      </chapter>
+      <chapter osisID='Matt.9'>
+        <verse osisID='Matt.9.1'> Or, étant entré dans la barque, il traversa le lac et vint dans sa ville.</verse>
+        <verse osisID='Matt.9.2'> Et voici, on lui apporta un paralytique couché sur un lit. Et Jésus voyant leur foi, dit au paralytique : Prends courage, mon enfant, tes péchés sont pardonnes.</verse>
+        <verse osisID='Matt.9.3'> Et voici, quelques-uns des scribes dirent en eux-mêmes : Celui-ci blasphème.</verse>
+        <verse osisID='Matt.9.4'> Et Jésus, voyant leurs pensées, dit : Pourquoi pensez-vous de mauvaises choses dans vos cœurs ?</verse>
+        <verse osisID='Matt.9.5'> Car lequel est le plus aisé, de dire : Tes péchés sont pardonnés, ou de dire : Lève-toi et marche ?</verse>
+        <verse osisID='Matt.9.6'> Or, afin que vous sachiez que le fils de l'homme a sur la terre le pouvoir de pardonner les péchés,... lève-toi, dit-il alors au paralytique, prends ton lit et va-t'en dans ta maison.</verse>
+        <verse osisID='Matt.9.7'> Et s'étant levé, il s'en alla dans sa maison.</verse>
+        <verse osisID='Matt.9.8'> Ce que les foules ayant vu, elles furent remplies de crainte, et elles glorifièrent Dieu, qui a donné un tel pouvoir aux hommes.</verse>
+        <verse osisID='Matt.9.9'> Et Jésus étant parti de là, vit en passant un homme nommé Matthieu, assis au bureau des péages, et il lui dit : Suis-moi. Et se levant, il le suivit.</verse>
+        <verse osisID='Matt.9.10'> Et il arriva que, comme il était à table dans la maison, voici beaucoup de péagers et de pécheurs vinrent et se mirent à table avec Jésus et ses disciples.</verse>
+        <verse osisID='Matt.9.11'> Et les pharisiens voyant cela, dirent à ses disciples : Pourquoi votre maître mange-t-il avec les péagers et les pécheurs ?</verse>
+        <verse osisID='Matt.9.12'> Et Jésus l'ayant entendu, dit : Ceux qui sont en santé n'ont pas besoin de médecin ; mais ceux qui se portent mal.</verse>
+        <verse osisID='Matt.9.13'> Or allez, et apprenez ce que signifie cette parole : Je veux la miséricorde et non le sacrifice ; car je ne suis pas venu appeler des justes, mais des pécheurs.</verse>
+        <verse osisID='Matt.9.14'> Alors les disciples de Jean viennent à lui, disant : Pourquoi nous et les pharisiens jeûnons-nous souvent, tandis que tes disciples ne jeûnent point ?</verse>
+        <verse osisID='Matt.9.15'> Et Jésus leur dit : Les amis de l'époux peuvent-ils être dans le deuil pendant que l'époux est avec eux ? mais des jours viendront où l'époux leur sera ôté, et alors ils jeûneront.</verse>
+        <verse osisID='Matt.9.16'> Personne ne met une pièce de drap neuf à un vieil habit ; car la pièce emporte une partie de l'habit, et la déchirure en devient pire.</verse>
+        <verse osisID='Matt.9.17'> On ne met pas non plus du vin nouveau dans de vieilles outres ; autrement les outres, se rompent, et le vin se répand, et les outres sont perdues ; mais on met le vin nouveau dans des outres neuves, et tous les deux se conservent ensemble.</verse>
+        <verse osisID='Matt.9.18'> Comme il leur disait ces choses, voici un chef étant entré se prosterna devant lui, disant : Ma fille est morte il y a un instant, mais viens, pose la main sur elle, et elle vivra.</verse>
+        <verse osisID='Matt.9.19'> Et Jésus s'étant levé, le suivit avec ses disciples.</verse>
+        <verse osisID='Matt.9.20'> Et voici, une femme qui avait une perte de sang depuis douze ans, s'étant approchée par derrière, toucha le bord de son vêtement.</verse>
+        <verse osisID='Matt.9.21'> Car elle disait en elle-même : Si seulement je touche son vêtement, je serai sauvée.</verse>
+        <verse osisID='Matt.9.22'> Jésus s'étant retourné et la voyant, lui dit : Prends courage, ma fille, ta foi t'a sauvée. Et cette femme fut sauvée dès cette heure-là.</verse>
+        <verse osisID='Matt.9.23'> Et Jésus étant arrivé à la maison du chef et voyant les joueurs de flûte et la foule qui faisait grand bruit,</verse>
+        <verse osisID='Matt.9.24'> leur dit : Retirez-vous, car la jeune fille n'est pas morte, mais elle dort. Et ils se moquaient de lui.</verse>
+        <verse osisID='Matt.9.25'> Et quand la foule eut été mise dehors, il entra et prit la main de la jeune fille, et la jeune fille se leva.</verse>
+        <verse osisID='Matt.9.26'> Et le bruit s'en répandit par toute cette contrée.</verse>
+        <verse osisID='Matt.9.27'> Comme Jésus passait après être parti de là, deux aveugles le suivirent, criant et disant : Aie pitié de nous, fils de David.</verse>
+        <verse osisID='Matt.9.28'> Et quand il fut arrivé dans la maison, les aveugles vinrent à lui, et Jésus leur dit : Croyez-vous que je puisse faire cela ? Ils lui dirent : Oui, Seigneur.</verse>
+        <verse osisID='Matt.9.29'> Alors il leur toucha les yeux, disant : Qu'il vous soit fait selon votre foi.</verse>
+        <verse osisID='Matt.9.30'> Et leurs yeux furent ouverts ; et Jésus leur parla avec menace, disant : Prenez garde que personne ne le sache.</verse>
+        <verse osisID='Matt.9.31'> Mais eux, étant sortis, répandirent sa renommée dans toute cette contrée.</verse>
+        <verse osisID='Matt.9.32'> Et comme ils sortaient, voici on lui amena un homme muet, démoniaque.</verse>
+        <verse osisID='Matt.9.33'> Et le démon ayant été chassé, le muet parla. Et la foule étant dans l'admiration, disait : Jamais rien de semblable ne parut en Israël.</verse>
+        <verse osisID='Matt.9.34'> Mais les pharisiens disaient : C'est par le prince des démons qu'il chasse les démons.</verse>
+        <verse osisID='Matt.9.35'> Et Jésus parcourait toutes les villes et les villages, enseignant dans leurs synagogues, et prêchant l'Evangile du royaume et guérissant toute maladie et toute langueur.</verse>
+        <verse osisID='Matt.9.36'> Et voyant les foules, il fut ému de compassion à leur sujet ; car elles étaient fatiguées et gisantes comme des brebis qui n'ont point de berger.</verse>
+        <verse osisID='Matt.9.37'> Alors il dit à ses disciples : La moisson est grande, mais il y a peu d'ouvriers.</verse>
+        <verse osisID='Matt.9.38'> Priez donc le maître de la moisson, qu'il envoie des ouvriers dans sa moisson.</verse>
+      </chapter>
+      <chapter osisID='Matt.10'>
+        <verse osisID='Matt.10.1'> Et ayant appelé ses douze disciples, il leur donna autorité sur les esprits impurs, pour les chasser et pour guérir toute maladie et toute langueur.</verse>
+        <verse osisID='Matt.10.2'> Or, ce sont ici les noms des douze apôtres : le premier, Simon, nommé Pierre, et André son frère ; Jacques, fils de Zébédée, et Jean son frère ;</verse>
+        <verse osisID='Matt.10.3'> Philippe et Barthélemi ; Thomas et Matthieu le péager ; Jacques, fils d'Alphée, et Lebbée ;</verse>
+        <verse osisID='Matt.10.4'> Simon le Cananite et Judas Iscariot, celui qui le livra.</verse>
+        <verse osisID='Matt.10.5'> Ce sont ces douze que Jésus envoya, après leur avoir donné ses ordres, en disant : N'allez point vers les païens et n'entrez pas dans une ville des Samaritains ;</verse>
+        <verse osisID='Matt.10.6'> mais allez plutôt vers les brebis perdues de la maison d'Israël.</verse>
+        <verse osisID='Matt.10.7'> Et quand vous serez en route, prêchez, disant : Le royaume des cieux s'est approché.</verse>
+        <verse osisID='Matt.10.8'> Guérissez les malades, ressuscitez les morts, purifiez les lépreux, chassez les démons. Vous avez reçu gratuitement, donnez gratuitement.</verse>
+        <verse osisID='Matt.10.9'> Ne vous procurez ni or, ni argent, ni cuivre dans vos ceintures,</verse>
+        <verse osisID='Matt.10.10'> ni sac pour le chemin, ni deux tuniques, ni chaussures, ni bâton ; car l'ouvrier est digne de sa nourriture.</verse>
+        <verse osisID='Matt.10.11'> Mais dans quelque ville ou village que vous entriez, informez-vous qui y est digne, et demeurez là jusqu'à ce que vous partiez.</verse>
+        <verse osisID='Matt.10.12'> Et en entrant dans la maison, saluez-la.</verse>
+        <verse osisID='Matt.10.13'> Et si la maison est digne, que votre paix vienne sur elle ; mais si elle n'est pas digne, que votre paix retourne à vous.</verse>
+        <verse osisID='Matt.10.14'> Et lorsqu'on ne vous recevra pas et n'écoutera pas vos paroles, en sortant de cette maison ou de cette ville, secouez la poussière de vos pieds.</verse>
+        <verse osisID='Matt.10.15'> En vérité, je vous le dis, le sort du pays de Sodome et de Gomorrhe sera plus supportable, au jour du jugement, que celui de cette ville-là.</verse>
+        <verse osisID='Matt.10.16'> Voici, je vous envoie comme des brebis au milieu des loups ; soyez donc prudents comme les serpents et simples comme les colombes.</verse>
+        <verse osisID='Matt.10.17'> Et soyez en garde contre les hommes ; car ils vous livreront aux tribunaux et ils vous flagelleront dans leurs synagogues ;</verse>
+        <verse osisID='Matt.10.18'> et vous serez menés même devant des gouverneurs et des rois, à cause de moi, pour leur être en témoignage, à eux et aux païens.</verse>
+        <verse osisID='Matt.10.19'> Mais quand ils vous livreront, ne soyez point en souci de la manière dont vous parlerez ou de ce que vous direz ; car ce que vous aurez à dire vous sera donné à l'heure même,</verse>
+        <verse osisID='Matt.10.20'> car ce n'est pas vous qui parlez ; mais c'est l'Esprit de votre Père qui parle en vous.</verse>
+        <verse osisID='Matt.10.21'> Or un frère livrera son frère à la mort, et un père son enfant, et les enfants se soulèveront contre leurs parents et les feront mourir ;</verse>
+        <verse osisID='Matt.10.22'> et vous serez haïs de tous à cause de mon nom ; mais celui qui aura persévéré jusqu'à la fin, celui-là sera sauvé.</verse>
+        <verse osisID='Matt.10.23'> Or, quand ils vous persécuteront dans une ville, fuyez dans une autre ; car en vérité je vous le dis, vous n'aurez pas achevé de parcourir les villes d'Israël que le fils de l'homme sera venu.</verse>
+        <verse osisID='Matt.10.24'> Un disciple n'est pas au-dessus du maître, ni un serviteur au-dessus de son seigneur.</verse>
+        <verse osisID='Matt.10.25'> Il suffit au disciple d'être comme son maître, et au serviteur d'être comme son seigneur. S'ils ont nommé le maître de la maison Béelzébul, combien plus les gens de sa maison ?</verse>
+        <verse osisID='Matt.10.26'> Ne les craignez donc point ; car il n'y a rien de couvert qui ne doive être découvert, ni rien de caché qui ne doive être connu.</verse>
+        <verse osisID='Matt.10.27'> Ce que je vous dis dans les ténèbres, dites-le dans la lumière ; et ce qui vous est dit à l'oreille, prêchez-le sur les maisons.</verse>
+        <verse osisID='Matt.10.28'> Et ne craignez pas ceux qui tuent le corps et qui ne peuvent tuer l'âme ; mais craignez plutôt celui qui peut perdre et l'âme et le corps dans la géhenne.</verse>
+        <verse osisID='Matt.10.29'> Deux petits passereaux ne se vendent-ils pas pour un sou ? et pas un d'eux ne tombera en terre sans votre Père.</verse>
+        <verse osisID='Matt.10.30'> Et pour vous, les cheveux mêmes de votre tête sont tous comptés.</verse>
+        <verse osisID='Matt.10.31'> Ne craignez donc point ; vous valez mieux que beaucoup de passereaux.</verse>
+        <verse osisID='Matt.10.32'> Tout homme donc qui me confessera devant les hommes, je le confesserai, moi aussi, devant mon Père qui est aux cieux.</verse>
+        <verse osisID='Matt.10.33'> Mais quiconque me reniera devant les hommes, je le renierai, moi aussi, devant mon Père qui est aux cieux.</verse>
+        <verse osisID='Matt.10.34'> Ne pensez pas que je sois venu apporter la paix sur la terre ; je ne suis pas venu apporter la paix, mais l'épée.</verse>
+        <verse osisID='Matt.10.35'> Car je suis venu mettre la division entre un homme et son père, entre une fille et sa mère, entre une belle-fille et sa belle-mère ;</verse>
+        <verse osisID='Matt.10.36'> et un homme aura pour ennemis les gens de sa maison.</verse>
+        <verse osisID='Matt.10.37'> Celui qui aime père ou mère plus que moi, n'est pas digne de moi ; et celui qui aime fils ou fille plus que moi, n'est pas digne de moi.</verse>
+        <verse osisID='Matt.10.38'> Et celui qui ne prend pas sa croix et ne me suit pas, n'est pas digne de moi.</verse>
+        <verse osisID='Matt.10.39'> Celui qui aura trouvé sa vie, la perdra ; et celui qui aura perdu sa vie à cause de moi, la trouvera.</verse>
+        <verse osisID='Matt.10.40'> Celui qui vous reçoit me reçoit, et celui qui me reçoit, reçoit celui qui m'a envoyé.</verse>
+        <verse osisID='Matt.10.41'> Celui qui reçoit un prophète, en qualité de prophète, recevra une récompense de prophète, et celui qui reçoit un juste, en qualité de juste, recevra une récompense de juste.</verse>
+        <verse osisID='Matt.10.42'> Et quiconque aura donné à boire seulement un verre d'eau froide à l'un de ces petits, en qualité de disciple, je vous dis en vérité qu'il ne perdra point sa récompense.</verse>
+      </chapter>
+      <chapter osisID='Matt.11'>
+        <verse osisID='Matt.11.1'> Et il arriva, quand Jésus eut achevé de donner ses ordres à ses douze disciples, qu'il partit de là pour enseigner et prêcher dans leurs villes.</verse>
+        <verse osisID='Matt.11.2'> Or Jean, ayant ouï parler dans la prison des œuvres du Christ, lui envoya dire par ses disciples :</verse>
+        <verse osisID='Matt.11.3'> Es-tu celui qui doit venir, ou devons-nous en attendre un autre ?</verse>
+        <verse osisID='Matt.11.4'> Et Jésus répondant leur dit : Allez et rapportez à Jean ce que vous entendez et voyez :</verse>
+        <verse osisID='Matt.11.5'> Les aveugles recouvrent la vue et les boiteux marchent, les lépreux sont purifiés et les sourds entendent, les morts ressuscitent et l'Evangile est annoncé aux pauvres.</verse>
+        <verse osisID='Matt.11.6'> Et heureux est celui pour qui je ne serai pas une occasion de chute !</verse>
+        <verse osisID='Matt.11.7'> Or, comme ils s'en allaient, Jésus se mit à dire aux foules au sujet de Jean : Qu'êtes-vous allés voir au désert ? Un roseau agité par le vent ?</verse>
+        <verse osisID='Matt.11.8'> Mais qu'êtes-vous allés voir ? Un homme vêtu de vêtements délicats ? Voilà, ceux qui portent des vêtements délicats sont dans les maisons des rois.</verse>
+        <verse osisID='Matt.11.9'> Mais qu'êtes-vous allés voir ? Un prophète ? Oui, vous dis-je, et plus qu'un prophète.</verse>
+        <verse osisID='Matt.11.10'> C'est celui-ci de qui il est écrit : Voici, j'envoie mon messager devant ta face qui préparera ton chemin devant toi.</verse>
+        <verse osisID='Matt.11.11'> En vérité, je vous le dis, entre ceux qui il sont nés de femme, il n'en a point été suscité de plus grand que Jean-Baptiste ; mais celui qui est plus petit dans le royaume des cieux est plus grand que lui.</verse>
+        <verse osisID='Matt.11.12'> Or, depuis les jours de Jean-Baptiste jusqu'à maintenant, le royaume des cieux est pris par la violence, et ce sont des violents qui le ravissent.</verse>
+        <verse osisID='Matt.11.13'> Car tous les prophètes et la loi ont prophétisé jusqu'à Jean ;</verse>
+        <verse osisID='Matt.11.14'> et si vous voulez recevoir ceci, il est cet Elie qui doit venir.</verse>
+        <verse osisID='Matt.11.15'> Que celui qui a des oreilles, entende !</verse>
+        <verse osisID='Matt.11.16'> Mais à qui comparerai-je cette génération ? Elle ressemble à des enfants assis dans les places publiques, qui crient aux autres,</verse>
+        <verse osisID='Matt.11.17'> et leur disent : Nous vous avons joué de la flûte, et vous n'avez point dansé ; nous avons chanté des complaintes, et vous ne vous êtes point lamentés.</verse>
+        <verse osisID='Matt.11.18'> Car Jean est venu ne mangeant ni ne buvant ; et ils disent : Il a un démon.</verse>
+        <verse osisID='Matt.11.19'> Le Fils de l'homme est venu mangeant et buvant, et ils disent : Voici un mangeur et un buveur, un ami des péagers et des pécheurs. Mais la sagesse a été justifiée de la part de ses enfants.</verse>
+        <verse osisID='Matt.11.20'> Alors il commença à faire des reproches aux villes dans lesquelles avaient eu lieu la plupart de ses miracles, parce qu'elles ne s'étaient point repenties.</verse>
+        <verse osisID='Matt.11.21'> Malheur à toi, Corazin ! malheur à toi, Bethsaïda ! car si les miracles qui ont été faits au milieu de vous avaient été faits à Tyr et à Sidon, il y a longtemps qu'elles se seraient repenties avec le sac et la cendre.</verse>
+        <verse osisID='Matt.11.22'> C'est pourquoi je vous le dis : Tyr et Sidon seront au jour du jugement dans une condition plus supportable que vous.</verse>
+        <verse osisID='Matt.11.23'> Et toi, Capernaüm, qui as été élevée jusqu'au ciel, tu seras abaissée jusqu'au séjour des morts ; car si les miracles qui ont été faits au milieu de toi eussent été faits à Sodome, elle subsisterait encore aujourd'hui.</verse>
+        <verse osisID='Matt.11.24'> C'est pourquoi je vous dis que la terre de Sodome sera au jour du jugement dans une condition plus supportable que toi.</verse>
+        <verse osisID='Matt.11.25'> En ce temps-là, Jésus prenant la parole dit : Je te loue, ô Père ! Seigneur du ciel et de la terre, de ce que tu as caché ces choses aux sages et aux intelligents, et de ce que tu les as révélées aux enfants.</verse>
+        <verse osisID='Matt.11.26'> Oui, Père, parce que tel a été ton bon plaisir devant toi.</verse>
+        <verse osisID='Matt.11.27'> Toutes choses m'ont été livrées par mon Père ; et nul ne connaît le Fils, si ce n'est le Père, et nul ne connaît le Père, si ce n'est le Fils, et celui à qui le Fils veut le révéler.</verse>
+        <verse osisID='Matt.11.28'> Venez à moi, vous tous qui êtes fatigués et chargés, et moi je vous soulagerai.</verse>
+        <verse osisID='Matt.11.29'> Chargez-vous de mon joug, et apprenez de moi, parce que je suis doux et humble de cœur, et vous trouverez du repos pour vos âmes ;</verse>
+        <verse osisID='Matt.11.30'> car mon joug est doux et mon fardeau est léger.</verse>
+      </chapter>
+      <chapter osisID='Matt.12'>
+        <verse osisID='Matt.12.1'> En ce temps-là, Jésus passa par les blés un jour de sabbat ; or ses disciples eurent faim ; et ils se mirent à arracher des épis et à manger.</verse>
+        <verse osisID='Matt.12.2'> Or les pharisiens, voyant cela, lui dirent : Voici, tes disciples font ce qu'il n'est pas permis de faire le jour du sabbat.</verse>
+        <verse osisID='Matt.12.3'> Mais il leur dit : N'avez-vous pas lu ce que fit David quand il eut faim, lui et ceux qui étaient avec lui :</verse>
+        <verse osisID='Matt.12.4'> comment il entra dans la maison de Dieu, et mangea les pains de proposition, qu'il ne lui était pas permis de manger, non plus qu'à ceux qui étaient avec lui, mais aux seuls sacrificateurs ?</verse>
+        <verse osisID='Matt.12.5'> N'avez-vous pas lu dans la loi que les jours de sabbat les sacrificateurs violent le sabbat dans le temple, et ne sont point coupables ?</verse>
+        <verse osisID='Matt.12.6'> Or je vous dis qu'il y a ici quelque chose de plus grand que le temple.</verse>
+        <verse osisID='Matt.12.7'> Et si vous saviez ce que signifie : Je veux la miséricorde et non le sacrifice, vous n'auriez pas condamné ceux qui ne sont point coupables.</verse>
+        <verse osisID='Matt.12.8'> Car le fils de l'homme est maître du sabbat.</verse>
+        <verse osisID='Matt.12.9'> Et étant parti de là, il vint dans leur synagogue.</verse>
+        <verse osisID='Matt.12.10'> Et voici, il s'y trouvait un homme qui avait une main sèche. Et ils l'interrogèrent disant : Est-il permis de guérir dans les jours de sabbat ? C'était afin de pouvoir l'accuser.</verse>
+        <verse osisID='Matt.12.11'> Mais lui leur dit : Quel sera l'homme d'entre vous qui aura une seule brebis, et qui, si elle tombe dans une fosse le jour du sabbat, ne la saisira et ne l'en retirera pas ?</verse>
+        <verse osisID='Matt.12.12'> Or, combien un homme ne vaut-il pas plus qu'une brebis ? Il est donc permis de faire du bien les jours de sabbat.</verse>
+        <verse osisID='Matt.12.13'> Alors il dit à l'homme : Etends ta main. Et il l'étendit ; et elle fut rendue saine comme l'autre.</verse>
+        <verse osisID='Matt.12.14'> Et les pharisiens étant sortis, tinrent conseil contre lui, afin de le faire périr.</verse>
+        <verse osisID='Matt.12.15'> Mais Jésus, l'ayant su, se retira de là. Et beaucoup de gens le suivirent, et il les guérit tous ;</verse>
+        <verse osisID='Matt.12.16'> et il leur défendit avec menaces de le faire connaître ;</verse>
+        <verse osisID='Matt.12.17'> afin que fût accompli ce qui avait été dit par Esaïe le prophète, disant :</verse>
+        <verse osisID='Matt.12.18'>
+  Voici mon serviteur, que j'ai élu, mon bien-aimé, en qui mon âme a pris plaisir. Je mettrai mon Esprit sur lui, et il annoncera le jugement aux nations.
+</verse>
+        <verse osisID='Matt.12.19'>
+  Il ne contestera point, et ne criera point, et l'on n'entendra point sa voix dans les rues.
+</verse>
+        <verse osisID='Matt.12.20'>
+   Il ne brisera point le roseau froissé, et il n'éteindra point le lumignon fumant, jusqu'à ce qu'il ait fait triompher le jugement ;
+</verse>
+        <verse osisID='Matt.12.21'>
+  et les nations espéreront en son nom.
+</verse>
+        <verse osisID='Matt.12.22'> Alors lui fut amené un démoniaque aveugle et muet ; et il le guérit ; de sorte que l'aveugle et muet parlait et voyait.</verse>
+        <verse osisID='Matt.12.23'> Et toute la foule fut stupéfaite, et elle disait : Celui-ci serait-il le fils de David ?</verse>
+        <verse osisID='Matt.12.24'> Mais les pharisiens, entendant cela, dirent : Celui-ci ne chasse les démons que par Béelzébul, le prince des démons.</verse>
+        <verse osisID='Matt.12.25'> Mais Jésus connaissant leurs pensées, leur dit : Tout royaume divisé contre lui-même est réduit en désert, et toute ville ou toute maison divisée contre elle-même ne subsistera pas.</verse>
+        <verse osisID='Matt.12.26'> Et si Satan chasse Satan, il est divisé contre lui-même. Comment donc son royaume subsistera-t-il ?</verse>
+        <verse osisID='Matt.12.27'> Et si c'est par Béelzébul que moi je chasse les démons, vos fils, par qui les chassent-ils ? C'est pourquoi ils seront eux-mêmes vos juges.</verse>
+        <verse osisID='Matt.12.28'> Mais si c'est par l'Esprit de Dieu que moi je chasse les démons, le royaume de Dieu est donc parvenu jusqu'à vous.</verse>
+        <verse osisID='Matt.12.29'> Ou comment quelqu'un peut-il entrer dans la maison de l'homme fort et piller son bien, s'il n'a auparavant lié l'homme fort ; et alors il pillera sa maison ?</verse>
+        <verse osisID='Matt.12.30'> Celui qui n'est pas avec moi est contre moi, et celui qui n'assemble pas avec moi disperse.</verse>
+        <verse osisID='Matt.12.31'> C'est pourquoi je vous dis : Tout péché et tout blasphème sera pardonné aux hommes ; mais le blasphème contre l'Esprit ne sera point pardonné aux hommes.</verse>
+        <verse osisID='Matt.12.32'> Et si quelqu'un dit une parole contre le fils de l'homme, il lui sera pardonné ; mais si quelqu'un parle contre l'Esprit-Saint, il ne lui sera point pardonné ni dans ce siècle, ni dans celui qui est à venir.</verse>
+        <verse osisID='Matt.12.33'> Ou faites l'arbre bon et son fruit bon ; ou faites l'arbre mauvais et son fruit mauvais, car au fruit on connaît l'arbre.</verse>
+        <verse osisID='Matt.12.34'> Race de vipères, comment pouvez-vous dire de bonnes choses, étant mauvais ? Car de l'abondance du cœur la bouche parle.</verse>
+        <verse osisID='Matt.12.35'> L'homme bon tire les bonnes choses du bon trésor ; et l'homme mauvais tire de mauvaises choses du mauvais trésor.</verse>
+        <verse osisID='Matt.12.36'> Or je vous dis que toute parole oiseuse que les hommes auront prononcée, ils en rendront compte au jour du jugement ;</verse>
+        <verse osisID='Matt.12.37'> car par tes paroles tu seras justifié, et par tes paroles tu seras condamné.</verse>
+        <verse osisID='Matt.12.38'> Alors quelques-uns des scribes et des pharisiens lui répondirent, disant : Maître, nous voulons voir un signe de toi.</verse>
+        <verse osisID='Matt.12.39'> Mais lui, répondant, leur dit : Une génération méchante et adultère recherche un signe ; mais il ne lui sera point donné de signe, si ce n'est le signe de Jonas le prophète.</verse>
+        <verse osisID='Matt.12.40'> Car, comme Jonas fut dans le ventre du grand poisson trois jours et trois nuits, ainsi le fils de l'homme sera dans le sein de la terre trois jours et trois nuits.</verse>
+        <verse osisID='Matt.12.41'> Les hommes de Ninive se lèveront au jour du jugement avec cette génération, et la condamneront ; parce qu'ils se repentirent à la prédication de Jonas ; et voici, il y a ici plus que Jonas.</verse>
+        <verse osisID='Matt.12.42'> La reine du midi se lèvera au jour du jugement avec cette génération, et la condamnera ; car elle vint des extrémités de la terre pour entendre la sagesse de Salomon ; et voici, il y a ici plus que Salomon.</verse>
+        <verse osisID='Matt.12.43'> Or, lorsque l'esprit impur est sorti de l'homme, il parcourt des lieux arides, cherchant du repos, et il n'en trouve point.</verse>
+        <verse osisID='Matt.12.44'> Alors il dit : Je retournerai dans ma maison, d'où je suis sorti ; et étant venu, il la trouve vide, balayée et ornée.</verse>
+        <verse osisID='Matt.12.45'> Alors il s'en va, et prend avec lui sept autres esprits plus méchants que lui, et étant entrés, ils habitent là ; et la dernière condition de cet homme-là est pire que la première. Il en sera de même aussi pour cette méchante génération.</verse>
+        <verse osisID='Matt.12.46'> Comme il parlait encore aux foules, voici sa mère et ses frères se tenaient dehors, cherchant à lui parler.</verse>
+        <verse osisID='Matt.12.47'> Et quelqu'un lui dit : Voilà, ta mère et tes frères se tiennent dehors, cherchant à te parler.</verse>
+        <verse osisID='Matt.12.48'> Mais lui, répondant, dit à celui qui lui parlait : Qui est ma mère, et qui sont mes frères ?</verse>
+        <verse osisID='Matt.12.49'> ? Et étendant sa main sur ses disciples, il dit : Voici ma mère et mes frères.</verse>
+        <verse osisID='Matt.12.50'> Car quiconque fera la volonté de mon Père qui est dans les cieux, celui-là est mon frère, et ma sœur, et ma mère.</verse>
+      </chapter>
+      <chapter osisID='Matt.13'>
+        <verse osisID='Matt.13.1'> Ce jour-là, Jésus étant sorti de la maison, s'assit au bord de la mer.</verse>
+        <verse osisID='Matt.13.2'> Et de grandes foules s'assemblèrent auprès de lui, de sorte que, montant dans la barque, il s'y assit ; et toute la foule se tenait sur le rivage.</verse>
+        <verse osisID='Matt.13.3'> Et il leur parla en paraboles sur beaucoup de choses, disant : Voici, le semeur sortit pour semer ;</verse>
+        <verse osisID='Matt.13.4'> et comme il semait, une partie tomba le long du chemin, et les oiseaux vinrent et la mangèrent toute.</verse>
+        <verse osisID='Matt.13.5'> Une autre tomba sur des endroits rocailleux, où elle n'avait pas beaucoup de terre, et aussitôt elle leva, parce qu'elle n'avait pas une terre profonde.</verse>
+        <verse osisID='Matt.13.6'> Mais le soleil s'étant levé, elle fut brûlée, et parce qu'elle n'avait pas de racine, elle sécha.</verse>
+        <verse osisID='Matt.13.7'> Une autre tomba parmi les épines, et les épines montèrent et l'étouffèrent.</verse>
+        <verse osisID='Matt.13.8'> Et une autre tomba dans la bonne terre, et donna du fruit ; un grain cent, un autre soixante, et un autre trente.</verse>
+        <verse osisID='Matt.13.9'> Que celui qui a des oreilles, entende !</verse>
+        <verse osisID='Matt.13.10'> Et les disciples s'étant approchés, lui dirent : Pourquoi leur parles-tu en paraboles ?</verse>
+        <verse osisID='Matt.13.11'> Et, répondant, il leur dit : Parce qu'il vous a été donné de connaître les mystères du royaume des cieux ; mais à eux, cela ne leur a pas été donné.</verse>
+        <verse osisID='Matt.13.12'> Car à celui qui a, il sera donné, et il aura en abondance ; mais pour celui qui n'a pas, cela même qu'il a lui sera ôté.</verse>
+        <verse osisID='Matt.13.13'> C'est pourquoi je leur parle en paraboles : parce qu'en voyant ils ne voient point, et qu'en entendant ils n'entendent ni ne comprennent.</verse>
+        <verse osisID='Matt.13.14'> Et pour eux s'accomplit la prophétie d'Esaïe, qui dit : Vous entendrez de vos oreilles, et vous ne comprendrez point ; et en regardant, vous regarderez, et vous ne verrez point.</verse>
+        <verse osisID='Matt.13.15'>
+  Car le cœur de ce peuple s'est engraissé ; et ils ont ouï dur de leurs oreilles, et ils ont fermé leurs yeux, de peur qu'ils ne voient des yeux, et qu'ils n'entendent des oreilles, et qu'ils ne comprennent du cœur, et qu'ils ne se convertissent, et que je ne les guérisse.
+</verse>
+        <verse osisID='Matt.13.16'> Mais pour vous, heureux sont vos yeux, parce qu'ils voient, et vos oreilles, parce qu'elles entendent.</verse>
+        <verse osisID='Matt.13.17'> Car en vérité je vous dis que beaucoup de prophètes et de justes ont désiré voir ce que vous voyez, et ne l'ont pas vu, et entendre ce que vous entendez, et ne l'ont pas entendu.</verse>
+        <verse osisID='Matt.13.18'> Vous donc, écoutez la parabole du semeur.</verse>
+        <verse osisID='Matt.13.19'> Quiconque entend la parole du royaume, et ne la comprend pas, le malin vient, et ravit ce qui a été semé dans son cœur ; c'est celui qui a reçu la semence le long du chemin.</verse>
+        <verse osisID='Matt.13.20'> Et celui qui a reçu la semence dans des endroits rocailleux, c'est celui qui entendant la parole, et la recevant aussitôt avec joie,</verse>
+        <verse osisID='Matt.13.21'> n'a cependant point de racine en lui-même, mais n'est que pour un temps ; et lorsque l'affliction ou la persécution survient à cause de la parole, il y trouve aussitôt une occasion de chute.</verse>
+        <verse osisID='Matt.13.22'> Et celui qui a reçu la semence parmi les épines, c'est celui qui entend la parole ; mais les soucis du siècle et la séduction des richesses étouffent la parole ; et elle devient infructueuse.</verse>
+        <verse osisID='Matt.13.23'> Et celui qui a reçu la semence dans la bonne terre, c'est celui qui entend et comprend la parole, qui, par conséquent, porte du fruit, et un grain en produit cent, l'autre soixante, l'autre trente.</verse>
+        <verse osisID='Matt.13.24'> Il leur proposa une autre parabole, disant : Le royaume des cieux est semblable à un homme qui a semé de bonne semence dans son champ.</verse>
+        <verse osisID='Matt.13.25'> Mais, pendant que les hommes dormaient, son ennemi vint et sema de l'ivraie parmi le blé, et s'en alla.</verse>
+        <verse osisID='Matt.13.26'> Or quand l'herbe eut poussé et eut produit du fruit, alors l'ivraie parut aussi.</verse>
+        <verse osisID='Matt.13.27'> Et les serviteurs du maître de la maison vinrent à lui et lui dirent : Seigneur, n'as-tu pas semé de bonne semence dans ton champ ? D'où vient donc qu'il porte de l'ivraie ?</verse>
+        <verse osisID='Matt.13.28'> Et il leur répondit : C'est un ennemi qui a fait cela. Et les serviteurs lui dirent : Veux-tu donc que nous allions la cueillir ?</verse>
+        <verse osisID='Matt.13.29'> Mais il dit : Non, de peur qu'en cueillant l'ivraie, vous ne déraciniez le blé en même temps.</verse>
+        <verse osisID='Matt.13.30'> Laissez-les croître tous deux ensemble jusqu'à la moisson ; et au temps de la moisson, je dirai aux moissonneurs : Cueillez premièrement l'ivraie, et liez-la en gerbes pour la brûler ; mais, quant au blé, amassez-le dans mon grenier.</verse>
+        <verse osisID='Matt.13.31'> Il leur proposa une autre parabole, disant : Le royaume des cieux est semblable à un grain de sénevé, qu'un homme a pris et semé dans son champ.</verse>
+        <verse osisID='Matt.13.32'> C'est bien la plus petite de toutes les semences, mais quand il a crû, il est plus grand que les légumes et devient un arbre, tellement que les oiseaux du ciel viennent et s'abritent dans ses branches.</verse>
+        <verse osisID='Matt.13.33'> Il leur dit une autre parabole : Le royaume des cieux est semblable à du levain, qu'une femme a pris et caché parmi trois mesures de farine, jusqu'à ce que tout fût levé.</verse>
+        <verse osisID='Matt.13.34'> Toutes ces choses, Jésus les dit en paraboles aux foules, et il ne leur disait rien sans parabole ;</verse>
+        <verse osisID='Matt.13.35'> afin que fût accompli ce qui a été dit par le prophète : J'ouvrirai ma bouche en paraboles, je proclamerai des choses cachées depuis la fondation du monde.</verse>
+        <verse osisID='Matt.13.36'> Alors, ayant renvoyé la foule, il entra dans la maison ; et ses disciples s'approchèrent de lui, disant : Explique-nous la parabole de l'ivraie du champ.</verse>
+        <verse osisID='Matt.13.37'> Il répondit et dit : Celui qui sème la bonne semence, c'est le fils de l'homme.</verse>
+        <verse osisID='Matt.13.38'> Le champ, c'est le monde. La bonne semence, ce sont les fils du royaume. L'ivraie, ce sont les fils du malin.</verse>
+        <verse osisID='Matt.13.39'> L'ennemi qui l'a semée, c'est le diable. La moisson, c'est la consommation du temps ; et les moissonneurs sont les anges.</verse>
+        <verse osisID='Matt.13.40'> Comme donc on arrache l'ivraie, et qu'on la brûle dans le feu, il en sera de même à la consommation du temps.</verse>
+        <verse osisID='Matt.13.41'> Le fils de l'homme enverra ses anges, qui arracheront de son royaume tous les scandales, et ceux qui font l'iniquité.</verse>
+        <verse osisID='Matt.13.42'> Et ils les jetteront dans la fournaise du feu ; là seront les pleurs et le grincement des dents.</verse>
+        <verse osisID='Matt.13.43'> Alors les justes resplendiront comme le soleil dans le royaume de leur Père. Que celui qui a des oreilles entende !</verse>
+        <verse osisID='Matt.13.44'> Le royaume des cieux est encore semblable à un trésor caché dans un champ, qu'un homme a trouvé, et qu'il a caché ; et de la joie qu'il en a, il s'en va, et vend tout ce qu'il a, et achète ce champ.</verse>
+        <verse osisID='Matt.13.45'> Le royaume des cieux est encore semblable à un marchand qui cherche de belles perles ;</verse>
+        <verse osisID='Matt.13.46'> et ayant trouvé une perle de grand prix, il s'en est allé, a vendu tout ce qu'il possédait, et l'a achetée.</verse>
+        <verse osisID='Matt.13.47'> Le royaume des cieux est encore semblable à un filet qui a été jeté dans la mer, et qui a ramassé des poissons de toutes sortes ;</verse>
+        <verse osisID='Matt.13.48'> et quand il fut rempli, les pêcheurs le tirèrent sur le rivage ; et s'étant assis, ils recueillirent dans des vases ce qui était bon, et jetèrent dehors ce qui était mauvais.</verse>
+        <verse osisID='Matt.13.49'> Il en sera de même à la consommation du temps : les anges sortiront et sépareront les méchants du milieu des justes,</verse>
+        <verse osisID='Matt.13.50'> et ils les jetteront dans la fournaise du feu ; là seront les pleurs et le grincement des dents.</verse>
+        <verse osisID='Matt.13.51'> Avez-vous compris toutes ces choses ? Ils lui répondirent : Oui.</verse>
+        <verse osisID='Matt.13.52'> Et il leur dit : C'est pourquoi tout scribe qui a été instruit pour le royaume des cieux est semblable à un maître de maison qui tire de son trésor des choses nouvelles et des choses anciennes.</verse>
+        <verse osisID='Matt.13.53'> Et il arriva, lorsque Jésus eut achevé ces paraboles, qu'il partit de là.</verse>
+        <verse osisID='Matt.13.54'> Et étant venu dans sa patrie, il les enseignait dans leur synagogue ; de sorte qu'ils étaient frappés d'étonnement, et qu'ils disaient : D'où viennent à celui-ci cette sagesse et ces miracles ?</verse>
+        <verse osisID='Matt.13.55'> Celui-ci n'est-il pas le fils du charpentier ? Sa mère ne s'appelle-t-elle pas Marie, et ses frères, Jacques et Joseph et Simon et Jude ?</verse>
+        <verse osisID='Matt.13.56'> Et ses sœurs ne sont-elles pas toutes parmi nous ? D'où lui viennent donc toutes ces choses ?</verse>
+        <verse osisID='Matt.13.57'> Et il était pour eux une occasion de chute. Mais Jésus leur dit : Un prophète n'est méprisé que dans son pays et dans sa maison.</verse>
+        <verse osisID='Matt.13.58'> Et il ne fit pas là beaucoup de miracles, à cause de leur incrédulité.</verse>
+      </chapter>
+      <chapter osisID='Matt.14'>
+        <verse osisID='Matt.14.1'> En ce temps-là, Hérode le tétrarque entendit parler de la renommée de Jésus.</verse>
+        <verse osisID='Matt.14.2'> Et il dit à ses serviteurs : C'est Jean-Baptiste ; c'est lui qui est ressuscité d'entre les morts ; et c'est pour cela que des puissances miraculeuses agissent en lui.</verse>
+        <verse osisID='Matt.14.3'> Car Hérode, ayant fait arrêter Jean, l'avait fait lier et mettre en prison, à cause d'Hérodias, la femme de Philippe, son frère ;</verse>
+        <verse osisID='Matt.14.4'> car Jean lui disait : Il ne t'est pas permis de l'avoir.</verse>
+        <verse osisID='Matt.14.5'> Et voulant le faire mourir, il craignait la foule, parce qu'on le regardait comme un prophète.</verse>
+        <verse osisID='Matt.14.6'> Mais comme on célébrait le jour de la naissance d'Hérode, la fille d'Hérodias dansa au milieu de l'assemblée, et plut à Hérode ;</verse>
+        <verse osisID='Matt.14.7'> de sorte qu'il promit avec serment de lui donner ce qu'elle demanderait.</verse>
+        <verse osisID='Matt.14.8'> Elle donc, poussée par sa mère : Donne-moi, dit-elle, ici, sur un plat, la tête de Jean-Baptiste.</verse>
+        <verse osisID='Matt.14.9'> Et le roi fut attristé, mais à cause de ses serments et des convives, il commanda qu'on la lui donnât,</verse>
+        <verse osisID='Matt.14.10'> et il envoya décapiter Jean dans la prison.</verse>
+        <verse osisID='Matt.14.11'> Et sa tête fut apportée sur un plat, et donnée à la jeune fille, et elle la porta à sa mère.</verse>
+        <verse osisID='Matt.14.12'> Et ses disciples vinrent et emportèrent le corps, et l'ensevelirent ; et ils vinrent l'annoncer à Jésus.</verse>
+        <verse osisID='Matt.14.13'> Mais Jésus l'ayant appris, se retira de là sur une barque en un lieu désert, à l'écart. Et les foules l'ayant su, le suivirent à pied, de diverses villes.</verse>
+        <verse osisID='Matt.14.14'> Et étant sorti, il vit une grande multitude ; et il fut ému de compassion envers eux, et il guérit leurs malades.</verse>
+        <verse osisID='Matt.14.15'> Mais le soir étant venu, les disciples s'approchèrent de lui, disant : Ce lieu est désert, et l'heure est déjà passée ; renvoie donc les foules, afin qu'elles s'en aillent dans les bourgades, et qu'elles achètent des vivres.</verse>
+        <verse osisID='Matt.14.16'> Mais Jésus leur dit : Elles n'ont pas besoin de s'en aller ; donnez-leur vous-mêmes à manger.</verse>
+        <verse osisID='Matt.14.17'> Et ils lui disent : Nous n'avons ici que cinq pains et deux poissons.</verse>
+        <verse osisID='Matt.14.18'> Et il dit : Apportez-les-moi ici.</verse>
+        <verse osisID='Matt.14.19'> Et après avoir commandé aux foules de s'asseoir sur l'herbe, il prit les cinq pains et les deux poissons, et levant les yeux au ciel, il prononça la bénédiction. Puis ayant rompu les pains, il les donna aux disciples, et les disciples les donnèrent à la foule.</verse>
+        <verse osisID='Matt.14.20'> Et tous mangèrent, et furent rassasiés ; et on emporta douze paniers pleins des morceaux qui restaient.</verse>
+        <verse osisID='Matt.14.21'> Or ceux qui avaient mangé étaient environ cinq mille hommes, sans compter les femmes et les petits enfants.</verse>
+        <verse osisID='Matt.14.22'> Et aussitôt, Jésus obligea ses disciples à monter dans la barque et à le précéder sur l'autre rive, pendant qu'il renverrait la foule.</verse>
+        <verse osisID='Matt.14.23'> Et après qu'il l'eut renvoyée, il monta sur la montagne, à l'écart, afin de prier ; et comme le soir était venu ; il était là seul.</verse>
+        <verse osisID='Matt.14.24'> Or la barque, déjà au milieu de la mer, était battue par les flots ; car le vent était contraire.</verse>
+        <verse osisID='Matt.14.25'> Mais à la quatrième veille de la nuit, il vint à eux, marchant sur la mer.</verse>
+        <verse osisID='Matt.14.26'> Et les disciples, le voyant marcher sur la mer, furent troublés, disant : C'est un fantôme ! Et de frayeur ils crièrent.</verse>
+        <verse osisID='Matt.14.27'> Mais aussitôt Jésus leur parla, disant : Rassurez-vous ; c'est moi, n'ayez point peur.</verse>
+        <verse osisID='Matt.14.28'> Et Pierre, lui répondant, dit : Seigneur, si c'est toi, ordonne que j'aille vers toi sur les eaux.</verse>
+        <verse osisID='Matt.14.29'> Jésus lui dit : Viens. Et Pierre, étant descendu de la barque, marcha sur les eaux et vint vers Jésus.</verse>
+        <verse osisID='Matt.14.30'> Mais voyant le vent, il eut peur ; et comme il commençait à enfoncer, il s'écria, disant : Seigneur, sauve-moi !</verse>
+        <verse osisID='Matt.14.31'> Et aussitôt Jésus, ayant étendu la main, le saisit et lui dit : Homme de petite foi, pourquoi as-tu douté ?</verse>
+        <verse osisID='Matt.14.32'> Et quand ils furent entrés dans la barque, le vent s'apaisa.</verse>
+        <verse osisID='Matt.14.33'> Et ceux qui étaient dans la barque vinrent et se prosternèrent devant lui, disant : Tu es véritablement le Fils de Dieu.</verse>
+        <verse osisID='Matt.14.34'> Puis ayant passé à l'autre bord, ils vinrent dans le pays de Génézareth.</verse>
+        <verse osisID='Matt.14.35'> Et les gens de ce lieu-là l'ayant reconnu, envoyèrent par toute la contrée d'alentour, et on lui amena tous les malades.</verse>
+        <verse osisID='Matt.14.36'> Et ils le priaient qu'ils pussent seulement toucher le bord de son vêtement, et tous ceux qui le touchèrent furent guéris.</verse>
+      </chapter>
+      <chapter osisID='Matt.15'>
+        <verse osisID='Matt.15.1'> Alors des scribes et des pharisiens venus de Jérusalem s'approchent de Jésus, disant :</verse>
+        <verse osisID='Matt.15.2'> Pourquoi tes disciples transgressent-ils la tradition des anciens ? car ils ne se lavent point les mains lorsqu'ils prennent leurs repas.</verse>
+        <verse osisID='Matt.15.3'> Mais lui, répondant, leur dit : Pourquoi, vous aussi, transgressez-vous le commandement de Dieu à cause de votre tradition ?</verse>
+        <verse osisID='Matt.15.4'> Car Dieu a commandé, disant : Honore ton père et ta mère ; et que celui qui maudit père ou mère soit mis à mort.</verse>
+        <verse osisID='Matt.15.5'> Mais vous, vous dites : Celui qui aura dit à son père ou à sa mère : Ce dont tu pourrais être assisté par moi est une offrande... Il n'honorera certainement pas son père ou sa mère !</verse>
+        <verse osisID='Matt.15.6'> Et vous avez annulé la loi de Dieu à cause de votre tradition.</verse>
+        <verse osisID='Matt.15.7'> Hypocrites, Esaïe a bien prophétisé de vous, en disant :</verse>
+        <verse osisID='Matt.15.8'>
+  Ce peuple m'honore de ses lèvres ; mais leur cœur est fort éloigné de moi.
+</verse>
+        <verse osisID='Matt.15.9'>
+  Mais c'est en vain qu'ils me rendent un culte, enseignant des doctrines qui ne sont que des commandements d'hommes.
+</verse>
+        <verse osisID='Matt.15.10'> Et ayant appelé à lui la foule, il leur dit : Ecoutez et comprenez :</verse>
+        <verse osisID='Matt.15.11'> ce n'est pas ce qui entre dans la bouche qui souille l'homme ; mais ce qui sort de la bouche, c'est là ce qui souille l'homme.</verse>
+        <verse osisID='Matt.15.12'> Alors ses disciples s'approchant, lui dirent : Sais-tu que les pharisiens, en entendant ces paroles, ont été scandalisés ?</verse>
+        <verse osisID='Matt.15.13'> Mais il leur répondit : Toute plante que mon Père céleste n'a point plantée sera déracinée.</verse>
+        <verse osisID='Matt.15.14'> Laissez-les ; ce sont des aveugles conducteurs d'aveugles. Que si un aveugle conduit un aveugle, ils tomberont tous deux dans la fosse.</verse>
+        <verse osisID='Matt.15.15'> Et Pierre, prenant la parole, lui dit : Explique-nous cette parabole.</verse>
+        <verse osisID='Matt.15.16'> Sur quoi il dit : Vous aussi, êtes- vous encore sans intelligence ?</verse>
+        <verse osisID='Matt.15.17'> Ne comprenez-vous pas que tout ce qui entre dans la bouche va dans le ventre et est rejeté au lieu secret ?</verse>
+        <verse osisID='Matt.15.18'> Mais ce qui sort de la bouche vient du cœur ; et c'est là ce qui souille l'homme.</verse>
+        <verse osisID='Matt.15.19'> Car du cœur sortent les mauvaises pensées, les meurtres, les adultères, les fornications, les larcins, les faux témoignages, les calomnies.</verse>
+        <verse osisID='Matt.15.20'> Ce sont ces choses-là qui souillent l'homme ; mais de manger sans s'être lavé les mains, cela ne souille point l'homme.</verse>
+        <verse osisID='Matt.15.21'> Et Jésus, étant parti de là, se retira dans le territoire de Tyr et de Sidon.</verse>
+        <verse osisID='Matt.15.22'> Et voici, une femme cananéenne, sortant de ces contrées, criait, disant : Aie pitié de moi, Seigneur, fils de David ; ma fille est cruellement tourmentée par le démon !</verse>
+        <verse osisID='Matt.15.23'> Mais il ne lui répondit pas un mot. Et ses disciples s'étant approchés le priaient disant : Renvoie-la, car elle crie derrière nous.</verse>
+        <verse osisID='Matt.15.24'> Et il répondit : Je n'ai été envoyé qu'aux brebis perdues de la maison d'Israël.</verse>
+        <verse osisID='Matt.15.25'> Mais elle, s'étant approchée, se prosternait devant lui, disant : Seigneur, secours-moi !</verse>
+        <verse osisID='Matt.15.26'> Il répondit : Il n'est pas permis de prendre le pain des enfants et de le jeter aux petits chiens.</verse>
+        <verse osisID='Matt.15.27'> Mais elle dit : Oui, Seigneur, car aussi les petits chiens mangent les miettes qui tombent de la table de leurs maîtres.</verse>
+        <verse osisID='Matt.15.28'> Alors Jésus, répondant, lui dit : femme, ta foi est grande ! Qu'il te soit fait comme tu le veux. Et dès cette heure-là, sa fille fut guérie.</verse>
+        <verse osisID='Matt.15.29'> Et Jésus, partant de là, vint près de la mer de Galilée ; et étant monté sur la montagne, il s'y assit.</verse>
+        <verse osisID='Matt.15.30'> Alors de grandes foules vinrent à lui, ayant avec elles des boiteux, des aveugles, des muets, des estropiés et beaucoup d'autres qu'ils jetèrent à ses pieds ; et il les guérit.</verse>
+        <verse osisID='Matt.15.31'> De sorte que la foule était dans l'admiration de voir des muets qui parlaient, des estropiés qui étaient guéris, des boiteux qui marchaient, des aveugles qui voyaient ; et ils glorifiaient le Dieu d'Israël.</verse>
+        <verse osisID='Matt.15.32'> Mais Jésus ayant appelé à lui ses disciples, leur dit : Je suis ému de compassion envers cette foule ; car il y a déjà trois jours qu'ils restent auprès de moi, et ils n'ont rien à manger ; et je ne veux pas les renvoyer à jeun, de peur qu'ils ne défaillent en chemin.</verse>
+        <verse osisID='Matt.15.33'> Et ses disciples lui disent : D'où aurions-nous, dans un désert, assez de pain pour rassasier une si grande foule ?</verse>
+        <verse osisID='Matt.15.34'> Et Jésus leur dit : Combien avez-vous de pains ? Et ils dirent : Sept, et quelques petits poissons.</verse>
+        <verse osisID='Matt.15.35'> Et ayant commandé à la foule de s'asseoir à terre,</verse>
+        <verse osisID='Matt.15.36'> il prit les sept pains et les poissons, et ayant rendu grâces, il les rompit, et il les donnait à ses disciples, et ses disciples à la foule.</verse>
+        <verse osisID='Matt.15.37'> Et tous mangèrent et furent rassasiés ; et on emporta sept corbeilles pleines des morceaux qui restaient.</verse>
+        <verse osisID='Matt.15.38'> Or ceux qui en avaient mangé étaient quatre mille hommes, sans compter les femmes et les petits enfants.</verse>
+        <verse osisID='Matt.15.39'> Alors Jésus ayant renvoyé les foules, monta dans la barque, et il vint au territoire de Magdala.</verse>
+      </chapter>
+      <chapter osisID='Matt.16'>
+        <verse osisID='Matt.16.1'> Alors les pharisiens et les sadducéens s'approchant de lui, lui demandèrent, pour le tenter, de leur montrer un signe venant du ciel.</verse>
+        <verse osisID='Matt.16.2'> Mais répondant il leur dit : Quand le soir est venu, vous dites : Il fera beau temps, car le ciel est rouge ;</verse>
+        <verse osisID='Matt.16.3'> et le matin, vous dites : y aura aujourd'hui de l'orage, car le ciel est d'un rouge sombre. Hypocrites, vous savez bien discerner l'apparence du ciel, et vous ne pouvez discerner les signes des temps ?</verse>
+        <verse osisID='Matt.16.4'> Une génération méchante et adultère demande un signe ; mais il ne lui sera donné aucun autre signe que le signe de Jonas. Et les laissant, il s'en alla.</verse>
+        <verse osisID='Matt.16.5'> Et les disciples, en passant à l'autre bord, avaient oublié de prendre des pains.</verse>
+        <verse osisID='Matt.16.6'> Or Jésus leur dit : Gardez-vous avec soin du levain des pharisiens et des sadducéens.</verse>
+        <verse osisID='Matt.16.7'> Mais ils raisonnaient en eux-mêmes, disant : C'est parce que nous n'avons point pris de pains.</verse>
+        <verse osisID='Matt.16.8'> Et Jésus, connaissant cela, dit : Pourquoi raisonnez-vous en vous-mêmes, gens de peu de foi, sur ce que vous n'avez point pris de pains ?</verse>
+        <verse osisID='Matt.16.9'> Ne comprenez-vous pas encore ? et ne vous rappelez-vous pas les cinq pains des cinq mille, et combien vous en remportâtes de paniers ;</verse>
+        <verse osisID='Matt.16.10'> ni les sept pains des quatre mille, et combien vous en remportâtes de corbeilles ?</verse>
+        <verse osisID='Matt.16.11'> Comment ne comprenez-vous pas que ce n'est pas de pains que je vous ai parlé ? Mais gardez-vous du levain des pharisiens et des sadducéens !</verse>
+        <verse osisID='Matt.16.12'> Alors ils comprirent que ce n'était pas du levain du pain qu'il leur avait dit de se garder, mais de la doctrine des pharisiens et des sadducéens.</verse>
+        <verse osisID='Matt.16.13'> Et Jésus étant arrivé sur le territoire de Césarée de Philippe, interrogeait ses disciples, disant : Qui disent les hommes que je suis, moi le fils de l'homme ?</verse>
+        <verse osisID='Matt.16.14'> Et ils dirent : Les uns, Jean-Baptiste ; d'autres, Elie ; d'autres, Jérémie, ou l'un des prophètes.</verse>
+        <verse osisID='Matt.16.15'> Il leur dit : Mais vous, qui dites-vous que je suis ?</verse>
+        <verse osisID='Matt.16.16'> Simon Pierre répondant dit : Tu es le Christ, le Fils du Dieu vivant.</verse>
+        <verse osisID='Matt.16.17'> Et Jésus répondant lui dit : Heureux es-tu, Simon, fils de Jona ; parce que ce ne sont pas la chair et le sang qui t'ont révélé cela, mais c'est mon Père qui est dans les cieux.</verse>
+        <verse osisID='Matt.16.18'> Et moi aussi je te dis que tu es Pierre et que sur ce roc-là je bâtirai mon Eglise, et les portes du séjour des morts ne prévaudront point contre elle.</verse>
+        <verse osisID='Matt.16.19'> Et je te donnerai les clefs du royaume des cieux ; et ce que tu auras lié sur la terre sera lié dans les cieux ; et ce que tu auras délié sur la terre sera délié dans les cieux.</verse>
+        <verse osisID='Matt.16.20'> Alors il défendit à ses disciples de dire à personne qu'il était, lui, le Christ.</verse>
+        <verse osisID='Matt.16.21'> Dès lors Jésus commença à montrer à ses disciples qu'il lui fallait aller à Jérusalem, et souffrir beaucoup de la part des anciens et des principaux sacrificateurs et des scribes, et être mis à mort, et ressusciter le troisième jour.</verse>
+        <verse osisID='Matt.16.22'> Et Pierre, l'ayant pris à part, se mit à le reprendre, disant : A Dieu ne plaise, Seigneur, cela ne t'arrivera certainement pas.</verse>
+        <verse osisID='Matt.16.23'> Mais lui, s'étant tourné, dit à Pierre : Va arrière de moi, Satan, tu m'es en scandale, parce que tu ne penses pas les choses qui sont de Dieu, mais celles qui sont des hommes.</verse>
+        <verse osisID='Matt.16.24'> Alors Jésus dit à ses disciples : Si quelqu'un veut venir après moi, qu'il renonce à lui-même, et qu'il se charge de sa croix, et qu'il me suive.</verse>
+        <verse osisID='Matt.16.25'> Car quiconque voudra sauver sa vie, la perdra ; et quiconque perdra sa vie à cause de moi, la trouvera.</verse>
+        <verse osisID='Matt.16.26'> Car que servira-t-il à un homme de gagner le monde entier, s'il perd son âme ? ou que donnera l'homme en échange de son âme ?</verse>
+        <verse osisID='Matt.16.27'> Car le fils de l'homme doit venir dans la gloire de son Père, avec ses anges ; et alors il rendra à chacun selon ses œuvres.</verse>
+        <verse osisID='Matt.16.28'> En vérité, je vous dis. qu'il y a quelques-uns de ceux qui sont ici présents, qui ne goûteront point la mort qu'ils n'aient vu le fils de l'homme venant en son règne.</verse>
+      </chapter>
+      <chapter osisID='Matt.17'>
+        <verse osisID='Matt.17.1'> Et six jours après, Jésus prend avec lui Pierre et Jacques et Jean son frère, et les mène à l'écart sur une haute montagne.</verse>
+        <verse osisID='Matt.17.2'> Et il fut transfiguré en leur présence, et son visage resplendit comme le soleil, tandis que ses vêtements devinrent blancs comme la lumière.</verse>
+        <verse osisID='Matt.17.3'> Et voici, Moïse et Elie leur apparurent, s'entretenant avec lui.</verse>
+        <verse osisID='Matt.17.4'> Alors Pierre, prenant la parole, dit à Jésus : Seigneur, il est bon que nous soyons ici ; si tu le veux, faisons ici trois tentes, une pour toi, et une pour Moïse, et une pour Elie.</verse>
+        <verse osisID='Matt.17.5'> Comme il parlait encore, voici, une nuée lumineuse les couvrit : et voici, une voix sortant de la nuée, dit : Celui-ci est mon Fils bien-aimé, en qui je me complais ; écoutez-le.</verse>
+        <verse osisID='Matt.17.6'> Ce que les disciples ayant entendu, ils tombèrent sur leur face et furent saisis d'une très grande crainte.</verse>
+        <verse osisID='Matt.17.7'> Mais Jésus s'étant approché, les toucha et leur dit : Levez-vous et n'ayez point peur.</verse>
+        <verse osisID='Matt.17.8'> Alors ayant levé les yeux, ils ne virent personne que Jésus seul.</verse>
+        <verse osisID='Matt.17.9'> Et comme ils descendaient de la montagne, Jésus leur commanda, disant : Ne parlez à personne de cette vision, jusqu'à ce que le fils de l'homme soit ressuscité d'entre les morts.</verse>
+        <verse osisID='Matt.17.10'> Et les disciples l'interrogèrent, disant : Pourquoi donc les scribes disent-ils qu'il faut qu'Elie vienne premièrement ?</verse>
+        <verse osisID='Matt.17.11'> Et il répondit : Il est vrai qu'Elie doit venir et rétablir toutes choses.</verse>
+        <verse osisID='Matt.17.12'> Mais je vous dis qu'Elie est déjà venu, et ils ne l'ont point reconnu, mais ils lui ont fait tout ce qu'ils ont voulu. C'est de même aussi que le fils de l'homme doit souffrir de leur part.</verse>
+        <verse osisID='Matt.17.13'> Les disciples comprirent alors que c'était de Jean-Baptiste qu'il leur parlait.</verse>
+        <verse osisID='Matt.17.14'> Et lorsqu'ils furent arrivés près de la foule, un homme s'approcha de lui et se jeta à genoux devant lui,</verse>
+        <verse osisID='Matt.17.15'> disant : Seigneur, aie pitié de mon fils, parce qu'il est lunatique, et il est bien malade ; car il tombe souvent dans le feu et souvent dans l'eau.</verse>
+        <verse osisID='Matt.17.16'> Et je l'ai amené à tes disciples ; et ils n'ont pu le guérir.</verse>
+        <verse osisID='Matt.17.17'> Et Jésus répondant, dit : O génération incrédule et perverse ! jusques à quand serai-je avec vous ? jusques à quand vous supporterai-je ? Amenez-le-moi ici.</verse>
+        <verse osisID='Matt.17.18'> Et Jésus le réprimanda, et le démon sortit de lui ; et dès cette heure-là l'enfant fut guéri.</verse>
+        <verse osisID='Matt.17.19'> Alors les disciples s'approchèrent de Jésus en particulier, et lui dirent : Pourquoi n'avons-nous pas pu le chasser ?</verse>
+        <verse osisID='Matt.17.20'> Et il leur dit : A cause de votre peu de foi. Car, en vérité, je vous dis que si vous avez de la foi comme un grain de sénevé, vous direz à cette montagne : Transporte-toi d'ici là, et elle se transportera, et rien ne vous sera impossible.</verse>
+        <verse osisID='Matt.17.21'> Mais cette sorte de démons ne sort que par la prière et par le jeûne.</verse>
+        <verse osisID='Matt.17.22'> Or, comme ils se trouvaient ensemble dans la Galilée, Jésus leur dit : Le fils de l'homme doit être livré entre les mains des hommes ;</verse>
+        <verse osisID='Matt.17.23'> et ils le feront mourir ; et le troisième jour il ressuscitera. Et ils furent fort attristés.</verse>
+        <verse osisID='Matt.17.24'> Or, comme ils arrivaient à Capernaüm, ceux qui percevaient les deux drachmes s'approchèrent de Pierre, et lui dirent : Votre Maître ne paie-t-il pas les deux drachmes ?</verse>
+        <verse osisID='Matt.17.25'> Il dit : Oui. Et quand il fut entré dans la maison, Jésus le prévint, disant : Que t'en semble, Simon ? les rois de la terre, de qui prennent-ils des tributs ou des impôts ? de leurs fils, ou des étrangers ?</verse>
+        <verse osisID='Matt.17.26'> Pierre lui dit : Des étrangers. Jésus lui répondit : Les fils en sont donc exempts.</verse>
+        <verse osisID='Matt.17.27'> Mais afin que nous ne les scandalisions point, va à la mer, jette un hameçon, et prends le premier poisson qui montera ; et quand tu lui auras ouvert la bouche, tu trouveras un statère ; prends-le, et le leur donne pour moi et pour toi.</verse>
+      </chapter>
+      <chapter osisID='Matt.18'>
+        <verse osisID='Matt.18.1'> En cette heure-là, les disciples s'approchèrent de Jésus et dirent : Qui donc est le plus grand dans le royaume des cieux ?</verse>
+        <verse osisID='Matt.18.2'> Et ayant appelé un petit enfant, il le plaça au milieu d'eux,</verse>
+        <verse osisID='Matt.18.3'> et dit : En vérité, je vous dis que si vous ne vous convertissez et ne devenez comme les petits enfants, vous n'entrerez point dans le royaume des cieux.</verse>
+        <verse osisID='Matt.18.4'> Quiconque donc se rendra humble comme ce petit enfant, celui-là est le plus grand dans le royaume des cieux.</verse>
+        <verse osisID='Matt.18.5'> Et qui recevra un seul petit enfant comme celui-ci en mon nom, me reçoit.</verse>
+        <verse osisID='Matt.18.6'> Mais celui qui scandalisera un seul de ces petits qui croient en moi, il vaudrait mieux pour lui qu'on lui pendît au cou une meule de moulin et qu'on le jetât au fond de la mer.</verse>
+        <verse osisID='Matt.18.7'> Malheur au monde à cause des scandales ! Car il est nécessaire qu'il arrive des scandales ; mais malheur à l'homme par qui le scandale arrive.</verse>
+        <verse osisID='Matt.18.8'> Que si ta main ou ton pied est pour toi une occasion de chute, coupe-les et jette-les loin de toi ; mieux vaut pour toi entrer dans la vie manchot ou boiteux, que d'avoir deux mains ou deux pieds, et d'être jeté dans le feu éternel.</verse>
+        <verse osisID='Matt.18.9'> Et si ton œil est pour toi une occasion de chute, arrache-le et jette-le loin de toi ; mieux vaut pour toi entrer dans la vie n'ayant qu'un œil, que d'avoir deux yeux et d'être jeté dans la géhenne du feu.</verse>
+        <verse osisID='Matt.18.10'> Gardez-vous de mépriser un seul de ces petits ; car je vous dis que leurs anges dans les cieux regardent sans cesse la face de mon Père qui est dans les cieux.</verse>
+        <verse osisID='Matt.18.11'> Car le Fils de l'homme est venu sauver ce qui est perdu.</verse>
+        <verse osisID='Matt.18.12'> Que vous en semble ? Si un homme a cent brebis, et qu'une seule d'entre elles s'égare, ne laisse-t-il pas les quatre-vingt-dix-neuf sur les montagnes pour aller chercher celle qui est égarée ?</verse>
+        <verse osisID='Matt.18.13'> Et s'il arrive qu'il la trouve, en vérité, je vous dis qu'il en a plus de joie que des quatre-vingt-dix-neuf qui ne se sont point égarées.</verse>
+        <verse osisID='Matt.18.14'> Ainsi, ce n'est pas la volonté de votre Père qui est aux cieux, qu'un seul de ces petits soit perdu.</verse>
+        <verse osisID='Matt.18.15'> Et si ton frère pèche contre toi, va, reprends-le entre toi et lui seul ; s'il t'écoute, tu as gagné ton frère.</verse>
+        <verse osisID='Matt.18.16'> Mais s'il ne t'écoute pas, prends avec toi encore une ou deux personnes, afin que toute affaire soit établie sur la parole de deux ou trois témoins.</verse>
+        <verse osisID='Matt.18.17'> Que s'il ne les écoute pas, dis-le à l'Eglise ; et s'il n'écoute pas l'Eglise, qu'il te soit comme le païen et le péager.</verse>
+        <verse osisID='Matt.18.18'> En vérité, je vous dis que tout ce que vous lierez sur la terre sera lié dans le ciel ; et tout ce que vous délierez sur la terre sera délié dans le ciel.</verse>
+        <verse osisID='Matt.18.19'> Je vous dis encore que si deux d'entre vous s'accordent sur la terre pour demander une chose quelconque, elle leur sera accordée par mon Père qui est aux cieux.</verse>
+        <verse osisID='Matt.18.20'> Car où deux ou trois sont assemblés en mon nom, je suis là au milieu d'eux !</verse>
+        <verse osisID='Matt.18.21'> Alors Pierre s'étant approché, lui dit : Seigneur, combien de fois-mon frère péchera-t-il contre moi et lui pardonnerai-je ? jusqu'à sept fois ?</verse>
+        <verse osisID='Matt.18.22'> Jésus lui dit : Je ne te dis pas jusqu'à sept fois, mais jusqu'à septante fois sept fois.</verse>
+        <verse osisID='Matt.18.23'> C'est pourquoi le royaume des cieux est semblable à un roi qui voulut faire rendre compte à ses serviteurs.</verse>
+        <verse osisID='Matt.18.24'> Quand il eut commencé à compter, on lui en amena un qui devait dix mille talents ;</verse>
+        <verse osisID='Matt.18.25'> et comme il n'avait pas de quoi payer, son seigneur commanda qu'il fût vendu, lui et sa femme et ses enfants et tout ce qu'il avait, et que la dette fût payée.</verse>
+        <verse osisID='Matt.18.26'> Et ce serviteur tombant à terre, se prosternait devant lui, disant : Aie patience envers moi, et je te paierai tout.</verse>
+        <verse osisID='Matt.18.27'> Et le seigneur de ce serviteur, ému de compassion, le relâcha, et lui quitta la dette.</verse>
+        <verse osisID='Matt.18.28'> Mais ce serviteur étant sorti, rencontra un de ses compagnons de service qui lui devait cent deniers ; et l'ayant saisi, il l'étranglait, en disant : Paie ce que tu dois !</verse>
+        <verse osisID='Matt.18.29'> Et son compagnon de service, tombant à terre, le suppliait en disant : Aie patience envers moi, et je te paierai.</verse>
+        <verse osisID='Matt.18.30'> Mais lui ne voulut point ; et s'en étant allé, il le jeta en prison, jusqu'à ce qu'il eût payé ce qu'il devait.</verse>
+        <verse osisID='Matt.18.31'> Ses compagnons de service, voyant ce qui s'était passé, en furent fort attristés, et ils vinrent instruire leur seigneur de tout ce qui était arrivé.</verse>
+        <verse osisID='Matt.18.32'> Alors son seigneur l'ayant appelé, lui dit : Méchant serviteur, je t'ai quitté toute cette dette, parce que tu m'as supplié,</verse>
+        <verse osisID='Matt.18.33'> ne te fallait-il pas aussi avoir pitié de ton compagnon de service, comme moi aussi j'ai eu pitié de toi ?</verse>
+        <verse osisID='Matt.18.34'> Et son seigneur en colère le livra aux bourreaux jusqu'à ce qu'il eût payé tout ce qu'il lui devait.</verse>
+        <verse osisID='Matt.18.35'> C'est ainsi que vous fera mon Père céleste, si vous ne par- donnez pas, chacun à son frère, de tout votre cœur.</verse>
+      </chapter>
+      <chapter osisID='Matt.19'>
+        <verse osisID='Matt.19.1'> Et il arriva, quand Jésus eut achevé ces discours, qu'il partit de Galilée, et s'en alla dans le territoire de la Judée, par l'autre côté du Jourdain.</verse>
+        <verse osisID='Matt.19.2'> Et de grandes foules le suivirent, et il les guérit là.</verse>
+        <verse osisID='Matt.19.3'> Alors des pharisiens s'approchèrent de lui pour le tenter et dirent : Est-il permis de répudier sa femme pour quelque sujet que ce soit ?</verse>
+        <verse osisID='Matt.19.4'> Mais lui, répondant, leur dit : N'avez-vous pas lu que Celui qui les créa les fit dès le commencement homme et femme,</verse>
+        <verse osisID='Matt.19.5'> et qu'il dit : A cause de cela, l'homme quittera son père et sa mère, et s'attachera à sa femme, et les deux deviendront une seule chair ?</verse>
+        <verse osisID='Matt.19.6'> Ainsi ils ne sont plus deux, mais une seule chair. Ce donc que Dieu a uni, que l'homme ne le sépare point.</verse>
+        <verse osisID='Matt.19.7'> Ils lui disent : Pourquoi donc Moïse a-t-il commandé de donner à la femme une lettre de divorce, et de la répudier ?</verse>
+        <verse osisID='Matt.19.8'> Il leur dit : C'est à cause de la dureté de votre cœur que Moïse vous a permis de répudier vos femmes ; mais il n'en était pas ainsi dès le commencement.</verse>
+        <verse osisID='Matt.19.9'> Mais je vous dis que quiconque répudie sa femme, si ce n'est pour cause de fornication, et en épouse une autre, commet adultère ; et que celui qui épouse une femme répudiée, commet adultère.</verse>
+        <verse osisID='Matt.19.10'> Ses disciples lui dirent : Si telle est la condition de l'homme à l'égard de la femme, il n'est pas avantageux de se marier.</verse>
+        <verse osisID='Matt.19.11'> Mais il leur dit : Tous ne comprennent pas cette parole, mais ceux-là seulement à qui cela est donné.</verse>
+        <verse osisID='Matt.19.12'> Car il y a des eunuques qui sont nés tels dès le sein de leur mère ; il y en a qui ont été faits eunuques par les hommes ; et il y en a qui se sont faits eunuques eux-mêmes pour le royaume des cieux. Que celui qui est capable de comprendre, comprenne.</verse>
+        <verse osisID='Matt.19.13'> Alors on lui amena de petits enfants, afin qu'il leur imposât les mains, et qu'il priât ; mais les disciples les reprirent.</verse>
+        <verse osisID='Matt.19.14'> Mais Jésus leur dit : Laissez les petits enfants, et ne les empêchez point de venir à moi ; car le royaume des cieux est à ceux qui leur ressemblent.</verse>
+        <verse osisID='Matt.19.15'> Et leur ayant imposé les mains, il partit de là.</verse>
+        <verse osisID='Matt.19.16'> Et voici, quelqu'un s'étant approché, lui dit : Maître, que dois-je faire de bon pour avoir la vie éternelle ?</verse>
+        <verse osisID='Matt.19.17'> Mais il lui dit : Pourquoi m'interroges-tu sur ce qui est bon ? Un seul est le bon. Mais si tu veux entrer dans la vie, garde les commandements.</verse>
+        <verse osisID='Matt.19.18'> Il lui dit : Lesquels ? Et Jésus lui répondit : Tu ne tueras point ; tu ne commettras point adultère ; tu ne déroberas point ; tu ne diras point de faux témoignage ;</verse>
+        <verse osisID='Matt.19.19'>
+  honore père et mère ; et tu aimeras ton prochain comme toi-même.</verse>
+        <verse osisID='Matt.19.20'> Le jeune homme lui dit : J'ai observé toutes ces choses ; que me manque-t-il encore ?</verse>
+        <verse osisID='Matt.19.21'> Jésus lui dit : Si tu veux être parfait, va, vends ce que tu as, et le donne aux pauvres, et tu auras un trésor dans le ciel ; puis viens et suis-moi.</verse>
+        <verse osisID='Matt.19.22'> Mais quand le jeune homme eut entendu cette parole, il s'en alla tout triste ; car il avait de grands biens.</verse>
+        <verse osisID='Matt.19.23'> Mais Jésus dit à ses disciples : En vérité, je vous le dis : Un riche entrera difficilement dans le royaume des cieux.</verse>
+        <verse osisID='Matt.19.24'> Et je vous le dis encore : Il est plus facile qu'un chameau passe par le trou d'une aiguille, qu'il ne l'est qu'un riche entre dans le royaume de Dieu.</verse>
+        <verse osisID='Matt.19.25'> Les disciples ayant entendu cela, étaient fort étonnés, et ils disaient : Qui donc peut être sauvé ?</verse>
+        <verse osisID='Matt.19.26'> Mais Jésus les regardant, leur dit : Quant aux hommes, cela est impossible ; mais quant à Dieu, toutes choses sont possibles.</verse>
+        <verse osisID='Matt.19.27'> Alors Pierre répondant, lui dit : Voici, nous, nous avons tout quitté, et nous t'avons suivi ; que nous en arrivera-t-il donc ?</verse>
+        <verse osisID='Matt.19.28'> Et Jésus leur dit : En vérité je vous dis, que lors du renouvellement, lorsque le Fils de l'homme sera assis sur le trône de sa gloire, vous qui m'avez suivi, vous serez assis vous aussi sur douze trônes, jugeant les douze tribus d'Israël.</verse>
+        <verse osisID='Matt.19.29'> Et quiconque aura quitté frères ou sœurs, ou père, ou mère, ou enfants, ou champs, ou maisons, à cause de mon nom, recevra beaucoup plus, et héritera la vie éternelle.</verse>
+        <verse osisID='Matt.19.30'> Mais plusieurs des premiers seront les derniers, et plusieurs des derniers seront les premiers.</verse>
+      </chapter>
+      <chapter osisID='Matt.20'>
+        <verse osisID='Matt.20.1'> Car le royaume des cieux est semblable à un maître de maison qui sortit dès le point du jour afin de louer des ouvriers pour sa vigne.</verse>
+        <verse osisID='Matt.20.2'> Et étant convenu avec les ouvriers d'un denier pour la journée, il les envoya à sa vigne.</verse>
+        <verse osisID='Matt.20.3'> Puis étant sorti vers la troisième heure du jour, il en vit d'autres qui étaient sur la place sans rien faire ;</verse>
+        <verse osisID='Matt.20.4'> il leur dit de même : Allez, vous aussi, à la vigne, et ce qui sera juste je vous le donnerai ;</verse>
+        <verse osisID='Matt.20.5'> et ils allèrent. Etant sorti de nouveau vers la sixième et la neuvième heure, il fit encore de même.</verse>
+        <verse osisID='Matt.20.6'> Or, vers la onzième heure, étant sorti, il en trouva d'autres qui se tenaient là ; et il leur dit : Pourquoi vous tenez-vous ici tout le jour sans rien faire ?</verse>
+        <verse osisID='Matt.20.7'> Ils lui disent : Parce que personne ne nous a loués. Il leur dit : Allez, vous aussi, à la vigne.</verse>
+        <verse osisID='Matt.20.8'> Quand le soir fut venu, le maître de la vigne dit à son intendant : Appelle les ouvriers, et paie-leur le salaire, en commençant depuis les derniers jusqu'aux premiers.</verse>
+        <verse osisID='Matt.20.9'> Et ceux de la onzième heure étant venus, ils reçurent chacun un denier.</verse>
+        <verse osisID='Matt.20.10'> Or les premiers étant venus, ils s'attendaient à recevoir davantage ; mais ils reçurent, eux aussi, chacun un denier ;</verse>
+        <verse osisID='Matt.20.11'> et l'ayant reçu, ils murmuraient contre le maître de la maison,</verse>
+        <verse osisID='Matt.20.12'> disant : Ceux-là, les derniers, n'ont travaillé qu'une heure, et tu les as traités à l'égal de nous qui avons supporté le poids du jour et la chaleur.</verse>
+        <verse osisID='Matt.20.13'> Mais il répondit et dit à l'un d'eux : Ami, je ne te fais pas tort ; n'es-tu pas convenu avec moi d'un denier ?</verse>
+        <verse osisID='Matt.20.14'> Prends ce qui est à toi et va-t'en. Mais je veux donner à ce dernier autant qu'à toi.</verse>
+        <verse osisID='Matt.20.15'> Ne m'est-il donc pas permis de faire ce que je veux de ce qui est à moi ? Ou ton œil est-il mauvais parce que je suis bon ?</verse>
+        <verse osisID='Matt.20.16'> Ainsi les derniers seront les premiers, et les premiers seront les derniers.</verse>
+        <verse osisID='Matt.20.17'> Et Jésus montant à Jérusalem, prit à part les douze, et leur dit en chemin :</verse>
+        <verse osisID='Matt.20.18'> Voici, nous montons à Jérusalem, et le fils de l'homme sera livré aux principaux sacrificateurs et aux scribes, et ils le condamneront à mort ;</verse>
+        <verse osisID='Matt.20.19'> et ils le livreront aux païens, pour qu'ils s'en moquent et le battent de verges et le crucifient ; et le troisième jour il ressuscitera.</verse>
+        <verse osisID='Matt.20.20'> Alors la mère des fils de Zébédée s'approcha de lui avec ses fils, se prosternant et lui demandant quelque chose.</verse>
+        <verse osisID='Matt.20.21'> Et il lui dit : Que veux-tu ? Elle lui dit : Ordonne que ceux-ci, mes deux fils, soient assis l'un à ta droite et l'autre à ta gauche dans ton royaume.</verse>
+        <verse osisID='Matt.20.22'> Mais Jésus répondant dit : Vous ne savez ce que vous demandez. Pouvez-vous boire la coupe que je vais boire ? Ils lui disent : Nous le pouvons.</verse>
+        <verse osisID='Matt.20.23'> Il leur dit : Il est vrai que vous boirez ma coupe ; mais d'être assis à ma droite ou à ma gauche, il ne m'appartient pas de le donner, mais cela est donné à ceux à qui cela a été préparé par mon Père.</verse>
+        <verse osisID='Matt.20.24'> ? Les dix ayant entendu cela, s'indignèrent contre les deux frères.</verse>
+        <verse osisID='Matt.20.25'> Mais Jésus les ayant appelés, dit : Vous savez que les princes des nations les asservissent et que les grands exercent sur elles leur puissance.</verse>
+        <verse osisID='Matt.20.26'> Il n'en sera pas ainsi parmi vous ; au contraire, quiconque voudra être grand parmi vous, sera votre serviteur ;</verse>
+        <verse osisID='Matt.20.27'> et quiconque voudra être le premier parmi vous, sera votre esclave ;</verse>
+        <verse osisID='Matt.20.28'> de même que le fils de l'homme n'est pas venu pour être servi, mais pour servir et donner sa vie en rançon pour plusieurs.</verse>
+        <verse osisID='Matt.20.29'> Et comme ils sortaient de Jéricho, une grande foule le suivit.</verse>
+        <verse osisID='Matt.20.30'> Et voici, deux aveugles assis au bord du chemin, ayant entendu que Jésus passait, crièrent, disant : Aie pitié de nous, Seigneur, fils de David !</verse>
+        <verse osisID='Matt.20.31'> Et la foule les reprit pour les faire taire, mais ils crièrent plus fort, disant : Aie pitié de nous, Seigneur, fils de David !</verse>
+        <verse osisID='Matt.20.32'> Et Jésus s'étant arrêté, les appela et dit : Que voulez-vous que je vous fasse ?</verse>
+        <verse osisID='Matt.20.33'> Ils lui disent : Seigneur, que nos yeux s'ouvrent.</verse>
+        <verse osisID='Matt.20.34'> Et Jésus, ému de compassion, toucha leurs yeux, et aussitôt ils virent de nouveau, et ils le suivirent.</verse>
+      </chapter>
+      <chapter osisID='Matt.21'>
+        <verse osisID='Matt.21.1'> Et lorsqu'ils approchèrent de Jérusalem, et qu'ils furent arrivés à Bethphagé, vers le mont des Oliviers, alors Jésus envoya deux disciples,</verse>
+        <verse osisID='Matt.21.2'> en leur disant : Allez à la bourgade qui est devant vous, et vous trouverez aussitôt une ânesse attachée, et un ânon avec elle ; détachez-les et amenez-les moi.</verse>
+        <verse osisID='Matt.21.3'> Et si quelqu'un vous dit quelque chose, vous direz : Le Seigneur en a besoin, et aussitôt il les enverra.</verse>
+        <verse osisID='Matt.21.4'> Or ceci arriva, afin que fût accompli ce qui a été déclaré par le moyen du prophète, disant :</verse>
+        <verse osisID='Matt.21.5'>
+  Dites à la fille de Sion : Voici, ton Roi vient à toi, doux et monté sur un âne, sur le poulain de celle qui porte le joug.
+</verse>
+        <verse osisID='Matt.21.6'> Les disciples s'en étant donc allés et ayant fait comme Jésus leur avait ordonné,</verse>
+        <verse osisID='Matt.21.7'> amenèrent l'ânesse et l'ânon et placèrent sur eux leurs vêtements, et il s'assit dessus.</verse>
+        <verse osisID='Matt.21.8'> Et la plupart des gens de la foule étendirent leurs propres vêtements sur le chemin, et d'autres coupaient des branches d'arbres et les étendaient sur le chemin.</verse>
+        <verse osisID='Matt.21.9'> Mais les foules qui précédaient et celles qui suivaient criaient, disant : Hosanna au fils de David ! Béni soit celui qui vient au nom du Seigneur ! Hosanna dans les lieux très hauts !</verse>
+        <verse osisID='Matt.21.10'> Et quand il fut entré dans Jérusalem toute la ville fut en émoi, disant : Qui est celui-ci ?</verse>
+        <verse osisID='Matt.21.11'> Mais les foules disaient : Celui-ci il est le prophète, Jésus, de Nazareth en Galilée.</verse>
+        <verse osisID='Matt.21.12'> Et Jésus entra dans le temple de Dieu, et il chassa tous ceux qui vendaient et qui achetaient dans le temple, et il renversa les tables des changeurs et les sièges de ceux qui vendaient des pigeons.</verse>
+        <verse osisID='Matt.21.13'> Et il leur dit : Il est écrit : Ma maison sera appelée une maison de prière ; mais vous en faites une caverne de voleurs.</verse>
+        <verse osisID='Matt.21.14'> Alors des aveugles et des boiteux s'approchèrent de lui dans le temple, et il les guérit.</verse>
+        <verse osisID='Matt.21.15'> Mais les principaux sacrificateurs et les scribes voyant les merveilles qu'il avait faites et les enfants qui criaient dans le temple et disaient : Hosanna au fils de David ! en furent indignés,</verse>
+        <verse osisID='Matt.21.16'> et ils lui dirent : Entends-tu ce que ceux-ci disent ? Et Jésus leur dit : Oui. N'avez-vous jamais lu : De la bouche des petits enfants et des nourrissons tu t'es préparé une louange ?</verse>
+        <verse osisID='Matt.21.17'> Et les laissant, il sortit de la ville pour aller à Béthanie, où il passa la nuit.</verse>
+        <verse osisID='Matt.21.18'> Or le matin, comme il retournait à la ville, il eut faim.</verse>
+        <verse osisID='Matt.21.19'> Et voyant un figuier sur le chemin, il s'en approcha, mais il n'y trouva rien que des feuilles, et il lui dit : Que jamais aucun fruit ne provienne plus de toi ! et à l'instant le figuier sécha.</verse>
+        <verse osisID='Matt.21.20'> Et voyant cela les disciples s'étonnèrent et dirent : Comment ce figuier a-t-il séché à l'instant ?</verse>
+        <verse osisID='Matt.21.21'> Et Jésus répondant leur dit : En vérité, je vous le dis, si vous aviez de la foi et que vous ne doutiez point, non seulement vous feriez ce qui a été fait au figuier, mais si même vous disiez à cette montagne : Ote-toi de là et te jette dans la mer, cela se ferait.</verse>
+        <verse osisID='Matt.21.22'> Et tout ce que vous demanderez dans la prière avec foi vous le recevrez.</verse>
+        <verse osisID='Matt.21.23'> Et quand il fut venu dans le temple, les principaux sacrificateurs et les anciens du peuple vinrent à lui, comme il enseignait, et lui dirent : Par quelle autorité fais-tu ces choses, et qui t'a donné cette autorité ?</verse>
+        <verse osisID='Matt.21.24'> Jésus, répondant, leur dit : Je vous demanderai, moi aussi, une seule chose ; et si vous m'y répondez, je vous dirai, moi aussi, par quelle autorité je fais ces choses.</verse>
+        <verse osisID='Matt.21.25'> Le baptême de Jean, d'où venait-il ? du ciel ou des hommes ? Mais eux raisonnaient entre eux, disant : Si nous disons : Du ciel, il nous dira : Pourquoi donc n'avez-vous pas cru en lui ?</verse>
+        <verse osisID='Matt.21.26'> Et si nous disons : Des hommes, nous craignons la foule ; car tous tiennent Jean pour un prophète.</verse>
+        <verse osisID='Matt.21.27'> Et répondant ils dirent à Jésus : Nous ne savons. Et lui aussi leur dit : Moi non plus, je ne vous dis pas par quelle autorité je fais ces choses.</verse>
+        <verse osisID='Matt.21.28'> Mais que vous en semble ? Un homme avait deux enfants ; et s'adressant au premier, il dit : Mon enfant, va travailler aujourd'hui dans ma vigne.</verse>
+        <verse osisID='Matt.21.29'> Il répondit : Je ne veux pas ; mais plus tard, s'étant repenti, il y alla.</verse>
+        <verse osisID='Matt.21.30'> Puis il vint à l'autre, et lui dit la même chose. Celui-ci répondit : Oui, seigneur ; et il n'y alla pas.</verse>
+        <verse osisID='Matt.21.31'> Lequel des deux fit la volonté de son père ? Ils lui dirent : Le premier. Jésus leur dit : En vérité, je vous dis que les péagers et les femmes de mauvaise vie vous devancent dans le royaume de Dieu.</verse>
+        <verse osisID='Matt.21.32'> Car Jean est venu à vous dans la voie de la justice, et vous ne l'avez point cru, tandis que les péagers et les femmes de mauvaise vie l'ont cru ; mais vous, ayant vu cela, vous ne vous êtes pas même repentis ensuite pour le croire.</verse>
+        <verse osisID='Matt.21.33'> Ecoutez une autre parabole : Il y avait un homme, maître de maison, qui planta une vigne, et l'entoura d'une haie, et y creusa un pressoir, et bâtit une tour ; et il l'afferma à des vignerons, et s'absenta.</verse>
+        <verse osisID='Matt.21.34'> Or, lorsque la saison des fruits approcha, il envoya ses serviteurs vers les vignerons pour recevoir ses fruits.</verse>
+        <verse osisID='Matt.21.35'> Mais les vignerons s'étant saisis de ses serviteurs, battirent l'un, tuèrent l'autre, et en lapidèrent un autre.</verse>
+        <verse osisID='Matt.21.36'> Il envoya encore d'autres serviteurs, en plus grand nombre que les premiers, et ils les traitèrent de même.</verse>
+        <verse osisID='Matt.21.37'> Ensuite il envoya vers eux son fils, disant : Ils auront du respect pour mon fils.</verse>
+        <verse osisID='Matt.21.38'> Mais les vignerons, voyant le fils, dirent entre eux : Celui-ci est l'héritier ; venez, tuons-le et possédons son héritage.</verse>
+        <verse osisID='Matt.21.39'> Et s'étant saisis de lui, ils le jetèrent hors de la vigne et le tuèrent.</verse>
+        <verse osisID='Matt.21.40'> Quand donc le seigneur de la vigne sera venu, que fera-t-il à ces vignerons ?</verse>
+        <verse osisID='Matt.21.41'> Ils lui disent : Il fera périr misérablement ces misérables, et il affermera la vigne à d'autres vignerons qui lui en rendront les fruits en leur saison.</verse>
+        <verse osisID='Matt.21.42'> Et Jésus leur dit : N'avez-vous jamais lu dans les Ecritures : La pierre qu'ont rejetée ceux qui bâtissaient, elle est devenue la principale pierre de l'angle ; c'est par le Seigneur qu'elle l'est devenue, et elle est merveilleuse à nos yeux ?</verse>
+        <verse osisID='Matt.21.43'> C'est pourquoi je vous dis que le royaume de Dieu vous sera ôté et sera donné à une nation qui en produit les fruits.</verse>
+        <verse osisID='Matt.21.44'> Et celui qui tombera sur cette pierre sera brisé ; mais celui sur qui elle tombera, elle l'écrasera.</verse>
+        <verse osisID='Matt.21.45'> Or après avoir entendu ses paraboles, les principaux sacrificateurs et les pharisiens comprirent que c'était d'eux qu'il parlait ;</verse>
+        <verse osisID='Matt.21.46'> et ils cherchaient à s'emparer de lui ; mais ils craignirent la foule, parce qu'elle le tenait pour un prophète.</verse>
+      </chapter>
+      <chapter osisID='Matt.22'>
+        <verse osisID='Matt.22.1'> Et Jésus prenant la parole, leur parla de nouveau en paraboles, disant :</verse>
+        <verse osisID='Matt.22.2'> Le royaume de Dieu est semblable à un roi qui fit des noces pour son fils.</verse>
+        <verse osisID='Matt.22.3'> Et il envoya ses serviteurs appeler ceux qui avaient été invités aux noces ; mais ils ne voulurent pas venir.</verse>
+        <verse osisID='Matt.22.4'> Il envoya encore d'autres serviteurs, en disant : Dites à ceux qui ont été invités : Voici, j'ai préparé mon festin : mes taureaux et mes bêtes grasses sont tués, et tout est prêt ; venez aux noces.</verse>
+        <verse osisID='Matt.22.5'> Mais eux, n'en tenant compte, s'en allèrent, l'un à son champ et l'autre à son trafic ;</verse>
+        <verse osisID='Matt.22.6'> et les autres, ayant saisi ses serviteurs, les outragèrent et les tuèrent.</verse>
+        <verse osisID='Matt.22.7'> Mais le roi se mit en colère, et ayant envoyé ses armées, il fit périr ces meurtriers, et brûla leur ville.</verse>
+        <verse osisID='Matt.22.8'> Alors il dit à ses serviteurs : Les noces sont prêtes, mais ceux qui étaient invités n'en étaient pas dignes.</verse>
+        <verse osisID='Matt.22.9'> Allez donc dans les carrefours des chemins, et invitez aux noces tous ceux que vous trouverez.</verse>
+        <verse osisID='Matt.22.10'> Et ces serviteurs s'en étant allés dans les chemins, rassemblèrent tous ceux qu'ils trouvèrent, tant méchants que bons, et la salle des noces fut remplie de convives.</verse>
+        <verse osisID='Matt.22.11'> Et le roi, étant entré pour regarder ceux qui étaient à table, vit un homme qui n'était pas revêtu d'un habit de noces ;</verse>
+        <verse osisID='Matt.22.12'> et il lui dit : Ami, comment es-tu entré ici sans avoir un habit de noces ? Et il eut la bouche fermée.</verse>
+        <verse osisID='Matt.22.13'> Alors le roi dit aux serviteurs : Liez-le pieds et mains, et jetez-le dans les ténèbres de dehors ; là seront les pleurs et les grincements de dents.</verse>
+        <verse osisID='Matt.22.14'> Car il y a beaucoup d'appelés, mais peu d'élus.</verse>
+        <verse osisID='Matt.22.15'> Alors les pharisiens s'en étant allés, se consultèrent pour le surprendre en parole.</verse>
+        <verse osisID='Matt.22.16'> Et ils lui envoyèrent leurs disciples, avec les hérodiens, disant : Maître, nous savons que tu es vrai, et que tu enseignes la voie de Dieu en vérité, et que tu ne te mets en peine de personne ; car tu ne regardes point à l'apparence des hommes.</verse>
+        <verse osisID='Matt.22.17'> Dis-nous donc ce qu'il t'en semble : Est-il permis ou non de payer le tribut à César ?</verse>
+        <verse osisID='Matt.22.18'> Mais Jésus, connaissant leur malice, dit : Pourquoi me tentez-vous, hypocrites ?</verse>
+        <verse osisID='Matt.22.19'> Montrez-moi la monnaie du tribut. Et ils lui présentèrent un denier.</verse>
+        <verse osisID='Matt.22.20'> Et il leur dit : De qui est cette image et cette inscription ?</verse>
+        <verse osisID='Matt.22.21'> Ils lui disent : De César. Alors il leur dit : Rendez donc à César ce qui est à César, et à Dieu ce qui est à Dieu.</verse>
+        <verse osisID='Matt.22.22'> Et ayant entendu cela, ils furent dans l'étonnement, et le laissant, ils s'en allèrent.</verse>
+        <verse osisID='Matt.22.23'> Ce jour-là, des sadducéens, qui disent qu'il n'y a point de résurrection, vinrent à Jésus et l'interrogèrent en disant :</verse>
+        <verse osisID='Matt.22.24'> Maître, Moïse a dit : Si quelqu'un meurt sans enfants, son frère épousera sa femme, et suscitera une postérité à son frère.</verse>
+        <verse osisID='Matt.22.25'> Or il y avait parmi nous sept frères ; et le premier, s'étant marié, mourut ; et n'ayant point eu de postérité, il laissa sa femme à son frère.</verse>
+        <verse osisID='Matt.22.26'> De même aussi le second, puis le troisième, jusqu'au septième.</verse>
+        <verse osisID='Matt.22.27'> Et après eux tous, la femme mourut aussi.</verse>
+        <verse osisID='Matt.22.28'> A la résurrection donc, duquel des sept sera-t-elle la femme ? car tous l'ont eue.</verse>
+        <verse osisID='Matt.22.29'> Mais Jésus répondant, leur dit : Vous êtes dans l'erreur, ne connaissant pas les Ecritures, ni la puissance de Dieu.</verse>
+        <verse osisID='Matt.22.30'> Car, à la résurrection, ils ne se marient point et ne sont point donnés en mariage ; mais ils sont dans le ciel comme des anges de Dieu.</verse>
+        <verse osisID='Matt.22.31'> Et quant à la résurrection des morts, n'avez-vous point lu ce qui vous a été déclaré par Dieu, lorsqu'il dit :</verse>
+        <verse osisID='Matt.22.32'>
+  Je suis le Dieu d'Abraham, et le Dieu d'Isaac, et le Dieu de Jacob ? Dieu n'est pas le Dieu des morts, mais des vivants.</verse>
+        <verse osisID='Matt.22.33'> Et la foule, qui entendait, était extrêmement frappée de son enseignement.</verse>
+        <verse osisID='Matt.22.34'> Mais les pharisiens ayant appris qu'il avait fermé la bouche aux sadducéens, s'assemblèrent dans un même lieu.</verse>
+        <verse osisID='Matt.22.35'> Et l'un d'entre eux, un légiste, lui demanda, pour l'éprouver :</verse>
+        <verse osisID='Matt.22.36'> Maître, quel est le grand commandement dans la loi ?</verse>
+        <verse osisID='Matt.22.37'> Il lui dit : Tu aimeras le Seigneur ton Dieu de tout ton cœur, et de toute ton âme, et de toute ta pensée.</verse>
+        <verse osisID='Matt.22.38'> C'est là le grand et le premier commandement.</verse>
+        <verse osisID='Matt.22.39'> Un second lui est semblable : Tu aimeras ton prochain comme toi-même.</verse>
+        <verse osisID='Matt.22.40'> De ces deux commandements dépend la loi entière, ainsi que les prophètes.</verse>
+        <verse osisID='Matt.22.41'> Et les pharisiens étant assemblés, Jésus les interrogea,</verse>
+        <verse osisID='Matt.22.42'> en disant : Que vous semble-t-il du Christ ? De qui est-il fils ? Ils lui disent : De David.</verse>
+        <verse osisID='Matt.22.43'> leur dit : Comment donc David, par l'Esprit, l'appelle-t-il Seigneur, en disant :</verse>
+        <verse osisID='Matt.22.44'>
+  Le Seigneur a dit à mon Seigneur : Assieds-toi à ma droite jusqu'à ce que j'aie mis tes ennemis sous tes pieds ?</verse>
+        <verse osisID='Matt.22.45'> Si donc David l'appelle Seigneur, comment est-il son fils ?</verse>
+        <verse osisID='Matt.22.46'> Et personne ne pouvait lui répondre un mot ; et depuis ce jour-là, personne n'osa plus l'interroger.</verse>
+      </chapter>
+      <chapter osisID='Matt.23'>
+        <verse osisID='Matt.23.1'> Alors Jésus parla aux foules et à ses disciples,</verse>
+        <verse osisID='Matt.23.2'> en disant les scribes et les pharisiens se sont assis dans la chaire de Moïse.</verse>
+        <verse osisID='Matt.23.3'> Toutes les choses donc qu'ils vous disent, gardez-les et faites-les ; mais ne faites point selon leurs œuvres, car ils disent et ne font pas ;</verse>
+        <verse osisID='Matt.23.4'> mais ils lient des fardeaux pesants et difficiles à porter, et les mettent sur les épaules des hommes, tandis qu'eux-mêmes, ils ne veulent pas les remuer du doigt.</verse>
+        <verse osisID='Matt.23.5'> Et toutes leurs œuvres, ils les font pour être vus des hommes ; car ils élargissent leurs phylactères, et ils allongent les franges de leurs vêtements.</verse>
+        <verse osisID='Matt.23.6'> Ils aiment la première place dans les festins, et les premiers sièges dans les synagogues,</verse>
+        <verse osisID='Matt.23.7'> et les salutations dans les places publiques, et être appelés par les hommes : Rabbi, Rabbi !</verse>
+        <verse osisID='Matt.23.8'> Mais vous, ne vous faites point appeler Rabbi ; car un seul est votre Maître ; et vous tous, vous êtes frères.</verse>
+        <verse osisID='Matt.23.9'> Et n'appelez personne sur la terre votre père ; car un seul est votre Père, celui qui est dans les cieux.</verse>
+        <verse osisID='Matt.23.10'> Et ne vous faites point appeler directeurs, car un seul est votre Directeur, le Christ.</verse>
+        <verse osisID='Matt.23.11'> Mais le plus grand d'entre vous sera votre serviteur ;</verse>
+        <verse osisID='Matt.23.12'> et quiconque s'élèvera sera abaissé, et quiconque s'abaissera sera élevé.</verse>
+        <verse osisID='Matt.23.13'> Mais malheur à vous, scribes et pharisiens hypocrites ! parce que vous fermez devant les hommes le royaume des cieux ; car vous-mêmes, vous n'y entrez point, et vous n'y laissez pas entrer ceux qui veulent entrer.</verse>
+        <verse osisID='Matt.23.14'>
+  Malheur à vous, scribes et pharisiens hypocrites ! parce que vous dévorez les maisons des veuves sous prétexte de faire de longues prières ; c'est pourquoi vous subirez un jugement plus rigoureux.
+</verse>
+        <verse osisID='Matt.23.15'> Malheur à vous, scribes et pharisiens hypocrites ! parce que vous parcourez la mer et la terre pour faire un seul prosélyte, et quand il l'est devenu, vous le rendez fils de la géhenne deux fois plus que vous.</verse>
+        <verse osisID='Matt.23.16'> Malheur à vous, conducteurs aveugles ! qui dites : Si quelqu'un a juré par le temple, cela n'est rien ; mais celui qui a juré par l'or du temple est obligé.</verse>
+        <verse osisID='Matt.23.17'> Insensés et aveugles ! car lequel est le plus grand, l'or, ou le temple qui a sanctifié l'or ?</verse>
+        <verse osisID='Matt.23.18'> Et si quelqu'un, dites-vous, a juré par l'autel, cela n'est rien ; mais celui qui a juré par l'offrande qui est dessus, est obligé.</verse>
+        <verse osisID='Matt.23.19'> Aveugles ! car lequel est le plus grand, l'offrande, ou l'autel qui sanctifie l'offrande ?</verse>
+        <verse osisID='Matt.23.20'> Celui donc qui a juré par l'autel, jure par l'autel et par tout ce qui est dessus ;</verse>
+        <verse osisID='Matt.23.21'> et celui qui a juré par le temple, jure par le temple et par celui qui l'habite.</verse>
+        <verse osisID='Matt.23.22'> Et celui qui a juré par le ciel, jure par le trône de Dieu et par celui qui est assis dessus.</verse>
+        <verse osisID='Matt.23.23'> Malheur à vous, scribes et pharisiens hypocrites ! parce que vous payez la dîme de la menthe, et de l'aneth, et du cumin, et vous avez laissé de côté les charges plus lourdes de la loi, le jugement, et la miséricorde, et la fidélité. Voilà les choses qu'il fallait faire, et ne pas laisser de côté les autres.</verse>
+        <verse osisID='Matt.23.24'> Conducteurs aveugles, qui coulez le moucheron, mais qui avalez le chameau.</verse>
+        <verse osisID='Matt.23.25'> Malheur à vous, scribes et pharisiens hypocrites ! parce que vous nettoyez le dehors de la coupe et du plat, mais au dedans ils sont pleins de rapine et d'intempérance.</verse>
+        <verse osisID='Matt.23.26'> Pharisien aveugle, nettoie premièrement le dedans de la coupe et du plat, afin que le dehors aussi devienne net.</verse>
+        <verse osisID='Matt.23.27'> Malheur à vous, scribes et pharisiens hypocrites ! parce que vous ressemblez à des sépulcres blanchis, qui paraissent beaux par dehors, mais qui, au dedans sont remplis d'ossements de morts et de toute impureté.</verse>
+        <verse osisID='Matt.23.28'> De même vous aussi, au dehors vous paraissez justes aux hommes, mais au dedans vous êtes pleins d'hypocrisie et d'iniquité.</verse>
+        <verse osisID='Matt.23.29'> Malheur à vous, scribes et pharisiens hypocrites ! parce que vous bâtissez les tombeaux des prophètes et ornez les sépulcres des justes,</verse>
+        <verse osisID='Matt.23.30'> et que vous dites : Si nous eussions été du temps de nos pères, nous n'eussions pas été leurs complices dans le meurtre des prophètes.</verse>
+        <verse osisID='Matt.23.31'> Ainsi vous témoignez contre vous-mêmes que vous êtes fils de ceux qui ont tué les prophètes.</verse>
+        <verse osisID='Matt.23.32'> Et vous, comblez la mesure de vos pères !</verse>
+        <verse osisID='Matt.23.33'> Serpents ! race de vipères ! comment pourrez-vous échapper au jugement de la géhenne ?</verse>
+        <verse osisID='Matt.23.34'> C'est pourquoi, voici, je vous envoie des prophètes, et des sages, et des scribes ; il en est que vous ferez mourir et que vous crucifierez ; et il en est que vous fouetterez dans vos synagogues et que vous chasserez de ville en ville ;</verse>
+        <verse osisID='Matt.23.35'> afin que vienne sur vous tout le sang juste répandu sur la terre, depuis le sang d'Abel, le juste, jusqu'au sang de Zacharie, fils de Barachie, que vous avez tué entre le temple et l'autel.</verse>
+        <verse osisID='Matt.23.36'> En vérité, je vous dis que tout cela viendra sur cette génération.</verse>
+        <verse osisID='Matt.23.37'> Jérusalem, Jérusalem, qui tues les prophètes et qui lapides ceux qui te sont envoyés, combien de fois ai-je voulu rassembler tes enfants, comme une poule rassemble ses poussins sous ses ailes, et vous ne l'avez pas voulu ?</verse>
+        <verse osisID='Matt.23.38'> Voici, votre maison vous est laissée déserte.</verse>
+        <verse osisID='Matt.23.39'> Car je vous le dis : vous ne me verrez plus, dès maintenant, jusqu'à ce que vous disiez : Béni soit celui qui vient au nom du Seigneur.</verse>
+      </chapter>
+      <chapter osisID='Matt.24'>
+        <verse osisID='Matt.24.1'> Et Jésus, étant sorti du temple, s'éloignait, et ses disciples s'approchèrent pour lui montrer les constructions du temple.</verse>
+        <verse osisID='Matt.24.2'> Mais il leur dit : Ne voyez-vous pas toutes ces choses ? En vérité, je vous dis qu'il ne sera laissé ici pierre sur pierre qui ne soit démolie.</verse>
+        <verse osisID='Matt.24.3'> Or, comme il était assis sur la montagne des Oliviers, ses disciples s'approchèrent de lui en particulier, disant : Dis-nous quand ces choses arriveront, et quel sera le signe de ton avènement et de la consommation du temps.</verse>
+        <verse osisID='Matt.24.4'> Et Jésus répondant, leur dit : Prenez garde que personne ne vous séduise ;</verse>
+        <verse osisID='Matt.24.5'> car beaucoup viendront en mon nom, disant : C'est moi qui suis le Christ ! Et ils séduiront beaucoup de gens.</verse>
+        <verse osisID='Matt.24.6'> Cependant vous entendrez parler de guerres et de bruits de guerres ; prenez garde, ne soyez pas troublés ; car il faut que cela arrive ; mais ce n'est pas encore la fin.</verse>
+        <verse osisID='Matt.24.7'> Car nation se lèvera contre nation, et royaume contre royaume ; et il y aura des famines et des tremblements de terre en divers lieux.</verse>
+        <verse osisID='Matt.24.8'> Mais tout cela sera le commencement des douleurs.</verse>
+        <verse osisID='Matt.24.9'> Alors ils vous livreront à la tribulation et ils vous feront mourir ; et vous serez haïs de toutes les nations à cause de mon nom.</verse>
+        <verse osisID='Matt.24.10'> Et alors beaucoup seront scandalisés, et ils se livreront les uns les autres, et se haïront les uns les autres</verse>
+        <verse osisID='Matt.24.11'> Et beaucoup de faux prophètes s'élèveront et ils séduiront beaucoup de gens.</verse>
+        <verse osisID='Matt.24.12'> Et parce que l'iniquité se sera multipliée, la charité du plus grand nombre se refroidira.</verse>
+        <verse osisID='Matt.24.13'> Mais celui qui aura persévéré jusqu'à la fin, celui-là sera sauvé.</verse>
+        <verse osisID='Matt.24.14'> Et cet Evangile du royaume sera prêché par toute la terre, pour servir de témoignage à toutes les nations ; et alors viendra la fin.</verse>
+        <verse osisID='Matt.24.15'> Quand donc vous verrez établie en lieu saint l'abomination de la désolation dont il a été parlé par le prophète Daniel (que celui qui le lit y fasse attention),</verse>
+        <verse osisID='Matt.24.16'> alors, que ceux qui seront dans la Judée s'enfuient dans les montagnes ;</verse>
+        <verse osisID='Matt.24.17'> que celui qui sera sur le toit ne descende point pour emporter ce qui est dans sa maison ;</verse>
+        <verse osisID='Matt.24.18'> et que celui qui sera aux champs ne retourne point en arrière pour prendre son manteau.</verse>
+        <verse osisID='Matt.24.19'> Mais malheur à celles qui seront enceintes et à celles qui allaiteront en ces jours-là !</verse>
+        <verse osisID='Matt.24.20'> Priez pour que votre fuite n'arrive pas en hiver, ni en un jour de sabbat.</verse>
+        <verse osisID='Matt.24.21'> Car il y aura alors une grande tribulation, telle qu'il n'y en a point eu depuis le commencement du monde jusqu'à maintenant et qu'il n'y en aura jamais.</verse>
+        <verse osisID='Matt.24.22'> Et si ces jours-là n'avaient pas été abrégés, nulle chair ne serait sauvée ; mais à cause des élus, ces jours seront abrégés.</verse>
+        <verse osisID='Matt.24.23'> Alors, si quelqu'un vous dit : Voici, le Christ est ici, ou : Il est là, ne le croyez point ;</verse>
+        <verse osisID='Matt.24.24'> car de faux Christs et de faux prophètes s'élèveront, et feront de grands signes et des prodiges, au point de séduire, si possible, les élus mêmes.</verse>
+        <verse osisID='Matt.24.25'> Voici, je vous l'ai prédit.</verse>
+        <verse osisID='Matt.24.26'> Si donc on vous dit : Voici, il est dans le désert, n'y allez pas ; voici il est dans les chambres, ne le croyez pas.</verse>
+        <verse osisID='Matt.24.27'> Car, comme l'éclair sort de l'orient et paraît jusqu'à l'occident, ainsi sera l'avènement du fils de l'homme.</verse>
+        <verse osisID='Matt.24.28'> Où que soit le cadavre, là s'assembleront les aigles.</verse>
+        <verse osisID='Matt.24.29'> Et aussitôt après l'affliction de ces jours-là, le soleil s'obscurcira, et la lune ne donnera pas sa lumière, et les étoiles tomberont du ciel, et les puissances des cieux seront ébranlées.</verse>
+        <verse osisID='Matt.24.30'> Et alors le signe du fils de l'homme paraîtra dans le ciel ; et alors toutes les tribus de la terre se lamenteront, et elles verront le fils de l'homme venant sur les nuées du ciel, avec grande puissance et gloire.</verse>
+        <verse osisID='Matt.24.31'> Et il enverra ses anges avec un grand son de trompette, et ils rassembleront ses élus des quatre vents, depuis une extrémité des cieux jusqu'à l'autre extrémité.</verse>
+        <verse osisID='Matt.24.32'> Or, que le figuier vous instruise par cette similitude : Dès que ses rameaux sont devenus tendres, et qu'il pousse des feuilles, vous connaissez que l'été est proche.</verse>
+        <verse osisID='Matt.24.33'> De même vous aussi, quand vous verrez toutes ces choses, sachez qu'il est proche, à la porte.</verse>
+        <verse osisID='Matt.24.34'> En vérité, je vous le dis, cette génération ne passera point que toutes ces choses n'arrivent.</verse>
+        <verse osisID='Matt.24.35'> Le ciel et la terre passeront, mais mes paroles ne passeront point.</verse>
+        <verse osisID='Matt.24.36'> Or, pour ce qui est de ce jour-là et de l'heure, personne ne le sait, ni les anges des cieux, ni le Fils, mais le Père seul.</verse>
+        <verse osisID='Matt.24.37'> Mais, comme furent les jours de Noé, ainsi sera l'avènement du fils de l'homme.</verse>
+        <verse osisID='Matt.24.38'> Car, comme dans les jours avant le déluge, ils mangeaient et buvaient, se mariaient et donnaient en mariage, jusqu'au jour où Noé entra dans l'arche,</verse>
+        <verse osisID='Matt.24.39'> et qu'ils ne comprirent point, jusqu'à ce que le déluge vint et les emporta tous ; tel sera aussi l'avènement du fils de l'homme.</verse>
+        <verse osisID='Matt.24.40'> Alors, deux hommes seront aux champs : l'un est pris, et l'autre laissé,</verse>
+        <verse osisID='Matt.24.41'> Deux femmes moudront à la meule : l'une est prise, et l'autre laissée.</verse>
+        <verse osisID='Matt.24.42'> Veillez donc, parce que vous ne savez pas quel jour votre Seigneur vient.</verse>
+        <verse osisID='Matt.24.43'> Or sachez ceci : Si le maître de la maison savait à quelle veille de la nuit le voleur vient, il aurait veillé et n'aurait pas laissé percer sa maison.</verse>
+        <verse osisID='Matt.24.44'> C'est pourquoi vous aussi tenez-vous prêts ; car le fils de l'homme vient à l'heure que vous ne pensez pas.</verse>
+        <verse osisID='Matt.24.45'> Quel est donc le serviteur fidèle et prudent que son maître a établi sur ses domestiques, pour leur donner la nourriture au temps convenable ?</verse>
+        <verse osisID='Matt.24.46'> Heureux ce serviteur que son maître, à son arrivée, trouvera faisant ainsi !</verse>
+        <verse osisID='Matt.24.47'> En vérité, je vous dis qu'il l'établira sur tous ses biens.</verse>
+        <verse osisID='Matt.24.48'> Mais si ce méchant serviteur dit en son cœur : Mon maître tarde,</verse>
+        <verse osisID='Matt.24.49'> et qu'il se mette à battre ses compagnons de service, et qu'il mange et boive avec les ivrognes,</verse>
+        <verse osisID='Matt.24.50'> le maître de ce serviteur-là viendra au jour qu'il ne s'y attend pas, et à l'heure qu'il ne sait pas,</verse>
+        <verse osisID='Matt.24.51'> et il le mettra en pièces et lui donnera sa part avec les hypocrites ; c'est là qu'il y aura des pleurs et des grincements de dents.</verse>
+      </chapter>
+      <chapter osisID='Matt.25'>
+        <verse osisID='Matt.25.1'> Alors le royaume des cieux sera semblable à dix vierges qui, ayant pris leurs lampes, sortirent au-devant de l'époux.</verse>
+        <verse osisID='Matt.25.2'> Or, cinq d'entre elles étaient folles, et cinq sages.</verse>
+        <verse osisID='Matt.25.3'> Car les folles, en prenant leurs lampes, ne prirent point d'huile avec elles ;</verse>
+        <verse osisID='Matt.25.4'> mais les sages prirent, avec leurs lampes, de l'huile dans des vases.</verse>
+        <verse osisID='Matt.25.5'> Mais comme l'époux tardait, elles s'assoupirent toutes et s'endormirent.</verse>
+        <verse osisID='Matt.25.6'> Or, au milieu de la nuit, il y eut un cri : Voici l'époux ! sortez au-devant de lui.</verse>
+        <verse osisID='Matt.25.7'> Alors toutes ces vierges se réveillèrent et préparèrent leurs lampes.</verse>
+        <verse osisID='Matt.25.8'> Et les folles dirent aux sages : Donnez-nous de votre huile ; car nos lampes s'éteignent.</verse>
+        <verse osisID='Matt.25.9'> Mais les sages répondirent : Non, de peur qu'il n'y en ait pas assez pour nous et pour vous. Allez plutôt vers ceux qui en vendent, et en achetez pour vous.</verse>
+        <verse osisID='Matt.25.10'> Mais pendant qu'elles allaient en acheter, l'époux vint, et celles qui étaient prêtes entrèrent avec lui aux noces, et la porte fut fermée.</verse>
+        <verse osisID='Matt.25.11'> Mais plus tard viennent aussi les autres vierges, disant : Seigneur, Seigneur, ouvre-nous !</verse>
+        <verse osisID='Matt.25.12'> Mais il leur répondit : En vérité, je vous le dis, je ne vous connais point.</verse>
+        <verse osisID='Matt.25.13'> Veillez donc ; parce que vous ne savez ni le jour ni l'heure.</verse>
+        <verse osisID='Matt.25.14'> Car il en est comme d'un homme qui, partant pour un voyage, appela ses serviteurs et leur remit ses biens ;</verse>
+        <verse osisID='Matt.25.15'> et à l'un il donna cinq talents, à l'autre deux, à l'autre un ; à chacun selon sa force particulière, et il partit.</verse>
+        <verse osisID='Matt.25.16'> Aussitôt celui qui avait reçu les cinq talents s'en alla, les fit valoir, et il gagna cinq autres talents.</verse>
+        <verse osisID='Matt.25.17'> De même aussi celui qui en avait deux, en gagna deux autres.</verse>
+        <verse osisID='Matt.25.18'> Mais celui qui en avait reçu un, s'en étant allé, creusa dans la terre, et y cacha l'argent de son seigneur.</verse>
+        <verse osisID='Matt.25.19'> Or, après un long temps, le seigneur de ces serviteurs vient, et il règle compte avec eux.</verse>
+        <verse osisID='Matt.25.20'> Et celui qui avait reçu les cinq talents, s'approchant, présenta cinq autres talents, et dit : Seigneur, tu m'as remis cinq talents ; en voici cinq autres que j'ai gagnés.</verse>
+        <verse osisID='Matt.25.21'> Son seigneur lui dit : Bien, serviteur bon et fidèle, tu as été fidèle en peu de chose, je t'établirai sur beaucoup, entre dans la joie de ton seigneur.</verse>
+        <verse osisID='Matt.25.22'> Celui qui avait reçu les deux talents, s'approchant aussi, dit : Seigneur, tu m'as remis deux talents ; en voici deux autres que j'ai gagnés.</verse>
+        <verse osisID='Matt.25.23'> Son seigneur lui dit : Bien, serviteur bon et fidèle ; tu as été fidèle en peu de chose, je t'établirai sur beaucoup ; entre dans la joie de ton seigneur.</verse>
+        <verse osisID='Matt.25.24'> Mais celui qui avait reçu un talent, s'approchant aussi, dit : Seigneur, je savais que tu es un homme dur, qui moissonnes où tu n'as pas semé, et qui ramasses où tu n'as pas répandu ;</verse>
+        <verse osisID='Matt.25.25'> et ayant craint, je suis allé, et j'ai caché ton talent dans la terre ; voici, tu as ce qui est à toi.</verse>
+        <verse osisID='Matt.25.26'> Mais son seigneur lui répondit : Méchant et paresseux serviteur, tu savais que je moissonne où je n'ai pas semé, et que je ramasse où je n'ai pas répandu ;</verse>
+        <verse osisID='Matt.25.27'> il te fallait donc porter mon argent aux banquiers, et à mon retour j'aurais retiré ce qui est à moi avec l'intérêt.</verse>
+        <verse osisID='Matt.25.28'> Otez-lui donc le talent, et le donnez à celui qui a les dix talents.</verse>
+        <verse osisID='Matt.25.29'> Car à tout homme qui a, il sera donné, et il sera dans l'abondance ; mais à celui qui n'a pas, on lui ôtera même ce qu'il a.</verse>
+        <verse osisID='Matt.25.30'> Et jetez le serviteur inutile dans les ténèbres de dehors ; là seront les pleurs et le grincement des dents.</verse>
+        <verse osisID='Matt.25.31'> Or, quand le fils de l'homme viendra dans sa gloire, et tous les anges avec lui, alors il s'assiéra sur le trône de sa gloire ;</verse>
+        <verse osisID='Matt.25.32'> et toutes les nations seront assemblées devant lui, et il séparera les uns d'avec les autres, comme le berger sépare les brebis d'avec les boucs ;</verse>
+        <verse osisID='Matt.25.33'> et il mettra les brebis à sa droite, et les boucs à sa gauche.</verse>
+        <verse osisID='Matt.25.34'> Alors le Roi dira à ceux qui seront à sa droite : Venez, vous qui êtes bénis de mon Père, possédez en héritage le royaume qui vous a été préparé dès la fondation du monde ;</verse>
+        <verse osisID='Matt.25.35'> car j'ai eu faim, et vous m'avez donné à manger ; j'ai eu soif, et vous m'avez donné à boire ; j'étais étranger, et vous m'avez recueilli ;</verse>
+        <verse osisID='Matt.25.36'> j'étais nu, et vous m'avez vêtu ; j'étais malade, et vous m'avez visité ; j'étais en prison, et vous êtes venus vers moi.</verse>
+        <verse osisID='Matt.25.37'> Alors les justes lui répondront disant : Seigneur, quand est-ce que nous t'avons vu avoir faim, et que nous t'avons nourri, ou avoir soif, et que nous t'avons donné à boire ?</verse>
+        <verse osisID='Matt.25.38'> et quand est-ce que nous t'avons vu étranger, et que nous t'avons recueilli ; ou nu, et que nous t'avons vêtu ?</verse>
+        <verse osisID='Matt.25.39'> et quand est-ce que nous t'avons vu malade, ou en prison, et que nous sommes venus vers toi ?</verse>
+        <verse osisID='Matt.25.40'> Et le Roi répondant, leur dira : En vérité, je vous le dis, toutes les fois que vous l'avez fait à l'un de ces plus petits de mes frères, vous me l'avez fait à moi-même.</verse>
+        <verse osisID='Matt.25.41'> Alors il dira aussi à ceux qui seront à sa gauche : Allez loin de moi, maudits, dans le feu éternel, qui est préparé au diable et à ses anges !</verse>
+        <verse osisID='Matt.25.42'> Car j'ai eu faim, et vous ne m'avez pas donné à manger ; j'ai eu soif, et vous ne m'avez pas donné à boire ;</verse>
+        <verse osisID='Matt.25.43'> j'étais étranger, et vous ne m'avez pas recueilli ; nu, et vous ne m'avez pas vêtu ; malade et en prison, et vous ne m'avez pas visité.</verse>
+        <verse osisID='Matt.25.44'> Alors eux aussi répondront disant : Seigneur, quand est-ce que nous t'avons vu avoir faim, ou avoir soif, ou être étranger, ou nu, ou malade, ou en prison, et que nous ne t'avons pas servi ?</verse>
+        <verse osisID='Matt.25.45'> Alors il leur répondra disant : En vérité je vous le dis, toutes les fois que vous ne l'avez pas fait à l'un de ces plus petits, vous ne l'avez pas non plus fait à moi.</verse>
+        <verse osisID='Matt.25.46'> Et ceux-ci s'en iront au châtiment éternel, mais les justes à la vie éternelle.</verse>
+      </chapter>
+      <chapter osisID='Matt.26'>
+        <verse osisID='Matt.26.1'> Et il arriva, quand Jésus eut achevé tous ces discours, qu'il dit à ses disciples :</verse>
+        <verse osisID='Matt.26.2'> Vous savez que la Pâque a lieu dans deux jours, et le fils de l'homme est livré pour être crucifié.</verse>
+        <verse osisID='Matt.26.3'> Alors les principaux sacrificateurs et les anciens du peuple s'assemblèrent dans le palais du souverain sacrificateur, nommé Caïphe,</verse>
+        <verse osisID='Matt.26.4'> et délibérèrent ensemble de se saisir de Jésus par ruse, et de le faire mourir.</verse>
+        <verse osisID='Matt.26.5'> Mais ils disaient : Que ce ne soit pas pendant la fête, de peur qu'il n'y ait du tumulte parmi le peuple.</verse>
+        <verse osisID='Matt.26.6'> Et Jésus étant à Béthanie, dans la maison de Simon le lépreux,</verse>
+        <verse osisID='Matt.26.7'> une femme s'approcha de lui, ayant un vase d'albâtre plein d'un parfum de grand prix, et elle le répandit sur sa tête pendant qu'il était à table.</verse>
+        <verse osisID='Matt.26.8'> Or les disciples voyant cela, en furent indignés, et dirent : Pourquoi cette perte ?</verse>
+        <verse osisID='Matt.26.9'> Car cela pouvait être vendu bien cher, et donné aux pauvres.</verse>
+        <verse osisID='Matt.26.10'> Mais Jésus le sachant, leur dit : Pourquoi faites-vous de la peine à cette femme ? Car c'est une bonne œuvre qu'elle a faite à mon égard.</verse>
+        <verse osisID='Matt.26.11'> Car vous avez toujours les pauvres avec vous ; mais moi, vous ne m'avez pas toujours.</verse>
+        <verse osisID='Matt.26.12'> Car en répandant ce parfum sur mon corps, elle a agi en vue de ma sépulture.</verse>
+        <verse osisID='Matt.26.13'> En vérité je vous le dis, en quelque endroit que cet Evangile du royaume soit prêché dans le monde entier, ce qu'elle a fait sera aussi raconté en mémoire d'elle.</verse>
+        <verse osisID='Matt.26.14'> Alors l'un des douze, appelé Judas Iscariot, s'en étant allé vers les principaux sacrificateurs,</verse>
+        <verse osisID='Matt.26.15'> leur dit : Que voulez-vous me donner, et je vous le livrerai ? Et ils lui payèrent trente pièces d'argent.</verse>
+        <verse osisID='Matt.26.16'> Et dès lors il cherchait une occasion favorable pour le livrer.</verse>
+        <verse osisID='Matt.26.17'> Or, le premier jour des pains sans levain, les disciples s'approchèrent de Jésus, en disant : Où veux-tu que nous te préparions le repas de la Pâque ?</verse>
+        <verse osisID='Matt.26.18'> Et il dit : Allez dans la ville chez un tel, et dites-lui : Le Maître dit : Mon temps est proche ; c'est chez toi que je fais la Pâque avec mes disciples.</verse>
+        <verse osisID='Matt.26.19'> Et les disciples firent comme Jésus leur avait ordonné et ils préparèrent la Pâque.</verse>
+        <verse osisID='Matt.26.20'> Et le soir venu, il se mit à table avec les douze disciples.</verse>
+        <verse osisID='Matt.26.21'> Et comme ils mangeaient, il dit : En vérité, je vous dis que l'un de vous me livrera.</verse>
+        <verse osisID='Matt.26.22'> Et, fort attristés, ils se mirent chacun d'eux à lui dire : Seigneur, est-ce moi ?</verse>
+        <verse osisID='Matt.26.23'> Mais répondant, il dit : Celui qui a mis la main dans le plat avec moi, c'est celui qui me livrera.</verse>
+        <verse osisID='Matt.26.24'> Quant au fils de l'homme, il s'en va, selon qu'il est écrit de lui ; mais malheur à cet homme par qui le fils de l'homme est livré ! il eût été bon pour cet homme-là qu'il ne fût pas né.</verse>
+        <verse osisID='Matt.26.25'> Et Judas, qui le livrait, répondant, dit : Est-ce moi, Rabbi ? lui dit : Tu l'as dit.</verse>
+        <verse osisID='Matt.26.26'> Et comme ils mangeaient, Jésus, ayant pris du pain et prononcé une bénédiction, le rompit, et le donnant à ses disciples, il dit : Prenez, mangez, ceci est mon corps.</verse>
+        <verse osisID='Matt.26.27'> Et ayant pris une coupe, et rendu grâces, il la leur donna, disant : Buvez-en tous ;</verse>
+        <verse osisID='Matt.26.28'> car ceci est mon sang, le sang de l'alliance, lequel est répandu pour plusieurs pour la rémission des péchés.</verse>
+        <verse osisID='Matt.26.29'> Or je vous le dis, je ne boirai point désormais de ce produit de la vigne, jusqu'à ce jour où je le boirai nouveau avec vous dans le royaume de mon Père.</verse>
+        <verse osisID='Matt.26.30'> Et après qu'ils eurent chanté les cantiques, ils sortirent pour aller à la montagne des Oliviers.</verse>
+        <verse osisID='Matt.26.31'> Alors Jésus leur dit : Pour vous tous, je serai cette nuit une occasion de chute ; car il est écrit : Je frapperai le berger, et les brebis du troupeau seront dispersées.</verse>
+        <verse osisID='Matt.26.32'> Mais après que je serai ressuscité, je vous précéderai en Galilée.</verse>
+        <verse osisID='Matt.26.33'> Mais Pierre répondant, lui dit : Quand tu serais pour tous une occasion de chute, tu ne le seras jamais pour moi.</verse>
+        <verse osisID='Matt.26.34'> Jésus lui dit : En vérité je te dis que cette nuit même, avant que le coq ait chanté, tu me renieras trois fois.</verse>
+        <verse osisID='Matt.26.35'> Pierre lui dit : Quand même il me faudrait mourir avec toi, je ne te renierai point. Et tous les disciples dirent la même chose.</verse>
+        <verse osisID='Matt.26.36'> Alors Jésus se rend avec eux dans un lieu appelé Gethsémané, et il dit aux disciples : Asseyez-vous ici, jusqu'à ce que m'en étant allé là, j'aie prié.</verse>
+        <verse osisID='Matt.26.37'> Et ayant pris avec lui Pierre et les deux fils de Zébédée, il commença à être attristé et dans l'angoisse.</verse>
+        <verse osisID='Matt.26.38'> Alors il leur dit : Mon âme est triste jusqu'à la mort, demeurez ici et veillez avec moi.</verse>
+        <verse osisID='Matt.26.39'> Et étant allé un peu plus avant, il se prosterna, priant et disant : Mon Père, s'il est possible, que cette coupe passe loin de moi ! Toutefois, non pas comme je veux, mais comme tu veux.</verse>
+        <verse osisID='Matt.26.40'> Et il vient vers les disciples et les trouve endormis ; et il dit à Pierre : Ainsi, vous n'avez pas pu veiller une heure avec moi !</verse>
+        <verse osisID='Matt.26.41'> Veillez et priez, afin que vous n'entriez pas en tentation ; l'esprit est prompt, mais la chair est faible.</verse>
+        <verse osisID='Matt.26.42'> Il s'en alla encore pour la seconde fois, et pria, disant : Mon Père, s'il n'est pas possible que cette coupe passe sans que je la boive, que ta volonté soit faite !</verse>
+        <verse osisID='Matt.26.43'> Et étant revenu, il les trouva encore endormis ; car leurs yeux étaient appesantis.</verse>
+        <verse osisID='Matt.26.44'> Et les ayant laissés, il s'en alla encore, et pria pour la troisième fois, disant la même parole.</verse>
+        <verse osisID='Matt.26.45'> Alors il vient vers les disciples, et leur dit : Dormez désormais et reposez-vous ! Voici, l'heure approche, et le fils de l'homme est livré entre les mains des pécheurs.</verse>
+        <verse osisID='Matt.26.46'> Levez-vous, allons ! voici, il approche celui qui me livre !</verse>
+        <verse osisID='Matt.26.47'> Et comme il parlait encore, voici, Judas, l'un des douze, vint, et avec lui une grande foule armée d'épées et de bâtons, de la part des principaux sacrificateurs et des anciens du peuple.</verse>
+        <verse osisID='Matt.26.48'> Or celui qui le livrait leur avait donné un signe, disant : Celui que j'embrasserai, c'est lui ; saisissez-le.</verse>
+        <verse osisID='Matt.26.49'> Et aussitôt, s'approchant de Jésus, il lui dit : Salut, Rabbi ! Et il l'embrassa.</verse>
+        <verse osisID='Matt.26.50'> Mais Jésus lui dit : Ami, pour quel sujet es-tu ici ? Alors, s'étant approchés, ils mirent les mains sur Jésus et le saisirent.</verse>
+        <verse osisID='Matt.26.51'> Et voici l'un de ceux qui étaient avec Jésus, ayant étendu la main, tira son épée, et, ayant frappé le serviteur du souverain sacrificateur, lui emporta l'oreille.</verse>
+        <verse osisID='Matt.26.52'> Alors Jésus lui dit : Remets ton épée à sa place ; car tous ceux qui prendront l'épée périront par l'épée.</verse>
+        <verse osisID='Matt.26.53'> Ou bien, penses-tu que je ne puisse pas maintenant prier mon Père, et il me fournira plus de douze légions d'anges ?</verse>
+        <verse osisID='Matt.26.54'> Comment donc s'accompliraient les Ecritures, qui disent qu'il doit en être ainsi ?</verse>
+        <verse osisID='Matt.26.55'> En ce moment-là, Jésus dit à la foule : Vous êtes sortis comme après un brigand avec des épées et des bâtons pour me prendre. Chaque jour j'étais assis enseignant dans le temple, et vous ne m'avez point saisi.</verse>
+        <verse osisID='Matt.26.56'> Mais tout ceci est arrivé afin que les écrits des prophètes fussent accomplis. Alors tous les disciples, l'abandonnant, s'enfuirent.</verse>
+        <verse osisID='Matt.26.57'> Mais ceux qui avaient saisi Jésus, l'emmenèrent chez Caïphe, le souverain sacrificateur, où les scribes et les anciens s'assemblèrent.</verse>
+        <verse osisID='Matt.26.58'> Et Pierre le suivait de loin, jusqu'à la cour du souverain sacrificateur ; et y étant entré, il s'assit avec les huissiers, pour voir la fin.</verse>
+        <verse osisID='Matt.26.59'> Or les principaux sacrificateurs et tout le sanhédrin cherchaient un faux témoignage contre Jésus, pour le faire mourir ;</verse>
+        <verse osisID='Matt.26.60'> et ils n'en trouvèrent point, bien que plusieurs faux témoins se fussent présentés. Mais plus tard deux faux témoins s'étant présentés,</verse>
+        <verse osisID='Matt.26.61'> dirent : Celui-ci a dit : Je puis détruire le temple de Dieu et le rebâtir en trois jours.</verse>
+        <verse osisID='Matt.26.62'> Et le souverain sacrificateur s'étant levé, lui dit : Ne réponds-tu rien ? Qu'est-ce que ceux-ci déposent contre toi ?</verse>
+        <verse osisID='Matt.26.63'> Mais Jésus gardait le silence. Et le souverain sacrificateur reprenant la parole, lui dit : Je t'adjure, par le Dieu vivant, de nous dire, si tu es le Christ, le Fils de Dieu.</verse>
+        <verse osisID='Matt.26.64'> Jésus lui dit : Tu l'as dit ; en outre, je vous le dis, désormais vous verrez le fils de l'homme assis à la droite de la Puissance et venant sur les nuées du ciel.</verse>
+        <verse osisID='Matt.26.65'> Alors le souverain sacrificateur déchira ses vêtements, en disant : Il a blasphémé ! qu'avons-nous encore besoin de témoins ? Voici, vous avez maintenant entendu le blasphème. Que vous en semble ?</verse>
+        <verse osisID='Matt.26.66'> Ils répondirent : Il mérite la mort !</verse>
+        <verse osisID='Matt.26.67'> Alors ils lui, crachèrent au visage et le souffletèrent, et d'autres le frappèrent</verse>
+        <verse osisID='Matt.26.68'> en disant : Prophétise-nous, Christ, qui est celui qui t'a frappé.</verse>
+        <verse osisID='Matt.26.69'> Pierre cependant était assis dehors, dans la cour ; et une servante s'approcha de lui en disant : Toi aussi, tu étais avec Jésus le Galiléen.</verse>
+        <verse osisID='Matt.26.70'> Mais il le nia devant tous, disant : Je ne sais ce que tu dis.</verse>
+        <verse osisID='Matt.26.71'> Et comme il sortait vers le porche, une autre le vit, et dit à ceux qui étaient là : Celui-ci était avec Jésus le Nazaréen.</verse>
+        <verse osisID='Matt.26.72'> Et il le nia de nouveau avec serment : Je ne connais point cet homme.</verse>
+        <verse osisID='Matt.26.73'> Et peu après, ceux qui étaient là s'approchant, dirent à Pierre : Vraiment, toi aussi, tu es des leurs, car aussi ton langage te fait connaître.</verse>
+        <verse osisID='Matt.26.74'> Alors il se mit à faire des imprécations et à jurer : Je ne connais point cet homme. Et aussitôt le coq chanta.</verse>
+        <verse osisID='Matt.26.75'> Et Pierre se souvint de la parole de Jésus, qui lui avait dit : Avant que le coq ait chanté, tu me renieras trois fois. Et, étant sorti, il pleura amèrement.</verse>
+      </chapter>
+      <chapter osisID='Matt.27'>
+        <verse osisID='Matt.27.1'> Or, lorsque le matin fut venu, tous les principaux sacrificateurs et les anciens du peuple tinrent conseil contre Jésus pour le faire mourir ;</verse>
+        <verse osisID='Matt.27.2'> et l'ayant lié, ils l'emmenèrent, et le livrèrent à Pilate, le gouverneur.</verse>
+        <verse osisID='Matt.27.3'> Alors Judas, qui l'avait livré, voyant qu'il était condamné, se repentit, et rapporta les trente pièces d'argent aux principaux sacrificateurs et aux anciens,</verse>
+        <verse osisID='Matt.27.4'> disant : J'ai péché en livrant un sang innocent. Mais ils dirent : Que nous importe ? tu y pourvoiras.</verse>
+        <verse osisID='Matt.27.5'> Et, après avoir jeté les pièces d'argent dans le temple, il se retira, et s'en étant allé, il se pendit.</verse>
+        <verse osisID='Matt.27.6'> Et les principaux sacrificateurs ayant pris les pièces d'argent, dirent : Il n'est pas permis de les mettre dans le trésor sacré, car c'est le prix du sang.</verse>
+        <verse osisID='Matt.27.7'> Et ayant délibéré, ils en achetèrent le champ du potier, pour la sépulture des étrangers.</verse>
+        <verse osisID='Matt.27.8'> C'est pourquoi ce champ-là a été appelé, jusqu'à aujourd'hui, le Champ du Sang.</verse>
+        <verse osisID='Matt.27.9'> Alors s'accomplit ce qui avait été dit par Jérémie le prophète : Et ils ont pris les trente pièces d'argent, le prix de celui qui a été évalué et qu'ils ont évalué de la part des fils d'Israël ;</verse>
+        <verse osisID='Matt.27.10'>
+  et ils les ont données pour le champ du potier, comme le Seigneur me l'avait ordonné.
+</verse>
+        <verse osisID='Matt.27.11'> Or Jésus comparut devant le gouverneur, et le gouverneur l'interrogea, disant : Tu es le roi des Juifs ? Et Jésus lui dit : Tu le dis.</verse>
+        <verse osisID='Matt.27.12'> Et comme il était accusé par les principaux sacrificateurs et les anciens, il ne répondit rien.</verse>
+        <verse osisID='Matt.27.13'> Alors Pilate lui dit : N'entends-tu pas combien de choses ils témoignent contre toi ?</verse>
+        <verse osisID='Matt.27.14'> Et il ne lui répondit sur aucune parole, de sorte que le gouverneur était fort étonné.</verse>
+        <verse osisID='Matt.27.15'> Or à chaque fête, le gouverneur avait coutume de relâcher à la foule un prisonnier, celui qu'elle voulait.</verse>
+        <verse osisID='Matt.27.16'> Or ils avaient alors un prisonnier fameux, nommé Barabbas.</verse>
+        <verse osisID='Matt.27.17'> Comme ils étaient donc assemblés, Pilate leur dit : Lequel voulez-vous que je vous relâche : Barabbas, ou Jésus, qu'on appelle Christ ?</verse>
+        <verse osisID='Matt.27.18'> Car il savait que c'était par envie qu'ils l'avaient livré.</verse>
+        <verse osisID='Matt.27.19'> Et pendant qu'il était assis au tribunal, sa femme lui envoya dire : N'aie rien à faire avec ce juste, car j'ai beaucoup souffert aujourd'hui, en songe, à son sujet.</verse>
+        <verse osisID='Matt.27.20'> Mais les principaux sacrificateurs et les anciens persuadèrent à la foule de demander Barabbas, et de faire périr Jésus.</verse>
+        <verse osisID='Matt.27.21'> Et le gouverneur, prenant la parole, leur dit : Lequel des deux voulez-vous que je vous relâche ? Et ils dirent : Barabbas.</verse>
+        <verse osisID='Matt.27.22'> Pilate leur dit : Que ferai-je donc de Jésus qu'on appelle Christ ? Tous disent : Qu'il soit crucifié !</verse>
+        <verse osisID='Matt.27.23'> Et le gouverneur leur dit : Quel mal a-t-il donc fait ? Mais ils criaient plus fort : Qu'il soit crucifié !</verse>
+        <verse osisID='Matt.27.24'> Voyant donc qu'il ne gagnait rien, mais que le tumulte allait croissant, Pilate prit de l'eau et se lava les mains devant le peuple, en disant : Je suis innocent de ce sang ; vous y pourvoirez.</verse>
+        <verse osisID='Matt.27.25'> Et tout le peuple répondit : Que son sang soit sur nous et sur nos enfants !</verse>
+        <verse osisID='Matt.27.26'> Alors il leur relâcha Barabbas, et après avoir fait flageller Jésus, il le livra pour être crucifié.</verse>
+        <verse osisID='Matt.27.27'> Alors les soldats du gouverneur ayant emmené Jésus au prétoire, assemblèrent autour de lui toute la cohorte.</verse>
+        <verse osisID='Matt.27.28'> Et lui ayant ôté ses vêtements, ils le revêtirent d'un manteau d'écarlate ;</verse>
+        <verse osisID='Matt.27.29'> et ayant tressé une couronne d'épines, ils la lui mirent sur la tête, et un roseau dans la main droite, et s'agenouillant devant lui, ils se moquaient de lui, en disant : Salut, roi des Juifs !</verse>
+        <verse osisID='Matt.27.30'> Et crachant contre lui, ils prirent le roseau, et ils frappaient sur sa tête.</verse>
+        <verse osisID='Matt.27.31'> Et lorsqu'ils se furent moqués de lui, après lui avoir ôté le manteau, ils lui remirent ses vêtements, et ils l'emmenèrent pour le crucifier.</verse>
+        <verse osisID='Matt.27.32'> Et comme ils sortaient, ils trouvèrent un homme de Cyrène, nommé Simon, qu'ils contraignirent de porter la croix de Jésus.</verse>
+        <verse osisID='Matt.27.33'> Et étant arrivés au lieu appelé Golgotha, ce qui signifie le lieu du Crâne,</verse>
+        <verse osisID='Matt.27.34'> ils lui donnèrent à boire du vin mêlé de fiel ; et quand il en eut goûté, il n'en voulut pas boire.</verse>
+        <verse osisID='Matt.27.35'> Et après l'avoir crucifié, ils partagèrent ses vêtements, en jetant le sort.</verse>
+        <verse osisID='Matt.27.36'> Et s'étant assis, ils le gardaient là.</verse>
+        <verse osisID='Matt.27.37'> Et l'on mit au-dessus de sa tête le sujet de sa condamnation écrit : Celui-ci Est Jésus, Le Roi Des Juifs.</verse>
+        <verse osisID='Matt.27.38'> Alors sont crucifiés avec lui deux brigands, l'un à droite, et l'autre à gauche.</verse>
+        <verse osisID='Matt.27.39'> Et ceux qui passaient l'injuriaient, secouant la tête,</verse>
+        <verse osisID='Matt.27.40'> et disant : Toi qui détruis le temple, et qui le rebâtis en trois jours, sauve-toi toi-même, si tu es le Fils de Dieu, et descends de la croix !</verse>
+        <verse osisID='Matt.27.41'> De même aussi les principaux sacrificateurs, avec les scribes et les anciens, disaient en se moquant :</verse>
+        <verse osisID='Matt.27.42'> Il a sauvé les autres, et il ne peut se sauver lui-même ! Il est le roi d'Israël ! qu'il descende maintenant de la croix, et nous croirons en lui !</verse>
+        <verse osisID='Matt.27.43'> Il s'est confié en Dieu ; que Dieu le délivre maintenant, s'il l'aime ! car il a dit : Je suis le Fils de Dieu.</verse>
+        <verse osisID='Matt.27.44'> Et les brigands aussi qui étaient avec lui l'outrageaient de la même manière.</verse>
+        <verse osisID='Matt.27.45'> Or depuis la sixième heure il y eut des ténèbres sur toute la terre, jusqu'à la neuvième heure.</verse>
+        <verse osisID='Matt.27.46'> Et environ la neuvième heure, Jésus s'écria d'une voix forte, disant : Eli, Eli, lamma sabachthani ? C'est-à-dire : Mon Dieu, mon Dieu, pourquoi m'as-tu abandonné ?</verse>
+        <verse osisID='Matt.27.47'> Et quelques-uns de ceux qui étaient présents, l'ayant entendu, disaient : Il appelle Elie, celui-ci !</verse>
+        <verse osisID='Matt.27.48'> Et aussitôt l'un d'entre eux courut et prit une éponge, et l'ayant remplie de vinaigre et mise au bout d'un roseau, il lui donna à boire.</verse>
+        <verse osisID='Matt.27.49'> Et les autres disaient : Laisse ; voyons si Elie vient le délivrer.</verse>
+        <verse osisID='Matt.27.50'> Et Jésus ayant de nouveau poussé un grand cri, rendit l'esprit.</verse>
+        <verse osisID='Matt.27.51'> Et voici, le voile du temple se déchira en deux, depuis le haut jusqu'en bas ; et la terre trembla, et les rochers se fendirent,</verse>
+        <verse osisID='Matt.27.52'> et les sépulcres s'ouvrirent, et plusieurs corps des saints qui étaient morts ressuscitèrent ;</verse>
+        <verse osisID='Matt.27.53'> et étant sortis de leurs sépulcres, ils entrèrent dans la sainte cité, après sa résurrection, et ils apparurent à plusieurs personnes.</verse>
+        <verse osisID='Matt.27.54'> Et le centenier et ceux qui gardaient Jésus avec lui, ayant vu le tremblement de terre et ce qui arrivait, furent fort effrayés, et dirent : Véritablement cet homme était Fils de Dieu.</verse>
+        <verse osisID='Matt.27.55'> Or il y avait là plusieurs femmes, regardant de loin, qui avaient suivi Jésus de la Galilée, en le servant ;</verse>
+        <verse osisID='Matt.27.56'> entre lesquelles étaient Marie de Magdala, et Marie, mère de Jacques et de Joseph, et la mère des fils de Zébédée.</verse>
+        <verse osisID='Matt.27.57'> Or le soir étant venu, arriva un homme riche, nommé Joseph, qui était d'Arimathée, et qui était lui aussi disciple de Jésus.</verse>
+        <verse osisID='Matt.27.58'> Cet homme s'étant rendu auprès de Pilate, demanda le corps de Jésus. Alors Pilate commanda qu'on le lui donnât.</verse>
+        <verse osisID='Matt.27.59'> Et Joseph, ayant pris le corps, l'enveloppa dans un linceul pur.</verse>
+        <verse osisID='Matt.27.60'> et le déposa dans son propre sépulcre neuf, qu'il avait fait tailler dans le roc ; et ayant roulé une grande pierre à l'entrée du sépulcre, il s'en alla.</verse>
+        <verse osisID='Matt.27.61'> Or Marie-Magdelaine et l'autre Marie étaient là assises vis-à-vis du sépulcre.</verse>
+        <verse osisID='Matt.27.62'> Mais le lendemain, qui était le jour après la préparation, les principaux sacrificateurs et les pharisiens s'assemblèrent auprès de Pilate,</verse>
+        <verse osisID='Matt.27.63'> et lui dirent : Seigneur, nous nous sommes souvenus que cet imposteur, quand il vivait, disait : Dans trois jours je ressusciterai.</verse>
+        <verse osisID='Matt.27.64'> Commande donc que le sépulcre soit gardé sûrement jusqu'au troisième jour ; de peur que ses disciples ne viennent le dérober et qu'ils ne disent au peuple : Il est ressuscité des morts. Et la dernière imposture sera pire que la première.</verse>
+        <verse osisID='Matt.27.65'> Mais Pilate leur dit : Vous avez une garde ; allez, et faites-le garder comme vous l'entendrez.</verse>
+        <verse osisID='Matt.27.66'> Eux donc, s'en étant allés, s'assurèrent du sépulcre au moyen de la garde, après avoir scellé la pierre.</verse>
+      </chapter>
+      <chapter osisID='Matt.28'>
+        <verse osisID='Matt.28.1'> Or comme le sabbat finissait et que le premier jour de la semaine commençait à luire, Marie-Magdelaine et l'autre Marie vinrent pour voir le sépulcre.</verse>
+        <verse osisID='Matt.28.2'> Et voici il se fit un grand tremblement de terre ; car un ange du Seigneur, étant descendu du ciel et s'étant approché, roula la pierre, et il se tenait assis dessus.</verse>
+        <verse osisID='Matt.28.3'> Or son aspect était comme un éclair, et son vêtement, blanc comme la neige ;</verse>
+        <verse osisID='Matt.28.4'> et de la frayeur qu'ils en eurent, les gardes furent tout tremblants, et devinrent comme morts.</verse>
+        <verse osisID='Matt.28.5'> Mais l'ange, prenant la parole, dit aux femmes : Vous, ne craignez point ; car je sais que vous cherchez Jésus qui a été crucifié.</verse>
+        <verse osisID='Matt.28.6'> Il n'est pas ici ; car il est ressuscité, comme il l'a dit. Venez, voyez le lieu où il était couché ;</verse>
+        <verse osisID='Matt.28.7'> et allez promptement dire à ses disciples qu'il est ressuscité des morts. Et voici, il vous précède en Galilée ; c'est là que vous le verrez. Voici, je vous l'ai dit.</verse>
+        <verse osisID='Matt.28.8'> Et étant sorties promptement du sépulcre, avec crainte et avec une grande joie, elles coururent l'annoncer à ses disciples.</verse>
+        <verse osisID='Matt.28.9'> Et voici, Jésus vint au-devant d'elles, en disant : Salut ! Et elles, s'approchant, saisirent ses pieds et l'adorèrent.</verse>
+        <verse osisID='Matt.28.10'> Alors Jésus leur dit : Ne craignez point ; allez et annoncez cette nouvelle à mes frères, afin qu'ils s'en aillent en Galilée, et c'est là qu'ils me verront.</verse>
+        <verse osisID='Matt.28.11'> Or pendant qu'elles étaient en chemin, voici quelques-uns de la garde vinrent à la ville et rapportèrent aux principaux sacrificateurs tout ce qui était arrivé.</verse>
+        <verse osisID='Matt.28.12'> Alors s'étant assemblés avec les anciens et ayant tenu conseil, ils donnèrent aux soldats une forte somme d'argent,</verse>
+        <verse osisID='Matt.28.13'> en disant : Dites : Ses disciples sont venus de nuit et l'ont dérobé pendant que nous dormions.</verse>
+        <verse osisID='Matt.28.14'> Et si cela vient à la connaissance du gouverneur, nous l'apaiserons et nous vous tirerons de peine.</verse>
+        <verse osisID='Matt.28.15'> Eux donc, ayant pris l'argent, firent comme ils avaient été instruits. Et ce bruit a été répandu parmi les Juifs jusqu'à aujourd'hui.</verse>
+        <verse osisID='Matt.28.16'> Or les onze disciples s'en allèrent en Galilée, sur la montagne où Jésus leur avait ordonné d'aller.</verse>
+        <verse osisID='Matt.28.17'> Et le voyant, ils l'adorèrent ; mais quelques-uns doutèrent.</verse>
+        <verse osisID='Matt.28.18'> Et Jésus, s'approchant, leur parla, disant : Tout pouvoir m'a été donné dans le ciel et sur la terre.</verse>
+        <verse osisID='Matt.28.19'> Allez, instruisez toutes les nations, les baptisant au nom du Père et du Fils et du Saint-Esprit,</verse>
+        <verse osisID='Matt.28.20'> leur apprenant à garder tout ce que je vous ai commandé. Et voici, moi, je suis avec vous tous les jours jusqu'à la consommation du temps.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

@@ -1,0 +1,545 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisRefWork='Bible' osisIDWork='CEBB' xml:lang='XX'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='CEBB'>
+        <title>Cebuano Ang Biblia (Bugna Version)</title>
+        <contributor>Philippine Bible Society</contributor>
+        <creator>Christian Wagner (http//www.lightinasia.org)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject>Holy Bible</subject>
+        <date>2009-01-20</date>
+        <description>Cebuano is the second most widely spoken native language of the Philippines. The complete Cebuano Bible was first published in 1917. This Bible is published today as the Ang Biblia, Cebuano by the Philippine Bible Society. Two separate versions are available: The 'Pinadayag' version contains a completely revised New Testament, the 'Bugna' version contains the original New Testament from 1917. Both versions share the same Old Testament text. The 'Bugna' designation is derived from the Cebuano name given to the book of Revelation. The New Testament text generally follows the same Greek Received Text, which was used as a basis for the King James Version. Because of its similarity with the KJV it is also called the Cebuano King James Version. [This file was created by combining the OT Text from the Cebuano Online Bible and the NT Text from the Cebuano AddBible. Comparison was made with the printed edition, resulting in some minor corrections. - Version 1.0.8]</description>
+        <publisher>LIA</publisher>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>CEBB</identifier>
+        <source>OT Text from the Cebuano Online Bible (http://www.online-bible.com/winonlinebible.html) and the NT Text from the Cebuano AddBible (http://www.addbible.com)</source>
+        <language type='IETF'>XX</language>
+        <relation/>
+        <coverage>provide the Bible to the world</coverage>
+        <rights>We believe that this Bible is found in the Public Domain.</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Rev'>
+      <chapter osisID='Rev.1'>
+        <verse osisID='Rev.1.1'>Ang pagpadayag ni Jesucristo, nga gihatag sa Dios kaniya sa pagpadayag ngadto sa iyang mga ulipon, bisan sa mga butang nga kinahanglan mahatabo sa madali; ug gisugo niya ug gipaila kini, pinaagi sa iyang manolonda, ngadto sa iyang ulipon nga si Juan;</verse>
+        <verse osisID='Rev.1.2'>Nga mao ang nagpamatuod sa pulong sa Dios, ug sa pagpamatuod ni Jesucristo, bisan sa tanang mga butang nga iyang nakita.</verse>
+        <verse osisID='Rev.1.3'>Bulahan siya nga nagabasa, ug sila nga nanagpatalinghug sa mga pulong sa tagna, ug nagabantay sa mga butang nga nahasulat niini; kay haduol na ang panahon.</verse>
+        <verse osisID='Rev.1.4'>Si Juan alang sa pito ka mga iglesia nga anaa sa Asia: Ang gracia kaninyo ug ang pakigdait, gikan kaniya nga mao ang karon, ug mao ang kaniadto, ug mao ang moanhi; ug gikan sa pito ka mga Espiritu, nga atua sa atubangan sa iyang trono:</verse>
+        <verse osisID='Rev.1.5'>Ug gikan kang Jesucristo, nga mao ang saksi nga matinumanon, nga mao ang panganay sa mga minatay, ug ang pangulo sa mga hari sa yuta. Kaniya nga nahagugma kanato, ug naghugas kanato gikan sa atong mga sala pinaagi sa iyang dugo;</verse>
+        <verse osisID='Rev.1.6'>Ug siya naghimo kanato nga usa ka gingharian, mga sacerdote alang sa iyang Dios ug Amahan; kaniya ang himaya ug ang paghari ngadto sa mga katuigan nga walay katapusan. Amen.</verse>
+        <verse osisID='Rev.1.7'>Ania karon, moanhi siya uban sa mga panganod, ug ang tanang mata makakita kaniya, ug kadto sila nga mga naglansang kaniya, ug ang tanang mga banay sa yuta managkasubo tungod kaniya. Mao gayud kini, Amen.</verse>
+        <verse osisID='Rev.1.8'>Ako mao ang Alpa ug ang Omega, nagaingon ang Ginoong Dios; ang karon, ug ang kaniadto, ug ang moanhi, ang Makagagahum.</verse>
+        <verse osisID='Rev.1.9'>Ako si Juan, inyong igsoon ug umalambit uban kaninyo sa kagul-anan, ug sa gingharian, ug sa pagpailub diha kang Jesus, didto ako sa pulo nga ginganlan Patmos, tungod sa pulong sa Dios ug sa pagpamatuod ni Jesus.</verse>
+        <verse osisID='Rev.1.10'>Diha ako sa Espiritu sa adlaw sa Ginoo; ug hingdunggan ko sa akong likod ang usa ka dakung tingog nga daw budyong,</verse>
+        <verse osisID='Rev.1.11'>Nga nagaingon: Ang imong gina-tan-aw isulat mo sa usa ka basahon, ug ipadala mo sa pito ka mga iglesia: ngadto sa Efeso, ug ngadto sa Smirna, ug ngadto sa Pergamo, ug ngadto sa Tiatira, ug ngadto sa Sardis, ug ngadto sa Filadelfia ug ngadto sa Laodicea.</verse>
+        <verse osisID='Rev.1.12'>Ug milingi ako sa pagtan-aw sa tingog nga nagpakigsulti kanako. Ug sa nakalingi ako, hingkit-an ko ang pito ka mga tangkawan nga bulawan;</verse>
+        <verse osisID='Rev.1.13'>Ug sa taliwala sa pito ka mga tangkawan ang usa nga sama sa Anak sa tawo, ga nasul-oban sa usa ka bisti hangtud sa mga tiil, nga nabaksan sa may dughan sa usa ka bakus nga bulawan;</verse>
+        <verse osisID='Rev.1.14'>Ug ang iyang ulo ug ang iyang mga buhok maputi, sama sa maputing balhibo sa nating carnero nga maputi sama sa nieve; ug ang iyang mga mata sama sa siga sa kalayo:</verse>
+        <verse osisID='Rev.1.15'>Ug ang iyang mga tiil sama sa tumbaga nga hininisan, nga nagasidlak nga daw nagasiga sa usa ka hudno, ug ang iyang tingog sama sa hinaganas sa daghang mga tubig;</verse>
+        <verse osisID='Rev.1.16'>Ug may pito siya ka mga bitoon sa iyang toong kamot; ug sa iyang baba nagagula ang usa ka espada nga mahait nga duruha ing sulab; ug ang iyang nawong ingon sa adlaw nga nagasidlak sa iyang kakusog.</verse>
+        <verse osisID='Rev.1.17'>Ug sa nakita ko siya, napukan ako nga daw patay diha sa iyang mga tiil. Ug gitapin-an niya ako sa iyang kamot nga too, nga nagaingon: Ayaw kahadlok, ako mao ang nahauna, ug ang naulahi;</verse>
+        <verse osisID='Rev.1.18'>Ug ang Buhi; ug ako ang namatay, ug ania karon, buhi ako ngadto sa mga katuigan nga walay katapusan; Amen. Ug ania kanako ang mga yawi sa kamatayon ug sa Hades.</verse>
+        <verse osisID='Rev.1.19'>Busa, isulat mo ang mga butang nga imong nakita, ug ang mga butang nga mao karon, ug ang mga butang nga manghitabo sa human niini:</verse>
+        <verse osisID='Rev.1.20'>Ang tinago sa pito ka mga bitoon nga imong nakita sa akong toong kamot, ug ang pito ka tangkawan nga bulawan. Ang pito ka mga bitoon mao ang mga manolonda sa pito ka mga iglesia; ug ang pito ka mga tangkawan mao ang pito ka mga iglesia.</verse>
+      </chapter>
+      <chapter osisID='Rev.2'>
+        <verse osisID='Rev.2.1'>Sulatan mo ang manolonda sa iglesia sa Efeso: Ang may pito ka mga bitoon sa iyang too nga kamot, ang nagalakaw sa taliwala sa pito ka mga tangkawan nga bulawan nagaingon niining mga butanga:</verse>
+        <verse osisID='Rev.2.2'>Naila ko ang imong mga buhat, ug ang imong kahago, ug ang imong pagpailub, ug nga dili ka makaantus sa dautang mga tawo, ug nga gisulayan mo ang mga nagangalan sa ilang kaugalingon mga apostoles apan dili man diay ug hingpalgan mo sila nga mga bakakon;</verse>
+        <verse osisID='Rev.2.3'>Ug nagabaton ka ug pagpailub, ug nagaantus ug nagasingkamot tungod sa akong ngalan, ug wala magakaluya sa akong buhat.</verse>
+        <verse osisID='Rev.2.4'>Apan ako adunay batok kanimo, nga imong gibiyaan ang imong nahaunang gugma.</verse>
+        <verse osisID='Rev.2.5'>Busa hinumdumi kong diin ikaw mahulog, ug maghinulsol ka, ug buhata ang unang mga bulohaton; kay kong dili, moanha ako kanimo, ug pagakuhaon ko ang imong tangkawan sa iyang dapit, gawas kong ikaw maghinulsol.</verse>
+        <verse osisID='Rev.2.6'>Apan kini mao ang anaa kanimo, nga imong ginadumtan ang mga buhat sa mga Nicolaita, nga gidumtan ko usab.</verse>
+        <verse osisID='Rev.2.7'>Ang may igdulungog, magpataling-hug sa ginaingon sa Espiritu sa mga iglesia. Ang makadaug pakan-on ko sa kahoy sa kinabuhi nga atua sa Paraiso sa Dios.</verse>
+        <verse osisID='Rev.2.8'>Ug sulatan mo ang manolonda sa iglesia sa Smirna: Ang nahauna ug ang naulahi, ang namatay ug ang nabuhi pag-usab, nagaingon niining mga butanga:</verse>
+        <verse osisID='Rev.2.9'>Naila ko ang imong kagul-anan ug ang imong kakabus (apan bahandianon ka), ug ang pagpasipala sa mga nagaingon nga sila mga Judio, apan dili man diay, kondili usa sila ka sinagoga ni Satanas.</verse>
+        <verse osisID='Rev.2.10'>Ayaw kahadlok sa mga butang nga sa dili madugay imong pagaantuson; ania karon, ang yawa hapit na magabutang sa uban kaninyo sa bilanggoan aron pagasulayan kamo, ug may kagul-anan kamo sulod sa napulo ka adlaw. Mag-matinumanon ka hangtud sa kamatayon, ug pagahatagan ko ikaw sa purongpurong sa kinabuhi.</verse>
+        <verse osisID='Rev.2.11'>Ang may igdulungog, magpatalinghug sa ginaingon sa Espiritu sa mga iglesia. Ang makadaug dili maunsa sa ikaduhang kamatayon.</verse>
+        <verse osisID='Rev.2.12'>Ug sulatan mo ang manolonda sa iglesia sa Pergamo: Ang may espada nga mahait nga duruha ing sulab nagaingon niining mga butanga:</verse>
+        <verse osisID='Rev.2.13'>Nahibalo ako kong diin ka magpuyo, bisan sa dapit diin atua ang trono ni Satanas; ug gibatonan mo ug maayo ang akong ngalan, ug wala maglimod sa pagtoo kanako, bisan sa mga adlaw ni Antipas nga akong saksi, ang matinumanon nga gipatay sa taliwala ninyo, didto sa gipuy-an ni Satanas.</verse>
+        <verse osisID='Rev.2.14'>Apan ako may pipila ka mga butang nga batok kanimo, kay may gikaipon ikaw nga pipila nga nagabantay sa mga pagtolon-an ni Balaam, ang nagtudlo kang Balak sa pagbutang ug kapangdulan sa atubangan sa mga anak sa Israel, sa pagkaon sa mga butang nga hinalad sa mga larawan ug sa pagpakighilawas.</verse>
+        <verse osisID='Rev.2.15'>Ingon usab anaa kanimo ang pipila nga nanagbantay sa mga pagtolon-an sa mga Nicolaita sa mao usab nga pagkaagi.</verse>
+        <verse osisID='Rev.2.16'>Busa maghinulsol ka; kay kong dili, moanha ako kanimo sa madali, ug pagaawayon ko sila sa espada sa akong baba.</verse>
+        <verse osisID='Rev.2.17'>Ang may igdulungog, magpataling-hug siya sa ginaingon sa Espiritu sa mga iglesia. Ang makadaug pagahatagan ko sa mana nga tinago, ug pagahatagan ko siya ug usa ka diyutay nga bato nga maputi; ug sa diyutay nga bato mahasulat ang usa ka bag-o nga ngalan nga wala hiilhi ni bisan kinsa kondili niadtong nagadawat niini.</verse>
+        <verse osisID='Rev.2.18'>Ug sulatan mo ang manolonda sa iglesia sa Tiatira: Kining mga butanga gipamulong sa Anak sa Dios, kang kansang mga mata sama sa siga sa kalayo, ug ang iyang mga tiil sama sa hininisan nga tumbaga.</verse>
+        <verse osisID='Rev.2.19'>Nahibalo ako sa imong mga buhat, ug sa imong gugma ug pagtoo, ug pag-alagad ug pagpailub, ug nga ang imong ulahi nga mga buhat labaw pa kay sa mga nahauna.</verse>
+        <verse osisID='Rev.2.20'>Apan ako adunay batok kanimo, nga gipasagdan mo ang babaye nga si Jezabel nga nagangalan sa iyang kaugalingon nga manalagna, ug siya nagatudlo ug nagapasalaag sa akong mga ulipon sa pagpakighilawas, ug sa pagkaon sa mga butang nga hinalad sa mga larawan.</verse>
+        <verse osisID='Rev.2.21'>Ug gihatagan ko siya ug panahon aron siya maghinulsol, ug wala siyay tinguha sa paghinulsol sa iyang pagpakighilawas.</verse>
+        <verse osisID='Rev.2.22'>Ania karon, paligiron ko siya sa usa ka higdaanan, ug ang mga nanagpanapaw uban kaniya sa dakung kagul-anan, gawas kong sila maghinulsol sa iyang mga buhat.</verse>
+        <verse osisID='Rev.2.23'>Ug pagapatyon ko sa kamatayon ang iyang mga anak, ug ang tanang mga iglesia mahibalo nga ako mao ang nagasusi sa mga sulod nga tinguha ug sa mga kasingkasing, ug pagahatagan ko ang tagsatagsa kaninyo sumala sa inyong mga buhat.</verse>
+        <verse osisID='Rev.2.24'>Apan ako nagaingon kaninyo, sa mga nahabilin diha sa Tiatira, sa gidaghanon nga wala magabaton niining pagtolon-ana, nga wala mahibalo sa mga halalum nga mga butang ni Satanas, ingon sa nabatasan nila sa pagpamulong: walay lain nga lulan nga akong ipapas-an kaninyo.</verse>
+        <verse osisID='Rev.2.25'>Apan, bisan pa, batoni pag-ayo kanang anaa kaninyo hangtud nga ako moanha.</verse>
+        <verse osisID='Rev.2.26'>Ug ang makadaug, ug ang magatipig sa akong mga buhat hangtud sa katapusan, kaniya igahatag ko ang pagbulot-an ibabaw sa mga nasud.</verse>
+        <verse osisID='Rev.2.27'>Ug siya magahari kanila uban sa baras nga puthaw, ingon nga ang mga panudlanan sa mga magkokolon pagadugmokon, sumala usab sa akong ginadawat gikan sa akong Amahan:</verse>
+        <verse osisID='Rev.2.28'>Ug igahatag ko kaniya ang bitoon sa kaadlawon.</verse>
+        <verse osisID='Rev.2.29'>Ang may igdulungog, magpatalinghug sa ginaingon sa Espiritu sa mga iglesia.</verse>
+      </chapter>
+      <chapter osisID='Rev.3'>
+        <verse osisID='Rev.3.1'>Ug sulatan mo ang manolonda sa iglesia sa Sardis: Ang may pito ka mga Espiritu sa Dios, ug may pito ka mga bitoon, nagaingon niining mga butanga: Naila ko ang imong mga buhat, nga ikaw may ngalan nga imong gikinabuhi, ug patay ka.</verse>
+        <verse osisID='Rev.3.2'>Magmatinukawon ka ug lig-onon mo ang mga butang nga nanghipilin, nga haduol na mamatay: kay ako walay nakita nga bisan usa sa imong mga buhat nga hingpit sa atubangan sa akong Dios.</verse>
+        <verse osisID='Rev.3.3'>Busa, hinumdumi kong giunsa mo pagdawat ug pagpamati, ug batoni ug hinulsoli. Busa kong ikaw dili magtukaw, moanha ako kanimo nga ingon sa kawatan, ug dili mo hibaloan kong unsang taknaa ang igaanha ko kanimo.</verse>
+        <verse osisID='Rev.3.4'>Apan ikaw may pipila ka mga ngalan sa Sardis, nga wala magbuling sa ilang mga bisti; ug sila magalakaw uban kanako nga sinul-oban sa mga bisti nga maputi kay mga takus sila.</verse>
+        <verse osisID='Rev.3.5'>Kadtong makadaug, pagasul-oban sa ingon sa mga bisti nga maputi ug dili ko pagapalaon ang iyang ngalan sa basahon sa kinabuhi; ug igasugid ko ang iyang ngalan sa atubangan sa akong Amahan ug sa iyang mga manolonda.</verse>
+        <verse osisID='Rev.3.6'>Kadtong may igdulungog, magpatalinghug sa ginaingon sa Espiritu sa mga iglesia.</verse>
+        <verse osisID='Rev.3.7'>Ug sulatan mo ang manolonda sa Filadelfia: Siya nga balaan, siya nga matuod, siya nga nagakupot sa yawi ni David, siya nga nagaabli ug walay bisan kinsa nga makasira, ug siya nga nagasira ug walay bisan kinsa nga makaabli, siya nagaingon niining mga butanga:</verse>
+        <verse osisID='Rev.3.8'>Naila ko ang imong mga buhat (ania karon, gibutang ko sa imong atubangan ang usa ka pultahan nga naablihan, nga dili arang masirahan ni bisan kinsa), nga may diyutay ka nga gahum, ug gibantayan mo ang akong pulong, ug wala ka maglimod sa akong ngalan.</verse>
+        <verse osisID='Rev.3.9'>Ania karon, igahatag ko gikan sa sinagoga ni Satanas, ang mga nanag-ingon nga Judio sila, ug dili man diay, kondili nanagbakak sila; ania karon, pagapaanhion ko sila, ug managsimba sila sa atbang sa imong mga tiil, ug mahibaloan nila nga gihigugma ko ikaw.</verse>
+        <verse osisID='Rev.3.10'>Kay gibantayan mo ang pulong sa akong pagpailub, pagabantayan ko usab ikaw gikan sa takna sa pagsulay, kadtong takna nga moabut sa tibook nga kalibutan, aron sa pagsulay kanila nga mga nagapuyo sa yuta.</verse>
+        <verse osisID='Rev.3.11'>Moanha ako sa madali: bantayan mo ang anaa kanimo, aron walay bisan kinsa nga makakuha sa imong purongpurong;</verse>
+        <verse osisID='Rev.3.12'>Kadtong makadaug, pagabuhaton ko siya nga haligi sa templo sa akong Dios, ug dili na gayud siya makagula gikan didto: ug sulatan ko siya sa ngalan sa akong Dios, ug sa ngalan sa ciudad sa akong Dios, ang bag-o nga Jerusalem, nga manaug sa langit gikan sa akong Dios, ug sa akong kaugalingon nga bag-ong ngalan.</verse>
+        <verse osisID='Rev.3.13'>Kadtong may igdulungog, magpatalinghug sa ginaingon sa Espiritu sa mga iglesia.</verse>
+        <verse osisID='Rev.3.14'>Ug sulatan mo ang manolonda sa iglesia sa Laodicea: Ang Amen, ang Saksi nga matinumanon ug maminatud-on, ang Sinugdan sa mga binuhat sa Dios, nagaingon niining mga butanga:</verse>
+        <verse osisID='Rev.3.15'>Nailam ko ang imong mga buhat, nga ikaw dili mabugnaw ug dili usab mainit. Buot ko unta nga magmabugnaw ka, kun magmainit:</verse>
+        <verse osisID='Rev.3.16'>Apan kay ikaw mainit-init, ug dili mabugnaw ug dili mainit, igasuka ko ikaw sa akong baba.</verse>
+        <verse osisID='Rev.3.17'>Kay nagaingon ka: Dato man ako, ug nakabaton ako ug mga bahandi, ug ako wala magkinahanglan sa bisan unsa; ug wala ka makaila, nga ikaw mao ang talamayon ug ang makalolooy ug kabus ug buta ug hubo;</verse>
+        <verse osisID='Rev.3.18'>Nagatambag ako kanimo, nga kanako magpalit ka ug bulawan nga inulay sa kalayo, aron madato ka; ug mga bisti nga mga maputi, aron igasul-ob mo sa imong kaugalingon, ug aron ang kaulawan sa imong pagkahubo dili igapadayag; ug tambal nga idihog mo sa imong mga mata, aron makakita ka.</verse>
+        <verse osisID='Rev.3.19'>Ginabadlong ko, ug gicastigo ko ang kapid-an nga akong gihigugma; busa, magmakugi ka, ug maghinulsol.</verse>
+        <verse osisID='Rev.3.20'>Ania karon, ako ania sa pultahan, ug nagatuktuk; kong kinsa ang maga-patalinghug sa akong tingog ug moabli sa pultahan, ako mosulod kaniya, ug manihapon ako uban kaniya, ug siya uban kanako.</verse>
+        <verse osisID='Rev.3.21'>Kadtong makadaug, pagatugutan ko nga magalingkod uban kanako sa akong trono maingon nga ako usab nakadaug, ug naglingkod ako uban sa akong Amahan sa iyang trono.</verse>
+        <verse osisID='Rev.3.22'>Kadtong may igdulungog, magpatalinghug sa ginaingon sa Espiritu sa mga iglesia.</verse>
+      </chapter>
+      <chapter osisID='Rev.4'>
+        <verse osisID='Rev.4.1'>Sa human niining mga butanga, nakita ko, ug ania karon, ang usa ka pultahan nga naablihan sa langit, ug ang nahauna nga tingog nga akong hingdunggan, ingon sa budyong nga nakigsulti kanako, ang usa nga nagaingon: Sumaka ka diri, kay akong igapadayag kanimo ang mga butang nga magakahatabo sa human niini.</verse>
+        <verse osisID='Rev.4.2'>Ug gilayon diha ako sa Espiritu: ug ania karon, may usa ka trono nga gipahamutang sa langit, ug may usa nga nagalingkod sa trono.</verse>
+        <verse osisID='Rev.4.3'>Ug siya nga nagalingkod sa diha nga tan-awon sama sa dagway sa usa ka bato nga jaspe ug sardio; ug may usa ka balangaw nga nagalibut sa trono, sama sa dagway sa esmeralda, sa diha nga tan-awon.</verse>
+        <verse osisID='Rev.4.4'>Ug ang trono gialirongan sa kaluhaan ug upat ka mga trono; ug sa mga trono, nanaglingkod ang kaluhaan ug upat ka mga anciano nga nanagsul-ob sa mga bisti nga maputi, ug sa ilang mga ulo ang mga purongpurong nga bulawan.</verse>
+        <verse osisID='Rev.4.5'>Ug gikan sa trono nagagula ang mga kilat, ug ang mga tingog ug ang mga dalugdug; ug may pito ka lamparahan nga kalayo, nga nagadilaab sa atubangan sa trono, nga mao sila ang pito ka Espiritu sa Dios.</verse>
+        <verse osisID='Rev.4.6'>Ug sa atubangan sa trono may ingon sa usa ka lawod nga salamin sama sa bildo; ug sa taliwala sa trono ug sa libut sa trono, may upat ka binuhat nga buhi nga puno sa mga mata sa atubangan ug sa likod.</verse>
+        <verse osisID='Rev.4.7'>Ug ang nahauna nga binuhat nga buhi sama sa usa ka leon; ug ang ikaduha ka binuhat nga buhi sama sa usa ka nati nga vaca, ug ang ikatolo ka binuhat may nawong nga ingon sa tawo; ug ang ikaupat ka binuhat nga buhi sama sa usa ka agila nga nagalupad.</verse>
+        <verse osisID='Rev.4.8'>Ug ang upat ka mga binuhat nga buhi ang tagsatagsa kanila may unom ka pako; puno sa mga mata sa libut ug sa sulod; ug walay pahulay sa adlaw ug sa gabii, sa pag-ingon: Balaan, balaan, balaan ang Ginoong Dios, ang Makagagahum, ang mao kaniadto, ug ang mao karon, ug ang moanhi.</verse>
+        <verse osisID='Rev.4.9'>Ug sa diha nga kadtong mga binuhat nga buhi magahimaya, ug magatahud, ug magapasalamat kaniya nga nagalingkod sa trono, kaniya nga buhi sa mga katuigan nga walay katapusan;</verse>
+        <verse osisID='Rev.4.10'>Ang kaluhaan ug upat ka mga anciano magayaub sa atubangan sa nagalingkod sa trono, ug magasimba kaniya nga buhi sa mga katuigan nga walay katapusan; ug igapahamutang nila ang ilang mga purongpurong sa atubangan sa trono, nga magaingon:</verse>
+        <verse osisID='Rev.4.11'>Ginoo, takus ka sa pagdawat sa himaya ug sa pagtahud, ug sa gahum; kay ikaw ang nagbuhat sa tanang mga butang, ug tungod sa imong kabubut-on nangahimo sila ug gipamuhat.</verse>
+      </chapter>
+      <chapter osisID='Rev.5'>
+        <verse osisID='Rev.5.1'>Ug nakita ko sa toong kamot niadtong nagalingkod sa trono, ang usa ka basahon nga sinulatan sa sulod ug sa gawas, nga gitiman-an sa pito ka mga patik.</verse>
+        <verse osisID='Rev.5.2'>Ug nakita ko ang usa ka kusgan nga manolonda, nga nagamantala uban ang hataas nga tingog: Kinsa ang takus sa pagbuklad sa basahon, ug sa paghubad sa mga patik niini?</verse>
+        <verse osisID='Rev.5.3'>Ug walay bisan kinsa sa langit, bisan sa yuta, bisan sa ilalum sa yuta, nga arang makabuklad sa basahon, bisan sa pagtan-aw niini.</verse>
+        <verse osisID='Rev.5.4'>Ug hilabihan nga hilak ko, kay walay hingkaplagan nga bisan kinsa, nga takus makabuklad sa basahon, bisan sa pagtan-aw niini.</verse>
+        <verse osisID='Rev.5.5'>Ug nagaingon kanako ang usa sa mga anciano: Ayaw paghilak: ania karon, ang Leon sa banay ni Juda, ang Gamut ni David, nga nakadaug aron sa pagbuklad sa basahon, ug paghubad sa pito ka mga patik niini.</verse>
+        <verse osisID='Rev.5.6'>Ug nakita ko sa taliwala sa trono, ug sa upat ka mga binuhat nga buhi ug sa taliwala sa mga anciano, ang usa ka Cordero nga nagatindog nga daw gipatay nga may pito ka mga sungay ug pito ka mata, nga mao ang pito ka mga Espiritu sa Dios, nga gipadala ngadto sa tibook nga yuta.</verse>
+        <verse osisID='Rev.5.7'>Ug miduol siya, ug gikuha niya ang basahon sa toong kamot niadtong nagalingkod sa trono.</verse>
+        <verse osisID='Rev.5.8'>Ug sa nakuha niya ang basahon, nanagyaub sa atubangan sa Cordero ang upat ka mga binuhat nga buhi ug ang kaluhaan ug upat ka mga anciano, nga ang tagsatagsa kanila may mga alpa, ug mga panaksan nga bulawan, nga puno sa incienso, nga mao ang mga pag-ampo sa mga balaan.</verse>
+        <verse osisID='Rev.5.9'>Ug nanag-awit sila sa usa ka bag-ong awit, nga nagaingon: Ikaw ang takus sa pagkuha sa basahon, ug sa paghubad sa mga patik niini; kay ikaw ang namatay ug gitubos mo ang mga tawo sa imong dugo alang sa Dios, gikan sa tanan nga banay, ug pinulongan, ug katawohan, ug nasud;</verse>
+        <verse osisID='Rev.5.10'>Ug sila gibuhat mo, alang sa atong Dios, nga usa ka gingharian ug mga sacerdote, ug managhari sila sa yuta.</verse>
+        <verse osisID='Rev.5.11'>Ug nakita ko, ug nadungog ko ang tingog sa daghang manolonda, nga nagalibut sa trono, ug sa mga binuhat nga buhi, ug sa mga anciano; ug ang gidaghanon nila mga panon sa mga panon ug mga linibo ka mga linibo,</verse>
+        <verse osisID='Rev.5.12'>Nga nanag-ingon sa hataas nga tingog: Ang Cordero nga gipatay mao ang takus sa pagdawat sa gahum ug sa mga bahandi, ug sa kaalam ug sa kalig-onan, ug sa kadungganan, ug sa kahimayaan, ug sa pagdayeg.</verse>
+        <verse osisID='Rev.5.13'>Ug nadungog ko sa tanan nga mga binuhat nga atua sa langit ug sa yuta, ug sa ilalum sa yuta, ug ang mga anaa sa dagat, ug ang tanan nga mga butang nga anaa kanila, nga nanag-ingon: Alang niadtong nagalingkod sa trono, ug sa Cordero, ang pagdayeg ug ang kadungganan ug ang himaya ug ang gahum, sa mga katuigan nga walay katapusan.</verse>
+        <verse osisID='Rev.5.14'>Ug ang upat ka mga binuhat nga buhi nanag-ingon: Amen. Ug ang kaluhaan ug upat ka mga anciano nanagyaub, ug nanagsimba.</verse>
+      </chapter>
+      <chapter osisID='Rev.6'>
+        <verse osisID='Rev.6.1'>Ug nakita ko, sa paghubad sa Cordero, sa usa sa pito ka mga patik; ug nadungog ko ang usa sa upat ka mga binuhat nga buhi, nga nagaingon sama sa tingog sa dalugdog: Umari ka, ug tuman-aw.</verse>
+        <verse osisID='Rev.6.2'>Ug nakita ko, ug ania karon, usa ka kabayo nga maputi, ug ang nagakabayo niini may usa ka pana; ug gihatagan siya ug usa ka purongpurong; ug milakaw, nga nakadaug, ug aron sa pagdaug.</verse>
+        <verse osisID='Rev.6.3'>Ug sa paghubad niya sa ikaduha ka patik, nadungog ko ang ikaduha ka binuhat nga buhi nga nagaingon: Umari ka, ug tuman-aw.</verse>
+        <verse osisID='Rev.6.4'>Ug migula ang usa usab ka kabayo nga mapula. Ug ang nagakabayo niini, gihatagan sa pagkuha sa pakigdait gikan sa yuta, ug nga sila magpinatyanay ang usa ug usa. Ug gihatagan siya ug usa ka daku nga espada.</verse>
+        <verse osisID='Rev.6.5'>Ug sa paghubad niya sa ikatolo ka patik, nadungog ko ang ikatolo ka binuhat nga buhi, nga nagaingon: Umari ka, ug tuman-aw. Ug nakita ko, ug ania karon, usa ka kabayo nga maitum; ug ang nagakabayo niini, may timbangan sa iyang kamot.</verse>
+        <verse osisID='Rev.6.6'>Ug nadungog ko ang usa ka tingog sa taliwala sa upat ka mga binuhat nga buhi, nga nagaingon: Usa ka takus sa trigo sa usa ka denario; ug unom ka takus sa cebada sa usa ka denario; ug dili mo pag-among-amongan ang vino, bisan ang lana.</verse>
+        <verse osisID='Rev.6.7'>Ug sa paghubad niya sa ikaupat ka patik, nadungog ko ang tingog sa ikaupat ka binuhat nga buhi, nga nagaingon: Umari ka, ug tuman-aw.</verse>
+        <verse osisID='Rev.6.8'>Ug nakita ko; ug ania karon, usa ka kabayo nga maluspad, ug ang nagakabayo niini, may ngalan nga Kamatayon; ug nagasunod niini ang Hades ug gihatagan sila sa pagbulot-an sa ikaupat ka bahin sa yuta, sa pagpatay pinaagi sa espada, ug sa gutom, ug sa kamatay, ug pinaagi sa mga mananap nga mapintas sa yuta.</verse>
+        <verse osisID='Rev.6.9'>Ug sa paghubad niya sa ikalima ka patik, nakita ko sa ilalum sa halaran ang mga kalag sa mga gipamatay tungod sa pulong sa Dios, ug tungod sa pagpamatuod nila.</verse>
+        <verse osisID='Rev.6.10'>Ug sila nanagsinggit sa hataas nga tingog, nga nanag-ingon: Hangtud kanus-a, oh Ginoo, ang balaan ug maminatud-on, dili mo ba paghukman ug pagbalusan ang among dugo sa mga nagapuyo sa yuta?</verse>
+        <verse osisID='Rev.6.11'>Ug kanila nga tagsatagsa may gihatag nga hatag-as nga bisti nga maputi, ug giingon sila, nga managpahulay una ug diyutay nga panahon, hangtud nga matuman ang laray sa ilang isigkaulipon, ug sa ilang mga igsoon, nga pagapatyon usab maingon kanila.</verse>
+        <verse osisID='Rev.6.12'>Ug nakita ko, sa paghubad niya sa ikaunom ka patik; ug ania karon, miabut ang usa ka dakung linog, ug ang adlaw miitum ingon sa sako nga buhok nga bisti sa pag-antus; ug ang tibook nga bulan nahimo nga ingon sa dugo;</verse>
+        <verse osisID='Rev.6.13'>Ug ang mga bitoon sa langit nangahulog sa yuta, sama sa higuera sa nangapulak ang iyang mga linghod nga igos, kong ginayabyab sa usa ka makusog nga hangin.</verse>
+        <verse osisID='Rev.6.14'>Ug ang langit gikuha ingon sa usa ka basahon nga nalokot. Ug ang tanan nga bukid ug kapupud-an gipamalhin gikan sa ilang mga dapit.</verse>
+        <verse osisID='Rev.6.15'>Ug ang mga hari sa yuta, ug ang mga principe, ug ang mga pangulong capitan, ug ang mga dato, ug ang mga kusgan, ug ang tanan nga ulipon, ug ang tanan nga may kagawasan, nanagtago sa mga lungib ug sa mga pangpang sa kabukiran;</verse>
+        <verse osisID='Rev.6.16'>Ug nagaingon sila sa mga bukid, ug sa mga pangpang: Pangatumpag kamo ibabaw kanamo, ug tagoon ninyo kami sa nawong niya nga nagalingkod sa trono, ug sa kaligutgut sa Cordero.</verse>
+        <verse osisID='Rev.6.17'>Kay miabut ang daku nga adlaw sa ilang kaligutgut, ug kinsa ang arang makasukol?</verse>
+      </chapter>
+      <chapter osisID='Rev.7'>
+        <verse osisID='Rev.7.1'>Ug sa human niini, nakita ko ang upat ka manolonda, nga nanagtindog sa upat ka pamag-ang sa yuta nga ginapugngan nila ang upat ka hangin sa yuta, aron dili maghuyop ang hangin sa yuta, ni sa dagat, ni sa bisan unsa nga kahoy.</verse>
+        <verse osisID='Rev.7.2'>Nakita ko, nga misaka ang usa usab ka manolonda gikan sa Silangan, nga adunay patik sa Dios nga buhi: Ug nagasinggit sa hataas nga tingog sa upat ka mga manolonda, nga kanila gihatag ang gahum sa pag-among-among sa yuta ug sa dagat,</verse>
+        <verse osisID='Rev.7.3'>Nga nagaingon: Dili ninyo pag-among-amongan ang yuta, ni ang dagat, ni ang kakahoyan, hangtud nga mapatikan namo ang mga ulipon sa atong Dios diha sa ilang mga agtang.</verse>
+        <verse osisID='Rev.7.4'>Ug nadungog ko ang kapid-an sa mga pinatikan, usa ka gatus kap-atan ug upat ka libo ang mga pinatikan gikan sa tanang mga banay sa mga anak ni Israel:</verse>
+        <verse osisID='Rev.7.5'>Sa banay ni Juda, napulo ug duha ka libo ang pinatikan; sa banay ni Ruben, napulo ug duha ka libo ang pinatikan, sa banay ni Gad, napulo ug duha ka libo ang pinatikan;</verse>
+        <verse osisID='Rev.7.6'>Sa banay ni Aser, napulo ug duha ka libo ang pinatikan; sa banay ni Neptali, napulo ug duha ka libo ang pinatikan; sa banay ni Manases, napulo ug duha ka 1ibo ang pinatikan;</verse>
+        <verse osisID='Rev.7.7'>Sa banay ni Simeon, napulo ug duha ka libo ang pinatikan; sa banay ni Levi, napulo ug duha ka libo ang pinatikan; sa banay ni Issachar, napulo ug duha ka libo ang pinatikan;</verse>
+        <verse osisID='Rev.7.8'>Sa banay ni Zebulon, napulo ug duha ka libo ang pinatikan; sa banay ni Jose, napulo ug duha ka libo ang pinatikan; sa banay ni Benjamin, napulo ug duha ka libo ang pinatikan.</verse>
+        <verse osisID='Rev.7.9'>Sa human niining mga butanga nakita ko, ug ania karon, ang usa ka dakung panon, nga dili maisip ni bisan kinsa gikan sa tanang kanasuran, ug kabanayan ug katawohan ug mga sinultihan, nga nanagtindog sa atubangan sa trono, ug sa Cordero, nga nanagsul-ob sa mga bisti nga maputi nga hatag-as, ug may mga palwa sa ilang mga kamot;</verse>
+        <verse osisID='Rev.7.10'>Ug nanagsinggit sa hataas nga tingog, nga nagaingon; Ang kaluwasan iya sa atong Dios, nga nagalingkod sa trono, ug sa Cordero.</verse>
+        <verse osisID='Rev.7.11'>Ug ang tanang mga manolonda, nga nagaalirong sa trono, ug ang mga anciano, ug ang upat ka mga binuhat nga buhi, ug nanagyaub sila sa atubangan sa trono, ug gisimba nila ang Dios,</verse>
+        <verse osisID='Rev.7.12'>Nga nanag-ingon: Amen: Ang pagdayeg, ug ang himaya, ug ang ka-alam, ug ang pagpasalamat, ug ang kadungganan, ug ang gahum, ug ang kalig-onan, anaa sa atong Dios ngadto sa mga katuigan nga walay katapusan. Amen.</verse>
+        <verse osisID='Rev.7.13'>Ug mitubag ang usa sa mga anciano, nga nagaingon kanako: Kanang mga nasul-oban sa mga bisti nga maputi nga hatag-as, kinsa ba kana sila? Ug diin ba sila gikan?</verse>
+        <verse osisID='Rev.7.14'>Ug ako nag-ingon kaniya: Ginoo ko, ikaw ang nanghibalo. Ug siya miingon kanako: Kana mao sila, ang mga nagagikan sa dagku nga kagul-anan; ug gilabhan nila ang ilang mga bisti nga hatag-as, ug gipaputi nila sa dugo sa Cordero.</verse>
+        <verse osisID='Rev.7.15'>Tungod niini, ania sila sa atubangan sa trono sa Dios, ug siya ginasimba nila sa adlaw ug sa gabii sa iyang templo. Ug ang nagalingkod sa trono, magabuklad sa iyang tabernaculo sa ibabaw nila.</verse>
+        <verse osisID='Rev.7.16'>Dili gayud pagagutomon sila, ni pagauhawon sila, ni pagainitan sila sa adlaw, ni sa bisan unsa nga kainit.</verse>
+        <verse osisID='Rev.7.17'>Kay ang Cordero nga anaa sa taliwala sa trono mao ang ilang magbalantay, ug magamando kanila sa mga tuburan sa mga tubig sa kinabuhi; ug pagapahiran sa Dios ang tanang luha sa ilang mga mata.</verse>
+      </chapter>
+      <chapter osisID='Rev.8'>
+        <verse osisID='Rev.8.1'>Ug sa paghubad niya sa ikapito ka patik, nahilum ang langit sa may tunga sa takna.</verse>
+        <verse osisID='Rev.8.2'>Ug nakita ko ang pito ka mga manolonda nga nagatindog sa atubangan sa Dios; ug gihatagan sila sa pito ka mga budyong.</verse>
+        <verse osisID='Rev.8.3'>Ug miabut ang lain nga manolonda, nga mitindog sa atubangan sa halaran, nga may usa ka inciensario nga bulawan; ug gihatagan siya sa daghang incienso, aron iyang idugang paghalad sa mga pag-ampo sa tanang mga balaan sa halaran nga bulawan, nga anaa sa atubangan sa trono.</verse>
+        <verse osisID='Rev.8.4'>Ug ang aso sa incienso nagautbo gikan sa kamot sa manolonda, sa atubangan sa Dios, uban sa mga pag-ampo sa mga balaan.</verse>
+        <verse osisID='Rev.8.5'>Ug gikuha sa manolonda ang inciensario, ug gipuno niya sa kalayo sa halaran, ug gisalibay niya sa yuta; ug misunod ang mga dalugdug, ug mga tingog, ug mga kilat, ug usa ka linog.</verse>
+        <verse osisID='Rev.8.6'>Ug ang pito ka mga manolonda nga may pito ka mga budyong, nanag-andam sa ilang kaugalingon sa pagbudyong.</verse>
+        <verse osisID='Rev.8.7'>Ug ang nahauna mibudyong, ug nangabut ang ulan nga yelo, ug kalayo nga sinaktan sa dugo, ug kini gipanalibay sa yuta; ug nasunog ang ikatolo ka bahin sa yuta; ug nangasunog ang ikatolo ka bahin sa kakahoyan; ug ang tanang balili nga lunhaw nangasunog.</verse>
+        <verse osisID='Rev.8.8'>Ug mibudyong ang ikaduha ka manolonda, ug ingon sa usa ka dakung bukid nga nagadilaab sa kalayo gitukmod sa dagat: ug ang ikatolo ka bahin sa dagat nahimong dugo.</verse>
+        <verse osisID='Rev.8.9'>Ug nangamatay ang ikatolo ka bahin sa mga binuhat nga anaa sa dagat; ug nangaguba ang ikatolo ka bahin sa mga sakayan.</verse>
+        <verse osisID='Rev.8.10'>Ug mibudyong ang ikatolo ka manolonda; ug nahulog gikan sa langit ang usa ka dakung bitoon, nga nagadilaab ingon sa usa ka solo, ug kini nahulog sa ikatolo ka bahin sa mga suba, ug sa mga tuburan sa mga tubig.</verse>
+        <verse osisID='Rev.8.11'>Ug ang ngalan sa bitoon mao ang Ajenjo, ug ang ikatolo ka bahin sa mga tubig nahimong ajenjo, ug daghanang mga tawo ang nangamatay tungod sa mga tubig, kay kini nahimong mapait.</verse>
+        <verse osisID='Rev.8.12'>Ug mibudyong ang ikaupat ka manolonda: ug gidagpas ang ikatolo ka bahin sa adlaw, ug ang ikatolo ka bahin sa bulan, ug ang ikatolo ka bahin sa mga bitoon; aron nga mongitngit ang ikatolo ka bahin, ug nga dili maghayag ang ikatolo ka bahin sa adlaw, ug ingon usab ang sa gabii.</verse>
+        <verse osisID='Rev.8.13'>Ug nakita ko, ug nadungog ko ang usa ka agila nga nagalupad sa taliwala sa langit, nga nagaingon sa hataas nga tingog: Alaut, alaut, alaut, ang mga pumoluyo sa yuta, tungod sa uban nga mga tingog sa mga budyong sa totolo ka manolonda nga magabudyong!</verse>
+      </chapter>
+      <chapter osisID='Rev.9'>
+        <verse osisID='Rev.9.1'>Ug mibudyong ang ikalima ka manolonda, ug nakita ko ang usa ka bitoon nga nahulog sa yuta gikan sa langit. Ug gihatag kaniya ang yawi sa kahiladman nga dili matugkad.</verse>
+        <verse osisID='Rev.9.2'>Ug giukban niya ang kahiladman. Ug miutbo ang aso gikan sa kahiladman, ingon sa aso sa usa ka dakung hudno; ug mingitngit ang adlaw, ug ang langit tungod sa aso sa kahiladman.</verse>
+        <verse osisID='Rev.9.3'>Ug nanggula gikan sa aso ang mga dulon sa ibabaw sa yuta. Ug gihatagan sila ug gahum, ingon nga ang mga tanga sa yuta may gahum.</verse>
+        <verse osisID='Rev.9.4'>Ug giingon kanila, nga dili nila pagdauton ang balili sa yuta, bisan unsang butanga nga lunhaw, ug bisan unsang kahoya; kondili ang mga tawo lamang nga walay patik sa Dios sa ilang mga agtang.</verse>
+        <verse osisID='Rev.9.5'>Ug gisugo sila sa dili pagpatay kanila, kondili nga pagapaantuson nila sa mga lima ka bulan. Ug ang pagpaantus kanila ingon sa pagpaantus sa tanga nga mopaak sa usa ka tawo.</verse>
+        <verse osisID='Rev.9.6'>Ug niadtong mga adlawa pagapangitaon sa mga tawo ang kamatayon, ug kini dili gayud igakita nila; ug mangandoy sila nga mangamatay, apan ang kamatayon mokalagiw kanila.</verse>
+        <verse osisID='Rev.9.7'>Ug sa mga panagway ang mga dulon sama sa mga kabayo nga andam alang sa gubat; ug may mga purongpurong nga sama sa bulawan sa ilang mga ulo, ug ang ilang mga nawong ingon sa mga nawong sa mga tawo.</verse>
+        <verse osisID='Rev.9.8'>Ug may mga buhok ingon sa mga buhok sa mga babaye; ug ang ilang mga ngipon, ingon sa mga ngipon sa mga leon.</verse>
+        <verse osisID='Rev.9.9'>Ug sila may mga kotamaya ingon sa mga kotamaya nga puthaw; ug ang lagapak sa ilang mga pako, ingon sa kagahub sa mga carro nga may daghang kabayo, nga nanagdalagan ngadto sa panggubatan.</verse>
+        <verse osisID='Rev.9.10'>Ug may mga ikog sila sama sa mga tanga ug may mga suyod; ug sa ilang mga ikog, anaa ang gahum sa pag-among-among sa mga tawo sulodsa lima ka bulan.</verse>
+        <verse osisID='Rev.9.11'>Sa ibabaw nila may usa nga ingon sa hari, ang manolonda sa kahiladman nga dili matugkad, nga ang iyang ngalan sa Hebreohanon, Abadon, ug sa Greciahanon, Apolon.</verse>
+        <verse osisID='Rev.9.12'>Ang nahauna nga Tunglo miagi na; ania karon, moabut pa ang duha ka mga Tunglo! sa human niining mga butanga.</verse>
+        <verse osisID='Rev.9.13'>Ug mibudyong ang ikaunom ka manolonda; ug nadungog ko ang usa ka tingog sa upat ka mga sungay sa halaran nga bulawan sa atubangan sa Dios,</verse>
+        <verse osisID='Rev.9.14'>Nga nagaingon sa ikaunom ka manolonda, nga may budyong: Hubari ang upat ka mga manolonda nga ginapus haduol sa dakung suba sa Eufrates.</verse>
+        <verse osisID='Rev.9.15'>Ug gipanghubaran ang upat ka mga manolonda nga naandam sila sa takna ug sa adlaw ug sa bulan ug sa tuig, aron sa pagpamatay sa ikatolo ka bahin sa mga tawo.</verse>
+        <verse osisID='Rev.9.16'>Ug ang gidaghanon sa mga kasundalohan nga nangabayo, napulo ka libo pil-on sa napulo ka libo sa makaduha. Nadungog ko ang gidaghanon nila.</verse>
+        <verse osisID='Rev.9.17'>Ug niini nakita ko sa panan-awon, ang mga kabayo ug ang mga nangabayo kanila nga may mga kotamaya nga daw kalayo, ug jacinto, ug azufre. Ug ang mga ulo sa mga kabayo ingon sa mga ulo sa mga leon, ug nagapanggula sa baba nila ang kalayo, ug ang aso, ug ang azufre.</verse>
+        <verse osisID='Rev.9.18'>Ang ikatolo ka bahin sa mga tawo gipatay pinaagi niining totolo ka mga hampak: sa kalayo, ug sa aso, ug sa azufre, nga nagapanggula sa ilang mga baba.</verse>
+        <verse osisID='Rev.9.19'>Kay ang gahum sa mga kabayo, anaa sa ilang mga baba, ug sa ilang mga ikog. Kay ang ilang mga ikog sama sa mga bitin, ug may mga ulo, kini maoy giamong-among nila.</verse>
+        <verse osisID='Rev.9.20'>Ug ang uban nga mga tawo, nga wala mangamatay niini nga hampak, wala maghinulsol sa mga buhat sa ilang mga kamot, aron dili sila makasimba sa mga yawa, ug sa mga larawan nga bulawan, ug salapi, ug tumbaga, ug bato, ug kahoy, nga dili sila makakita, ni makadungog ni makalakaw;</verse>
+        <verse osisID='Rev.9.21'>Ug wala nila paghinulsuli ang ilang mga pagpamuno, ni ang ilang mga pag-panglumay, ni ang ilang mga pagpakighilawas, ni ang ilang mga pagpangawat.</verse>
+      </chapter>
+      <chapter osisID='Rev.10'>
+        <verse osisID='Rev.10.1'>Ug nakita ko ang usa ka kusgan nga manolonda nga nanaug gikan sa langit, nga sinul-oban sa usa ka panganod, ug may balangaw sa iyang ulo, ug ang iyang nawong ingon sa adlaw, ug ang iyang mga tiil ingon sa mga haligi nga kalayo.</verse>
+        <verse osisID='Rev.10.2'>Ug may usa ka basahon nga diyutay nga binuklad diha sa iyang kamot; ug gitunob niya ang iyang tiil nga too sa dagat, ug ang tiil nga wala didto sa yuta.</verse>
+        <verse osisID='Rev.10.3'>Ug misinggit siya sa dakung tingog, ingon sa leon nga nagangulob. Ug sa nakasinggit siya ang mga tingog sa pito ka mga dalugdug nanagsulti.</verse>
+        <verse osisID='Rev.10.4'>Ug sa nakasulti ang mga tingog sa pito ka mga dalugdug, buot ko unta nga sulaton, ug akong hingdunggan ang usa ka tingog sa langit, nga nagaingon kanako: Tagoan mo ang mga butang nga gisulti sa pito ta mga dalugdug, ug dili mo isulat.</verse>
+        <verse osisID='Rev.10.5'>Ug ang manolonda nga nakita ko, nga nagatindog sa dagat ug sa yuta, mibakyaw siya sa iyang kamot nga too sa langit.</verse>
+        <verse osisID='Rev.10.6'>Ug nanumpa tungod kaniya nga nabuhi sa mga katuigan nga walay katapusan, nga nagbuhat sa langit ug sa mga butang nga ania niini, ug sa yuta ug sa mga butang nga ania niini, ug sa dagat ug sa mga butang nga ania niini, aron dili na malangan ang panahon;</verse>
+        <verse osisID='Rev.10.7'>Apan sa mga adlaw sa tingog sa ikapito ka manolonda, sa diha nga siya buot magbudyong, unya ang tinago sa Dios matuman na, sumala sa mga maayong balita nga gimantala niya sa iyang mga ulipon nga mga manalagna.</verse>
+        <verse osisID='Rev.10.8'>Ug ang tingog nga akong nadungog gikan sa langit, nagapakigsulti pag-usab kanako, ug nagaingon: Umadto ka, ug kuhaa ang basahon nga diyutay, nga binuklad sa kamot sa manolonda nga nagatindog sa dagat ug sa yuta.</verse>
+        <verse osisID='Rev.10.9'>Ug miadto ako sa manolonda, nga nagaingon kaniya nga ihatag niya kanako ang basahon nga diyutay. Ug miingon siya kanako: Dawata kini, ug kan-a kini; ug pagapapaiton niya ang imong tiyan; apan sa imong baba magamatam-is kini ingon sa dugos.</verse>
+        <verse osisID='Rev.10.10'>Ug gidawat ko ang basahon nga diyutay gikan sa kamot sa manolonda, ug gikaon ko kini; ug kini mitam-is sa akong baba ingon sa dugos; ug sa nakaon ko kini, gipaitan ang akong tiyan.</verse>
+        <verse osisID='Rev.10.11'>Ug sila miingon kanako: Kinahanglan nga managna ka pag-usab ngadto sa daghan nga katawohan, ug kanasuran, ug mga sinultihan, ug mga hari.</verse>
+      </chapter>
+      <chapter osisID='Rev.11'>
+        <verse osisID='Rev.11.1'>Ug gihatagan ako ug usa ka bagakay nga sama sa usa ka sungkod, ug giingon ako: Tumindog ka, ug sukda, ang templo sa Dios, ug ang halaran, ug ang mga nagasimba didto.</verse>
+        <verse osisID='Rev.11.2'>Apan ang sawang sa gawas sa templo, pasagdan mo, ug dili pagsukdon, kay gitugot sa mga Gentil; ug pagayatakan nila ang lungsod nga balaan sa kap-atan ug duha ka bulan.</verse>
+        <verse osisID='Rev.11.3'>Ug igahatag ko sa akong duruha ka mga saksi, ug magapanagna sila sulod sa usa ka libo ug duha ka gatus ug kan-uman ka mga adlaw, nga sinul-oban sa mga sako-nga-bisti sa pag-antus.</verse>
+        <verse osisID='Rev.11.4'>Mao kini sila ang duha ka kahoy nga oliva ug ang duha ka tangkawan, nga anaa sa atubangan sa Ginoo sa yuta.</verse>
+        <verse osisID='Rev.11.5'>Ug kong kinsa ang buot mag-among-among kanila, mogula ang kalayo sa ilang baba ug pagalamyon nila ang ilang mga kaaway; ug kong kinsa ang buot mag-among-among kanila, kinahanglan nga siya pagapatyon niining paagiha.</verse>
+        <verse osisID='Rev.11.6'>Kini sila may gahum sa pagsera sa langit, aron dili mag-ulan sulod sa mga adlaw sa ilang tagna; ug may gahum sila sa ibabaw sa mga tubig aron kini mangahimong dugo, ug sa pagsamad sa yuta sa tanang hampak sa makapila nga buot nila.</verse>
+        <verse osisID='Rev.11.7'>Ug sa diha nga mahuman na nila ang ilang pagpamatuod, ang mananap nga mapintas nga mogimaw gikan sa kahiladman nga dili matugkad, makig-away kanila ug modaug kanila ug magapatay kanila.</verse>
+        <verse osisID='Rev.11.8'>Ug ang ilang mga minatay managhay-ad sa dalan sa dagkung ciudad, nga, sa espirituhanon ginganlan nga Sodoma ug Egipto, nga didto usab ilansang ang ilang Ginoo.</verse>
+        <verse osisID='Rev.11.9'>Ug gikan sa taliwala sa mga katawohan, ug kabanayan ug mga sinultihan ug kanasuran makakita sa ilang mga minatay sa totolo ka adlaw ug tunga, ug dili motugot nga igalubong ang ilang mga minatay.</verse>
+        <verse osisID='Rev.11.10'>Ug ang mga nanagpuyo sa yuta nagakalipay tungod kanila, ug naga-hugyaw sila; ug managhatagay sa mga gasa sila ang usa ug usa; kay gipaantus niining duha ka manalagna ang mga nagapuyo sa yuta.</verse>
+        <verse osisID='Rev.11.11'>Ug sa human sa totolo ka adlaw ug tunga, gisudlan sila sa espiritu sa kinabuhi gikan sa Dios, ug nanindog sila; ug nangahadlok ug daku ang mga nakakita kanila.</verse>
+        <verse osisID='Rev.11.12'>Ug nadungog nila ang usa ka dakung tingog gikan sa langit, nga nagaingon kanila: Sumaka kamo ngari. Ug mingsaka sila sa langit diha sa panganod, ug nakakita kanila ang ilang mga kaaway.</verse>
+        <verse osisID='Rev.11.13'>Ug miabut niadtong taknaa ang usa ka dakung linog, ug nahulog ang ikapulo ka bahin sa ciudad; ug ang nangamatay sa linog pito ka libo ka mga tawo, ug nangahadlok ang uban, ug gihatag nila ang himaya sa Dios sa langit.</verse>
+        <verse osisID='Rev.11.14'>Ming-agi na ang ikaduha ka Tunglo. Ania karon, ang ikatolo ka Tunglo moabut sa madali.</verse>
+        <verse osisID='Rev.11.15'>Ug mibudyong ang ikapito ka manolonda; ug misunod ang dagkung mga tingog didto sa langit, ug sila nagaingon: Ang gingharian sa kalibutan nahimong iya sa atong Ginoo, ug sa iyang Cristo, ug magahari siya ngadto sa mga katuigan nga walay katapusan.</verse>
+        <verse osisID='Rev.11.16'>Ug ang kaluhaan ug upat ka mga anciano nga nagalingkod sa ilang mga trono sa atubangan sa Dios, nanaghapa ug nanagsimba sa Dios,</verse>
+        <verse osisID='Rev.11.17'>Nga nagaingon: Nagahatag kami kanimo ug mga pasalamat, Ginoong Dios, ang Makagagahum, nga mao ikaw ang karon, ug mao ikaw ang kaniadto; kay gigamit mo ang imong dakung gahum, ug naghari ka.</verse>
+        <verse osisID='Rev.11.18'>Ug naaligutgut ang mga kanasuran, ug miabut ang imong kaligutgut, ug ang panahon sa paghukom sa mga nangamatay, ug ang panahon sa paghatag ug balus sa imong mga ulipon nga mga manalagna, ug sa mga balaan, ug sa mga nangahadlok sa imong ngalan, sa mga gagmay ug sa mga dagku; ug sa paglaglag kanila nga nagalaglag sa yuta.</verse>
+        <verse osisID='Rev.11.19'>Ug naablihan ang templo sa Dios didto sa langit, ug ang arca sa iyang tugon nakita didto sa iyang templo; ug misunod ang mga kilat, ang mga tingog, ang mga dalugdug ug ang usa ka linog, ug dakung ulan nga yelo.</verse>
+      </chapter>
+      <chapter osisID='Rev.12'>
+        <verse osisID='Rev.12.1'>Ug ang usa ka dakung ilhanan hingkit-an didto sa langit: usa ka babaye nga sinul-oban sa adlaw, ug ang bulan sa ilalum sa iyang mga tiil, ug sa iyang ulo usa ka purongpurong sa napulo ug duha ka bitoon;</verse>
+        <verse osisID='Rev.12.2'>Ug nanamkon siya; ug siya misinggit sa mga kasakit sa pag-anak, ug ginasakitan siya sa pag-anak.</verse>
+        <verse osisID='Rev.12.3'>Ug hingkit-an ang usa ka laing ilhanan didto sa langit; ug ania karon, usa ka dakung dragon nga mapula, nga may pito ka mga ulo ug napulo ka mga sungay, ug may pito ka mga diadema sa iyang mga ulo.</verse>
+        <verse osisID='Rev.12.4'>Ug ang iyang ikog nagaguyod sa ikatolo ka bahin sa mga bitoon sa langit, ug sila gipanalibay niya sa yuta. Ug ang dragon nagpahamutang sa atubangan sa babaye nga haduol nang mag-anak, aron iyang lamyon ang bata sa diha nga kini iyang ikaanak na.</verse>
+        <verse osisID='Rev.12.5'>Ug ang babaye nag-anak sa usa ka anak nga lalake, nga magahari sa tanan nga nasud sa barras nga puthaw, ug ang iyang bata gidala ngadto sa Dios ug sa iyang trono.</verse>
+        <verse osisID='Rev.12.6'>Ug ang babaye mikalagiw ngadto sa kamingawan, diin didto siya may usa ka dapit nga giandam sa Dios, aron nga pagatil-ogan siya didto sa usa ka libo duha ka gatus ug kan-uman ka adlaw.</verse>
+        <verse osisID='Rev.12.7'>Ug dihay usa ka gubat sa langit: Si Miguel ug ang iyang mga manolonda miasdang sa pagpakiggubat sa dragon; ug nagapakiggubat usab ang dragon ug ang iyang mga manolonda.</verse>
+        <verse osisID='Rev.12.8'>Ug sila wala makadaug, ug walay hingkit-an nga dapit alang kanila sa langit.</verse>
+        <verse osisID='Rev.12.9'>Ug gisalibay ang daku nga dragon, ang daan nga bitin, nga ginanganlan. yawa ug satanas, siya nga nagalimbong sa tibook nga kalibutan; gitambug siya, ug uban kaniya gipanalibay ang iyang mga manolonda.</verse>
+        <verse osisID='Rev.12.10'>Ug nadungog ko ang usa ka dakung tingog sa langit, nga nagaingon: Karon miabut na ang kaluwasan, ug ang gahum ug ang gingharian sa atong Dios, ug ang pagbulot-an sa iyang Cristo: kay gitambug ang magsusumbong sa atong mga igsoon, nga nagasumbong kanila sa atubangan sa atong Dios sa adlaw ug gabii.</verse>
+        <verse osisID='Rev.12.11'>Ug siya gidaug nila tungod sa dugo sa Cordero, ug tungod sa pulong sa iyang pagpamatuod, ug wala nila paghigugmaa ang ilang kinabuhi hangtud sa kamatayon.</verse>
+        <verse osisID='Rev.12.12'>Tungod niana, managlipay kamo, oh mga langit, ug kamo nga nagapuyo diha kanila. Alaut ang yuta ug ang dagat: Kay ang yawa nanaug kaninyo nga puno sa dakung kaligutgut, sa hingbaloan niya nga hamubo na lamang ang iyang panahon.</verse>
+        <verse osisID='Rev.12.13'>Ug sa pagkakita sa dragon, nga gitambug siya sa yuta, gilutos niya ang babaye nga nag-anak sa anak nga lalake.</verse>
+        <verse osisID='Rev.12.14'>Ug may gihatag sa babaye nga duruha ka pako sa dakung agila, aron nga molupad siya ngadto sa kamingawan sa iyang dapit, nga didto ginatil-ogan siya sulod sa usa ka panahon, ug sa mga panahon, ug katunga sa panahon gikan sa nawong sa bitin.</verse>
+        <verse osisID='Rev.12.15'>Ug mibugwak ang bitin sa likud sa babaye ug tubig nga ingon sa usa ka suba, aron iyang ipaanod siya sa baha.</verse>
+        <verse osisID='Rev.12.16'>Ug ang yuta mitabang sa babaye; ug ginganga sa yuta ang iyang baba, ug gisuyop niya ang suba nga gibugwak sa bitin sa iyang baba.</verse>
+        <verse osisID='Rev.12.17'>Ug ang dragon napuno sa kaligutgut batok sa babaye, ug miadto sa pagpakiggubat batok sa uban sa iyang kaliwat, nga nagabantay sa mga sugo sa Dios, ug nagabaton sa pagpamatuod ni Jesus.</verse>
+      </chapter>
+      <chapter osisID='Rev.13'>
+        <verse osisID='Rev.13.1'>Ug mitindog siya sa baybayon sa dagat. Ug nakita ko ang usa ka mananap nga mapintas nga migimaw sa dagat, nga adunay napulo ka mga sungay ug pito ka mga ulo, ug sa iyang mga sungay may napulo ka mga diadema, ug sa iyang mga ulo ang mga ngalan nga pasipala.</verse>
+        <verse osisID='Rev.13.2'>Ug ang mananap nga mapintas nga akong hingkit-an sama sa usa ka leopardo, ug ang iyang mga tiil ingon sa mga tiil sa usa ka oso, ug ang iyang baba ingon sa baba sa leon. Ug kaniya gihatag sa dragon ang iyang gahum, ug ang iyang trono, ug dakung pagbulot-an.</verse>
+        <verse osisID='Rev.13.3'>Ug nakita ko ang usa sa iyang mga ulo ingon sa nasamaran nga ikamatay; ug ang iyang samad nga ikamatay; naayo na. Ug ang tibook nga yuta nanghibulong nga nagasunod sa mananap nga mapintas.</verse>
+        <verse osisID='Rev.13.4'>Ug gisimba nila ang dragon, kay ang iyang pagbulot-an gihatag man niya sa mananap nga mapintas, ug gisimba nila ang mananap nga mapintas nga nagaingon: Kinsa ang makasama sa mananap nga mapintas? ug kinsa ang arang makiggubat kaniya?</verse>
+        <verse osisID='Rev.13.5'>Ug gihatagan siya ug baba, nga nagasulti sa mga butang nga dagku ug mga pasipala. Ug gihatagan siya ug pagbulot-an sa pagbuhat sulod sa kap-atan ug duha ka bulan.</verse>
+        <verse osisID='Rev.13.6'>Ug gibungat niya ang iyang baba sa mga pasipala batok sa Dios, aron pasipalahan niya ang iyang ngalan, ug ang iyang tabernaculo, bisan ang mga nagapuyo sa langit.</verse>
+        <verse osisID='Rev.13.7'>Ug gihatag kaniya ang pagpakiggubat batok sa mga balaan, ug pagdaug kanila; ug gihatagan usab siya ug pagbulot-an ibabaw sa tanang banay, ug katawohan, ug sinultihan, ug nasud.</verse>
+        <verse osisID='Rev.13.8'>Ug pagasimbahon siya sa tanan nga nagapuyo sa yuta, kansang mga ngalan wala ikasulat sukad sa pagtukod sa kalibutan, sa basahon sa kinabuhi sa Cordero nga gihalad.</verse>
+        <verse osisID='Rev.13.9'>Kong kinsa ang may igdulungog, magpatalinghug.</verse>
+        <verse osisID='Rev.13.10'>Kong kinsa ang magapamihag, sa pagpamihag moadto siya; kong kinsa ang magpatay pinaagi sa hinagiban, kinahanglan nga pagapatyon siya pinaagi sa hinagiban. Ania dinhi ang pagpailub ug pagtoo sa mga balaan.</verse>
+        <verse osisID='Rev.13.11'>Ug nakita ko ang lain na usab nga mananap nga mapintas nga nagagimaw sa yuta; ug siya may duha ka mga sungay sama sa usa ka cordero, ug nagasulti siya ingon sa usa ka dragon.</verse>
+        <verse osisID='Rev.13.12'>Ug nagabuot siya sa tanang pagbulot-an sa nahaunang mananap nga mapintas sa iyang atubangan; ug ginapasimba niya ang yuta ug ang mga nagapuyo niini sa nahaunang mananap, kansang samad nga ikamatay, naayo na.</verse>
+        <verse osisID='Rev.13.13'>Ug nagabuhat ug dagkung mga ilhanan, lakip ang kalayo sa langit ginapakanaug niya sa yuta sa atubangan sa mga tawo.</verse>
+        <verse osisID='Rev.13.14'>Ug iyang gilimbongan sila nga mga nagapuyo sa yuta, tungod sa mga ilhanan nga gihatag kaniya sa pagbuhat sa atubangan sa mananap nga mapintas; nga nagaingon sa mga nagapuyo sa yuta, nga managbuhat sila ug usa ka larawan alang sa mananap nga mapintas, nga may samad sa hinagiban ug nabuhi.</verse>
+        <verse osisID='Rev.13.15'>Ug gihatag kaniya ang paghatag sa pagginhawa sa larawan sa mananap nga mapintas, aron nga makasulti ang larawan sa mananap nga mapintas ug makahimo sa pagpatay usab sa kapid-an nga dili magsimba sa larawan sa mananap nga mapintas.</verse>
+        <verse osisID='Rev.13.16'>Ug gibuhat niya nga mapatikan ang ilang mga kamot nga too kun ang ilang mga agtang, ang tanan nga mga gagmay ug mga dagku, ang mga dato ug mga kabus, ang may kagawasan ug mga ulipon;</verse>
+        <verse osisID='Rev.13.17'>Ug nga walay bisan kinsa nga arang makapalit kun makabaligya, gawas ang may patik, bisan ang ngalan sa mananap nga mapintas kun ang numero sa iyang ngalan.</verse>
+        <verse osisID='Rev.13.18'>Dinhi ania ang kaalam. Ang may salabutan, isipon niya ang numero sa mananap nga mapintas: kay kini mao ang numero sa tawo; ug ang iyang numero, unom ka gatus ug kan-uman ug unom.</verse>
+      </chapter>
+      <chapter osisID='Rev.14'>
+        <verse osisID='Rev.14.1'>Ug nakita ko, ug ania karon, ang Cordero nga nagatindog sa ibabaw sa bukid nga Sion, ug uban kaniya ang usa ka gatus kap-atan ug upat ka libo, nga nagabaton sa iyang ngalan, ug sa ngalan sa iyang Amahan, nga gisulat sa ilang mga agtang.</verse>
+        <verse osisID='Rev.14.2'>Ug nadungog ko ang usa ka tingog gikan sa langit, ingon sa hinaganas sa daghang mga tubig, ug ingon sa tingog sa usa ka makusog nga dalugdog; ug ang tingog nga nadungog ko ingon sa mga mangangalpa nga nagakablit sa ilang mga alpa.</verse>
+        <verse osisID='Rev.14.3'>Ug nanag-awit sila daw ingon sa usa ka bag-ong awit sa atubangan sa trono, ug sa atubangan sa upat sa mga binuhat nga buhi, ug sa mga anciano; ug walay bisan kinsa nga arang makatoon sa awit, gawas sa usa ka gatus kap-atan ug upat ka libo nga mga tinubos gikan sa yuta.</verse>
+        <verse osisID='Rev.14.4'>Kini sila mao ang mga wala mabulingi sa mga babaye; kay mga ulay sila. Kini sila mao ang mga naganunot sa Cordero, bisan asa siya paingon. Kini sila mao ang mga tinubos gikan sa taliwala sa mga tawo, nga mga inunahang mga bunga alang sa Dios ug alang sa Cordero.</verse>
+        <verse osisID='Rev.14.5'>Ug walay limbong nga hingkaplagan sa ilang mga baba, kay wala silay buling.</verse>
+        <verse osisID='Rev.14.6'>Ug nakita ko ang lain na usab nga manolonda, nga nagalupad sa kinatung-an sa langit, nga may Maayong Balita nga walay katapusan sa pagmantala kanila nga mga nagapuyo sa yuta, ug sa tanan nga nasud, ug banay, ug sinultihan, ug katawohan;</verse>
+        <verse osisID='Rev.14.7'>Ug siya nagaingon sa hataas nga tingog: Kahadlokan ninyo ang Dios, ug ihatag ninyo kaniya ang himaya; kay miabut na ang takna sa iyang paghukom; ug simbahon ninyo ang nagbuhat sa langit ug sa yuta ug sa dagat ug sa mga tuburan sa mga tubig.</verse>
+        <verse osisID='Rev.14.8'>Ug misunod ang lain na usab nga manolonda, nga ikaduha, nga nagaingon: Nahulog na, nahulog na ang dakung Babilonia; kay gipainum niya ang tanang mga katawohan sa vino sa kaisug sa iyang pagpakighilawas.</verse>
+        <verse osisID='Rev.14.9'>Ug may laing manolonda, ang ikatolo, misunod kanila nga nagaingon sa hataas nga tingog: Kong kinsa ang nagasimba sa mananap nga mapintas ug sa iyang larawan, ug nagadawat sa timaan sa iyang agtang kun sa iyang kamot,</verse>
+        <verse osisID='Rev.14.10'>Siya magainum usab sa vino sa kaisug sa Dios, nga gitagay sa walay simbug sa copa sa iyang kaligutgut, ug pagapaantuson siya sa kalayo ug azufre sa atubangan sa mga manolonda nga balaan, ug sa atubangan sa Cordero:</verse>
+        <verse osisID='Rev.14.11'>Ug ang aso sa ilang pag-antus nagautbo ngadto sa mga katuigan nga walay katapusan; ug sila walay kapahulayan sa adlaw ug sa gabii, sila nga nagasimba sa mananap nga mapintas ug sa iyang larawan, ug bisan kinsa nga modawat sa timaan sa iyang ngalan.</verse>
+        <verse osisID='Rev.14.12'>Ania ang pagpailub sa mga balaan, sila nga nagabantay sa mga sugo sa Dios, ug sa kang Jesus nga pagtoo.</verse>
+        <verse osisID='Rev.14.13'>Ug nadungog ko ang usa ka tingog gikan sa langit, nga nagaingon: Isulat mo: Mga bulahan ang mga nangamatay nga sukad karon mangamatay diha sa Ginoo: oo, nagaingon ang Espiritu, aron managpahulay sila gikan sa ilang mga buhat; kay ang ilang mga buhat naganunot uban kanila.</verse>
+        <verse osisID='Rev.14.14'>Ug nakita ko, ug ania karon, ang usa ka panganod nga maputi; ug sa ibabaw sa panganod nagalingkod ang sama sa Anak sa tawo nga may usa ka purongpurong nga bulawan sa iyang ulo, ug usa ka galab nga mahait diha sa iyang kamot.</verse>
+        <verse osisID='Rev.14.15'>Ug may laing manolonda nga minggula sa templo, nga nagasinggit sa hataas nga tingog niadtong nagalingkod sa ibabaw sa panganod: Ipadala mo ang imong galab, ug maggalab ka; kay miabut na ang takna sa pag-ani; kay ang alanihon sa yuta hinog na.</verse>
+        <verse osisID='Rev.14.16'>Ug siya nga nagalingkod sa ibabaw sa panganod, misalibay sa yuta sa iyang galab, ug gigalaban ang yuta.</verse>
+        <verse osisID='Rev.14.17'>Ug may laing manolonda nga minggula sa templo nga didto sa langit, nga siya usab may usa ka galab nga mahait.</verse>
+        <verse osisID='Rev.14.18'>Ug may laing manolonda nga minggula sa halaran, siya nga may pagbulot-an sa kalayo, ug nagasinggit sa dakung tingog niadtong may mahait nga galab, nga nagaingon: Ipadala mo ang imong galab nga mahait, ug pamutlon mo ang mga bulig sa parras sa yuta; kay hinog na kaayo ang iyang mga parras.</verse>
+        <verse osisID='Rev.14.19'>Ug gisalibay sa manolonda ang iyang galab ngadto sa yuta, ug gipamupo niya ang mga parras sa yuta, ug gisalibay kini ngadto sa dakung pug-anan sa kaligutgut sa Dios.</verse>
+        <verse osisID='Rev.14.20'>Ug ang pug-anan gigiukan didto sa gawas sa lungsod, ug miggula ang dugo sa pug-anan hangtud sa mga busal sa kabayo sa totolo ka gatus ug kaluhaan ka kilometro.</verse>
+      </chapter>
+      <chapter osisID='Rev.15'>
+        <verse osisID='Rev.15.1'>Ug nakita ko ang lain nga ilhanan sa langit, daku ug kahibulongan: pito ka mga manolonda, nga may pito ka mga hampak nga mao ang katapusan, kay diha kanila natapus ang kaligutgut sa Dios.</verse>
+        <verse osisID='Rev.15.2'>Ug nakita ko daw ingon ug usa ka dagat nga salamin, nga sinimbugan sa kalayo; ug sila nga midaug sa mananap nga mapintas, ug sa iyang larawan, ug sa numero sa iyang ngalan, nga nanagtindog duol sa dagat nga salamin, nga may mga alpa sa Dios.</verse>
+        <verse osisID='Rev.15.3'>Ug nagaawit sila sa alawiton ni Moises, ang alagad sa Dios, ug sa alawiton sa Cordero, nga nagaingon: Dagku ug mga kahibulongan ang imong mga buhat, O Ginoong Dios, ang Makagagahum; matarung ug matuod ang imong mga paagi, ikaw nga Hari sa mga katuigan.</verse>
+        <verse osisID='Rev.15.4'>Kinsa ang dili mahadlok kanimo, Ginoo, ug magahimaya sa imong ngalan? Kay ikaw lamang ang balaan: kay ang tanan nga mga nasud manganhi ug managsimba sa imong atubangan; kay ang imong matarung nga mga buhat gipadayag.</verse>
+        <verse osisID='Rev.15.5'>Ug sa human niining mga butanga nakita ko, ug ania karon, naablihan sa langit ang templo sa tabernaculo sa pagpamatuod.</verse>
+        <verse osisID='Rev.15.6'>Ug nanggula gikan sa templo ang pito ka mga manolonda, nga may pito ka mga hampak, nga nagasul-ob sa hamiling bato, mahinlo ug masilaw nga lino, ug binaksan ang ilang mga dughan sa mga bakus nga bulawan.</verse>
+        <verse osisID='Rev.15.7'>Ug usa sa upat ka mga binuhat nga buhi, naghatag sa pito ka mga manolonda ug pito ka mga panaksan nga bulawan nga puno sa kaligutgut sa Dios, nga buhi ngadto sa mga katuigan nga walay katapusan.</verse>
+        <verse osisID='Rev.15.8'>Ug ang templo napuno sa aso gikan sa himaya sa Dios, ug gikan sa iyang gahum; ug alay kinsa nga arang makasulod sa templo hangtud nga matuman ang pito ka mga hampak sa pito ka mga manolonda.</verse>
+      </chapter>
+      <chapter osisID='Rev.16'>
+        <verse osisID='Rev.16.1'>Ug nadungog ko ang usa ka dakung tingog gikan sa templo, nga nagaingon sa pito ka manolonda: Lakaw kamo, ug ipangyabo ninyo sa yuta ang pito ka mga panaksan sa kaligutgut sa Dios.</verse>
+        <verse osisID='Rev.16.2'>Ug milakaw ang nahauna, ug giyabo niya ang iyang panaksan sa yuta; ug kini nahimo nga usa ka samad nga mangil-ad ug maul-ul niadtong mga tawo nga may mga timaan sa mananap nga mapintas, ug nga nanagsimba sa iyang larawan.</verse>
+        <verse osisID='Rev.16.3'>Ug giyabo sa ikaduha ka manolonda ang iyang panaksan didto sa dagat; ug kini nahimo nga dugo sama sa dugo sa usa ka tawong patay; ug nangamatay ang tanan nga mga kalag nga buhi nga atua sa dagat.</verse>
+        <verse osisID='Rev.16.4'>Ug giyabo sa ikatolo ang iyang panaksan didto sa mga suba ug sa mga tuburan sa tubig, ug kini nahimong dugo.</verse>
+        <verse osisID='Rev.16.5'>Ug nadungog ko ang manolonda sa mga tubig, nga nagaingon: Matarung ikaw nga mao ang karon, ug ang mao kaniadto, ikaw ang Balaan; kay gihukman mo sa ingon niini:</verse>
+        <verse osisID='Rev.16.6'>Kay giula nila ang dugo sa mga balaan ug sa mga manalagna: ug gipainum mo usab sila ug dugo: mga angay man sila.</verse>
+        <verse osisID='Rev.16.7'>Ug nadungog ko nga nagaingon ang halaran: Oo, Ginoong Dios, ang Makagagahum, mga matuod ug matarung ang imong mga paghukom.</verse>
+        <verse osisID='Rev.16.8'>Ug giyabo sa ikaupat ang iyang panaksan ibabaw sa adlaw; ug gihatag kaniya ang pagsunog sa mga tawo sa kalayo.</verse>
+        <verse osisID='Rev.16.9'>Ug nangasunog ang mga tawo sa hilabihang kainit, ug gipasipalahan nila ang ngalan sa Dios nga may gahum sa ibabaw niining mga hampak; ug sila wala maghinulsol aron sa paghatag kaniya sa himaya.</verse>
+        <verse osisID='Rev.16.10'>Ug giyabo sa ikalima ang iyang panaksan diha sa trono sa mananap nga mapintas; ug ang iyang gingharian mingitngit, ug gipangutlob nila ang ilang mga dila tungod sa kasakit.</verse>
+        <verse osisID='Rev.16.11'>Ug gipasipalahan nila ang Dios sa langit, tungod sa ilang mga kasakit, ug sa ilang mga samad; ug wala nila hinulsoli ang ilang mga buhat.</verse>
+        <verse osisID='Rev.16.12'>Ug giyabo sa ikaunom ang iyang panaksan didto sa dakung suba nga Eufrates; ug mihubas ang tubig niini, aron nga maandam ang dalan alang sa mga hari gikan sa Silangan.</verse>
+        <verse osisID='Rev.16.13'>Ug nakita ko, nga nanggula sa baba sa dragon, ug sa baba sa mananap nga mapintas, ug sa baba sa bakakon nga manalagna, ang totolo ka mga espiritu nga mahugaw, sama sa mga baki.</verse>
+        <verse osisID='Rev.16.14'>Kay mga espiritu sila sa mga yawa, nga nagabuhat ug mga ilhanan, nga nangadto sa mga hari sa tibook nga kalibutan, aron sa pagtigum kanila sa gubat sa dakung adlaw sa Dios, ang Makagagahum.</verse>
+        <verse osisID='Rev.16.15'>(Ania karon, moanhi ako ingon sa kawatan. Bulahan ang nagatukaw, ug nagabantay sa iyang mga bisti, aron dili siya maglakaw nga hubo, ug dili hikit-an nila ang iyang kaulawan).</verse>
+        <verse osisID='Rev.16.16'>Ug sila gipanagtigum nila sa usa ka dapit, nga sa Hebreohanon ginganlan Armagedon.</verse>
+        <verse osisID='Rev.16.17'>Ug giyabo sa ikapito ang iyang panaksan didto sa hangin; ug minggula ang usa ka dakung tingog gikan sa templo sa langit gikan sa trono, nga nagaingon: Nabuhat na.</verse>
+        <verse osisID='Rev.16.18'>Ug dihay mga kilat ug mga tingog, ug mga dalugdug; ug dihay usa ka makusog nga linog, nga wala pay ingon sukad nga may mga tawo sa yuta, linog nga hilabihan ka daku ug hilabihan kakusog.</verse>
+        <verse osisID='Rev.16.19'>Ug gitotolo ka bahin ang dakung ciudad: ug ang mga ciudad sa mga nasud nangahulog; ug ang Babilonia nga daku nahinumduman diha sa atubangan sa Dios, aron sa paghatag niini sa copa sa vino sa kabangis sa iyang kaligutgut.</verse>
+        <verse osisID='Rev.16.20'>Ug ang tanan nga mga pulo nangalagiw, ug wala hikit-i ang mga kabukiran.</verse>
+        <verse osisID='Rev.16.21'>Ug gikan sa langit nahulog sa mga katawohan ang usa ka dakung ulan sa yelo, nga ang binook ingon sa usa ka talanton. Ug gipasipalahan sa mga tawo ang Dios tungod sa hampak sa ulan nga yelo; kay daku gayud kaayo kini nga hampaka.</verse>
+      </chapter>
+      <chapter osisID='Rev.17'>
+        <verse osisID='Rev.17.1'>Ug miabut ang usa sa pito ka mga manolonda, nga may pito ka mga panaksan, ug nakigsulti kanako nga nagaingon: Umari ka, ipakita ko kanimo ang pagkahinukman sa silot sa dakung bigaon, nga nagalingkod sa ibabaw sa daghang mga tubig;</verse>
+        <verse osisID='Rev.17.2'>Nga kaniya nagpakighilawas ang mga hari sa yuta, ug ang mga nagapuyo sa yuta, nangahubog sa vino sa iyang pagpakighilawas.</verse>
+        <verse osisID='Rev.17.3'>Ug diha sa Espiritu ako gidala niya ngadto sa kamingawan; ug nakita ko ang usa ka babaye, nga nagakabayo sa usa ka mananap nga mapula nga nalukop sa mga ngalan sa pagpasipala, nga may pito ka mga ulo, ug napulo ka mga sungay.</verse>
+        <verse osisID='Rev.17.4'>Ug ang babaye nagasul-ob sa purpura ug grana, ug nadayandayanan sa bulawan, ug mga bato nga hamili ug mga maanindot nga mutya, ug may copa nga bulawan sa iyang kamot, nga puno sa mga kangil-ad, ug mga kahugaw sa iyang pagpakighilawas.</verse>
+        <verse osisID='Rev.17.5'>Ug nahasulat sa iyang agtang ang usa ka ngalan: TINAGO, BABILONIA, ANG DAKU, ANG INAHAN SA MGA BIGAON UG SA MGA KANGIL-ARAN SA YUTA.</verse>
+        <verse osisID='Rev.17.6'>Ug nakita ko ang babaye, nga nahubog sa dugo sa mga balaan, ug sa dugo sa mga sinakit nga mga saksi ni Jesus, ug sa nakita ko siya, nahibulong ako ug daku nga kahibulong.</verse>
+        <verse osisID='Rev.17.7'>Ug ang manolonda nag-ingon kanako: Nganong nahibulong ka? Igaingon ko kanimo ang tinago sa babaye, ug sa mananap nga mapintas, nga nagadala kaniya, nga may pito ka mga ulo, ug napulo ka mga sungay.</verse>
+        <verse osisID='Rev.17.8'>Ang mananap nga mapintas nga nakita mo, mao siya ang kaniadto ug dili ang karon: ug haduol nang mogimaw gikan sa kahiladman nga dili matugkad, ug moadto sa pagkawala. Ug manghibulong ang mga nagapuyo sa yuta, sila nga kansang mga ngalan wala mahasulat sa basahon sa kinabuhi sukad sa pagtukod sa kalibutan, kong ilang makita ang mananap nga mapintas, nga mao kaniadto, ug dili karon, ug moanhi siya.</verse>
+        <verse osisID='Rev.17.9'>Niini ania ang salabutan nga may kaalam: Ang pito ka mga ulo mao ang pito ka mga bukid, nga gilingkoran sa babaye.</verse>
+        <verse osisID='Rev.17.10'>Ug sila mao ang pito ka mga hari. Ang lima nangahulog na, ang usa mao karon, ang usa wala pa moabut; kong moanhi na siya, kinahanglan nga magapadayon siya sa hamubo nga panahon.</verse>
+        <verse osisID='Rev.17.11'>Ug ang mananap nga mapintas, nga mao siya kaniadto, ug dili karon, kana usab mao ang ikawalo, nga ila sa pipito, ug moadto siya sa pagkawala.</verse>
+        <verse osisID='Rev.17.12'>Ug ang napulo ka mga sungay nga nakita mo, mao ang napulo ka mga hari, nga wala pa makadawat sila ug gingharian; apan nagadawat sila ug pagbulot-an, ingon sa mga hari sa usa ka takna, kauban sa mananap nga mapintas.</verse>
+        <verse osisID='Rev.17.13'>Kini sila may usa ka hunahuna, ug igahatag nila ang ilang gahum, ug ang ilang pagbulot-an sa mananap nga mapintas.</verse>
+        <verse osisID='Rev.17.14'>Makiggubat kini sila batok sa Cordero, ug pagadaugon sila sa Cordero kay siya mao ang Ginoo sa mga ginoo ug ang Hari sa mga hari; ug ang mga kauban niya mga tinawag, ug mga pinili, ug mga matinumanon.</verse>
+        <verse osisID='Rev.17.15'>Ug nagaingon siya kanako: Ang mga tubig nga hingkit-an mo, nga ginalingkoran sa bigaon mao ang mga katawohan, ug mga panon sa katawohan, ug mga nasud, ug mga sinultihan.</verse>
+        <verse osisID='Rev.17.16'>Ug ang napulo ka mga sungay, nga imong nakita, ug ang mananap nga mapintas, kini sila magadumot sa bigaon, ug magalaglag ug magahubo kaniya, ug magakaon sa iyang unod, ug magasunog sa pag-ut-ut gayud kaniya uban sa kalayo.</verse>
+        <verse osisID='Rev.17.17'>Kay gibutang sa Dios sa ilang kasingkasing ang pagbuhat sa iyang kabubut-on, ug ang pag-usa sa usa ka tuyo, ug ang paghatag sa ilang gingharian ngadto sa mananap nga mapintas, hangtud nga matuman ang mga pulong sa Dios.</verse>
+        <verse osisID='Rev.17.18'>Ug ang babaye nga imong nakita mao ang daku nga ciudad, nga nagahari sa ibabaw sa mga hari sa yuta.</verse>
+      </chapter>
+      <chapter osisID='Rev.18'>
+        <verse osisID='Rev.18.1'>Ug sa human niining mga butanga nakita ko, nga nanaug gikan sa langit ang usa usab ka manolonda, nga may dakung pagbulot-an; ug ang yuta ginaiwagan sa iyang himaya.</verse>
+        <verse osisID='Rev.18.2'>Ug misinggit sa makusog nga tingog, nga nagaingon: Nahulog na, nahulog na ang dakung Babilonia, ug nahimong puloy-anan sa mga yawa, ug tigumanan sa tanang espiritu nga mahugaw, ug tugdonanan sa tanang langgam nga mahugaw ug dulomtanan;</verse>
+        <verse osisID='Rev.18.3'>Kay ang tanang mga nasud nangahulog tungod sa vino sa kaisug sa iyang pagpakighilawas; ug ang mga hari sa yuta nakapakighilawas uban kaniya, ug ang mga magpapatigayon sa yuta nangadato tungod sa gahum sa iyang mausikong pagpatuyang.</verse>
+        <verse osisID='Rev.18.4'>Ug nadungog ko ang lain nga tingog gikan sa langit, nga nagaingon: Gumula kamo kaniya, katawohan ko, aron dili kamo makaambit sa iyang mga sala, ug aron dili kamo makadawat sa iyang mga hampak.</verse>
+        <verse osisID='Rev.18.5'>Kay ang iyang mga sala nakaabut hangtud sa langit, ug nahinumduman sa Dios ang iyang mga pagkadili-matarung.</verse>
+        <verse osisID='Rev.18.6'>Bayri ninyo siya, ingon sa iyang gibayad; ug pil-on ninyo kaniya ang pilo sumala sa iyang mga buhat; sa copa nga iyang gisimbungan kaninyo, simbugi ninyo ug pilo.</verse>
+        <verse osisID='Rev.18.7'>Sa hilabihan nga paghimaya niya sa iyang kaugalingon, ug pagpuyo sa mga mausikong pagpatuyang, sa ingon hatagan ninyo siya ug pag-antus ug pagbalata; kay nakaingon siya sa iyang kasingkasing: Nagalingkod ako nga reina, ug dili ako balo, ug dili gayud ako makakita ug pagbalata.</verse>
+        <verse osisID='Rev.18.8'>Tungod niini moabut sa usa ka adlaw ang iyang hampak, kamatay, ug pagbalata, ug gutom, ug mahurot siya sa pagkasunog sa kalayo; kay kusgan ang Ginoong Dios, nga naghukom kaniya.</verse>
+        <verse osisID='Rev.18.9'>Ug ang mga hari sa yuta, manag-panghilak ug managbakho tungod kaniya nga nakapakighilawas kaniya ug nakapuyo sa mga mausikong pagpatuyang uban kaniya, kong makita nila ang aso sa iyang pagkasunog;</verse>
+        <verse osisID='Rev.18.10'>Nga nanagtindog sa halayo tungod sa kahadlok sa iyang pag-antus nga nagaingon: Alaut, alaut ang dakung ciudad, ang Babilonia, ciudad nga malig-on! Kay sa usa ka takna miabut ang paghukom kanimo.</verse>
+        <verse osisID='Rev.18.11'>Ug ang mga magpapatigayon sa yuta managpanghilak ug managbalata tungod kaniya, kay wala nay tawo nga mopalit sa ilang mga baligya:</verse>
+        <verse osisID='Rev.18.12'>Mga baligya nga bulawan, ug salapi, ug mga bato nga hamili, ug mga mutya, ug mga lino nga manipis, ug purpura, ug seda, ug mapula, ug sa tanan nga kahoy nga mahumot, ug mga sudlanan nga garing, ug mga sudlanan nga kahoy nga maanindot gayud, ug tumbaga, ug puthaw, ug marmol;</verse>
+        <verse osisID='Rev.18.13'>Ug cinnamon, ug mga panakot, ug haplas, ug incienso, ug vino, ug lana, ug harina, ug trigo, ug mga vaca, ug mga carnero, ug mga kabayo, ug mga salakyan, ug mga ulipon, ug mga kalag sa mga tawo.</verse>
+        <verse osisID='Rev.18.14'>Ug ang mga bunga nga ginapangandoy sa imong kalag, mibulag kanimo; ug ang tanan nga mga butang nga mahapsay ug maanindot, nangawala kanimo, ug dili na gayud kini igakita.</verse>
+        <verse osisID='Rev.18.15'>Ang mga magpapatigayon niining tanang mga butanga, nga nangadato tungod kaniya, managpahilayo, tungod sa kahadlok sa iyang pag-antus, nga nagahilak ug nagakasakit,</verse>
+        <verse osisID='Rev.18.16'>Nga nagaingon: Alaut, alaut ang dakung ciudad, nga sinul-oban kaniadto sa lino nga manipis, ug purpura, ug mapula, ug gidayandayanan sa bulawan, ug mga hamili nga bato, ug mga mutya!</verse>
+        <verse osisID='Rev.18.17'>Kay sa usa ka takna ang hilabihan kadaku nga bahandi nahanaw. Ug ang tanan nga capitan sa sakayan, ug ang tanan nga nagalayag sa bisan diin nga dapit, ug ang mga magsasakay, ug ang kapid-an nga nagapatigayon sa dagat, nanagpahilayo.</verse>
+        <verse osisID='Rev.18.18'>Ug nagasinggit, sa makita nila ang aso sa iyang pagkasunog, nga nagaingon: Unsang ciudara ang sama sa dakung ciudad?</verse>
+        <verse osisID='Rev.18.19'>Ug gibutangan nila ug abo ang ilang mga ulo, ug nanagsinggit, nga nagahilak ug nagaagulo nga nagaingon: Alaut, alaut ang daku nga ciudad, nga nakapadato sa tanan nga may mga sakayan didto sa dagat, tungod sa iyang pagkabililhon, kay sa usa ka takna nahanaw siya.</verse>
+        <verse osisID='Rev.18.20'>Maghugyaw ka, langit, ibabaw kaniya ug kamong mga balaan, ug kamong mga apostoles, ug kamong mga manalagna; kay gihukman siya sa Dios ingon sa inyong paghukom kaniya.</verse>
+        <verse osisID='Rev.18.21'>Ug usa ka manolonda nga kusgan mikuha ug usa ka bato, ingon sa usa ka dakung bato sa galingan, ug gitambog niya sa dagat, nga nagapamulong: Ingon niana nga kakusog ang pagkahulog sa Babilonia, ang dakung ciudad ug dili na gayud igakita.</verse>
+        <verse osisID='Rev.18.22'>Ug dili na gayud hidunggan diha kanimo ang tingog sa mga mangangalpa, bisan sa mga mag-aawit, bisan sa mga magpapaflauta, bisan sa mga magbubudyong; ug dili na gayud igakita diha kanimo bisan kinsa nga batid sa bisan unsa nga kinaadman; ug dili na gayud hidunggan diha kanimo ang dinahunog sa bato nga galingan:</verse>
+        <verse osisID='Rev.18.23'>Ug dili na gayud magadan-ag sa kahayag sa lamparahan diha kanimo; ug dili na gayud hidunggan diha kanimo ang tingog sa pamanhonon, ni ang tingog sa pangasaw-onon: kay ang imong mga magpapatigayon mao ang mga principe sa yuta: kay tungod sa imong mga lumay nanghisalaag ang tanang mga nasud.</verse>
+        <verse osisID='Rev.18.24'>Ug hingkaplagan diha kaniya ang dugo sa mga manalagna ug sa mga balaan, ug sa tanang mga gipamatay sa yuta.</verse>
+      </chapter>
+      <chapter osisID='Rev.19'>
+        <verse osisID='Rev.19.1'>Sa human niining mga butanga, nadungog ko ang daw usa ka dakung panon sa langit, nga nagapamulong: Aleluya. Ang kaluwasan, ug ang himaya, ug ang gahum iya sa atong Dios:</verse>
+        <verse osisID='Rev.19.2'>Kay ang iyang mga paghukom mga matuod ug mga matarung; kay gihukman niya ang dakung bigaon, ang nagahugaw sa yuta tungod sa iyang pagpakighilawas, ug gipanimaslan niya ang dugo sa iyang mga ulipon diha sa mga kamot sa bigaon.</verse>
+        <verse osisID='Rev.19.3'>Ug nanagpamulong sila sa ikaduha: Aleluya. Ug ang iyang aso nagautbo sa mga katuigan nga walay katapusan.</verse>
+        <verse osisID='Rev.19.4'>Ug nanagyaub sa yuta ang kaluhaan ug upat ka mga anciano, ug ang upat ka mga binuhat nga buhi ug gisimba nila ang Dios, nga nagalingkod sa trono, nga nagapamulong: Amen: Aleluya.</verse>
+        <verse osisID='Rev.19.5'>Ug gikan sa trono miabut ang usa ka tingog, nga nagaingon; Dayega ninyo ang atong Dios, ngatanan kamo nga iyang mga ulipon, ug kamo nga nangahadlok kaniya, mga gagmay ug mga dagku.</verse>
+        <verse osisID='Rev.19.6'>Ug nadungog ko ang tingog ingon sa usa ka dakung panon nga langitnon, ug ingon sa hinaganas sa daghanang mga tubig, ug ingon sa tingog sa makusog nga mga dalugdug, nga nagaingon: Aleluya; kay naghari ang atong Ginoong Dios nga Makagagahum.</verse>
+        <verse osisID='Rev.19.7'>Managkalipay kita, ug managhugyaw ug igahatag ta kaniya ang himaya: kay ang kasal sa Cordero, nagaabut na, ang iyang asawa nagaandam na sa iyang kaugalingon.</verse>
+        <verse osisID='Rev.19.8'>Ug gitugot kaniya ang pagpabisti sa lino nga manipis masinaw ug mahinlo; kay ang lino nga manipis mao ang mga buhat nga matarung sa mga balaan.</verse>
+        <verse osisID='Rev.19.9'>Ug siya miingon kanako: Isulat mo: Bulahan ang mga dinapit sa panihapon sa kasal sa Cordero. Ug siya nagaingon kanako: Kini mao ang matuod nga mga pulong sa Dios.</verse>
+        <verse osisID='Rev.19.10'>Ug miyaub ako sa iyang mga tiil, aron sa pagsimba kaniya ug siya nagingon kanako: Magmatngon ka nga dili magbuhat niana; ako masigka-ulipon mo ug sa imong mga igsoon, nga nagabaton sa pagpamatuod ni Jesus; magsimba ka sa Dios; kay ang pagpamatuod ni Jesus mao ang espiritu sa tagna.</verse>
+        <verse osisID='Rev.19.11'>Ug nakita ko nga naablihan ang langit, ug ania karon, usa ka kabayo nga maputi, ug siya nga nagakabayo niini, mao ang ginanganlan Matinumanon ug Maminatud-on; ug sa pagkamatarung nagahukom ug nagapanggubat.</verse>
+        <verse osisID='Rev.19.12'>Ug ang mga mata ingon sa siga sa kalayo, ug daghan nga mga diadema sa ibabaw sa iyang ulo; ug may nasulat nga usa ka ngalan nga walay bisan kinsa nga nakasabut kondili siya ra gayud.</verse>
+        <verse osisID='Rev.19.13'>Ug siya sinul-oban sa usa ka panapton nga natina sa dugo, ug ang iyang ngalan gitawag: ANG PULONG SA DIOS.</verse>
+        <verse osisID='Rev.19.14'>Ug ang mga kasundalohan sa langit nagasunod kaniya nga nanagkabayo sa mga kabayo nga maputi, nga sinul-oban sa lino nga manipis, maputi ug mahinlo.</verse>
+        <verse osisID='Rev.19.15'>Ug sa iyang baba nagagula ang usa ka espada nga mahait, aron uban niini panigbason niya ang kanasuran; ug sila pagaharian niya sa barras nga puthaw, ug siya nagagiuk sa pug-anan sa vino sa kabangis sa kaligutgut sa Dios, ang Makagagahum.</verse>
+        <verse osisID='Rev.19.16'>Ug sa iyang panapton ug sa iyang dapidapi nahasulat kini nga ngalan: HARI SA MGA HARI, UG GINOO SA MGA GINOO.</verse>
+        <verse osisID='Rev.19.17'>Ug nakita ko ang usa ka manolonda, nga nagatindog diha sa adlaw; ug nagasinggit sa dakung tingog, nga nagapamulong sa tanan nga kalanggaman, nga nagalupad sa tunga-tunga sa langit: Umari kamo, panagtigum kamo sa dakung panihapon sa Dios.</verse>
+        <verse osisID='Rev.19.18'>Aron makakaon kamo sa unod sa mga hari, ug sa unod sa mga capitan, ug sa unod sa mga kusgan nga mga tawo, ug sa unod sa mga kabayo ug sa mga nagakabayo kanila: ug sa unod sa tanan nga mga tawo: mga may kagawasan, ug mga ulipon, mga gagmay ug mga dagku usab.</verse>
+        <verse osisID='Rev.19.19'>Ug nakita ko ang mananap nga mapintas, ug ang mga hari sa yuta, ug ang ilang mga kasundalohan, nga nanagtigum sa pagpakiggubat batok sa nagakabayo sa kabayo ug batok sa iyang mga kasundalohan.</verse>
+        <verse osisID='Rev.19.20'>Ug hingdakpan ang mananap nga mapintas, ug uban kaniya ang bakakon nga manalagna, nga nagbuhat sa mga ilhanan sa atubangan niya, nga tungod niana gipasalaag niya ang mga mingdawat sa timaan sa mananap nga mapintas, sila nga nanagsimba sa iyang larawan. Gipanambug silang duha nga mga buhi sa linaw nga kalayo, nga nagadilaab sa azufre.</verse>
+        <verse osisID='Rev.19.21'>Ug ang uban gipatay pinaagi sa espada, nga nagagula sa baba niya nga nagakabayo sa kabayo; ug nangabusog ang tanan nga mga langgam sa unod nila.</verse>
+      </chapter>
+      <chapter osisID='Rev.20'>
+        <verse osisID='Rev.20.1'>Ug nakita ko nga ang usa ka manolonda nga nanaug gikan sa langit, nga may yawi sa kahiladman nga dili matugkad ug usa ka daku nga talikala sa iyang kamot.</verse>
+        <verse osisID='Rev.20.2'>Ug gidakup niya ang dragon, kadtong daan nga bitin, nga mao ang yawa ug satanas, ug gigapus niya sulod sa usa ka libo ka tuig.</verse>
+        <verse osisID='Rev.20.3'>Ug iyang gitambug siya sa kahiladman nga dili matugkad; ug iyang gitabonan kini, ug gipatikan kini sa ibabaw niya, aron dili na makapasalaag sa mga katawohan, hangtud nga matapus ang usa ka libo ka tuig; ug sa human niini kinahanglan siya nga pagabuhian sa hamubo nga panahon.</verse>
+        <verse osisID='Rev.20.4'>Ug nakita ko ang mga trono ug sila nanglingkod niini, ug gihatag kanila ang paghukom; ug nakita ko ang mga kalag sa mga gipunggutan tungod sa pagpamatuod kang Jesus, ug tungod sa pulong sa Dios, ug ang tanan nga wala managsimba sa mananap nga mapintas, ni sa iyang larawan, ug wala makadawat ug patik sa ilang mga agtang, ug sa mga kamot; ug sila nangabuhi ug nanaghari uban kang Cristo sulod sa usa ka libu ka tuig.</verse>
+        <verse osisID='Rev.20.5'>Apan ang uban sa mga nangamatay, dili sila mabuhi pag-usab hangtud nga matuman ang usa ka libo ka tuig. Kini mao ang nahauna nga pagkabanhaw.</verse>
+        <verse osisID='Rev.20.6'>Bulahan ug balaan ang may pag-ambit sa nahauna nga pagkabanhaw; sa ibabaw niini ang ikaduha nga kamatayon walay gahum; kondili sila mangahimong mga sacerdote sa Dios ug ni Cristo, ug magahari sila uban kaniya sa usa ka libo ka tuig.</verse>
+        <verse osisID='Rev.20.7'>Ug sa mahuman na ang usa ka libo ka tuig, pagabuhian si satanas sa gawas sa iyang bilanggoan.</verse>
+        <verse osisID='Rev.20.8'>Ug mogula aron sa pagpasalaag sa mga katawohan, sa upat ka pamag-ang sa yuta, kang Gog ug kang Magog, sa pagtigum kanila, aron sa pagpanggubat; ang ilang gidaghanon ingon sa balas sa dagat.</verse>
+        <verse osisID='Rev.20.9'>Ug mingsaka sila sa kinahilapdan sa yuta, ug gilibutan nila ang campo sa mga balaan ug ang hinigugma nga ciudad. Ug nahulog ang kalayo gikan sa langit, ug gilamoy sila.</verse>
+        <verse osisID='Rev.20.10'>Ug ang yawa nga nagpasalaag kanila, gitambug sa linaw nga kalayo ug azufre, diin atua usab didto ang mananap nga mapintas ug ang manalagna nga bakakon; ug sila pagasakiton sa adlaw ug sa gabii, ngadto sa mga katuigan nga walay katapusan.</verse>
+        <verse osisID='Rev.20.11'>Ug nakita ko ang usa ka dakung trono nga maputi, ug ang nagalingkod niini, nga gikan sa iyang nawong, nanagpangalagiw ang yuta ug ang langit, ug walay hingkit-an nga dapit alang kanila.</verse>
+        <verse osisID='Rev.20.12'>Ug nakita ko ang mga minatay, mga dagku ug mga gagmay, nga nagatindog sa atubangan sa trono. Ug gipamuklad ang mga basahon; ug may laing basahon nga gibuklad, nga mao ang basahon sa kinabuhi; ug ang mga minatay gipanghukman, ingon sa mga butang nga nahasulat sa mga basahon sumala sa ilang mga buhat.</verse>
+        <verse osisID='Rev.20.13'>Ug ang dagat mihatag sa mga minatay nga diha niini. Ug ang kamatayon ug ang Hades mihatag sa mga minatay nga diha kanila: ug kini sila gihukman, ang tagsatagsa sumala sa ilang mga buhat.</verse>
+        <verse osisID='Rev.20.14'>Ug ang kamatayon ug ang Hades gipanambug ngadto sa linaw nga kalayo. Kini mao ang ikaduha nga kamatayon: bisan ang linaw nga kalayo.</verse>
+        <verse osisID='Rev.20.15'>Ug kong may bisan kisan nga wala hikit-i, nga nahasulat sa basahon sa kinabuhi, gitambug siya ngadto sa linaw nga kalayo.</verse>
+      </chapter>
+      <chapter osisID='Rev.21'>
+        <verse osisID='Rev.21.1'>Ug nakita ko ang usa ka langit nga bag-o, ug ang usa ka yuta nga bag-o; kay ang nahauna nga langit ug ang nahauna nga yuta nangagi na; ug wala na ing dagat.</verse>
+        <verse osisID='Rev.21.2'>Nakita ko ang ciudad nga balaan, ang bag-o nga Jerusalem, nga nanaug sa langit gikan sa Dios, nga naandam ingon sa usa ka pangasaw-onor, nga nadayandayanan alang sa iyang bana.</verse>
+        <verse osisID='Rev.21.3'>Ug nadungog ko ang usa ka dakung tingog gikan sa trono, nga nagaingon: Ania karon, ang tabernaculo sa Dios uban sa mga tawo, ug siya magapuyo uban kanila, ug sila mahimong mga katawohan niya, ug ang Dios gayud magauban kanila, ug mahimo nga ilang Dios.</verse>
+        <verse osisID='Rev.21.4'>Ug pagapahiran sa Dios ang tanang luha sa ilang mga mata; ug mawala ang kamatayon; ug wala nay pagbalata, bisan paghilak, bisan kasakit; kay ang mga butang nahauna ming-agi na.</verse>
+        <verse osisID='Rev.21.5'>Ug siya nga nagalingkod sa trono, miingon: Ania karon, ginabag-o ko ang tanang mga butang. Ug siya nagaingon kanako: Isulat mo, kay kini nga mga pulong mga matinumanon ug mga matuod.</verse>
+        <verse osisID='Rev.21.6'>Ug siya miingon kanako: Kini nahatabo na gayud: Ako mao ang Alpa ug ang Omega: ang sinugdan ug ang katapusan. Ang giuhaw, paimnon ko sa tuburan sa tubig sa kinabuhi sa walay bayad.</verse>
+        <verse osisID='Rev.21.7'>Ang makadaug, manunod niining mga butanga; ug ako mahimo nga iyang Dios, ug siya mahimo nga akong anak.</verse>
+        <verse osisID='Rev.21.8'>Apan ang mga talawan, ug ang mga maduhaduhaon, ug ang mga malaw-ayon, ug ang mga mamumuno, ug ang mga makighilawason, ug ang mga lumayan, ug ang mga nagasimba sa mga dios-dios, ug ang tanan nga mga bakakon, mabahinan sila didto sa linaw, nga nagadilaab sa kalayo ug azufre; nga mao ang kaduha nga kamatayon.</verse>
+        <verse osisID='Rev.21.9'>Ug miabut ang usa sa pito ka mga manolonda, nga may pito ka mga panaksan, nga puno sa pito ka mga katapusang hampak, ug nakigsulti kanako, nga nagaingon: umari ka diri, igapakita ko kanimo ang pangasaw-onon, ang asawa sa Cordero.</verse>
+        <verse osisID='Rev.21.10'>Ug sa Espiritu gidala niya ako ngadto sa usa ka daku ug hataas nga bukid, ug iyang gipakita kanako ang balaan nga ciudad nga Jerusalem, nga nanaug sa langit gikan sa Dios,</verse>
+        <verse osisID='Rev.21.11'>Nga may himaya sa Dios: ang iyang kahayag sama sa usa ka hamili gayud nga bato, ingon sa bato nga jaspe, nga matin-aw ingon sa salamin:</verse>
+        <verse osisID='Rev.21.12'>Nga may usa ka kuta nga daku ug hataas, ug may napulo ug duha ka mga ganghaan, ug haduol sa mga ganghaan napulo ug duha ka mga manolonda, ug mga ngalan nahasulat niini, nga mao ang mga ngalan sa napulo ug duha ka banay sa mga anak sa Israel:</verse>
+        <verse osisID='Rev.21.13'>Sa Timogan may totolo ka mga ganghaan ug sa Amihanan may totolo ka mga ganghaan, ug sa Habagatan may totolo ka mga ganghaan, sa Kanawayan may totolo ka mga ganghaan.</verse>
+        <verse osisID='Rev.21.14'>Ug ang kuta sa ciudad may napulo ug duha ka mga patukoranan, ug sa ibabaw nila ang napulo ug duha ka mga ngalan sa napulo ug duha ka mga apostoles sa Cordero.</verse>
+        <verse osisID='Rev.21.15'>Ug siya nga nakigsulti kanako, may usa ka metrosan nga bagakay nga bulawan, aron sa pagsukod sa ciudad, ug sa mga ganghaan niini, ug sa iyang kuta.</verse>
+        <verse osisID='Rev.21.16'>Ug ang ciudad maglaro, ug ang kataas niini mao usab sa iyang kalapad. Ug gisukod niya sa bagakay ang ciudad, nga may duha ka libo ug upat ka gatus ka mga kilometro: ang iyang kataas, ug ang iyang kahabug, ug ang iyang kalapad nagakasama.</verse>
+        <verse osisID='Rev.21.17'>Ug gisukod niya ang kuta niini, ug may usa usa ka gatus kap-atan ug upat ka siko, sumala sa sukod nga sa tawo, nga mao ang sa manolonda.</verse>
+        <verse osisID='Rev.21.18'>Ug ang tinukod nga kuta, bato nga jaspe; ug ang ciudad lunsay nga bulawan sama sa salamin nga ulay.</verse>
+        <verse osisID='Rev.21.19'>Ug ang mga patukoranan sa kuta sa ciudad dinayan-dayanan sa tanang bato nga hamili. Ang nahauna nga patukoronan, bato nga jaspe; ang ikaduha, zafiro; ang ikatolo, calcedonia; ang ikaupat, esmeralda;</verse>
+        <verse osisID='Rev.21.20'>Ang ikalima, sardonica; ang ika-unom, sardio; ang ikapito, crisolito; ang ikawalo, berilo; ang ikasiyam, topacio; ang ikanapulo, crissopraso; ang ikanapulo ug usa, jacinto; ang ikanapulo ug duha, amatista.</verse>
+        <verse osisID='Rev.21.21'>Ug ang napulo ug duha ka mga ganghaan, napulo ug duha ka mga mutya; ang tagsatagsa sa mga ganghaan usa ka mutya. Ug ang dalan sa ciudad lunsay nga bulawan, ingon sa salamin nga masihag.</verse>
+        <verse osisID='Rev.21.22'>Ug wala akoy nakita nga templo didto kay ang Ginoong Dios, ang Makagagahum, ug ang Cordero mao ang iyang templo niini.</verse>
+        <verse osisID='Rev.21.23'>Ug ang ciudad walay kinahanglan nga pagapahayagan sa adlaw ug sa bulan; kay ginaiwagan siya sa himaya sa Dios, ug ang Cordero, mao ang iyang suga.</verse>
+        <verse osisID='Rev.21.24'>Kay ang mga kanasuran manag-panlakaw sa taliwala sa kahayag niini; ug ang mga hari sa yuta magadala ngadto sa sulod niini sa ilang himaya.</verse>
+        <verse osisID='Rev.21.25'>Ug ang iyang mga ganghaan dili pagasirhan gayud maadlaw (kay didto walay gabii).</verse>
+        <verse osisID='Rev.21.26'>Ug pagadad-an siya sa himaya ug dungog sa kanasuran.</verse>
+        <verse osisID='Rev.21.27'>Ug walay makasulod kaniya bisan kinsa nga mahugaw, ni ang nagabuhat sa kalaw-ayan ug bakak: kondili ang mga nahasulat lamang sa basahon sa kinabuhi sa Cordero.</verse>
+      </chapter>
+      <chapter osisID='Rev.22'>
+        <verse osisID='Rev.22.1'>Ug iyang gipakita kanako ang usa ka suba sa tubig sa kinabuhi, matin-aw ingon sa salamin, nga nagagikan sa trono sa Dios ug sa Cordero,</verse>
+        <verse osisID='Rev.22.2'>Sa tiwala sa dalan niini. Ug sa suba, sa usa ug usa ka luyo, diha ang kahoy sa kinabuhi, nga nagadala sa napulo ug duha ka mga bunga, nga nagabunga sa tagsa ka bulan; ug ang mga dahon sa kahoy alang man sa pag-ayo sa mga nasud.</verse>
+        <verse osisID='Rev.22.3'>Ug sa umalabut wala na gayud ing pagtunglo; ug ang trono sa Dios, ug sa Cordero, anaa niini: ug pagaalagaron siya sa iyang mga ulipon.</verse>
+        <verse osisID='Rev.22.4'>Ug nakita ko ang iyang nawong ug ang iyang ngalan sa ilang mga agtang.</verse>
+        <verse osisID='Rev.22.5'>Ug wala nay kagabhion didto ug wala sila ing kinahanglan sa suga sa lamparahan bisan kahayag sa adlaw; kay pagahayagan sila sa Ginoong Dios, ug managhari sila sa mga katuigan nga walay katapusan.</verse>
+        <verse osisID='Rev.22.6'>Ug siya nag-ingon kanako: Kining mga pulonga mga matinumanon ug mga matuod; ug ang Ginoo, ang Dios sa mga espiritu sa mga manalagna, nagsugo sa iyang manolonda aron sa pagpadayag sa iyang mga ulipon sa mga butang, nga kinahanglan mahatabo sa madali.</verse>
+        <verse osisID='Rev.22.7'>Ug ania karon, moanhi ako sa madali. Bulahan ang nagabantay sa mga pulong sa tagna niining basahona.</verse>
+        <verse osisID='Rev.22.8'>Ug ako nga si Juan, mao ang nakadungog ug nakakita niining mga butanga. Ug sa pagkadungog ko ug pagkakita, miyaub ako sa pagsimba sa atubangan sa mga tiil sa manolonda nga nagpakita kanako niining mga butanga.</verse>
+        <verse osisID='Rev.22.9'>Ug siya miingon kanako: Magmatngon ka nga dili magbuhat niana; ako masigkaulipon mo, ug sa imong mga igsoon nga mga manalagna, ug sa mga nagabantay sa pulong niining basahona; magsimba ka sa Dios.</verse>
+        <verse osisID='Rev.22.10'>Ug siya nag-ingon kanako: Dili mo pagpatikan ang mga pulong nga tagna niining basahona kay ang panahon haduol na.</verse>
+        <verse osisID='Rev.22.11'>Ang dili matarung, mag-dili-matarung gihapon siya; ug ang mahugaw, magmahugaw gihapon siya; ug ang matarung, magmatarung gihapon siya; ug ang balaan, magbalaan gihapon siya.</verse>
+        <verse osisID='Rev.22.12'>Ania karon, moanhi ako sa madali, ug ang akong balus uban kanako sa paghatag sa tagsatagsa sumala sa iyang buhat.</verse>
+        <verse osisID='Rev.22.13'>Ako mao ang Alpa ug ang Omega; ang nahauna ug ang naulahi; ang sinugdan ug ang katapusan.</verse>
+        <verse osisID='Rev.22.14'>Bulahan ang mga nagalaba sa ilang mga bisti nga hatag-as, aron may katungod sila sa pagduol sa kahoy sa kinabuhi, ug sa pagsulod sa mga ganghaan sa ciudad.</verse>
+        <verse osisID='Rev.22.15'>Kay sa gawas mao ang mga iro, ug ang mga lumayan, ug ang mga makighilawason, ug ang mga mamumuno, ug ang mga nagasimba sa mga dios-dios, ug ang tanan nga nahagugma ug nagabuhat sa bakak.</verse>
+        <verse osisID='Rev.22.16'>Ako, si Jesus, nagsugo sa akong manolonda aron sa pagpamatuod kaninyo niining mga butanga alang sa mga iglesia. Ako mao ang gamut, ug kaliwat ni David, nga masiga nga bitoon sa kaadlawon.</verse>
+        <verse osisID='Rev.22.17'>Ug ang Espiritu, ug ang pangasaw-onon nagaingon: Umari ka. Ug ang nakadungog, paingna siya: Umari ka. Ug ang giuhaw, paanhia siya. Ang mobuot, paimna siya sa tubig sa kinabuhi nga sa-walay-bayad.</verse>
+        <verse osisID='Rev.22.18'>Ako nagapamatuod sa tanan nga managpatalinghug sa mga pulong nga tagna niining basahona: kong kinsa ang magadugang niining mga butanga, pagadugangan sa Dios ang mga hampak kaniya, nga nahasulat na niining basahona.</verse>
+        <verse osisID='Rev.22.19'>Ug kong kinsa ang magakuha sa mga pulong sa basahon niining tagna, pagakuhaon sa Dios ang iyang bahin sa kahoy sa kinabuhi, ug sa balaan nga ciudad, ug sa mga butang nga nahasulat dinhi mining basahona.</verse>
+        <verse osisID='Rev.22.20'>Ang nagapamatuod niining mga butanga, nagaingon: Oo, moanhi ako sa madali. Amen. Umari ka, Ginoong Jesus.</verse>
+        <verse osisID='Rev.22.21'>Ang gracia sa atong Ginoong Jesucristo magauban sa tanan nga mga balaan. Amen.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

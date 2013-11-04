@@ -1,0 +1,984 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <osisText osisRefWork='Bible' osisIDWork='TAF' xml:lang='de'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='TAF'>
+        <title>Tafelbibel</title>
+        <contributor>Martin</contributor>
+        <creator>Jens Grabner</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject>holy bible</subject>
+        <date>2009-01-20</date>
+        <description>Die Bibel - Übersetzung von Johann Friedrich Leonhard Tafel
+
+      Die vorliegende Neuausgabe ist eine Abschrift der Übersetzung von Dr. Leonhard
+      Tafel, revidiert von Ludwig H. Tafel, dritte Ausgabe 1911, und wurde auf ihre
+      Vollständigkeit überprüft. Es wurde die Rechtschreibregel der heutigen Zeit (noch
+      vor der Rechtschreibreform 1998) angewendet, ohne den Stil der Sprache zu verändern.
+
+      Wer in dieser Bibel einige Bücher vermisst, sei auf das Vorwort der Source verwiesen.
+      Auf der zweiten Seite steht dort:
+      Der zweite Band enthält die übrigen, sogenannten
+      Hagiographen oder heiligen Bücher: die Bücher Hiob, Sprichwörter, Hohelied, Prediger, Ruth, Chronika, Esra,
+      Nehemia, Esther und die Apokryphen.²
+      2. Gegenwärtige, Revision des Zefania XML Moduls  enthält die Hagiographen und Apokryphen nicht, da
+      sie nicht verfügbar waren.</description>
+        <publisher>FREE BIBLE SOFTWARE GROUP</publisher>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>TAF</identifier>
+        <source>http://www.ubf-dortmund.de/bibel/tafel.htm</source>
+        <language type='IETF'>de</language>
+        <relation/>
+        <coverage>provide the bible to the world</coverage>
+        <rights>Mit freundlicher Genehmigung des Swedenborg Verlag Postfach 1205 CH - 8032 Zürich</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='1Kgs'>
+      <chapter osisID='1Kgs.1'>
+        <title>Erstes Buch der Könige</title>
+        <title>Salomoh wird zum König gesalbt.</title>
+        <verse osisID='1Kgs.1.1'>Und der König David war alt, zu Tagen gekommen, und sie bedeckten ihn mit Kleidern, aber er wurde nicht warm.</verse>
+        <verse osisID='1Kgs.1.2'>Und seine Knechte sprachen zu ihm: Lasset sie suchen meinem Herrn, dem König, ein Mädchen, eine Jungfrau, daß sie vor dem König stehe und seine Pflegerin sei, und sie soll an deinem Busen liegen, auf daß mein Herr, der König, warm werde.</verse>
+        <verse osisID='1Kgs.1.3'>Und sie suchten ein schönes Mädchen in aller Grenze Israels und fanden Abischag, die Schunamitin, und brachten sie zum König herein.</verse>
+        <verse osisID='1Kgs.1.4'>Und das Mädchen war sehr schön, und sie ward Pflegerin des Königs und bediente ihn, aber der König erkannte sie nicht.</verse>
+        <verse osisID='1Kgs.1.5'>Und Adonjah, der Sohn der Chaggith, erhob sich und sprach: Ich will König werden; und schaffte<note>machte</note> sich Streitwagen und Reiter an, und fünfzig Männer liefen vor ihm her.</verse>
+        <verse osisID='1Kgs.1.6'>Sein Vater aber wollte ihm nicht wehe tun<note>Schmerzen machen</note> in seinen Tagen, indem er sagte: Warum tust du also?, und er war auch sehr gut von Gestalt, und er ward ihm nach Absalom geboren.</verse>
+        <verse osisID='1Kgs.1.7'>Und er hatte seine Worte mit Joab, dem Sohne Zerujahs, und mit Abjathar, dem Priester; und sie standen dem Adonjah bei<note>standen hinter Adonjah</note>.</verse>
+        <verse osisID='1Kgs.1.8'>Aber Zadok, der Priester, und Benajahu, Sohn Jehojadas, und Nathan, der Prophet, und Schimei und Rei und die Helden Davids, waren nicht mit Adonjahu.</verse>
+        <verse osisID='1Kgs.1.9'>Und Adonjahu opferte Kleinvieh und Rinder und Mastvieh beim Steine Socheleth neben der Quelle Rogel und rief alle seine Brüder, die Söhne des Königs, und alle Männer Judahs, die Knechte des Königs;</verse>
+        <verse osisID='1Kgs.1.10'>Aber Nathan, den Propheten, und Benajahu und die Helden und Salomoh, seinen Bruder, rief er nicht dazu.</verse>
+        <verse osisID='1Kgs.1.11'>Und Nathan sprach zu Bath-Scheba, der Mutter Salomohs, und sagte: Hast du nicht gehört, daß Adonjahu, der Sohn der Chaggith, König geworden ist, und unser Herr, David, es nicht weiß?</verse>
+        <verse osisID='1Kgs.1.12'>Und nun komm, ich rate dir doch einen Rat, wie du deine Seele und deines Sohnes Salomoh Seele retten magst<note>entrinnen läßt</note>.</verse>
+        <verse osisID='1Kgs.1.13'>Gehe hin und komme hinein zum König David und sprich zu ihm: Hast du nicht, mein Herr König, deiner Magd geschworen und gesagt: Salomoh, dein Sohn, soll König sein nach mir, und er soll auf meinem Throne sitzen, und warum ist Adonjahu König?</verse>
+        <verse osisID='1Kgs.1.14'>Siehe, während du allda noch mit dem König redest, will ich hinter dir hineinkommen und deine Worte ausfüllen.</verse>
+        <verse osisID='1Kgs.1.15'>Und Bath-Scheba ging hinein zum König in die Kammer, und der König war sehr alt, und Abischag, die Schunamitin, bediente den König.</verse>
+        <verse osisID='1Kgs.1.16'>Und Bath-Scheba verneigte sich und fiel vor dem Könige nieder, und der König sprach: Was ist dir?</verse>
+        <verse osisID='1Kgs.1.17'>Und sie sprach zu ihm: Mein Herr, du hast bei Jehovah, deinem Gotte, deiner Magd geschworen: Salomoh, dein Sohn, soll König sein nach mir, und er soll sitzen auf meinem Thron!</verse>
+        <verse osisID='1Kgs.1.18'>Nun aber, siehe, Adonjah ist König geworden, und nun, mein Herr, der König, du weißt es nicht.</verse>
+        <verse osisID='1Kgs.1.19'>Und er hat Ochsen und Mastvieh und Kleinvieh in Menge geopfert, und alle Söhne des Königs und Abjathar, den Priester, und Joab, den Obersten des Heeres, gerufen, aber Salomoh, deinen Knecht, hat er nicht gerufen.</verse>
+        <verse osisID='1Kgs.1.20'>Du aber, mein Herr König, auf dir sind die Augen von ganz Israel, auf daß du ihnen ansagst, wer auf dem Throne meines Herrn, des Königs, nach ihm sitzen soll.</verse>
+        <verse osisID='1Kgs.1.21'>Und es wird geschehen, wenn mein Herr, der König, sich zu seinen Vätern legt, so werden ich und mein Sohn Salomoh die Sünder sein.</verse>
+        <verse osisID='1Kgs.1.22'>Und siehe, sie redete noch mit dem König, und es kam Nathan, der Prophet, herein.</verse>
+        <verse osisID='1Kgs.1.23'>Und sie sagten dem König an und sprachen: Siehe, Nathan, der Prophet, ist da. Und er kam hinein vor den König und fiel nieder vor dem König auf sein Antlitz zur Erde.</verse>
+        <verse osisID='1Kgs.1.24'>Und Nathan sprach: Mein Herr König, hast du gesprochen: Adonjahu soll König sein nach mir, und er soll auf meinem Throne sitzen?</verse>
+        <verse osisID='1Kgs.1.25'>Denn er ist heute hinabgegangen und hat Ochsen und Mastvieh und Kleinvieh in Menge geopfert, und alle Söhne des Königs, und die Obersten des Heeres und Abjathar, den Priester, gerufen, und siehe, sie essen und trinken vor ihm und sagen: Es lebe König Adonjahu!</verse>
+        <verse osisID='1Kgs.1.26'>Aber mich, deinen Knecht, und Zadok, den Priester, und Benajahu, den Sohn Jehojadas, und Salomoh, deinen Knecht, hat er nicht gerufen.</verse>
+        <verse osisID='1Kgs.1.27'>Ist solches<note>dieses Wort</note> von meinem Herrn, dem Könige, aus geschehen und du hast es deinen Knecht nicht wissen lassen, wer auf dem Throne meines Herrn, des Königs, nach ihm sitzen soll?</verse>
+        <verse osisID='1Kgs.1.28'>Und der König David antwortete und sprach: Rufet mir Bath-Scheba. Und sie kam herein vor den König und stand vor des Königs Angesicht.</verse>
+        <verse osisID='1Kgs.1.29'>Und der König schwur und sprach: Beim Leben Jehovahs, Der meine Seele aus aller Drangsal eingelöst hat,</verse>
+        <verse osisID='1Kgs.1.30'>Wie ich dir bei Jehovah, dem Gott Israels, geschworen und gesagt: Salomoh, dein Sohn, soll nach mir König sein, und er soll auf meinem Throne sitzen an meiner Stelle: so will ich an diesem Tage tun!</verse>
+        <verse osisID='1Kgs.1.31'>Und Bath-Scheba verneigte sich mit dem Antlitz zur Erde und fiel nieder vor dem König und sprach: Es lebe mein Herr, der König David, in Ewigkeit.</verse>
+        <verse osisID='1Kgs.1.32'>Und der König David sprach: Rufet mir Zadok, den Priester, und Nathan, den Propheten und Benajahu, den Sohn Jehojadas, und sie kamen hinein vor den König.</verse>
+        <verse osisID='1Kgs.1.33'>Und der König sprach zu ihnen: Nehmt mit euch die Knechte eures Herrn, und lasset Salomoh, meinen Sohn, auf meinem Maultier reiten, und bringt ihn hinab nach Gichon.</verse>
+        <verse osisID='1Kgs.1.34'>Und allda salbe ihn Zadok, der Priester, und Nathan, der Prophet, zum König über Israel; und stoßet in die Posaune und sprechet: Es lebe der König Salomoh!</verse>
+        <verse osisID='1Kgs.1.35'>Und ziehet herauf hinter ihm, und er komme herein und sitze auf meinem Thron, und er soll König sein an meiner Stelle. Und ihn habe ich über Israel und über Judah zum Führer entboten.</verse>
+        <verse osisID='1Kgs.1.36'>Und Benajahu, der Sohn Jehojadas, antwortete dem Könige und sprach: Amen! Also spreche Jehovah, der Gott meines Herrn, des Königs!</verse>
+        <verse osisID='1Kgs.1.37'>Wie Jehovah war mit meinem Herrn, dem König, also möge Er sein mit Salomoh, und seinen Thron noch größer machen als den Thron meines Herrn, des Königs David.</verse>
+        <verse osisID='1Kgs.1.38'>Und Zadok, der Priester, und Nathan, der Prophet, und Benajahu, der Sohn Jehojadas, und die Krethi und Plethi zogen hinab, und sie ließen Salomoh auf dem Maultier des Königs David reiten und ließen ihn hinab nach Gichon ziehen.</verse>
+        <verse osisID='1Kgs.1.39'>Und Zadok, der Priester, nahm das Horn mit dem Öl aus dem Zelte und salbte Salomoh; und sie stießen in die Posaune, und alles Volk sprach: Es lebe der König Salomoh!</verse>
+        <verse osisID='1Kgs.1.40'>Und alles Volk zog nun hinauf, hinter ihm her, und alles Volk flötete mit Flöten und war froh mit großer Fröhlichkeit, so daß die Erde von ihrem Schalle<note>Stimme</note> erdröhnte<note>sich spaltete</note>.</verse>
+        <verse osisID='1Kgs.1.41'>Und Adonjahu und alle Geladenen, die bei ihm waren, hörten es, und sie hatten das Essen beendigt. Und Joab hörte den Schall<note>Stimme</note> der Posaune und sprach: Was soll der Schall<note>Stimme</note> der dröhnenden Stadt<note>Kirjah = Hauptstadt</note>?</verse>
+        <verse osisID='1Kgs.1.42'>Noch redete er, und siehe, da kam Jonathan, der Sohn Abjathars, des Priesters, und Adonjahu sprach: Komm herein, denn du bist ein tapferer Mann und bringst uns gute Kunde.</verse>
+        <verse osisID='1Kgs.1.43'>Und Jonathan antwortete und sprach zu Adonjahu: Ach! unser Herr, der König David, hat Salomoh zum König gemacht.</verse>
+        <verse osisID='1Kgs.1.44'>Und der König hat mit ihm Zadok, den Priester, und Nathan, den Propheten, und Benajahu, den Sohn Jehojadas, und die Krethi und Plethi gesandt, und sie ließen ihn reiten auf dem Maultier des Königs.</verse>
+        <verse osisID='1Kgs.1.45'>Und Zadok, der Priester, und Nathan, der Prophet, haben ihn am Gichon zum König gesalbt und sind von da fröhlich heraufgezogen, und die Stadt<note>Kirjah = Hauptstadt</note> dröhnte, das ist der Schall, den ihr gehört habt.</verse>
+        <verse osisID='1Kgs.1.46'>Und Salomoh sitzt auch auf dem Throne des Königreichs.</verse>
+        <verse osisID='1Kgs.1.47'>Und es sind auch die Knechte des Königs hineingegangen, unseren Herrn, den König David, zu segnen, indem sie sprachen: Dein Gott mache den Namen Salomohs besser als deinen Namen und lasse seinen Thron größer werden als deinen Thron. Und der König hat sich verbeugt auf dem Lager.</verse>
+        <verse osisID='1Kgs.1.48'>Und der König hat auch also gesprochen: Gesegnet sei Jehovah, der Gott Israels, Der mir heute einen gegeben hat, der auf meinem Throne sitzt, und meine Augen haben es gesehen.</verse>
+        <verse osisID='1Kgs.1.49'>Und es erzitterten alle Geladenen, die bei Adonjahu waren, und standen auf und gingen, jeder Mann seines Weges.</verse>
+        <verse osisID='1Kgs.1.50'>Und Adonjahu fürchtete sich vor Salomoh, und er machte sich auf, ging hin und erfaßte die Hörner des Altars.</verse>
+        <verse osisID='1Kgs.1.51'>Und es ward dem Salomoh angesagt und man sagte: Siehe, Adonjahu fürchtet sich vor dem König Salomoh, und siehe, er hat die Hörner des Altars ergriffen und spricht: Der König Salomoh schwöre mir diesen Tag, daß er seinen Knecht nicht mit dem Schwert töten will.</verse>
+        <verse osisID='1Kgs.1.52'>Und Salomoh sprach: Wenn er sich tapfer hält<note>ein Sohn der Tapferkeit ist</note>, so soll keines seiner Haare zur Erde fallen! Wird aber Böses an ihm erfunden, so soll er sterben.</verse>
+        <verse osisID='1Kgs.1.53'>Und der König Salomoh sandte hin und sie brachten ihn vom Altare herab, und er kam herein und fiel vor dem König Salomoh nieder, und Salomoh sprach zu ihm: Gehe nach deinem Hause!</verse>
+      </chapter>
+      <chapter osisID='1Kgs.2'>
+        <title>Davids Abschied. Adonjahu, Schimei und Joab hingerichtet. Adjathar verwiesen.</title>
+        <verse osisID='1Kgs.2.1'>Und es nahten Davids Tage, daß er sterben sollte, und er gebot Salomoh, seinem Sohne, und sprach:</verse>
+        <verse osisID='1Kgs.2.2'>Ich gehe hin den Weg aller Erde. Sei stark und sei ein Mann.</verse>
+        <verse osisID='1Kgs.2.3'>Und warte der Hut Jehovahs, deines Gottes, daß du in Seinen Wegen wandelst und hältst Seine Satzungen, Seine Gebote und Seine Rechte und Seine Zeugnisse, wie geschrieben ist im Gesetze Moses, auf daß du klug seiest in allem was du tust, und in allem wohin du dich wendest.</verse>
+        <verse osisID='1Kgs.2.4'>Und daß Jehovah bestätige Sein Wort, das Er über mich geredet hat und sprach: Wenn deine Söhne ihren Weg halten, daß sie in Wahrheit vor Mir wandeln von ganzem Herzen und von ganzer Seele, soll, sage Ich dir, nie ein Mann ausgerottet werden vom Throne Israel.</verse>
+        <verse osisID='1Kgs.2.5'>Und du weißt auch, was Joab, der Sohn Zerujahs, mir getan, was er getan hat den zwei Obersten des Heeres Israels, dem Abner, dem Sohne Ners, und dem Amasa, dem Sohne Jethers, und hat sie erwürgt; und er vergoß<note>setzte</note> Blut des Krieges im Frieden, und brachte<note>gab</note> Blut des Krieges an seinen Gürtel, der um seine Lenden war, und an seinen Schuh an seinen Füßen.</verse>
+        <verse osisID='1Kgs.2.6'>Aber tue nach deiner Weisheit, und laß sein Greisenhaar nicht im Frieden in die Gruft hinabgehen.</verse>
+        <verse osisID='1Kgs.2.7'>Aber den Söhnen Barsillais, des Gileaditers, sollst du Barmherzigkeit tun; und sie sollen unter denen sein, die an deinem Tische essen; denn so nahten sie mir, als ich vor Absalom, deinem Bruder, entwich.</verse>
+        <verse osisID='1Kgs.2.8'>Und siehe, bei dir ist Schimei, der Sohn Geras, der Benjaminiter aus Bachurim, der heillosen Fluch wider mich fluchte am Tage, da ich nach Machanajim zog; er kam aber herab, mir entgegen, an den Jordan, und ich schwur ihm bei Jehovah und sprach: Ich will dich nicht durch das Schwert töten.</verse>
+        <verse osisID='1Kgs.2.9'>Nun aber sollst du ihn nicht ungestraft lassen; denn du bist ein weiser Mann und weißt, was du ihm tun sollst, daß du sein Greisenhaar mit Blut in die Gruft hinabbringst.</verse>
+        <verse osisID='1Kgs.2.10'>Und David lag bei seinen Vätern und ward in der Stadt Davids begraben.</verse>
+        <verse osisID='1Kgs.2.11'>Und der Tage, die David König war über Israel, waren vierzig Jahre. In Chebron regierte er sieben Jahre, und in Jerusalem war er dreiunddreißig Jahre König.</verse>
+        <verse osisID='1Kgs.2.12'>Salomoh aber saß auf dem Throne Davids, seines Vaters, und sein Königtum ward sehr befestigt.</verse>
+        <verse osisID='1Kgs.2.13'>Und Adonjahu, der Sohn der Chaggith, kam zu Bath-Scheba, der Mutter Salomohs; und sie sprach: Kommst du im Frieden? Und er sprach: Im Frieden.</verse>
+        <verse osisID='1Kgs.2.14'>Und er sprach: Ich habe ein Wort an dich. Und sie sprach: Rede.</verse>
+        <verse osisID='1Kgs.2.15'>Und er sprach: Du weißt, daß mein das Königtum war, und daß ganz Israel sein Angesicht auf mich setzte, daß ich sollte König sein. Aber das Königtum hat sich nun umgewendet und ist meines Bruders geworden, weil es sein war von Jehovah.</verse>
+        <verse osisID='1Kgs.2.16'>Und nun habe ich eine Bitte von dir zu erbitten, weise mich nicht zurück. Und sie sprach zu ihm: Rede.</verse>
+        <verse osisID='1Kgs.2.17'>Und er sprach: Sprich doch mit Salomoh, dem König; denn dein Angesicht wird er nicht zurückweisen, daß er mir Abischag, die Schunamitin, zum Weibe gebe.</verse>
+        <verse osisID='1Kgs.2.18'>Und Bath-Scheba sprach: Gut! Ich will wegen deiner zum König reden.</verse>
+        <verse osisID='1Kgs.2.19'>Und Bath-Scheba kam hinein zum König Salomoh, um zu ihm über Adonjahu zu reden. Und der König stand auf, ihr entgegen, und verbeugte sich vor ihr, und setzte sich auf seinen Thron und ließ der Mutter des Königs einen Thron stellen, und sie setzte sich zu seiner Rechten.</verse>
+        <verse osisID='1Kgs.2.20'>Und sie sprach: Eine kleine Bitte habe ich von dir zu erbitten. Weise mein Angesicht nicht zurück. Und der König sprach zu ihr: Bitte, meine Mutter, ich werde dein Angesicht nicht zurückweisen.</verse>
+        <verse osisID='1Kgs.2.21'>Und sie sprach: Man gebe Abischag, die Schunamitin, dem Adonjahu, deinem Bruder, zum Weibe.</verse>
+        <verse osisID='1Kgs.2.22'>Und der König Salomoh antwortete und sprach zu seiner Mutter: Und warum bittest du um Abischag, die Schunamitin, für Adonjahu? Und bitte für ihn um das Königtum; denn er ist mein größerer Bruder; für ihn und für Abjathar, den Priester, und für Joab, den Sohn Zerujahs.</verse>
+        <verse osisID='1Kgs.2.23'>Und der König Salomoh schwur bei Jehovah und sprach: So tue mir Gott und so fahre Er fort. Um seine Seele hat Adonjahu dieses Wort geredet.</verse>
+        <verse osisID='1Kgs.2.24'>Und nun, beim Leben Jehovahs, Der mich hat befestigt und hat sitzen lassen auf dem Throne Davids, meines Vaters, und mir ein Haus gemacht, wie Er geredet hat. Fürwahr, an diesem Tage soll Adonjahu sterben!</verse>
+        <verse osisID='1Kgs.2.25'>Und der König Salomoh sandte durch die Hand Benajahus, des Sohnes Jehojadas, und er stieß ihn nieder<note>stieß auf ihn</note>, und er starb.</verse>
+        <verse osisID='1Kgs.2.26'>Und zu Abjathar, dem Priester, sprach der König: Gehe nach Anathot auf dein Feld; denn du bist ein Mann des Todes, aber an diesem Tage laß ich dich nicht töten, weil du die Lade des Herrn Jehovah vor David, meinem Vater, getragen, und weil du bedrückt warst in allem, worin mein Vater bedrückt war.</verse>
+        <verse osisID='1Kgs.2.27'>Und Salomoh verstieß den Abjathar vom Priesterdienst des Jehovah, auf daß erfüllt würde das Wort Jehovahs, das Er über Elis Haus in Schiloh geredet hatte.</verse>
+        <verse osisID='1Kgs.2.28'>Und das Gericht kam zu Joab - denn Joab hatte sich nach dem Adonjahu geneigt, wiewohl er sich nicht nach dem Absalom geneigt - und Joab floh zum Zelt Jehovahs und erfaßte die Hörner des Altars.</verse>
+        <verse osisID='1Kgs.2.29'>Und es ward dem Könige Salomoh angesagt: Joab ist zum Zelt Jehovahs geflohen, und siehe, er ist neben dem Altar. Und Salomoh sandte Benajahu, den Sohn Jehojadas, und sprach: Gehe, stoß ihn nieder<note>stoße auf ihn</note>.</verse>
+        <verse osisID='1Kgs.2.30'>Und Benajahu kam zum Zelt Jehovahs und sprach zu ihm: So spricht der König: Komm heraus! Er aber sprach: Nein, sondern hier will ich sterben. Und Benajahu brachte dem König das Wort zurück und sprach: So redete Joab und so antwortete er mir.</verse>
+        <verse osisID='1Kgs.2.31'>Und der König sprach zu ihm: Tue, wie er geredet hat, und stoß ihn nieder<note>stoße auf ihn</note> und begrabe ihn; auf daß du das schuldlose Blut, das Joab vergossen, von mir und von meines Vaters Haus wegnehmest.</verse>
+        <verse osisID='1Kgs.2.32'>Und Jehovah bringe sein Blut zurück auf sein Haupt; daß er zwei Männer niederstieß<note>stieß auf</note>, gerechter und besser denn er, und die er mit dem Schwerte erwürgt, ohne daß mein Vater David darum wußte: Abner, den Sohn Ners, den Obersten des Heeres Israels, und Amasa, den Sohn Jethers, den Obersten des Heeres Judahs.</verse>
+        <verse osisID='1Kgs.2.33'>Und ihr Blut komme auf das Haupt Joabs und auf das Haupt seines Samens ewiglich; aber für David und für seinen Samen und für sein Haus und für seinen Thron wird von Jehovah Friede sein in Ewigkeit.</verse>
+        <verse osisID='1Kgs.2.34'>Und Benajahu, der Sohn Jehojadas, ging hinauf und stieß ihn nieder<note>stieß auf ihn</note> und tötete ihn, und er ward in seinem Hause in der Wüste begraben.</verse>
+        <verse osisID='1Kgs.2.35'>Und der König setzte<note>gab</note> Benajahu, den Sohn Jehojadas, an seine Stelle über das Heer, und Zadok, den Priester, setzte<note>gab</note> der König an die Stelle Abjathars.</verse>
+        <verse osisID='1Kgs.2.36'>Und der König sandte hin und ließ Schimei rufen und sprach zu ihm: Baue dir ein Haus zu Jerusalem und wohne<note>sitze</note> daselbst, und gehe nicht von dannen hinaus, dahin, noch dorthin.</verse>
+        <verse osisID='1Kgs.2.37'>Denn es wird geschehen, daß, welchen Tages du hinausgehst und über den Bach Kidron setzest, sollst du wissen, daß du des Todes sterben mußt. Dein Blut sei auf deinem Haupt.</verse>
+        <verse osisID='1Kgs.2.38'>Und Schimei sprach zum König: Das Wort ist gut; wie mein Herr, der König, geredet hat, so wird dein Knecht tun. Und Schimei wohnte viele Tage zu Jerusalem.</verse>
+        <verse osisID='1Kgs.2.39'>Und es geschah am Ende von drei Jahren, daß zwei Knechte dem Schimei entwichen zu Achisch, dem Sohne Maachahs, dem Könige zu Gath, und sie sagten dem Schimei an und sprachen: Siehe, deine Knechte sind in Gath.</verse>
+        <verse osisID='1Kgs.2.40'>Und Schimei machte sich auf und sattelte seinen Esel und ging nach Gath zu Achisch, um seine Knechte zu suchen; und Schimei ging hin und brachte seine Knechte herein von Gath.</verse>
+        <verse osisID='1Kgs.2.41'>Und es ward dem Salomoh angesagt: Schimei sei von Jerusalem weggegangen nach Gath und von da zurückgekehrt.</verse>
+        <verse osisID='1Kgs.2.42'>Und der König sandte hin und ließ den Schimei rufen und sprach zu ihm: Habe ich dir nicht bei Jehovah geschworen, und dir bezeugt und gesagt: Welchen Tages du hinausziehst und dahin oder dorthin gehst, sollest du wissen, daß du des Todes sterben müssest, und du sprachst zu mir: Gut ist das Wort, das ich gehört habe.</verse>
+        <verse osisID='1Kgs.2.43'>Und warum hast du nicht den Schwur vor Jehovah gehalten und das Gebot, das ich dir geboten habe?</verse>
+        <verse osisID='1Kgs.2.44'>Und der König sprach zu Schimei: Du weißt all das Böse, das dein Herz weiß, das du David, meinem Vater, getan, und Jehovah hat dein Böses auf dein Haupt zurückgebracht.</verse>
+        <verse osisID='1Kgs.2.45'>Aber der König Salomoh ist gesegnet und der Thron Davids wird befestigt sein vor Jehovah in Ewigkeit.</verse>
+        <verse osisID='1Kgs.2.46'>Und der König befahl Benajahu, dem Sohne Jehojadas, und er ging hinaus und stieß ihn nieder<note>stieß auf ihn</note> und er starb. Und das Königtum ward befestigt in der Hand Salomohs.</verse>
+      </chapter>
+      <chapter osisID='1Kgs.3'>
+        <title>Salomoh heiratet Pharaos Tochter. - Sein Gebet und Urteil.</title>
+        <verse osisID='1Kgs.3.1'>Und Salomoh verschwägerte sich mit Pharao, dem König von Ägypten, und nahm die Tochter Pharaos und brachte sie in die Stadt Davids, bis er den Bau seines Hauses und des Hauses Jehovahs und der Mauer rings um Jerusalem vollendet hätte.</verse>
+        <verse osisID='1Kgs.3.2'>Das Volk opferte jedoch auf den Opferhöhen; denn noch war bis zu selbigen Tagen kein Haus für den Namen Jehovahs gebaut.</verse>
+        <verse osisID='1Kgs.3.3'>Und Salomoh liebte Jehovah, so, daß er nach den Satzungen seines Vaters David wandelte, nur daß er auf den Opferhöhen opferte und räucherte.</verse>
+        <verse osisID='1Kgs.3.4'>Und der König ging nach Gibeon, um allda zu opfern; denn dort war die große Opferhöhe. Tausend Brandopfer opferte Salomoh auf selbigem Altar.</verse>
+        <verse osisID='1Kgs.3.5'>In Gibeon erschien Jehovah dem Salomoh im Traume der Nacht; und Gott sprach: Bitte, was Ich dir geben soll.</verse>
+        <verse osisID='1Kgs.3.6'>Und Salomoh sprach: Du hast an Deinem Knechte David, meinem Vater, große Barmherzigkeit getan, wie er vor Dir wandelte in Wahrheit, Gerechtigkeit und Geradheit des Herzens mit Dir, und hast ihm diese große Barmherzigkeit gehalten und ihm einen Sohn gegeben, der auf seinem Throne säße, wie es an diesem Tage ist.</verse>
+        <verse osisID='1Kgs.3.7'>Und nun hast Du, o Jehovah, mein Gott, Deinen Knecht an Davids, meines Vaters Stelle zum König gemacht, und ich bin noch ein kleiner Junge, weiß weder Ausgang noch Eingang.</verse>
+        <verse osisID='1Kgs.3.8'>Und Dein Knecht ist inmitten Deines Volkes, das Du erwähltest, vieles Volkes, so, daß man es nicht berechnen noch zählen kann vor Menge.</verse>
+        <verse osisID='1Kgs.3.9'>So gib Deinem Knecht ein gehorsames Herz, zu richten Dein Volk, zu unterscheiden zwischen gut und böse; denn wer vermöchte sonst dies Dein gewichtiges<note>schwer</note> Volk zu richten.</verse>
+        <verse osisID='1Kgs.3.10'>Und das Wort war gut in den Augen des Herrn, daß Salomoh um solches<note>dieses Wort</note> bat.</verse>
+        <verse osisID='1Kgs.3.11'>Und Gott sprach zu ihm: Weil du um solches<note>dieses Wort</note> gebeten, und nicht gebeten hast für dich um viele Tage, und nicht gebeten für dich um Reichtum und nicht gebeten hast um die Seele deiner Feinde, sondern für dich gebeten hast um Einsicht, das Recht zu hören:</verse>
+        <verse osisID='1Kgs.3.12'>Siehe, so habe Ich getan nach deinem Worte. Siehe, Ich habe dir gegeben ein weises und einsichtsvolles Herz, daß gleich dir keiner vor dir war, noch nach dir aufstehen soll gleich dir.</verse>
+        <verse osisID='1Kgs.3.13'>Und auch um was du nicht gebeten hast, gebe Ich dir, beides, Reichtum und Herrlichkeit, so daß kein Mann unter den Königen gewesen ist, wie du alle deine Tage.</verse>
+        <verse osisID='1Kgs.3.14'>Und wenn du wandelst in Meinen Wegen, daß du hältst Meine Satzungen und Gebote, wie David, dein Vater, wandelte, so verlängere Ich deine Tage.</verse>
+        <verse osisID='1Kgs.3.15'>Und Salomoh erwachte und siehe, es war ein Traum; und er kam nach Jerusalem und stand vor der Lade des Bundes Jehovahs, und opferte Brandopfer und brachte Dankopfer dar, und machte ein Gastmahl für alle seine Knechte.</verse>
+        <verse osisID='1Kgs.3.16'>Da kamen zwei Weiber, Buhlerinnen, zum König hinein und standen vor ihm.</verse>
+        <verse osisID='1Kgs.3.17'>Und das eine Weib sprach: Bitte, mein Herr, ich und das Weib da, wohnen<note>sitzen</note> in einem Hause, und ich gebar bei ihr im Hause.</verse>
+        <verse osisID='1Kgs.3.18'>Und es geschah am dritten Tage nach meinem Gebären, daß auch dieses Weib gebar, und wir waren zusammen. Kein Fremder war bei uns im Hause, nur wir zwei waren im Hause.</verse>
+        <verse osisID='1Kgs.3.19'>Und der Sohn dieses Weibes starb in der Nacht, weil sie auf ihm gelegen hatte.</verse>
+        <verse osisID='1Kgs.3.20'>Und sie stand mitten in der Nacht auf und nahm meinen Sohn von meiner Seite<note>von neben mir</note>, da deine Magd schlief, und sie legte ihn an ihren Busen, und ihren Sohn, den toten, legte sie an meinen Busen.</verse>
+        <verse osisID='1Kgs.3.21'>Und ich stand am Morgen auf, um meinen Sohn zu säugen, und siehe, er war tot; da ich ihn aber am Morgen betrachtete, siehe aber, da war es nicht mein Sohn, den ich geboren hatte.</verse>
+        <verse osisID='1Kgs.3.22'>Und das andere Weib sprach: Nein, mein Sohn ist der lebende und dein Sohn der tote. Und diese sprach: Nein, sondern dein Sohn ist der tote, und mein Sohn ist der lebendige; und so redeten sie vor dem König.</verse>
+        <verse osisID='1Kgs.3.23'>Und der König sprach: Die hier spricht: Der lebendige da ist mein Sohn, und dein Sohn ist der tote, und die da sagt: Nein, sondern dein Sohn ist der tote, und mein Sohn der lebendige.</verse>
+        <verse osisID='1Kgs.3.24'>Und der König sprach: Holet mir ein Schwert. Und sie brachten das Schwert vor den König.</verse>
+        <verse osisID='1Kgs.3.25'>Und der König sprach: Hauet<note>schneidet</note> damit das lebendige Kind entzwei, und gebt die Hälfte der einen und die Hälfte der anderen.</verse>
+        <verse osisID='1Kgs.3.26'>Und das Weib, deren Sohn der lebendige war, sprach zu dem Könige; denn ihr Erbarmen ward erregt für ihren Sohn, und sie sprach: Bitte, mein Herr, gebt ihr das lebendige Kind und tötet<note>tötend tötet</note> es nicht. Jene aber sprach: Weder mein noch dein sei es, hauet<note>schneidet</note> es entzwei.</verse>
+        <verse osisID='1Kgs.3.27'>Und der König antwortete und sprach: Gebt ihr das lebendige Kind und tötet<note>tötend tötet</note> es nicht! Sie ist seine Mutter.</verse>
+        <verse osisID='1Kgs.3.28'>Und ganz Israel hörte das Gericht, das der König gerichtet hatte, und sie fürchteten sich vor dem Könige; denn sie sahen, daß die Weisheit Gottes in seinem Inneren war, Gericht zu tun.</verse>
+      </chapter>
+      <chapter osisID='1Kgs.4'>
+        <title>Salomohs Beamte, seine Weisheit und Herrlichkeit.</title>
+        <verse osisID='1Kgs.4.1'>Und König Salomoh war König über ganz Israel.</verse>
+        <verse osisID='1Kgs.4.2'>Und dies waren die Obersten, die er hatte: Asarjahu, Sohn Zadoks, war der Priester.</verse>
+        <verse osisID='1Kgs.4.3'>Elichoreph und Achijah, die Söhne Schischas waren Schreiber; Jehoschaphat, der Sohn Achiluds, war Kanzler.</verse>
+        <verse osisID='1Kgs.4.4'>Und Benajahu, Sohn Jehojadas, war über das Herr, und Zadok und Abjathar waren Priester.</verse>
+        <verse osisID='1Kgs.4.5'>Und Asarjahu, der Sohn Nathans, war über die Beamten, und Sabud, der Sohn Nathans, des Priesters, war Genosse des Königs.</verse>
+        <verse osisID='1Kgs.4.6'>Und Achischar war über das Haus, und Adoniram, der Sohn Abdas, über die Fron.</verse>
+        <verse osisID='1Kgs.4.7'>Und Salomoh hatte zwölf Beamte über ganz Israel, und diese versorgten den König und sein Haus. Einen Monat im Jahr war an dem einen die Versorgung.</verse>
+        <verse osisID='1Kgs.4.8'>Und dies waren ihre Namen: Der Sohn Churs auf dem Gebirge Ephraim;</verse>
+        <verse osisID='1Kgs.4.9'>Der Sohn Dekers in Makaz und in Schaalbim und in Beth-Schemesch und in Elon Beth-Chanan.</verse>
+        <verse osisID='1Kgs.4.10'>Und der Sohn Cheseds war in Arubboth und hatte Socho und das ganze Land Chepher.</verse>
+        <verse osisID='1Kgs.4.11'>Der Sohn Abinadabs war über den ganzen Höhenstrich Dor, und Taphat, die Tochter Salomohs, war ihm zum Weibe.</verse>
+        <verse osisID='1Kgs.4.12'>Baana, der Sohn Achiluds, hatte Thaanach und Megiddo und ganz Beth-Schean, das neben Zarethan unterhalb Jisreel ist, von Beth-Schean bis Abel-Mecholah bis jenseits von Jokmeam;</verse>
+        <verse osisID='1Kgs.4.13'>Der Sohn Gebers war in Ramoth Gilead. Dazu gehörten die Dörfer Jairs, des Sohnes von Menascheh in Gilead; sein war der Landstrich Argob in Baschan, sechzig große Städte mit Mauern und ehernen Riegeln.</verse>
+        <verse osisID='1Kgs.4.14'>Achinadab, der Sohn Iddos, in Machanajim;</verse>
+        <verse osisID='1Kgs.4.15'>Achimaaz in Naphthali; auch hatte er Basemath, die Tochter Salomohs, zum Weibe genommen;</verse>
+        <verse osisID='1Kgs.4.16'>Baana, der Sohn Chuschais, in Ascher und Bealoth;</verse>
+        <verse osisID='1Kgs.4.17'>Jehoschaphat, der Sohn Paruachs, in Issaschar;</verse>
+        <verse osisID='1Kgs.4.18'>Schimei, der Sohn Elas, in Benjamin;</verse>
+        <verse osisID='1Kgs.4.19'>Geber, der Sohn Uris, im Lande Gilead, dem Lande Sichons, des Königs der Amoriter und Ogs, des Königs von Baschan; und ein Statthalter war im Lande<note>d.i. in Judah</note>.</verse>
+        <verse osisID='1Kgs.4.20'>Judah und Israel waren viel wie der Sand am Meer an Menge und aßen und tranken und waren fröhlich.</verse>
+      </chapter>
+      <chapter osisID='1Kgs.5'>
+        <title>Ausdehnung und Macht des Königreichs.</title>
+        <verse osisID='1Kgs.5.1'>Und Salomoh war Herrscher über all die Königreiche vom Flusse<note>d.i. dem Euphrat</note> zum Land der Philister und bis an die Grenze Ägyptens. Sie brachten Geschenke<note>Speiseopfer</note> herbei und dienten Salomoh alle Tage seines Lebens.</verse>
+        <verse osisID='1Kgs.5.2'>Und das Brot Salomohs für einen Tag war dreißig Kor<note>d.h. Metzen</note> Semmelmehl und sechzig Kor Mehl.</verse>
+        <verse osisID='1Kgs.5.3'>Zehn gemästete Rinder und zwanzig Rinder der Weide und hundert vom Kleinvieh, ohne die Hirsche und Rehe und Damhirsche und fettgemachtes Geflügel.</verse>
+        <verse osisID='1Kgs.5.4'>Denn er beherrschte das ganze Gebiet des Flusses von Thiphsach und bis Gaza, über alle Könige diesseits des Flusses<note>d.i. dem Euphrat</note>, und hatte Frieden von allen seinen Knechten ringsumher.</verse>
+        <verse osisID='1Kgs.5.5'>Und Judah und Israel wohnten in Sicherheit, jeder Mann unter seinem Weinstock und unter seinem Feigenbaum, von Dan und bis Beer-Scheba alle Tage Salomohs.</verse>
+        <verse osisID='1Kgs.5.6'>Und Salomoh hatte vierzigtausend Stände für Pferde für seine Streitwagen und zwölftausend Reiter.</verse>
+        <verse osisID='1Kgs.5.7'>Und diese Beamten versorgten den König Salomoh und alle, die zum Tische des Königs Salomoh nahten, jeder Mann in seinem Monat, und ließen es an nichts<note>keinem Wort</note> fehlen.</verse>
+        <verse osisID='1Kgs.5.8'>Und die Gerste und das Stroh für die Pferde und die Renner brachten sie an den Ort, wo sie waren, jeder Mann nach seiner Anweisung<note>seinem Rechte</note>.</verse>
+        <verse osisID='1Kgs.5.9'>Und Gott gab dem Salomoh Weisheit und sehr viel Einsicht und ein weites Herz wie der Sand am Ufer<note>an der Lippe</note> des Meeres.</verse>
+        <verse osisID='1Kgs.5.10'>Und der Weisheit Salomohs war mehr als der Weisheit aller Söhne des Ostens und als aller Weisheit Ägyptens.</verse>
+        <verse osisID='1Kgs.5.11'>Und er war weiser als alle Menschen, als Ethan, der Esrachite, und als Heman und Chalkol und Darda, die Söhne Machols, und sein Name war unter allen Völkerschaften ringsumher.</verse>
+        <verse osisID='1Kgs.5.12'>Und er redete dreitausend Sprüche und seine Lieder waren tausendfünf.</verse>
+        <verse osisID='1Kgs.5.13'>Und er redete über die Bäume, von der Zeder auf dem Libanon und bis zum Ysop, der aus der Wand herauskommt, und er redete vom Vieh und vom Gevögel und vom Kriechtier und von den Fischen.</verse>
+        <verse osisID='1Kgs.5.14'>Und sie kamen von allen Völkern, zu hören die Weisheit Salomohs, von allen Königen der Erde, die von seiner Weisheit gehört.</verse>
+        <verse osisID='1Kgs.5.15'>Und Chiram, der König von Zor<note>d.i. Tyrus</note>, sandte seine Knechte an Salomoh, da er hörte, daß sie ihn an seines Vaters Stelle zum König gesalbt, weil Chiram alle seine Tage den David liebte.</verse>
+        <verse osisID='1Kgs.5.16'>Und Salomoh sandte zu Chiram und ließ ihm sagen:</verse>
+        <verse osisID='1Kgs.5.17'>Du weißt, daß David, mein Vater, nicht vermochte, dem Namen Jehovahs, seines Gottes, ein Haus zu bauen vor dem Streite, mit dem sie ihn umgaben, bis Jehovah sie unter die Sohlen seiner Füße gab.</verse>
+        <verse osisID='1Kgs.5.18'>Nun aber hat mir Jehovah, mein Gott, von denen ringsumher Ruhe geschafft: Kein Widersacher und kein böser Anstoß ist da.</verse>
+        <verse osisID='1Kgs.5.19'>Und siehe, ich spreche davon, dem Namen Jehovahs, meines Gottes, ein Haus zu bauen, wie Jehovah zu David, meinem Vater, geredet hat und gesagt: Dein Sohn, den Ich an deiner Stelle auf deinen Thron geben werde, der wird Meinem Namen das Haus bauen.</verse>
+        <verse osisID='1Kgs.5.20'>Und nun gebiete du, daß sie mir Zedern vom Libanon umhauen, und meine Knechte sollen mit deinen Knechten sein, und ich werde dir den Lohn für deine Knechte geben nach allem, das du sagen wirst; denn du weißt, daß unter uns kein Mann weiß Holz umzuhauen wie die Sidonier.</verse>
+        <verse osisID='1Kgs.5.21'>Und es geschah, da Chiram die Worte Salomohs hörte, ward er sehr fröhlich und sprach: Gesegnet sei Jehovah an diesem Tage, Der dem David einen weisen Sohn gegeben über dies viele Volk.</verse>
+        <verse osisID='1Kgs.5.22'>Und Chiram sandte an Salomoh und ließ sagen: Ich habe gehört, um was du zu mir gesandt hast, und ich werde alles tun wie du Lust hast, mit Zederbäumen und Tannenbäumen.</verse>
+        <verse osisID='1Kgs.5.23'>Meine Knechte sollen sie vom Libanon an das Meer herabbringen, und ich will sie in Flöße legen auf dem Meer bis zu dem Orte, über den du an mich senden wirst, und sie da auseinandernehmen, daß du sie tragen kannst; und du sollst tun, wie ich Lust habe, meinem Hause Brot zu geben.</verse>
+        <verse osisID='1Kgs.5.24'>Und Chiram gab dem Salomoh Zedernbäume und Tannenbäume, wie er Lust hatte.</verse>
+        <verse osisID='1Kgs.5.25'>Salomoh aber gab dem Chiram zwanzigtausend Kor Weizen zur Speise für sein Haus, und zwanzig Kor gestoßenes Öl. So gab Salomoh dem Chiram Jahr für Jahr.</verse>
+        <verse osisID='1Kgs.5.26'>Und Jehovah gab Salomoh Weisheit, wie Er zu ihm geredet hatte, und es war Friede zwischen Chiram und Salomoh, und die zwei schlossen einen Bund.</verse>
+        <verse osisID='1Kgs.5.27'>Und König Salomoh ließ eine Fron hinaufziehen aus ganz Israel, und die Fron war dreißigtausend Mann.</verse>
+        <verse osisID='1Kgs.5.28'>Und er sandte sie zum Libanon, zehntausend des Monats, die da abwechselten, einen Monat waren sie auf dem Libanon, zwei Monate in ihrem Hause. Und Adoniram war über die Frone.</verse>
+        <verse osisID='1Kgs.5.29'>Und Salomoh hatte siebzigtausend, die Bürden trugen, und achtzigtausend Hauer auf dem Gebirge.</verse>
+        <verse osisID='1Kgs.5.30'>Ohne die Obersten der Beamten Salomohs, die über das Werk waren, dreitausenddreihundert, die das Volk beherrschten, wel- ches das Werk tat.</verse>
+        <verse osisID='1Kgs.5.31'>Und der König gebot, daß sie große Steine, kostbare Steine ausbrächen<note>aufbrechen</note>, um das Haus zu gründen mit gehauenen Steinen.</verse>
+        <verse osisID='1Kgs.5.32'>Und die Bauleute Salomohs und die Bauleute Chirams und die Gibbiter behauten sie und bereiteten das Holz und die Steine, zu bauen das Haus.</verse>
+      </chapter>
+      <chapter osisID='1Kgs.6'>
+        <title>Tempelbau.</title>
+        <verse osisID='1Kgs.6.1'>Und es geschah im vierhundertachtzigsten Jahre<note>im 80 Jahre und im 400 Jahre</note> nach dem Auszug der Söhne Israels aus dem Lande Ägypten, im vierten Jahre der Regierung Salomohs über Israel, im Monat Siv, das ist der zweite Monat, daß Salomoh baute das Haus dem Jehovah.</verse>
+        <verse osisID='1Kgs.6.2'>Und das Haus, das König Salomoh dem Jehovah baute, war sechzig Ellen in seiner Länge und zwanzig Ellen in seiner Breite und dreißig Ellen in seiner Höhe.</verse>
+        <verse osisID='1Kgs.6.3'>Und die Halle vor dem Tempel des Hauses war zwanzig Ellen in seiner Länge vor der Breite des Hauses, zehn Ellen in seiner Breite auf der Vorderseite<note>dem Angesichte</note> des Hauses.</verse>
+        <verse osisID='1Kgs.6.4'>Und er machte Fenster an dem Hause, mit Querleisten verschlossen.</verse>
+        <verse osisID='1Kgs.6.5'>Und er baute an der Wand des Hauses ringsumher Stockwerke, daß sie beides, an den Wänden des Hauses ringsumher um den Tempel und den Sprechort<note>d.i. Allerheiligste</note> liefen, und machte Seitengemächer<note>Rippen</note> ringsum.</verse>
+        <verse osisID='1Kgs.6.6'>Das untere Stockwerk hatte fünf Ellen in seiner Breite und das mittlere sechs Ellen in seiner Breite und das dritte sieben Ellen in seiner Breite; denn er machte<note>gab</note> Absätze außen am Hause ringsumher, auf daß sie nicht in die Wand des Hauses griffen.</verse>
+        <verse osisID='1Kgs.6.7'>Und da das Haus gebaut wurde, ward es aus ganzen<note>d.i. unbehauenen</note> Steinen, wie sie herbeigeführt wurden, gebaut, und es wurden weder Hämmer noch Axt, irgendwelche eiserne Geräte im Hause während des Bauens gehört.</verse>
+        <verse osisID='1Kgs.6.8'>Der Eingang des mittleren Seitengemaches war auf der rechten Seite<note>Schulter</note> des Hauses, und auf Wendeltreppen stiegen sie zu dem mittleren und aus dem mittleren zum dritten.</verse>
+        <verse osisID='1Kgs.6.9'>Und er baute das Haus und vollendete es, und überdeckte das Haus mit Brettern und Balkenreihen aus Zedern.</verse>
+        <verse osisID='1Kgs.6.10'>Und er baute das Stockwerk an das ganze Haus, fünf Ellen in seiner Höhe, und es faßte<note>ergriff</note> das Haus mit Zederhölzern.</verse>
+        <verse osisID='1Kgs.6.11'>Und es geschah das Wort Jehovahs zu Salomoh und sprach:</verse>
+        <verse osisID='1Kgs.6.12'>Dies ist das Haus, das du bauest: Wenn du wandelst in Meinen Satzungen und nach Meinen Rechten tust, und hältst alle Meine Gebote, daß du danach wandelst, dann werde Ich Mein Wort mit dir bestätigen, das Ich zu David, deinem Vater, geredet habe.</verse>
+        <verse osisID='1Kgs.6.13'>Und Ich werde wohnen inmitten der Söhne Israels, und Mein Volk Israel nicht verlassen.</verse>
+        <verse osisID='1Kgs.6.14'>Und Salomoh baute das Haus und vollendete es.</verse>
+        <verse osisID='1Kgs.6.15'>Und er baute die Wände des Hauses inwendig mit Planken<note>Rippen</note> von Zedern; von der Flur des Hauses an bis zu den Wänden der Decke überzog er es von innen mit Holz, und überzog auch den Fußboden des Hauses mit Planken von Tannenholz.</verse>
+        <verse osisID='1Kgs.6.16'>Und er baute zwanzig Ellen im Hinterteil<note>an den Hüften</note> des Hauses mit Planken<note>Rippen</note> von Zedern, von der Flur bis zu den Wänden, und baute daselbst inwendig den Sprechort, zum Allerheiligsten<note>Heiligen des Heiligen</note>.</verse>
+        <verse osisID='1Kgs.6.17'>Und vierzig Ellen war das Haus, das ist der Tempel, nach vorne.</verse>
+        <verse osisID='1Kgs.6.18'>Und die Zedern am Hause waren inwendig eingeschnitten mit Koloquinten und aufbrechenden Blumen; alles war aus Zedern, kein Stein war zu sehen.</verse>
+        <verse osisID='1Kgs.6.19'>Aber den Sprechort inmitten des Hauses bereitete er innen, daß man dort die Lade des Bundes Jehovahs stelle<note>gebe</note>.</verse>
+        <verse osisID='1Kgs.6.20'>Und vor dem Sprechort, der zwanzig Ellen Länge und zwanzig Ellen Breite und zwanzig Ellen in seiner Höhe hatte, überzog er dasselbe mit gediegenem Golde, und den Altar überzog er mit Zedern.</verse>
+        <verse osisID='1Kgs.6.21'>Und Salomoh überzog das Haus inwendig mit gediegenem Gold, und zog vor dem Sprechort goldene Ketten und überzog dasselbe mit Gold.</verse>
+        <verse osisID='1Kgs.6.22'>Und das ganze Haus überzog er mit Gold, das ganze Haus ganz und gar, auch den ganzen Altar bei dem Sprechort überzog er mit Gold.</verse>
+        <verse osisID='1Kgs.6.23'>Und für den Sprechort machte er zwei Cherube von Ölbaumholz, zehn Ellen in der Höhe.</verse>
+        <verse osisID='1Kgs.6.24'>Und fünf Ellen hatte der Flügel des einen Cherubs und fünf Ellen der Flügel des zweiten Cherubs; es waren zehn Ellen vom Ende seiner Flügel bis zum anderen Ende seiner Flügel.</verse>
+        <verse osisID='1Kgs.6.25'>Und zehn Ellen war der zweite Cherub; ein Maß und einerlei Form<note>Schnitt</note> hatten die zwei Cherube;</verse>
+        <verse osisID='1Kgs.6.26'>Eine Höhe von zehn Ellen hatte der eine Cherub, und so auch der zweite Cherub.</verse>
+        <verse osisID='1Kgs.6.27'>Und die Cherube gab er mitten inwendig in das Haus, und die Flügel der Cherube breiteten sich aus, und der Flügel des einen berührte die eine Wand und der Flügel des zweiten Cherubs berührte die andere Wand, und ihre Flügel nach der Mitte des Hauses berührten sich, Flügel an Flügel.</verse>
+        <verse osisID='1Kgs.6.28'>Und die Cherube überzog er mit Gold.</verse>
+        <verse osisID='1Kgs.6.29'>Und an allen Wänden des Hauses ringsum schnitt er eingeschnittenes Schnitzwerk ein von Cheruben und Palmen und aufbrechenden Blumen, innerhalb und außerhalb;</verse>
+        <verse osisID='1Kgs.6.30'>Und die Flur des Hauses überzog er mit Gold, innerhalb und außerhalb;</verse>
+        <verse osisID='1Kgs.6.31'>Und den Eingang zum Sprechort machte er mit Flügeltüren von Ölbaumholz, den Vorsprung an den Pfosten machte er ein Fünftel<note>d.i. ein Fünftel der Mauerdicke</note>.</verse>
+        <verse osisID='1Kgs.6.32'>Und die zwei Flügeltüren von Ölbaumholz, und in sie schnitt er ein Schnitzwerk von Cheruben, Palmen und aufbrechenden Blumen, und überzog sie mit Gold, und schlug<note>brachte herab</note> Gold auf die Cherube und die Palmen.</verse>
+        <verse osisID='1Kgs.6.33'>Und so machte er als Eingang zum Tempel Pfosten von Ölbaumholz aus dem Vierteile.</verse>
+        <verse osisID='1Kgs.6.34'>Und zwei Flügeltüren von Tannenholz. Zwei umschlagende Blätter<note>Rippen</note> an dem einen Türflügel, und zwei umschlagende Blätter<note>Rippen</note> an dem zweiten.</verse>
+        <verse osisID='1Kgs.6.35'>Und er schnitt Cherube, Palmen und aufbrechende Blumen ein, und überzog sie mit Gold, geschlichtet auf das Eingegrabene.</verse>
+        <verse osisID='1Kgs.6.36'>Und er baute den inneren Vorhof aus drei Reihen behauener Steine und einer Reihe Zedernbalken.</verse>
+        <verse osisID='1Kgs.6.37'>Im vierten Jahre im Monde Siv ward das Haus Jehovahs gegründet.</verse>
+        <verse osisID='1Kgs.6.38'>Und im elften Jahre im Monde Bul, das ist der achte Monat, war das Haus vollendet in all seinen Dingen<note>Worten</note> und nach allen seinen Rechten. Und er baute es in sieben Jahren.</verse>
+      </chapter>
+      <chapter osisID='1Kgs.7'>
+        <title>Bauten für den König und sein Haus.</title>
+        <verse osisID='1Kgs.7.1'>Und an seinem Hause baute Salomoh dreizehn Jahre, und vollendete sein ganzes Haus.</verse>
+        <verse osisID='1Kgs.7.2'>Und er baute das Haus vom Walde Libanon, hundert Ellen seine Länge und fünfzig Ellen seine Breite und dreißig Ellen seine Höhe, auf vier Reihen Säulen aus Zedern und mit Zedernbalken über den Säulen.</verse>
+        <verse osisID='1Kgs.7.3'>Und überdeckt war es oben mit Zedern über den Planken<note>Rippen</note>, die auf fünfundvierzig Säulen lagen, fünfzehn für die Reihe.</verse>
+        <verse osisID='1Kgs.7.4'>Und von den Galerien<note>Ausblicken</note> waren es drei Reihen, und Durchsicht gegen Durchsicht dreimal.</verse>
+        <verse osisID='1Kgs.7.5'>Und alle Eingänge und Pfosten waren viereckig mit Aussicht, und Durchsicht gegen Durchsicht einander gegenüber zu dreien Malen.</verse>
+        <verse osisID='1Kgs.7.6'>Und die Halle der Säulen machte er fünfzig Ellen ihre Länge und dreißig Ellen ihre Breite, und die Halle war vor ihnen, und die Säulen nebst dem Auftritt waren vor ihnen.</verse>
+        <verse osisID='1Kgs.7.7'>Und er machte die Halle des Thrones, wo er richtete, die Gerichtshalle und täfelte sie mit Zedern, von der Flur bis zu Decke<note>bis zur Flur</note>.</verse>
+        <verse osisID='1Kgs.7.8'>Und sein Haus, worin er wohnte, im anderen Hofe, innerhalb der Halle, war wie dieses gemacht; und er machte ein Haus für die Tochter Pharaos, die Salomoh genommen, wie diese Halle.</verse>
+        <verse osisID='1Kgs.7.9'>Alle diese waren von kostbaren Steinen, nach dem Maß behauen, mit der Säge gesägt, von innen und von außen, und vom Grunde bis zu den Dacheinfassungen und von außen bis an den großen Hof.</verse>
+        <verse osisID='1Kgs.7.10'>Und gegründet waren sie auf kostbare Steine, große Steine, Steine von zehn Ellen und Steine von acht Ellen;</verse>
+        <verse osisID='1Kgs.7.11'>Und darüber kostbare Steine, nach dem Maß gehauen, und Zedern.</verse>
+        <verse osisID='1Kgs.7.12'>Und der große Hof ringsum hatte drei Reihen von behauenen Steinen und eine Reihe Balken von Zedern; und für den inneren Hof vom Hause des Jehovah, und für die Halle des Hauses.</verse>
+        <verse osisID='1Kgs.7.13'>Und der König Salomoh sandte und holte den Chiram aus Zor<note>d.i. Tyrus</note>.</verse>
+        <verse osisID='1Kgs.7.14'>Er war der Sohn eines Weibes, einer Witwe aus dem Stamme<note>Rute</note> Naphthali, und sein Vater war ein Mann von Tyrus, ein Künstler in Kupfer, und voller Weisheit und Einsicht und Kenntnis, allerlei Werk in Kupfer zu machen; und er kam zum König Salomoh und machte all sein Werk.</verse>
+        <verse osisID='1Kgs.7.15'>Und er bildete zwei eherne Säulen. Achtzehn Ellen hoch war die eine Säule, und ein Faden von zwölf Ellen umgab die zweite Säule.</verse>
+        <verse osisID='1Kgs.7.16'>Und zwei Knäufe machte er, aus Erz gegossen, um sie auf das Haupt der Säulen zu setzen<note>zu geben</note>, fünf Ellen Höhe hatte der eine Knauf und fünf Ellen Höhe der zweite Knauf.</verse>
+        <verse osisID='1Kgs.7.17'>Und es waren Geflechte, ein Flechtwerk, ein Gewinde, ein Werk von Ketten, an dem Knauf, der auf dem Haupt der Säulen war; sieben für den einen Knauf und sieben für den zweiten Knauf.</verse>
+        <verse osisID='1Kgs.7.18'>Und er machte die Säulen und zwei Reihen Granatäpfel ringsumher auf das eine Geflecht, um den Knauf auf dem Haupte zu bedecken, und so machte er es mit dem zweiten Knauf.</verse>
+        <verse osisID='1Kgs.7.19'>Und die Knäufe auf dem Haupte der Säulen hatten ein Lilienwerk, in der Halle, von vier Ellen.</verse>
+        <verse osisID='1Kgs.7.20'>Und es waren Knäufe auf den zwei Säulen, auch oben am Bauche an der Seite<note>jenseits</note> des Flechtwerks, und der Granatäpfel waren zweihundert, in Reihen um den zweiten Knauf.</verse>
+        <verse osisID='1Kgs.7.21'>Und er richtete die Säulen auf an der Halle des Tempels, und er richtete die rechte Säule auf und nannte ihren Namen Jachin, und er richtete die linke Säule auf und nannte ihren Namen Boas.</verse>
+        <verse osisID='1Kgs.7.22'>Und über dem Haupte der Säulen war ein Lilienwerk; damit war das Werk der Säulen zu Ende.</verse>
+        <verse osisID='1Kgs.7.23'>Und er machte das Meer gegossen, zehn Ellen von Rand zu Rand<note>von seiner Lippe zu seiner Lippe</note>, rund ringsum, und fünf Ellen seine Höhe, und ein Faden von dreißig Ellen umgab es ringsum.</verse>
+        <verse osisID='1Kgs.7.24'>Und Koloquinten umgaben es unterhalb seines Randes<note>seiner Lippe</note> ringsum, zehn in der Elle, liefen sie um das Meer ringsum, zwei Reihen Koloquinten, in seinem Gusse gegossen.</verse>
+        <verse osisID='1Kgs.7.25'>Es stand auf zwölf Rindern, deren drei gewendet gegen Mitternacht und drei gewendet gegen das Meer und drei gewendet gegen Mittag und drei gewendet gegen Aufgang, und das Meer war auf ihnen, oben darauf, und alle ihre Hinterteile waren einwärts.</verse>
+        <verse osisID='1Kgs.7.26'>Und seine Dicke war handbreit, und sein Rand<note>Lippe</note> gemacht wie der Rand<note>Lippe</note> eines Bechers, wie eine Lilienblüte. Es faßte zweitausend Bath.</verse>
+        <verse osisID='1Kgs.7.27'>Und er machte die zehn ehernen Gestelle, vier Ellen war die Länge eines Gestells, und vier Ellen seine Breite und seine Höhe drei Ellen.</verse>
+        <verse osisID='1Kgs.7.28'>Und dies die Arbeit des Gestells: Es waren Seitentafeln<note>Umschließungen</note> daran, und die Seitentafeln<note>Umschließungen</note> waren zwischen den Eckleisten.</verse>
+        <verse osisID='1Kgs.7.29'>Und auf den Seitentafeln<note>Umschließungen</note> zwischen den Eckleisten waren Löwen, Rinder und Cherube, und auf den Eckleisten, ebenso oberhalb und unterhalb der Löwen und der Rinder, Kränze von herabhängender Arbeit.</verse>
+        <verse osisID='1Kgs.7.30'>Und vier eherne Räder waren an einem Gestell, und eherne Achsen, und an seinen vier Füßen waren Schultern. Unter den Becken waren die Schultern angegossen, einander gegenüber<note>dem Manne gegenüber</note>, mit Kränzen.</verse>
+        <verse osisID='1Kgs.7.31'>Und seine Mündung innerhalb des Knaufes und aufwärts war eine Elle, und seine Mündung rund, das Werk eines Gestells, eine Elle und eine halbe Elle, und auch an der Mündung war eingeschnittene Arbeit, und ihre Seitentafeln<note>Umschließungen</note> waren viereckig, nicht rund.</verse>
+        <verse osisID='1Kgs.7.32'>Und die vier Räder waren unterhalb der Seitentafeln<note>Umschließungen</note>, und die Halter<note>Hände</note> der Räder waren am Gestell, und die Höhe eines Rades war eine Elle und eine halbe Elle.</verse>
+        <verse osisID='1Kgs.7.33'>Und das Werk der Räder war wie das Werk der Räder am Streitwagen, ihre Halter<note>Hände</note> und ihre Felgen und ihre Speichen und ihre Naben waren alle gegossen.</verse>
+        <verse osisID='1Kgs.7.34'>Und die vier Schultern waren an den vier Ecken eines Gestells, aus dem Gestelle waren seine Schultern.</verse>
+        <verse osisID='1Kgs.7.35'>Und am Haupt des Gestells war es eine halbe Elle hoch, ringsum gerundet, und auf dem Haupte des Gestells waren dessen Handhaben und die Seitentafeln daraus.</verse>
+        <verse osisID='1Kgs.7.36'>Und er grub auf die Tafeln der Handhaben und auf deren Seitentafeln Cherube, Löwen und Palmen ein, gemäß jedem Zwischenraum<note>dem Zwischenraum eines Mannes</note>, und Kränze ringsum.</verse>
+        <verse osisID='1Kgs.7.37'>Also machte er die zehn Gestelle, ein Guß, ein Maß und eine Form für alle.</verse>
+        <verse osisID='1Kgs.7.38'>Und er machte zehn eherne Becken, und das eine Becken faßte vierzig Bath, vier Ellen war das eine Becken: ein Becken auf dem einen Gestell für die zehn Gestelle.</verse>
+        <verse osisID='1Kgs.7.39'>Und er gab fünf Gestelle auf die Vorderseite<note>Schulter</note> des Hauses zur Rechten und fünf auf die Vorderseite<note>Schulter</note> des Hauses zu seiner Linken, und das Meer gab er auf die rechte Vorderseite<note>Schulter</note> des Hauses, ostwärts, dem Mittag gegenüber.</verse>
+        <verse osisID='1Kgs.7.40'>Und Chiram machte die Becken und die Schaufeln und die Sprengbecken; und Chiram vollendete, das ganze Werk zu machen, das er für den König Salomoh am Hause Jehovahs machte.</verse>
+        <verse osisID='1Kgs.7.41'>Die zwei Säulen und die Kugeln der Knäufe auf dem Haupte der zwei Säulen und die zwei Geflechte, um die zwei Kugeln der Knäufe auf dem Haupte der Säulen zu bedekken;</verse>
+        <verse osisID='1Kgs.7.42'>Und die vierhundert Granatäpfel für die zwei Geflechte, zwei Reihen Granatäpfel für ein Geflecht, die beiden Kugeln der Knäufe zu bedecken, die vorn an den Säulen waren;</verse>
+        <verse osisID='1Kgs.7.43'>Und die zehn Gestelle und die zehn Becken auf den Gestellen;</verse>
+        <verse osisID='1Kgs.7.44'>Und das eine Meer und die zwölf Rinder unter dem Meere;</verse>
+        <verse osisID='1Kgs.7.45'>Und die Töpfe und die Schaufeln und die Sprengbecken und all diese Geräte, die Chiram für den König Salomoh am Hause Jehovahs gemacht, von blankem Erz.</verse>
+        <verse osisID='1Kgs.7.46'>In dem Umkreis des Jordan goß sie der König in dichtem Boden zwischen Sukkoth und Zarthan.</verse>
+        <verse osisID='1Kgs.7.47'>Und Salomoh legte alle die Geräte nieder. Vor der sehr großen Menge<note>sehr, sehr viele</note> wurde das Gewicht des Erzes nicht erforscht.</verse>
+        <verse osisID='1Kgs.7.48'>Und Salomoh machte alle Geräte im Hause Jehovahs, den goldenen Altar und den Tisch, auf dem die Schaubrote<note>die Brote der Angesichte</note> lagen, aus Gold.</verse>
+        <verse osisID='1Kgs.7.49'>Und die Leuchter, fünf zur Rechten und fünf zur Linken, vor dem Sprechort, aus gediegenem Gold, und das Blumenwerk und die Lampen und die Schneuzen von Gold.</verse>
+        <verse osisID='1Kgs.7.50'>Und die Schalen und die Messer und die Sprengbecken und die Platten und die Räuchpfannen aus gediegenem Gold. Auch die Angeln für die Türflügel des inneren Hauses, für das Allerheiligste<note>das Heilige des Heiligen</note>, für die Türflügel des Hauses des Tempels waren aus Gold.</verse>
+        <verse osisID='1Kgs.7.51'>Und es ward vollbracht alles Werk, das König Salomoh am Hause Jehovahs machte, und Salomoh brachte das von David, seinem Vater, Geheiligte, das Silber und das Gold und die Geräte hinein und gab es in die Schatzkammern des Hauses Jehovahs.</verse>
+      </chapter>
+      <chapter osisID='1Kgs.8'>
+        <title>Tempelweihe.</title>
+        <verse osisID='1Kgs.8.1'>Da versammelte Salomoh die Ältesten Israels und alle Häupter der Stämme<note>Stäbe</note>, die Fürsten der Väter bei den Söhnen Israels, zum Könige Salomoh nach Jerusalem, auf daß sie heraufbrächten die Lade des Bundes Jehovahs aus der Stadt Davids, das ist Zion.</verse>
+        <verse osisID='1Kgs.8.2'>Und es versammelten sich zum König Salomoh alle Männer Israels im Monde Ethanim<note>d.h. der Alten</note> am Feste, das ist der siebente Monat.</verse>
+        <verse osisID='1Kgs.8.3'>Und es kamen alle Ältesten Israels, und die Priester hoben auf die Lade,</verse>
+        <verse osisID='1Kgs.8.4'>Und brachten die Lade Jehovahs und das Versammlungszelt und alle Geräte der Heiligkeit, die im Zelte waren, herauf. Und die Priester und die Leviten brachten sie herauf.</verse>
+        <verse osisID='1Kgs.8.5'>Und der König Salomoh und die ganze Gemeinde Israel, die sich zu ihm eingestellt, opferten mit ihm vor der Lade Kleinvieh und Rinder, daß sie sich nicht zählen, noch berechnen ließen vor Menge.</verse>
+        <verse osisID='1Kgs.8.6'>Und die Priester brachten die Lade des Bundes Jehovahs herein an ihren Ort, zum Sprechort des Hauses, zum Allerheiligsten<note>das Heilige des Heiligen</note>, unter die Flügel der Cherube.</verse>
+        <verse osisID='1Kgs.8.7'>Denn die Cherube breiteten die Flügel über den Ort der Lade aus, und die Cherube bedeckten die<note>über die</note> Lade und ihre Stangen von oben her.</verse>
+        <verse osisID='1Kgs.8.8'>Und die Stangen waren so lang, daß die Spitzen<note>Häupter</note> der Stangen gesehen wurden vom Heiligtum aus vor dem Sprechorte; sie wurden aber nicht gesehen von außen, und sie sind allda bis auf diesen Tag.</verse>
+        <verse osisID='1Kgs.8.9'>In der Lade war nichts, als die zwei steinernen Tafeln, die Moses am Choreb da hineingelegt, wo Jehovah mit den Söhnen Israels abschloß<note>erg.: einen Bund</note> bei ihrem Auszug aus dem Lande Ägypten.</verse>
+        <verse osisID='1Kgs.8.10'>Und es geschah, da die Priester aus dem Heiligtum herauskamen, daß die Wolke das Haus des Jehovah erfüllte.</verse>
+        <verse osisID='1Kgs.8.11'>Und die Priester vermochten nicht, zu stehen ihren Dienst zu tun vor der Wolke; denn die Herrlichkeit Jehovahs hatte das Haus Jehovahs erfüllt.</verse>
+        <verse osisID='1Kgs.8.12'>Da sprach Salomoh: Jehovah hat gesprochen, daß Er im Wolkendunkel wohnen werde.</verse>
+        <verse osisID='1Kgs.8.13'>Ich habe ein Haus gebaut<note>bauend habe ich gebaut</note> zum Wohnort für Dich, eine Stätte, daß Du da wohnest<note>sitzest</note> ewiglich.</verse>
+        <verse osisID='1Kgs.8.14'>Und der König wandte sein Angesicht herum und segnete die ganze Versammlung Israel. Und die ganze Versammlung Israel stand.</verse>
+        <verse osisID='1Kgs.8.15'>Und er sprach: Gesegnet sei Jehovah, der Gott Israels, Der mit Seinem Munde geredet hat zu David, meinem Vater, und erfüllt mit Seiner Hand und gesprochen hat:</verse>
+        <verse osisID='1Kgs.8.16'>Von dem Tage an, da Ich Mein Volk Israel aus Ägypten herausgebracht, habe Ich keine Stadt erwählt aus allen Stämmen<note>Ruten</note> Israels, ein Haus zu bauen, daß Mein Name allda wäre. Ich erwählte aber David, daß er über Mein Volk Israel sein sollte.</verse>
+        <verse osisID='1Kgs.8.17'>Und es war im Herzen Davids, meines Vaters, dem Namen Jehovahs, des Gottes Israels, ein Haus zu bauen.</verse>
+        <verse osisID='1Kgs.8.18'>Aber Jehovah sprach zu David, meinem Vater: Weil es dir im Herzen war, Meinem Namen ein Haus zu bauen, hast du daran wohlgetan, daß es in deinem Herzen war.</verse>
+        <verse osisID='1Kgs.8.19'>Doch nicht du sollst das Haus bauen, sondern dein Sohn, der aus deinen Hüften kommt, der soll Meinem Namen das Haus bauen.</verse>
+        <verse osisID='1Kgs.8.20'>Und Jehovah hat Sein Wort bestätigt, das Er geredet: Und ich bin an Davids, meines Vaters, Stelle aufgestanden und sitze auf dem Throne Israels, so wie Jehovah geredet, und habe dem Namen Jehovahs, des Gottes Israels, das Haus gebaut,</verse>
+        <verse osisID='1Kgs.8.21'>Und habe allda den Ort gesetzt für die Lade, darin der Bund Jehovahs ist, den Er mit unseren Vätern schloß, da Er sie aus dem Lande Ägypten ausführte.</verse>
+        <verse osisID='1Kgs.8.22'>Und Salomoh stand vor dem Altar Jehovahs, gegenüber der ganzen Versammlung Israel, und breitete seine Hände<note>flachen Hände</note> gen Himmel aus,</verse>
+        <verse osisID='1Kgs.8.23'>Und sprach: Jehovah, Gott Israels, keiner ist wie Du, Gott, im Himmel oben und auf Erden unten, Der Du hältst den Bund und die Barmherzigkeit Deinen Knechten, die von ganzem Herzen vor Dir wandeln.</verse>
+        <verse osisID='1Kgs.8.24'>Der Du Deinem Knechte, dem David, meinem Vater, gehalten, was Du zu ihm geredet hast; und Du hast geredet mit Deinem Munde und mit Deiner Hand erfüllt, wie es an diesem Tage ist.</verse>
+        <verse osisID='1Kgs.8.25'>Und nun, Jehovah, Gott Israels, halte Deinem Knechte David, meinem Vater, was Du zu ihm geredet und gesprochen hast: Nicht soll von dir ausgerottet werden ein Mann vor Mir, der sitze auf dem Throne Israels, nur sollen deine Söhne ihren Weg halten, daß sie wandeln vor Mir, wie du vor Mir gewandelt bist.</verse>
+        <verse osisID='1Kgs.8.26'>Und nun, Gott Israels, lasse Deine Worte sich bewähren, die Du zu Deinem Knechte David, meinem Vater, geredet hast.</verse>
+        <verse osisID='1Kgs.8.27'>Sollte in Wahrheit Gott auf Erden wohnen<note>sitzen</note>? Siehe die Himmel und die Himmel der Himmel fassen Dich nicht; wie denn das Haus da, das ich gebaut habe?</verse>
+        <verse osisID='1Kgs.8.28'>Aber wende Dich zu dem Gebete Deines Knechtes und zu seinem Flehen, Jehovah, mein Gott, auf daß Du hörest auf die Lobpreisung und das Gebet, das Dein Knecht vor Dir betet diesen Tag.</verse>
+        <verse osisID='1Kgs.8.29'>Laß Deine Augen geöffnet sein über diesem Hause Nacht und Tag, über dem Ort, von dem Du gesprochen: Mein Name soll sein allda! Auf daß Du hörest auf das Gebet, das Dein Knecht an diesem Orte betet.</verse>
+        <verse osisID='1Kgs.8.30'>Und höre auf das Flehen Deines Knechtes und Deines Volkes Israel, das sie an diesem Orte beten werden; und wenn Du es hörst an dem Orte, da Du wohnst<note>sitzest</note> im Himmel, so höre und vergib.</verse>
+        <verse osisID='1Kgs.8.31'>So ein Mann sündigt wider seinen Genossen, und man ihm einen Eid auflegt, ihn zu beeidigen, und der Eid vor Deinem Altar in diesem Hause kommt;</verse>
+        <verse osisID='1Kgs.8.32'>So höre Du im Himmel und tue und richte Deine Knechte, auf daß die Ungerechtigkeit auf den Ungerechten komme<note>sei</note>, und Du seinen Wandel<note>Weg</note> bringest<note>gebest</note> auf sein Haupt, und Du den Gerechten rechtfertigest und ihm gebest nach seiner Gerechtigkeit.</verse>
+        <verse osisID='1Kgs.8.33'>Wenn Dein Volk Israel vor einem Feind geschlagen<note>gestoßen</note> wird, weil sie gegen Dich gesündigt haben, und sie zu Dir zurückkehren und Deinen Namen bekennen und beten und flehen zu Dir in diesem Haus;</verse>
+        <verse osisID='1Kgs.8.34'>So höre Du im Himmel und vergib die Sünde Deines Volkes Israel, und bringe sie zurück auf den Boden, den Du ihren Vätern gegeben hast.</verse>
+        <verse osisID='1Kgs.8.35'>Wenn sich die Himmel zurückhalten, und kein Regen ist, weil sie gegen Dich gesündigt haben, und sie beten an diesem Ort und bekennen Deinen Namen und kehren zurück von ihrer Sünde, weil Du sie gedemütigt hast;</verse>
+        <verse osisID='1Kgs.8.36'>So höre Du im Himmel und vergib die Sünde Deiner Knechte und Deines Volkes Israel, weil Du ihnen den guten Weg weisest, auf dem sie gehen sollen, und gib Regen auf Dein Land, das Du Deinem Volke zum Erbe gegeben hast.</verse>
+        <verse osisID='1Kgs.8.37'>So eine Hungersnot im Lande ist, eine Pest, wenn ein Kornbrand, eine Vergilbung, Heuschrecken, Grillen sein werden; so sein Feind im Lande, es in seinen Toren bedrängt, oder irgendeine Plage oder Krankheit;</verse>
+        <verse osisID='1Kgs.8.38'>Alles Gebet, alles Flehen, das unter allen Menschen, unter all Deinem Volke Israel sein wird, und jeder Mann die Plage seines Herzens erkennt und seine Hände<note>flachen Hände</note> zu diesem Hause ausbreitet;</verse>
+        <verse osisID='1Kgs.8.39'>So höre Du im Himmel, der Stätte, da Du wohnst<note>sitzest</note>, und vergib und tue und gib jedem Mann nach allen seinen Wegen, da Du sein Herz weißt; denn Du allein weißt das Herz aller Söhne des Menschen.</verse>
+        <verse osisID='1Kgs.8.40'>Auf daß sie Dich fürchten alle Tage, die sie auf dem Boden<note>auf dem Angesichte des Bodens</note> leben, den Du unseren Vätern gegeben hast.</verse>
+        <verse osisID='1Kgs.8.41'>Und auch ein Ausländer, der nicht von Deinem Volke Israel ist, aber aus fernem Lande kommt um Deines Namens willen,</verse>
+        <verse osisID='1Kgs.8.42'>Denn sie werden hören von Deinem großen Namen und Deiner gewaltigen Hand und Deinem ausgereckten Arm], und so er kommt und betet in diesem Hause;</verse>
+        <verse osisID='1Kgs.8.43'>So höre Du auf ihn im Himmel, in der Stätte, da Du wohnst<note>sitzest</note>, und tue alles, um das der Ausländer Dich anruft, auf daß alle Völker der Erde Deinen Namen erkennen, Dich fürchten, wie Dein Volk Israel, und daß sie erkennen, daß Dein Name über dieses Haus, das ich erbaut habe, angerufen wird.</verse>
+        <verse osisID='1Kgs.8.44'>Wenn Dein Volk auszieht zum Streite wider seinen Feind auf dem Wege, den Du es senden wirst, und sie beten zu Jehovah nach<note>auf dem Wege nach</note> der Stadt hin, die Du erwählt hast, und nach dem Hause hin, daß ich Deinem Namen gebaut habe;</verse>
+        <verse osisID='1Kgs.8.45'>So höre Du im Himmel ihr Beten und ihr Flehen, und schaffe ihnen Recht.</verse>
+        <verse osisID='1Kgs.8.46'>So sie sündigen wider Dich denn es ist kein Mensch, der nicht sündigt, und Du zürnst wider sie, und gibst sie hin vor dem Feind, und die sie gefangennehmen<note>gefangennehmend gefangen nehmen</note>, sie in das Land des Feindes, fern oder nahe, gefangen führen;</verse>
+        <verse osisID='1Kgs.8.47'>Wenn sie dann in ihr Herz sich es zurückbringen in dem Lande, da sie gefangen sind, und zurückkehren und flehen zu Dir im Lande derer, die sie gefangengenommen, und sprechen, wir haben gesündigt und verkehrt gehandelt, wir haben Ungerechtigkeit begangen,</verse>
+        <verse osisID='1Kgs.8.48'>Und sie kehren zurück zu Dir von ganzem Herzen und von ganzer Seele im Lande ihrer Feinde, die sie gefangen geführt, und zu Dir beten nach ihrem Lande hin<note>auf dem Wege zu ihrem Lande hin</note>, das Du gegeben ihren Vätern, nach der Stadt hin, die Du erwählt, und nach dem Hause hin, das ich Deinem Namen gebaut habe;</verse>
+        <verse osisID='1Kgs.8.49'>So höre im Himmel, der Stätte, da Du wohnst<note>sitzest</note>, ihr Gebet und ihr Flehen und schaffe ihnen Recht,</verse>
+        <verse osisID='1Kgs.8.50'>Und vergib Deinem Volke, was sie wider Dich gesündigt und alle ihre Übertretungen, womit sie wider Dich übertreten haben, und gib ihnen Erbarmen vor denen, die sie gefangen geführt, da sie ihrer sich erbarmen.</verse>
+        <verse osisID='1Kgs.8.51'>Denn Dein Volk und Dein Erbe sind sie, die Du aus Ägypten mitten aus dem eisernen Ofen herausgebracht hast.</verse>
+        <verse osisID='1Kgs.8.52'>So seien denn geöffnet Deine Augen für das Flehen Deines Knechtes und für das Flehen Deines Volkes Israel, auf daß Du hörest auf sie in allem, um das sie Dich anrufen.</verse>
+        <verse osisID='1Kgs.8.53'>Denn Du hast sie Dir zum Erbe ausgeschieden von allen Völkern der Erde, wie Du durch die Hand Moses, Deines Knechtes, geredet hast, da Du, Herr Jehovah, unsere Väter aus Ägypten herausgebracht.</verse>
+        <verse osisID='1Kgs.8.54'>Und es geschah, als Salomoh all dies Gebet und Flehen zu Jehovah zu beten vollendet hatte, da stand er auf von dem Beugen auf seinen Knien vor dem Altare Jehovahs und breitete seine Hände<note>flachen Hände</note> aus gen Himmel;</verse>
+        <verse osisID='1Kgs.8.55'>Und stand und segnet die ganze Versammlung Israel mit großer Stimme und sprach:</verse>
+        <verse osisID='1Kgs.8.56'>Gesegnet sei Jehovah, Der Seinem Volke Israel Ruhe gab, nach allem, was Er geredet hatte, nicht ein Wort ist dahingefallen von all Seinem guten Worte, das Er durch die Hand Moses, Seines Knechtes, geredet hat.</verse>
+        <verse osisID='1Kgs.8.57'>Jehovah, unser Gott, sei mit uns, gleich wie Er mit unseren Vätern gewesen! Er verlasse uns nicht, und gebe uns nicht dahin;</verse>
+        <verse osisID='1Kgs.8.58'>Er neige unsere Herzen zu Ihm, auf daß wir in allen Seinen Wegen wandeln, und halten Seine Gebote und Seine Satzungen und Seine Rechte, die Er unseren Vätern geboten hat.</verse>
+        <verse osisID='1Kgs.8.59'>Und diese meine Worte, die ich vor Jehovah gefleht, mögen sie nahe sein Jehovah, unserem Gott, Tag und Nacht, auf daß Er Recht schaffe, Seinem Knechte, und Recht Seinem Volke, des Tages Sache<note>das Wort</note> an seinem Tag.</verse>
+        <verse osisID='1Kgs.8.60'>Auf daß alle Völker der Erde erkennen, daß Jehovah der Gott ist, und keiner mehr.</verse>
+        <verse osisID='1Kgs.8.61'>Und euer Herz sei im Frieden mit Jehovah, unserem Gott, auf daß ihr wandelt in Seinen Satzungen, und Seine Gebote haltet, wie an diesem Tag.</verse>
+        <verse osisID='1Kgs.8.62'>Und der König und ganz Israel mit ihm opferten vor Jehovah Opfer.</verse>
+        <verse osisID='1Kgs.8.63'>Und Salomoh opferte das Opfer der Dankopfer, die er Jehovah opferte, zweiundzwanzigtausend Rinder und hundertzwanzigtausend Schafe<note>Kleinvieh</note>, und sie weihten das Haus Jehovahs ein, der König und alle Söhne Israels.</verse>
+        <verse osisID='1Kgs.8.64'>An selben Tag heiligte der König die Mitte des Vorhofes vor dem Hause Jehovahs; denn er machte daselbst das Brandopfer und das Speiseopfer und das Fett der Dankopfer; denn der eherne Altar vor Jehovah war zu klein, um das Brandopfer und das Speiseopfer und das Fett der Dankopfer zu fassen.</verse>
+        <verse osisID='1Kgs.8.65'>Und Salomoh feierte<note>machte</note> zu jener Zeit das Fest, und ganz Israel mit ihm, eine große Versammlung, von wo man kommt von Chamath bis an den Bach Ägyptens, vor Jehovah, unserem Gott, sieben Tage und sieben Tage: vierzehen Tage.</verse>
+        <verse osisID='1Kgs.8.66'>Am achten Tage entließ er das Volk, und sie segneten den König und gingen hin zu ihren Zelten, fröhlich und guten Herzens über all das Gute, das Jehovah David, Seinem Knechte, und Israel, Seinem Volke, getan.</verse>
+      </chapter>
+      <chapter osisID='1Kgs.9'>
+        <title>Jehovah erscheint Salomoh zum zweitenmal. - Landschenkung an Chiram. Schiffahrt.</title>
+        <verse osisID='1Kgs.9.1'>Und es geschah, als Salomoh den Bau des Hauses Jehovahs und des Hauses des Königs und alles, wonach Salomoh verlangte, was er Lust hatte zu machen, vollendet hatte;</verse>
+        <verse osisID='1Kgs.9.2'>Da erschien Jehovah dem Salomoh zum zweitenmal, wie Er ihm in Gibeon erschienen war.</verse>
+        <verse osisID='1Kgs.9.3'>Und Jehovah sprach zu ihm: Ich habe dein Gebet und dein Flehen, das du vor Mir gefleht hast, gehört, habe dieses Haus, das du gebaut, geheiligt, um Meinen Namen daselbst einzusetzen in Ewigkeit, und Meine Augen und Mein Herz werden da sein alle Tage.</verse>
+        <verse osisID='1Kgs.9.4'>Und wenn du vor Mir wandeln wirst, wie David, dein Vater, vor Mir gewandelt, in Einfalt des Herzens und in Geradheit, daß du tust nach allem, was Ich geboten habe, und Meine Satzungen und Rechte hältst;</verse>
+        <verse osisID='1Kgs.9.5'>So will Ich den Thron deines Königtums über Israel bestätigen in Ewigkeit, wie Ich zu David, deinem Vater, geredet und gesprochen habe: Nicht soll dir ausgerottet werden ein Mann von dem Throne Israels.</verse>
+        <verse osisID='1Kgs.9.6'>Wenn ihr aber, ihr und eure Söhne euch von Mir hinter sich zurückwendet<note>zurückkehrend zurückkehret</note> und Meine Gebote, Meine Satzungen, die Ich vor euch gegeben, nicht haltet, und hingeht und anderen Göttern dient und sie anbetet,</verse>
+        <verse osisID='1Kgs.9.7'>So werde Ich Israel ausrotten von dem Boden<note>von dem Angesichte des Bodens</note>, den Ich ihnen gab, und das Haus, das Ich für Meinen Namen heiligte, wegtun vor Meinem Angesicht, und Israel soll zum Sprichwort und zur Stichelrede unter allen Völkern werden.</verse>
+        <verse osisID='1Kgs.9.8'>Und über diesem Haus, sei es auch das höchste, wird jeder, der vorübergeht, sich entsetzen und zischen und sagen: Warum hat doch Jehovah mit diesem Land und mit diesem Haus solches getan?</verse>
+        <verse osisID='1Kgs.9.9'>Und sie werden sprechen: Darum, daß sie Jehovah, ihren Gott, verlassen, Der ihre Väter aus dem Lande Ägypten ausgeführt, und daß sie andere Götter erfaßt und sie angebetet und ihnen gedient haben; darum hat Jehovah all dies Böse über sie hereingebracht.</verse>
+        <verse osisID='1Kgs.9.10'>Und es geschah am Ende von den zwanzig Jahren, die Salomoh an den zwei Häusern, dem Hause Jehovahs und dem Hause des Königs, gebaut;</verse>
+        <verse osisID='1Kgs.9.11'>Dazu Chiram, der König von Zor<note>d.i. Tyrus</note>, dem Salomoh Zedernbäume und Tannenbäume und Gold, so viel er Lust hatte, brachte, da gab der König Salomoh dem Chiram zwanzig Städte im Lande Galiläa.</verse>
+        <verse osisID='1Kgs.9.12'>Und Chiram zog aus von Zor<note>d.i. Tyrus</note>, die Städte zu besehen, die Salomoh ihm gegeben hatte, und sie waren nicht recht in seinen Augen.</verse>
+        <verse osisID='1Kgs.9.13'>Und er sprach: Was sind die Städte da, die du mir gegeben hast, mein Bruder? Und nannte sie Land Cabul<note>wie nichts</note> bis auf diesen Tag.</verse>
+        <verse osisID='1Kgs.9.14'>Und Chiram hatte dem König hundertzwanzig Talente Gold gesandt.</verse>
+        <verse osisID='1Kgs.9.15'>Und dies ist die Sache<note>das Wort</note> mit der Fron, die König Salomoh aufnahm, auf daß er bauete das Haus Jehovahs und sein Haus, und das Millo und die Stadtmauer von Jerusalem und Chazor und Megiddo und Geser.</verse>
+        <verse osisID='1Kgs.9.16'>Pharao, der König Ägyptens, war heraufgezogen und hatte Geser gewonnen und mit Feuer verbrannt, und den Kanaaniter, der in der Stadt wohnte<note>saß</note> erwürgt, und sie seiner Tochter, dem Weibe Salomohs, als Aussteuer gegeben.</verse>
+        <verse osisID='1Kgs.9.17'>Und Salomoh baute Geser und das untere Beth-Choron,</verse>
+        <verse osisID='1Kgs.9.18'>Und Baalath und Thamar in der Wüste im Lande,</verse>
+        <verse osisID='1Kgs.9.19'>Und alle Vorratsstädte, die Salomoh hatte, und die Städte der Streitwagen und die Städte der Reiter und die Lustgebäude Salomohs, die er nach seinem Verlangen erbaute in Jerusalem und auf dem Libanon und in allem Lande seiner Herrschaft.</verse>
+        <verse osisID='1Kgs.9.20'>Alles Volk, das überblieb von den Amoritern, den Chethitern, den Perisitern, den Chivitern und den Jebusitern, die nicht von den Söhnen Israels waren,</verse>
+        <verse osisID='1Kgs.9.21'>Ihre Söhne, die nach ihnen im Lande übriggeblieben, und welche die Söhne Israels nicht zu verbannen mochten, diese hob Salomoh zu Fronknechten aus bis auf diesen Tag.</verse>
+        <verse osisID='1Kgs.9.22'>Aber von den Söhnen Israels gab Salomoh keinen zum Knecht; denn sie waren seine Männer des Streites und seine Knechte und seine Obersten und seine Wagenkämpfer und die Obersten über seine Streitwagen und seine Reiter.</verse>
+        <verse osisID='1Kgs.9.23'>Dies sind die Obersten der Beamten über Salomohs Werk: fünfhundertfünfzig; sie herrschten über das Volk, das an dem Werke arbeitete.</verse>
+        <verse osisID='1Kgs.9.24'>Die Tochter Pharaos aber war aus der Stadt Davids nach ihrem Hause, das er ihr gebaut hatte, heraufgezogen; dann baute er das Millo.</verse>
+        <verse osisID='1Kgs.9.25'>Und Salomoh ließ aufgehen dreimal im Jahr Brandopfer und Dankopfer auf dem Altar, den er Jehovah gebaut hatte, und räucherte dabei vor Jehovah; und er vollendete das Haus.</verse>
+        <verse osisID='1Kgs.9.26'>Und der König Salomoh machte sich Schiffe zu Ezjon-Geber, welches ist bei Eloth am Ufer<note>an der Lippe</note> des Schilfmeeres im Lande Edom.</verse>
+        <verse osisID='1Kgs.9.27'>Und Chiram sandte im Schiffe seine Knechte, Schiffsleute, die das Meer kannten, mit den Knechten Salomohs.</verse>
+        <verse osisID='1Kgs.9.28'>Und sie kamen nach Ophir, und holten von da Gold, vierhundertzwanzig Talente, und brachten sie dem Könige Salomoh.</verse>
+      </chapter>
+      <chapter osisID='1Kgs.10'>
+        <title>Die Königin von Schaba. - Salomohs Weisheit und Herrlichkeit. - Sein Thron.</title>
+        <verse osisID='1Kgs.10.1'>Und die Königin von Schaba hörte das Gerücht von Salomoh ob des Namens Jehovahs, und kam, ihn zu versuchen mit Rätseln.</verse>
+        <verse osisID='1Kgs.10.2'>Und sie kam nach Jerusalem mit sehr gewaltigem<note>schwerem</note> Gefolge<note>Streitmacht</note>, mit Kamelen, die Gewürze und sehr viel Gold und kostbares Gestein trugen; und sie kam zu Salomoh und redete mit ihm über alles, was in ihrem Herzen war.</verse>
+        <verse osisID='1Kgs.10.3'>Und Salomoh sagte ihr an alle ihre Worte. Kein Wort war verborgen von dem Könige, das er ihr nicht ansagte.</verse>
+        <verse osisID='1Kgs.10.4'>Und die Königin von Schaba sah alle Weisheit Salomohs, und das Haus, das er gebaut hatte.</verse>
+        <verse osisID='1Kgs.10.5'>Und die Speise für seinen Tisch und die Wohnung<note>Wohnsitz</note> seiner Knechte, und den Stand seiner Diener und ihre Bekleidung, und seine Mundschenken, und sein Brandopfer, das er am Hause Jehovahs opferte; und es war kein Geist mehr in ihr.</verse>
+        <verse osisID='1Kgs.10.6'>Und sie sprach zum König: Wahr ist das Wort, das ich in meinem Lande hörte von deinen Worten und von deiner Weisheit.</verse>
+        <verse osisID='1Kgs.10.7'>Und ich glaubte nicht den Worten, bis ich kam und meine Augen es sahen; und siehe, nicht die Hälfte wurde mir angesagt, du tust noch hinzu Weisheit und Gutes zu dem Gerüchte, das ich gehört hatte,</verse>
+        <verse osisID='1Kgs.10.8'>Selig sind deine Männer, selig diese deine Knechte, die beständig vor dir stehen, die deine Weisheit hören.</verse>
+        <verse osisID='1Kgs.10.9'>Gesegnet sei Jehovah, dein Gott, Der Lust zu dir hat und dich auf Israels Thron gegeben. Weil Jehovah Israel liebt ewiglich, hat Er dich zum König gesetzt, auf daß du Recht und Gerechtigkeit tuest.</verse>
+        <verse osisID='1Kgs.10.10'>Und sie gab dem König hundertzwanzig Talente Goldes und sehr viel Gewürze und kostbares Gestein. Nicht kam wieder so viel Gewürz herein, als die Königin von Schaba dem König Salomoh gab.</verse>
+        <verse osisID='1Kgs.10.11'>Und auch Chirams Schiffe, die Gold aus Ophir trugen, brachten aus Ophir sehr viel Almugimholz und kostbares Gestein herein.</verse>
+        <verse osisID='1Kgs.10.12'>Und der König machte aus dem Almugimholz Geländer für das Haus Jehovahs und für das Haus des Königs, und Harfen und Psalter für die Sänger, und ist kein solches Almugimholz ins Land gekommen, noch gesehen worden bis auf diesen Tag.</verse>
+        <verse osisID='1Kgs.10.13'>Und der König Salomoh gab der Königin von Schaba alles, woran sie Lust hatte, um was sie bat, außer dem, was ihr Salomoh gab nach seiner königlichen Hand. Und sie wandte sich und zog nach ihrem Land, sie und ihre Knechte.</verse>
+        <verse osisID='1Kgs.10.14'>Und das Gewicht des Goldes, das dem Salomoh in einem Jahre hereinkam, war sechshundertsechsundsechzig Talente Gold.</verse>
+        <verse osisID='1Kgs.10.15'>Ohne das von den Krämerleuten und dem Handel der Kaufleute und all den Königen Arabiens und den Statthaltern des Landes.</verse>
+        <verse osisID='1Kgs.10.16'>Und der König Salomoh ließ zweihundert Schilde von geschlagenem Golde machen, und auf einen Schild kamen sechshundert Goldstücke;</verse>
+        <verse osisID='1Kgs.10.17'>Und dreihundert Tartschen von geschlagenem Golde, drei Minen Goldes kamen auf eine Tartsche; und der König gab sie in das Haus zum Walde Libanon.</verse>
+        <verse osisID='1Kgs.10.18'>Und der König machte einen großen Thron von Elfenbein, und überzog ihn mit geläutertem Golde,</verse>
+        <verse osisID='1Kgs.10.19'>Sechs Stufen waren am Thron, und der obere Teil<note>das Haupt</note> des Thrones war hinten gerundet, und Armlehnen<note>Hände</note> waren zu beiden Seiten<note>hier und dort</note> am Orte des Sitzes, und zwei Löwen standen neben den Armlehnen<note>Händen</note>.</verse>
+        <verse osisID='1Kgs.10.20'>Und zwölf Löwen standen da auf den sechs Stufen auf beiden Seiten<note>hier und dort</note>. Solches ward nie gemacht in irgendwelchen Königreichen.</verse>
+        <verse osisID='1Kgs.10.21'>Und alle Trinkgefäße des Königs Salomoh waren von Gold, sowie alle Geräte des Hauses zum Walde Libanon von gediegenem Golde waren, keines von Silber; denn dies ward in den Tagen Salomohs als nichts gerechnet.</verse>
+        <verse osisID='1Kgs.10.22'>Denn der König hatte Tharschischschiffe mit Chirams Schiffen auf dem Meer, und einmal in drei Jahren kamen die Tharschischschiffe und brachten Gold und Silber, Elfenbein und Affen und Pfauen.</verse>
+        <verse osisID='1Kgs.10.23'>Und König Salomoh ward an Reichtum und an Weisheit größer denn alle Könige der Erde.</verse>
+        <verse osisID='1Kgs.10.24'>Und alle Lande suchten Salomohs Angesicht, daß sie seine Weisheit hörten, die Gott ihm ins Herz gegeben hatte.</verse>
+        <verse osisID='1Kgs.10.25'>Und sie brachten, jeder Mann sein Geschenk<note>Speiseopfer</note>, silberne Geräte und goldene Geräte, und Gewänder und Waffen, und Gewürze, Rosse und Maultiere, Jahr für Jahr<note>das Wort eines Jahres im Jahr</note>.</verse>
+        <verse osisID='1Kgs.10.26'>Und Salomoh sammelte Streitwagen und Reiter, und hatte tausendvierhundert Streitwagen und zwölftausend Reiter, und stellte sie in die Wagenstädte und beim König in Jerusalem.</verse>
+        <verse osisID='1Kgs.10.27'>Und der König machte<note>gab</note> das Silber in Jerusalem wie die Steine, und die Zedern machte<note>gab</note> er wie die Sykomoren in der Niederung an Menge.</verse>
+        <verse osisID='1Kgs.10.28'>Und die Ausfuhr an Pferden für Salomoh war aus Ägypten. Ein Zug von Händlern des Königs holte einen Zug um den Kaufpreis.</verse>
+        <verse osisID='1Kgs.10.29'>Und es kam herauf und ward ausgeführt aus Ägypten ein Streitwagen um sechshundert Silberlinge und ein Pferd um hundertfünfzig; und so wurden auch für alle Könige der Chethiter und für die Könige Arams durch ihre Hand ausgeführt.</verse>
+      </chapter>
+      <chapter osisID='1Kgs.11'>
+        <title>Salomohs Weiber, Abgötterei, Bedrohung und Tod.</title>
+        <verse osisID='1Kgs.11.1'>König Salomoh aber liebte viele ausländische Weiber, und neben der Tochter Pharaos, moabitische, ammonitische, edomitische, zidonische und chethitische.</verse>
+        <verse osisID='1Kgs.11.2'>Von den Völkerschaften, von denen Jehovah zu den Söhnen Israels gesprochen: Ihr sollt nicht zu ihnen eingehen, und sie sollen nicht zu euch kommen; sie würden fürwahr euer Herz neigen ihren Göttern nach. An sie hing sich<note>haftete an</note> Salomoh, sie zu lieben.</verse>
+        <verse osisID='1Kgs.11.3'>Und er hatte zu Weibern siebenhundert Fürstinnen und dreihundert Kebsweiber und seine Weiber neigten sein Herz ab.</verse>
+        <verse osisID='1Kgs.11.4'>Und es geschah zur Zeit, da Salomoh alt wurde, daß seine Weiber sein Herz anderen Göttern nach neigten, und sein Herz nicht mehr ganz mit Jehovah, seinem Gotte, war, wie das Herz Davids, seines Vaters.</verse>
+        <verse osisID='1Kgs.11.5'>Und Salomoh wandelte der Aschthoreth, der Gottheit der Zidonier, und Milkom, dem Scheusal der Ammoniter, nach.</verse>
+        <verse osisID='1Kgs.11.6'>Und Salomoh tat, was böse war in den Augen Jehovahs und folgte nicht völlig Jehovah nach<note>er füllte nicht Jehovah nach</note>, wie David, sein Vater.</verse>
+        <verse osisID='1Kgs.11.7'>Da baute Salomoh dem Kemosch, dem Scheusal Moabs, eine Opferhöhe auf dem Berge, der vor Jerusalem ist, und dem Molech, dem Scheusal der Söhne Ammons.</verse>
+        <verse osisID='1Kgs.11.8'>Und so tat er für alle seine ausländischen Weiber, und sie räucherten und opferten ihren Göttern.</verse>
+        <verse osisID='1Kgs.11.9'>Und Jehovah zürnte wider Salomoh, weil sein Herz sich abgeneigt hatte von Jehovah, dem Gotte Israels, Der ihm zweimal erschienen war,</verse>
+        <verse osisID='1Kgs.11.10'>Und ihm geboten hatte über dieses Wort, daß er nicht wandle anderen Göttern nach. Aber er hatte nicht gehalten, was Jehovah gebot.</verse>
+        <verse osisID='1Kgs.11.11'>Und Jehovah sprach zu Salomoh: Weil solches bei dir geschehen und du Meinen Bund und Meine Satzungen, die Ich dir geboten, nicht gehalten hast, so werde Ich das Reich von dir reißen<note>reißend reißen</note> und es deinem Knechte geben.</verse>
+        <verse osisID='1Kgs.11.12'>Doch will Ich in deinen Tagen es nicht tun, um Davids, deines Vaters willen, aus deines Sohnes Hand werde Ich es reißen.</verse>
+        <verse osisID='1Kgs.11.13'>Doch nicht das ganze Reich werde Ich entreißen; einen Stamm<note>Rute</note> will Ich deinem Sohne geben, um Davids, Meines Knechtes willen und um Jerusalem willen, das Ich erwählt habe.</verse>
+        <verse osisID='1Kgs.11.14'>Und Jehovah ließ erstehen wider Salomoh einen Widersacher, den Edomiter Hadad, vom Samen des Königs, der in Edom war.</verse>
+        <verse osisID='1Kgs.11.15'>Denn es geschah, als David in Edom war und Joab, der Oberste des Heeres, hinaufzog die Erschlagenen zu begraben, schlug derselbe alles, was männlich war in Edom.</verse>
+        <verse osisID='1Kgs.11.16'>Denn sechs Monate war Joab und ganz Israel dort geblieben<note>gesessen</note>, bis er alles Männliche in Edom ausgerottet hatte.</verse>
+        <verse osisID='1Kgs.11.17'>Und Hadad entwich, er und edomitische Männer von den Knechten seines Vaters mit ihm, um nach Ägypten zu gehen, und Hadad war ein kleiner Junge.</verse>
+        <verse osisID='1Kgs.11.18'>Und sie machten sich auf aus Midjan und kamen nach Paran. Und von Paran nahmen sie Männer mit sich und kamen nach Ägypten zu Pharao, dem Könige Ägyptens, und der gab ihm ein Haus und verordnete ihm Brot und gab ihm Land.</verse>
+        <verse osisID='1Kgs.11.19'>Und Hadad fand Gnade in den Augen Pharaos, so sehr, daß er ihm zum Weibe gab die Schwester seines Weibes, die Schwester der Tachpenes, der Gebieterin.</verse>
+        <verse osisID='1Kgs.11.20'>Und die Schwester der Tachpenes gebar ihm Genubath, seinen Sohn, und Tachpenes entwöhnte ihn inmitten des Hauses Pharaos, und Genubath war im Hause Pharaos, inmitten der Söhne Pharaos.</verse>
+        <verse osisID='1Kgs.11.21'>Und Hadad hörte in Ägypten, daß David zu seinen Vätern entschlafen war und der Oberste des Heeres, Joab, tot war; und Hadad sprach zu Pharao: Entlasse mich, daß ich in mein Land gehe.</verse>
+        <verse osisID='1Kgs.11.22'>Und Pharao sprach zu ihm: Was mangelt dir bei mir? und siehe, du suchst in dein Land zu gehen. Er aber sprach: Nichts, aber entlasse mich.</verse>
+        <verse osisID='1Kgs.11.23'>Und Gott ließ auch zum Widersacher gegen ihn erstehen Reson, den Sohn Eljadas, der von Hadadeser, dem Könige von Zobah, seinem Herrn, entwichen war.</verse>
+        <verse osisID='1Kgs.11.24'>Und der zog Männer zu sich zusammen und ward der Oberste eines Kriegshaufens, als David jene erwürgte; und sie gingen nach Damask und wohnten<note>saßen</note> darin, und sie machten ihn zum König in Damask.</verse>
+        <verse osisID='1Kgs.11.25'>Und er war ein Widersacher Israels alle Tage Salomohs, neben dem Bösen, das Hadad getan. Er hatte Überdruß an Israel und war König über Aram.</verse>
+        <verse osisID='1Kgs.11.26'>Und Jerobeam, der Sohn Nebaths, ein Ephraititer aus Zeredah, und seiner Mutter Name war Zeruah, und sie war ein Weib, eine Witwe; er war ein Knecht Salomohs, und hob die Hand empor wider den König.</verse>
+        <verse osisID='1Kgs.11.27'>Und das ist die Sache<note>das Wort</note>, darum er die Hand emporhob wider den König: Salomoh baute das Millo und schloß ein die Lücke<note>Durchbruch</note> der Stadt Davids, seines Vaters.</verse>
+        <verse osisID='1Kgs.11.28'>Und der Mann, Jerobeam, war ein tapferer Held, und da Salomoh den Jungen sah, wie er das Werk tat, bestellte er ihn über die ganze Fronde<note>Bürde</note> des Hauses Joseph.</verse>
+        <verse osisID='1Kgs.11.29'>Und es geschah um jene Zeit, daß Jerobeam aus Jerusalem hinausging, und Achijah aus Schiloh, der Prophet fand ihn auf dem Wege, und jener hatte sich mit einem neuen Gewand bedeckt, und die zwei waren allein auf dem Felde.</verse>
+        <verse osisID='1Kgs.11.30'>Und Achijah faßte das neue Gewand, das auf ihm war, und riß es in zwölf Lappen<note>Gerissenes</note>.</verse>
+        <verse osisID='1Kgs.11.31'>Und sprach zu Jerobeam: Nimm dir zehn Lappen<note>Gerissenes</note>; denn so spricht Jehovah, der Gott Israels: Siehe, Ich reiße das Königtum aus der Hand Salomohs, und gebe dir die zehn Stämme<note>Ruten</note>.</verse>
+        <verse osisID='1Kgs.11.32'>Und der eine Stamm<note>Rute</note> soll ihm sein, um Meines Knechtes David und der Stadt Jerusalem willen, die Ich aus allen Stämmen<note>Ruten</note> Israels erwählt habe.</verse>
+        <verse osisID='1Kgs.11.33'>Weil sie Mich verlassen und Aschthoreth, die Gottheit der Zidonier, den Kemosch, Moabs Gott, und Milkom, den Gott der Söhne Ammons, angebetet und nicht in Meinen Wegen gewandelt, daß sie täten, was recht in Meinen Augen ist, und Meine Satzungen und Meine Rechte, wie David, sein Vater.</verse>
+        <verse osisID='1Kgs.11.34'>Ich werde aber nicht das ganze Reich aus seiner Hand nehmen, sondern ihn zum Fürsten setzen alle Tage seines Lebens, wegen David, Meines Knechtes, den Ich erwählt, und der Meine Gebote und Meine Satzungen gehalten hat.</verse>
+        <verse osisID='1Kgs.11.35'>Aber aus der Hand seines Sohnes nehme Ich das Königtum, und gebe dir die zehn Stämme.</verse>
+        <verse osisID='1Kgs.11.36'>Aber seinem Sohne gebe Ich einen Stamm<note>Rute</note>, auf daß denn David, Meinem Knechte, alle Tage eine Leuchte<note>Lampe</note> sei vor Meinem Angesicht in der Stadt Jerusalem, die Ich Mir erwählt habe, Meinen Namen allda einzusetzen.</verse>
+        <verse osisID='1Kgs.11.37'>Und dich nehme Ich, daß du regierst über alles, was deine Seele gelüstet, und du sollst König sein über Israel.</verse>
+        <verse osisID='1Kgs.11.38'>Und es soll sein, wenn du hörst auf alles, was Ich dir gebiete, und in Meinen Wegen wandelst und tust, was recht in Meinen Augen ist, so daß du Meine Satzungen und Meine Gebote hältst, wie David, Mein Knecht, getan: So will Ich mit dir sein und dir ein bewährtes Haus bauen, wie Ich dem David baute, und will dir Israel geben.</verse>
+        <verse osisID='1Kgs.11.39'>Den Samen Davids aber will Ich darob demütigen, doch nicht für alle Tage.</verse>
+        <verse osisID='1Kgs.11.40'>Und Salomoh suchte den Jerobeam zu töten, aber Jerobeam machte sich auf und entwich nach Ägypten zu Schischak, dem König Ägyptens; und war in Ägypten bis zum Tode Salomohs.</verse>
+        <verse osisID='1Kgs.11.41'>Und die übrige Geschichte<note>übrigen Worte</note> Salomohs, und alles, was er getan, und seine Weisheit, sind sie nicht geschrieben im Buche der Worte Salomohs?</verse>
+        <verse osisID='1Kgs.11.42'>Die Tage aber, die Salomoh in Jerusalem über ganz Israel regierte, waren vierzig Jahre.</verse>
+        <verse osisID='1Kgs.11.43'>Und Salomoh entschlief mit seinen Vätern und ward begraben in der Stadt Davids, seines Vaters, und Rechabeam, sein Sohn, ward König an seiner Stelle.</verse>
+      </chapter>
+      <chapter osisID='1Kgs.12'>
+        <title>Abfall der zehn Stämme.</title>
+        <verse osisID='1Kgs.12.1'>Und Rechabeam ging nach Schechem; denn nach Schechem war ganz Israel gekommen, ihn zum König zu machen.</verse>
+        <verse osisID='1Kgs.12.2'>Und es geschah, als Jerobeam, der Sohn Nebats, es hörte, und er war noch in Ägypten, dahin er vor Salomoh, dem König, entwichen war, und Jerobeam wohnte<note>saß</note> in Ägypten,</verse>
+        <verse osisID='1Kgs.12.3'>Da sandten sie und riefen ihn. Und sie kamen, Jerobeam und die ganze Versammlung Israel, und redeten zu Rechabeam und sprachen:</verse>
+        <verse osisID='1Kgs.12.4'>Dein Vater hat unser Joch hart gemacht, so mache du nun leichter den harten Dienst deines Vaters und sein schweres Joch, das er auf uns gegeben, so wollen wir dir dienen.</verse>
+        <verse osisID='1Kgs.12.5'>Und er sprach zu ihnen: Gehet hin bis zum dritten Tag, und kommt zu mir zurück. Und das Volk ging hin.</verse>
+        <verse osisID='1Kgs.12.6'>Und der König Rechabeam beriet sich mit den Ältesten, die vor dem Angesichte Salomohs, seines Vaters, gestanden, da er am Leben war, und sprach: Wie ratet ihr, welch Wort soll ich diesem Volke erwidern?</verse>
+        <verse osisID='1Kgs.12.7'>Und sie redeten zu ihm und sagten: Wenn du diesen Tag diesem Volke ein Knecht bist und ihnen dienst, und ihnen antwortest und gute Worte zu ihnen redest, so werden sie dir Knechte sein alle Tage.</verse>
+        <verse osisID='1Kgs.12.8'>Aber er verließ den Rat der Ältesten, den sie rieten, und beriet mit den Knaben, die mit ihm groß geworden waren, die vor ihm standen.</verse>
+        <verse osisID='1Kgs.12.9'>Und er sprach zu ihnen: Was ratet ihr, welch Wort sollen wir diesem Volke erwidern, die zu mir geredet und gesagt haben: Mache leichter das Joch, das dein Vater auf uns gegeben hat?</verse>
+        <verse osisID='1Kgs.12.10'>Und die Knaben, die mit ihm groß geworden, redeten zu ihm und sprachen: Sprich so zu diesem Volke, die zu dir geredet und gesagt haben: Dein Vater machte unser Joch schwer, und du sollst es uns leichter machen; also sollst du zu ihnen reden: Mein kleiner Finger soll dicker sein<note>mein kleiner soll dicker sein</note>, als die Lenden meines Vaters.</verse>
+        <verse osisID='1Kgs.12.11'>Und nun hat mein Vater euch ein schweres Joch aufgeladen, ich aber will noch hinzutun zu eurem Joche; mein Vater züchtigte euch mit Geißeln, ich aber werde euch mit Skorpionen züchtigen.</verse>
+        <verse osisID='1Kgs.12.12'>Und Jerobeam kam und das ganze Volk am dritten Tage zu Rechabeam, wie der König geredet hatte und gesprochen: Kommt am dritten Tag zurück zu mir.</verse>
+        <verse osisID='1Kgs.12.13'>Und der König antwortete dem Volke mit Härte und verließ den Rat der Ältesten, den sie geraten hatten.</verse>
+        <verse osisID='1Kgs.12.14'>Und redete zu ihnen nach dem Rat der Knaben und sprach: Mein Vater hat euer Joch schwer gemacht, ich aber will noch hinzutun zu eurem Joche. Mein Vater hat euch mit Geißeln gezüchtigt, ich aber werde euch mit Skorpionen züchtigen.</verse>
+        <verse osisID='1Kgs.12.15'>Und der König hörte nicht auf das Volk; denn von Jehovah aus ward es herumgewendet, auf daß Er Sein Wort bestätigte, das Jehovah durch die Hand Achijahs, des Schiloniters, zu Jerobeam, dem Sohne Nebats, geredet hatte.</verse>
+        <verse osisID='1Kgs.12.16'>Und ganz Israel sah, daß der König nicht auf sie hörte, und das Volk erwiderte dem König ein Wort und sprach: Was haben wir Teil an David? und wir haben kein Erbe am Sohne Ischais. Zu deinen Zelten, Israel! Nun, siehe zu deinem Hause, David! Und Israel ging in seine Zelte.</verse>
+        <verse osisID='1Kgs.12.17'>Und über die Söhne Israels, die in den Städten Judahs wohnten<note>saßen</note>, über sie war Rechabeam König.</verse>
+        <verse osisID='1Kgs.12.18'>Und der König Rechabeam sandte den Adoram, der über die Fronen war; ganz Israel aber steinigte ihn mit Steinen, daß er starb. Der König Rechabeam aber bestieg rüstig<note>machte rüstig</note> seinen Streitwagen, um nach Jerusalem zu fliehen.</verse>
+        <verse osisID='1Kgs.12.19'>Und Israel fiel ab vom Hause David bis auf diesen Tag.</verse>
+        <verse osisID='1Kgs.12.20'>Und es geschah, daß ganz Israel hörte, daß Jerobeam zurückgekommen war, und sie sandten hin und riefen ihn zu der Gemeinde, und machten ihn zum König über ganz Israel, und es folgte keiner dem Hause Davids, außer dem Stamm<note>Rute</note> Judah allein.</verse>
+        <verse osisID='1Kgs.12.21'>Und Rechabeam kam nach Jerusalem und versammelte das ganze Haus Judah und den Stamm<note>die Rute</note> Benjamin, hundertachtzigtausend Jünglinge, streitbare<note>Streit zu tun</note>, um mit dem Hause Israel zu streiten, um das Königtum zurück an Rechabeam, den Sohn Salomohs, zu bringen.</verse>
+        <verse osisID='1Kgs.12.22'>Und es geschah das Wort Gottes an Schemajah, den Mann Gottes, und sprach:</verse>
+        <verse osisID='1Kgs.12.23'>Sprich zu Rechabeam, dem Sohne Salomohs, dem König von Judah, und zum ganzen Hause Judah und Benjamin und dem übrigen Volke und sage:</verse>
+        <verse osisID='1Kgs.12.24'>So spricht Jehovah: Ziehet nicht hinauf und streitet nicht mit euren Brüdern, den Söhnen Israels, jeder Mann kehre in sein Haus zurück; denn solches<note>dieses Wort</note> ist von Mir geschehen. Und sie hörten auf das Wort Jehovahs, und kehrten zurück, daß sie hingingen nach dem Worte Jehovahs.</verse>
+        <verse osisID='1Kgs.12.25'>Und Jerobeam baute Schechem auf dem Gebirge Ephraim, und wohnte<note>saß</note> darin, und zog von da aus und baute Penuel.</verse>
+        <verse osisID='1Kgs.12.26'>Und Jerobeam sprach in seinem Herzen: Nun wird das Königtum wieder zu dem Hause David zurückkehren.</verse>
+        <verse osisID='1Kgs.12.27'>Wenn dieses Volk hinaufzieht, um im Hause Jehovahs zu Jerusalem Opfer zu tun, so wird das Herz dieses Volkes zu seinem Herrn, zu Rechabeam, dem Könige Judahs, zurückkehren, so daß sie mich erwürgen und zu Rechabeam, dem Könige Judahs zurückkehren.</verse>
+        <verse osisID='1Kgs.12.28'>Und der König beriet sich und machte zwei goldene Kälber. Und er sprach zu ihnen: Es ist euch zu viel, nach Jerusalem hinaufzugehen, siehe, deine Götter, Israel, die dich aus dem Lande Ägypten heraufgebracht.</verse>
+        <verse osisID='1Kgs.12.29'>Und er setzte eines in Bethel und eines gab er nach Dan.</verse>
+        <verse osisID='1Kgs.12.30'>Und diese Sache<note>dieses Wort</note> ward zur Sünde; denn das Volk ging vor das eine bis gen Dan.</verse>
+        <verse osisID='1Kgs.12.31'>Und er machte ein Haus der Opferhöhe und machte Priester aus den Enden des Volkes, die nicht von den Söhnen Levis waren.</verse>
+        <verse osisID='1Kgs.12.32'>Und Jerobeam machte ein Fest im achten Monat am fünfzehnten Tage des Monats, wie das Fest, das in Judah war, und opferte auf dem Altare auf. Ebenso tat er in Bethel, daß er opferte den Kälbern, die er gemacht hatte, und ließ in Bethel stehen die Priester der Opferhöhen, die er gemacht hatte.</verse>
+        <verse osisID='1Kgs.12.33'>Und er opferte auf auf dem Altar, den er in Bethel gemacht, am fünfzehnten Tage des achten Monats, im Monate, den er in seinem Herzen ersonnen; und er machte ein Fest für die Söhne Israels, und opferte auf dem Altar auf und räucherte.</verse>
+      </chapter>
+      <chapter osisID='1Kgs.13'>
+        <title>Ein Prophet tritt gegen Bethel auf. - Jerobeams Hand verdorrt. - Der Prophet von einem Löwen getötet.</title>
+        <verse osisID='1Kgs.13.1'>Und siehe, ein Mann Gottes kam aus Judah durch das Wort Jehovahs nach Bethel, und Jerobeam stand am Altare, zu räuchern.</verse>
+        <verse osisID='1Kgs.13.2'>Und er rief wider den Altar durch das Wort Jehovahs und sprach: Altar! Altar! so spricht Jehovah: Siehe, ein Sohn wird geboren dem Hause Davids, Joschijahu ist sein Name, und der opfert auf dir die Priester der Opferhöhen, die auf dir räuchern, und Gebeine von Menschen werden sie auf dir verbrennen.</verse>
+        <verse osisID='1Kgs.13.3'>Und er gab an selbigem Tage ein Wahrzeichen und sprach: Dies ist das Wahrzeichen, das Jehovah geredet hat: Siehe, der Altar wird zerrissen und die Fettasche darauf verschüttet werden.</verse>
+        <verse osisID='1Kgs.13.4'>Und es geschah, wie der König das Wort des Mannes Gottes hörte, das er wider den Altar in Bethel ausrief; da reckte Jerobeam vom Altare seine Hand aus und sprach: Fasset ihn! Und es verdorrte seine Hand, die er wider ihn ausgereckt, und er vermochte nicht, sie an sich zurückzuziehen.</verse>
+        <verse osisID='1Kgs.13.5'>Und der Altar zerriß und die Fettasche ward verschüttet vom Altar, nach dem Wahrzeichen, das der Mann Gottes gab durch das Wort Jehovahs.</verse>
+        <verse osisID='1Kgs.13.6'>Und der König antwortete und sprach zu dem Manne Gottes: Flehe doch an das Angesicht Jehovahs, deines Gottes, und bete für mich, daß meine Hand zu mir zurückkomme; und der Mann Gottes flehte an das Angesicht Jehovahs, und die Hand des Königs kam zurück zu ihm und ward wie früher.</verse>
+        <verse osisID='1Kgs.13.7'>Und der König redete zu dem Manne Gottes: Komm mit mir ins Haus und labe<note>stütze</note> dich, und ich will dir eine Gabe geben.</verse>
+        <verse osisID='1Kgs.13.8'>Und der Mann Gottes sprach zu dem Könige: Wenn du mir die Hälfte deines Hauses gibst, so komme ich nicht mit dir und esse kein Brot und trinke kein Wasser an diesem Orte.</verse>
+        <verse osisID='1Kgs.13.9'>Denn so ward mir geboten durch das Wort Jehovahs und gesagt: Du sollst nicht essen Brot und nicht Wasser trinken und nicht zurückkehren auf dem Wege, den du gegangen bist.</verse>
+        <verse osisID='1Kgs.13.10'>Und er ging einen anderen Weg und kehrte nicht zurück auf dem Wege, auf dem er nach Bethel gekommen war.</verse>
+        <verse osisID='1Kgs.13.11'>Und es wohnte<note>saß</note> ein alter Prophet in Bethel. Zu dem kam sein Sohn und erzählte ihm all das Tun, das der Mann Gottes heute in Bethel getan; die Worte, die er zum König geredet, die erzählten sie ihrem Vater.</verse>
+        <verse osisID='1Kgs.13.12'>Und ihr Vater redete zu ihnen: Welchen Weg ist er gegangen? Seine Söhne aber hatten den Weg gesehen, den der Mann Gottes, der aus Judah gekommen war, ging.</verse>
+        <verse osisID='1Kgs.13.13'>Und er sprach zu seinen Söhnen: Sattelt mir den Esel! Und sie sattelten ihm den Esel, und er ritt darauf.</verse>
+        <verse osisID='1Kgs.13.14'>Und er ging dem Manne Gottes nach und fand ihn sitzend unter der Eiche und sprach zu ihm: Bist du der Mann Gottes, der aus Judah gekommen ist? Und er sprach: Ich bin es.</verse>
+        <verse osisID='1Kgs.13.15'>Und er sprach zu ihm: Komm mit mir nach Haus und iß Brot.</verse>
+        <verse osisID='1Kgs.13.16'>Und er sprach: Ich vermag nicht mit dir zurückzukehren und mit dir zu kommen und esse kein Brot und trinke kein Wasser mit dir an diesem Ort.</verse>
+        <verse osisID='1Kgs.13.17'>Denn das Wort war an mich durch das Wort Jehovahs: Du sollst kein Brot essen und kein Wasser allda trinken, du sollst nicht zurückkehren, auf dem Wege zu gehen, auf dem du gegangen bist.</verse>
+        <verse osisID='1Kgs.13.18'>Und er sprach zu ihm: Auch ich bin ein Prophet wie du, und ein Engel hat zu mir geredet durch Jehovahs Wort und gesprochen: Bringe ihn mit dir zurück nach deinem Haus, daß er Brot esse und Wasser trinke. Aber er täuschte ihn.</verse>
+        <verse osisID='1Kgs.13.19'>Und er kehrte zurück mit ihm und aß Brot in seinem Haus und trank Wasser.</verse>
+        <verse osisID='1Kgs.13.20'>Und es geschah, da sie am Tische saßen, da erging das Wort Jehovahs zu dem Propheten, der ihn zurückgebracht hatte.</verse>
+        <verse osisID='1Kgs.13.21'>Und er rief dem Manne Gottes, der aus Judah gekommen war, zu und sprach: So spricht Jehovah: Weil du dem Munde Jehovahs widerspenstig geworden bist und nicht gehalten hast das Gebot, das dir Jehovah, dein Gott, geboten hatte;</verse>
+        <verse osisID='1Kgs.13.22'>Und du zurückkehrtest und Brot aßest und Wasser trankest an dem Orte, von dem Ich zu dir geredet: Du sollst kein Brot essen und kein Wasser trinken, darum soll dein Leichnam nicht zum Grabe deiner Väter kommen.</verse>
+        <verse osisID='1Kgs.13.23'>Und es geschah, nachdem er Brot gegessen und nachdem er getrunken hatte, da sattelte man dem Propheten, den er zurückgeführt hatte, den Esel.</verse>
+        <verse osisID='1Kgs.13.24'>Und er ging hin, und ein Löwe fand ihn auf dem Wege und tötete ihn, und sein Leichnam ward hingeworfen auf dem Wege, und der Esel stand neben ihm, und der Löwe stand neben dem Leichnam.</verse>
+        <verse osisID='1Kgs.13.25'>Und siehe, Männer gingen vorüber und sahen den Leichnam hingeworfen am Wege und den Löwen neben dem Leichnam stehen, und sie kamen und redeten davon in der Stadt, in welcher der alte Prophet wohnte<note>saß</note>.</verse>
+        <verse osisID='1Kgs.13.26'>Und der Prophet, der ihn zurückgeführt vom Wege, hörte es, und er sprach: Dies ist der Mann Gottes, der dem Munde Gottes widerspenstig wurde, und Jehovah gab ihn dem Löwen hin, und der zerbrach ihn und tötete ihn, nach dem Worte Jehovahs, das Er zu ihm redete.</verse>
+        <verse osisID='1Kgs.13.27'>Und er redete zu seinen Söhnen und sprach: Sattelt mir den Esel, und sie sattelten ihn.</verse>
+        <verse osisID='1Kgs.13.28'>Und er ging hin und fand seinen Leichnam hingeworfen am Wege, und der Esel und der Löwe standen neben dem Leichnam. Der Löwe hatte den Leichnam nicht gefressen und den Esel nicht zerrissen<note>zerbrochen</note>.</verse>
+        <verse osisID='1Kgs.13.29'>Und der Prophet hob den Leichnam des Mannes Gottes auf und legte ihn hin auf den Esel und brachte ihn zurück, und er kam zur Stadt des alten Propheten, um ihn zu klagen und ihn zu begraben.</verse>
+        <verse osisID='1Kgs.13.30'>Und er legte seinen Leichnam hin in sein Grab, und sie klagten über ihn: Wehe, mein Bruder!</verse>
+        <verse osisID='1Kgs.13.31'>Und es geschah, nachdem er ihn begraben hatte, da sprach er zu seinen Söhnen und sagte: Wenn ich sterbe, so begrabet mich in dem Grabe, darin der Mann Gottes begraben ist, und legt meine Gebeine hin neben seine Gebeine.</verse>
+        <verse osisID='1Kgs.13.32'>Denn es wird geschehen<note>seiend wird es sein</note>, das Wort, das er durch Jehovahs Wort wider den Altar in Bethel und wider alle die Häuser der Opferhöhen in den Städten Samariens gerufen hat.</verse>
+        <verse osisID='1Kgs.13.33'>Nach dieser Geschichte<note>diesem Wort</note> kehrte Jerobeam nicht von seinem bösen Wege zurück, sondern kehrte zurück und machte aus den Enden des Volkes Priester der Opferhöhen; nach seiner Lust füllte er ihre<note>seine</note> Hand, daß sie Priester der Opferhöhen wurden.</verse>
+        <verse osisID='1Kgs.13.34'>Und diese Sache<note>dieses Wort</note> ward zur Sünde des Hauses Jerobeams, so daß es vom Boden<note>von auf dem Angesicht des Bodens</note> weggeschafft und vernichtet wurde.</verse>
+      </chapter>
+      <chapter osisID='1Kgs.14'>
+        <title>Weissagung wider Jerobeam; sein Tod. - Rechabeams Tod. - Plünderung des Tempels. Abgötterei.</title>
+        <verse osisID='1Kgs.14.1'>Um selbige Zeit erkrankte Abijah, der Sohn Jerobeams.</verse>
+        <verse osisID='1Kgs.14.2'>Und Jerobeam sprach zu seinem Weibe: Mache dich doch auf und verstelle<note>verändere</note> dich, daß man nicht weiß, daß du Jerobeams Weib bist, und gehe hin nach Schiloh. Siehe, dort ist Achijah, der Prophet, der zu mir geredet, daß ich König würde über dieses Volk.</verse>
+        <verse osisID='1Kgs.14.3'>Und nimm zehn Brote in deine Hand und Streuküchlein und einen Krug mit Honig und gehe zu ihm. Der wird dir ansagen, wie es mit dem Jungen sein wird.</verse>
+        <verse osisID='1Kgs.14.4'>Und das Weib Jerobeams tat also und machte sich auf und ging nach Schiloh und kam in Achijahs Haus. Und Achijahu vermochte nicht zu sehen, denn seine Augen waren starr<note>standen</note> vom Greisenalter.</verse>
+        <verse osisID='1Kgs.14.5'>Jehovah aber hatte zu Achijahu gesagt: Siehe, das Weib Jerobeams kommt, um dich ein Wort zu befragen über ihren Sohn, der krank ist. So und so rede mit ihr, und sie wird bei ihrem Kommen sich fremd stellen.</verse>
+        <verse osisID='1Kgs.14.6'>Und es geschah, daß Achijah den Schall<note>die Stimme</note> ihrer Füße hörte, wie sie zum Eingang kam; da sprach er: Komm herein, Weib Jerobeams, warum stellst du dich fremd? Ich bin aber gesandt zu dir mit Hartem.</verse>
+        <verse osisID='1Kgs.14.7'>Gehe hin, sage Jerobeam: So spricht Jehovah, der Gott Israels, weil Ich dich mitten aus dem Volke erhöht und dich zum Führer über Mein Volk Israel gegeben,</verse>
+        <verse osisID='1Kgs.14.8'>Und das Königtum vom Hause Davids gerissen und es dir gegeben habe, und du nicht gewesen bist wie Mein Knecht David, der Meine Gebote hielt und wandelte Mir nach von ganzem Herzen, daß er nur tat, was recht in Meinen Augen war;</verse>
+        <verse osisID='1Kgs.14.9'>Und Böseres getan hast als alle, die vor dir waren, und hingingst und dir andere Götter und Gußbilder machtest, um Mich zu reizen, und Mich hinter deinen Rücken warfst;</verse>
+        <verse osisID='1Kgs.14.10'>Darum, siehe, bringe Ich Böses über das Haus Jerobeams, und rotte aus dem Jerobeam, was an die Wand pisset, die Zurückgehaltenen und die Verlassenen in Israel und fege aus hinter dem Hause Jerobeams her, so wie man den Kot ausfegt, bis es zunichte wird.</verse>
+        <verse osisID='1Kgs.14.11'>Was dem Jerobeam stirbt in der Stadt, sollen die Hunde fressen; und was auf dem Felde stirbt, das soll das Gevögel der Himmel fressen! Denn Jehovah hat es geredet.</verse>
+        <verse osisID='1Kgs.14.12'>Du aber mache dich auf, gehe nach deinem Hause; wenn deine Füße in die Stadt eingehen, so ist das Kind tot.</verse>
+        <verse osisID='1Kgs.14.13'>Und ganz Israel wird um ihn klagen und ihn begraben; aber er allein wird von Jerobeam in ein Grab kommen, darum, daß in ihm noch Gutes<note>ein gutes Wort</note> gegen Jehovah, den Gott Israels, in Jerobeams Hause gefunden ward.</verse>
+        <verse osisID='1Kgs.14.14'>Jehovah aber wird Sich einen König über Israel erstehen lassen, der das Haus des Jerobeam ausrotten wird an jenem Tage! Und was auch jetzt?</verse>
+        <verse osisID='1Kgs.14.15'>Und Jehovah wird Israel schlagen, gleich wie das Rohr im Wasser umhergeweht wird und wird Israel ausreißen von diesem guten Boden, den Er ihren Vätern gegeben hat, und über den Fluß<note>d.i. Euphrat</note> hin zersprengen, weil sie sich Ascheren gemacht, um Jehovah zu reizen.</verse>
+        <verse osisID='1Kgs.14.16'>Und er wird Israel hingeben wegen der Sünden Jerobeam, die er gesündigt, und die er Israel sündigen machte.</verse>
+        <verse osisID='1Kgs.14.17'>Und Jerobeams Weib machte sich auf und ging und kam nach Thirzah; sie kam auf die Schwelle des Hauses, und der Junge starb.</verse>
+        <verse osisID='1Kgs.14.18'>Und ganz Israel begrub ihn und klagte um ihn nach dem Worte Jehovahs, das er durch die Hand Seines Knechtes Achijahu, des Propheten, geredet hatte.</verse>
+        <verse osisID='1Kgs.14.19'>Und die übrigen Geschichten<note>Worte</note> Jerobeams, wie er stritt und wie er regierte, siehe, sie sind geschrieben in dem Buche der Tagesgeschichte<note>Worte der Tage = Chronik</note> der Könige Israels.</verse>
+        <verse osisID='1Kgs.14.20'>Und der Tage, die Jerobeam König war, waren zweiundzwanzig Jahre, und er entschlief zu<note>lag bei</note> seinen Vätern, und sein Sohn Nadab ward König an seiner Stelle.</verse>
+        <verse osisID='1Kgs.14.21'>Und Rechabeam, der Sohn Salomohs, war König in Judah. Einundvierzig Jahre alt<note>ein Sohn von 41 Jahren</note> war Rechabeam, als er König wurde, und regierte siebzehn Jahre in Jerusalem, der Stadt, die Jehovah aus allen Stämmen<note>Ruten</note> Israels erwählt hatte, Seinen Namen allda zu setzen; und der Name seiner Mutter war Naamah, die Ammoniterin,</verse>
+        <verse osisID='1Kgs.14.22'>Und Judah tat, was böse war in den Augen Jehovahs, und sie erregten ihn zum Eifer, mehr denn alles, was ihre Väter getan, mit ihren Sünden, die sie sündigten.</verse>
+        <verse osisID='1Kgs.14.23'>Und sie bauten sich auch Opferhöhen und Bildsäulen und Ascheren auf jedem hohen Hügel und unter jedem grünen Baum.</verse>
+        <verse osisID='1Kgs.14.24'>Und Buhlknaben waren auch im Lande, sie taten nach allen Greueln der Völkerschaften, die Jehovah vor den Söhnen Israels ausgetrieben hatte.</verse>
+        <verse osisID='1Kgs.14.25'>Und es geschah, im fünften Jahre des Königs Rechabeam zog Schischak, König von Ägypten, wider Jerusalem herauf;</verse>
+        <verse osisID='1Kgs.14.26'>Und er nahm die Schätze des Hauses Jehovahs und die Schätze des Hauses des Königs, und alles nahm er hinweg, und er nahm die goldenen Schilde, die Salomoh hatte machen lassen.</verse>
+        <verse osisID='1Kgs.14.27'>Und König Rechabeam ließ statt ihrer eherne Schilde machen, und bestellte sie in die Hand der Obersten der Läufer, die den Eingang des Hauses des Königs hüteten.</verse>
+        <verse osisID='1Kgs.14.28'>Und es geschah, wenn der König in das Haus Jehovahs einging, trugen sie die Läufer und brachten sie in das Zimmer der Läufer zurück.</verse>
+        <verse osisID='1Kgs.14.29'>Und die übrigen Geschichten<note>Worte</note> Rechabeams und alles, was er getan, sind sie nicht geschrieben in dem Buche der Tagesgeschichten<note>Worte der Tage = Chronik</note> der Könige Judahs?</verse>
+        <verse osisID='1Kgs.14.30'>Und all die Tage war Streit zwischen Rechabeam und Jerobeam.</verse>
+        <verse osisID='1Kgs.14.31'>Und Rechabeam entschlief<note>lag</note> zu seinen Vätern und ward begraben bei seinen Vätern in der Stadt Davids. Und der Name seiner Mutter war Naamah, die Ammoniterin, und König ward an seiner Stelle Abijam, sein Sohn.</verse>
+      </chapter>
+      <chapter osisID='1Kgs.15'>
+        <title>Abijam und Asa in Judah, Nadab Baesa in Israel.</title>
+        <verse osisID='1Kgs.15.1'>Und im achtzehnten Jahre des Königs Jerobeam, des Sohnes Nebats, ward Abijam König über Judah.</verse>
+        <verse osisID='1Kgs.15.2'>Drei Jahre war er König in Jerusalem; und der Name seiner Mutter war Maachah, Tochter Abischaloms.</verse>
+        <verse osisID='1Kgs.15.3'>Und er wandelte in allen Sünden seines Vaters, die er vor ihm getan, und sein Herz war nicht ganz bei Jehovah, seinem Gott, wie das Herz Davids, seines Vaters,</verse>
+        <verse osisID='1Kgs.15.4'>Denn um Davids willen gab Jehovah, sein Gott, ihm eine Leuchte<note>Lampe</note> in Jerusalem, so daß er seinen Sohn nach ihm bestätigte und Jerusalem stehen ließ.</verse>
+        <verse osisID='1Kgs.15.5'>Weil David tat, was recht war in den Augen Jehovahs, und nicht abwich von allem, was Er ihm gebot, alle Tage seines Lebens, außer in betreff<note>Worte</note> des Chethiters Urijah.</verse>
+        <verse osisID='1Kgs.15.6'>Und es war Streit zwischen Rechabeam und Jerobeam alle Tage seines Lebens.</verse>
+        <verse osisID='1Kgs.15.7'>Und das übrige der Geschichten<note>Worte</note> Abijams und alles, was er tat, sind sie nicht geschrieben in den Tagesgeschichten<note>den Worten der Tage = Chronik</note> der Könige Judahs? Und Streit war zwischen Abijam und Jerobeam.</verse>
+        <verse osisID='1Kgs.15.8'>Und es entschlief<note>lag</note> Abijam zu seinen Vätern, und sie begruben ihn in der Stadt Davids. Und Asa, sein Sohn, ward König an seiner Stelle.</verse>
+        <verse osisID='1Kgs.15.9'>Und im zwanzigsten Jahre Jerobeams, König von Israel, ward Asa König über Judah.</verse>
+        <verse osisID='1Kgs.15.10'>Und einundvierzig Jahre regierte er in Jerusalem, und der Name seiner Mutter war Maachah, eine Tochter Abischaloms.</verse>
+        <verse osisID='1Kgs.15.11'>Und Asa tat, was recht war in den Augen Jehovahs, wie David, sein Vater,</verse>
+        <verse osisID='1Kgs.15.12'>Und er tat fort die Buhlknaben aus dem Lande, und nahm weg alle die Götzen, die seine Väter gemacht hatten.</verse>
+        <verse osisID='1Kgs.15.13'>Und auch der Maachah, seiner Mutter, nahm er weg ihre Gebieterschaft<note>d.i. ihre Würde als Königsmutter</note>, weil sie ein Schandbild für die Aschere gemacht, auch ließ Asa ihr Schandbild umhauen und verbrannte es im Bachtal Kidron.</verse>
+        <verse osisID='1Kgs.15.14'>Aber die Opferhöhen taten sie nicht weg; doch war Asas Herz ganz bei Jehovah, alle seine Tage.</verse>
+        <verse osisID='1Kgs.15.15'>Und er brachte das von seinem Vater Geheiligte und das von ihm Geheiligte in das Haus Jehovahs, Silber und Gold und Geräte.</verse>
+        <verse osisID='1Kgs.15.16'>Und es war Streit zwischen Asa und Baescha, König von Israel, all ihre Tage.</verse>
+        <verse osisID='1Kgs.15.17'>Und Baescha, König von Israel, zog herauf wider Judah und baute Ramah, daß er niemanden gestatte<note>gebe</note> auszugehen und einzugehen zu Asa, dem König von Judah.</verse>
+        <verse osisID='1Kgs.15.18'>Und Asa nahm alles Silber und Gold, das übrig war in den Schätzen des Hauses Jehovahs, und die Schätze des Hauses des Königs, und gab sie in die Hand seiner Knechte; und König Asa sandte sie an Ben-Hadad, den Sohn Tabrimmons, des Sohnes Chesjons, König von Aram, der in Damaskus wohnte<note>saß</note>, und ließ ihm sagen:</verse>
+        <verse osisID='1Kgs.15.19'>Es ist ein Bund zwischen mir und dir, zwischen meinem Vater und deinem Vater; siehe, ich sende dir ein Geschenk von Silber und Gold. Gehe, mache zunichte deinen Bund mit Baescha, dem Könige Israels, daß er von mir hinaufziehe.</verse>
+        <verse osisID='1Kgs.15.20'>Und Ben-Hadad hörte auf den König Asa und sandte die Obersten seiner Streitmacht wider die Städte Israels und schlug Ijon und Dan und Abel Beth-Maachah und ganz Kinneroth, nebst dem ganzen Lande Naphthali.</verse>
+        <verse osisID='1Kgs.15.21'>Und es geschah, da Baescha das hörte, hörte er auf, Ramah zu bauen, und wohnte<note>saß</note> in Thirzah.</verse>
+        <verse osisID='1Kgs.15.22'>Und der König Asa ließ hören ganz Judah, so daß niemand dessen ledig war, und sie trugen die Steine Ramahs und sein Holzwerk, das Baescha gebaut, weg, und König Asa baute damit Geba in Benjamin und Mizpah.</verse>
+        <verse osisID='1Kgs.15.23'>Und alle übrigen Geschichten<note>Worte</note> Asas und all seine Macht und alles, was er getan, und die Städte, die er gebaut, sind sie nicht geschrieben in dem Buche der Tages- geschichten<note>den Worten der Tage = Chronik</note> der Könige Judahs? Nur zur Zeit seines Alters ward er krank an seinen Füßen.</verse>
+        <verse osisID='1Kgs.15.24'>Und Asa entschlief<note>lag</note> mit seinen Vätern, und ward begraben bei seinen Vätern, in der Stadt Davids, seines Vaters, und Jehoschaphat, sein Sohn, ward König an seiner Stelle.</verse>
+        <verse osisID='1Kgs.15.25'>Und Nadab, der Sohn Jerobeams, ward König über Israel im zweiten Jahre Asas, des Königs von Judah, und war zwei Jahre König über Israel.</verse>
+        <verse osisID='1Kgs.15.26'>Und er tat, was böse war in den Augen Jehovahs, und wandelte im Wege seines Vaters und in seiner Sünde, damit er Israel hatte sündigen gemacht.</verse>
+        <verse osisID='1Kgs.15.27'>Und es verschwor sich gegen ihn Baescha, der Sohn Achijahs, vom Hause Issaschar, und Baescha schlug ihn in Gibbethon, das der Philister ist; Nadab aber und ganz Israel belagerten Gibbethon.</verse>
+        <verse osisID='1Kgs.15.28'>Und Baescha tötete ihn im dritten Jahre Asas, des Königs von Judah, und ward König an seiner Stelle.</verse>
+        <verse osisID='1Kgs.15.29'>Und es geschah, als er König ward, erschlug er das ganze Haus Jerobeams und ließ keinen, der Odem hatte, von Jerobeam verbleiben, bis er ihn vernichtet hatte nach dem Worte Jehovahs, das Er durch die Hand Seines Knechtes Achijah, des Schiloniters, geredet hatte.</verse>
+        <verse osisID='1Kgs.15.30'>Ob den Sünden Jerobeams, die er sündigte, und die er Israel sündigen machte, ob dem Reizen, weil er Jehovah, den Gott Israels, reizte.</verse>
+        <verse osisID='1Kgs.15.31'>Und die übrigen Geschichten<note>Worte</note> Nadabs und alles, was er tat, ist es nicht geschrieben im Buche der Tagesgeschichten<note>der Worte der Tage = Chronik</note> der Könige Israels?</verse>
+        <verse osisID='1Kgs.15.32'>Und es war Streit zwischen Asa und Baescha, dem Könige Israels, all ihre Tage.</verse>
+        <verse osisID='1Kgs.15.33'>Im dritten Jahre Asas, des Königs von Judah, ward Baescha, der Sohn Achijahs, König über ganz Israel in Thirzah, vierundzwanzig Jahre.</verse>
+        <verse osisID='1Kgs.15.34'>Und er tat, was böse war in den Augen Jehovahs, und wandelte im Wege Jerobeams und in seiner Sünde, damit er Israel hatte sündigen gemacht.</verse>
+      </chapter>
+      <chapter osisID='1Kgs.16'>
+        <title>Baeschas Tod. Elah von Simri getötet. - Simris Tod. Omri. Achab. Isebel. - Wiederaufbau Jerichos.</title>
+        <verse osisID='1Kgs.16.1'>Und es erging Jehovahs Wort an Jehu, den Sohn Chananis, wider Baescha und sprach:</verse>
+        <verse osisID='1Kgs.16.2'>Weil Ich dich aus dem Staube erhöht und zum Führer über Mein Volk Israel gegeben habe, du aber im Wege Jerobeams gewandelt und Mein Volk Israel hast sündigen lassen, Mich zu reizen durch seine Sünden.</verse>
+        <verse osisID='1Kgs.16.3'>Siehe, so fege Ich aus hinter Baescha und hinter seinem Hause und gebe dein Haus dahin, wie das Haus von Jerobeam, dem Sohne Nebats.</verse>
+        <verse osisID='1Kgs.16.4'>Wer dem Baescha stirbt in der Stadt, den sollen die Hunde fressen, und wer ihm auf dem Felde stirbt, den soll das Gevögel der Himmel fressen.</verse>
+        <verse osisID='1Kgs.16.5'>Und die übrigen Geschichten<note>Worte</note> Baeschas und was er getan, und seine Macht, ist es nicht geschrieben im Buche der Tagesgeschichten<note>der Worte der Tage = Chronik</note> der Könige Israels?</verse>
+        <verse osisID='1Kgs.16.6'>Und Baescha entschlief<note>lag bei</note> zu seinen Vätern, und ward begraben in Thirzah, und Elah, sein Sohn, ward König an seiner Stelle.</verse>
+        <verse osisID='1Kgs.16.7'>Und es erging auch durch die Hand Jehus, des Sohnes Chananis, des Propheten, das Wort Jehovahs wider Baescha und wider sein Haus und über all das Böse, das er in den Augen Jehovahs tat, daß er Ihn reizte durch das Tun seiner Hände, daß er war wie das Haus Jerobeams, und weil er diesen erschlagen hatte.</verse>
+        <verse osisID='1Kgs.16.8'>Im sechsundzwanzigsten Jahre Asas, König von Judah, ward Elah, der Sohn Baeschas, König über Israel in Thirzah, zwei Jahre.</verse>
+        <verse osisID='1Kgs.16.9'>Und es verschwor sich wider ihn sein Knecht Simri, der Oberste der Hälfte der Streitwagen; und er war in Thirzah, trank betrunken im Hause Arzas, der über sein Haus in Thirzah war.</verse>
+        <verse osisID='1Kgs.16.10'>Und Simri kam herein und schlug ihn und tötete ihn im siebenundzwanzigsten Jahre Asas, des Königs von Judah, und ward König an seiner Stelle.</verse>
+        <verse osisID='1Kgs.16.11'>Und es geschah, als er König ward, als er auf seinem Throne saß, erschlug er das ganze Haus Baeschas, und seine Verwandten und seine Genossen, und ließ nicht verbleiben einen, der an die Wand pißt.</verse>
+        <verse osisID='1Kgs.16.12'>Und Simri vernichtete das ganze Haus Baeschas, nach dem Worte Jehovahs, das Er durch die Hand Jehus, des Propheten, über Baescha geredet hatte.</verse>
+        <verse osisID='1Kgs.16.13'>Ob all den Sünden Baeschas und den Sünden Elahs, seines Sohnes, die sie gesündigt, und die sie Israel sündigen ließen, weil sie Jehovah, den Gott Israels, durch ihre Abgöttereien<note>Nichtigkeiten</note> gereizt hatten.</verse>
+        <verse osisID='1Kgs.16.14'>Und die übrigen Geschichten<note>Worte</note> Elahs und alles, was er getan, ist es nicht geschrieben im Buche der Tagesgeschichten<note>der Worte der Tage = Chronik</note> der Könige Israels?</verse>
+        <verse osisID='1Kgs.16.15'>Im siebenundzwanzigsten Jahre, dem Jahre Asas, des Königs von Judah, ward Simri sieben Tage König in Thirzah. Und das Volk war gelagert wider Gibbethon der Philister.</verse>
+        <verse osisID='1Kgs.16.16'>Und das Volk, das im Lager war, hörte sagen: Simri hat sich verschworen und auch den König erschlagen. Und ganz Israel machte Omri, den Obersten des Heeres, an selbigem Tage im Lager zum König über Israel.</verse>
+        <verse osisID='1Kgs.16.17'>Und Omri und ganz Israel mit ihm zogen herauf von Gibbethon und belagerten Thirzah.</verse>
+        <verse osisID='1Kgs.16.18'>Und es geschah, wie Simri sah, daß die Stadt erobert war, ging er in den Palast des Königshauses und verbrannte über sich das Königshaus mit Feuer und starb,</verse>
+        <verse osisID='1Kgs.16.19'>Ob seinen Sünden, die er gesündigt, weil er tat, was böse in den Augen Jehovahs war, indem er wandelte im Wege Jerobeams und in seiner Sünde, die er tat, daß er Israel sündigen machte.</verse>
+        <verse osisID='1Kgs.16.20'>Und das übrige der Geschichten<note>Worte</note> Simris, und die Verschwörung, mit der er sich verschwor, ist es nicht geschrieben im Buche der Tagesgeschichten<note>der Worte der Tage = Chronik</note> der Könige Israels?</verse>
+        <verse osisID='1Kgs.16.21'>Damals war das Volk Israel geteilt in Hälften, eine Hälfte des Volkes hinter Thibni, dem Sohne Ginaths, ihn zum König zu machen, und eine Hälfte hinter Omri.</verse>
+        <verse osisID='1Kgs.16.22'>Aber das Volk hinter Omri ward stärker als das Volk hinter Thibni, dem Sohne Ginaths, und Thibni starb, und Omri ward König.</verse>
+        <verse osisID='1Kgs.16.23'>Im einunddreißigsten Jahre, dem Jahre Asas, des Königs von Judah, ward Omri König über Israel, zwölf Jahre; in Thirzah regierte er sechs Jahre.</verse>
+        <verse osisID='1Kgs.16.24'>Und er kaufte den Berg Schomron von Schemer um zwei Talente Silber, und baute auf den Berg, und nannte den Namen der Stadt, die er baute, nach dem Namen Schemers, des Herrn des Berges, Schomron<note>d.i. Samaria</note>.</verse>
+        <verse osisID='1Kgs.16.25'>Und Omri tat, was böse war in den Augen Jehovahs, und war ärger denn alle, die vor ihm gewesen.</verse>
+        <verse osisID='1Kgs.16.26'>Und er wandelte in all dem Wege Jerobeams, des Sohnes Nebaths, und in seinen Sünden, damit er Israel sündigen machte, so daß sie Jehovah, den Gott Israels, durch ihre Abgöttereien<note>Nichtigkeiten</note> reizten.</verse>
+        <verse osisID='1Kgs.16.27'>Und das übrige der Geschichten<note>Worte</note> Omris, was er tat, und seine Macht, die er ausübte<note>tat</note>, ist es nicht geschrieben im Buche der Tagesgeschichten<note>der Worte der Tage = Chronik</note> der Könige Israels?</verse>
+        <verse osisID='1Kgs.16.28'>Und Omri entschlief<note>lag</note> zu seinen Vätern und ward begraben in Samaria, und Achab, sein Sohn, ward König an seiner Stelle.</verse>
+        <verse osisID='1Kgs.16.29'>Und Achab, der Sohn Omris, ward König über Israel im achtundreißigsten Jahre, dem Jahre Asas, des Königs von Judah; Achab aber, der Sohn Omris, regierte über Israel in Samaria zweiundzwanzig Jahre;</verse>
+        <verse osisID='1Kgs.16.30'>Und Achab, der Sohn Omris, tat, was böse war in den Augen Jehovahs, mehr denn alle, die vor ihm gewesen.</verse>
+        <verse osisID='1Kgs.16.31'>Und es war ihm ein Leichtes, daß er in den Sünden Jerobeams, des Sohnes Nebats, wandelte, und er nahm zum Weibe Isebel, die Tochter Ethbaals, des Königs der Zidonier, und ging und diente dem Baal und betete ihn an.</verse>
+        <verse osisID='1Kgs.16.32'>Und er richtete dem Baal einen Altar im Hause des Baal auf, das er zu Samaria gebaut hatte.</verse>
+        <verse osisID='1Kgs.16.33'>Und Achab machte eine Aschere. Und Achab fuhr fort, so zu tun, daß er Jehovah, den Gott Israels, mehr denn alle Könige Israels, die vor ihm waren, reizte.</verse>
+        <verse osisID='1Kgs.16.34'>In seinen Tagen baute Chiel, der Bethelite, Jericho auf; in seinem Erstgeborenen, Abiram, legte er dessen Grund, und in seinem Jüngsten, Segub, stellte er dessen Türen ein, nach dem Worte Jehovahs, das Er durch die Hand Jehoschuas, des Sohnes Nuns, geredet hatte.</verse>
+      </chapter>
+      <chapter osisID='1Kgs.17'>
+        <title>Elias wird von Raben gespeist, erhält die Witwe zu Zarpath (Sareptah) und erweckt ihren Sohn vom Tode.</title>
+        <verse osisID='1Kgs.17.1'>Und Elijahu<note>Elias</note>, der Thischbiter, von den Beisassen Gileads, sprach zu Achab: Beim Leben Jehovahs, des Gottes Israels, vor Dem ich stehe, es wird diese Jahre weder Tau noch Regen sein, es geschehe denn auf Befehl<note>dem Munde</note> meines Wortes.</verse>
+        <verse osisID='1Kgs.17.2'>Und es geschah das Wort Jehovahs an ihn und sprach:</verse>
+        <verse osisID='1Kgs.17.3'>Gehe von dannen und wende dich nach Morgen, und verbirg dich im Bachtal Kerith, das vor dem Jordan ist.</verse>
+        <verse osisID='1Kgs.17.4'>Und es soll sein, daß du aus dem Bache sollst trinken, und den Raben habe Ich geboten, dich dort zu versorgen.</verse>
+        <verse osisID='1Kgs.17.5'>Und er ging hin und tat nach dem Worte Jehovahs, und er ging und blieb<note>saß</note> im Bachtale Kerith, das vor dem Jordan ist.</verse>
+        <verse osisID='1Kgs.17.6'>Und die Raben brachten ihm Brot und Fleisch am Morgen, und Brot und Fleisch am Abend, und aus dem Bache trank er.</verse>
+        <verse osisID='1Kgs.17.7'>Und es geschah am Ende der Tage, daß der Bach vertrocknete, denn es war kein Regen im Lande.</verse>
+        <verse osisID='1Kgs.17.8'>Und es geschah das Wort Jehovahs an ihn und sprach:</verse>
+        <verse osisID='1Kgs.17.9'>Mache dich auf und gehe hin nach Zarpath der Zidonier, und bleibe<note>sitze</note> allda, siehe, Ich habe daselbst einem Weibe, einer Witwe geboten, dich zu versorgen.</verse>
+        <verse osisID='1Kgs.17.10'>Und er machte sich auf und ging nach Zarpath, und kam an den Eingang der Stadt, und siehe, da war ein Weib, eine Witwe, die Hölzer zusammenlas, und er rief ihr zu und sprach: Hole mir doch ein wenig Wasser in dem Gefäß auf daß ich trinke.</verse>
+        <verse osisID='1Kgs.17.11'>Und sie ging es zu holen; und er rief ihr und sprach: Hole mir doch einen Bissen Brot in deiner Hand.</verse>
+        <verse osisID='1Kgs.17.12'>Und sie sprach: Beim Leben Jehovahs, deines Gottes, ich habe nichts Gebackenes, nur eine Handvoll Mehl im Krug und ein wenig Öl im Krüglein, und siehe, ich lese eben zwei Hölzer zusammen und komme und mache es für mich und für meinen Sohn, daß wir essen und sterben.</verse>
+        <verse osisID='1Kgs.17.13'>Elijahu aber sprach zu ihr: Fürchte dich nicht, komme und tue nach deinem Worte, nur mache mir davon zuerst einen kleinen Kuchen, und bringe ihn mir heraus, dir aber und deinem Sohn sollst du es hernach machen.</verse>
+        <verse osisID='1Kgs.17.14'>Denn so spricht Jehovah, der Gott Israels: Der Krug mit Mehl soll nicht alle werden, und dem Krüglein soll es an Öl nicht mangeln bis zu dem Tage, da Jehovah Regen auf dem Boden<note>dem Angesichte des Bodens</note> gibt.</verse>
+        <verse osisID='1Kgs.17.15'>Und sie ging und tat nach dem Worte Elijahus, und sie aß, sie und er und ihr Haus, die Tage.</verse>
+        <verse osisID='1Kgs.17.16'>Der Krug Mehl ward nicht alle, und das Krüglein Öl mangelte nicht, nach dem Worte Jehovahs, das Er durch die Hand Elijahus geredet hatte.</verse>
+        <verse osisID='1Kgs.17.17'>Und es geschah nach diesen Geschichten<note>diesen Worten</note>, daß der Sohn des Weibes, der Herrin des Hauses, erkrankte, und seine Krankheit ward sehr stark, daß kein Odem in ihm übrigblieb.</verse>
+        <verse osisID='1Kgs.17.18'>Und sie sprach zu Elijahu: Was ist mir und dir, Mann Gottes, bist du zu mir hereingekommen, daß meiner Missetat gedacht werde, und um meinen Sohn zu töten?</verse>
+        <verse osisID='1Kgs.17.19'>Und er sprach zu ihr: Gib mir deinen Sohn; und er nahm ihn von ihrem Busen und brachte ihn hinauf auf den Söller, wo er wohnte<note>saß</note>, und legte ihn auf sein Bett.</verse>
+        <verse osisID='1Kgs.17.20'>Und er rief zu Jehovah und sprach: Jehovah, mein Gott, willst Du denn auch der Witwe, bei der ich mich als Fremdling aufhalte, Böses tun, daß Du ihren Sohn sterben lässest?</verse>
+        <verse osisID='1Kgs.17.21'>Und er maß sich zu dreien Malen über das Kind, und rief zu Jehovah und sprach: Jehovah, mein Gott, laß doch die Seele dieses Kindes in sein Inneres zurückkommen!</verse>
+        <verse osisID='1Kgs.17.22'>Und Jehovah hörte auf die Stimme Elijahus, und die Seele des Kindes kam zurück in sein Inneres, und es ward lebendig.</verse>
+        <verse osisID='1Kgs.17.23'>Und Elijahu nahm das Kind und brachte es vom Söller herab in das Haus und gab es seiner Mutter. Und Elijahu sprach: Siehe, dein Sohn lebt!</verse>
+        <verse osisID='1Kgs.17.24'>Und das Weib sprach zu Elijahu: Daran nun weiß ich, daß du ein Mann Gottes bist, und das Wort Jehovahs in deinem Munde Wahrheit ist.</verse>
+      </chapter>
+      <chapter osisID='1Kgs.18'>
+        <title>Elias und die Baalspriester.</title>
+        <verse osisID='1Kgs.18.1'>Und es geschah nach vielen Tagen, daß das Wort Jehovahs geschah an Elijahu im dritten Jahre und sprach: Gehe hin und erscheine dem Achab, daß Ich Regen auf den Boden<note>dem Angesichte des Bodens</note> gebe.</verse>
+        <verse osisID='1Kgs.18.2'>Und Elijahu ging, daß er sich dem Achab zeige. Die Hungersnot war aber stark in Samaria.</verse>
+        <verse osisID='1Kgs.18.3'>Und Achab hatte Obadjahu rufen lassen, der über sein Haus war; Obadjahu aber fürchtete Jehovah sehr.</verse>
+        <verse osisID='1Kgs.18.4'>Und es geschah, als Isebel die Propheten Jehovahs ausrottete, da nahm Obadjahu hundert Propheten und versteckte sie, je fünfzig Mann in einer Höhle und versorgte sie mit Brot und Wasser.</verse>
+        <verse osisID='1Kgs.18.5'>Und Achab sprach zu Obadjahu: Gehe durch das Land zu allen Brunnquellen der Wasser und zu allen Bächen; vielleicht finden wir Gras, daß wir Pferd und Maultier am Leben erhalten und keines vom Vieh ausgerottet werde.</verse>
+        <verse osisID='1Kgs.18.6'>Und sie teilten das Land unter sich, um es zu durchziehen, Achab ging den einen Weg allein, und Obadjahu ging den anderen<note>den einen</note> Weg allein.</verse>
+        <verse osisID='1Kgs.18.7'>Und es geschah, da Obadjahu auf dem Wege war, und siehe, Elijahu begegnete ihm, und er erkannte ihn, und fiel auf sein Angesicht und sprach. Bist du das, mein Herr Elijahu?</verse>
+        <verse osisID='1Kgs.18.8'>Und er sprach zu ihm: Ich bin es. Gehe und sage deinem Herrn: Siehe, Elijahu ist da.</verse>
+        <verse osisID='1Kgs.18.9'>Und er sprach: Was habe ich gesündigt, daß du deinen Knecht in die Hand Achabs gibst, daß er mich töte?</verse>
+        <verse osisID='1Kgs.18.10'>Beim Leben Jehovahs, deines Gottes, keine Völkerschaft, noch Königreich gibt es, dahin mein Herr nicht gesendet hätte dich zu suchen; und sagten sie: Er ist nicht da, so ließ er das Königreich und die Völkerschaft schwören, daß man dich nicht gefunden.</verse>
+        <verse osisID='1Kgs.18.11'>Und du sprichst nun: Gehe und sage deinem Herrn: Siehe, Elijahu ist da!</verse>
+        <verse osisID='1Kgs.18.12'>Und es wird geschehen, daß ich von dir ginge und der Geist Jehovahs erhöbe dich, ich wüßte nicht wohin? und ich käme, Achab es anzusagen, und er fände dich nicht, da erwürgete er mich, und doch fürchtet dein Knecht Jehovah von Jugend auf.</verse>
+        <verse osisID='1Kgs.18.13'>Ist meinem Herrn nicht angesagt worden, was ich tat, da Isebel die Propheten Jehovahs erwürgte? daß ich von den Propheten Jehovahs hundert Mann, je fünfzig und fünfzig Mann in einer Höhle versteckte und sie mit Brot und Wasser versorgte?</verse>
+        <verse osisID='1Kgs.18.14'>Und nun sprichst du: Gehe, sage deinem Herrn: Siehe, Elijahu ist da; daß er mich erwürge.</verse>
+        <verse osisID='1Kgs.18.15'>Und Elijahu sprach: Beim Leben Jehovahs der Heerscharen, vor Dem ich stehe, diesen Tag werde ich ihm erscheinen.</verse>
+        <verse osisID='1Kgs.18.16'>Und Obadjahu ging dem Achab entgegen und sagte es ihm an; und Achab ging Elijahu entgegen.</verse>
+        <verse osisID='1Kgs.18.17'>Und es geschah, als Achab den Elijahu sah, sprach Achab zu ihm: Bist du hier, Zerrütter Israels?</verse>
+        <verse osisID='1Kgs.18.18'>Und er sprach: Ich habe Israel nicht zerrüttet, sondern du und das Haus deines Vaters, damit, daß ihr die Gebote Jehovahs verlassen habt, und du den Baalim nachgewandelt bist.</verse>
+        <verse osisID='1Kgs.18.19'>Und nun sende aus, ziehe zu mir zusammen ganz Israel auf den Berg Karmel, und die vierhundertfünfzig Propheten Baals und die vierhundert Propheten der Aschere, die an Isebels Tische essen.</verse>
+        <verse osisID='1Kgs.18.20'>Und Achab sandte hin zu allen Söhnen Israels und brachte die Propheten auf den Berg Karmel zusammen.</verse>
+        <verse osisID='1Kgs.18.21'>Und Elijahu trat herbei zu allem Volk und sprach: Wie lange wollt ihr nach zwei Seiten<note>Kniekehlen</note> hinken? Ist Jehovah der Gott, so wandelt Ihm nach, und ist es der Baal, so wandelt diesem nach! Das Volk aber antwortete ihm kein Wort.</verse>
+        <verse osisID='1Kgs.18.22'>Und Elijahu sprach zum Volke: Ich allein bin noch übriggeblieben als Jehovahs Prophet, und der Propheten des Baal sind hier vierhundertfünfzig Mann.</verse>
+        <verse osisID='1Kgs.18.23'>So gebet uns zwei Farren, und sie sollen sich den einen Farren erwählen und ihn zerstücken und ihn auf die Hölzer legen, aber kein Feuer daran legen; und ich mache den anderen<note>den einen</note> Farren, und gebe ihn auf die Hölzer und lege kein Feuer daran.</verse>
+        <verse osisID='1Kgs.18.24'>Und rufet den Namen eures Gottes an, und ich will den Namen Jehovahs anrufen, und nun soll geschehen, daß der Gott, der mit Feuer antwortet, der sei Gott. Und das ganze Volk antwortete und sprach: Das Wort ist gut.</verse>
+        <verse osisID='1Kgs.18.25'>Und Elijahu sprach zu den Propheten des Baal: Erwählet euch den einen Farren und macht ihn zuerst, denn euer sind viele, und rufet den Namen eures Gottes an, legt aber kein Feuer daran.</verse>
+        <verse osisID='1Kgs.18.26'>Und sie nahmen den Farren, den man ihnen gab, und machten ihn zurecht<note>machten ihn</note> und riefen von Morgen und bis zum Mittag den Namen Baals an und sprachen: Baal, antworte uns! Aber da war keine Stimme und keine Antwort; und sie hinkten bei dem Altar, den man gemacht hatte.</verse>
+        <verse osisID='1Kgs.18.27'>Und es war am Mittag, und Elijahu verspottete sie und sprach: Rufet mit großer Stimme; denn er ist ein Gott, er sinnt nach, oder ist abseits gegangen, ist auf dem Wege, vielleicht schläft er und wird aufwachen!</verse>
+        <verse osisID='1Kgs.18.28'>Und sie riefen mit großer Stimme, machten sich Einschnitte nach ihrem Brauch<note>Gericht</note> mit Schwertern und mit Speeren, bis das Blut sich über sie ergoß.</verse>
+        <verse osisID='1Kgs.18.29'>Und es geschah, als der Mittag vorüberging, weissagten sie bis zum Aufopfern des Speiseopfers. Aber da war keine Stimme und keine Antwort und kein Aufmerken.</verse>
+        <verse osisID='1Kgs.18.30'>Elijahu aber sprach zu allem Volke: Tretet herbei zu mir! Und alles Volk trat zu ihm herbei, und er heilte den Altar Jehovahs, der niedergerissen war.</verse>
+        <verse osisID='1Kgs.18.31'>Und Elijahu nahm zwölf Steine, nach der Zahl der Stämme<note>Ruten</note> der Söhne Jakobs, an den das Wort Jehovahs ergangen war und gesagt hatte: Israel soll dein Name sein.</verse>
+        <verse osisID='1Kgs.18.32'>Und er baute mit den Steinen einen Altar im Namen Jehovahs, und machte einen Wassergraben, wie den Raum<note>das Haus</note> von zwei Seah Samen rings um den Altar.</verse>
+        <verse osisID='1Kgs.18.33'>Und ordnete die Hölzer an und zerstückte den Farren und legte ihn auf die Hölzer.</verse>
+        <verse osisID='1Kgs.18.34'>Und sprach: Füllet vier Krüge mit Wasser und gießet es auf das Brandopfer und die Hölzer. Und er sprach: Tut es zum zweitenmal, und sie taten es zum zweitenmal. Und er sprach: Tut es zum drittenmal, und sie taten es zum drittenmal.</verse>
+        <verse osisID='1Kgs.18.35'>Und das Wasser lief rings um den Altar; und auch der Wassergraben füllte sich mit Wasser.</verse>
+        <verse osisID='1Kgs.18.36'>Und es geschah, da das Speiseopfer aufgeopfert ward, daß Elijahu, der Prophet, hinzutrat und sprach: Jehovah, Gott Abrahams, Isaaks und Israels, laß heute kund werden, daß Du bist der Gott in Israel, und ich Dein Knecht; und daß ich alle diese Dinge<note>Worte</note> auf Dein Wort getan habe.</verse>
+        <verse osisID='1Kgs.18.37'>Antworte mir, Jehovah, antworte mir! auf daß dieses Volk wisse, daß Du, Jehovah, der Gott bist, und daß Du ihr Herz wieder rückwärts umwendest.</verse>
+        <verse osisID='1Kgs.18.38'>Und es fiel das Feuer Jehovahs herab und fraß auf das Brandopfer und die Hölzer und die Steine und den Staub; und das Wasser, das in dem Wassergraben war, leckte es auf.</verse>
+        <verse osisID='1Kgs.18.39'>Und alles Volk sah es, und sie fielen auf ihr Angesicht und sprachen: Jehovah, Der ist der Gott! Jehovah, Der ist der Gott!</verse>
+        <verse osisID='1Kgs.18.40'>Und Elijahu sprach zu ihnen: Fasset die Propheten Baals, laßt keinen Mann von ihnen entrinnen! Und sie faßten sie, und Elijahu brachte sie hinab an den Bach Kischon und schlachtete sie daselbst.</verse>
+        <verse osisID='1Kgs.18.41'>Und Elijahu sprach zu Achab: Zieh hinauf, iß und trink, denn das Rauschen<note>die Stimme</note> vielen Regens ist da.</verse>
+        <verse osisID='1Kgs.18.42'>Und Achab zog hinauf, zu essen und zu trinken; Elijahu aber ging hinauf auf die Spitze<note>das Haupt</note> des Karmel, bückte sich zur Erde nieder und legte sein Haupt zwischen die Knie.</verse>
+        <verse osisID='1Kgs.18.43'>Und sprach zu seinem Jungen: Gehe hinauf, blicke des Weges zum Meere zu! Und er ging hinauf und blickte und sprach: Da ist gar nichts; und er sprach: Kehre zurück siebenmal!</verse>
+        <verse osisID='1Kgs.18.44'>Und es geschah beim siebenten Mal, daß er sprach: Siehe, eine kleine dichte Wolke, wie die Hand eines Mannes, kommt herauf vom Meere. Und er sprach: Gehe hinauf und sprich zu Achab: Spanne an und gehe hinab, daß dich der Platzregen nicht zurückhalte.</verse>
+        <verse osisID='1Kgs.18.45'>Und es geschah, bis so und so weit, da ward der Himmel dunkel mit dichten Wolken und Wind, und es ward ein großer Platzregen. Und Achab fuhr und ging nach Jisreel.</verse>
+        <verse osisID='1Kgs.18.46'>Und die Hand Jehovahs war auf Elijahu; und er gürtete seine Lenden zusammen und lief vor Achab her, bis man kommt nach Jisreel.</verse>
+      </chapter>
+      <chapter osisID='1Kgs.19'>
+        <title>Elias flieht vor Isebel. - Ein Engel stärkt ihn. Elischa.</title>
+        <verse osisID='1Kgs.19.1'>Und Achab sagte der Isebel an alles, was Elijahu getan hatte, und alles, wie er alle Propheten mit dem Schwerte erwürgt.</verse>
+        <verse osisID='1Kgs.19.2'>Und Isebel sandte einen Boten an Elijahu und ließ ihm sagen: So sollen mir die Götter tun, und so fortfahren, wenn ich um die morgende Zeit deine Seele nicht mache<note>setze</note> wie die Seele eines von ihnen.</verse>
+        <verse osisID='1Kgs.19.3'>Und er fürchtete sich und machte sich auf und ging um seiner Seele willen, und kam nach Beerscheba in Judah, und ließ seinen Jungen allda bleiben.</verse>
+        <verse osisID='1Kgs.19.4'>Er aber ging in die Wüste, eines Tages Weg, und kam und setzte sich unter einen Ginsterstrauch, und bat für seine Seele, daß er sterbe, und sprach: Nun ist es genug<note>viel</note> Jehovah, nimm meine Seele, denn ich bin nicht besser, als meine Väter.</verse>
+        <verse osisID='1Kgs.19.5'>Und er legte sich nieder und schlief unter einem Ginsterstrauch, und siehe da, ein Engel rührte ihn an und sprach zu ihm: Stehe auf, iß!</verse>
+        <verse osisID='1Kgs.19.6'>Und er blickte auf und siehe, zu seinen Häupten war ein auf glühenden Kohlen gebakkener Kuchen<note>ein Kuchen der Glühkohlen</note> und ein Krüglein mit Wasser. Und er aß und trank und legte sich wieder zu schlafen<note>kehrte zurück zu schlafen</note>.</verse>
+        <verse osisID='1Kgs.19.7'>Und der Engel Jehovahs kehrte zurück zum zweitenmal und rührte ihn an und sprach: Stehe auf und iß, denn zuviel ist deines Weges für dich.</verse>
+        <verse osisID='1Kgs.19.8'>Und er stand auf und aß und trank, und ging in Kraft dieser Speise vierzig Tage und vierzig Nächte bis an den Berg Gottes, Choreb.</verse>
+        <verse osisID='1Kgs.19.9'>Und er kam allda an eine Höhle und übernachtete daselbst; und siehe, das Wort Jehovahs geschah an ihn und sprach zu ihm: Was ist dir hier Elijahu?</verse>
+        <verse osisID='1Kgs.19.10'>Er aber sprach: Ich habe geeifert<note>eifernd geeifert</note> für Jehovah, den Gott der Heerscharen, weil die Söhne Israels Deinen Bund verlassen, Deine Altäre eingerissen und Deine Propheten mit dem Schwert erwürgt haben, und ich allein bin übriggeblieben. Und sie trachten nach meiner Seele, sie zu nehmen.</verse>
+        <verse osisID='1Kgs.19.11'>Und er sprach: Gehe hinaus und stehe auf dem Berg vor Jehovah, und siehe, Jehovah geht vorüber. Und ein großer und starker Wind, Berge zerberstend und Felsenklippen zerbrechend, vor Jehovah. Nicht im Winde war Jehovah. Und nach dem Winde ein Erdbeben; im Erdbeben war Jehovah nicht.</verse>
+        <verse osisID='1Kgs.19.12'>Und nach dem Erdbeben ein Feuer. Nicht im Feuer war Jehovah; und nach dem Feuer eine Stimme, still, sanft<note>fein</note>.</verse>
+        <verse osisID='1Kgs.19.13'>Und es geschah, als Elijahu dies hörte, da hüllte er sein Angesicht ein in seinen Mantel und ging hinaus und stand am Eingang der Höhle und siehe, ihm ward eine Stimme und sprach: Was ist dir hier, Elijahu?</verse>
+        <verse osisID='1Kgs.19.14'>Und er sprach: Ich habe geeifert<note>eifernd geeifert</note> für Jehovah, den Gott der Heerscharen, weil die Söhne Israels Deinen Bund verlassen, Deine Altäre eingerissen und deine Propheten mit dem Schwert erwürgt haben, und ich allein übriggeblieben bin, und sie trachten nach meiner Seele, sie zu nehmen.</verse>
+        <verse osisID='1Kgs.19.15'>Und Jehovah sprach zu ihm: Gehe, kehre zurück auf deinem Wege zur Wüste gegen Damask und komme und salbe Chasael zum Könige über Aram<note>d.h. Syrien</note>.</verse>
+        <verse osisID='1Kgs.19.16'>Und Jehu, den Sohn des Nimschi, salbe zum König über Israel, und Elischa, den Sohn Schaphats von Abel-Mecholah, salbe zum Propheten an deiner Stelle.</verse>
+        <verse osisID='1Kgs.19.17'>Und es soll geschehen, wer von dem Schwerte Chasaels entrinnt, den soll Jehu töten, und wer von dem Schwerte Jehus entrinnt, den soll Elischa töten.</verse>
+        <verse osisID='1Kgs.19.18'>Und Ich lasse in Israel siebentausend verbleiben, alle Knie, die sich nicht dem Baal gebeugt, und allen Mund, der ihn nicht geküßt hat.</verse>
+        <verse osisID='1Kgs.19.19'>Und er ging von dannen und fand Elischa, den Sohn Schaphats, und er pflügte mit zwölf Jochen vor ihm her, und er war bei dem zwölften. Und Elijahu ging zu ihm hinüber und warf seinen Mantel auf ihn.</verse>
+        <verse osisID='1Kgs.19.20'>Und er verließ die Rinder und lief dem Elijahu nach und sprach: Laß mich doch meinen Vater und meine Mutter küssen, dann will ich dir nachgehen; und er sprach zu ihm: Gehe, kehre zurück, was habe ich dir getan?</verse>
+        <verse osisID='1Kgs.19.21'>Und er kehrte zurück von<note>von hinter ihm</note>, und nahm das Joch Rinder und opferte es, und mit dem Rindergerät kochte er das Fleisch und gab es dem Volke, und sie aßen. Und er machte sich auf und ging Elijahu nach und bediente ihn.</verse>
+      </chapter>
+      <chapter osisID='1Kgs.20'>
+        <title>Achabs Siege über Ben-Hadad.</title>
+        <verse osisID='1Kgs.20.1'>Und Ben-Hadad, König von Aram<note>d.h. Syrien</note> zog zusammen all seine Streitmacht, und zweiunddreißig Könige waren mit ihm, und Pferde und Streitwagen; und er zog hinauf, und belagerte Samaria und stritt wider dasselbe;</verse>
+        <verse osisID='1Kgs.20.2'>Und sandte Boten an Achab, König von Israel, nach der Stadt,</verse>
+        <verse osisID='1Kgs.20.3'>Und ließ ihm sagen: So spricht Ben-Hadad: Dein Silber und dein Gold ist mein, und deine Weiber und deine Söhne, die guten, sie sind mein.</verse>
+        <verse osisID='1Kgs.20.4'>Und es antwortete der König von Israel und sprach: Nach deinem Worte, mein Herr König; dein bin ich und alles, was mein ist.</verse>
+        <verse osisID='1Kgs.20.5'>Und es kamen die Boten zurück und sagten: Also spricht Ben-Hadad und sagt: Habe ich an dich gesandt und sagen lassen, du sollst dein Silber und dein Gold, deine Weiber und deine Söhne mir geben?</verse>
+        <verse osisID='1Kgs.20.6'>Fürwahr, um diese Zeit morgen werde ich meine Knechte zu dir senden, daß sei dein Haus und deiner Knechte Häuser durchsuchen, und all deiner Augen Begehr sollen sie in ihre Hand legen und nehmen.</verse>
+        <verse osisID='1Kgs.20.7'>Und der König von Israel rief alle Ältesten des Landes und sprach: Wisset doch und sehet, daß er nach Bösem trachtet, denn er sandte an mich wegen meiner Weiber und meiner Söhne und meines Silbers und meines Goldes; und ich wollte sie ihm nicht vorenthalten.</verse>
+        <verse osisID='1Kgs.20.8'>Und es sprachen zu ihm alle Ältesten und alles Volk: Höre nicht auf ihn und sei nicht willens.</verse>
+        <verse osisID='1Kgs.20.9'>Und er sprach zu den Boten Ben-Hadads: Saget meinem Herrn, dem Könige: Alles, wofür du an deinen Knecht zuerst gesandt hast, will ich tun, aber dies<note>dieses Wort</note> vermag ich nicht zu tun; und die Boten gingen hin und brachten das Wort zurück.</verse>
+        <verse osisID='1Kgs.20.10'>Und Ben-Hadad sandte zu ihm und ließ ihm sagen: So sollen mir die Götter tun und so fortfahren, wenn der Staub Samarias ausreichen soll für die hohle Hand alles Volkes, das mir zu Fuße folgt<note>das zu meinen Füßen `ist'</note>.</verse>
+        <verse osisID='1Kgs.20.11'>Und der König von Israel antwortete und sprach: Redet zu ihm: Es rühme sich nicht, der sich gürtet, wie der, so sich abgürtet<note>öffnet</note>!</verse>
+        <verse osisID='1Kgs.20.12'>Und es geschah, als er dieses Wort hörte, da trank er und die Könige in den Hütten, und er sprach zu seinen Knechten: Stellet<note>oder: leget an</note> euch auf, und sie stellten sich auf wider die Stadt.</verse>
+        <verse osisID='1Kgs.20.13'>Und siehe, da trat ein Prophet herzu zu Achab, dem König Israels, und sprach: So spricht Jehovah: Hast du all diese große Menge gesehen? Siehe, Ich gebe sie heute in deine Hand, auf daß du wissest, daß Ich Jehovah bin.</verse>
+        <verse osisID='1Kgs.20.14'>Und Achab sprach: Durch wen? Und Er sprach: So spricht Jehovah: Durch die Jungen der Obersten der Landschaften. Und er sprach: Wer soll den Streit anbinden? Und Er sprach: Du!</verse>
+        <verse osisID='1Kgs.20.15'>Und er musterte die Jungen der Obersten der Landschaften und es waren zweihundertzweiunddreißig. Und nach ihnen musterte er alles Volk, alle Söhne Israels, siebentausend.</verse>
+        <verse osisID='1Kgs.20.16'>Und sie zogen aus am Mittag, und Ben-Hadad trank trunken in den Hütten, er und die Könige, die zweiunddreißig Könige, die ihm beistanden.</verse>
+        <verse osisID='1Kgs.20.17'>Und die Jungen der Obersten der Landschaften zogen zuerst aus, da sandte Ben-Hadad hin, und sie sagten ihm an und sprachen: Männer ziehen aus Samaria aus.</verse>
+        <verse osisID='1Kgs.20.18'>Und er sprach: Ziehen sie im Frieden heraus, so fasset sie lebendig. Und sind sie zum Streit ausgezogen, so fasset sie lebendig.</verse>
+        <verse osisID='1Kgs.20.19'>Und diese zogen aus von der Stadt, die Jungen der Obersten der Landschaften, und die Streitmacht, die hinter ihnen war.</verse>
+        <verse osisID='1Kgs.20.20'>Und sie schlugen, jeder Mann seinen Mann, und Aram floh, und Israel setzte ihnen nach, und Ben-Hadad, der König Arams, entrann zu Pferd, und die Reiter.</verse>
+        <verse osisID='1Kgs.20.21'>Und der König von Israel zog aus und schlug Pferd und Streitwagen, und schlug Aram in einer großen Schlacht.</verse>
+        <verse osisID='1Kgs.20.22'>Und der Prophet trat zum König von Israel herzu und sprach zu ihm: Gehe, stärke dich und wisse und siehe, was du tust. Denn bei der Rückkehr des Jahres zieht der König von Aram wider dich herauf.</verse>
+        <verse osisID='1Kgs.20.23'>Und die Knechte des Königs von Aram sagten ihm: Götter der Berge sind ihre Götter, darum waren sie zu stark für uns. Vielleicht aber, wenn wir mit ihnen in der Ebene streiten, werden wir stärker sein als sie.</verse>
+        <verse osisID='1Kgs.20.24'>Tue aber so<note>dieses Wort</note>: Nimm die Könige weg, jeden Mann von seinem Orte und setze Statthalter an ihrer Stelle;</verse>
+        <verse osisID='1Kgs.20.25'>Und berechne dir eine Streitmacht wie die Streitmacht, die von dir gefallen ist, Pferd um Pferd und Streitwagen um Streitwagen, auf daß wir wider sie streiten in der Ebene, ob wir da nicht stärker sind als sie. Und er hörte auf ihre Stimme und tat also.</verse>
+        <verse osisID='1Kgs.20.26'>Und es geschah bei der Rückkehr des Jahres, da musterte Ben-Hadad Aram und zog hinauf nach Aphek zum Streite wider Israel.</verse>
+        <verse osisID='1Kgs.20.27'>Und die Söhne Israels ließen sich mustern und versorgten sich, und zogen ihnen entgegen. Und die Söhne Israels lagerten ihnen gegenüber, wie zwei Herdlein von Ziegen, und Aram füllte das Land.</verse>
+        <verse osisID='1Kgs.20.28'>Und es trat ein Mann Gottes herzu und sprach zu dem König von Israel und sagte: So spricht Jehovah: Weil Aram sprach: Ein Gott der Berge ist Jehovah, und kein Gott der Talgründe, so habe Ich all diese große Menge in deine Hand gegeben, auf daß ihr wisset, daß Ich Jehovah bin.</verse>
+        <verse osisID='1Kgs.20.29'>Und sieben Tage lagerten diese jenen stracks gegenüber; und es geschah am siebenten Tage, daß der Streit nahte, und die Söhne Israels schlugen von Aram hunderttausend Fußvolk an einem Tag.</verse>
+        <verse osisID='1Kgs.20.30'>Und die Übriggebliebenen flohen nach Aphek in die Stadt. Und es fiel die Stadtmauer auf siebenundzwanzigtausend Mann, die übriggeblieben waren, und Ben-Hadad floh und kam in die Stadt von Kammer zu Kammer.</verse>
+        <verse osisID='1Kgs.20.31'>Und seine Knechte sprachen zu ihm: Siehe doch, wir haben gehört, daß die Könige vom Hause Israel barmherzige Könige sind; so laß uns denn Säcke um unsere Lenden legen und Stricke um unsere Häupter und hinausgehen zum König von Israel; vielleicht läßt er deine Seele am Leben.</verse>
+        <verse osisID='1Kgs.20.32'>Und sie gürteten Säcke um ihre Lenden und Stricke um ihre Häupter, und kamen zum König von Israel und sprachen: Dein Knecht Ben-Hadad spricht: Laß meine Seele am Leben! Und er sprach: Lebt er noch? Er ist mein Bruder.</verse>
+        <verse osisID='1Kgs.20.33'>Die Männer aber deuteten es, und eilten und faßten es auf, ob es von ihm sei, und sprachen: Dein Bruder ist Ben-Hadad? Und er sprach: Gehet hinein, holet ihn! Und Ben-Hadad kam zu ihm heraus, und er ließ ihn in den Streitwagen heraufsteigen.</verse>
+        <verse osisID='1Kgs.20.34'>Und er sprach zu ihm: Die Städte, die mein Vater von deinem Vater genommen hat, will ich zurückgeben und lege dir Gassen in Damaskus an, wie mein Vater in Samaria getan. Und ich will dich auf diesen Bund entlassen. Und er schloß einen Bund mit ihm, und ließ ihn.</verse>
+        <verse osisID='1Kgs.20.35'>Und ein Mann von den Söhnen der Propheten sprach zu seinem Genossen durch das Wort Jehovahs: Schlage mich doch! Der Mann aber weigerte sich, ihn zu schlagen.</verse>
+        <verse osisID='1Kgs.20.36'>Und er sprach zu ihm: Weil du nicht auf die Stimme Jehovahs gehört hast, siehe, so gehst du hin von mir und der Löwe wird dich schlagen. Und er ging von<note>von neben ihm</note> ihm weg, und der Löwe fand ihn und schlug ihn.</verse>
+        <verse osisID='1Kgs.20.37'>Und er fand einen anderen Mann und sprach: Schlage mich doch! Und es schlug ihn der Mann, erschlug und verwundete ihn.</verse>
+        <verse osisID='1Kgs.20.38'>Und der Prophet ging hin und stand dem König in den Weg. Und er hatte sich durch Asche<note>andere: eine Binde</note> über die Augen unkenntlich gemacht.</verse>
+        <verse osisID='1Kgs.20.39'>Und es geschah, als der König vorübergehen wollte, da schrie er zum König und sprach: Dein Knecht geht aus mitten in den Streit und siehe, ein Mann lenkte ab und brachte einen Mann zu mir und sprach: Hüte den Mann da; wenn er vermißt wird<note>vermissend vermißt wird</note>, so soll deine Seele statt seiner Seele sein, oder du sollst ein Talent Silber darwägen.</verse>
+        <verse osisID='1Kgs.20.40'>Und es geschah, während dein Knecht hin und her zu tun hatte, siehe, da war er nicht mehr da. Und der König von Israel sprach zu ihm: So ist dein Gericht, du hast es selbst entschieden.</verse>
+        <verse osisID='1Kgs.20.41'>Und er nahm eilig die Asche<note>andere: die Binde</note> von seinen Augen weg, und der König Israels erkannte ihn, daß er einer von den Propheten war.</verse>
+        <verse osisID='1Kgs.20.42'>Und er sprach zu ihm: So spricht Jehovah: Weil du den von Mir verbannten Mann aus der Hand entlassen, so wird deine Seele statt seiner Seele und dein Volk statt seinem Volke sein.</verse>
+        <verse osisID='1Kgs.20.43'>Und der König von Israel ging nach Haus mißmutig und verdrossen, und er kam nach Samaria.</verse>
+      </chapter>
+      <chapter osisID='1Kgs.21'>
+        <title>Naboths Weinberg.</title>
+        <verse osisID='1Kgs.21.1'>Und es geschah nach diesen Dingen<note>Worten</note>, daß Naboth, der Jisreelite, in Jisreel einen Weinberg hatte neben dem Palaste<note>Tempel</note> Achabs, des Königs von Samarien.</verse>
+        <verse osisID='1Kgs.21.2'>Und Achab redete zu Naboth und sprach: Gib mir deinen Weinberg, daß er mir zum Kohlgarten sei; denn er ist nahe neben meinem Haus, und ich will dir einen besseren Weinberg dafür geben; so es gut in deinen Augen ist, will ich dir den Kaufpreis in Silber geben.</verse>
+        <verse osisID='1Kgs.21.3'>Aber Naboth sprach zu Achab: Das sei ferne von mir, bei Jehovah, daß ich dir gebe das Erbe meiner Väter.</verse>
+        <verse osisID='1Kgs.21.4'>Und Achab kam nach seinem Haus miß-mutig und verdrossen über das Wort, das Naboth, der Jisreelite, zu ihm geredet und gesagt hatte: Ich will dir nicht das Erbe meiner Väter geben. Und er legte sich auf sein Bett und wandte sein Angesicht herum und aß kein Brot.</verse>
+        <verse osisID='1Kgs.21.5'>Und Isebel, sein Weib, kam zu ihm hinein und redete zu ihm: Warum ist dein Geist mißmutig, und warum ißt du kein Brot?</verse>
+        <verse osisID='1Kgs.21.6'>Und er redete zu ihr: Ich habe zu Naboth, dem Jisreeliter, geredet und zu ihm gesagt: Gib mir deinen Weinberg für Silber, oder, wenn du Lust hast, will ich dir einen Weinberg dafür geben; er aber sprach: Ich will dir meinen Weinberg nicht geben.</verse>
+        <verse osisID='1Kgs.21.7'>Und Isebel, sein Weib, sprach zu ihm: Du mußt nun nach deinem Königtum über Israel tun! Stehe auf, iß Brot und laß dein Herz gut sein, ich werde dir den Weinberg Naboths, des Jisreeliters, geben!</verse>
+        <verse osisID='1Kgs.21.8'>Und sie schrieb Briefe<note>Bücher</note> im Namen Achabs, und versiegelte sie mit seinem Siegel, und sandte die Briefe<note>Bücher</note> an die Ältesten und die Vornehmen in seiner Stadt, die bei Naboth wohnten<note>saßen</note>.</verse>
+        <verse osisID='1Kgs.21.9'>Und sie schrieb in den Briefen<note>Büchern</note> und sagte: Rufet ein Fasten aus, und setzet Naboth obenan<note>am Haupte</note> unter dem Volke.</verse>
+        <verse osisID='1Kgs.21.10'>Und setzet zwei Männer, Söhne Belials, ihm gegenüber, und sie sollen gegen ihn zeugen und sprechen: Du hast Gott und den König gesegnet<note>d.i. gelästert</note>. Und bringet ihn hinaus und steinigt ihn, daß er sterbe.</verse>
+        <verse osisID='1Kgs.21.11'>Und die Männer seiner Stadt, die Ältesten und die Vornehmen, die in seiner Stadt wohnten<note>saßen</note>, taten, wie Isebel an sie gesandt hatte, wie in den Briefen, die sie ihnen sandte, geschrieben war.</verse>
+        <verse osisID='1Kgs.21.12'>Sie riefen ein Fasten aus, und setzten Naboth obenan<note>am Haupte</note> in dem Volke.</verse>
+        <verse osisID='1Kgs.21.13'>Und es kamen die zwei Männer, die zwei Söhne Belials, und saßen ihm gegenüber, und die Männer Belials zeugten wider Naboth vor dem Volke und sprachen: Naboth hat Gott und den König gesegnet. Und sie brachten ihn aus der Stadt hinaus und steinigten ihn mit Steinen, daß er starb.</verse>
+        <verse osisID='1Kgs.21.14'>Und sie sandten zu Isebel und ließen sagen: Naboth ist gesteinigt und tot.</verse>
+        <verse osisID='1Kgs.21.15'>Und als Isebel hörte, daß Naboth gesteinigt und tot war, sprach Isebel zu Achab: Stehe auf und nimm Besitz von dem Weinberg Naboths, des Jisreeliters, der sich geweigert hatte, dir ihn um Silber zu geben; denn Naboth lebt nicht mehr, denn er ist tot.</verse>
+        <verse osisID='1Kgs.21.16'>Und es geschah, da Achab hörte, daß Naboth tot war, machte Achab sich auf, in Naboths des Jisreeliters, Weinberg hinabzugehen, ihn in Besitz zu nehmen.</verse>
+        <verse osisID='1Kgs.21.17'>Aber das Wort Jehovahs geschah an Elijahu, den Thischbiter, und sprach:</verse>
+        <verse osisID='1Kgs.21.18'>Mache dich auf, gehe hinab, Achab, dem König Israels, welcher ist zu Samaria, entgegen. Siehe, er ist in dem Weinberg Naboths, wohin er hinabgegangen, ihn in Besitz zu nehmen.</verse>
+        <verse osisID='1Kgs.21.19'>Und rede zu ihm und sprich: So spricht Jehovah: Hast du gemordet und auch in Besitz genommen? Und rede zu ihm und sprich: So spricht Jehovah: An dem Orte, wo die Hunde Naboths Blut geleckt, sollen die Hunde dein Blut lecken, auch deines!</verse>
+        <verse osisID='1Kgs.21.20'>Und Achab sprach zu Elijahu: Hast du mich gefunden, mein Feind? Er aber sprach: Ich habe dich gefunden; weil du dich verkauft hast, zu tun, was böse ist in den Augen Jehovahs.</verse>
+        <verse osisID='1Kgs.21.21'>Siehe, Ich bringe Böses über dich, und fege aus hinter dir her, und rotte aus dem Achab, was an die Wand pißt, den Zurückgehaltenen und den Verlassenen in Israel.</verse>
+        <verse osisID='1Kgs.21.22'>Und Ich mache<note>gebe</note> dein Haus wie das Haus Jerobeams, Nebats Sohn, und wie das Haus von Baescha, dem Sohne Achijahs, der Reizung wegen, mit der du Mich gereizt und daß du Israel sündigen machtest.</verse>
+        <verse osisID='1Kgs.21.23'>Und auch über Isebel hat Jehovah geredet und gesprochen: Die Hunde sollen Isebel an der Vormauer Jisreels fressen.</verse>
+        <verse osisID='1Kgs.21.24'>Wer dem Achab in der Stadt stirbt, den sollen die Hunde fressen, und wer ihm auf dem Felde stirbt, den soll das Gevögel der Himmel fressen.</verse>
+        <verse osisID='1Kgs.21.25'>Denn es war niemand wie Achab, der sich verkauft hatte, zu tun, was böse ist in den Augen Jehovahs, wozu ihn Isebel, sein Weib, antrieb.</verse>
+        <verse osisID='1Kgs.21.26'>Und er handelte sehr greulich, indem er den Götzen nachging, nach allem, was die Amoriter taten, die Jehovah vor den Söhnen Israels ausgetrieben hatte.</verse>
+        <verse osisID='1Kgs.21.27'>Und es geschah, als Achab diese Worte hörte, da zerriß er seine Kleider und legte den Sack auf sein Fleisch und fastete; und er legte sich nieder im Sacke und schlich zaghaft<note>ging sachte</note> einher.</verse>
+        <verse osisID='1Kgs.21.28'>Und es geschah das Wort Jehovahs an Elijahu, den Thischbiter, und sprach:</verse>
+        <verse osisID='1Kgs.21.29'>Hast du gesehen, wie sich Achab vor Meinem Angesicht niedergebeugt hat? Darum, daß er sich niederbeugte vor Meinem Angesichte, werde Ich das Böse nicht bringen in seinen Tagen. In seines Sohnes Tagen werde Ich das Böse über sein Haus bringen.</verse>
+      </chapter>
+      <chapter osisID='1Kgs.22'>
+        <title>Achab und Jehoschaphat, König von Judah, ziehen wider die Syrer. - Achab kommt um. Achasjah.</title>
+        <verse osisID='1Kgs.22.1'>Und sie blieben<note>saßen</note> drei Jahre ohne Streit zwischen Aram und Israel.</verse>
+        <verse osisID='1Kgs.22.2'>Im dritten Jahre aber geschah es, daß Jehoschaphat, der König Judahs, herabkam zum König von Israel.</verse>
+        <verse osisID='1Kgs.22.3'>Und der König von Israel sprach zu seinen Knechten: Wisset ihr, daß Ramoth Gilead unser ist, und wir schweigen, ohne es aus der Hand von Arams König zu nehmen?</verse>
+        <verse osisID='1Kgs.22.4'>Und er sprach zu Jehoschaphat: Willst du mit mir nach Ramoth Gilead zum Streite ziehen? Und Jehoschaphat sprach zu dem König von Israel: Ich wie du, mein Volk wie dein Volk, meine Rosse wie deine Rosse.</verse>
+        <verse osisID='1Kgs.22.5'>Und Jehoschaphat sprach zum König von Israel: Erfrage doch noch heute das Wort Jehovahs.</verse>
+        <verse osisID='1Kgs.22.6'>Und der König Israels ließ die Propheten, bei vierhundert Mann, zusammenkommen, und sprach zu ihnen: Soll ich wider Ramoth Gilead zum Streite ziehen, oder soll ich es unterlassen? Und sie sprachen: Zieh hinauf, und der Herr wird es geben in die Hand des Königs.</verse>
+        <verse osisID='1Kgs.22.7'>Und Jehoschaphat sprach: Ist kein Prophet Jehovahs mehr allhier, daß wir ihn befragen?</verse>
+        <verse osisID='1Kgs.22.8'>Und der König von Israel sprach zu Jehoschaphat: Noch ist ein Mann da, durch den wir Jehovah könnten befragen; aber ich hasse ihn, denn er weissagt mir nichts Gutes, sondern nur Böses, Michajehu, der Sohn Jimlahs. Und Jehoschaphat sprach: Nicht spreche der König also.</verse>
+        <verse osisID='1Kgs.22.9'>Und der König von Israel rief einen Hofbeamten und sprach: Bringe eilig Michajehu, den Sohn Jimlahs.</verse>
+        <verse osisID='1Kgs.22.10'>Der König von Israel aber und Jehoschaphat, der König von Judah, saßen jeder Mann auf seinem Throne, angetan mit Kleidern, auf einer Tenne am Eingang des Tores von Samaria, und alle Propheten weissagten vor ihnen.</verse>
+        <verse osisID='1Kgs.22.11'>Und Zidkijah, der Sohn Kenaanahs, machte ihm Hörner von Eisen und sprach: So spricht Jehovah: Mit diesen wirst du Aram stoßen, bis sie ausgetilgt sind<note>alle werden</note>.</verse>
+        <verse osisID='1Kgs.22.12'>Und alle Propheten weissagten so und sprachen: Zieh hinauf gen Ramoth Gilead und es wird gelingen, und Jehovah wird es geben in die Hand des Königs.</verse>
+        <verse osisID='1Kgs.22.13'>Der Bote aber, der ging, Michajehu zu rufen, redete zu ihm und sprach: Siehe doch, die Worte der Propheten sind mit einem Munde gut für den König, möge doch dein Wort sein, wie das Wort von einem derselben, daß du möchtest Gutes reden.</verse>
+        <verse osisID='1Kgs.22.14'>Und Michajehu sprach: Beim Leben Jehovahs, was Jehovah zu mir spricht, das werde ich reden.</verse>
+        <verse osisID='1Kgs.22.15'>Und er kam zum König und der König sprach zu ihm: Michajehu, sollen wir gen Ramoth Gilead zum Streite ziehen, oder sollen wir es unterlassen? Und er sprach zu ihm: Zieh hinauf und es gelinge, und Jehovah wird es in die Hand des Königs geben.</verse>
+        <verse osisID='1Kgs.22.16'>Und der König sprach zu ihm: Wie viele Male soll ich dich beschwören, daß du im Namen Jehovahs nichts denn Wahrheit zu mir reden sollst?</verse>
+        <verse osisID='1Kgs.22.17'>Und er sprach: Ich sah ganz Israel zerstreut auf den Bergen, wie eine Herde, die keinen Hirten hat. Und Jehovah sprach: Keine Herren haben diese, es kehre jeder Mann im Frieden nach seinem Haus zurück.</verse>
+        <verse osisID='1Kgs.22.18'>Und der König von Israel sprach zu Jehoschaphat: Habe ich es dir nicht gesagt, nichts Gutes, sondern Böses weissagt er mir?</verse>
+        <verse osisID='1Kgs.22.19'>Und er sprach: Darum höre das Wort Jehovahs: Ich sah Jehovah auf Seinem Throne sitzen, und alles Heer der Himmel bei Ihm stehen zu Seiner Rechten und zu Seiner Linken.</verse>
+        <verse osisID='1Kgs.22.20'>Und Jehovah sprach: Wer beredet Achab, daß er hinaufziehe und falle in Ramoth Gilead? Und dieser sprach so und jener sprach so.</verse>
+        <verse osisID='1Kgs.22.21'>Und es kam ein Geist hervor und stand vor Jehovahs Angesicht und sprach: Ich will ihn bereden. Und Jehovah sprach zu ihm: Womit?</verse>
+        <verse osisID='1Kgs.22.22'>Und er sprach: Ich will ausgehen und im Munde aller seiner Propheten sein ein Geist der Lüge. Und Er sprach: Du wirst bereden und es vermögen. Gehe aus und tue so.</verse>
+        <verse osisID='1Kgs.22.23'>Und nun siehe, Jehovah hat einen Geist der Lüge in den Mund aller dieser deiner Propheten gegeben, aber Jehovah hat Böses wider dich geredet.</verse>
+        <verse osisID='1Kgs.22.24'>Und es trat herzu Zidkijahu, der Sohn Kenaanahs, und schlug den Michajehu auf den Backen, und sprach: Wie ist der Geist Jehovahs von mir hinübergezogen, daß er mit dir rede?</verse>
+        <verse osisID='1Kgs.22.25'>Und Michajehu sprach: Siehe, du wirst ihn sehen an selbem Tage, da du von Kammer zu Kammer hineingehst, um dich zu verstecken.</verse>
+        <verse osisID='1Kgs.22.26'>Und der König von Israel sprach: Nimm Michajehu und bringe ihn zurück zu Amon, dem Obersten der Stadt, und zu Joasch, dem Sohn des Königs,</verse>
+        <verse osisID='1Kgs.22.27'>Und sprich: So spricht der König: Lege diesen in das Haus des Kerkers, und lasset ihn Brot der Trübsal essen und Wasser der Trübsal, bis ich im Frieden komme.</verse>
+        <verse osisID='1Kgs.22.28'>Michajehu aber sprach: Wenn du im Frieden zurückkehrst<note>zurückkehrend zurückkehrst</note>, so hat Jehovah nicht in mir geredet. Und er sprach: Hört es, ihr Völker alle!</verse>
+        <verse osisID='1Kgs.22.29'>Und der König von Israel und Jehoschaphat, Judahs König, zogen hinauf gen Ramoth Gilead.</verse>
+        <verse osisID='1Kgs.22.30'>Und der König von Israel sprach zu Jehoschaphat: Ich will mich unkenntlich machen, und so in den Streit kommen; du aber zieh deine Kleider an. Und der König von Israel machte sich unkenntlich und kam in den Streit.</verse>
+        <verse osisID='1Kgs.22.31'>Und Arams König hatte den Obersten der Streitwagen, er hatte deren zweiunddreißig, geboten und gesagt: Ihr sollt nicht streiten wider klein noch groß, sondern wider den König von Israel allein.</verse>
+        <verse osisID='1Kgs.22.32'>Und es geschah, daß die Obersten der Streitwagen den Jehoschaphat sahen und sprachen: Dies ist gewißlich der König von Israel, und lenkten ab, um mit ihm zu streiten. Und Jehoschaphat schrie.</verse>
+        <verse osisID='1Kgs.22.33'>Und es geschah, da die Obersten der Streitwagen sahen, daß er nicht der König von Israel wäre, wandten sie sich hinter ihm zurück.</verse>
+        <verse osisID='1Kgs.22.34'>Ein Mann aber spannte in Einfalt<note>Rechtschaffenheit</note> den Bogen und schoß<note>schlug</note> den König von Israel zwischen die Fugen und den Panzer, und er sprach zu seinem Wagenführer: Kehre deine Hand um, und bringe mich vom Heere<note>Lager</note> weg; denn ich bin verwundet.</verse>
+        <verse osisID='1Kgs.22.35'>Und der Streit stieg auf an selbigem Tage, und der König blieb stehen im Streitwagen, Aram gegenüber; und am Abend starb er, und das Blut der Wunde<note>des Schlages</note> floß auf den Boden<note>den Busen</note> des Streitwagens.</verse>
+        <verse osisID='1Kgs.22.36'>Und der Klageruf ging hin durch das Lager, als die Sonne unterging<note>einging</note> und sagte: Jeder Mann hin zu seiner Stadt und zu seinem Land!</verse>
+        <verse osisID='1Kgs.22.37'>Und der König starb und kam nach Samaria, und sie begruben den König in Samaria.</verse>
+        <verse osisID='1Kgs.22.38'>Und man spülte den Streitwagen am Teiche Samariens aus, und die Hunde leckten sein Blut; und die Buhldirnen badeten da, nach dem Worte Jehovahs, das er geredet hatte.</verse>
+        <verse osisID='1Kgs.22.39'>Und das übrige der Geschichte<note>Worte</note> Achabs und alles, was er getan, und das Haus von Elfenbein, das er gebaut, und alle die Städte, die er gebaut, sind sie nicht geschrieben im Buche der Tagesgeschichte<note>der Worte der Tage = Chronik</note> der Könige Israels?</verse>
+        <verse osisID='1Kgs.22.40'>Und Achab lag bei seinen Vätern, und sein Sohn Achasjahu ward König an seiner Stelle.</verse>
+        <verse osisID='1Kgs.22.41'>Und Jehoschaphat, Asas Sohn, war im vierten Jahre Achabs, des Königs von Israel, König über Judah geworden.</verse>
+        <verse osisID='1Kgs.22.42'>Jehoschaphat war fünfunddreißig Jahre alt<note>ein Sohne von 35 Jahren</note>, da er König ward, und regierte fünfundzwanzig Jahre in Jerusalem; und der Name seiner Mutter war Asubah, eine Tochter des Schilchi.</verse>
+        <verse osisID='1Kgs.22.43'>Und er wandelte in allen Wegen Asas, seines Vaters, und wich nicht davon ab, und tat, was recht war in den Augen Jehovahs.</verse>
+        <verse osisID='1Kgs.22.44'>Nur taten sie die Opferhöhen nicht weg; noch opferte und räucherte das Volk auf den Opferhöhen.</verse>
+        <verse osisID='1Kgs.22.45'>Und Jehoschaphat hielt Frieden mit dem Könige Israels.</verse>
+        <verse osisID='1Kgs.22.46'>Und das übrige der Geschichte<note>Worte</note> Jehoschaphats, und seine Macht, die er gewann<note>tat</note>, und wie er gestritten, sind sie nicht geschrieben im Buche der Tagesgeschichte<note>der Worte der Tage = Chronik</note> der Könige Judahs?</verse>
+        <verse osisID='1Kgs.22.47'>Die übrigen der Buhlknaben aber, die noch in den Tagen Asas, seines Vaters, verblieben waren, schaffte er aus dem Lande weg.</verse>
+        <verse osisID='1Kgs.22.48'>Und kein König war in Edom, ein Statthalter<note>Beamter</note> war König.</verse>
+        <verse osisID='1Kgs.22.49'>Jehoschaphat machte Tharschischschiffe, um nach Ophir des Goldes wegen zu gehen, aber keines ging; denn die Schiffe zerbrachen in Ezjon-Geber.</verse>
+        <verse osisID='1Kgs.22.50'>Damals sprach Achasjahu, der Sohn Achabs, zu Jehoschaphat: Laß meine Knechte mit deinen Knechten auf den Schiffen ziehen; Jehoschaphat aber willigte nicht ein.</verse>
+        <verse osisID='1Kgs.22.51'>Und Jehoschaphat entschlief<note>lag bei</note> zu seinen Vätern, und ward begraben bei seinen Vätern in der Stadt Davids, seines Vaters, und Jehoram<note>auch Joram</note>, sein Sohn, ward König an seiner Stelle.</verse>
+        <verse osisID='1Kgs.22.52'>Achasjahu, der Sohn Achabs, ward König über Israel in Samaria im siebzehnten Jahre Jehoschaphats, König von Judah, und war zwei Jahre König über Israel.</verse>
+        <verse osisID='1Kgs.22.53'>Und er tat, was böse war in den Augen Jehovahs, und wandelte im Wege seines Vaters und im Wege seiner Mutter und im Wege Jerobeams, des Sohnes Nebats, der Israel sündigen machte.</verse>
+        <verse osisID='1Kgs.22.54'>Und er diente dem Baal und betete ihn an, und reizte Jehovah, den Gott Israels, nach allem, was sein Vater tat</verse>
+      </chapter>
+    </div></osisText>
+</osis>

@@ -1,0 +1,494 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <osisText osisRefWork='Bible' osisIDWork='TAF' xml:lang='de'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='TAF'>
+        <title>Tafelbibel</title>
+        <contributor>Martin</contributor>
+        <creator>Jens Grabner</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject>holy bible</subject>
+        <date>2009-01-20</date>
+        <description>Die Bibel - Übersetzung von Johann Friedrich Leonhard Tafel
+
+      Die vorliegende Neuausgabe ist eine Abschrift der Übersetzung von Dr. Leonhard
+      Tafel, revidiert von Ludwig H. Tafel, dritte Ausgabe 1911, und wurde auf ihre
+      Vollständigkeit überprüft. Es wurde die Rechtschreibregel der heutigen Zeit (noch
+      vor der Rechtschreibreform 1998) angewendet, ohne den Stil der Sprache zu verändern.
+
+      Wer in dieser Bibel einige Bücher vermisst, sei auf das Vorwort der Source verwiesen.
+      Auf der zweiten Seite steht dort:
+      Der zweite Band enthält die übrigen, sogenannten
+      Hagiographen oder heiligen Bücher: die Bücher Hiob, Sprichwörter, Hohelied, Prediger, Ruth, Chronika, Esra,
+      Nehemia, Esther und die Apokryphen.²
+      2. Gegenwärtige, Revision des Zefania XML Moduls  enthält die Hagiographen und Apokryphen nicht, da
+      sie nicht verfügbar waren.</description>
+        <publisher>FREE BIBLE SOFTWARE GROUP</publisher>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>TAF</identifier>
+        <source>http://www.ubf-dortmund.de/bibel/tafel.htm</source>
+        <language type='IETF'>de</language>
+        <relation/>
+        <coverage>provide the bible to the world</coverage>
+        <rights>Mit freundlicher Genehmigung des Swedenborg Verlag Postfach 1205 CH - 8032 Zürich</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Dan'>
+      <chapter osisID='Dan.1'>
+        <title>Prophet Daniel</title>
+        <title>Daniel und seine Genossen in Babel erzogen.</title>
+        <verse osisID='Dan.1.1'>Im dritten Jahre der Regierung Jehojakims, des Königs von Jehudah, kam Nebuchadnezzar, der König von Babel, nach Jerusalem und belagerte es.</verse>
+        <verse osisID='Dan.1.2'>Und der Herr gab Jehojakim, den König von Jehudah, und einen Teil<note>von dem Ende</note> der Geräte des Hauses Gottes in seine Hand, und er brachte sie hinein in das Land Schinear in das Haus seines Gottes, und brachte die Geräte hinein in das Haus des Schatzes seines Gottes.</verse>
+        <verse osisID='Dan.1.3'>Und der König sprach zu Aschpenas, dem Hauptmann seiner Verschnittenen, er solle einige von den Söhnen Israels und vom Samen des Königtums und von den Vornehmen hereinbringen,</verse>
+        <verse osisID='Dan.1.4'>Knaben, die keinerlei Fehl an sich hätten, und von gutem Aussehen, und klug in aller Weisheit und kundig an Wissen und einsichtsvoll an Kenntnis, und welche die Kraft hätten, zu stehen im Palaste<note>Tempel</note> des Königs, und sie Schrift und Zunge der Chaldäer lehren.</verse>
+        <verse osisID='Dan.1.5'>Und der König bestimmte ihnen den Bedarf<note>das Wort</note> des Tages an seinem Tage von den leckeren Speisen des Königs und von dem Wein, den er trank, und drei Jahre sollten sie großgezogen werden, und am Ende derselben vor dem König stehen.</verse>
+        <verse osisID='Dan.1.6'>Und es waren unter ihnen von den Söhnen Jehudahs: Daniel, Chananjah, Mischael und Asarjah.</verse>
+        <verse osisID='Dan.1.7'>Und der Oberste der Verschnittenen legte ihnen Namen bei und nannte<note>legte bei</note> Daniel Beltschazzar<note>Nährer und Verzehrer</note>, und Chananjah Schadrach<note>Sonnengott</note>, und Mischael Meschach<note>wer ist gleich Gott</note>, und Asarjah Abed Nego<note>Negos Diener</note>.</verse>
+        <verse osisID='Dan.1.8'>Daniel aber setzte sich vor in seinem Herzen, daß er sich nicht mit den leckeren Speisen des Königs und mit dem Weine, den er trank, beflecken wollte, und ersuchte den Obersten der Verschnittenen, daß er sich nicht beflecken müßte.</verse>
+        <verse osisID='Dan.1.9'>Und Gott gab Daniel Barmherzigkeit und Erbarmen vor dem Obersten der Verschnittenen.</verse>
+        <verse osisID='Dan.1.10'>Und der Oberste der Verschnittenen sprach zu Daniel: Ich fürchte meinen Herrn, den König, der eure Speise und euren Trank bestimmt hat: denn würde er sehen, daß eure Angesichter verdrossen wären gegen die der Knaben eures Alters, so würdet ihr mein Haupt dem König verwirken.</verse>
+        <verse osisID='Dan.1.11'>Und Daniel sprach zu Melzar<note>dem Obermundschenken</note>, den der Oberste der Verschnittenen über Daniel, Chananjah, Mischael und Asarjah bestimmt hatte:</verse>
+        <verse osisID='Dan.1.12'>Versuche es doch mit deinen Knechten zehn Tage, daß man uns von den Hülsenfrüchten zu essen und Wasser zu trinken gebe.</verse>
+        <verse osisID='Dan.1.13'>Und man sehe an vor dir unser Aussehen und das Aussehen der Knaben, die des Königs leckere Speisen essen, und wie du sehen wirst, so tue mit deinen Knechten.</verse>
+        <verse osisID='Dan.1.14'>Und er hörte auf sie in dieser Sache<note>das Wort</note>, und versuchte es mit ihnen zehn Tage.</verse>
+        <verse osisID='Dan.1.15'>Und am Ende der zehn Tage sah man, daß ihr Aussehen besser und ihr Fleisch feister war, als bei allen Knaben, die des Königs leckere Speisen aßen.</verse>
+        <verse osisID='Dan.1.16'>Und Melzar nahm ihre leckeren Speisen und den Wein, den sie trinken sollten, weg, und gab ihnen Hülsenfrüchte.</verse>
+        <verse osisID='Dan.1.17'>Und diesen vier Knaben gab Gott Kenntnisse und Verstand in aller Schrift und Weisheit, und Daniel hatte eine Einsicht in allerlei Gesichte und Träume.</verse>
+        <verse osisID='Dan.1.18'>Und am Ende der Tage, nach denen der König befohlen hatte<note>sprach</note> sie hereinzubringen, brachte sie der Oberste der Verschnittenen, hinein vor Nebuchadnezzar.</verse>
+        <verse osisID='Dan.1.19'>Und der König redete mit ihnen, und es fand sich unter allen keiner, wie Daniel, Chananjah, Mischael und Asarjah, und sie standen vor dem König.</verse>
+        <verse osisID='Dan.1.20'>Und in allem Worte der Weisheit der Einsicht, über das der König sie befragte, fand er sie zehnmal<note>zehn Hände</note> über allen Magiern und Wahrsagern in seinem ganzen Reich.</verse>
+        <verse osisID='Dan.1.21'>Und Daniel war bis in das erste Jahr des Königs Koresch.</verse>
+      </chapter>
+      <chapter osisID='Dan.2'>
+        <title>Daniel legt Nebuchadnezzars Traumbild aus.</title>
+        <verse osisID='Dan.2.1'>Und im zweiten Jahre der Regierung Nebuchadnezzars träumte Nebuchadnezzar Träume, und sein Geist war beunruhigt, und sein Schlaf war ihm dahin.</verse>
+        <verse osisID='Dan.2.2'>Und der König befahl<note>sprach</note>, die Magier und die Wahrsager und die Zauberer und die Chaldäer zu rufen, daß sie dem König seine Träume ansagen sollten, und sie kamen hinein und standen vor dem König.</verse>
+        <verse osisID='Dan.2.3'>Und der König sprach zu ihnen: Ich habe einen Traum geträumt, und mein Geist ist beunruhigt, daß ich den Traum wissen möchte.</verse>
+        <verse osisID='Dan.2.4'>Und die Chaldäer redeten zum König aramäisch: O König, lebe in Ewigkeit, sage deinen Knechten den Traum, so wollen wir dir die Deutung anzeigen.</verse>
+        <verse osisID='Dan.2.5'>Der König antwortete und sprach zu den Chaldäern: Das Wort<note>das Gespräch</note> ist mein Ernst<note>andere: mir entfallen</note>: Wenn ihr mir nicht den Traum kundtut und seine Deutung, so sollt ihr in Stücke zerhauen<note>gemacht</note> und eure Häuser zu Düngerhaufen gemacht<note>gesetzt</note> werden.</verse>
+        <verse osisID='Dan.2.6'>Wenn ihr aber den Traum und seine Deutung anzeigt, so sollet ihr viele Gaben und Ehrensold und viele Kostbarkeiten von mir empfangen. Darum zeigt mir den Traum und seine Deutung an.</verse>
+        <verse osisID='Dan.2.7'>Sie antworteten ihm zum zweitenmal und sprachen: Der König sage seinen Knechten den Traum, so wollen wir die Deutung anzeigen.</verse>
+        <verse osisID='Dan.2.8'>Der König antwortete und sprach: Gewiß-lich weiß ich nun, daß ihr Zeit gewinnen wollt, weil ihr erschaut habt, daß das Wort mein Ernst<note>andere: mir entfallen</note> ist.</verse>
+        <verse osisID='Dan.2.9'>Wenn ihr den Traum mir nicht kundtut, so ist dies der alleinige Erlaß für euch: Ihr habt verabredet ein falsch und verdorbenes Wort<note>Gespräch</note> vor mir zu sprechen, bis daß die Zeit sich ändere. Darum sagt mir den Traum, daß ich erkenne, daß ihr mir auch seine Deutung anzeigen könnt.</verse>
+        <verse osisID='Dan.2.10'>Die Chaldäer antworteten vor dem König und sprachen: Kein Mensch ist auf dem Erdboden<note>dem Trockenen</note>, der das Wort dem König anzeigen könnte, alldieweil kein König, wie groß und gewaltig er auch sei, ein Ding, wie dieses, von irgendeinem Magier und Wahrsager und Chaldäer fordert.</verse>
+        <verse osisID='Dan.2.11'>Und das Wort, das der König fordert, ist zu schwer<note>kostbar</note>, und einen anderen gibt es nicht, der es vor dem König anzeigen könnte, als die Götter, deren Verweilen nicht beim Fleische ist.</verse>
+        <verse osisID='Dan.2.12'>Ob alledem ward der König sehr aufgebracht und entrüstet, und befahl<note>sprach</note>, alle Weisen Babels zu zerstören.</verse>
+        <verse osisID='Dan.2.13'>Und es erging der Erlaß, daß die Weisen sollten getötet werden, und sie suchten Daniel und seine Gesellen, um sie zu töten.</verse>
+        <verse osisID='Dan.2.14'>Da erteilte<note>gab zurück</note> Daniel Rat und Weisung Arjoch, dem Hauptmann der Leibwachen des Königs, der ausging, die Weisen Babels zu töten.</verse>
+        <verse osisID='Dan.2.15'>Er antwortete und sprach zu Arjoch, dem Gewalthaber des Königs: Warum ergeht so hastig der Erlaß vom König? Und Arjoch tat Daniel die Sache kund.</verse>
+        <verse osisID='Dan.2.16'>Und Daniel ging hinein und ersuchte den König, daß er ihm Frist gebe, auf daß er dem König die Deutung anzeige.</verse>
+        <verse osisID='Dan.2.17'>Da ging Daniel nach Haus, und tat Chananjah, Mischael und Asarjah, seinen Gesellen, die Sache kund,</verse>
+        <verse osisID='Dan.2.18'>Daß sie vom Gott der Himmel Erbarmen ersuchten ob diesem Geheimnisse, damit sie Daniel und seine Gesellen nicht samt den übrigen Weisen Babels zerstörten.</verse>
+        <verse osisID='Dan.2.19'>Da ward dem Daniel in dem Gesichte der Nacht das Geheimnis geoffenbart. Da segnete Daniel den Gott der Himmel.</verse>
+        <verse osisID='Dan.2.20'>Daniel antwortete und sprach: Gesegnet sei der Name Gottes von Ewigkeit zu Ewigkeit: denn Sein ist die Weisheit und die Macht.</verse>
+        <verse osisID='Dan.2.21'>Und Er ändert Zeiten und Fristen, läßt Könige dahingehen und läßt erstehen Könige, Er gibt Weisen die Weisheit und Wissenschaft denen, die Einsicht kennen.</verse>
+        <verse osisID='Dan.2.22'>Er offenbart die Tiefen und das Verborgene, Er weiß, was in der Finsternis ist, und bei Ihm wohnt<note>ist gelöst</note> das Licht.</verse>
+        <verse osisID='Dan.2.23'>Dich, o Gott meiner Väter, bekenne ich und preise Dich, Der Du mir Weisheit und Macht gegeben hast, und mich jetzt hast wissen lassen, was wir von Dir ersuchten, Der Du uns hast die Sache des Königs kundgetan.</verse>
+        <verse osisID='Dan.2.24'>Deswegen ging Daniel hinein zu Arjoch, den der König bestimmt hatte, die Weisen Babels zu zerstören. Er ging hin und sprach zu ihm also: Die Weisen Babels sollst du nicht zerstören, bringe mich hinein vor den König, und ich werde dem König die Deutung anzeigen.</verse>
+        <verse osisID='Dan.2.25'>Da brachte Arjoch den Daniel eilig<note>bestürzt</note> hinein vor den König und sprach zu ihm also: Ich habe einen Mann<note>mächtigen Mann</note> von den Söhnen der Verbannung aus Jehudah gefunden, der dem König die Deutung kundtun wird.</verse>
+        <verse osisID='Dan.2.26'>Der König antwortete und sprach zu Daniel, dessen Name Beltschazzar war: Ver- magst du den Traum, den ich geschaut, und dessen Deutung mir kundzutun?</verse>
+        <verse osisID='Dan.2.27'>Daniel antwortete vor dem König und sprach: Das Geheimnis, das der König gefordert hat, vermögen Weise, Wahrsager, Magier und Sterndeuter dem König nicht anzuzeigen.</verse>
+        <verse osisID='Dan.2.28'>Jedoch ist ein Gott in den Himmeln, Der Geheimnisse offenbart, und ließ den König Nebuchadnezzar wissen, was in den letzten der Tage sein wird. Dein Traum und das Gesicht deines Hauptes auf deinem Lager ist dies:</verse>
+        <verse osisID='Dan.2.29'>Du, König, warst mit deinen Gedanken auf deinem Lager; sie gingen dahin, was wohl hernach sein werde? Und Der da offenbart Geheimnisse, tat dir kund, was da sein wird.</verse>
+        <verse osisID='Dan.2.30'>Und mir ist nicht durch eine Weisheit, die in mir wäre vor allen, die da leben, dies Geheimnis geoffenbart worden, sondern damit sie die Deutung dem König kundtun möchten und du die Gedanken deines Herzens wissest.</verse>
+        <verse osisID='Dan.2.31'>Du, König, schautest und siehe, ein gewaltig Standbild war da, dies Standbild war groß<note>viel</note> und sein Glanz über die Maßen, und stand dir gegenüber, und war schauerlich anzusehen.</verse>
+        <verse osisID='Dan.2.32'>Das Haupt dieses Standbildes war von gutem Gold, seine Brust und seine Arme von Silber, sein Bauch<note>Eingeweide</note> und seine Hüften von Erz.</verse>
+        <verse osisID='Dan.2.33'>Seine Schenkel von Eisen, seine Füße waren teils von Eisen und teils von Ton.</verse>
+        <verse osisID='Dan.2.34'>Solches schautest du, bis daß ein Stein ausgehauen ward, nicht durch Hände, und stieß das Standbild an seine Füße, die Eisen und Ton waren, und zermalmte sie.</verse>
+        <verse osisID='Dan.2.35'>Da wurden mit einem Mal das Eisen, der Ton, das Erz, das Silber und das Gold zermalmt, und sie wurden wie Spreu von den Tennen des Sommers, und der Wind nahm sie weg, so daß man ihre Stätte nicht mehr ausfand, und der Stein, der an das Standbild stieß, ward zu einen großen<note>viel</note> Felsen, und füllte die ganze Erde.</verse>
+        <verse osisID='Dan.2.36'>Dies ist der Traum, und seine Deutung wollen wir vor dem Könige sagen.</verse>
+        <verse osisID='Dan.2.37'>Du, o König, bist der König der Könige, dem der Gott der Himmel das Königtum, die Gewalt und die Stärke und Herrlichkeit<note>Kostbarkeit</note> gegeben hat.</verse>
+        <verse osisID='Dan.2.38'>Und überall, da Menschensöhne verweilen, das wilde Tier des Feldes und das Gevögel der Himmel hat Er in deine Hand gegeben und dich schalten lassen über sie alle: du bist das Haupt von Gold.</verse>
+        <verse osisID='Dan.2.39'>Und nach dir ersteht ein anderes Reich, niedriger denn das deine, und ein anderes drittes Reich von Erz, das auf der ganzen Erde schalten wird.</verse>
+        <verse osisID='Dan.2.40'>Und das vierte Reich wird stark sein wie das Eisen, alldieweil das Eisen alles zermalmt und zerschlägt, und wie das Eisen, das zerschmettert all dies, wird es zermalmen und zerschmettern.</verse>
+        <verse osisID='Dan.2.41'>Und da du schautest die Füße und die Zehen teils vom Ton des Töpfers und teils von Eisen, so wird es ein zerteiltes Reich sein, und von der Beständigkeit des Eisens wird darinnen sein, alldieweil du erschautest, daß Eisen mit dem schlammigen Ton vermengt war,</verse>
+        <verse osisID='Dan.2.42'>Und da die Zehen der Füße teils von Eisen und teils von Ton waren, so wird das Reich teilweise<note>von dem einen Ende</note> stark, und teilweise gebrechlich sein.</verse>
+        <verse osisID='Dan.2.43'>Und weil du erschautest das Eisen mit schlammigem Ton vermengt, so werden sie durch Samen des Menschen sich vermengen, aber nicht kleben das eine an dem anderen, so wie Eisen sich nicht mit Ton vermengen läßt.</verse>
+        <verse osisID='Dan.2.44'>Und in den Tagen dieser Könige wird der Gott der Himmel ein Königreich aufrichten, das in Ewigkeiten nicht umgestoßen, und dessen Königtum keinem anderen Volk überlassen werden wird. Es wird zermalmen und wegraffen alle jene Königreiche, es wird aber bestehen in Ewigkeit.</verse>
+        <verse osisID='Dan.2.45'>Alldieweil du erschautest, daß ein Stein ausgehauen ward aus dem Felsen nicht durch Hände, und zermalmte das Eisen, das Erz, den Ton, das Silber und das Gold; hat der große<note>viele</note> Gott den König wissen lassen, was hernach sein wird, und gewiß ist der Traum, und seine Deutung wahrhaftig.</verse>
+        <verse osisID='Dan.2.46'>Da fiel der König Nebuchadnezzar auf sein Antlitz, und betete an vor Daniel und befahl, ihm Speiseopfer und Ruheopfer zu spenden.</verse>
+        <verse osisID='Dan.2.47'>Der König antwortete dem Daniel und sprach: Es ist eine Wahrheit, daß euer Gott ist der Gott der Götter, und der Herr<note>chald. mare</note> der Könige, und Er offenbart Geheimnisse, weil du vermochtest dies Geheimnis zu offenbaren.</verse>
+        <verse osisID='Dan.2.48'>Da machte der König Daniel groß<note>viel</note> und gab ihm viele große Gaben, und ließ ihn schalten über die ganze Landschaft Babel, und machte ihn zum Hauptvorsteher über alle die Weisen Babels.</verse>
+        <verse osisID='Dan.2.49'>Und Daniel ersuchte den König, daß er einsetzen sollte über die Verwaltung der Landschaft Babel Schadrach, Meschach und Abed Nego; und Daniel war im Tore des Königs.</verse>
+      </chapter>
+      <chapter osisID='Dan.3'>
+        <title>Die drei Männer im Feuerofen.</title>
+        <verse osisID='Dan.3.1'>Der König Nebuchadnezzar machte ein Standbild von Gold, seine Höhe sechzig Ellen, seine Breite<note>Weite</note> sechs Ellen; er richtete es auf in der Ebene<note>Talebene</note> Dura in der Landschaft Babel.</verse>
+        <verse osisID='Dan.3.2'>Und der König Nebuchadnezzar sandte aus, daß zusammentreten die Satrapen, Landvögte, Statthalter, Oberrichter, Schatzmeister, Richter, Rechtsgelehrten und alle Verwalter der Landschaften, zur Einweihung des Standbildes zu kommen, das der König Nebuchadnezzar aufgerichtet hatte.</verse>
+        <verse osisID='Dan.3.3'>Da traten zusammen die Satrapen, die Landvögte und die Statthalter, die Oberrichter, die Schatzmeister, die Richter, die Rechtsgelehrten und alle Verwalter der Landschaften zur Einweihung des Standbildes, das der König Nebuchadnezzar hatte aufgerichtet, und sie traten<note>standen auf</note> vor das Bild, das Nebuchadnezzar aufgerichtet hatte.</verse>
+        <verse osisID='Dan.3.4'>Und der Herold rief mit Macht<note>Tapferkeit</note>: Euch wird es gesagt: ihr Völker, Volksstämme und Zungen!</verse>
+        <verse osisID='Dan.3.5'>Zur Zeit, da ihr hören werdet den Schall<note>Stimme</note> des Horns, der Pfeife, der Harfe, der Sambuke, des Psalters, der Sackpfeife und allerlei Saitenspiele, sollt ihr niederfallen und anbeten<note>euch niederwerfen vor</note> das Standbild von Gold, das der König Nebuchadnezzar aufgerichtet hat.</verse>
+        <verse osisID='Dan.3.6'>Und wer nicht niederfällt und anbetet<note>sich niederwirft vor</note>, der soll im selben Augenblick mitten in den Ofen, der mit Feuer brennt, hinabgeworfen werden.</verse>
+        <verse osisID='Dan.3.7'>Darum zur Zeit, da alle Völker den Schall des Horns, der Pfeife, der Harfe, der Sambuke, des Psalters und von allerlei Saitenspiel hörten, fielen alle Völker, Volksstämme und Zungen nieder, und beteten das Standbild von Gold an, das der König Nebuchadnezzar aufgerichtet hatte.</verse>
+        <verse osisID='Dan.3.8'>Darum, zur selben Zeit<note>Frist</note>, nahten sich chaldäische Männer<note>mächtige Männer</note> und klagten die Juden an<note>chald. aßen ihre Bissen von den Juden</note>.</verse>
+        <verse osisID='Dan.3.9'>Sie antworteten und sagten zu dem König Nebuchadnezzar: Lebe, o König, in Ewigkeit!</verse>
+        <verse osisID='Dan.3.10'>Du hast, o König, eine Weisung erlassen, daß jeder Mensch, wenn er höre den Schall des Horns, der Pfeife, der Harfe, der Sambuke, des Psalters, der Sackpfeife und allerlei Saitenspiel, niederfallen und das Standbild von Gold anbeten<note>sich niederwerfen vor</note> soll.</verse>
+        <verse osisID='Dan.3.11'>Wer aber nicht niederfällt und anbetet<note>sich niederwirft vor</note>, der soll mitten in den Ofen, der mit Feuer brennt, hinabgeworfen werden.</verse>
+        <verse osisID='Dan.3.12'>Da sind jüdische Männer<note>mächtige Männer</note>, die du zur Verwaltung der Landschaft Babel eingesetzt, Schadrach, Meschach und Abed Nego. Diese Männer<note>mächtige Männer</note> haben nicht auf deine Weisung geachtet, o König. Deinen Gott verehren sie nicht, und das Standbild von Gold, das du aufgerichtet, beten sie nicht an<note>werfen sich nicht davor nieder</note>.</verse>
+        <verse osisID='Dan.3.13'>Da befahl Nebuchadnezzar in Wut und Grimm, Schadrach, Meschach und Abed Nego herbeizubringen. Da brachten sie diese Männer<note>mächtige Männer</note> vor den König.</verse>
+        <verse osisID='Dan.3.14'>Nebuchadnezzar antwortete und sprach zu ihnen: Ist es aus Vorsatz, daß ihr, Schadrach, Meschach und Abed Nego, meinen Gott nicht verehrt und das Standbild von Gold nicht anbetet, das ich aufgerichtet habe?</verse>
+        <verse osisID='Dan.3.15'>Nun denn, wenn ihr bereit seid, zur Zeit, da ihr hört den Schall<note>Stimme</note> des Horns, der Pfeife, der Harfe, der Sambuke, des Psalters, der Sackpfeife und allerlei Saitenspiel, niederzufallen und das Standbild anzubeten<note>sich niederwerfen vor</note>, das ich gemacht habe - und wenn ihr es nicht anbetet<note>sich niederwerfen vor</note>, sollt ihr augenblicklich mitten in den Ofen, der mit Feuer brennt, hinabgeworfen werden! Und wer ist der Gott, der euch aus meinen Händen befreien kann?</verse>
+        <verse osisID='Dan.3.16'>Da antworteten Schadrach, Meschach und Abed Nego, und sprachen zu dem König Nebuchadnezzar: Es ist nicht notwendig, daß wir auf die Rede erwidern.</verse>
+        <verse osisID='Dan.3.17'>Siehe, unser Gott, Den wir verehren, vermag uns aus dem Ofen, der mit Feuer brennt, zu befreien, und aus deiner Hand, o König, wird Er uns befreien.</verse>
+        <verse osisID='Dan.3.18'>Und wenn nicht, so wisse, o König, daß wir deinen Gott nicht verehren, und das goldene Standbild, das du aufgerichtet hast, nicht anbeten<note>uns nicht davor niederwerfen</note> wollen.</verse>
+        <verse osisID='Dan.3.19'>Da ward Nebuchadnezzar voll Grimmes und das Bild seines Antlitzes veränderte sich wider Schadrach, Meschach und Abed Nego. Er antwortete und befahl<note>sagte</note>, den Ofen siebenmal mehr zu heizen, als man ihn jemals hatte heizen geschaut;</verse>
+        <verse osisID='Dan.3.20'>Und den Männern<note>mächtigen Männern</note>, den Helden der Tapferkeit in seiner Streitmacht, befahl<note>sagte</note> er, Schadrach, Meschach und Abed Nego zu binden, um sie in den Ofen, der mit Feuer brennt, hinabzuwerfen.</verse>
+        <verse osisID='Dan.3.21'>Da wurden diese Männer<note>mächtige Männer</note> gebunden in ihren Beinkleidern, ihren Unterkleidern und ihren Mänteln und ihren Anzügen, und wurden mitten in den Ofen, der mit Feuer brennt, hinabgeworfen.</verse>
+        <verse osisID='Dan.3.22'>Weil das Wort des Königs so hastig war, und der Ofen über die Maßen geheizt worden, tötete die Flamme des Feuers die Männer, die Schadrach, Meschach und Abed Nego hinaufbrachten.</verse>
+        <verse osisID='Dan.3.23'>Und diese drei Männer<note>mächtige Männer</note>, Schadrach, Meschach und Abed Nego fielen gebunden mitten in den Ofen, der mit Feuer brennt.</verse>
+        <verse osisID='Dan.3.24'>Da entsetzte sich der König Nebuchadnezzar und stand bestürzt auf, hob an<note>antwortete</note> und sprach zu seinen Räten: Haben wir nicht drei Männer<note>mächtige Männer</note> gebunden mitten ins Feuer hinabgeworfen? Sie antworteten und sprachen zum König: Gewißlich, o König!</verse>
+        <verse osisID='Dan.3.25'>Er antwortete und sprach: Siehe, ich schaue vier Männer<note>mächtige Männer</note> lose mitten im Feuer umhergehen, und haben keinen Schaden an sich und das Aussehen des vierten gleicht einem Sohne der Götter.</verse>
+        <verse osisID='Dan.3.26'>Da nahte Nebuchadnezzar dem Tor des Ofens, der mit Feuer brennt, hob an<note>antwortete</note> und sprach: Schadrach, Meschach und Abed Nego, ihr Knechte des höchsten Gottes, geht heraus und kommt her. Da gingen Schadrach, Meschach und Abed Nego mitten aus dem Feuer heraus.</verse>
+        <verse osisID='Dan.3.27'>Und die Satrapen, die Landvögte, die Statthalter und die Räte des Königs traten zusammen, und schauten die Männer<note>mächtige Männer</note>, über deren Leib das Feuer nicht schaltete, und das Haar von deren Haupt nicht versengt, und deren Beinkleider nicht verändert waren, und an die der Geruch des Feuers nicht gekommen war.</verse>
+        <verse osisID='Dan.3.28'>Da hob<note>antwortete</note> Nebuchadnezzar an und sprach: Gesegnet sei der Gott von Schadrach, Meschach und Abed Nego, Der Seinen Engel gesandt und Seine Knechte, die auf Ihn vertrauten, befreit hat, daß sie das Wort des Königs und ihre Leiber hingaben, daß sie einen anderen Gott, als ihren Gott, nicht verehrten und ihn anbeteten.</verse>
+        <verse osisID='Dan.3.29'>Und von mir ergeht die Weisung, daß jegliches Volk, jeder Volksstamm und jede Zunge, die gegen den Gott Schadrachs, Meschachs und Abed Negos etwas spricht, soll in Stücke zerhauen<note>gemacht</note> und sein Haus zu einem Düngerhaufen gemacht<note>gesetzt</note> werden, alldieweil daß kein anderer Gott ist, der erretten kann, wie Dieser.</verse>
+        <verse osisID='Dan.3.30'>Dann gab der König dem Schadrach, Meschach und Abed Nego Gedeihen in der Landschaft Babel.</verse>
+        <verse osisID='Dan.3.31'>Nebuchadnezzar, der König an alle Völker, Volksstämme und Zungen, die wohnen auf der ganzen Erde, euer Friede mehre sich!</verse>
+        <verse osisID='Dan.3.32'>Es hat mir gefallen<note>es war schön vor mir</note>, die Zeichen und Wunder, die der höchste Gott an mir getan, euch anzuzeigen.</verse>
+        <verse osisID='Dan.3.33'>Seine Zeichen, wie groß<note>viel</note> sind sie, und wie gewaltig Seine Wunder, Sein Reich ist ein Reich der Ewigkeit, und Seine Herrschaft zu Geschlecht und Geschlecht.</verse>
+      </chapter>
+      <chapter osisID='Dan.4'>
+        <title>Nebuchadnezzars Traum vom großen Baum und Daniels Auslegung.</title>
+        <verse osisID='Dan.4.1'>Ich, Nebuchadnezzar, war ruhig<note>behaglich</note> in meinem Hause und gedeihlich<note>chald. grünend</note> in meinem Palast<note>Tempel</note>.</verse>
+        <verse osisID='Dan.4.2'>Da schaute ich einen Traum, und schauderte, und die Gedanken auf meinem Lager und die Gesichte meines Hauptes bestürzten mich.</verse>
+        <verse osisID='Dan.4.3'>Da erging von mir eine Weisung, alle Weisen Babels vor mich zu bringen, daß sie mir die Deutung des Traumes kundtun möchten.</verse>
+        <verse osisID='Dan.4.4'>Da kamen herein die Magier, die Wahrsager, die Chaldäer und die Sterndeuter, und ich sagte vor ihnen den Traum, aber sie machten mir seine Deutung nicht kund.</verse>
+        <verse osisID='Dan.4.5'>Und zuletzt trat vor mich Daniel, dessen Name ist Beltschazzar, wie der Name meines Gottes, und in dem der Geist der heiligen Götter ist, und ich sagte vor ihm den Traum:</verse>
+        <verse osisID='Dan.4.6'>Beltschazzar, du Oberster<note>Hauptmann</note> der Magier, von dem ich weiß, daß der Geist der heiligen Götter in dir ist, und daß dir kein Geheimnis zu schwer ist: Sage mir die Gesichte meines Traumes, die ich geschaut, und die Deutung davon.</verse>
+        <verse osisID='Dan.4.7'>Und dies sind die Gesichte meines Hauptes auf meinem Lager: Ich schaute, und siehe, ein Baum inmitten der Erde, und seine Höhe war gewaltig.</verse>
+        <verse osisID='Dan.4.8'>Der Baum ward groß und stark, und bis an die Himmel reichte seine Höhe, und er war zu schauen bis an das Ende<note>den hinteren Teil</note> der Erde.</verse>
+        <verse osisID='Dan.4.9'>Sein Gezweige war schön, und seiner Frucht viel, und Nahrung an ihm für alle, und das Tier des Feldes hatte Schatten unter ihm, und auf seinen Ästen verweilten die Vögel der Himmel, und alles Fleisch nährte sich von ihm.</verse>
+        <verse osisID='Dan.4.10'>Ich schaute in Gesichten meines Hauptes auf meinem Lager, und siehe, ein Wächter und ein Heiliger stieg von Himmel herab.</verse>
+        <verse osisID='Dan.4.11'>Er rief mit Macht<note>Tapferkeit</note> und sprach also: Hauet um den Baum, und hauet ab seine Äste, streifet ab sein Gezweige und streut umher seine Frucht. Es fliehe weg unter ihm das Getier und die Vögel von seinen Ästen.</verse>
+        <verse osisID='Dan.4.12'>Doch den Stamm seiner Wurzel belasset in der Erde, aber in Banden von Eisen und Erz, im jungen Grün auf dem Felde. Und mit dem Tau der Himmel werde er benetzt, und mit dem Getier habe er sein Teil am Kraut der Erde.</verse>
+        <verse osisID='Dan.4.13'>Sein Herz soll von dem eines Menschen verändert, und ihm das Herz eines Tieres gegeben werden, und sieben Zeiten sollen über ihn hingleiten.</verse>
+        <verse osisID='Dan.4.14'>Im Beschlusse der Wächter ist die Sache, und auf dem Befehl der Heiligen das Betreffnis zu dem Ende, daß erkennen die Lebendigen, daß der Höchste Gewalt hat über das Reich des Menschen und gibt es, wem er will, und den niedrigsten der Menschen darauf erhebt.</verse>
+        <verse osisID='Dan.4.15'>Diesen Traum schaute ich, der König Nebuchadnezzar, und du, Beltschazzar, sage mir die Deutung, alldieweil alle Weisen meines Reiches nicht vermögen, mir die Deutung kundzutun, du aber vermagst es, denn der Geist der heiligen Götter ist in dir.</verse>
+        <verse osisID='Dan.4.16'>Da war Daniel, dessen Name Beltschazzar ist, bei einer Stunde<note>einen Augenblick</note> lang in Erstaunen, und seine Gedanken machten ihn bestürzt. Der König hob an<note>antwortete</note> und sprach: Beltschazzar, der Traum und seine Deutung mache dich nicht bestürzt! Beltschazzar antwortete und sprach: Mein Herr<note>chald. mare</note>! Der Traum sei für die, so dich hassen, und seine Deutung deinen Widersachern!</verse>
+        <verse osisID='Dan.4.17'>Der Baum, den du schautest, daß er groß und stark ward, und dessen Höhe bis an die Himmel reichte, und der auf der ganzen Erde zu schauen war,</verse>
+        <verse osisID='Dan.4.18'>Und dessen Gezweige schön und dessen Frucht viel war, und Nahrung für alle darauf, unter dem das Tier des Feldes verweilte, und auf dessen Ästen die Vögel der Himmel wohnten:</verse>
+        <verse osisID='Dan.4.19'>Dies bist du, o König, der du groß und stark wurdest, und deine Größe wuchs und reichte bis zu den Himmeln, und deine Herrschaft bis an das Ende<note>den hinteren Teil</note> der Erde;</verse>
+        <verse osisID='Dan.4.20'>Und daß der König schaute einen Wächter und einen Heiligen herabsteigen von den Himmeln, und daß er sprach: Hauet den Baum um und zerstört ihn, aber den Stamm seiner Wurzeln belasset in der Erde und in Banden von Eisen und Erz im jungen Grün des Feldes, und vom Tau der Himmel werde er benetzt und habe sein Teil mit dem Getier des Feldes, bis daß sieben Zeiten über ihm hingleiten:</verse>
+        <verse osisID='Dan.4.21'>Dies ist die Deutung, o König! und solcher Beschluß des Höchsten ergeht über meinen Herrn<note>chald. mare</note>, den König.</verse>
+        <verse osisID='Dan.4.22'>Dich verstößt man von dem Menschen, und bei dem wilden Tier des Feldes mußt du verweilen, und sie lassen dich das Kraut schmecken wie die Ochsen und vom Tau der Himmel benetzt werden; und sieben Zeiten werden hingleiten über dich, bis daß du erkennst, daß der Höchste schaltet über das Reich des Menschen und es gibt, wem Er will.</verse>
+        <verse osisID='Dan.4.23'>Daß sie aber sagten: man solle den Stamm der Wurzeln des Baumes belassen: Dein Königtum soll dir bestehen, daß du wissest, daß die Himmel schalten.</verse>
+        <verse osisID='Dan.4.24'>Darum, o König, laß dir meinen Rat gefallen<note>schön erscheinen</note> und brich ab von deinen Sünden durch Gerechtigkeit, und von deinen Verkehrtheiten durch Gnade gegen die Elenden, wenn deine Ruhe<note>dein Behagen</note> soll verlängert werden.</verse>
+        <verse osisID='Dan.4.25'>Das alles traf den König Nebuchadnezzar.</verse>
+        <verse osisID='Dan.4.26'>Am Ende von zwölf Monden erging er sich auf dem Palast<note>Tempel</note> des Königtums in Babel.</verse>
+        <verse osisID='Dan.4.27'>Da hub der König an<note>antwortete</note> und sprach: Ist dies nicht die große Babel, die ich erbaut habe zum Königshause durch die Stärke meiner Macht und zum Ruhme<note>Köstlichkeit</note> meiner Ehre?</verse>
+        <verse osisID='Dan.4.28'>Noch war das Wort im Munde des Königs, da fiel eine Stimme vom Himmel: Dir, König Nebuchadnezzar, wird gesagt: das Reich ist von dir gewichen.</verse>
+        <verse osisID='Dan.4.29'>Und von den Menschen wirst du verstoßen und bei dem Getier des Feldes wirst du verweilen, gleich den Ochsen lassen sie das Kraut dich schmecken, und sieben Zeiten werden über dich hingleiten, bis du wissest, daß der Höchste schaltet über das Reich des Menschen, und gibt es dem, dem Er Sich zuneigt.</verse>
+        <verse osisID='Dan.4.30'>Zur selben Stunde ward das Wort an Nebuchadnezzar vollzogen, und von den Menschen ward er verstoßen, und wie die Ochsen aß er vom Kraut, und vom Tau der Himmel ward sein Leib benetzt, bis daß sein Haar wuchs wie das der Adler, und seine Nägel wie Vogelklauen.</verse>
+        <verse osisID='Dan.4.31'>Und am Ende der Tage hob ich, Nebuchadnezzar, meine Augen auf zu den Himmeln, und meine Erkenntnis kehrte mir zurück, und ich segnete den Höchsten, und pries und ehrte Ihn, Der da lebt in Ewigkeit, Dessen Herrschaft eine ewige Herrschaft ist, und Dessen Reich ist zu Geschlecht und Geschlecht.</verse>
+        <verse osisID='Dan.4.32'>Und alle Bewohner der Erde sind als nichts zu achten, und nach Seiner Neigung tut Er mit der Streitmacht der Himmel und mit denen, die auf der Erde wohnen. Und da ist keiner, der Seiner Hand wehrete und zu Ihm spräche: Was tust du?</verse>
+        <verse osisID='Dan.4.33'>Zur selben Zeit kam mir meine Kenntnis zurück, und die Pracht<note>Köstlichkeit</note> meines Reiches, meine Ehre und mein Glanz kehrte mir zurück, und meine Räte und meine Großen suchten mich, und ich ward wieder in mein Königtum eingesetzt und über die Maßen Größe ward mir hinzugetan.</verse>
+        <verse osisID='Dan.4.34'>Nun preise und erhöhe und ehre ich, Nebuchadnezzar, den König der Himmel, Dessen ganzes Tun ist Wahrheit, und Dessen Pfade sind Gericht, und die, so im Übermut dahingehen, vermag Er zu erniedrigen.</verse>
+      </chapter>
+      <chapter osisID='Dan.5'>
+        <title>Belschazzars Mahl. Worte an der Wand. - Daniels Deutung.</title>
+        <verse osisID='Dan.5.1'>König Belschazzar machte seinen tausend Großen ein großes Mahl<note>Brot</note> und trank vor den Tausenden Wein<note>lauteren Wein</note>.</verse>
+        <verse osisID='Dan.5.2'>Belschazzar befahl, als er den Wein<note>lauteren Wein</note> geschmeckt, die Gefäße von Gold und von Silber zu bringen, die sein Vater Nebuchadnezzar aus dem Tempel in Jerusalem weggenommen, daß daraus tränken der König und seine Großen, seine Gemahlinnen und seine Kebsen.</verse>
+        <verse osisID='Dan.5.3'>Da brachten sie die goldenen Gefäße, die sie aus dem Tempel des Hauses Gottes in Jerusalem hinweggenommen hatten, und der König und seine Großen, seine Gemahlinnen und Kebsen tranken daraus.</verse>
+        <verse osisID='Dan.5.4'>Sie tranken den Wein<note>lauteren Wein</note> und priesen die Götter von Gold und von Silber, von Erz, von Eisen, von Holz und von Stein.</verse>
+        <verse osisID='Dan.5.5'>Zur selben Stunde kamen Finger der Hand eines Menschen hervor und schrieben dem Leuchter gegenüber auf den Kalk der Wand des Palastes<note>Tempels</note> des Königs, und der König schaute das Gelenke der Hand, die schrieb.</verse>
+        <verse osisID='Dan.5.6'>Da veränderte sich des Königs Farbe<note>Glanz</note> und seine Gedanken machten ihn bestürzt, und die Bande seiner Lenden lösten sich und seine Knie schlugen eins ans andere.</verse>
+        <verse osisID='Dan.5.7'>Da rief der König mit Macht, man solle die Wahrsager, die Chaldäer und die Sterndeuter hereinbringen; der König hob an<note>antwortete</note> und sprach zu den Weisen Babels: Jeder Mensch, der diese Schrift liest und ihre Deutung mir anzeigt, soll in Purpur gekleidet werden, eine Halskette von Gold um den Hals haben und als der Dritte im Königreich schalten.</verse>
+        <verse osisID='Dan.5.8'>Da kamen herein alle Weisen des Königs, aber sie vermochten nicht, die Schrift zu lesen, noch deren Deutung dem König kundzutun.</verse>
+        <verse osisID='Dan.5.9'>Da ward der König sehr bestürzt, und seine Farbe<note>Glanz</note> veränderte sich, und auch seine Großen wurden verwirrt.</verse>
+        <verse osisID='Dan.5.10'>Die Königin wegen der Worte des Königs und seiner Großen trat in den Tranksaal<note>das Haus des Trinkens</note>, und die Königin hob an<note>antwortete</note> und sprach: Der König lebe ewiglich; laß dich deine Gedanken nicht bestürzt machen und dein Gesicht<note>Glanz</note> sich nicht verändern.</verse>
+        <verse osisID='Dan.5.11'>Es ist ein Mann<note>mächtiger Mann</note> in deinem Königreich, in dem der Geist der heiligen Götter ist; und in den Tagen deines Vaters ist Erleuchtung und Verstand und Weisheit wie die Weisheit der Götter in ihm erfunden worden, und der König Nebuchadnezzar, dein Vater, hat ihn zum Obersten<note>Hauptmann</note> der Magier, der Wahrsager, der Chaldäer, der Sterndeuter eingesetzt, dein Vater, der König.</verse>
+        <verse osisID='Dan.5.12'>Alldieweil ein Geist über die Maßen, und Kenntnis und Verstand, die Deutung von Träumen und das Anzeigen von Rätseln, und die Auflösung knotiger Fragen<note>der Knoten</note> in ihm ist erfunden worden, in Daniel, dem der König den Namen Beltschazzar beilegte. Nun rufe man Daniel, und er wird die Deutung anzeigen.</verse>
+        <verse osisID='Dan.5.13'>Da ward Daniel hereingebracht vor den König. Der König hob an und sprach zu Daniel: Du bist Daniel, von den Söhnen der Verbannung Jehudahs, die mein Vater, der König, aus Jehudah gebracht hat.</verse>
+        <verse osisID='Dan.5.14'>Und ich habe von dir gehört, daß der Geist der Götter in dir ist, und Erleuchtung und Verstand und Weisheit über die Maßen in dir ist erfunden worden.</verse>
+        <verse osisID='Dan.5.15'>Und nun wurden vor mich geführt die Weisen, die Wahrsager, auf daß sie diese Schrift lesen und deren Deutung mir kundtun, aber sie vermögen nicht die Deutung des Wortes anzuzeigen.</verse>
+        <verse osisID='Dan.5.16'>Und ich hörte von dir, daß du Deutungen zu deuten und knotige Fragen<note>Knoten</note> aufzulösen vermögest. Wenn du nun vermagst, die Schrift zu lesen und ihre Deutung mir kund zu tun, sollst du dich mit Purpur anziehen und eine Halskette von Gold um deinen Hals haben, und als der Dritte im Königreich schalten.</verse>
+        <verse osisID='Dan.5.17'>Da antwortete Daniel und sprach vor dem König: Deine Gaben seien dein und deinen Ehrensold gib einem anderen! Jedoch die Schrift will ich dem König lesen und die Deutung ihm zu wissen tun.</verse>
+        <verse osisID='Dan.5.18'>O du König, der höchste Gott hatte Nebuchadnezzar, deinem Vater, das Königreich und die Größe und die Pracht<note>Kostbarkeit</note> und die Ehre gegeben.</verse>
+        <verse osisID='Dan.5.19'>Und vor der Größe, die Er ihm gab, erzitterten alle Völker, Volksstämme und Zungen und scheuten sich vor ihm. Wen er wollte<note>geneigt war</note>, tötete er, und wen er wollte<note>geneigt war</note>, ließ er am Leben, und wen er wollte<note>geneigt war</note>, erhöhte er, und wen er wollte<note>geneigt war</note>, erniedrigte er.</verse>
+        <verse osisID='Dan.5.20'>Und darob erhöhte sich sein Herz, und sein Geist ward stark, so daß er vermessen handelte, und er ward vom Thron seines Königtums hinabgestoßen, und seine Pracht<note>Kostbarkeit</note> wich von ihm.</verse>
+        <verse osisID='Dan.5.21'>Und von den Menschensöhnen ward er verstoßen, und sein Herz machte er gleich mit dem Tier, und mit den wilden Eseln verweilte er und schmeckte Kraut wie die Ochsen, und von dem Tau des Himmels ward sein Leib benetzt, bis daß er erkannte, daß der höchste Gott schaltet über des Menschen Reich, und wen Er will<note>geneigt war</note>, über sie einsetzt.</verse>
+        <verse osisID='Dan.5.22'>Und du, sein Sohn, Belschazzar, hast dein Herz nicht erniedrigt, während du all dies wußtest;</verse>
+        <verse osisID='Dan.5.23'>Und hast dich erhöht über den Herrn<note>chald. mare</note> der Himmel, und die Gefäße Seines Hauses vor dich bringen lassen; und du und deine Großen, deine Gemahlinnen und deine Kebsen haben Wein<note>lauteren Wein</note> daraus getrunken, und die Götter aus Silber und Gold, Erz, Eisen, Holz und Stein, die nicht schauen und nicht hören und nichts wissen, gepriesen, und dem Gott, in Dessen Hand dein Odem ist und all deine Pfade sind, Ihn hast du nicht geehrt.</verse>
+        <verse osisID='Dan.5.24'>Darum hat Er von Ihm das Gelenk der Hand ausgereckt und diese Schrift gezeichnet.</verse>
+        <verse osisID='Dan.5.25'>Und das ist die Schrift, die gezeichnet ist: Mene, mene, tekel, upharsin.</verse>
+        <verse osisID='Dan.5.26'>Dies ist die Deutung des Wortes: Mene<note>gezählt</note>, Gott hat gezählt dein Königtum und hat es vollendet<note>vollbracht</note>.</verse>
+        <verse osisID='Dan.5.27'>Tekel<note>gewogen</note>, du bist in der Waage gewogen und mangelnd erfunden worden!</verse>
+        <verse osisID='Dan.5.28'>Peres<note>zerteilt</note>, zerteilt wird dein Königreich und den Medern und Persern gegeben.</verse>
+        <verse osisID='Dan.5.29'>Da befahl Belschazzar, und man zog dem Daniel Purpur an und eine Halskette von Gold um seinen Hals, und riefen aus über ihn, daß er als Dritter schalten solle im Königreich.</verse>
+        <verse osisID='Dan.5.30'>In derselben Nacht ward Belschazzar, der König der Chaldäer, getötet.</verse>
+      </chapter>
+      <chapter osisID='Dan.6'>
+        <title>Daniel in der Löwengrube.</title>
+        <verse osisID='Dan.6.1'>Und Darius<note>Darjawesch</note>, der Meder, empfing das Königreich, da er zweiundsechzig Jahre alt war<note>als ein Sohn von 62 Jahren</note>.</verse>
+        <verse osisID='Dan.6.2'>Und es gefiel Darius<note>war schön vor Darius</note>, daß er über das Königreich hundertzwanzig Satrapen einsetzte, die in dem ganzen Königreich sein sollten;</verse>
+        <verse osisID='Dan.6.3'>Und über sie drei Fürsten<note>Präsidenten</note>, von denen einer Daniel war, so daß ihnen diese Satrapen Rechenschaft<note>Geschmack</note> geben sollten, und der König keinen Schaden hätte.</verse>
+        <verse osisID='Dan.6.4'>Da übertraf dieser Daniel die Fürsten<note>Präsidenten</note> und die Satrapen, alldieweil ein Geist über die Maßen in ihm war; und der König gedachte ihn über das ganze Reich einzusetzen.</verse>
+        <verse osisID='Dan.6.5'>Deshalb suchten die Fürsten<note>Präsidenten</note> und die Satrapen eine Sache zu finden wider Daniel von seiten des Königreichs; aber sie vermochten keine Sache und keine Verdorbenheit zu finden, denn er war treu und kein Fehler und keine Verdorbenheit ward an ihm gefunden.</verse>
+        <verse osisID='Dan.6.6'>Da sprachen diese Männer<note>mächtigen Männer</note>: Wir werden an diesem Daniel keine Sache finden, wofern wir nicht etwas wider ihn im Gesetze seines Gottes finden.</verse>
+        <verse osisID='Dan.6.7'>Da bestürmten diese Fürsten<note>Präsidenten</note> und Satrapen den König und sprachen zu ihm also: Ewiglich lebe der König Darius!</verse>
+        <verse osisID='Dan.6.8'>Es sind alle Fürsten<note>Präsidenten</note> des Königreiches, die Landvögte und die Satrapen, die Räte und die Statthalter zu Rate gegangen, daß der König solle eine Satzung aufsetzen und ein Verbot bestärken, daß jeder, der eine Bitte erbittet von irgendeinem Gott oder Menschen, binnen dreißig Tagen, außer von dir, o König, in die Löwengrube hinabgeworfen werde.</verse>
+        <verse osisID='Dan.6.9'>Nun solltest du, o König, das Verbot aufsetzen und das Schreiben unterzeichnen, auf daß es nicht geändert werde, als ein Gesetz von Medien und Persien, das nicht vergeht.</verse>
+        <verse osisID='Dan.6.10'>Darum unterzeichnete der König Darius denn die Schrift und das Verbot.</verse>
+        <verse osisID='Dan.6.11'>Und als Daniel wußte, daß die Schrift unterzeichnet war, ging er in sein Haus; und die Fenster waren offen in seinem Obergemach gegen Jerusalem hin, und dreimal<note>drei Fristen</note> des Tages kniete er auf seine Knie und betete und bekannte vor seinem Gott, gleichwie er vordem getan hatte.</verse>
+        <verse osisID='Dan.6.12'>Da stürmten diese Männer<note>mächtigen Männer</note> herein und fanden Daniel, wie er ersuchte und flehte vor seinem Gott.</verse>
+        <verse osisID='Dan.6.13'>Da nahten sie und sprachen vor dem König über das Verbot des Königs: Hast du nicht ein Verbot unterzeichnet, daß jeder Mensch, der von irgendeinem Gott oder Menschen binnen dreißig Tagen außer von dir, o König, etwas ersuche, in die Löwengrube hinabgeworfen werden solle? Der König antwortete und sprach: Fest steht das Wort als Gesetz von Medien und Persien, das nicht vergeht.</verse>
+        <verse osisID='Dan.6.14'>Da antworteten sie und sprachen vor dem Könige: Daniel, der einer der Söhne der Verbannung von Jehudah ist, hat nicht Acht<note>Geschmack</note> auf dich, o König, und auf das Verbot, das du unterzeichnet hast, und dreimal<note>drei Fristen</note> des Tages ersucht er sein Ersuchen.</verse>
+        <verse osisID='Dan.6.15'>Als der König dies Wort hörte, ward er sehr betrübt darob, und war besorgt für Daniel, daß er ihn befreite und bestrebte sich bis Sonnenuntergang, daß er ihn errettete.</verse>
+        <verse osisID='Dan.6.16'>Da stürmten diese Männer<note>mächtigen Männer</note> herein zu dem Könige und sprachen zum König: Wisse, o König, daß es ein Gesetz von Medien und Persien ist, daß kein Verbot oder Satzung, vom König aufgesetzt, verändert werde.</verse>
+        <verse osisID='Dan.6.17'>Da befahl der König und sie brachten Daniel herbei und warfen ihn hinab in die Löwengrube. Der König hob an<note>antwortete</note> und sprach zu Daniel: Dein Gott, Den du unablässig verehrst, befreie dich!</verse>
+        <verse osisID='Dan.6.18'>Und es ward ein Stein gebracht, und auf die Öffnung der Grube gelegt, und mit dem Siegelring des Königs und dem Siegelring seiner Großen versiegelt, auf daß sein Wille<note>seine Neigung</note> über Daniel nicht verändert werde.</verse>
+        <verse osisID='Dan.6.19'>Da ging der König weg in seinen Palast<note>Tempel</note> und brachte die Nacht in Fasten zu, und ließ keine Tänzerinnen vor sich kommen, und sein Schlaf floh weg von ihm.</verse>
+        <verse osisID='Dan.6.20'>Dann mit der Morgenröte, mit dem Lichte erhob sich der König und ging in Eile nach der Löwengrube.</verse>
+        <verse osisID='Dan.6.21'>Und wie er der Grube nahte, schrie er mit schmerzlicher Stimme zu Daniel. Der König hob an<note>antwortete</note> und sprach zu Daniel: Daniel, Knecht des lebendigen Gottes, hat dein Gott, Den du unablässig verehrst, vermocht, dich von den Löwen zu befreien?</verse>
+        <verse osisID='Dan.6.22'>Da redete Daniel mit dem Könige: Ewig lebe der König!</verse>
+        <verse osisID='Dan.6.23'>Mein Gott hat Seinen Engel gesandt und den Löwen den Rachen verschlossen, daß sie mich nicht schädigten, alldieweil vor Ihm Lauterkeit an mir erfunden worden, und ich auch vor dir keinen Schaden getan habe, o König!</verse>
+        <verse osisID='Dan.6.24'>Da ward der König sehr froh<note>gut</note> über ihn, und befahl, den Daniel aus der Grube heraufzubringen. Und Daniel ward aus der Grube heraufgebracht, und war keine Schädigung an ihm erfunden, weil er an seinen Gott geglaubt.</verse>
+        <verse osisID='Dan.6.25'>Und der König befahl, daß man diese Männer<note>mächtigen Männer</note> bringe, die Daniel angeklagt hatten<note>chald. ihre Bissen von Daniel gegessen hatten</note>, und man warf sie, ihre Söhne und ihre Weiber in die Löwengrube hinab, und sie hatten kaum den Boden<note>die Erde</note> der Grube erreicht, als die Löwen ihrer mächtig wurden und all ihre Gebeine zermalmten.</verse>
+        <verse osisID='Dan.6.26'>Da schrieb König Darius an alle Völker, Volksstämme und Zungen, die auf der ganzen Erde weilen: Euer Friede nehme zu!</verse>
+        <verse osisID='Dan.6.27'>Von mir aus ergeht die Weisung, daß man in der ganzen Herrschaft meines Königreichs vor dem Gotte Daniels erzittern und sich scheuen soll: Denn Er ist der lebendige Gott, Der besteht in Ewigkeit, und Sein Reich wird nicht umgestoßen, und bis an das Ende<note>den hinteren Teil</note> ist Seine Herrschaft.</verse>
+        <verse osisID='Dan.6.28'>Er befreit und errettet und tut Zeichen und Wunder am Himmel und auf Erden, Er, Der Daniel aus der Gewalt<note>Hand</note> der Löwen befreit hat.</verse>
+        <verse osisID='Dan.6.29'>Und dieser Daniel hatte Gedeihen unter der Regierung des Darius und unter der Regierung von Koresch dem Perser.</verse>
+      </chapter>
+      <chapter osisID='Dan.7'>
+        <title>Daniels Traum.</title>
+        <verse osisID='Dan.7.1'>Im ersten Jahre Belschazzars, König von Babel, schaute Daniel einen Traum und Gesichte seines Hauptes auf seinem Lager. Er schrieb dann den Traum nieder; er sagte den Inhalt<note>das Haupt</note> der Sache.</verse>
+        <verse osisID='Dan.7.2'>Daniel hob an<note>antwortete</note> und sprach: Ich schaute in meinem Gesichte bei der Nacht, und siehe, die vier Winde des Himmels brachen hervor auf das große Meer.</verse>
+        <verse osisID='Dan.7.3'>Und vier große Tiere stiegen herauf aus dem Meer, eines verschieden von dem anderen.</verse>
+        <verse osisID='Dan.7.4'>Das erste war wie ein Löwe und hatte Adlersschwingen; und ich schaute, bis seine Schwingen ihm ausgerauft wurden und es sich erhob von der Erde und richtete sich auf auf seine Füße wie ein Mensch, und ein Menschenherz ward ihm gegeben.</verse>
+        <verse osisID='Dan.7.5'>Und siehe, ein anderes, zweites Tier glich einem Bären, und richtete sich auf einer Seite auf, und drei Rippen waren in seinem Rachen zwischen seinen Zähnen, und sie sagten ihm also: Stehe auf, friß viel Fleisch!</verse>
+        <verse osisID='Dan.7.6'>Hierauf schaute ich, und siehe, ein anderes, wie ein Parder, und es hatte vier Schwingen wie ein Vogel auf seinem Rücken, und das Tier hatte vier Häupter, und ihm ward Herrschaft gegeben.</verse>
+        <verse osisID='Dan.7.7'>Nach diesen schaute ich in Gesichten der Nacht und siehe, ein viertes Tier, schauerlich und schrecklich und über die Maßen stark, und es hatte große Zähne von Eisen, es fraß und zermalmte und zertrat, was übrigblieb, mit seinen Füßen, und es war verschieden von allen Tieren vor ihm, und hatte zehn Hörner.</verse>
+        <verse osisID='Dan.7.8'>Ich gab acht auf die Hörner; und siehe, ein anderes, kleines Horn kam herauf zwischen ihnen, und vor ihm wurden drei der ersten Hörner ausgerissen, und siehe, Augen wie Menschenaugen waren an diesem Horn, und ein Mund, der Großes redete.</verse>
+        <verse osisID='Dan.7.9'>Ich schaute, bis Throne hinabgeworfen wurden, und der Alte der Tage setzte Sich. Sein Gewand war weiß wie Schnee, und das Haar Seines Hauptes wie reine Wolle, Sein Thron Flammen des Feuers, dessen Räder brennendes Feuer.</verse>
+        <verse osisID='Dan.7.10'>Ein Strom<note>Fluß</note> von Feuer ergoß sich, und ging vor Ihm aus, und tausendmal Tausende dienten Ihm, und zehntausendmal Zehntausende standen<note>chald. standen auf</note> vor Ihm. Das Gericht saß, und Bücher wurden geöffnet.</verse>
+        <verse osisID='Dan.7.11'>Ich schaute zu wegen der Stimme der großen Worte, die das Horn redete; ich schaute, bis daß das Tier getötet ward und sein Leib zerstört wurde und dem brennenden Feuer übergeben ward.</verse>
+        <verse osisID='Dan.7.12'>Und den übrigen Tieren ward ihre Herrschaft genommen, aber des Lebens Länge ward ihnen gegeben, bis auf eine Frist und eine Zeit.</verse>
+        <verse osisID='Dan.7.13'>Ich schaute in den Gesichten der Nacht, und siehe, mit den Wolken der Himmel kam wie des Menschen Sohn und gelangte bis zum Alten der Tage, und sie ließen Ihn vor Denselben nahen.</verse>
+        <verse osisID='Dan.7.14'>Und Ihm ward gegeben Herrschaft und Pracht<note>Kostbarkeit</note> und Reich, und alle Völker, Volksstämme und Zungen sollen Ihm dienen. Seine Herrschaft ist eine ewige Herrschaft, die nicht vergeht, und Sein Königtum, das nicht wird umgestoßen.</verse>
+        <verse osisID='Dan.7.15'>Und ich, Daniel, ward betrübt in meinem Geiste, inmitten seiner Hülle, und die Gesichte meines Hauptes machten mich bestürzt.</verse>
+        <verse osisID='Dan.7.16'>Ich nahte mich einem von denen, die da standen<note>chald. standen auf</note>, und ersuchte ihn um Gewisses über all dies; und er sprach mit mir und tat mir die Deutung der Dinge kund:</verse>
+        <verse osisID='Dan.7.17'>Diese großen Tiere, deren es vier sind, sind vier Könige, die auf Erden erstehen werden.</verse>
+        <verse osisID='Dan.7.18'>Aber die Heiligen des Höchsten werden das Reich empfangen, und das Reich innehaben in Ewigkeit, und in die Ewigkeit der Ewigkeiten.</verse>
+        <verse osisID='Dan.7.19'>Dann wollte ich<note>war ich geneigt</note> Gewisses über das vierte Tier, das von ihnen allen verschieden war, über die Maßen schauerlich, seine Zähne von Eisen und seine Klauen von Erz, es fraß und zermalmte und zertrat den Überrest mit den Füßen.</verse>
+        <verse osisID='Dan.7.20'>Und über die zehn Hörner auf seinem Haupte, und das andere, das heraufkam, und es fielen vor ihm drei; und dieses Horn hatte Augen und einen Mund, der Großes redete, und sein Ansehen war größer denn seiner Gesellen.</verse>
+        <verse osisID='Dan.7.21'>Und ich schaute, und dieses Horn geriet<note>machte</note> in Kampf mit den Heiligen und überwand sie.</verse>
+        <verse osisID='Dan.7.22'>Bis daß kam der Alte der Tage und Gericht gab den Heiligen des Höchsten, und es kam die bestimmte Zeit<note>Frist</note>, daß die Heiligen das Reich innehaben sollten.</verse>
+        <verse osisID='Dan.7.23'>Er sprach also: Das vierte Tier ist das vierte Königreich, das sein wird auf Erden, das verschieden sein wird von allen Königreichen, und wird fressen die ganze Erde, und sie zerstampfen<note>zerdreschen</note> und zermalmen.</verse>
+        <verse osisID='Dan.7.24'>Und was anlangt die zehn Hörner, so werden aus ihm, dem Königreiche, zehn Könige erstehen und ein anderer wird erstehen nach ihnen, und wird verschieden sein von den ersten, und wird drei Könige erniedrigen.</verse>
+        <verse osisID='Dan.7.25'>Und er wird Worte reden wider den<note>zur Seite des</note> Höchsten, und verstören die Heiligen des Höchsten, und wird sich unterfangen, Zeiten<note>Frist</note> und Gesetz zu ändern, und sie werden in seine Hand gegeben werden, eine Zeit und Zeiten und eine halbe Zeit.</verse>
+        <verse osisID='Dan.7.26'>Und das Gericht wird sitzen und seine Herrschaft wird man wegnehmen, vernichten und zerstören bis zum Ende<note>Äußersten</note>.</verse>
+        <verse osisID='Dan.7.27'>Und das Reich und die Herrschaft und die Größe der Königreiche unter all den Himmeln wird dem Volk der Heiligen des Höchsten gegeben werden; Sein Reich wird sein ein Reich der Ewigkeit, und alle Herrschaften werden Ihn verehren und Ihm gehorchen.</verse>
+        <verse osisID='Dan.7.28'>Bis hierher das Ende<note>Äußerste</note> des Wortes. Ich, Daniel, war sehr bestürzt in meinen Gedanken, und meine Farbe<note>Glanz</note> veränderte sich an mir und ich bewahrte das Wort in meinem Herzen.</verse>
+      </chapter>
+      <chapter osisID='Dan.8'>
+        <title>Zerstörung des zweiten Reichs durch das dritte. Verwüstung des Heiligtums.</title>
+        <verse osisID='Dan.8.1'>Im dritten Jahre der Regierung Belschazzars, des Königs, erschien mir, Daniel, ein Gesichte nach dem, das mir zu Anbeginn erschienen war.</verse>
+        <verse osisID='Dan.8.2'>Und ich sah in dem Gesichte, und es geschah, da ich es sah, da war ich auf der Burg Susan, die in der Landschaft Elam ist, und ich sah in dem Gesichte und war an dem Flusse Ulai.</verse>
+        <verse osisID='Dan.8.3'>Und ich hob meine Augen auf und sah, und siehe, ein Widder stand vor dem Flusse und hatte zwei Hörner, und die Hörner waren hoch, und das eine war höher als das zweite, und das höhere wuchs später herauf.</verse>
+        <verse osisID='Dan.8.4'>Und ich sah den Widder stoßen dem Meere zu und nach Mitternacht und nach Mittag, und keine Tiere<note>keine wilden Tiere</note> konnten vor ihm bestehen und niemand erretten von seiner Hand, und tat nach seinem Wohlgefallen und machte sich groß.</verse>
+        <verse osisID='Dan.8.5'>Und ich betrachtete ihn, und siehe, ein Bock von den Ziegen kam vom Abend über die Oberfläche der ganzen Erde daher und berührte die Erde nicht; und der Bock hatte ein ansehnliches<note>anschauliches</note> Horn zwischen seinen Augen.</verse>
+        <verse osisID='Dan.8.6'>Und er kam zu dem Widder mit den zwei Hörnern<note>dem Meister der zwei Hörner</note>, den ich vor dem Flusse stehen sah, und lief auf ihn zu im Grimm seiner Kraft.</verse>
+        <verse osisID='Dan.8.7'>Und ich sah, daß er den Widder erreichte und sich gegen ihn erbitterte, und den Widder schlug, und seine zwei Hörner zerbrach, so daß der Widder keine Kraft hatte vor ihm zu stehen, und er ihn zur Erde warf und zerstampfte, und niemand den Widder aus seiner Hand errettete.</verse>
+        <verse osisID='Dan.8.8'>Und der Bock von den Ziegen tat sehr groß; da er aber mächtig wurde, zerbrach das große Horn, und es kamen vier ansehnliche<note>anschauliche</note> anstatt seiner herauf nach den vier Winden der Himmel.</verse>
+        <verse osisID='Dan.8.9'>Und aus dem einen von ihnen kam ein kleines Horn hervor, und ward über die Maßen groß gen Mittag und gegen Aufgang und gegen die Zierde.</verse>
+        <verse osisID='Dan.8.10'>Und es wurde groß bis zum Heer der Himmel, und fällte zur Erde etliche von dem Heere und von den Sternen, und zerstampfte sie.</verse>
+        <verse osisID='Dan.8.11'>Und bis zum Obersten des Heeres machte es sich groß, und nahm Ihm weg das Beständige<note>d.h. das beständige Opfer</note> und warf hinab die Stätte Seiner Heiligkeit.</verse>
+        <verse osisID='Dan.8.12'>Und das Heer ward hingegeben samt dem Beständigen<note>d.h. das beständige Opfer</note> zur Übertretung, und man warf die Wahrheit zur Erde, und tat es und es gelang.</verse>
+        <verse osisID='Dan.8.13'>Und ich hörte einen Heiligen reden, und ein Heiliger sprach zu einem, der da redete: Wie lange ist dies Gesichte, das Beständige<note>d.h. das beständige Opfer</note> und die verwüstende Übertretung, das Heiligtum hinzugeben und das Herr zum Zerstampfen?</verse>
+        <verse osisID='Dan.8.14'>Und Er sprach zu mir bis zum Abend, zum Morgen, zweitausend und dreihundert; so wird das Heilige gerechtfertigt.</verse>
+        <verse osisID='Dan.8.15'>Und es geschah, als ich, Daniel, das Gesichte sah, und dessen Verständnis suchte, und siehe, da stand einer mir gegenüber, anzusehen wie ein Mann<note>mächtiger Mann</note>.</verse>
+        <verse osisID='Dan.8.16'>Und ich hörte die Stimme eines Menschen zwischen dem Ulai hervor, und er rief und sprach: Gabriel, laß diesen das Gesichte<note>die Erscheinung</note> verstehen.</verse>
+        <verse osisID='Dan.8.17'>Und er kam daneben, wo ich stand; und wie er kam, ward ich verstört und fiel auf mein Angesicht. Und er sprach zu mir: Merke auf, Menschensohn, denn das Gesichte ist für die Zeit des Endes.</verse>
+        <verse osisID='Dan.8.18'>Und wie er mit mir redete, fiel ich im tiefen Schlaf auf mein Angesicht zur Erde; und er rührte mich an, und ließ mich stehen, daß ich stand<note>in meinem Stehen</note>.</verse>
+        <verse osisID='Dan.8.19'>Und er sprach: Siehe, ich tue dir kund, was geschehen wird auf die Letzte des Unwillens: denn zur bestimmten Zeit ist das Ende.</verse>
+        <verse osisID='Dan.8.20'>Der Widder mit den zwei Hörnern<note>der Meister der zwei Hörner</note>, den du gesehen hast, sind die Könige von Medien und Persien.</verse>
+        <verse osisID='Dan.8.21'>Und der Bock von den Ziegen ist der König von Griechenland, und das große Horn zwischen seinen Augen, er ist der erste König.</verse>
+        <verse osisID='Dan.8.22'>Und daß es zerbrochen ward und vier statt seiner aufstanden, sind vier Königreiche, die aus der Völkerschaft aufstehen, aber nicht mit seiner Kraft.</verse>
+        <verse osisID='Dan.8.23'>Und in der Letzte ihres Reiches, wenn die Übertreter ihr Maß erfüllt haben, wird ein König dastehen, frech<note>stark</note> von Angesicht und der Tücke<note>Rätsel</note> versteht.</verse>
+        <verse osisID='Dan.8.24'>Und gewaltig wird seine Kraft, aber nicht durch seine eigene Kraft, und er wird wunderlich verderben, und es wird ihm gelingen, daß er es tue, und er wird verderben Gewaltige und das Volk der Heiligen.</verse>
+        <verse osisID='Dan.8.25'>Und durch seine Klugheit, und weil ihm Trug gelingt unter seiner Hand, und er wird in seinem Herzen groß tun, wird er in ihrer Sicherheit<note>Achtlosigkeit</note> viele verderben, und stehen wider den Obersten der Obersten, und wird ohne Hand zerbrochen.</verse>
+        <verse osisID='Dan.8.26'>Und das Gesichte<note>die Erscheinung</note> des Abends und des Morgens, wovon gesagt worden ist, das ist Wahrheit; aber du sollst das Gesichte verschließen; denn es ist für viele Tage.</verse>
+        <verse osisID='Dan.8.27'>Ich aber, Daniel, war dahin, und war mehrere Tage krank, aber ich stand auf und tat das Geschäft des Königs, und ich erstaunte ob der Erscheinung, und niemand verstand es.</verse>
+      </chapter>
+      <chapter osisID='Dan.9'>
+        <title>Daniels Gebet. Die siebzig Wochen.</title>
+        <verse osisID='Dan.9.1'>Im ersten Jahre von Darius, dem Sohne des Achaschverosch, von dem Samen der Meder, der über der Chaldäer Reich zum König gemacht ward,</verse>
+        <verse osisID='Dan.9.2'>Im ersten Jahre seines Königtums vermerkte ich, Daniel, in den Büchern die Zahl der Jahre, davon das Wort Jehovahs zum Propheten Jeremiah geschehen, daß die Verödungen Jerusalems erfüllt würden siebzig Jahre.</verse>
+        <verse osisID='Dan.9.3'>Und ich wandte<note>gab</note> mein Angesicht zum Herrn Gott, zu bitten ein Gebet und ein Flehen, mit Fasten und Sack und Asche.</verse>
+        <verse osisID='Dan.9.4'>Und ich betete zu Jehovah, meinem Gott, und bekannte und sprach: Ach Herr, großer und furchtbarer Gott, Der Bund und Barmherzigkeit hält denen, die Ihn lieben und Seine Gebote halten.</verse>
+        <verse osisID='Dan.9.5'>Wir haben gesündigt und Missetat begangen, und ungerecht gehandelt, und uns empört, und sind von Deinen Geboten und Rechten abgewichen.</verse>
+        <verse osisID='Dan.9.6'>Und haben nicht gehört auf Deine Knechte, die Propheten, die in Deinem Namen zu unseren Königen, unseren Obersten und Vätern und zu allem Volk des Landes geredet haben.</verse>
+        <verse osisID='Dan.9.7'>Dein, o Herr, ist Gerechtigkeit, unser aber Scham des Angesichts wie dieses Tages bei dem Mann von Jehudah und bei denen, so in Jerusalem und in ganz Israel wohnen, denen, die nahe und die fern sind in allen Landen, wohin Du sie verstoßen hast ob der Untreue, daß sie von Dir abgefallen sind.</verse>
+        <verse osisID='Dan.9.8'>O Herr, unser ist Scham des Angesichts, unseren Königen, unseren Obersten und unseren Vätern, die wir wider Dich gesündigt haben.</verse>
+        <verse osisID='Dan.9.9'>Dein, o Herr, unser Gott, ist Erbarmen und Vergebung, denn wir haben uns empört wider Ihn.</verse>
+        <verse osisID='Dan.9.10'>Und haben nicht gehört auf die Stimme Jehovahs, unseres Gottes, daß wir gewandelt wären nach Seinen Gesetzen, die Er durch die Hand Seiner Knechte, die Propheten, vor uns gegeben.</verse>
+        <verse osisID='Dan.9.11'>Und ganz Israel hat Dein Gesetz übertreten und ist abgewichen und hat nicht auf Deine Stimme gehört; darum ergoß sich über uns die Verwünschung und der Schwur, der geschrieben ist im Gesetze Moses, des Knechts Gottes, weil wir wider Ihn gesündigt haben.</verse>
+        <verse osisID='Dan.9.12'>Und Er hat Sein Wort bestätigt, das Er geredet hat über uns und über unsere Richter, die uns richteten, und über uns kommen lassen so großes Übel, desgleichen nicht geschehen unter allen Himmeln, wie es geschehen ist in Jerusalem.</verse>
+        <verse osisID='Dan.9.13'>Wie im Gesetze Moses geschrieben ist, ist all dieses Böse über uns gekommen; wir aber flehten nicht an vor Jehovah, unserem Gotte, daß wir von unseren Missetaten umkehrten und merkten auf Deine Wahrheit.</verse>
+        <verse osisID='Dan.9.14'>Und der Herr ist wach gewesen mit dem Übel und hat es über uns kommen lassen; denn gerecht ist Jehovah, unser Gott, in allen Seinen Taten, die Er tut, aber wir haben nicht auf Seine Stimme gehört.</verse>
+        <verse osisID='Dan.9.15'>Und nun, Herr, unser Gott, Der Du Dein Volk mit starker Hand aus dem Lande Ägypten herausgebracht, und Dir einen Namen gemacht hast, wie er ist an diesem Tage, wir haben gesündigt und ungerecht gehandelt.</verse>
+        <verse osisID='Dan.9.16'>Herr, nach all Deiner Gerechtigkeit wende zurück Deinen Zorn und Deinen Grimm von Deiner Stadt Jerusalem, von dem Berge Deiner Heiligkeit! Denn durch unsere Sünden und durch die Missetaten unserer Väter ist Jerusalem und Dein Volk zur Schmach geworden bei allen, die uns umgeben.</verse>
+        <verse osisID='Dan.9.17'>Und nun höre, unser Gott, auf das Gebet Deines Knechtes und auf sein Flehen, und laß leuchten Dein Angesicht über Dein Heiligtum, das verwüstete, um des Herrn willen.</verse>
+        <verse osisID='Dan.9.18'>Neige, o Gott, Dein Ohr und höre, tue auf Deine Augen und siehe, wie verwüstet sind wir und die Stadt, über der Dein Name genannt wird, denn nicht um unserer Gerechtigkeit willen lassen wir unser Flehen vor Dein Angesicht niederfallen, sondern um Deiner vielen Erbarmungen willen.</verse>
+        <verse osisID='Dan.9.19'>O Herr, höre, o Herr, vergib, o Herr, horche und tue es und zögere nicht, um Deiner selbst willen, o mein Gott, denn Dein Name wird über Deiner Stadt und über Deinem Volke genannt.</verse>
+        <verse osisID='Dan.9.20'>Und noch redete ich, und betete und bekannte meine Sünde und die Sünde meines Volkes Israel, und ließ mein Flehen fallen vor Jehovah, meinem Gott, für den Berg der Heiligkeit meines Gottes.</verse>
+        <verse osisID='Dan.9.21'>Und noch redete ich im Gebet, da flog daher im Flug der Mann Gabriel, den ich zu Anbeginn im Gesichte gesehen, und rührte mich an um die Zeit des Speiseopfers am Abend.</verse>
+        <verse osisID='Dan.9.22'>Und er unterrichtete mich und redete mit mir und sprach: Daniel, ich bin nun ausgegangen, dich zu unterrichten in Einsicht.</verse>
+        <verse osisID='Dan.9.23'>Zu Anbeginn deines Flehens ging das Wort aus, und ich bin gekommen, dir anzusagen, daß du bist ein Liebling<note>Begehrter</note>; und merke du auf das Wort und merke auf die Erscheinung.</verse>
+        <verse osisID='Dan.9.24'>Siebzig Wochen sind bestimmt über dein Volk und über die Stadt deiner Heiligkeit, zu vollenden die Übertretung und zu besiegeln die Sünden und zu sühnen die Missetat, und hereinzubringen die Gerechtigkeit der Zeitalter<note>der Ewigkeiten</note> und zu besiegeln das Gesetz und den Propheten und zu salben das Heilige des Heiligen.</verse>
+        <verse osisID='Dan.9.25'>Und du sollst wissen und merken: Vom Ausgehen des Wortes, daß Jerusalem wieder hergestellt und gebaut werden soll, bis auf den Messias, den Fürsten, sind es sieben Wochen und zweiundsechzig Wochen, da werden die Straße und der Graben wieder hergestellt und gebaut, aber in der Angst der Zeiten.</verse>
+        <verse osisID='Dan.9.26'>Und nach den zweiundsechzig Wochen wird der Gesalbte ausgerottet, aber nicht für Sich. Und die Stadt und das Heiligtum wird verderben das Volk eines Fürsten, der da kommt, und sein Ende wird sein mit einer Flut, und bis zum Ende des Streites sind die Verwüstungen entschieden.</verse>
+        <verse osisID='Dan.9.27'>Er wird aber vielen den Bund bestärken<note>mächtig machen</note> eine Woche, und in der Hälfte der Woche das Schlachtopfer und Speiseopfer zu Ende bringen<note>feiern lassen</note>, und auf den Vogel<note>Flügel</note> der Scheusale die Verwüstung, und bis zur Vollendung und Entscheidung wird es sich ergießen über die Verwüstung.</verse>
+      </chapter>
+      <chapter osisID='Dan.10'>
+        <title>Weissagung. Erscheinung des Engels.</title>
+        <verse osisID='Dan.10.1'>Im dritten Jahre des Koresch<note>d.i. Kyrus</note>, des Königs von Persien, wurde Daniel, den man mit Namen Beltschazzar nannte, ein Wort geoffenbart, und das Wort ist Wahrheit und ein großer Heereszug; und er verstand das Wort, und es ward ihm das Verständnis des Gesichtes.</verse>
+        <verse osisID='Dan.10.2'>In selbigen Tagen trauerte ich, Daniel, drei Wochen der Tage,</verse>
+        <verse osisID='Dan.10.3'>Ich aß kein leckeres Brot<note>Brot des Begehrens</note>, Fleisch und Wein kam nicht zu meinem Munde, auch salbte ich mich nicht mit Salben, bis die drei Wochen der Tage sich erfüllten.</verse>
+        <verse osisID='Dan.10.4'>Und am vierundzwanzigsten Tage des ersten Monats, da war ich am Ufer<note>Hand</note> des großen Flusses, welcher ist der Chiddekel.</verse>
+        <verse osisID='Dan.10.5'>Und ich hob meine Augen auf und sah, und siehe, da stand ein Mann, in Linnen gekleidet, und seine Lenden gegürtet mit lauterem Gold aus Uphas.</verse>
+        <verse osisID='Dan.10.6'>Und sein Leib war wie ein Tharschisch, und sein Angesicht wie das Ansehen des Blitzes und seine Augen wie Fackeln von Feuer, und seine Arme und seine Füße wie der Anblick des geglätteten Erzes, und die Stimme seiner Worte wie die Stimme einer Volksmenge.</verse>
+        <verse osisID='Dan.10.7'>Und ich, Daniel, allein sah die Erscheinung, und die Männer, so mit mir waren, sahen die Erscheinung nicht; aber ein großes Erzittern fiel über sie, und sie entwichen, sich zu verstecken.</verse>
+        <verse osisID='Dan.10.8'>Und ich allein verblieb und sah diese große Erscheinung; es verblieb aber keine Kraft in mir und meine Majestät verwandelte sich bis zum Verderben, und ich behielt keine Kraft.</verse>
+        <verse osisID='Dan.10.9'>Und ich hörte die Stimme seiner Worte, und wie ich die Stimme seiner Worte gehört, war ich in tiefem Schlaf, auf meinem Angesicht, und mein Angesicht zur Erde.</verse>
+        <verse osisID='Dan.10.10'>Und siehe, eine Hand rührte mich an und hob<note>bewegte</note> mich auf die Knie und auf die flachen Hände;</verse>
+        <verse osisID='Dan.10.11'>Und sprach zu mir: Mann des Wohlgefallens<note>der Begehr</note> merke auf die Worte, die ich zu dir rede und stehe auf deine Stätte<note>dein Stehen</note>, denn ich bin jetzt zu dir gesandt. Und wie er diese Worte mit mir redete, stand ich mit Beben auf.</verse>
+        <verse osisID='Dan.10.12'>Und er sprach zu mir: Fürchte dich nicht, Daniel, denn seit dem ersten Tage, da du dein Herz hingabst, Verständnis zu erlangen und dich zu demütigen vor deinem Gotte, sind deine Worte erhört worden, und ich bin gekommen um deiner Worte willen.</verse>
+        <verse osisID='Dan.10.13'>Und der Oberste des Reiches Persiens ist einundzwanzig Tage wider mich gestanden; und siehe, Michael, einer der ersten Obersten, ist gekommen, mir beizustehen, und ich blieb übrig neben den Königen von Persien.</verse>
+        <verse osisID='Dan.10.14'>Und ich bin gekommen, dich zu unterrichten, was in den letzten der Tage deinem Volke begegnen wird, denn das Gesichte geht noch auf Tage.</verse>
+        <verse osisID='Dan.10.15'>Und wie er so mit mir diese Worte redete, schlug<note>gab</note> ich mein Angesicht nieder zur Erde und war stumm.</verse>
+        <verse osisID='Dan.10.16'>Und siehe, einer, ähnlich wie ein Menschensohn, rührte an meine Lippen, und ich öffnete meinen Mund und redete und sprach zu dem, der mir gegenüber stand: Mein Herr, über der Erscheinung kehren meine Wehen sich wider mich, und ich habe keine Kraft mehr behalten.</verse>
+        <verse osisID='Dan.10.17'>Und wie vermag der Knecht dieses meines Herrn zu reden mit diesem meinem Herrn, weil seit der Zeit keine Kraft in mir besteht und kein Odem mehr in mir verblieben ist.</verse>
+        <verse osisID='Dan.10.18'>Und es rührte mich wiederum<note>tat hinzu, mich zu berühren</note> einer an, der das Ansehen eines Menschen hatte, und stärkte mich,</verse>
+        <verse osisID='Dan.10.19'>Und sprach: Fürchte dich nicht, Mann des Wohlgefallens<note>oder: Sonne</note>, Friede sei mit dir, sei stark, sei stark! Und wie er mit mir redete, erstarkte ich und sagte: Mein Herr, rede, denn du hast mich gestärkt.</verse>
+        <verse osisID='Dan.10.20'>Und er sprach: Weißt du, warum ich zu dir gekommen bin? Und jetzt kehre ich zurück, zu streiten mit dem Obersten Persiens, aber wenn ich hinausgehe, siehe, da kommt der Oberste von Griechenland.</verse>
+        <verse osisID='Dan.10.21'>Aber ich will dir ansagen, was in der Schrift der Wahrheit verzeichnet ist, und es ist nicht einer, der sich mit mir stärkt wider diesen, als euer Oberster Michael.</verse>
+      </chapter>
+      <chapter osisID='Dan.11'>
+        <title>Von verschiedenen Königen und Streitigkeiten derselben.</title>
+        <verse osisID='Dan.11.1'>Und ich stand bei ihm im ersten Jahre des Darius, des Meders, ihn zu halten und ihm zur Stärke.</verse>
+        <verse osisID='Dan.11.2'>Und nun will ich dir Wahrheit ansagen: Siehe, noch drei Könige werden in Persien stehen; und der vierte wird mit größerem Reichtum sich bereichern denn alle, und wenn er am stärksten ist durch seinen Reichtum, wird er alles erregen gegen das griechische Reich.</verse>
+        <verse osisID='Dan.11.3'>Und ein mächtiger König wird erstehen, und eine große Herrschaft beherrschen und tun nach seinem Wohlgefallen.</verse>
+        <verse osisID='Dan.11.4'>Und wenn er so steht, wird sein Reich zerbrechen und sich nach den vier Winden der Himmel zerteilen<note>sich halbieren</note>, und nicht für seine Nachkommen, und nicht mit der Herrschaft, mit der er geherrscht, und sein Reich wird ausgerodet und anderen außer ihnen werden.</verse>
+        <verse osisID='Dan.11.5'>Und der König des Mittags und einer seiner Obersten wird stark sein, und wird stark werden wider ihn und herrschen; eine große<note>viele</note> Herrschaft wird seine Herrschaft sein.</verse>
+        <verse osisID='Dan.11.6'>Und am Ende von Jahren werden sie sich verbünden, und die Tochter des Königs von Mittag wird zum König gen Mitternacht kommen, um das Gerade zu tun, aber sie wird die Kraft des Arms nicht behalten und er und sein Arm werden nicht bestehen, und sie wird hingegeben, sie und die sie hergeführt, so wie auch ihr Erzeuger und der, der sie gestärkt hatte in den Zeiten.</verse>
+        <verse osisID='Dan.11.7'>Aber es wird ein Reis von ihrer Wurzel an seiner Stelle erstehen und zur Streitmacht kommen, und kommen in die Festung des Königs der Mitternacht, und wider sie tun und siegen<note>stark sein</note>,</verse>
+        <verse osisID='Dan.11.8'>Und auch ihre Götter mit ihren Guß-bildern<note>Sw. Fürsten</note> samt den kostbaren Gefäßen<note>Gefäßen ihres Begehrens</note> von Silber und Gold in Gefangenschaft wegführen nach Ägypten, und wird Jahrelang stehen vor dem König von Mitternacht.</verse>
+        <verse osisID='Dan.11.9'>Und er wird kommen in das Reich des Königs von Mittag, aber wieder auf seinen Boden zurückkehren.</verse>
+        <verse osisID='Dan.11.10'>Und seine Söhne werden Fehden erheben und eine Volksmenge vieler Streitmächte versammeln, und wird kommen<note>kommend kommen</note> und überfluten und daherfahren, und wird zurückkehren und bis zu seinen Festungen befehden.</verse>
+        <verse osisID='Dan.11.11'>Und der König vom Mittag wird sich erbittern und ausziehen und streiten mit ihm, mit dem König von Mitternacht, und wird aufstellen viel Volksmenge, aber die Volksmenge wird in seine Hand gegeben.</verse>
+        <verse osisID='Dan.11.12'>Und er wird die Volksmenge wegnehmen und sein Herz wird sich erhöhen, und Zehntausende fällen, wird ihn aber nicht überwältigen<note>stark sein</note>.</verse>
+        <verse osisID='Dan.11.13'>Und der König von Mitternacht wird widerkommen und eine Volksmenge aufstellen, größer denn die vorige, und am Ende der Zeiten der Jahre wird er daherkommen<note>kommend kommen</note> mit großer Streitmacht und mit vieler Habe.</verse>
+        <verse osisID='Dan.11.14'>Und in selbigen Zeiten werden viele wider den König von Mittag stehen, und auch die Söhne der Räuber deines Volkes sich erheben, so daß sie das Gesichte bestätigen, und werden straucheln.</verse>
+        <verse osisID='Dan.11.15'>Und wird kommen der König von Mitternacht und einen Wall aufschütten und die feste Stadt erobern, und die Arme des Mittags werden nicht bestehen, und sein auserwähltes Volk; und werden keine Kraft haben zum Widerstehen.</verse>
+        <verse osisID='Dan.11.16'>Und wer wider ihn kommt, tut nach seinem Wohlgefallen, und wird niemand vor ihm bestehen, und er wird stehen im Land der Zierde, und wird es vollenden durch seine Hand.</verse>
+        <verse osisID='Dan.11.17'>Und er wird sein Angesicht richten, daß er mit der Stärke seines ganzen Reiches komme, und wird das Gerade mit ihm tun, und ihm die Tochter der Weiber geben, daß sie ihn verderbe, aber sie wird nicht bestehen, und wird nicht für ihn sein.</verse>
+        <verse osisID='Dan.11.18'>Und er wird sein Angesicht zurückwenden wider die Inseln und viele erobern; aber ein Heerführer wird seinem Schmähen ein Ende machen<note>feiern lassen</note>, daß er ihm sein Schmähen zurückgebe.</verse>
+        <verse osisID='Dan.11.19'>Und er wird sein Angesicht zurückwenden zu den Festen seines Landes; und er wird straucheln und fallen, und nicht gefunden werden.</verse>
+        <verse osisID='Dan.11.20'>Und an seiner Stelle wird einer erstehen, der wird den Erpresser nach des Reiches Ehre umhersenden; aber in einigen Tagen wird er zerbrechen, doch nicht im Zorn und nicht im Streit.</verse>
+        <verse osisID='Dan.11.21'>Und an seiner Stelle steht ein Verachteter, und ihm geben sie die Majestät des Königtums nicht; und er kommt unversehens und erfaßt das Reich durch Schmeicheleien.</verse>
+        <verse osisID='Dan.11.22'>Und die Arme des Überflutenden werden vor ihm überflutet und zerbrochen werden, und auch der Fürst des Bundes.</verse>
+        <verse osisID='Dan.11.23'>Denn nachdem er sich mit ihm verbündet, wird er trüglich handeln und heraufziehen, und mit wenig Völkerschaft ihn besiegen.</verse>
+        <verse osisID='Dan.11.24'>Und wird unversehens<note>in Sorglosigkeit</note> in die fetten Plätze der Landschaft kommen und tun, was seine Väter und seiner Väter Väter nicht zu tun vermochten, mit Rauben, Beutemachen und dem Verstreuen der Habe unter sie, und wird seine Gedanken denken wider die Festungen und bis auf eine Zeit;</verse>
+        <verse osisID='Dan.11.25'>Und wird seine Kraft und sein Herz auferwecken wider den König vom Mittag mit großer Streitmacht. Und der König vom Mittag wird ihn befehden im Streit mit großer und sehr gewaltiger Streitmacht, wird aber nicht bestehen, denn sie werden Anschläge<note>Gedanken</note> wider ihn ausdenken.</verse>
+        <verse osisID='Dan.11.26'>Und die seine leckere Speise essen, werden ihn zerbrechen, und seine Streitmacht wird er überfluten, und viele Erschlagene werden fallen.</verse>
+        <verse osisID='Dan.11.27'>Und die beiden, die Könige, ihr Herz wird darauf sein, Böses zu tun, und an einem Tische werden sie Falsches miteinander reden. Es wird ihnen aber nicht gelingen, denn das Ende ist erst zur bestimmten Zeit.</verse>
+        <verse osisID='Dan.11.28'>Und er wird zurückkehren in sein Land mit großer Habe und wird sein Herz setzen wider den Bund der Heiligkeit, und wird es tun und in sein Land zurückkehren.</verse>
+        <verse osisID='Dan.11.29'>Zur bestimmten Zeit wird er zurückkehren und gen Mittag kommen; aber es wird zuletzt nicht sein wie vormals.</verse>
+        <verse osisID='Dan.11.30'>Und es werden Schiffe aus Chitthim wider ihn kommen, und er wird sich betrüben und zurückkehren und unwillig sein wider den Bund der Heiligkeit, und wird es tun; und er wird zurückkehren und sich verständigen mit denen, die den Bund der Heiligkeit verlassen.</verse>
+        <verse osisID='Dan.11.31'>Und Arme von ihm werden stehen und das Heiligtum, die Feste, entweihen und das Beständige<note>d.h. das beständige Opfer</note> wegtun und das verwüstende Scheusal aufstellen<note>geben</note>.</verse>
+        <verse osisID='Dan.11.32'>Und er wird die, so ungerecht handeln wider den Bund, mit Schmeicheleien entheiligen; aber das Volk derer, so ihren Gott kennen, werden sich stärken und es tun.</verse>
+        <verse osisID='Dan.11.33'>Und die Verständigen des Volkes werden viele zur Einsicht bringen; aber sie werden straucheln ob dem Schwerte und ob der Flamme, ob der Gefangenschaft und dem Raube, einige Tage.</verse>
+        <verse osisID='Dan.11.34'>Und wenn sie straucheln, werden sie ihnen mit kleinem Beistande beistehen; aber viele werden ihnen anhangen mit Schmeicheleien.</verse>
+        <verse osisID='Dan.11.35'>Und von den Verständigen werden etliche straucheln, um unter ihnen abgetrieben, geläutert und weiß gemacht zu werden auf die Zeit des Endes: denn es ist noch auf die bestimmte Zeit.</verse>
+        <verse osisID='Dan.11.36'>Und der König wird tun nach seinem Wohlgefallen und sich erhöhen und groß tun wider jeglichen Gott, und wider den Gott der Götter Wunderliches reden, und wird ihm gelingen, bis vollendet ist der Unwille und die Entscheidung ist gemacht.</verse>
+        <verse osisID='Dan.11.37'>Und er wird nicht aufmerken auf die Götter seiner Väter, noch auf die Begierde der Frauen, noch aufmerken auf irgendeinen Gott, sondern groß tun wider alle.</verse>
+        <verse osisID='Dan.11.38'>Und er wird den Gott der Befestigungen an seiner Stelle verherrlichen, und den Gott, den seine Väter nicht gekannt, mit Gold und mit Silber, und mit kostbarem Steine und mit Kleinodien<note>mit begehrten Dingen</note> verherrlichen.</verse>
+        <verse osisID='Dan.11.39'>Und er arbeitet<note>tut</note> an den Festungen der Festen mit einem ausländischen Gotte. Wer ihn anerkennt, dem mehrt er die Herrlichkeit und läßt ihn herrschen über viele, und den Boden teilt er aus zum Lohne.</verse>
+        <verse osisID='Dan.11.40'>Und zur Zeit des Endes wird der König vom Mittag sich mit ihm stoßen, und der König von Mitternacht wird stürmen wider ihn mit Streitwagen und mit Reitern und mit vielen Schiffen, und wird in die Länder kommen und sie überfluten und durchziehen.</verse>
+        <verse osisID='Dan.11.41'>Und wird in das Land der Zierde kommen, und viele werden dahinstürzen, aber diese werden entrinnen seiner Hand: Edom und Moab und die Erstlinge der Söhne Ammons.</verse>
+        <verse osisID='Dan.11.42'>Und er wird seine Hand in die Länder ausstrecken, und das Land Ägypten wird ihm nicht entkommen.</verse>
+        <verse osisID='Dan.11.43'>Und er wird herrschen über die Schätze Goldes und Silbers und über alle Kleinodien<note>begehrten Dinge</note> Ägyptens, und Libyer und Kuschiten in seinen Schritten.</verse>
+        <verse osisID='Dan.11.44'>Und Gerüchte vom Aufgang und von Mitternacht machen ihn bestürzt, und mit großem Grimme zieht er aus, um viele zu vernichten und zu verbannen.</verse>
+        <verse osisID='Dan.11.45'>Und er wird seine Palastzelte aufschlagen zwischen den Meeren, an dem Berge der Zierde der Heiligkeit; und er kommt zu seinem Ende und niemand steht ihm bei.</verse>
+      </chapter>
+      <chapter osisID='Dan.12'>
+        <title>Die letzten Zeiten.</title>
+        <verse osisID='Dan.12.1'>Und zur selben Zeit wird dastehen der große Fürst<note>Oberste</note> Michael, der da steht für die Söhne deines Volkes, und wird sein eine Zeit der Drangsale, dergleichen nicht gewesen ist, seit Völkerschaften da sind bis auf selbige Zeit, und in jener Zeit wird dein Volk entrinnen, ein jeder, der in dem Buche sich geschrieben findet.</verse>
+        <verse osisID='Dan.12.2'>Und viele derer, die im Staub des Bodens schlafen, werden erwachen, etliche zum ewigen Leben und etliche zur Schmach und zu ewiger Abneigung.</verse>
+        <verse osisID='Dan.12.3'>Die Verständigen aber werden glänzen wie der Glanz der Himmelsfeste<note>Ausbreitung</note>, und die, so viele gerecht gemacht, wie die Sterne in Ewigkeit und immerdar.</verse>
+        <verse osisID='Dan.12.4'>Du aber, Daniel, verschließe die Worte und versiegle das Buch bis zur Zeit des Endes; viele werden es dann durchlaufen und die Erkenntnis sich mehren.</verse>
+        <verse osisID='Dan.12.5'>Und ich, Daniel, sah, und siehe, zwei andere standen da, der eine auf diesem Ufer<note>Lippe</note> des Stromes und der andere auf jenem Ufer<note>Lippe</note> des Stromes.</verse>
+        <verse osisID='Dan.12.6'>Und er sprach zu dem Manne in Linnen gekleidet, der über den Wassern des Stromes war: Bis wann wird es ein Ende mit den Wundern?</verse>
+        <verse osisID='Dan.12.7'>Und ich hörte den Mann, der in Linnen gekleidet war, der über den Wassern des Stromes war, und er erhob seine Rechte und seine Linke zu den Himmeln, und schwur bei Dem, Der da lebt in Ewigkeit: daß es auf eine bestimmte Zeit, bestimmte Zeiten und eine halbe sein soll, und wenn die Zerstreuung der Hand des Volkes der Heiligkeit vollendet ist, wird alles dies vollendet werden.</verse>
+        <verse osisID='Dan.12.8'>Und ich hörte es und verstand es nicht, und sprach: Mein Herr, was wird das Letzte davon sein?</verse>
+        <verse osisID='Dan.12.9'>Und er sprach: Gehe hin, Daniel, denn die Worte sind verschlossen und versiegelt bis zur Zeit des Endes.</verse>
+        <verse osisID='Dan.12.10'>Viele werden sich säubern und weiß machen und läutern, und Ungerechte werden ungerecht handeln, und alle Ungerechten werden nicht aufmerken, aber die Verständigen werden aufmerken.</verse>
+        <verse osisID='Dan.12.11'>Und von der Zeit an, wenn das Beständige abgetan und das verwüstende Scheusal eingesetzt<note>gegeben</note> wird, sind es tausendzweihundertneunzig Tage.</verse>
+        <verse osisID='Dan.12.12'>Selig, der da wartet und erreicht die tausenddreihundertfünfunddreißig Tage.</verse>
+        <verse osisID='Dan.12.13'>Und du, gehe zum Ende und ruhe, und stehe zu deinem Lose bis zum Ende der Tage.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

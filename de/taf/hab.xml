@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <osisText osisRefWork='Bible' osisIDWork='TAF' xml:lang='de'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='TAF'>
+        <title>Tafelbibel</title>
+        <contributor>Martin</contributor>
+        <creator>Jens Grabner</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject>holy bible</subject>
+        <date>2009-01-20</date>
+        <description>Die Bibel - Übersetzung von Johann Friedrich Leonhard Tafel
+
+      Die vorliegende Neuausgabe ist eine Abschrift der Übersetzung von Dr. Leonhard
+      Tafel, revidiert von Ludwig H. Tafel, dritte Ausgabe 1911, und wurde auf ihre
+      Vollständigkeit überprüft. Es wurde die Rechtschreibregel der heutigen Zeit (noch
+      vor der Rechtschreibreform 1998) angewendet, ohne den Stil der Sprache zu verändern.
+
+      Wer in dieser Bibel einige Bücher vermisst, sei auf das Vorwort der Source verwiesen.
+      Auf der zweiten Seite steht dort:
+      Der zweite Band enthält die übrigen, sogenannten
+      Hagiographen oder heiligen Bücher: die Bücher Hiob, Sprichwörter, Hohelied, Prediger, Ruth, Chronika, Esra,
+      Nehemia, Esther und die Apokryphen.²
+      2. Gegenwärtige, Revision des Zefania XML Moduls  enthält die Hagiographen und Apokryphen nicht, da
+      sie nicht verfügbar waren.</description>
+        <publisher>FREE BIBLE SOFTWARE GROUP</publisher>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>TAF</identifier>
+        <source>http://www.ubf-dortmund.de/bibel/tafel.htm</source>
+        <language type='IETF'>de</language>
+        <relation/>
+        <coverage>provide the bible to the world</coverage>
+        <rights>Mit freundlicher Genehmigung des Swedenborg Verlag Postfach 1205 CH - 8032 Zürich</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Hab'>
+      <chapter osisID='Hab.1'>
+        <title>Prophet Habakuk</title>
+        <title>Klage beim Einfall der Chaldäer.</title>
+        <verse osisID='Hab.1.1'>Die Weissagung, die Chabakkuk, der Prophet, erschaute.</verse>
+        <verse osisID='Hab.1.2'>Wie lange, Jehovah, soll ich aufschreien, und Du willst nicht hören, - schreien zu Dir: Gewalttat! und Du wirst nicht helfen?</verse>
+        <verse osisID='Hab.1.3'>Warum läßt Du mich Unrecht sehen und Mühsal erblicken, und Verheerung und Gewalttat ist vor mir? Und Hader ist da, und das Rechten erhebt sich?</verse>
+        <verse osisID='Hab.1.4'>Darum erstarrt das Gesetz und nimmermehr geht aus das Gericht; denn der Ungerechte umgibt den Gerechten. Darum geht aus ein verdrehtes Gericht.</verse>
+        <verse osisID='Hab.1.5'>Seht unter die Völkerschaften und blicket; erstaunet euch und staunet; denn ein Werk wirkt Er in euren Tagen. Erzählte man es, ihr würdet es nicht glauben.</verse>
+        <verse osisID='Hab.1.6'>Denn siehe, Ich lasse aufstehen die Chaldäer, die bittere und eilige Völkerschaft, die hinzieht in des Landes Breiten, erblich zu besitzen Wohnungen, die nicht die ihrigen sind.</verse>
+        <verse osisID='Hab.1.7'>Schrecklich und furchtbar ist es: ihr Recht und ihre Erhebung geht von ihnen selbst aus.</verse>
+        <verse osisID='Hab.1.8'>Und leichter sind den Parder ihre Rosse, und schärfer den Wölfe des Abends; und es zerstieben ihre Reiter. Und ihre Reiter kommen aus der Ferne, sie fliegen wie der Adler herbei, der zum Fraße sich sputet.</verse>
+        <verse osisID='Hab.1.9'>Sie allesamt kommen zur Gewalttat, nach Osten steht ihrer Angesichter Streben; er sammelt Gefangene wie Sand;</verse>
+        <verse osisID='Hab.1.10'>Und er verspottet die Könige, und Beherrscher sind ihm zum Gelächter; er lacht jeder Festung, und häuft Staub auf und erobert sie.</verse>
+        <verse osisID='Hab.1.11'>Dann dringt der Wind ein und geht vorbei, und er wird schuldig, dessen Kraft ihm zum Gotte ist.</verse>
+        <verse osisID='Hab.1.12'>Bist Du, Jehovah, nicht von der Vorzeit her mein Gott, mein Heiliger? Wir werden nicht sterben. Jehovah, Du hast ihn zum Gericht gesetzt und, o Fels, zur Rüge ihn gegründet.</verse>
+        <verse osisID='Hab.1.13'>Deine Augen sind zu rein, daß Du das Böse nicht siehst, nicht blickst auf das Mühsal, warum erblickst Du die Treulosen; Du schweigst, wenn der Ungerechte den Gerechteren denn er verschlingt?</verse>
+        <verse osisID='Hab.1.14'>Und du machst den Menschen wie des Meeres Fische, wie das Kriechtier, das keinen Herrscher hat.</verse>
+        <verse osisID='Hab.1.15'>Er zieht jedes herauf an der Angel, er erhascht es in seinem Garn und sammelt es in sein Fischernetz. Darum ist er fröhlich und frohlockt.</verse>
+        <verse osisID='Hab.1.16'>Darum opfert er seinem Garn und räuchert seinem Fischernetz, weil durch sie sein Teil ist fett und seine Speise üppig<note>gemästet</note>.</verse>
+        <verse osisID='Hab.1.17'>Soll er darum sein Garn also leeren, und beständig die Völkerschaften erwürgen ohne Mitleid?</verse>
+      </chapter>
+      <chapter osisID='Hab.2'>
+        <title>Weissagung des Untergangs der Chaldäer.</title>
+        <verse osisID='Hab.2.1'>Ich stehe auf meiner Hut, und habe mich auf die Festung gestellt und spähe, um zu sehen, was Er in mir will reden, und was ich erwidern soll in meiner Rüge.</verse>
+        <verse osisID='Hab.2.2'>Und Jehovah antwortete mir und sprach: Schreibe das Gesicht und grabe es auf Tafeln ein, daß es durchlaufe, wer es liest.</verse>
+        <verse osisID='Hab.2.3'>Denn das Gesicht ist noch auf eine bestimmte Zeit und wird ausgesprochen am Ende und täuscht nicht. Wenn es säumt, so harre darauf, denn es kommt gewißlich<note>kommet kommend</note> und zögert nicht.</verse>
+        <verse osisID='Hab.2.4'>Siehe, wer aufgetrieben ist, dessen Seele handelt nicht redlich in ihm; aber der Gerechte lebt in seinem Glauben.</verse>
+        <verse osisID='Hab.2.5'>Und ebenso wie der Wein berückt<note>treulos handelt</note>, so ist der übermütige Mann<note>mächtige Mann</note>, und er verweilt nicht und macht breit wie die Hölle seine Seele, und ist wie der Tod und wird nicht satt, und versammelt zu sich alle Völkerschaften, und bringt zu sich zusammen alle Völker.</verse>
+        <verse osisID='Hab.2.6'>Werden nicht alle diese einen Spruch erheben über ihn, und ein Spottlied, Rätsel über ihn, und sprechen: Wehe dem, der mehret was sein nicht ist. Wie lange? und er beschwert sich mit dichtem Kot.</verse>
+        <verse osisID='Hab.2.7'>Werden nicht unversehens aufstehen, die dich beißen, und erwachen, die dich verschütteln, und du wirst ihnen zur Plünderung?</verse>
+        <verse osisID='Hab.2.8'>Denn du hast viele Völkerschaften ausgebeutet, alle die übrigen Völker sollen dich ausbeuten, ob dem Blute des Menschen, und der Gewalttat am Lande, an der Hauptstadt und allen, die darin wohnen<note>sitzen</note>.</verse>
+        <verse osisID='Hab.2.9'>Wehe ihm, der nach bösem Gewinn geizt für sein Haus, um in die Höhe sein Nest zu setzen, auf daß er sich errette von des Bösen Hand.</verse>
+        <verse osisID='Hab.2.10'>Schande<note>Scham</note> hast du deinem Haus beraten, daß du so viele Völker hast abgeschnitten und dich versündigt an deiner Seele.</verse>
+        <verse osisID='Hab.2.11'>Denn der Stein schreit von der Wand, und ihm antwortet der Sparren von dem Holzwerk.</verse>
+        <verse osisID='Hab.2.12'>Wehe dem, der die Stadt mit Blut baut, und die Hauptstadt mit Verkehrtheit festigt.</verse>
+        <verse osisID='Hab.2.13'>Ist es nicht so? Siehe, von Jehovah der Heerscharen geschieht es, daß Völker sich für das Feuer müde machen, und Volksstämme sich abmatten für das Leere.</verse>
+        <verse osisID='Hab.2.14'>Denn voll wird werden die Erde von der Erkenntnis der Herrlichkeit Jehovahs, wie die Wasser sich decken über das Meer.</verse>
+        <verse osisID='Hab.2.15'>Wehe dem, der seinen Genossen trinken läßt, der du aus deinem Schlauche einschenkst, und ihn auch berauschest, um auf ihre Blöße zu blicken.</verse>
+        <verse osisID='Hab.2.16'>Satt wirst du an Unehre werden statt an Herrlichkeit. Trinke auch du und zeige die Vorhaut. Umgehen zu dir wird der Becher der Rechten Jehovahs, und Gespei der Unehre über deine Herrlichkeit.</verse>
+        <verse osisID='Hab.2.17'>Denn die Gewalttat des Libanon wird dich bedecken, und die Verheerung der Tiere sie entsetzen, ob dem Blute der Menschen und der Gewalttat am Lande, an der Hauptstadt und an allen, die darin wohnen<note>sitzen</note>.</verse>
+        <verse osisID='Hab.2.18'>Was nützt das Schnitzbild, daß sein Bildner es schnitzte, das Gußbild und der Lüge Unterweiser, daß seines Bildes Bildner ihm vertraut und macht stumme Götzen?</verse>
+        <verse osisID='Hab.2.19'>Wehe dem, der zum Holze spricht: Erwache!, zum stillen Stein: Wache auf! Er soll dich unterweisen! Siehe, in Gold und Silber ist es gefaßt, aber kein Geist ist in seinem Inneren.</verse>
+        <verse osisID='Hab.2.20'>Aber Jehovah ist im Tempel Seiner Heiligkeit. Stille sei vor Seinem Angesicht die ganze Erde.</verse>
+      </chapter>
+      <chapter osisID='Hab.3'>
+        <title>Gebet.</title>
+        <verse osisID='Hab.3.1'>Gebet Habakuks, des Propheten, auf Schigjonoth.</verse>
+        <verse osisID='Hab.3.2'>Jehovah, Dein Gerücht habe ich gehört, ich fürchte mich. Jehovah, Dein Werk: inmitten der Jahre mache es lebendig, inmitten der Jahre mache es kund. Im Toben gedenke des Erbarmens.</verse>
+        <verse osisID='Hab.3.3'>Gott kommt von Theman und der Heilige vom Berg Paran, Selah. Die Himmel deckt Seine Majestät, und Seines Lobes ist voll die Erde.</verse>
+        <verse osisID='Hab.3.4'>Und ein Glanz wird es sein wie das Licht. Strahlen<note>oder: Hörner</note> hat Er aus Seiner Hand, und allda ist die Umhüllung<note>das Versteck</note> Seiner Stärke.</verse>
+        <verse osisID='Hab.3.5'>Vor Ihm her geht die Pest, und von Seinen Füßen geht aus die Glut.</verse>
+        <verse osisID='Hab.3.6'>Er steht und mißt die Erde; Er sieht und zerscheitert die Völkerschaften, die immerwährenden Berge zerstreuen sich, die Hügel der Ewigkeit beugen sich, Sein sind die Gänge der Ewigkeit.</verse>
+        <verse osisID='Hab.3.7'>Unterhalb Aven sehe ich die Zelte Kuschans. Die Zeltteppiche des Landes Midjans zittern.</verse>
+        <verse osisID='Hab.3.8'>Ist wider die Flüsse entbrannt Jehovah, ist Dein Zorn wider die Flüsse, ist wider das Meer Dein Wüten, daß Du reitest auf Deinen Rossen? Dein Streitwagen ist Heil.</verse>
+        <verse osisID='Hab.3.9'>Die Blöße Deines Bogens entblößt sich; Schwüre der Stämme<note>oder: Stäbe</note> sind der Spruch, Selah. Mit Flüssen spaltest Du die Erde.</verse>
+        <verse osisID='Hab.3.10'>Es sehen Dich, es kreißen die Berge; der Wasser Strömung geht dahin, der Abgrund gibt hervor seine Stimme; die Höhe erhebt ihre Hände.</verse>
+        <verse osisID='Hab.3.11'>Die Sonne, der Mond standen in ihrem Wohnort; beim Lichte Deiner Pfeile gehen sie dahin, beim Glanz des Blitzes Deines Spießes.</verse>
+        <verse osisID='Hab.3.12'>Im Unwillen schreitest Du über das Land, im Zorn drischst Du Völkerschaften.</verse>
+        <verse osisID='Hab.3.13'>Du ziehst aus, Dein Volk zu retten, zu retten Deinen Gesalbten; Du durchbohrst das Haupt vom Hause des Ungerechten, entblößest den Grund bis an den Hals; Selah.</verse>
+        <verse osisID='Hab.3.14'>Mit seinen Stäben durchbrichst Du das Haupt seiner Ungläubigen. Sie stürmen daher, als wollten sie mich zerstreuen. Ihr Jauchzen ist, als würden sie den Elenden auffressen im Verborgenen.</verse>
+        <verse osisID='Hab.3.15'>Du trittst in das Meer mit Deinen Rossen, in den Schlamm vieler Wasser.</verse>
+        <verse osisID='Hab.3.16'>Ich hörte es, und mein Leib<note>Bauch</note> zitterte. Meine Lippen erklangen ob der Stimme. Fäulnis kommt in mein Gebein, und ich zitterte an meinem Platz<note>unter mir</note>, da ich ruhen werde am Tage der Drangsal, wenn heraufkommt gegen das Volk, der es angreift.</verse>
+        <verse osisID='Hab.3.17'>Denn nicht wird blühen der Feigenbaum, und kein Gewächs sein an den Weinstöcken, täuschen wird des Ölbaums Werk, und die Felder werden keine Speise bringen. Das Kleinvieh wird Er von der Hürde raffen, und in den Ställen wird kein Rind da sein.</verse>
+        <verse osisID='Hab.3.18'>Ich aber will in Jehovah jauchzen, frohlocken in dem Gotte meines Heils.</verse>
+        <verse osisID='Hab.3.19'>Jehovah, der Herr, ist mein Vermögen und stellt meine Füße gleich den Hindinnen, und läßt mich treten auf meine Höhen<note>Opferhöhen</note>. - Dem Sangmeister auf meinen Saitenspielen.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

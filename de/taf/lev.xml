@@ -1,0 +1,1041 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <osisText osisRefWork='Bible' osisIDWork='TAF' xml:lang='de'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='TAF'>
+        <title>Tafelbibel</title>
+        <contributor>Martin</contributor>
+        <creator>Jens Grabner</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject>holy bible</subject>
+        <date>2009-01-20</date>
+        <description>Die Bibel - Übersetzung von Johann Friedrich Leonhard Tafel
+
+      Die vorliegende Neuausgabe ist eine Abschrift der Übersetzung von Dr. Leonhard
+      Tafel, revidiert von Ludwig H. Tafel, dritte Ausgabe 1911, und wurde auf ihre
+      Vollständigkeit überprüft. Es wurde die Rechtschreibregel der heutigen Zeit (noch
+      vor der Rechtschreibreform 1998) angewendet, ohne den Stil der Sprache zu verändern.
+
+      Wer in dieser Bibel einige Bücher vermisst, sei auf das Vorwort der Source verwiesen.
+      Auf der zweiten Seite steht dort:
+      Der zweite Band enthält die übrigen, sogenannten
+      Hagiographen oder heiligen Bücher: die Bücher Hiob, Sprichwörter, Hohelied, Prediger, Ruth, Chronika, Esra,
+      Nehemia, Esther und die Apokryphen.²
+      2. Gegenwärtige, Revision des Zefania XML Moduls  enthält die Hagiographen und Apokryphen nicht, da
+      sie nicht verfügbar waren.</description>
+        <publisher>FREE BIBLE SOFTWARE GROUP</publisher>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>TAF</identifier>
+        <source>http://www.ubf-dortmund.de/bibel/tafel.htm</source>
+        <language type='IETF'>de</language>
+        <relation/>
+        <coverage>provide the bible to the world</coverage>
+        <rights>Mit freundlicher Genehmigung des Swedenborg Verlag Postfach 1205 CH - 8032 Zürich</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Lev'>
+      <chapter osisID='Lev.1'>
+        <title>Drittes Buch Mose</title>
+        <title>Gesetz der Brandopfer.</title>
+        <verse osisID='Lev.1.1'>Und Jehovah rief Mose und redete mit ihm aus dem Versammlungszelt und sprach:</verse>
+        <verse osisID='Lev.1.2'>Rede zu den Söhnen Israels und sprich zu ihnen: Der Mensch unter euch, der Jehovah eine Opfergabe darbringen will vom Vieh: vom Rind und vom Kleinvieh sollet ihr eure Opfergabe darbringen.</verse>
+        <verse osisID='Lev.1.3'>Wenn seine Opfergabe ein Brandopfer ist vom Rind, soll er ein männliches ohne Fehl darbringen. Er bringe es dar am Eingang zum Versammlungszelt, auf daß er vor Jehovah wohlgefällig sei;</verse>
+        <verse osisID='Lev.1.4'>Und lege<note>lehne</note> seine Hand auf den Kopf des Brandopfers, auf daß es wohlgefällig sei für ihn, und ihm zur Versöhnung sei.</verse>
+        <verse osisID='Lev.1.5'>Und er schlachte das junge Rind<note>den Sohn des Rindes</note> vor Jehovah, und die Söhne Aharons und die Priester sollen das Blut darbringen, und das Blut ringsum auf den Altar sprengen, der am Eingang des Versammlungszeltes ist.</verse>
+        <verse osisID='Lev.1.6'>Und er enthäute<note>ziehe aus</note> das Brandopfer und zerstücke es in seine Stücke.</verse>
+        <verse osisID='Lev.1.7'>Und die Söhne Aharons, des Priesters, sollen Feuer auf den Altar tun<note>geben</note> und Hölzer auf das Feuer zurechtlegen.</verse>
+        <verse osisID='Lev.1.8'>Und Aharons Söhne, die Priester, sollen die Stücke, den Kopf und das Fett zurechtlegen auf den Hölzern, die auf dem Feuer auf dem Altare sind.</verse>
+        <verse osisID='Lev.1.9'>Und seine Eingeweide und seine Schenkel wasche er im Wasser, und dann zünde der Priester das Ganze auf dem Altare an, zum Brandopfer, zum Feueropfer des Geruchs der Ruhe für Jehovah.</verse>
+        <verse osisID='Lev.1.10'>Und ist seine Opfergabe vom Kleinvieh, von den Schafen oder von den Ziegen als Brandopfer, so bringe er ein männliches ohne Fehl dar;</verse>
+        <verse osisID='Lev.1.11'>Und schlachte es vor Jehovah zur Seite<note>an der Hüfte</note> des Altars gegen Mitternacht; und Aharons Söhne, die Priester, sollen sein Blut ringsum sprengen auf den Altar.</verse>
+        <verse osisID='Lev.1.12'>Und er zerstücke es in seine Stücke, samt seinem Kopf und seinem Fett, und der Priester lege sie auf den Hölzern auf dem Feuer, das auf dem Altare ist, zurecht.</verse>
+        <verse osisID='Lev.1.13'>Und das Eingeweide und die Schenkel wasche er im Wasser, und der Priester bringe das Ganze dar und zünde es auf dem Altar an. Ein Brandopfer ist es, ein Feueropfer des Geruchs der Ruhe für Jehovah.</verse>
+        <verse osisID='Lev.1.14'>Und ist seine Opfergabe für Jehovah ein Brandopfer vom Gevögel, so bringe er von Turteltauben oder jungen Tauben<note>den Söhnen der Taube</note> seine Opfergabe dar.</verse>
+        <verse osisID='Lev.1.15'>Und der Priester bringe sie dar an dem Altar, und knicke ihr ihren Kopf ab und zünde sie auf dem Altar an, und drücke ihr Blut aus an der Wand des Altars.</verse>
+        <verse osisID='Lev.1.16'>Ihren Kropf aber mit ihrem Unrat nehme er weg und werfe ihn neben den Altar gegen Osten auf den Ort der Asche;</verse>
+        <verse osisID='Lev.1.17'>Und spalte sie mit ihren Flügeln, trenne sie aber nicht ab, und der Priester zünde sie auf dem Altar an auf den Hölzern, die auf dem Feuer sind; ein Brandopfer sei es, ein Feueropfer des Geruchs der Ruhe für Jehovah.</verse>
+      </chapter>
+      <chapter osisID='Lev.2'>
+        <title>Gesetz für Speiseopfer.</title>
+        <verse osisID='Lev.2.1'>Und bringt eine Seele Jehovah ein Speiseopfer als Opfergabe dar, so sei Semmelmehl seine Opfergabe, und er gieße Öl darauf, und gebe Weihrauch darauf;</verse>
+        <verse osisID='Lev.2.2'>Und bringe es zu den Söhnen Aharons, den Priestern, und nehme<note>fülle die Hand mit</note> davon eine Handvoll<note>Faust</note> von seinem Semmelmehl und von seinem Öl samt all seinem Weihrauch, und der Priester zünde seinen Gedenkteil auf dem Altar an, als Feueropfer des Geruchs der Ruhe für Jehovah.</verse>
+        <verse osisID='Lev.2.3'>Und das übrige von dem Speiseopfer ist für Aharon und für seine Söhne; das Allerheiligste<note>das Heilige des Heiligen</note> ist es von den Feueropfern Jehovahs.</verse>
+        <verse osisID='Lev.2.4'>Und so du darbringst als Opfergabe ein Speiseopfer von Gebackenem im Ofen, so sei es von Semmelmehl, ungesäuerte Kuchen mit Öl vermischt und Fladen des Ungesäuerten, mit Öl gesalbt.</verse>
+        <verse osisID='Lev.2.5'>Und ist deine Opfergabe ein Speiseopfer auf der Pfanne, so sei es von Semmelmehl, mit Öl vermischt, ungesäuert.</verse>
+        <verse osisID='Lev.2.6'>Bröckle es in Brocken und gieß Öl darauf; so ist es ein Speiseopfer.</verse>
+        <verse osisID='Lev.2.7'>Und ist deine Opfergabe ein Speiseopfer aus der Bratpfanne, so werde es aus Semmelmehl mit Öl gemacht.</verse>
+        <verse osisID='Lev.2.8'>Und bringe dein Speiseopfer, das davon gemacht wird, herein für Jehovah, und bring es dem Priester dar, und er bringe sie herbei zum Altar.</verse>
+        <verse osisID='Lev.2.9'>Und der Priester hebe von dem Speiseopfer den Gedenkteil dessen und zünde es auf dem Altar an, als ein Feueropfer des Geruchs der Ruhe für Jehovah.</verse>
+        <verse osisID='Lev.2.10'>Und das übrige von dem Speiseopfer ist für Aharon und für seine Söhne; das Allerheiligste<note>das Heilige des Heiligen</note> ist es von den Feueropfern Jehovahs.</verse>
+        <verse osisID='Lev.2.11'>Kein Speiseopfer, das ihr Jehovah darbringet, soll gesäuert sein, denn weder von Gesäuertem<note>Sauerteig</note>, noch von Honig sollt ihr Jehovah ein Feueropfer anzünden.</verse>
+        <verse osisID='Lev.2.12'>Als Opfergabe der Erstlinge dürft ihr sie Jehovah darbringen, aber auf dem Altar sollen sie nicht aufgeopfert werden zu einem Geruch der Ruhe.</verse>
+        <verse osisID='Lev.2.13'>Und jede Opfergabe deines Speiseopfers sollst du salzen mit Salz, und nicht bei deinem Speiseopfer das Salz des Bundes deines Gottes feiern lassen. Zu deiner jeglichen Opfergabe sollst du Salz darbringen.</verse>
+        <verse osisID='Lev.2.14'>Und wenn du das Speiseopfer der Erstlinge dem Jehovah darbringst, sollst du Ähren, geröstet am Feuer, Geschrotenes von frischen Ähren als Speiseopfer der Erstlinge darbringen.</verse>
+        <verse osisID='Lev.2.15'>Und gib Öl darauf, und lege Weihrauch darauf. Dies ist das Speiseopfer.</verse>
+        <verse osisID='Lev.2.16'>Und der Priester zünde seinen Gedenkteil von seinem Geschrotenen und von seinem Öl auf all seinem Weihrauch an, ein Feueropfer dem Jehovah.</verse>
+      </chapter>
+      <chapter osisID='Lev.3'>
+        <title>Gesetz für die Dankopfer.</title>
+        <verse osisID='Lev.3.1'>Und wenn seine Opfergabe ein Dankopfer ist, wenn er es von dem Rinde darbringt, sei es männlich, sei es weiblich, so soll er es vor Jehovah darbringen ohne Fehl,</verse>
+        <verse osisID='Lev.3.2'>Und seine Hand auf den Kopf seiner Opfergabe legen<note>lehnen</note> und es schlachten am Eingang zum Versammlungszelt, und die Söhne Aharons, die Priester, sollen das Blut auf den Altar sprengen ringsum.</verse>
+        <verse osisID='Lev.3.3'>Und er bringe von dem Dankopfer ein Feueropfer dar dem Jehovah, das Fett, das die Eingeweide bedeckt und alles Fett über den Eingeweiden.</verse>
+        <verse osisID='Lev.3.4'>Und die zwei Nieren und das Fett, das darüber, das an den Weichen ist, und das Netz über der Leber, über den Nieren nehme er weg.</verse>
+        <verse osisID='Lev.3.5'>Und die Söhne Aharons sollen es auf dem Altar auf dem Brandopfer, das auf den Holzstücken auf dem Feuer ist, anzünden, als ein Feueropfer des Geruchs der Ruhe für Jehovah.</verse>
+        <verse osisID='Lev.3.6'>Und ist seine Opfergabe vom Kleinvieh als ein Dankopfer für Jehovah, so darf er ein männliches oder ein weibliches darbringen, das ohne Fehl ist.</verse>
+        <verse osisID='Lev.3.7'>Ist es ein Schaf, das er als seine Opfergabe darbringt, und bringt er es dar vor Jehovah,</verse>
+        <verse osisID='Lev.3.8'>So lege<note>lehne</note> er seine Hand auf den Kopf seiner Opfergabe, und schlachte es vor dem Versammlungszelt, und die Söhne Aharons sollen sein Blut ringsum auf den Altar sprengen.</verse>
+        <verse osisID='Lev.3.9'>Und er bringe von dem Dankopfer als Feueropfer Jehovah dar sein Fett, den ganzen Fettschwanz<note>zunächst am Rückgrat nehme er ihn ab</note> und das Fett, das die Eingeweide bedeckt, und alles Fett, das auf den Eigneweiden ist.</verse>
+        <verse osisID='Lev.3.10'>Und die zwei Nieren und das Fett daran an den Weichen, und das Netz über der Leber, auf den Nieren nehme er weg.</verse>
+        <verse osisID='Lev.3.11'>Und der Priester zünde es auf dem Altare an, als Brot des Feueropfers für Jehovah.</verse>
+        <verse osisID='Lev.3.12'>Und ist seine Opfergabe eine Ziege, so bringe er sie dar vor Jehovah;</verse>
+        <verse osisID='Lev.3.13'>Und lege<note>lehne</note> seine Hand auf ihren Kopf und schlachte sie vor dem Versammlungszelt, und Aharons Söhne sollen ihr Blut ringsum auf den Altar sprengen.</verse>
+        <verse osisID='Lev.3.14'>Und er bringe dar davon als seine Opfergabe Jehovah als Feueropfer: Das Fett, das die Eingeweide bedeckt und alles Fett, das auf dem Eingeweide ist;</verse>
+        <verse osisID='Lev.3.15'>Und die zwei Nieren und das Fett darüber, das an den Weichen ist, und das Netz über der Leber auf den Nieren nehme er weg.</verse>
+        <verse osisID='Lev.3.16'>Und der Priester zünde es an auf dem Altar, ein Brot des Feueropfers zu einem Geruch der Ruhe. Alles Fett sei für Jehovah.</verse>
+        <verse osisID='Lev.3.17'>Eine ewige Satzung für eure Geschlechter in all euren Wohnungen sei es: Kein Fett und kein Blut sollt ihr essen.</verse>
+      </chapter>
+      <chapter osisID='Lev.4'>
+        <title>Sündopfer.</title>
+        <verse osisID='Lev.4.1'>Und Jehovah redete zu Mose und sprach:</verse>
+        <verse osisID='Lev.4.2'>Rede zu den Söhnen Israels und sprich: Wenn eine Seele aus Versehen sündigt gegen irgendeines der Gebote Jehovahs, in dem, das nicht hätte getan werden sollen, und davon eines tut;</verse>
+        <verse osisID='Lev.4.3'>So der gesalbte Priester sündigt zur Verschuldung des Volkes, so bringe er für die Sünde, die er gesündigt, Jehovah einen jungen Farren<note>den Sohn eines Rindes</note> ohne Fehl dar, als Sündopfer für Jehovah.</verse>
+        <verse osisID='Lev.4.4'>Und er bringe den Farren zum Eingang des Versammlungszeltes vor Jehovah, er lege<note>lehne</note> seine Hand auf den Kopf des Farren und schlachte den Farren vor Jehovah.</verse>
+        <verse osisID='Lev.4.5'>Und der gesalbte Priester nehme von dem Blut des Farren und bringe es zum Versammlungszelt.</verse>
+        <verse osisID='Lev.4.6'>Und der Priester tauche seinen Finger in das Blut und spritze von dem Blut siebenmal vor Jehovah vor dem Vorhang des Heiligtums.</verse>
+        <verse osisID='Lev.4.7'>Und der Priester gebe von dem Blut auf die Hörner des Altars des Räucherwerks der Spezereien vor Jehovah im Versammlungszelt. Und alles Blut des Farren gieße er an den Grund des Brandopferaltars, der am Eingang zum Versammlungszelt ist;</verse>
+        <verse osisID='Lev.4.8'>Und hebe alles Fett des Farren des Sündopfers davon empor, das Fett, welches das Eingeweide bedeckt, und alles Fett, das auf dem Eingeweide ist;</verse>
+        <verse osisID='Lev.4.9'>Und die zwei Nieren und das Fett über ihnen, das an den Weichen ist, und das Netz über der Leber, über den Nieren nehme er weg,</verse>
+        <verse osisID='Lev.4.10'>Wie gehoben wird vom Ochsen des Dankopfers; und der Priester zünde sie auf dem Brandopferaltar an.</verse>
+        <verse osisID='Lev.4.11'>Und die Haut des Farren und all sein Fleisch samt seinem Kopf und samt seinen Schenkeln, und sein Eingeweide und seinen Mist;</verse>
+        <verse osisID='Lev.4.12'>Und den ganzen Farren bringe er hinaus außerhalb des Lagers an einen reinen Ort, wohin man die Fettasche schüttet, und verbrenne ihn auf dem Holz im Feuer. Auf dem Schutt der Fettasche werde er verbrannt.</verse>
+        <verse osisID='Lev.4.13'>Und wenn die ganze Gemeinde Israel sich versieht, und die Sache<note>das Wort</note> verborgen war vor den Augen der Versammlung, und sie taten wider eines der Gebote Jehovahs, was nicht sollte getan werden, und sich damit verschulden,</verse>
+        <verse osisID='Lev.4.14'>Und die Sünde bekannt wird, worin sie sich versündigt haben, so bringe die Versammlung einen jungen Farren<note>Sohn des Rindes</note> zum Sündopfer dar, und bringe ihn hinein vor das Versammlungszelt.</verse>
+        <verse osisID='Lev.4.15'>Und die Ältesten der Gemeinde sollen ihre Hände legen<note>lehnen</note> auf den Kopf des Farren vor Jehovah, und man schlachte den Farren vor Jehovah.</verse>
+        <verse osisID='Lev.4.16'>Und der gesalbte Priester bringe von dem Blut des Farren zum Versammlungszelt,</verse>
+        <verse osisID='Lev.4.17'>Und es tauche der Priester seinen Finger in das Blut und spritze siebenmal vor Jehovah vor dem Vorhang.</verse>
+        <verse osisID='Lev.4.18'>Und von dem Blute gebe er auf die Hörner des Altars, der vor Jehovah in dem Versammlungszelte ist, und gieße alles Blut an den Grund des Brandopferaltars am Eingang des Versammlungszeltes.</verse>
+        <verse osisID='Lev.4.19'>Und all sein Fett hebe er von ihm und zünde es an auf dem Altar.</verse>
+        <verse osisID='Lev.4.20'>Und er tue mit dem Farren, wie er mit dem Farren des Sündopfers tat; so tue er ihm; und der Priester sühne sie, und es werde ihnen vergeben.</verse>
+        <verse osisID='Lev.4.21'>Und den Farren bringe man hinaus außerhalb des Lagers und verbrenne ihn, wie man den ersten Farren verbrannte. Ein Sündopfer der Versammlung sei er.</verse>
+        <verse osisID='Lev.4.22'>Versündigt sich ein Fürst<note>Erhabener</note> und tut aus Versehen wider irgendeines der Gebote Jehovahs, seines Gottes, was nicht getan werden sollte, und verschuldigt sich;</verse>
+        <verse osisID='Lev.4.23'>Oder so ihm seine Sünde, worin er sich versündigt, bekannt wird, so bringe er als seine Opfergabe einen Ziegenbock, ein Männchen ohne Fehl;</verse>
+        <verse osisID='Lev.4.24'>Und lege<note>lehne</note> seine Hand auf den Kopf des Bockes und schlachte ihn an dem Orte, wo man das Brandopfer schlachtet vor Jehovah. Ein Sündopfer ist es.</verse>
+        <verse osisID='Lev.4.25'>Und der Priester nehme von dem Blute des Sündopfers mit seinem Finger und gebe es auf die Hörner des Brandopferaltars, und sein Blut gieße er an den Grund des Brandopferaltars.</verse>
+        <verse osisID='Lev.4.26'>Aber all sein Fett zünde er an auf dem Altar, wie das Fett des Dankopfers, und der Priester sühne für ihn für seine Sünde, und es wird ihm vergeben.</verse>
+        <verse osisID='Lev.4.27'>Und so eine Seele aus dem Volke des Landes sündigt aus Versehen, indem sie wider eines der Gebote Jehovahs tut, was nicht getan werden sollte, und verschuldigt sich;</verse>
+        <verse osisID='Lev.4.28'>Oder so ihm seine Sünde, die er gesündigt, bekannt wird, so bringe er als Opfergabe eine zottige Ziege, ein Weibliches ohne Fehl, für seine Sünde, die er gesündigt;</verse>
+        <verse osisID='Lev.4.29'>Und lege<note>lehne</note> seine Hand auf den Kopf des Sündopfers und schlachte das Sündopfer auf dem Orte des Brandopfers.</verse>
+        <verse osisID='Lev.4.30'>Und der Priester nehme von ihrem Blut mit seinem Finger und gebe es auf die Hörner des Brandopferaltars, und gieße all ihr Blut an den Grund des Altars;</verse>
+        <verse osisID='Lev.4.31'>Und all ihr Fett nehme er weg, wie das Fett von dem Dankopfer weggenommen wird, und der Priester zünde es auf dem Altar an zu einem Geruch der Ruhe für Jehovah, und der Priester sühne über ihm, und es wird ihm vergeben.</verse>
+        <verse osisID='Lev.4.32'>Und so er ein Lamm als Opfergabe für die Sünde bringt, so bringe er ein Weibliches ohne Fehl;</verse>
+        <verse osisID='Lev.4.33'>Und er lege<note>lehne</note> seine Hand auf den Kopf des Sündopfers und schlachte es zum Sündopfer an dem Orte, wo man das Brandopfer schlachtet.</verse>
+        <verse osisID='Lev.4.34'>Und der Priester nehme vom Blut des Sündopfers mit dem Finger und gebe es auf die Hörner des Brandopferaltars, und all ihr Blut gieße er an den Grund des Altars.</verse>
+        <verse osisID='Lev.4.35'>Und all ihr Fett nehme er ab, wie das Fett von dem Schaf des Dankopfers abgenommen wird, und der Priester zünde es an auf dem Altar, auf den Feueropfern Jehovahs, und der Priester sühne über ihm über seine Sünde, die er gesündigt, und es wird ihm vergeben.</verse>
+      </chapter>
+      <chapter osisID='Lev.5'>
+        <title>Schuldopfer.</title>
+        <verse osisID='Lev.5.1'>Und wenn eine Seele sündigt, indem sie die Stimme der Verwünschung hört und Zeuge war, sei es, daß sie es sah oder wußte, wenn sie es nicht ansagt, so trägt sie ihre Missetat;</verse>
+        <verse osisID='Lev.5.2'>Oder wenn eine Seele irgendein unreines Ding<note>Wort</note> berührt hat, entweder das Aas eines unreinen Wildes oder das Aas eines unreinen Viehs, oder das Aas eines unreinen Kriechtiers, und es ist vor ihm verborgen, so ist er unrein und verschuldet;</verse>
+        <verse osisID='Lev.5.3'>Oder wenn er das Unreine eines Menschen, irgendeine Unreinheit von ihm berührt, durch die er unrein geworden, und es ihm verborgen war; wenn er es weiß, so ist er verschuldet;</verse>
+        <verse osisID='Lev.5.4'>Oder wenn eine Seele einen Schwur tut, der ihm über die Lippen fährt, er wolle etwas tun, sei es zum Bösen oder zum Guten, nach allem, was dem Menschen mit einem Schwur entfahren mag, und es ihm verborgen war; wenn er es weiß, und er ist verschuldet durch eines dergleichen;</verse>
+        <verse osisID='Lev.5.5'>So geschehe es, wenn er verschuldet ist durch eines von diesen, so bekenne er, womit er gesündigt hat,</verse>
+        <verse osisID='Lev.5.6'>Und bringe sein Schuldopfer zu Jehovah für seine Sünde, die er gesündigt, ein Weibliches vom Kleinvieh, ein Schaf oder eine zottige Ziege zum Sündopfer, und der Priester sühne ihn ob seiner Sünde.</verse>
+        <verse osisID='Lev.5.7'>Und wenn seine Hand nicht hinreicht genug zu einem Stück Kleinvieh, so bringe er Jehovah für die Schuld, die er gesündigt, zwei Turteltauben oder zwei junge Tauben<note>Söhne der Taube</note>, eine als Sündopfer und eine als Brandopfer.</verse>
+        <verse osisID='Lev.5.8'>Und bringe sie zu dem Priester, und er bringe die für das Sündopfer zuerst dar, und knicke ihr ihren Kopf ab vorne am Genick, trenne ihn aber nicht ab.</verse>
+        <verse osisID='Lev.5.9'>Und spritze von dem Blut des Sündopfers auf die Wand des Altars; und was vom Blut bleibt, werde an den Grund des Altars ausgedrückt. Ein Sündopfer ist es.</verse>
+        <verse osisID='Lev.5.10'>Und die zweite mache er zum Brandopfer gemäß der Weise<note>dem Gerichte</note>, und der Priester sühne ihn von seiner Sünde, die er gesündigt, und es wird im vergeben.</verse>
+        <verse osisID='Lev.5.11'>Und reicht seine Hand nicht hin zu zwei Turteltauben oder zwei jungen Tauben<note>Söhne der Taube</note>, so bringe er als seine Opfergabe für seine Sünde das Zehntel eines Ephah Semmelmehl als Sündopfer. Er tue kein Öl daran und gebe keinen Weihrauch darauf; denn ein Sündopfer ist es;</verse>
+        <verse osisID='Lev.5.12'>Und bringe es zu dem Priester, und der Priester nehme<note>fülle die Hand mit</note> eine Handvoll<note>Faust</note> davon als dessen Gedenkteil und zünde es auf dem Altar an, auf den Feueropfern Jehovahs. Ein Sündopfer ist es.</verse>
+        <verse osisID='Lev.5.13'>Und der Priester sühne ihn für seine Sünde, die er wider deren eines gesündigt, und es wird ihm vergeben. Und es soll des Priesters sein, wie das Speiseopfer.</verse>
+        <verse osisID='Lev.5.14'>Und Jehovah redete mit Mose und sprach:</verse>
+        <verse osisID='Lev.5.15'>Wenn eine Seele eine Untreue begeht, und sich durch Versehen versündigt an dem, was Jehovah geheiligt ist, so bringe sie dem Jehovah als sein Schuldopfer einen Widder ohne Fehl von dem Kleinvieh nach deiner Schätzung nach den Schekeln Silbers, nach dem Schekel des Heiligtums, zum Schuldopfer.</verse>
+        <verse osisID='Lev.5.16'>Und das, was er gesündigt hat am Geheiligten, erstatte er, und tue ein Fünftel darauf hinzu und gebe es dem Priester, und der Priester sühne über ihm mit dem Widder des Schuldopfers, und es wird ihm vergeben.</verse>
+        <verse osisID='Lev.5.17'>Und wenn eine Seele sich versündigt, und wider irgendeines der Gebote Jehovahs tut, was nicht getan werden sollte, es aber nicht weiß, und dadurch sich verschuldet, und trägt seine Missetat,</verse>
+        <verse osisID='Lev.5.18'>So bringe er einen Widder von dem Kleinvieh ohne Fehl nach deiner Schätzung, als Schuldopfer dem Priester, und der Priester sühne über ihm für sein Versehen, worin er sich versehen, ohne daß er es wußte; und es wird ihm vergeben.</verse>
+        <verse osisID='Lev.5.19'>Ein Schuldopfer ist es; er ist Jehovah verschuldet<note>verschuldend verschuldet</note>.</verse>
+        <verse osisID='Lev.5.20'>Und Jehovah redete zu Mose und sprach:</verse>
+        <verse osisID='Lev.5.21'>So eine Seele sich versündigt und Untreue gegen Jehovah begeht, indem er seinem Nächsten<note>Mitmenschen</note> Anvertrautes oder in seine Hand Hinterlegtes oder Entrissenes ableugnet, oder von seinem Nächsten<note>Mitmenschen</note> erpreßt,</verse>
+        <verse osisID='Lev.5.22'>Oder Verlorenes gefunden hat und es ableugnet und zur Lüge schwört, in irgendeinem von allem, das ein Mensch tun mag, sich daran zu versündigen;</verse>
+        <verse osisID='Lev.5.23'>So es geschieht, daß er sich versündigt und verschuldet hat, so gebe er das Entrissene zurück, das er entrissen, oder das Erpreßte, das er erpreßt, oder das Anvertraute, das ihm anvertraut worden, oder das Verlorene, das er gefunden;</verse>
+        <verse osisID='Lev.5.24'>Oder von allem, worüber er zur Lüge geschworen, erstatte er nach seiner Summe<note>Haupte</note> und tue hinzu den fünften Teil darauf und gebe es dem, welchem es gehört, am Tage seines Schuldopfers.</verse>
+        <verse osisID='Lev.5.25'>Und als sein Schuldopfer bringe er Jehovah einen Widder ohne Fehl von dem Kleinvieh nach deiner Schätzung, als Schuldopfer dem Priester.</verse>
+        <verse osisID='Lev.5.26'>Und der Priester sühne über ihm vor Jehovah, und es wird ihm vergeben wegen irgendeinem, das er getan, sich damit zu verschulden.</verse>
+      </chapter>
+      <chapter osisID='Lev.6'>
+        <title>Allerlei Opfer.</title>
+        <verse osisID='Lev.6.1'>Und Jehovah redete zu Mose und sprach:</verse>
+        <verse osisID='Lev.6.2'>Gebiete Aharon und seinen Söhnen und sprich: Das ist das Gesetz des Brandopfers: Es soll das Brandopfer auf der Brandstelle auf dem Altar die ganze Nacht sein bis zum Morgen und das Feuer des Altars darauf lodern.</verse>
+        <verse osisID='Lev.6.3'>Und der Priester ziehe sein linnenes Obergewand an, und über seine Blöße<note>ein Fleisch</note> ziehe er die linnenen Beinkleider an, und hebe die Fettasche empor, zu welcher das Feuer das Brandopfer auf dem Altare verzehrt<note>gefressen</note> hat, und tue sie neben den Altar;</verse>
+        <verse osisID='Lev.6.4'>Und ziehe seine Kleider aus und ziehe andere Kleider an, und bringe die Fettasche hinaus außerhalb des Lagers an einen reinen Ort.</verse>
+        <verse osisID='Lev.6.5'>Und das Feuer auf dem Altar lodere darauf, und soll nicht ausgelöscht werden, und der Priester brenne Morgen nach Morgen Holz darauf an und lege das Brandopfer darauf zurecht und zünde die Fettstücke des Dankopfers darauf an.</verse>
+        <verse osisID='Lev.6.6'>Ein beständiges Feuer lodere auf dem Altar. Nie erlösche es.</verse>
+        <verse osisID='Lev.6.7'>Und das ist das Gesetz des Speiseopfers: Die Söhne Aharons sollen es vor Jehovah auf dem Altar<note>dem Angesichte des Altars</note> dar- bringen.</verse>
+        <verse osisID='Lev.6.8'>Und er hebe davon eine Handvoll<note>Faust voll</note> von dem Semmelmehl des Speiseopfers und von seinem Öl, und allen Weihrauch, der auf dem Speiseopfer ist, und zünde an auf dem Altar dessen Gedenkteil zum Geruch der Ruhe für Jehovah.</verse>
+        <verse osisID='Lev.6.9'>Und das übrige davon sollen Aharon und seine Söhne essen, ungesäuert soll es an heiligem Orte gegessen werden. Im Vorhof des Versammlungszeltes sollen sie es essen.</verse>
+        <verse osisID='Lev.6.10'>Nicht gesäuert soll es gebacken werden; als ihren Teil gebe Ich es ihnen von Meinen Feueropfern. Das Allerheiligste<note>das Heilige des Heiligen</note> ist es, wie das Sündopfer und wie das Schuldopfer.</verse>
+        <verse osisID='Lev.6.11'>Alles Männliche unter den Söhnen Aharons soll es essen. Ewige Satzung sei es für eure Geschlechter von den Feueropfern Jehovahs. Jeder, der sie berührt, wird heilig.</verse>
+        <verse osisID='Lev.6.12'>Und Jehovah redete zu Mose und sprach:</verse>
+        <verse osisID='Lev.6.13'>Dies ist die Opfergabe Aharons und seiner Söhne, die sie Jehovah darbringen sollen am Tage seiner Salbung: ein zehntel Ephah Semmelmehl als beständiges Speiseopfer, die Hälfte davon am Morgen, und die Hälfte davon am Abend.</verse>
+        <verse osisID='Lev.6.14'>Auf der Pfanne soll es gemacht werden mit Öl, angerührt sollst du es bringen. In Brocken gebacken als Speiseopfer sollst du es darbringen, als Geruch der Ruhe für Jehovah;</verse>
+        <verse osisID='Lev.6.15'>Und der Priester von seinen Söhnen, der an seiner Statt gesalbt wird, soll es tun. Eine ewige Satzung soll es sein Jehovah, und gänzlich soll es verbrannt<note>angezündet</note> werden.</verse>
+        <verse osisID='Lev.6.16'>Und jegliches Speiseopfer eines Priesters soll ein gänzliches sein, es soll nicht gegessen werden.</verse>
+        <verse osisID='Lev.6.17'>Und Jehovah redete zu Mose und sprach:</verse>
+        <verse osisID='Lev.6.18'>Rede zu Aharon und zu seinen Söhnen und sprich: Dies ist das Gesetz des Sündopfers. An dem Orte, da das Brandopfer geschlachtet wird, soll das Sündopfer vor Jehovah geschlachtet werden. Das Allerheiligste<note>das Heilige des Heiligen</note> ist es.</verse>
+        <verse osisID='Lev.6.19'>Der Priester, der entsündigt, soll es essen. An heiligem Orte soll es gegessen werden, im Vorhof des Versammlungszeltes.</verse>
+        <verse osisID='Lev.6.20'>Jeder, der Fleisch davon berührt, soll heilig sein. Und wenn er von dem Blute auf das Kleid spritzt, sollst du, was er spritzt, an heiligem Orte waschen.</verse>
+        <verse osisID='Lev.6.21'>Und ein irdenes Gefäß, in dem es gekocht worden, soll zerbrochen, ein ehernes Gefäß aber, wenn es darin gekocht ward, gescheuert und mit Wasser ausgespült werden.</verse>
+        <verse osisID='Lev.6.22'>Alles Männliche unter den Priestern soll es essen. Es ist das Allerheiligste<note>das Heilige des Heiligen</note>.</verse>
+        <verse osisID='Lev.6.23'>Und jegliches Sündopfer, von dessen Blut zur Sühne in dem Heiligtum in das Versammlungszelt gebracht worden, soll nicht gegessen, sondern im Feuer verbrannt werden.</verse>
+      </chapter>
+      <chapter osisID='Lev.7'>
+        <title>Verschiedene Opfer. Fett und Blut verboten. Webebrust. Hebekeule.</title>
+        <verse osisID='Lev.7.1'>Und dies ist das Gesetz des Schuldopfers. Das Allerheiligste<note>das Heilige des Heiligen</note> ist es.</verse>
+        <verse osisID='Lev.7.2'>An dem Orte, an dem sie das Brandopfer schlachten, sollen sie das Schuldopfer schlachten; und sein Blut sprenge man ringsum auf den Altar.</verse>
+        <verse osisID='Lev.7.3'>Und all sein Fett bringe er dar davon, den Fettschwanz und das Fett, welches das Eingeweide bedeckt.</verse>
+        <verse osisID='Lev.7.4'>Und die zwei Nieren und das Fett daran, das an den Weichen ist, und das Netz über der Leber, über den Nieren nehme er weg.</verse>
+        <verse osisID='Lev.7.5'>Und der Priester zünde sie an auf dem Altar, als ein Feueropfer für Jehovah. Ein Schuldopfer ist es.</verse>
+        <verse osisID='Lev.7.6'>Alles Männliche unter den Priestern darf es essen. An heiligem Orte werde es gegessen. Das Allerheiligste ist es.</verse>
+        <verse osisID='Lev.7.7'>Wie das Sündopfer, so das Schuldopfer! Es sei ein Gesetz für sie. Des Priesters, der damit sühnt, sei es.</verse>
+        <verse osisID='Lev.7.8'>Und des Priesters, der das Brandopfer eines Mannes darbringt, soll die Haut des Brandopfers sein, das er dargebracht: des Priesters soll es sein.</verse>
+        <verse osisID='Lev.7.9'>Und alles Speiseopfer, das im Ofen gebacken wird, und alles, das in der Bratpfanne oder auf der Pfanne gemacht wird, soll des Priesters, der es darbringt, sein.</verse>
+        <verse osisID='Lev.7.10'>Und alles Speiseopfer, das mit Öl vermischt, oder trocken ist, soll allen Söhnen Aharons, dem einen wie dem andern<note>dem Manne wie seinem Bruder</note> gehören.</verse>
+        <verse osisID='Lev.7.11'>Und das ist das Gesetz des Dankopfers, das man Jehovah darbringt;</verse>
+        <verse osisID='Lev.7.12'>Wenn er es als Lobopfer darbringt, so bringe er auf dem Lobopfer dar ungesäuerte Kuchen mit Öl gemischt, und ungesäuerte Fladen mit Öl gesalbt, und Semmelmehl mit Öl angerührt, Kuchen, vermischt mit Öl.</verse>
+        <verse osisID='Lev.7.13'>Auf den Kuchen gesäuerten Brotes bringe er seine Opfergabe dar, zum Lobopfer seines Dankes.</verse>
+        <verse osisID='Lev.7.14'>Und er bringe davon einen von der ganzen Opfergabe dem Jehovah als Hebe dar. Dem Priester, der das Blut des Dankopfers sprengt, ihm gehöre es.</verse>
+        <verse osisID='Lev.7.15'>Und das Fleisch des Lobopfers seines Dankes soll am Tage der Opfergabe gegessen werden und man lasse nichts bis zum Morgen übrigbleiben.</verse>
+        <verse osisID='Lev.7.16'>Und wenn das dargebrachte Opfer ein Gelübde oder Freiwilliges ist, soll es am Tage der Darbringung seines Opfers gegessen werden; und auch am morgenden Tage darf, was davon übrigblieb, gegessen werden.</verse>
+        <verse osisID='Lev.7.17'>Was aber von dem Opferfleisch noch am dritten Tage übrig ist, soll im Feuer verbrannt werden.</verse>
+        <verse osisID='Lev.7.18'>Und wenn man am dritten Tage von dem Fleische des Dankopfers ißt, so wird der Darbringende nicht wohlgefällig sein, es wird ihm nicht gedacht werden: Abscheulich ist es, und die Seele, die davon ißt, soll ihre Missetat tragen.</verse>
+        <verse osisID='Lev.7.19'>Und das Fleisch, das irgend etwas Unreines berührt, soll nicht gegessen werden. Es soll im Feuer verbrannt werden. Das Fleisch anlangend, darf das Fleisch jeder Reine essen.</verse>
+        <verse osisID='Lev.7.20'>Und wenn eine Seele Fleisch vom Dankopfer ißt, das dem Jehovah gehört, und hat seine Unreinheit an sich, so soll diese Seele von seinem Volke ausgerottet werden.</verse>
+        <verse osisID='Lev.7.21'>Und wenn eine Seele irgend etwas Unreines, eine Unreinheit eines Menschen, oder ein unreines Vieh oder irgendein unreines Scheusal angerührt hat und vom Fleisch des Dankopfers ißt, das für Jehovah ist, so soll diese Seele aus ihrem Volk ausgerottet werden.</verse>
+        <verse osisID='Lev.7.22'>Und Jehovah redete zu Mose und sprach:</verse>
+        <verse osisID='Lev.7.23'>Rede zu den Söhnen Israels und sprich: Alles Fett eines Ochsen, eines Schafs oder einer Ziege sollt ihr nicht essen.</verse>
+        <verse osisID='Lev.7.24'>Und das Fett vom Aas und Fett vom Zerfleischten mag zu allerlei Arbeit verwendet<note>gemacht</note> werden, aber essen sollt ihr es nicht.</verse>
+        <verse osisID='Lev.7.25'>Denn wer das Fett von dem Vieh ißt, von dem man Jehovah Feueropfer darbringt, die Seele, die es ißt, soll aus ihrem Volk ausgerottet werden.</verse>
+        <verse osisID='Lev.7.26'>Und kein Blut sollt ihr essen in all euren Wohnungen, weder vom Gevögel, noch vom Vieh.</verse>
+        <verse osisID='Lev.7.27'>Jede Seele, die irgend Blut ißt, die Seele soll aus ihrem Volk ausgerottet werden.</verse>
+        <verse osisID='Lev.7.28'>Und Jehovah redete zu Mose und sprach:</verse>
+        <verse osisID='Lev.7.29'>Rede zu den Söhnen Israels und sprich: Wer Jehovah sein Dankopfer darbringt, der soll Jehovah seine Opfergabe von seinem Dankopfer bringen.</verse>
+        <verse osisID='Lev.7.30'>Seine Hände sollen das Feueropfer Jehovahs hineinbringen. Das Fett auf der Brust soll er hineinbringen, samt der Brust, sie als Webeopfer vor Jehovah zu weben.</verse>
+        <verse osisID='Lev.7.31'>Und der Priester soll das Fett anzünden auf dem Altar; und die Brust soll Aharons und seiner Söhne sein.</verse>
+        <verse osisID='Lev.7.32'>Und die rechte Schulter sollt ihr als Hebe dem Priester von euren Dankopfern geben.</verse>
+        <verse osisID='Lev.7.33'>Dem von Aharons Söhnen, der das Blut der Dankopfer und das Fett darbringt, soll die rechte Schulter als Anteil sein.</verse>
+        <verse osisID='Lev.7.34'>Denn die Webebrust und die Hebeschulter nehme Ich von den Söhnen Israels von den Dankopfern, und gebe sie dem Priester Aharon und seinen Söhnen als ewige Satzung von den Söhnen Israels.</verse>
+        <verse osisID='Lev.7.35'>Dies ist die Salbung Aharons und die Salbung seiner Söhne von den Feueropfern Jehovahs, am Tage, da Er sie nahen ließ, Jehovah Priesterdienst zu tun;</verse>
+        <verse osisID='Lev.7.36'>Was Jehovah gebot, ihnen zu geben am Tage, da Er sie salbte von den Söhnen Israels, eine ewige Satzung für ihre Geschlechter,</verse>
+        <verse osisID='Lev.7.37'>Das ist das Gesetz für das Brandopfer, für das Speiseopfer und für das Sündopfer und für das Schuldopfer und für die Füllopfer und für das Dankopfer,</verse>
+        <verse osisID='Lev.7.38'>Die Jehovah dem Mose auf dem Berge Sinai geboten hat, am Tage, da Er den Söhnen Israels gebot, ihre Opfergaben Jehovah in der Wüste Sinai darzubringen.</verse>
+      </chapter>
+      <chapter osisID='Lev.8'>
+        <title>Einweihung der Priester.</title>
+        <verse osisID='Lev.8.1'>Und Jehovah redete zu Mose und sprach:</verse>
+        <verse osisID='Lev.8.2'>Nimm Aharon und seine Söhne mit ihm, und die Kleider und das Salböl, und den Farren des Sündopfers und die zwei Widder, und den Korb des Ungesäuerten;</verse>
+        <verse osisID='Lev.8.3'>Und versammle die ganze Gemeinde zum Eingang des Versammlungszeltes.</verse>
+        <verse osisID='Lev.8.4'>Und Mose tat, wie ihm Jehovah geboten, und die Gemeinde versammelte sich am Eingang des Versammlungszeltes.</verse>
+        <verse osisID='Lev.8.5'>Und Mose sprach zu der Gemeinde: Dies ist das Wort, das Jehovah geboten hat zu tun;</verse>
+        <verse osisID='Lev.8.6'>Und Mose ließ Aharon und seine Söhne sich nahen, und wusch sie mit Wasser;</verse>
+        <verse osisID='Lev.8.7'>Und gab ihm<note>auf ihn</note> den Leibrock und gürtete ihn mit dem Gürtel, und zog ihm das Oberkleid an, gab auf ihn das Ephod und gürtete ihn mit dem Gurt des Ephod und legte es ihm an;</verse>
+        <verse osisID='Lev.8.8'>Und tat ihm das Brustschildlein an und gab die Urim und die Thummim in das Brustschildlein.</verse>
+        <verse osisID='Lev.8.9'>Und er setzte die Tiara auf sein Haupt, und an die Tiara vorn über dem Gesicht setzte er das goldene Blatt, das heilige Diadem, wie Jehovah dem Mose geboten hatte.</verse>
+        <verse osisID='Lev.8.10'>Und Mose nahm das Salböl und salbte die Wohnung und alles, was darin war, und heiligte sie;</verse>
+        <verse osisID='Lev.8.11'>Und spritzte davon siebenmal auf den Altar, und salbte den Altar und alle seine Geräte und das Becken und sein Gestell, um sie zu heiligen.</verse>
+        <verse osisID='Lev.8.12'>Und er goß von dem Salböl auf das Haupt Aharons und salbte ihn, um ihn zu heiligen.</verse>
+        <verse osisID='Lev.8.13'>Und Mose ließ die Söhne Aharons sich nahen, und zog ihnen Leibröcke an, und gürtete sie mit dem Gürtel und band ihnen Kopfbünde um, wie Jehovah dem Mose geboten hatte.</verse>
+        <verse osisID='Lev.8.14'>Und er brachte den Farren des Sündopfers herbei; und Aharon und seine Söhne legten ihre Hände auf den Kopf des Farren des Sündopfers;</verse>
+        <verse osisID='Lev.8.15'>Und er schlachtete ihn. Und Mose nahm das Blut und gab es auf die Hörner des Altars ringsum mit seinem Finger und entsündigte den Altar, und das Blut goß er an den Grund des Altars und heiligte ihn, um darauf zu sühnen;</verse>
+        <verse osisID='Lev.8.16'>Und er nahm alles Fett, das an dem Eingeweide war, und das Netz der Leber, und die zwei Nieren und ihr Fett, und Mose zündete es an auf dem Altar.</verse>
+        <verse osisID='Lev.8.17'>Und den Farren und seine Haut und sein Fleisch und seinen Mist verbrannte er im Feuer außerhalb des Lagers, wie Jehovah Mose geboten hatte.</verse>
+        <verse osisID='Lev.8.18'>Und er brachte den Widder zum Brandopfer dar, und Aharon und seine Söhne legten<note>lehnten</note> ihre Hände auf den Kopf des Widders,</verse>
+        <verse osisID='Lev.8.19'>Und schlachtete ihn, und Mose sprengte das Blut auf den Altar ringsum.</verse>
+        <verse osisID='Lev.8.20'>Und den Widder zerstückte er in seine Stücke und Mose zündete den Kopf und die Stücke und das Fett an;</verse>
+        <verse osisID='Lev.8.21'>Und das Eingeweide und die Schenkel wusch er im Wasser, und Mose zündete den ganzen Widder auf dem Altar an. Ein Brandopfer war es zum Geruch der Ruhe, ein Feueropfer für Jehovah, wie Jehovah dem Mose geboten hatte.</verse>
+        <verse osisID='Lev.8.22'>Und er brachte den zweiten Widder dar, den Widder der Füllungen<note>d.h. der Einweihung</note>, und Aharon und seine Söhne legten<note>lehnten</note> ihre Hände auf den Kopf des Widders.</verse>
+        <verse osisID='Lev.8.23'>Und er schlachtete ihn, und Mose nahm von seinem Blut und gab es auf Aharons rechtes Ohrläppchen und auf den Daumen seiner rechten Hand und auf die große Zehe seines rechten Fußes;</verse>
+        <verse osisID='Lev.8.24'>Und er ließ die Söhne Aharons sich nahen, und Mose gab von dem Blute auf ihr rechtes Ohrläppchen und auf den Daumen ihrer rechten Hand und auf die große Zehe ihres rechten Fußes, und Mose sprengte das Blut ringsum auf den Altar.</verse>
+        <verse osisID='Lev.8.25'>Und er nahm das Fett und den Fettschwanz und alles Fett auf dem Eingeweide und das Netz der Leber und die zwei Nieren und ihr Fett und die rechte Schulter;</verse>
+        <verse osisID='Lev.8.26'>Und aus dem Korb des Ungesäuerten vor Jehovah nahm er einen ungesäuerten Kuchen und einen Kuchen von Ölbrot und einen Fladen und legte sie auf die Fettstücke und auf die rechte Schulter.</verse>
+        <verse osisID='Lev.8.27'>Und gab alles auf die Hände<note>die flachen Hände</note> Aharons und auf die Hände<note>flachen Hände</note> seiner Söhne und webte sie zur Webe vor Jehovah.</verse>
+        <verse osisID='Lev.8.28'>Und Mose nahm sie von ihren Händen<note>flachen Händen</note> und zündete sie an auf dem Altar über dem Brandopfer. Ein Füllungsopfer waren sie zum Geruch der Ruhe, ein Feueropfer war es für Jehovah.</verse>
+        <verse osisID='Lev.8.29'>Und die Brust nahm Mose und webte sie zur Webe vor Jehovah. Vom Widder der Füllungen ward es dem Mose zum Anteil, wie Jehovah dem Mose geboten hatte.</verse>
+        <verse osisID='Lev.8.30'>Und Mose nahm von dem Salböl und von dem Blut, das auf dem Altar war, und spritze es auf Aharon, auf seine Kleider und auf seine Söhne und auf die Kleider seiner Söhne mit ihm, und heiligte Aharon, seine Kleider, und seine Söhne und die Kleider seiner Söhne mit ihm;</verse>
+        <verse osisID='Lev.8.31'>Und Mose sprach zu Aharon und seinen Söhnen: Kochet das Fleisch am Eingang des Versammlungszeltes, und dort esset es und das Brot, das in dem Korbe der Füllungen ist, wie ich geboten und gesprochen habe: Aharon und seine Söhne sollen es essen!</verse>
+        <verse osisID='Lev.8.32'>Und was vom Fleisch und vom Brot übrig ist, sollt ihr im Feuer verbrennen.</verse>
+        <verse osisID='Lev.8.33'>Und von dem Eingang des Versammlungszeltes sollt ihr nicht ausgehen sieben Tage, bis zum Tage, da die Tage eurer Füllungen<note>d.h. Einweihung</note> erfüllet sind; denn sieben Tage wird eure Hand gefüllt.</verse>
+        <verse osisID='Lev.8.34'>Sowie man getan hat an diesem Tage, hat Jehovah geboten zu tun, um über euch zu sühnen.</verse>
+        <verse osisID='Lev.8.35'>Und am Eingang des Versammlungszeltes sollt ihr sitzen bei Tag und bei Nacht, sieben Tage und die Hut Jehovahs hüten, auf daß ihr nicht sterbet; denn so ist es mir geboten.</verse>
+        <verse osisID='Lev.8.36'>Und Aharon und seine Söhne taten alle Dinge<note>Worte</note>, die Jehovah durch die Hand Moses geboten hatte.</verse>
+      </chapter>
+      <chapter osisID='Lev.9'>
+        <title>Aharons erstes Opfer.</title>
+        <verse osisID='Lev.9.1'>Und am achten Tage geschah es, daß Mose Aharon und seine Söhne und die Ältesten Israels rief.</verse>
+        <verse osisID='Lev.9.2'>Und er sprach zu Aharon: Nimm für dich ein junges Stierkalb<note>das Kalb den Sohn eines Rindes</note> zum Sündopfer und einen Widder ohne Fehl zum Brandopfer und bringe sie dar vor Jehovah.</verse>
+        <verse osisID='Lev.9.3'>Und zu den Söhnen Israels sollst du reden und sprechen: Nehmet einen Ziegenbock zu einem Sündopfer, und ein Kalb und ein Lamm von einem Jahr<note>den Sohn eines Jahres</note> ohne Fehl zu einem Brandopfer.</verse>
+        <verse osisID='Lev.9.4'>Und einen Ochsen und einen Widder zum Dankopfer, zu opfern vor Jehovah, und ein Speiseopfer, mit Öl vermischt; denn es erscheint euch Jehovah an diesem Tag.</verse>
+        <verse osisID='Lev.9.5'>Und sie nahmen, was Mose geboten hatte, an den Eingang des Versammlungszeltes, und es nahte die ganze Gemeinde und sie standen vor Jehovah.</verse>
+        <verse osisID='Lev.9.6'>Und Mose sprach: Dies ist das Wort, das Jehovah geboten hat, daß ihr tun sollt; auf daß euch die Herrlichkeit Jehovahs erscheine.</verse>
+        <verse osisID='Lev.9.7'>Und Mose sprach zu Aharon: Nahe dich zum Altar, und tue dein Sündopfer und dein Brandopfer, und sühne für dich und für das Volk, und mache die Opfergabe des Volkes, und sühne für sie, wie Jehovah geboten hat.</verse>
+        <verse osisID='Lev.9.8'>Und Aharon nahte zum Altar und schlachtete das Kalb des Sündopfers, das er hatte.</verse>
+        <verse osisID='Lev.9.9'>Und Aharons Söhne brachten ihm das Blut dar, und er tauchte seinen Finger in das Blut und gab es auf die Hörner des Altars, und das Blut goß er an den Grund des Altars.</verse>
+        <verse osisID='Lev.9.10'>Und das Fett und die Nieren und das Netz von der Leber von dem Sündopfer zündete er auf dem Altar an, wie Jehovah Mose geboten hatte.</verse>
+        <verse osisID='Lev.9.11'>Und das Fleisch und die Haut verbrannte er im Feuer außerhalb des Lagers.</verse>
+        <verse osisID='Lev.9.12'>Und er schlachtete das Brandopfer, und Aharons Söhne reichten<note>fanden</note> ihm das Blut dar, und er sprengte es ringsum auf den Altar.</verse>
+        <verse osisID='Lev.9.13'>Und das Brandopfer reichten<note>fanden</note> sie ihm dar in seinen Stücken und den Kopf, und er zündete es an auf dem Altar.</verse>
+        <verse osisID='Lev.9.14'>Und er wusch das Eingeweide und die Schenkel und zündete sie auf dem Brandopfer auf dem Altare an.</verse>
+        <verse osisID='Lev.9.15'>Und er brachte die Opfergabe des Volkes dar, und nahm den Bock des Sündopfers, das für das Volk war, und schlachtete ihn und brachte ihn als Sündopfer dar<note>entsündigte ihn</note>, wie das erste.</verse>
+        <verse osisID='Lev.9.16'>Und er brachte das Brandopfer dar, und er machte es nach dem Rechte<note>Gerichte</note>.</verse>
+        <verse osisID='Lev.9.17'>Und er brachte das Speiseopfer dar, und füllte seine Hand<note>flache Hand</note> davon und zündete es auf dem Altare an außer dem Brandopfer des Morgens,</verse>
+        <verse osisID='Lev.9.18'>Und er schlachtete den Ochsen und den Widder zum Dankopfer für das Volk, und die Söhne Aharons reichten<note>fanden</note> ihm das Blut dar, und er sprengte es ringsum auf den Altar;</verse>
+        <verse osisID='Lev.9.19'>Und die Fettstücke von dem Ochsen und von dem Widder, den Fettschwanz und die Netzhaut und die Nieren und das Netz der Leber;</verse>
+        <verse osisID='Lev.9.20'>Und sie legten die Fettstücke auf die Bruststücke, und er zündete die Fettstücke an auf dem Altar.</verse>
+        <verse osisID='Lev.9.21'>Und die Bruststücke und die rechte Schulter webte Aharon als Webe vor Jehovah, wie Mose geboten hatte.</verse>
+        <verse osisID='Lev.9.22'>Und Aharon hob seine Hände auf über das Volk und segnete sie, und kam herab, nachdem er das Sündopfer und das Brandopfer und das Dankopfer getan hatte.</verse>
+        <verse osisID='Lev.9.23'>Und Mose und Aharon gingen in das Versammlungszelt und kamen heraus und segneten das Volk. Und es erschien die Herrlichkeit Jehovahs dem ganzen Volke.</verse>
+        <verse osisID='Lev.9.24'>Und es ging Feuer aus von<note>von dem Angesichte</note> Jehovahs und fraß auf dem Altar das Brandopfer und die Fettstücke. Und das ganze Volk sah es, und sie jauchzten und fielen auf ihr Angesicht.</verse>
+      </chapter>
+      <chapter osisID='Lev.10'>
+        <title>Nadab und Abihu. - Weinverbot. Aharons Trauer.</title>
+        <verse osisID='Lev.10.1'>Und Nadab und Abihu, Aharons Söhne, nahmen jeder Mann seine Rauchpfanne und taten<note>gaben</note> Feuer hinein und legten Räuchwerk darauf und brachten vor Jehovah fremdes Feuer dar, das Er ihnen nicht geboten hatte.</verse>
+        <verse osisID='Lev.10.2'>Und Feuer ging aus von<note>vor dem Angesichte</note> Jehovah, und fraß sie auf und sie starben vor<note>vor dem Angesichte</note> Jehovah.</verse>
+        <verse osisID='Lev.10.3'>Und Mose sprach zu Aharon: Das ist es, was Jehovah geredet und gesprochen hat: An denen, die Mir nahe sind, will ich geheiligt und vor dem Angesichte des ganzen Volkes verherrlicht werden. Und Aharon war stille.</verse>
+        <verse osisID='Lev.10.4'>Und Mose rief Mischael und Elzaphan, die Söhne Ussiels, des Oheims von Aharon, und sprach zu ihnen: Nahet, traget eure Brüder hinweg vom<note>vor dem Angesichte</note> Heiligtum, zum Lager hinaus.</verse>
+        <verse osisID='Lev.10.5'>Und sie nahten und trugen sie in ihren Leibröcken zum Lager hinaus, wie Mose geredet hatte.</verse>
+        <verse osisID='Lev.10.6'>Und Mose sprach zu Aharon und seinen Söhne Eleasar und Ithamar: Eure Häupter sollt ihr nicht blößen und eure Kleider nicht aufrei-ßen, daß ihr nicht sterbet, und Er über die ganze Gemeinde entrüstet werde. Aber eure Brüder, das ganze Haus Israel mögen weinen über den Brand derer, die Jehovah verbrannte.</verse>
+        <verse osisID='Lev.10.7'>Und von dem Eingang des Versammlungszeltes sollt ihr nicht ausgehen, auf daß ihr nicht sterbet; denn Jehovahs Salbungsöl ist auf euch. Und sie taten nach Moses Wort.</verse>
+        <verse osisID='Lev.10.8'>Und Jehovah redete zu Aharon und sprach:</verse>
+        <verse osisID='Lev.10.9'>Wein und starkes Getränk sollst du und deine Söhne mit dir nicht trinken, wenn ihr zum Versammlungszelt eingehet, auf daß ihr nicht sterbet. Eine ewige Satzung soll es sein für eure Geschlechter;</verse>
+        <verse osisID='Lev.10.10'>Und auf daß ihr scheidet zwischen dem Heiligen und zwischen dem Gemeinen und zwischen dem Unreinen und zwischen dem Reinen.</verse>
+        <verse osisID='Lev.10.11'>Und daß ihr die Söhne Israels unterweiset in allen Satzungen, die Jehovah zu ihnen durch die Hand Moses geredet hat.</verse>
+        <verse osisID='Lev.10.12'>Und Mose redete zu Aharon und zu seinen Söhnen Eleasar und Ithamar, die übriggeblieben: Nehmet das Speiseopfer, das übrig ist von den Feueropfern Jehovahs und esset es ungesäuert neben dem Altar; denn allerheiligst<note>das Heilige des Heiligen</note> ist es.</verse>
+        <verse osisID='Lev.10.13'>Und sollt es essen an heiligem Ort; denn es ist deine Satzung und deiner Söhne Satzung von Jehovahs Feueropfern; denn so ist es mir geboten.</verse>
+        <verse osisID='Lev.10.14'>Und die Webebrust und die Hebeschulter sollt ihr essen an reinem Orte, du und deine Söhne und deine Töchter mit dir; denn als deine Satzung und deiner Söhne Satzung von den Dankopfern der Söhne Israels werden sie gegeben.</verse>
+        <verse osisID='Lev.10.15'>Die Schulter der Hebe und die Brust der Webe sollen sie auf dem Fettstück der Feueropfer hereinbringen, um sie als Webe vor Jehovah zu weben; und sie sollen für dich und deine Söhne mit dir eine ewige Satzung sein, wie Jehovah geboten hat.</verse>
+        <verse osisID='Lev.10.16'>Und Mose befragte sie über den Bock des Sündopfers, und siehe, er war verbrannt. Und er war entrüstet über Eleasar und Ithamar, die Söhne Aharons, die übriggeblieben und sprach:</verse>
+        <verse osisID='Lev.10.17'>Warum habt ihr das Sündopfer nicht an heiligem Orte gegessen; denn allerheiligst<note>das Heilige des Heiligen</note> ist es. Und Er hat es euch gegeben, zu tragen die Missetat der Gemeinde, über sie vor Jehovah zu sühnen.</verse>
+        <verse osisID='Lev.10.18'>Siehe! Sein Blut ist nicht in das Innere des Heiligtums gebracht worden. Ihr hättet es im Heiligtum essen<note>essend essen</note> sollen, wie ich geboten habe.</verse>
+        <verse osisID='Lev.10.19'>Und Aharon redete zu Mose: Siehe, heute haben sie ihr Sündopfer und ihr Brandopfer vor Jehovah dargebracht, und solches ist mir begegnet. Und äße ich heute Sündopfer, wäre es gut in den Augen Jehovahs?</verse>
+        <verse osisID='Lev.10.20'>Und Mose hörte, und es war gut in seinen Augen.</verse>
+      </chapter>
+      <chapter osisID='Lev.11'>
+        <title>Reine und unreine Tiere.</title>
+        <verse osisID='Lev.11.1'>Und Jehovah redete zu Mose und zu Aharon und sprach zu ihnen:</verse>
+        <verse osisID='Lev.11.2'>Redet zu den Söhnen Israels und sprechet: Das sind die Tiere<note>wilden Tiere</note>, die ihr essen dürfet von allem Vieh auf Erden;</verse>
+        <verse osisID='Lev.11.3'>Alles, was einen durchbrochenen Huf, einen in Klauen gespaltenen Huf hat und wiederkäut<note>das Gekaute heraufbringen</note> vom Vieh, das dürft ihr essen.</verse>
+        <verse osisID='Lev.11.4'>Doch sollt ihr nicht essen von denen, die wiederkäuen<note>das Gekaute heraufbringen</note> und denen mit durchbrochenem Huf: Das Kamel; denn es wiederkäut<note>das Gekaute heraufbringen</note> zwar, hat aber keinen durchbrochenen Huf. Unrein sei es euch.</verse>
+        <verse osisID='Lev.11.5'>Und das Kaninchen; denn es ist wiederkäuend<note>das Gekaute heraufbringen</note> und hat keinen durchbrochenen Huf. Unrein sei es euch.</verse>
+        <verse osisID='Lev.11.6'>Und den Hasen; denn er wiederkäut und hat keinen durchbrochenen Huf. Unrein sei er euch!</verse>
+        <verse osisID='Lev.11.7'>Und das Schwein; denn es hat einen durchbrochenen Huf und die Klauen gespalten, aber es wiederkäut nicht. Unrein sei es euch!</verse>
+        <verse osisID='Lev.11.8'>Von ihrem Fleisch sollt ihr nicht essen und ihr Aas nicht berühren. Unrein seien sie euch!</verse>
+        <verse osisID='Lev.11.9'>Und das dürfet ihr essen von allem, was im Wasser ist: Alles, was Flossen und Schuppen hat im Wasser, in den Meeren und in den Bächen, das dürfet ihr essen.</verse>
+        <verse osisID='Lev.11.10'>Aber alles, was keine Flosse und Schuppe hat in Meeren und Bächen, von allem, das im Wasser wimmelt und von aller lebendigen Seele im Wasser, ein Abscheu sei es euch!</verse>
+        <verse osisID='Lev.11.11'>Zum Abscheu sollen sie euch sein. Von ihrem Fleisch sollt ihr nicht essen, und ihr Aas sei euch ein Abscheu.</verse>
+        <verse osisID='Lev.11.12'>Alles, was nicht Flosse und Schuppe hat im Wasser, soll euch zum Abscheu sein.</verse>
+        <verse osisID='Lev.11.13'>Und diese sollt ihr vom Gevögel verabscheuen. Sie sollen nicht gegessen werden, zum Abscheu sein: Der Adler und der Seeadler und der Lämmergeier;</verse>
+        <verse osisID='Lev.11.14'>Und der Weihe und der Falke nach seiner Art;</verse>
+        <verse osisID='Lev.11.15'>Alle Raben nach ihren Arten;</verse>
+        <verse osisID='Lev.11.16'>Und das Käuzlein und der Strauß und die Möwe und der Habicht nach seiner Art;</verse>
+        <verse osisID='Lev.11.17'>Und der Uhu und der Taucher und die Eule.</verse>
+        <verse osisID='Lev.11.18'>Und die Dohle und der Pelikan und der Aasgeier.</verse>
+        <verse osisID='Lev.11.19'>Und der Storch, der Reiher nach seiner Art, und der Wiedehopf und die Fledermaus.</verse>
+        <verse osisID='Lev.11.20'>Alles Kriechtier mit Flügeln, das auf Vieren geht, soll euch zum Abscheu sein.</verse>
+        <verse osisID='Lev.11.21'>Nur das sollt ihr essen von allem geflügelten Kriechtier, das auf Vieren geht, das Schenkel über den Füßen hat, um damit auf der Erde zu hüpfen.</verse>
+        <verse osisID='Lev.11.22'>Diese möget ihr davon essen: Die Heu- schrecke nach ihrer Art, den Solam<note>d.h. verschiedene Arten von Heuschrecken</note> nach seiner Art und den Chargol<note>d.h. verschiedene Arten von Heuschrecken</note> nach seiner Art, und den Chagab<note>d.h. verschiedene Arten von Heuschrecken</note> nach seiner Art.</verse>
+        <verse osisID='Lev.11.23'>Und alles andere geflügelte Kriechtier mit vier Füßen soll euch ein Abscheu sein.</verse>
+        <verse osisID='Lev.11.24'>Und mit diesen verunreinigt ihr euch. Wer ihr Aas berührt, ist bis zum Abend unrein.</verse>
+        <verse osisID='Lev.11.25'>Und jeder, der von ihrem Aase trägt, soll seine Kleider waschen, und ist unrein bis zum Abend.</verse>
+        <verse osisID='Lev.11.26'>Alles Vieh, das einen durchbrochenen Huf hat und den Huf nicht spaltet, und nicht wiederkäut<note>das Gekaute nicht heraufbringt</note>, soll unrein für euch sein. Wer immer es berührt, ist unrein.</verse>
+        <verse osisID='Lev.11.27'>Und alles, was auf seinen Tatzen<note>flachen Händen</note> geht unter allem Wild, das auf Vieren geht, ist unrein für euch, ein jeder, der ihr Aas anrührt, ist unrein bis zum Abend.</verse>
+        <verse osisID='Lev.11.28'>Und wer ihr Aas trägt, soll seine Kleider waschen und ist unrein bis zum Abend. Unrein seien sie euch.</verse>
+        <verse osisID='Lev.11.29'>Und das sei euch unrein unter dem Kriechtier, das auf dem Lande wimmelt: Das Wiesel und die Maus und die gelbe Eidechse nach ihrer Art.</verse>
+        <verse osisID='Lev.11.30'>Und die Feldmaus und das Chamäleon und die Schildkröte und die Schnecke und der Maulwurf.</verse>
+        <verse osisID='Lev.11.31'>Diese seien euch unrein unter allem Kriechtier. Wer sie anrührt, wenn sie tot sind, ist unrein bis zum Abend.</verse>
+        <verse osisID='Lev.11.32'>Und alles, worauf ein solches unter ihnen fällt, wenn es tot ist, ist unrein, irgendein hölzernes Gerät oder ein Kleid oder Fell oder Sack, jegliches Gerät, mit dem man eine Arbeit tut, soll ins Wasser hineingebracht werden und ist unrein bis zum Abend, und dann ist es rein.</verse>
+        <verse osisID='Lev.11.33'>Und jegliches irdene Gefäß, in dessen Mitte derselben eines fällt, wird unrein, alles, was in dessen Mitte ist; und ihr sollt es zerbrechen.</verse>
+        <verse osisID='Lev.11.34'>Jegliche Speise, die gegessen wird, über die solches Wasser kommt, ist unrein, und alles Getränk, das aus irgend solchem Gefäß getrunken wird, ist unrein.</verse>
+        <verse osisID='Lev.11.35'>Und alles, worauf von ihrem Aase fällt ist unrein. Der Ofen oder Herd werde eingerissen; sie sind unrein, und sollen euch unrein sein.</verse>
+        <verse osisID='Lev.11.36'>Nur der Brunnquell und die Grube, in denen sich Wasser sammelt, sollen rein sein; was aber ihr Aas berührt, soll unrein sein.</verse>
+        <verse osisID='Lev.11.37'>Und so von ihrem Aas auf irgendwelchen Saatsamen fällt, der gesät werden soll, so ist er rein;</verse>
+        <verse osisID='Lev.11.38'>Wird aber Wasser auf den Samen getan<note>gegeben</note>, und es fällt von ihrem Aas darauf, so ist es unrein für euch.</verse>
+        <verse osisID='Lev.11.39'>Und so von dem Vieh, das euch zur Speise ist, eines stirbt, so ist der, welcher sein Aas berührt, unrein bis zum Abend.</verse>
+        <verse osisID='Lev.11.40'>Und wer von seinem Aase ißt, soll seine Kleider waschen, und unrein sein bis zum Abend, und wer sein Aas trägt, soll seine Kleider waschen und ist unrein bis zum Abend.</verse>
+        <verse osisID='Lev.11.41'>Und alles Gewimmel, das auf der Erde wimmelt, ist ein Abscheu; es soll nicht gegessen werden.</verse>
+        <verse osisID='Lev.11.42'>Alles, was auf dem Bauche geht, und alles, was auf vieren und bis zu dem, das auf mehr Füßen geht, von allem Gewimmel, das auf der Erde wimmelt, sollt ihr nicht essen; denn sie sind ein Abscheu.</verse>
+        <verse osisID='Lev.11.43'>Ihr sollt eure Seele nicht abscheulich machen durch irgendwelches Gewimmel, das da wimmelt, und euch damit nicht verunreinigen, daß ihr dadurch unrein werdet;</verse>
+        <verse osisID='Lev.11.44'>Denn Ich bin Jehovah, euer Gott, und ihr sollt euch heiligen, auf daß ihr heilig seid; denn Ich bin heilig; und sollt eure Seele nicht verunreinigen mit irgendwelchem Gewimmel, das auf der Erde kriecht.</verse>
+        <verse osisID='Lev.11.45'>Denn Ich bin Jehovah, Der euch aus Ägyptenland heraufgebracht, auf daß Ich euer Gott sei. So seid denn heilig, denn Ich bin heilig.</verse>
+        <verse osisID='Lev.11.46'>Das ist das Gesetz vom Vieh und Gevögel und allen lebendigen Seelen, die sich im Wasser regen<note>kriechen</note>, und allen Seelen, die auf der Erde wimmeln;</verse>
+        <verse osisID='Lev.11.47'>Damit ihr scheidet zwischen Unreinem und zwischen Reinem, und zwischen dem Tiere<note>dem Lebendigen</note>, das ihr essen und dem Tier, das ihr nicht essen sollt.</verse>
+      </chapter>
+      <chapter osisID='Lev.12'>
+        <title>Ordnung der Kindbetterinnen.</title>
+        <verse osisID='Lev.12.1'>Und Jehovah redete zu Mose und sprach:</verse>
+        <verse osisID='Lev.12.2'>Rede zu den Söhnen Israels und sprich: Wenn ein Weib empfängt<note>besamet wird</note> und ein Männliches gebiert, so ist sie sieben Tage unrein. Wie die Tage der Abgeschiedenheit ihrer Krankheit soll sie unrein sein.</verse>
+        <verse osisID='Lev.12.3'>Und am achten Tage soll das Fleisch seiner Vorhaut beschnitten werden.</verse>
+        <verse osisID='Lev.12.4'>Und sie soll drei Tage und dreißig Tage im Blute ihrer Reinigung bleiben<note>sitzen</note>, nichts Heiliges anrühren, und nicht zum Heiligtum kommen, bis die Tage ihrer Reinigung voll sind.</verse>
+        <verse osisID='Lev.12.5'>Und gebiert sie ein Weibliches, soll sie zwei Wochen unrein sein, wie bei ihrer Abgeschiedenheit und soll sechs Tage und sechzig Tage im Blute ihrer Reinigung bleiben<note>sitzen</note>.</verse>
+        <verse osisID='Lev.12.6'>Und wenn die Tage ihrer Reinigung für Sohn oder für Tochter erfüllt sind, soll sie ein einjähriges<note>den Sohn eines Jahres</note> Lamm als Brandopfer und eine junge Taube<note>den Sohn einer Taube</note> oder eine Turteltaube als Sündopfer zum Eingang des Versammlungszeltes zu dem Priester bringen.</verse>
+        <verse osisID='Lev.12.7'>Und er bringe es dar vor Jehovah und sühne über sie, auf daß sie rein sei vom Born ihres Blutes. Dies ist das Gesetz für die, so ein Männliches oder ein Weibliches geboren hat.</verse>
+        <verse osisID='Lev.12.8'>Und reicht<note>findet</note> ihre Hand nicht genug zu einem Lamm<note>zu einem Jungen vom Kleinvieh</note>, so nehme sie zwei Turteltauben oder zwei junge Tauben<note>Söhne der Taube</note>, eine zum Brandopfer und eine zum Sündopfer, und der Priester sühne über sie und sie sei rein.</verse>
+      </chapter>
+      <chapter osisID='Lev.13'>
+        <title>Vom Aussatz.</title>
+        <verse osisID='Lev.13.1'>Und Jehovah redete zu Mose und zu Aharon und sprach:</verse>
+        <verse osisID='Lev.13.2'>So bei einem Menschen auf der Haut seines Fleisches eine Erhebung oder ein Schorf oder ein lichter Fleck ist, und dies auf der Haut seines Fleisches zum Male des Aussatzes werden könnte, so werde er zu Aharon, dem Priester, oder zu einem von seinen Söhnen, den Priestern, gebracht.</verse>
+        <verse osisID='Lev.13.3'>Und wenn der Priester das Mal auf der Haut des Fleisches gesehen, und das Haar in dem Male in Weiß verwandelt worden, und das Mal ist tiefer anzusehen als die Haut seines Fleisches, so ist es ein Aussatzmal, und der Priester sehe ihn und erkläre ihn für unrein.</verse>
+        <verse osisID='Lev.13.4'>Und wenn ein weißer, lichter Fleck auf der Haut seines Fleisches ist, aber nicht tiefer als die Haut anzusehen, und das Haar nicht in Weiß verwandelt ist, so lasse der Priester den mit dem Male sieben Tage einschließen.</verse>
+        <verse osisID='Lev.13.5'>Und am siebenten Tage sehe ihn der Priester, und siehe, das Mal ist in seinen Augen stehengeblieben, und das Mal hat auf der Haut nicht um sich gegriffen, so lasse ihn der Priester zum zweitenmal sieben Tage einschließen.</verse>
+        <verse osisID='Lev.13.6'>Und wenn ihn dann der Priester am siebenten Tag zum zweitenmal sieht, und siehe, das Mal ist trüber geworden, und das Mal hat auf der Haut nicht um sich gegriffen, so erkläre ihn der Priester rein. Es ist ein Schorf. Und er wasche seine Kleider und ist rein.</verse>
+        <verse osisID='Lev.13.7'>Hat aber der Schorf um sich gegriffen auf der Haut, nachdem er vom Priester für seine Reinsprechung besehen worden ist, so werde er vom Priester zum zweitenmal besehen.</verse>
+        <verse osisID='Lev.13.8'>Und sieht ihn der Priester, und siehe, der Schorf hat in der Haut um sich gegriffen, so erkläre ihn der Priester für unrein: es ist Aussatz.</verse>
+        <verse osisID='Lev.13.9'>Ist das Aussatzmal am Menschen, so werde er zum Priester gebracht.</verse>
+        <verse osisID='Lev.13.10'>Und sieht der Priester, und siehe, eine weiße Erhebung ist in der Haut und hat das Haar in Weiß verwandelt, und frisches wildes<note>lebendiges</note> Fleisch in der Erhebung;</verse>
+        <verse osisID='Lev.13.11'>So ist alter Aussatz in der Haut seines Fleisches; und der Priester erkläre ihn für unrein. Er schließe ihn nicht ein; denn er ist unrein.</verse>
+        <verse osisID='Lev.13.12'>So aber der Aussatz so in der Haut hervorbricht<note>hervorbrechend hervorbricht</note>, daß der Aussatz die ganze Haut mit dem Male bedeckt, von seinem Kopfe und bis zu seinen Füßen, soweit das Auge des Priesters sieht;</verse>
+        <verse osisID='Lev.13.13'>Und der Priester sieht, und siehe, der Aussatz hat sein ganzes Fleisch bedeckt, so soll er das Mal für rein erklären. Alles an ihm ist in Weiß verwandelt; er ist rein.</verse>
+        <verse osisID='Lev.13.14'>Am Tage aber, da sich wildes<note>lebendiges</note> Fleisch an ihm sehen läßt, wird er unrein.</verse>
+        <verse osisID='Lev.13.15'>Und sieht der Priester das wilde<note>lebendige</note> Fleisch, so erkläre er ihn für unrein; das wilde<note>das lebendige</note> Fleisch ist unrein, es ist der Aussatz.</verse>
+        <verse osisID='Lev.13.16'>Oder wenn das wilde<note>lebendige</note> Fleisch sich zurückzieht und verwandelt sich in Weiß, so komme er zu dem Priester.</verse>
+        <verse osisID='Lev.13.17'>Und sieht ihn der Priester und siehe, das Mal ist in Weiß verwandelt, so erkläre der Priester das Mal für rein. Er ist rein.</verse>
+        <verse osisID='Lev.13.18'>Und so an jemandes Fleisch in der Haut ein Geschwür ist und geheilt wird;</verse>
+        <verse osisID='Lev.13.19'>Und an dem Orte des Geschwürs eine weiße Erhebung oder ein lichter weißrötlicher Fleck wird, so erscheine er bei dem Priester.</verse>
+        <verse osisID='Lev.13.20'>Und sieht der Priester, und siehe, es ist niedriger anzusehen als die Haut, und das Haar ist in Weiß verwandelt, so erkläre ihn der Priester für unrein; denn das Aussatzmal ist an dem Geschwür ausgebrochen.</verse>
+        <verse osisID='Lev.13.21'>Und sieht sie der Priester, und siehe, es ist kein weißes Haar darin, und es ist nicht niedriger als die Haut und ist trübe, so lasse ihn der Priester sieben Tage einschließen.</verse>
+        <verse osisID='Lev.13.22'>Greift es aber um sich<note>greift es umgreifend um sich</note> in der Haut, so erkläre ihn der Priester für unrein: es ist das Mal.</verse>
+        <verse osisID='Lev.13.23'>Blieb aber der lichte Fleck an seiner Stelle stehen und greift nicht um sich, so ist es eine Entzündung des Geschwürs, und der Priester erkläre ihn für rein.</verse>
+        <verse osisID='Lev.13.24'>Oder so am Fleische in der Haut ein Brandmal vom Feuer ist und wildes Fleisch am Brandmal und ein weißrötlicher oder weißer, lichter Fleck wird;</verse>
+        <verse osisID='Lev.13.25'>Und der Priester sieht es, und siehe, das Haar ist auf dem lichten Fleck in Weiß verwandelt und ist tiefer anzusehen als die Haut, so ist es Aussatz, der auf dem Brandmal ausgebrochen ist, und der Priester soll ihn für unrein erklären: es ist das Aussatzmal.</verse>
+        <verse osisID='Lev.13.26'>Und wenn es der Priester sieht, und siehe, es ist an dem lichten Fleck kein weißes Haar, und er ist nicht niedriger als die Haut und ist trübe, so schließe ihn der Priester ein sieben Tage.</verse>
+        <verse osisID='Lev.13.27'>Und sieht ihn der Priester am siebenten Tag, und es hat in der Haut um sich gegriffen<note>umgreifend um sich gegriffen</note>: so erkläre ihn der Priester für unrein. Es ist das Aussatzmal.</verse>
+        <verse osisID='Lev.13.28'>Steht aber der lichte Fleck an derselben Stelle und hat nicht in der Haut um sich gegriffen, und die Erhebung des Brandmals ist trübe geworden, so erkläre der Priester ihn für rein, denn es ist die Entzündung des Brandmals.</verse>
+        <verse osisID='Lev.13.29'>Und hat ein Mann oder ein Weib ein Mal auf dem Kopf oder am Bart:</verse>
+        <verse osisID='Lev.13.30'>Und sieht der Priester das Mal, und siehe, es ist tiefer anzusehen als die Haut, und es ist feines, goldgelbes Haar darin, so erkläre der Priester ihn für unrein: es ist der Nethek<note>Grind</note>, der Aussatz am Kopf oder Bart.</verse>
+        <verse osisID='Lev.13.31'>Und sieht der Priester das Mal des Nethek und siehe, es ist nicht tiefer im Ansehen als die Haut, und ist kein schwarzes Haar darin, so lasse der Priester den mit dem Male des Nethek einschließen sieben Tage.</verse>
+        <verse osisID='Lev.13.32'>Und sieht der Priester das Mal am siebenten Tag, und siehe, der Nethek hat nicht um sich gegriffen, und ist kein goldgelbes Haar darin, und ist der Nethek nicht tiefer im Ansehen als die Haut:</verse>
+        <verse osisID='Lev.13.33'>So soll er sich scheren, den Nethek aber soll er nicht scheren. Und der Priester schließe den mit Nethek Behafteten zum zweiten Male sieben Tage ein.</verse>
+        <verse osisID='Lev.13.34'>Und sieht der Priester den Nethek am siebenten Tage, und siehe, der Nethek hat nicht in der Haut um sich gegriffen, und ist nicht tiefer anzusehen als die Haut ist, so erkläre ihn der Priester für rein. Und er wasche seine Kleider, und ist rein.</verse>
+        <verse osisID='Lev.13.35'>Greift<note>umgreifend um sich greifend</note> aber der Nethek in der Haut um sich, nachdem er für rein erklärt worden ist;</verse>
+        <verse osisID='Lev.13.36'>Und sieht ihn der Priester und siehe, der Nethek hat in der Haut um sich gegriffen, so forsche der Priester nicht nach dem goldgelben Haar. Er ist unrein.</verse>
+        <verse osisID='Lev.13.37'>Wenn aber in seinen Augen der Nethek stille steht, und schwarzes Haar darin sproßt, so ist der Nethek geheilt. Er ist rein und der Priester erkläre ihn für rein.</verse>
+        <verse osisID='Lev.13.38'>Und wenn beim Mann oder beim Weib auf der Haut ihres Fleisches lichte Flecken, weiße lichte Flecken sind;</verse>
+        <verse osisID='Lev.13.39'>Und der Priester sieht sie, und siehe, auf der Haut ihres Fleisches sind trübe, weiße lichte Flecken, so ist es der Bohak<note>gutartiger Ausschlag</note>, der in der Haut ausgebrochen. Er ist rein.</verse>
+        <verse osisID='Lev.13.40'>Und wenn einem Manne die Haare seines Hauptes ausfallen, und er wird ein Kahlkopf, so ist er rein.</verse>
+        <verse osisID='Lev.13.41'>Und wenn einem auf der Seite<note>Ecke</note> seines Angesichts das Haar seines Hauptes ausfällt, und eine Vorderglatze wird, so ist er rein.</verse>
+        <verse osisID='Lev.13.42'>Und wenn in der Hinterglatze oder in der Vorderglatze ein weißrötliches Mal wird, so ist es der Aussatz, der auf seiner Hinterglatze oder seiner Vorderglatze ausgebrochen ist.</verse>
+        <verse osisID='Lev.13.43'>Und sieht ihn der Priester, und siehe, ein weißrötliches Erhebungsmal ist auf seiner Hinterglatze oder seiner Vorderglatze, wie das Ansehen des Aussatzes auf der Haut des Fleisches:</verse>
+        <verse osisID='Lev.13.44'>So ist er ein aussätziger Mann, er ist unrein. Der Priester soll ihn für unrein erklären. Auf seinem Haupte ist sein Mal.</verse>
+        <verse osisID='Lev.13.45'>Und der Aussätzige, an dem das Mal ist, soll aufgerissene Kleider haben, und das Haupt blößen, und bis an den Bart sich einhüllen und Unrein! Unrein! rufen.</verse>
+        <verse osisID='Lev.13.46'>Alle Tage, die das Mal an ihm ist, soll er unrein sein! Unrein ist er. Allein soll er wohnen<note>sitzen</note>. Außerhalb des Lagers soll sein Wohnen<note>sitzen</note> sein.</verse>
+        <verse osisID='Lev.13.47'>Und wenn an einem Kleide das Aussatzmal ist, an einem Kleide von Wolle oder einem Kleide von Linnen,</verse>
+        <verse osisID='Lev.13.48'>Oder am Aufzug<note>Kette, Gewebtes</note>, oder am Einschlag<note>Schuß, Gewirktes</note> von Lein oder von Wolle, oder am Fell oder an irgendeiner Arbeit von Fell;</verse>
+        <verse osisID='Lev.13.49'>Und ist das Mal grünlich oder rötlich am Kleide oder am Fell, oder am Aufzug oder am Einschlag oder an irgendeinem Gerät von Fell, so ist es ein Aussatzmal; und man soll es den Priester sehen lassen.</verse>
+        <verse osisID='Lev.13.50'>Und hat der Priester das Mal gesehen, so lasse er das Mal sieben Tage einschließen.</verse>
+        <verse osisID='Lev.13.51'>Und sieht er das Mal am siebenten Tage, daß das Mal um sich gegriffen hat am Kleide, oder am Aufzug oder am Einschlag oder am Fell, an allem, was aus Fell gemacht wird zur Arbeit, so ist das Mal ein zerfressender Aussatz. Es ist unrein.</verse>
+        <verse osisID='Lev.13.52'>Und er verbrenne das Kleid, oder den Aufzug, oder den Einschlag von Wolle oder von Lein, oder jegliches Gerät von Leder, oder an dem das Mal ist, denn ein zerfressender Aussatz ist es. Es werde im Feuer verbrannt.</verse>
+        <verse osisID='Lev.13.53'>Sieht aber der Priester, und siehe, das Mal hat nicht am Kleide oder am Aufzug oder am Einschlag oder an irgendwelchem ledernen Gerät um sich gegriffen;</verse>
+        <verse osisID='Lev.13.54'>So soll der Priester gebieten, daß man das, an dem das Mal ist, wasche, und soll es andere<note>zweite</note> sieben Tage verschließen.</verse>
+        <verse osisID='Lev.13.55'>Und sieht der Priester, nachdem das Mal gewaschen ist, und siehe, das Mal hat sein Aussehen nicht verwandelt, und das Mal hat nicht weiter um sich gegriffen, so ist es unrein, und du sollst es im Feuer verbrennen. Es ist eingefressen auf der Kehrseite<note>Hinterkahlseite</note> wie auf der rechten Seite.</verse>
+        <verse osisID='Lev.13.56'>Sieht aber der Priester, und siehe, das Mal ist nach dem Waschen trübe, so reiße er es aus dem Kleide oder aus dem Fell oder aus dem Aufzug oder aus dem Einschlag.</verse>
+        <verse osisID='Lev.13.57'>Wird es aber am Kleid oder am Aufzug oder am Einschlag oder an irgendeinem Gerät von Fell wieder gesehen, so ist es ein Ausbruch; dann sollst du das, woran das Mal ist, im Feuer verbrennen.</verse>
+        <verse osisID='Lev.13.58'>Das Kleid aber oder der Aufzug oder der Einschlag oder irgendwelches Gerät von Fell, das du gewaschen hast, und von dem das Mal gewichen ist, soll zum zweitenmal gewaschen werden, und dann ist es rein.</verse>
+        <verse osisID='Lev.13.59'>Dies ist das Gesetz über das Aussatzmal an Kleidern von Wolle oder Lein, oder am Aufzug oder am Einschlag oder an jeglichem Gerät von Fell, es für rein zu erklären oder es unrein zu erklären.</verse>
+      </chapter>
+      <chapter osisID='Lev.14'>
+        <title>Reinigung des Aussatzes an Menschen und Häusern.</title>
+        <verse osisID='Lev.14.1'>Und Jehovah redete zu Mose und sprach:</verse>
+        <verse osisID='Lev.14.2'>Dies ist das Gesetz für den Aussätzigen am Tage seiner Reinigung. Und er werde vor den Priester gebracht.</verse>
+        <verse osisID='Lev.14.3'>Und der Priester gehe hinaus außerhalb des Lagers, und der Priester sehe: und siehe, ist das Aussatzmal geheilt an dem Aussätzigen:</verse>
+        <verse osisID='Lev.14.4'>So gebiete der Priester, daß man für den, der sich reinigen läßt, zwei lebendige, reine Vögel und Zedernholz und Scharlach doppelt gefärbt und Ysop nehme;</verse>
+        <verse osisID='Lev.14.5'>Und der Priester gebiete, daß man einen der Vögel schlachte in ein irdenes Gefäß über lebendigem<note>d.h. fließendem</note> Wasser.</verse>
+        <verse osisID='Lev.14.6'>Und den lebendigen Vogel, den nehme er und das Zederholz und den doppelt gefärbten Scharlach und den Ysop und tauche sie und den lebendigen Vogel in das Blut des Vogels, der über dem lebendigen<note>d.h. fließendem</note> Wasser geschlachtet worden,</verse>
+        <verse osisID='Lev.14.7'>Und spritze davon siebenmal über den, der sich vom Aussatze reinigen läßt, und reinige ihn; und entsende den lebendigen Vogel über das Feld<note>das Angesicht des Feldes</note> hin.</verse>
+        <verse osisID='Lev.14.8'>Und der zu Reinigende wasche seine Kleider und schere all sein Haar ab und bade im Wasser, so ist er rein, und nachher komme er ins Lager, bleibe aber sieben Tage außerhalb seines Zeltes.</verse>
+        <verse osisID='Lev.14.9'>Und am siebenten Tag schere er all sein Haar, sein Haupt und seinen Bart und seine Augenbrauen und all sein Haar schere er; und wasche seine Kleider und bade sein Fleisch im Wasser und er ist rein.</verse>
+        <verse osisID='Lev.14.10'>Und am achten Tage nehme er zwei Lämmer ohne Fehl und ein Mutterlamm ohne Fehl von einem Jahr<note>eine Tochter von einem Jahr</note> und drei Zehntel Semmelmehl als Speiseopfer, mit Öl vermischt, und ein Log Öl.</verse>
+        <verse osisID='Lev.14.11'>Und der reinigende Priester lasse den Mann, der sich reinigen läßt, samt denselben vor Jehovah an den Eingang des Versammlungszeltes stehen.</verse>
+        <verse osisID='Lev.14.12'>Und der Priester nehme das eine Lamm und bringe es dar zum Schuldopfer, und das Log Öl, und webe sie als Webe vor Jehovah;</verse>
+        <verse osisID='Lev.14.13'>Und er schlachte das Lamm an dem Orte, wo man das Sündopfer und das Brandopfer schlachtet, an heiligem Orte; denn wie das Sündopfer ist das Schuldopfer des Priesters; es ist allerheiligst<note>das Heilige des Heiligen</note>.</verse>
+        <verse osisID='Lev.14.14'>Und der Priester nehme von dem Blute des Schuldopfers und der Priester gebe es auf das rechte Ohrläppchen des zu Reinigenden und auf den Daumen seiner rechten Hand und auf die große Zehe seines rechten Fußes.</verse>
+        <verse osisID='Lev.14.15'>Und der Priester nehme von dem Log Öl und gieße in seine linke flache Hand;</verse>
+        <verse osisID='Lev.14.16'>Und tauche der Priester seinen rechten Finger in das Öl, das in seiner linken flachen Hand ist, und spritze mit seinem Finger von dem Öl siebenmal vor Jehovah;</verse>
+        <verse osisID='Lev.14.17'>Und von dem übrigen des Öls aus seiner flachen Hand gebe der Priester dem sich Reinigenden auf das rechte Ohrläppchen und auf den Daumen seiner rechten Hand und auf die große Zehe seines rechten Fußes, auf dem Blute des Schuldopfers;</verse>
+        <verse osisID='Lev.14.18'>Und gebe das übrige von dem Öl, das auf des Priesters flacher Hand ist, auf das Haupt des zu Reinigenden, und der Priester sühne über ihm vor Jehovah.</verse>
+        <verse osisID='Lev.14.19'>Und der Priester mache das Sündopfer und sühne über den sich Reinigenden von seiner Unreinheit, und schlachte hernach das Brandopfer.</verse>
+        <verse osisID='Lev.14.20'>Und der Priester lasse aufgehen das Brandopfer und das Speiseopfer auf dem Altar, und der Priester sühne über ihm, und er ist rein.</verse>
+        <verse osisID='Lev.14.21'>Und wenn er arm ist und seine Hand nicht hinreicht, so nehme er ein Lamm als Schuldopfer zur Webe, über ihm zu sühnen, und ein Zehntel Semmelmehl, mit Öl vermischt, zum Speiseopfer, und ein Log Öl;</verse>
+        <verse osisID='Lev.14.22'>Und zwei Turteltauben oder zwei junge Tauben<note>Söhne einer Taube</note>, wofür seine Hand hinreicht, und eine sei ein Sündopfer und die andere<note>die eine</note> ein Brandopfer.</verse>
+        <verse osisID='Lev.14.23'>Und am achten Tage seiner Reinigung bringe er sie zum Priester an den Eingang des Versammlungszeltes vor Jehovah.</verse>
+        <verse osisID='Lev.14.24'>Und der Priester nehme das Lamm des Schuldopfers und das Log Öl, und der Priester webe sie als Webe vor Jehovah.</verse>
+        <verse osisID='Lev.14.25'>Und er schlachte das Lamm des Schuldopfers, und der Priester nehme von dem Blut des Schuldopfers und gebe es dem sich Reinigenden auf das rechte Ohrläppchen und auf den Daumen seiner rechten Hand, und auf die große Zehe seines rechten Fußes.</verse>
+        <verse osisID='Lev.14.26'>Und von dem Öl gieße der Priester auf des Priesters linke flache Hand,</verse>
+        <verse osisID='Lev.14.27'>Und es spritze der Priester mit seinem rechten Finger siebenmal von dem Öl auf seiner linken flachen Hand vor Jehovah.</verse>
+        <verse osisID='Lev.14.28'>Und der Priester gebe von dem Öl auf seiner flachen Hand auf das rechte Ohrläppchen des zu Reinigenden, und auf den Daumen seiner rechten Hand und auf die große Zehe seines rechten Fußes auf den Ort des Blutes des Schuldopfers.</verse>
+        <verse osisID='Lev.14.29'>Und das übrige von dem Öl auf des Priesters flacher Hand gebe er auf den Kopf des sich Reinigenden, um über ihm zu sühnen vor Jehovah;</verse>
+        <verse osisID='Lev.14.30'>Und opfere<note>mache</note> die eine von den Turteltauben oder von den jungen Tauben<note>Söhne einer Taube</note>, wozu seine Hand reicht;</verse>
+        <verse osisID='Lev.14.31'>Das, wozu seine Hand reicht, die eine als Sündopfer und die andere<note>die eine</note> als Brandopfer, auf dem Speiseopfer; und der Priester sühne über dem sich Reinigenden vor Jehovah.</verse>
+        <verse osisID='Lev.14.32'>Dies ist das Gesetz für den, an dem das Aussatzmal war, und dessen Hand zu seiner Reinigung nicht hinreichte.</verse>
+        <verse osisID='Lev.14.33'>Und Jehovah redete zu Mose und zu Aharon und sprach:</verse>
+        <verse osisID='Lev.14.34'>Wenn ihr zum Land Kanaan kommet, das Ich euch zum Eigentum gebe, und Ich tue<note>gebe</note> das Aussatzmal in ein Haus im Lande eures Eigentums.</verse>
+        <verse osisID='Lev.14.35'>So komme der, dessen das Haus ist, und sage dem Priester an und spreche: Es hat sich mir etwas wie ein Mal im Haus gezeigt.</verse>
+        <verse osisID='Lev.14.36'>Und der Priester gebiete, daß sie das Haus räumen, bevor der Priester kommt, um das Mal zu sehen, auf daß nicht alles im Hause unrein werde; und danach gehe der Priester hinein, das Haus zu sehen.</verse>
+        <verse osisID='Lev.14.37'>Und sieht er das Mal, und siehe, das Mal ist an den Wänden des Hauses: grünliche oder rötliche Vertiefungen, und ihr Ansehen ist niedriger als die Wand;</verse>
+        <verse osisID='Lev.14.38'>So gehe der Priester aus dem Haus an den Eingang des Hauses und verschließe das Haus für sieben Tage.</verse>
+        <verse osisID='Lev.14.39'>Und am siebenten Tage kehre der Priester zurück und sehe es, und siehe, hat das Mal an den Wänden des Hauses um sich gegriffen,</verse>
+        <verse osisID='Lev.14.40'>So gebiete der Priester, die Steine, an denen das Mal ist, herauszuziehen und sie sollen sie hinaus zur Stadt an einen unreinen Ort werfen.</verse>
+        <verse osisID='Lev.14.41'>Und das Haus kratze man von innen ringsum ab und schütte den Staub, den man abgekratzt, außerhalb der Stadt an einen unreinen Ort.</verse>
+        <verse osisID='Lev.14.42'>Und sie sollen andere Steine nehmen und sie an die Stelle der Steine bringen, und man nehme anderen Staub und übertünche das Haus.</verse>
+        <verse osisID='Lev.14.43'>Wenn aber das Mal zurückkehrt und am Hause ausbricht, nachdem man die Steine herausgezogen, und nachdem man das Haus abgekratzt und nachdem man es übertüncht hat;</verse>
+        <verse osisID='Lev.14.44'>Und der Priester kommt und sieht, und siehe, das Mal hat um sich gegriffen im Hause, so ist es ein zerfressender Aussatz im Hause: es ist unrein.</verse>
+        <verse osisID='Lev.14.45'>Und man reiße das Haus ein, seine Steine und seine Hölzer und all den Staub des Hauses, und bringe es hinaus außerhalb der Stadt an einen unreinen Ort.</verse>
+        <verse osisID='Lev.14.46'>Und wer in das Haus hineingeht in all den Tagen, da er es verschlossen hat, soll unrein sein bis zum Abend.</verse>
+        <verse osisID='Lev.14.47'>Und wer in dem Hause liegt, soll seine Kleider waschen; und wer im Hause ißt, soll seine Kleider waschen.</verse>
+        <verse osisID='Lev.14.48'>Kommt<note>kommend kommt</note> aber der Priester und sieht, und siehe, das Mal hat im Hause nicht um sich gegriffen, nachdem das Haus übertüncht worden ist, so erkläre der Priester das Haus für rein, denn das Mal ist geheilt.</verse>
+        <verse osisID='Lev.14.49'>Und er nehme, um das Haus zu entsündigen, zwei Vögel und Zedernholz und Scharlach doppelt gefärbt und Ysop;</verse>
+        <verse osisID='Lev.14.50'>Und schlachte den einen Vogel in ein irdenes Gefäß über lebendigem<note>d.h. fließendem</note> Wasser,</verse>
+        <verse osisID='Lev.14.51'>Und nehme das Zedernholz und den Ysop und den doppelt gefärbten Scharlach und den lebendigen Vogel und tauche sie in das Blut des geschlachteten Vogels und in die lebendigen Wasser und spritze siebenmal gegen das Haus;</verse>
+        <verse osisID='Lev.14.52'>Und entsündige das Haus mit dem Blut des Vogels und mit dem lebendigen Wasser und mit dem lebendigen Vogel und mit dem Zedernholz und mit dem Ysop und mit dem doppelt gefärbten Scharlach.</verse>
+        <verse osisID='Lev.14.53'>Und den lebendigen Vogel entsende er hinaus aus der Stadt über das Feld hin<note>das Angesicht des Feldes</note>, und sühne über dem Haus; und es ist rein;</verse>
+        <verse osisID='Lev.14.54'>Dies ist das Gesetz für alles Aussatzmal und den Nethek<note>Grind</note>;</verse>
+        <verse osisID='Lev.14.55'>Und für den Aussatz am Kleide und am Hause.</verse>
+        <verse osisID='Lev.14.56'>Und über die Geschwulst<note>Erhebung</note>, den Schorf und den lichten Fleck.</verse>
+        <verse osisID='Lev.14.57'>Zu unterweisen über den Tag, da man unrein, und den Tag, da man rein ist. Das ist das Gesetz von dem Aussatz.</verse>
+      </chapter>
+      <chapter osisID='Lev.15'>
+        <title>Unreinheit durch Schleimfluß, Blutfluß, Befleckung und Beischlaf.</title>
+        <verse osisID='Lev.15.1'>Und Jehovah redete zu Mose und zu Aharon und sprach:</verse>
+        <verse osisID='Lev.15.2'>Redet zu den Söhnen Israels und saget ihnen: Jeder Mann<note>ein Mann, ein Mann</note> der einen Fluß hat aus seinem Fleische, der ist durch seinen Fluß unrein.</verse>
+        <verse osisID='Lev.15.3'>Und dies soll seine Unreinheit von seinem Flusse sein: Schleimet sein Fleisch von seinem Flusse oder ist sein Fleisch verstopft<note>versiegelt</note> von seinem Flusse, so ist es seine Unreinheit.</verse>
+        <verse osisID='Lev.15.4'>Alles Lager, auf dem der Flüssige liegt, soll unrein sein; und jegliches Gerät, auf dem er sitzt soll unrein sein.</verse>
+        <verse osisID='Lev.15.5'>Und der Mann, der sein Lager berührt, soll seine Kleider waschen und sich im Wasser baden, und ist bis an den Abend unrein.</verse>
+        <verse osisID='Lev.15.6'>Und wer auf einem Gerät sitzt, auf dem der Flüssige gesessen, der soll seine Kleider waschen und sich im Wasser baden, und bis zum Abend unrein sein.</verse>
+        <verse osisID='Lev.15.7'>Und wer das Fleisch des Flüssigen berührt, soll seine Kleider waschen und sich im Wasser baden und soll unrein sein bis zum Abend.</verse>
+        <verse osisID='Lev.15.8'>Und wenn der Flüssige auf den Reinen spuckt, so soll dieser seine Kleider waschen und sich im Wasser baden und unrein sein bis zum Abend.</verse>
+        <verse osisID='Lev.15.9'>Und jeglicher Wagen, in dem der Flüssige fährt, soll unrein sein.</verse>
+        <verse osisID='Lev.15.10'>Und jeder, der irgend etwas berührt, das er unter sich hatte, soll unrein sein bis zum Abend. Und der sie trägt, wasche seine Kleider und bade sich im Wasser, und ist unrein bis an den Abend.</verse>
+        <verse osisID='Lev.15.11'>Und jeder, den der Flüssige berührt und seine Hände nicht im Wasser abgespült hatte, soll seine Kleider waschen und sich im Wasser baden und unrein sein bis zum Abend.</verse>
+        <verse osisID='Lev.15.12'>Und das irdene Gefäß, das der Flüssige berührt, soll zerbrochen, und jedes hölzerne Gefäß soll ausgespült werden im Wasser.</verse>
+        <verse osisID='Lev.15.13'>Und so der Flüssige rein wird von seinem Flusse, soll er sieben Tage zählen von seiner Reinigung an, und seine Kleider waschen und sein Fleisch in fließendem<note>lebendigem</note> Wasser baden, und er ist rein.</verse>
+        <verse osisID='Lev.15.14'>Und am achten Tage nehme er für sich zwei Turteltauben oder zwei junge Tauben<note>Söhne der Taube</note> und komme vor das Angesicht Jehovahs zum Eingang des Versammlungszeltes und gebe sie dem Priester.</verse>
+        <verse osisID='Lev.15.15'>Und der Priester mache die eine als Sündopfer und die andere<note>die eine</note> als Brandopfer, und der Priester sühne über ihm vor Jehovah von seinem Flusse.</verse>
+        <verse osisID='Lev.15.16'>Und der Mann, von dem ein Samenerguß ausgeht, bade sein ganzes Fleisch im Wasser, und ist unrein bis an den Abend.</verse>
+        <verse osisID='Lev.15.17'>Und jegliches Kleid und jegliches Fell, auf dem von dem Samenerguß ist, werde im Wasser gewaschen, und ist unrein bis zum Abend.</verse>
+        <verse osisID='Lev.15.18'>Und das Weib, mit dem ein Mann liegt, und der Samen sich ergießt: sie sollen sich im Wasser baden, und sind unrein bis auf den Abend.</verse>
+        <verse osisID='Lev.15.19'>Und so ein Weib flüssig ist, so sie ihren Fluß von Blut hat an ihrem Fleische, soll sie sieben Tage in ihrer Abgeschiedenheit sein, und jeder, der sie berührt, sei unrein bis an den Abend.</verse>
+        <verse osisID='Lev.15.20'>Und alles, worauf sie liegt in ihrer Abgeschiedenheit, ist unrein, und alles, worauf sie sitzt, ist unrein.</verse>
+        <verse osisID='Lev.15.21'>Und jeder, der ihr Lager berührt, soll seine Kleider waschen und sich im Wasser baden, und ist unrein bis auf den Abend.</verse>
+        <verse osisID='Lev.15.22'>Und jeder, der irgendein Gerät berührt, auf dem sie sitzt, soll seine Kleider waschen und sich im Wasser baden, und ist bis zum Abend unrein.</verse>
+        <verse osisID='Lev.15.23'>Und wenn es auf dem Lager ist oder an dem Gerät, auf dem sie saß, da er es berührt, soll er unrein sein bis zum Abend.</verse>
+        <verse osisID='Lev.15.24'>Und wenn ein Mann bei ihr liegt<note>liegend liegt</note> und von ihrer Befleckung<note>Abgeschiedenheit</note> an ihm ist, so ist er sieben Tage unrein, und das ganze Lager, auf dem er lag, ist unrein.</verse>
+        <verse osisID='Lev.15.25'>Und wenn einem Weib ihr Blutfluß viele Tage fließt außer der Zeit ihrer Abgeschiedenheit oder derselbe fließt über die Zeit ihrer Abgeschiedenheit hinaus, soll sie alle Tage des Flusses ihrer Unreinheit wie in den Tagen ihrer Abgeschiedenheit unrein sein.</verse>
+        <verse osisID='Lev.15.26'>Alles Lager, worauf sie liegt alle Tage ihres Flusses, sei ihr wie das Lager ihrer Abgeschiedenheit, und alles Gerät, worauf sie sitzt, sei unrein, wie die Unreinheit ihrer Abgeschiedenheit.</verse>
+        <verse osisID='Lev.15.27'>Und jeder, der das anrührt, wird unrein und soll seine Kleider waschen und sich im Wasser baden und unrein sein bis zum Abend.</verse>
+        <verse osisID='Lev.15.28'>Und wird sie rein von ihrem Flusse, so soll sie sich sieben Tage zählen, und nachher ist sie rein.</verse>
+        <verse osisID='Lev.15.29'>Und am achten Tage nehme sie für sich zwei Turteltauben oder zwei junge Tauben<note>Söhne einer Taube</note> und bringe sie zum Priester zum Eingang des Versammlungszeltes.</verse>
+        <verse osisID='Lev.15.30'>Und der Priester bereite<note>mache</note> die eine als Sündopfer und die andere<note>die eine</note> als Brandopfer, und der Priester sühne über ihr vor Jehovah von dem Flusse ihrer Unreinheit.</verse>
+        <verse osisID='Lev.15.31'>Und ihr sollt die Söhne Israel absondern von ihrer Unreinheit, auf daß sie nicht sterben in ihrer Unreinheit, indem sie verunreinigen Meine Wohnung in ihrer Mitte.</verse>
+        <verse osisID='Lev.15.32'>Dies ist das Gesetz für den Flüssigen und von dem Samenerguß ausgeht und der dadurch unrein wird.</verse>
+        <verse osisID='Lev.15.33'>Und für die, so krank ist in ihrer Abgeschiedenheit und für dasjenige, das am Flusse leidet, männlich oder weiblich, und für den Mann, der bei einer Unreinen liegt.</verse>
+      </chapter>
+      <chapter osisID='Lev.16'>
+        <title>Das Sühnungsfest.</title>
+        <verse osisID='Lev.16.1'>Und Jehovah redete zu Mose nach dem Tode der zwei Söhne Aharons, die sich vor Jehovah nahten und starben.</verse>
+        <verse osisID='Lev.16.2'>Und Jehovah sprach zu Mose: Rede zu Aharon, deinem Bruder, daß er nicht zu jeder Zeit eingehe in das Heiligtum innerhalb des Vorhangs vor den Gnadenstuhl<note>vor das Angesicht des Gnadenstuhls</note>, der auf der Lade ist, auf daß er nicht sterbe; denn in der Wolke erscheine Ich auf dem Gnadenstuhl.</verse>
+        <verse osisID='Lev.16.3'>So soll Aharon eingehen in das Heiligtum: mit einem jungen Farren<note>einem Farren, dem Sohn eines Rindes</note> zum Sündopfer und einem Widder zum Brandopfer.</verse>
+        <verse osisID='Lev.16.4'>Einen Leibrock der Heiligkeit von Lein soll er anziehen, und linnene Beinkleider über seinem Fleische haben, und mit einem linnenen Gürtel sich gürten, und eine linnene Tiara sich umwinden. Kleider der Heiligkeit sind es. Und er soll sein Fleisch im Wasser baden, und sie anziehen.</verse>
+        <verse osisID='Lev.16.5'>Und von der Gemeinde der Söhne Israels soll er zwei Ziegenböcke zum Sündopfer und einen Widder zum Brandopfer nehmen.</verse>
+        <verse osisID='Lev.16.6'>Und Aharon bringe den Farren des Sündopfers dar, der für ihn ist, und sühne für sich und für sein Haus;</verse>
+        <verse osisID='Lev.16.7'>Und nehme die zwei Böcke und lasse sie vor Jehovah am Eingang des Versammlungszeltes stehen.</verse>
+        <verse osisID='Lev.16.8'>Und Aharon gebe Lose über die zwei Böcke; ein Los für Jehovah und das andere<note>das eine</note> Los für Asasel.</verse>
+        <verse osisID='Lev.16.9'>Und Aharon bringe den Bock dar, auf den das Los für Jehovah aufkam und mache ihn als Sündopfer.</verse>
+        <verse osisID='Lev.16.10'>Und der Bock, auf den das Los für Asasel aufkam, soll lebendig vor Jehovah stehen, um über ihm zu sühnen, und ihn dann für Asasel in die Wüste zu entsenden.</verse>
+        <verse osisID='Lev.16.11'>Und Aharon bringe den Farren des Sündopfers dar, der für ihn ist, und sühne für sich und für sein Haus, und schlachte den Farren des Sündopfers, der für ihn ist;</verse>
+        <verse osisID='Lev.16.12'>Und nehme eine Rauchpfanne voll Kohlen des Feuers vom Altar vor Jehovah und seine Hände<note>Fäuste</note> voll zerstoßenes<note>zermalmtes</note> Räuchwerk von Spezereien und bringe sie innerhalb des Vorhangs;</verse>
+        <verse osisID='Lev.16.13'>Und gebe das Räuchwerk auf das Feuer vor Jehovah, auf daß die Wolke des Räuchwerks den Gnadenstuhl über dem Zeugnis bedecke und er nicht sterbe.</verse>
+        <verse osisID='Lev.16.14'>Und er nehme von dem Blute des Farren und spritze mit seinem Finger vor dem Gnadenstuhl gegen Osten und vor den Gnadenstuhl hin spritze er mit seinem Finger siebenmal von dem Blut.</verse>
+        <verse osisID='Lev.16.15'>Und er schlachte den Bock des Sündopfers, der für das Volk ist, und bringe sein Blut innerhalb des Vorhangs und tue mit seinem Blut, wie er mit dem Blute des Farren getan, und spritze es auf den Gnadenstuhl und vor den Gnadenstuhl.</verse>
+        <verse osisID='Lev.16.16'>Und sühne so über dem Heiligtum wegen der Unreinheiten der Söhne Israels und wegen ihrer Übertretungen nach allen ihren Sünden, und so tue er dem Versammlungszelt, das bei ihnen mitten unter ihren Unreinheiten wohnt.</verse>
+        <verse osisID='Lev.16.17'>Und kein Mensch soll sein im Versammlungszelt, wenn er hineingeht, zu sühnen in dem Heiligtum, bis er herauskommt, und er sühne für sich und für sein Haus und für die ganze Versammlung Israels.</verse>
+        <verse osisID='Lev.16.18'>Und er komme heraus an den Altar, der vor Jehovah ist, und sühne über ihm, und nehme von dem Blut des Farren und von dem Blut des Bockes und gebe es auf die Hörner des Altars ringsum.</verse>
+        <verse osisID='Lev.16.19'>Und er spritze darauf von dem Blute mit seinem Finger siebenmal; und er reinige ihn und heilige ihn von den Unreinheiten der Söhne Israels.</verse>
+        <verse osisID='Lev.16.20'>Und hat er vollendet zu sühnen das Heiligtum und das Versammlungszelt und den Altar, so bringe er den lebendigen Ziegenbock dar;</verse>
+        <verse osisID='Lev.16.21'>Und Aharon lege<note>lehne</note> seine beiden Hände auf den Kopf des lebendigen Bockes, und bekenne über ihm alle Missetaten der Söhne Israels und alle ihre Übertretungen nach ihren Sünden, und lege<note>gebe</note> sie auf den Kopf des Bockes, und entsende ihn durch die Hand eines Mannes, der bereit ist, in die Wüste.</verse>
+        <verse osisID='Lev.16.22'>Und der Bock trage auf sich alle ihre Missetaten in ein abgeschnittenes Land; und er entsende den Bock in die Wüste.</verse>
+        <verse osisID='Lev.16.23'>Und Aharon gehe ein zum Versammlungszelt, und ziehe die linnenen Kleider aus, die er angezogen, als er in das Heiligtum einging, und lege sie daselbst nieder.</verse>
+        <verse osisID='Lev.16.24'>Und er bade sein Fleisch im Wasser an heiligem Orte, und ziehe seine Kleider an, und komme heraus und mache seine Brandopfer und das Brandopfer des Volkes, und sühne für sich und für das Volk.</verse>
+        <verse osisID='Lev.16.25'>Und das Fett des Sündopfers zünde er auf dem Altar an.</verse>
+        <verse osisID='Lev.16.26'>Der aber den Bock zu Asasel entsandte, soll seine Kleider waschen und sein Fleisch im Wasser baden und danach komme er zum Lager.</verse>
+        <verse osisID='Lev.16.27'>Und den Farren des Sündopfers und den Bock des Sündopfers, deren Blut hineingebracht worden war, um im Heiligtum zu sühnen, bringe er hinaus außerhalb des Lagers, und lasse ihre Häute und ihr Fleisch und ihren Mist im Feuer verbrennen.</verse>
+        <verse osisID='Lev.16.28'>Und der sie verbrennt, soll seine Kleider waschen und sein Fleisch im Wasser baden und danach komme er zum Lager.</verse>
+        <verse osisID='Lev.16.29'>Und es sei euch zu ewiger Satzung: Im siebenten Monat, im zehnten des Monats sollet ihr eure Seelen demütigen und keinerlei Arbeit tun, weder der Eingeborene, noch der Fremdling, der in eurer Mitte sich aufhält.</verse>
+        <verse osisID='Lev.16.30'>Denn an diesem Tage wird er über euch sühnen, um euch zu reinigen von allen euren Sünden. Vor Jehovah sollt ihr rein werden.</verse>
+        <verse osisID='Lev.16.31'>Ein Sabbath der Sabbathe sei es euch, und ihr sollt eure Seelen demütigen. Eine ewige Satzung sei es!</verse>
+        <verse osisID='Lev.16.32'>Und es sühne der Priester, den man salben und dessen Hand man füllen wird, um an seines Vaters Statt den Priesterdienst zu tun; und er soll die linnenen Kleider anziehen, die Kleider der Heiligkeit.</verse>
+        <verse osisID='Lev.16.33'>Und er sühne das Allerheiligste<note>das Heilige des Heiligen</note>, und das Versammlungszelt; und den Altar soll er sühnen, und die Priester und das ganze Volk der Versammlung soll er sühnen.</verse>
+        <verse osisID='Lev.16.34'>Und ewige Satzung sei das euch, einmal im Jahr die Söhne Israels wegen aller ihrer Sünden zu sühnen. Und er tat, wie Jehovah Mose geboten hatte.</verse>
+      </chapter>
+      <chapter osisID='Lev.17'>
+        <title>Ort der Opfer. - Verbot, Blut und Aas zu essen.</title>
+        <verse osisID='Lev.17.1'>Und Jehovah redete zu Mose und sprach:</verse>
+        <verse osisID='Lev.17.2'>Rede zu Aharon und zu seinen Söhnen und zu allen Söhnen Israels und sprich zu ihnen: Dies ist das Wort, das Jehovah geboten hat und gesagt:</verse>
+        <verse osisID='Lev.17.3'>Jeder Mann<note>der Mann der Mann</note> vom Haus Israel, der einen Ochsen oder ein Schaf oder eine Ziege im Lager schlachtet, oder der sie außerhalb des Lagers schlachtet,</verse>
+        <verse osisID='Lev.17.4'>Und es nicht zum Eingang des Versammlungszeltes bringt, um es Jehovah vor der Wohnung Jehovahs als Opfergabe darzubringen, dem Manne wird es als Blutschuld gedacht; er hat Blut vergossen; und selbiger Mann soll aus der Mitte seines Volkes ausgerottet werden;</verse>
+        <verse osisID='Lev.17.5'>Auf daß die Söhne Israels ihre Opfer, die sie auf dem Angesichte des Feldes opfern, herbeibringen dem Jehovah, zum Eingang des Versammlungszeltes zu dem Priester bringen, und sie Jehovah als Dankopfer opfern.</verse>
+        <verse osisID='Lev.17.6'>Und der Priester sprenge das Blut auf Jehovahs Altar am Eingang des Versammlungszeltes und zünde das Fett an zum Geruch der Ruhe für Jehovah.</verse>
+        <verse osisID='Lev.17.7'>Und sie sollen nicht ferner ihre Opfer opfern den Dämonen<note>Böcken</note>, denen sie nachbuhlen. Dies sei ihnen eine ewige Satzung für ihre Geschlechter.</verse>
+        <verse osisID='Lev.17.8'>Und sage ihnen: Welcher Mann<note>der Mann der Mann</note> aus dem Hause Israels und von den Fremdlingen, die in eurer Mitte sich aufhalten, ein Brandopfer oder Schlachtopfer aufgehen läßt,</verse>
+        <verse osisID='Lev.17.9'>Und es nicht zum Eingang des Versammlungszeltes bringt, um es allda dem Jehovah zu opfern<note>machen</note>, der Mann werde aus seinem Volke ausgerottet.</verse>
+        <verse osisID='Lev.17.10'>Und welcher Mann<note>der Mann der Mann</note> vom Hause Israels und von den Fremdlingen, die in eurer Mitte sich aufhalten, irgend Blut ißt, wider die Seele, die Blut ißt, werde Ich Mein Angesicht richten<note>geben</note>, und sie ausrotten aus der Mitte ihres Volkes;</verse>
+        <verse osisID='Lev.17.11'>Denn die Seele des Fleisches ist in dem Blute, und darum habe Ich sie euch auf den Altar gegeben, um über eure Seelen zu sühnen, weil das Blut es ist, das für die Seele sühnt.</verse>
+        <verse osisID='Lev.17.12'>Deshalb sprach Ich zu den Söhnen Israels: Keine Seele unter euch soll Blut essen; und der Fremdling, der in eurer Mitte sich aufhält, soll kein Blut essen.</verse>
+        <verse osisID='Lev.17.13'>Und welcher Mann<note>der Mann, der Mann</note> von den Söhnen Israels und von den Fremdlingen, die in eurer Mitte sich aufhalten, ein lebendiges Tier erjagt, oder einen Vogel, der gegessen wird, der gieße sein Blut aus und decke es mit Staub zu.</verse>
+        <verse osisID='Lev.17.14'>Denn die Seele alles Fleisches ist sein Blut; es ist für seine Seele. Und Ich sage den Söhnen Israels: Das Blut alles Fleisches sollt ihr nicht essen; denn die Seele alles Fleisches ist sein Blut. Jeder, der es ißt, soll ausgerottet werden.</verse>
+        <verse osisID='Lev.17.15'>Und jede Seele, Eingeborener oder Fremdling, der ein Aas oder Zerfleischtes ißt, soll seine Kleider waschen und sich im Wasser baden, und unrein sein bis zum Abend. Dann ist er rein.</verse>
+        <verse osisID='Lev.17.16'>Und wäscht er sie nicht und badet sein Fleisch nicht, so trage er seine Missetat.</verse>
+      </chapter>
+      <chapter osisID='Lev.18'>
+        <title>Ehelichung von Blutsverwandten. - Unzucht.</title>
+        <verse osisID='Lev.18.1'>Und Jehovah redete zu Mose und sprach:</verse>
+        <verse osisID='Lev.18.2'>Rede zu den Söhnen Israels und sprich zu ihnen: Ich bin Jehovah, euer Gott.</verse>
+        <verse osisID='Lev.18.3'>Nach dem Tun des Landes Ägypten, in dem ihr gewohnt<note>gesessen</note>, sollt ihr nicht tun, und nach dem Tun des Landes Kanaan, dahin Ich euch bringen werde, sollt ihr nicht tun, und in ihren Satzungen sollt ihr nicht wandeln.</verse>
+        <verse osisID='Lev.18.4'>Meine Rechte sollt ihr tun und Meine Satzungen halten, um in ihnen zu wandeln. Ich bin Jehovah, euer Gott.</verse>
+        <verse osisID='Lev.18.5'>Und Meine Satzungen und Rechte sollt ihr halten. Der Mensch, der sie tut, der wird leben in ihnen. Ich bin Jehovah.</verse>
+        <verse osisID='Lev.18.6'>Kein Mann<note>der Mann, der Mann</note> soll seiner Fleischesverwandten nahen, ihre Blöße aufzudecken. Ich bin Jehovah.</verse>
+        <verse osisID='Lev.18.7'>Die Blöße deines Vaters und die Blöße deiner Mutter sollst du nicht aufdecken. Deine Mutter ist sie. Du sollst nicht aufdecken ihre Blöße.</verse>
+        <verse osisID='Lev.18.8'>Die Blöße von deines Vaters Weib sollst du nicht aufdecken: Es ist die Blöße deines Vaters.</verse>
+        <verse osisID='Lev.18.9'>Die Blöße deiner Schwester, der Tochter deines Vaters oder der Tochter deiner Mutter, sei sie im Hause geboren oder draußen geboren, ihre Blöße sollst du nicht aufdecken.</verse>
+        <verse osisID='Lev.18.10'>Die Blöße der Tochter deines Sohnes oder der Tochter deiner Tochter, ihre Blöße sollst du nicht aufdecken; denn sie sind deine Blöße.</verse>
+        <verse osisID='Lev.18.11'>Die Blöße der Tochter von deines Vaters Weib, die deinem Vater geboren ist, - sie ist deine Schwester - ihre Blöße sollst du nicht aufdecken.</verse>
+        <verse osisID='Lev.18.12'>Die Blöße der Schwester deines Vaters sollst du nicht aufdecken: sie ist die Verwandte deines Vaters.</verse>
+        <verse osisID='Lev.18.13'>Du sollst die Blöße der Schwester deiner Mutter nicht aufdecken, denn sie ist die Verwandte deiner Mutter.</verse>
+        <verse osisID='Lev.18.14'>Du sollst die Blöße des Bruders deines Vaters nicht aufdecken, sollst seinem Weibe nicht nahen; denn sie ist deine Tante.</verse>
+        <verse osisID='Lev.18.15'>Du sollst die Blöße deiner Schwiegertochter nicht aufdecken: sie ist deines Sohnes Weib. Du sollst ihre Blöße nicht aufdecken.</verse>
+        <verse osisID='Lev.18.16'>Du sollst die Blöße von deines Bruders Weib nicht aufdecken; denn es ist die Blöße deines Bruders.</verse>
+        <verse osisID='Lev.18.17'>Decke nicht auf die Blöße eines Weibes und ihrer Tochter; die Tochter ihres Sohnes und die Tochter ihrer Tochter sollst du nicht nehmen, ihre Blöße aufzudecken. Sie sind Verwandte. Es ist eine Schandtat.</verse>
+        <verse osisID='Lev.18.18'>Und du sollst nicht ein Weib zu ihrer Schwester nehmen, sie zu bedrängen und ihre Blöße aufzudecken neben ihr bei ihrem Leben.</verse>
+        <verse osisID='Lev.18.19'>Und einem Weibe in der Abgeschiedenheit ihrer Unreinheit sollst du nicht nahen, ihre Blöße aufzudecken.</verse>
+        <verse osisID='Lev.18.20'>Du sollst nicht deines Nächsten<note>Mitmenschen</note> Weib Samenerguß geben und unrein werden durch sie.</verse>
+        <verse osisID='Lev.18.21'>Du sollst nicht von deinem Samen geben, ihn dem Moloch durchziehen zu lassen, auf daß du nicht den Namen deines Gottes entweihst: Ich bin Jehovah.</verse>
+        <verse osisID='Lev.18.22'>Und bei dem Männlichen sollst du nicht liegen, wie man beim Weibe liegt: ein Greuel ist es.</verse>
+        <verse osisID='Lev.18.23'>Und du sollst deinen Erguß keinem Vieh geben, und dich damit verunreinigen. Und kein Weib soll vor dem Vieh stehen, sich mit ihm zu begatten. Eine Besudelung ist es.</verse>
+        <verse osisID='Lev.18.24'>Verunreinigt euch mit keinerlei davon; denn mit allem dem verunreinigten sich die Völkerschaften, die Ich vor euch her fortsende.</verse>
+        <verse osisID='Lev.18.25'>Und das Land ist unrein geworden, und Ich habe ihre Missetat an ihm heimgesucht, so daß das Land seine Einwohner ausspeit.</verse>
+        <verse osisID='Lev.18.26'>Und haltet Meine Satzungen und Meine Rechte, und tut keinen dieser Greuel, weder Eingeborene, noch der Fremdling, der in eurer Mitte sich aufhält.</verse>
+        <verse osisID='Lev.18.27'>Denn alle diese Greuel taten die Männer des Landes, das vor euch ist; und das Land ist verunreinigt.</verse>
+        <verse osisID='Lev.18.28'>Auf daß euch nicht ausspeie das Land, darum, daß ihr es verunreinigt, wie es die Völkerschaft ausspie, die vor euch gewesen.</verse>
+        <verse osisID='Lev.18.29'>Denn jeder, der einen dieser Greuel tut, die Seelen, die solches tun, sollen aus ihres Volkes Mitte ausgerottet werden.</verse>
+        <verse osisID='Lev.18.30'>Und ihr sollt halten Meine Vorschrift, daß ihr nach keiner der greulichen Satzungen tut, die vor euch getan worden sind, und ihr dadurch verunreinigt werdet. Ich bin Jehovah, euer Gott.</verse>
+      </chapter>
+      <chapter osisID='Lev.19'>
+        <title>Weitere Gesetze.</title>
+        <verse osisID='Lev.19.1'>Und Jehovah redete zu Mose und sprach:</verse>
+        <verse osisID='Lev.19.2'>Rede zu der ganzen Gemeinde der Söhne Israels und sprich zu ihnen: Ihr sollt heilig sein; denn Ich, Jehovah, euer Gott, bin heilig.</verse>
+        <verse osisID='Lev.19.3'>Der Mann fürchte seine Mutter und seinen Vater. Und ihr sollt Meine Sabbathe halten: Ich bin Jehovah, euer Gott.</verse>
+        <verse osisID='Lev.19.4'>Wendet euch nicht zu Götzen, und machet euch nicht gegossene Götter. Ich, Jehovah, bin euer Gott.</verse>
+        <verse osisID='Lev.19.5'>Und so ihr Jehovah ein Dankopfer opfert, sollt ihr es opfern, daß ihr wohlgefallet.</verse>
+        <verse osisID='Lev.19.6'>Am Tage, da ihr opfert, soll davon gegessen werden, und am morgenden, was aber bis zum dritten Tage übrig ist, soll im Feuer verbrannt werden.</verse>
+        <verse osisID='Lev.19.7'>Und so man es am dritten Tage ißt<note>essend ißt</note>, ist es ein Abscheu und nicht wohlgefällig.</verse>
+        <verse osisID='Lev.19.8'>Und der es ißt, trägt seine Missetat, weil er das Heilige Jehovahs entweiht hat, und solche Seele soll aus ihrem Volke ausgerottet werden.</verse>
+        <verse osisID='Lev.19.9'>Und wenn ihr die Ernte von eurem Lande einerntet, sollst du nicht die Ecken deines Feldes ganz einernten<note>vollenden einzuernten</note>, auch nicht die Nachlese von deiner Ernte auflesen.</verse>
+        <verse osisID='Lev.19.10'>Und auf deinem Weinberg sollst du nicht nachlesen und das Zerstreute auf deinem Weinberg nicht auflesen; dem Elenden und dem Fremdling lasse es: Ich, Jehovah, bin dein Gott.</verse>
+        <verse osisID='Lev.19.11'>Ihr sollt nicht stehlen und nicht trügen und lügen der Mann gegen seinen Nächsten<note>Mitmenschen</note>.</verse>
+        <verse osisID='Lev.19.12'>Und ihr sollet nicht zur Lüge schwören bei Meinem Namen, so daß du den Namen deines Gottes entweihst. Ich bin Jehovah.</verse>
+        <verse osisID='Lev.19.13'>Du sollst deinen Genossen nicht bedrükken, noch ihm etwas entreißen; und der Arbeitslohn des Lohnarbeiters soll nicht bei dir über Nacht bleiben bis zum Morgen.</verse>
+        <verse osisID='Lev.19.14'>Dem Tauben sollst du nicht fluchen, und vor den Blinden keinen Anstoß legen<note>geben</note>, und dich vor deinem Gotte fürchten: Ich bin Jehovah.</verse>
+        <verse osisID='Lev.19.15'>Ihr sollt nichts Verkehrtes tun beim Richten, nicht das Angesicht des Armen erheben, noch das Angesicht des Großen ehren: gerecht sollst du deinen Nächsten<note>Mitmenschen</note> richten.</verse>
+        <verse osisID='Lev.19.16'>Gehe nicht umher als Zwischenträger unter deinem Volke, und stehe nicht nach dem Blute deines Genossen. Ich bin Jehovah.</verse>
+        <verse osisID='Lev.19.17'>Du sollst deinen Bruder nicht hassen in deinem Herzen, sondern sollst deinen Nächsten<note>Mitmenschen</note> rügen<note>rügend rügen</note>, daß du darob keine Sünde tragest.</verse>
+        <verse osisID='Lev.19.18'>Du sollst dich nicht rächen und den Söhnen deines Volkes nichts nachtragen, und sollst deinen Genossen lieben, wie dich selbst. Ich bin Jehovah.</verse>
+        <verse osisID='Lev.19.19'>Meine Satzungen sollet ihr halten: Laß nicht zweierlei Vieh sich begatten; säe nicht zweierlei auf dein Feld, und ein Kleid, aus zweierlei Stoffen gewebt, komme nicht auf dich.</verse>
+        <verse osisID='Lev.19.20'>Und wenn ein Mann bei einem Weibe liegt mit Samenerguß, und es ist eine Dienstmagd, einem Manne hingegeben, aber noch nicht eingelöst, noch ihr Freiheit gegeben, so soll das gezüchtigt werden; sie sollen aber nicht getötet werden; denn sie war nicht frei.</verse>
+        <verse osisID='Lev.19.21'>Und er bringe für seine Schuld dem Jehovah am Eingang des Versammlungszeltes einen Widder zum Schuldopfer.</verse>
+        <verse osisID='Lev.19.22'>Und der Priester sühne über ihm mit dem Widder des Schuldopfers vor Jehovah ob der Sünde, die er gesündigt; auf daß die Sünde, die er gesündigt, ihm verziehen werde.</verse>
+        <verse osisID='Lev.19.23'>Und so ihr in das Land kommet und allerlei Fruchtbäume<note>Bäume der Speise</note> pflanzet, so beschneidet<note>bevorhäutet</note> die Vorhaut ihrer Frucht. Drei Jahre sollen sie euch unbeschnitten sein und soll nicht von ihnen gegessen werden.</verse>
+        <verse osisID='Lev.19.24'>Und im vierten Jahre sei all seine Frucht Heiligkeit zum Lobe Jehovahs.</verse>
+        <verse osisID='Lev.19.25'>Und im fünften Jahre sollt ihr seine Frucht essen, daß ihr seinen Ertrag für euch einsammelt. Ich, Jehovah, bin euer Gott.</verse>
+        <verse osisID='Lev.19.26'>Ihr sollet nichts mit Blut essen; sollt nicht Beschwörungen noch Wolkendeuterei treiben.</verse>
+        <verse osisID='Lev.19.27'>Ihr sollt den Rand<note>die Ecke</note> eures Haupthaares<note>Hauptes</note> nicht rund abschneiden, noch die Ecke eures Bartes verderben.</verse>
+        <verse osisID='Lev.19.28'>Und ihr sollt um einer Seele willen euch keine Einschnitte in euer Fleisch machen<note>geben</note>, noch euch Einätzung geben einer Schrift. Ich bin Jehovah.</verse>
+        <verse osisID='Lev.19.29'>Entweihe nicht deine Tochter, sie buhlen zu lassen, auf daß nicht das Land buhle und das Land voller Schandtat werde.</verse>
+        <verse osisID='Lev.19.30'>Meine Sabbathe sollt ihr halten, und Mein Heiligtum fürchten. Ich bin Jehovah.</verse>
+        <verse osisID='Lev.19.31'>Wendet euch nicht zu den Geisterbannern und Zeichendeutern. Befraget sie nicht, auf daß ihr nicht durch sie verunreinigt werdet. Ich, Jehovah, bin euer Gott.</verse>
+        <verse osisID='Lev.19.32'>Vor einem Greisen sollst du aufstehen, und des Alten Angesicht ehren, und dich vor deinem Gotte fürchten. Ich bin Jehovah.</verse>
+        <verse osisID='Lev.19.33'>Und wenn ein Fremdling bei dir in deinem Lande sich aufhält, so sollt ihr ihn nicht bedrücken.</verse>
+        <verse osisID='Lev.19.34'>Wie der Eingeborene unter euch sei euch der Fremdling, der bei euch sich aufhält. Und du sollst ihn lieben, wie dich selbst; denn Fremdlinge seid ihr in Ägyptenland gewesen. Ich, Jehovah, bin euer Gott.</verse>
+        <verse osisID='Lev.19.35'>Tut nicht Verkehrtes im Gericht, im Längenmaß, im Gewicht und im Hohlmaß.</verse>
+        <verse osisID='Lev.19.36'>Waagen der Gerechtigkeit, Gewichtsteine der Gerechtigkeit, ein Epha der Gerechtigkeit, ein Hin der Gerechtigkeit sollt ihr haben: Ich bin Jehovah, euer Gott, Der euch aus Ägyptenland herausbrachte.</verse>
+        <verse osisID='Lev.19.37'>Und haltet alle Meine Satzungen und alle Meine Rechte und tut sie. Ich bin Jehovah.</verse>
+      </chapter>
+      <chapter osisID='Lev.20'>
+        <title>Sündenstrafen.</title>
+        <verse osisID='Lev.20.1'>Und Jehovah redete zu Mose und sprach:</verse>
+        <verse osisID='Lev.20.2'>Und sprich zu den Söhnen Israels: Jeder Mann<note>ein Mann, ein Mann</note> von den Söhnen Israels und der Fremdling, der in Israel sich aufhält, der dem Moloch von seinem Samen gibt, soll des Todes sterben; das Volk des Landes soll ihn mit Steinen steinigen.</verse>
+        <verse osisID='Lev.20.3'>Und Ich werde Mein Angesicht setzen<note>geben</note> wider solchen Mann und ihn ausrotten aus seines Volkes Mitte, darum, daß er von seinem Samen dem Moloch gegeben, so daß er Mein Heiligtum verunreinigt und Meiner Heiligkeit Namen entweiht hat.</verse>
+        <verse osisID='Lev.20.4'>Und wenn das Volk des Landes seine Augen verbirgt<note>verbergend verbirgt</note> von solchem Manne, wenn er von seinem Samen dem Moloch gibt, so daß es ihn nicht tötet,</verse>
+        <verse osisID='Lev.20.5'>So will Ich Mein Angesicht setzen wider solchen Mann und wider seine Familie, und ihn und alle, die ihm nachbuhlen, um dem Moloch nachzubuhlen, ausrotten aus ihres Volkes Mitte.</verse>
+        <verse osisID='Lev.20.6'>Und wider die Seele, die sich zu den Geisterbannern und Zeichendeutern wendet, um ihnen nachzubuhlen, wider solche Seele werde Ich Mein Angesicht setzten<note>geben</note> und sie ausrotten aus ihres Volkes Mitte.</verse>
+        <verse osisID='Lev.20.7'>Und heiliget euch, auf daß ihr heilig seid; denn Ich, Jehovah, bin euer Gott.</verse>
+        <verse osisID='Lev.20.8'>Und haltet Meine Satzungen und tut sie: Ich bin Jehovah, Der euch heiligt.</verse>
+        <verse osisID='Lev.20.9'>Denn jeder Mann<note>ein Mann, ein Mann</note>, der seinem Vater oder seiner Mutter flucht, soll des Todes sterben. Seinem Vater und seiner Mutter hat er geflucht. Sein Blut sei auf ihm!</verse>
+        <verse osisID='Lev.20.10'>Und ein Mann, der die Ehe bricht mit dem Weib eines Mannes; wer die Ehe bricht mit dem Weib seines Genossen, soll des Todes sterben, der Ehebrecher und die Ehebrecherin.</verse>
+        <verse osisID='Lev.20.11'>Und der Mann, der bei seines Vaters Weibe liegt, hat seines Vaters Blöße aufgedeckt. Beide sollen des Todes sterben. Ihr Blut sei auf ihnen!</verse>
+        <verse osisID='Lev.20.12'>Und der Mann, der bei seiner Schwiegertochter liegt: sie sollen beide des Todes sterben; sie haben eine Besudelung gemacht. Ihr Blut sei auf ihnen.</verse>
+        <verse osisID='Lev.20.13'>Und der Mann, so bei einem, der männlich ist, liegt, wie man bei einem Weibe liegt: die beiden haben einen Greuel getan. Sie sollen des Todes sterben. Ihr Blut sei auf ihnen.</verse>
+        <verse osisID='Lev.20.14'>Und der Mann, so ein Weib nimmt und ihre Mutter dazu: eine Schandtat ist es. Im Feuer sollen sie ihn und sie beide verbrennen, auf daß keine Schandtat sei in eurer Mitte.</verse>
+        <verse osisID='Lev.20.15'>Und so ein Mann einem Vieh einen Erguß gibt, so soll er des Todes sterben, und auch das Tier erwürge man.</verse>
+        <verse osisID='Lev.20.16'>Und so ein Weib zu irgendeinem Vieh sich naht, um sich mit ihm zu begatten, sollst du das Weib und das Vieh erwürgen. Sie sollen des Todes sterben. Ihr Blut sei über ihnen.</verse>
+        <verse osisID='Lev.20.17'>Und so ein Mann seine Schwester, die Tochter seines Vaters, oder die Tochter seiner Mutter nimmt, und sieht ihre Blöße, und sie sieht seine Blöße, so ist es Blutschande, und sie sollen vor den Augen der Söhne ihres Volkes ausgerottet werden: er hat die Blöße seiner Schwester aufgedeckt. Er trage seine Missetat.</verse>
+        <verse osisID='Lev.20.18'>Und so ein Mann bei einem Weibe in ihrer Krankheit liegt, und deckt ihre Blöße auf, und er hat ihren Born entblößt, und sie hat den Born ihres Blutes aufgedeckt, und sie sollen beide aus ihres Volkes Mitte ausgerottet werden.</verse>
+        <verse osisID='Lev.20.19'>Und die Blöße der Schwester deiner Mutter und der Schwester deines Vaters sollst du nicht aufdecken; denn ein solcher hat das ihm Verwandte entblößt. Sie sollen ihre Missetat tragen.</verse>
+        <verse osisID='Lev.20.20'>Und so ein Mann bei seiner Muhme liegt, hat er seines Oheims Blöße aufgedeckt. Sie haben ihre Sünde zu tragen; sie sollen kinderlos sterben.</verse>
+        <verse osisID='Lev.20.21'>Und wenn ein Mann das Weib seines Bruders nimmt, so ist es eine Befleckung. Er hat die Blöße seines Bruders aufgedeckt. Sie sollen kinderlos sein.</verse>
+        <verse osisID='Lev.20.22'>Und ihr sollt halten alle Meine Satzungen und alle Meine Rechte und sie tun, auf daß euch nicht ausspeie das Land, in das Ich euch bringe, um darin zu wohnen<note>sitzen</note>.</verse>
+        <verse osisID='Lev.20.23'>Und sollt nicht wandeln in den Satzungen der Völkerschaft, die Ich vertreibe<note>sende</note> vor euch; denn alles dies hatten sie getan, und sind Mir zum Überdruß geworden;</verse>
+        <verse osisID='Lev.20.24'>Und habe euch gesagt: Ihr sollt ihren Boden erblich besitzen, und Ich will ihn euch zum Erbbesitze geben, ein Land, das von Milch und Honig fließt. Ich, Jehovah, bin euer Gott, Der euch von den Völkern geschieden hat.</verse>
+        <verse osisID='Lev.20.25'>So scheidet denn zwischen reinem und unreinem Vieh und zwischen unreinem und reinem Gevögel, und macht eure Seelen nicht zum Abscheu mit Vieh oder Gevögel, noch mit irgend etwas, das auf dem Boden kriecht, und das Ich für euch ausgeschieden habe, daß es unrein sei;</verse>
+        <verse osisID='Lev.20.26'>Und seid Mir heilig; denn Ich, Jehovah, bin heilig und habe euch von den Völkern ausgeschieden, auf daß ihr Mein sein sollet.</verse>
+        <verse osisID='Lev.20.27'>Und Mann oder Weib, die unter euch Geisterbanner oder Zeichendeuter sind, sollen des Todes sterben. Mit Steinen soll man sie steinigen! Ihr Blut sei über ihnen!</verse>
+      </chapter>
+      <chapter osisID='Lev.21'>
+        <title>Gesetze für Priester.</title>
+        <verse osisID='Lev.21.1'>Und Jehovah sprach zu Mose: Sprich zu den Priestern, den Söhnen Aharons, und sage ihnen: Keiner verunreinige sich an einer Seele<note>d.h. Verstorbenen</note> in seinem Volke;</verse>
+        <verse osisID='Lev.21.2'>Außer an seinem Verwandten, der ihm am nächsten ist, seiner Mutter und seinem Vater, und seinem Sohne und seiner Tochter und seinem Bruder,</verse>
+        <verse osisID='Lev.21.3'>Und seiner Schwester, die eine Jungfrau und ihm nahe ist, und noch keinen Mann hatte. An ihr darf er unrein werden.</verse>
+        <verse osisID='Lev.21.4'>Er soll sich nicht verunreinigen als Herr<note>Meister</note> in seinem Volke, so daß er dadurch entweiht würde.</verse>
+        <verse osisID='Lev.21.5'>Sie sollen sich keine Kahlheit auf dem Haupte machen<note>kahl machen</note>, und die Ecke ihres Bartes nicht scheren, noch Einschnitte an ihrem Fleische einschneiden.</verse>
+        <verse osisID='Lev.21.6'>Sie sollen ihrem Gott heilig sein, und den Namen ihres Gottes nicht entweihen; denn die Feueropfer Jehovahs, das Brot ihres Gottes bringen sie dar; darum seien sie heilig.</verse>
+        <verse osisID='Lev.21.7'>Sie sollen kein Weib, das eine Buhlerin ist, noch eine Entweihte nehmen, noch sollen sie eine, die von ihrem Manne verstoßen worden, nehmen; denn heilig ist er seinem Gotte.</verse>
+        <verse osisID='Lev.21.8'>Und du sollst ihn heilig halten; denn das Brot deines Gottes bringt er dar. Heilig sei er dir; denn heilig bin Ich, Jehovah, Der euch heiligt.</verse>
+        <verse osisID='Lev.21.9'>Und die Tochter eines Mannes, der Priester ist, die zu buhlen anfängt, entweiht ihren Vater, und soll im Feuer verbrannt werden.</verse>
+        <verse osisID='Lev.21.10'>Aber wer Hohepriester<note>großer Priester</note> ist unter seinen Brüdern, auf dessen Haupt das Salböl gegossen, und dessen Hand gefüllt worden ist, die Kleider anzuziehen, der soll sein Haupt nicht blößen und seine Kleider nicht aufreißen;</verse>
+        <verse osisID='Lev.21.11'>Und soll zu keiner Seele<note>d.h. Verstorbenen</note> gehen, darf sich weder bei seinem Vater, noch bei seiner Mutter verunreinigen.</verse>
+        <verse osisID='Lev.21.12'>Und aus dem Heiligtum komme er nicht heraus, auf daß er das Heiligtum seines Gottes nicht entweihe; denn die Weihe des Salböls seines Gottes ist auf ihm. Ich bin Jehovah.</verse>
+        <verse osisID='Lev.21.13'>Und er soll ein Weib in ihrer Jungfrauschaft nehmen;</verse>
+        <verse osisID='Lev.21.14'>Keine Witwe, keine Verstoßene, keine Entweihte, keine Buhlerin; keine solche soll er nehmen, sondern eine Jungfrau von seinem Volke nehme er zum Weibe;</verse>
+        <verse osisID='Lev.21.15'>Und er soll seinen Samen nicht entweihen in seinem Volk; denn Ich, Jehovah, heilige ihn.</verse>
+        <verse osisID='Lev.21.16'>Und Jehovah redete zu Mose und sprach:</verse>
+        <verse osisID='Lev.21.17'>Rede zu Aharon und sprich: Kein Mann deines Samens in seinen Geschlechtern, an dem ein Makel ist, soll sich nahen das Brot seines Gottes darzubringen.</verse>
+        <verse osisID='Lev.21.18'>Denn kein Mann, an dem ein Makel ist, soll sich nahen, kein blinder Mann oder Lahmer oder an dem etwas zu kurz oder zu lang ist;</verse>
+        <verse osisID='Lev.21.19'>Oder ein Mann, dem ein Fuß gebrochen oder eine Hand gebrochen ist.</verse>
+        <verse osisID='Lev.21.20'>Oder ein Mann, der höckerig oder abgemagert<note>mager</note> ist, oder einen Fleck<note>getrübt</note> im Auge oder die Krätze oder die Flechte oder zerdrückte Hoden hat.</verse>
+        <verse osisID='Lev.21.21'>Kein Mann vom Samen des Priesters Aharon, der einen Makel an ihm hat, soll herzutreten, die Feueropfer Jehovahs darzubringen. Ein Makel ist an ihm: er darf nicht herzutreten, das Brot seines Gottes darzubringen.</verse>
+        <verse osisID='Lev.21.22'>Das Brot seines Gottes vom Hochheiligen<note>Heiligen des Heiligen</note> und vom Heiligen darf er essen.</verse>
+        <verse osisID='Lev.21.23'>Nur zum Vorhang darf er nicht eingehen, und zum Altar nicht hinzutreten; denn ein Makel ist an ihm, auf daß er Meine Heiligtümer nicht entweihe; denn Ich, Jehovah, bin es, Der sie heiligt.</verse>
+        <verse osisID='Lev.21.24'>Und Mose redete so zu Aharon und zu seinen Söhnen und zu allen Söhnen Israels.</verse>
+      </chapter>
+      <chapter osisID='Lev.22'>
+        <title>Weitere Opfergesetze.</title>
+        <verse osisID='Lev.22.1'>Und Jehovah redete zu Mose und sprach:</verse>
+        <verse osisID='Lev.22.2'>Rede zu Aharon und zu seinen Söhnen, daß sie sich absondern von dem, was die Söhne Israels heiligen, und den Namen Meiner Heiligkeit nicht entweihen in dem, was sie Mir heiligen: Ich bin Jehovah.</verse>
+        <verse osisID='Lev.22.3'>Sage ihnen in euren Geschlechtern: Jeder Mann, der von all eurem Samen den Heiligtümern naht, welche die Söhne Israels Jehovah heiligen, und hat seine Unreinheit an sich, solche Seele soll von Meinem Angesichte ausgerottet werden: Ich bin Jehovah.</verse>
+        <verse osisID='Lev.22.4'>Jeder Mann<note>der Mann, der Mann</note>, der vom Samen Aharons aussätzig oder flüssig ist, soll nicht von dem Geheiligten essen, bis er rein ist, und wer irgend jemand berührt, der durch eine Seele<note>d.h. einen Verstorbenen</note> verunreinigt ist, oder einen Mann, von dem der Samenerguß ausgeht,</verse>
+        <verse osisID='Lev.22.5'>Oder ein Mann, der irgendein Kriechtier berührt, an dem er unrein wird, oder einen Menschen, an dem er unrein wird durch irgendwelche Verunreinigung;</verse>
+        <verse osisID='Lev.22.6'>Die Seele, die solches berührt, soll unrein sein bis zum Abend, und soll nicht essen von dem Geheiligten, er habe denn zuvor sein Fleisch im Wasser gebadet.</verse>
+        <verse osisID='Lev.22.7'>Ist dann die Sonne untergegangen<note>eingegangen</note>, so ist er rein und nachher darf er von dem Geheiligten essen; denn sein Brot ist es.</verse>
+        <verse osisID='Lev.22.8'>Ein Aas oder Zerfleischtes soll er nicht essen, auf daß er nicht dadurch unrein werde; Ich bin Jehovah.</verse>
+        <verse osisID='Lev.22.9'>Halten sollen sie Meine Verordnungen, auf daß sie darob keine Sünde tragen und sterben, wenn sie es entweihen. Ich, Jehovah, heilige sie.</verse>
+        <verse osisID='Lev.22.10'>Und kein Fremder soll Heiliges essen. Kein Beisaß und kein Lohnarbeiter des Priesters soll Heiliges essen.</verse>
+        <verse osisID='Lev.22.11'>Erwirbt aber der Priester eine Seele durch Erwerbung mit seinem Silber, mag solche davon essen, und der in seinem Hause geboren ward, sie dürfen von seinem Brote essen.</verse>
+        <verse osisID='Lev.22.12'>Und die Tochter eines Priesters, die eines fremden Mannes wird, darf von der Hebe des Geheiligten nicht essen.</verse>
+        <verse osisID='Lev.22.13'>Und die Tochter eines Priesters, die Witwe wird oder verstoßen ist und keinen Samen hat, und in das Haus ihres Vaters zurückkehrt, darf, wie in ihrer Jugend, vom Brote ihres Vaters essen; aber kein Fremder darf davon essen.</verse>
+        <verse osisID='Lev.22.14'>Und so ein Mann aus Versehen Heiliges ißt, tue er das Fünftel davon dazu und gebe dem Priester das Heilige.</verse>
+        <verse osisID='Lev.22.15'>Und sie sollen das Heilige der Söhne Israels, das sie Jehovah heben, nicht entweihen.</verse>
+        <verse osisID='Lev.22.16'>Auf daß sie nicht die Missetat der Schuld tragen, indem sie ihr Heiliges essen; denn Ich, Jehovah, bin es, Der sie heiligt.</verse>
+        <verse osisID='Lev.22.17'>Und Jehovah redete zu Mose und sprach:</verse>
+        <verse osisID='Lev.22.18'>Rede zu Aharon und zu seinen Söhnen und zu allen Söhnen Israels und sage ihnen: Jeder Mann<note>der Mann, der Mann</note> vom Hause Israel oder von den Fremdlingen in Israel, der seine Opfergabe darbringt, irgendein Gelobtes und irgendein Freiwilliges, das sie Jehovah zum Brandopfer darbringen wollen;</verse>
+        <verse osisID='Lev.22.19'>Daß ihr wohlgefällig seid, so sei es ein Männliches ohne Fehl vom Rind, von Schafen und von Ziegen.</verse>
+        <verse osisID='Lev.22.20'>Keines, an dem ein Makel ist, sollt ihr darbringen; denn ihr würdet damit nicht wohlgefällig werden.</verse>
+        <verse osisID='Lev.22.21'>Und wenn ein Mann Jehovah ein Dankopfer, für ein besonders gelobtes, oder als sein freiwilliges darbringen will vom Rind oder vom Kleinvieh, so es ohne Fehl ist, ist es wohlgefällig; kein Makel sei daran.</verse>
+        <verse osisID='Lev.22.22'>Ist es blind oder gebrochen oder verwundet, oder eiternd oder krätzig oder mit Flechten behaftet, solche sollt ihr Jehovah nicht darbringen. Und kein Feueropfer sollt ihr davon auf den Altar dem Jehovah geben.</verse>
+        <verse osisID='Lev.22.23'>Als freiwilliges Opfer magst du einen Ochsen oder ein Schaf<note>eins vom Kleinvieh</note>, dem etwas zu lang oder zu kurz ist, darbringen, aber als gelobtes Opfer ist es nicht wohlgefällig.</verse>
+        <verse osisID='Lev.22.24'>Etwas Zerdrücktes aber, und Zerstoßenes und Zerrissenes und Geschnittenes sollt ihr nicht Jehovah darbringen; und sollt dergleichen nicht in eurem Lande tun.</verse>
+        <verse osisID='Lev.22.25'>Und von der Hand eines Sohnes des Auslandes sollt ihr dergleichen nicht darbringen als Brot eures Gottes; denn ihre Verderbnis ist an ihnen; ein Makel ist an ihnen: ihr könnt damit nicht wohlgefallen.</verse>
+        <verse osisID='Lev.22.26'>Und Jehovah redete zu Mose und sprach:</verse>
+        <verse osisID='Lev.22.27'>Ochse oder Schaf oder Ziege, so geboren wird, soll sieben Tage unter dessen Mutter sein, und vom achten Tage an und fürder ist es als Opfergabe wohlgefällig zu einem Feueropfer für Jehovah.</verse>
+        <verse osisID='Lev.22.28'>Und Ochse oder Schaf<note>eins vom Kleinvieh</note>, es selbst und sein Junges<note>seinen Sohn</note>, sollt ihr nicht an einem Tage schlachten.</verse>
+        <verse osisID='Lev.22.29'>Und so ihr Jehovah ein Lobopfer opfert, sollt ihr es zu eurem Wohlgefallen opfern.</verse>
+        <verse osisID='Lev.22.30'>Am selben Tage soll es gegessen werden und nichts davon bis zum Morgen übrigbleiben. Ich bin Jehovah.</verse>
+        <verse osisID='Lev.22.31'>Und haltet Meine Gebote und tut sie. Ich bin Jehovah.</verse>
+        <verse osisID='Lev.22.32'>Und entweihet nicht den Namen Meiner Heiligkeit, auf daß Ich geheiligt werde inmitten der Söhne Israels. Ich bin Jehovah, Der euch heiligt,</verse>
+        <verse osisID='Lev.22.33'>Der euch aus Ägyptenland herausgebracht, euch Gott zu sein, Ich, Jehovah.</verse>
+      </chapter>
+      <chapter osisID='Lev.23'>
+        <title>Ordnung der Feste.</title>
+        <verse osisID='Lev.23.1'>Und Jehovah redete zu Mose und sprach:</verse>
+        <verse osisID='Lev.23.2'>Rede zu den Söhnen Israels und sprich zu ihnen: Anlangend die Feiertage Jehovahs, die ihr ausrufen sollt, als Zusammenberufungen der Heiligkeit, so sind dies Meine Feiertage.</verse>
+        <verse osisID='Lev.23.3'>Sechs Tage soll man Arbeit tun; und am siebenten Tag ist Sabbath der Sabbathe, Zusammenberufung der Heiligkeit. Keinerlei Arbeit sollet ihr tun. Ein Sabbath sei es für Jehovah in allen euren Wohnungen.</verse>
+        <verse osisID='Lev.23.4'>Dies sind Jehovahs Feiertage, Zusammenberufungen der Heiligkeit die ihr an den Feiertagen berufen sollt.</verse>
+        <verse osisID='Lev.23.5'>Im ersten Monat, am vierzehnten des Monats gegen Abend<note>zwischen den Abenden</note> ist das Passah Jehovahs.</verse>
+        <verse osisID='Lev.23.6'>Und am fünfzehnten Tage dieses Monats ist das Fest des Ungesäuerten für Jehovah. Sieben Tage sollt ihr Ungesäuertes essen.</verse>
+        <verse osisID='Lev.23.7'>Am ersten Tage soll bei euch Zusammenberufung der Heiligkeit sein. Keinerlei Dienstarbeit sollt ihr tun.</verse>
+        <verse osisID='Lev.23.8'>Und sieben Tage sollt ihr Jehovah ein Feueropfer darbringen. Am siebenten Tage ist Zusammenberufung der Heiligkeit. Keinerlei Dienstarbeit sollt ihr tun.</verse>
+        <verse osisID='Lev.23.9'>Und Jehovah redete zu Mose und sprach:</verse>
+        <verse osisID='Lev.23.10'>Rede zu den Söhnen Israels und sage ihnen: Wenn ihr in das Land kommet, daß Ich euch gebe, und ihr seine Ernte einerntet, so sollt ihr die Erstlingsgarbe eurer Ernte zum Priester bringen;</verse>
+        <verse osisID='Lev.23.11'>Und er webe die Garbe vor Jehovah, auf daß ihr wohlgefallet. Am morgenden Tag nach dem Sabbath webe sie der Priester.</verse>
+        <verse osisID='Lev.23.12'>Und ihr sollt am Tage, da ihr die Garbe webt, ein einjähriges Lamm<note>den Sohn eines Jahres</note> ohne Fehl Jehovah als Brandopfer bereiten<note>machen</note>.</verse>
+        <verse osisID='Lev.23.13'>Und sein Speiseopfer: zwei Zehntel Semmelmehl mit Öl vermischt als Feueropfer für Jehovah zum Geruch der Ruhe, und sein Trankopfer ein viertel Hin Wein.</verse>
+        <verse osisID='Lev.23.14'>Und Brot und geröstete und frische Ähren sollt ihr nicht essen bis zu demselben Tag, da ihr die Opfergabe eures Gottes gebracht. Eine ewige Satzung sei es für eure Geschlechter in allen euren Wohnungen.</verse>
+        <verse osisID='Lev.23.15'>Und zählet für euch vom morgenden Tage nach dem Sabbath, von dem Tage an, da ihr die Garbe der Webe gebracht; sieben ganze Wochen sollen es sein.</verse>
+        <verse osisID='Lev.23.16'>Bis zum morgenden Tag nach dem siebenten Sabbathe sollt ihr zählen, fünfzig Tage, und ein neues Speiseopfer dem Jehovah darbringen.</verse>
+        <verse osisID='Lev.23.17'>Aus euren Wohnungen sollt ihr Webebrot bringen, zwei von zwei Zehnteln Semmelmehls sollen es sein; gesäuert sollen sie gebakken werden, als Erstlingsgaben für Jehovah;</verse>
+        <verse osisID='Lev.23.18'>Und zu dem Brote sollt ihr darbringen sieben einjährige Lämmer<note>den Sohn eines Jahres</note> ohne Fehl, und einen jungen Farren vom Rind<note>Farren, den Sohn eines Rindes</note> und zwei Widder. Sie sollen ein Brandopfer sein für Jehovah, und ihr Speiseopfer und ihr Trankopfer als Feueropfer zum Geruch der Ruhe für Jehovah;</verse>
+        <verse osisID='Lev.23.19'>Und sollt einen Ziegenbock als Sündopfer machen, und als Dankopfer zwei einjährige Lämmer<note>Söhne eines Jahres</note>.</verse>
+        <verse osisID='Lev.23.20'>Und der Priester webe sie auf dem Erstlingsbrote als Webe vor Jehovah samt den zwei Lämmern. Geheiligt seien sie Jehovah für den Priester.</verse>
+        <verse osisID='Lev.23.21'>Und rufet denselben Tag aus: Eine Zusammenberufung der Heiligkeit soll es für euch sein. Keine Dienstarbeit sollt ihr tun. Eine ewige Satzung sei dies in all euren Wohnsitzen für eure Geschlechter.</verse>
+        <verse osisID='Lev.23.22'>Und so ihr die Ernte eures Landes einerntet, sollst du nicht vollenden die Ecke deines Feldes beim Einernten, auch eine Nachlese deiner Ernte sollst du nicht auflesen. Dem Elenden und dem Fremdling sollst du es lassen. Ich bin Jehovah, euer Gott.</verse>
+        <verse osisID='Lev.23.23'>Und Jehovah redete zu Mose und sprach:</verse>
+        <verse osisID='Lev.23.24'>Rede zu den Söhnen Israels und sprich: Im siebenten Monat, am ersten des Monats soll euch ein Sabbath sein, zum Gedächtnistag des Lärmblasens, eine Zusammenberufung der Heiligkeit.</verse>
+        <verse osisID='Lev.23.25'>Keine Dienstarbeit sollt ihr tun, und dem Jehovah ein Feueropfer darbringen.</verse>
+        <verse osisID='Lev.23.26'>Und Jehovah redete zu Mose und sprach:</verse>
+        <verse osisID='Lev.23.27'>Jedoch am zehnten dieses siebenten Monats sei euch der Sühnungstag; eine Zusammenberufung der Heiligkeit soll es für euch sein. Und ihr sollt eure Seele demütigen und Jehovah ein Feueropfer darbringen.</verse>
+        <verse osisID='Lev.23.28'>Und keine Arbeit sollt ihr an diesem selbigen Tage tun, denn ein Tag der Sühnung ist er, euch zu sühnen vor Jehovah, eurem Gott.</verse>
+        <verse osisID='Lev.23.29'>Denn jede Seele, die an diesem selbigen Tage sich nicht demütigt, soll aus ihrem Volke ausgerottet werden.</verse>
+        <verse osisID='Lev.23.30'>Und jede Seele, die irgendeine Arbeit an diesem selbigen Tage tut, die Seele werde Ich aus der Mitte ihres Volkes zugrunde richten.</verse>
+        <verse osisID='Lev.23.31'>Keine Arbeit sollt ihr tun. Dies sei ewige Satzung für eure Geschlechter in all euren Wohnungen.</verse>
+        <verse osisID='Lev.23.32'>Ein Sabbath der Sabbathe sei es euch, und ihr sollet eure Seelen demütigen. Am neunten des Monats am Abend sollt ihr euern Sabbath feiern vom Abend bis zum Abend.</verse>
+        <verse osisID='Lev.23.33'>Und Jehovah redete zu Mose und sprach:</verse>
+        <verse osisID='Lev.23.34'>Rede zu den Söhnen Israels und sprich: Am fünfzehnten Tage dieses siebenten Monats ist das Laubhüttenfest<note>Fest der Hütten</note> sieben Tage für Jehovah.</verse>
+        <verse osisID='Lev.23.35'>Am ersten Tage sei Zusammenberufung der Heiligkeit. Keine Dienstarbeit sollt ihr tun.</verse>
+        <verse osisID='Lev.23.36'>Sieben Tage sollt ihr Jehovah Feueropfer darbringen; am achten Tage sei Zusammenberufung der Heiligkeit für euch, und ihr sollt Jehovah ein Feueropfer bringen. Eine Festversammlung ist es; da sollt ihr keine Dienstarbeit tun.</verse>
+        <verse osisID='Lev.23.37'>Dies sind die Festzeiten Jehovahs, die ihr für Zusammenberufungen der Heiligkeit ausrufen sollt, um Jehovah Feueropfer darzubringen, Brandopfer und Speiseopfer, Schlachtopfer und Trankopfer, jeden Tages Sache<note>Wort</note> an seinem Tage.</verse>
+        <verse osisID='Lev.23.38'>Außer den Sabbathen Jehovahs, und außer euren Gaben, und außer allen euren Gelübden und außer allen euren freiwilligen Opfern, die ihr Jehovah geben werdet.</verse>
+        <verse osisID='Lev.23.39'>Jedoch sollt ihr am fünfzehnten Tage des siebenten Monats, da ihr des Landes Ertrag einsammelt, sieben Tage das Fest Jehovahs feiern. Am ersten Tage ist Sabbath und am achten Tage Sabbath.</verse>
+        <verse osisID='Lev.23.40'>Und nehmet euch am ersten Tage Frucht vom Zierbaum<note>Baum der Ehre</note>, Palmzweige und Zweige von dichtbelaubten Bäumen und Weiden des Baches und seid fröhlich sieben Tage vor Jehovah, eurem Gotte.</verse>
+        <verse osisID='Lev.23.41'>Und feiert es als ein Fest für Jehovah sieben Tage im Jahr. Eine ewige Satzung sei es für eure Geschlechter. Im siebenten Monat sollt ihr es feiern.</verse>
+        <verse osisID='Lev.23.42'>In Hütten sollt ihr wohnen sieben Tage; alle Eingeborene in Israel sollen in Hütten wohnen;</verse>
+        <verse osisID='Lev.23.43'>Auf daß eure Geschlechter wissen, daß Ich die Söhne Israels in Hütten wohnen ließ, da Ich sie aus Ägyptenland herausbrachte. Ich, Jehovah, bin euer Gott.</verse>
+        <verse osisID='Lev.23.44'>Und Mose redete von den Festzeiten Jehovahs zu den Söhnen Israels.</verse>
+      </chapter>
+      <chapter osisID='Lev.24'>
+        <title>Leuchter. Schaubrote. Strafen.</title>
+        <verse osisID='Lev.24.1'>Und Jehovah redete zu Mose und sprach:</verse>
+        <verse osisID='Lev.24.2'>Gebeut den Söhnen Israels, daß sie vor dich lauteres Öl von zerstoßenen Oliven bringen<note>nehmen</note> zur Beleuchtung, um beständig die Lampen<note>Lampe</note> aufzustecken.</verse>
+        <verse osisID='Lev.24.3'>Außerhalb des Vorhangs des Zeugnisses im Versammlungszelt soll Aharon es anordnen vom Abend bis zum Morgen vor Jehovah beständig. Es sei eine ewige Satzung für eure Geschlechter.</verse>
+        <verse osisID='Lev.24.4'>Auf dem reinen Leuchter ordne er die Lampen an vor Jehovah beständig.</verse>
+        <verse osisID='Lev.24.5'>Und nimm Semmelmehl und backe es zu zwölf Kuchen, zwei Zehntel, sei jeder Kuchen.</verse>
+        <verse osisID='Lev.24.6'>Und lege sie in zwei Reihen<note>Anordnung</note> sechs in eine Reihe auf den reinen Tisch vor Jehovah.</verse>
+        <verse osisID='Lev.24.7'>Und gib auf die Reihe<note>Anordnung</note> lauteren Weihrauch, und es sei zum Brote, zum Gedenken, ein Feueropfer für Jehovah.</verse>
+        <verse osisID='Lev.24.8'>Am Sabbathtage, am Sabbathtage soll er es anordnen vor Jehovah beständig, es ist von den Söhnen Israels, zum ewigen Bunde!</verse>
+        <verse osisID='Lev.24.9'>Und es sei für Aharon und für seine Söhne, und sie sollen es essen an heiligem Orte; denn hochheilig<note>das Heilige des Heiligen</note> ist es ihm von den Feueropfern Jehovahs, eine ewige Satzung.</verse>
+        <verse osisID='Lev.24.10'>Und es ging hinaus der Sohn eines israelitischen Weibes, und er war Sohn eines Ägypters, mitten unter die Söhne Israels, und es zankten sich in dem Lager der Sohn der Israelitin und ein israelitischer Mann.</verse>
+        <verse osisID='Lev.24.11'>Und der Sohn des israelitischen Weibes verwünschte den Namen und fluchte und sie brachten ihn zu Mose. Und der Name seiner Mutter war Schelomith, Dibris Tochter, vom Stamme Dan.</verse>
+        <verse osisID='Lev.24.12'>Und sie legten ihn in Gewahrsam nieder, um sie nach dem Munde Jehovahs zu bescheiden.</verse>
+        <verse osisID='Lev.24.13'>Und Jehovah redete zu Mose und sprach:</verse>
+        <verse osisID='Lev.24.14'>Bringe den, der da fluchte, hinaus, außerhalb des Lagers, und alle, die es hörten, sollen ihre Hände auf sein Haupt legen<note>lehnen</note>, und die ganze Gemeinde soll ihn steinigen.</verse>
+        <verse osisID='Lev.24.15'>Und zu den Söhnen Israels sollst du reden und sprechen: Jeglicher Mann<note>der Mann, der Mann</note>, der seinem Gotte flucht, der trage denn seine Sünde.</verse>
+        <verse osisID='Lev.24.16'>Und wer den Namen Jehovahs verwünscht, der soll des Todes sterben; ihn steinige<note>steinigend steinige</note> die ganze Gemeinde, wie der Fremdling so der Eingeborene; wenn er den Namen verwünscht, soll er sterben.</verse>
+        <verse osisID='Lev.24.17'>Und der Mann, der die Seele irgendeines Menschen schlägt, der soll des Todes sterben.</verse>
+        <verse osisID='Lev.24.18'>Und wer die Seele des Viehs schlägt, der soll erstatten Stück für Stück, Seele für Seele.</verse>
+        <verse osisID='Lev.24.19'>Und der Mann, der seinen Nächsten<note>Mitmenschen</note> verletzt<note>einen Makel gibt</note>, dem soll man tun, wie er getan hat.</verse>
+        <verse osisID='Lev.24.20'>Bruch um Bruch, Auge um Auge, Zahn um Zahn, der gleiche Makel, den er einem Menschen angetan<note>gegeben</note>, werde auch ihm angetan<note>gegeben</note>.</verse>
+        <verse osisID='Lev.24.21'>Und wer ein Vieh erschlägt<note>schlägt</note>, der soll es erstatten, und wer einen Menschen erschlägt<note>schlägt</note>, soll sterben.</verse>
+        <verse osisID='Lev.24.22'>Ein Recht sei bei euch, wie für den Eingeborenen, so für den Fremdling sei es; denn Ich bin Jehovah, euer Gott.</verse>
+        <verse osisID='Lev.24.23'>Und Mose redete zu den Söhnen Israels, und sie brachten den Flucher aus dem Lager hinaus und steinigten ihn mit Steinen; und die Söhne Israels taten, wie Jehovah dem Mose geboten hatte.</verse>
+      </chapter>
+      <chapter osisID='Lev.25'>
+        <title>Jubeljahr. Wiederkauf. Knechtschaft.</title>
+        <verse osisID='Lev.25.1'>Und Jehovah redete zu Mose auf dem Berge Sinai und sprach:</verse>
+        <verse osisID='Lev.25.2'>Rede zu den Söhnen Israels und sprich zu ihnen: Wenn ihr in das Land kommet, das Ich euch gebe, soll das Land Jehovah einen Sabbath feiern.</verse>
+        <verse osisID='Lev.25.3'>Sechs Jahre sollst du dein Feld besäen, und sechs Jahre deinen Weinberg beschneiden und seinen Ertrag sammeln.</verse>
+        <verse osisID='Lev.25.4'>Aber im siebenten Jahr soll für das Land ein Sabbath der Sabbathe sein, ein Sabbath für Jehovah; dein Feld sollst du nicht besäen und deinen Weinberg nicht beschneiden.</verse>
+        <verse osisID='Lev.25.5'>Den Nachwuchs deiner Ernte sollst du nicht einernten, und die Weinbeeren deines ungeschnittenen nicht lesen: ein Jahr des Sabbaths sei es dem Lande!</verse>
+        <verse osisID='Lev.25.6'>Und der Sabbath des Landes ist euch zur Speise; für dich und für deinen Knecht und für deine Magd, und für deinen Lohnarbeiter und für deinen Beisassen, die sich bei dir aufhalten,</verse>
+        <verse osisID='Lev.25.7'>Und für dein Vieh und für das Wild in deinem Lande soll all sein Ertrag zur Speise sein.</verse>
+        <verse osisID='Lev.25.8'>Und zähle dir sieben Sabbathe der Jahre, sieben Jahre siebenmal, und die Tage der sieben Sabbathjahre seien neunundvierzig Jahre.</verse>
+        <verse osisID='Lev.25.9'>Und laß im siebenten Monat am zehnten des Monats die Posaunen zum Lärmblasen durchziehen; am Tage der Sühnung durchziehe die Posaune all euer Land.</verse>
+        <verse osisID='Lev.25.10'>Und heiligen sollt ihr das Jahr, das fünfzigste Jahr, und Freilassung ausrufen im Lande für alle seine Einwohner. Ein Jubel soll es euch sein. Und jeder Mann kehre zu seinem Eigentum, und jeder Mann zu seiner Familie zurück.</verse>
+        <verse osisID='Lev.25.11'>Ein Jubeljahr soll das fünfzigste Jahr euch sein. Ihr sollt nicht säen, noch seinen Nachwuchs einernten, und nicht lesen, von dem ungeschnittenen.</verse>
+        <verse osisID='Lev.25.12'>Denn ein Jubel ist es, heilig sei es euch. Vom Feld weg esset den Ertrag davon.</verse>
+        <verse osisID='Lev.25.13'>In diesem Jubeljahr kehre jeder Mann zu seinem Eigentum zurück.</verse>
+        <verse osisID='Lev.25.14'>Und so ihr verkauft an euern<note>deinen, deines</note> Nächsten<note>Mitmenschen</note> einen Verkauf oder kauft von der Hand eures<note>deinen, deines</note> Nächsten<note>Mitmenschen</note>, so bedrücke kein Mann seinen Bruder.</verse>
+        <verse osisID='Lev.25.15'>Nach der Zahl der Jahre nach dem Jubel sollst du von deinem Nächsten<note>Mitmenschen</note> kaufen, nach der Zahl der Jahre des Ertrages soll er an dich verkaufen.</verse>
+        <verse osisID='Lev.25.16'>Je nach der<note>nach dem Munde der</note> Menge der Jahre sollst du den Kaufpreis mehren, und nach den<note>nach dem Munde der</note> wenigeren Jahren den Kaufpreis weniger machen; denn die Zahl der Erträge verkauft er dir.</verse>
+        <verse osisID='Lev.25.17'>Es bedrücke kein Mann seinen Nächsten<note>Mitmenschen</note>: und fürchte dich vor deinem Gott! Denn Ich bin Jehovah, euer Gott.</verse>
+        <verse osisID='Lev.25.18'>Und tut nach Meinen Satzungen und haltet Meine Rechte und tut sie, so werdet ihr in Sicherheit im Lande wohnen.</verse>
+        <verse osisID='Lev.25.19'>Und das Land wird seine Frucht geben, und ihr werdet essen zur Sättigung und darin wohnen in Sicherheit.</verse>
+        <verse osisID='Lev.25.20'>Und wenn ihr sprechet: Was sollen wir essen im siebenten Jahr? Siehe, wir säen nicht und werden auch nicht einsammeln unseren Ertrag.</verse>
+        <verse osisID='Lev.25.21'>Ich aber will Meinem Segen über euch gebieten im sechsten Jahr, daß es den Ertrag für die drei Jahre traget<note>mache</note>.</verse>
+        <verse osisID='Lev.25.22'>Und wenn ihr säet im achten Jahr, sollt ihr vom alten Ertrage essen, bis in das neunte Jahr, bis sein Ertrag kommt, sollt ihr Altes essen.</verse>
+        <verse osisID='Lev.25.23'>Und das Land darf nicht verkauft werden, so daß es verfallen bliebe; denn Mein ist das Land. Ihr seid Fremdlinge und Beisassen bei Mir.</verse>
+        <verse osisID='Lev.25.24'>Und im ganzen Lande eures Eigentums, sollt ihr Lösung geben für das Land.</verse>
+        <verse osisID='Lev.25.25'>So dein Bruder verarmt und von seinem Eigentum verkauft, so komme sein nächster Löser und löse, was sein Bruder verkauft hat.</verse>
+        <verse osisID='Lev.25.26'>Ist aber kein Löser für den Mann da, und seine Hand reicht aus, daß er genügend findet für die Lösung,</verse>
+        <verse osisID='Lev.25.27'>So rechne er die Jahre des Verkaufs und gebe das Überflüssige dem Manne, dem er verkauft hat, zurück, und kehre in sein Eigentum zurück.</verse>
+        <verse osisID='Lev.25.28'>Und findet seine Hand nicht genug zum Rückkauf, so sei sein Verkauftes in der Hand des Käufers bis zum Jubeljahr; und es gehe aus in dem Jubeljahr, und er kehre in sein Eigentum zurück.</verse>
+        <verse osisID='Lev.25.29'>Und so ein Mann ein Haus zum Wohnsitz in einer Stadt mit Mauern verkauft, so steht ihm Lösung zu, bis das Jahr ganz ist seit dem Verkauf. Ein volles Jahr<note>Tage</note> sei ihm Lösung.</verse>
+        <verse osisID='Lev.25.30'>Wird es aber, ehe das ganze Jahr voll wird, nicht gelöst, so soll das Haus in der Stadt, die eine Mauer hat, dem Käufer in seinen Geschlechtern verfallen sein; es wird nicht ausgehen im Jubeljahr.</verse>
+        <verse osisID='Lev.25.31'>Und die Häuser der Dörfer, die keine Mauer ringsum haben: ein solches wird zu dem Felde des Landes gerechnet, Lösung soll sein für dasselbe, und es soll ausgehen im Jubeljahr.</verse>
+        <verse osisID='Lev.25.32'>Und anlangend die Städte der Leviten, die Häuser in den Städten ihres Eigentums, sollen die Leviten ewiges Lösungsrecht haben.</verse>
+        <verse osisID='Lev.25.33'>Und wer etwas löst von den Leviten, dem soll das Verkaufte des Hauses und seiner Eigentumsstadt durch den Jubel ausgehen, denn die Häuser der Städte der Leviten sind ihr Eigentum inmitten der Söhne Israels.</verse>
+        <verse osisID='Lev.25.34'>Und das Feld im Weichbild ihrer Städte soll nicht verkauft werden; denn ein ewiges Eigentum ist es ihnen.</verse>
+        <verse osisID='Lev.25.35'>Und wenn dein Bruder verarmt und seine Hand wankt bei dir, so sollst du ihn stärken, als Fremdling oder Beisasse, daß er bei dir lebe.</verse>
+        <verse osisID='Lev.25.36'>Nimm keine Zinsen von ihm und keine Mehrung, und fürchte dich vor deinem Gott, auf daß dein Bruder bei dir lebe.</verse>
+        <verse osisID='Lev.25.37'>Gib ihm dein Silber nicht auf Zins, und auf Mehrung gib ihm deine Speise nicht.</verse>
+        <verse osisID='Lev.25.38'>Ich bin Jehovah, euer Gott, Der Ich euch aus Ägyptenland herausbrachte, um euch das Land Kanaan zu geben, auf daß Ich euer Gott sei.</verse>
+        <verse osisID='Lev.25.39'>Und wenn dein Bruder bei dir verarmt und sich dir verkauft, so sollst du dich seiner nicht zum Knechtdienst bedienen.</verse>
+        <verse osisID='Lev.25.40'>Wie ein Lohnarbeiter, wie ein Beisasse sei er bei dir. Bis zum Jubeljahr soll er bei dir dienen.</verse>
+        <verse osisID='Lev.25.41'>Und dann soll er von dir ausgehen, er und seine Söhne mit ihm, und zurückkehren zu seiner Familie, und in das Eigentum seiner Väter soll er zurückkehren.</verse>
+        <verse osisID='Lev.25.42'>Denn Meine Knechte sind sie, die Ich aus Ägyptenland herausbrachte, sie sollen nicht verkauft werden, wie man Knechte verkauft.</verse>
+        <verse osisID='Lev.25.43'>Beherrsche ihn nicht mit Strenge, und fürchte dich vor deinem Gotte.</verse>
+        <verse osisID='Lev.25.44'>Und was deinen Knecht und deine Magd anbelangt, die du haben magst, so sollst du von den Völkerschaften, die rings um euch sind, von ihnen Knechte und Mägde kaufen.</verse>
+        <verse osisID='Lev.25.45'>Und auch von den Söhnen der Beisassen, die sich bei euch aufhalten, von ihnen und ihren Familien, die bei euch sind, die sie in eurem Lande gezeugt, könnet ihr solche kaufen, so daß sie euer Eigentum werden.</verse>
+        <verse osisID='Lev.25.46'>Und sie könnet ihr vererben als erblichen Besitz euren Söhnen nach euch zum Eigentum, daß sie euch ewiglich dienen; aber deine Brüder, Söhne Israels, soll der Mann nicht seinen Bruder mit Strenge beherrschen.</verse>
+        <verse osisID='Lev.25.47'>Und so die Hand eines Fremdlings und eines Beisassen, der bei dir ist, ausreicht, und dein Bruder bei ihm verarmt, und sich dem Fremdling, der Beisasse ist bei dir, oder einem vom Familienstamm des Fremdlings verkauft,</verse>
+        <verse osisID='Lev.25.48'>So soll, nachdem er sich verkauft hat, Lösung für ihn sein; einer von seinen Brüdern mag ihn lösen;</verse>
+        <verse osisID='Lev.25.49'>Oder sein Oheim oder der Sohn seines Oheims soll ihn lösen; oder sonst einer von den Verwandten seines Fleisches aus seiner Familie soll ihn lösen; oder reicht seine Hand aus, soll er sich selbst lösen.</verse>
+        <verse osisID='Lev.25.50'>Und er rechne mit dem, der ihn kauft, von dem Jahr, da er sich ihm verkauft, bis zum Jubeljahr, und das Silber seines Verkaufs sei nach der Zahl der Jahre, wie die Tage eines Lohnarbeiters soll er bei ihm sein.</verse>
+        <verse osisID='Lev.25.51'>Sind es noch viele Jahre, so gebe er nach Verhältnis<note>ihrem Munde</note> zurück von dem Silber seines Kaufpreises seine Lösung.</verse>
+        <verse osisID='Lev.25.52'>Und bleiben wenig Jahre bis zum Jubeljahr, so rechne er mit ihm. Je nach Verhältnis<note>nach dem Munde</note> seiner Jahre gebe er seine Lösung zurück.</verse>
+        <verse osisID='Lev.25.53'>Wie ein Lohnarbeiter sei er Jahr für Jahr bei ihm, nicht mit Strenge soll er vor deinen Augen ihn beherrschen.</verse>
+        <verse osisID='Lev.25.54'>Und wird er nicht so gelöst, so gehe er und seine Söhne im Jubeljahr aus.</verse>
+        <verse osisID='Lev.25.55'>Denn Mir sind Knechte die Söhne Israels, Meine Knechte sind sie, die Ich aus Ägyptenland herausbrachte. Ich bin Jehovah, euer Gott.</verse>
+      </chapter>
+      <chapter osisID='Lev.26'>
+        <title>Segen. Fluch.</title>
+        <verse osisID='Lev.26.1'>Machet euch keine Götzen und richtet euch keine Schnitzbilder oder Bildsäulen auf, und setzet<note>gebet</note> kein Steingebilde in eurem Lande, um davor anzubeten; denn Ich, Jeho- vah, bin euer Gott.</verse>
+        <verse osisID='Lev.26.2'>Haltet Meine Sabbathe und fürchtet euch vor Meinem Heiligtum. Ich bin Jehovah.</verse>
+        <verse osisID='Lev.26.3'>Wenn ihr nach Meinen Satzungen wandelt und Meine Gebote haltet und sie tuet,</verse>
+        <verse osisID='Lev.26.4'>So werde Ich eure Regen geben zu ihrer Zeit, und die Erde wird geben ihr Gewächs und der Baum des Feldes wird geben seine Frucht.</verse>
+        <verse osisID='Lev.26.5'>Und reichen soll euch das Dreschen bis zur Weinlese, und die Weinlese soll reichen bis zur Aussaat, und sollet euer Brot essen zur Sättigung und in Sicherheit in eurem Lande wohnen<note>sitzen</note></verse>
+        <verse osisID='Lev.26.6'>Und Frieden werde Ich im Lande geben, und ihr sollt euch niederlegen und niemand mache euch erzittern, und Ich will das böse wilde Tier aus dem Lande aufhören<note>feiern</note> lassen und kein Schwert soll euer Land durchziehen.</verse>
+        <verse osisID='Lev.26.7'>Und ihr werdet nachsetzen euren Feinden und sie sollen vor euch fallen durch das Schwert.</verse>
+        <verse osisID='Lev.26.8'>Fünf von euch sollen hunderten nachsetzen, und hundert von euch sollen zehntausenden nachsetzen; und eure Feinde sollen vor euch fallen durch das Schwert.</verse>
+        <verse osisID='Lev.26.9'>Und Ich will Mich zu euch wenden und euch fruchtbar machen und euch mehren, und aufrichten Meinen Bund mit euch.</verse>
+        <verse osisID='Lev.26.10'>Alt gewordenes Altes sollt ihr essen und das Alte hinausbringen vor dem Neuen.</verse>
+        <verse osisID='Lev.26.11'>Und Meine Wohnung will Ich in eure Mitte setzen<note>geben</note>, und Meine Seele wird euer nicht überdrüssig werden.</verse>
+        <verse osisID='Lev.26.12'>Und Ich will in eurer Mitte ziehen und ein Gott euch sein, und ihr sollt sein Mein Volk.</verse>
+        <verse osisID='Lev.26.13'>Ich, Jehovah, bin euer Gott, Der euch aus Ägyptenland herausgebracht, daß ihr nicht ihre Knechte wäret, und brach eures Joches Stäbe, und ließ euch aufrecht gehen.</verse>
+        <verse osisID='Lev.26.14'>Höret ihr aber nicht auf Mich und tut nicht alle diese Gebote,</verse>
+        <verse osisID='Lev.26.15'>Und verschmähet Meine Satzungen und eure Seele wird Meiner Rechte überdrüssig, so daß ihr nicht alle Meine Gebote tut, so daß ihr Meinen Bund zunichte macht,</verse>
+        <verse osisID='Lev.26.16'>So will auch Ich euch solches tun: Und Ich werde euch heimsuchen mit Bestürzung, Schwindsucht und Fieberglut, so daß die Augen sich verzehren und eure Seele vergeht. Vergeblich sollt ihr euren Samen säen und eure Feinde sollen ihn essen.</verse>
+        <verse osisID='Lev.26.17'>Und Ich werde Mein Angesicht wider euch setzen<note>geben</note>, daß ihr geschlagen werdet vor euren Feinden und eure Hasser euch unterwerfen, und ihr fliehet, da euch niemand nachsetzt.</verse>
+        <verse osisID='Lev.26.18'>Und höret ihr über diesem noch nicht auf Mich, so werde Ich euch siebenfach mehr<note>hinzutun</note> ob euren Sünden züchtigen;</verse>
+        <verse osisID='Lev.26.19'>Und will brechen den Stolz eurer Stärke und euern Himmel wie Eisen, und euer Land euch wie Erz machen<note>geben</note>;</verse>
+        <verse osisID='Lev.26.20'>Zu Ende kommen soll eure Kraft vergeblich; und das Land wird sein Gewächs nicht geben und der Baum des Landes nicht geben seine Frucht.</verse>
+        <verse osisID='Lev.26.21'>Und wandelt ihr Mir zuwider und wollet nicht auf Mich hören, so füge Ich siebenmal mehr Schläge hinzu nach euren Sünden,</verse>
+        <verse osisID='Lev.26.22'>Und sende wider euch das wilde Tier des Feldes, und es soll euch kinderlos machen und ausrotten euer Vieh, und mache euer weniger, und mache eure Straßen wüste.</verse>
+        <verse osisID='Lev.26.23'>Und lasset ihr auch damit euch noch nicht von Mir züchtigen und wandelt Mir zuwider,</verse>
+        <verse osisID='Lev.26.24'>So gehe auch Ich wider euch und schlage euch, auch Ich, noch siebenfach um eurer Sünden willen.</verse>
+        <verse osisID='Lev.26.25'>Und bringe über euch das Schwert der Rache, das den Bund rächet. Und ihr werdet euch in eure Städte sammeln, Ich aber werde die Pest in eure Mitte senden, und ihr werdet in des Feindes Hand gegeben.</verse>
+        <verse osisID='Lev.26.26'>Wenn Ich euch den Stab des Brotes zerbrechen werde, und zehn Weiber werden euer Brot in einem Ofen backen und euer Brot nach dem Gewicht zurückgeben, und ihr es sollet essen und nicht gesättigt werden.</verse>
+        <verse osisID='Lev.26.27'>Und so ihr trotzdem nicht auf Mich höret und wandelt Mir zuwider:</verse>
+        <verse osisID='Lev.26.28'>So gehe Ich im Grimme der Begegnung wider euch, daß Ich, auch Ich, euch züchtige siebenfach ob euren Sünden;</verse>
+        <verse osisID='Lev.26.29'>Und ihr werdet essen eurer Söhne Fleisch und eurer Töchter Fleisch werdet ihr essen.</verse>
+        <verse osisID='Lev.26.30'>Vernichten werde Ich eure Opferhöhen und ausrotten eure Sonnensäulen und eure Leichen auf eurer Götzen Leichen legen<note>geben</note>, und Meine Seele euch verwerfen.</verse>
+        <verse osisID='Lev.26.31'>Und Ich werde eure Städte öde machen und verwüsten eure Heiligtümer, und nicht den Geruch eurer Ruhe riechen.</verse>
+        <verse osisID='Lev.26.32'>Und Ich werde verwüsten das Land, daß eure Feinde, die darin wohnen, sich darob entsetzen werden.</verse>
+        <verse osisID='Lev.26.33'>Und Ich werde euch zersprengen unter die Völkerschaften und ausziehen<note>ausleeren</note> ein Schwert hinter euch her, und euer Land soll eine Wüste und eure Städte eine Öde werden.</verse>
+        <verse osisID='Lev.26.34'>Dann läßt sich wohlgefallen das Land seine Sabbathe alle Tage, die es wüste ist und ihr im Land eurer Feinde seid; dann wird das Land feiern und läßt sich wohlgefallen seine Sabbathe.</verse>
+        <verse osisID='Lev.26.35'>Alle Tage des Wüsteliegens feiert es dann, wie es nicht gefeiert an euren Sabbathen, da ihr noch darin wohntet<note>saßet</note>.</verse>
+        <verse osisID='Lev.26.36'>Und die von euch, so verblieben: Verzagtheit will Ich bringen in ihr Herz, in ihrer Feinde Landen, daß sie jagt das Rauschen<note>die Stimme</note> eines dahingetriebenen Blattes und sie fliehen, wie man vor dem Schwerte flieht, und fallen, da niemand ihnen nachsetzt.</verse>
+        <verse osisID='Lev.26.37'>Und der Mann wird straucheln über seinen Bruder, wie vor dem Schwerte, wo ihnen niemand nachsetzt und ihr vor euren Feinden nicht bestehen könnt.</verse>
+        <verse osisID='Lev.26.38'>Unter den Völkerschaften geht ihr zugrunde, und eurer Feinde Land frißt euch auf.</verse>
+        <verse osisID='Lev.26.39'>Und die von euch, so verblieben, vergehen durch ihre Missetat in ihrer Feinde Landen, und auch durch ihrer Väter Missetaten vergehen sie mit ihnen.</verse>
+        <verse osisID='Lev.26.40'>Und sie werden bekennen ihre Missetat und die Missetat ihrer Väter damit, daß sie Mir abgefallen und Mir zuwider gewandelt sind.</verse>
+        <verse osisID='Lev.26.41'>Darum werde Ich auch wider sie gehen, und sie in das Land ihrer Feinde bringen, ob nicht dann ihr unbeschnittenes Herz sich niederbeuge und sie dann ihre Missetat abtragen<note>gefallen lassen</note>.</verse>
+        <verse osisID='Lev.26.42'>Und Ich werde gedenken an Meinen Bund mit Jakob und auch an Meinen Bund mit Isaak und auch an Meinen Bund mit Abraham werde Ich gedenken, und an das Land gedenken.</verse>
+        <verse osisID='Lev.26.43'>Und das Land wird von ihnen verlassen sein und seine Sabbathe sich gefallen lassen, während es von ihnen wüste gelassen wird, sie selbst aber werden ihre Missetat abtragen, weil und weil sie Meine Rechte verschmäht und ihre Seele Meiner Satzungen überdrüssig geworden ist.</verse>
+        <verse osisID='Lev.26.44'>Und selbst da noch, während sie im Lande ihrer Feinde sind, habe Ich sie nicht verschmäht und ihrer nicht so überdrüssig geworden, daß Ich sie wegtilgte und Meinen Bund mit ihnen zunichte machte; denn Ich, Jehovah, bin ihr Gott.</verse>
+        <verse osisID='Lev.26.45'>Und Ich gedenke für sie an den Bund mit den Vorfahren, die Ich vor den Augen der Völkerschaften aus Ägyptenland herausgebracht, um ihnen ein Gott zu sein. Ich, Jehovah.</verse>
+        <verse osisID='Lev.26.46'>Dies sind die Satzungen und die Rechte und Gesetze, die Jehovah zwischen Sich und zwischen den Söhnen Israels auf dem Berge Sinai durch die Hand Moses gegeben hat.</verse>
+      </chapter>
+      <chapter osisID='Lev.27'>
+        <title>Gelübde.</title>
+        <verse osisID='Lev.27.1'>Und Jehovah redete zu Mose und sprach:</verse>
+        <verse osisID='Lev.27.2'>Rede zu den Söhnen Israels und sprich zu ihnen: So ein Mann ein besonderes Gelübde tut, so sollen die Seelen dem Jehovah nach deiner Schätzung sein.</verse>
+        <verse osisID='Lev.27.3'>Und es sei deine Schätzung eines Männlichen vom zwanzigsten bis zum sechzigsten Jahre<note>vom Sohne von 20 Jahren bis zum Sohne von 60 Jahren</note>, und es sei deine Schätzung fünfzig Schekel Silber; nach dem Schekel des Heiligtums.</verse>
+        <verse osisID='Lev.27.4'>Und ist es ein Weib<note>Weibliches</note>, soll deine Schätzung dreißig Schekel sein.</verse>
+        <verse osisID='Lev.27.5'>Und wenn von fünf zu zwanzig Jahren<note>vom Sohne von 5 Jahren bis zum Sohne von 20 Jahren</note>, so soll deine Schätzung für das männliche zwanzig Schekel und für das weibliche zehn Schekel sein.</verse>
+        <verse osisID='Lev.27.6'>Und wenn von einem Monat bis zu fünf Jahren<note>Sohne eines Monats bis zum Sohne von 5 Jahren</note>, so soll deine Schätzung für das männliche fünf Schekel Silber und für das weibliche deine Schätzung drei Schekel Silber sein.</verse>
+        <verse osisID='Lev.27.7'>Und wenn sechzig Jahre und darüber<note>vom Sohne von 60 Jahren und darüber</note>, so sei deine Schätzung, wenn männlich, fünfzehn Schekel und für das weibliche zehn Schekel.</verse>
+        <verse osisID='Lev.27.8'>Und ist er zu arm für deine Schätzung, so stelle man ihn vor den Priester, und der Priester schätze ihn; je nach dem<note>nach dem Munde</note>, wozu die Hand des Gelobenden zureicht, schätze ihn der Priester.</verse>
+        <verse osisID='Lev.27.9'>Und ist es ein Vieh, davon man Jehovah eine Opfergabe darbringen will, so soll alles, was man davon dem Herrn gibt, heilig sein.</verse>
+        <verse osisID='Lev.27.10'>Man soll dasselbe nicht wechseln und nicht vertauschen, weder das gute um ein schlechtes, noch das schlechte um ein gutes; vertauscht<note>vertauschend vertauschen</note> man es aber doch Vieh um Vieh, so soll es und das Vertauschte heilig sein.</verse>
+        <verse osisID='Lev.27.11'>Und ist es irgendein unreines Vieh, das man Jehovah nicht als Opfergabe darbringen kann, so stelle man das Stück Vieh vor den Priester.</verse>
+        <verse osisID='Lev.27.12'>Und der Priester schätze es, sei es gut oder schlecht<note>zwischen Gutem und zwischen Schlechtem</note>; wie der Priester es schätzt, so sei es.</verse>
+        <verse osisID='Lev.27.13'>Und will man es lösen<note>lösend lösen</note>, so tue man ein Fünftel über die Schätzung dazu.</verse>
+        <verse osisID='Lev.27.14'>Und so ein Mann sein Haus dem Jehovah heiligt, so daß es ihm heilig sei, so schätze es der Priester, wie gut oder wie schlecht<note>zwischen Gutem und zwischen Schlechtem</note> es sei. So wie es der Priester schätzt, so bestehe es.</verse>
+        <verse osisID='Lev.27.15'>So aber, der sein Haus geheiligt hat, es lösen will, der tue den fünften Teil der Schätzung in Silber dazu, so ist es sein.</verse>
+        <verse osisID='Lev.27.16'>Und so ein Mann von dem Felde seines Eigentums Jehovah heiliget, so geschehe deine Schätzung im Verhältnis<note>nach dem Munde</note> zu der Aussaat; die Aussaat von einem Chomer Gerste für fünfzig Schekel Silbers.</verse>
+        <verse osisID='Lev.27.17'>Wenn er vom Jubeljahr an sein Feld heiligt, so bestehe es nach deiner Schätzung<note>Anordnung</note>!</verse>
+        <verse osisID='Lev.27.18'>Und heiligt er sein Feld nach dem Jubeljahr, so rechne ihm der Priester das Silber nach den Jahren<note>nach dem Munde der Jahre</note>, die noch bis zum Jubeljahr übrig sind; und es werde von deiner Schätzung<note>nach dem Munde der Jahre</note> abgezogen.</verse>
+        <verse osisID='Lev.27.19'>Und will, der es heiligte, das Feld lösen<note>lösend lösen</note>, so tue er ein Fünftel des Silbers deiner Schätzung<note>Anordnung</note> dazu, und es bestehe als sein.</verse>
+        <verse osisID='Lev.27.20'>Und löset er das Feld nicht und verkauft er das Feld an einen anderen Mann, so soll es nicht mehr gelöst werden.</verse>
+        <verse osisID='Lev.27.21'>Wenn das Feld im Jubeljahr ausgeht, so ist es dem Jehovah heilig, wie ein gebanntes Feld. Es wird Eigentum des Priesters.</verse>
+        <verse osisID='Lev.27.22'>Und heiligt einer dem Jehovah ein Feld, das er kaufte, welches nicht vom Felde seines Eigentums ist,</verse>
+        <verse osisID='Lev.27.23'>So rechne ihm der Priester den Betrag deiner Schätzung<note>Anordnung</note> bis zum Jubeljahr und gebe deine Schätzung<note>Anordnung</note> an demselben Tag, auf daß es Jehovah heilig sei.</verse>
+        <verse osisID='Lev.27.24'>Im Jubeljahr kehrt das Feld an den zurück, von dem er es gekauft, dem es als Eigentum im Lande zugehört.</verse>
+        <verse osisID='Lev.27.25'>Und all deine Schätzung<note>Anordnung</note> sei nach dem Schekel des Heiligtums. Zwanzig Gera sei der Schekel.</verse>
+        <verse osisID='Lev.27.26'>Nur das Erstgeborene vom Vieh, das Jehovahs Erstgeburt ist, soll kein Mann heiligen, weder Ochse noch Kleinvieh. Jehovahs ist es.</verse>
+        <verse osisID='Lev.27.27'>Und ist es von unreinem Vieh, so löse man es ein nach deiner Schätzung und tue ein Fünftel dazu; wird es aber nicht gelöst, so verkaufe man es nach deiner Schätzung<note>Anordnung</note>.</verse>
+        <verse osisID='Lev.27.28'>Alles Gebannte jedoch, das ein Mann Jehovah bannt, von allem, das sein ist, vom Mensch und vom Vieh und vom Felde seines Eigentums, soll weder verkauft, noch gelöst werden: alles Gebannte ist Jehovah hochheilig<note>das Heilige des Heiligen</note>.</verse>
+        <verse osisID='Lev.27.29'>Alles Gebannte, was von Menschen gebannt wird, darf nicht eingelöst werden, es muß des Todes sterben.</verse>
+        <verse osisID='Lev.27.30'>Und aller Zehnte des Landes, von der Saat des Landes von der Baumfrucht, ist Jehovahs, es ist Jehovah heilig.</verse>
+        <verse osisID='Lev.27.31'>Und will ein Mann etwas von seinem Zehnten lösen<note>lösend lösen</note>, so tue er ein Fünftel dazu.</verse>
+        <verse osisID='Lev.27.32'>Und aller Zehnte vom Rinde und vom Kleinvieh, von allem, das unter der Rute durchzieht, soll das zehnte Jehovah heilig sein!</verse>
+        <verse osisID='Lev.27.33'>Er soll nicht forschen, ob es gut oder schlecht<note>zwischen gut zum Schlechten</note> sei, und er soll nicht vertauschen. Und vertauscht<note>vertauschend vertauscht</note> er es, so soll es mit dem Eingetauschten heilig sein und nicht gelöst werden.</verse>
+        <verse osisID='Lev.27.34'>Dies sind die Gebote, die Jehovah dem Mose an die Söhne Israels auf dem Berg Sinai geboten hat.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

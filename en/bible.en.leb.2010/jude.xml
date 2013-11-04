@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+<osisText osisRefWork='Bible' osisIDWork='Bible.en.LEB.2010' xml:lang='en'>
+<header>
+<work osisWork='Bible.en.LEB.2010'>
+<title>The Lexham English Bible</title>
+<creator type='x-edt'>W. Hall Harris III</creator>
+<date>2010-03-23</date>
+<publisher>Logos Research Systems, Inc.</publisher>
+<type type='OSIS'>Bible</type>
+<format type='x-MIME'>text/xml</format>
+<source>LEB.xml, 2010-03-23</source>
+<language type='IETF'>en</language>
+<rights>Copyright 2010 Logos Research Systems, Inc. All rights reserved. Further licensing information is provided in the License and Trademark sections at the start of the text.</rights>
+<scope>Matt-Rev</scope>
+<refSystem>Bible.NRSVA</refSystem>
+</work>
+</header>
+<div type='front'>
+<titlePage>
+<p>The Lexham English Bible</p>
+<p>W. Hall Harris III</p>
+<p>General Editor</p>
+<p>Copyright 2010 Logos Research Systems, Inc.</p>
+<p>All rights reserved.</p>
+</titlePage>
+<div type='x-license'>
+<title>License</title>
+<p>You can give away the Lexham English Bible, but you can’t sell it on its own. If the LEB comprises less than 25% of the content of a larger work, you can sell it as part of that work.</p>
+<p>If you give away the LEB for use with a commercial product, or sell a work containing more than 1,000 verses from the LEB, you must annually report the number of units sold, distributed, and/or downloaded.</p>
+<p>You must always attribute quotations of the LEB.</p>
+<p>If you quote less than 100 verses of the LEB in a single work you can attribute it by simply adding (LEB) after the quotation. Longer quotations, or use of 100 or more verses in a single work, must be accompanied by the following statement:</p>
+<p>Scripture quotations marked (LEB) are from the Lexham English Bible. Copyright 2010 Logos Bible Software. Lexham is a registered trademark of Logos Bible Software.</p>
+<p>In electronic use, link “LEB” and “Lexham English Bible” to <a href='http://lexhamenglishbible.com'>http://lexhamenglishbible.com</a>, and “Logos Bible Software” to <a href='http://logos.com'>http://logos.com</a>. If all quotations are unmarked and from the LEB, you may remove “marked (LEB) are” from the statement.</p>
+<p>In support of non-English Bible translation, non-profit organizations may use 50% as the maximum portion the LEB may comprise of a work offered for sale. (This specifically allows the creation and commercial sale of diglot Bibles.)</p>
+</div>
+<div type='x-trademark'>
+<p>Lexham is a registered trademark of Logos Bible Software. You may use LEB or Lexham English Bible to refer to the Lexham English Bible, but may not use the Lexham trademark as any part of the name of a larger work quoting or containing it.</p>
+</div>
+<div type='preface'>
+<p>With approximately one hundred different English translations of the Bible already published,<note>This figure includes translations of the New Testament alone. For one of the most comprehensive lists, see Wikipedia (<a href='http://en.wikipedia.org/wiki/List_of_English_Bible_translations'>http://en.wikipedia.org/wiki/List_of_English_Bible_translations</a>).</note> the reader may well wonder why yet another English version has been produced. Those actually engaged in the work of translating the Bible might answer that the quest for increased accuracy, the incorporation of new scholarly discoveries in the fields of semantics, lexicography, linguistics, new archaeological discoveries, and the continuing evolution of the English language all contribute to the need for producing new translations. But in the case of the Lexham English Bible (LEB), the answer to this question is much simpler; in fact, it is merely twofold.</p>
+<p>First, the LEB achieves an unparalleled level of transparency with the original language text because the LEB had as its starting point the <hi type='italic'>Lexham Greek-English Interlinear New Testament</hi>. It was produced with the specific purpose of being used alongside the original language text of the Bible. Existing translations, however excellent they may be in terms of English style and idiom, are frequently so far removed from the original language texts of scripture that straightforward comparison is difficult for the average user. Of course distance between the original language text and the English translation is not a criticism of any modern English translation. To a large extent this distance is the result of the philosophy of translation chosen for a particular English version, and it is almost always the result of an attempt to convey the meaning of the original in a clearer and more easily understandable way to the contemporary reader. However, there are many readers, particularly those who have studied some biblical Greek, who desire a translation that facilitates straightforward and easy comparisons between the translation and the original language text. The ability to make such comparisons easily in software formats like Logos Bible Software makes the need for an English translation specifically designed for such comparison even more acute.</p>
+<p>Second, the LEB is designed from the beginning to make extensive use of the most up-to-date lexical reference works available. For the New Testament this is primarily the third edition of Walter Bauer’s <hi type='italic'>A Greek-English Lexicon of the New Testament and Other Early Christian Literature</hi> (BDAG). Users can be assured that the LEB as a translation is based on the best scholarly research available. The Greek text on which the LEB New Testament is based is that of NA27 (<hi type='italic'>Novum Testamentum Graece</hi> editio XXVII). Often referred to as the “critical” text, this is the most widely used Greek text of the New Testament in use today.</p>
+<p>Naturally, when these two factors are taken into consideration, it should not be surprising that the character of the LEB as a translation is fairly literal. This is a necessary by-product of the desire to have the English translation correspond transparently to the original language text. Nevertheless, a serious attempt has been made within these constraints to produce a clear and readable English translation instead of a woodenly literal one.<note>A small amount of foreignness in a Bible translation is not necessarily a bad thing, because it reminds us that we are reading an ancient text from a different culture. Not only do the linguistic constructions differ considerably from our own, but the cultural presuppositions and assumptions differ as well. I am not convinced that, as a reader of the Bible in the early twenty-first century, I am particularly well-served if Paul comes across sounding like an op-ed columnist in the newspaper or Luke sounds like the anchor of a cable news channel on television. Clarity in translation is one thing, but obliterating the cultural distance that separate the modern reader from the first century is something else again.</note></p>
+<p>There are three areas in particular that need to be addressed to make a translation like the LEB more accessible to readers today, while at the same time maintaining easy comparison with the original language text. First, differences in word order have to be addressed. In this regard, the LEB follows standard English word order, not the word order of Koiné Greek.<note>Koiné Greek (sometimes called Hellenistic Greek) is the form of Greek in which the New Testament is written.</note> Anyone who needs to see the word order of the original Greek can readily consult the <hi type='italic'>Lexham Greek-English Interlinear New Testament</hi>, which contains a sequence line which gives this information. Second, some expressions in biblical Greek are idiomatic, so that a literal translation would be meaningless or would miscommunicate the true meaning. The LEB uses <seg type='x-idiom'>˻lower corner˼</seg> brackets to indicate such expressions, with a literal rendering given in a note. Third, words which have no equivalent in the original language text must sometimes be supplied in the English translation. Because the LEB is designed to be used alongside the original language texts of scripture, these supplied words are indicated with <hi type='italic'>italics</hi>. In some cases the need for such supplied words is obvious, but in other cases where it is less clear a note has been included.</p>
+<p>Finally, the reader should remember that any Bible translation, to be useful to the person using it, must actually be read. I would encourage every user of the LEB, whether reading it alongside the original languages text or not, to remember that once we understand the meaning of a biblical text we are responsible to apply it first in our own lives, and then to share it with those around us.</p>
+<p>W. Hall Harris III</p>
+<p>General Editor</p>
+<p>Lexham English Bible</p>
+<p>For the word of God <hi type='italic'>is</hi> living and active and sharper than any double-edged sword, and piercing as far as the division of soul and spirit, both joints and marrow, and able to judge the reflections and thoughts of the heart. (<reference osisRef='Heb.4.12'>Heb 4:12</reference> LEB)</p>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div type='book' osisID='Jude'>
+<chapter osisID='Jude.1'>
+<div type='section'>
+<title>Greeting</title>
+<p><verse osisID='Jude.1.1' sID='Jude.1.1'/>Jude,<note>“Jude” is the traditional form of the name introducing the letter, but the Greek form is the same as “Judas”</note> a slave of Jesus Christ and brother of James, to <transChange type='added'>those who are</transChange> called, loved in God the Father and kept for<note>Or perhaps “by”</note> Jesus Christ.<verse eID='Jude.1.1'/> <verse osisID='Jude.1.2' sID='Jude.1.2'/>May mercy and peace and love be multiplied to you.<verse eID='Jude.1.2'/></p>
+</div>
+<div type='section'>
+<title>Contend for the Faith</title>
+<p><verse osisID='Jude.1.3' sID='Jude.1.3'/>Dear friends, <transChange type='added'>although I</transChange><note>Here “<catchWord>although</catchWord>” is supplied as a component of the participle (“was making”) which is understood as concessive</note> was making every effort to write to you concerning our common salvation, I considered <transChange type='added'>it</transChange> a necessity to write to you to encourage <transChange type='added'>you</transChange> to contend for the faith delivered once and for all to the saints.<verse eID='Jude.1.3'/> <verse osisID='Jude.1.4' sID='Jude.1.4'/>For certain men<note>Or “people,” since the Greek term can be used in a generic sense, but if this statement is related to <reference osisRef='2Pet.2.12'>2 Peter 2:12,</reference> it is more likely men are in view</note> have slipped in stealthily, who were designated long ago for this condemnation, ungodly ones, who change the grace of our God into licentiousness and who deny our only Master and Lord Jesus Christ.<verse eID='Jude.1.4'/></p>
+</div>
+<div type='section'>
+<title>Condemnation of the Ungodly False Teachers</title>
+<p><verse osisID='Jude.1.5' sID='Jude.1.5'/>Now I want to remind you, <transChange type='added'>although</transChange> you know everything once and for all,<note>Some manuscripts place this word in the following clause</note> that the Lord, having saved the people out of the land of Egypt, the second time destroyed those who did not believe.<verse eID='Jude.1.5'/> <verse osisID='Jude.1.6' sID='Jude.1.6'/>And <transChange type='added'>the</transChange> angels who did not keep to their own domain but deserted their proper dwelling place, he has kept in eternal bonds under deep gloom for the judgment of the great day,<verse eID='Jude.1.6'/> <verse osisID='Jude.1.7' sID='Jude.1.7'/>as Sodom and Gomorrah and the towns around them indulged in sexual immorality and <seg type='x-idiom'>˻pursued unnatural desire˼</seg><note>Literally “went after other flesh”</note> <transChange type='added'>in</transChange> the same way as these, are exhibited as an example <transChange type='added'>by</transChange><note>Here “<catchWord>by</catchWord>” is supplied as a component of the participle (“undergoing”) which is understood as means</note> undergoing the punishment of eternal fire.<verse eID='Jude.1.7'/></p>
+<p><verse osisID='Jude.1.8' sID='Jude.1.8'/>Despite that, in the same way also these <transChange type='added'>men</transChange>, <transChange type='added'>because of their</transChange><note>Here “<catchWord>because</catchWord>” is supplied as a component of the participle (“dreams”) which is understood as causal</note> dreams, defile the flesh and reject authority and blaspheme majestic beings.<verse eID='Jude.1.8'/> <verse osisID='Jude.1.9' sID='Jude.1.9'/>But Michael the archangel, when he argued with the devil, disputing concerning the body of Moses, did not dare to pronounce a blasphemous judgment, but said, “The Lord rebuke you!”<verse eID='Jude.1.9'/> <verse osisID='Jude.1.10' sID='Jude.1.10'/>But these persons blaspheme all that they do not understand, and all that they understand by instinct like the irrational animals, by these <transChange type='added'>things</transChange> they are being destroyed.<verse eID='Jude.1.10'/> <verse osisID='Jude.1.11' sID='Jude.1.11'/>Woe to them! For they have traveled in the way of Cain, and have given themselves up to the error of Balaam for gain, and have perished<note>Or possibly “will perish”</note> in the rebellion of Korah.<verse eID='Jude.1.11'/> <verse osisID='Jude.1.12' sID='Jude.1.12'/>These are the ones feasting together without reverence, hidden reefs at your love feasts, caring for themselves, waterless clouds carried away by winds, late autumn trees without fruit, twice dead, uprooted,<verse eID='Jude.1.12'/> <verse osisID='Jude.1.13' sID='Jude.1.13'/>wild waves of the sea foaming up their own shameful deeds, wandering stars, for whom the deep gloom of darkness has been reserved for eternity.<verse eID='Jude.1.13'/></p>
+<p><verse osisID='Jude.1.14' sID='Jude.1.14'/>And Enoch, the seventh from Adam, also prophesied about<note>Or “against”</note> these <transChange type='added'>people</transChange>, saying, “Behold, the Lord came with tens of thousands of his holy ones<verse eID='Jude.1.14'/> <verse osisID='Jude.1.15' sID='Jude.1.15'/>to execute judgment against all, and to convict every soul concerning all their ungodly deeds that they have committed in an ungodly way, and concerning all the harsh things that ungodly sinners have spoken against him.<verse eID='Jude.1.15'/> <verse osisID='Jude.1.16' sID='Jude.1.16'/>These <transChange type='added'>people</transChange> are grumblers, discontented, proceeding according to their own desires, and their mouths speaking pompous <transChange type='added'>words</transChange>, <seg type='x-idiom'>˻showing partiality to gain an advantage˼</seg><note>Literally “respecting faces for the sake of advantage”</note>.<verse eID='Jude.1.16'/></p>
+</div>
+<div type='section'>
+<title>Persevere in the Love of God</title>
+<p><verse osisID='Jude.1.17' sID='Jude.1.17'/>But you, dear friends, remember the words proclaimed beforehand by the apostles of our Lord Jesus Christ,<verse eID='Jude.1.17'/> <verse osisID='Jude.1.18' sID='Jude.1.18'/>for they said to you that in the end time there will be scoffers following according to their own ungodly desires.<verse eID='Jude.1.18'/> <verse osisID='Jude.1.19' sID='Jude.1.19'/>These are the ones who cause divisions, worldly, not having the Spirit.<verse eID='Jude.1.19'/> <verse osisID='Jude.1.20' sID='Jude.1.20'/>But you, dear friends, <transChange type='added'>by</transChange><note>Here “<catchWord>by</catchWord>” is supplied as a component of the participle (“building up”) which is understood as means</note> building yourselves up in your most holy faith, <transChange type='added'>by</transChange><note>Here “<catchWord>by</catchWord>” is supplied as a component of the participle (“praying”) which is understood as means</note> praying in the Holy Spirit,<verse eID='Jude.1.20'/> <verse osisID='Jude.1.21' sID='Jude.1.21'/>keep yourselves in the love of God, looking forward to the mercy of our Lord Jesus Christ to eternal life.<verse eID='Jude.1.21'/> <verse osisID='Jude.1.22' sID='Jude.1.22'/>And have mercy on those who doubt,<verse eID='Jude.1.22'/> <verse osisID='Jude.1.23' sID='Jude.1.23'/>and save others <transChange type='added'>by</transChange><note>Here “<catchWord>by</catchWord>” is supplied as a component of the participle (“snatching”) which is understood as means</note> snatching <transChange type='added'>them</transChange> from the fire, and have mercy on others with fear, hating even the tunic stained by the flesh.<verse eID='Jude.1.23'/></p>
+</div>
+<div type='section'>
+<title>Benediction</title>
+<p><verse osisID='Jude.1.24' sID='Jude.1.24'/>Now to the one who is able to protect you from stumbling and make <transChange type='added'>you</transChange> to stand before his glory blameless<note>Or “without blemish”</note> with exultation,<verse eID='Jude.1.24'/> <verse osisID='Jude.1.25' sID='Jude.1.25'/>to the only God our Savior, through Jesus Christ our Lord, <transChange type='added'>be</transChange> glory, majesty, power, and authority before all time and now and for all eternity. Amen.<verse eID='Jude.1.25'/></p>
+</div>
+</chapter>
+</div></osisText>
+</osis>

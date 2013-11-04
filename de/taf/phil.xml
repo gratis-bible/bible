@@ -1,0 +1,217 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <osisText osisRefWork='Bible' osisIDWork='TAF' xml:lang='de'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='TAF'>
+        <title>Tafelbibel</title>
+        <contributor>Martin</contributor>
+        <creator>Jens Grabner</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject>holy bible</subject>
+        <date>2009-01-20</date>
+        <description>Die Bibel - Übersetzung von Johann Friedrich Leonhard Tafel
+
+      Die vorliegende Neuausgabe ist eine Abschrift der Übersetzung von Dr. Leonhard
+      Tafel, revidiert von Ludwig H. Tafel, dritte Ausgabe 1911, und wurde auf ihre
+      Vollständigkeit überprüft. Es wurde die Rechtschreibregel der heutigen Zeit (noch
+      vor der Rechtschreibreform 1998) angewendet, ohne den Stil der Sprache zu verändern.
+
+      Wer in dieser Bibel einige Bücher vermisst, sei auf das Vorwort der Source verwiesen.
+      Auf der zweiten Seite steht dort:
+      Der zweite Band enthält die übrigen, sogenannten
+      Hagiographen oder heiligen Bücher: die Bücher Hiob, Sprichwörter, Hohelied, Prediger, Ruth, Chronika, Esra,
+      Nehemia, Esther und die Apokryphen.²
+      2. Gegenwärtige, Revision des Zefania XML Moduls  enthält die Hagiographen und Apokryphen nicht, da
+      sie nicht verfügbar waren.</description>
+        <publisher>FREE BIBLE SOFTWARE GROUP</publisher>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>TAF</identifier>
+        <source>http://www.ubf-dortmund.de/bibel/tafel.htm</source>
+        <language type='IETF'>de</language>
+        <relation/>
+        <coverage>provide the bible to the world</coverage>
+        <rights>Mit freundlicher Genehmigung des Swedenborg Verlag Postfach 1205 CH - 8032 Zürich</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Phil'>
+      <chapter osisID='Phil.1'>
+        <title>Des Paulus Brief an die Philipper</title>
+        <title>Gruß. Danksagung. Ermahnung zu beharrlichem Glaubenskampf.</title>
+        <verse osisID='Phil.1.1'>Paulus und Timotheus, Knechte Jesu Christi an alle Heiligen in Christi Jesu zu Philippi, samt Vorständen und Diakonen,</verse>
+        <verse osisID='Phil.1.2'>Gnade euch, und Friede von Gott unserem Vater und dem Herrn Jesus Christus.</verse>
+        <verse osisID='Phil.1.3'>Ich danke meinem Gott, sooft ich euer Gedenke,</verse>
+        <verse osisID='Phil.1.4'>Was ich allezeit tue in jeglichem Gebet für euch und alle, und mit Freuden bete ich</verse>
+        <verse osisID='Phil.1.5'>Über eurer Gemeinschaft am Evangelium von ersten Tage an bis heute;</verse>
+        <verse osisID='Phil.1.6'>Indem ich der Zuversicht bin, daß, Der in euch das gute Werk angefangen hat, es auch vollführen wird bis zum Tage Jesu Christi.</verse>
+        <verse osisID='Phil.1.7'>Wie es denn recht und billig ist, daß ich so von euch allen denke, weil ich euch im Herzen trage, in meinen Banden und bei der Verteidigung und Bestätigung des Evangeliums, als die ihr alle mit mir der Gnade teilhaftig seid.</verse>
+        <verse osisID='Phil.1.8'>Denn Gott ist mein Zeuge, wie sehr mich nach euch allen verlangt in der innigen Liebe Jesu Christi.</verse>
+        <verse osisID='Phil.1.9'>Und darum bete ich, daß eure Liebe mehr und mehr reich werde an aller Erkenntnis und Einsicht.</verse>
+        <verse osisID='Phil.1.10'>Daß ihr prüfen möget, was recht und unrecht ist, auf daß ihr lauter und unanstößig seid auf den Tag von Christus,</verse>
+        <verse osisID='Phil.1.11'>Erfüllt mit Früchten der Gerechtigkeit, durch Jesus Christus, zur Ehre und zum Lobe Gottes.</verse>
+        <verse osisID='Phil.1.12'>Ich tue euch aber zu wissen, Brüder, daß, was mit mir geschehen ist, nur mehr zur Förderung des Evangeliums geraten ist.</verse>
+        <verse osisID='Phil.1.13'>Also daß meine Bande offenbar geworden sind in Christus im ganzen Prätorium und sonst überall,</verse>
+        <verse osisID='Phil.1.14'>Und die meisten Brüder in dem Herrn durch meine Bande Zuversicht gewonnen und desto kühner geworden sind, furchtlos das Wort zu verkünden.</verse>
+        <verse osisID='Phil.1.15'>Zwar gibt es auch einige, die Christus des Neides und Streites wegen verkünden, andere aber auch tun es aus guter Meinung.</verse>
+        <verse osisID='Phil.1.16'>Die es aus Liebe tun, wissen, daß ich um des Evangeliums willen zur Verantwortung da bin.</verse>
+        <verse osisID='Phil.1.17'>Die es aus Streitsucht tun, verkündigen Christus in unlauterer Absicht, um mich in meinen Banden in Trübsal zu bringen.</verse>
+        <verse osisID='Phil.1.18'>Was tut es aber, wenn nur jedenfalls, sei es aus Heuchelei oder in Wahrheit, Christus verkündigt wird; und darüber freue ich mich und werde mich freuen.</verse>
+        <verse osisID='Phil.1.19'>Denn ich weiß, daß mir dies durch euer Gebet und den Beistand des Geistes Jesu Christi zum Heile gereichen wird.</verse>
+        <verse osisID='Phil.1.20'>Nach meiner Zuversicht und Hoffnung, daß ich in keinerlei Stück zuschanden werde, und daß mit aller Freimütigkeit, wie immer, so auch jetzt Christus verherrlicht werden soll an meinem Leibe, sei es im Leben oder durch den Tod.</verse>
+        <verse osisID='Phil.1.21'>Denn Christus ist mein Leben, und Sterben ist mein Gewinn.</verse>
+        <verse osisID='Phil.1.22'>Wenn aber im Fleische leben dazu dient, meinem Werk Frucht zu bringen, so weiß ich nicht, was ich wählen soll.</verse>
+        <verse osisID='Phil.1.23'>Denn es drängt mich von beiden Seiten, ich habe Lust abzuscheiden und bei Christus zu sein; was auch viel besser für mich wäre.</verse>
+        <verse osisID='Phil.1.24'>Aber es ist notwendiger euretwegen, daß ich im Fleische bleibe.</verse>
+        <verse osisID='Phil.1.25'>Und soviel weiß ich mit Zuversicht, daß ich bleiben und bei euch allen verbleiben werde, zu eurer Förderung und Freudigkeit im Glauben;</verse>
+        <verse osisID='Phil.1.26'>Damit ihr euch, so ich wieder zu euch komme, in Jesus Christus an mir rühmen möget.</verse>
+        <verse osisID='Phil.1.27'>So wandelt nur würdig des Evangeliums Christi, auf daß, ob ich komme und euch sehe, oder abwesend von euch höre, ihr fest steht in einem Geiste und einem Sinn, und samt uns kämpft für den Glauben an das Evangelium.</verse>
+        <verse osisID='Phil.1.28'>Und euch in keinem Stück abschrecken lasset von den Widersachern, was für sie zum Verderben, euch aber zum Heile dient, und das von Gott aus.</verse>
+        <verse osisID='Phil.1.29'>Denn euch ward vergönnt um Christus willen, nicht allein an Ihn zu glauben, sondern auch um Seinetwillen zu leiden;</verse>
+        <verse osisID='Phil.1.30'>Und habt denselben Kampf, wie ihr ihn an mir gesehen habt und nun von mir hört.</verse>
+      </chapter>
+      <chapter osisID='Phil.2'>
+        <title>Ermahnung zur Eintracht und Demut.</title>
+        <verse osisID='Phil.2.1'>Ist nun eine Ermahnung in Christus, ist ein Trost der Liebe, ist eine Gemeinschaft des Geistes, ist herzliche Liebe und Barmherzigkeit,</verse>
+        <verse osisID='Phil.2.2'>So machet meine Freude dadurch vollkommen, daß ihr eines Sinnes seid, gleiche Liebe zu einander habt, einmütig und einträchtig seid,</verse>
+        <verse osisID='Phil.2.3'>Nichts tut aus Streitsucht oder Eitelkeit, sondern in Demut, so daß einer den anderen höher achte, denn sich selbst;</verse>
+        <verse osisID='Phil.2.4'>Und ein jeglicher nicht auf das Seine sehe, sondern auch auf das, was des anderen ist.</verse>
+        <verse osisID='Phil.2.5'>Seid derselben Gesinnung, wie auch Jesus Christus war,</verse>
+        <verse osisID='Phil.2.6'>Der, ob Er wohl in göttlicher Gestalt war, es nicht für einen Raub achtete, Gott gleich zu sein;</verse>
+        <verse osisID='Phil.2.7'>Sondern Sich entäußerte, Knechtsgestalt annahm, und ward wie andere Menschen, und im Äußeren wie ein Mensch erfunden wurde.</verse>
+        <verse osisID='Phil.2.8'>Er erniedrigte Sich und ward gehorsam bis zum Tode, ja zum Tod am Kreuz.</verse>
+        <verse osisID='Phil.2.9'>Weshalb Ihn auch Gott erhöht, und Ihm einen Namen verliehen hat, der über alle Namen ist:</verse>
+        <verse osisID='Phil.2.10'>Auf daß im Namen Jesus sich beugen sollen alle Knie derer, die im Himmel und auf Erden und unter der Erde sind;</verse>
+        <verse osisID='Phil.2.11'>Und alle Zungen bekennen sollen, daß Jesus Christus der Herr ist, zur Verherrlichung Gottes des Vaters.</verse>
+        <verse osisID='Phil.2.12'>Darum, meine Geliebten, so wie ihr allezeit gehorsam gewesen seid, nicht allein in meiner Gegenwart, sondern nun vielmehr in meiner Abwesenheit, so schafft, daß ihr selig werdet, mit Furcht und Zittern.</verse>
+        <verse osisID='Phil.2.13'>Denn Gott ist es, Der in euch wirkt, beides, das Wollen und das Vollbringen, wie es Ihm wohlgefällt.</verse>
+        <verse osisID='Phil.2.14'>Tut alles ohne Murren und Bedenklichkeit,</verse>
+        <verse osisID='Phil.2.15'>Auf daß ihr seid tadellos und lauter, Gottes Kinder, unsträflich inmitten des entarteten und verkehrten Geschlechts, unter dem ihr leuchtet, wie Himmelslichter in der Welt,</verse>
+        <verse osisID='Phil.2.16'>Indem ihr haltet ob dem Worte des Lebens, zum Ruhme für mich, auf den Tag Christi, daß ich nicht vergeblich gelaufen bin, noch umsonst gearbeitet habe.</verse>
+        <verse osisID='Phil.2.17'>Und wenn mein Blut auch vergossen wird am Altardienst eures Glaubens, so freue ich mich, und freue mich mit euch allen.</verse>
+        <verse osisID='Phil.2.18'>Desgleichen sollt auch ihr euch freuen, euch freuen mit mir.</verse>
+        <verse osisID='Phil.2.19'>Ich hoffe im Herrn Jesus, daß ich Timotheus bald könne zu euch senden, damit auch ich guten Mutes werde, wenn ich erfahre, wie es bei euch steht.</verse>
+        <verse osisID='Phil.2.20'>Denn ich habe keinen, der so ganz meines Sinnes wäre, und so redlich um euch sorgen wird.</verse>
+        <verse osisID='Phil.2.21'>Denn sie suchen alle das Ihre, nicht das, was Jesus Christus zugehört.</verse>
+        <verse osisID='Phil.2.22'>Ihr werdet seine Tüchtigkeit inne werden; denn wie ein Kind mit dem Vater, hat er mit mir am Evangelium gedient.</verse>
+        <verse osisID='Phil.2.23'>Ich hoffe ihn von Stund an senden zu können, wenn ich absehe, wie es mit mir geht.</verse>
+        <verse osisID='Phil.2.24'>Ich vertraue aber zum Herrn, daß auch ich selbst bald kommen werde.</verse>
+        <verse osisID='Phil.2.25'>Ich habe aber für nötig erachtet, den Bruder Epaphroditus zu euch zu senden, der mein Mitarbeiter und Mitstreiter, und euer Bote, und Diener meiner Notdurft ist;</verse>
+        <verse osisID='Phil.2.26'>Weil ihn nach euch allen verlangte, und ihn bekümmerte, daß ihr gehört habt, daß er krank war.</verse>
+        <verse osisID='Phil.2.27'>Auch lag er krank auf den Tod, aber Gott hat Sich über ihn erbarmt, aber nicht allein über ihn, sondern auch über mich, auf daß ich nicht Betrübnis über Betrübnis hätte.</verse>
+        <verse osisID='Phil.2.28'>Ich habe um so weniger gesäumt, ihn an euch abgehen zu lassen, auf daß ihr ihn seht und wieder fröhlich werdet, und ich weniger betrübt wäre.</verse>
+        <verse osisID='Phil.2.29'>So nehmt ihn nun auf im Herrn und mit aller Freude, und haltet solche Männer in Ehren.</verse>
+        <verse osisID='Phil.2.30'>Denn wegen Christi Werk ist er dem Tod so nahe gekommen und hat sein Leben gering geachtet, auf daß er mir an eurer Statt Handreichung leiste.</verse>
+      </chapter>
+      <chapter osisID='Phil.3'>
+        <title>Warnung vor Irrlehren, Ermahnung zu christlichem Wandel.</title>
+        <verse osisID='Phil.3.1'>So freut euch nun, Brüder, im Herrn! Daß ich euch immer das gleiche schreibe, verdrießt mich nicht und dient zu eurer Befestigung.</verse>
+        <verse osisID='Phil.3.2'>Hütet euch vor den Hunden, hütet euch vor den schlimmen Arbeitern, hütet euch vor der Zerschneidung!</verse>
+        <verse osisID='Phil.3.3'>Denn wir sind die Beschneidung, die wir Gott im Geiste dienen, und deren Ruhm Jesus Christus ist und die wir nicht auf Fleisch vertrauen.</verse>
+        <verse osisID='Phil.3.4'>Wiewohl auch ich auf Fleisch vertrauen könnte, und noch dazu mehr:</verse>
+        <verse osisID='Phil.3.5'>Bin am achten Tage beschnitten, vom Geschlechte Israel, aus Benjamins Stamm, ein Hebräer, von Hebräern gezeugt, in Hinsicht des Gesetzes ein Pharisäer.</verse>
+        <verse osisID='Phil.3.6'>In Hinsicht des Eifers ein Verfolger der Gemeinde, in Hinsicht der Gerechtigkeit nach dem Gesetze tadellos.</verse>
+        <verse osisID='Phil.3.7'>Aber was mir Gewinn war, das habe ich wegen Christus für Schaden erachtet.</verse>
+        <verse osisID='Phil.3.8'>Ja ich erachte noch alles für Schaden wegen der alles übertreffenden Erkenntnis meines Herrn Jesus Christus, um Dessentwillen ich alles für Schaden und Unrat erachte, auf daß ich Christus gewinne,</verse>
+        <verse osisID='Phil.3.9'>Und in Ihm erfunden werde und nicht meine Gerechtigkeit habe, die aus dem Gesetz, sondern die durch den Glauben an Christus kommt, die Gerechtigkeit, die von Gott um des Glaubens willen zuteil wird;</verse>
+        <verse osisID='Phil.3.10'>Um Ihn zu erkennen, und die Kraft Seiner Auferstehung und die Gemeinschaft Seiner Leiden, und daß ich Ihm ähnlich werde im Tode,</verse>
+        <verse osisID='Phil.3.11'>Ob ich möchte zur Auferstehung der Toten gelangen.</verse>
+        <verse osisID='Phil.3.12'>Nicht daß ich es schon ergriffen hätte, oder schon vollendet wäre, ich jage ihm aber nach, ob ich es möchte ergreifen, nachdem ich auch von Jesus Christus ergriffen worden bin.</verse>
+        <verse osisID='Phil.3.13'>Ich erachte, Brüder, von mir selbst noch nicht, daß ich es ergriffen habe. Eins aber sage ich: Ich vergesse, was dahinten ist, und strecke mich aus nach dem, was vorne ist;</verse>
+        <verse osisID='Phil.3.14'>Und jage dem Ziele zu nach dem Siegespreis der himmlischen Berufung Gottes in Jesus Christus.</verse>
+        <verse osisID='Phil.3.15'>Wie viele nun von uns vollkommen sind, die sollen so gesinnt sein, und die noch anderes denken, denen wird Gott darüber auch noch die rechte Einsicht verleihen.</verse>
+        <verse osisID='Phil.3.16'>Doch laßt uns das, zu dem wir gelangt sind, zur Richtschnur unseres Sinnes und Wandels nehmen.</verse>
+        <verse osisID='Phil.3.17'>Folgt mit mir nach, Brüder, und seht auf die, die also wandeln, wie ihr uns zum Vorbild habt.</verse>
+        <verse osisID='Phil.3.18'>Denn viele wandeln, wie ich euch oftmals sagte und nun mit Tränen wiederhole, als Feinde von Christi Kreuz.</verse>
+        <verse osisID='Phil.3.19'>Deren Endziel ist Verdammnis, denen der Bauch ihr Gott ist, und die eine Ehre in der Schande suchen, und deren Sinn nur auf Irdisches gerichtet ist.</verse>
+        <verse osisID='Phil.3.20'>Denn unser Wandel ist im Himmel, von wannen wir auch unseren Heiland, den Herrn Jesus Christus erwarten,</verse>
+        <verse osisID='Phil.3.21'>Der den Leib unserer Erniedrigung umgestalten wird, um ihn dem Leibe Seiner Herrlichkeit gleich zu gestalten, mittelst der Kraft, durch die Er alles Sich untertänig machen kann.</verse>
+      </chapter>
+      <chapter osisID='Phil.4'>
+        <title>Ermahnungen. Danksagung. Grüße.</title>
+        <verse osisID='Phil.4.1'>Darum, geliebte Brüder, nach denen mich verlangt, ihr, meine Freude und meine Krone, steht fest im Herrn, Geliebte.</verse>
+        <verse osisID='Phil.4.2'>Die Evodia ermahne ich und die Syntyche ermahne ich, einträchtig zu sein in dem Herrn.</verse>
+        <verse osisID='Phil.4.3'>Ja, ich bitte auch dich, mein treuer Geselle, nimm dich ihrer an, die samt mir für das Evangelium gekämpft haben, mit Clemens und meinen anderen Mitarbeitern, deren Namen im Buche des Lebens stehen.</verse>
+        <verse osisID='Phil.4.4'>Freut euch im Herrn allewege, und abermals sage ich: Freuet euch!</verse>
+        <verse osisID='Phil.4.5'>Eure Mildtätigkeit werde allen Menschen kund. Der Herr ist nahe.</verse>
+        <verse osisID='Phil.4.6'>Sorget um nichts, sondern lasset in allen Dingen, im Gebet und im Flehen mit Danksagung eure Anliegen vor Gott kund werden.</verse>
+        <verse osisID='Phil.4.7'>Und der Friede Gottes, der höher ist, als alle Vernunft, bewahre eure Herzen und Gedanken in Christus Jesus.</verse>
+        <verse osisID='Phil.4.8'>Weiter, Brüder, was wahrhaftig ist, was ehrbar, was gerecht, was rein, was lieblich ist, was wohl lautet, was irgendwie tugendhaft und löblich ist, dem denket nach.</verse>
+        <verse osisID='Phil.4.9'>Was ihr gelernt und empfangen und gehört und gesehen habt an mir, das tut, so wird der Gott des Friedens mit euch sein.</verse>
+        <verse osisID='Phil.4.10'>Ich bin höchlich erfreut in dem Herrn, daß ihr zu Kräften gekommen seid, mir beistehen zu können, woran ihr auch früher dachtet, wozu ihr aber die Mittel nicht hattet.</verse>
+        <verse osisID='Phil.4.11'>Ich sage das nicht, als ob ich Mangel gelitten hätte; denn ich habe gelernt, mir mit dem, was ich habe, genügen zu lassen.</verse>
+        <verse osisID='Phil.4.12'>Denn ich weiß mich in Niedrigkeit zu schicken, und im Glück mich zurechtzufinden. Ich bin auf alle Dinge eingelernt, kann mich satt essen und hungern, übrig haben und Mangel leiden.</verse>
+        <verse osisID='Phil.4.13'>Ich vermag alles durch Den, Der mir dazu das Vermögen gibt, Christus.</verse>
+        <verse osisID='Phil.4.14'>Ihr habt aber wohlgetan, daß ihr euch meiner Trübsal angenommen habt.</verse>
+        <verse osisID='Phil.4.15'>Ihr Philipper wisset aber selbst, daß im Anfang des Evangeliums, da ich von Mazedonien auszog, keine Gemeinde sich mit mir in die Kosten geteilt hat, außer ihr allein,</verse>
+        <verse osisID='Phil.4.16'>Daß ihr nach Thessalonich mir zu meinem Notbedarf einmal, und danach abermals beigesteuert habt.</verse>
+        <verse osisID='Phil.4.17'>Nicht daß ich die Gabe suche, sondern ich wünsche, daß überflüssige Frucht euch zuteil werde.</verse>
+        <verse osisID='Phil.4.18'>Denn ich habe genug und übergenug, da ich durch Epaphroditus das empfangen habe, was von euch kam, als lieblichen Geruch, als angenehmes Opfer, Gott wohlgefällig.</verse>
+        <verse osisID='Phil.4.19'>Mein Gott aber verleihe euch reichlich all euren Bedarf aus Seinem Reichtum durch die Herrlichkeit in Christo Jesu.</verse>
+        <verse osisID='Phil.4.20'>Unserem Gott und Vater aber sei Ehre von Ewigkeit zu Ewigkeit. Amen.</verse>
+        <verse osisID='Phil.4.21'>Grüßet alle Heiligen in Christus Jesus, es grüßen euch die Brüder, die bei mir sind.</verse>
+        <verse osisID='Phil.4.22'>Es grüßen euch alle Heiligen, sonderlich aber die aus des Kaisers Haus.</verse>
+        <verse osisID='Phil.4.23'>Die Gnade unseres Herrn Jesu Christi sei mit euch allen! Amen.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

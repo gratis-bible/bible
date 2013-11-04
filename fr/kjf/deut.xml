@@ -1,0 +1,1123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <osisText xml:lang='fr' osisRefWork='Bible' osisIDWork='KJF'>
+    <header>
+      <revisionDesc>
+        <date>2010-10-12</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='KJF'>
+        <title>King James Française</title>
+        <contributor/>
+        <creator>TextToZefania 1.0</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2010-10-10</date>
+        <description>Ce site chrétien fait l’apologie de la Bible King James anglaise et présente aux Francophones la seule traduction basée sur le Texte Massorétique Hébreu pour l’Ancien Testament et le Texte Reçu (Texte Majoritaire) Grec pour le Nouveau Testament. La Bible King James Française ne peut pas être la Bible des Réformateurs Francophones. La raison primordiale de cette traduction est de donner une Bible en français, basée sur ces mêmes manuscrits. Cette traduction de la Bible King James Française a commencé en 1994 et a abouti à la traduction complète de la Bible King James Française en 2006 !</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>KJF</identifier>
+        <source>http://www.kingjamesfrancaise.com/</source>
+        <language type='IETF'>fr</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Traduction en Français de la Bible King James par Nadine Stratford </rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Deut'>
+      <chapter osisID='Deut.1'>
+        <verse osisID='Deut.1.1'>Ce sont ici les paroles que Moïse dit à tout Israël, de ce côté du Jourdain dans le désert, dans la plaine face à la mer Rouge, entre Paran et Tophel, et Laban, et Hazeroth, et Dizahab.</verse>
+        <verse osisID='Deut.1.2'>(Il y a onze journées de marche depuis Horeb, par le chemin du mont Seir, jusqu’à Kadeshbarnea).</verse>
+        <verse osisID='Deut.1.3'>Or il arriva, en la quarantième année, au onzième mois, au premier jour, que Moïse parla aux enfants d’Israël, selon tout ce que le SEIGNEUR lui avait donné comme commandement pour eux;</verse>
+        <verse osisID='Deut.1.4'>Après qu’il ait tué Sihon, le roi des Amorites, qui demeurait à Heshbon (Hesbon), et Og, le roi de Bashan, qui demeurait à Ashtaroth et à Edrei.</verse>
+        <verse osisID='Deut.1.5'>De ce côté du Jourdain, dans le pays de Moab, Moïse commença à déclarer cette loi, en disant:</verse>
+        <verse osisID='Deut.1.6'>Le SEIGNEUR notre Dieu nous parla en Horeb, disant: Vous êtes demeurés assez longtemps en ce mont;</verse>
+        <verse osisID='Deut.1.7'>Tournez-vous et entreprenez votre voyage, et allez vers le mont des Amorites, et dans tous les lieux y avoisinants, dans la plaine, dans les collines, et dans la vallée, et vers le Sud, et le long de la mer, au pays des Canaanites, et au Liban, jusqu’au grand fleuve, le fleuve Euphrate.</verse>
+        <verse osisID='Deut.1.8'>Regardez, j’ai mis le pays devant vous; entrez et possédez le pays que le SEIGNEUR a juré à vos pères, Abraham, Isaac et Jacob, de leur donner et à leur semence après eux.</verse>
+        <verse osisID='Deut.1.9'>Et je vous parlai en ce temps-là, disant: Je ne puis vous porter, moi seul.</verse>
+        <verse osisID='Deut.1.10'>Le SEIGNEUR votre Dieu vous a multiplié, et voici, vous êtes aujourd’hui comme les étoiles du ciel par [votre] multitude.</verse>
+        <verse osisID='Deut.1.11'>(Que le SEIGNEUR Dieu de vos pères, vous fasse mille fois plus nombreux que vous êtes, et vous bénisse comme il vous l’a promit)!</verse>
+        <verse osisID='Deut.1.12'>Comment puis-je moi seul porter vos contrariétés, et votre fardeau et vos querelles?</verse>
+        <verse osisID='Deut.1.13'>Prenez parmi vos tribus des hommes sages et intelligents et connus, et je les établirai dirigeants sur vous.</verse>
+        <verse osisID='Deut.1.14'>Et vous m’avez répondu, et la chose que tu as dit de faire, nous semble bonne.</verse>
+        <verse osisID='Deut.1.15'>Alors je pris les plus importants de vos tribus, des hommes sages et connus, et je les mis chefs sur vous, capitaines de milliers, capitaines de centaines, capitaines de cinquantaines et capitaines de dizaines, et officiers parmi vos tribus.</verse>
+        <verse osisID='Deut.1.16'>Et je commandai à vos juges, en ce temps-là, en disant: Écoutez les différends entre vos frères, et jugez droitement entre chaque homme et son frère, et l’étranger qui est avec lui;</verse>
+        <verse osisID='Deut.1.17'>Toutefois vous ne ferez pas de distinction des personnes en jugement; mais vous entendrez aussi bien le petit que le grand; vous n’aurez peur de la face de personne, car le jugement est de Dieu; et vous ferez venir devant moi la cause qui sera trop difficile pour vous, et je l’entendrai.</verse>
+        <verse osisID='Deut.1.18'>Et je vous commandai, en ce temps-là, toutes les choses que vous deviez faire.</verse>
+        <verse osisID='Deut.1.19'>Et quand nous sommes partis d’Horeb, nous avons traversé tout ce grand et terrible désert que vous avez vu, sur le chemin de la montagne des Amorites, comme le SEIGNEUR notre Dieu nous l’avait commandé; et nous sommes arrivés à Kadeshbarnea.</verse>
+        <verse osisID='Deut.1.20'>Et je vous dis: Vous êtes arrivés jusqu’à la montagne des Amorites, que le SEIGNEUR notre Dieu nous donne.</verse>
+        <verse osisID='Deut.1.21'>Regarde, le SEIGNEUR ton Dieu met le pays devant toi; monte et possède-le, comme le SEIGNEUR Dieu de tes pères, te l’a dit; n’ai pas peur, et ne sois pas non plus découragé.</verse>
+        <verse osisID='Deut.1.22'>Et vous vous êtes tous approchés de moi, et avez dit: Nous enverrons des hommes devant nous, ils reconnaîtront pour nous le pays et ils nous rapporteront des nouvelles du chemin par lequel nous devons monter, et en quelles villes nous irons;</verse>
+        <verse osisID='Deut.1.23'>Et ce propos me sembla bon; et je pris douze hommes parmi vous, un homme par tribu.</verse>
+        <verse osisID='Deut.1.24'>Et ils se tournèrent, et montèrent vers la montagne, et arrivèrent à la vallée d’Eshcol, et l’explorèrent.</verse>
+        <verse osisID='Deut.1.25'>Et ils prirent dans leurs mains du fruit du pays, et nous l’apportèrent; et nous donnèrent des nouvelles, et dirent: C’est un bon pays que le SEIGNEUR notre Dieu nous donne.</verse>
+        <verse osisID='Deut.1.26'>Malgré tout vous n’avez pas voulu monter, mais [vous] vous rebellèrent contre le commandement du SEIGNEUR votre Dieu;</verse>
+        <verse osisID='Deut.1.27'>Et vous murmurèrent dans vos tentes, et dirent: C’est parce que le SEIGNEUR nous hait, qu’il nous a fait sortir du pays d’Égypte, pour nous livrer en la main des Amorites, pour nous détruire.</verse>
+        <verse osisID='Deut.1.28'>Où monterions-nous? Nos frères ont découragé notre cœur, en disant: Le peuple est plus grand et de plus haute taille que nous, les villes sont grandes et fortifiées jusqu’au ciel, et de plus nous avons vu là les fils des Anakims.</verse>
+        <verse osisID='Deut.1.29'>Alors je vous dis: Ne vous épouvantez pas, et n’ayez pas peur d’eux.</verse>
+        <verse osisID='Deut.1.30'>Le SEIGNEUR votre Dieu, qui marche devant vous, lui-même combattra pour vous, selon tout ce qu’il a fait pour vous sous vos yeux en Égypte,</verse>
+        <verse osisID='Deut.1.31'>Et dans le désert, où tu as vu de quelle manière le SEIGNEUR ton Dieu t’a porté comme un homme porte son fils, tout le long du chemin où vous êtes allés, jusqu’à ce que vous soyez arrivés en ce lieu.</verse>
+        <verse osisID='Deut.1.32'>Toutefois pour cette affaire, vous n’avez pas cru le SEIGNEUR votre Dieu,</verse>
+        <verse osisID='Deut.1.33'>Qui marchait sur le chemin devant vous, pour chercher un lieu pour y dresser vos tentes, par le feu de nuit, pour vous montrer le chemin où vous deviez marcher, et le jour, dans un nuage.</verse>
+        <verse osisID='Deut.1.34'>Et le SEIGNEUR entendit la voix de vos paroles, et se courrouça, et jura, disant:</verse>
+        <verse osisID='Deut.1.35'>Certainement aucun des hommes de cette méchante génération ne verra ce bon pays que j’ai juré de donner à vos pères,</verse>
+        <verse osisID='Deut.1.36'>Excepté Caleb, le fils de Jephunneh (Jephumné): lui, le verra; et je lui donnerai, à lui et à ses enfants, le pays sur lequel il a marché, parce qu’il a pleinement suivi le SEIGNEUR.</verse>
+        <verse osisID='Deut.1.37'>Le SEIGNEUR se courrouça contre moi à cause de vous, en disant: Toi non plus, tu n’y entreras pas.</verse>
+        <verse osisID='Deut.1.38'>Mais Joshua (Josué), le fils de Nun, qui se tient devant toi, lui, y entrera; encourage-le, car lui le fera hériter à Israël. #</verse>
+        <verse osisID='Deut.1.39'>De plus vos jeunes enfants, dont vous avez dit qu’ils seraient une proie, et vos enfants, qui en ce temps-là ne connaissaient pas la différence entre le bien et le mal, eux y entreront, et à eux je le donnerai, et ils le posséderont;</verse>
+        <verse osisID='Deut.1.40'>Mais quant à vous, retournez, et entreprenez votre voyage vers le désert par le chemin de la mer Rouge.</verse>
+        <verse osisID='Deut.1.41'>Alors vous avez répondu, et m’avez dit: Nous avons péché contre le SEIGNEUR; nous monterons et nous combattrons, selon tout ce que le SEIGNEUR notre Dieu nous a commandé. Et quand chacun ceignit ses armes de guerre, vous étiez prêts pour monter la colline.</verse>
+        <verse osisID='Deut.1.42'>Et le SEIGNEUR me dit: Dis-leur: Ne montez pas, et ne combattez pas, car je ne suis pas au milieu de vous; de peur que vous ne soyez battus devant vos ennemis.</verse>
+        <verse osisID='Deut.1.43'>Et je vous parlai, et vous ne vouliez pas entendre, mais vous vous êtes rebellés contre le commandement du SEIGNEUR, et présomptueusement vous avez monté la colline.</verse>
+        <verse osisID='Deut.1.44'>Et l’Amorite, qui demeurait dans cette montagne, sortit contre vous, et vous poursuivit comme font les abeilles, et vous battit depuis Seir, et même jusqu’à Hormah.</verse>
+        <verse osisID='Deut.1.45'>Et vous êtes revenus et avez pleuré devant le SEIGNEUR; mais le SEIGNEUR n’écouta pas votre voix, et ne vous prêta pas l’oreille.</verse>
+        <verse osisID='Deut.1.46'>Ainsi vous demeurèrent à Kadesh beaucoup de jours, selon les jours que vous y avez demeuré.</verse>
+      </chapter>
+      <chapter osisID='Deut.2'>
+        <verse osisID='Deut.2.1'>Puis nous avons tourné et entrepris notre voyage vers le désert, par le chemin de la mer Rouge, comme le SEIGNEUR me l’avait dit; et nous avons tourné longtemps autour de la montagne de Seir.</verse>
+        <verse osisID='Deut.2.2'>Et le SEIGNEUR me parla, en disant:</verse>
+        <verse osisID='Deut.2.3'>Vous avez assez fait le tour de cette montagne; tournez-vous vers le Nord;</verse>
+        <verse osisID='Deut.2.4'>Et commande au peuple, en disant: Vous allez traverser le territoire de vos frères, les enfants d’Esau (Esaü), qui demeurent en Seir, et ils auront peur de vous; mais soyez bien sur vos gardes;</verse>
+        <verse osisID='Deut.2.5'>N’ayez pas de démêlé avec eux; car je ne vous donnerai rien de leur pays, non, pas même la largeur d’un pied; parce que j’ai donné à Esau (Esaü) le mont Seir en possession.</verse>
+        <verse osisID='Deut.2.6'>Vous achèterez d’eux les vivres pour de l’argent, pour que vous puissiez manger; et vous achèterez d’eux aussi l’eau pour de l’argent, pour que vous puissiez boire.</verse>
+        <verse osisID='Deut.2.7'>Car le SEIGNEUR ton Dieu t’a béni dans toutes les œuvres de ta main; il connaît ta marche à travers ce grand désert; le SEIGNEUR ton Dieu a été avec toi pendant ces quarante années; tu n’as manqué de rien.</verse>
+        <verse osisID='Deut.2.8'>Et quand nous sommes passés au-delà de nos frères, les enfants d’Esau (Esaü), qui demeuraient à Seir, par le chemin de la plaine, d’Elath et d’Eziongaber; nous avons tourné, et nous sommes passés par le chemin du désert de Moab.</verse>
+        <verse osisID='Deut.2.9'>Alors le SEIGNEUR me dit: N’afflige pas les Moabites, et ne les provoque pas à la bataille; car je ne te donnerai rien de leur pays en possession, parce que j’ai donné Ar en possession aux enfants de Lot.</verse>
+        <verse osisID='Deut.2.10'>Les Emim y demeuraient auparavant, peuple grand, et nombreux, et de haute taille, comme les Anakims;</verse>
+        <verse osisID='Deut.2.11'>Qui étaient aussi considérés géants, comme les Anakims; mais les Moabites les appelaient Emim.</verse>
+        <verse osisID='Deut.2.12'>Les Horites aussi demeuraient auparavant en Seir; mais les enfants d’Esau (Esaü) leur succédèrent lorsqu’ils les détruisirent de devant eux; et ils demeurèrent à leur place, comme a fait Israël dans le pays de sa possession que le SEIGNEUR lui a donné.</verse>
+        <verse osisID='Deut.2.13'>Maintenant levez-vous, dis-je, et passez le torrent de Zered. Et nous avons traversé le torrent de Zered.</verse>
+        <verse osisID='Deut.2.14'>Or le temps que nous avons marché, depuis Kadeshbarnea jusqu’au passage du torrent de Zered, a été de trente-huit ans, jusqu’à ce que toute la génération des hommes de guerre ait été consumée du milieu de l’armée, comme le SEIGNEUR le leur avait juré.</verse>
+        <verse osisID='Deut.2.15'>Car en effet la main du SEIGNEUR était contre eux pour les détruire du milieu de l’armée, jusqu’à ce qu’ils aient été consumés.</verse>
+        <verse osisID='Deut.2.16'>Et il arriva lorsque tous les hommes de guerre du milieu du peuple, ont été consumés et morts,</verse>
+        <verse osisID='Deut.2.17'>Le SEIGNEUR me parla, en disant:</verse>
+        <verse osisID='Deut.2.18'>Tu vas aujourd’hui traverser Ar, le territoire de Moab;</verse>
+        <verse osisID='Deut.2.19'>Et quand tu seras arrivé en face des enfants d’Ammon, ne les afflige pas, et n’aie pas de démêlé avec eux; car je ne te donnerai aucune possession du pays des enfants d’Ammon, parce que je l’ai donné en possession aux descendants de Lot.</verse>
+        <verse osisID='Deut.2.20'>(Qui aussi était considéré un pays de géants; les géants y demeuraient jadis, et les Ammonites les appellent Zamzummim;</verse>
+        <verse osisID='Deut.2.21'>[C’était] un peuple grand, nombreux, et de haute taille, comme les Anakims; mais le SEIGNEUR les détruisit devant eux, et ils leur succédèrent, et demeurèrent à leur place.</verse>
+        <verse osisID='Deut.2.22'>Comme il avait fait aux enfants d’Esau (Esaü), qui demeuraient en Seir, quand il détruisit les Horites devant eux; et ils leur succédèrent, et demeurèrent à leur place, jusqu’à ce jour.</verse>
+        <verse osisID='Deut.2.23'>Quant aux Avims, lesquels demeuraient en Hazerim, jusqu’à Azzah (Gaza), les Caphtorims, qui étant sortis de Caphtor les détruisirent et demeurèrent à leur place).</verse>
+        <verse osisID='Deut.2.24'>Levez-vous, entreprenez votre voyage, et passez la rivière Arnon; regarde, j’ai donné en ta main Sihon, le roi de Heshbon (Hesbon), l’Amorite, avec son pays; commence à en prendre possession, et provoque-le à la bataille.</verse>
+        <verse osisID='Deut.2.25'>Aujourd’hui je commencerai à répandre la terreur et la peur de toi sur les nations qui sont sous le ciel entier; car ils entendront parler de toi et ils trembleront, et seront angoissés à cause de toi.</verse>
+        <verse osisID='Deut.2.26'>Et j’envoyai, du désert de Kedemoth, des messagers à Sihon, roi de Heshbon (Hesbon), avec des paroles de paix, disant:</verse>
+        <verse osisID='Deut.2.27'>Laisse-moi traverser ton pays; je marcherai par le grand chemin, sans me détourner ni à main droite ni à gauche;</verse>
+        <verse osisID='Deut.2.28'>Tu me vendras des vivres, pour de l’argent, pour que je puisse manger; et tu me donneras de l’eau, pour de l’argent, pour que je puisse boire; je passerai seulement avec mes pieds,</verse>
+        <verse osisID='Deut.2.29'>(Comme m’ont fait les enfants d’Esau (Esaü), qui demeurent à Seir, et les Moabites, qui demeurent à Ar) jusqu’à ce que je passe le Jourdain, [pour entrer] au pays que le SEIGNEUR notre Dieu nous donne.</verse>
+        <verse osisID='Deut.2.30'>Mais Sihon, roi de Heshbon (Hesbon), n’a pas voulu nous laisser passer chez lui; car le SEIGNEUR ton Dieu avait endurci son esprit et rendit son cœur obstiné, afin de le livrer en ta main, comme il paraît aujourd’hui.</verse>
+        <verse osisID='Deut.2.31'>Et le SEIGNEUR me dit: Regarde, j’ai commencé de te donner devant toi Sihon et son pays; commence à [prendre] possession, afin que tu puisses hériter son pays.</verse>
+        <verse osisID='Deut.2.32'>Sihon donc sortit contre nous, lui et tout son peuple, pour combattre à Jahaz.</verse>
+        <verse osisID='Deut.2.33'>Et le SEIGNEUR notre Dieu nous le livra, et nous l’avons battu, lui, ses fils, et tout son peuple.</verse>
+        <verse osisID='Deut.2.34'>Et nous avons pris toutes ses villes à ce moment-là, et nous avons complètement détruit, les hommes, les femmes et les jeunes enfants dans chaque ville; nous n’avons laissé personne.</verse>
+        <verse osisID='Deut.2.35'>Nous avons seulement pris pour nous le bétail et le butin des villes que nous avions prises.</verse>
+        <verse osisID='Deut.2.36'>Depuis Aroer, qui est sur le bord de la rivière Arnon, et la ville qui est le long de la rivière, jusqu’à Gilead (Galaad), il n’y avait pas de ville trop fortifiée pour nous; le SEIGNEUR notre Dieu nous les livra toutes;</verse>
+        <verse osisID='Deut.2.37'>Seulement tu n’es pas entré dans le pays des enfants d’Ammon, ni dans aucun lieu de la rivière Jabbok, ni des villes de la montagne, ni de tout ce que le SEIGNEUR notre Dieu nous avait défendu.</verse>
+      </chapter>
+      <chapter osisID='Deut.3'>
+        <verse osisID='Deut.3.1'>Alors nous avons tourné, et sommes montés par le chemin de Bashan; et Og, le roi de Bashan, sortit contre nous, lui et tout son peuple, pour livrer bataille à Edrei.</verse>
+        <verse osisID='Deut.3.2'>Et le SEIGNEUR me dit: N’aie pas peur de lui; car je le livrerai lui et tout son peuple, et son pays entre ta main; et tu lui feras comme tu as fait à Sihon, roi des Amorites, qui demeurait à Heshbon (Hesbon).</verse>
+        <verse osisID='Deut.3.3'>Ainsi le SEIGNEUR notre Dieu livra aussi entre nos mains Og, le roi de Bashan, et tout son peuple; et nous l’avons battu, jusqu’à ce qu’il ne lui reste personne.</verse>
+        <verse osisID='Deut.3.4'>Et nous avons pris toutes ses villes à ce même moment; il n’y avait pas une ville que nous ne leur avons pas prise, soixante villes, toute la région d’Argob, le royaume d’Og en Bashan.</verse>
+        <verse osisID='Deut.3.5'>Toutes ces villes étaient entourées par de hautes murailles, avec portes et barres; en plus des villes sans murailles, en fort grand nombre</verse>
+        <verse osisID='Deut.3.6'>Et nous les avons entièrement détruits, comme nous avions fait à Sihon, le roi de Heshbon (Hesbon), détruisant entièrement les hommes, les femmes et les jeunes enfants dans chaque ville.</verse>
+        <verse osisID='Deut.3.7'>Mais nous avons pillé pour nous tout le bétail et le butin des villes,</verse>
+        <verse osisID='Deut.3.8'>Nous avons donc pris à ce moment-là de la main des deux rois des Amorites, le pays qui était au-delà du Jourdain, depuis la rivière Arnon, jusqu’au mont Hermon;</verse>
+        <verse osisID='Deut.3.9'>(Or, les Sidoniens appellent l’Hermon, Sirion; et les Amorites l’appellent Shenir):</verse>
+        <verse osisID='Deut.3.10'>Toutes les villes de la plaine, et tout Gilead (Galaad), et tout Bashan, jusqu’à Salcah et Edrei, villes du royaume d’Og en Bashan.</verse>
+        <verse osisID='Deut.3.11'>Car seulement Og, roi de Bashan, demeura du reste des géants; voici, son lit était un lit de fer, n’est-il pas à Rabbath des enfants d’Ammon? Sa longueur était de neuf coudées, et sa largeur de quatre coudées, de coudée d’homme.</verse>
+        <verse osisID='Deut.3.12'>Et ce pays, dont nous avons pris possession à ce moment-là qui est depuis Aroer, qui est sur la rivière Arnon, et la moitié du mont Gilead (Galaad), avec ses villes, je les donnai aux Rubénites et aux Gadites.</verse>
+        <verse osisID='Deut.3.13'>Et le reste de Gilead (Galaad), et tout Bashan, c’est-à-dire le royaume d’Og, je le donnai à la demi tribu de Manasseh (Manassé), toute la région d’Argob, avec tout Bashan qui était appelée le pays des géants.</verse>
+        <verse osisID='Deut.3.14'>Jaïr, le fils de Manasseh (Manassé), prit toute la contrée d’Argob, jusqu’au territoire des Geshurites (Gueshurites) et des Maacathites, et les appela de son nom Bashanhavotjair, jusqu’à ce jour.</verse>
+        <verse osisID='Deut.3.15'>Je donnai aussi Gilead (Galaad) à Machir (Makir).</verse>
+        <verse osisID='Deut.3.16'>Et aux Reubenites et aux Gadites je donnai depuis Gilead (Galaad) jusqu’à la rivière Arnon, la moitié de la vallée, et la frontière jusqu’à la rivière Jabbok, qui est la frontière des enfants d’Ammon;</verse>
+        <verse osisID='Deut.3.17'>Ainsi que la plaine, et le Jourdain, et son territoire, depuis Kinnereth même jusqu’à la mer de la plaine, même la mer Salée, sous Ashdothpisgah, vers l’Est.</verse>
+        <verse osisID='Deut.3.18'>Or, en ce temps-là, je vous commandai, disant: Le SEIGNEUR votre Dieu vous a donné ce pays pour le posséder; vous tous qui êtes prêts pour la guerre, vous traverserez en armes devant vos frères les enfants d’Israël.</verse>
+        <verse osisID='Deut.3.19'>Mais vos femmes, vos jeunes enfants et votre bétail (car je sais que vous avez beaucoup) de bétail, demeureront dans les villes que je vous ai données,</verse>
+        <verse osisID='Deut.3.20'>Jusqu’à ce que le SEIGNEUR ait donné du repos à vos frères comme à vous, et jusqu’à ce qu’eux aussi possèdent le pays que le SEIGNEUR votre Dieu leur a donné au-delà du Jourdain; et alors vous reviendrez chacun dans la possession que je vous ai donnée.</verse>
+        <verse osisID='Deut.3.21'>Je commandai à Joshua (Josué) en ce temps-là, disant: Tes yeux ont vu tout ce que le SEIGNEUR votre Dieu a fait à ces deux rois; le SEIGNEUR fera de même à tous les royaumes vers lesquels tu vas passer.</verse>
+        <verse osisID='Deut.3.22'>N’ayez pas peur d’eux; car le SEIGNEUR votre Dieu combattra lui-même pour vous.</verse>
+        <verse osisID='Deut.3.23'>Et je suppliai à ce moment-là le SEIGNEUR, disant:</verse>
+        <verse osisID='Deut.3.24'>Ô Seigneur DIEU, tu as commencé de montrer à ton serviteur ta grandeur et ta puissante main; car quel Dieu y a-t-il dans le ciel et sur la terre, qui puisse faire selon tes œuvres et selon ta puissance?</verse>
+        <verse osisID='Deut.3.25'>Je te prie, laisse-moi passer, et que je voie ce bon pays qui est au-delà du Jourdain, cette belle montagne, et le Liban.</verse>
+        <verse osisID='Deut.3.26'>Mais le SEIGNEUR était irrité contre moi à cause de vous, et n’a pas voulu m’entendre, et le SEIGNEUR me dit: Cela suffit; ne me parle plus de cette affaire.</verse>
+        <verse osisID='Deut.3.27'>Monte au sommet du Pisgah, et lève tes yeux vers l’Ouest et vers le Nord, vers le Sud et vers l’Est, et contemple de tes yeux; car tu ne passeras pas ce Jourdain.</verse>
+        <verse osisID='Deut.3.28'>Mais donne la charge à Joshua (Josué), et encourage-le, et affermis-le; car lui passera devant ce peuple, et il les fera hériter le pays que tu verras.</verse>
+        <verse osisID='Deut.3.29'>Ainsi nous sommes demeurés dans la vallée, face à Bethpeor.</verse>
+      </chapter>
+      <chapter osisID='Deut.4'>
+        <verse osisID='Deut.4.1'>Et maintenant, écoute Ô Israël, les statuts et les jugements que je vous enseigne, pour les faire, afin que vous viviez, et que vous entriez, et possédiez le pays que le SEIGNEUR Dieu de vos pères, vous donne.</verse>
+        <verse osisID='Deut.4.2'>Vous n’ajouterez rien à la parole que je vous commande, et vous n’en diminuerez rien; afin de garder les commandements du SEIGNEUR, votre Dieu, que je vous commande.</verse>
+        <verse osisID='Deut.4.3'>Vos yeux ont vu ce que le SEIGNEUR a fait à cause de Baalpeor; car tous les hommes qui suivirent Baalpeor, le SEIGNEUR ton Dieu les a détruit du milieu de toi.</verse>
+        <verse osisID='Deut.4.4'>Mais vous qui vous êtes attachés au SEIGNEUR votre Dieu, vous êtes tous vivants aujourd’hui.</verse>
+        <verse osisID='Deut.4.5'>Regarde, je vous ai enseigné statuts et jugements, comme le SEIGNEUR mon Dieu me l’a commandé, afin que vous fassiez ainsi dans le pays où vous allez entrer pour le posséder.</verse>
+        <verse osisID='Deut.4.6'>Vous [les] garderez donc et vous les pratiquerez; car c’est là votre sagesse et votre intelligence aux yeux des nations, qui, entendront tous ces statuts, et diront: Assurément cette grande nation est un peuple sage et intelligent.</verse>
+        <verse osisID='Deut.4.7'>Car quelle nation est si grande, qui ait Dieu si près d’elle, comme le SEIGNEUR notre Dieu est dans toutes les choses sur lesquelles nous l’appelons?</verse>
+        <verse osisID='Deut.4.8'>Et quelle nation est si grande, qui ait des statuts et des jugements si droits, comme toute cette loi que je mets aujourd’hui devant vous?</verse>
+        <verse osisID='Deut.4.9'>Seulement prends garde à toi, et garde soigneusement ton âme, de peur que tu n’oublies les choses que tes yeux ont vues, et afin que de tous les jours de ta vie, elles ne sortent de ton cœur, mais que tu les enseignes à tes fils, et aux fils de tes fils.</verse>
+        <verse osisID='Deut.4.10'>Plus spécialement le jour où tu t’es tenu devant le SEIGNEUR, ton Dieu, à Horeb, lorsque le SEIGNEUR m’a dit: Assemble-moi le peuple, et je leur ferai entendre mes paroles, afin qu’ils puissent apprendre à me craindre tout le temps qu’ils vivront sur la terre, et qu’ils puissent enseigner à leurs enfants.</verse>
+        <verse osisID='Deut.4.11'>Et vous vous êtes approchés, et vous vous êtes tenus au pied de la montagne; et la montagne était tout en feu, jusqu’au milieu du ciel, avec ténèbres, nuages, et une profonde obscurité;</verse>
+        <verse osisID='Deut.4.12'>Et le SEIGNEUR vous parla du milieu du feu; vous avez entendu la voix des paroles, mais vous n’avez vu aucune forme; vous entendiez seulement une voix.</verse>
+        <verse osisID='Deut.4.13'>Et il vous déclara son alliance, qu’il vous commanda de pratiquer, savoir les dix commandements; et il les écrivit sur deux tables de pierre.</verse>
+        <verse osisID='Deut.4.14'>Et le SEIGNEUR me commanda, en ce temps-là, de vous enseigner des statuts et des jugements, afin que vous les fassiez dans le pays dans lequel vous allez passer pour le posséder.</verse>
+        <verse osisID='Deut.4.15'>Prenez donc bien garde à vous-mêmes, car vous n’avez vu aucune forme au jour où le SEIGNEUR votre Dieu vous parla, à Horeb, du milieu du feu;</verse>
+        <verse osisID='Deut.4.16'>De peur que vous ne vous corrompiez, et que vous ne vous fassiez [quelque] image taillée, la ressemblance d’une figure quelconque, l’effigie d’un mâle ou d’une femelle,</verse>
+        <verse osisID='Deut.4.17'>L’effigie de quelque bête qui soit sur la terre, l’effigie de quelque oiseau ailé qui vole en l’air,</verse>
+        <verse osisID='Deut.4.18'>L’effigie de quelque être rampant sur le sol, l’effigie de quelque poisson qui soit dans les eaux au-dessous de la terre;</verse>
+        <verse osisID='Deut.4.19'>Et de peur que tu ne lèves tes yeux vers le ciel, et que tu ne voies le soleil, et la lune et les étoiles, et même toute l’armée du ciel, que tu ne sois poussé à les adorer, et à les servir, lesquels le SEIGNEUR ton Dieu a donnés en partage à toutes les nations sous le ciel entier.</verse>
+        <verse osisID='Deut.4.20'>Mais le SEIGNEUR vous a pris, et vous a tirés hors de la fournaise de fer, c’est-à-dire d’Égypte, afin de lui être un peuple héréditaire, comme vous l’êtes aujourd’hui.</verse>
+        <verse osisID='Deut.4.21'>De plus le SEIGNEUR s’était courroucé contre moi à cause de vous, et il a juré que je ne passerais pas le Jourdain, et que je n’entrerais pas en ce bon pays que le SEIGNEUR ton Dieu te donne en héritage.</verse>
+        <verse osisID='Deut.4.22'>Et de fait, je dois mourir dans ce pays, je ne dois pas passer le Jourdain; mais vous le passerez, et vous posséderez ce bon pays.</verse>
+        <verse osisID='Deut.4.23'>Prenez garde à vous, de peur que vous n’oubliez l’alliance du SEIGNEUR votre Dieu, laquelle il a traitée avec vous, et que vous ne fassiez [quelque] image taillée, ou la ressemblance d’une chose quelconque, ce que le SEIGNEUR ton Dieu t’a défendue;</verse>
+        <verse osisID='Deut.4.24'>Car le SEIGNEUR ton Dieu est un feu consumant, même un Dieu jaloux.</verse>
+        <verse osisID='Deut.4.25'>Quand tu auras engendré des enfants, et des enfants de tes enfants, et que vous aurez demeuré longtemps dans le pays, et que vous vous serez corrompus, et que vous aurez fait une image taillée, ou quelque ressemblance d’une chose quelconque, et que vous aurez fait ce qui est mal à la vue du SEIGNEUR ton Dieu, pour le provoquer à la colère,</verse>
+        <verse osisID='Deut.4.26'>J’appelle aujourd’hui à témoin contre vous le ciel et la terre, que vous périrez bientôt entièrement dans ce pays où vous allez au delà du Jourdain pour le posséder; vous n’y prolongerez pas vos jours, mais vous serez entièrement détruits;</verse>
+        <verse osisID='Deut.4.27'>Et le SEIGNEUR vous dispersera parmi les nations, et vous resterez en petit nombre parmi les païens où le SEIGNEUR vous conduira;</verse>
+        <verse osisID='Deut.4.28'>Et vous servirez là des dieux, ouvrage de mains d’homme, de bois et de pierre, qui ne voient, ni n’entendent, ni ne mangent, ni ne sentent.</verse>
+        <verse osisID='Deut.4.29'>Mais si de là, tu cherches le SEIGNEUR ton Dieu, tu le trouveras, si tu le cherches de tout ton cœur et de toute ton âme.</verse>
+        <verse osisID='Deut.4.30'>Quand tu seras dans la tribulation et que toutes ces choses te seront arrivées, dans les derniers jours, si tu te tournes vers le SEIGNEUR ton Dieu, et que tu sois obéissant à sa voix.</verse>
+        <verse osisID='Deut.4.31'>(Car le SEIGNEUR ton Dieu est un Dieu miséricordieux), il ne t’abandonnera pas et ne te détruira pas; ni n’oubliera l’alliance de tes pères, qu’il leur a jurée.</verse>
+        <verse osisID='Deut.4.32'>Car informe-toi des jours passés, qui ont été avant toi, depuis le jour où Dieu a créé l’homme sur la terre, et demande depuis un bout du ciel à l’autre, s’il n’y a jamais rien eu de semblable à cette grande chose, ou s’il a été jamais rien entendu de semblable?</verse>
+        <verse osisID='Deut.4.33'>Savoir, qu’un peuple ait entendu la voix de Dieu, parlant du milieu du feu, comme tu l’as entendue, et qu’il soit demeuré en vie?</verse>
+        <verse osisID='Deut.4.34'>Ou que Dieu ait essayé de venir prendre à lui une nation du milieu d’une autre nation, par des épreuves, des signes et des prodiges, et par la guerre, et par une main puissante, et par un bras étendu, et par des grandes terreurs, selon tout ce que le SEIGNEUR votre Dieu a fait pour vous en Égypte, sous vos yeux?</verse>
+        <verse osisID='Deut.4.35'>Cela t’a été montré, afin que tu puisses connaître que le SEIGNEUR est Dieu, qu’il n’y en a pas d’autre que lui.</verse>
+        <verse osisID='Deut.4.36'>Du ciel, il t’a fait entendre sa voix pour t’instruire, et sur la terre il t’a montré son grand feu, et tu as entendu ses paroles du milieu du feu.</verse>
+        <verse osisID='Deut.4.37'>Et parce qu’il a aimé tes pères, il a donc choisi leur semence après eux, et il t’a fait sortir d’Égypte en sa présence, par sa grande puissance,</verse>
+        <verse osisID='Deut.4.38'>Pour chasser devant toi des nations plus grandes et plus puissantes que toi, pour t’introduire en leur pays et te le donner en héritage, comme cela est aujourd’hui.</verse>
+        <verse osisID='Deut.4.39'>Sache donc aujourd’hui, et réfléchi dans ton cœur, que le SEIGNEUR, lui, est Dieu dans le ciel là-haut et sur la terre en bas, il n’y en a pas d’autre.</verse>
+        <verse osisID='Deut.4.40'>Tu garderas donc ses statuts et ses commandements que je te commande aujourd’hui, afin que tout aille bien avec toi et avec tes enfants après toi, et que tu puisses prolonger tes jours sur la terre que le Seigneur ton Dieu te donne pour toujours.</verse>
+        <verse osisID='Deut.4.41'>Alors Moïse sépara trois villes de ce côté du Jourdain, vers le soleil levant,</verse>
+        <verse osisID='Deut.4.42'>Afin que le meurtrier qui aurait tué son voisin sans le savoir et ne l’aurait pas haï auparavant, s’y enfuit; et que fuyant dans l’une de ces villes, il puisse avoir la vie sauve,</verse>
+        <verse osisID='Deut.4.43'>Savoir: Bezer, dans le désert, dans le pays de la plaine, des Rubénites; et Ramoth, en Gilead (Galaad), des Gadites; et Golan, en Bashan, des Manassites.</verse>
+        <verse osisID='Deut.4.44'>Et c’est ici la loi que Moïse mit devant les enfants d’Israël.</verse>
+        <verse osisID='Deut.4.45'>Ce sont les témoignages, les statuts et les jugements que Moïse exposa aux enfants d’Israël, après qu’ils soient sortis d’Égypte,</verse>
+        <verse osisID='Deut.4.46'>De ce côté-ci du Jourdain, dans la vallée en face de Bethpeor, dans le pays de Sihon, roi des Amorites, qui demeurait à Heshbon (Hesbon) que Moïse et les enfants d’Israël frappèrent après être sortis d’Égypte.</verse>
+        <verse osisID='Deut.4.47'>Et ils possédèrent son pays, et le pays d’Og, roi de Bashan, deux rois des Amorites, qui étaient au-delà du Jourdain, vers le soleil levant,</verse>
+        <verse osisID='Deut.4.48'>Depuis Aroer, qui est sur le bord de la rivière Arnon, jusqu’au mont Sion, qui est l’Hermon,</verse>
+        <verse osisID='Deut.4.49'>Et toute la plaine de ce côté-ci du Jourdain, vers l’Est, jusqu’à la mer de la plaine, sous les pentes du Pisgah.</verse>
+      </chapter>
+      <chapter osisID='Deut.5'>
+        <verse osisID='Deut.5.1'>Et Moïse appela tout Israël, et leur dit: Entends, ô Israël, les statuts et les jugements que je prononce aujourd’hui à vos oreilles; afin que vous les appreniez et les gardiez pour les faire.</verse>
+        <verse osisID='Deut.5.2'>Le SEIGNEUR notre Dieu fit une alliance avec nous en Horeb.</verse>
+        <verse osisID='Deut.5.3'>Le SEIGNEUR n’a pas fait cette alliance avec nos pères, mais avec nous, c’est-à-dire nous, qui sommes ici aujourd’hui, tous vivants.</verse>
+        <verse osisID='Deut.5.4'>Le SEIGNEUR vous parla face à face sur le mont, du milieu du feu.</verse>
+        <verse osisID='Deut.5.5'>(Je me tenais en ce temps-là entre le SEIGNEUR et vous, pour vous montrer la parole du SEIGNEUR; parce que vous aviez peur à cause du feu, et vous n’êtes pas montés sur le mont): disant:</verse>
+        <verse osisID='Deut.5.6'>Je suis le SEIGNEUR ton Dieu, qui t’ai fait sortir du pays d’Égypte, de la maison de servitude.</verse>
+        <verse osisID='Deut.5.7'>Tu n’auras pas d’autres dieux devant moi.</verse>
+        <verse osisID='Deut.5.8'>Tu ne te feras aucune image taillée, ni aucune ressemblance d’aucune chose qui est en haut dans le ciel, ni de ce qui est au-dessous sur la terre, ni de ce qui est dans les eaux au-dessous de la terre.</verse>
+        <verse osisID='Deut.5.9'>Tu ne t’inclineras pas devant elles, et tu ne les serviras pas; car moi, le SEIGNEUR ton Dieu, suis un Dieu jaloux, visitant l’iniquité des pères sur les enfants, jusqu’à la troisième et à la quatrième génération de ceux qui me haïssent,</verse>
+        <verse osisID='Deut.5.10'>Et montrant miséricorde aux milliers de ceux qui m’aiment et qui gardent mes commandements.</verse>
+        <verse osisID='Deut.5.11'>Tu ne prendras pas le nom du SEIGNEUR ton Dieu en vain; car le SEIGNEUR ne tiendra pas pour innocent celui qui aura pris son nom en vain.</verse>
+        <verse osisID='Deut.5.12'>Garde le jour du sabbat pour le sanctifier, comme le SEIGNEUR ton Dieu te l’a commandé;</verse>
+        <verse osisID='Deut.5.13'>Tu travailleras six jours, et tu feras tout ton travail;</verse>
+        <verse osisID='Deut.5.14'>Mais le septième jour est le sabbat du SEIGNEUR ton Dieu; tu ne feras aucun travail en ce [jour]-là, ni toi, ni ton fils, ni ta fille, ni ton serviteur, ni ta servante, ni ton bœuf, ni ton âne, ni aucune de tes bêtes, ni ton étranger qui est dans tes portes, afin que ton serviteur et ta servante puissent se reposer comme toi.</verse>
+        <verse osisID='Deut.5.15'>Et souviens-toi que tu as été serviteur dans le pays d’Égypte, et que le SEIGNEUR ton Dieu t’en a fait sortir par une puissante main et par un bras étendu; c’est pourquoi, le SEIGNEUR ton Dieu t’a commandé de garder le jour du sabbat.</verse>
+        <verse osisID='Deut.5.16'>Honore ton père et ta mère, comme le SEIGNEUR ton Dieu te l’a commandé, afin que tes jours soient prolongés, et que tout te sois bien dans le pays que le SEIGNEUR ton Dieu te donne.</verse>
+        <verse osisID='Deut.5.17'>Tu ne tueras pas.</verse>
+        <verse osisID='Deut.5.18'>Tu ne commettras pas adultère.</verse>
+        <verse osisID='Deut.5.19'>Tu ne voleras pas.</verse>
+        <verse osisID='Deut.5.20'>Tu ne diras pas de faux témoignage contre ton voisin.</verse>
+        <verse osisID='Deut.5.21'>Tu ne désireras pas la femme de ton voisin, et tu ne convoiteras pas non plus la maison de ton voisin, ni son champ, ni son serviteur, ni sa servante, ni son bœuf, ni son âne, ni aucune chose qui soit à ton voisin.</verse>
+        <verse osisID='Deut.5.22'>Le SEIGNEUR prononça ces paroles à toute votre assemblée, sur le mont, du milieu du feu, du nuage et de l’épaisse obscurité, d’une voix forte, et il n’ajouta rien. Et il les écrivit sur deux tables de pierre, et il me les donna.</verse>
+        <verse osisID='Deut.5.23'>Et il arriva que lorsque vous avez entendu la voix du milieu de l’obscurité, (d’autant que le mont était tout en feu), vous vous êtes approchés de moi, à savoir tous les chefs de vos tribus et vos anciens,</verse>
+        <verse osisID='Deut.5.24'>Et vous dirent: Voici, le SEIGNEUR notre Dieu nous a montré sa gloire et sa grandeur, et nous avons entendu sa voix du milieu du feu; nous avons vu aujourd’hui que Dieu parle avec l’homme, et qu’il (l’homme) vit.</verse>
+        <verse osisID='Deut.5.25'>Maintenant donc, pourquoi mourrions-nous? Car ce grand feu nous consumera; si nous entendons de nouveau la voix du SEIGNEUR notre Dieu, alors nous mourrons.</verse>
+        <verse osisID='Deut.5.26'>Car qui est-ce de toute chair, qui a entendu, comme nous, la voix du Dieu vivant, parlant du milieu du feu, et qui [soit demeuré en] vie?</verse>
+        <verse osisID='Deut.5.27'>Approche, toi, et entend tout ce que le SEIGNEUR notre Dieu dira, puis tu nous rapporteras tout ce que le SEIGNEUR notre Dieu t’aura dit, et nous l’entendrons, et nous le ferons.</verse>
+        <verse osisID='Deut.5.28'>Et le SEIGNEUR entendit vos paroles lorsque vous me parliez; et le SEIGNEUR me dit: J’ai entendu la voix des paroles de ce peuple, qu’ils t’ont dites; ils ont bien dit en tout ce qu’ils ont parlé.</verse>
+        <verse osisID='Deut.5.29'>Ô s’ils avaient toujours un tel cœur pour elles, afin qu’ils me craignent et gardent toujours tous mes commandements, afin que tout leur soit bien, et à leurs enfants pour toujours!</verse>
+        <verse osisID='Deut.5.30'>Va, dis-leur: Retournez dans vos tentes;</verse>
+        <verse osisID='Deut.5.31'>Mais quant à toi, tiens-toi ici près de moi, et je te dirai tous les commandements, les statuts et les jugements que tu leur enseigneras, afin qu’ils les fassent dans le pays que je leur donne pour le posséder.</verse>
+        <verse osisID='Deut.5.32'>Vous ferez donc attention à faire comme le SEIGNEUR votre Dieu a commandé; vous ne vous détournerez ni à main droite ni à gauche.</verse>
+        <verse osisID='Deut.5.33'>Vous marcherez dans tous les chemins que le SEIGNEUR votre Dieu vous a commandés, afin que vous viviez et que tout soit bien avec vous, et que vous prolongiez vos jours dans le pays que vous posséderez.</verse>
+      </chapter>
+      <chapter osisID='Deut.6'>
+        <verse osisID='Deut.6.1'>Or, ceux-ci sont les commandements, les statuts et les ordonnances que le SEIGNEUR votre Dieu a commandé de vous enseigner, afin que vous les fassiez, dans le pays dans lequel vous allez passer pour le posséder;</verse>
+        <verse osisID='Deut.6.2'>Afin que tu craignes le SEIGNEUR ton Dieu, pour garder tous ses statuts et ses commandements que je te commandes, toi, ton fils, et le fils de ton fils, tous les jours de ta vie, et afin que tes jours puissent être prolongés.</verse>
+        <verse osisID='Deut.6.3'>Entends donc, ô Israël, et prends garde de le faire, afin que tout soit bien avec toi, et que vous soyez grandement multipliés dans le pays où coulent le lait et le miel, comme le SEIGNEUR, le Dieu de tes pères, te l’a promis.</verse>
+        <verse osisID='Deut.6.4'>Entends, ô Israël; le SEIGNEUR notre Dieu est un [seul] SEIGNEUR.</verse>
+        <verse osisID='Deut.6.5'>Et tu aimeras le SEIGNEUR ton Dieu, de tout ton cœur, et de toute ton âme, et de tout ton pouvoir.</verse>
+        <verse osisID='Deut.6.6'>Et ces paroles que je te commande aujourd’hui seront dans ton cœur;</verse>
+        <verse osisID='Deut.6.7'>Et tu les enseigneras soigneusement à tes enfants, et tu en parleras quand tu seras assis dans ta maison, quand tu marcheras en chemin, et quand tu te coucheras, et quand tu te lèveras;</verse>
+        <verse osisID='Deut.6.8'>Et tu les lieras pour [être] un signe sur ta main, et ils seront comme des fronteaux entre tes yeux;</verse>
+        <verse osisID='Deut.6.9'>Et tu les écriras sur les poteaux de ta maison, et sur tes portes.</verse>
+        <verse osisID='Deut.6.10'>Et il arrivera, quand le SEIGNEUR ton Dieu t’aura fait entrer dans le pays qu’il a juré à tes pères, à Abraham, à Isaac et à Jacob, de te donner, de grandes et bonnes villes que tu n’as pas bâties;</verse>
+        <verse osisID='Deut.6.11'>Dans des maisons pleines de toutes bonnes choses, que tu n’as pas remplies, et des puits creusés, que tu n’as pas creusés; des vignes et des oliviers, que tu n’as pas plantés; et que tu mangeras, et seras rassasié;</verse>
+        <verse osisID='Deut.6.12'>Mais prends garde, de peur que tu n’oublies le SEIGNEUR, qui t’a fait sortir hors du pays d’Égypte, de la maison de servitude.</verse>
+        <verse osisID='Deut.6.13'>Tu craindras le SEIGNEUR ton Dieu, et tu le serviras, et tu jureras par son nom.</verse>
+        <verse osisID='Deut.6.14'>Vous n’irez pas après d’autres dieux, d’entre les dieux des peuples qui seront autour de vous,</verse>
+        <verse osisID='Deut.6.15'>(Car le SEIGNEUR ton Dieu est un Dieu jaloux au milieu de toi), de peur que le courroux du SEIGNEUR ton Dieu ne s’enflamme contre toi, et ne te détruise de la face de la terre.</verse>
+        <verse osisID='Deut.6.16'>Vous ne tenterez pas le SEIGNEUR votre Dieu, comme vous l’avez tenté à Massah.</verse>
+        <verse osisID='Deut.6.17'>Vous garderez soigneusement les commandements du SEIGNEUR votre Dieu, et ses témoignages et ses statuts qu’il t’a commandés.</verse>
+        <verse osisID='Deut.6.18'>Et tu feras ce qui est droit et bon aux yeux du SEIGNEUR, afin que tout soit bien avec toi, et que tu puisses entrer et posséder le bon pays que le SEIGNEUR a juré à tes pères,</verse>
+        <verse osisID='Deut.6.19'>En chassant tous tes ennemis de devant toi, comme le SEIGNEUR l’a dit.</verse>
+        <verse osisID='Deut.6.20'>Et quand ton fils t’interrogera à l’avenir, en disant: Que veulent dire les témoignages, et les statuts et les jugements que le SEIGNEUR notre Dieu vous a commandés?</verse>
+        <verse osisID='Deut.6.21'>Alors tu diras à ton fils: Nous étions en servitude chez Pharaon en Égypte, et le SEIGNEUR nous a sortis d’Égypte par une puissante main;</verse>
+        <verse osisID='Deut.6.22'>Et le SEIGNEUR a montré devant nos yeux, par des signes et des prodiges, grands et sévères, sur l’Égypte, sur Pharaon et sur toute sa maison;</verse>
+        <verse osisID='Deut.6.23'>Et il nous a sortis de là, afin qu’il puisse nous amener au pays qu’il avait juré à nos pères de nous donner.</verse>
+        <verse osisID='Deut.6.24'>Et le SEIGNEUR nous a commandé de faire tous ces statuts, de craindre toujours le SEIGNEUR notre Dieu, pour notre bien, afin qu’il nous préserve [notre] vie, comme il paraît aujourd’hui.</verse>
+        <verse osisID='Deut.6.25'>Et ce sera notre droiture, si nous faisons attention de faire tous ces commandements devant le SEIGNEUR notre Dieu, comme il nous l’a commandé.</verse>
+      </chapter>
+      <chapter osisID='Deut.7'>
+        <verse osisID='Deut.7.1'>Quand le SEIGNEUR ton Dieu t’aura fait entrer dans le pays dont tu vas prendre possession, qu’il aura ôté de devant toi beaucoup de nations, les Héthiens, les Guirgasiens, les Amorites, les Canaanites, les Perizzites, et les Hivites, et les Jebusites, sept nations plus grandes et plus puissantes que toi,</verse>
+        <verse osisID='Deut.7.2'>Et que le SEIGNEUR ton Dieu te les aura livrées, tu les frapperas, et tu ne manqueras pas de les détruire; tu ne traiteras pas alliance avec eux, et tu ne leur montreras pas miséricorde;</verse>
+        <verse osisID='Deut.7.3'>Tu ne t’allieras pas par mariage avec eux; tu ne donneras pas tes filles à leurs fils, et tu ne prendras pas leurs filles pour tes fils,</verse>
+        <verse osisID='Deut.7.4'>Car elles détourneraient ton fils de me suivre, pour qu’ils servent d’autres dieux, ainsi le courroux du SEIGNEUR s’enflammerait contre vous, et te détruirait soudainement.</verse>
+        <verse osisID='Deut.7.5'>Mais vous agirez ainsi avec eux: Vous démolirez leurs autels, vous briserez leurs statues, vous abattrez leurs bosquets et vous brûlerez au feu leurs images taillées.</verse>
+        <verse osisID='Deut.7.6'>Car tu es un peuple saint au SEIGNEUR ton Dieu; le SEIGNEUR ton Dieu t’a choisi, afin que tu sois pour lui un peuple particulier, d’entre tous les peuples qui sont sur la face de la terre.</verse>
+        <verse osisID='Deut.7.7'>Ce n’est pas parce que vous étiez plus nombreux qu’aucun autre peuple, que le SEIGNEUR vous a aimés et vous a choisis; car vous étiez en plus petit nombre parmi tous les peuples;</verse>
+        <verse osisID='Deut.7.8'>Mais parce que le SEIGNEUR vous a aimés, et parce qu’il garde le serment qu’il a juré à vos pères, le SEIGNEUR vous a fait sortir par une puissante main, et vous a racheté de la maison de servitude, de la main de Pharaon, roi d’Égypte.</verse>
+        <verse osisID='Deut.7.9'>Sache donc que le SEIGNEUR ton Dieu, lui est Dieu, le Dieu fidèle, qui garde alliance et miséricorde jusqu’à mille générations à ceux qui l’aiment et qui gardent ses commandements,</verse>
+        <verse osisID='Deut.7.10'>Et qui repaye en face à ceux qui le haïssent, pour les détruire, il ne s’adoucira pas envers celui qui le hait; il le repaiera en face.</verse>
+        <verse osisID='Deut.7.11'>Tu garderas donc les commandements, et les statuts et les jugements que je te commande aujourd’hui, pour les faire.</verse>
+        <verse osisID='Deut.7.12'>C’est pourquoi il arrivera que, si vous écoutez ces jugements, et vous les gardez et les faites, le SEIGNEUR ton Dieu te gardera l’alliance et la miséricorde qu’il a jurées à tes pères;</verse>
+        <verse osisID='Deut.7.13'>Et il t’aimera, et te bénira, et te multipliera, il bénira aussi le fruit de ton utérus et le fruit de ton pays, ton grain, et ton vin et ton huile, la reproduction de tes vaches et des troupeaux de tes brebis, dans le pays qu’il a juré à tes pères de te donner;</verse>
+        <verse osisID='Deut.7.14'>Tu seras béni plus que tous les peuples; il n’y aura parmi toi ni mâle ni femelle stérile, ni parmi ton bétail;</verse>
+        <verse osisID='Deut.7.15'>Et le SEIGNEUR détournera de toi toute maladie; et ne fera pas venir sur toi aucune des mauvaises plaies d’Égypte que tu connais; mais il les mettra sur tous ceux qui te haïssent.</verse>
+        <verse osisID='Deut.7.16'>Et tu consumeras tous les peuples que le SEIGNEUR ton Dieu te livrera; ton œil pour eux n’aura aucune pitié, et tu ne serviras pas leurs dieux; car cela serait un piège pour toi.</verse>
+        <verse osisID='Deut.7.17'>Si tu dis en ton cœur: Ces nations sont plus [nombreuses] que moi, comment pourrai-je les déposséder?</verse>
+        <verse osisID='Deut.7.18'>Ne les crains pas; mais souviens-toi bien de ce que le SEIGNEUR ton Dieu a fait à Pharaon et à tous les Égyptiens,</verse>
+        <verse osisID='Deut.7.19'>De ces grandes épreuves que tes yeux ont vues, et des signes et des prodiges, et de la puissante main, et du bras étendu par lequel le SEIGNEUR ton Dieu t’a fait sortir [d’Égypte]; ainsi fera le SEIGNEUR ton Dieu, à tous les peuples dont tu aurais peur.</verse>
+        <verse osisID='Deut.7.20'>De plus, le SEIGNEUR ton Dieu enverra les frelons contre eux, jusqu’à ce que ceux qui seront restés et ceux qui se cacheront de devant toi aient péri.</verse>
+        <verse osisID='Deut.7.21'>Tu ne t’effrayeras pas à cause d’eux; car le SEIGNEUR ton Dieu est au milieu de toi, un Dieu puissant et terrible.</verse>
+        <verse osisID='Deut.7.22'>Et le SEIGNEUR ton Dieu arrachera ces nations de devant toi, petit à petit; tu ne pourras pas en venir à bout tout à coup, de peur que les bêtes des champs ne se multiplient contre toi;</verse>
+        <verse osisID='Deut.7.23'>Mais le SEIGNEUR ton Dieu te les livrera, et les détruira par une puissante destruction, jusqu’à ce qu’elles soient détruites.</verse>
+        <verse osisID='Deut.7.24'>Et il livrera leurs rois en ta main, et tu feras périr leur nom de dessous le ciel; et personne ne pourra subsister devant toi, jusqu’à ce que tu les aies détruites.</verse>
+        <verse osisID='Deut.7.25'>Vous brûlerez au feu les images taillées de leurs dieux; tu ne désireras pas l’argent ni l’or qui sont sur elles, et tu ne les prendras pas non plus pour toi, de peur que tu ne sois pris dans un piège; car c’est une abomination au SEIGNEUR ton Dieu.</verse>
+        <verse osisID='Deut.7.26'>Tu n’introduiras pas non plus d’abomination dans ta maison, de peur que tu ne deviennes une chose maudite comme elle; tu la détesteras entièrement et tu l’auras entièrement en horreur; car c’est une chose maudite.</verse>
+      </chapter>
+      <chapter osisID='Deut.8'>
+        <verse osisID='Deut.8.1'>Vous prendrez garde de faire tous les commandements que je vous commande aujourd’hui, afin que vous viviez, et [que vous] multipliiez, et [que vous] entriez et possédiez le pays que le SEIGNEUR a juré [de donner] à vos pères.</verse>
+        <verse osisID='Deut.8.2'>Et tu te souviendras de tout le chemin par lequel le SEIGNEUR ton Dieu t’a conduit ces quarante ans dans le désert, afin de t’humilier et de t’éprouver, pour connaître ce qui était dans ton cœur, si tu garderais ses commandements, ou non.</verse>
+        <verse osisID='Deut.8.3'>Il t’a donc humilié et t’a fait avoir faim, et il t’a nourri de manne, que tu ne connaissais pas et que tes pères n’avaient pas connue; afin qu’il te fasse savoir que l’homme ne vit pas de pain seulement, mais que l’homme vit de chaque parole qui sort de la bouche du SEIGNEUR.</verse>
+        <verse osisID='Deut.8.4'>Ton vêtement ne s’est pas usé sur toi, et ton pied ne s’est pas enflé pendant ces quarante années.</verse>
+        <verse osisID='Deut.8.5'>Tu reconnaîtras aussi en ton cœur que, comme un homme châtie son fils, le SEIGNEUR ton Dieu te châtie.</verse>
+        <verse osisID='Deut.8.6'>C’est pourquoi tu garderas les commandements du SEIGNEUR ton Dieu, pour marcher dans ses chemins et pour le craindre.</verse>
+        <verse osisID='Deut.8.7'>Car le SEIGNEUR ton Dieu t’amène dans un bon pays, un pays de torrents d’eaux, de fontaines, et de [sources] profondes qui jaillissent dans les vallées et dans les collines;</verse>
+        <verse osisID='Deut.8.8'>Un pays de blé, d’orge, de vignes, de figuiers et de grenadiers; un pays d’oliviers donnant l’huile, et de miel;</verse>
+        <verse osisID='Deut.8.9'>Un pays dans lequel tu mangeras du pain sans pénurie, où tu ne manqueras de rien; un pays dont les pierres sont du fer, et des collines duquel tu pourras extraire du cuivre.</verse>
+        <verse osisID='Deut.8.10'>Quand tu auras mangé et seras rassasié, tu béniras alors le SEIGNEUR ton Dieu pour le bon pays qu’il t’a donné.</verse>
+        <verse osisID='Deut.8.11'>Prends garde, que tu n’oublies pas le SEIGNEUR ton Dieu, en ne gardant pas ses commandements, et ses jugements et ses statuts, que je te commande aujourd’hui;</verse>
+        <verse osisID='Deut.8.12'>De peur que quand tu auras mangé, et que tu te seras rassasié, et que tu auras bâti de belles maisons, et que tu y demeureras;</verse>
+        <verse osisID='Deut.8.13'>Et quand tes troupeaux de bœufs et de brebis se seront multipliés, et que ton argent et ton or seront multipliés, et que tout ce que tu as se sera multiplié,</verse>
+        <verse osisID='Deut.8.14'>Alors ton cœur ne s’élève, et que tu n’oublies le SEIGNEUR ton Dieu, qui t’a fait sortir du pays d’Égypte, de la maison de servitude;</verse>
+        <verse osisID='Deut.8.15'>Qui t’a conduit à travers ce grand et terrible désert, dans lequel étaient des serpents brûlants et des scorpions, et de sécheresse, où il n’y avait pas d’eau; qui t’a fait sortir de l’eau du roc de silex;</verse>
+        <verse osisID='Deut.8.16'>Qui t’a nourri dans le désert avec la manne que tes pères ne connaissaient pas, afin qu’il t’humilie et qu’il t’éprouve, pour te faire du bien à la fin;</verse>
+        <verse osisID='Deut.8.17'>Et que tu dises en ton cœur: Ma puissance et la vigueur de ma main m’ont acquis ces richesses.</verse>
+        <verse osisID='Deut.8.18'>Mais tu te souviendras du SEIGNEUR ton Dieu; car c’est lui qui te donne la puissance pour acquérir ces richesses, afin qu’il ratifie son alliance qu’il a jurée à tes pères, comme il paraît aujourd’hui.</verse>
+        <verse osisID='Deut.8.19'>Et il arrivera que, si tu oublies en aucune manière le SEIGNEUR ton Dieu, et que tu ailles après d’autres dieux, et que tu les serves, et que tu les adores, je rends témoignage contre vous aujourd’hui que vous périrez certainement.</verse>
+        <verse osisID='Deut.8.20'>Comme les nations que le SEIGNEUR fait périr devant vous, ainsi vous périrez, parce que vous n’aurez pas été obéissants à la voix du SEIGNEUR votre Dieu.</verse>
+      </chapter>
+      <chapter osisID='Deut.9'>
+        <verse osisID='Deut.9.1'>Entends, ô Israël: Tu vas passer aujourd’hui le Jourdain, pour entrer en possession de nations plus grandes et plus puissantes que toi, des villes grandes et fortifiées jusqu’au ciel,</verse>
+        <verse osisID='Deut.9.2'>Un peuple grand et de haute taille, les enfants des Anakims, que tu connais, et dont tu as entendu dire: Qui peut se tenir devant les enfants d’Anak!</verse>
+        <verse osisID='Deut.9.3'>Sache donc aujourd’hui que le SEIGNEUR, ton Dieu, est celui qui passe devant toi; comme un feu consumant il les détruira et il les abaissera devant toi; et tu les chasseras, et tu les feras périr rapidement, comme le SEIGNEUR te l’a dit.</verse>
+        <verse osisID='Deut.9.4'>Ne parle pas en ton cœur, après que le SEIGNEUR ton Dieu les aura chassés de devant toi, disant: C’est à cause de ma droiture que le SEIGNEUR m’a amené pour posséder ce pays; mais c’est à cause de la méchanceté de ces nations que le SEIGNEUR va les chasser de devant toi.</verse>
+        <verse osisID='Deut.9.5'>[Ce n’est] pas à cause de ta droiture, ni [à cause] de l’intégrité de ton cœur, que tu entres dans leur pays pour le posséder; mais [c’est] à cause de la méchanceté de ces nations que le SEIGNEUR ton Dieu va les chasser de devant toi, et afin de ratifier la parole que le SEIGNEUR a jurée à tes pères, Abraham, Isaac et Jacob.</verse>
+        <verse osisID='Deut.9.6'>Comprends donc que le SEIGNEUR ton Dieu ne te donne pas ce bon pays afin de le posséder à cause de ta droiture; car tu es un peuple [au cou] obstiné.</verse>
+        <verse osisID='Deut.9.7'>Souviens-toi, et n’oublie pas que tu as provoqué le SEIGNEUR ton Dieu au courroux dans le désert; depuis le jour où tu as quitté le pays d’Égypte, jusqu’à votre arrivée en ce lieu, vous avez été rebelles contre le SEIGNEUR.</verse>
+        <verse osisID='Deut.9.8'>Même en Horeb, vous avez provoqué le SEIGNEUR à la colère; aussi le SEIGNEUR se courrouça contre vous, pour vous détruire.</verse>
+        <verse osisID='Deut.9.9'>Quand je montai sur le mont pour prendre les tables de pierre, c’est-à-dire les tables de l’alliance que le SEIGNEUR avait faite avec vous, je demeurai sur le mont quarante jours et quarante nuits, je ne mangeai pas de pain, ni ne bus d’eau;</verse>
+        <verse osisID='Deut.9.10'>Et le SEIGNEUR me donna les deux tables de pierre, écrites du doigt de Dieu, et sur lesquelles étaient écrites selon toutes les paroles que le SEIGNEUR avait parlées avec vous sur le mont, du milieu du feu, au jour de l’assemblée.</verse>
+        <verse osisID='Deut.9.11'>Et il arriva qu’au bout de quarante jours et quarante nuits, le SEIGNEUR me donna les deux tables de pierre, c’est-à-dire, les tables de l’alliance.</verse>
+        <verse osisID='Deut.9.12'>Puis le SEIGNEUR me dit: Lève-toi, descends rapidement d’ici; car ton peuple, que tu as fait sortir d’Égypte, s’est corrompu; ils se sont rapidement détournés du chemin que je leur avais commandé; ils se sont fait une image de [métal] fondu.</verse>
+        <verse osisID='Deut.9.13'>Le SEIGNEUR me parla aussi, en disant: J’ai vu ce peuple, et voici, c’est un peuple [au cou] obstiné;</verse>
+        <verse osisID='Deut.9.14'>Laisse-moi faire, que je les détruise, et que j’efface leur nom de dessous le ciel; et je ferai de toi une nation plus puissante et plus grande qu’eux.</verse>
+        <verse osisID='Deut.9.15'>Je retournai donc et je descendis du mont, or le mont brûlait de feu, et les deux tables de l’alliance étaient dans mes deux mains.</verse>
+        <verse osisID='Deut.9.16'>Puis je regardai, et voici, vous aviez péché contre le SEIGNEUR votre Dieu, et vous vous étiez fait un veau de [métal] fondu, vous vous étiez détournés rapidement du chemin que le SEIGNEUR vous avait commandé.</verse>
+        <verse osisID='Deut.9.17'>Et je saisis les deux tables, et je les jetai de mes mains, et je les brisai devant vos yeux.</verse>
+        <verse osisID='Deut.9.18'>Puis je me jetai à terre devant le SEIGNEUR comme au commencement, [pendant] quarante jours et quarante nuits, je ne mangeai pas de pain, ni ne bus d’eau, à cause de tous vos péchés que vous aviez commis en faisant ce qui est mauvais aux yeux du SEIGNEUR, pour le provoquer à courroux;</verse>
+        <verse osisID='Deut.9.19'>Car j’avais peur du courroux et de l’ardent mécontentement dont le SEIGNEUR était irrité contre vous pour vous détruire. Mais le SEIGNEUR m’écouta aussi cette fois-là.</verse>
+        <verse osisID='Deut.9.20'>Et le SEIGNEUR se courrouça fort contre Aaron, [il] l’aurait détruit; mais je priai aussi pour Aaron en ce temps-là.</verse>
+        <verse osisID='Deut.9.21'>Puis je pris votre péché, le veau que vous aviez fait, et le brûlai au feu, et l’écrasai et le moulus bien jusqu’à ce qu’il soit aussi petit que la poudre; et j’en jetai la poudre dans le torrent qui descendait du mont.</verse>
+        <verse osisID='Deut.9.22'>À Taberah, et à Massah et à Kibrothhattaavah, vous avez provoqué le SEIGNEUR à la colère.</verse>
+        <verse osisID='Deut.9.23'>De même quand le SEIGNEUR vous envoya de Kadeshbarnea, en disant: Montez, et possédez le pays que je vous ai donné; vous vous êtes rebellés contre le commandement du SEIGNEUR votre Dieu, et vous ne le croyiez pas, et vous n’écoutiez pas sa voix.</verse>
+        <verse osisID='Deut.9.24'>Vous avez été rebelles au SEIGNEUR, depuis le jour que je vous connais.</verse>
+        <verse osisID='Deut.9.25'>Je me jetai donc à terre devant le SEIGNEUR, [pendant] quarante jours et quarante nuits, comme je me jetai à terre la première fois, parce que le SEIGNEUR avait dit qu’il vous détruirait;</verse>
+        <verse osisID='Deut.9.26'>Et je priai le SEIGNEUR, et je dis: Ô Seigneur DIEU, ne détruis pas ton peuple et ton héritage, que tu as racheté par ta grandeur, que tu as fait sortir d’Égypte par une puissante main.</verse>
+        <verse osisID='Deut.9.27'>Souviens-toi de tes serviteurs Abraham, Isaac et Jacob; ne regarde pas à l’entêtement de ce peuple, ni à sa méchanceté, ni à son péché;</verse>
+        <verse osisID='Deut.9.28'>De peur qu’on ne dise, dans le pays d’où tu nous as fait sortir: Parce que le SEIGNEUR ne pouvait pas les faire entrer dans le pays qu’il leur avait promis, et parce qu’il les haïssait, il les a fait sortir pour les faire mourir dans le désert.</verse>
+        <verse osisID='Deut.9.29'>Cependant ils sont ton peuple et ton héritage, que tu as fait sortir par ta grande puissance et ton bras étendu.</verse>
+      </chapter>
+      <chapter osisID='Deut.10'>
+        <verse osisID='Deut.10.1'>En ce temps-là, le SEIGNEUR me dit: Taille-toi deux tables de pierre, comme les premières, et monte vers moi sur le mont, fais-toi une arche de bois.</verse>
+        <verse osisID='Deut.10.2'>Et j’écrirai sur ces tables les paroles qui étaient sur les premières tables que tu as brisées, et tu les mettras dans l’arche.</verse>
+        <verse osisID='Deut.10.3'>Et je fis une arche de bois de Shitim (Sittim), et je taillai deux tables de pierre, comme les premières, et je montai sur le mont, ayant les deux tables en ma main.</verse>
+        <verse osisID='Deut.10.4'>Et il écrivit sur ces tables, selon [ce qu’il avait écrit] la première fois, les dix commandements que le SEIGNEUR nous avait parlées sur le mont, du milieu du feu, au jour de l’assemblée; puis le SEIGNEUR me les donna.</verse>
+        <verse osisID='Deut.10.5'>Et je me tournai, et je descendis du mont; et je mis les tables dans l’arche que j’avais faite; et là, elles sont, comme le SEIGNEUR me l’avait commandé.</verse>
+        <verse osisID='Deut.10.6'>Et les enfants d’Israël entreprirent leur voyage depuis Beeroth des enfants de Jaakan, pour Mosera; Aaron mourut là, et y fut enseveli; et Eleazar, son fils, prit la fonction de prêtre à sa place.</verse>
+        <verse osisID='Deut.10.7'>De là, ils partirent pour Gudgodah, et de Gudgodah pour Jotbath, un pays de torrents d’eaux.</verse>
+        <verse osisID='Deut.10.8'>En ce temps-là, le SEIGNEUR sépara la tribu de Levi (Lévi) pour porter l’arche de l’alliance du SEIGNEUR, pour se tenir devant le SEIGNEUR, pour officier, et pour bénir en son nom, jusqu’à ce jour.</verse>
+        <verse osisID='Deut.10.9'>C’est pourquoi Levi (Lévi) n’a ni portion ni héritage avec ses frères; le SEIGNEUR est son héritage, comme le SEIGNEUR ton Dieu le lui a promis.</verse>
+        <verse osisID='Deut.10.10'>Et je restai sur le mont, comme la première fois, quarante jours et quarante nuits; et le SEIGNEUR m’écouta aussi cette fois-là; et le SEIGNEUR ne voulut pas te détruire.</verse>
+        <verse osisID='Deut.10.11'>Et le SEIGNEUR me dit: Lève-toi; entreprends ton voyage devant le peuple, afin qu’ils entrent, et possèdent le pays que j’ai juré à leurs pères de leur donner.</verse>
+        <verse osisID='Deut.10.12'>Maintenant donc, ô Israël, qu’est-ce que le SEIGNEUR ton Dieu exige de toi, sinon que tu craignes le SEIGNEUR ton Dieu, que tu marches dans tous ses chemins, que tu l’aimes, et que tu serves le SEIGNEUR ton Dieu, de tout ton cœur et de toute ton âme,</verse>
+        <verse osisID='Deut.10.13'>Et que tu gardes les commandements du SEIGNEUR et ses statuts que je te commande aujourd’hui, pour ton bien?</verse>
+        <verse osisID='Deut.10.14'>Voici, le ciel et le ciel des cieux appartiennent au SEIGNEUR ton Dieu, ainsi que la terre et tout ce qui y est.</verse>
+        <verse osisID='Deut.10.15'>Cependant le SEIGNEUR a pris plaisir en tes pères, pour les aimer, et il a choisi leur semence après eux, c’est-à-dire vous d’entre tous les peuples, comme il paraît aujourd’hui.</verse>
+        <verse osisID='Deut.10.16'>Circoncisez donc le prépuce de votre cœur, et ne soyez plus obstiné;</verse>
+        <verse osisID='Deut.10.17'>Car le SEIGNEUR votre Dieu est Dieu des dieux et Seigneur des seigneurs, un Dieu grand, puissant et terrible, qui ne fait pas de distinction de personne, et [qui] ne reçoit pas de récompenses;</verse>
+        <verse osisID='Deut.10.18'>Qui exécute le [juste] jugement de l’orphelin et de la veuve, qui aime l’étranger, en lui donnant nourriture et vêtement.</verse>
+        <verse osisID='Deut.10.19'>Vous aimerez donc l’étranger; car vous avez été étrangers dans le pays d’Égypte.</verse>
+        <verse osisID='Deut.10.20'>Tu craindras le SEIGNEUR ton Dieu, tu le serviras, et tu t’attacheras à lui, et tu jureras par son nom.</verse>
+        <verse osisID='Deut.10.21'>Il est ta louange, et il est ton Dieu, qui a fait pour toi ces choses grandes et terribles que tes yeux ont vues.</verse>
+        <verse osisID='Deut.10.22'>Tes pères descendirent en Égypte avec soixante-dix personnes; et maintenant le SEIGNEUR ton Dieu t’a fait devenir comme les étoiles du ciel, en multitude.</verse>
+      </chapter>
+      <chapter osisID='Deut.11'>
+        <verse osisID='Deut.11.1'>C’est pourquoi tu aimeras le SEIGNEUR ton Dieu, et [tu] garderas sa fonction, et ses statuts, et ses jugements et ses commandements.</verse>
+        <verse osisID='Deut.11.2'>Et sachez aujourd’hui, car je ne parle pas à vos enfants, qui n’ont pas connu et qui n’ont pas vu le châtiment du SEIGNEUR votre Dieu, sa grandeur, sa puissante main, et son bras étendu,</verse>
+        <verse osisID='Deut.11.3'>Et ses miracles, et ses actes qu’il fit au milieu de l’Égypte, au Pharaon le roi d’Égypte, et à tout son pays;</verse>
+        <verse osisID='Deut.11.4'>Et ce qu’il fit à l’armée d’Égypte, à ses chevaux et à ses chariots, comment il fit refluer contre eux les eaux de la mer Rouge, lorsqu’ils vous poursuivaient, et comment le SEIGNEUR les détruisit, jusqu’à ce jour;</verse>
+        <verse osisID='Deut.11.5'>Et ce qu’il vous a fait dans le désert, jusqu’à ce que vous soyez parvenus en ce lieu;</verse>
+        <verse osisID='Deut.11.6'>Et ce qu’il fit à Dathan et à Abiram, les fils d’Eliab, fils de Reuben (Ruben): comment la terre ouvrit sa bouche et les engloutit, avec leurs familles et leurs tentes, et tous les biens qui étaient en leur possession, au milieu de tout Israël,.</verse>
+        <verse osisID='Deut.11.7'>Mais vos yeux ont vu tous les grands actes que le SEIGNEUR a faits.</verse>
+        <verse osisID='Deut.11.8'>C’est pourquoi vous garderez tous les commandements que je vous commande aujourd’hui, afin que vous soyez fortifiés, et [que vous] entriez et possédiez le pays dans lequel vous allez pour le posséder;</verse>
+        <verse osisID='Deut.11.9'>Et afin que vous prolongiez vos jours dans le pays que le SEIGNEUR a juré à vos pères de leur donner, à eux et à leur semence, un pays où coulent le lait et le miel.</verse>
+        <verse osisID='Deut.11.10'>Car le pays dans lequel tu vas entrer pour le posséder n’est pas comme le pays d’Égypte d’où vous êtes sortis, où tu semais ta semence, et l’arrosais avec ton pied comme un jardin à plantes;</verse>
+        <verse osisID='Deut.11.11'>Mais le pays dans lequel vous allez pour le posséder est un pays de collines et de vallées, et il boit l’eau de la pluie du ciel.</verse>
+        <verse osisID='Deut.11.12'>C’est un pays dont le SEIGNEUR ton Dieu a soin; les yeux du SEIGNEUR ton Dieu sont toujours sur lui, depuis le commencement de l’année jusqu’à la fin.</verse>
+        <verse osisID='Deut.11.13'>Et il arrivera que si vous écoutez diligemment mes commandements que je vous donne aujourd’hui, d’aimer le SEIGNEUR votre Dieu et de le servir de tout votre cœur et de toute votre âme,</verse>
+        <verse osisID='Deut.11.14'>Alors je vous donnerai la pluie à votre pays en son temps, la première pluie et la dernière pluie, afin que tu recueilles ton grain, et ton vin et ton huile.</verse>
+        <verse osisID='Deut.11.15'>Et j’enverrai dans tes champs de l’herbe pour ton bétail, pour que tu manges et sois rassasié.</verse>
+        <verse osisID='Deut.11.16'>Prenez garde à vous, afin que votre cœur ne soit pas séduit, et que vous ne vous détourniez, et ne serviez d’autres dieux, et que vous les adoriez;</verse>
+        <verse osisID='Deut.11.17'>Et qu’alors la colère du SEIGNEUR ne s’enflamme contre vous, et qu’il ne ferme le ciel, en sorte qu’il n’y ait pas de pluie, et que le sol ne produise plus son fruit, et de peur que vous ne périssiez rapidement de dessus ce bon pays que le SEIGNEUR vous donne.</verse>
+        <verse osisID='Deut.11.18'>C’est pourquoi vous mettrez mes paroles dans votre cœur et dans votre âme, et liez-les pour signe sur votre main, et qu’elles soient comme des fronteaux entre vos yeux;</verse>
+        <verse osisID='Deut.11.19'>Et vous les enseignerez à vos enfants, en en parlant quand tu t’assiéras dans ta maison, quand tu marcheras le long du chemin, quand tu te coucheras et quand tu te lèveras.</verse>
+        <verse osisID='Deut.11.20'>Et tu les écriras sur les poteaux de ta maison et sur tes portes;</verse>
+        <verse osisID='Deut.11.21'>Afin que vos jours et les jours de vos enfants, dans le pays que le SEIGNEUR a juré à vos pères de leur donner, soient multipliés comme les jours du ciel sur la terre.</verse>
+        <verse osisID='Deut.11.22'>Car si vous gardez diligemment tous ces commandements que je vous commande de faire, d’aimer le SEIGNEUR votre Dieu, de marcher dans tous ses chemins et de vous attacher à lui,</verse>
+        <verse osisID='Deut.11.23'>Alors le SEIGNEUR chassera toutes ces nations de devant vous, et vous posséderez des nations plus grandes et plus puissantes que vous.</verse>
+        <verse osisID='Deut.11.24'>Tout lieu où la plante de votre pied marchera sera à vous; votre territoire sera depuis le désert et le Liban, depuis le fleuve, le fleuve Euphrate, jusqu’à la mer la plus reculée.</verse>
+        <verse osisID='Deut.11.25'>Personne ne pourra subsister devant vous; car le SEIGNEUR votre Dieu répandra la frayeur et la terreur [qu’on aura] de vous, sur tout le pays sur lequel vous marcherez, comme il vous l’a dit.</verse>
+        <verse osisID='Deut.11.26'>Voyez, je mets aujourd’hui devant vous une bénédiction et une malédiction;</verse>
+        <verse osisID='Deut.11.27'>Une bénédiction, si vous obéissez aux commandements du SEIGNEUR votre Dieu, que je vous commande aujourd’hui;</verse>
+        <verse osisID='Deut.11.28'>Et une malédiction, si vous n’obéissez pas aux commandements du SEIGNEUR votre Dieu, mais, si vous vous détournez du chemin que je vous commande aujourd’hui, pour marcher après d’autres dieux que vous n’avez pas connus.</verse>
+        <verse osisID='Deut.11.29'>Et il arrivera que quand le SEIGNEUR ton Dieu t’aura fait entrer au pays où tu vas, pour le posséder, tu mettras [en avant] la bénédiction sur le mont Garizim et la malédiction sur le mont Ebal.</verse>
+        <verse osisID='Deut.11.30'>Ne sont-ils pas de l’autre côté du Jourdain, vers le chemin du soleil couchant, dans le pays des Canaanites qui demeurent dans la campagne, vis-à-vis de Gilgal (Guilgal), près des plaines de Moreh?</verse>
+        <verse osisID='Deut.11.31'>Car vous allez passer le Jourdain, pour entrer et posséder le pays que le SEIGNEUR votre Dieu vous donne; et vous le posséderez, et vous y demeurerez.</verse>
+        <verse osisID='Deut.11.32'>Et vous prendrez garde à faire tous les statuts et tous les jugements que je mets devant vous aujourd’hui.</verse>
+      </chapter>
+      <chapter osisID='Deut.12'>
+        <verse osisID='Deut.12.1'>Ce sont ici les statuts et les jugements auxquels vous vous conformerez pour [les] faire dans le pays que le SEIGNEUR Dieu de tes pères, te donne pour le posséder, tous les jours que vous vivrez sur la terre.</verse>
+        <verse osisID='Deut.12.2'>Vous détruirez entièrement tous les lieux où les nations desquelles vous posséderez [le pays], auront servi leurs dieux, sur les hautes montagnes, et sur les collines et sous tout arbre vert.</verse>
+        <verse osisID='Deut.12.3'>Vous démolirez aussi leurs autels, vous briserez leurs piliers, et vous brûlerez au feu leurs bosquets; et vous abattrez les images taillées de leurs dieux, et vous ferez disparaître leur nom de ce lieu-là.</verse>
+        <verse osisID='Deut.12.4'>Vous ne ferez pas ainsi au SEIGNEUR votre Dieu;</verse>
+        <verse osisID='Deut.12.5'>Mais vous chercherez le lieu que le SEIGNEUR votre Dieu choisira d’entre toutes vos tribus pour y mettre son nom; à savoir son habitation, et là, tu viendras.</verse>
+        <verse osisID='Deut.12.6'>Et là, vous apporterez vos offrandes brûlées, et vos sacrifices, et vos dîmes, et vos offrandes élevées de vos mains, et vos vœux, vos offrandes volontaires, et les premiers-nés de votre gros et de votre menu bétail;</verse>
+        <verse osisID='Deut.12.7'>Et là, vous mangerez devant le SEIGNEUR votre Dieu, et vous vous réjouirez, vous et vos familles, de toutes les choses auxquelles vous aurez mis la main et dans lesquelles le SEIGNEUR ton Dieu t’aura béni.</verse>
+        <verse osisID='Deut.12.8'>Vous ne ferez pas toutes les choses que nous faisons ici aujourd’hui, chacun ce qui est droit à ses yeux;</verse>
+        <verse osisID='Deut.12.9'>Car vous n’êtes pas encore parvenus au repos et à l’héritage que le SEIGNEUR ton Dieu vous donne.</verse>
+        <verse osisID='Deut.12.10'>Mais quand vous passerez le Jourdain, et habiterez dans le pays que le SEIGNEUR votre Dieu vous donne en héritage, et quand il vous donnera du repos de tous vos ennemis, tout autour; pour que vous y demeuriez en sécurité,</verse>
+        <verse osisID='Deut.12.11'>Alors, il y aura un lieu que le SEIGNEUR votre Dieu choisira pour y faire demeurer son nom; là vous apporterez tout ce que je vous commande, vos offrandes brûlées, vos sacrifices, vos dîmes, l’offrande élevée de vos mains, et tous vos vœux les meilleurs que vous aurez voués au SEIGNEUR;</verse>
+        <verse osisID='Deut.12.12'>Et vous vous réjouirez devant le SEIGNEUR votre Dieu, vous, vos fils, vos filles, vos serviteurs et vos servantes, et le Levite qui est dans vos portes, d’autant qu’il n’a pas de portion ni d’héritage avec vous.</verse>
+        <verse osisID='Deut.12.13'>Prends garde à toi de ne pas offrir tes offrandes consumées dans tous les lieux que tu verras;</verse>
+        <verse osisID='Deut.12.14'>Mais dans le lieu que le SEIGNEUR choisira dans l’une de tes tribus, là tu offriras tes offrandes consumées et là, tu feras tout ce que je te commande.</verse>
+        <verse osisID='Deut.12.15'>Toutefois, tu pourras tuer et manger de la chair dans toutes tes portes, selon tous les souhaits de ton âme, selon la bénédiction du SEIGNEUR ton Dieu, qu’il t’aura donnée; [celui qui sera] souillé et [celui qui sera] net pourront en manger, comme [on mange] du chevreuil et du cerf.</verse>
+        <verse osisID='Deut.12.16'>Seulement vous ne mangerez pas le sang; tu le verseras sur la terre comme de l’eau.</verse>
+        <verse osisID='Deut.12.17'>Tu ne pourras pas manger dans tes portes, la dîme de ton grain, ni de ton vin, ni de ton huile, ni les premiers-nés de tes troupeaux de bœufs et de brebis, ni aucun des vœux que tu auras voués, ni tes offrandes volontaires, ni l’offrande élevée de tes mains.</verse>
+        <verse osisID='Deut.12.18'>Mais tu devras les manger devant le SEIGNEUR ton Dieu, au lieu que le SEIGNEUR ton Dieu choisira, toi, et ton fils, et ta fille, et ton serviteur et ta servante, et le Levite qui est dans tes portes, et tu te réjouiras devant le SEIGNEUR ton Dieu en tout ce à quoi tu auras mis la main.</verse>
+        <verse osisID='Deut.12.19'>Prends garde à toi, que tu n’abandonnes pas le Levite tant que tu vivras sur la terre,</verse>
+        <verse osisID='Deut.12.20'>Quand le SEIGNEUR ton Dieu aura élargi ta frontière, comme il te l’a promis, et que tu diras: Je mangerai de la chair, parce que ton âme souhaitera manger de la chair, tu pourras en manger selon ce dont ton âme désire.</verse>
+        <verse osisID='Deut.12.21'>Si le lieu que le SEIGNEUR ton Dieu aura choisi pour y mettre son nom est trop loin de toi, alors tu tueras de ton gros et de ton menu bétail que le SEIGNEUR ton Dieu t’aura donné, comme je te l’ai commandé, et tu en mangeras dans tes portes, selon ce dont ton âme désire.</verse>
+        <verse osisID='Deut.12.22'>Voire comme on mange du chevreuil et du cerf, ainsi tu en mangeras; celui qui sera souillé et celui qui sera net en mangeront également.</verse>
+        <verse osisID='Deut.12.23'>Seulement sois sûr de ne pas manger le sang; car le sang est la vie, et tu ne mangeras pas la vie avec la chair.</verse>
+        <verse osisID='Deut.12.24'>Tu ne le mangeras pas; tu le verseras sur la terre comme de l’eau.</verse>
+        <verse osisID='Deut.12.25'>Tu ne le mangeras pas, afin que tu tout soit bien avec toi, et avec tes enfants après toi, quand que tu auras fait ce qui est droit aux yeux du SEIGNEUR.</verse>
+        <verse osisID='Deut.12.26'>Seulement tu prendras les saintes choses qui t’appartiendront, et tes vœux, et tu iras au lieu que le SEIGNEUR aura choisi;</verse>
+        <verse osisID='Deut.12.27'>Et tu offriras tes offrandes brûlées, la chair et le sang, sur l’autel du SEIGNEUR ton Dieu; et le sang de tes autres sacrifices sera versé sur l’autel du SEIGNEUR ton Dieu, et tu en mangeras la chair.</verse>
+        <verse osisID='Deut.12.28'>Observe et entends toutes ces paroles que je te commande, afin que tout soit bien avec toi, et avec tes enfants après toi, pour toujours, quand tu auras fait ce qui est bon et droit aux yeux du SEIGNEUR ton Dieu.</verse>
+        <verse osisID='Deut.12.29'>Quand le SEIGNEUR ton Dieu aura retranché de devant toi les nations où tu vas pour les posséder, et que tu leur succèderas, et tu demeureras dans leur pays,</verse>
+        <verse osisID='Deut.12.30'>Prends garde à toi, de peur que tu ne sois pris au piège après elles, après qu’elles auront été détruites de devant toi, et que tu ne recherches leurs dieux, en disant: Comment ces nations servaient-elles leurs dieux? ainsi ferai-je aussi.</verse>
+        <verse osisID='Deut.12.31'>Tu ne feras pas ainsi au SEIGNEUR ton Dieu; car elles ont fait à leurs dieux tout ce qui est en abomination au SEIGNEUR, et qu’il hait; car même ils ont brûlé au feu leurs fils et leurs filles à leurs dieux.</verse>
+        <verse osisID='Deut.12.32'>Chaque chose que je vous commande, vous prendrez garde de la faire: Tu n’y ajouteras rien, et tu n’en retrancheras rien.</verse>
+      </chapter>
+      <chapter osisID='Deut.13'>
+        <verse osisID='Deut.13.1'>S’il s’élève au milieu de vous un prophète ou un qui fait des rêves, et qui te donne un signe ou un prodige,</verse>
+        <verse osisID='Deut.13.2'>Et que le signe ou le prodige, dont il t’aura parlé, arrive, disant: Allons après d’autres dieux que tu n’as pas connus, et servons-les;</verse>
+        <verse osisID='Deut.13.3'>Tu n’écouteras pas les paroles de ce prophète, ni de ce rêveur; car le SEIGNEUR, votre Dieu, vous éprouve, pour savoir si vous aimez le SEIGNEUR votre Dieu, de tout votre cœur et de toute votre âme.</verse>
+        <verse osisID='Deut.13.4'>Vous marcherez après le SEIGNEUR votre Dieu, et vous le craindrez, et vous garderez ses commandements, et vous obéirez à sa voix, et vous le servirez et vous vous attacherez à lui.</verse>
+        <verse osisID='Deut.13.5'>Et ce prophète ou ce rêveur sera mis à mort parce qu’il a parlé de vous détourner du SEIGNEUR votre Dieu, qui vous a fait sortir du pays d’Égypte et qui vous a rachetés de la maison de servitude, pour vous pousser hors du chemin où le SEIGNEUR ton Dieu t’a commandé de marcher. Ainsi tu retireras le mal du milieu de toi.</verse>
+        <verse osisID='Deut.13.6'>Si ton frère, le fils de ta mère, ou ton fils, ou ta fille, ou la femme de ton sein, ou ton ami, qui t’est comme ton âme, t’entraînera en secret, en disant: Allons et servons d’autres dieux, que tu n’as pas connus, ni toi, ni tes pères,</verse>
+        <verse osisID='Deut.13.7'>C’est-à-dire d’entre les dieux des peuples qui sont autour de vous, près de toi ou loin de toi, d’un bout de la terre à l’autre bout de la terre,</verse>
+        <verse osisID='Deut.13.8'>Tu ne lui consentiras pas, et ne l’écouteras pas; et que ton œil n’ait pas pitié de lui; tu ne l’épargneras pas et ne le couvriras pas.</verse>
+        <verse osisID='Deut.13.9'>Mais tu le tueras assuré ment; ta main sera la première sur lui pour le mettre à mort, et ensuite la main de tout le peuple.</verse>
+        <verse osisID='Deut.13.10'>Et tu l’assommeras de pierres, pour qu’il meurt, parce qu’il a cherché à te pousser loin du SEIGNEUR ton Dieu, qui t’a fait sortir du pays d’Égypte, de la maison de servitude.</verse>
+        <verse osisID='Deut.13.11'>Et tout Israël l’entendra et craindra, et ne fera plus une telle perversité au milieu de toi.</verse>
+        <verse osisID='Deut.13.12'>Si tu entends dire dans l’une de tes villes que le SEIGNEUR ton Dieu te donne pour y demeurer, disant:</verse>
+        <verse osisID='Deut.13.13'>Certains hommes, des enfants de Bélial, sont sortis du milieu de toi, et ont incité les habitants de leur ville, en disant: Allons, et servons d’autres dieux que vous n’avez pas connus;</verse>
+        <verse osisID='Deut.13.14'>Alors tu t’enquerras, et tu feras des recherches, et questionneras soigneusement; et voir, si c’est la vérité, et si la chose [est] certaine, et qu’une telle abomination ait été faite au milieu de toi,</verse>
+        <verse osisID='Deut.13.15'>Tu frapperas assurément les habitants de cette ville au fil de l’épée, la détruisant entièrement, avec tout ce qui y sera, ainsi que tout le bétail au fil de l’épée.</verse>
+        <verse osisID='Deut.13.16'>Puis tu rassembleras tout son butin au milieu de sa rue, et tu brûleras au feu la ville, et absolument tout son butin, pour le SEIGNEUR ton Dieu, et elle sera un monceau pour toujours; elle ne sera plus rebâtie.</verse>
+        <verse osisID='Deut.13.17'>Et il ne s’attachera rien de la chose maudite à ta main, afin que le SEIGNEUR se détourne de la violence de son courroux, et qu’il te fasse miséricorde, et qu’il ait compassion de toi, et qu’il te multiplie, comme il l’a juré à tes pères,</verse>
+        <verse osisID='Deut.13.18'>Quand tu écouteras la voix du SEIGNEUR ton Dieu, pour garder tous ses commandements que je te commande aujourd’hui, pour faire ce qui est droit aux yeux du SEIGNEUR ton Dieu.</verse>
+      </chapter>
+      <chapter osisID='Deut.14'>
+        <verse osisID='Deut.14.1'>Vous êtes les enfants du SEIGNEUR votre Dieu, vous ne vous ferez pas d’incision, et vous ne vous raserez pas entre les yeux pour un mort;</verse>
+        <verse osisID='Deut.14.2'>Car tu es un peuple saint au SEIGNEUR ton Dieu, et le SEIGNEUR t’a choisi pour que tu lui sois un peuple particulier, d’entre toutes les nations qui sont sur la terre.</verse>
+        <verse osisID='Deut.14.3'>Tu ne mangeras aucune chose abominable.</verse>
+        <verse osisID='Deut.14.4'>Ce sont ici les bêtes que vous mangerez: le bœuf, le mouton et la chèvre,</verse>
+        <verse osisID='Deut.14.5'>Le cerf, et le chevreuil, et le daim, et le bouquetin, et l’antilope, et le bœuf sauvage, et le chamois.</verse>
+        <verse osisID='Deut.14.6'>Et vous mangerez parmi les bêtes, toute bête qui a la corne divisée et a la fente des ongles fendue en deux, et qui rumine.</verse>
+        <verse osisID='Deut.14.7'>Néanmoins vous ne mangerez pas de celles qui ruminent, ou de celles qui ont la corne divisée et le pied fourchu: comme le chameau, le lièvre et le daman; car ils ruminent, mais ils n’ont pas la corne divisée; c’est pourquoi ils vous seront souillés;</verse>
+        <verse osisID='Deut.14.8'>Ainsi que le porc, car il a la corne divisée, cependant il ne rumine pas: il vous est souillé; vous ne mangerez pas de leur chair; et vous ne toucherez pas leur carcasse.</verse>
+        <verse osisID='Deut.14.9'>Voici ce que vous mangerez de tout ce qui est dans les eaux: vous mangerez tout ce qui a des nageoires et des écailles;</verse>
+        <verse osisID='Deut.14.10'>Mais tout ce qui n’a pas de nageoires ni d’écailles, vous ne le mangerez pas; cela vous est souillé.</verse>
+        <verse osisID='Deut.14.11'>Vous mangerez tout oiseau net.</verse>
+        <verse osisID='Deut.14.12'>Mais ceux-ci sont ceux dont vous ne mangerez pas: l’aigle, l’aigle de mer, et l’orfraie,</verse>
+        <verse osisID='Deut.14.13'>Et le busard, et le milan, et le vautour, selon son espèce;</verse>
+        <verse osisID='Deut.14.14'>Et tout corbeau, selon son espèce;</verse>
+        <verse osisID='Deut.14.15'>Et le hibou, et l’épervier de nuit, et le coucou, et l’épervier, selon son espèce;</verse>
+        <verse osisID='Deut.14.16'>Et la chouette, et le grand hibou, et le cygne,</verse>
+        <verse osisID='Deut.14.17'>Et le pélican, et le faucon, et le cormoran,</verse>
+        <verse osisID='Deut.14.18'>La cigogne et le héron, selon son espèce; la huppe et la chauve-souris.</verse>
+        <verse osisID='Deut.14.19'>Et toute chose rampante qui vole vous est souillée; on n’en mangera pas.</verse>
+        <verse osisID='Deut.14.20'>Mais vous pourrez manger de tout oiseau net.</verse>
+        <verse osisID='Deut.14.21'>Vous ne mangerez d’aucune chair morte; tu la donneras à un étranger [prosélyte] qui est dans tes portes, et il la mangera, ou on la vendra à un non citoyen; car tu es un peuple saint au SEIGNEUR ton Dieu. Tu ne bouilleras pas le chevreau dans le lait de sa mère.</verse>
+        <verse osisID='Deut.14.22'>Tu ne manqueras pas de donner la dîme de tout le rapport de ta semence, que [ton] champ produira chaque année.</verse>
+        <verse osisID='Deut.14.23'>Et tu mangeras, devant le SEIGNEUR ton Dieu, au lieu qu’il aura choisi pour y placer son nom, la dîme de ton grain, de ton vin, et de ton huile, et les premiers-nés de tes troupeaux de bœufs et de brebis, afin que tu apprennes à toujours craindre le SEIGNEUR ton Dieu.</verse>
+        <verse osisID='Deut.14.24'>Mais si le chemin est trop long pour toi, en sorte que tu ne puisses les porter, ou si le lieu que le SEIGNEUR ton Dieu aura choisi pour y placer son nom est trop loin de toi, lorsque le SEIGNEUR ton Dieu t’aura béni,</verse>
+        <verse osisID='Deut.14.25'>Alors tu l’échangeras pour de l’argent, et tu serreras l’argent en ta main; tu iras au lieu que le SEIGNEUR ton Dieu aura choisi,</verse>
+        <verse osisID='Deut.14.26'>Et tu emploieras l’argent pour tout ce que ton âme souhaitera, des bœufs, des brebis, du vin ou des boissons fortes, ou pour tout ce que ton âme désirera; et tu le mangeras là, devant le SEIGNEUR ton Dieu, et tu te réjouiras, toi et ta famille.</verse>
+        <verse osisID='Deut.14.27'>Et tu n’abandonneras pas le Levite qui est dans tes portes, parce qu’il n’a pas de portion ni d’héritage avec toi.</verse>
+        <verse osisID='Deut.14.28'>Au bout de trois ans, tu apporteras toute la dîme de ton rapport de cette année-là, et tu la déposeras dans tes portes.</verse>
+        <verse osisID='Deut.14.29'>Et le Levite, (qui n’a pas de portion ni d’héritage avec toi), et l’étranger, et l’orphelin et la veuve, qui seront dans tes portes, viendront et mangeront, et seront rassasiés; afin que le SEIGNEUR ton Dieu te bénisse dans tout l’ouvrage que tu feras de ta main.</verse>
+      </chapter>
+      <chapter osisID='Deut.15'>
+        <verse osisID='Deut.15.1'>Tous les sept ans tu célébreras [l’année] d’acquittement.</verse>
+        <verse osisID='Deut.15.2'>Et telle est la manière de l’acquittement: Tout créancier abandonnera le prêt qu’il pourrait exiger de son voisin; il ne l’exigera pas de son voisin ou de son frère, parce que cela est appelé l’acquittement du SEIGNEUR.</verse>
+        <verse osisID='Deut.15.3'>Tu pourras l’exiger du non citoyen; mais ce qui est entre toi et ton frère, ta main l’abandonnera,</verse>
+        <verse osisID='Deut.15.4'>Excepté quand il n’y aura pas de pauvre parmi vous; car le SEIGNEUR te bénira grandement dans le pays que le SEIGNEUR ton Dieu te donne en héritage pour le posséder,</verse>
+        <verse osisID='Deut.15.5'>Pourvu seulement que tu écoutes la voix du SEIGNEUR ton Dieu, pour observer tous ces commandements que je te commande aujourd’hui.</verse>
+        <verse osisID='Deut.15.6'>Parce que le SEIGNEUR ton Dieu te bénira, comme il te l’a promis, et tu prêteras à beaucoup de nations, mais tu n’emprunteras pas; et tu régneras sur beaucoup de nations, mais elles ne régneront pas sur toi.</verse>
+        <verse osisID='Deut.15.7'>S’il y a au milieu de vous un pauvre homme parmi tes frères, dans l’une de tes portes, dans ton pays que le SEIGNEUR ton Dieu te donne, tu n’endurciras pas ton cœur, et tu ne resserreras pas ta main devant ton frère pauvre.</verse>
+        <verse osisID='Deut.15.8'>Mais tu ouvriras libéralement ta main, et tu lui prêteras certainement pour le besoin dans lequel il se trouve.</verse>
+        <verse osisID='Deut.15.9'>Prends garde à ce qu’il n’y ait dans ton cœur perverti une pensée, disant: La septième année, l’année de l’acquittement, approche; et que, ton œil étant malin envers ton frère pauvre, et que tu ne lui donnes rien; et qu’il ne crie contre toi au SEIGNEUR, et qu’il n’y ait du péché en toi.</verse>
+        <verse osisID='Deut.15.10'>Tu lui donneras libéralement, et ton cœur ne sera pas attristé quand tu lui donneras; car, à cause de cela, le SEIGNEUR ton Dieu te bénira dans toutes tes œuvres, et dans tout ce à quoi tu mettras la main.</verse>
+        <verse osisID='Deut.15.11'>Car il y aura toujours des pauvres dans le pays; c’est pourquoi je te commande, disant: Tu ouvriras libéralement ta main à ton frère, à ton pauvre et à ton nécessiteux, dans ton pays.</verse>
+        <verse osisID='Deut.15.12'>Et si ton frère, un Hébreu, ou une femme Hébreu, t’aura été vendu, il te servira six ans, puis à la septième année tu le renverras libre de chez toi.</verse>
+        <verse osisID='Deut.15.13'>Et quand tu le renverras libre de chez toi, tu ne le renverras pas [les mains] vide[s];</verse>
+        <verse osisID='Deut.15.14'>Tu le pourvoiras libéralement de ton troupeau, de ton aire, et de ta cuve; tu lui donneras de ce en quoi le SEIGNEUR ton Dieu t’aura béni.</verse>
+        <verse osisID='Deut.15.15'>Et tu te souviendras que tu as été en servitude dans le pays d’Égypte, et que le SEIGNEUR ton Dieu t’a racheté; c’est pourquoi je te commande cette chose-ci aujourd’hui.</verse>
+        <verse osisID='Deut.15.16'>Et s’il arrive qu’il te dise: Je ne partirai pas de chez toi; parce qu’il t’aime, ainsi que ta maison, parce qu’il se trouve bien avec toi,</verse>
+        <verse osisID='Deut.15.17'>Alors tu prendras un poinçon, et tu lui perceras l’oreille contre la porte, et il sera ton serviteur pour toujours. Et tu en feras de même à ta servante.</verse>
+        <verse osisID='Deut.15.18'>Cela ne te semblera pas pénible, quand tu le renverras libre de chez toi; car il t’a servi six ans, [ce qui est] le double d’un salarié; et le SEIGNEUR ton Dieu te bénira en tout ce que tu feras.</verse>
+        <verse osisID='Deut.15.19'>Tu sanctifieras au SEIGNEUR ton Dieu tout premier-né mâle qui naîtra de tes troupeaux de bœufs et de brebis. Tu ne laboureras pas avec ton taurillon premier-né, et tu ne tondras pas le premier-né de tes brebis;</verse>
+        <verse osisID='Deut.15.20'>Tu le mangeras, toi et ta maisonnée, chaque année, devant le SEIGNEUR ton Dieu, au lieu que le SEIGNEUR aura choisi.</verse>
+        <verse osisID='Deut.15.21'>Mais s’il a quelque défaut, s’il est boiteux ou aveugle, ou s’il a quelque autre mauvais défaut, tu ne le sacrifieras pas au SEIGNEUR ton Dieu,</verse>
+        <verse osisID='Deut.15.22'>Tu le mangeras dans tes portes; celui qui est souillé et celui qui est net en mangeront pareillement, comme [on mange] du chevreuil ou du cerf.</verse>
+        <verse osisID='Deut.15.23'>Seulement tu n’en mangeras pas le sang, tu le répandras sur la terre comme l’eau.</verse>
+      </chapter>
+      <chapter osisID='Deut.16'>
+        <verse osisID='Deut.16.1'>Observe le mois d’Abib, et garde la pâque au SEIGNEUR ton Dieu; car au mois d’Abib le SEIGNEUR ton Dieu t’a fait sortir d’Égypte de nuit.</verse>
+        <verse osisID='Deut.16.2'>Tu sacrifieras la pâque au SEIGNEUR ton Dieu, des troupeaux de bœufs et de brebis, au lieu que le SEIGNEUR aura choisi pour y placer son nom.</verse>
+        <verse osisID='Deut.16.3'>Tu ne mangeras pas de pain levé avec elle [la pâque]; tu mangeras avec elle pendant sept jours, des pains sans levain, c’est-à-dire du pain d’affliction, parce que tu es sorti en hâte du pays d’Égypte; afin que tous les jours de ta vie, tu te souviennes du jour que tu es sorti du pays d’Égypte,</verse>
+        <verse osisID='Deut.16.4'>Et on ne verra pas de pain levé chez toi, dans tout ton territoire, pendant sept jours; et l’on ne gardera aucun reste de la chair que tu auras sacrifiée le soir du premier jour jusqu’au matin.</verse>
+        <verse osisID='Deut.16.5'>Tu ne pourras pas sacrifier la pâque dans l’une de tes portes que le SEIGNEUR ton Dieu te donne;</verse>
+        <verse osisID='Deut.16.6'>Mais au lieu que le SEIGNEUR ton Dieu aura choisi pour y placer son nom; là tu sacrifieras la pâque, le soir, au coucher du soleil, au temps où tu sortis d’Égypte.</verse>
+        <verse osisID='Deut.16.7'>Et tu [la] feras rôtir et tu la mangeras, au lieu que le SEIGNEUR ton Dieu aura choisi; et le matin tu t’en retourneras, et t’en iras dans tes tentes.</verse>
+        <verse osisID='Deut.16.8'>Pendant six jours tu mangeras des pains sans levain, et au septième jour, il y aura une assemblée solennelle au SEIGNEUR ton Dieu; tu ne feras aucun ouvrage.</verse>
+        <verse osisID='Deut.16.9'>Tu te compteras sept semaines; tu commenceras à compter sept semaines depuis que tu auras commencé a mettre la faucille au grain;</verse>
+        <verse osisID='Deut.16.10'>Puis tu célébreras la fête des semaines au SEIGNEUR ton Dieu, avec un tribut d’offrande volontaire de ta main, que tu donneras au SEIGNEUR ton Dieu, selon que le SEIGNEUR ton Dieu t’aura béni.</verse>
+        <verse osisID='Deut.16.11'>Et tu te réjouiras devant le SEIGNEUR ton Dieu, toi, ton fils, et ta fille, ton serviteur et ta servante, et le Levite qui est dans tes portes, et l’étranger, et l’orphelin et la veuve qui seront parmi toi, au lieu que le SEIGNEUR ton Dieu aura choisi pour y placer son nom.</verse>
+        <verse osisID='Deut.16.12'>Et tu te souviendras que tu as été en servitude en Égypte, et tu observeras et feras ces statuts.</verse>
+        <verse osisID='Deut.16.13'>Tu observeras la fête des tabernacles pendant sept jours, après que tu auras recueilli ton grain et ton vin.</verse>
+        <verse osisID='Deut.16.14'>Et tu te réjouiras en ta fête, toi, et ton fils, et ta fille, et ton serviteur et ta servante, et le Levite, l’étranger, et l’orphelin et la veuve qui sont dans tes portes.</verse>
+        <verse osisID='Deut.16.15'>Pendant sept jours tu célébreras la fête au SEIGNEUR ton Dieu, au lieu que le SEIGNEUR aura choisi; parce que le SEIGNEUR ton Dieu te bénira dans tout ton rapport et dans tous les ouvrages de tes mains; c’est pourquoi tu te réjouiras assurément.</verse>
+        <verse osisID='Deut.16.16'>Trois fois l’année, tous tes mâles se présenteront devant le SEIGNEUR ton Dieu, au lieu qu’il aura choisi; à la fête des pains sans levain, et à la fête des semaines, et à la fête des tabernacles; et ils ne se présenteront pas devant le SEIGNEUR [les mains] vide[s].</verse>
+        <verse osisID='Deut.16.17'>Chacun donnera ce qu’il pourra, selon la bénédiction du SEIGNEUR ton Dieu, laquelle il t’aura donnée.</verse>
+        <verse osisID='Deut.16.18'>Tu t’établiras des juges et des officiers dans toutes tes portes que le SEIGNEUR ton Dieu te donne, selon tes tribus, et ils jugeront le peuple d’un juste jugement.</verse>
+        <verse osisID='Deut.16.19'>Tu ne fausseras pas le jugement; tu ne feras pas de distinction de personnes; et tu n’accepteras pas de présent; car le présent aveugle les yeux des sages, et corrompt les paroles des [hommes] droits.</verse>
+        <verse osisID='Deut.16.20'>Tu poursuivras ce qui est tout à fait juste, afin que tu vives et hérites le pays que le SEIGNEUR ton Dieu te donne.</verse>
+        <verse osisID='Deut.16.21'>Tu ne te planteras pas de bosquet (bocage) de quelque arbre [que ce soit], près de l’autel du SEIGNEUR ton Dieu, lequel tu te feras.</verse>
+        <verse osisID='Deut.16.22'>Tu ne te dresseras aucune statue; ce que le SEIGNEUR ton Dieu hait.</verse>
+      </chapter>
+      <chapter osisID='Deut.17'>
+        <verse osisID='Deut.17.1'>Tu ne sacrifieras au SEIGNEUR ton Dieu, ni taurillon, ni brebis qui ait un défaut, ou une difformité quelconque; car c’est une abomination au SEIGNEUR ton Dieu.</verse>
+        <verse osisID='Deut.17.2'>S’il était trouvé parmi vous, dans quelqu’une de tes portes que le SEIGNEUR ton Dieu te donne, un homme ou une femme qui fasse ce qui est mauvais aux yeux du SEIGNEUR ton Dieu, en transgressant son alliance,</verse>
+        <verse osisID='Deut.17.3'>Et qui aille et serve d’autres dieux, et qui les adore, soit devant le soleil, ou devant la lune, ou devant toute l’armée du ciel, ce que je n’ai pas commandé;</verse>
+        <verse osisID='Deut.17.4'>Et que cela te soit rapporté, et que tu l’apprennes; alors tu t’en enquerras soigneusement, et, voici, si c’est vrai, et la chose certaine, qu’une telle abomination a été commise en Israël,</verse>
+        <verse osisID='Deut.17.5'>Alors tu feras sortir vers tes portes cet homme, ou cette femme, qui aura commis cette méchante chose, cet homme dis-je, ou cette femme, tu les assommeras de pierres, jusqu’à ce qu’ils meurent.</verse>
+        <verse osisID='Deut.17.6'>De la bouche de deux témoins ou trois témoins sera mis à mort celui qui est passible de mise à mort; mais il ne sera pas mis à mort de la bouche d’un seul témoin.</verse>
+        <verse osisID='Deut.17.7'>Les mains des témoins seront les premières sur lui pour le faire mourir, et ensuite les mains de tout le peuple. Ainsi tu ôteras le mal du milieu de toi.</verse>
+        <verse osisID='Deut.17.8'>S’il s’élève une affaire trop difficile à juger pour toi, entre sang et sang, entre cause et cause, entre plaie et plaie, qui sont des affaires de procès dans tes portes, alors tu te lèveras et tu monteras au lieu que le SEIGNEUR ton Dieu aura choisi;</verse>
+        <verse osisID='Deut.17.9'>Et tu viendras aux prêtres, les Lévites, et au juge qui sera en ce jours-là, et tu t’enquerras, et ils te déclareront la sentence du jugement.</verse>
+        <verse osisID='Deut.17.10'>Et tu agiras selon la sentence qu’ils t’auront déclaré, de ce lieu que le SEIGNEUR aura choisi, et tu prendras garde de faire selon tout ce qu’ils t’auront informé.</verse>
+        <verse osisID='Deut.17.11'>Tu agiras selon la sentence de la loi qu’ils t’auront enseignée, et selon le jugement qu’ils t’auront prononcé; tu ne t’écarteras pas de ce qu’ils t’auront déclaré, ni à droite ni à gauche.</verse>
+        <verse osisID='Deut.17.12'>Et l’homme qui agira fièrement et ne voudra pas écouter le prêtre qui se tient là pour officier devant le SEIGNEUR ton Dieu, ou au juge, cet homme-là mourra, et tu ôteras le mal d’Israël.</verse>
+        <verse osisID='Deut.17.13'>Et tout le peuple l’entendra et craindra, et n’agira plus fièrement.</verse>
+        <verse osisID='Deut.17.14'>Quand tu seras entré au pays que le SEIGNEUR ton Dieu te donne, et que tu le posséderas et y demeureras, que tu diras: J’établirai un roi sur moi, comme toutes les nations qui sont autour de moi,</verse>
+        <verse osisID='Deut.17.15'>Tu ne pourras établir sur toi un [autre] roi que celui que le SEIGNEUR ton Dieu choisira; tu établiras sur toi un [roi] d’entre tes frères; tu ne pourras pas mettre sur toi un homme étranger, qui ne soit pas ton frère.</verse>
+        <verse osisID='Deut.17.16'>Seulement il ne s’amassera pas un grand nombre de chevaux, et il ne fera pas retourner le peuple en Égypte, afin d’augmenter le nombre des chevaux; vu que le SEIGNEUR vous a dit: Vous ne retournerez jamais plus par ce chemin-là.</verse>
+        <verse osisID='Deut.17.17'>Il ne prendra pas non plus un grand nombre de femmes, afin que son cœur ne se détourne pas; il ne s’amassera pas non plus beaucoup d’argent et d’or.</verse>
+        <verse osisID='Deut.17.18'>Et il arrivera, quand il sera assis sur le trône de son royaume, qu’il écrira pour lui dans un livre, une copie de cette loi, laquelle est devant les prêtres, les Lévites.</verse>
+        <verse osisID='Deut.17.19'>Et il [ce livre] sera avec lui, et il y lira tous les jours de sa vie, afin qu’il apprenne à craindre le SEIGNEUR son Dieu, à garder tous les mots de cette loi et ces statuts pour les faire;</verse>
+        <verse osisID='Deut.17.20'>Afin que son cœur ne s’élève au-dessus de ses frères, et qu’il ne se détourne pas de ce commandement, ni à main droite ni à gauche; afin qu’il prolonge ses jours dans son royaume, lui et ses fils, au milieu d’Israël.</verse>
+      </chapter>
+      <chapter osisID='Deut.18'>
+        <verse osisID='Deut.18.1'>Les prêtres, les Lévites, et toute la tribu de Levi (Lévi), n’auront pas de part ni d’héritage avec [le reste d]’Israël; ils se nourriront d’offrandes faites par feu au SEIGNEUR, et de son héritage.</verse>
+        <verse osisID='Deut.18.2'>C’est pourquoi ils n’auront pas d’héritage parmi leurs frères; le SEIGNEUR est leur héritage, comme il le leur a dit.</verse>
+        <verse osisID='Deut.18.3'>Et ceci sera le droit des prêtres [de la part] du peuple, de ceux qui offriront un sacrifice, que ce soit bœuf, ou brebis; on donnera au prêtre l’épaule, les mâchoires et l’estomac.</verse>
+        <verse osisID='Deut.18.4'>Tu lui donneras aussi les prémices de ton grain, de ton vin et de ton huile, et les prémices de la toison de tes brebis;</verse>
+        <verse osisID='Deut.18.5'>Car le SEIGNEUR ton Dieu l’a choisi d’entre toutes tes tribus, pour se tenir et officier au nom du SEIGNEUR, lui et ses fils, pour toujours.</verse>
+        <verse osisID='Deut.18.6'>Et si le Levite vient d’une de tes portes, de tout Israël où il séjourne, et qu’il vienne, avec tout le désir de sa pensée, au lieu que le SEIGNEUR aura choisi,</verse>
+        <verse osisID='Deut.18.7'>Ainsi il administrera au nom du SEIGNEUR son Dieu, comme tous ses frères, les Lévites qui se tiennent là devant le SEIGNEUR,</verse>
+        <verse osisID='Deut.18.8'>Ils mangeront une égale portion, outre ce qu’il aura vendu de son patrimoine.</verse>
+        <verse osisID='Deut.18.9'>Quand tu seras entré dans le pays que le SEIGNEUR ton Dieu te donne, tu n’apprendras pas à faire selon les abominations de ces nations.</verse>
+        <verse osisID='Deut.18.10'>Il ne se trouvera parmi vous personne qui fasse passer par le feu son fils ou sa fille, ou qui use de divination, ni astrologue, ni enchanteur, ni sorcier,</verse>
+        <verse osisID='Deut.18.11'>Ni envoûteur, ni personne qui consulte les esprits, ni magicien, ni nécromancien;</verse>
+        <verse osisID='Deut.18.12'>Car tous ceux qui font ces choses sont une abomination au SEIGNEUR, et à cause de ces abominations le SEIGNEUR ton Dieu chasse [ces nations] de devant toi.</verse>
+        <verse osisID='Deut.18.13'>Tu seras parfait avec le SEIGNEUR ton Dieu.</verse>
+        <verse osisID='Deut.18.14'>Car ces nations, que tu vas déposséder, écoutent les astrologues et les devins; mais quant à toi, le SEIGNEUR ton Dieu ne t’a pas permis d’agir de la sorte.</verse>
+        <verse osisID='Deut.18.15'>Le SEIGNEUR ton Dieu te suscitera un Prophète comme moi, du milieu de toi, d’entre tes frères; vous l’écouterez;</verse>
+        <verse osisID='Deut.18.16'>Selon tout ce que tu as désiré du SEIGNEUR ton Dieu en Horeb, au jour de l’assemblée, en disant: Que je n’entende plus la voix du SEIGNEUR mon Dieu, et que je ne voie plus ce grand feu, afin que je ne meure pas.</verse>
+        <verse osisID='Deut.18.17'>Et le SEIGNEUR me dit: Ils ont bien dit ce qu’ils ont dit.</verse>
+        <verse osisID='Deut.18.18'>Je leur susciterai d’entre leurs frères, un Prophète comme toi, et je mettrai mes paroles en sa bouche, et il leur dira tout ce que je lui commanderai.</verse>
+        <verse osisID='Deut.18.19'>Et il arrivera que quiconque n’écoutera pas mes paroles, qu’il dira en mon nom, je le lui redemanderai.</verse>
+        <verse osisID='Deut.18.20'>Mais le prophète qui aura l’audace de dire en mon nom une parole que je ne lui aurai pas commandé de dire, ou qui parlera au nom d’autres dieux, ce prophète-là mourra.</verse>
+        <verse osisID='Deut.18.21'>Et si tu dis en ton cœur: Comment connaîtrons-nous la parole que le SEIGNEUR n’a pas dite?</verse>
+        <verse osisID='Deut.18.22'>Quand un prophète parlera au nom du SEIGNEUR, et que la chose ne suivra pas, ni n’arrivera pas, c’est le que le SEIGNEUR n’a pas dit cette chose; mais le prophète l’a dite présomptueusement; tu n’auras pas peur de lui.</verse>
+      </chapter>
+      <chapter osisID='Deut.19'>
+        <verse osisID='Deut.19.1'>Quand le SEIGNEUR ton Dieu aura retranché les nations dont le SEIGNEUR ton Dieu te donne le pays, et que tu leur auras succédé, et que tu demeureras dans leurs villes et dans leurs maisons,</verse>
+        <verse osisID='Deut.19.2'>Tu sépareras trois villes au milieu de ton pays que le SEIGNEUR ton Dieu te donne pour le posséder;</verse>
+        <verse osisID='Deut.19.3'>Tu t’en prépareras un chemin, et tu diviseras en trois parties le territoire de ton pays, que le SEIGNEUR ton Dieu te donnera en héritage, afin que tout meurtrier puisse se réfugier là.</verse>
+        <verse osisID='Deut.19.4'>Et c’est ici le cas pour le meurtrier qui s’y sera enfui, afin qu’il vive: Celui qui aura tué son voisin sans préméditation, et sans l’avoir haï auparavant;</verse>
+        <verse osisID='Deut.19.5'>Comme quand quelqu’un va avec son voisin dans la forêt pour couper du bois, et que sa main lance la cognée pour couper le bois, et que le fer s’échappe du manche et frappe son voisin, en sorte qu’il en meure, il s’enfuira dans une de ces villes et y vivra;</verse>
+        <verse osisID='Deut.19.6'>De peur que le vengeur du sang ne poursuive le meurtrier pendant que son cœur est échauffé, et qu’il ne l’atteigne, parce que le chemin est long, et ne le tue, bien qu’il ne soit pas digne de mort, d’autant qu’il ne le haïssait pas auparavant.</verse>
+        <verse osisID='Deut.19.7'>C’est pourquoi, je te commande, en disant: Sépare-toi trois villes.</verse>
+        <verse osisID='Deut.19.8'>Et si le SEIGNEUR ton Dieu élargit ton territoire, comme il l’a juré à tes pères, et qu’il te donne tout le pays qu’il a promis de donner à tes pères,</verse>
+        <verse osisID='Deut.19.9'>Si tu prends garde à faire tous ces commandements que je te commande aujourd’hui, [c’est-à-dire] d’aimer le SEIGNEUR ton Dieu et de marcher toujours dans ses chemins, alors tu t’ajouteras trois villes de plus à ces trois-là;</verse>
+        <verse osisID='Deut.19.10'>Afin que le sang innocent ne soit pas répandu dans ton pays que le SEIGNEUR ton Dieu te donne en héritage, et qu’il n’y ait pas de sang sur toi.</verse>
+        <verse osisID='Deut.19.11'>Mais si un homme hait son voisin, et se tient aux aguets, et se lève contre lui, et le frappe mortellement en sorte qu’il meure, et qu’il s’enfuie dans l’une de ces villes,</verse>
+        <verse osisID='Deut.19.12'>Alors les anciens de sa ville enverront le sortir de là, et le livreront en la main du vengeur du sang, afin qu’il meure.</verse>
+        <verse osisID='Deut.19.13'>Ton œil n’en aura pas pitié; mais tu ôteras d’Israël la culpabilité du sang de l’innocent, afin que tout soit bien avec toi.</verse>
+        <verse osisID='Deut.19.14'>Tu ne déplaceras pas les bornes de ton voisin, que des prédécesseurs auront placées, dans ton héritage, lequel tu hériteras dans le pays que le SEIGNEUR ton Dieu te donne pour le posséder.</verse>
+        <verse osisID='Deut.19.15'>Un seul témoin ne se soulèvera pas contre un homme pour une quelconque iniquité, ou quelque péché qu’il ait commis; mais en la bouche de deux témoins ou de trois témoins, l’affaire sera établie.</verse>
+        <verse osisID='Deut.19.16'>Si un faux témoin s’élève contre quelqu’un pour témoigner contre lui ce qui est un tort,</verse>
+        <verse osisID='Deut.19.17'>Alors les deux hommes qui ont la controverse comparaîtront devant le SEIGNEUR, devant les prêtres et les juges qui seront en ces jours-là;</verse>
+        <verse osisID='Deut.19.18'>Et les juges s’enquerront soigneusement; et voici, si le témoin est un faux témoin, et (s’il) a témoigné faussement contre son frère,</verse>
+        <verse osisID='Deut.19.19'>Tu lui feras ainsi qu’il avait pensé faire à son frère; ainsi tu ôteras le mal du milieu de toi.</verse>
+        <verse osisID='Deut.19.20'>Et les autres l’entendront, craindront, et dorénavant ne commettront plus de semblable méchanceté au milieu de toi.</verse>
+        <verse osisID='Deut.19.21'>Et ton œil sera sans pitié: mais vie sera pour vie, œil pour œil, dent pour dent, main pour main, pied pour pied.</verse>
+      </chapter>
+      <chapter osisID='Deut.20'>
+        <verse osisID='Deut.20.1'>Quand tu iras à la guerre contre tes ennemis, et que tu verras des chevaux et des chariots, et un peuple plus nombreux que toi, n’aie pas peur d’eux; car le SEIGNEUR ton Dieu qui t’a fait monter hors du pays d’Égypte est avec toi.</verse>
+        <verse osisID='Deut.20.2'>Et il arrivera quand vous vous approcherez pour combattre, que le prêtre s’avancera, et parlera au peuple.</verse>
+        <verse osisID='Deut.20.3'>Et il leur dira: Entends, ô Israël, vous vous approchez aujourd’hui pour combattre vos ennemis: que votre cœur ne défaille pas, ne craignez pas, ne tremblez pas, ne soyez pas effrayés à cause d’eux;</verse>
+        <verse osisID='Deut.20.4'>Car le SEIGNEUR votre Dieu est celui qui marche avec vous, pour combattre pour vous contre vos ennemis, pour vous sauver.</verse>
+        <verse osisID='Deut.20.5'>Et les officiers parleront au peuple, en disant: Quel est l’homme qui a bâti une maison neuve, et ne l’a pas dédiée? Qu’il s’en aille et retourne à sa maison, de peur qu’il ne meure dans la bataille, et qu’un autre ne la dédie.</verse>
+        <verse osisID='Deut.20.6'>Et quel est l’homme qui a planté une vigne, et n’en a pas déjà mangé? Que lui aussi s’en aille et retourne à sa maison, de peur qu’il ne meure dans la bataille, et qu’un autre ne la mange.</verse>
+        <verse osisID='Deut.20.7'>Et quel est l’homme qui s’est fiancé une femme, et ne l’a pas prise [en mariage]? Qu’il s’en aille, et retourne à sa maison, de peur qu’il ne meure dans la bataille, et qu’un autre ne la prenne.</verse>
+        <verse osisID='Deut.20.8'>Et les officiers continueront à parler au peuple, et diront: Quel est ’homme qui est craintif et lâche? Qu’il s’en aille et retourne à sa maison, de peur que le cœur de ses frères ne défaille comme le sien.</verse>
+        <verse osisID='Deut.20.9'>Et il arrivera, quand les officiers auront achevé de parler au peuple, qu’ils établiront les capitaines des armées pour conduire le peuple.</verse>
+        <verse osisID='Deut.20.10'>Quand tu t’approcheras d’une ville pour l’attaquer, tu lui présenteras la paix.</verse>
+        <verse osisID='Deut.20.11'>Et il arrivera, si elle te fait une réponse de paix et s’ouvre à toi, alors il arrivera que tout le peuple qui s’y trouvera te sera tributaire et te servira.</verse>
+        <verse osisID='Deut.20.12'>Et si elle ne fait pas la paix avec toi, mais qu’elle fasse la guerre contre toi, alors tu l’assiégeras;</verse>
+        <verse osisID='Deut.20.13'>Et quand le SEIGNEUR ton Dieu l’aura livré en tes mains, tu tueras tous les mâles au tranchant de l’épée.</verse>
+        <verse osisID='Deut.20.14'>Mais tu prendras pour toi les femmes, les jjeunes enfants, le bétail et tout ce qui sera dans la ville, savoir tout son butin; et tu mangeras le butin de tes ennemis, que le SEIGNEUR ton Dieu t’aura donné.</verse>
+        <verse osisID='Deut.20.15'>Tu en feras ainsi à toutes les villes qui sont fort éloignées de toi, qui ne sont pas des villes de ces nations-ci.</verse>
+        <verse osisID='Deut.20.16'>Mais des villes de ces peuples que le SEIGNEUR ton Dieu te donne en héritage, tu ne laisseras en vie rien de ce qui respire;</verse>
+        <verse osisID='Deut.20.17'>Car tu les détruiras entièrement; savoir: les Hittites, les Amorites, les Canaanites, les Perizzites, les Hivites, et les Jebusites, comme le SEIGNEUR ton Dieu te l’a commandé,</verse>
+        <verse osisID='Deut.20.18'>Afin qu’ils ne vous apprennent pas à faire toutes les abominations qu’ils ont faites envers leurs dieux, et que vous ne péchiez pas contre le SEIGNEUR votre Dieu.</verse>
+        <verse osisID='Deut.20.19'>Quand tu assiégeras une ville pendant longtemps, en lui faisant la guerre pour la prendre, tu ne détruiras pas ses arbres à coups de cognée, car tu pourras en manger; tu ne les couperas pas, (car l’arbre des champs est la vie d’un homme), pour les employer au siège.</verse>
+        <verse osisID='Deut.20.20'>Mais seulement tu détruiras et tu couperas les arbres que tu connaîtras n’être pas des arbres fruitiers; et tu en bâtiras des forts contre la ville qui te fait la guerre, jusqu’à ce qu’elle soit soumise.</verse>
+      </chapter>
+      <chapter osisID='Deut.21'>
+        <verse osisID='Deut.21.1'>Si dans la terre que le SEIGNEUR ton Dieu te donne pour la posséder, on trouve un [homme] tué, étendu dans les champs, et qu’on ne sache pas qui l’a tué,</verse>
+        <verse osisID='Deut.21.2'>Alors tes anciens et tes juges sortiront, et mesureront jusqu’aux villes qui sont autour de celui qui a été tué.</verse>
+        <verse osisID='Deut.21.3'>Et il arrivera, que la ville qui est la plus proche de l’homme tué, que les anciens de cette ville prendront une génisse, qui n’a pas servi et qui n’a pas tiré au joug;</verse>
+        <verse osisID='Deut.21.4'>Et les anciens de cette ville feront descendre la génisse dans une vallée escarpée, qui ne soit ni pleine d’épis ni ensemencée; et ils couperont le cou à la génisse là dans la vallée.</verse>
+        <verse osisID='Deut.21.5'>Et les prêtres, les fils de Levi (Lévi), s’approcheront; car le SEIGNEUR ton Dieu les a choisis pour officier et pour bénir au nom du SEIGNEUR, et qu’à leur parole toute controverse et tout coup sera décidé.</verse>
+        <verse osisID='Deut.21.6'>Et tous les anciens de cette ville, qui sont les plus près de l’homme tué, laveront leurs mains sur la génisse laquelle aura été décapitée dans la vallée;</verse>
+        <verse osisID='Deut.21.7'>Et ils répondront, et diront: Nos mains n’ont pas versé ce sang; et nos yeux ne l’ont pas vu.</verse>
+        <verse osisID='Deut.21.8'>Fais miséricorde, ô SEIGNEUR, à ton peuple d’Israël que tu as racheté, et n’impute pas le sang innocent à ton peuple d’Israël. Et le sang leur sera pardonné.</verse>
+        <verse osisID='Deut.21.9'>Et tu ôteras la culpabilité du sang innocent du milieu de vous, quand tu auras fait ce qui est droit aux yeux du SEIGNEUR.</verse>
+        <verse osisID='Deut.21.10'>Quand tu iras à la guerre contre tes ennemis, et que le SEIGNEUR ton Dieu les aura livrés en tes mains, et que tu les auras emmenés captifs,</verse>
+        <verse osisID='Deut.21.11'>Et [quand] tu verras parmi les captifs une belle femme, et que tu seras attirée par elle, [et] que tu veuilles la prendre pour femme,</verse>
+        <verse osisID='Deut.21.12'>Alors tu la mèneras dans ta maison, et elle rasera sa tête, et préparera ses ongles;</verse>
+        <verse osisID='Deut.21.13'>Et elle se dévêtira de ses vêtements de captivité; et elle restera dans ta maison, et pleurera son père et sa mère un mois durant; et après cela tu iras vers elle, et tu seras son mari, et elle sera ta femme.</verse>
+        <verse osisID='Deut.21.14'>Et il arrivera, que si elle ne te plais plus, tu la laisseras aller où elle voudra, mais tu ne pourras pas la vendre pour de l’argent, ni n’en tirer aucun profit, parce que tu l’auras humiliée.</verse>
+        <verse osisID='Deut.21.15'>Si un homme a deux femmes, l’une aimée et l’autre haïe, et que les deux lui aient enfanté des enfants, aussi bien la [femme] aimée que la [femme] haïe, et si le fils aîné soit de celle qui est haïe;</verse>
+        <verse osisID='Deut.21.16'>Lorsqu’il [le jour] viendra, qu’il fera hériter à ses fils ce qu’il possède, il ne pourra pas faire premier-né le fils de la [femme] aimée, à la place du fils de la {femme] haïe, lequel est vraiment le premier-né.</verse>
+        <verse osisID='Deut.21.17'>Mais il reconnaîtra le fils de la {femme} haïe pour le premier-né, en lui donnant une double portion de tout ce qu’il possède; car il est le commencement de sa vigueur; le droit d’aînesse lui appartient.</verse>
+        <verse osisID='Deut.21.18'>Si un homme a un fils obstiné et rebelle, qui n’obéit pas à la voix de son père, ni à la voix de sa mère, et qui, quand ils l’auront châtié, il ne veuille pas les écouter,</verse>
+        <verse osisID='Deut.21.19'>Alors son père et sa mère le prendront, et l’amèneront aux anciens de sa ville, et à la porte de son lieu;</verse>
+        <verse osisID='Deut.21.20'>Et ils diront aux anciens de sa ville: C’est ici notre fils qui] est obstiné et rebelle; il n’obéit pas à notre voix; il est glouton et ivrogne.</verse>
+        <verse osisID='Deut.21.21'>Et tous les hommes de sa ville le lapideront, et il mourra, ainsi tu ôteras le mal du milieu de toi, et tout Israël l’entendra et craindra.</verse>
+        <verse osisID='Deut.21.22'>Et si un homme a commis un péché digne de mort, et qu’il soit mis à mort, et que tu le pendes à un arbre,</verse>
+        <verse osisID='Deut.21.23'>Son corps ne passera pas la nuit sur l’arbre; mais tu ne manqueras pas de l’enterrer le jour même; (car celui qui est pendu est malédiction de Dieu): afin que ton pays ne soit pas souillé, lequel le SEIGNEUR ton Dieu te donne en héritage.</verse>
+      </chapter>
+      <chapter osisID='Deut.22'>
+        <verse osisID='Deut.22.1'>[Quand] tu verras le bœuf ou la brebis de ton frère égarés, tu ne te cacheras pas d’eux, tu les ramèneras en tout cas à ton frère.</verse>
+        <verse osisID='Deut.22.2'>Et si ton frère n’est pas près de toi, ou si tu ne le connais pas, alors tu amèneras [la bête] dans ta maison; et elle restera avec toi jusqu’à ce que ton frère vienne la chercher, et alors tu la lui rendras.</verse>
+        <verse osisID='Deut.22.3'>Tu feras de même pour son âne, et tu feras de même pour son vêtement, et tu feras ainsi de toute chose que ton frère aura perdue et que tu auras trouvée; tu ne pourras pas t’en cacher.</verse>
+        <verse osisID='Deut.22.4'>[Quand] tu verras l’âne de ton frère, ou son bœuf, le long du chemin, tu ne te cacheras pas d’eux; certainement tu l’aideras à les relever.</verse>
+        <verse osisID='Deut.22.5'>Une femme ne portera pas ce que porte un homme, et un homme ne se revêtira pas d’un vêtement de femme; car tous ceux qui font ainsi, sont en abomination au SEIGNEUR ton Dieu.</verse>
+        <verse osisID='Deut.22.6'>Si tu rencontres dans le chemin, sur quelque arbre, ou par terre, un nid d’oiseau, avec des petits ou des œufs, et la mère couvant les petits ou les œufs, tu ne prendras pas la mère avec les petits;</verse>
+        <verse osisID='Deut.22.7'>Mais tu laisseras en tout cas aller la mère, et tu prendras les petits pour toi, afin que tout aille bien avec toi, et que tu prolonges tes jours.</verse>
+        <verse osisID='Deut.22.8'>Quand tu bâtiras une maison neuve, tu feras un garde-fou à ton toit, afin que tu ne mettes pas de sang sur ta maison, si quelqu’un tombait de là.</verse>
+        <verse osisID='Deut.22.9'>Tu ne planteras pas ta vigne de diverses [sortes] de semences, de peur que le fruit de ta semence, et le fruit de ta vigne, ne soit souillé.</verse>
+        <verse osisID='Deut.22.10'>Tu ne laboureras pas avec un bœuf et un âne [attelés] ensemble.</verse>
+        <verse osisID='Deut.22.11'>Tu ne te vêtiras pas d’un vêtement de tissu mélangé, c’est-à-dire de laine et de lin ensemble.</verse>
+        <verse osisID='Deut.22.12'>Tu te feras des franges aux quatre pans de ton vêtement dont tu te couvres.</verse>
+        <verse osisID='Deut.22.13'>Si un homme a pris une femme, et est allé vers elle, et qu’il la haïsse,</verse>
+        <verse osisID='Deut.22.14'>Et qui donne l’occasion de parler d’elle, et porte atteinte à sa réputation, et dira: J’ai pris cette femme, et quand je suis allé vers elle, je ne l’ai pas trouvée vierge;</verse>
+        <verse osisID='Deut.22.15'>Alors le père et la mère de la jeune fille prendront et produiront les marques de la virginité de la jeune fille aux anciens de la ville, à la porte;</verse>
+        <verse osisID='Deut.22.16'>Et le père de la jeune fille dira aux anciens: J’ai donné ma fille à cet homme pour femme, et il l’a hait;</verse>
+        <verse osisID='Deut.22.17'>Et voici, il profite de l’occasion de parler d’elle, disant: Je n’ai pas trouvé ta fille vierge; et cependant voici les marques de la virginité de ma fille. Et ils étendront le drap devant les anciens de la ville.</verse>
+        <verse osisID='Deut.22.18'>Et les anciens de cette ville prendront l’homme, et le châtieront.</verse>
+        <verse osisID='Deut.22.19'>Et ils le condamneront à une amende de cent shekels d’argent, et les donneront au père de la jeune fille, parce qu’il a porté atteinte à la réputation d’une vierge d’Israël; et elle sera sa femme, il ne pourra la renvoyer tant qu’il vivra.</verse>
+        <verse osisID='Deut.22.20'>Mais si cette chose est vraie, et que les signes de virginité n’ont pas été trouvés chez la jeune fille</verse>
+        <verse osisID='Deut.22.21'>Alors ils feront sortir la jeune fille à la porte de la maison de son père, et les hommes de sa ville la lapideront, et elle mourra; parce qu’elle a commis une infamie en Israël en se prostituant dans la maison de son père; ainsi tu ôteras le mal du milieu de toi.</verse>
+        <verse osisID='Deut.22.22'>Si un homme est trouvé couché avec une femme mariée, alors ils mourront tous deux, l’homme qui a couché avec la femme, et la femme; ainsi tu ôteras le mal d’Israël.</verse>
+        <verse osisID='Deut.22.23'>Si une jeune fille qui est vierge et fiancée à un mari et qu’un homme la trouve dans la ville, et couche avec elle,</verse>
+        <verse osisID='Deut.22.24'>Alors vous les ferez sortir tous deux à la porte de cette ville, et vous les lapiderez, et ils mourront; la jeune fille, parce qu’elle n’a pas crié étant dans la ville, et l’homme, parce qu’il a humilié la femme de son voisin; ainsi tu ôteras le mal du milieu de vous.</verse>
+        <verse osisID='Deut.22.25'>Mais si un homme trouve dans les champs une jeune fille fiancée, et que, l’homme la force, et couche avec elle, alors seulement l’homme qui aura couché avec elle mourra;</verse>
+        <verse osisID='Deut.22.26'>Mais tu ne feras rien à la jeune fille; il n’y a pas de péché digne de mort sur la jeune fille; car il en est de ce cas, comme si un homme s’élevait contre son voisin et le tuait;</verse>
+        <verse osisID='Deut.22.27'>Car il l’a trouvée aux champs, et la jeune fille fiancée a crié, et il n’y avait personne pour la sauver.</verse>
+        <verse osisID='Deut.22.28'>Si un homme trouve une jeune fille vierge, qui n’est pas fiancée, et qu’il la saisisse et couche avec elle, et qu’ils soient trouvés;</verse>
+        <verse osisID='Deut.22.29'>Alors l’homme qui aura couché avec elle donnera au père de la jeune fille cinquante shekels d’argent, et elle sera sa femme, parce qu’il l’a humiliée; il ne pourra pas la répudier tant qu’il vivra.</verse>
+        <verse osisID='Deut.22.30'>Un homme ne prendra pas la femme de son père, ni ne découvrira le pan [de robe] de son père.</verse>
+      </chapter>
+      <chapter osisID='Deut.23'>
+        <verse osisID='Deut.23.1'>Celui qui est eunuque, ou a sa partie privée coupée, n’entrera pas dans la congrégation du SEIGNEUR.</verse>
+        <verse osisID='Deut.23.2'>Un bâtard n’entrera pas dans la congrégation du SEIGNEUR; même sa dixième génération n’entrera pas dans la congrégation du SEIGNEUR.</verse>
+        <verse osisID='Deut.23.3'>Un Ammonite ou un Moabite n’entreront pas dans la congrégation du SEIGNEUR; même leur dixième génération n’entrera pas dans la congrégation du SEIGNEUR, à jamais;</verse>
+        <verse osisID='Deut.23.4'>Parce qu’ils ne sont pas venus à votre rencontre avec du pain et de l’eau dans le chemin, quand vous sortiez d’Égypte, et parce qu’ils ont soudoyé contre toi Balaam, le fils de Beor, de Pethor en Mésopotamie, pour te maudire.</verse>
+        <verse osisID='Deut.23.5'>Néanmoins le SEIGNEUR ton Dieu ne voulut pas écouter Balaam; mais le SEIGNEUR ton Dieu changea pour toi la malédiction en bénédiction, parce que le SEIGNEUR ton Dieu t’a aimé.</verse>
+        <verse osisID='Deut.23.6'>Tu ne chercheras ni leur paix ni leur prospérité, tous les jours [et] pour toujours.</verse>
+        <verse osisID='Deut.23.7'>Tu n’auras pas en abomination l’Edomite; car il est ton frère; tu n’auras pas en abomination l’Égyptien; parce que tu as été un étranger dans son pays;</verse>
+        <verse osisID='Deut.23.8'>Les enfants qui leur seront engendrés, à la troisième génération, pourront entrer dans la congrégation du SEIGNEUR.</verse>
+        <verse osisID='Deut.23.9'>Quand l’armée ira contre tes ennemis, garde-toi alors de toute mauvaise chose.</verse>
+        <verse osisID='Deut.23.10'>S’il y a quelqu’un parmi vous qui ne soit pas net, pour quelque souillure qui lui soit arrivée de nuit, il sortira hors du camp, il n’entrera pas dans le camp;</verse>
+        <verse osisID='Deut.23.11'>Mais il arrivera, quand le soir arrivera, [qu’] il se lavera avec de l’eau, et quand le soleil sera couché, il rentrera dans le camp.</verse>
+        <verse osisID='Deut.23.12'>Tu auras aussi un lieu déterminé, hors du camp, où tu sortiras dehors;</verse>
+        <verse osisID='Deut.23.13'>Et tu auras une palette en plus de tes armes; et quand tu voudras te soulager dehors, tu t’en serviras pour creuser, puis tu t’en retourneras et tu couvriras ce qui sera sorti de toi.</verse>
+        <verse osisID='Deut.23.14'>Car le SEIGNEUR ton Dieu marche au milieu de ton camp pour te délivrer, et pour livrer tes ennemis devant toi; c’est pourquoi ton camp sera saint, afin qu’il ne voie en toi aucune chose souillée, et qu’il ne se détourne de toi.</verse>
+        <verse osisID='Deut.23.15'>Tu ne livreras pas à son maître le serviteur qui se sera échappé chez toi de chez son maître;</verse>
+        <verse osisID='Deut.23.16'>Il demeurera avec toi, et même parmi vous, dans ce lieu qu’il choisira dans l’une de tes portes, où bon lui semble; tu ne l’opprimeras pas.</verse>
+        <verse osisID='Deut.23.17'>Il n’y aura pas de prostituée entre les filles d’Israël, ni de sodomite d’entre les fils d’Israël.</verse>
+        <verse osisID='Deut.23.18'>Tu n’apporteras pas dans la maison du SEIGNEUR ton Dieu pour aucun vœu, le salaire d’une prostituée, ni le prix d’un chien; car tous les deux sont en abomination au SEIGNEUR ton Dieu.</verse>
+        <verse osisID='Deut.23.19'>Tu ne prêteras pas avec intérêt à ton frère, soit intérêt d’argent, soit intérêt de vivres, soit intérêt de quelque autre chose que ce soit qu’on prête avec intérêt.</verse>
+        <verse osisID='Deut.23.20'>Tu pourras prêter avec intérêt à l’étranger, mais tu ne prêteras pas avec intérêt à ton frère; afin que le SEIGNEUR ton Dieu te bénisse en tout ce à quoi tu mets la main, dans le pays où tu entres pour le posséder.</verse>
+        <verse osisID='Deut.23.21'>Quand tu feras un vœu au SEIGNEUR ton Dieu, tu ne négligeras pas de l’accomplir; car le SEIGNEUR ton Dieu te le redemandera assurément; et il y aurait péché en toi. #</verse>
+        <verse osisID='Deut.23.22'>Mais si tu t’abstiens de faire un vœu, il n’y aura pas de péché en toi.</verse>
+        <verse osisID='Deut.23.23'>Tu prendras garde à faire ce qui sera sorti de tes lèvres, une offrande volontaire, ainsi que tu l’auras vouée au SEIGNEUR ton Dieu, ce que tu auras promis de ta bouche.</verse>
+        <verse osisID='Deut.23.24'>Quand tu entreras dans la vigne de ton voisin, tu pourras manger des raisins pour te rassasier autant que tu le désires, mais tu n’en mettras pas dans ton récipient.</verse>
+        <verse osisID='Deut.23.25'>Quand tu entreras dans les [champs] de grains de ton voisin, tu pourras alors arracher des épis avec ta main; mais tu ne mettras pas la faucille dans les grains de ton voisin.</verse>
+      </chapter>
+      <chapter osisID='Deut.24'>
+        <verse osisID='Deut.24.1'>Quand un homme prend une femme et l’épouse, s’il arrive qu’elle ne trouve pas grâce à ses yeux, parce qu’il aura trouvé en elle quelque défaut, il lui écrira alors une lettre de divorce, et la lui mettra dans sa main, et la renverra hors de sa maison.</verse>
+        <verse osisID='Deut.24.2'>Et quand elle sera sortie de sa maison, elle peut s’en aller et devenir la femme d’un autre homme,</verse>
+        <verse osisID='Deut.24.3'>Et si ce dernier mari la hait, et lui écrit une lettre de divorce, la lui met dans sa main, et la renvoie de sa maison; ou si ce dernier mari, qui l’avait prise pour femme, meurt,</verse>
+        <verse osisID='Deut.24.4'>Son premier mari, qui l’avait renvoyée, ne pourra pas la reprendre pour femme après qu’elle a été souillée; car c’est une abomination devant le SEIGNEUR, et tu n’amèneras pas de péché sur le pays que le SEIGNEUR ton Dieu te donne en héritage.</verse>
+        <verse osisID='Deut.24.5'>Quand un homme a nouvellement pris une femme, il n’ira pas à la guerre, et ne sera chargé d’aucune affaire; mais il en sera exempt dans sa maison pendant un an, et il réjouira sa femme qu’il a prise.</verse>
+        <verse osisID='Deut.24.6'>Personne ne prendra pour gage, [ni la meule] inférieure, ni la meule supérieure; car ce serait prendre pour gage la vie d’un homme.</verse>
+        <verse osisID='Deut.24.7'>Si on trouve un homme qui ait volé l’un de ses frères, des enfants d’Israël, et en ait gagné de l’argent, ou l’ait vendu, ce voleur alors mourra; et tu ôteras le mal du milieu de vous.</verse>
+        <verse osisID='Deut.24.8'>Prends garde à la plaie de la lèpre, afin que tu observes soigneusement et fasses tout ce que les prêtres, les Lévites, vous enseigneront; ainsi vous prendrez garde à faire comme je leur ai commandé.</verse>
+        <verse osisID='Deut.24.9'>Souviens-toi de ce que le SEIGNEUR ton Dieu fit à Miriam le long du chemin, après que vous soyez sortis d’Égypte.</verse>
+        <verse osisID='Deut.24.10'>Quand tu prêteras quoi que ce soit à ton frère, tu n’entreras pas dans sa maison pour aller chercher son gage;</verse>
+        <verse osisID='Deut.24.11'>Tu te tiendras dehors, et l’homme à qui tu prêtes t’apportera le gage dehors.</verse>
+        <verse osisID='Deut.24.12'>Et si l’homme est pauvre, tu ne dormiras pas avec son gage.</verse>
+        <verse osisID='Deut.24.13'>En tout état de cause, tu ne manqueras pas de lui rendre le gage, au coucher du soleil, afin qu’il puisse dormir dans son propre vêtement, et qu’il te bénisse; et cela te sera [imputé] droiture devant le SEIGNEUR ton Dieu.</verse>
+        <verse osisID='Deut.24.14'>Tu n’opprimeras pas le serviteur salarié qui est pauvre et indigent, qu’il soit d’entre tes frères ou d’entre les étrangers qui sont dans ton pays, dans tes portes.</verse>
+        <verse osisID='Deut.24.15'>À son jour, tu lui donneras son salaire, avant que le soleil se couche; car il est pauvre, et son cœur compte dessus; de peur qu’il ne crie contre toi au SEIGNEUR, et qu’il n’y ait péché en toi.</verse>
+        <verse osisID='Deut.24.16'>Les pères ne seront pas mis à mort pour les enfants; les enfants non plus ne seront pas mis à mort pour les pères; chaque homme sera mis à mort pour son propre péché.</verse>
+        <verse osisID='Deut.24.17'>Tu ne pervertiras pas le jugement d’un étranger, ni de l’orphelin, et tu ne prendras pas pour gage le vêtement de la veuve.</verse>
+        <verse osisID='Deut.24.18'>Et tu te souviendras que tu as été en servitude en Égypte, et que le SEIGNEUR ton Dieu t’a racheté de là; c’est pourquoi, je te commande de faire cette chose.</verse>
+        <verse osisID='Deut.24.19'>Quand tu feras ta moisson dans ton champ, et que tu auras oublié une gerbe dans le champ, tu ne retourneras pas la chercher; elle sera pour l’étranger, pour l’orphelin et pour la veuve, afin que le SEIGNEUR ton Dieu puisse te bénir dans toute l’œuvre de tes mains.</verse>
+        <verse osisID='Deut.24.20'>Quand tu battras ton olivier, tu ne reviendras pas sur les branches après toi; ce qui restera sera pour l’étranger, pour l’orphelin et pour la veuve.</verse>
+        <verse osisID='Deut.24.21'>Quand tu vendangeras ta vigne, tu ne grappilleras pas après; ce sera pour l’étranger, pour l’orphelin et pour la veuve.</verse>
+        <verse osisID='Deut.24.22'>Et tu te souviendras que tu as été en servitude dans le pays d’Égypte; c’est pourquoi, je te commande de faire cette chose.</verse>
+      </chapter>
+      <chapter osisID='Deut.25'>
+        <verse osisID='Deut.25.1'>S’il y a une controverse entre des hommes, et qu’ils viennent en jugement, afin que les juges puissent les juger, alors on justifiera l’[homme] droit, et l’on condamnera le méchant.</verse>
+        <verse osisID='Deut.25.2'>Et il arrivera que si le méchant a mérité d’être battu, le juge le fera jeter par terre et battre devant lui, par un certain nombre [de coups] suivant sa faute.</verse>
+        <verse osisID='Deut.25.3'>Il pourra lui faire donner quarante coups, et pas davantage; de peur que s’il continuait à le battre au-delà de ces coups, ton frère alors te semblerait méprisable.</verse>
+        <verse osisID='Deut.25.4'>Tu n’emmuselleras pas le bœuf, quand il foule le grain.</verse>
+        <verse osisID='Deut.25.5'>Si des frères demeurent ensemble, et que l’un d’eux meurt, et soit sans enfants, la femme du mort ne se mariera pas à un étranger; son beau-frère viendra vers elle, et la prendra pour femme, et s’acquittera envers elle de son devoir de beau-frère.</verse>
+        <verse osisID='Deut.25.6'>Et il arrivera que le premier-né qu’elle enfantera succédera selon le nom de son frère qui est mort, afin que son nom ne soit pas effacé d’Israël.</verse>
+        <verse osisID='Deut.25.7'>Et s’il ne plaît pas à cet homme de prendre sa belle-sœur, sa belle-sœur montera à la porte, vers les anciens, et dira: Mon beau-frère refuse de relever le nom de son frère en Israël, il ne veut pas s’acquitter de son devoir de beau-frère.</verse>
+        <verse osisID='Deut.25.8'>Alors les anciens de sa ville l’appelleront, et lui parleront; et s’il tient ferme, et dit: Je ne veux pas la prendre,</verse>
+        <verse osisID='Deut.25.9'>Alors sa belle-sœur s’approchera de lui, devant les anciens, et lui ôtera sa chaussure du pied, et lui crachera au visage; et répondra et dira: Ainsi sera fait à l’homme qui ne veut pas édifier la maison de son frère.</verse>
+        <verse osisID='Deut.25.10'>Et son nom sera appelé en Israël, la maison du déchaussé.</verse>
+        <verse osisID='Deut.25.11'>Quand des hommes se disputeront ensemble, l’un avec l’autre, et que la femme de l’un s’approche pour délivrer son mari de la main de celui qui le frappe, et qu’avançant sa main, elle le saisisse par ses parties génitales,</verse>
+        <verse osisID='Deut.25.12'>Alors tu lui couperas sa main; ton œil n’aura pas pitié d’elle.</verse>
+        <verse osisID='Deut.25.13'>Tu n’auras pas dans ton sac deux sortes de poids, un grand et un petit.</verse>
+        <verse osisID='Deut.25.14'>Tu n’auras pas dans ta maison deux sortes de mesures, une grande et une petite;</verse>
+        <verse osisID='Deut.25.15'>Tu auras un poids exact et juste; tu auras aussi une mesure exacte et juste; afin que tes jours soient prolongés sur la terre que le SEIGNEUR ton Dieu te donne.</verse>
+        <verse osisID='Deut.25.16'>Car quiconque fait de telles choses, et quiconque fait injustement, est en abomination au SEIGNEUR ton Dieu.</verse>
+        <verse osisID='Deut.25.17'>Souviens-toi de ce qu’Amalek t’a fait en chemin, quand vous sortiez d’Égypte;</verse>
+        <verse osisID='Deut.25.18'>Comment il est venu te rencontrer dans le chemin, et a frappé ton arrière garde, et même tous ceux qui étaient faibles et te suivaient, lorsque tu étais las et fatigué, et il ne craignit pas Dieu.</verse>
+        <verse osisID='Deut.25.19'>C’est pourquoi il arrivera, quand le SEIGNEUR ton Dieu t’aura donné du repos de tous tes ennemis à l’entour, dans le pays que le SEIGNEUR ton Dieu te donne en héritage pour le posséder, tu effaceras la mémoire d’Amalek de dessous le ciel; tu ne l’oublieras pas.</verse>
+      </chapter>
+      <chapter osisID='Deut.26'>
+        <verse osisID='Deut.26.1'>Et il arrivera, quand tu seras entré dans le pays que le SEIGNEUR ton Dieu te donne en héritage, et que tu le posséderas et y demeureras,</verse>
+        <verse osisID='Deut.26.2'>Tu prendras des premiers de tous les fruits de la terre que tu récolteras du pays que le SEIGNEUR ton Dieu te donne, tu les mettras dans un panier, et tu iras au lieu que le SEIGNEUR ton Dieu aura choisi pour y placer son nom;</verse>
+        <verse osisID='Deut.26.3'>Et tu viendras vers le prêtre qui sera en ces jours-là, et tu lui diras: Je déclare aujourd’hui au SEIGNEUR ton Dieu, que je suis parvenu dans le pays que le SEIGNEUR avait juré à nos pères de nous donner.</verse>
+        <verse osisID='Deut.26.4'>Et le prêtre prendra le panier de ta main, et le posera devant l’autel du SEIGNEUR ton Dieu.</verse>
+        <verse osisID='Deut.26.5'>Et tu parleras, et diras, devant le SEIGNEUR ton Dieu: Mon père était un Syrien prêt à périr; et il descendit en Égypte, avec un petit nombre de gens, et y séjourna; et y devint une nation grande, puissante et nombreuse.</verse>
+        <verse osisID='Deut.26.6'>Et les méchants Égyptiens nous maltraitèrent, et nous affligèrent et nous imposèrent une dure servitude;</verse>
+        <verse osisID='Deut.26.7'>Et quand nous avons crié au SEIGNEUR Dieu de nos pères, le SEIGNEUR entendit notre voix, et regarda notre affliction, et notre travail et notre oppression.</verse>
+        <verse osisID='Deut.26.8'>Et le SEIGNEUR nous tira hors d’Égypte, avec une main puissante et avec un bras étendu, et avec une grande terreur, et avec des signes et des prodiges.</verse>
+        <verse osisID='Deut.26.9'>Et il nous amena en ce lieu, et nous donna ce pays, à savoir un pays où coulent le lait et le miel.</verse>
+        <verse osisID='Deut.26.10'>Maintenant donc, voici, j’ai apporté les premiers des fruits de la terre que toi, ô SEIGNEUR, m’as donnée. Et tu le poseras devant le SEIGNEUR ton Dieu, et tu adoreras devant le SEIGNEUR ton Dieu;</verse>
+        <verse osisID='Deut.26.11'>Et tu te réjouiras, de chaque bonne chose que le SEIGNEUR ton Dieu t’aura donnée et à ta maison, toi, et le Levite, et l’étranger qui est au milieu de toi,.</verse>
+        <verse osisID='Deut.26.12'>Quand tu auras achevé de lever toute la dîme de ton rapport, la troisième année, qui est l’année de la dîme, tu la donneras au Levite, à l’étranger, à l’orphelin et à la veuve, afin qu’ils puissent manger dans tes portes, et [qu’ils] soient rassasiés;</verse>
+        <verse osisID='Deut.26.13'>Alors tu diras devant le SEIGNEUR ton Dieu: J’ai ôté de ma maison les choses saintes; et je l’ai donné au Levite, à l’étranger, à l’orphelin et à la veuve, selon tous tes commandements que tu m’as commandés; je n’ai rien transgressé de tes commandements, et je ne les ai oubliés non plus.</verse>
+        <verse osisID='Deut.26.14'>Je n’en ai pas mangé dans mon deuil, je n’en ai rien ôté pour l’appliquer à quelque usage souillé, et je n’en ai pas donné non plus pour le mort; mais j’ai obéi à la voix du SEIGNEUR mon Dieu, et j’ai fait selon tout ce que tu m’as commandé.</verse>
+        <verse osisID='Deut.26.15'>Regarde de ta sainte habitation, du ciel, et bénis ton peuple Israël et le pays que tu nous as donné, comme tu l’as juré à nos pères, un pays où coulent le lait et le miel.</verse>
+        <verse osisID='Deut.26.16'>Aujourd’hui le SEIGNEUR ton Dieu t’a commandé de faire ces statuts et ces jugements; tu prendras donc garde de les faire de tout ton cœur et de toute ton âme.</verse>
+        <verse osisID='Deut.26.17'>Tu as aujourd’hui stipulé du SEIGNEUR qu’il soit ton Dieu, et que tu marches selon ses chemins, et que tu gardes ses statuts, ses commandements et ses jugements, et que tu écoutes sa voix.</verse>
+        <verse osisID='Deut.26.18'>Et le SEIGNEUR t’a stipulé aujourd’hui, que tu lui seras un peuple particulier, comme il te l’a promis; et que tu devras garder tous ses commandements;</verse>
+        <verse osisID='Deut.26.19'>Et qu’il te rendra haut élevé, en louange, en renom et en honneur, au-dessus de toutes les nations qu’il a faites afin que tu sois un peuple saint au SEIGNEUR ton Dieu, comme il l’a dit.</verse>
+      </chapter>
+      <chapter osisID='Deut.27'>
+        <verse osisID='Deut.27.1'>Et Moïse et les anciens d’Israël commandèrent au peuple, en disant: Gardez tous les commandements que je vous commande aujourd’hui.</verse>
+        <verse osisID='Deut.27.2'>Et il arrivera qu’au jour où vous passerez le Jourdain, [et entrerez] dans le pays que le SEIGNEUR ton Dieu te donne, tu te dresseras de grandes pierres, et tu les plâtras de plâtre.</verse>
+        <verse osisID='Deut.27.3'>Puis tu écriras sur elles tous les mots de cette loi, quand tu auras passé afin que tu puisses entrer dans le pays que le SEIGNEUR ton Dieu te donne, un pays où coulent le lait et le miel, comme le SEIGNEUR, le Dieu de tes pères, te l’a promis.</verse>
+        <verse osisID='Deut.27.4'>C’est pourquoi il arrivera quand vous passerez le Jourdain, vous dresserez ces pierres sur le mont Ebal, comme je vous commande aujourd’hui, et tu les plâtras de plâtre.</verse>
+        <verse osisID='Deut.27.5'>Et tu bâtiras là un autel au SEIGNEUR ton Dieu, un autel de pierres, sur lesquelles tu ne lèveras aucun outil en fer.</verse>
+        <verse osisID='Deut.27.6'>Tu bâtiras l’autel du SEIGNEUR ton Dieu, de pierres entières, et tu offriras dessus des offrandes consumées au SEIGNEUR ton Dieu;</verse>
+        <verse osisID='Deut.27.7'>Et tu y offriras aussi des offrandes de paix, et tu mangeras là, et te réjouiras devant le SEIGNEUR ton Dieu.</verse>
+        <verse osisID='Deut.27.8'>Et tu écriras sur les pierres tous les mots de cette loi très lisiblement.</verse>
+        <verse osisID='Deut.27.9'>Et Moïse et les prêtres, les Lévites, parlèrent à tout Israël, disant: Prends garde et écoute, ô Israël: Aujourd’hui tu es devenu le peuple du SEIGNEUR ton Dieu;</verse>
+        <verse osisID='Deut.27.10'>Tu obéiras donc à la voix du SEIGNEUR ton Dieu, et tu feras ses commandements et ses statuts que je te commande aujourd’hui.</verse>
+        <verse osisID='Deut.27.11'>Et Moïse ordonna au peuple ce jour-là, disant:</verse>
+        <verse osisID='Deut.27.12'>Ceux-ci se tiendront sur le mont Garizim, pour bénir le peuple, quand vous aurez passé le Jourdain, Simeon, et Levi (Lévi), et Judah, et Issacar, et Joseph et Benjamin;</verse>
+        <verse osisID='Deut.27.13'>Et ceux-ci se tiendront sur le mont Ebal, pour maudire: Reuben (Ruben), Gad, Asher (Asser), Zabulon, Dan, Nephthali.</verse>
+        <verse osisID='Deut.27.14'>Et les Lévites parleront, et diront, à haute voix, à tous les hommes d’Israël:</verse>
+        <verse osisID='Deut.27.15'>Maudit soit l’homme qui fera quelque image taillée ou [de métal] fondu, [c’est] une abomination au SEIGNEUR, l’ouvrage des mains de l’artisan, et [qui] la mette dans un lieu secret. Et tout le peuple répondra, et dira: Amen.</verse>
+        <verse osisID='Deut.27.16'>Maudit soit celui qui méprise son père ou sa mère. Et tout le peuple dira: Amen.</verse>
+        <verse osisID='Deut.27.17'>Maudit soit celui qui déplace la borne de son voisin. Et tout le peuple dira: Amen.</verse>
+        <verse osisID='Deut.27.18'>Maudit soit celui qui fait égarer l’aveugle dans le chemin. Et tout le peuple dira: Amen.</verse>
+        <verse osisID='Deut.27.19'>Maudit soit celui qui pervertit le jugement de l’étranger, de l’orphelin et de la veuve. Et tout le peuple dira: Amen.</verse>
+        <verse osisID='Deut.27.20'>Maudit soit celui qui couche avec la femme de son père; parce qu’il découvre le pan [de la robe] de son père. Et tout le peuple dira: Amen.</verse>
+        <verse osisID='Deut.27.21'>Maudit soit celui qui couche avec une bête quelconque. Et tout le peuple dira: Amen.</verse>
+        <verse osisID='Deut.27.22'>Maudit soit celui qui couche avec sa sœur, la fille de son père, ou la fille de sa mère. Et tout le peuple dira: Amen.</verse>
+        <verse osisID='Deut.27.23'>Maudit soit celui qui couche avec sa belle-mère. Et tout le peuple dira: Amen.</verse>
+        <verse osisID='Deut.27.24'>Maudit soit celui qui frappe son voisin en secret. Et tout le peuple dira: Amen.</verse>
+        <verse osisID='Deut.27.25'>Maudit soit celui qui reçoit une récompense pour mettre à mort une innocente personne. Et tout le peuple dira: Amen.</verse>
+        <verse osisID='Deut.27.26'>Maudit soit celui qui ne maintient pas toutes les paroles de cette loi, pour les faire. Et tout le peuple dira: Amen.</verse>
+      </chapter>
+      <chapter osisID='Deut.28'>
+        <verse osisID='Deut.28.1'>Et il arrivera que, si tu écoutes soigneusement la voix du SEIGNEUR ton Dieu, pour observer et faire tous ses commandements que je te commande aujourd’hui, le SEIGNEUR ton Dieu te placera au-dessus de toutes les nations de la terre.</verse>
+        <verse osisID='Deut.28.2'>Et toutes ces bénédictions viendront sur toi et t’atteindront, si tu écoutes la voix du SEIGNEUR ton Dieu;</verse>
+        <verse osisID='Deut.28.3'>Tu seras béni dans la ville, et tu seras béni dans les champs;</verse>
+        <verse osisID='Deut.28.4'>Béni sera le fruit de ton corps, et le fruit de ton sol, et le fruit de ton bétail, et la reproduction de tes vaches et des troupeaux de tes brebis;</verse>
+        <verse osisID='Deut.28.5'>Béni seront ton panier et ta réserve.</verse>
+        <verse osisID='Deut.28.6'>Tu seras béni dans ton entrée, et tu seras béni dans ta sortie.</verse>
+        <verse osisID='Deut.28.7'>Le SEIGNEUR fera que tes ennemis, qui s’élèveront contre toi, seront battus devant toi; ils sortiront contre toi par un chemin, et ils s’enfuiront devant toi par sept chemins.</verse>
+        <verse osisID='Deut.28.8'>Le SEIGNEUR commandera à la bénédiction d’être avec toi dans tes greniers et dans tout ce à quoi tu mettras ta main; et il te bénira dans le pays que le SEIGNEUR ton Dieu te donne.</verse>
+        <verse osisID='Deut.28.9'>Le SEIGNEUR t’établira pour lui être un peuple saint, selon qu’il te l’a juré, parce que tu garderas les commandements du SEIGNEUR ton Dieu, et que tu marcheras dans ses chemins;</verse>
+        <verse osisID='Deut.28.10'>Et tous les peuples de la terre verront que tu es appelé du nom du SEIGNEUR, et ils auront peur de toi.</verse>
+        <verse osisID='Deut.28.11'>Et le SEIGNEUR ton Dieu te fera abonder en biens, dans le fruit de ton corps, dans le fruit de ton bétail et le fruit de ton sol, dans le pays que le SEIGNEUR a juré à tes pères de te donner.</verse>
+        <verse osisID='Deut.28.12'>Le SEIGNEUR t’ouvrira son bon trésor, le ciel, pour donner à ta terre la pluie en sa saison, et pour bénir tout le travail de ta main; et tu prêteras à beaucoup de nations, et tu n’emprunteras pas.</verse>
+        <verse osisID='Deut.28.13'>Et le SEIGNEUR fera de toi la tête et non la queue; et tu seras seulement au-dessus, et tu ne seras pas au-dessous; si tu écoutes les commandements du SEIGNEUR ton Dieu, que je te commande aujourd’hui pour [les] observer et les faire.</verse>
+        <verse osisID='Deut.28.14'>Et tu ne te détourneras, ni à main droite ni à gauche, d’aucune des paroles que je te commande aujourd’hui, pour aller après d’autres dieux et pour les servir.</verse>
+        <verse osisID='Deut.28.15'>Mais il arrivera, si tu n’écoutes pas la voix du SEIGNEUR ton Dieu, pour prendre garde de faire tous ses commandements et ses statuts que je te commande aujourd’hui, que toutes ces malédictions viendront sur toi, et t’atteindront;</verse>
+        <verse osisID='Deut.28.16'>Tu seras maudit dans la ville, et tu seras maudit aux champs;</verse>
+        <verse osisID='Deut.28.17'>Maudit sera ton panier, et ta réserve;</verse>
+        <verse osisID='Deut.28.18'>Maudit sera le fruit de ton corps, et le fruit de ta terre, la reproduction de tes vaches et des troupeaux de tes brebis.</verse>
+        <verse osisID='Deut.28.19'>Tu seras maudit dans ton entrée, et tu seras maudit dans ta sortie.</verse>
+        <verse osisID='Deut.28.20'>Le SEIGNEUR enverra sur toi la malédiction, la vexation et la réprobation, dans tout ce à quoi tu mettras ta main et que tu feras, jusqu’à ce que tu sois détruit et jusqu’à ce que tu périsses rapidement, à cause de la méchanceté de tes comportements par lesquels tu m’as abandonné.</verse>
+        <verse osisID='Deut.28.21'>Le SEIGNEUR fera que la pestilence s’attache à toi, jusqu’à ce qu’elle t’ait consumé de dessus la terre où tu vas entrer pour la posséder.</verse>
+        <verse osisID='Deut.28.22'>Le SEIGNEUR te frappera de tuberculose, et de fièvre, et d’inflammation, et de forte brûlure, de l’épée, d’intense sécheresse et de rouille, et elles te poursuivront jusqu’à ce que tu périsses.</verse>
+        <verse osisID='Deut.28.23'>Et ton ciel qui est au-dessus de ta tête sera de cuivre, et la terre qui est sous toi sera de fer.</verse>
+        <verse osisID='Deut.28.24'>Le SEIGNEUR réduira la pluie de ton pays en poudre et poussière, elles descendront sur toi du ciel, jusqu’à ce que tu sois détruit.</verse>
+        <verse osisID='Deut.28.25'>Le SEIGNEUR fera que tu seras battu devant tes ennemis; tu sortiras par un chemin contre eux, et tu t’enfuiras par sept chemins devant eux; et tu seras chassé çà et là, dans tous les royaumes de la terre;</verse>
+        <verse osisID='Deut.28.26'>Et tes cadavres seront la nourriture de tous les volatiles dans l’air, et des bêtes de la terre, et personne ne les effarouchera.</verse>
+        <verse osisID='Deut.28.27'>Le SEIGNEUR te frappera de l’ulcère d’Égypte, et d’hémorroïdes, et de gale et de démangeaison, dont tu ne pourras guérir.</verse>
+        <verse osisID='Deut.28.28'>Le SEIGNEUR te frappera de folie, d’aveuglement et de défaillance du cœur;</verse>
+        <verse osisID='Deut.28.29'>Et tu iras tâtonnant en plein midi, comme l’aveugle tâtonne dans l’obscurité, et tu ne réussiras pas dans tes entreprises; et tu ne seras qu’opprimé et pillé à toujours; et personne ne te sauvera.</verse>
+        <verse osisID='Deut.28.30'>Tu te fianceras à une femme, mais un autre homme couchera avec elle; tu bâtiras une maison, et tu n’y demeureras pas; tu planteras une vigne, et tu n’en cueilleras pas ses grappes;</verse>
+        <verse osisID='Deut.28.31'>Ton bœuf sera égorgé sous tes yeux, et tu n’en mangeras pas; ton âne sera violemment ravi devant toi, et ne te sera pas rendu; tes brebis seront données à tes ennemis, et tu n’auras personne pour les secourir.</verse>
+        <verse osisID='Deut.28.32'>Tes fils et tes filles seront donnés à un autre peuple, tes yeux le verront, s’affaibliront en soupirant après eux tout le jour; et il n’y aura aucune puissance en ta main.</verse>
+        <verse osisID='Deut.28.33'>Un peuple que tu n’auras pas connu, mangera le fruit de ta terre et tous tes labeurs; et tu ne seras qu’opprimé et écrasé à toujours.</verse>
+        <verse osisID='Deut.28.34'>Ainsi tu deviendras fou de ce que tu verras de tes yeux.</verse>
+        <verse osisID='Deut.28.35'>Le SEIGNEUR te frappera aux genoux et aux jambes d’un ulcère douloureux dont tu ne pourras guérir, depuis la plante de ton pied jusqu’au sommet de ta tête.</verse>
+        <verse osisID='Deut.28.36'>Le SEIGNEUR te fera marcher, toi et ton roi, que tu auras établi sur toi, vers une nation que ni toi ni tes pères n’ont connue; et là, tu serviras d’autres dieux, de bois et de pierre;</verse>
+        <verse osisID='Deut.28.37'>Et tu deviendras [un sujet] d’étonnement, un proverbe et un sarcasme, parmi tous les peuples où le SEIGNEUR t’aura conduit.</verse>
+        <verse osisID='Deut.28.38'>Tu porteras beaucoup de semence aux champs, et tu en recueilleras peu; car la locuste la consumera.</verse>
+        <verse osisID='Deut.28.39'>Tu planteras des vignes et tu les cultiveras, mais tu ne boiras ni du vin, ni ne recueilleras de grappes; car les vers les mangeront.</verse>
+        <verse osisID='Deut.28.40'>Tu auras des oliviers dans tout ton territoire, mais tu ne t’oindras pas d’huile; car ton olivier perdra son fruit.</verse>
+        <verse osisID='Deut.28.41'>Tu engendreras des fils et des filles, mais tu n’en jouiras pas; car ils iront en captivité.</verse>
+        <verse osisID='Deut.28.42'>La locuste consumera tous tes arbres, et le fruit de ta terre.</verse>
+        <verse osisID='Deut.28.43'>L’étranger qui est au milieu de toi montera bien haut au-dessus de toi, et tu descendras très bas;</verse>
+        <verse osisID='Deut.28.44'>Il te prêtera, et tu ne lui prêteras pas; il sera la tête, et tu seras la queue.</verse>
+        <verse osisID='Deut.28.45'>Et toutes ces malédictions viendront sur toi, et te poursuivront, et t’atteindront, jusqu’à ce que tu sois détruit; parce que tu n’auras pas écouté la voix du SEIGNEUR ton Dieu, pour garder ses commandements et ses statuts qu’il t’a commandés.</verse>
+        <verse osisID='Deut.28.46'>Et elles seront sur toi et sur ta semence, comme un signe et un prodige à toujours.</verse>
+        <verse osisID='Deut.28.47'>Parce que tu n’auras pas servi le SEIGNEUR ton Dieu avec joie et de bon cœur pour l’abondance de toutes choses,</verse>
+        <verse osisID='Deut.28.48'>C’est pourquoi tu serviras, tes ennemis que Dieu enverra contre toi dans la faim, dans la soif, dans la nudité et dans le besoin de toutes choses; et il mettra un joug de fer sur ton cou, jusqu’à ce qu’il t’ait détruit.</verse>
+        <verse osisID='Deut.28.49'>Le SEIGNEUR amènera contre toi, une nation [venant] de loin, du bout de la terre, aussi prompte que l’aigle qui vole, une nation dont tu ne comprendras pas la langue,</verse>
+        <verse osisID='Deut.28.50'>Une nation à la prestance impitoyable, qui n’aura ni égard pour la personne âgée, ni ne fera preuve de bonté pour l’enfant;</verse>
+        <verse osisID='Deut.28.51'>Et elle mangera le fruit de ton bétail, et le fruit de ta terre, jusqu’à ce que tu sois détruit; qui ne te laissera non plus ni grain, ni vin, ni huile, ni la reproduction de tes vaches, ni des troupeaux de tes brebis, jusqu’à ce qu’elle t’ait détruit.</verse>
+        <verse osisID='Deut.28.52'>Et elle t’assiégera dans toutes tes portes, jusqu’à ce que tombent, dans tout ton pays, tes hautes et fortes murailles en lesquelles tu te confiais; et elle t’assiégera dans toutes tes portes, dans tout le pays que le SEIGNEUR ton Dieu t’aura donné.</verse>
+        <verse osisID='Deut.28.53'>Et tu mangeras le fruit de ton propre corps, la chair de tes fils et de tes filles, que le SEIGNEUR ton Dieu t’aura donnés, durant le siège et dans la détresse où tes ennemis t’affligeront.</verse>
+        <verse osisID='Deut.28.54'>Tellement que l’homme qui est le plus sensible et le plus délicat parmi vous regardera d’un œil envieux son frère, et la femme de son sein, et le reste de ses enfants qu’il aura épargnés,</verse>
+        <verse osisID='Deut.28.55'>Pour qu’il ne donne à aucun d’eux de la chair de ses enfants laquelle il mangera; parce qu’il ne lui restera rien du tout, durant le siège et dans la détresse dont tes ennemis t’affligeront dans toutes tes portes.</verse>
+        <verse osisID='Deut.28.56'>La femme sensible et délicate parmi vous, qui ne s’aventurerait pas de mettre la plante de son pied sur le sol par sollicitude et par délicatesse, son œil sera envieux envers le mari de son sein, et envers son fils et envers sa fille,</verse>
+        <verse osisID='Deut.28.57'>Et envers son petit enfant, qui sortira d’entre ses pieds, et envers ses enfants qu’elle enfantera; car, elle les mangera en secret dans le besoin de toutes choses, durant le siège et dans la détresse dont ton ennemi t’affligera dans tes portes.</verse>
+        <verse osisID='Deut.28.58'>Si tu ne prends pas garde à faire tous les mots de cette loi, qui sont écrits dans ce livre, afin que tu craignes ce glorieux et terrible nom, le SEIGNEUR ton dieu,</verse>
+        <verse osisID='Deut.28.59'>Alors le SEIGNEUR rendra étonnantes tes plaies, et les plaies de ta semence, c’est-à-dire de grandes plaies et persistantes, et de maladies douloureuses et persistantes.</verse>
+        <verse osisID='Deut.28.60'>De plus il amènera sur toi tous les maux d’Égypte, desquelles tu as eu peur, et elles s’attacheront à toi.</verse>
+        <verse osisID='Deut.28.61'>Et le SEIGNEUR fera aussi venir sur toi toute maladie et toute plaie, qui n’est pas écrite dans le livre de cette loi, jusqu’à ce que tu sois détruit;</verse>
+        <verse osisID='Deut.28.62'>Et vous resterez en petit nombre, tandis que vous étiez comme les étoiles du ciel en multitude, parce que tu n’auras pas obéi à la voix du SEIGNEUR ton Dieu.</verse>
+        <verse osisID='Deut.28.63'>Et il arrivera comme le SEIGNEUR se réjouissait sur vous pour vous faire du bien et pour vous multiplier, qu’ainsi le SEIGNEUR se réjouira sur vous pour vous faire détruire et vous anéantir; et vous serez arrachés du pays où tu vas entrer pour le posséder;</verse>
+        <verse osisID='Deut.28.64'>Et le SEIGNEUR te dispersera parmi tous les peuples, d’un bout de la terre jusqu’à l’autre; et là, tu serviras d’autres dieux, que ni toi ni tes pères n’avez connus, [de] bois et [de] pierre.</verse>
+        <verse osisID='Deut.28.65'>Et parmi ces nations tu ne trouveras aucune tranquillité, même la plante de ton pied n’aura pas de repos; mais le SEIGNEUR te donnera là un cœur tremblant, et défaillance d’yeux, et tristesse de pensée.</verse>
+        <verse osisID='Deut.28.66'>Et ta vie sera en suspens devant toi; tu auras peur jour et nuit, et tu n’auras aucune assurance [au sujet] de ta vie.</verse>
+        <verse osisID='Deut.28.67'>Le matin tu diras: Plût à Dieu que n’est-ce le soir! et le soir tu diras: Plût à Dieu que n’est-ce le matin! À cause de la peur dont ton cœur aura peur, et à cause de la vue de tes yeux laquelle tu verras.</verse>
+        <verse osisID='Deut.28.68'>Et le SEIGNEUR t’amènera de nouveau en Égypte, sur des navires, par le chemin dont je t’ai parlé: Tu ne le reverras plus; et là, vous serez vendus à vos ennemis pour être hommes et femmes en servitude, et personne ne vous achètera.</verse>
+      </chapter>
+      <chapter osisID='Deut.29'>
+        <verse osisID='Deut.29.1'>Ô s’ils avaient toujours un tel cœur pour elles, afin qu’ils me craignent et gardent toujours tous mes commandements, afin que tout leur soit bien, et à leurs enfants pour toujours!</verse>
+        <verse osisID='Deut.29.2'>Et Moïse appela tout Israël et leur dit: Vous avez vu tout ce que le SEIGNEUR a fait devant vos yeux, dans le pays d’Égypte, à Pharaon, et à tous ses serviteurs, et à tout son pays,</verse>
+        <verse osisID='Deut.29.3'>Les grandes épreuves que tes yeux ont vues, ces signes et ces grands miracles;</verse>
+        <verse osisID='Deut.29.4'>Cependant le SEIGNEUR ne vous a pas donné un cœur pour discerner, ni des yeux pour voir, ni des oreilles pour entendre jusqu’à aujourd’hui.</verse>
+        <verse osisID='Deut.29.5'>Et je vous ai conduits quarante ans dans le désert, vos vêtements ne se sont pas usés sur vous, et ta chaussure ne s’est pas usée à ton pied; #</verse>
+        <verse osisID='Deut.29.6'>Vous n’avez pas mangé de pain, ni bu de vin, ni de boisson forte, afin que vous puissiez savoir que je suis le SEIGNEUR votre Dieu,</verse>
+        <verse osisID='Deut.29.7'>Et lorsque vous êtes parvenus en ce lieu, Sihon, le roi de Heshbon (Hesbon), et Og, le roi de Bashan, sont venus contre nous pour nous livrer bataille, et nous les avons battus,</verse>
+        <verse osisID='Deut.29.8'>Et nous avons pris leur pays, et nous l’avons donné en héritage aux Rubénites, et aux Gadites, et à la moitié de la tribu de Manasseh (Manassé).</verse>
+        <verse osisID='Deut.29.9'>Vous garderez donc les paroles de cette alliance, et vous les ferez afin que vous prospériez dans tout ce que vous ferez.</verse>
+        <verse osisID='Deut.29.10'>Vous vous tenez tous aujourd’hui devant le SEIGNEUR votre Dieu, vos capitaines de vos tribus, vos anciens et vos officiers, ainsi que tous les hommes d’Israël,</verse>
+        <verse osisID='Deut.29.11'>Vos jeunes enfants, vos femmes, et ton étranger qui est dans ton camp, depuis ton coupeur de bois jusqu’à ton puiseur d’eau;</verse>
+        <verse osisID='Deut.29.12'>Afin que tu entres en l’alliance avec le SEIGNEUR ton Dieu, et en son serment, que le SEIGNEUR ton Dieu fait avec toi aujourd’hui;</verse>
+        <verse osisID='Deut.29.13'>Afin qu’il puisse t’établir aujourd’hui pour être un peuple [particulièrement] à lui, et qu’il te soit un Dieu, comme il te l’a dit et comme il l’a juré à tes pères, Abraham, Isaac et Jacob.</verse>
+        <verse osisID='Deut.29.14'>Et ce n’est pas seulement avec vous que je fais cette alliance et ce serment;</verse>
+        <verse osisID='Deut.29.15'>Mais c’est avec celui qui se tient ici avec nous aujourd’hui devant le SEIGNEUR notre Dieu, et aussi avec celui qui n’est pas ici avec nous ce joui.</verse>
+        <verse osisID='Deut.29.16'>(Car vous savez comment nous sommes demeurés dans le pays d’Égypte, et comment nous avons traversé les nations que vous avez passées;</verse>
+        <verse osisID='Deut.29.17'>Et vous avez vu leurs abominations et leurs idoles, [de] bois et [de] pierre, [d’]argent et [d’]or, qui étaient parmi eux):</verse>
+        <verse osisID='Deut.29.18'>De peur qu’il n’y ait parmi vous homme, ou femme, ou famille, ou tribu, dont le cœur se détourne aujourd’hui du SEIGNEUR notre Dieu, pour aller servir les dieux de ces nations; de peur qu’il n’y ait pas parmi vous une racine qui produise du fiel et de l’absinthe;</verse>
+        <verse osisID='Deut.29.19'>Et qu’il n’arrive lorsque l’[homme] qui entend les paroles de cette malédiction, ne se bénisse en son cœur, disant: J’aurai la paix, bien que je marche selon l’imagination de mon cœur; afin d’ajouter l’ivresse à la soif.</verse>
+        <verse osisID='Deut.29.20'>Le SEIGNEUR ne l’épargnera pas; mais alors le courroux du SEIGNEUR et sa jalousie fumeront contre cet homme, et toutes les malédictions qui sont écrites dans ce livre demeureront sur lui, et le SEIGNEUR effacera son nom de dessous le ciel,</verse>
+        <verse osisID='Deut.29.21'>Et le SEIGNEUR le séparera, pour [son] malheur, de toutes les tribus d’Israël, selon toutes les malédictions de l’alliance qui sont écrites dans ce livre de la loi.</verse>
+        <verse osisID='Deut.29.22'>Afin que la génération à venir, vos enfants qui se lèveront après vous, et l’étranger qui viendra d’un pays lointain, diront, lorsqu’ils verront les plaies de ce pays et les maladies dont le SEIGNEUR l’aura affligé,</verse>
+        <verse osisID='Deut.29.23'>Et que toute la terre de ce [pays] ne sera que soufre et sel, et brûlure, qu’elle ne sera pas ensemencée, rien ne germera, et nulle herbe n’y poussera, comme après le renversement de Sodome et Gomorrhe, d’Admah et de Zeboim, que le SEIGNEUR renversa dans son courroux et dans sa colère;</verse>
+        <verse osisID='Deut.29.24'>Et toutes les nations diront: Pourquoi le SEIGNEUR a-t-il fait ainsi à ce pays? Que veut dire l’ardeur de ce grand courroux?</verse>
+        <verse osisID='Deut.29.25'>Et on dira: [C’est] parce qu’ils ont abandonné l’alliance du SEIGNEUR Dieu de leurs pères, qu’il avait faite avec eux quand il les fit sortir du pays d’Égypte;</verse>
+        <verse osisID='Deut.29.26'>Car ils sont allés et ont servi d’autres dieux, et les ont adorés; dieux qu’ils ne connaissaient pas, et aucun desquels il [le Seigneur] ne leur avait assigné.</verse>
+        <verse osisID='Deut.29.27'>Et le courroux du SEIGNEUR s’est embrasé contre ce pays, pour faire venir sur lui toutes les malédictions qui sont écrites dans ce livre;</verse>
+        <verse osisID='Deut.29.28'>Et le SEIGNEUR les a déracinés de leur terre, dans [son] courroux et dans [sa] colère, et dans [sa] grande indignation, et il les a jetés dans un autre pays, comme cela est aujourd’hui.</verse>
+        <verse osisID='Deut.29.29'>Les choses cachées appartiennent au SEIGNEUR notre Dieu, mais les choses qui sont révélées nous appartiennent ainsi qu’à nos enfants pour toujours, afin que nous fassions toutes les paroles de cette loi.</verse>
+      </chapter>
+      <chapter osisID='Deut.30'>
+        <verse osisID='Deut.30.1'>Et il arrivera que lorsque toutes ces choses, seront venues sur toi, soit la bénédiction, soit la malédiction, que j’ai mis devant toi et lorsque tu les rappelleras à ta pensée, parmi toutes les nations où le SEIGNEUR ton Dieu t’aura conduit;</verse>
+        <verse osisID='Deut.30.2'>Et que tu retourneras au SEIGNEUR ton Dieu, et que tu obéiras à sa voix, toi et tes enfants, de tout ton cœur et de toute ton âme, selon tout ce que je te commande ce jour,</verse>
+        <verse osisID='Deut.30.3'>Que le SEIGNEUR ton Dieu ramènera aussi ta captivité et aura compassion de toi, et il retournera pour te rassembler d’entre toutes les nations parmi lesquelles le SEIGNEUR ton Dieu t’avait dispersé.</verse>
+        <verse osisID='Deut.30.4'>Si l’un des tiens était chassé à l’extrémité du ciel, le SEIGNEUR ton Dieu te rassemblera de là, et de là il te cherchera.</verse>
+        <verse osisID='Deut.30.5'>Et le SEIGNEUR ton Dieu te ramènera dans le pays que possédaient tes pères, et tu le posséderas; et il te fera du bien, et te multipliera plus que tes pères.</verse>
+        <verse osisID='Deut.30.6'>Et le SEIGNEUR ton Dieu circoncira ton cœur, et le cœur de ta semence, afin que tu aimes le SEIGNEUR ton Dieu de tout ton cœur et de toute ton âme, afin que tu vives.</verse>
+        <verse osisID='Deut.30.7'>Et le SEIGNEUR ton Dieu mettra toutes ces malédictions sur tes ennemis, et sur ceux qui te haïssent et qui t’auront persécuté.</verse>
+        <verse osisID='Deut.30.8'>Et tu retourneras, et tu obéiras à la voix du SEIGNEUR, et tu feras tous ses commandements que je te commande ce jour.</verse>
+        <verse osisID='Deut.30.9'>Et le SEIGNEUR ton Dieu te fera abonder en biens [provenant] de toute l’œuvre de ta main, dans le fruit de ton corps, dans le fruit de ton bétail et dans le fruit de ta terre; car le SEIGNEUR se réjouira de nouveau sur toi pour de bon, comme il s’est réjoui sur tes pères,</verse>
+        <verse osisID='Deut.30.10'>Si tu écoutes la voix du SEIGNEUR ton Dieu, pour garder ses commandements et ses statuts qui sont écrits dans ce livre de la loi, et si tu te tournes vers le SEIGNEUR ton Dieu de tout ton cœur et de toute ton âme.</verse>
+        <verse osisID='Deut.30.11'>Car ce commandement que je te commande ce jour n’est pas caché de toi, et n’est pas loin non plus.</verse>
+        <verse osisID='Deut.30.12'>Il n’est pas dans le ciel, pour que tu dises: Qui montera pour nous au ciel, et nous l’apportera, pour que nous puissions l’entendre, et que nous le fassions?</verse>
+        <verse osisID='Deut.30.13'>Il n’est pas non plus au-delà de la mer, pour que tu dises: Qui passera au-delà de la mer pour nous, et nous l’apportera, afin que nous puissions l’entendre, et que nous le fassions?</verse>
+        <verse osisID='Deut.30.14'>Mais la parole est très près de toi, dans ta bouche et dans ton cœur, pour que tu la fasses.</verse>
+        <verse osisID='Deut.30.15'>Regarde, j’ai mis aujourd’hui devant toi la vie et le bien, la mort et le mal.</verse>
+        <verse osisID='Deut.30.16'>En ce que je te commande aujourd’hui d’aimer le SEIGNEUR ton Dieu, de marcher dans ses chemins, et de garder ses commandements, ses statuts et ses jugements, afin que tu vives, et que tu multiplies, et le SEIGNEUR ton Dieu te bénira dans le pays où tu vas pour le posséder.</verse>
+        <verse osisID='Deut.30.17'>Mais si ton cœur se détourne, de façon à ce que tu ne veuilles pas entendre, et que tu te laisses entraîner à adorer d’autres dieux et à les servir,</verse>
+        <verse osisID='Deut.30.18'>Je vous déclare aujourd’hui que vous périrez certainement, et que vous ne prolongerez pas vos jours sur la terre où tu vas passer le Jourdain, pour la posséder.</verse>
+        <verse osisID='Deut.30.19'>J’appelle le ciel et la terre aujourd’hui à témoin contre vous, que j’ai mis devant toi la vie et la mort, la bénédiction et la malédiction; choisis donc la vie, afin que toi et ta semence vive,</verse>
+        <verse osisID='Deut.30.20'>Que tu aimes le SEIGNEUR ton Dieu, et que tu obéisses à sa voix, et que tu t’attaches à lui; car il est ta vie et la longueur de tes jours; afin que tu demeures sur la terre que le SEIGNEUR juré à tes pères, Abraham, Isaac et Jacob, de leur donner.</verse>
+      </chapter>
+      <chapter osisID='Deut.31'>
+        <verse osisID='Deut.31.1'>Et Moïse s’en alla, et dit ces paroles à tout Israël,</verse>
+        <verse osisID='Deut.31.2'>Et il leur dit: Je suis aujourd’hui âgé de cent vingt ans; je ne pourrai plus aller ni venir, aussi le SEIGNEUR m’a dit: Tu ne passeras pas ce Jourdain.</verse>
+        <verse osisID='Deut.31.3'>Le SEIGNEUR ton Dieu, lui-même passera devant toi, et il détruira ces nations de devant toi, et tu les posséderas; et Joshua (Josué), lui, passera devant toi, comme le SEIGNEUR l’a dit.</verse>
+        <verse osisID='Deut.31.4'>Et le SEIGNEUR leur fera comme il a fait à Sihon et à Og, les rois des Amorites, et à leurs pays, qu’il a détruits.</verse>
+        <verse osisID='Deut.31.5'>Et le SEIGNEUR les livrera devant vous, pour que vous leur fassiez selon tous les commandements que je vous ai donnés.</verse>
+        <verse osisID='Deut.31.6'>Soyez forts et plein de courage, n’ayez pas peur, et ne soyez pas effrayés à cause d’eux; car le SEIGNEUR ton Dieu est celui qui marche avec toi; il ne te délaissera pas, et ne t’abandonnera pas.</verse>
+        <verse osisID='Deut.31.7'>Et Moïse appela Joshua (Josué), et lui dit, devant tout Israël: Sois fort et plein de courage; car tu dois aller avec ce peuple dans le pays que le SEIGNEUR a juré à leurs pères de leur donner, et tu les leur départiras en héritage.</verse>
+        <verse osisID='Deut.31.8'>Et le SEIGNEUR, est celui qui marche devant toi; il sera avec toi, il ne te délaissera pas, ni ne t’abandonnera; n’aie pas peur, et ne sois pas effrayé.</verse>
+        <verse osisID='Deut.31.9'>Et Moïse écrivit cette loi, et la donna aux prêtres, les fils de Levi (Lévi), qui portaient l’arche de l’alliance du SEIGNEUR, et à tous les anciens d’Israël.</verse>
+        <verse osisID='Deut.31.10'>Et Moïse leur commanda, disant: Tous les sept ans, en la solennité de l’année d’acquittement, à la fête des tabernacles,</verse>
+        <verse osisID='Deut.31.11'>Quand tout Israël sera venu pour comparaître devant le SEIGNEUR ton Dieu, au lieu qu’il aura choisi, tu liras cette loi devant tout Israël, de manière qu’ils l’entendent.</verse>
+        <verse osisID='Deut.31.12'>Rassemble le peuple, les hommes, les femmes, et les enfants, et ton étranger qui sera dans tes portes, afin qu’ils entendent, et qu’ils apprennent à craindre le SEIGNEUR votre Dieu, et à prendre garde de faire toutes les paroles de cette loi;</verse>
+        <verse osisID='Deut.31.13'>Et que leurs enfants qui n’en auront pas eu connaissance entendent, et apprennent à craindre le SEIGNEUR votre Dieu, aussi longtemps que vous serez vivants sur la terre pour laquelle vous traversez le Jourdain pour la posséder.</verse>
+        <verse osisID='Deut.31.14'>Et le SEIGNEUR dit à Moïse: Voici, tes jours où tu dois mourir approchent; appelle Joshua (Josué), et présentez-vous dans le tabernacle de la congrégation, afin que je l’instruise de [sa] charge. Et Moïse et Joshua (Josué) allèrent et se présentèrent dans le tabernacle de la congrégation.</verse>
+        <verse osisID='Deut.31.15'>Et le SEIGNEUR apparut, dans le tabernacle, dans une colonne de nuage; et la colonne de nuage s’arrêta à l’entrée du tabernacle.</verse>
+        <verse osisID='Deut.31.16'>Et le SEIGNEUR dit à Moïse: Voici, tu vas dormir avec tes pères; et ce peuple se lèvera, et se prostituera après les dieux des étrangers du pays où il va, pour être parmi eux, et il m’abandonnera, et rompra mon alliance, que j’ai faite avec lui.</verse>
+        <verse osisID='Deut.31.17'>Alors mon courroux s’enflammera contre lui en ce jour-là, et je les abandonnerai, et je cacherai d’eux ma face; et ils seront dévorés, et beaucoup de maux et de détresses leur arriveront; si bien qu’ils diront ce jour-là: N’est-ce pas parce que notre Dieu n’est plus au milieu de nous, que ces maux tombent sur nous?</verse>
+        <verse osisID='Deut.31.18'>En ce jour-là, je cacherai certainement ma face à cause de tous les maux qu’ils auront faits, en ce qu’ils se seront tournés vers d’autres dieux.</verse>
+        <verse osisID='Deut.31.19'>Maintenant donc, écrivez ce cantique pour vous, et enseignez-le aux enfants d’Israël; mets-le dans leur bouche, afin que ce cantique me soit un témoignage contre les enfants d’Israël.</verse>
+        <verse osisID='Deut.31.20'>Car lorsque je les aurai amenés dans la terre où coulent le lait et le miel, laquelle j’ai juré à leurs pères, et ils mangeront, et ils seront rassasiés et engraissés; puis ils se tourneront vers d’autres dieux, et ils les serviront, et ils m’irriteront, et rompront mon alliance.</verse>
+        <verse osisID='Deut.31.21'>Et il arrivera, quand beaucoup de maux et de détresses leur arriveront, que ce cantique servira de témoignage contre eux, parce qu’il ne sera pas oublié de la bouche de leur semence; car je connais leur imagination qui les accapare, avant même que je les ai amenés dans la terre que j’ai juré [de lui donner}.</verse>
+        <verse osisID='Deut.31.22'>Ainsi Moïse écrivit ce cantique ce jour-là, et l’enseigna aux enfants d’Israël.</verse>
+        <verse osisID='Deut.31.23'>Et il [le SEIGNEUR] donna charge à Joshua (Josué), le fils de Nun, et dit: Sois fort et plein de courage; car tu conduiras les enfants d’Israël dans le pays que je leur ai juré, et je serai avec toi.</verse>
+        <verse osisID='Deut.31.24'>Et il arriva, lorsque Moïse eut achevé d’écrire les mots de cette loi dans un livre, jusqu’à ce que ce qu’ils n’en manquent pas,</verse>
+        <verse osisID='Deut.31.25'>Que Moïse commanda aux Lévites qui portaient l’arche de l’alliance du SEIGNEUR, disant:</verse>
+        <verse osisID='Deut.31.26'>Prenez ce livre de la loi, et mettez-le sur le côté de l’arche de l’alliance du SEIGNEUR votre Dieu, afin qu’il soit là comme témoin contre toi.</verse>
+        <verse osisID='Deut.31.27'>Car je connais ta rébellion et ton cou obstiné; voici, pendant que je suis encore aujourd’hui vivant avec vous, vous avez été rebelles contre le SEIGNEUR; et combien plus [le serez-vous] après ma mort?</verse>
+        <verse osisID='Deut.31.28'>Faites assembler vers moi tous les anciens de vos tribus et vos officiers, afin que je dise ces paroles à leurs oreilles, et je prendrai à témoin le ciel et la terre contre eux.</verse>
+        <verse osisID='Deut.31.29'>Car je sais qu’après ma mort, vous vous corromprez assurément et vous vous détournerez du chemin que je vous ai commandé et il vous arrivera du mal dans les jours à venir, parce que vous ferez ce qui est mal à la vue du SEIGNEUR, en le provoquant au courroux par l’œuvre de vos mains.</verse>
+        <verse osisID='Deut.31.30'>Et Moïse dit aux oreilles de toute la congrégation d’Israël les mots de ce cantique jusqu’à ce qu’ils n’en manquent pas.</verse>
+      </chapter>
+      <chapter osisID='Deut.32'>
+        <verse osisID='Deut.32.1'>Prêtez l’oreille, ô vous cieux, et je parlerai, et écoute [toi] ô terre les paroles de ma bouche.</verse>
+        <verse osisID='Deut.32.2'>Ma doctrine tombera comme la pluie; mon allocution distillera comme la rosée, comme la pluie fine sur la plante délicate, et comme des ondées sur l’herbe.</verse>
+        <verse osisID='Deut.32.3'>Parce que je publierai le nom du SEIGNEUR: Attribuez la grandeur à notre Dieu.</verse>
+        <verse osisID='Deut.32.4'>Il est le Roc, son œuvre est parfaite; car tous ses chemins sont jugement; un Dieu de vérité et sans iniquité, il est juste et droit.</verse>
+        <verse osisID='Deut.32.5'>Ils se sont corrompus, leur tache n’est pas la tache de ses enfants; c’est une génération perverse et tortueuse.</verse>
+        <verse osisID='Deut.32.6'>Est-ce ainsi que vous récompensez le SEIGNEUR, ô peuple insensé et sans sagesse? N’est-il pas ton père, qui t’a acquis? Ne t’a-t-il pas fait et établi?</verse>
+        <verse osisID='Deut.32.7'>Souviens-toi des jours d’autrefois; considère les années de beaucoup de générations: interroge ton père, et il te le démontrera, tes anciens, et ils te le diront.</verse>
+        <verse osisID='Deut.32.8'>Quand le Très-Haut partageait leur héritage aux nations, quand il séparait les fils d’Adam, il établit les bornes des peuples selon le nombre des enfants d’Israël;</verse>
+        <verse osisID='Deut.32.9'>Car la portion du SEIGNEUR, c’est son peuple; Jacob est le lot de son héritage.</verse>
+        <verse osisID='Deut.32.10'>Il le trouva dans une terre désertique, dans [un lieu] de désolation et de hurlements; il l’a conduit, il l’instruisit; il le garda comme la prunelle de son œil;</verse>
+        <verse osisID='Deut.32.11'>Comme l’aigle émeut sa nichée, s’agite au-dessus de ses petits, étend ses ailes, les prend, et les porte sur ses ailes.</verse>
+        <verse osisID='Deut.32.12'>Ainsi le SEIGNEUR seul l’a conduit, et il n’y a pas eu de dieu étranger avec lui.</verse>
+        <verse osisID='Deut.32.13'>Il l’a fait chevaucher sur les hauteurs de la terre, afin qu’il puisse manger le rapport des champs; et il lui a fait sucer le miel du roc et l’huile du roc silicieux;</verse>
+        <verse osisID='Deut.32.14'>Le beurre des vaches et le lait des brebis, avec la graisse des agneaux, des béliers de la race de Bashan et des chèvres, avec la graisse des rognons du blé; et tu as bu le pur sang de la grappe.</verse>
+        <verse osisID='Deut.32.15'>Mais Jeshurun s’est engraissé, et a regimbé; tu es devenu gras, tu t’es épaissi, tu t’es couvert de graisse; puis il a abandonné le Dieu qui l’a fait, et a estimé à la légère le Roc de son salut.</verse>
+        <verse osisID='Deut.32.16'>Ils ont provoqué [sa] jalousie par des dieux étrangers, ils l’ont provoqué à courroux par des abominations;</verse>
+        <verse osisID='Deut.32.17'>Ils ont sacrifié aux diables, non pas à Dieu; à des dieux qu’ils ne connaissaient pas, à des dieux nouveaux, venus depuis peu, que vos pères n’ont pas craints.</verse>
+        <verse osisID='Deut.32.18'>Tu es inattentif au Roc qui t’a engendré, et tu as oublié Dieu qui t’a formé.</verse>
+        <verse osisID='Deut.32.19'>Et quand le SEIGNEUR l’a vu, il les a eu en horreur, à cause de la provocation de ses filles.</verse>
+        <verse osisID='Deut.32.20'>Et il a dit: Je cacherai d’eux ma face, je verrai quelle sera leur fin; car ils sont une génération perverse, des enfants en qui il n’y a nulle foi.</verse>
+        <verse osisID='Deut.32.21'>Ils m’ont ému à la jalousie par ce qui n’est pas Dieu, ils m’ont provoqué à courroux par leurs vanités; ainsi je les émouvrai à jalousie par ceux qui ne seront pas un peuple, je les provoquerai à courroux par une nation insensée.</verse>
+        <verse osisID='Deut.32.22'>Car un feu s’est allumé dans mon courroux; et il brûlera jusqu’à l’enfer le plus bas, il consumera la terre ainsi que son rapport, et embrasera les fondements des montagnes.</verse>
+        <verse osisID='Deut.32.23'>J’entasserai sur eux des maux, je tirerai mes flèches sur eux;</verse>
+        <verse osisID='Deut.32.24'>Ils seront consumés par la faim, et dévorés par lune chaleur brûlante et par une destruction amère; j’enverrai aussi contre eux la dent des bêtes, ainsi que le poison des serpents [qui rampent] dans la poussière.</verse>
+        <verse osisID='Deut.32.25'>L’épée au-dehors, et la terreur au-dedans détruiront et le jeune homme et la vierge, l’enfant qui tète ainsi que l’homme aux cheveux gris.</verse>
+        <verse osisID='Deut.32.26'>Je disais: Je les disperserais dans tous les coins [de la terre], je ferais oublier leur mémoire d’entre les hommes;</verse>
+        <verse osisID='Deut.32.27'>Si ce n’était que je craignais la colère de l’ennemi, de peur que leurs adversaires ne se comportent étrangement, et ne disent: Notre main est élevée, et ce n’est pas le SEIGNEUR qui a fait tout ceci.</verse>
+        <verse osisID='Deut.32.28'>Car ils sont une nation dépourvue de conseil, et il n’y a en eux aucune intelligence.</verse>
+        <verse osisID='Deut.32.29'>Ô s’ils étaient sages, s’ils comprenaient ceci, s’ils considéraient leur dernière fin!</verse>
+        <verse osisID='Deut.32.30'>Comment un en poursuivrait-il mille, et deux en mettraient-ils en fuite dix mille, si leur Roc ne les avait vendus, et que le SEIGNEUR ne les avait livrés?</verse>
+        <verse osisID='Deut.32.31'>Car leur roc n’est pas comme notre Roc, et nos ennemis eux-mêmes en sont juges.</verse>
+        <verse osisID='Deut.32.32'>Car leur vigne est de la vigne de Sodome et des champs de Gomorrhe; leurs grappes sont des grappes de fiel, leurs raisins sont amers;</verse>
+        <verse osisID='Deut.32.33'>Leur vin est le poison de dragons, et un cruel venin d’aspics.</verse>
+        <verse osisID='Deut.32.34'>Cela n’est-il pas amassé près de moi et scellé parmi mes trésors?</verse>
+        <verse osisID='Deut.32.35'>La vengeance m’appartient, ainsi que la rétribution, leur pied glissera au temps arrêté; car le jour de leur calamité est proche, et les choses qui doivent leur arriver se hâtent.</verse>
+        <verse osisID='Deut.32.36'>Car le SEIGNEUR jugera son peuple, et se repentira en faveur de ses serviteurs, quand il verra que leur pouvoir s’en est allé, et qu’il n’y a plus personne enfermé ou épargné.</verse>
+        <verse osisID='Deut.32.37'>Et il dira: Où sont leurs dieux, leur roc en qui ils se confiaient,</verse>
+        <verse osisID='Deut.32.38'>Qui mangeaient la graisse de leurs sacrifices et buvaient le vin de leurs offrandes liquides? Qu’ils se lèvent, qu’ils vous aident, et qu’ils soient votre protection.</verse>
+        <verse osisID='Deut.32.39'>Voyez maintenant que moi, moi-même je suis, et qu’il n’y a pas de dieu avec moi; je fais mourir et je fais vivre, je blesse et je guéris, et il n’y a personne qui puisse délivrer de ma main.</verse>
+        <verse osisID='Deut.32.40'>Car je lève ma main au ciel, et je dis: Je vis pour toujours.</verse>
+        <verse osisID='Deut.32.41'>Si j’aiguise ma resplendissante épée, et que ma main saisisse le jugement, je rendrai la vengeance à mes ennemis, et la rétribution à ceux qui me haïssent.</verse>
+        <verse osisID='Deut.32.42'>J’enivrerai mes flèches de sang, et mon épée dévorera la chair; et ceci avec le sang des tués et des captifs, depuis le commencement des vengeances sur l’ennemi.</verse>
+        <verse osisID='Deut.32.43'>Réjouissez-vous, ô vous nations, avec son peuple; car il vengera le sang de ses serviteurs, et il rendra la vengeance à ses adversaires, et sera miséricordieux envers sa terre, et son peuple.</verse>
+        <verse osisID='Deut.32.44'>Et Moïse vint, et prononça toutes les paroles de ce cantique aux oreilles du peuple, lui et Osée le fils de Nun.</verse>
+        <verse osisID='Deut.32.45'>Et Moïse acheva de prononcer toutes ces paroles à tout Israël,</verse>
+        <verse osisID='Deut.32.46'>Et il leur dit: Appliquez vos cœurs à toutes les paroles par lesquelles je témoigne parmi vous aujourd’hui, lesquelles vous commanderez à vos enfants, afin qu’ils observent de faire toutes les paroles de cette loi.</verse>
+        <verse osisID='Deut.32.47'>Car ce n’est pas une parole vaine pour vous, mais c’est votre vie; et par cette parole vous prolongerez vos jours sur la terre, où en passant le Jourdain, vous allez la posséder</verse>
+        <verse osisID='Deut.32.48'>Et en ce même jour, le SEIGNEUR parla à Moïse, disant:</verse>
+        <verse osisID='Deut.32.49'>Monte sur cette montagne d’Abarim, jusqu’au mont Nébo, qui est dans le pays de Moab, qui est face à Jéricho; et regarde le pays de Canaan, que je donne en possession aux enfants d’Israël.</verse>
+        <verse osisID='Deut.32.50'>Et tu mourras sur le mont sur lequel tu montes, et tu seras recueilli vers tes peuples, comme Aaron ton frère est mort sur le mont Hor, et a été recueilli vers ses peuples;</verse>
+        <verse osisID='Deut.32.51'>Parce que vous avez transgressé contre moi, au milieu des enfants d’Israël, aux eaux de Meribah-Kadesh, dans le désert de Zin; parce que vous ne m’avez pas sanctifié au milieu des enfants d’Israël.</verse>
+        <verse osisID='Deut.32.52'>Pourtant tu verras le pays devant toi, mais tu n’entreras pas dans le pays que je donne aux enfants d’Israël.</verse>
+      </chapter>
+      <chapter osisID='Deut.33'>
+        <verse osisID='Deut.33.1'>Et c’est ici la bénédiction dont Moïse, l’homme de Dieu, bénit les enfants d’Israël avant sa mort.</verse>
+        <verse osisID='Deut.33.2'>Et il dit le Seigneur est venu de Sinaï, et s’est levé à eux de Seir; il a resplendi depuis le mont Paran, et il est venu avec des dizaines de milliers de saints; de sa main droite sortait pour eux une loi de feu.</verse>
+        <verse osisID='Deut.33.3'>Oui, il a aimé les peuples; tous ses saints sont dans ta main; et ils se sont assis à tes pieds; chacun d’eux recevra de tes paroles.</verse>
+        <verse osisID='Deut.33.4'>Moïse nous a commandé la loi, qui est l’héritage de la congrégation de Jacob;</verse>
+        <verse osisID='Deut.33.5'>Et il a été roi en Jeshurun, quand les chefs du peuple et les tribus d’Israël se sont assemblés ensemble.</verse>
+        <verse osisID='Deut.33.6'>Que Reuben (Ruben) vive, et ne meure pas, et que ses hommes ne soient pas en petit nombre.</verse>
+        <verse osisID='Deut.33.7'>Et c’est ici la bénédiction de Judah, et il [Moïse] dit: Écoute, SEIGNEUR, la voix de Judah, et amène-le à son peuple; que ses mains lui suffisent, et sois-lui en aide contre ses ennemis.</verse>
+        <verse osisID='Deut.33.8'>Et il dit de Levi (Lévi): Que tes Thummim et tes Urim soient avec ton saint [serviteur], que tu éprouvas à Massah, et avec lequel tu contestas aux eaux de Meribah;</verse>
+        <verse osisID='Deut.33.9'>Qui dit de son père et de sa mère: Je ne l’ai pas vu; et qui n’a pas reconnu non plus ses frères, ni connu ses propres enfants; car ils ont observé tes paroles, et gardé ton alliance.</verse>
+        <verse osisID='Deut.33.10'>Ils enseigneront tes jugements à Jacob, et ta loi à Israël; ils mettront l’encens en ta présence, et tout sacrifice qui se consume entièrement sur ton autel.</verse>
+        <verse osisID='Deut.33.11'>Bénis, SEIGNEUR, sa substance, et accepte l’œuvre de ses mains; frappe les reins de ceux qui s’élèvent contre lui, et de ceux qui le haïssent, afin qu’ils ne puissent se relever.</verse>
+        <verse osisID='Deut.33.12'>Et [au sujet] de Benjamin il dit: Le bien-aimé du SEIGNEUR demeurera en sécurité près de lui; et le SEIGNEUR le couvrira tout le jour, et il demeurera entre ses épaules.</verse>
+        <verse osisID='Deut.33.13'>Et [au sujet] de Joseph il dit: [Que] son pays soit béni du SEIGNEUR, pour les précieuses choses du ciel, de la rosée, et de l’abîme qui s’étend en dessous,</verse>
+        <verse osisID='Deut.33.14'>Et pour les plus précieux fruits produits par le soleil, et pour les précieuses choses [qui] poussent par la lune,</verse>
+        <verse osisID='Deut.33.15'>Et pour les principales productions des anciennes montagnes, et pour les précieuses productions des solides collines;</verse>
+        <verse osisID='Deut.33.16'>Et pour les précieuses choses de la terre, et de sa plénitude, et pour la bienveillance de celui qui demeurait dans le buisson, laquelle [la bénédiction] vienne sur la tête de Joseph, et sur le sommet de la tête de celui qui a été séparé de ses frères.</verse>
+        <verse osisID='Deut.33.17'>Sa gloire est comme le premier-né de son taureau, et ses cornes sont comme les cornes d’une licorne; avec elles il poussera les peuples ensemble jusqu’aux bouts de la terre; et ce sont les dizaines de milliers d’Ephraim (Éphraïm), et ce sont les milliers de Manasseh (Manassé).</verse>
+        <verse osisID='Deut.33.18'>Et de Zebulon, il dit: Réjouis-toi, Zabulon, en ta sortie; et [toi] Issachar, dans tes tentes.</verse>
+        <verse osisID='Deut.33.19'>Ils appelleront les peuples à la montagne; là, ils offriront des sacrifices de droiture; car ils suceront l’abondance des mers et des trésors cachés dans le sable.</verse>
+        <verse osisID='Deut.33.20'>Et de Gad, il dit: Béni soit celui qui met Gad au large; il demeure comme un lion, et il déchire le bras avec le sommet de la tête.</verse>
+        <verse osisID='Deut.33.21'>Et il s’est pourvu la première partie [du pays], parce que là, en la portion du législateur, il était assis; et il est venu avec les chefs du peuple; il a exécuté la justice du SEIGNEUR, et ses jugements avec Israël.</verse>
+        <verse osisID='Deut.33.22'>Et de Dan, il dit: Dan est un jeune lion, il sautera de Bashan.</verse>
+        <verse osisID='Deut.33.23'>Et de Nephthali, il dit: Ô Nephthali, rassasié de faveurs et rempli de la bénédiction du SEIGNEUR, possède l’Ouest et le Sud.</verse>
+        <verse osisID='Deut.33.24'>Et d’Asher (Asser), il dit: Qu’Asher (Asser) soit béni en enfants; qu’il soit agréable à ses frères, et qu’il baigne son pied dans l’huile.</verse>
+        <verse osisID='Deut.33.25'>Tes chaussures seront de fer et de cuivre, et ta vigueur sera comme tes jours.</verse>
+        <verse osisID='Deut.33.26'>Il n’y en a pas qui soit pareil au Dieu de Jeshurun, qui chevauche le ciel [venant] à ton aide, et sur les nuages dans sa perfection.</verse>
+        <verse osisID='Deut.33.27'>Le Dieu éternel est ton refuge, et au-dessous sont les bras éternels; et il poussera dehors l’ennemi de devant toi et il dira: Détruis-les.</verse>
+        <verse osisID='Deut.33.28'>Puis Israël demeurera seul en sécurité; la fontaine de Jacob sera en un pays de grain et de vin, et ses cieux distilleront la rosée.</verse>
+        <verse osisID='Deut.33.29'>Heureux es-tu, ô Israël; qui est semblable à toi, ô peuple sauvé par le SEIGNEUR, le bouclier de ton secours et qui est l’épée de ta gloire! Et tes ennemis seront trouvés menteurs devant toi; et toi, tu piétineras leurs hauts lieux.</verse>
+      </chapter>
+      <chapter osisID='Deut.34'>
+        <verse osisID='Deut.34.1'>Et Moïse monta des plaines de Moab sur le mont Nebo, au sommet du Pisgah, qui est en face de Jéricho. Et le SEIGNEUR lui montra tout le pays depuis Gilead (Galaad) jusqu’à Dan,</verse>
+        <verse osisID='Deut.34.2'>Et tout Nephthali, et le pays d’Ephraim (Éphraïm) et de Manasseh (Manassé), et tout le pays de Judah, jusqu’à la plus lointaine mer.</verse>
+        <verse osisID='Deut.34.3'>Et le Sud, et la plaine de la vallée de Jéricho, la ville des palmiers, jusqu’à Zoar.</verse>
+        <verse osisID='Deut.34.4'>Et le SEIGNEUR lui dit: C’est ici le pays dont j’ai juré à Abraham, à Isaac et à Jacob, en disant: Je le donnerai à ta semence; je te l’ai fait voir de tes yeux, mais tu n’y entreras pas.</verse>
+        <verse osisID='Deut.34.5'>Ainsi Moïse, le serviteur du SEIGNEUR, mourut là, au pays de Moab, selon la parole du SEIGNEUR.</verse>
+        <verse osisID='Deut.34.6'>Et il l’ensevelit dans la vallée, au pays de Moab, vis-à-vis de Bethpeor; et personne ne connaît son sépulcre jusqu’à aujourd’hui.</verse>
+        <verse osisID='Deut.34.7'>Or Moïse était âgé de cent vingt ans quand il mourut; son œil n’était pas obscurci, et sa vigueur non plus n’était pas diminuée.</verse>
+        <verse osisID='Deut.34.8'>Et les enfants d’Israël pleurèrent Moïse trente jours dans les plaines de Moab; ainsi les jours de pleurs et de deuil pour Moïse furent achevés.</verse>
+        <verse osisID='Deut.34.9'>Et Joshua (Josué), le fils de Nun, était rempli de l’esprit de sagesse; car Moïse avait imposé les mains sur lui; et les enfants d’Israël l’écoutèrent, et firent ce que l’e SEIGNEUR avait commandé à Moïse.</verse>
+        <verse osisID='Deut.34.10'>Or depuis, ne s’est plus levé en Israël de prophète comme Moïse, que le SEIGNEUR connut face à face;</verse>
+        <verse osisID='Deut.34.11'>Selon tous les signes et les prodiges que le SEIGNEUR l’envoya faire au pays d’Égypte, à Pharaon, et à tous ses serviteurs, et à tout son pays;</verse>
+        <verse osisID='Deut.34.12'>Et selon toute cette puissante main, et selon toute la grande terreur que Moïse fit à la vue de tout Israël.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

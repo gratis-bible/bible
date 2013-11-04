@@ -1,0 +1,827 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <osisText osisRefWork='Bible' osisIDWork='TAF' xml:lang='de'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='TAF'>
+        <title>Tafelbibel</title>
+        <contributor>Martin</contributor>
+        <creator>Jens Grabner</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject>holy bible</subject>
+        <date>2009-01-20</date>
+        <description>Die Bibel - Übersetzung von Johann Friedrich Leonhard Tafel
+
+      Die vorliegende Neuausgabe ist eine Abschrift der Übersetzung von Dr. Leonhard
+      Tafel, revidiert von Ludwig H. Tafel, dritte Ausgabe 1911, und wurde auf ihre
+      Vollständigkeit überprüft. Es wurde die Rechtschreibregel der heutigen Zeit (noch
+      vor der Rechtschreibreform 1998) angewendet, ohne den Stil der Sprache zu verändern.
+
+      Wer in dieser Bibel einige Bücher vermisst, sei auf das Vorwort der Source verwiesen.
+      Auf der zweiten Seite steht dort:
+      Der zweite Band enthält die übrigen, sogenannten
+      Hagiographen oder heiligen Bücher: die Bücher Hiob, Sprichwörter, Hohelied, Prediger, Ruth, Chronika, Esra,
+      Nehemia, Esther und die Apokryphen.²
+      2. Gegenwärtige, Revision des Zefania XML Moduls  enthält die Hagiographen und Apokryphen nicht, da
+      sie nicht verfügbar waren.</description>
+        <publisher>FREE BIBLE SOFTWARE GROUP</publisher>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>TAF</identifier>
+        <source>http://www.ubf-dortmund.de/bibel/tafel.htm</source>
+        <language type='IETF'>de</language>
+        <relation/>
+        <coverage>provide the bible to the world</coverage>
+        <rights>Mit freundlicher Genehmigung des Swedenborg Verlag Postfach 1205 CH - 8032 Zürich</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Mark'>
+      <chapter osisID='Mark.1'>
+        <title>Evangelium des Markus</title>
+        <title>Jesus wird getauft und versucht, beruft Jünger und tut Wunder.</title>
+        <verse osisID='Mark.1.1'>Anfang des Evangeliums von Jesus Christus, dem Sohne Gottes,</verse>
+        <verse osisID='Mark.1.2'>Wie geschrieben ist im Propheten Jesajas: Siehe, Ich sende Meinen Engel aus vor Deinem Angesicht, der Deinen Weg zurüste vor Dir.</verse>
+        <verse osisID='Mark.1.3'>Die Stimme eines Rufenden<note>Schreienden</note> in der Wüste: Bereitet den Weg des Herrn, machet gerade Seine Pfade.</verse>
+        <verse osisID='Mark.1.4'>Johannes war in der Wüste, taufte und predigte die Taufe der Buße zur Vergebung der Sünden.</verse>
+        <verse osisID='Mark.1.5'>Und es ging zu ihm hinaus die ganze judäische Landschaft und die von Jerusalem, und ließen sich alle von ihm taufen im Flusse Jordan, indem sie ihre Sünden bekannten.</verse>
+        <verse osisID='Mark.1.6'>Johannes aber war bekleidet mit Kamelshaaren und mit einem ledernen Gürtel um seine Lenden und aß Heuschrecken und wilden Honig,</verse>
+        <verse osisID='Mark.1.7'>Und predigte und sprach: Es kommt Einer nach mir, Der stärker ist, denn ich, und Dem ich nicht genugsam bin, mich zu bücken und den Riemen Seiner Schuhe<note>Sandalen</note> zu lösen.</verse>
+        <verse osisID='Mark.1.8'>Ich zwar habe euch mit Wasser getauft; aber Er wird euch mit dem Heiligen Geiste taufen.</verse>
+        <verse osisID='Mark.1.9'>Und in jenen Tagen geschah es, daß Jesus von Nazareth in Galiläa kam und Sich von Johannes im Jordan taufen ließ.</verse>
+        <verse osisID='Mark.1.10'>Und alsbald, als Er aus dem Wasser heraufstieg, sah Er die Himmel sich teilen<note>spalten</note> und den Geist wie ein Taube auf Sich herniederkommen.</verse>
+        <verse osisID='Mark.1.11'>Und eine Stimme geschah aus den Himmeln: Du bist Mein geliebter Sohn, an Dem Ich Wohlgefallen habe,</verse>
+        <verse osisID='Mark.1.12'>Und alsbald trieb Ihn der Geist hinaus in die Wüste.</verse>
+        <verse osisID='Mark.1.13'>Und Er war allda in der Wüste vierzig Tage, versucht von dem Satan, und Er war mit den wilden Tieren; und die Engel dienten Ihm.</verse>
+        <verse osisID='Mark.1.14'>Nachdem aber Johannes überantwortet war, kam Jesus nach Galiläa und predigte das Evangelium vom Reiche Gottes.</verse>
+        <verse osisID='Mark.1.15'>Und sprach: Die Zeit<note>bestimmte Zeit</note> ist erfüllt und das Reich Gottes hat sich genahet. Tut Buße und glaubet an das Evangelium.</verse>
+        <verse osisID='Mark.1.16'>Da Jesus aber am galiläischen Meer wandelte, sah Er Simon und Andreas, seinen Bruder, die ein Fischnetz im Meer ausbreiteten; denn sie waren Fischer.</verse>
+        <verse osisID='Mark.1.17'>Und Jesus sprach zu ihnen: Kommet Mir nach, und Ich will euch zu Menschenfischern machen.</verse>
+        <verse osisID='Mark.1.18'>Und alsbald verließen sie ihre Netze und folgten Ihm nach.</verse>
+        <verse osisID='Mark.1.19'>Und da Er von dannen ein wenig weiter ging, sah Er Jakobus, des Zebedäus Sohn<note>Sohn ist nicht im Griech.</note>, und Johannes, seinen Bruder, und sie richteten im Fahrzeug ihre Netze zu.</verse>
+        <verse osisID='Mark.1.20'>Und alsbald rief Er ihnen. Und sie ließen ihren Vater Zebedäus in dem Fahrzeug mit den Mietlingen und gingen hin, Ihm nach.</verse>
+        <verse osisID='Mark.1.21'>Und sie gingen hinein nach Kapernaum, und alsbald ging Er hinein am Sabbath in die Synagoge und lehrte.</verse>
+        <verse osisID='Mark.1.22'>Und sie staunten über Seine Lehre; denn Er lehrte sie als einer, der Gewalt hat, und nicht wie die Schriftgelehrten.</verse>
+        <verse osisID='Mark.1.23'>Und in ihrer Synagoge war ein Mensch mit einem unreinen Geist, und er schrie auf,</verse>
+        <verse osisID='Mark.1.24'>Und sagte: Laß uns, was haben wir mit Dir<note>Was ist uns und Dir?</note> Jesus von Nazareth? Du bist gekommen, uns zu verderben. Ich weiß, wer Du bist! - Der Heilige Gottes.</verse>
+        <verse osisID='Mark.1.25'>Und Jesus bedrohte ihn und sprach: Verstumme und gehe aus von ihm!</verse>
+        <verse osisID='Mark.1.26'>Und der unreine Geist zerrte ihn hin und her, schrie mit großer Stimme und ging aus von ihm.</verse>
+        <verse osisID='Mark.1.27'>Und alle waren bestürzt, so daß sie untereinander sich befragten und sprachen: Was ist das? Was für eine neue Lehre ist das? Mit Gewalt gebeut<note>verordnet</note> Er sogar den unreinen Geistern und sie gehorchen Ihm.</verse>
+        <verse osisID='Mark.1.28'>Das Gerücht von Ihm ging aber alsbald aus in die ganze Umgegend von Galiläa.</verse>
+        <verse osisID='Mark.1.29'>Und sie gingen aus alsbald aus der Synagoge und kamen in das Haus des Simon und Andreas mit Jakobus und Johannes.</verse>
+        <verse osisID='Mark.1.30'>Simons Schwiegermutter aber lag am Fieber danieder; und alsbald sagten sie Ihm von ihr.</verse>
+        <verse osisID='Mark.1.31'>Und Er kam herzu, richtete sie auf und ergriff sie bei ihrer Hand; und alsbald verließ sie das Fieber; und sie bediente sie.</verse>
+        <verse osisID='Mark.1.32'>Als es aber Abend ward, da die Sonne unterging, trugen sie alle die Leidenden und die Besessenen zu Ihm.</verse>
+        <verse osisID='Mark.1.33'>Und die ganze Stadt sammelte sich zusammen an der Tür.</verse>
+        <verse osisID='Mark.1.34'>Und Er heilte viele Leidende, mit allerlei Krankheiten; und Er trieb viele Dämonen aus, und ließ die Dämonen nicht reden, denn sie kannten Ihn.</verse>
+        <verse osisID='Mark.1.35'>Und des Morgens, da es noch gar Nacht war, stand Er auf, ging hinaus und kam an einen wüsten Ort und betete daselbst.</verse>
+        <verse osisID='Mark.1.36'>Simon aber, und die mit Ihm waren, setzten Ihm nach.</verse>
+        <verse osisID='Mark.1.37'>Und da sie Ihn fanden, sagen sie zu Ihm: Alle suchen Dich!</verse>
+        <verse osisID='Mark.1.38'>Und Er spricht zu ihnen: Lasset uns in die benachbarten Dörfer<note>Dorfstädte</note> gehen, auf daß Ich auch dort predige; denn dazu bin Ich ausgegangen.</verse>
+        <verse osisID='Mark.1.39'>Und Er predigte in ihren Synagogen in ganz Galiläa und trieb die Dämonen aus.</verse>
+        <verse osisID='Mark.1.40'>Und es kommt ein Aussätziger zu Ihm, fleht Ihn an und fällt zu Seinen Knien und spricht zu Ihm: Wenn Du willst, kannst Du mich reinigen.</verse>
+        <verse osisID='Mark.1.41'>Es jammerte aber Jesus, Er streckte die Hand aus, berührte ihn und sprach zu ihm: Ich will, sei gereinigt!</verse>
+        <verse osisID='Mark.1.42'>Und als Er so gesprochen, ging der Aussatz alsbald von ihm, und er war geeinigt.</verse>
+        <verse osisID='Mark.1.43'>Und Er drohte ihm und trieb ihn alsbald hinaus.</verse>
+        <verse osisID='Mark.1.44'>Und spricht zu ihm: Siehe zu, sage niemand etwas<note>Griech. nichts</note>; sondern gehe hin, zeige dich dem Priester, und bringe dar für deine Reinigung, was Moses verordnet hat, ihnen zum Zeugnis.</verse>
+        <verse osisID='Mark.1.45'>Da er aber hinauskam, fing er an, viel davon zu verkündigen und das Wort ruchbar zu machen, so daß Er hinfort nicht mehr öffentlich in eine Stadt eingehen konnte, sondern außen an wüsten Orten war; und sie kamen zu Ihm von überall her.</verse>
+      </chapter>
+      <chapter osisID='Mark.2'>
+        <title>Der Gichtbrüchige. Matthäus berufen.</title>
+        <verse osisID='Mark.2.1'>Und nach einigen Tagen ging Er wieder hinein nach Kapernaum, und man hörte, daß Er zu Hause war.</verse>
+        <verse osisID='Mark.2.2'>Und alsbald versammelten sich viele, so daß sie auch an der Tür nicht mehr Platz hatten, und Er redete zu ihnen das Wort.</verse>
+        <verse osisID='Mark.2.3'>Und es kamen etliche zu Ihm, die brachten einen Gichtbrüchigen zu Ihm, von vieren getragen.</verse>
+        <verse osisID='Mark.2.4'>Und da sie wegen dem Gedränge Ihm nicht nahe kommen konnten, deckten sie das Dach ab, wo Er war, und gruben es auf, und ließen das Tragbett hinab, auf dem der Gichtbrüchige daniederlag.</verse>
+        <verse osisID='Mark.2.5'>Da aber Jesus ihren Glauben sieht, spricht Er zu dem Gichtbrüchigen: Mein Kind, dir sind deine Sünden vergeben.</verse>
+        <verse osisID='Mark.2.6'>Es waren aber allda einige von den Schriftgelehrten, die saßen und bedachten in ihren Herzen:</verse>
+        <verse osisID='Mark.2.7'>Was redet dieser solche Lästerung! Wer kann Sünden vergeben, denn der Eine Gott?</verse>
+        <verse osisID='Mark.2.8'>Und Jesus erkannte alsbald in Seinem Geiste, daß sie solches bei sich bedachten, und sprach zu ihnen: Was bedenket ihr solches in euren Herzen?</verse>
+        <verse osisID='Mark.2.9'>Was ist leichter zu dem Gichtbrüchigen zu sagen: Dir sind die Sünden vergeben, oder zu sagen: Mache dich auf, nimm dein Tragbett auf und wandle!</verse>
+        <verse osisID='Mark.2.10'>Damit ihr aber wisset, daß des Menschen Sohn Gewalt hat, auf Erden Sünden zu vergeben, [spricht Er zu dem Gichtbrüchigen]:</verse>
+        <verse osisID='Mark.2.11'>Ich sage dir: Mache dich auf, nimm dein Tragbett auf, und geh hin in dein Haus!</verse>
+        <verse osisID='Mark.2.12'>Und alsbald machte er sich auf, nahm sein Tragbett auf und ging vor allen hinaus, so daß sie alle außer sich waren, Gott verherrlichten und sprachen: So etwas haben wir noch nie gesehen!</verse>
+        <verse osisID='Mark.2.13'>Und Er ging wieder hinaus an das Meer, und all das Gedränge kam zu Ihm, und Er lehrte sie.</verse>
+        <verse osisID='Mark.2.14'>Und wie Er vorüberging, sah Er Levi, des Alphäus Sohn<note>Sohn ist nicht im Griech.</note>, am Zoll sitzen, und spricht zu ihm: Folge Mir nach! Und er stand auf und folgte Ihm nach.</verse>
+        <verse osisID='Mark.2.15'>Und da Er Sich zu Tische legte in seinem Hause, geschah es, daß auch viele Zöllner und Sünder mit Jesus und Seinen Jüngern zu Tische lagen; denn es waren ihrer viele, und sie folgten Ihm nach.</verse>
+        <verse osisID='Mark.2.16'>Und da die Schriftgelehrten und Pharisäer sahen, daß Er mit Sündern und Zöllnern aß, sprachen sie zu Seinen Jüngern: Warum ißt und trinkt Er mit Sündern und Zöllnern?</verse>
+        <verse osisID='Mark.2.17'>Und Jesus hört es und spricht zu ihnen: Die Starken bedürfen des Arztes nicht, sondern die Leidenden. Ich bin nicht gekommen, Gerechte, sondern Sünder zur Buße zu rufen.</verse>
+        <verse osisID='Mark.2.18'>Und die Jünger des Johannes und die Pharisäer waren am Fasten; und sie kommen und sprechen zu Ihm: Warum fasten die Jünger des Johannes und die der Pharisäer, Deine Jünger aber fasten nicht?</verse>
+        <verse osisID='Mark.2.19'>Und Jesus sagte zu ihnen: Können die Hochzeitsleute<note>Söhne der Brautkammer</note> fasten, während der Bräutigam bei ihnen ist? Die Zeit, so sie den Bräutigam bei sich haben, können sie nicht fasten.</verse>
+        <verse osisID='Mark.2.20'>Es werden aber Tage kommen, da der Bräutigam von ihnen weggenommen wird, und dann an jenem Tage werden sie fasten.</verse>
+        <verse osisID='Mark.2.21'>Niemand näht einen Flecken ungewalkten Tuches auf ein altes Kleid. Sonst aber reißt das neue Füllwerk von alten ab, und der Riß wird schlimmer.</verse>
+        <verse osisID='Mark.2.22'>Und niemand fasset neuen Wein in alte Schläuche; sonst aber zerreißt der neue Wein die Schläuche und der Wein wird verschüttet und die Schläuche kommen um; sondern man muß den neuen Wein in neue Schläuche fassen.</verse>
+        <verse osisID='Mark.2.23'>Und es geschah, daß Er am Sabbath durch die Saaten hinging; und Seine Jünger fingen an während des Gehens<note>während des Weg Machens</note> die Ähren auszuraufen.</verse>
+        <verse osisID='Mark.2.24'>Und die Pharisäer sprachen zu Ihm: Siehe, was tun sie am Sabbath, das nicht erlaubt ist?</verse>
+        <verse osisID='Mark.2.25'>Und Er sprach zu ihnen: Habt ihr niemals gelesen, was David tat, da er es bedurfte und ihn, und die mit ihm waren, hungerte?</verse>
+        <verse osisID='Mark.2.26'>Wie er in das Haus Gottes hineinging unter dem Hohenpriester Abjathar, und die Schaubrote<note>Brote der Vorlegung</note> aß, die niemandem erlaubt ist zu essen als den Priestern, und auch denen gab, die mit ihm waren?</verse>
+        <verse osisID='Mark.2.27'>Und Er sprach zu ihnen: Der Sabbath ist um des Menschen willen gemacht, nicht der Mensch um des Sabbaths willen.</verse>
+        <verse osisID='Mark.2.28'>So ist denn des Menschen Sohn Herr auch des Sabbaths.</verse>
+      </chapter>
+      <chapter osisID='Mark.3'>
+        <title>Die verdorrte Hand. Wahl der Apostel. - Verleumdung der Pharisäer.</title>
+        <verse osisID='Mark.3.1'>Und Er ging abermals hinein in die Synagoge; und es war da ein Mensch, der hatte eine verdorrte Hand.</verse>
+        <verse osisID='Mark.3.2'>Und sie hielten auf Ihn, ob Er ihn am Sabbath heilen würde, auf daß sie eine Anklage wider Ihn hätten.</verse>
+        <verse osisID='Mark.3.3'>Und Er spricht zu dem Menschen, der die verdorrte Hand hatte: Tritt hervor in die Mitte.</verse>
+        <verse osisID='Mark.3.4'>Und Er spricht zu ihnen: Ist es erlaubt am Sabbath Gutes zu tun oder Böses zu tun, die Seele zu retten oder zu töten? Sie aber schwiegen still.</verse>
+        <verse osisID='Mark.3.5'>Und Er blickte sie rings umher mit Zorn an und war betrübt über die Verstocktheit<note>Verhärtung</note> ihres Herzens; da sprach Er zu dem Menschen: Strecke deine Hand aus! Und er streckte sie aus, und seine Hand ward wiederhergestellt, gesund wie die andere.</verse>
+        <verse osisID='Mark.3.6'>Und die Pharisäer gingen hinaus und hielten<note>machten</note> alsbald mit den Herodianern einen Rat über Ihn, wie sie Ihn umbrächten.</verse>
+        <verse osisID='Mark.3.7'>Und Jesus entwich mit Seinen Jüngern ans Meer; und eine große<note>viele</note> Menge aus Galiläa folgte Ihm nach und von Judäa,</verse>
+        <verse osisID='Mark.3.8'>Und von Jerusalem, und von Idumäa und jenseits des Jordan und von denen um Tyrus und Sidon kam eine große<note>viele</note> Menge zu Ihm, da sie hörten, was Er tat.</verse>
+        <verse osisID='Mark.3.9'>Und Er sagte Seinen Jüngern, sie sollten ein Schifflein für Ihn bereithalten, des Gedränges wegen, daß sie Ihn nicht drängeten:</verse>
+        <verse osisID='Mark.3.10'>Denn Er heilte viele, so daß über Ihn herfielen, die Plagen hatten, auf daß sie Ihn anrührten.</verse>
+        <verse osisID='Mark.3.11'>Und die unreinen Geister, wenn sie Ihn schauten, fielen vor Ihm nieder, schrien und sagten: Du bist der Sohn Gottes!</verse>
+        <verse osisID='Mark.3.12'>Und Er bedrohte sie sehr<note>viel</note>, daß sie Ihn nicht sollten kundbar machen.</verse>
+        <verse osisID='Mark.3.13'>Und Er stieg hinauf auf den Berg und rief zu Sich, welche Er wollte; und sie gingen zu Ihm hin.</verse>
+        <verse osisID='Mark.3.14'>Und Er bestellte<note>machte</note> zwölf, daß sie bei Ihm wären, und daß Er sie aussendete, zu predigen.</verse>
+        <verse osisID='Mark.3.15'>Und daß sie Gewalt hätten, die Krankheiten zu heilen und die Dämonen auszutreiben.</verse>
+        <verse osisID='Mark.3.16'>Und dem Simon legte Er den Namen Petrus bei.</verse>
+        <verse osisID='Mark.3.17'>Und Jakobus, den Sohn<note>Sohn ist nicht im Griech.</note> des Zebedäus, und Johannes, den Bruder des Jakobus, und Er legte ihnen die Namen Boanerges, d.h. Donnersöhne bei.</verse>
+        <verse osisID='Mark.3.18'>Und Andreas und Philippus und Bartholomäus und Matthäus, und Thomas und Jakobus, des Alphäus Sohn<note>Sohn ist nicht im Griech.</note>, und Thaddäus und Simon, den Kananiten;</verse>
+        <verse osisID='Mark.3.19'>Und Judas Ischariot, der Ihn auch verriet.</verse>
+        <verse osisID='Mark.3.20'>Und sie gingen nach Hause; und es kam wieder ein Gedränge zusammen, also daß sie nicht einmal das Brot essen konnten.</verse>
+        <verse osisID='Mark.3.21'>Als das die Seinigen hörten, gingen sie aus, Ihn zu ergreifen; denn, sagten sie, Er ist außer sich.</verse>
+        <verse osisID='Mark.3.22'>Und die Schriftgelehrten, die von Jerusalem herabgekommen waren, sagten: Er hat den Beelzebul! und: Durch den Obersten der Dämonen treibt Er die Dämonen aus.</verse>
+        <verse osisID='Mark.3.23'>Und Er rief sie zu Sich und sprach zu ihnen in Gleichnissen: Wie kann Satan den Satan austreiben?</verse>
+        <verse osisID='Mark.3.24'>Und wenn ein Reich wider sich selbst zerteilt wird, so kann solches Reich nicht bestehen.</verse>
+        <verse osisID='Mark.3.25'>Und so ein Haus wider sich selbst zerteilt wird, so kann solches Haus nicht bestehen.</verse>
+        <verse osisID='Mark.3.26'>So kann auch der Satan, wenn er wider sich selbst aufstünde und zerteilt wäre, nicht bestehen, sondern hätte ein Ende.</verse>
+        <verse osisID='Mark.3.27'>Keiner kann dem Starken in sein Haus hineinkommen und ihm den Hausrat rauben, er binde denn zuvor den Starken. Und dann vermag er sein Haus zu berauben.</verse>
+        <verse osisID='Mark.3.28'>Wahrlich, Ich sage euch: Alle Sünden werden den Söhnen der Menschen vergeben, und die Lästerungen, damit sie lästern;</verse>
+        <verse osisID='Mark.3.29'>Wer aber den Heiligen Geist lästert, der hat keine Vergebung ewiglich, sondern ist dem ewigen Gericht verfallen.</verse>
+        <verse osisID='Mark.3.30'>Denn sie sagten: Er hat einen unreinen Geist.</verse>
+        <verse osisID='Mark.3.31'>Und Seine Mutter und Seine Brüder kamen und standen außen und sandten zu Ihm, Ihn zu rufen.</verse>
+        <verse osisID='Mark.3.32'>Und das Gedränge saß um Ihn her, und sie sagten Ihm: Siehe, Deine Mutter und Deine Brüder draußen suchen Dich.</verse>
+        <verse osisID='Mark.3.33'>Und Er antwortete ihnen und sprach: Wer ist Meine Mutter und Meine Brüder?</verse>
+        <verse osisID='Mark.3.34'>Und Er blickte umher auf die, so um Ihn saßen im Kreise, und sprach: Siehe da, Meine Mutter und Meine Brüder!</verse>
+        <verse osisID='Mark.3.35'>Denn wer Gottes Willen tut, der ist Mein Bruder und Meine Schwester und Meine Mutter.</verse>
+      </chapter>
+      <chapter osisID='Mark.4'>
+        <title>Gleichnisse. Bedrohung des Sturms.</title>
+        <verse osisID='Mark.4.1'>Und Er fing abermals an zu lehren an dem Meer. Und es versammelte sich viel Volk<note>Gedränge</note>, also daß Er in ein Fahrzeug einstieg, und auf dem Meere saß; und das ganze Gedränge war auf dem Lande am Meer.</verse>
+        <verse osisID='Mark.4.2'>Und Er lehrte sie vieles in Gleichnissen und sprach zu ihnen in Seiner Lehre:</verse>
+        <verse osisID='Mark.4.3'>Höret zu: Siehe, es ging der Sämann aus zu säen.</verse>
+        <verse osisID='Mark.4.4'>Und es geschah, indem er säte, fiel etliches an den Weg; und das Gevögel des Himmels kam und fraß es auf;</verse>
+        <verse osisID='Mark.4.5'>Anderes aber fiel auf das Steinichte, wo es nicht viel Erde hatte, und es ging alsbald auf, darum daß es nicht tiefe Erde hatte.</verse>
+        <verse osisID='Mark.4.6'>Da aber die Sonne aufging, ward es versengt, und weil es nicht Wurzel hatte, verdorrte es.</verse>
+        <verse osisID='Mark.4.7'>Und anderes fiel in die Dornen, und die Dornen gingen auf und erstickten es, und es gab keine Frucht.</verse>
+        <verse osisID='Mark.4.8'>Und anderes fiel auf gutes Land und gab Frucht, die da aufging und wuchs, und trug eins dreißigfältig, und eins sechzigfältig, und eins hundertfältig.</verse>
+        <verse osisID='Mark.4.9'>Und Er sprach: Wer Ohren hat zu hören, der höre.</verse>
+        <verse osisID='Mark.4.10'>Und als Er allein war, fragten Ihn, die um Ihn waren, samt den Zwölfen um dieses Gleichnis.</verse>
+        <verse osisID='Mark.4.11'>Und Er sprach zu ihnen: Euch ist gegeben, das Geheimnis des Reiches Gottes zu erkennen; denen draußen aber geschieht das alles in Gleichnissen;</verse>
+        <verse osisID='Mark.4.12'>Auf daß sie sehen<note>blickend blicken und nicht kennen</note> und nicht erkennen, und hören<note>hörend hören</note> und nicht verstehen, auf daß sie sich nicht bekehren<note>umkehren</note> und ihre Sünden ihnen vergeben werden.</verse>
+        <verse osisID='Mark.4.13'>Und Er sprach zu ihnen: Wisset ihr dieses Gleichnis nicht? und wie wollet ihr alle die Gleichnisse erkennen?</verse>
+        <verse osisID='Mark.4.14'>Der Sämann säet das Wort.</verse>
+        <verse osisID='Mark.4.15'>Das aber sind die, so am Wege sind, wo das Wort gesät wird; und wenn sie es gehört haben, kommt alsbald der Satan und nimmt das Wort hinweg, das in ihre Herzen gesät war.</verse>
+        <verse osisID='Mark.4.16'>Und desgleichen sind die, bei denen aufs Steinichte gesät wird, solche, welche das Wort, wenn sie es hören, alsbald mit Freuden aufnehmen.</verse>
+        <verse osisID='Mark.4.17'>Und haben nicht Wurzel in ihnen, sondern sind wetterwendisch<note>zeitweilig</note>; wenn Trübsal oder Verfolgung um des Wortes willen kommt<note>wird</note>, so nehmen sie alsbald ein Ärgernis.</verse>
+        <verse osisID='Mark.4.18'>Und diese sind es, die in die Dornen gesät sind; diese hören das Wort;</verse>
+        <verse osisID='Mark.4.19'>Und die Sorgen dieses Zeitlaufs und der Betrug des Reichtums und die anderen Begierden kommen herein und ersticken das Wort, und es wird fruchtlos.</verse>
+        <verse osisID='Mark.4.20'>Und diese sind es, die auf eine gutes<note>schönes</note> Land gesät sind, die das Wort hören und annehmen und tragen Frucht, der eine dreißigfältig, und der eine sechzigfältig, und der eine hundertfältig.</verse>
+        <verse osisID='Mark.4.21'>Und Er sprach zu ihnen: Kommt auch die Kerze, daß man sie unter den Scheffel oder unter die Bank setze und nicht vielmehr daß man sie auf den Leuchter aufsetze?</verse>
+        <verse osisID='Mark.4.22'>Denn nichts ist verborgen, das nicht kundbar würde, und nichts so heimlich, daß es nicht an die Offenheit käme.</verse>
+        <verse osisID='Mark.4.23'>Wer Ohren hat zu hören, der höre.</verse>
+        <verse osisID='Mark.4.24'>Und Er sprach zu ihnen: Sehet zu<note>Blikket</note>, was ihr höret; Mit welchem Maß ihr messet, wird euch gemessen, und wird euch, die ihr höret, noch hinzugetan werden.</verse>
+        <verse osisID='Mark.4.25'>Denn wer da hat, dem wird gegeben werden; und wer nicht hat, von dem wird man wegnehmen auch das er hat.</verse>
+        <verse osisID='Mark.4.26'>Und Er sprach: Mit dem Reich Gottes ist es also, wie wenn der Mensch Samen wirft aufs Land.</verse>
+        <verse osisID='Mark.4.27'>Und schlummert und steht auf<note>wird erweckt</note> Nacht und Tag; und der Same sproßt hervor und schießt auf, er selbst weiß nicht wie.</verse>
+        <verse osisID='Mark.4.28'>Denn die Erde bringt von selbst die Frucht, zuerst das Gras, dann die Ähre, dann den vollen Weizen in der Ähre.</verse>
+        <verse osisID='Mark.4.29'>Wenn aber die Frucht sich ergibt, so sendet er alsbald die Sichel, weil die Ernte dasteht.</verse>
+        <verse osisID='Mark.4.30'>Und Er sprach: Womit wollen wir das Reich Gottes vergleichen? In welchem Gleichnis wollen wir es darstellen?</verse>
+        <verse osisID='Mark.4.31'>Es ist wie ein Senfkorn: Wenn es in die Erde gesät wird, so ist es kleiner als alle Samen auf der Erde.</verse>
+        <verse osisID='Mark.4.32'>Und wenn es gesät ist, so steigt es auf und wird größer als alle Gartenkräuter und gewinnt<note>macht</note> große Zweige, also daß das Gevögel des Himmels kann unter seinem Schatten wohnen<note>zelten</note>.</verse>
+        <verse osisID='Mark.4.33'>Und in vielen solchen Gleichnissen sagte Er ihnen das Wort, so wie sie es hören konnten.</verse>
+        <verse osisID='Mark.4.34'>Ohne Gleichnis aber redete Er nicht zu ihnen; legte Seinen Jüngern aber insonderheit alles aus.</verse>
+        <verse osisID='Mark.4.35'>Und an demselben Tage, da es Abend geworden, sprach Er zu ihnen: Lasset uns jenseits hinüberfahren.</verse>
+        <verse osisID='Mark.4.36'>Und sie entließen das Gedränge, und nahmen Ihn mit sich, wie Er im Schifflein war; und es waren aber noch andere Schifflein bei Ihm.</verse>
+        <verse osisID='Mark.4.37'>Und es ward ein Wirbel eines großen Windes, und warf die Wellen in das Schifflein, also daß es schon sich füllte.</verse>
+        <verse osisID='Mark.4.38'>Und Er war im Hinterteil des Fahrzeuges und schlummerte auf einem Kopfkissen. Und sie wecken Ihn und sagen zu Ihm: Lehrer, kümmert es Dich nicht, daß wir verderben?</verse>
+        <verse osisID='Mark.4.39'>Und Er stand auf, bedrohte den Wind und sprach zu dem Meere: Schweig still und verstumme! Und der Wind legte sich, und es ward eine große Windstille.</verse>
+        <verse osisID='Mark.4.40'>Und Er sprach zu ihnen: Was seid ihr so furchtsam? Wie? habt ihr keinen Glauben?</verse>
+        <verse osisID='Mark.4.41'>Sie aber fürchteten sich mit großer Furcht, und sprachen zueinander: Wer ist wohl Der, daß auch der Wind und das Meer Ihm gehorchen?</verse>
+      </chapter>
+      <chapter osisID='Mark.5'>
+        <title>Der Besessene. Das blutflüssige Weib. - Des Jairus Töchterlein.</title>
+        <verse osisID='Mark.5.1'>Und sie kamen jenseits des Meeres in die Gegend der Gadarener.</verse>
+        <verse osisID='Mark.5.2'>Und als Er aus dem Fahrzeug herauskam, begegnete Ihm alsbald aus den Grüften ein Mensch mit einem unreinen Geiste.</verse>
+        <verse osisID='Mark.5.3'>Der hatte seinen Aufenthalt in den Grüften, und niemand konnte ihn binden, auch nicht mit Ketten;</verse>
+        <verse osisID='Mark.5.4'>Denn er war oft mit Fußeisen und Ketten gebunden; und hatte die Ketten zerrissen und die Fußeisen zerrieben; und niemand vermochte ihn zu bändigen.</verse>
+        <verse osisID='Mark.5.5'>Und allezeit, Nacht und Tag, war er in den Grüften und auf den Bergen, schrie, und zerschlug sich mit Steinen.</verse>
+        <verse osisID='Mark.5.6'>Als er aber Jesus sah von weitem, lief er und fiel vor Ihm nieder,</verse>
+        <verse osisID='Mark.5.7'>Und schrie mit großer Stimme und sagte: Was habe ich mit Dir zu schaffen<note>Was ist mir und Dir</note>, Jesus, Du Sohn Gottes, des Allerhöchsten? Ich beschwöre dich bei Gott, daß Du mich nicht quälst.</verse>
+        <verse osisID='Mark.5.8'>Denn Er sprach zu ihm: Fahre<note>Gehe</note> aus, unreiner Geist, von dem Menschen!</verse>
+        <verse osisID='Mark.5.9'>Und Er fragte ihn: Was ist dein Name? Und er antwortete und sprach: Legion ist mein Name; denn unser sind viele.</verse>
+        <verse osisID='Mark.5.10'>Und er bat Ihn sehr<note>vieles</note>, Er möchte sie nicht aus der Gegend aussenden.</verse>
+        <verse osisID='Mark.5.11'>Es war aber dort am Berg ein großer Trieb Schweine auf der Weide;</verse>
+        <verse osisID='Mark.5.12'>Und alle die Dämonen baten Ihn und sagten: Schicke uns in die Schweine, daß wir in sie eingehen.</verse>
+        <verse osisID='Mark.5.13'>Und alsbald gestattete es ihnen Jesus. Und die unreinen Geister gingen aus und gingen ein in die Schweine, und der Trieb stürzte von der Anhöhe ins Meer<note>es waren aber bei zweitausend</note> und sie ertranken<note>erstickten</note> im Meer.</verse>
+        <verse osisID='Mark.5.14'>Die sie aber hüteten, flohen und sagten es an in der Stadt und auf den Feldern. Und sie kamen heraus, um zu sehen, was da geschehen war;</verse>
+        <verse osisID='Mark.5.15'>Und sie kamen zu Jesus und schauten den Besessenen, der die Legion gehabt hatte, da sitzen bekleidet und vernünftig, und sie fürchteten sich.</verse>
+        <verse osisID='Mark.5.16'>Und die es gesehen hatten, erzählten ihnen, wie es mit dem Besessenen und bei den Schweinen geschehen war.</verse>
+        <verse osisID='Mark.5.17'>Und sie fingen an, Ihn zu bitten, Er möchte aus ihren Grenzen weggehen.</verse>
+        <verse osisID='Mark.5.18'>Und da Er in das Schifflein einstieg, bat Ihn der Besessene, daß er dürfte bei Ihm sein.</verse>
+        <verse osisID='Mark.5.19'>Jesus aber ließ es ihm nicht zu, sondern sprach zu ihm: Gehe hin in dein Haus zu den Deinen und sage ihnen an, was der Herr an dir getan, und daß Er Sich deiner erbarmt hat.</verse>
+        <verse osisID='Mark.5.20'>Und Er ging hin und fing an zu verkündigen in den zehn Städten, was Jesus an ihm getan hatte, und alle verwunderten sich.</verse>
+        <verse osisID='Mark.5.21'>Und als Jesus wieder in dem Schifflein ans jenseitige Ufer<note>ins Jenseitige</note> hinübergefahren war, versammelte sich viel Gedränge zu Ihm, und Er war an dem Meere.</verse>
+        <verse osisID='Mark.5.22'>Und siehe, da kommt einer von den Obersten der Synagoge mit Namen Jairus, und da er Ihn sieht, fällt er Ihm zu Füßen.</verse>
+        <verse osisID='Mark.5.23'>Und bat Ihn sehr<note>viel</note> und sprach: Mein Töchterlein ist in den letzten Zügen<note>ist am letzten</note>! Komm doch und lege die Hände auf sie, auf daß sie gerettet werde, und lebe.</verse>
+        <verse osisID='Mark.5.24'>Und Er ging hin mit ihm; und vieles Gedränge folgte Ihm nach, und sie drängten Ihn.</verse>
+        <verse osisID='Mark.5.25'>Und ein Weib war da, die hatte zwölf Jahre den Blutfluß,</verse>
+        <verse osisID='Mark.5.26'>Und hatte viel von vielen Ärzten erlitten, und all das Ihre ausgegeben, ohne daß es ihr etwas genützt hätte; ja es war eher noch schlimmer mit ihr geworden<note>zum Schlimmeren gekommen</note>.</verse>
+        <verse osisID='Mark.5.27'>Da sie von Jesus hörte, kam sie im Gedränge von hinten zu und berührte Sein Kleid;</verse>
+        <verse osisID='Mark.5.28'>Denn sie sprach: Wenn ich nur Seine Kleider berühre, so werde ich gerettet.</verse>
+        <verse osisID='Mark.5.29'>Und alsbald vertrocknete der Brunn ihres Blutes, und sie erkannte an ihrem Leibe, daß sie von ihrer Plage gesund war.</verse>
+        <verse osisID='Mark.5.30'>Und Jesus erkannte alsbald an Sich die Kraft, die von Ihm ausgegangen war, wandte Sich um im Gedränge und sprach: Wer hat Meine Kleider berührt?</verse>
+        <verse osisID='Mark.5.31'>Und Seine Jünger sagten zu Ihm: Siehst<note>Erblickst</note> Du nicht, wie das Gedränge auf Dich zudrängt, und Du sagst: Wer hat Mich berührt?</verse>
+        <verse osisID='Mark.5.32'>Er aber blickte um Sich, die zu sehen, die dies getan hatte.</verse>
+        <verse osisID='Mark.5.33'>Das Weib aber, welches wußte, was an ihr geschehen war, fürchtete sich und zitterte, kam und fiel vor Ihm nieder und sagte Ihm die ganze Wahrheit.</verse>
+        <verse osisID='Mark.5.34'>Er aber sprach zu ihr: Tochter, dein Glaube hat dich gerettet! Gehe hin im Frieden und sei gesund von deiner Plage!</verse>
+        <verse osisID='Mark.5.35'>Da Er noch redete, kamen etliche vom Obersten der Synagoge und sagten: Deine Tochter ist gestorben. Was bemühst du noch den Lehrer?</verse>
+        <verse osisID='Mark.5.36'>Jesus aber hörte alsbald das Wort, das geredet worden, und sprach zu dem Obersten der Synagoge: Fürchte nicht, glaube nur!</verse>
+        <verse osisID='Mark.5.37'>Und Er ließ niemand Ihm zugleich nachfolgen außer Petrus und Jakobus und Johannes, den Bruder des Jakobus.</verse>
+        <verse osisID='Mark.5.38'>Und Er kommt in das Haus des Obersten der Synagoge und schaut das Getümmel und die da viel weinten und klagten.</verse>
+        <verse osisID='Mark.5.39'>Und Er geht hinein und spricht zu ihnen: Was lärmet und weinet ihr? Das Kindlein ist nicht gestorben, sondern es schlummert.</verse>
+        <verse osisID='Mark.5.40'>Und sie verlachten Ihn. Er aber treibt sie alle hinaus, nimmt zu Sich den Vater des Kindleins und die Mutter und die mit Ihm waren, und tritt hinein, da das Kindlein lag;</verse>
+        <verse osisID='Mark.5.41'>Und ergreift das Kindlein bei der Hand und spricht zu ihm: Talitha, kumi! das ist verdolmetscht: Mägdlein,</verse>
+        <verse osisID='Mark.5.42'>Und alsbald stand das Mägdlein auf und wandelte; denn es war zwölf Jahre alt. Und sie entsetzten sich mit großem Entsetzen.</verse>
+        <verse osisID='Mark.5.43'>Und Er verbot ihnen streng<note>viel</note>, daß niemand es erfahren solle, und sagte, sie sollten ihr zu essen geben.</verse>
+      </chapter>
+      <chapter osisID='Mark.6'>
+        <title>Aussendung der Apostel. Des Johannes Enthauptung. Speisung der Volkes. - Gang auf dem Meer.</title>
+        <verse osisID='Mark.6.1'>Und Er ging hinaus von dannen und kam in Seine Vaterstadt, und Seine Jünger folgen Ihm nach.</verse>
+        <verse osisID='Mark.6.2'>Und da es Sabbath ward, fing Er an zu lehren in der Synagoge, und viele, die Ihn hörten, staunten und sagten: Woher hat Dieser solches und was ist das für eine Weisheit, die Ihm gegeben ist, und daß solche Wunderkräfte durch Seine Hände geschehen?</verse>
+        <verse osisID='Mark.6.3'>Ist Der nicht der Zimmermann, Marias Sohn, der Bruder des Jakobus und des Joses und des Judas und des Simon? Und sind nicht Seine Schwestern hier bei uns? Und sie ärgerten sich an Ihm.</verse>
+        <verse osisID='Mark.6.4'>Jesus aber sprach zu ihnen: Ein Prophet ist nirgends ohne Ehre, als in seiner Vaterstadt und bei den Verwandten und in seinem Hause.</verse>
+        <verse osisID='Mark.6.5'>Und Er konnte dort keine einzige Wundertat<note>Kraft</note> tun, außer daß Er einigen Siechen die Hände auflegte und sie heilte.</verse>
+        <verse osisID='Mark.6.6'>Und Er verwunderte Sich über ihren Unglauben. Und Er zog umher in den Flecken im Umkreis und lehrte.</verse>
+        <verse osisID='Mark.6.7'>Und Er rief die Zwölfe zu Sich, und fing an sie je zwei und zwei auszusenden und gab ihnen Gewalt über die unreinen Geister;</verse>
+        <verse osisID='Mark.6.8'>Und entbot ihnen, sie sollten nichts mit sich auf den Weg nehmen, denn allein einen Stab; keine Tasche, kein Brot, kein Kupfer in den Gürtel;</verse>
+        <verse osisID='Mark.6.9'>Sondern sie sollten sich Sohlen<note>Sandalen</note> unterbinden, und nicht zwei Röcke anziehen.</verse>
+        <verse osisID='Mark.6.10'>Und Er sagte ihnen: Wenn ihr in ein Haus eingehet, so bleibet allda, bis ihr von dannen ausziehet.</verse>
+        <verse osisID='Mark.6.11'>Und welche euch nicht aufnehmen, noch euch hören, da ziehet aus von dannen und schüttelt den Staub unter euren Füßen ab zum Zeugnis über sie. Wahrlich, Ich sage euch, es wird Sodom und Gomorrah am Tage des Gerichts erträglicher sein denn selbiger Stadt.</verse>
+        <verse osisID='Mark.6.12'>Und sie zogen aus und predigten, man solle Buße tun,</verse>
+        <verse osisID='Mark.6.13'>Und trieben viele Dämonen aus und salbten viele Sieche mit Öl und heilten sie.</verse>
+        <verse osisID='Mark.6.14'>Und König Herodes hörte davon,</verse>
+        <verse osisID='Mark.6.15'>Andere sagten: Es ist Elias; andere aber sagten: Er ist ein Prophet, oder wie der Propheten einer.</verse>
+        <verse osisID='Mark.6.16'>Als es aber Herodes hörte, sprach er: Dies ist Johannes, den ich enthauptet habe; der ist von den Toten auferweckt;</verse>
+        <verse osisID='Mark.6.17'>Denn er, Herodes, hatte ausgesandt und den Johannes ergriffen und im Gefängnis gebunden, wegen der Herodias, dem Weibe des Philippus, seines Bruders; denn er hatte sie gefreit.</verse>
+        <verse osisID='Mark.6.18'>Denn Johannes sagte zu Herodes: Es ist dir nicht erlaubt, deines Bruders Weib zu haben.</verse>
+        <verse osisID='Mark.6.19'>Herodias aber stellte ihm nach und wollte ihn töten und konnte nicht.</verse>
+        <verse osisID='Mark.6.20'>Denn Herodes fürchtete den Johannes, weil er wußte, daß er ein gerechter und heiliger Mann war; und erhielt ihn, und hörte auf ihn in vielem, das er tat, und hörte ihn gerne.</verse>
+        <verse osisID='Mark.6.21'>Und es kam<note>wurde</note> ein gelegener Tag, als Herodes an seinem Geburtsfest seinen Großen und Obersten und den Ersten in Galiläa ein Gastmahl machte;</verse>
+        <verse osisID='Mark.6.22'>Und der Herodias Tochter kam herein und tanzte, und gefiel dem Herodes und denen, die mit zu Tische lagen. Da sprach der König zu dem Mägdlein: Bitte von mir, was du willst, und ich will es dir geben.</verse>
+        <verse osisID='Mark.6.23'>Und er schwur ihr: Was du von mir bittest, will ich dir geben, bis auf die Hälfte meines Reiches.</verse>
+        <verse osisID='Mark.6.24'>Sie aber ging hinaus und sprach zu ihrer Mutter: Was soll ich bitten? Die aber sprach: Das Haupt Johannes des Täufers.</verse>
+        <verse osisID='Mark.6.25'>Und sie kam alsbald eilig herein zum Könige, bat und sprach: Ich will, daß du mir unverzüglich das Haupt Johannes des Täufers auf einer Platte gebest.</verse>
+        <verse osisID='Mark.6.26'>Und der König ward sehr betrübt, aber um des Eidschwurs willen und derer, die mit zu Tische lagen, wollte er sie nicht beiseite setzen.</verse>
+        <verse osisID='Mark.6.27'>Und der König sandte alsbald einen von der Leibwache aus und verordnete sein Haupt herzubringen.</verse>
+        <verse osisID='Mark.6.28'>Er aber ging hin, enthauptete ihn im Gefängnis und brachte sein Haupt auf einer Platte und gab es dem Mägdlein, und das Mägdlein gab es ihrer Mutter.</verse>
+        <verse osisID='Mark.6.29'>Und als seine Jünger es hörten, kamen sie, und nahmen seine Leiche und legten sie in eine Gruft.</verse>
+        <verse osisID='Mark.6.30'>Und die Apostel versammelten sich zu Jesus und sagten an alles, was sie getan und was sie gelehrt hatten.</verse>
+        <verse osisID='Mark.6.31'>Und Er sprach zu ihnen: Kommet ihr selber besonders an einen wüsten Ort und ruhet ein wenig aus. Denn es waren derer, die da kamen und gingen, so viele, daß sie nicht gelegene Zeit zum Essen hatten.</verse>
+        <verse osisID='Mark.6.32'>Und sie gingen hin im Schifflein besonders an einen wüsten Ort.</verse>
+        <verse osisID='Mark.6.33'>Und das Gedränge sah sie hingehen, und viele erkannten Ihn und liefen zu Fuß dahin aus allen Städten und kamen vor ihnen an und kamen zu Ihm zusammen.</verse>
+        <verse osisID='Mark.6.34'>Und Jesus kam heraus und sah das viele Gedränge, und es jammerte Ihn derselben, daß sie wie Schafe waren, die keinen Hirten haben, und Er fing an, sie vieles zu lehren.</verse>
+        <verse osisID='Mark.6.35'>Da es aber schon spät<note>viele Stunde</note> an der Stunde war, kamen Seine Jünger zu Ihm und sagten: Der Ort ist wüste, und es ist schon spät<note>viele Stunde</note> an der Stunde.</verse>
+        <verse osisID='Mark.6.36'>Entlasse sie, daß sie rings umher in die Felder und in die Dörfer gehen und sich Brot kaufen, denn sie haben nichts zu essen.</verse>
+        <verse osisID='Mark.6.37'>Er aber antwortete und sprach zu ihnen: Gebet ihr ihnen zu essen! Und sie sagten zu Ihm: Sollen wir hingehen und um zweihundert Denare Brot kaufen, und ihnen zu essen geben?</verse>
+        <verse osisID='Mark.6.38'>Er aber sprach zu ihnen: Wie viele Brote habt ihr? Gehet hin und sehet. Und da sie es erfahren, sagten sie : Fünf, und zwei Fische.</verse>
+        <verse osisID='Mark.6.39'>Und Er verordnete ihnen allen, sich zu lagern nach Tischgesellschaften und Tischgesellschaften auf dem grünen Grase.</verse>
+        <verse osisID='Mark.6.40'>Und sie ließen sich nieder in Abteilungen<note>Beete und Beete</note> von je hundert und je fünfzig.</verse>
+        <verse osisID='Mark.6.41'>Und Er nahm die fünf Brote und die zwei Fische, blickte zum Himmel auf und segnete, und brach<note>zerbrach</note> die Brote und gab sie Seinen Jüngern, daß sie ihnen vorlegten; auch die zwei Fische teilte Er unter sie alle.</verse>
+        <verse osisID='Mark.6.42'>Und sie aßen alle und wurden satt;</verse>
+        <verse osisID='Mark.6.43'>Und sie hoben auf zwölf Körbe voll Brocken, und von den Fischen.</verse>
+        <verse osisID='Mark.6.44'>Und es waren derer, welche die Brote gegessen hatten, fünftausend Mann.</verse>
+        <verse osisID='Mark.6.45'>Und alsbald nötigte Er Seine Jünger, in das Schifflein einzusteigen und voraus zu fahren hinüber nach Bethsaida, bis Er Selbst das Gedränge entlassen hätte.</verse>
+        <verse osisID='Mark.6.46'>Nachdem Er sie verabschiedet hatte, ging Er hin auf den Berg, zu beten.</verse>
+        <verse osisID='Mark.6.47'>Und es ward Abend, und das Schifflein war mitten auf dem Meere, und Er allein auf dem Land.</verse>
+        <verse osisID='Mark.6.48'>Und Er sah, daß sie Not hatten<note>sich quälten</note> im Rudern, weil der Wind ihnen entgegen war. Und Er kam um die vierte Wache der Nacht zu ihnen, und wandelte auf dem Meere, und wollte an ihnen vorübergehen.</verse>
+        <verse osisID='Mark.6.49'>Da sie Ihn aber auf dem Meer wandeln sahen, meinten sie, es wäre ein Gespenst, und schrien auf:</verse>
+        <verse osisID='Mark.6.50'>Denn alle sahen Ihn und erbebten. Und Er redete alsbald mit ihnen und sprach zu ihnen: Seid getrost; Ich bin es, fürchtet euch nicht.</verse>
+        <verse osisID='Mark.6.51'>Und Er stieg zu ihnen ein in das Schifflein, und der Wind legte sich. Und sie waren außer sich und verwunderten sich ungemein, über die Maßen.</verse>
+        <verse osisID='Mark.6.52'>Denn sie verstanden nicht trotz<note>über</note> der Brote; denn ihr Herz war verstockt.</verse>
+        <verse osisID='Mark.6.53'>Und sie fuhren hinüber und kamen an das Land Genesareth und landeten.</verse>
+        <verse osisID='Mark.6.54'>Und da sie aus dem Schifflein kamen, erkannten sie Ihn alsbald,</verse>
+        <verse osisID='Mark.6.55'>Und liefen in der ganzen dortigen Gegend umher und fingen an, die Leidenden auf Tragbetten umherzutragen, wo sie hörten, daß Er war.</verse>
+        <verse osisID='Mark.6.56'>Und wo Er in Flecken oder Städte oder Felder einging, legten sie die Siechen auf die Marktplätze hin, und baten Ihn, daß sie auch nur Seines Kleides Saum berühren dürften; und so viele als Ihn berührten, wurden gerettet.</verse>
+      </chapter>
+      <chapter osisID='Mark.7'>
+        <title>Menschensatzung. Kanaanitisches Weib. - Taubstumme.</title>
+        <verse osisID='Mark.7.1'>Und es versammelten sich zu Ihm die Pharisäer und etliche von den Schriftgelehrten, die von Jerusalem gekommen.</verse>
+        <verse osisID='Mark.7.2'>Und da sie sahen, daß etliche Seiner Jünger mit gemeinen, das ist ungewaschenen Händen das Brot aßen, tadelten sie es.</verse>
+        <verse osisID='Mark.7.3'>Denn die Pharisäer und alle Juden essen nicht, sie hätten sich denn bis zum Gelenk<note>an der Faust</note> die Hände gewaschen, indem sie an der Überlieferung der Ältesten halten<note>ergreifen</note>.</verse>
+        <verse osisID='Mark.7.4'>Auch vom Markte ab, essen sie nicht, bevor sie sich gewaschen haben. Und ist sonst noch vieles, das sie zu halten<note>ergreifen</note> angenommen haben, das Waschen der Kelche und der Krüge und eherner Gefäße und Bänke.</verse>
+        <verse osisID='Mark.7.5'>Danach fragten Ihn die Pharisäer und die Schriftgelehrten: Warum wandeln Deine Jünger nicht nach der Überlieferung der Ältesten, sondern essen das Brot mit ungewaschenen Händen?</verse>
+        <verse osisID='Mark.7.6'>Er aber antwortete und sprach zu ihnen: Schön hat Jesajas über euch Heuchler geweissagt, wie geschrieben ist: Dieses Volk ehrt Mich mit den Lippen, ihr Herz aber ist ferne, weg von Mir.</verse>
+        <verse osisID='Mark.7.7'>Umsonst aber verehren sie Mich und lehren Lehren, die Gebote der Menschen sind.</verse>
+        <verse osisID='Mark.7.8'>Denn ihr verlasset das Gebot Gottes, und ergreifet die Überlieferung von Menschen, das Waschen der Krüge und Kelche, und tut viel andere solche Dinge.</verse>
+        <verse osisID='Mark.7.9'>Und Er sprach zu ihnen: Gar schön setzt ihr das Gebot Gottes beiseite, damit ihr eure Überlieferung haltet.</verse>
+        <verse osisID='Mark.7.10'>Denn Moses sprach: Ehre deinen Vater und deine Mutter, und wer dem Vater oder der Mutter flucht<note>übel spricht</note>, der soll des Todes sterben<note>enden</note>.</verse>
+        <verse osisID='Mark.7.11'>Ihr aber sagt: Wenn ein Mensch zum Vater oder zur Mutter spricht: Korban<note>d.h.: es sei eine Opfergabe</note>, was du von mir zu Nutzen gehabt hättest;</verse>
+        <verse osisID='Mark.7.12'>So lasset ihr ihn hinfort nichts mehr für seinen Vater oder seine Mutter tun,</verse>
+        <verse osisID='Mark.7.13'>Und machet das Wort Gottes ungültig durch eure Überlieferung, die ihr überliefert habt, und solches tut ihr vieles dergleichen.</verse>
+        <verse osisID='Mark.7.14'>Und Er rief das ganze Gedränge herbei und sprach zu ihnen: Höret Mir alle zu und verstehet es:</verse>
+        <verse osisID='Mark.7.15'>Es ist nichts außerhalb des Menschen, so es in ihn eingeht, das ihn gemein machen kann; was aber von ihm ausgeht, das ist es, das den Menschen gemein macht.</verse>
+        <verse osisID='Mark.7.16'>Wer Ohren hat zu hören, der höre.</verse>
+        <verse osisID='Mark.7.17'>Und als Er vom Gedränge weg ins Haus einging, fragten Ihn Seine Jünger über das Gleichnis.</verse>
+        <verse osisID='Mark.7.18'>Und Er sprach zu ihnen: So seid auch ihr unverständig? Begreifet ihr nicht, daß alles, was von außen in den Menschen eingeht, ihn nicht gemein machen kann?</verse>
+        <verse osisID='Mark.7.19'>Denn es geht nicht in sein Herz ein, sondern in den Bauch, und geht aus in den Abzug, der alle Speisen reinigt.</verse>
+        <verse osisID='Mark.7.20'>Er sprach aber: Was vom Menschen ausgeht, das macht den Menschen gemein.</verse>
+        <verse osisID='Mark.7.21'>Denn von innen, aus dem Herzen der Menschen gehen aus die bösen Gedanken, Ehebrüche, Hurereien, Mordtaten,</verse>
+        <verse osisID='Mark.7.22'>Diebereien, Habsucht, Schlechtigkeit, Trug, Unzucht, ein übles Auge, Lästerung, Hoffart, Unvernunft.</verse>
+        <verse osisID='Mark.7.23'>All dieses Schlechte kommt von innen heraus und macht den Menschen gemein.</verse>
+        <verse osisID='Mark.7.24'>Und Er stand auf und ging weg von dannen in die Grenzen von Tyrus und Sidon; und Er ging ein in ein Haus und wollte es niemand erfahren lassen; und Er konnte nicht verborgen bleiben.</verse>
+        <verse osisID='Mark.7.25'>Denn ein Weib, deren Töchterlein einen unreinen Geist hatte, hörte von Ihm, kam und fiel Ihm zu Füßen;</verse>
+        <verse osisID='Mark.7.26'>Sie war aber ein griechisches Weib, eine Syrophönizierin von Geschlecht und bat<note>fragte</note> Ihn, daß Er den Dämon von ihrer Tochter austriebe.</verse>
+        <verse osisID='Mark.7.27'>Jesus aber sprach zu ihr: Laß zuerst die Kinder satt werden; es ist nicht schön, daß man den Kindern das Brot nehme und werfe es vor die Hündlein.</verse>
+        <verse osisID='Mark.7.28'>Sie antwortete aber und sprach zu Ihm: Ja, Herr, und doch essen die Hündlein unter dem Tische von den Brosamen der Kindlein.</verse>
+        <verse osisID='Mark.7.29'>Und Er sprach zu ihr: Um dieses Wortes willen gehe hin; der Dämon ist von deiner Tochter ausgegangen.</verse>
+        <verse osisID='Mark.7.30'>Und sie ging hin in ihr Haus und fand, daß der böse Geist ausgegangen war und ihre Tochter auf dem Bette lag<note>auf das Bett geworfen</note>.</verse>
+        <verse osisID='Mark.7.31'>Und Er zog wieder aus von den Grenzen von Tyrus und Sidon und kam an das galiläische Meer mitten in die Grenzen der zehn Städte.</verse>
+        <verse osisID='Mark.7.32'>Und sie bringen Ihm einen Tauben, der kaum reden konnte, und flehen Ihn an, daß Er die Hand auf ihn legete.</verse>
+        <verse osisID='Mark.7.33'>Und Er nahm ihn beiseite vom Gedränge besonders, legte ihm Seine Finger in seine Ohren, und spützete und berührte seine Zunge,</verse>
+        <verse osisID='Mark.7.34'>Und Er blickte auf zum Himmel, seufzte und sprach zu ihm: Ephphatha, das ist, tue dich auf!</verse>
+        <verse osisID='Mark.7.35'>Und alsbald tat sich sein Gehör auf und das Band seiner Zunge löste sich, und er redete recht.</verse>
+        <verse osisID='Mark.7.36'>Und Er verbot ihnen, es jemand zu sagen. Je mehr Er ihnen aber verbot, desto weit mehr verkündeten sie es.</verse>
+        <verse osisID='Mark.7.37'>Und sie waren über die Maßen erstaunt und sprachen: Er hat alles wohl<note>schön</note> gemacht; die Tauben macht Er hören und die Sprachlosen reden.</verse>
+      </chapter>
+      <chapter osisID='Mark.8'>
+        <title>Die sieben Brote. Der Sauerteig. Der Blinde. - Bekenntnis Christi. Sein Leiden.</title>
+        <verse osisID='Mark.8.1'>In jenen Tagen, als sehr viel Volk<note>Gedränge</note> da war, und sie nichts zu essen hatten, rief Jesus Seine Jünger zu Sich und sprach zu ihnen:</verse>
+        <verse osisID='Mark.8.2'>Mich jammert des Volkes<note>Gedränge</note>; denn es sind schon drei Tage, daß sie bei Mir verharren, und haben nichts zu essen.</verse>
+        <verse osisID='Mark.8.3'>Und wenn Ich sie ungegessen nach ihrem Hause entlasse, so werden sie auf dem Wege verschmachten; denn ihrer sind einige von weit her gekommen.</verse>
+        <verse osisID='Mark.8.4'>Und Seine Jünger antworteten Ihm: Woher kann man hier in der Wüste diese mit Broten sättigen?</verse>
+        <verse osisID='Mark.8.5'>Und Er fragte sie: Wie viele Brote habt ihr? Sie aber sprachen: Sieben.</verse>
+        <verse osisID='Mark.8.6'>Und Er entbot dem Gedränge, sich auf die Erde niederzulassen; und Er nahm die sieben Brote, dankte, brach sie und gab sie Seinen Jüngern, daß sie selbige vorlegten; und sie legten sie dem Volke<note>Gedränge</note> vor.</verse>
+        <verse osisID='Mark.8.7'>Auch hatten sie etliche Fischlein; und Er segnete sie und sagte, daß sie auch diese vorlegen sollen.</verse>
+        <verse osisID='Mark.8.8'>Sie aber aßen und wurden satt, und hoben sieben Weidenkörbe mit Brocken auf, die übergeblieben.</verse>
+        <verse osisID='Mark.8.9'>Es waren aber bei viertausend, die gegessen hatten, und Er entließ sie.</verse>
+        <verse osisID='Mark.8.10'>Und alsbald stieg Er mit Seinen Jüngern ein in ein Schifflein und kam in die Gegend<note>Teile</note> von Dalmanutha.</verse>
+        <verse osisID='Mark.8.11'>Und die Pharisäer kamen heraus und fingen an, sich mit Ihm zu befragen und ersuchten von Ihm ein Zeichen vom Himmel, daß sie Ihn versuchten.</verse>
+        <verse osisID='Mark.8.12'>Und Er seufzt auf in Seinem Geiste und spricht: Was suchet dies Geschlecht ein Zeichen? Wahrlich, Ich sage euch: Es wird diesem Geschlechte kein Zeichen gegeben werden.</verse>
+        <verse osisID='Mark.8.13'>Und Er verließ sie, stieg wieder ein in das Schifflein und ging weg hinüber.</verse>
+        <verse osisID='Mark.8.14'>Und sie hatten vergessen, Brot mit sich zu nehmen; und hatten nicht mehr denn ein Brot mit sich im Schifflein.</verse>
+        <verse osisID='Mark.8.15'>Und Er verbot ihnen und sprach: Sehet zu, hütet<note>blicket vor</note> euch vor dem Sauerteig der Pharisäer und dem Sauerteig des Herodes.</verse>
+        <verse osisID='Mark.8.16'>Und sie besprachen untereinander und sagten: Weil wir kein Brot haben.</verse>
+        <verse osisID='Mark.8.17'>Und Jesus vernahm es und sprach zu ihnen: Warum besprecht ihr euch, daß ihr kein Brot habt? Begreift ihr noch nicht, noch verstehet ihr? Ist euer Herz noch verstockt?</verse>
+        <verse osisID='Mark.8.18'>Habet Augen und sehet nicht, habet Ohren und höret nicht und gedenket nicht?</verse>
+        <verse osisID='Mark.8.19'>Als Ich die fünf Brote unter die fünftausende brach, wie viele Körbe voll Brocken hobet ihr auf? Sie sprachen zu Ihm: Zwölf.</verse>
+        <verse osisID='Mark.8.20'>Als aber die sieben unter die viertausend, wie viele Weidenkörbe voll Brocken hobet ihr auf? Sie sagten: Sieben.</verse>
+        <verse osisID='Mark.8.21'>Und Er sprach zu ihnen: Wie? Verstehet ihr es nicht?</verse>
+        <verse osisID='Mark.8.22'>Und Er kommt nach Bethsaida; und sie bringen zu Ihm einen Blinden, und flehen Ihn an, daß Er ihn berührete.</verse>
+        <verse osisID='Mark.8.23'>Und Er nahm den Blinden bei der Hand, führte ihn hinaus aus dem Flecken, und spützete in seine Augen, legte die Hände auf ihn und fragte ihn, ob er etwas sähe<note>erblicke</note>?</verse>
+        <verse osisID='Mark.8.24'>Und er blickte auf und sprach: Ich sehe<note>erblicke</note> die Menschen wie Bäume umherwandeln.</verse>
+        <verse osisID='Mark.8.25'>Da legte Er ihm abermals die Hände auf seine Augen, und hieß<note>machte</note> ihn aufblicken, und er war wieder hergestellt und sah alles deutlich.</verse>
+        <verse osisID='Mark.8.26'>Und Er sandte ihn nach seinem Hause uns sprach: Gehe nicht ein in den Flecken und sage es auch niemand im Flecken.</verse>
+        <verse osisID='Mark.8.27'>Und Jesus ging aus und Seine Jünger in die Flecken von Cäsarea Philippi, und auf dem Wege fragte Er Seine Jünger und sprach zu ihnen: Wer sagen die Menschen, daß Ich sei?</verse>
+        <verse osisID='Mark.8.28'>Sie aber antworteten: Johannes der Täufer, und andere: Elias; andere aber: der Propheten einer.</verse>
+        <verse osisID='Mark.8.29'>Und Er sprach zu ihnen: Ihr aber, wer saget ihr, daß Ich bin? Petrus aber antwortete und sprach zu Ihm: Du bist der Christus.</verse>
+        <verse osisID='Mark.8.30'>Und Er bedrohte sie, daß sie niemand von Ihm sagen sollten.</verse>
+        <verse osisID='Mark.8.31'>Und Er fing an, sie zu lehren, daß des Menschen Sohn vieles erleiden und von den Ältesten und Hohenpriestern und Schriftgelehrten verworfen und getötet werden müsse und nach drei Tagen auferstehen werde.</verse>
+        <verse osisID='Mark.8.32'>Und das Wort redete Er frei heraus. Und Petrus nahm Ihn zu sich, und fing an, Ihn zu bedrohen.</verse>
+        <verse osisID='Mark.8.33'>Er aber wandte Sich um, und da Er Seine Jünger sah, bedrohte Er Petrus und sprach: Gehe hin, hinter Mich, Satan! Denn du sinnest nicht was von Gott, sondern was von Menschen ist.</verse>
+        <verse osisID='Mark.8.34'>Und Er rief das Gedränge samt Seinen Jüngern zu Sich und sprach zu ihnen: Wer Mir nachfolgen<note>hinter Mir kommen</note> will, der verleugne sich selbst, und nehme sein Kreuz auf, und folge Mir nach!</verse>
+        <verse osisID='Mark.8.35'>Denn wer seine Seele retten will, der wird sie verlieren, wer aber seine eigene Seele verliert um Meiner und des Evangeliums willen, der wird sie retten.</verse>
+        <verse osisID='Mark.8.36'>Denn was nützete es dem Menschen, so er die ganze Welt gewönne und nähme Schaden an seiner Seele?</verse>
+        <verse osisID='Mark.8.37'>Oder was kann denn der Mensch geben zur Lösung seiner Seele?</verse>
+        <verse osisID='Mark.8.38'>Denn wer sich Mein und Meiner Worte schämt in diesem ehebrecherischen und sündhaften Geschlecht, dessen wird Sich auch des Menschen Sohn schämen, wenn Er in der Herrlichkeit Seines Vaters mit den heiligen Engeln kommen wird.</verse>
+      </chapter>
+      <chapter osisID='Mark.9'>
+        <title>Christi Verklärung. Der Mondsüchtige. - Demut und Ärgernis.</title>
+        <verse osisID='Mark.9.1'>Und Er sprach zu ihnen: Wahrlich, Ich sage euch: Es sind etliche von denen, die hier stehen, die den Tod nicht schmecken werden, bis daß sie das Reich Gottes in Kraft kommen sehen.</verse>
+        <verse osisID='Mark.9.2'>Und nach sechs Tagen nahm Jesus Petrus, Jakobus und Johannes mit Sich und führte sie hinauf auf einen hohen Berg besonders alleine und verwandelte Sich vor ihnen.</verse>
+        <verse osisID='Mark.9.3'>Und Seine Kleider wurden glänzend, ungemein weiß, wie der Schnee, daß sie kein Walker auf Erden kann so weiß machen.</verse>
+        <verse osisID='Mark.9.4'>Und es erschien ihnen Elias mit Moses, und sie unterredeten sich mit Jesus.</verse>
+        <verse osisID='Mark.9.5'>Und Petrus antwortete und sprach zu Jesus: Rabbi, hier ist gut<note>schön</note> sein für uns. Und lasset uns drei Hütten machen, Dir eine, Moses eine und Elias eine.</verse>
+        <verse osisID='Mark.9.6'>Denn er wußte nicht, was er redete; denn sie waren außer sich vor Furcht.</verse>
+        <verse osisID='Mark.9.7'>Und es ward eine Wolke, die überschattete sie, und aus der Wolke kam eine Stimme, die sprach: Dies ist Mein geliebter Sohn, Den höret!</verse>
+        <verse osisID='Mark.9.8'>Und plötzlich, da sie um sich blickten, sahen sie niemand mehr, sondern allein Jesus bei ihnen.</verse>
+        <verse osisID='Mark.9.9'>Da sie aber vom Berge herabstiegen, verbot Er ihnen, jemand zu erzählen, was sie gesehen hatten, bis daß des Menschen Sohn von den Toten auferstanden wäre.</verse>
+        <verse osisID='Mark.9.10'>Und sie behielten<note>ergriffen</note> das Wort für sich und befragten sich, was dieses Auferstehen von den Toten sei.</verse>
+        <verse osisID='Mark.9.11'>Und sie fragten Ihn und sagten: Die Schriftgelehrten sagen, Elias müsse zuvor kommen.</verse>
+        <verse osisID='Mark.9.12'>Er aber antwortete und sprach zu ihnen: Elias kommt zwar zuerst und stellt alles her. Und wie ist es geschrieben von des Menschen Sohn? - daß Er viel leiden und für nichts geachtet werden soll.</verse>
+        <verse osisID='Mark.9.13'>Aber Ich sage euch: Elias ist auch gekommen, und sie haben ihm getan, was sie wollten, wie von ihm geschrieben steht.</verse>
+        <verse osisID='Mark.9.14'>Und als Er zu Seinen Jüngern kam, sah Er viel Gedränge um sie her und Schriftgelehrte, die sich mit ihnen befragten.</verse>
+        <verse osisID='Mark.9.15'>Und alsbald, da all das Gedränge Ihn sah, wurde ihnen bange, und sie liefen herbei und begrüßten Ihn.</verse>
+        <verse osisID='Mark.9.16'>Und Er fragte die Schriftgelehrten: Worüber befragt ihr euch mit ihnen?</verse>
+        <verse osisID='Mark.9.17'>Und einer aus dem Gedränge antwortete und sprach: Lehrer, ich habe meinen Sohn zu Dir hergebracht, der hat einen sprachlosen Geist.</verse>
+        <verse osisID='Mark.9.18'>Und wo er ihn übernimmt, reißt<note>bricht</note> er ihn, und er schäumt und knirscht mit den Zähnen und zehret ab. Und ich sprach mit Deinen Jüngern, daß sie ihn austrieben, und sie vermochten es nicht.</verse>
+        <verse osisID='Mark.9.19'>Er aber antwortete ihm und sprach: O du ungläubig Geschlecht, wie lange<note>bis wann</note> soll Ich bei euch sein? Wie lange<note>bis wann</note> soll Ich euch ertragen? Bringt ihn her zu Mir!</verse>
+        <verse osisID='Mark.9.20'>Und sie brachten ihn zu Ihm. Und als er Ihn sah, zerrte der Geist ihn alsbald, und er fiel zu Erde, wälzte sich und schäumte.</verse>
+        <verse osisID='Mark.9.21'>Und Er fragte seinen Vater: Wie lange Zeit ist es, daß das mit ihm geworden? Er aber sprach: Von Kind auf.</verse>
+        <verse osisID='Mark.9.22'>Und oft hat er ihn ins Feuer und ins Wasser geworfen, daß er ihn umbrächte. Wenn Du aber kannst, so hilf uns und erbarme Dich unser<note>laß es Dich jammern</note>.</verse>
+        <verse osisID='Mark.9.23'>Jesus aber sprach zu ihm: Wenn du glauben könntest! Alle Dinge sind möglich für den, der da glaubt!</verse>
+        <verse osisID='Mark.9.24'>Und alsbald schrie der Vater des Knäbleins mit Tränen und sprach: Ich glaube, Herr, hilf meinem Unglauben!</verse>
+        <verse osisID='Mark.9.25'>Da aber Jesus sah, daß das Gedränge zusammenlief, bedrohte Er den unreinen Geist und sprach zu ihm: Du sprachloser und tauber Geist, Ich befehle<note>verordne</note> dir, gehe aus von ihm, und geh nimmer in ihn ein!</verse>
+        <verse osisID='Mark.9.26'>Und er schrie und zerrte ihn sehr<note>viel</note> und ging aus. Und er ward wie tot, so daß viele sagten: Er ist gestorben!</verse>
+        <verse osisID='Mark.9.27'>Jesus aber ergriff ihn bei der Hand und richtete<note>weckte</note> ihn auf; und er stand auf.</verse>
+        <verse osisID='Mark.9.28'>Und als Er ins Haus einging, fragten Ihn Seine Jünger besonders: Warum konnten wir ihn nicht austreiben?</verse>
+        <verse osisID='Mark.9.29'>Und Er sprach zu ihnen: Diese Art<note>Gattung</note> kann nicht anders als durch Gebet und Fasten ausgehen.</verse>
+        <verse osisID='Mark.9.30'>Und von dannen gingen sie aus und zogen hin durch Galiläa, und Er wollte nicht, daß es jemand wisse.</verse>
+        <verse osisID='Mark.9.31'>Denn Er belehrte Seine Jünger und sagte ihnen: Des Menschen Sohn wird in der Menschen Hände überantwortet werden, und sie werden Ihn töten, und nachdem Er getötet worden, wird Er am dritten Tage auferstehen.</verse>
+        <verse osisID='Mark.9.32'>Sie aber verstanden<note>vernahmen</note> die Rede nicht und fürchteten sich, Ihn zu fragen.</verse>
+        <verse osisID='Mark.9.33'>Und Er kam nach Kapernaum; und als Er zu Hause war, fragte Er sie: Worüber besprachet ihr euch miteinander auf dem Wege?</verse>
+        <verse osisID='Mark.9.34'>Sie aber schwiegen stille; denn sie hatten auf dem Wege unter sich besprochen, welcher der Größte wäre.</verse>
+        <verse osisID='Mark.9.35'>Und Er setzte Sich, rief die Zwölfe und sprach zu ihnen: So einer will der Erste sein, der soll der Letzte von allen und aller Diener sein.</verse>
+        <verse osisID='Mark.9.36'>Und Er nahm ein Kindlein, stellte es mitten unter sie, und schloß es in Seine Arme und sprach zu ihnen:</verse>
+        <verse osisID='Mark.9.37'>Wer eines dieser Kindlein aufnimmt in Meinem Namen, der nimmt Mich auf, und wer Mich aufnimmt, der nimmt nicht Mich auf, sondern Den, Der Mich gesandt hat.</verse>
+        <verse osisID='Mark.9.38'>Johannes aber antwortete Ihm und sprach: Lehrer, wir sahen einen, der trieb in Deinem Namen Dämonen aus, der uns nicht nachfolgt, und wir wehrten es ihm, darum daß er uns nicht nachfolgt.</verse>
+        <verse osisID='Mark.9.39'>Jesus aber sprach: Wehret ihm nicht; denn es ist keiner, der in Meinem Namen Wundertaten<note>Kräfte</note> tut, und wird bald Böses von Mir sprechen.</verse>
+        <verse osisID='Mark.9.40'>Denn wer nicht wider uns ist, der ist für uns.</verse>
+        <verse osisID='Mark.9.41'>Denn wer euch tränket mit einem Kelche Wasser in Meinem Namen, weil ihr des Christus seid, wahrlich, Ich sage euch, er wird seinen Lohn nicht verlieren.</verse>
+        <verse osisID='Mark.9.42'>Wer aber einem der Kleinen, die an Mich glauben, Ärgernis gibt, dem wäre besser<note>schöner</note>, daß ihm ein Mühlstein um seinen Hals umgehängt und er ins Meer geworfen würde.</verse>
+        <verse osisID='Mark.9.43'>Und so dich deine Hand ärgert, so haue sie ab. Es ist dir besser<note>schöner</note>, daß du ein Krüppel zum Leben eingehest, denn daß du zwei Hände habest und in die Hölle<note>Gehenna</note> ins unauslöschliche Feuer weggehest.</verse>
+        <verse osisID='Mark.9.44'>Wo ihr Wurm nicht stirbt<note>endet</note> und das Feuer nicht erlischt.</verse>
+        <verse osisID='Mark.9.45'>Und ärgert dich dein Fuß, so haue ihn ab. Es ist dir besser<note>schöner</note>, daß du lahm zum Leben eingehest, denn daß du zwei Füße habest, und werdest in die Hölle<note>Gehenna</note> ins unauslöschliche Feuer geworfen,</verse>
+        <verse osisID='Mark.9.46'>Wo ihr Wurm nicht stirbt<note>endet</note> und das Feuer nicht erlischt.</verse>
+        <verse osisID='Mark.9.47'>Und ärgert dich dein Auge, so wirf es aus. Es ist dir besser<note>schöner</note>, daß du einäugig ins Reich Gottes eingehest, denn daß du zwei Augen habest, und werdest in die Hölle<note>Gehenna</note> des Feuers geworfen.</verse>
+        <verse osisID='Mark.9.48'>Wo ihr Wurm nicht stirbt<note>endet</note> und das Feuer nicht erlischt.</verse>
+        <verse osisID='Mark.9.49'>Denn ein jeglicher soll mit Feuer gesalzen, und alles Opfer mit Salz gesalzen werden.</verse>
+        <verse osisID='Mark.9.50'>Das Salz ist gut<note>schön</note>, wenn aber das Salz salzlos wird, womit wollet ihr es würzen? Habt Salz in euch und habt Frieden miteinander!</verse>
+      </chapter>
+      <chapter osisID='Mark.10'>
+        <title>Ehescheidung. Reichtum. - Leidensverkündigung. - Der blinde Bartimäus.</title>
+        <verse osisID='Mark.10.1'>Und von dannen machte Er Sich auf und kam in die Grenzen Judäas durch die Gegenden<note>das Jenseitige</note> jenseits des Jordan; und ein Gedränge zog wieder zusammen, Ihm zu, und wie Er gewohnt war, lehrte Er sie wieder.</verse>
+        <verse osisID='Mark.10.2'>Und die Pharisäer kamen herzu und fragten Ihn, ob es einem Manne erlaubt sei, sich von seinem Weibe zu scheiden, und versuchten Ihn damit.</verse>
+        <verse osisID='Mark.10.3'>Er aber antwortete und sprach zu ihnen: Was hat euch Moses geboten?</verse>
+        <verse osisID='Mark.10.4'>Sie aber sprachen: Moses hat gestattet einen Scheidebrief zu schreiben und sich zu scheiden.</verse>
+        <verse osisID='Mark.10.5'>Und Jesus antwortete und sprach zu ihnen: Um eures Herzens Härtigkeit willen hat Moses euch solch Gebot geschrieben.</verse>
+        <verse osisID='Mark.10.6'>Von Anfang der Schöpfung an aber machte Gott sie männlich und weiblich.</verse>
+        <verse osisID='Mark.10.7'>Darum soll der Mensch Vater und Mutter verlassen und seinem Weibe anhangen;</verse>
+        <verse osisID='Mark.10.8'>Und die zwei sollen sein ein Fleisch. So sind sie denn nicht mehr zwei, sondern ein Fleisch.</verse>
+        <verse osisID='Mark.10.9'>Was denn Gott zusammengefügt hat, das soll der Mensch nicht trennen.</verse>
+        <verse osisID='Mark.10.10'>Und im Hause fragten Ihn Seine Jünger abermals über dasselbe.</verse>
+        <verse osisID='Mark.10.11'>Und Er sprach zu ihnen: Wer sich von seinem Weibe scheidet und freiet eine andere, der bricht die Ehe an ihr.</verse>
+        <verse osisID='Mark.10.12'>Und so sich ein Weib scheidet von ihrem Manne und freiet einen anderen, die bricht die Ehe.</verse>
+        <verse osisID='Mark.10.13'>Und sie brachten Kindlein herzu, daß Er sie berührete. Die Jünger aber bedrohten die, so sie herbrachten.</verse>
+        <verse osisID='Mark.10.14'>Da es aber Jesus sah, ward Er unwillig und sprach zu ihnen: Lasset die Kindlein zu Mir kommen und wehret ihnen nicht; denn solcher ist das Reich Gottes.</verse>
+        <verse osisID='Mark.10.15'>Wahrlich, Ich sage euch: Wer das Reich Gottes nicht aufnimmt, wie ein Kindlein, der wird nicht hineinkommen.</verse>
+        <verse osisID='Mark.10.16'>Und Er schloß sie in Seine Arme, legte die Hände auf sie und segnete sie.</verse>
+        <verse osisID='Mark.10.17'>Und da Er hinauskam auf den Weg, lief einer herzu, fiel vor Ihm auf die Knie und fragte Ihn: Guter Lehrer, was soll ich tun, daß ich das ewige Leben ererbe?</verse>
+        <verse osisID='Mark.10.18'>Jesus aber sprach zu ihm: Was nennst du Mich gut? Niemand ist gut, den der Eine, Gott.</verse>
+        <verse osisID='Mark.10.19'>Du weißt die Gebote: Du sollst nicht ehebrechen, du sollst nicht morden, du sollst nicht stehlen, du sollst kein falsch Zeugnis geben, du sollst nicht übervorteilen. Ehre deinen Vater und die Mutter.</verse>
+        <verse osisID='Mark.10.20'>Er aber antwortete und sprach zu Ihm: Lehrer, das hab ich alles gehalten<note>gewahret</note> von meiner Jugend auf.</verse>
+        <verse osisID='Mark.10.21'>Jesus aber blickte ihn an, und liebte ihn und sprach zu ihm: Eins mangelt dir. Gehe hin, verkaufe, was du hast, und gib es den Armen, so wirst du einen Schatz im Himmel haben; und komme her, folge Mir nach und nimm das Kreuz auf dich.</verse>
+        <verse osisID='Mark.10.22'>Er aber ward düster über dem Worte und ging betrübt weg; denn er hatte viel Besitztum.</verse>
+        <verse osisID='Mark.10.23'>Und Jesus blickte umher und sprach zu Seinen Jüngern: Wie schwer ist es, daß die, so Vermögen haben, ins Reich Gottes eingehen!</verse>
+        <verse osisID='Mark.10.24'>Die Jünger aber waren bestürzt über Seine Worte; Jesus aber antwortete wieder und sprach zu ihnen: Kinder, wie schwer ist es, daß die auf das Vermögen vertrauen, ins Reich Gottes kommen!</verse>
+        <verse osisID='Mark.10.25'>Es ist leichter, daß ein Kamel durch das Öhr der Nadel durchgehe, denn daß ein Reicher ins Reich Gottes komme.</verse>
+        <verse osisID='Mark.10.26'>Sie aber staunten über die Maßen und sagten untereinander: Wer kann dann gerettet werden?</verse>
+        <verse osisID='Mark.10.27'>Jesus aber blickte sie an und sprach: Bei Menschen ist es unmöglich, aber nicht bei Gott; denn bei Gott sind alle Dinge möglich.</verse>
+        <verse osisID='Mark.10.28'>Da antwortete Petrus und sagte zu Ihm: Siehe, wir haben alles verlassen und sind Dir nachgefolgt.</verse>
+        <verse osisID='Mark.10.29'>Jesus antwortete und sprach: Wahrlich, Ich sage euch, es ist niemand, der um Meinetwillen und um des Evangeliums willen Haus, oder Brüder, oder Schwestern, oder Vater, oder Mutter, oder Weib, oder Kinder, oder Felder verlassen hat,</verse>
+        <verse osisID='Mark.10.30'>Der nicht hundertfältig empfinge jetzt in dieser Zeit<note>bestimmten Zeit</note> Häuser und Brüder und Schwestern und Mütter und Kinder und Felder mit Verfolgungen und in dem zukünftigen Zeitlauf ewiges Leben.</verse>
+        <verse osisID='Mark.10.31'>Viele aber, welche die ersten sind, werden letzte sein, und die letzten werden erste sein.</verse>
+        <verse osisID='Mark.10.32'>Sie waren aber auf dem Wege hinaufzugehen nach Jerusalem, und Jesus ging ihnen voran, und sie waren bestürzt und folgten Ihm nach und fürchteten sich. Und Er nahm wieder die Zwölfe zu Sich, und fing an, ihnen zu sagen, was sich mit Ihm zutragen würde.</verse>
+        <verse osisID='Mark.10.33'>Siehe, wir gehen hinauf nach Jerusalem, und des Menschen Sohn wird den Hohenpriestern und den Schriftgelehrten überantwortet werden, und sie werden Ihn zum Tode verdammen und Ihn den Heiden überantworten.</verse>
+        <verse osisID='Mark.10.34'>Und sie werden Ihn verspotten und Ihn geißeln, und Ihn anspeien und Ihn töten; und am dritten Tage wird Er auferstehen.</verse>
+        <verse osisID='Mark.10.35'>Und es kamen zu Ihm Jakobus und Johannes, die Söhne<note>Söhne ist nicht im Griech.</note> des Zebedäus, und sprachen: Lehrer, wir wollen, daß Du uns tust, um was wir bitten werden.</verse>
+        <verse osisID='Mark.10.36'>Er aber sprach zu ihnen: Was wollt ihr, daß ich euch tun solle?</verse>
+        <verse osisID='Mark.10.37'>Sie aber sagten zu Ihm: Gib uns, daß wir sitzen, einer zu Deiner Rechten und einer zu Deiner Linken in Deiner Herrlichkeit.</verse>
+        <verse osisID='Mark.10.38'>Jesus aber sprach zu ihnen: Ihr wisset nicht, was ihr bittet. Könnet ihr den Kelch trinken, den Ich trinke, und mit der Taufe euch taufen lassen, mit der Ich getauft werde?</verse>
+        <verse osisID='Mark.10.39'>Sie aber sprachen zu Ihm: Wir können es. Jesus aber sprach zu ihnen: Den Kelch zwar, den Ich trinke, werdet ihr trinken, und mit der Taufe, mit der Ich getauft werde, getauft werden;</verse>
+        <verse osisID='Mark.10.40'>Das Sitzen aber zu Meiner Rechten und zu Meiner Linken ist nicht Mein, zu geben, außer denen es bereitet ist.</verse>
+        <verse osisID='Mark.10.41'>Und da die Zehn das hörten, fingen sie an unwillig zu werden über Jakobus und Johannes.</verse>
+        <verse osisID='Mark.10.42'>Jesus aber rief sie zu Sich und sprach zu ihnen: Ihr wisset, daß die, so als Oberste gelten, über die Völkerschaften herrschen, und ihre Großen Gewalt üben über sie.</verse>
+        <verse osisID='Mark.10.43'>Also aber sei es nicht bei euch. Sondern wer groß unter euch sein will, der soll euer Diener sein;</verse>
+        <verse osisID='Mark.10.44'>Und wer unter euch der Erste sein will, der soll aller Knecht sein.</verse>
+        <verse osisID='Mark.10.45'>Denn auch des Menschen Sohn ist nicht gekommen, Sich dienen zu lassen, sondern zu dienen und Seine Seele zu geben für viele zur Lösung.</verse>
+        <verse osisID='Mark.10.46'>Und sie kamen nach Jericho. Und wie Er aus Jericho auszog mit Seinen Jüngern und Gedränge genug, saß am Wege des Timäus Sohn, Bartimäus der Blinde, und bettelte.</verse>
+        <verse osisID='Mark.10.47'>Und als der hörte, daß es Jesus der Nazarener war, fing er an zu schreien und zu sagen: Sohn Davids, Jesus, erbarme Dich mein!</verse>
+        <verse osisID='Mark.10.48'>Viele aber bedrohten ihn, er solle stillschweigen. Er aber schrie viel mehr: Sohn Davids, erbarm Dich mein!</verse>
+        <verse osisID='Mark.10.49'>Und Jesus stand stille<note>stand</note> und sagte, man solle ihn rufen. Und sie riefen dem Blinden und sagten zu ihm: Sei getrost, mache dich auf; Er ruft dich.</verse>
+        <verse osisID='Mark.10.50'>Der aber warf sein Kleid ab, stand auf und kam zu Jesus.</verse>
+        <verse osisID='Mark.10.51'>Und Jesus antwortete und sprach zu ihm: Was willst du, daß Ich dir tun soll? Der Blinde aber sprach zu Ihm: Rabbuni, daß ich sehend werde.</verse>
+        <verse osisID='Mark.10.52'>Jesus aber sprach zu ihm: Gehe hin; dein Glaube hat dich gerettet. Und alsbald ward er sehend und folgte Ihm nach auf dem Wege.</verse>
+      </chapter>
+      <chapter osisID='Mark.11'>
+        <title>Einzug des Herrn in Jerusalem. - Verfluchung des Feigenbaumes. - Tempelreinigung.</title>
+        <verse osisID='Mark.11.1'>Und als sie nahe zu Jerusalem kamen nach Bethphage und Bethanien, an den Ölberg, sandte Er Seiner Jünger zwei,</verse>
+        <verse osisID='Mark.11.2'>Und sprach zu ihnen: Gehet hin in den Flecken, der euch gegenüber ist; und wie ihr hineinkommet, werdet ihr alsbald ein Füllen angebunden finden, auf dem kein Mensch gesessen hat. Löset es und führet es her.</verse>
+        <verse osisID='Mark.11.3'>Und so jemand zu euch sagen wird: Was tut ihr das? so sprechet: Der Herr bedarf seiner, so sendet er es alsbald her.</verse>
+        <verse osisID='Mark.11.4'>Sie aber gingen hin und fanden das Füllen an der Tür angebunden draußen am Scheideweg und lösten es.</verse>
+        <verse osisID='Mark.11.5'>Und einige von denen, die da standen, sprachen zu ihnen: Was machet ihr, daß ihr das Füllen löset?</verse>
+        <verse osisID='Mark.11.6'>Sie aber sprachen zu ihnen, wie Jesus ihnen gebot, und sie ließen sie.</verse>
+        <verse osisID='Mark.11.7'>Und sie führten das Füllen zu Jesus, und warfen ihre Kleider darauf, und Er setzte Sich auf dasselbe.</verse>
+        <verse osisID='Mark.11.8'>Viele aber streuten ihre Kleider auf den Weg; andere aber schnitten Zweige von den Bäumen ab und streuten sie auf den Weg.</verse>
+        <verse osisID='Mark.11.9'>Und die vorangingen und die nachfolgten, schrien und sprachen: Hosiannah! Gesegnet sei, Der da kommt im Namen des Herrn.</verse>
+        <verse osisID='Mark.11.10'>Gesegnet sei das Reich, das da kommt in dem Namen des Herrn, unseres Vaters David; Hosiannah in den Höhen<note>den Höchsten</note>!</verse>
+        <verse osisID='Mark.11.11'>Und Jesus zog ein in Jerusalem und in das Heiligtum, und nachdem Er alles umher angeschaut, ging Er, da es schon spät an der Stunde war, mit den Zwölfen hinaus nach Bethanien.</verse>
+        <verse osisID='Mark.11.12'>Und am folgenden Tag, da sie von Bethanien ausgegangen waren, hungerte Ihn.</verse>
+        <verse osisID='Mark.11.13'>Und Er sah von weitem einen Feigenbaum, der Blätter hatte, ging hin, ob Er wohl etwas auf ihm fände. Und da Er dahin kam, fand Er nichts denn Blätter; denn es war noch nicht die Jahreszeit für Feigen.</verse>
+        <verse osisID='Mark.11.14'>Und Jesus hob an und sprach zu ihm: Nie mehr esse von dir jemand Frucht in Ewigkeit! Und Seine Jünger hörten es.</verse>
+        <verse osisID='Mark.11.15'>Und sie kamen nach Jerusalem, und Er ging ein in das Heiligtum und fing an, die im Heiligtum verkauften und kauften, auszutreiben; und die Tische der Wechsler und die Stühle der Taubenhändler stieß Er um;</verse>
+        <verse osisID='Mark.11.16'>Und Er ließ nicht zu, daß jemand ein Gefäß durch das Heiligtum trug.</verse>
+        <verse osisID='Mark.11.17'>Und lehrte und sprach zu ihnen: Ist nicht geschrieben: Mein Haus soll für alle Völkerschaften ein Bethaus heißen? Ihr aber habt eine Räuberhöhle daraus gemacht.</verse>
+        <verse osisID='Mark.11.18'>Und die Hohenpriester und die Schriftgelehrten hörten es und trachteten, wie sie Ihn umbrächten; denn sie fürchteten Ihn, weil das ganze Gedränge staunte ob Seiner Lehre.</verse>
+        <verse osisID='Mark.11.19'>Und als es spät wurde, ging Er hinaus aus der Stadt.</verse>
+        <verse osisID='Mark.11.20'>Und da sie am Morgen vorüberkamen, sahen sie den Feigenbaum von der Wurzel auf verdorrt.</verse>
+        <verse osisID='Mark.11.21'>Und Petrus gedachte daran und sagte zu Ihm: Rabbi, siehe, der Feigenbaum, dem Du fluchtest, ist verdorrt.</verse>
+        <verse osisID='Mark.11.22'>Und Jesus antwortete und sprach zu ihnen: Habt Glauben an Gott<note>Gottes</note>!</verse>
+        <verse osisID='Mark.11.23'>Denn wahrlich, sage Ich euch: Wer zu diesem Berge spricht: Hebe dich auf und wirf dich ins Meer, und zweifelt nicht in seinem Herzen, sondern glaubt, daß, was er spricht, geschehe, so wird ihm geschehen, was er gesprochen hat.</verse>
+        <verse osisID='Mark.11.24'>Darum sage Ich euch: Alles, was ihr bittet im Gebet, glaubet, daß ihr es empfanget, so wird es euch werden.</verse>
+        <verse osisID='Mark.11.25'>Und wenn ihr steht und betet, so vergebt, wenn ihr etwas wider jemand habt, auf daß auch euer Vater in den Himmeln euch eure Fehle vergebe.</verse>
+        <verse osisID='Mark.11.26'>Vergebt ihr aber nicht, so wird euer Vater in den Himmeln eure Fehle auch nicht vergeben.</verse>
+        <verse osisID='Mark.11.27'>Und sie kommen abermals nach Jerusalem. und als Er im Heiligtum wandelte, kamen zu Ihm die Hohenpriester und die Schriftgelehrten und die Ältesten,</verse>
+        <verse osisID='Mark.11.28'>Und sagten zu Ihm: Aus was für Gewalt tust Du das? Und wer hat Dir diese Gewalt gegeben, daß Du solches tust?</verse>
+        <verse osisID='Mark.11.29'>Jesus aber antwortete und sprach zu ihnen: Ich will euch auch ein Wort fragen, und wenn ihr Mir antwortet, so will auch Ich euch sagen, aus was für Gewalt Ich dieses tue.</verse>
+        <verse osisID='Mark.11.30'>Die Taufe des Johannes, war sie aus dem Himmel, oder von Menschen? Antwortet Mir!</verse>
+        <verse osisID='Mark.11.31'>Und sie bedachten bei sich und sprachen: Sagen wir: Aus dem Himmel, so wird Er sagen: Warum habt ihr ihm nicht geglaubt?</verse>
+        <verse osisID='Mark.11.32'>Sagen wir aber: Von Menschen, so fürchteten sie das Volk; denn sie hielten alle dafür, daß Johannes wirklich ein Prophet war.</verse>
+        <verse osisID='Mark.11.33'>Und sie antworteten und sagten zu Jesus: Wir wissen es nicht. Und Jesus antwortete und sprach zu ihnen: So sage Ich euch auch nicht, aus was für Gewalt Ich solches tue..</verse>
+      </chapter>
+      <chapter osisID='Mark.12'>
+        <title>Der Weinberg. Der Zinsgroschen. Ehe. - Auferstehung. Vornehmstes Gebot. Messias. - Schriftgelehrter. Die arme Witwe.</title>
+        <verse osisID='Mark.12.1'>Und Er fing an, zu ihnen in Gleichnissen zu sprechen: Ein Mensch pflanzte einen Weinberg, und umgab ihn mit einem Zaun, und grub einen Keltertrog aus, und baute einen Turm, und gab ihn an Weingärtner aus und zog über Land.</verse>
+        <verse osisID='Mark.12.2'>Und zur Jahreszeit sandte er einen Knecht an die Weingärtner, daß er von den Weingärtnern von der Frucht des Weinbergs empfange.</verse>
+        <verse osisID='Mark.12.3'>Sie aber nahmen ihn, stäupten ihn und sandten ihn leer von dannen.</verse>
+        <verse osisID='Mark.12.4'>Und abermals sandte er zu ihnen einen anderen Knecht. Und diesem zerwarfen sie den Kopf mit Steinen und sandten ihn entehrt von dannen.</verse>
+        <verse osisID='Mark.12.5'>Und er sandte abermals einen anderen. Und diesen töteten sie; und viele andere; etliche stäupten, etliche aber töteten sie.</verse>
+        <verse osisID='Mark.12.6'>Da hatte er noch seinen einzigen geliebten Sohn, auch den sandte er zuletzt an sie ab, indem er sagte: Vor meinem Sohne werden sie sich scheuen.</verse>
+        <verse osisID='Mark.12.7'>Aber jene Weingärtner sprachen zueinander: Das ist der Erbe, kommet, lasset uns ihn töten, und das Erbe ist unser.</verse>
+        <verse osisID='Mark.12.8'>Und sie griffen ihn, töteten ihn, und warfen ihn zum Weinberg hinaus.</verse>
+        <verse osisID='Mark.12.9'>Was wird nun der Herr des Weinberges tun? Er wird kommen, die Weingärtner umbringen und den Weinberg anderen geben.</verse>
+        <verse osisID='Mark.12.10'>Habt ihr nicht gelesen diese Schrift: Der Stein, den die Bauleute verworfen haben, der ist zum Eckstein<note>Haupt der Ecke</note> geworden?</verse>
+        <verse osisID='Mark.12.11'>Vom Herrn ist das geschehen, und es ist wunderbar in unseren Augen?</verse>
+        <verse osisID='Mark.12.12'>Und sie trachteten danach, daß sie Ihn ergriffen, und fürchteten sich vor dem Gedränge. Denn sie erkannten, daß Er gegen sie das Gleichnis gesprochen hatte. Und sie ließen von Ihm und gingen weg.</verse>
+        <verse osisID='Mark.12.13'>Und sie sandten etliche von den Pharisäern und den Herodianern an Ihn, auf daß sie Ihn im Worte fingen.</verse>
+        <verse osisID='Mark.12.14'>Sie kamen aber und sprachen zu Ihm: Lehrer, wir wissen, daß Du wahrhaftig bist, und daß Du Dich um niemand kümmerst; denn Du blickst nicht auf das Angesicht der Menschen, sondern lehrst den Weg Gottes nach der Wahrheit. Ist es erlaubt, daß man dem Kaiser die Steuer gibt, oder nicht? Sollen wir sie geben oder nicht geben?</verse>
+        <verse osisID='Mark.12.15'>Er aber sah ihre Heuchelei und sprach zu ihnen: Was versuchet ihr Mich? Bringet Mir einen Denar, daß Ich ihn sehe.</verse>
+        <verse osisID='Mark.12.16'>Sie aber brachten einen. Und Er sprach zu ihnen: Wessen ist das Bild und die Überschrift? Sie aber sagten zu Ihm: Des Kaisers.</verse>
+        <verse osisID='Mark.12.17'>Und Jesus antwortete und sagte zu ihnen: So gebet hin dem Kaiser, was des Kaisers ist, und Gott, was Gottes ist. Und sie verwunderten sich über Ihn.</verse>
+        <verse osisID='Mark.12.18'>Und die Sadduzäer kamen zu Ihm, die da sagen, es sei keine Auferstehung, und fragten Ihn und sagten:</verse>
+        <verse osisID='Mark.12.19'>Lehrer, Moses hat uns geschrieben: Wenn jemandes Bruder stirbt und hinterläßt ein Weib, läßt aber keine Kinder, da soll sein Bruder dessen Weib nehmen und seinem Bruder Samen erwecken.</verse>
+        <verse osisID='Mark.12.20'>Nun waren sieben Brüder. Und der erste nahm ein Weib, starb und ließ keinen Samen.</verse>
+        <verse osisID='Mark.12.21'>Und der zweite nahm sie und starb, und auch er ließ keinen Samen; desgleichen auch der dritte.</verse>
+        <verse osisID='Mark.12.22'>Und die sieben nahmen sie und ließen keinen Samen; und zuletzt von allen starb auch das Weib.</verse>
+        <verse osisID='Mark.12.23'>In der Auferstehung nun, wenn sie auferstanden sind, wessen Weibe wird sie sein unter ihnen? Denn die sieben haben sie zum Weibe gehabt.</verse>
+        <verse osisID='Mark.12.24'>Und Jesus antwortete und sprach zu ihnen: Irret ihr nicht darum, daß ihr die Schriften und die Kraft Gottes nicht wisset?</verse>
+        <verse osisID='Mark.12.25'>Denn wenn sie von den Toten auferstehen, freien sie nicht, noch lassen sie sich freien, sondern sind wie die Engel in den Himmeln.</verse>
+        <verse osisID='Mark.12.26'>Was aber die Toten anlangt, daß sie auferweckt werden, habt ihr nicht in Moses Buch gelesen, bei dem Dornbusch, wie Gott zu ihm sprach und sagte: Ich bin der Gott Abrahams und der Gott Isaaks und der Gott Jakobs.</verse>
+        <verse osisID='Mark.12.27'>Er ist nicht Gott der Toten, sondern der Lebendigen Gott. Ihr gehet sehr<note>viel</note> irre.</verse>
+        <verse osisID='Mark.12.28'>Und es kam einer der Schriftgelehrten herzu, der ihre Besprechung gehört hatte, und sah, daß Er ihnen fein<note>schön</note> geantwortet hatte, und fragt Ihn: Welches ist das erste Gebot von allen?</verse>
+        <verse osisID='Mark.12.29'>Jesus aber antwortete ihm: Das erste Gebot von allen ist: Höre, Israel, der Herr unser Gott ist ein einiger Herr.</verse>
+        <verse osisID='Mark.12.30'>Und du sollst lieben den Herrn deinen Gott von deinem ganzen Herzen und von deiner ganzen Seele und von deiner ganzen Gesinnung und mit deiner ganzen Stärke. Dies ist das erste Gebot.</verse>
+        <verse osisID='Mark.12.31'>Und das zweite ist ihm ähnlich, dieses: Du sollst deinen Nächsten lieben wie dich selbst. Kein ander Gebot ist größer denn diese.</verse>
+        <verse osisID='Mark.12.32'>Und der Schriftgelehrte sprach zu Ihm: Schön, o Lehrer, nach der Wahrheit hast Du gesprochen; denn es ist ein Gott und ist kein anderer außer Ihm.</verse>
+        <verse osisID='Mark.12.33'>Und Ihn lieben von ganzem Herzen, und von ganzem Verstande, und von ganzer Seele, und mit aller Stärke, und den Nächsten lieben, wie sich selbst, das ist mehr als alle Brandopfer und Schlachtopfer.</verse>
+        <verse osisID='Mark.12.34'>Und da Jesus sah, daß er vernünftig antwortete, sprach Er zu ihm: Du bist nicht weit vom Reiche Gottes; und niemand wagte Ihn mehr zu fragen.</verse>
+        <verse osisID='Mark.12.35'>Und Jesus hob an<note>antwortete</note> und sprach, da Er lehrte im Heiligtum: Wie sagen die Schriftgelehrten Christus sei Davids Sohn?</verse>
+        <verse osisID='Mark.12.36'>Hat doch David selbst im heiligen Geist gesprochen: Der Herr sprach zu meinem Herrn: Setze dich zu Meiner Rechten, bis daß Ich lege Deine Feinde zum Schemel Deiner Füße.</verse>
+        <verse osisID='Mark.12.37'>David selbst nun nennt Ihn Herr, und woher ist Er sein Sohn? Und viel Volk<note>Gedränge</note> hörte Ihm gerne zu.</verse>
+        <verse osisID='Mark.12.38'>Und in Seiner Lehre sprach Er zu ihnen: Sehet<note>Blicket</note> euch vor vor den Schriftgelehrten, die da wollen in langen Gewändern umherwandeln und sich auf den Marktplätzen grüßen lassen.</verse>
+        <verse osisID='Mark.12.39'>Und die wollen die ersten Sitze in den Synagogen, und bei den Gastmählern die ersten Plätze<note>Bänke</note> haben.</verse>
+        <verse osisID='Mark.12.40'>Sie essen der Witwen Häuser auf, und zum Vorwande beten sie lange; sie werden um so schwereres<note>überfließenderes</note> Gericht empfangen.</verse>
+        <verse osisID='Mark.12.41'>Und Jesus hatte Sich gegenüber dem Schatzkasten gesetzt und schaute, wie das Volk<note>Gedränge</note> Kupfergeld in den Schatzkasten warf. Und viele Reiche legten<note>warfen</note> viel ein.</verse>
+        <verse osisID='Mark.12.42'>Und es kam eine arme Witwe, die legte<note>warf</note> zwei Scherflein ein, die einen Heller machen.</verse>
+        <verse osisID='Mark.12.43'>Und Er rief Seine Jünger zu Sich und sprach zu ihnen: Wahrlich, Ich sage euch, diese arme Witwe da hat mehr als sie alle eingelegt<note>eingeworfen</note>, die da in den Schatzkasten einlegten<note>warfen</note>.</verse>
+        <verse osisID='Mark.12.44'>Denn alle legten<note>warfen</note> von ihrem Überflusse ein; sie aber hat von ihrer Notdurft alles, was sie hatte, all ihren Lebensunterhalt eingelegt<note>eingeworfen</note>..</verse>
+      </chapter>
+      <chapter osisID='Mark.13'>
+        <title>Zerstörung Jerusalems. Zukunft des Herrn.</title>
+        <verse osisID='Mark.13.1'>Und wie Er aus dem Heiligtum ausging, sprach einer Seiner Jünger zu Ihm: Lehrer, sieh! was für Steine! Und was für Gebäude!</verse>
+        <verse osisID='Mark.13.2'>Und Jesus antwortete und sprach zu ihm: Siehst<note>erblickst</note> du diese großen Gebäude? Kein Stein wird auf dem Steine gelassen, der nicht niedergerissen würde.</verse>
+        <verse osisID='Mark.13.3'>Und als Er Sich auf dem Ölberg, dem Heiligtum gegenüber niedergesetzt hatte, fragten Ihn Petrus und Jakobus, und Johannes und Andreas besonders:</verse>
+        <verse osisID='Mark.13.4'>Sag uns, wann wird das geschehen? Und was wird das Zeichen sein, daß alles das vollendet werde?</verse>
+        <verse osisID='Mark.13.5'>Jesus aber antwortete ihnen und fing an zu sagen: Sehet<note>Blicket</note> euch vor, daß niemand euch irreführe.</verse>
+        <verse osisID='Mark.13.6'>Denn viele werden kommen in Meinem Namen und sagen: Ich bin es, und werden viele irreführen.</verse>
+        <verse osisID='Mark.13.7'>Wenn ihr aber hört von Kriegen und Kriegsgerüchten, so lasset euch nicht bange werden; denn es muß geschehen; aber noch ist das Ende nicht da.</verse>
+        <verse osisID='Mark.13.8'>Denn Völkerschaft wird sich wider Völkerschaft aufmachen, und Königreich wider Königreich. Und Erdbeben werden an verschiedenen Orten geschehen und Hungersnot und Bewegungen sein. Das ist der Anfang der Wehen.</verse>
+        <verse osisID='Mark.13.9'>Ihr aber sehet<note>blicket</note> euch vor! Denn sie werden euch vor Ratsversammlungen und in den Synagogen überantworten, ihr werdet gestäupt und vor Statthalter und Könige gestellt werden um Meinetwillen, zum Zeugnis über sie.</verse>
+        <verse osisID='Mark.13.10'>Und in allen Völkerschaften muß zuerst das Evangelium gepredigt werden.</verse>
+        <verse osisID='Mark.13.11'>Wenn sie euch nun führen, euch zu überantworten, so sorget nicht voraus, was ihr reden sollet, noch sinnet nach; sondern was euch zu jener Stunde wird gegeben werden, das redet; denn nicht ihr seid es, die da reden, sondern der Heilige Geist.</verse>
+        <verse osisID='Mark.13.12'>Der Bruder aber wird den Bruder, und der Vater das Kind zum Tode überantworten, und Kinder werden wider die Eltern aufstehen und sie zum Tode bringen.</verse>
+        <verse osisID='Mark.13.13'>Ihr werdet von allen gehaßt werden um Meines Namens willen; wer aber beharrt bis ans Ende, der wird gerettet.</verse>
+        <verse osisID='Mark.13.14'>Wenn ihr aber den Greuel der Verwüstung, von dem der Prophet Daniel gesprochen, stehen sehet, da, wo er nicht sollte, - wer es liest, der merke auf - dann sollen fliehen, die in Judäa sind, auf die Berge.</verse>
+        <verse osisID='Mark.13.15'>Und wer auf dem Dache ist, steige nicht herab in das Haus, und gehe nicht hinein, etwas aus seinem Hause zu holen.</verse>
+        <verse osisID='Mark.13.16'>Und wer auf dem Felde ist, der kehre nicht hinter sich um, sein Kleid zu holen.</verse>
+        <verse osisID='Mark.13.17'>Aber wehen den Schwangeren<note>denen, die im Leibe haben</note> und Säugenden in jenen Tagen!</verse>
+        <verse osisID='Mark.13.18'>Betet aber, daß eure Flucht nicht geschehe im Winter.</verse>
+        <verse osisID='Mark.13.19'>Denn selbige Tage werden eine Trübsal sein, wie nie eine solche gewesen ist seit dem Anfang der Schöpfung, die Gott geschaffen hat, bis jetzt, und auch nicht werden wird.</verse>
+        <verse osisID='Mark.13.20'>Und hätte der Herr die Tage nicht verkürzt, so würde kein Fleisch gerettet; aber um der Auserwählten willen, die Er auserwählt hat, hat Er die Tage verkürzt.</verse>
+        <verse osisID='Mark.13.21'>Und wenn dann einer zu euch sagt: Siehe, hier ist Christus! oder: siehe, da ist Er, so glaubet nicht.</verse>
+        <verse osisID='Mark.13.22'>Denn es werden falsche Christi und falsche Propheten auftreten und Zeichen und Wunder geben, um, so es möglich wäre, selbst die Auserwählten irre zu führen.</verse>
+        <verse osisID='Mark.13.23'>Ihr aber, sehet<note>blicket</note> euch vor; siehe, Ich habe euch alles vorhergesagt.</verse>
+        <verse osisID='Mark.13.24'>Aber in selbigen Tagen nach selbiger Trübsal wird die Sonne verfinstert werden, und der Mond seinen Schein nicht geben.</verse>
+        <verse osisID='Mark.13.25'>Und die Sterne des Himmels werden herunterfallen, und die Kräfte der Himmel werden erschüttert werden.</verse>
+        <verse osisID='Mark.13.26'>Und dann werden sie sehen des Menschen Sohn kommen in den Wolken mit großer Kraft und Herrlichkeit.</verse>
+        <verse osisID='Mark.13.27'>Und dann wird Er Seine Engel senden und versammeln Seine Auserwählten von den vier Winden von dem Ende<note>Äußersten</note> der Erde bis zum Ende<note>Äußersten</note> des Himmels.</verse>
+        <verse osisID='Mark.13.28'>Von dem Feigenbaum aber lernt das Gleichnis; Wenn sein Zweig schon saftig<note>zart</note> wird, und die Blätter hervortreibt, erkennt ihr, daß der Sommer nahe ist.</verse>
+        <verse osisID='Mark.13.29'>Also auch ihr, wenn ihr seht, daß solches geschieht, erkennt, daß es nahe vor der Türe ist.</verse>
+        <verse osisID='Mark.13.30'>Wahrlich, Ich sage euch, daß dies Geschlecht nicht vergeht, bis daß dies alles geschehen wird.</verse>
+        <verse osisID='Mark.13.31'>Himmel und Erde werden vergehen, aber Meine Worte vergehen nicht.</verse>
+        <verse osisID='Mark.13.32'>Um selbigen Tag aber und um die Stunde weiß niemand, auch die Engel im Himmel nicht, noch der Sohn, sondern nur der Vater.</verse>
+        <verse osisID='Mark.13.33'>Sehet<note>blicket</note> euch vor, wachet und betet; denn ihr wisset nicht, wann die Zeit<note>bestimmte Zeit</note> ist;</verse>
+        <verse osisID='Mark.13.34'>Wie ein Mann, der über Land zog, der sein Haus verlassen, und seinen Knechten die Gewalt, einem jeglichen sein Werk gegeben hatte, und dem Türhüter geboten, daß er wachen sollte;</verse>
+        <verse osisID='Mark.13.35'>So wachet nun; denn ihr wisset nicht, wann der Herr des Hauses kommt, ob am Abend, oder um Mitternacht, oder ob um den Hahnenschrei, oder des Morgens;</verse>
+        <verse osisID='Mark.13.36'>Auf daß er nicht plötzlich komme und finde euch schlummernd.</verse>
+        <verse osisID='Mark.13.37'>Was Ich aber euch sage, das sage Ich allen: Wachet.</verse>
+      </chapter>
+      <chapter osisID='Mark.14'>
+        <title>Christus wird gesalbt, hält das Abendmahl, ringt in Gethsemane, wird gefangengenommen und von Petrus verleugnet.</title>
+        <verse osisID='Mark.14.1'>Nach zwei Tagen aber war Pascha und das Fest des Ungesäuerten<note>das Ungesäuerte</note>. Und die Hohenpriester und die Schriftgelehrten suchten, wie sie Ihn mit Trug ergriffen und töteten.</verse>
+        <verse osisID='Mark.14.2'>Sie sagten aber: Nicht am Fest, daß nicht ein Getümmel im Volk werde!</verse>
+        <verse osisID='Mark.14.3'>Und da Er in Bethanien im Hause Simons des Aussätzigen zu Tische lag, kam ein Weib, die hatte eine Alabasterbüchse mit Salbe von echter köstlicher Narde, und sie zerbrach die Alabasterbüchse und goß sie auf Sein Haupt.</verse>
+        <verse osisID='Mark.14.4'>Es waren aber etliche da, die wurden unwillig bei sich und sprachen: Wozu ist diese Verschwendung<note>Verderben</note> der Salbe geworden?</verse>
+        <verse osisID='Mark.14.5'>Diese Salbe konnte man um mehr den dreihundert Denare verkaufen und es den Armen geben; und sie ergrimmten über sie.</verse>
+        <verse osisID='Mark.14.6'>Jesus aber sprach: Lasset sie! - Was belästigt ihr<note>macht ihr Ungelegenheiten für sie</note> sie? Sie hat ein schönes Werk an Mir gewirkt.</verse>
+        <verse osisID='Mark.14.7'>Denn die Armen habt ihr allezeit bei euch, und wenn ihr wollt, könnt ihr ihnen Gutes tun; Mich aber habt ihr nicht allezeit.</verse>
+        <verse osisID='Mark.14.8'>Sie hat getan, was sie vermochte<note>hatte</note>. Sie ist zuvorgekommen, Meinen Leib zum Begräbnisse zu salben.</verse>
+        <verse osisID='Mark.14.9'>Wahrlich, Ich sage euch: Wo in aller Welt dieses Evangelium gepredigt wird, da wird man auch von dem, was sie getan, reden zu ihrem Gedächtnis.</verse>
+        <verse osisID='Mark.14.10'>Und Judas Ischariot, einer von den Zwölfen, ging hin zu den Hohenpriestern, daß er Ihn denselben überantworte.</verse>
+        <verse osisID='Mark.14.11'>Als sie aber das hörten, freuten sie sich und versprachen, ihm Silber zu geben. Und er trachtete danach, wie er Ihn mit guter Gelegenheit überantworte.</verse>
+        <verse osisID='Mark.14.12'>Und am ersten Tage des Ungesäuerten, da sie das Pascha schlachteten, sprachen Seine Jünger zu Ihm: Wo willst Du, daß wir hingehen zu bereiten, daß Du das Pasche essest?</verse>
+        <verse osisID='Mark.14.13'>Und Er sendet zwei Seiner Jünger und spricht zu ihnen: Gehet hin in die Stadt, und es wird euch ein Mensch begegnen, der einen Krug mit Wasser trägt; folget ihm nach.</verse>
+        <verse osisID='Mark.14.14'>Und wo er eingeht, da saget dem Hausherrn: Der Lehrer läßt dir sagen: Wo ist die Herberge, darin Ich das Pascha mit Meinen Jüngern esse?</verse>
+        <verse osisID='Mark.14.15'>Und der wird euch einen großen bepolsterten Obersaal zeigen, der bereit ist. Daselbst bereitet es für uns.</verse>
+        <verse osisID='Mark.14.16'>Und Seine Jünger gingen aus und kamen in die Stadt und fanden es, wie Er ihnen gesagt hatte, und bereiteten das Pascha.</verse>
+        <verse osisID='Mark.14.17'>Und als es Abend ward, kam Er mit den Zwölfen.</verse>
+        <verse osisID='Mark.14.18'>Und da sie bei Tische lagen und aßen, sprach Jesus: Wahrlich, Ich sage euch: Einer von euch, der mit Mir isset, wird Mich verraten.</verse>
+        <verse osisID='Mark.14.19'>Sie aber fingen an betrübt zu werden und einer nach dem anderen zu Ihm zu sagen: Doch nicht ich? und ein anderer: Doch nicht ich?</verse>
+        <verse osisID='Mark.14.20'>Er aber antwortete und sprach zu ihnen: Einer aus den Zwölfen, der mit Mir in die Schale eintaucht.</verse>
+        <verse osisID='Mark.14.21'>Des Menschen Sohn geht zwar hin, wie es von Ihm geschrieben steht. Aber wehe demselben Menschen, durch den des Menschen Sohn verraten wird. Es wäre selbigen Menschen besser<note>schön</note>, er wäre nicht geboren worden!</verse>
+        <verse osisID='Mark.14.22'>Und da sie aßen, nahm Jesus Brot, segnete es, brach es, und gab es ihnen und sprach: Nehmet, esset! Das ist Mein Leib;</verse>
+        <verse osisID='Mark.14.23'>Und Er nahm den Kelch, dankte und gab ihnen den, und sie tranken alle daraus.</verse>
+        <verse osisID='Mark.14.24'>Und Er sprach zu ihnen: Dies ist Mein Blut, das des neuen Bundes, das für viele vergossen wird.</verse>
+        <verse osisID='Mark.14.25'>Wahrlich, Ich sage euch: Ich werde hinfort nicht mehr von dem Gewächse des Weinstocks trinken, bis auf selbigen Tag, da Ich es neu trinke im Reiche Gottes.</verse>
+        <verse osisID='Mark.14.26'>Und nach dem Lobgesang gingen sie hinaus an den Ölberg.</verse>
+        <verse osisID='Mark.14.27'>Und Jesus spricht zu ihnen: In dieser Nacht werdet ihr euch alle an Mir ärgern; denn es ist geschrieben: Ich werde den Hirten schlagen, und die Schafe werden sich zerstreuen.</verse>
+        <verse osisID='Mark.14.28'>Aber wenn Ich auferweckt werde, will Ich euch vorangehen nach Galiläa.</verse>
+        <verse osisID='Mark.14.29'>Petrus aber sprach zu Ihm: Wenn sich auch alle ärgern werden, so doch ich nicht.</verse>
+        <verse osisID='Mark.14.30'>Und Jesus sprach zu ihm: Wahrlich, Ich sage dir: Heute in dieser Nacht, ehe denn der Hahn zweimal kräht, wirst du Mich dreimal verleugnen.</verse>
+        <verse osisID='Mark.14.31'>Er aber sprach noch darüber: Wenn ich auch mit Dir sterben müßte, so werde ich Dich doch nicht verleugnen. Desgleichen aber sprachen auch alle.</verse>
+        <verse osisID='Mark.14.32'>Und sie kommen zu dem Hofe<note>Grundstück</note>, mit Namen Gethsemane. Und Er sprach zu Seinen Jüngern: Setzet euch allda, bis Ich bete.</verse>
+        <verse osisID='Mark.14.33'>Und Er nimmt Petrus und Jakobus und Johannes mit Sich, und fing an, zu bangen und zu zagen;</verse>
+        <verse osisID='Mark.14.34'>Und Er sprach zu ihnen: Meine Seele ist tief betrübt bis in den Tod. Bleibet hier und wachet!</verse>
+        <verse osisID='Mark.14.35'>Und Er ging ein wenig vor, fiel auf die Erde und betete, daß, so es möglich wäre, die Stunde von Ihm vorüberginge.</verse>
+        <verse osisID='Mark.14.36'>Und Er sprach: Abba, Vater. Alles ist Dir möglich, nimm diesen Kelch hinweg von Mir; doch nicht was Ich will, sondern was Du.</verse>
+        <verse osisID='Mark.14.37'>Und Er kommt und findet sie schlummernd und spricht zu Petrus: Simon, schlummerst du? Vermochtest du nicht eine Stunde zu wachen?</verse>
+        <verse osisID='Mark.14.38'>Wachet und betet, daß ihr nicht in Versuchung eingehet; der Geist zwar ist willig, aber das Fleisch ist schwach.</verse>
+        <verse osisID='Mark.14.39'>Und Er ging wieder hin, betete und sprach dieselben Worte.</verse>
+        <verse osisID='Mark.14.40'>Und Er kehrte zurück und fand sie abermals schlummernd; denn ihr Augen waren beschwert, und sie wußten nicht, was sie Ihm antworten sollten.</verse>
+        <verse osisID='Mark.14.41'>Und Er kommt zum dritten Mal und spricht zu ihnen: Schlummert nun ferner und ruhet euch aus! - Es ist dahin! Die Stunde ist gekommen. Siehe, des Menschen Sohn wird in die Hände der Sünder überantwortet.</verse>
+        <verse osisID='Mark.14.42'>Macht euch auf, laßt uns gehen! Siehe, der Mich verrät, hat sich genaht!</verse>
+        <verse osisID='Mark.14.43'>Und alsbald während Er noch redete, trat herzu Judas, einer von den Zwölfen, und viel Gedränge mit ihm mit Schwertern und Knitteln, von den Hohenpriestern und den Schriftgelehrten und den Ältesten.</verse>
+        <verse osisID='Mark.14.44'>Der Verräter aber hatte ihnen ein Merkzeichen gegeben und gesagt: Welchen ich küssen werde, Der ist es, ergreifet und führet Ihn sicher weg.</verse>
+        <verse osisID='Mark.14.45'>Und da er kam, kam er alsbald heran, zu Ihm und sprach: Rabbi, Rabbi, und küßte Ihn.</verse>
+        <verse osisID='Mark.14.46'>Sie aber legten ihre Hände an Ihn und ergriffen Ihn.</verse>
+        <verse osisID='Mark.14.47'>Einer aber derer, die dabei standen, zog das Schwert, und schlug nach dem Knecht des Hohenpriesters und hieb ihm das Ohr ab.</verse>
+        <verse osisID='Mark.14.48'>Und Jesus hob an<note>antwortete</note> und sprach zu ihnen: Wie gegen einen Räuber seid ihr ausgezogen mit Schwertern und mit Knitteln, Mich gefangenzunehmen.</verse>
+        <verse osisID='Mark.14.49'>Täglich war Ich bei euch im Heiligtum und lehrte, und ihr ergriffet Mich nicht; aber - auf daß die Schriften erfüllet werden!</verse>
+        <verse osisID='Mark.14.50'>Und sie verließen Ihn alle und flohen.</verse>
+        <verse osisID='Mark.14.51'>Und ein gewisser Jüngling folgte Ihm nach, der hatte eine Leinwand auf den bloßen Leibe<note>auf den Bloßen</note> umgeworfen, und die Jünglinge ergriffen ihn.</verse>
+        <verse osisID='Mark.14.52'>Der aber ließ die Leinwand zurück und entfloh ihnen nackt.</verse>
+        <verse osisID='Mark.14.53'>Und sie führten Jesus weg zu dem Hohenpriester, und alle die Hohenpriester und die Ältesten und die Schriftgelehrten kamen bei ihm zusammen.</verse>
+        <verse osisID='Mark.14.54'>Und Petrus folgte Ihm nach von weitem, bis hinein in den Hof des Hohenpriesters, und er saß bei den Amtsdienern und wärmte sich bei dem Licht.</verse>
+        <verse osisID='Mark.14.55'>Die Hohenpriester aber und der ganze Rat suchten Zeugnis wider Jesus, auf daß sie Ihn zum Tode brächten, fanden aber keines.</verse>
+        <verse osisID='Mark.14.56'>Denn viele gaben falsches Zeugnis wider Ihn; aber die Zeugnisse waren nicht gleich.</verse>
+        <verse osisID='Mark.14.57'>Und einige standen auf und gaben falsch Zeugnis wider Ihn und sprachen:</verse>
+        <verse osisID='Mark.14.58'>Wir hörten Ihn sagen: Ich will diesen mit Händen gemachten Tempel niederreißen und binnen drei Tagen einen anderen bauen, nicht mit Händen gemacht.</verse>
+        <verse osisID='Mark.14.59'>Aber auch so war ihr Zeugnis nicht gleich.</verse>
+        <verse osisID='Mark.14.60'>Und der Hohepriester stand in ihrer Mitte auf, fragte Jesus und sprach: Antwortest Du nichts auf das, was diese wider Dich zeugen?</verse>
+        <verse osisID='Mark.14.61'>Er aber schwieg stille und antwortete nicht. Wieder fragte Ihn der Hohepriester und sprach zu Ihm: Bist du Christus, der Sohn des Gesegneten?</verse>
+        <verse osisID='Mark.14.62'>Jesus aber sprach: Ich bin. Und ihr werdet sehen des Menschen Sohn sitzen zur Rechten der Kraft und kommen mit des Himmels Wolken.</verse>
+        <verse osisID='Mark.14.63'>Der Hohepriester aber zerriß seine Röcke und sprach: Was bedürfen wir noch Zeugen?</verse>
+        <verse osisID='Mark.14.64'>Ihr habt die Lästerung gehört. Wie scheint es euch? Sie aber verurteilten Ihn alle, daß Er dem Tode verfallen wäre.</verse>
+        <verse osisID='Mark.14.65'>Und es fingen einige an, Ihn anzuspeien, und Ihm das Angesicht zu umhüllen, und Ihn mit Fäusten zu schlagen und zu Ihm zu sagen: Weissage. Und die Amtsdiener gaben<note>warfen</note> Ihm Backenstreiche.</verse>
+        <verse osisID='Mark.14.66'>Und während Petrus unten in dem Hofe war, kam eine der Mägde des Hohenpriesters.</verse>
+        <verse osisID='Mark.14.67'>Und da sie den Petrus sich wärmen sah, blickte sie ihn an und sprach: Auch du warst mit Jesus dem Nazarener.</verse>
+        <verse osisID='Mark.14.68'>Er aber leugnete und sprach: Ich weiß nicht und verstehe nicht, was du sagst; und ging hinaus in den Vorhof, und ein Hahn krähte.</verse>
+        <verse osisID='Mark.14.69'>Und die Magd sah ihn wiederum und fing an und sprach zu den Dabeistehenden: Dieser ist von ihnen.</verse>
+        <verse osisID='Mark.14.70'>Er aber leugnete abermals; und nach einer kleinen Weile sprachen abermals die Dabeistehenden zu Petrus: Wahrhaftig, du bist von ihnen; du bist ja ein Galiläer, und deine Sprache lautet so<note>ähnelt</note>.</verse>
+        <verse osisID='Mark.14.71'>Er aber fing an, sich zu verwünschen und zu schwören: Ich kenne diesen Menschen nicht, von Welchem ihr sprechet.</verse>
+        <verse osisID='Mark.14.72'>Und der Hahn krähte zum zweiten Mal. Und Petrus gedachte der Rede, die Jesus zu ihm sprach: Ehe der Hahn zum zweiten Mal kräht, wirst du Mich drei Mal verleugnen; und er hob an zu weinen<note>warf über sich und weinte</note>.</verse>
+      </chapter>
+      <chapter osisID='Mark.15'>
+        <title>Christi Kreuzigung und Begräbnis.</title>
+        <verse osisID='Mark.15.1'>Und alsbald am Morgen hielten<note>machten</note> die Hohenpriester mit den Ältesten und den Schriftgelehrten und dem ganzen Rate<note>Synedrium</note> eine Beratung, banden Jesus, führten Ihn ab und überantworteten Ihn dem Pilatus.</verse>
+        <verse osisID='Mark.15.2'>Und Pilatus fragte Ihn: Bist Du der Juden König? Er aber antwortete und sprach zu ihm: Du sagst es.</verse>
+        <verse osisID='Mark.15.3'>Und die Hohenpriester klagten Ihn über vieles an.</verse>
+        <verse osisID='Mark.15.4'>Pilatus aber fragte Ihn wieder und sagte: Antwortest Du nicht? Siehe, wie vieler Dinge sie Dich anklagen.</verse>
+        <verse osisID='Mark.15.5'>Jesus aber antwortete nicht mehr, so daß sich Pilatus verwunderte.</verse>
+        <verse osisID='Mark.15.6'>Auf das Fest aber gab er ihnen einen Gefangenen<note>Gebundenen</note> los, um welchen sie ihn baten.</verse>
+        <verse osisID='Mark.15.7'>Es war aber einer, genannt Barabbas, mit den Aufrührern gebunden, die bei dem Aufruhr einen Mord begangen hatten.</verse>
+        <verse osisID='Mark.15.8'>Und das Volk zog hinauf und fing an ihn zu bitten, daß er ihnen täte, wie immer.</verse>
+        <verse osisID='Mark.15.9'>Pilatus aber antwortete ihnen und sprach: Wollet ihr, daß ich euch den König der Juden losgebe?</verse>
+        <verse osisID='Mark.15.10'>Denn er erkannte, daß die Hohenpriester Ihn aus Neid überantwortet hatten.</verse>
+        <verse osisID='Mark.15.11'>Aber die Hohenpriester wiegelten das Gedränge auf, daß er ihnen eher Barabbas losgäbe.</verse>
+        <verse osisID='Mark.15.12'>Pilatus aber antwortete und sprach wiederum zu ihnen: Was wollet ihr denn, daß ich mit Dem tue, Den ihr den König der Juden nennt?</verse>
+        <verse osisID='Mark.15.13'>Sie aber schrien wieder: Kreuzige Ihn!</verse>
+        <verse osisID='Mark.15.14'>Pilatus aber sprach zu ihnen: Was hat Er denn Böses getan? Sie aber schrien noch mehr: Kreuzige Ihn!</verse>
+        <verse osisID='Mark.15.15'>Pilatus aber war willens, dem Gedränge ein Genüge zu tun, und gab ihnen Barabbas los und überantwortete Jesus, nachdem er Ihn gegeißelt, daß Er gekreuzigt würde.</verse>
+        <verse osisID='Mark.15.16'>Die Kriegsknechte aber führten Ihn ab, hinein in den Hof, der das Prätorium ist, und riefen die ganze Kohorte zusammen.</verse>
+        <verse osisID='Mark.15.17'>Und sie zogen Ihm einen Purpur an, und flochten eine Dornenkrone und setzten sie Ihm auf;</verse>
+        <verse osisID='Mark.15.18'>Und fingen an, Ihn zu grüßen: Gegrüßet seist Du, König der Juden!</verse>
+        <verse osisID='Mark.15.19'>Und schlugen Ihn mit einem Rohr auf das Haupt, und spieen Ihn an, und fielen<note>setzten</note> auf die Knie und beteten Ihn an.</verse>
+        <verse osisID='Mark.15.20'>Und da sie Ihn verspottet hatten, zogen sie Ihm den Purpur aus, und zogen Ihm Seine eigenen Kleider an, und führten Ihn hinaus, daß sie Ihn kreuzigten.</verse>
+        <verse osisID='Mark.15.21'>Und sie nötigten einen, Simon von Kyrene, den Vater des Alexander und Rufus, der vorüberging und vom Felde kam, daß er Ihm das Kreuz trüge.</verse>
+        <verse osisID='Mark.15.22'>Und sie führten Ihn auf die Stätte<note>den Ort</note> Golgatha, das ist verdolmetscht Schädelstätte<note>Schädelort</note>.</verse>
+        <verse osisID='Mark.15.23'>Und sie gaben Ihm Myrrhenwein zu trinken, Er aber nahm ihn nicht.</verse>
+        <verse osisID='Mark.15.24'>Und da sie Ihn gekreuzigt hatten, zerteilten sie Seine Kleider, indem sie das Los über sie warfen, wer etwas nehmen solle.</verse>
+        <verse osisID='Mark.15.25'>Es war aber die dritte Stunde, und sie kreuzigten Ihn.</verse>
+        <verse osisID='Mark.15.26'>Und über Ihm war geschrieben die Überschrift von dem, wessen man Ihm Schuld gab: Der König der Juden.</verse>
+        <verse osisID='Mark.15.27'>Und mit Ihm kreuzigten sie zwei Räuber, einen zur Rechten, und einen Ihm zur Linken.</verse>
+        <verse osisID='Mark.15.28'>Und die Schrift ward erfüllt, die da sagt: Er ward unter die Missetäter<note>Gesetzlose</note> gerechnet.</verse>
+        <verse osisID='Mark.15.29'>Und die da vorübergingen, lästerten Ihn, schüttelten ihre Köpfe und sagten: Ei, Du, Der Du den Tempel niedereißest und in drei Tagen bauest,</verse>
+        <verse osisID='Mark.15.30'>Rette Dich nun Selber und steige herab vom Kreuz!</verse>
+        <verse osisID='Mark.15.31'>Desgleichen spotteten auch die Hohenpriester untereinander mit den Schriftgelehrten und sagten: Er hat anderen geholfen, Sich Selber kann Er nicht helfen.</verse>
+        <verse osisID='Mark.15.32'>Der Christus, der König von Israel! Er steige jetzt herab von dem Kreuz, auf daß wir es sehen und glauben! Auch die mit Ihm Gekreuzigten schmähten Ihn.</verse>
+        <verse osisID='Mark.15.33'>Da es aber die sechste Stunde geworden, ward eine Finsternis über das ganze Land bis zur neunten Stunde.</verse>
+        <verse osisID='Mark.15.34'>Und um die neunte Stunde schrie Jesus mit großer Stimme und sprach: Elohi, Elohi, lammah sabachthani!<note>d.i. verdolmetscht: Mein Gott, Mein Gott, warum hast Du Mich verlassen?</note></verse>
+        <verse osisID='Mark.15.35'>Und etliche der Dabeistehenden, die dies hörten, sprachen: Siehe, Er ruft dem Elias!</verse>
+        <verse osisID='Mark.15.36'>Einer aber lief und füllte einen Schwamm mit Essig, legte ihn um ein Rohr, tränkte Ihn, und sagte: Lasset mich, wir wollen sehen, ob Elias kommt, Ihn herbzunehmen!</verse>
+        <verse osisID='Mark.15.37'>Jesus aber schrie<note>ließ eine große Stimme `Schrei'</note> mit großer Stimme und hauchte aus.</verse>
+        <verse osisID='Mark.15.38'>Und der Vorhang des Tempels riß entzwei<note>spaltete sich</note> von oben bis unten.</verse>
+        <verse osisID='Mark.15.39'>Der Hauptmann aber, der dabeistand, Ihm gegenüber, sprach, als Er mit solchem Schrei verschied<note>endete</note>: Wahrhaftig, dieser Mensch war Gottes Sohn!</verse>
+        <verse osisID='Mark.15.40'>Es waren aber auch Weiber da, die von ferne zuschauten, unter denen war Maria von Magdala, und Maria, des jüngeren Jakobus und des Joses Mutter, und Salome;</verse>
+        <verse osisID='Mark.15.41'>Die Ihm auch, da Er in Galiläa war, nachfolgten und Ihm dienten, und viele andere, die mit Ihm herauf nach Jerusalem gekommen waren.</verse>
+        <verse osisID='Mark.15.42'>Und da es schon Abend ward<note>es war nämlich Rüsttag, d.i. Vorsabbath</note>,</verse>
+        <verse osisID='Mark.15.43'>Kam Joseph von Arimathäa, ein angesehener Ratsherr, der auch selbst auf das Reich Gottes wartete; der wagte es und ging hinein zu Pilatus und bat um den Leib Jesu.</verse>
+        <verse osisID='Mark.15.44'>Pilatus aber wunderte sich, daß Er schon gestorben<note>endete</note> wäre, und rief den Hauptmann zu sich und fragte ihn, ob Er schon eine Zeit lang<note>längst</note> gestorben wäre.</verse>
+        <verse osisID='Mark.15.45'>Und da er es vom Hauptmann erfahren, schenkte er Joseph den Leib.</verse>
+        <verse osisID='Mark.15.46'>Und er kaufte eine Leinwand, und nahm Ihn herab, wickelte Ihn in die Leinwand, und legte Ihn in eine Gruft, die aus einem Felsen gehauen war, und wälzte einen Stein auf die Tür der Gruft.</verse>
+        <verse osisID='Mark.15.47'>Aber Maria von Magdala und Maria, des Joses Mutter<note>Mutter steht nicht im Griech.</note>, schauten, wo Er hingelegt wurde.</verse>
+      </chapter>
+      <chapter osisID='Mark.16'>
+        <title>Jesu Auferstehung und Himmelfahrt.</title>
+        <verse osisID='Mark.16.1'>Und als der Sabbath vorüber war, kauften Maria von Magdala und Maria, die Mutter<note>Mutter steht nicht im Griech.</note> des Jakobus, und Salome Spezereien, auf daß sie kämen und Ihn salbten.</verse>
+        <verse osisID='Mark.16.2'>Und sehr früh, am ersten Tage nach dem Sabbath<note>am ersten der Sabbathe</note>, kamen sie zur Gruft, da die Sonne aufging.</verse>
+        <verse osisID='Mark.16.3'>Und sprachen untereinander: Wer wird uns den Stein von der Türe der Gruft wälzen?</verse>
+        <verse osisID='Mark.16.4'>Wie sie aber aufblickten, erschauen sie, daß der Stein schon weggewälzt war; denn er war sehr groß.</verse>
+        <verse osisID='Mark.16.5'>Und wie sie in die Gruft hineinkamen, sahen sie einen Jüngling zur Rechten sitzen, der war mit einem weißen Gewande angetan, und sie wurden bestürzt.</verse>
+        <verse osisID='Mark.16.6'>Er aber sprach zu ihnen: Seid nicht bestürzt! Ihr suchet Jesus, den Nazarener, den Gekreuzigten. Er ist auferweckt! Er ist nicht hier! Siehe den Ort, da sie Ihn hinlegten.</verse>
+        <verse osisID='Mark.16.7'>Gehet aber hin und sagt es Seinen Jüngern und Petrus, daß Er euch vorangeht nach Galiläa. Dort werdet ihr Ihn sehen, wie Er euch gesagt hat.</verse>
+        <verse osisID='Mark.16.8'>Und sie gingen schnell hinaus und flohen aus der Gruft; es war sie aber ein Zittern und Entsetzen angekommen, und sie sagten niemand etwas; denn sie fürchteten sich.</verse>
+        <verse osisID='Mark.16.9'>Da Er aber am Morgen am ersten des Sabbaths war auferstanden, erschien Er zuerst der Maria von Magdala, von der Er sieben Dämonen ausgetrieben hatte.</verse>
+        <verse osisID='Mark.16.10'>Sie ging und sagte es denen an, die mit Ihm gewesen waren; die trauerten und weinten.</verse>
+        <verse osisID='Mark.16.11'>Und selbige, da sie hörten, daß Er lebe und von ihr gesehen<note>angesehen</note> worden sei, glaubten nicht.</verse>
+        <verse osisID='Mark.16.12'>Danach aber offenbarte Er Sich zweien von ihnen unter anderer Gestalt, da sie wandelten und über Feld gingen.</verse>
+        <verse osisID='Mark.16.13'>Und selbige gingen hin und sagten es den übrigen an; auch ihnen glaubten sie nicht.</verse>
+        <verse osisID='Mark.16.14'>Danach, als die Elf zu Tische lagen, offenbarte Er Sich und schalt ihren Unglauben und ihre Herzenshärtigkeit, daß sie denen, die Ihn auferweckt gesehen<note>angesehen</note>, nicht geglaubt hätten.</verse>
+        <verse osisID='Mark.16.15'>Und Er sprach zu ihnen: Gehet hin in alle Welt und predigt das Evangelium aller Kreatur.</verse>
+        <verse osisID='Mark.16.16'>Wer da glaubt und getauft wird, der wird gerettet werden, wer aber nicht geglaubt hat, der wird verdammt werden.</verse>
+        <verse osisID='Mark.16.17'>Denen aber, die da glauben, werden diese Zeichen folgen: Sie werden in Meinem Namen Dämonen austreiben, mit neuen Zungen reden,</verse>
+        <verse osisID='Mark.16.18'>Schlangen aufheben, und wenn sie etwas Tödliches trinken, wird es ihnen nicht schaden; auf die Siechen werden sie die Hände auflegen, so werden sie gesund<note>wohl</note> werden.</verse>
+        <verse osisID='Mark.16.19'>Der Herr aber, nachdem Er zu ihnen geredet hatte, ward aufgehoben in den Himmel und sitzet zur Rechten Gottes.</verse>
+        <verse osisID='Mark.16.20'>Jene aber gingen aus und predigten aller Orten, und der Herr wirkte mit ihnen und bekräftigte das Wort durch die darauffolgenden Zeichen.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

@@ -1,0 +1,1231 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd'>
+  <osisText osisRefWork='Bible' osisIDWork='hun' xml:lang='hu'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='hun'>
+        <title>Hungarian Version</title>
+        <contributor>
+  		The Unbound Bible
+  		Biola University: Administrative Computing
+  		13800 Biola Ave.
+  		La Mirada, CA 90639
+  		United States of America
+  		562-903-4722 
+  	</contributor>
+        <creator/>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject>The Holy Bible</subject>
+        <date>2009-01-20</date>
+        <description/>
+        <publisher>Free Bible Software Group</publisher>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>hun</identifier>
+        <source>ftp://unboundftp.biola.edu/pub/hungarian_utf8.zip</source>
+        <language type='IETF'>hu</language>
+        <relation/>
+        <coverage>provide the bible to the world</coverage>
+        <rights/>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Matt'>
+      <chapter osisID='Matt.1'>
+        <verse osisID='Matt.1.1'> Jézus Krisztusnak, Dávid fiának, Ábrahám fiának nemzetségérõl való könyv.</verse>
+        <verse osisID='Matt.1.2'> Ábrahám nemzé Izsákot; Izsák nemzé Jákóbot; Jákób nemzé Júdát és testvéreit;</verse>
+        <verse osisID='Matt.1.3'> Júda nemzé Fárest és Zárát Támártól; Fáres nemzé Esromot; Esrom nemzé Arámot;</verse>
+        <verse osisID='Matt.1.4'> Arám nemzé Aminádábot; Aminádáb nemzé Naássont; Naásson nemzé Sálmónt;</verse>
+        <verse osisID='Matt.1.5'> Sálmón nemzé Boázt Ráhábtól; Boáz nemzé Obedet Ruthtól; Obed nemzé Isait;</verse>
+        <verse osisID='Matt.1.6'> Isai nemzé Dávid királyt; Dávid király nemzé Salamont az Uriás feleségétõl;</verse>
+        <verse osisID='Matt.1.7'> Salamon nemzé Roboámot; Roboám nemzé Abiját; Abija nemzé Asát;</verse>
+        <verse osisID='Matt.1.8'> Asa nemzé Josafátot; Josafát nemzé Jórámot; Jórám nemzé Uzziást;</verse>
+        <verse osisID='Matt.1.9'> Uzziás nemzé Jóathámot; Joathám nemzé Ákházt; Ákház nemzé Ezékiást;</verse>
+        <verse osisID='Matt.1.10'> Ezékiás nemzé Manassét; Manassé nemzé Ámont; Ámon nemzé Jósiást;</verse>
+        <verse osisID='Matt.1.11'> Jósiás nemzé Jekoniást és testvéreit a babilóni fogságra vitelkor.</verse>
+        <verse osisID='Matt.1.12'> A babilóni fogságravitel után pedig Jekoniás nemzé Saláthielt; Saláthiel nemzé Zorobábelt;</verse>
+        <verse osisID='Matt.1.13'> Zorobábel nemzé Abiudot; Abiud nemzé Eliákimot; Eliákim nemzé Azort;</verse>
+        <verse osisID='Matt.1.14'> Azor nemzé Sádokot; Sádok nemzé Akimot; Akim nemzé Eliudot;</verse>
+        <verse osisID='Matt.1.15'> Eliud nemzé Eleázárt; Eleázár nemzé Matthánt; Matthán nemzé Jákóbot;</verse>
+        <verse osisID='Matt.1.16'> Jákób nemzé Józsefet, férjét Máriának, a kitõl született Jézus, a ki Krisztusnak neveztetik.</verse>
+        <verse osisID='Matt.1.17'> Az összes nemzetség tehát Ábrahámtól Dávidig tizennégy nemzetség, és Dávidtól a babilóni fogságravitelig tizennégy nemzetség, és a babilóni fogságraviteltõl Krisztusig tizennégy nemzetség.</verse>
+        <verse osisID='Matt.1.18'> A Jézus Krisztus születése pedig így vala: Mária, az õ anyja, eljegyeztetvén Józsefnek, mielõtt egybekeltek volna, viselõsnek találtaték a Szent Lélektõl.</verse>
+        <verse osisID='Matt.1.19'> József pedig, az õ férje, mivelhogy igaz ember vala és nem akará õt gyalázatba keverni, el akarta õt titkon bocsátani.</verse>
+        <verse osisID='Matt.1.20'> Mikor pedig ezeket magában elgondolta: ímé az Úrnak angyala álomban megjelenék néki, mondván: József, Dávidnak fia, ne félj magadhoz venni Máriát, a te feleségedet, mert a mi benne fogantatott, a Szent Lélektõl van az.</verse>
+        <verse osisID='Matt.1.21'> Szûl pedig fiat, és nevezd annak nevét Jézusnak, mert õ szabadítja meg az õ népét annak bûneibõl.</verse>
+        <verse osisID='Matt.1.22'> Mindez pedig azért lõn, hogy beteljesedjék, a mit az Úr mondott volt a próféta által, a ki így szól:</verse>
+        <verse osisID='Matt.1.23'> Ímé a szûz fogan méhében és szûl fiat, és annak nevét Immanuelnek nevezik, a mi azt jelenti: Velünk az Isten.</verse>
+        <verse osisID='Matt.1.24'> József pedig az álomból felserkenvén, úgy tõn, a mint az Úr angyala parancsolta vala néki, és feleségét magához vevé.</verse>
+        <verse osisID='Matt.1.25'> És nem ismeré õt, míg meg nem szülé az õ elsõszülött fiát; és nevezé annak nevét Jézusnak.</verse>
+      </chapter>
+      <chapter osisID='Matt.2'>
+        <verse osisID='Matt.2.1'> A mikor pedig megszületik vala Jézus a júdeai Bethlehemben, Heródes király idejében, ímé napkeletrõl bölcsek jövének Jeruzsálembe, ezt mondván:</verse>
+        <verse osisID='Matt.2.2'> Hol van a zsidók királya, a ki megszületett? Mert láttuk az õ csillagát napkeleten, és azért jövénk, hogy tisztességet tegyünk néki.</verse>
+        <verse osisID='Matt.2.3'> Heródes király pedig ezt hallván, megháborodék, és vele együtt az egész Jeruzsálem.</verse>
+        <verse osisID='Matt.2.4'> És egybegyûjtve minden fõpapot és a nép írástudóit, tudakozódik vala tõlük, hol kell a Krisztusnak megszületnie?</verse>
+        <verse osisID='Matt.2.5'> Azok pedig mondának néki: A júdeai Bethlehemben; mert így írta vala meg a próféta:</verse>
+        <verse osisID='Matt.2.6'> És te Bethlehem, Júdának földje, semmiképen sem vagy legkisebb Júda fejedelmi városai között: mert belõled származik a fejedelem, a ki legeltetni fogja az én népemet, az Izráelt.</verse>
+        <verse osisID='Matt.2.7'> Ekkor Heródes titkon hivatván a bölcseket, szorgalmatosan megtudakolá tõlük a csillag megjelenésének idejét.</verse>
+        <verse osisID='Matt.2.8'> És elküldvén õket Bethlehembe, monda nékik: Elmenvén, szorgalmatosan kérdezõsködjetek a gyermek felõl, mihelyt pedig megtaláljátok, adjátok tudtomra, hogy én is elmenjek és tisztességet tegyek néki.</verse>
+        <verse osisID='Matt.2.9'> Õk pedig a király beszédét meghallván, elindulának. És ímé a csillag, a melyet napkeleten láttak, elõttük megy vala mind addig, a míg odaérvén, megálla a hely fölött, a hol a gyermek vala.</verse>
+        <verse osisID='Matt.2.10'> És mikor meglátták a csillagot, igen nagy örömmel örvendezének.</verse>
+        <verse osisID='Matt.2.11'> És bemenvén a házba, ott találák a gyermeket anyjával, Máriával; és leborulván, tisztességet tõnek néki; és kincseiket kitárván, ajándékokat adának néki: aranyat, tömjént és mirhát.</verse>
+        <verse osisID='Matt.2.12'> És mivel álomban meginttettek, hogy Heródeshez vissza ne menjenek, más úton térének vissza hazájokba.</verse>
+        <verse osisID='Matt.2.13'> Mikor pedig azok visszatérnek vala, ímé megjelenék az Úrnak angyala Józsefnek álomban, és monda: Kelj fel, vedd a gyermeket és annak anyját, és fuss Égyiptomba, és maradj ott, a míg én mondom néked; mert Heródes halálra fogja keresni a gyermeket.</verse>
+        <verse osisID='Matt.2.14'> Õ pedig fölkelvén, vevé a gyermeket és annak anyját éjjel, és Égyiptomba távozék.</verse>
+        <verse osisID='Matt.2.15'> És ott vala egész a Heródes haláláig, hogy beteljesedjék, a mit az Úr mondott a próféta által, a ki így szólt: Égyiptomból hívtam ki az én fiamat.</verse>
+        <verse osisID='Matt.2.16'> Ekkor Heródes látván, hogy a bölcsek megcsúfolták õt, szerfölött felháborodék, és kiküldvén, megölete Bethlehemben és annak egész környékén minden gyermeket, két esztendõstõl és azon alól, az idõ szerint, a melyet szorgalmasan tudakolt a bölcsektõl.</verse>
+        <verse osisID='Matt.2.17'> Ekkor teljesedék be, a mit Jeremiás próféta mondott, a midõn így szólt:</verse>
+        <verse osisID='Matt.2.18'> Szó hallatszott Rámában: Sírás-rívás és sok keserves jajgatás. Rákhel siratta az õ fiait és nem akart megvigasztaltatni, mert nincsenek.</verse>
+        <verse osisID='Matt.2.19'> Mikor pedig Heródes meghalt, ímé az Úrnak angyala megjelenék álomban Józsefnek Égyiptomban.</verse>
+        <verse osisID='Matt.2.20'> Mondván: Kelj fel, vedd a gyermeket és annak anyját, és eredj az Izráel földére; mert meghaltak, a kik a gyermeket halálra keresik vala.</verse>
+        <verse osisID='Matt.2.21'> Õ pedig felkelvén, magához vevé a gyermeket és annak anyját, és elméne Izráel földére.</verse>
+        <verse osisID='Matt.2.22'> Mikor pedig hallá, hogy Júdeában Arkhelaus uralkodik, Heródesnek, az õ atyjának helyén, nem mert vala oda menni, hanem minthogy álomban meginteték, Galilea vidékeire tére.</verse>
+        <verse osisID='Matt.2.23'> És oda jutván, lakozék Názáret nevû városban, hogy beteljesedjék, a mit a próféták mondottak, hogy názáretinek fog neveztetni.</verse>
+      </chapter>
+      <chapter osisID='Matt.3'>
+        <verse osisID='Matt.3.1'> Azokban a napokban pedig eljöve Keresztelõ János, a ki prédikál vala Júdea pusztájában.</verse>
+        <verse osisID='Matt.3.2'> És ezt mondja vala: Térjetek meg, mert elközelített a mennyeknek országa.</verse>
+        <verse osisID='Matt.3.3'> Mert ez az, a kirõl Ésaiás próféta szólott, ezt mondván: Kiáltó szó a pusztában: Készítsétek az Úrnak útját, és egyengessétek meg az õ ösvényeit.</verse>
+        <verse osisID='Matt.3.4'> Ennek a Jánosnak a ruhája pedig teveszõrbõl vala, és bõröv vala a dereka körül, elesége pedig sáska és erdei méz.</verse>
+        <verse osisID='Matt.3.5'> Ekkor kiméne õ hozzá Jeruzsálem és az egész Júdea és a Jordánnak egész környéke.</verse>
+        <verse osisID='Matt.3.6'> És megkeresztelkednek vala õ általa a Jordán vizében, vallást tevén az õ bûneikrõl.</verse>
+        <verse osisID='Matt.3.7'> Mikor pedig látá, hogy a farizeusok és sadduceusok közül sokan mennek õ hozzá, hogy megkeresztelkedjenek, monda nékik: Mérges kígyóknak fajzatai! Kicsoda intett meg titeket, hogy az Istennek elkövetkezendõ haragjától megmeneküljetek?</verse>
+        <verse osisID='Matt.3.8'> Teremjetek hát megtéréshez illõ gyümölcsöket.</verse>
+        <verse osisID='Matt.3.9'> És ne gondoljátok, hogy így szólhattok magatokban: Ábrahám a mi atyánk! Mert mondom néktek, hogy Isten eme kövekbõl is támaszthat fiakat Ábrahámnak.</verse>
+        <verse osisID='Matt.3.10'> A fejsze pedig immár a fák gyökerére vettetett. Azért minden fa, a mely jó gyümölcsöt nem terem, kivágattatik és tûzre vettetik.</verse>
+        <verse osisID='Matt.3.11'> Én ugyan vízzel keresztellek titeket megtérésre, de a ki utánam jõ, erõsebb nálamnál, a kinek saruját hordozni sem vagyok méltó; õ Szent Lélekkel és tûzzel keresztel majd titeket.</verse>
+        <verse osisID='Matt.3.12'> A kinek szóró lapát van az õ kezében, és megtisztítja az õ szérûjét; és az õ gabonáját csûrbe takarítja, a polyvát pedig megégeti olthatatlan tûzzel.</verse>
+        <verse osisID='Matt.3.13'> Akkor eljöve Jézus Galileából a Jordán mellé Jánoshoz, hogy megkeresztelkedjék õ általa.</verse>
+        <verse osisID='Matt.3.14'> János azonban visszatartja vala õt, mondván: Nékem kell általad megkeresztelkednem, és te jõsz én hozzám?</verse>
+        <verse osisID='Matt.3.15'> Jézus pedig felelvén, monda néki: Engedj most, mert így illik nékünk minden igazságot betöltenünk. Ekkor engede néki.</verse>
+        <verse osisID='Matt.3.16'> És Jézus megkeresztelkedvén, azonnal kijöve a vízbõl; és ímé az egek megnyilatkozának néki, és õ látá az Istennek Lelkét alájõni mintegy galambot és õ reá szállani.</verse>
+        <verse osisID='Matt.3.17'> És ímé egy égi hang ezt mondja vala: Ez amaz én szerelmes fiam, a kiben én gyönyörködöm.</verse>
+      </chapter>
+      <chapter osisID='Matt.4'>
+        <verse osisID='Matt.4.1'> Akkor Jézus viteték a Lélektõl a pusztába, hogy megkisértessék az ördögtõl.</verse>
+        <verse osisID='Matt.4.2'> És mikor negyven nap és negyven éjjel bõjtölt vala, végre megéhezék.</verse>
+        <verse osisID='Matt.4.3'> És hozzámenvén a kisértõ, monda néki: Ha Isten fia vagy, mondd, hogy e kövek változzanak kenyerekké.</verse>
+        <verse osisID='Matt.4.4'> Õ pedig felelvén, monda: Meg van írva: Nemcsak kenyérrel él az ember, hanem minden ígével, a mely Istennek szájából származik.</verse>
+        <verse osisID='Matt.4.5'> Ekkor vivé õt az ördög a szent városba, és odahelyezé a templom tetejére.</verse>
+        <verse osisID='Matt.4.6'> És monda néki: Ha Isten fia vagy, vesd alá magadat; mert meg van írva: Az õ angyalainak parancsol felõled, és kézen hordoznak téged, hogy meg ne üsd lábadat a kõbe.</verse>
+        <verse osisID='Matt.4.7'> Monda néki Jézus: Viszont meg van írva: Ne kisértsd az Urat, a te Istenedet.</verse>
+        <verse osisID='Matt.4.8'> Ismét vivé õt az ördög egy igen magas hegyre, és megmutatá néki a világ minden országát és azok dicsõségét,</verse>
+        <verse osisID='Matt.4.9'> És monda néki: Mindezeket néked adom, ha leborulva imádsz engem.</verse>
+        <verse osisID='Matt.4.10'> Ekkor monda néki Jézus: Eredj el Sátán, mert meg van írva: Az Urat, a te Istenedet imádd, és csak néki szolgálj.</verse>
+        <verse osisID='Matt.4.11'> Ekkor elhagyá õt az ördög. És ímé angyalok jövének hozzá és szolgálnak vala néki.</verse>
+        <verse osisID='Matt.4.12'> Mikor pedig meghallotta Jézus, hogy János börtönbe vettetett, visszatére Galileába;</verse>
+        <verse osisID='Matt.4.13'> És odahagyva Názáretet, elméne és lakozék a tengerparti Kapernaumban, a Zebulon és Naftali határain;</verse>
+        <verse osisID='Matt.4.14'> Hogy beteljesedjék, a mit Ésaiás próféta mondott, így szólván:</verse>
+        <verse osisID='Matt.4.15'> Zebulonnak földje és Naftalinak földje, a tenger felé, a Jordánon túl, a pogányok Galileája,</verse>
+        <verse osisID='Matt.4.16'> A nép, a mely sötétségben ül vala, láta nagy világosságot, és a kik a halálnak földében és árnyékában ülnek vala, azoknak világosság támada.</verse>
+        <verse osisID='Matt.4.17'> Ettõl fogva kezde Jézus prédikálni, és ezt mondani: Térjetek meg, mert elközelgetett a mennyeknek országa.</verse>
+        <verse osisID='Matt.4.18'> Mikor pedig a galileai tenger mellett jár vala Jézus, láta két testvért, Simont, a kit Péternek neveznek, és Andrást az õ testvérét, a mint a tengerbe hálót vetnek vala; mert halászok valának.</verse>
+        <verse osisID='Matt.4.19'> És monda nékik: Kövessetek engem, és azt mívelem, hogy embereket halásszatok.</verse>
+        <verse osisID='Matt.4.20'> Azok pedig azonnal otthagyván a hálókat, követék õt.</verse>
+        <verse osisID='Matt.4.21'> És onnan tovább menve, láta más két testvért, Jakabot a Zebedeus fiát, és Jánost amannak testvérét, a mint a hajóban atyjukkal Zebedeussal a hálóikat kötözgetik vala; és hívá õket.</verse>
+        <verse osisID='Matt.4.22'> Azok pedig azonnal otthagyván a hajót és atyjukat, követék õt.</verse>
+        <verse osisID='Matt.4.23'> És bejárá Jézus az egész Galileát, tanítva azok zsinagógáiban, és hirdetve az Isten országának evangyéliomát, és gyógyítva a nép között minden betegséget és minden erõtlenséget.</verse>
+        <verse osisID='Matt.4.24'> És elterjede az õ híre egész Siriában: és hozzávivék mindazokat, a kik rosszul valának, a különféle betegségekben és kínokban sínlõdõket, ördöngösöket, holdkórosokat és gutaütötteket; és meggyógyítja vala õket.</verse>
+        <verse osisID='Matt.4.25'> És nagy sokaság követé õt Galileából és a Tízvárosból és Jeruzsálembõl és Júdeából és a Jordánon túlról.</verse>
+      </chapter>
+      <chapter osisID='Matt.5'>
+        <verse osisID='Matt.5.1'> Mikor pedig látta Jézus a sokaságot, felméne a hegyre, és a mint leül vala, hozzámenének az õ tanítványai.</verse>
+        <verse osisID='Matt.5.2'> És megnyitván száját, tanítja vala õket, mondván:</verse>
+        <verse osisID='Matt.5.3'> Boldogok a lelki szegények: mert övék a mennyeknek országa.</verse>
+        <verse osisID='Matt.5.4'> Boldogok, a kik sírnak: mert õk megvígasztaltatnak.</verse>
+        <verse osisID='Matt.5.5'> Boldogok a szelídek: mert õk örökségül bírják a földet.</verse>
+        <verse osisID='Matt.5.6'> Boldogok, a kik éhezik és szomjúhozzák az igazságot: mert õk megelégíttetnek.</verse>
+        <verse osisID='Matt.5.7'> Boldogok az irgalmasok: mert õk irgalmasságot nyernek.</verse>
+        <verse osisID='Matt.5.8'> Boldogok, a kiknek szívök tiszta: mert õk az Istent meglátják.</verse>
+        <verse osisID='Matt.5.9'> Boldogok a békességre igyekezõk: mert õk az Isten fiainak mondatnak.</verse>
+        <verse osisID='Matt.5.10'> Boldogok, a kik háborúságot szenvednek az igazságért: mert övék a mennyeknek országa.</verse>
+        <verse osisID='Matt.5.11'> Boldogok vagytok, ha szidalmaznak és háborgatnak titeket és minden gonosz hazugságot mondanak ellenetek én érettem.</verse>
+        <verse osisID='Matt.5.12'> Örüljetek és örvendezzetek, mert a ti jutalmatok bõséges a mennyekben: mert így háborgatták a prófétákat is, a kik elõttetek voltak.</verse>
+        <verse osisID='Matt.5.13'> Ti vagytok a földnek savai; ha pedig a só megízetlenül, mivel sózzák meg? nem jó azután semmire, hanem hogy kidobják és eltapossák az emberek.</verse>
+        <verse osisID='Matt.5.14'> Ti vagytok a világ világossága. Nem rejtethetik el a hegyen épített város.</verse>
+        <verse osisID='Matt.5.15'> Gyertyát sem azért gyújtanak, hogy a véka alá, hanem hogy a gyertyatartóba tegyék és fényljék mindazoknak, a kik a házban vannak.</verse>
+        <verse osisID='Matt.5.16'> Úgy fényljék a ti világosságtok az emberek elõtt, hogy lássák a ti jó cselekedeteiteket, és dicsõítsék a ti mennyei Atyátokat.</verse>
+        <verse osisID='Matt.5.17'> Ne gondoljátok, hogy jöttem a törvénynek vagy a prófétáknak eltörlésére. Nem jöttem, hogy eltöröljem, hanem inkább, hogy betöltsem.</verse>
+        <verse osisID='Matt.5.18'> Mert bizony mondom néktek, míg az ég és a föld elmúlik, a törvénybõl egy jóta vagy egyetlen pontocska el nem múlik, a míg minden be nem teljesedik.</verse>
+        <verse osisID='Matt.5.19'> Valaki azért csak egyet is megront e legkisebb parancsolatok közül és úgy tanítja az embereket, a mennyeknek országában a legkisebb lészen; valaki pedig cselekszi és úgy tanít, az a mennyeknek országában nagy lészen.</verse>
+        <verse osisID='Matt.5.20'> Mert mondom néktek, hogy ha a ti igazságotok nem több az írástudók és farizeusok igazságánál, semmiképen sem mehettek be a mennyeknek országába.</verse>
+        <verse osisID='Matt.5.21'> Hallottátok, hogy megmondatott a régieknek: Ne ölj, mert a ki öl, méltó az ítéletre.</verse>
+        <verse osisID='Matt.5.22'> Én pedig azt mondom néktek, hogy mindaz, a ki haragszik az õ atyjafiára ok nélkül, méltó az ítéletre: a ki pedig azt mondja az õ atyjafiának: Ráka, méltó a fõtörvényszékre: a ki pedig ezt mondja: Bolond, méltó a gyehenna tüzére.</verse>
+        <verse osisID='Matt.5.23'> Azért, ha a te ajándékodat az oltárra viszed és ott megemlékezel arról, hogy a te atyádfiának valami panasza van ellened:</verse>
+        <verse osisID='Matt.5.24'> Hagyd ott az oltár elõtt a te ajándékodat, és menj el, elébb békélj meg a te atyádfiával, és azután eljövén, vidd fel a te ajándékodat.</verse>
+        <verse osisID='Matt.5.25'> Légy jóakarója a te ellenségednek hamar, a míg az úton vagy vele, hogy ellenséged valamiképen a bíró kezébe ne adjon, és a bíró oda ne adjon a poroszló kezébe, és tömlöczbe ne vessen téged.</verse>
+        <verse osisID='Matt.5.26'> Bizony mondom néked: ki nem jõsz onnét, mígnem megfizetsz az utolsó fillérig.</verse>
+        <verse osisID='Matt.5.27'> Hallottátok, hogy megmondatott a régieknek: Ne paráználkodjál!</verse>
+        <verse osisID='Matt.5.28'> Én pedig azt mondom néktek, hogy valaki asszonyra tekint gonosz kivánságnak okáért, immár paráználkodott azzal az õ szívében.</verse>
+        <verse osisID='Matt.5.29'> Ha pedig a te jobb szemed megbotránkoztat téged, vájd ki azt és vesd el magadtól; mert jobb néked, hogy egy vesszen el a te tagjaid közül, semhogy egész tested a gyehennára vettessék.</verse>
+        <verse osisID='Matt.5.30'> És ha a te jobb kezed botránkoztat meg téged, vágd le azt és vesd el magadtól; mert jobb néked, hogy egy vesszen el a te tagjaid közül, semhogy egész tested a gyehennára vettessék.</verse>
+        <verse osisID='Matt.5.31'> Megmondatott továbbá: Valaki elbocsátja feleségét, adjon néki elválásról való levelet.</verse>
+        <verse osisID='Matt.5.32'> Én pedig azt mondom néktek: Valaki elbocsátja feleségét, paráznaság okán kívül, paráznává teszi azt; és a ki elbocsátott asszonyt veszen el, paráználkodik.</verse>
+        <verse osisID='Matt.5.33'> Ismét hallottátok, hogy megmondatott a régieknek: Hamisan ne esküdjél, hanem teljesítsd az Úrnak tett esküidet.</verse>
+        <verse osisID='Matt.5.34'> Én pedig azt mondom néktek: Teljességgel ne esküdjetek; se az égre, mert az az Istennek királyi széke;</verse>
+        <verse osisID='Matt.5.35'> Se a földre, mert az az õ lábainak zsámolya; se Jeruzsálemre, mert a nagy Királynak városa;</verse>
+        <verse osisID='Matt.5.36'> Se a te fejedre ne esküdjél, mert egyetlen hajszálat sem tehetsz fehérré vagy feketévé;</verse>
+        <verse osisID='Matt.5.37'> Hanem legyen a ti beszédetek: Úgy úgy; nem nem; a mi pedig ezeken felül vagyon, a gonosztól vagyon.</verse>
+        <verse osisID='Matt.5.38'> Hallottátok, hogy megmondatott: Szemet szemért és fogat fogért.</verse>
+        <verse osisID='Matt.5.39'> Én pedig azt mondom néktek: Ne álljatok ellene a gonosznak, hanem a ki arczul üt téged jobb felõl, fordítsd felé a másik orczádat is.</verse>
+        <verse osisID='Matt.5.40'> És a ki törvénykezni akar veled és elvenni a te alsó ruhádat, engedd oda néki a felsõt is.</verse>
+        <verse osisID='Matt.5.41'> És a ki téged egy mértföldútra kényszerít, menj el vele kettõre.</verse>
+        <verse osisID='Matt.5.42'> A ki tõled kér, adj néki; és a ki tõled kölcsön akar kérni, el ne fordulj attól.</verse>
+        <verse osisID='Matt.5.43'> Hallottátok, hogy megmondatott: Szeresd felebarátodat és gyûlöld ellenségedet.</verse>
+        <verse osisID='Matt.5.44'> Én pedig azt mondom néktek: Szeressétek ellenségeiteket, áldjátok azokat, a kik titeket átkoznak, jót tegyetek azokkal, a kik titeket gyûlölnek, és imádkozzatok azokért, a kik háborgatnak és kergetnek titeket.</verse>
+        <verse osisID='Matt.5.45'> Hogy legyetek a ti mennyei Atyátoknak fiai, a ki felhozza az õ napját mind a gonoszokra, mind a jókra, és esõt ád mind az igazaknak, mind a hamisaknak.</verse>
+        <verse osisID='Matt.5.46'> Mert ha azokat szeretitek, a kik titeket szeretnek, micsoda jutalmát veszitek? Avagy a vámszedõk is nem ugyanazt cselekeszik-é?</verse>
+        <verse osisID='Matt.5.47'> És ha csak a ti atyátokfiait köszöntitek, mit cselekesztek másoknál többet? Nemde a vámszedõk is nem azonképen cselekesznek-é?</verse>
+        <verse osisID='Matt.5.48'> Legyetek azért ti tökéletesek, miként a ti mennyei Atyátok tökéletes.</verse>
+      </chapter>
+      <chapter osisID='Matt.6'>
+        <verse osisID='Matt.6.1'> Vigyázzatok, hogy alamizsnátokat ne osztogassátok az emberek elõtt, hogy lássanak titeket; mert különben nem lesz jutalmatok a ti mennyei Atyátoknál.</verse>
+        <verse osisID='Matt.6.2'> Azért mikor alamizsnát osztogatsz, ne kürtöltess magad elõtt, a hogy a képmutatók tesznek a zsinagógákban és az utczákon, hogy az emberektõl dícséretet nyerjenek. Bizony mondom néktek: elvették jutalmukat.</verse>
+        <verse osisID='Matt.6.3'> Te pedig a mikor alamizsnát osztogatsz, ne tudja a te bal kezed, mit cselekszik a te jobb kezed;</verse>
+        <verse osisID='Matt.6.4'> Hogy a te alamizsnád titkon legyen; és a te Atyád, a ki titkon néz, megfizet néked nyilván.</verse>
+        <verse osisID='Matt.6.5'> És mikor imádkozol, ne légy olyan, mint a képmutatók, a kik a gyülekezetekben és az utczák szegeletein fenállva szeretnek imádkozni, hogy lássák õket az emberek. Bizony mondom néktek: elvették jutalmukat.</verse>
+        <verse osisID='Matt.6.6'> Te pedig a mikor imádkozol, menj be a te belsõ szobádba, és ajtódat bezárva, imádkozzál a te Atyádhoz, a ki titkon van; és a te Atyád, a ki titkon néz, megfizet néked nyilván.</verse>
+        <verse osisID='Matt.6.7'> És mikor imádkoztok, ne legyetek sok beszédûek, mint a pogányok, a kik azt gondolják, hogy az õ sok beszédükért hallgattatnak meg.</verse>
+        <verse osisID='Matt.6.8'> Ne legyetek hát ezekhez hasonlók; mert jól tudja a ti Atyátok, mire van szükségetek, mielõtt kérnétek tõle.</verse>
+        <verse osisID='Matt.6.9'> Ti azért így imádkozzatok: Mi Atyánk, ki vagy a mennyekben, szenteltessék meg a te neved;</verse>
+        <verse osisID='Matt.6.10'> Jõjjön el a te országod; legyen meg a te akaratod, mint a mennyben, úgy a földön is.</verse>
+        <verse osisID='Matt.6.11'> A mi mindennapi kenyerünket add meg nékünk ma.</verse>
+        <verse osisID='Matt.6.12'> És bocsásd meg a mi vétkeinket, miképen mi is megbocsátunk azoknak, a kik ellenünk vétkeztek;</verse>
+        <verse osisID='Matt.6.13'> És ne vígy minket kísértetbe, de szabadíts meg minket a gonosztól. Mert tiéd az ország és a hatalom és a dicsõség mind örökké. Ámen!</verse>
+        <verse osisID='Matt.6.14'> Mert ha megbocsátjátok az embereknek az õ vétkeiket, megbocsát néktek is a ti mennyei Atyátok.</verse>
+        <verse osisID='Matt.6.15'> Ha pedig meg nem bocsátjátok az embereknek az õ vétkeiket, a ti mennyei Atyátok sem bocsátja meg a ti vétkeiteket.</verse>
+        <verse osisID='Matt.6.16'> Mikor pedig bõjtöltök, ne legyen komor a nézéstek, mint a képmutatóké, a kik eltorzítják arczukat, hogy lássák az emberek, hogy õk bõjtölnek. Bizony mondon néktek, elvették jutalmukat.</verse>
+        <verse osisID='Matt.6.17'> Te pedig mikor bõjtölsz, kend meg a te fejedet, és a te orczádat mosd meg;</verse>
+        <verse osisID='Matt.6.18'> Hogy ne az emberek lássák bõjtölésedet, hanem a te Atyád, a ki titkon van; és a te Atyád, a ki titkon néz, megfizet néked nyilván.</verse>
+        <verse osisID='Matt.6.19'> Ne gyûjtsetek magatoknak kincseket a földön, hol a rozsda és a moly megemészti, és a hol a tolvajok kiássák és ellopják;</verse>
+        <verse osisID='Matt.6.20'> Hanem gyûjtsetek magatoknak kincseket mennyben, a hol sem a rozsda, sem a moly meg nem emészti, és a hol a tolvajok ki nem ássák, sem el nem lopják.</verse>
+        <verse osisID='Matt.6.21'> Mert a hol van a ti kincsetek, ott van a ti szívetek is.</verse>
+        <verse osisID='Matt.6.22'> A test lámpása a szem. Ha azért a te szemed tiszta, a te egész tested világos lesz.</verse>
+        <verse osisID='Matt.6.23'> Ha pedig a te szemed gonosz, a te egész tested sötét lesz. Ha azért a benned lévõ világosság sötétség: mekkora akkor a sötétség?!</verse>
+        <verse osisID='Matt.6.24'> Senki sem szolgálhat két úrnak. Mert vagy az egyiket gyûlöli és a másikat szereti; vagy az egyikhez ragaszkodik és a másikat megveti. Nem szolgálhattok Istennek és a Mammonnak.</verse>
+        <verse osisID='Matt.6.25'> Azért azt mondom néktek: Ne aggodalmaskodjatok a ti éltetek felõl, mit egyetek és mit igyatok; sem a ti testetek felõl, mibe öltözködjetek. Avagy nem több-é az élet hogynem az eledel, és a test hogynem az öltözet?</verse>
+        <verse osisID='Matt.6.26'> Tekintsetek az égi madarakra, hogy nem vetnek, nem aratnak, sem csûrbe nem takarnak; és a ti mennyei Atyátok eltartja azokat. Nem sokkal különbek vagytok-é azoknál?</verse>
+        <verse osisID='Matt.6.27'> Kicsoda pedig az közületek, a ki aggodalmaskodásával megnövelheti termetét egy araszszal?</verse>
+        <verse osisID='Matt.6.28'> Az öltözet felõl is mit aggodalmaskodtok? Vegyétek eszetekbe a mezõ liliomait, mi módon növekednek: nem munkálkodnak, és nem fonnak;</verse>
+        <verse osisID='Matt.6.29'> De mondom néktek, hogy Salamon minden dicsõségében sem öltözködött úgy, mint ezek közül egy.</verse>
+        <verse osisID='Matt.6.30'> Ha pedig a mezõnek füvét, a mely ma van, és holnap kemenczébe vettetik, így ruházza az Isten; nem sokkal inkább-é titeket, ti kicsinyhitûek?</verse>
+        <verse osisID='Matt.6.31'> Ne aggodalmaskodjatok tehát, és ne mondjátok: Mit együnk? vagy: Mit igyunk? vagy: Mivel ruházkodjunk?</verse>
+        <verse osisID='Matt.6.32'> Mert mind ezeket a pogányok kérdezik. Mert jól tudja a ti mennyei Atyátok, hogy mind ezekre szükségetek van.</verse>
+        <verse osisID='Matt.6.33'> Hanem keressétek elõször Istennek országát, és az õ igazságát; és ezek mind megadatnak néktek.</verse>
+        <verse osisID='Matt.6.34'> Ne aggodalmaskodjatok tehát a holnap felõl; mert a holnap majd aggodalmaskodik a maga dolgai felõl. Elég minden napnak a maga baja.</verse>
+      </chapter>
+      <chapter osisID='Matt.7'>
+        <verse osisID='Matt.7.1'> Ne ítéljetek, hogy ne ítéltessetek.</verse>
+        <verse osisID='Matt.7.2'> Mert a milyen ítélettel ítéltek, olyannal ítéltettek, és a milyen mértékkel mértek, olyannal mérnek néktek.</verse>
+        <verse osisID='Matt.7.3'> Miért nézed pedig a szálkát, a mely a te atyádfia szemében van, a gerendát pedig, a mely a te szemedben van, nem veszed észre?</verse>
+        <verse osisID='Matt.7.4'> Avagy mi módon mondhatod a te atyádfiának: Hadd vessem ki a szálkát a te szemedbõl; holott ímé, a te szemedben gerenda van?</verse>
+        <verse osisID='Matt.7.5'> Képmutató, vesd ki elõbb a gerendát a te szemedbõl, és akkor gondolj arra, hogy kivessed a szálkát a te atyádfiának szemébõl!</verse>
+        <verse osisID='Matt.7.6'> Ne adjátok azt, a mi szent, az ebeknek, se gyöngyeiteket ne hányjátok a disznók elé, hogy meg ne tapossák azokat lábaikkal, és néktek fordulván, meg ne szaggassanak titeket.</verse>
+        <verse osisID='Matt.7.7'> Kérjetek és adatik néktek; keressetek és találtok; zörgessetek és megnyittatik néktek.</verse>
+        <verse osisID='Matt.7.8'> Mert a ki kér, mind kap; és a ki keres, talál; és a zörgetõnek megnyittatik.</verse>
+        <verse osisID='Matt.7.9'> Avagy ki az az ember közületek, a ki, ha az õ fia kenyeret kér tõle, követ ád néki?</verse>
+        <verse osisID='Matt.7.10'> És ha halat kér, vajjon kígyót ád-e néki?</verse>
+        <verse osisID='Matt.7.11'> Ha azért ti gonosz létetekre tudtok a ti fiaitoknak jó ajándékokat adni, mennyivel inkább ád a ti mennyei Atyátok jókat azoknak, a kik kérnek tõle?!</verse>
+        <verse osisID='Matt.7.12'> A mit akartok azért, hogy az emberek ti veletek cselekedjenek, mindazt ti is úgy cselekedjétek azokkal; mert ez a törvény és a próféták.</verse>
+        <verse osisID='Matt.7.13'> Menjetek be a szoros kapun. Mert tágas az a kapu és széles az az út, a mely a veszedelemre visz, és sokan vannak, a kik azon járnak.</verse>
+        <verse osisID='Matt.7.14'> Mert szoros az a kapu és keskeny az az út, a mely az életre visz, és kevesen vannak, a kik megtalálják azt.</verse>
+        <verse osisID='Matt.7.15'> Õrizkedjetek pedig a hamis prófétáktól, a kik juhoknak ruhájában jõnek hozzátok, de belõl ragadozó farkasok.</verse>
+        <verse osisID='Matt.7.16'> Gyümölcseikrõl ismeritek meg õket. Vajjon a tövisrõl szednek-é szõlõt, vagy a bojtorjánról fügét?</verse>
+        <verse osisID='Matt.7.17'> Ekképen minden jó fa jó gyümölcsöt terem; a romlott fa pedig rossz gyümölcsöt terem.</verse>
+        <verse osisID='Matt.7.18'> Nem teremhet jó fa rossz gyümölcsöt; romlott fa sem teremhet jó gyümölcsöt.</verse>
+        <verse osisID='Matt.7.19'> Minden fa, a mely nem terem jó gyümölcsöt, kivágattatik és tûzre vettetik.</verse>
+        <verse osisID='Matt.7.20'> Azért az õ gyümölcseikrõl ismeritek meg õket.</verse>
+        <verse osisID='Matt.7.21'> Nem minden, a ki ezt mondja nékem: Uram! Uram! megyen be a mennyek országába; hanem a ki cselekszi az én mennyei Atyám akaratát.</verse>
+        <verse osisID='Matt.7.22'> Sokan mondják majd nékem ama napon: Uram! Uram! nem a te nevedben prófétáltunk-é, és nem a te nevedben ûztünk-é ördögöket, és nem cselekedtünk-é sok hatalmas dolgot a te nevedben?</verse>
+        <verse osisID='Matt.7.23'> És akkor vallást teszek majd nékik: Sohasem ismertelek titeket; távozzatok tõlem, ti gonosztevõk.</verse>
+        <verse osisID='Matt.7.24'> Valaki azért hallja én tõlem e beszédeket, és megcselekszi azokat, hasonlítom azt a bölcs emberhez, a ki a kõsziklára építette az õ házát:</verse>
+        <verse osisID='Matt.7.25'> És ömlött az esõ, és eljött az árvíz, és fújtak a szelek, és beleütköztek abba a házba; de nem dõlt össze: mert a kõsziklára építtetett.</verse>
+        <verse osisID='Matt.7.26'> És valaki hallja én tõlem e beszédeket, és nem cselekszi meg azokat, hasonlatos lesz a bolond emberhez, a ki a fövényre építette házát:</verse>
+        <verse osisID='Matt.7.27'> És ömlött az esõ, és eljött az árvíz, és fújtak a szelek, és beleütköztek abba a házba; és összeomlott: és nagy lett annak romlása.</verse>
+        <verse osisID='Matt.7.28'> És lõn, mikor elvégezte Jézus e beszédeket, álmélkodik vala a sokaság az õ tanításán:</verse>
+        <verse osisID='Matt.7.29'> Mert úgy tanítja vala õket, mint a kinek hatalma van, és nem úgy, mint az írástudók.</verse>
+      </chapter>
+      <chapter osisID='Matt.8'>
+        <verse osisID='Matt.8.1'> Mikor leszállott vala a hegyrõl, nagy sokaság követé õt.</verse>
+        <verse osisID='Matt.8.2'> És ímé eljövén egy bélpoklos, leborula elõtte, mondván: Uram, ha akarod, megtisztíthatsz engem.</verse>
+        <verse osisID='Matt.8.3'> És kinyújtván kezét, megilleté õt Jézus, mondván: Akarom, tisztulj meg. És azonnal eltisztult annak poklossága.</verse>
+        <verse osisID='Matt.8.4'> És monda néki Jézus: Meglásd, senkinek se szólj. Hanem eredj, mutasd meg magadat a papnak, és vidd fel az ajándékot, a melyet Mózes rendelt, bizonyságul nékik.</verse>
+        <verse osisID='Matt.8.5'> Mikor pedig beméne Jézus Kapernaumba, egy százados méne hozzá, kérvén õt,</verse>
+        <verse osisID='Matt.8.6'> És ezt mondván: Uram, az én szolgám otthon gutaütötten fekszik, és nagy kínokat szenved.</verse>
+        <verse osisID='Matt.8.7'> És monda néki Jézus: Elmegyek és meggyógyítom õt.</verse>
+        <verse osisID='Matt.8.8'> És felelvén a százados, monda: Uram, nem vagyok méltó, hogy az én hajlékomba jõjj; hanem csak szólj egy szót, és meggyógyul az én szolgám.</verse>
+        <verse osisID='Matt.8.9'> Mert én is hatalmasság alá vetett ember vagyok, és vannak alattam vitézek; és mondom egyiknek: Eredj el, és elmegy; és a másiknak: Jöszte, és eljõ; és az én szolgámnak: Tedd ezt, és megteszi.</verse>
+        <verse osisID='Matt.8.10'> Jézus pedig, a mikor ezt hallá, elcsodálkozék, és monda az õt követõknek: Bizony mondom néktek, még az Izráelben sem találtam ilyen nagy hitet.</verse>
+        <verse osisID='Matt.8.11'> De mondom néktek, hogy sokan eljõnek napkeletrõl és napnyugatról, és letelepednek Ábrahámmal, Izsákkal és Jákóbbal a mennyek országában:</verse>
+        <verse osisID='Matt.8.12'> Ez ország fiai pedig kivettetnek a külsõ sötétségre; holott lészen sírás és fogaknak csikorgatása.</verse>
+        <verse osisID='Matt.8.13'> És monda Jézus a századosnak: Eredj el, és legyen néked a te hited szerint. És meggyógyult annak szolgája abban az órában.</verse>
+        <verse osisID='Matt.8.14'> És bemenvén Jézus a Péter házába, látá, hogy annak napa fekszik és lázas.</verse>
+        <verse osisID='Matt.8.15'> És illeté annak kezét, és elhagyta õt a láz; és fölkele, és szolgála nékik.</verse>
+        <verse osisID='Matt.8.16'> Az est beálltával pedig vivének hozzá sok ördöngõst, és egy szóval kiûzé a tisztátalan lelkeket, és meggyógyít vala minden beteget;</verse>
+        <verse osisID='Matt.8.17'> Hogy beteljesedjék, a mit Ésaiás próféta mondott, így szólván: Õ vette el a mi erõtlenségünket, és õ hordozta a mi betegségünket.</verse>
+        <verse osisID='Matt.8.18'> Látván pedig Jézus a nagy sokaságot maga körül, parancsolá, hogy menjenek a túlsó partra.</verse>
+        <verse osisID='Matt.8.19'> És hozzámenvén egy írástudó, monda néki: Mester, követlek téged, akárhova mégy.</verse>
+        <verse osisID='Matt.8.20'> És monda néki Jézus: A rókáknak vagyon barlangjok és az égi madaraknak fészkük; de az ember Fiának nincs hová fejét lehajtani.</verse>
+        <verse osisID='Matt.8.21'> Egy másik pedig az õ tanítványai közül monda néki: Uram, engedd meg nékem, hogy elõbb elmenjek és eltemessem az én atyámat.</verse>
+        <verse osisID='Matt.8.22'> Jézus pedig monda néki: Kövess engem, és hagyd, hogy a halottak temessék el az õ halottaikat.</verse>
+        <verse osisID='Matt.8.23'> És mikor a hajóra szállt vala, követék õt az õ tanítványai.</verse>
+        <verse osisID='Matt.8.24'> És ímé nagy háborgás lõn a tengeren, annyira, hogy a hajót elborítják vala a hullámok; õ pedig aluszik vala.</verse>
+        <verse osisID='Matt.8.25'> És az õ tanítványai hozzámenvén, felkölték õt, mondván: Uram, ments meg minket; mert elveszünk.</verse>
+        <verse osisID='Matt.8.26'> És monda nékik: Mit féltek, óh kicsinyhitûek? Ekkor fölkelvén, megdorgálá a szeleket és a tengert, és lõn nagy csendesség.</verse>
+        <verse osisID='Matt.8.27'> Az emberek pedig elcsodálkozának, mondván: Kicsoda ez, hogy mind a szelek, mind a tenger engednek néki.</verse>
+        <verse osisID='Matt.8.28'> És a mikor eljutott vala a túlsó partra, a Gadarénusok tartományába, két ördöngõs ment eléje, a sírboltokból kijövén, igen kegyetlenek, annyira, hogy senki sem mer vala elmenni azon az úton.</verse>
+        <verse osisID='Matt.8.29'> És ímé kiáltának mondván: Mi közünk te veled Jézus, Istennek fia? Azért jöttél ide, hogy idõ elõtt meggyötörj minket?</verse>
+        <verse osisID='Matt.8.30'> Tõlük távol pedig egy nagy disznónyáj legelészik vala.</verse>
+        <verse osisID='Matt.8.31'> Az ördögök pedig kérik vala õt mondván: Ha kiûzesz minket, engedd meg nékünk, hogy ama disznónyájba mehessünk!</verse>
+        <verse osisID='Matt.8.32'> És monda nékik: Menjetek. Azok pedig kimenvén, menének a disznónyájba: és ímé az egész disznónyáj a meredekrõl a tengerbe rohana, és oda vesze a vízben.</verse>
+        <verse osisID='Matt.8.33'> A pásztorok pedig elfutának, és bemenvén a városba hírré adának mindent, azokat is, a mik az ördöngõsökkel történtek vala.</verse>
+        <verse osisID='Matt.8.34'> És ímé az egész város kiméne Jézus elébe; és mihelyt meglátták, kérék õt, hogy távozzék az õ határukból.</verse>
+      </chapter>
+      <chapter osisID='Matt.9'>
+        <verse osisID='Matt.9.1'> És hajóra szállva átkele, és méne a maga városába.</verse>
+        <verse osisID='Matt.9.2'> És ímé hoznak vala hozzá egy ágyban fekvõ gutaütött embert. És látva Jézus azoknak hitét, monda a gutaütöttnek: Bízzál fiam! Megbocsáttattak néked a te bûneid.</verse>
+        <verse osisID='Matt.9.3'> És ímé némelyek az írástudók közül mondának magukban: Ez káromlást szól.</verse>
+        <verse osisID='Matt.9.4'> És Jézus, látva az õ gondolataikat, monda: Miért gondoltok gonoszt a ti szívetekben?</verse>
+        <verse osisID='Matt.9.5'> Mert mi könnyebb, ezt mondani-é: Megbocsáttattak néked a te bûneid; vagy ezt mondani: Kelj föl és járj?</verse>
+        <verse osisID='Matt.9.6'> Hogy pedig megtudjátok, hogy az ember Fiának van hatalma a földön a bûnöket megbocsátani (ekkor monda a gutaütöttnek): Kelj föl, vedd a te ágyadat, és eredj haza.</verse>
+        <verse osisID='Matt.9.7'> És az felkelvén, haza méne.</verse>
+        <verse osisID='Matt.9.8'> A sokaság pedig ezt látván, elálmélkodék, és dicsõíté az Istent, hogy ilyen hatalmat adott az embereknek.</verse>
+        <verse osisID='Matt.9.9'> És mikor Jézus onnét tovább méne, láta egy embert ülni a vámszedõ helyen, a kinek Máté volt a neve, és monda néki: Kövess engem! És az felkelvén, követé õt.</verse>
+        <verse osisID='Matt.9.10'> És lõn, a mikor õ letelepedék a házban, ímé sok vámszedõ és bûnös jött oda és letelepedtek Jézussal és az õ tanítványaival az asztalhoz.</verse>
+        <verse osisID='Matt.9.11'> És látva ezt a farizeusok, mondának az õ tanítványainak: Miért eszik ez a ti Mesteretek a vámszedõkkel és bûnösökkel együtt?</verse>
+        <verse osisID='Matt.9.12'> Jézus pedig ezt hallván, monda nékik: Nem az egészségeseknek van szüksége orvosra, hanem a betegeknek.</verse>
+        <verse osisID='Matt.9.13'> Elmenvén pedig tanuljátok meg, mi az: Irgalmasságot akarok és nem áldozatot. Mert nem az igazakat hivogatni jöttem, hanem a bûnösöket a megtérésre.</verse>
+        <verse osisID='Matt.9.14'> Akkor a János tanítványai jövének hozzá, mondván: Miért hogy mi és a farizeusok sokat bõjtölünk, a te tanítványaid pedig nem bõjtölnek?</verse>
+        <verse osisID='Matt.9.15'> És monda nékik Jézus: Vajjon szomorkodhatik-é a násznép a míg velök van a võlegény? de eljõnek a napok, a mikor elvétetik tõlök a võlegény, és akkor bõjtölni fognak.</verse>
+        <verse osisID='Matt.9.16'> Senki sem vet pedig új posztóból foltot az ócska ruhára; mert a mi azt kitoldaná, még elszakít a ruhából és nagyobb szakadás lesz.</verse>
+        <verse osisID='Matt.9.17'> Új bort sem töltenek ó tömlõkbe; máskülönben a tömlõk szétszakadoznak, és a bor kiömöl, a tömlõk is elvesznek; hanem az új bort új tömlõkbe töltik, és mindkettõ megmarad.</verse>
+        <verse osisID='Matt.9.18'> Mikor ezeket mondá nékik, ímé egy fõember eljövén leborula elõtte, mondván: Az én leányom épen most halt meg; de jer, vesd reá kezedet, és megelevenedik.</verse>
+        <verse osisID='Matt.9.19'> És felkelvén Jézus követé õt tanítványaival együtt.</verse>
+        <verse osisID='Matt.9.20'> És ímé, egy asszony, a ki tizenkét év óta vérfolyásban szenved vala, hozzájárulván hátulról, illeté az õ ruhájának szegélyét.</verse>
+        <verse osisID='Matt.9.21'> Mert ezt mondja vala magában: Ha csak ruháját illetem is, meggyógyulok.</verse>
+        <verse osisID='Matt.9.22'> Jézus pedig megfordulván és reá tekintvén, monda: Bízzál leányom; a te hited megtartott téged. És meggyógyult az asszony abban az órában.</verse>
+        <verse osisID='Matt.9.23'> És Jézus a fõember házához érvén, látván a sípolókat és a tolongó sokaságot,</verse>
+        <verse osisID='Matt.9.24'> Monda nékik: Menjetek el innen, mert a leányzó nem halt meg, hanem aluszik. És kinevették õt.</verse>
+        <verse osisID='Matt.9.25'> Mikor pedig a sokaság eltávolíttaték, bemenvén, megfogá annak kezét, és a leányzó felkelt.</verse>
+        <verse osisID='Matt.9.26'> És elterjede ez a hír abban az egész tartományban.</verse>
+        <verse osisID='Matt.9.27'> És mikor Jézus tovább ment onnét, két vak követé õt, kiáltozva és ezt mondva: Könyörülj rajtunk, Dávidnak fia!</verse>
+        <verse osisID='Matt.9.28'> Mikor pedig beméne a házba, oda menének hozzá a vakok, és monda nékik Jézus: Hiszitek-é, hogy én azt megcselekedhetem? Mondának néki: Igen, Uram.</verse>
+        <verse osisID='Matt.9.29'> Akkor illeté az õ szemeiket, mondván: Legyen néktek a ti hitetek szerint.</verse>
+        <verse osisID='Matt.9.30'> És megnyilatkozának azoknak szemei; és rájok parancsola Jézus, mondván: Meglássátok, senki meg ne tudja!</verse>
+        <verse osisID='Matt.9.31'> Azok pedig kimenvén, elterjeszték az õ hírét abban az egész tartományban.</verse>
+        <verse osisID='Matt.9.32'> Mikor pedig azok elmentek vala, ímé egy ördöngõs néma embert hozának néki.</verse>
+        <verse osisID='Matt.9.33'> És az ördögöt kiûzvén, megszólalt a néma; és a sokaság csudálkozik vala, mondván: Soha nem láttak ilyet Izráelben!</verse>
+        <verse osisID='Matt.9.34'> A farizeusok pedig ezt mondják vala: Az ördögök fejedelme által ûzi ki az ördögöket.</verse>
+        <verse osisID='Matt.9.35'> És körüljárja vala Jézus a városokat mind, és a falvakat, tanítván azoknak zsinagógáiban, és hirdetvén az Isten országának evangyéliomát, és gyógyítván mindenféle betegséget és mindenféle erõtelenséget a nép között.</verse>
+        <verse osisID='Matt.9.36'> Mikor pedig látta vala a sokaságot, könyörületességre indula rajtok, mert el voltak gyötörve és szétszórva, mint a pásztor nélkül való juhok.</verse>
+        <verse osisID='Matt.9.37'> Akkor monda az õ tanítványainak: Az aratni való sok, de a munkás kevés.</verse>
+        <verse osisID='Matt.9.38'> Kérjétek azért az aratásnak Urát, hogy küldjön munkásokat az õ aratásába.</verse>
+      </chapter>
+      <chapter osisID='Matt.10'>
+        <verse osisID='Matt.10.1'> És elõszólítván tizenkét tanítványát, hatalmat ada nékik a tisztátalan lelkek felett, hogy kiûzzék azokat, és gyógyítsanak minden betegséget és minden erõtelenséget.</verse>
+        <verse osisID='Matt.10.2'> A tizenkét apostol nevei pedig ezek: Elsõ Simon, a kit Péternek hívnak, és András, az õ testvére; Jakab, a Zebedeus fia, és János az õ testvére;</verse>
+        <verse osisID='Matt.10.3'> Filep és Bertalan; Tamás és Máté, a vámszedõ; Jakab, az Alfeus fia, és Lebbeus, a kit Taddeusnak hívtak;</verse>
+        <verse osisID='Matt.10.4'> Simon a kananita, és Judás, az Iskariotes, a ki el is árulta õt.</verse>
+        <verse osisID='Matt.10.5'> Ezt a tizenkettõt küldé ki Jézus, és megparancsolá nékik, mondván: Pogányok útjára ne menjetek, és Samaritánusok városába ne menjetek be;</verse>
+        <verse osisID='Matt.10.6'> Hanem menjetek inkább Izráel házának eltévelyedett juhaihoz.</verse>
+        <verse osisID='Matt.10.7'> Elmenvén pedig prédikáljatok, mondván: Elközelített a mennyeknek országa.</verse>
+        <verse osisID='Matt.10.8'> Betegeket gyógyítsatok, poklosokat tisztítsatok, halottakat támasszatok, ördögöket ûzzetek. Ingyen vettétek, ingyen adjátok.</verse>
+        <verse osisID='Matt.10.9'> Ne szerezzetek aranyat, se ezüstöt, se réz-pénzt a ti erszényetekbe,</verse>
+        <verse osisID='Matt.10.10'> Se útitáskát, se két ruhát, se sarut, se pálczát; mert méltó a munkás az õ táplálékára.</verse>
+        <verse osisID='Matt.10.11'> A mely városba vagy faluba pedig bementek, tudakozzátok meg, ki abban méltó; és ott maradjatok, a míg tovább mehettek.</verse>
+        <verse osisID='Matt.10.12'> Ha pedig bementek a házba, köszöntsétek azt.</verse>
+        <verse osisID='Matt.10.13'> És ha méltó a ház, szálljon a ti békességtek reá; ha pedig nem méltó, a ti békességtek rátok térjen vissza.</verse>
+        <verse osisID='Matt.10.14'> És ha valaki nem fogad be titeket, és nem hallgatja a ti beszédeteket, mikor kimentek abból a házból, vagy városból, lábaitok porát is verjétek le.</verse>
+        <verse osisID='Matt.10.15'> Bizony mondom néktek: Az ítélet napján könnyebb lesz a Sodoma és Gomora földjének dolga, mint annak a városnak.</verse>
+        <verse osisID='Matt.10.16'> Ímé, én elbocsátlak titeket, mint juhokat a farkasok közé; legyetek azért okosak mint a kígyók, és szelidek mint a galambok.</verse>
+        <verse osisID='Matt.10.17'> De óvakodjatok az emberektõl; mert törvényszékekre adnak titeket és az õ gyülekezeteikben megostoroznak titeket;</verse>
+        <verse osisID='Matt.10.18'> És helytartók és királyok elé visznek titeket érettem, bizonyságul õ magoknak és a pogányoknak.</verse>
+        <verse osisID='Matt.10.19'> De mikor átadnak titeket, ne aggodalmaskodjatok, mi módon vagy mit szóljatok; mert megadatik néktek abban az órában, mit mondjatok.</verse>
+        <verse osisID='Matt.10.20'> Mert nem ti vagytok, a kik szóltok, hanem a ti Atyátoknak Lelke az, a ki szól ti bennetek.</verse>
+        <verse osisID='Matt.10.21'> Halálra adja pedig testvér testvérét, atya gyermekét; támadnak magzatok szüleik ellen, és megöletik õket.</verse>
+        <verse osisID='Matt.10.22'> És gyûlöletesek lesztek, mindenki elõtt az én nevemért; de a ki mindvégig megáll, az megtartatik.</verse>
+        <verse osisID='Matt.10.23'> Mikor pedig abban a városban üldöznek titeket, szaladjatok a másikba. Mert bizony mondom néktek: be sem járjátok Izráel városait, míg az embernek Fia eljövend.</verse>
+        <verse osisID='Matt.10.24'> Nem fölebbvaló a tanítvány a tanítónál, sem a szolga az õ uránál.</verse>
+        <verse osisID='Matt.10.25'> Elég a tanítványnak, ha olyan mint a mestere, és a szolga mint az õ Ura. Ha a házigazdát Belzebubnak hívták, mennyivel inkább az õ házanépét?!</verse>
+        <verse osisID='Matt.10.26'> Azért ne féljetek tõlök. Mert nincs oly rejtett dolog, a mi napfényre ne jõne; és oly titok, a mi ki ne tudódnék.</verse>
+        <verse osisID='Matt.10.27'> A mit néktek a sötétben mondok, a világosságban mondjátok; és a mit fülbe súgva hallotok, a háztetõkrõl hirdessétek.</verse>
+        <verse osisID='Matt.10.28'> És ne féljetek azoktól, a kik a testet ölik meg, a lelket pedig meg nem ölhetik; hanem attól féljetek inkább, a ki mind a lelket, mind a testet elvesztheti a gyehennában.</verse>
+        <verse osisID='Matt.10.29'> Nemde, két verebecskét meg lehet venni egy kis fillérért? És egy sem esik azok közül a földre a ti Atyátok akarata nélkül!</verse>
+        <verse osisID='Matt.10.30'> Néktek pedig még a fejetek hajszálai is mind számon vannak.</verse>
+        <verse osisID='Matt.10.31'> Ne féljetek azért; ti sok verebecskénél drágábbak vagytok.</verse>
+        <verse osisID='Matt.10.32'> Valaki azért vallást tesz én rólam az emberek elõtt, én is vallást teszek arról az én mennyei Atyám elõtt;</verse>
+        <verse osisID='Matt.10.33'> A ki pedig megtagad engem az emberek elõtt, én is megtagadom azt az én mennyei Atyám elõtt.</verse>
+        <verse osisID='Matt.10.34'> Ne gondoljátok, hogy azért jöttem, hogy békességet bocsássak e földre; nem azért jöttem, hogy békességet bocsássak, hanem hogy fegyvert.</verse>
+        <verse osisID='Matt.10.35'> Mert azért jöttem, hogy meghasonlást támaszszak az ember és az õ atyja, a leány és az õ anyja, a meny és az õ napa közt;</verse>
+        <verse osisID='Matt.10.36'> És hogy az embernek ellensége legyen az õ házanépe.</verse>
+        <verse osisID='Matt.10.37'> A ki inkább szereti atyját és anyját, hogynem engemet, nem méltó én hozzám; és a ki inkább szereti fiát és leányát, hogynem engemet, nem méltó én hozzám.</verse>
+        <verse osisID='Matt.10.38'> És a ki föl nem veszi az õ keresztjét és úgy nem követ engem, nem méltó én hozzám.</verse>
+        <verse osisID='Matt.10.39'> A ki megtalálja az õ életét, elveszti azt; és a ki elveszti az õ életét én érettem, megtalálja azt.</verse>
+        <verse osisID='Matt.10.40'> A ki titeket befogad, engem fogad be; és a ki engem befogad, azt fogadja be, a ki engem küldött.</verse>
+        <verse osisID='Matt.10.41'> A ki befogadja a prófétát próféta nevében, prófétának jutalmát veszi; és a ki befogadja az igazat igaznak nevében, igaznak jutalmát veszi;</verse>
+        <verse osisID='Matt.10.42'> És a ki inni ád egynek e kicsinyek közül, csak egy pohár hideg vizet tanítvány nevében, bizony mondom néktek, el nem vesztheti jutalmát.</verse>
+      </chapter>
+      <chapter osisID='Matt.11'>
+        <verse osisID='Matt.11.1'> És lõn, mikor elvégezé Jézus a tizenkét tanítványának adott utasítást, elméne onnan, hogy tanítson és prédikáljon azoknak városaiban.</verse>
+        <verse osisID='Matt.11.2'> János pedig, mikor meghallotta a fogságban a Krisztus cselekedeteit, elküldvén kettõt az õ tanítványai közül,</verse>
+        <verse osisID='Matt.11.3'> Monda néki: Te vagy-é az, a ki eljövendõ, vagy mást várjunk?</verse>
+        <verse osisID='Matt.11.4'> És felelvén Jézus, monda nékik: Menjetek el és jelentsétek Jánosnak, a miket hallotok és láttok:</verse>
+        <verse osisID='Matt.11.5'> A vakok látnak, és a sánták járnak; a poklosok megtisztulnak és a siketek hallanak; a halottak föltámadnak, és a szegényeknek evangyéliom hirdettetik;</verse>
+        <verse osisID='Matt.11.6'> És boldog, a ki én bennem meg nem botránkozik.</verse>
+        <verse osisID='Matt.11.7'> Mikor pedig azok elmentek vala, szólni kezde Jézus a sokaságnak Jánosról: Mit látni mentetek ki a pusztába? Nádszálat-é, a mit a szél hajtogat?</verse>
+        <verse osisID='Matt.11.8'> Hát mit látni mentetek ki? Puha ruhába öltözött embert-é? Ímé a kik puha ruhákat viselnek, a királyok palotáiban vannak.</verse>
+        <verse osisID='Matt.11.9'> Hát mit látni mentetek ki? Prófétát-é? Bizony, mondom néktek, prófétánál is nagyobbat!</verse>
+        <verse osisID='Matt.11.10'> Mert õ az, a kirõl meg van írva: Ímé én elküldöm az én követemet a te orczád elõtt, a ki megkészíti elõtted a te útadat.</verse>
+        <verse osisID='Matt.11.11'> Bizony mondom néktek: az asszonyoktól szülöttek között nem támadott nagyobb Keresztelõ Jánosnál; de a ki legkisebb a mennyeknek országában, nagyobb nálánál.</verse>
+        <verse osisID='Matt.11.12'> A Keresztelõ János idejétõl fogva pedig mind mostanig erõszakoskodnak a mennyek országáért, és az erõszakoskodók ragadják el azt.</verse>
+        <verse osisID='Matt.11.13'> Mert a próféták mindnyájan és a törvény Jánosig prófétáltak vala.</verse>
+        <verse osisID='Matt.11.14'> És, ha be akarjátok venni, Illés õ, a ki eljövendõ vala.</verse>
+        <verse osisID='Matt.11.15'> A kinek van füle a hallásra, hallja.</verse>
+        <verse osisID='Matt.11.16'> De kihez hasonlítsam ezt a nemzetséget? Hasonlatos a gyermekekhez, a kik a piaczon ülnek, és kiáltoznak az õ társaiknak,</verse>
+        <verse osisID='Matt.11.17'> És ezt mondják: Sípoltunk néktek, és nem tánczoltatok; siralmas énekeket énekeltünk néktek, és nem sírtatok.</verse>
+        <verse osisID='Matt.11.18'> Mert eljött János, a ki sem eszik, sem iszik, és azt mondják: Ördög van benne.</verse>
+        <verse osisID='Matt.11.19'> Eljött az embernek Fia, a ki eszik és iszik, és ezt mondják: Ímé a nagy étü és részeges ember, a vámszedõk és bûnösök barátja! És igazoltaték a bölcseség az õ fiaitól.</verse>
+        <verse osisID='Matt.11.20'> Ekkor elkezdé szemökre hányni ama városoknak, a melyekben legtöbb csodái lõnek, hogy nem tértek vala meg:</verse>
+        <verse osisID='Matt.11.21'> Jaj néked Korazin! Jaj néked Bethsaida! Mert ha Tirusban és Sidonban történnek vala azok a csodák, a melyek bennetek lõnek, rég megtértek volna gyászruhában és hamuban.</verse>
+        <verse osisID='Matt.11.22'> De mondom néktek: Tirusnak és Sidonnak könnyebb dolga lesz az ítélet napján, hogynem néktek.</verse>
+        <verse osisID='Matt.11.23'> Te is Kapernaum, a ki az égig felmagasztaltattál, a pokolig fogsz megaláztatni; mert ha Sodomában történnek vala azok a csodák, a melyek te benned lõnek, mind e mai napig megmaradt volna.</verse>
+        <verse osisID='Matt.11.24'> De mondom néktek, hogy Sodoma földének könnyebb dolga lesz az ítélet napján, hogynem néked.</verse>
+        <verse osisID='Matt.11.25'> Abban az idõben szólván Jézus, monda: Hálákat adok néked, Atyám, mennynek és földnek Ura, hogy elrejtetted ezeket a bölcsek és az értelmesek elõl, és a kisdedeknek megjelentetted.</verse>
+        <verse osisID='Matt.11.26'> Igen, Atyám, mert így volt kedves te elõtted.</verse>
+        <verse osisID='Matt.11.27'> Mindent nékem adott át az én Atyám, és senki sem ismeri a Fiút, csak az Atya; az Atyát sem ismeri senki, csak a Fiú, és a kinek a Fiú akarja megjelenteni.</verse>
+        <verse osisID='Matt.11.28'> Jõjjetek én hozzám mindnyájan, a kik megfáradtatok és megterheltettetek, és én megnyugosztlak titeket.</verse>
+        <verse osisID='Matt.11.29'> Vegyétek föl magatokra az én igámat, és tanuljátok meg tõlem, hogy én szelid és alázatos szívû vagyok: és nyugalmat találtok a ti lelkeiteknek.</verse>
+        <verse osisID='Matt.11.30'> Mert az én igám gyönyörûséges, és az én terhem könnyû.</verse>
+      </chapter>
+      <chapter osisID='Matt.12'>
+        <verse osisID='Matt.12.1'> Abban az idõben a vetéseken át haladt Jézus szombatnapon; tanítványai pedig megéheztek, és kezdték a kalászokat tépni és enni.</verse>
+        <verse osisID='Matt.12.2'> Látván pedig ezt a farizeusok, mondának néki: Ímé a te tanítványaid azt cselekszik, a mit nem szabad szombatnapon cselekedni.</verse>
+        <verse osisID='Matt.12.3'> Õ pedig monda nékik: Nem olvastátok-é, mit cselekedett Dávid, mikor megéhezett vala õ és a kik vele valának?</verse>
+        <verse osisID='Matt.12.4'> Hogyan ment be az Isten házába, és ette meg a szentelt kenyereket, a melyeket nem vala szabad megennie néki, sem azoknak, a kik õ vele valának, hanem csak a papoknak?</verse>
+        <verse osisID='Matt.12.5'> Vagy nem olvastátok-é a törvényben, hogy szombatnapon megtörik a papok a szombatot a templomban és nem vétkeznek?</verse>
+        <verse osisID='Matt.12.6'> Mondom pedig néktek, hogy a templomnál nagyobb van itt.</verse>
+        <verse osisID='Matt.12.7'> Ha pedig tudnátok, mi ez: Irgalmasságot akarok és nem áldozatot, nem kárhoztattátok volna az ártatlanokat.</verse>
+        <verse osisID='Matt.12.8'> Mert a szombatnak is Ura az embernek Fia.</verse>
+        <verse osisID='Matt.12.9'> És távozván onnan, méne az õ zsinagógájukba.</verse>
+        <verse osisID='Matt.12.10'> És ímé, vala ott egy elszáradt kezû ember. És megkérdék õt, mondván: Ha szabad-é szombatnapon gyógyítani? hogy vádolhassák õt.</verse>
+        <verse osisID='Matt.12.11'> Õ pedig monda nékik: Kicsoda közületek az az ember, a kinek van egy juha, és ha az szombatnapon a verembe esik, meg nem ragadja és ki nem vonja azt?</verse>
+        <verse osisID='Matt.12.12'> Mennyivel drágább pedig az ember a juhnál! Szabad tehát szombatnapon jót cselekedni.</verse>
+        <verse osisID='Matt.12.13'> Akkor monda annak az embernek: Nyújtsd ki a kezedet. És kinyújtá, és olyan éppé lõn, mint a másik.</verse>
+        <verse osisID='Matt.12.14'> A farizeusok pedig kimenvén, tanácsot tartának ellene, hogyan veszíthetnék el õt.</verse>
+        <verse osisID='Matt.12.15'> Jézus pedig észrevévén ezt, eltávozék onnan. És követé õt nagy sokaság, és õ meggyógyítja vala mindnyájokat;</verse>
+        <verse osisID='Matt.12.16'> És megfenyegeté õket, hogy õt ismertté ne tegyék;</verse>
+        <verse osisID='Matt.12.17'> Hogy beteljesedjék Ésaiás próféta mondása, a ki így szólt:</verse>
+        <verse osisID='Matt.12.18'> Ímé az én szolgám, a kit választottam; az én szerelmesem, a kiben az én lelkem kedvét lelé; lelkemet adom õ belé, és ítéletet hirdet a pogányoknak.</verse>
+        <verse osisID='Matt.12.19'> Nem verseng, és nem kiált; az utczákon senki nem hallja szavát.</verse>
+        <verse osisID='Matt.12.20'> A megrepedezett nádat nem töri el, és a pislogó gyertyabelet nem oltja ki, mígnem diadalomra viszi az ítéletet.</verse>
+        <verse osisID='Matt.12.21'> És az õ nevében reménykednek majd a pogányok.</verse>
+        <verse osisID='Matt.12.22'> Akkor egy vak és néma ördöngõst hoztak õ eléje; és meggyógyítá azt, annyira, hogy a vak és néma mind beszél, mind lát vala.</verse>
+        <verse osisID='Matt.12.23'> És elálmélkodék az egész sokaság, és monda: Vajjon nem ez-é Dávidnak ama Fia?</verse>
+        <verse osisID='Matt.12.24'> A farizeusok pedig ezt hallván, mondának: Ez nem ûzi ki az ördögöket, hanemha Belzebubbal, az ördögök fejedelmével.</verse>
+        <verse osisID='Matt.12.25'> Jézus pedig, tudva az õ gondolataikat, monda nékik: Minden ország, a mely magával meghasonlik, elpusztul; és egy város vagy háznép sem állhat meg, a mely meghasonlik magával.</verse>
+        <verse osisID='Matt.12.26'> Ha pedig a Sátán a Sátánt ûzi ki, önmagával hasonlott meg; mimódon állhat meg tehát az õ országa?</verse>
+        <verse osisID='Matt.12.27'> És ha én Belzebub által ûzöm ki az ördögöket, a ti fiaitok ki által ûzik ki? Azért õk magok lesznek a ti bíráitok.</verse>
+        <verse osisID='Matt.12.28'> Ha pedig én Istennek Lelke által ûzöm ki az ördögöket, akkor kétség nélkül elérkezett hozzátok az Isten országa.</verse>
+        <verse osisID='Matt.12.29'> Avagy mi módon mehet be valaki a hatalmasnak házába és rabolhatja el annak kincseit, hanemha megkötözi elõbb a hatalmast és akkor rabolja ki annak házát?</verse>
+        <verse osisID='Matt.12.30'> A ki velem nincsen, ellenem van; és a ki velem nem gyûjt, tékozol.</verse>
+        <verse osisID='Matt.12.31'> Azt mondom azért néktek: Minden bûn és káromlás megbocsáttatik az embereknek; de a Lélek káromlása nem bocsáttatik meg az embereknek.</verse>
+        <verse osisID='Matt.12.32'> Még a ki az ember Fia ellen szól, annak is megbocsáttatik; de a ki a Szent Lélek ellen szól, annak sem ezen, sem a más világon meg nem bocsáttatik.</verse>
+        <verse osisID='Matt.12.33'> Vagy legyetek jó fák, és teremjetek jó gyümölcsöt, vagy legyetek romlott fák, és teremjetek romlott gyümölcsöt; mert gyümölcsérõl ismerik meg a fát.</verse>
+        <verse osisID='Matt.12.34'> Mérges kígyóknak fajzatai, mi módon szólhattok jókat, holott gonoszak vagytok? Mert a szívnek teljességébõl szól a száj.</verse>
+        <verse osisID='Matt.12.35'> A jó ember az õ szívének jó kincseibõl hozza elõ a jókat; és a gonosz ember az õ szívének gonosz kincseibõl hozza elõ a gonoszokat.</verse>
+        <verse osisID='Matt.12.36'> De mondom néktek: Minden hivalkodó beszédért, a mit beszélnek az emberek, számot adnak majd az ítélet napján.</verse>
+        <verse osisID='Matt.12.37'> Mert a te beszédidbõl ismertetel igaznak, és a te beszédidbõl ismertetel hamisnak.</verse>
+        <verse osisID='Matt.12.38'> Ekkor felelének néki némelyek az írástudók és farizeusok közül, mondván: Mester, jelt akarnánk látni te tõled.</verse>
+        <verse osisID='Matt.12.39'> Õ pedig felelvén, monda nékik: E gonosz és parázna nemzetség jelt kiván; és nem adatik jel néki, hanemha Jónás prófétának jele.</verse>
+        <verse osisID='Matt.12.40'> Mert a miképen Jónás három éjjel és három nap volt a czethal gyomrában, azonképen az embernek Fia is három nap és három éjjel lesz a föld gyomrában.</verse>
+        <verse osisID='Matt.12.41'> Ninive férfiai az ítéletkor együtt támadnak majd fel ezzel a nemzetséggel, és kárhoztatják ezt: mivelhogy õk megtértek a Jónás prédikálására; és ímé nagyobb van itt Jónásnál.</verse>
+        <verse osisID='Matt.12.42'> Délnek királyné asszonya felkél majd az ítéletkor e nemzetséggel együtt, és kárhoztatja ezt: mert õ eljött a földnek szélérõl, hogy hallhassa a Salamon bölcseségét; és ímé, nagyobb van itt Salamonnál.</verse>
+        <verse osisID='Matt.12.43'> Mikor pedig a tisztátalan lélek kimegy az emberbõl, víz nélkül való helyeken jár, nyugalmat keresve, és nem talál:</verse>
+        <verse osisID='Matt.12.44'> Akkor ezt mondja: Visszatérek az én házamba, a honnét kijöttem. És oda menvén, üresen, kisöpörve és fölékesítve találja azt.</verse>
+        <verse osisID='Matt.12.45'> Akkor elmegy és vesz maga mellé más hét lelket, gonoszabbakat õ magánál, és bemenvén, ott lakoznak; és ennek az embernek utolsó állapotja gonoszabb lesz az elsõnél. Így lesz ezzel a gonosz nemzetséggel is.</verse>
+        <verse osisID='Matt.12.46'> Mikor pedig még szóla a sokaságnak, ímé az õ anyja és az õ testvérei állanak vala odakünn, akarván õ vele szólni.</verse>
+        <verse osisID='Matt.12.47'> És monda néki valaki: Ímé a te anyád és testvéreid odakünn állanak, és szólni akarnak veled.</verse>
+        <verse osisID='Matt.12.48'> Õ pedig felelvén, monda a hozzá szólónak: Kicsoda az én anyám; és kik az én testvéreim?</verse>
+        <verse osisID='Matt.12.49'> És kinyujtván kezét az õ tanítványaira, monda: Ímé az én anyám és az én testvéreim!</verse>
+        <verse osisID='Matt.12.50'> Mert a ki cselekszi az én mennyei Atyám akaratát, az nékem fitestvérem, nõtestvérem és anyám.</verse>
+      </chapter>
+      <chapter osisID='Matt.13'>
+        <verse osisID='Matt.13.1'> Azon a napon kimenvén Jézus a házból, leüle a tenger mellett.</verse>
+        <verse osisID='Matt.13.2'> És nagy sokaság gyülekezék õ hozzá, annyira, hogy õ a hajóba méne leülni; az egész sokaság pedig a parton áll vala.</verse>
+        <verse osisID='Matt.13.3'> És sokat beszéle nékik példázatokban, mondván: Ímé kiméne a magvetõ vetni,</verse>
+        <verse osisID='Matt.13.4'> És a mikor õ vet vala, némely mag az útfélre esék; és eljövén a madarak, elkapdosák azt.</verse>
+        <verse osisID='Matt.13.5'> Némely pedig a köves helyre esék, a hol nem sok földje vala; és hamar kikele, mivelhogy nem vala mélyen a földben.</verse>
+        <verse osisID='Matt.13.6'> De mikor a nap felkelt, elsüle; és mivelhogy gyökere nem vala, elszáradott.</verse>
+        <verse osisID='Matt.13.7'> Némely pedig a tövisek közé esék, és a tövisek felnevekedvén, megfojták azt.</verse>
+        <verse osisID='Matt.13.8'> Némely pedig a jó földbe esék, és gyümölcsöt terme, némely száz annyit, némely hatvan annyit, némely pedig harmincz annyit.</verse>
+        <verse osisID='Matt.13.9'> A kinek van füle a hallásra, hallja.</verse>
+        <verse osisID='Matt.13.10'> A tanítványok pedig hozzámenvén, mondának néki: Miért szólasz nékik példázatokban?</verse>
+        <verse osisID='Matt.13.11'> Õ pedig felelvén, monda nékik: Mert néktek megadatott, hogy érthessétek a mennyek országának titkait, ezeknek pedig nem adatott meg.</verse>
+        <verse osisID='Matt.13.12'> Mert a kinek van, annak adatik, és bõvölködik; de a kinek nincs, az is elvétetik tõle, a mije van.</verse>
+        <verse osisID='Matt.13.13'> Azért szólok velök példázatokban, mert látván nem látnak, és hallván nem hallanak, sem nem értenek.</verse>
+        <verse osisID='Matt.13.14'> És beteljesedék rajtok Ésaiás jövendölése, a mely ezt mondja: Hallván halljatok, és ne értsetek; és látván lássatok, és ne ismerjetek:</verse>
+        <verse osisID='Matt.13.15'> Mert megkövéredett e népnek szíve, és füleikkel nehezen hallottak, és szemeiket behunyták; hogy valami módon ne lássanak szemeikkel, és ne halljanak füleikkel, és ne értsenek szívükkel, és meg ne térjenek, és meg ne gyógyítsam õket.</verse>
+        <verse osisID='Matt.13.16'> A ti szemeitek pedig boldogok, hogy látnak; és a ti füleitek, hogy hallanak.</verse>
+        <verse osisID='Matt.13.17'> Mert bizony mondom néktek, hogy sok próféta és igaz kívánta látni, a miket ti láttok, és nem látták; és hallani, a miket ti hallotok, és nem hallották.</verse>
+        <verse osisID='Matt.13.18'> Ti halljátok meg azért a magvetõ példázatát.</verse>
+        <verse osisID='Matt.13.19'> Ha valaki hallja az ígét a mennyeknek országáról és nem érti, eljõ a gonosz és elkapja azt, a mi annak szívébe vettetett vala. Ez az, a mely az útfélre esett.</verse>
+        <verse osisID='Matt.13.20'> A mely pedig a köves helyre esett, ez az, a ki hallja az ígét, és mindjárt örömmel fogadja;</verse>
+        <verse osisID='Matt.13.21'> De nincs gyökere benne, hanem csak ideig való; mihelyt pedig nyomorgatás vagy üldözés támad az íge miatt, azonnal megbotránkozik.</verse>
+        <verse osisID='Matt.13.22'> A mely pedig a tövisek közé esett, ez az, a ki hallja az ígét, de e világnak gondja és a gazdagságnak csalárdsága elfojtja az ígét, és gyümölcsöt nem terem.</verse>
+        <verse osisID='Matt.13.23'> A mely pedig a jó földbe esett, ez az, a ki hallja és érti az ígét; a ki gyümölcsöt is terem, és terem némely száz annyit, némely hatvan annyit, némely pedig harmincz annyit.</verse>
+        <verse osisID='Matt.13.24'> Más példázatot is adott eléjök, mondván: Hasonlatos a mennyeknek országa az emberhez, a ki az õ földébe jó magot vetett;</verse>
+        <verse osisID='Matt.13.25'> De mikor az emberek alusznak vala, eljöve az õ ellensége és konkolyt vete a búza közé, és elméne.</verse>
+        <verse osisID='Matt.13.26'> Mikor pedig felnevekedék a vetés, és gyümölcsöt terme, akkor meglátszék a konkoly is.</verse>
+        <verse osisID='Matt.13.27'> A gazda szolgái pedig elõállván, mondának néki: Uram, avagy nem tiszta magot vetettél-e a te földedbe? honnan van azért benne a konkoly?</verse>
+        <verse osisID='Matt.13.28'> Õ pedig monda nékik: Valamely ellenség cselekedte azt. A szolgák pedig mondának néki: Akarod-é tehát, hogy elmenvén, összeszedjük azokat?</verse>
+        <verse osisID='Matt.13.29'> Õ pedig monda: Nem. Mert a mikor összeszeditek a konkolyt, azzal együtt netalán a búzát is kiszaggatjátok.</verse>
+        <verse osisID='Matt.13.30'> Hagyjátok, hogy együtt nõjjön mind a kettõ az aratásig, és az aratás idején azt mondom majd az aratóknak: Szedjétek össze elõször a konkolyt, és kössétek kévékbe, hogy megégessétek; a búzát pedig takarítsátok az én csûrömbe.</verse>
+        <verse osisID='Matt.13.31'> Más példázatot is adott eléjök, mondván: Hasonlatos a mennyeknek országa a mustármaghoz, a melyet vévén az ember, elvete az õ mezejében;</verse>
+        <verse osisID='Matt.13.32'> A mely kisebb ugyan minden magnál; de a mikor felnõ, nagyobb a veteményeknél, és fává lesz, annyira, hogy reá szállanak az égi madarak, és fészket raknak ágain.</verse>
+        <verse osisID='Matt.13.33'> Más példázatot is mondott nékik: Hasonlatos a mennyeknek országa a kovászhoz, a melyet vévén az asszony, három mércze lisztbe elegyíte, mígnem az egész megkele.</verse>
+        <verse osisID='Matt.13.34'> Mind ezeket példázatokban mondá Jézus a sokaságnak, és példázat nélkül semmit sem szóla nékik,</verse>
+        <verse osisID='Matt.13.35'> Hogy beteljék a mit a próféta szólott, mondván: Megnyitom az én számat példázatokra; és kitárom, amik e világ alapítása óta rejtve valának.</verse>
+        <verse osisID='Matt.13.36'> Ekkor elbocsátván a sokaságot, beméne Jézus a házba. És az õ tanítványai hozzámenének, mondván: Magyarázd meg nékünk a szántóföld konkolyáról való példázatot.</verse>
+        <verse osisID='Matt.13.37'> Õ pedig felelvén monda nékik: A ki a jó magot veti, az az embernek Fia;</verse>
+        <verse osisID='Matt.13.38'> A szántóföld pedig a világ; a jó mag az Isten országának fiai; a konkoly pedig a gonosznak fiai.</verse>
+        <verse osisID='Matt.13.39'> Az ellenség pedig, a ki a konkolyt vetette, az ördög; az aratás pedig a világ vége; az aratók pedig az angyalok.</verse>
+        <verse osisID='Matt.13.40'> A miképen azért összegyûjtik a konkolyt és megégetik: akképen lesz a világnak végén.</verse>
+        <verse osisID='Matt.13.41'> Az embernek Fia elküldi az õ angyalait, és az õ országából összegyûjtik a botránkozásokat mind, és azokat is, a kik gonoszságot cselekesznek,</verse>
+        <verse osisID='Matt.13.42'> És bevetik õket a tüzes kemenczébe: ott lészen sírás és fogcsikorgatás.</verse>
+        <verse osisID='Matt.13.43'> Akkor az igazak fénylenek, mint a nap, az õ Atyjoknak országában. A kinek van füle a hallásra, hallja.</verse>
+        <verse osisID='Matt.13.44'> Ismét hasonlatos a mennyeknek országa a szántóföldben elrejtett kincshez, a melyet megtalálván az ember, elrejté azt; és a felett való örömében elmegy és eladván mindenét a mije van, megveszi azt a szántóföldet.</verse>
+        <verse osisID='Matt.13.45'> Ismét hasonlatos a mennyeknek országa a kereskedõhöz, a ki igazgyöngyöket keres;</verse>
+        <verse osisID='Matt.13.46'> A ki találván egy drágagyöngyre, elméne, és mindenét eladván a mije volt, megvevé azt.</verse>
+        <verse osisID='Matt.13.47'> Szintén hasonlatos a mennyeknek országa a tengerbe vetett gyalomhoz, a mely mindenféle fajtát összefogott;</verse>
+        <verse osisID='Matt.13.48'> Melyet, minekutána megtelt, a partra vontak a halászok, és leülvén, a jókat edényekbe gyûjtötték, a hitványakat pedig kihányták.</verse>
+        <verse osisID='Matt.13.49'> Így lesz a világ végén is: Eljõnek majd az angyalok, és kiválasztják a gonoszokat az igazak közül.</verse>
+        <verse osisID='Matt.13.50'> És a tüzes kemenczébe vetik õket; ott lészen sírás és fogcsikorgatás.</verse>
+        <verse osisID='Matt.13.51'> Monda nékik Jézus: Megértettétek-é mindezeket? Mondának néki: Megértettük Uram.</verse>
+        <verse osisID='Matt.13.52'> Õ pedig monda nékik: Annakokáért minden írástudó, a ki a mennyeknek országa felõl megtaníttatott, hasonlatos az olyan gazdához, a ki ót és újat hoz elõ az õ éléstárából.</verse>
+        <verse osisID='Matt.13.53'> És lõn, a mikor elvégzé Jézus ezeket a példázatokat, elméne onnan.</verse>
+        <verse osisID='Matt.13.54'> És hazájába érve, tanítja vala õket az õ zsinagógájukban, annyira, hogy álmélkodnak és ezt mondják vala: Honnét van ebben ez a bölcseség és az erõk?</verse>
+        <verse osisID='Matt.13.55'> Nem ez-é amaz ácsmesternek fia? Nem az õ anyját hívják-é Máriának, és az õ testvéreit Jakabnak, Józsénak, Simonnak és Júdásnak?</verse>
+        <verse osisID='Matt.13.56'> És az õ nõtestvérei is nem mind minálunk vannak-é? Honnét vannak tehát ennél mindezek?</verse>
+        <verse osisID='Matt.13.57'> És megbotránkoznak vala õ benne. Jézus pedig monda nékik: Nincsen próféta tisztesség nélkül, hanem csak az õ hazájában és házában.</verse>
+        <verse osisID='Matt.13.58'> Nem is tõn ott sok csodát, az õ hitetlenségök miatt.</verse>
+      </chapter>
+      <chapter osisID='Matt.14'>
+        <verse osisID='Matt.14.1'> Abban az idõben hírét hallá Heródes negyedes fejedelem Jézusnak,</verse>
+        <verse osisID='Matt.14.2'> És monda szolgáinak: Ez ama Keresztelõ János; õ támadt fel a halálból, és azért mûködnek benne az erõk.</verse>
+        <verse osisID='Matt.14.3'> Mert Heródes elfogatta vala Jánost, és megkötöztetvén, tömlöczbe vetette vala Heródiásért, az õ testvérének, Fülöpnek feleségéért.</verse>
+        <verse osisID='Matt.14.4'> Mert ezt mondja vala néki János: Nem szabad néked õvele élned.</verse>
+        <verse osisID='Matt.14.5'> De mikor meg akarta öletni, félt a sokaságtól, mert mint egy prófétát úgy tartják vala õt.</verse>
+        <verse osisID='Matt.14.6'> Hanem mikor a Heródes születése napját ünnepelék, tánczola a Heródiás leánya õ elõttük, és megtetszék Heródesnek;</verse>
+        <verse osisID='Matt.14.7'> Azért esküvéssel fogadá, hogy a mit kér, megadja néki.</verse>
+        <verse osisID='Matt.14.8'> A leány pedig, anyja rábeszélésére, monda: Add ide nékem egy tálban a Keresztelõ János fejét.</verse>
+        <verse osisID='Matt.14.9'> És megszomorodék a király, de esküjéért és a vendégek miatt parancsolá, hogy adják oda.</verse>
+        <verse osisID='Matt.14.10'> És elküldvén, fejét véteté Jánosnak a tömlöczben.</verse>
+        <verse osisID='Matt.14.11'> És elõhozák az õ fejét egy tálban, és adák a leánynak; az pedig vivé az õ anyjának.</verse>
+        <verse osisID='Matt.14.12'> És elõjövén az õ tanítványai, elvivék a testet, és eltemeték azt; és elmenvén, megjelenték Jézusnak.</verse>
+        <verse osisID='Matt.14.13'> És mikor ezt meghallotta Jézus, elméne onnét hajón egy puszta helyre egyedül. A sokaság pedig ezt hallva, gyalog követé õt a városokból.</verse>
+        <verse osisID='Matt.14.14'> És kimenvén Jézus, láta nagy sokaságot, és megszáná õket, és azoknak betegeit meggyógyítá.</verse>
+        <verse osisID='Matt.14.15'> Mikor pedig estveledék, hozzá menének az õ tanítványai, mondván: Puszta hely ez, és az idõ már elmúlt; bocsásd el a sokaságot, hogy menjenek el a falvakba és vegyenek magoknak eleséget.</verse>
+        <verse osisID='Matt.14.16'> Jézus pedig monda nékik: Nem szükség elmenniök; adjatok nékik ti enniök.</verse>
+        <verse osisID='Matt.14.17'> Azok pedig mondának néki: Nincsen itt, csupán öt kenyerünk és két halunk.</verse>
+        <verse osisID='Matt.14.18'> Õ pedig monda: Hozzátok azokat ide hozzám.</verse>
+        <verse osisID='Matt.14.19'> És mikor megparancsolá a sokaságnak, hogy üljenek le a fûre, vevé az öt kenyeret és két halat, és szemeit az égre emelvén, hálákat ada; és megszegvén a kenyereket, adá a tanítványoknak, a tanítványok pedig a sokaságnak.</verse>
+        <verse osisID='Matt.14.20'> És mindnyájan evének, és megelégedének; és felszedék a maradék darabokat, tizenkét teli kosárral.</verse>
+        <verse osisID='Matt.14.21'> A kik pedig ettek vala, mintegy ötezeren valának férfiak, asszonyokon és gyermekeken kívül.</verse>
+        <verse osisID='Matt.14.22'> És mindjárt kényszeríté Jézus az õ tanítványait, hogy szálljanak a hajóba és menjenek át elõre a túlsó partra, míg õ elbocsátja a sokaságot.</verse>
+        <verse osisID='Matt.14.23'> És a mint elbocsátá a sokaságot, felméne a hegyre, magánosan imádkozni. Mikor pedig beestveledék, egyedül vala ott.</verse>
+        <verse osisID='Matt.14.24'> A hajó pedig immár a tenger közepén vala, a haboktól háborgattatva; mivelhogy a szél szembe fújt vala.</verse>
+        <verse osisID='Matt.14.25'> Az éjszaka negyedik részében pedig hozzájuk méne Jézus, a tengeren járván.</verse>
+        <verse osisID='Matt.14.26'> És mikor látták a tanítványok, hogy õ a tengeren jára, megrémülének, mondván: Ez kísértet; és a félelem miatt kiáltozának.</verse>
+        <verse osisID='Matt.14.27'> De Jézus azonnal szóla hozzájuk, mondván: Bízzatok; én vagyok, ne féljetek!</verse>
+        <verse osisID='Matt.14.28'> Péter pedig felelvén néki, monda: Uram, ha te vagy, parancsolj, hogy hozzád mehessek a vizeken.</verse>
+        <verse osisID='Matt.14.29'> Õ pedig monda: Jövel! És Péter kiszállván a hajóból, jár vala a vizeken, hogy Jézushoz menjen.</verse>
+        <verse osisID='Matt.14.30'> De látva a nagy szelet, megrémüle; és a mikor kezd vala merülni, kiálta, mondván: Uram, tarts meg engem!</verse>
+        <verse osisID='Matt.14.31'> Jézus pedig azonnal kinyújtván kezét, megragadá õt, és monda néki: Kicsinyhitû, miért kételkedél?</verse>
+        <verse osisID='Matt.14.32'> És a mikor beléptek a hajóba, elállt a szél.</verse>
+        <verse osisID='Matt.14.33'> A hajóban levõk pedig hozzámenvén, leborulának elõtte, mondván: Bizony, Isten Fia vagy!</verse>
+        <verse osisID='Matt.14.34'> És általkelvén, eljutának Genezáret földére.</verse>
+        <verse osisID='Matt.14.35'> És mikor megismerték õt annak a helynek lakosai, szétküldének abba az egész környékbe, és minden beteget hozzá hozának;</verse>
+        <verse osisID='Matt.14.36'> És kérik vala õt, hogy csak az õ ruhájának peremét illethessék. És a kik illeték vala, mindnyájan meggyógyulának.</verse>
+      </chapter>
+      <chapter osisID='Matt.15'>
+        <verse osisID='Matt.15.1'> Akkor írástudók és farizeusok jõnek vala Jézushoz, Jeruzsálembõl, mondván:</verse>
+        <verse osisID='Matt.15.2'> Miért hágják át a te tanítványaid a vének rendeléseit? Mert nem mossák meg a kezeiket, mikor enni akarnak.</verse>
+        <verse osisID='Matt.15.3'> Õ pedig felelvén monda nékik: Ti meg miért hágjátok át az Isten parancsolatját a ti rendeléseitek által?</verse>
+        <verse osisID='Matt.15.4'> Mert Isten parancsolta ezt, mondván: Tiszteld atyádat és anyádat, és: A ki atyját vagy anyját szidalmazza, halállal lakoljon.</verse>
+        <verse osisID='Matt.15.5'> Ti pedig ezt mondjátok: A ki atyjának vagy anyjának ezt mondja: Templomi ajándék az, a mivel megsegíthetlek, az olyan akár ne is tisztelje az õ atyját vagy anyját.</verse>
+        <verse osisID='Matt.15.6'> És erõtelenné tettétek az Isten parancsolatját a ti rendeléseitek által.</verse>
+        <verse osisID='Matt.15.7'> Képmutatók, igazán prófétált felõletek Ésaiás, mondván:</verse>
+        <verse osisID='Matt.15.8'> Ez a nép szájával közelget hozzám, és ajkával tisztel engemet; szíve pedig távol van tõlem.</verse>
+        <verse osisID='Matt.15.9'> Pedig hiába tisztelnek engem, ha oly tudományokat tanítanak, a melyek embereknek parancsolatai.</verse>
+        <verse osisID='Matt.15.10'> És elõszólítván a sokaságot, monda nékik: Halljátok és értsétek meg:</verse>
+        <verse osisID='Matt.15.11'> Nem az fertõzteti meg az embert, a mi a szájon bemegy, hanem a mi kijön a szájból, az fertõzteti meg az embert.</verse>
+        <verse osisID='Matt.15.12'> Akkor hozzájárulván az õ tanítványai, mondának néki: Tudod-é, hogy a farizeusok e beszédet hallván, megbotránkoztak?</verse>
+        <verse osisID='Matt.15.13'> Õ pedig felelvén, monda: Minden plánta, a melyet nem az én mennyei Atyám plántált, kitépetik.</verse>
+        <verse osisID='Matt.15.14'> Hagyjátok õket; vakoknak vak vezetõi õk: ha pedig vak vezeti a vakot, mind a ketten a verembe esnek.</verse>
+        <verse osisID='Matt.15.15'> Péter pedig felelvén, monda néki: Magyarázd meg nékünk ezt a példázatot.</verse>
+        <verse osisID='Matt.15.16'> Jézus pedig monda: Ti is értelem nélkül vagytok-é még?</verse>
+        <verse osisID='Matt.15.17'> Mégsem értitek-é, hogy minden, a mi a szájon bemegy, a gyomorba jut, és az árnyékszékbe vettetik?</verse>
+        <verse osisID='Matt.15.18'> A mik pedig a szájból jõnek ki, a szívbõl származnak, és azok fertõztetik meg az embert.</verse>
+        <verse osisID='Matt.15.19'> Mert a szívbõl származnak a gonosz gondolatok, gyilkosságok, házasságtörések, paráznaságok, lopások, hamis tanubizonyságok, káromlások.</verse>
+        <verse osisID='Matt.15.20'> Ezek fertõztetik meg az embert; de a mosdatlan kézzel való evés nem fertõzteti meg az embert.</verse>
+        <verse osisID='Matt.15.21'> És elmenvén onnét Jézus, Tirus és Sidon vidékeire tére.</verse>
+        <verse osisID='Matt.15.22'> És ímé egy kananeus asszony jövén ki abból a tartományból, kiált vala néki: Uram, Dávidnak fia, könyörülj rajtam! az én leányom az ördögtõl gonoszul gyötörtetik.</verse>
+        <verse osisID='Matt.15.23'> Õ pedig egy szót sem felele néki. És az õ tanítványai hozzá menvén, kérik vala õt, mondván: Bocsásd el õt, mert utánunk kiált.</verse>
+        <verse osisID='Matt.15.24'> Õ pedig felelvén, monda: Nem küldettem, csak az Izráel házának elveszett juhaihoz.</verse>
+        <verse osisID='Matt.15.25'> Az asszony pedig odaérvén, leborula elõtte, mondván: Uram, légy segítségül nékem!</verse>
+        <verse osisID='Matt.15.26'> Õ pedig felelvén, monda: Nem jó a fiak kenyerét elvenni, és az ebeknek vetni.</verse>
+        <verse osisID='Matt.15.27'> Az pedig monda: Úgy van, Uram; de hiszen az ebek is esznek a morzsalékokból, a mik az õ uroknak asztaláról aláhullanak.</verse>
+        <verse osisID='Matt.15.28'> Ekkor felelvén Jézus, monda néki: Óh asszony, nagy a te hited! Legyen néked a te akaratod szerint. És meggyógyula az õ leánya attól a pillanattól fogva.</verse>
+        <verse osisID='Matt.15.29'> És onnét távozva, méne Jézus a Galilea tengere mellé; és felmenvén a hegyre, ott leüle.</verse>
+        <verse osisID='Matt.15.30'> És nagy sokaság megy vala hozzá, vivén magokkal sántákat, vakokat, némákat, csonkákat és sok egyebeket, és odahelyezék õket a Jézus lábai elé; és meggyógyítá õket,</verse>
+        <verse osisID='Matt.15.31'> Úgy hogy a sokaság álmélkodik vala, látván, hogy a némák beszélnek, a csonkák megépülnek, a sánták járnak, a vakok látnak: és dicsõíték Izráel Istenét.</verse>
+        <verse osisID='Matt.15.32'> Jézus pedig elõszólítván az õ tanítványait, monda: Szánakozom e sokaságon, mert három napja immár, hogy velem vannak, és nincs mit enniök. Éhen pedig nem akarom õket elbocsátani, hogy valamiképen ki ne dõljenek az úton.</verse>
+        <verse osisID='Matt.15.33'> És mondának néki az õ tanítványai: Honnét volna e pusztában annyi kenyerünk, hogy megelégítsünk ily nagy sokaságot?</verse>
+        <verse osisID='Matt.15.34'> És monda nékik Jézus: Hány kenyeretek van? Õk pedig mondának: Hét, és néhány halunk.</verse>
+        <verse osisID='Matt.15.35'> És parancsolá a sokaságnak, hogy telepedjenek le a földön.</verse>
+        <verse osisID='Matt.15.36'> És vevén a hét kenyeret és a halakat, és hálákat adván, megtöré, és adá az õ tanítványainak, a tanítványok pedig a sokaságnak.</verse>
+        <verse osisID='Matt.15.37'> És mindnyájan evének, és megelégedének; és fölszedék a maradék darabokat hét teli kosárral.</verse>
+        <verse osisID='Matt.15.38'> A kik pedig ettek vala, négyezeren valának férfiak, asszonyokon és gyermekeken kívül.</verse>
+        <verse osisID='Matt.15.39'> És elbocsátván a sokaságot, beszálla a hajóba, és elméne Magdala határaiba.</verse>
+      </chapter>
+      <chapter osisID='Matt.16'>
+        <verse osisID='Matt.16.1'> És hozzá menvén a farizeusok és sadduczeusok, kisértvén, kérék õt, hogy mutasson nékik mennyei jelt.</verse>
+        <verse osisID='Matt.16.2'> Õ pedig felelvén, monda nékik: Mikor estveledik, azt mondjátok: Szép idõ lesz; mert veres az ég.</verse>
+        <verse osisID='Matt.16.3'> Reggel pedig: Ma zivatar lesz; mert az ég borús és veres. Képmutatók, az ég ábrázatját meg tudjátok ítélni, az idõk jeleit pedig nem tudjátok?</verse>
+        <verse osisID='Matt.16.4'> E gonosz és parázna nemzetség jelt kíván; és nem adatik néki jel, hanemha a Jónás prófétának jele. És ott hagyván õket, elméne.</verse>
+        <verse osisID='Matt.16.5'> És az õ tanítványai a tulsó partra menvén, elfelejtettek kenyeret vinni magukkal.</verse>
+        <verse osisID='Matt.16.6'> Jézus pedig monda nékik: Vigyázzatok és õrizkedjetek a farizeusok és sadduczeusok kovászától.</verse>
+        <verse osisID='Matt.16.7'> Õk pedig tanakodnak vala maguk között, mondván: Nem hoztunk kenyeret magunkkal.</verse>
+        <verse osisID='Matt.16.8'> Jézus pedig megértvén ezt, monda nékik: Mit tanakodtok magatok között óh kicsinyhitûek, hogy kenyeret nem hoztatok magatokkal?!</verse>
+        <verse osisID='Matt.16.9'> Mégsem értitek-é, nem is emlékeztek-é az ötezernek öt kenyerére, és hogy hány kosárt töltöttetek meg?</verse>
+        <verse osisID='Matt.16.10'> Sem a négyezernek hét kenyerére, és hogy hány kosárt töltöttetek meg?</verse>
+        <verse osisID='Matt.16.11'> Hogyan nem értitek, hogy nem kenyérrõl mondtam néktek, hogy õrizkedjetek a farizeusok és sadduczeusok kovászától!?</verse>
+        <verse osisID='Matt.16.12'> Ekkor értették meg, hogy nem arról szólott, hogy a kenyér kovászától, hanem hogy a farizeusok és sadduczeusok tudományától õrizkedjenek.</verse>
+        <verse osisID='Matt.16.13'> Mikor pedig Jézus Czézárea Filippi környékére méne, megkérdé tanítványait, mondván: Engemet, embernek Fiát, kinek mondanak az emberek?</verse>
+        <verse osisID='Matt.16.14'> Õk pedig mondának: Némelyek Keresztelõ Jánosnak, mások Illésnek; némelyek pedig Jeremiásnak, vagy egynek a próféták közül.</verse>
+        <verse osisID='Matt.16.15'> Monda nékik: Ti pedig kinek mondotok engem?</verse>
+        <verse osisID='Matt.16.16'> Simon Péter pedig felelvén, monda: Te vagy a Krisztus, az élõ Istennek Fia.</verse>
+        <verse osisID='Matt.16.17'> És felelvén Jézus, monda néki: Boldog vagy Simon, Jónának fia, mert nem test és vér jelentette ezt meg néked, hanem az én mennyei Atyám.</verse>
+        <verse osisID='Matt.16.18'> De én is mondom néked, hogy te Péter vagy, és ezen a kõsziklán építem fel az én anyaszentegyházamat, és a pokol kapui sem vesznek rajta diadalmat.</verse>
+        <verse osisID='Matt.16.19'> És néked adom a mennyek országának kulcsait; és a mit megkötsz a földön, a mennyekben is kötve lészen; és a mit megoldasz a földön, a mennyekben is oldva lészen.</verse>
+        <verse osisID='Matt.16.20'> Akkor megparancsolá tanítványainak, hogy senkinek se mondják, hogy õ a Jézus Krisztus.</verse>
+        <verse osisID='Matt.16.21'> Ettõl fogva kezdé Jézus jelenteni az õ tanítványainak, hogy néki Jeruzsálembe kell menni, és sokat szenvedni a vénektõl és a fõpapoktól és az írástudóktól, és megöletni, és harmadnapon föltámadni.</verse>
+        <verse osisID='Matt.16.22'> És Péter elõfogván õt, kezdé feddeni, mondván: Mentsen Isten, Uram! Nem eshetik ez meg te véled.</verse>
+        <verse osisID='Matt.16.23'> Õ pedig megfordulván, monda Péternek: Távozz tõlem Sátán; bántásomra vagy nékem; mert nem gondolsz az Isten dolgaira, hanem az emberi dolgokra.</verse>
+        <verse osisID='Matt.16.24'> Ekkor monda Jézus az õ tanítványainak: Ha valaki jõni akar én utánam, tagadja meg magát és vegye fel az õ keresztjét, és kövessen engem.</verse>
+        <verse osisID='Matt.16.25'> Mert a ki meg akarja tartani az õ életét, elveszti azt; a ki pedig elveszti az õ életét én érettem, megtalálja azt.</verse>
+        <verse osisID='Matt.16.26'> Mert mit használ az embernek, ha az egész világot megnyeri is, de az õ lelkében kárt vall? Avagy micsoda váltságot adhat az ember az õ lelkéért?</verse>
+        <verse osisID='Matt.16.27'> Mert az embernek Fia eljõ az õ Atyjának dicsõségében, az õ angyalaival; és akkor megfizet mindenkinek az õ cselekedete szerint.</verse>
+        <verse osisID='Matt.16.28'> Bizony mondom néktek: Azok között, a kik itt állanak, vannak némelyek, a kik nem kóstolják meg a halált, a míg meg nem látják az embernek Fiát eljõni az õ országában.</verse>
+      </chapter>
+      <chapter osisID='Matt.17'>
+        <verse osisID='Matt.17.1'> És hat nap mulva magához vevé Jézus Pétert, Jakabot és ennek testvérét Jánost, és felvivé õket magokban egy magas hegyre.</verse>
+        <verse osisID='Matt.17.2'> És elváltozék elõttök, és az õ orczája ragyog vala, mint a nap, ruhája pedig fehér lõn, mint a fényesség.</verse>
+        <verse osisID='Matt.17.3'> És ímé megjelenék õ nékik Mózes és Illés, a kik beszélnek vala õ vele.</verse>
+        <verse osisID='Matt.17.4'> Péter pedig megszólalván, monda Jézusnak: Uram, jó nékünk itt lennünk. Ha akarod, építsünk itt három hajlékot, néked egyet, Mózesnek is egyet, Illésnek is egyet.</verse>
+        <verse osisID='Matt.17.5'> Mikor õ még beszél vala, ímé, fényes felhõ borítá be õket; és ímé szózat lõn a felhõbõl, mondván: Ez az én szerelmes Fiam, a kiben én gyönyörködöm: õt hallgassátok.</verse>
+        <verse osisID='Matt.17.6'> És a tanítványok a mint ezt hallák, arczra esének és igen megrémülének.</verse>
+        <verse osisID='Matt.17.7'> Jézus pedig hozzájok menvén, illeté õket, és monda: Keljetek fel és ne féljetek!</verse>
+        <verse osisID='Matt.17.8'> Mikor pedig szemeiket fölemelék, senkit sem látának, hanem csak Jézust egyedül.</verse>
+        <verse osisID='Matt.17.9'> És mikor a hegyrõl alájövének, megparancsolá nékik Jézus, mondván: Senkinek se mondjátok el a mit láttatok, míg fel nem támadt az embernek Fia a halálból.</verse>
+        <verse osisID='Matt.17.10'> És megkérdezék õt az õ tanítványai, mondván: Miért mondják tehát az írástudók, hogy elõbb Illésnek kell eljõnie?</verse>
+        <verse osisID='Matt.17.11'> Jézus pedig felelvén, monda nékik: Illés bizony eljõ elõbb, és mindent helyreállít;</verse>
+        <verse osisID='Matt.17.12'> De mondom néktek, hogy Illés immár eljött, és nem ismerék meg õt, hanem azt mívelék vele, a mit akarának. Ezenképen az ember Fiának is szenvednie kell majd õ tõlük.</verse>
+        <verse osisID='Matt.17.13'> Ekkor megértették a tanítványok, hogy Keresztelõ Jánosról szóla nékik.</verse>
+        <verse osisID='Matt.17.14'> És mikor a sokasághoz értek, egy ember jöve hozzá, térdre esvén õ elõtte,</verse>
+        <verse osisID='Matt.17.15'> És mondván: Uram, könyörülj az én fiamon, mert holdkóros és kegyetlenül szenved; mivelhogy gyakorta esik a tûzbe, és gyakorta a vízbe.</verse>
+        <verse osisID='Matt.17.16'> És elvittem õt a te tanítványaidhoz, és nem tudták õt meggyógyítani.</verse>
+        <verse osisID='Matt.17.17'> Jézus pedig felelvén, monda: Óh hitetlen és elfajult nemzetség! vajjon meddig leszek veletek? vajjon meddig szenvedlek titeket? Hozzátok õt ide nékem.</verse>
+        <verse osisID='Matt.17.18'> És megdorgálá õt Jézus, és kiméne belõle az ördög; és meggyógyula a gyermek azon órától fogva.</verse>
+        <verse osisID='Matt.17.19'> Ekkor a tanítványok magukban Jézushoz menvén, mondának néki: Mi miért nem tudtuk azt kiûzni?</verse>
+        <verse osisID='Matt.17.20'> Jézus pedig monda nékik: A ti hitetlenségetek miatt. Mert bizony mondom néktek: Ha akkora hitetek volna, mint a mustármag, azt mondanátok ennek a hegynek: Menj innen amoda, és elmenne; és semmi sem volna lehetetlen néktek.</verse>
+        <verse osisID='Matt.17.21'> Ez a fajzat pedig ki nem megy, hanemha könyörgés és bõjtölés által.</verse>
+        <verse osisID='Matt.17.22'> Mikor pedig Galileában jártak vala, monda nékik Jézus: Az ember Fia emberek kezébe adatik;</verse>
+        <verse osisID='Matt.17.23'> És megölik õt, de harmadnapon föltámad. És felettébb megszomorodának.</verse>
+        <verse osisID='Matt.17.24'> Mikor pedig eljutottak vala Kapernaumba, a kétdrakma-szedõk Péterhez menének és mondának néki: A ti mesteretek nem fizeti-é a kétdrakmát?</verse>
+        <verse osisID='Matt.17.25'> Monda: Igen. És mikor beméne a házba, megelõzé õt Jézus, mondván: Mit gondolsz Simon? A föld királyai kiktõl szednek vámot vagy adót? a fiaiktól-é, vagy az idegenektõl?</verse>
+        <verse osisID='Matt.17.26'> Monda néki Péter: Az idegenektõl. Monda néki Jézus: Tehát a fiak szabadok.</verse>
+        <verse osisID='Matt.17.27'> De hogy õket meg ne botránkoztassuk, menj a tengerre, vesd be a horgot, és vond ki az elsõ halat, a mely rá akad: és felnyitván a száját, egy státert találsz benne: azt kivévén, add oda nékik én érettem és te éretted.</verse>
+      </chapter>
+      <chapter osisID='Matt.18'>
+        <verse osisID='Matt.18.1'> Abban az órában menének a tanítványok Jézushoz, mondván: Vajjon ki nagyobb a mennyeknek országában?</verse>
+        <verse osisID='Matt.18.2'> És elõhíván Jézus egy kis gyermeket, közéjök állítja vala azt,</verse>
+        <verse osisID='Matt.18.3'> És monda: Bizony mondom néktek, ha meg nem tértek és olyanok nem lesztek mint a kis gyermekek, semmiképen nem mentek be a mennyeknek országába.</verse>
+        <verse osisID='Matt.18.4'> A ki azért megalázza magát, mint ez a kis gyermek, az a nagyobb a mennyeknek országában.</verse>
+        <verse osisID='Matt.18.5'> És a ki egy ilyen kis gyermeket befogad az én nevemben, engem fogad be.</verse>
+        <verse osisID='Matt.18.6'> A ki pedig megbotránkoztat egyet e kicsinyek közül, a kik én bennem hisznek, jobb annak, hogy malomkövet kössenek a nyakára, és a tenger mélységébe vessék.</verse>
+        <verse osisID='Matt.18.7'> Jaj a világnak a botránkozások miatt! Mert szükség, hogy botránkozások essenek; de jaj annak az embernek, a ki által a botránkozás esik.</verse>
+        <verse osisID='Matt.18.8'> Ha pedig a te kezed vagy a te lábad megbotránkoztat téged, vágd le azokat és vesd el magadtól; jobb néked az életre sántán vagy csonkán bemenned, hogynem két kézzel vagy két lábbal vettetned az örök tûzre.</verse>
+        <verse osisID='Matt.18.9'> És ha a te szemed botránkoztat meg téged, vájd ki azt és vesd el magadtól; jobb néked félszemmel bemenned az életre, hogynem két szemmel vettetned a gyehenna tüzére.</verse>
+        <verse osisID='Matt.18.10'> Meglássátok, hogy eme kicsinyek közül egyet is meg ne utáljatok; mert mondom néktek, hogy az õ angyalaik a mennyekben mindenkor látják az én mennyei Atyám orczáját.</verse>
+        <verse osisID='Matt.18.11'> Mert az embernek Fia azért jött, hogy megtartsa, a mi elveszett vala.</verse>
+        <verse osisID='Matt.18.12'> Mit gondoltok? Ha valamely embernek száz juha van, és egy azok közül eltévelyedik: vajjon a kilenczvenkilenczet nem hagyja-é ott, és a hegyekre menvén, nem keresi-é azt, a melyik eltévelyedett?</verse>
+        <verse osisID='Matt.18.13'> És ha történetesen megtalálja azt, bizony mondom néktek, inkább örvend azon, mint a kilenczvenkilenczen, a mely el nem tévelyedett.</verse>
+        <verse osisID='Matt.18.14'> Ekképen a ti mennyei Atyátok sem akarja, hogy egy is elveszszen e kicsinyek közül.</verse>
+        <verse osisID='Matt.18.15'> Ha pedig a te atyádfia vétkezik ellened, menj el és dorgáld meg õt négy szem között: ha hallgat rád, megnyerted a te atyádfiát;</verse>
+        <verse osisID='Matt.18.16'> Ha pedig nem hallgat rád, végy magad mellé még egyet vagy kettõt, hogy két vagy három tanú vallomásával erõsíttessék minden szó.</verse>
+        <verse osisID='Matt.18.17'> Ha azokra nem hallgat, mondd meg a gyülekezetnek; ha a gyülekezetre sem hallgat, legyen elõtted olyan, mint a pogány és a vámszedõ.</verse>
+        <verse osisID='Matt.18.18'> Bizony mondom néktek: A mit megköttök a földön, a mennyben is kötve lészen; és a mit megoldotok a földön, a mennyben is oldva lészen.</verse>
+        <verse osisID='Matt.18.19'> Ismét, mondom néktek, hogy ha ketten közületek egy akaraton lesznek a földön minden dolog felõl, a mit csak kérnek, megadja nékik az én mennyei Atyám.</verse>
+        <verse osisID='Matt.18.20'> Mert a hol ketten vagy hárman egybegyûlnek az én nevemben, ott vagyok közöttük.</verse>
+        <verse osisID='Matt.18.21'> Ekkor hozzámenvén Péter, monda: Uram, hányszor lehet az én atyámfiának ellenem vétkezni, és néki megbocsátanom? még hétszer is?</verse>
+        <verse osisID='Matt.18.22'> Monda néki Jézus: Nem mondom néked, hogy még hétszer is, hanem még hetvenhétszer is.</verse>
+        <verse osisID='Matt.18.23'> Annakokáért hasonlatos a mennyeknek országa a királyhoz, a ki számot akar vala vetni az õ szolgáival.</verse>
+        <verse osisID='Matt.18.24'> Mikor pedig számot kezde vetni, hozának eléje egyet, a ki tízezer tálentommal vala adós.</verse>
+        <verse osisID='Matt.18.25'> Nem tudván pedig fizetni, parancsolá annak ura, hogy adják el azt, és a feleségét és gyermekeit, és mindenét, a mije vala, és fizessenek.</verse>
+        <verse osisID='Matt.18.26'> Leborulván azért a szolga elõtte, könyörög vala néki, mondván: Uram, légy türelemmel hozzám, és mindent megfizetek néked.</verse>
+        <verse osisID='Matt.18.27'> Az úr pedig megszánván azt a szolgát, elbocsátá õt, és az adósságot is elengedé néki.</verse>
+        <verse osisID='Matt.18.28'> Kimenvén pedig az a szolga, találkozék egygyel az õ szolgatársai közül, a ki száz dénárral vala néki adós; és megragadván azt, fojtogatja vala, mondván: Fizesd meg nékem, a mivel tartozol.</verse>
+        <verse osisID='Matt.18.29'> Leborulván azért az õ szolgatársa az õ lábai elé, könyörög vala néki, mondván: Légy türelemmel hozzám, és mindent megfizetek néked.</verse>
+        <verse osisID='Matt.18.30'> De õ nem akará; hanem elmenvén, börtönbe veté õt, mígnem megfizeti, a mivel tartozik.</verse>
+        <verse osisID='Matt.18.31'> Látván pedig az õ szolgatársai, a mik történtek vala, felettébb megszomorodának; és elmenvén, mindent megjelentének az õ uroknak, a mik történtek vala.</verse>
+        <verse osisID='Matt.18.32'> Akkor elõhivatván õt az õ ura, monda néki: Gonosz szolga, minden adósságodat elengedtem néked, mivelhogy könyörögtél nékem:</verse>
+        <verse osisID='Matt.18.33'> Nem kellett volna-é néked is könyörülnöd a te szolgatársadon, a miképen én is könyörültem te rajtad?</verse>
+        <verse osisID='Matt.18.34'> És megharagudván az õ ura, átadta õt a hóhérok kezébe, mígnem megfizeti mind, a mivel tartozik.</verse>
+        <verse osisID='Matt.18.35'> Ekképen cselekszik az én mennyei Atyám is veletek, ha szivetekbõl meg nem bocsátjátok, kiki az õ atyjafiának, az õ vétkeiket.</verse>
+      </chapter>
+      <chapter osisID='Matt.19'>
+        <verse osisID='Matt.19.1'> És lõn, mikor elvégezte Jézus e beszédeket, elméne Galileából, és méne Júdeának határaiba a Jordánon túl;</verse>
+        <verse osisID='Matt.19.2'> És követé õt nagy sokaság, és meggyógyítá ott õket.</verse>
+        <verse osisID='Matt.19.3'> És hozzá menének a farizeusok, kisértvén õt és mondván: Szabad-é az embernek az õ feleségét akármi okért elbocsátani?</verse>
+        <verse osisID='Matt.19.4'> Õ pedig felelvén, monda: Nem olvastátok-é, hogy a teremtõ kezdettõl fogva férfiúvá és asszonynyá teremté õket,</verse>
+        <verse osisID='Matt.19.5'> És ezt mondá: Annak okáért elhagyja a férfiú atyját és anyját; és ragaszkodik feleségéhez, és lesznek ketten egy testté.</verse>
+        <verse osisID='Matt.19.6'> Úgy hogy többé nem kettõ, hanem egy test. A mit azért az Isten egybeszerkesztett, ember el ne válaszsza.</verse>
+        <verse osisID='Matt.19.7'> Mondának néki: Miért rendelte tehát Mózes, hogy válólevelet kell adni, és úgy bocsátani el az asszonyt?</verse>
+        <verse osisID='Matt.19.8'> Monda nékik: Mózes a ti szívetek keménysége miatt engedte volt meg néktek, hogy feleségeiteket elbocsássátok; de kezdettõl fogva nem így volt.</verse>
+        <verse osisID='Matt.19.9'> Mondom pedig néktek, hogy a ki elbocsátja feleségét, hanemha paráznaság miatt, és mást vesz el, házasságtörõ; és a ki elbocsátottat vesz el, az is házasságtörõ.</verse>
+        <verse osisID='Matt.19.10'> Mondának néki tanítványai: Ha így van a férfi dolga az asszonynyal, nem jó megházasodni.</verse>
+        <verse osisID='Matt.19.11'> Õ pedig monda nékik: Nem mindenki veszi be ezt a beszédet, hanem a kinek adatott.</verse>
+        <verse osisID='Matt.19.12'> Mert vannak heréltek, a kik anyjuk méhébõl születtek így; és vannak heréltek, a kiket az emberek heréltek ki; és vannak heréltek, a kik maguk herélték ki magukat a mennyeknek országáért. A ki beveheti, vegye be.</verse>
+        <verse osisID='Matt.19.13'> Ekkor kis gyermekeket hozának hozzá, hogy kezeit vesse azokra, és imádkozzék; a tanítványok pedig dorgálják vala azokat.</verse>
+        <verse osisID='Matt.19.14'> Jézus pedig monda: Hagyjatok békét e kis gyermekeknek, és ne tiltsátok meg nekik, hogy hozzám jõjjenek; mert ilyeneké a mennyeknek országa.</verse>
+        <verse osisID='Matt.19.15'> És kezeit reájuk vetvén, eltávozék onnét.</verse>
+        <verse osisID='Matt.19.16'> És ímé hozzá jövén egy ember, monda néki: Jó mester, mi jót cselekedjem, hogy örök életet nyerjek?</verse>
+        <verse osisID='Matt.19.17'> Õ pedig monda néki: Miért mondasz engem jónak? Senki sem jó, csak egy, az Isten. Ha pedig be akarsz menni az életre, tartsd meg a parancsolatokat.</verse>
+        <verse osisID='Matt.19.18'> Monda néki: Melyeket? Jézus pedig monda: Ezeket: Ne ölj; ne paráználkodjál; ne lopj; hamis tanubizonyságot ne tégy;</verse>
+        <verse osisID='Matt.19.19'> Tiszteld atyádat és anyádat; és: Szeresd felebarátodat, mint temagadat.</verse>
+        <verse osisID='Matt.19.20'> Monda néki az ifjú: Mindezeket megtartottam ifjúságomtól fogva; mi fogyatkozás van még bennem?</verse>
+        <verse osisID='Matt.19.21'> Monda néki Jézus: Ha tökéletes akarsz lenni, eredj, add el vagyonodat, és oszd ki a szegényeknek; és kincsed lesz mennyben; és jer és kövess engem.</verse>
+        <verse osisID='Matt.19.22'> Az ifjú pedig e beszédet hallván, elméne megszomorodva; mert sok jószága vala.</verse>
+        <verse osisID='Matt.19.23'> Jézus pedig monda az õ tanítványainak: Bizony mondom néktek, hogy a gazdag nehezen megy be a mennyeknek országába.</verse>
+        <verse osisID='Matt.19.24'> Ismét mondom pedig néktek: Könnyebb a tevének a tû fokán átmenni, hogynem a gazdagnak az Isten országába bejutni.</verse>
+        <verse osisID='Matt.19.25'> A tanítványok pedig ezeket hallván, felettébb álmélkodnak vala, mondván: Kicsoda üdvözülhet tehát?</verse>
+        <verse osisID='Matt.19.26'> Jézus pedig rájuk tekintvén, monda nékik: Embereknél ez lehetetlen, de Istennél minden lehetséges.</verse>
+        <verse osisID='Matt.19.27'> Akkor felelvén Péter, monda néki: Ímé, mi elhagytunk mindent és követtünk téged: mink lesz hát minékünk?</verse>
+        <verse osisID='Matt.19.28'> Jézus pedig monda nékik: Bizony mondom néktek, hogy ti, a kik követtetek engem, az újjá születéskor, a mikor az embernek Fia beül az õ dicsõségének királyi székébe, ti is beültök majd tizenkét királyi székbe, és ítélitek az Izráel tizenkét nemzetségét.</verse>
+        <verse osisID='Matt.19.29'> És a ki elhagyta házait, vagy fitestvéreit, vagy nõtestvéreit, vagy atyját, vagy anyját, vagy feleségét, vagy gyermekeit, vagy szántóföldjeit az én nevemért, mindaz száz annyit vészen, és örökség szerint nyer örök életet.</verse>
+        <verse osisID='Matt.19.30'> Sok elsõk pedig lesznek utolsók, és sok utolsók elsõk.</verse>
+      </chapter>
+      <chapter osisID='Matt.20'>
+        <verse osisID='Matt.20.1'> Mert hasonlatos a mennyeknek országa a gazdaemberhez, a ki jó reggel kiméne, hogy munkásokat fogadjon az õ szõlejébe.</verse>
+        <verse osisID='Matt.20.2'> Megszerzõdvén pedig a munkásokkal napi tíz pénzben, elküldé õket az õ szõlejébe.</verse>
+        <verse osisID='Matt.20.3'> És kimenvén három óra tájban, láta másokat, a kik hivalkodván a piaczon álltak vala.</verse>
+        <verse osisID='Matt.20.4'> És monda nékik: Menjetek el ti is a szõlõbe, és a mi igazságos, megadom néktek.</verse>
+        <verse osisID='Matt.20.5'> Azok pedig elmenének. Hat és kilencz óra tájban ismét kimenvén, ugyanazon képen cselekedék.</verse>
+        <verse osisID='Matt.20.6'> Tizenegy óra tájban is kimenvén, talála másokat, a kik hivalkodva állottak vala, és monda nékik: Miért álltok itt egész napon át, hivalkodván?</verse>
+        <verse osisID='Matt.20.7'> Mondának néki: Mert senki sem fogadott meg minket. Monda nékik: Menjetek el ti is a szõlõbe, és a mi igazságos, megkapjátok.</verse>
+        <verse osisID='Matt.20.8'> Mikor pedig beestveledék, monda a szõlõnek ura az õ vinczellérjének: Hívd elõ a munkásokat, és add ki nékik a bért, az utolsóktól kezdve mind az elsõkig.</verse>
+        <verse osisID='Matt.20.9'> És jövén a tizenegyórásak, fejenként tíz-tíz pénzt võnek.</verse>
+        <verse osisID='Matt.20.10'> Jövén azután az elsõk, azt gondolják vala, hogy õk többet kapnak: de õk is tíz-tíz pénzt võnek fejenként.</verse>
+        <verse osisID='Matt.20.11'> A mint pedig fölvevék, zúgolódnak vala a házigazda ellen,</verse>
+        <verse osisID='Matt.20.12'> Mondván: Azok az utolsók egyetlen óráig munkálkodtak és egyenlõkké tetted azokat velünk, a kik a napnak terhét és hõségét szenvedtük.</verse>
+        <verse osisID='Matt.20.13'> Õ pedig felelvén, monda azok közül egynek: Barátom, nem cselekszem igazságtalanul veled; avagy nem tíz pénzben szerzõdtél-é meg velem?</verse>
+        <verse osisID='Matt.20.14'> Vedd, a mi a tiéd, és menj el. Én pedig ennek az utolsónak is annyit akarok adni, mint néked.</verse>
+        <verse osisID='Matt.20.15'> Avagy nem szabad-é nékem a magaméval azt tennem, amit akarok? avagy a te szemed azért gonosz, mert én jó vagyok?</verse>
+        <verse osisID='Matt.20.16'> Ekképen lesznek az utolsók elsõk és az elsõk utolsók; mert sokan vannak a hivatalosok, de kevesen a választottak.</verse>
+        <verse osisID='Matt.20.17'> És mikor felmegy vala Jézus Jeruzsálembe, útközben csupán a tizenkét tanítványt vévén magához, monda nékik:</verse>
+        <verse osisID='Matt.20.18'> Ímé, felmegyünk Jeruzsálembe, és az embernek Fia átadatik a fõpapoknak és írástudóknak; és halálra kárhoztatják õt,</verse>
+        <verse osisID='Matt.20.19'> És a pogányok kezébe adják õt, hogy megcsúfolják és megostorozzák és keresztre feszítsék; de harmadnap feltámad.</verse>
+        <verse osisID='Matt.20.20'> Ekkor hozzá méne a Zebedeus fiainak anyja az õ fiaival együtt, leborulván és kérvén õ tõle valamit.</verse>
+        <verse osisID='Matt.20.21'> Õ pedig monda néki: Mit akarsz? Monda néki: Mondd, hogy ez az én két fiam üljön a te országodban egyik jobb kezed felõl, a másik bal kezed felõl.</verse>
+        <verse osisID='Matt.20.22'> Jézus pedig felelvén, monda: Nem tudjátok, mit kértek. Megihatjátok-é a pohárt, a melyet én megiszom? és megkeresztelkedhettek-é azzal a keresztséggel, a melylyel én megkeresztelkedem? Mondának néki: Meg.</verse>
+        <verse osisID='Matt.20.23'> És monda nékik: Az én poharamat megiszszátok ugyan, és a keresztséggel, a melylyel én megkeresztelkedem, megkeresztelkedtek; de az én jobb és balkezem felõl való ülést nem az én dolgom megadni, hanem azoké lesz az, a kiknek az én Atyám elkészítette.</verse>
+        <verse osisID='Matt.20.24'> És hallva ezt a tíz, megboszankodék a két testvérre.</verse>
+        <verse osisID='Matt.20.25'> Jézus pedig elõszólítván õket, monda: Tudjátok, hogy a pogányok fejedelmei uralkodnak azokon, és a nagyok hatalmaskodnak rajtok.</verse>
+        <verse osisID='Matt.20.26'> De ne így legyen közöttetek; hanem a ki közöttetek nagy akar lenni, legyen a ti szolgátok;</verse>
+        <verse osisID='Matt.20.27'> És a ki közöttetek elsõ akar lenni, legyen a ti szolgátok.</verse>
+        <verse osisID='Matt.20.28'> Valamint az embernek Fia nem azért jött, hogy néki szolgáljanak, hanem hogy õ szolgáljon, és adja az õ életét váltságul sokakért.</verse>
+        <verse osisID='Matt.20.29'> És mikor Jerikóból távozának, nagy sokaság követé õt.</verse>
+        <verse osisID='Matt.20.30'> És ímé, két vak, a ki az út mellett ül vala, meghallván, hogy Jézus arra megy el, kiált vala, mondván: Uram, Dávidnak Fia, könyörülj rajtunk!</verse>
+        <verse osisID='Matt.20.31'> A sokaság pedig dorgálja vala õket, hogy hallgassanak; de azok annál jobban kiáltnak vala, mondván: Uram, Dávidnak Fia, könyörülj rajtunk!</verse>
+        <verse osisID='Matt.20.32'> És megállván Jézus, megszólítá õket és monda: Mit akartok, hogy cselekedjem veletek?</verse>
+        <verse osisID='Matt.20.33'> Mondának néki: Azt, Uram, hogy megnyíljanak a mi szemeink.</verse>
+        <verse osisID='Matt.20.34'> Jézus pedig megszánván õket, illeté az õ szemeiket; és szemeik azonnal megnyíltak; és követék õt.</verse>
+      </chapter>
+      <chapter osisID='Matt.21'>
+        <verse osisID='Matt.21.1'> És mikor közeledtek Jeruzsálemhez, és Bethfagéba, az olajfák hegyéhez jutottak vala, akkor elkülde Jézus két tanítványt,</verse>
+        <verse osisID='Matt.21.2'> És monda nékik: Menjetek ebbe a faluba, a mely elõttetek van, és legott találtok egy megkötött szamarat és vele együtt az õ vemhét; oldjátok el és hozzátok ide nékem.</verse>
+        <verse osisID='Matt.21.3'> És ha valaki valamit szól néktek, mondjátok, hogy az Úrnak van szüksége rájuk: és legott el fogja bocsátani õket.</verse>
+        <verse osisID='Matt.21.4'> Mindez pedig azért lett, hogy beteljesedjék a próféta mondása, a ki így szólott:</verse>
+        <verse osisID='Matt.21.5'> Mondjátok meg Sion leányának: Ímhol jõ néked a te királyod, alázatosan és szamáron ülve, és teherhordozó szamárnak vemhén.</verse>
+        <verse osisID='Matt.21.6'> A tanítványok pedig elmenvén és úgy cselekedvén, a mint Jézus parancsolta vala nékik,</verse>
+        <verse osisID='Matt.21.7'> Elhozák a szamarat és annak vemhét, és felsõ ruháikat rájuk teríték, és ráüle azokra.</verse>
+        <verse osisID='Matt.21.8'> A sokaság legnagyobb része pedig felsõ ruháit az útra teríté; mások pedig a fákról galyakat vagdalnak és hintenek vala az útra.</verse>
+        <verse osisID='Matt.21.9'> Az elõtte és utána menõ sokaság pedig kiált vala, mondván: Hozsánna a Dávid fiának! Áldott, a ki jõ az Úrnak nevében! Hozsánna a magasságban!</verse>
+        <verse osisID='Matt.21.10'> És a mikor bemegy vala Jeruzsálembe, felháborodék az egész város, mondván: Kicsoda ez?</verse>
+        <verse osisID='Matt.21.11'> A sokaság pedig monda: Ez Jézus, a galileai Názáretbõl való próféta.</verse>
+        <verse osisID='Matt.21.12'> És beméne Jézus az Isten templomába, és kiûzé mindazokat, a kik árulnak és vásárolnak vala a templomban; és a pénzváltók asztalait és a galambárusok székeit felforgatá.</verse>
+        <verse osisID='Matt.21.13'> És monda nékik: Meg van írva: Az én házam imádság házának mondatik. Ti pedig azt latroknak barlangjává tettétek.</verse>
+        <verse osisID='Matt.21.14'> És menének hozzá vakok és sánták a templomban; és meggyógyítá õket.</verse>
+        <verse osisID='Matt.21.15'> A fõpapok és írástudók pedig, látván a csodákat, a melyeket cselekedett vala, és a gyermekeket, a kik kiáltottak vala a templomban, és ezt mondták vala: Hozsánna a Dávid fiának; haragra gerjedének,</verse>
+        <verse osisID='Matt.21.16'> És mondának néki: Hallod, mit mondanak ezek? Jézus pedig monda nékik: Hallom. Sohasem olvastátok-é: A gyermekek és csecsemõk szája által szereztél dicsõséget?</verse>
+        <verse osisID='Matt.21.17'> És ott hagyván õket, kiméne a városból Bethániába, és ott marada éjjel.</verse>
+        <verse osisID='Matt.21.18'> Reggel pedig, a városba visszajövet, megéhezék.</verse>
+        <verse osisID='Matt.21.19'> És meglátva egy fügefát az út mellett, oda méne hozzá, és nem talála azon semmit, hanem csak levelet; és monda annak: Gyümölcs te rajtad ezután soha örökké ne teremjen. És a fügefa azonnal elszárada.</verse>
+        <verse osisID='Matt.21.20'> És látván ezt a tanítványok, elcsodálkozának, mondván: Hogyan száradt el a fügefa oly hirtelen?</verse>
+        <verse osisID='Matt.21.21'> Jézus pedig felelvén, monda nékik: Bizony mondom néktek, ha van hitetek és nem kételkedtek, nemcsak azt cselekszitek, a mi e fügefán esett, hanem ha azt mondjátok e hegynek: Kelj fel és zuhanj a tengerbe, az is meglészen;</verse>
+        <verse osisID='Matt.21.22'> És a mit könyörgéstekben kértek, mindazt meg is kapjátok, ha hisztek.</verse>
+        <verse osisID='Matt.21.23'> És mikor bement vala a templomba, hozzámenének a fõpapok és a nép vénei, a mint tanít vala, mondván: Micsoda hatalommal cselekszed ezeket? és ki adta néked ezt a hatalmat?</verse>
+        <verse osisID='Matt.21.24'> Jézus pedig felelvén, monda nékik: Én is kérdek egy dolgot tõletek, a mire ha megfeleltek nékem, én is megmondom néktek, micsoda hatalommal cselekszem ezeket.</verse>
+        <verse osisID='Matt.21.25'> A János keresztsége honnan vala? Mennybõl-é, vagy emberektõl? Azok pedig tanakodnak vala magukban, mondván: Ha azt mondjuk: mennybõl, azt mondja majd nékünk: Miért nem hittetek tehát néki?</verse>
+        <verse osisID='Matt.21.26'> Ha pedig azt mondjuk: emberektõl; félünk a sokaságtól; mert Jánost mindnyájan prófétának tartják.</verse>
+        <verse osisID='Matt.21.27'> És felelvén Jézusnak, mondának: Nem tudjuk. Monda nékik õ is: Én sem mondom meg néktek, micsoda hatalommal cselekszem ezeket.</verse>
+        <verse osisID='Matt.21.28'> De mit gondoltok ti? Vala egy embernek két fia, és odamenvén az elsõhöz, monda: Eredj fiam, munkálkodjál ma az én szõlõmben.</verse>
+        <verse osisID='Matt.21.29'> Az pedig felelvén, monda: Nem megyek; de azután meggondolván magát, elméne.</verse>
+        <verse osisID='Matt.21.30'> A másikhoz is odamenvén, hasonlóképen szóla. Az pedig felelvén, monda: Én elmegyek, uram; de nem méne el.</verse>
+        <verse osisID='Matt.21.31'> E kettõ közül melyik teljesítette az atya akaratát? Mondának néki: Az elsõ. Monda nékik Jézus: Bizony mondom néktek: A vámszedõk és a parázna nõk megelõznek titeket az Isten országában.</verse>
+        <verse osisID='Matt.21.32'> Mert eljött hozzátok János, az igazság útján, és nem hittetek néki, a vámszedõk és a parázna nõk pedig hittek néki; ti pedig, a kik ezt láttátok, azután sem tértetek meg, hogy hittetek volna néki.</verse>
+        <verse osisID='Matt.21.33'> Más példázatot halljatok: Vala egy házigazda, a ki szõlõt plántála, és azt gyepûvel körülvevé, sajtót ása le benne, és tornyot építe, és kiadá azt munkásoknak, és elutazék.</verse>
+        <verse osisID='Matt.21.34'> Mikor pedig a gyümölcs ideje elérkezett vala, elküldé szolgáit a munkásokhoz, hogy vegyék át az õ gyümölcsét.</verse>
+        <verse osisID='Matt.21.35'> És a munkások megfogván az õ szolgáit, az egyiket megverék, a másikat megölék, a harmadikat pedig megkövezék.</verse>
+        <verse osisID='Matt.21.36'> Ismét külde más szolgákat, többet mint elõbb; és azokkal is úgy cselekedének.</verse>
+        <verse osisID='Matt.21.37'> Utoljára pedig elküldé azokhoz a maga fiát, ezt mondván: A fiamat meg fogják becsülni.</verse>
+        <verse osisID='Matt.21.38'> De a munkások, meglátván a fiút, mondának magok közt: Ez az örökös; jertek, öljük meg õt, és foglaljuk el az õ örökségét.</verse>
+        <verse osisID='Matt.21.39'> És megfogván õt, kiveték a szõlõn kívül és megölék.</verse>
+        <verse osisID='Matt.21.40'> Mikor azért megjõ a szõlõnek ura, mit cselekszik ezekkel a munkásokkal?</verse>
+        <verse osisID='Matt.21.41'> Mondának néki: Mint gonoszokat gonoszul elveszti õket; a szõlõt pedig kiadja más munkásoknak, a kik beadják majd néki a gyümölcsöt annak idejében.</verse>
+        <verse osisID='Matt.21.42'> Monda nékik Jézus: Sohasem olvastátok-é az írásokban: A mely követ az építõk megvetettek, az lett a szegletnek feje; az Úrtól lett ez, és csodálatos a mi szemeink elõtt.</verse>
+        <verse osisID='Matt.21.43'> Annakokáért mondom néktek, hogy elvétetik tõletek az Istennek országa, és oly népnek adatik, a mely megtermi annak gyümölcsét.</verse>
+        <verse osisID='Matt.21.44'> És a ki e kõre esik, szétzúzatik; a kire pedig ez esik reá, szétmorzsolja azt.</verse>
+        <verse osisID='Matt.21.45'> És a fõpapok és farizeusok hallván az õ példázatait, megértették, hogy róluk szól.</verse>
+        <verse osisID='Matt.21.46'> És mikor meg akarák õt fogni, megfélemlének a sokaságtól, mivelhogy úgy tartják vala õt mint prófétát.</verse>
+      </chapter>
+      <chapter osisID='Matt.22'>
+        <verse osisID='Matt.22.1'> És megszólalván Jézus, ismét példázatokban beszél vala nékik, mondván:</verse>
+        <verse osisID='Matt.22.2'> Hasonlatos a mennyeknek országa a királyhoz, a ki az õ fiának menyegzõt szerze.</verse>
+        <verse osisID='Matt.22.3'> És elküldé szolgáit, hogy meghívják azokat, a kik a menyegzõre hivatalosak valának; de nem akarnak vala eljõni.</verse>
+        <verse osisID='Matt.22.4'> Ismét külde más szolgákat, mondván: Mondjátok meg a hivatalosoknak: Ímé, ebédemet elkészítettem, tulkaim és hízlalt állataim levágva vannak, és kész minden; jertek el a menyegzõre.</verse>
+        <verse osisID='Matt.22.5'> De azok nem törõdvén vele, elmenének, az egyik a maga szántóföldjére, a másik a maga kereskedésébe;</verse>
+        <verse osisID='Matt.22.6'> A többiek pedig megfogván az õ szolgáit, bántalmazák és megölék õket.</verse>
+        <verse osisID='Matt.22.7'> Meghallván pedig ezt a király, megharaguvék, és elküldvén hadait, azokat a gyilkosokat elveszté, és azoknak városait fölégeté.</verse>
+        <verse osisID='Matt.22.8'> Akkor monda az õ szolgáinak: A menyegzõ ugyan készen van, de a hivatalosok nem valának méltók.</verse>
+        <verse osisID='Matt.22.9'> Menjetek azért a keresztútakra, és a kiket csak találtok, hívjátok be a menyegzõbe.</verse>
+        <verse osisID='Matt.22.10'> És kimenvén azok a szolgák az útakra, begyûjték mind a kiket csak találtak vala, jókat és gonoszokat egyaránt. És megtelék a menyegzõ vendégekkel.</verse>
+        <verse osisID='Matt.22.11'> Bemenvén pedig a király, hogy megtekintse a vendégeket, láta ott egy embert, a kinek nem vala menyegzõi ruhája.</verse>
+        <verse osisID='Matt.22.12'> És monda néki: Barátom, mi módon jöttél ide, holott nincsen menyegzõi ruhád? Az pedig hallgata.</verse>
+        <verse osisID='Matt.22.13'> Akkor monda a király a szolgáknak: Kötözzétek meg a lábait és kezeit, és vigyétek és vessétek õt a külsõ sötétségre; ott lészen sírás és fogcsikorgatás.</verse>
+        <verse osisID='Matt.22.14'> Mert sokan vannak a hivatalosok, de kevesen a választottak.</verse>
+        <verse osisID='Matt.22.15'> Ekkor a farizeusok elmenvén, tanácsot tartának, hogy szóval ejtsék õt tõrbe.</verse>
+        <verse osisID='Matt.22.16'> És elküldék hozzá tanítványaikat a Heródes pártiakkal, a kik ezt mondják vala: Mester, tudjuk, hogy igaz vagy és az Isten útját igazán tanítod, és nem törõdöl senkivel, mert embereknek személyére nem nézel.</verse>
+        <verse osisID='Matt.22.17'> Mondd meg azért nékünk, mit gondolsz: Szabad-é a császárnak adót fizetnünk, vagy nem?</verse>
+        <verse osisID='Matt.22.18'> Jézus pedig ismervén az õ álnokságukat, monda: Mit kisértgettek engem, képmutatók?</verse>
+        <verse osisID='Matt.22.19'> Mutassátok nékem az adópénzt. Azok pedig oda vivének néki egy dénárt.</verse>
+        <verse osisID='Matt.22.20'> És monda nékik: Kié ez a kép, és a felírás?</verse>
+        <verse osisID='Matt.22.21'> Mondának néki: A császáré. Akkor monda nékik: Adjátok meg azért a mi a császáré a császárnak; és a mi az Istené, az Istennek.</verse>
+        <verse osisID='Matt.22.22'> És ezt hallván, elcsodálkozának; és ott hagyván õt, elmenének.</verse>
+        <verse osisID='Matt.22.23'> Ugyanazon a napon menének hozzá a sadduczeusok, a kik a feltámadást tagadják, és megkérdezék õt,</verse>
+        <verse osisID='Matt.22.24'> Mondván: Mester, Mózes azt mondotta: Ha valaki magzatok nélkül hal meg, annak testvére vegye el annak feleségét, és támaszszon magot testvérének.</verse>
+        <verse osisID='Matt.22.25'> Vala pedig minálunk hét testvér: és az elsõ feleséget vevén, meghala; és mivelhogy nem vala magzata, feleségét a testvérére hagyá;</verse>
+        <verse osisID='Matt.22.26'> Hasonlóképen a második is, a harmadik is, mind hetediglen.</verse>
+        <verse osisID='Matt.22.27'> Legutoljára pedig az asszony is meghala.</verse>
+        <verse osisID='Matt.22.28'> A feltámadáskor azért a hét közül melyiké lesz az asszony? Mert mindeniké vala.</verse>
+        <verse osisID='Matt.22.29'> Jézus pedig felelvén, monda nékik: Tévelyegtek, mivelhogy nem ismeritek sem az írásokat, sem az Istennek hatalmát.</verse>
+        <verse osisID='Matt.22.30'> Mert a feltámadáskor sem nem házasodnak, sem férjhez nem mennek, hanem olyanok lesznek, mint az Isten angyalai a mennyben.</verse>
+        <verse osisID='Matt.22.31'> A halottak feltámadása felõl pedig nem olvastátok-é, a mit az Isten mondott néktek, így szólván:</verse>
+        <verse osisID='Matt.22.32'> Én vagyok az Ábrahám Istene, és az Izsák Istene, és a Jákób Istene; az Isten nem holtaknak, hanem élõknek Istene.</verse>
+        <verse osisID='Matt.22.33'> És a sokaság ezt hallván, csodálkozék az õ tudományán.</verse>
+        <verse osisID='Matt.22.34'> A farizeusok pedig, hallván, hogy a sadduczeusokat elnémította vala, egybegyûlének;</verse>
+        <verse osisID='Matt.22.35'> És megkérdé õt közülök egy törvénytudó, kisértvén õt, és mondván:</verse>
+        <verse osisID='Matt.22.36'> Mester, melyik a nagy parancsolat a törvényben?</verse>
+        <verse osisID='Matt.22.37'> Jézus pedig monda néki: Szeresd az Urat, a te Istenedet teljes szívedbõl, teljes lelkedbõl és teljes elmédbõl.</verse>
+        <verse osisID='Matt.22.38'> Ez az elsõ és nagy parancsolat.</verse>
+        <verse osisID='Matt.22.39'> A második pedig hasonlatos ehhez: Szeresd felebarátodat, mint magadat.</verse>
+        <verse osisID='Matt.22.40'> E két parancsolattól függ az egész törvény és a próféták.</verse>
+        <verse osisID='Matt.22.41'> Mikor pedig a farizeusok összegyülekezének, kérdezé õket Jézus,</verse>
+        <verse osisID='Matt.22.42'> Mondván: Miképen vélekedtek ti a Krisztus felõl? kinek a fia? Mondának néki: A Dávidé.</verse>
+        <verse osisID='Matt.22.43'> Monda nékik: Miképen hívja tehát õt Dávid lélekben Urának, ezt mondván:</verse>
+        <verse osisID='Matt.22.44'> Monda az Úr az én Uramnak: Ülj az én jobb kezem felõl, míglen vetem a te ellenségeidet a te lábaid alá zsámolyul.</verse>
+        <verse osisID='Matt.22.45'> Ha tehát Dávid Urának hívja õt, mi módon fia?</verse>
+        <verse osisID='Matt.22.46'> És senki egy szót sem felelhet vala néki; sem pedig nem meri vala õt e naptól fogva többé senki megkérdezni.</verse>
+      </chapter>
+      <chapter osisID='Matt.23'>
+        <verse osisID='Matt.23.1'> Akkor szóla Jézus a sokaságnak és az õ tanítványainak,</verse>
+        <verse osisID='Matt.23.2'> Mondván: Az írástudók és a farizeusok a Mózes székében ülnek:</verse>
+        <verse osisID='Matt.23.3'> Annakokáért a mit parancsolnak néktek, mindazt megtartsátok és megcselekedjétek; de az õ cselekedeteik szerint ne cselekedjetek. Mert õk mondják, de nem cselekszik.</verse>
+        <verse osisID='Matt.23.4'> Mert õk nehéz és elhordozhatatlan terheket kötöznek egybe, és az emberek vállaira vetik; de õk az ujjokkal sem akarják azokat illetni.</verse>
+        <verse osisID='Matt.23.5'> Minden õ dolgaikat pedig csak azért cselekszik, hogy lássák õket az emberek: mert megszélesítik az õ homlokszíjjaikat; és megnagyobbítják az õ köntöseik peremét;</verse>
+        <verse osisID='Matt.23.6'> És szeretik a lakomákon a fõhelyet, és a gyülekezetekben az elölûlést.</verse>
+        <verse osisID='Matt.23.7'> És a piaczokon való köszöntéseket, és hogy az emberek így hívják õket: Mester, Mester!</verse>
+        <verse osisID='Matt.23.8'> Ti pedig ne hivassátok magatokat Mesternek, mert egy a ti Mesteretek, a Krisztus; ti pedig mindnyájan testvérek vagytok.</verse>
+        <verse osisID='Matt.23.9'> Atyátoknak se hívjatok senkit e földön; mert egy a ti Atyátok, a ki a mennyben van.</verse>
+        <verse osisID='Matt.23.10'> Doktoroknak se hivassátok magatokat, mert egy a ti Doktorotok, a Krisztus.</verse>
+        <verse osisID='Matt.23.11'> Hanem a ki a nagyobb közöttetek, legyen a ti szolgátok.</verse>
+        <verse osisID='Matt.23.12'> Mert a ki magát felmagasztalja, megaláztatik; és a ki magát megalázza, felmagasztaltatik.</verse>
+        <verse osisID='Matt.23.13'> De jaj néktek képmutató írástudók és farizeusok, mert a mennyeknek országát bezárjátok az emberek elõtt; mivelhogy ti nem mentek be, a kik be akarnának menni, azokat sem bocsátjátok be.</verse>
+        <verse osisID='Matt.23.14'> Jaj néktek képmutató írástudók és farizeusok, mert felemésztitek az özvegyek házát, és színbõl hosszan imádkoztok; ezért annál súlyosabb lesz a ti büntetéstek.</verse>
+        <verse osisID='Matt.23.15'> Jaj néktek képmutató írástudók és farizeusok! mert megkerülitek a tengert és a földet, hogy egy pogányt zsidóvá tegyetek; és ha azzá lett, a gyehenna fiává teszitek õt, kétszerte inkább magatoknál.</verse>
+        <verse osisID='Matt.23.16'> Jaj néktek vak vezérek, a kik ezt mondjátok: Ha valaki a templomra esküszik, semmi az; de ha valaki a templom aranyára esküszik, tartozik az.</verse>
+        <verse osisID='Matt.23.17'> Bolondok és vakok: mert melyik nagyobb, az arany-é, vagy a templom, a mely szentté teszi az aranyat?</verse>
+        <verse osisID='Matt.23.18'> És: Ha valaki az oltárra esküszik, semmi az; de ha valaki a rajta levõ ajándékra esküszik, tartozik az.</verse>
+        <verse osisID='Matt.23.19'> Bolondok és vakok: mert melyik nagyobb, az ajándék-é vagy az oltár, a mely szentté teszi az ajándékot?</verse>
+        <verse osisID='Matt.23.20'> A ki azért az oltárra esküszik, esküszik arra és mindazokra, a mik azon vannak.</verse>
+        <verse osisID='Matt.23.21'> És a ki a templomra esküszik, esküszik arra és Arra, a ki abban lakozik.</verse>
+        <verse osisID='Matt.23.22'> És a ki az égre esküszik, esküszik az Isten királyiszékére és arra, ki abban ül.</verse>
+        <verse osisID='Matt.23.23'> Jaj néktek képmutató írástudók és farizeusok! mert megdézsmáljátok a mentát, a kaprot és a köményt, és elhagyjátok a mik nehezebbek a törvényben, az ítéletet, az irgalmasságot és a hívséget: pedig ezeket kellene cselekedni, és amazokat sem elhagyni.</verse>
+        <verse osisID='Matt.23.24'> Vak vezérek, a kik megszûritek a szúnyogot, a tevét pedig elnyelitek.</verse>
+        <verse osisID='Matt.23.25'> Jaj néktek képmutató írástudók és farizeusok! mert megtisztítjátok a pohárnak és tálnak külsejét, belõl pedig rakvák azok ragadománynyal és mértékletlenséggel.</verse>
+        <verse osisID='Matt.23.26'> Vak farizeus, tisztítsd meg elõbb a pohár és tál belsejét, hogy külsejük is tiszta legyen.</verse>
+        <verse osisID='Matt.23.27'> Jaj néktek képmutató írástudók és farizeusok, mert hasonlatosak vagytok a meszelt sírokhoz, a melyek kívülrõl szépeknek tetszenek, belõl pedig holtaknak csontjaival és minden undoksággal rakvák.</verse>
+        <verse osisID='Matt.23.28'> Épen így ti is, kívülrõl igazaknak látszotok ugyan az emberek elõtt, de belõl rakva vagytok képmutatással és törvénytelenséggel.</verse>
+        <verse osisID='Matt.23.29'> Jaj néktek képmutató írástudók és farizeusok! mert építitek a próféták sírjait és ékesgetitek az igazak síremlékeit.</verse>
+        <verse osisID='Matt.23.30'> És ezt mondjátok: Ha mi atyáink korában éltünk volna, nem lettünk volna az õ bûntársaik a próféták vérében.</verse>
+        <verse osisID='Matt.23.31'> Így hát magatok ellen tesztek bizonyságot, hogy fiai vagytok azoknak, a kik megölték a prófétákat.</verse>
+        <verse osisID='Matt.23.32'> Töltsétek be ti is a ti atyáitoknak mértékét!</verse>
+        <verse osisID='Matt.23.33'> Kígyók, mérges kígyóknak fajzatai, miképen kerülitek ki a gyehennának büntetését?</verse>
+        <verse osisID='Matt.23.34'> Annakokáért ímé prófétákat, bölcseket és írástudókat küldök én hozzátok: és azok közül némelyeket megöltök, és megfeszítetek, másokat azok közül a ti zsinagógáitokban megostoroztok és városról- városra üldöztök.</verse>
+        <verse osisID='Matt.23.35'> Hogy reátok szálljon minden igaz vér, a mely kiömlött a földön, az igaz Ábelnek vérétõl Zakariásnak, a Barakiás fiának véréig, a kit a templom és az oltár között megöltetek.</verse>
+        <verse osisID='Matt.23.36'> Bizony mondom néktek, mindezek reá következnek erre a nemzetségre.</verse>
+        <verse osisID='Matt.23.37'> Jeruzsálem, Jeruzsálem! Ki megölöd a prófétákat és megkövezed azokat, a kik te hozzád küldettek, hányszor akartam egybegyûjteni a te fiaidat, miképen a tyúk egybegyûjti kis csirkéit szárnya alá; és te nem akartad.</verse>
+        <verse osisID='Matt.23.38'> Ímé, pusztán hagyatik néktek a ti házatok.</verse>
+        <verse osisID='Matt.23.39'> Mert mondom néktek: Mostantól fogva nem láttok engem mindaddig, mígnem ezt mondjátok: Áldott, a ki jõ az Úrnak nevében!</verse>
+      </chapter>
+      <chapter osisID='Matt.24'>
+        <verse osisID='Matt.24.1'> És kijõvén Jézus a templomból, tovább méne; és hozzámenének az õ tanítványai, hogy mutogassák néki a templom épületeit.</verse>
+        <verse osisID='Matt.24.2'> Jézus pedig monda nékik: Nem látjátok-é mind ezeket? Bizony mondom néktek: Nem marad itt kõ kövön, mely le nem romboltatik.</verse>
+        <verse osisID='Matt.24.3'> Mikor pedig az olajfák hegyén ül vala, hozzá menének a tanítványok magukban mondván: Mondd meg nékünk, mikor lesznek meg ezek? és micsoda jele lesz a te eljövetelednek, és a világ végének?</verse>
+        <verse osisID='Matt.24.4'> És Jézus felelvén, monda nékik: Meglássátok, hogy valaki el ne hitessen titeket,</verse>
+        <verse osisID='Matt.24.5'> Mert sokan jõnek majd az én nevemben, a kik ezt mondják: Én vagyok a Krisztus; és sokakat elhitetnek.</verse>
+        <verse osisID='Matt.24.6'> Hallanotok kell majd háborúkról és háborúk híreirõl: meglássátok, hogy meg ne rémüljetek; mert mindezeknek meg kell lenniök. De még ez nem itt a vég.</verse>
+        <verse osisID='Matt.24.7'> Mert nemzet támad nemzet ellen, és ország ország ellen; és lésznek éhségek és döghalálok, és földindulások mindenfelé.</verse>
+        <verse osisID='Matt.24.8'> Mind ez pedig a sok nyomorúságnak kezdete.</verse>
+        <verse osisID='Matt.24.9'> Akkor nyomorúságra adnak majd benneteket, és megölnek titeket; és gyûlöletesek lesztek minden nép elõtt az én nevemért.</verse>
+        <verse osisID='Matt.24.10'> És akkor sokan megbotránkoznak, és elárulják egymást, és gyûlölik egymást.</verse>
+        <verse osisID='Matt.24.11'> És sok hamis próféta támad, a kik sokakat elhitetnek.</verse>
+        <verse osisID='Matt.24.12'> És mivelhogy a gonoszság megsokasodik, a szeretet sokakban meghidegül.</verse>
+        <verse osisID='Matt.24.13'> De a ki mindvégig állhatatos marad, az idvezül.</verse>
+        <verse osisID='Matt.24.14'> És az Isten országának ez az evangyélioma hirdettetik majd az egész világon, bizonyságul minden népnek; és akkor jõ el a vég.</verse>
+        <verse osisID='Matt.24.15'> Mikor azért látjátok majd, hogy az a pusztító utálatosság, a melyrõl Dániel próféta szólott, ott áll a szent helyen (a ki olvassa, értse meg):</verse>
+        <verse osisID='Matt.24.16'> Akkor, a kik Júdeában lesznek, fussanak a hegyekre;</verse>
+        <verse osisID='Matt.24.17'> A ház tetején levõ ne szálljon alá, hogy házából valamit kivigyen;</verse>
+        <verse osisID='Matt.24.18'> És a mezõn levõ ne térjen vissza, hogy az õ ruháját elvigye.</verse>
+        <verse osisID='Matt.24.19'> Jaj pedig a terhes és szoptató asszonyoknak azokon a napokon.</verse>
+        <verse osisID='Matt.24.20'> Imádkozzatok pedig, hogy a ti futástok ne télen legyen, se szombatnapon:</verse>
+        <verse osisID='Matt.24.21'> Mert akkor nagy nyomorúság lesz, a milyen nem volt a világ kezdete óta mind ez ideig, és nem is lesz soha.</verse>
+        <verse osisID='Matt.24.22'> És ha azok a napok meg nem rövidíttetnének, egyetlen ember sem menekülhetne meg; de a választottakért megrövidíttetnek majd azok a napok.</verse>
+        <verse osisID='Matt.24.23'> Ha valaki ezt mondja akkor néktek: Ímé, itt a Krisztus, vagy amott; ne higyjétek.</verse>
+        <verse osisID='Matt.24.24'> Mert hamis Krisztusok és hamis próféták támadnak, és nagy jeleket és csodákat tesznek, annyira, hogy elhitessék, ha lehet, a választottakat is.</verse>
+        <verse osisID='Matt.24.25'> Ímé eleve megmondottam néktek.</verse>
+        <verse osisID='Matt.24.26'> Azért ha azt mondják majd néktek: Ímé a pusztában van; ne menjetek ki. Ímé a belsõ szobákban; ne higyjétek.</verse>
+        <verse osisID='Matt.24.27'> Mert a miképen a villámlás napkeletrõl támad és ellátszik egész napnyugtáig, úgy lesz az ember Fiának eljövetele is.</verse>
+        <verse osisID='Matt.24.28'> Mert a hol a dög, oda gyûlnek a keselyûk.</verse>
+        <verse osisID='Matt.24.29'> Mindjárt pedig ama napok nyomorúságai után a nap elsötétedik, és a hold nem fénylik, és a csillagok az égrõl lehullanak, és az egeknek erõsségei megrendülnek.</verse>
+        <verse osisID='Matt.24.30'> És akkor feltetszik az ember Fiának jele az égen. És akkor sír a föld minden nemzetsége, és meglátják az embernek Fiát eljõni az ég felhõiben nagy hatalommal és dicsõséggel.</verse>
+        <verse osisID='Matt.24.31'> És elküldi az õ angyalait nagy trombitaszóval, és egybegyûjtik az õ választottait a négy szelek felõl, az ég egyik végétõl a másik végéig.</verse>
+        <verse osisID='Matt.24.32'> A fügefáról vegyétek pedig a példát: mikor az ága már zsendül, és levelet hajt, tudjátok, hogy közel van a nyár:</verse>
+        <verse osisID='Matt.24.33'> Azonképen ti is, mikor mindezeket látjátok, tudjátok meg, hogy közel van, az ajtó elõtt.</verse>
+        <verse osisID='Matt.24.34'> Bizony mondom néktek, el nem múlik ez a nemzetség, mígnem mindezek meglesznek.</verse>
+        <verse osisID='Matt.24.35'> Az ég és a föld elmúlnak, de az én beszédeim semmiképen el nem múlnak.</verse>
+        <verse osisID='Matt.24.36'> Arról a napról és óráról pedig senki sem tud, az ég angyalai sem, hanem csak az én Atyám egyedül.</verse>
+        <verse osisID='Matt.24.37'> A miképen pedig a Noé napjaiban vala, akképen lesz az ember Fiának eljövetele is.</verse>
+        <verse osisID='Matt.24.38'> Mert a miképen az özönvíz elõtt való napokban esznek és isznak vala, házasodnak és férjhez mennek vala, mind ama napig, a melyen Noé a bárkába méne.</verse>
+        <verse osisID='Matt.24.39'> És nem vesznek vala észre semmit, mígnem eljöve az özönvíz és mindnyájukat elragadá: akképen lesz az ember Fiának eljövetele is.</verse>
+        <verse osisID='Matt.24.40'> Akkor ketten lesznek a mezõn; az egyik felvétetik, a másik ott hagyatik.</verse>
+        <verse osisID='Matt.24.41'> Két asszony õröl a malomban; az egyik felvétetik, a másik ott hagyatik.</verse>
+        <verse osisID='Matt.24.42'> Vigyázzatok azért, mert nem tudjátok, mely órában jõ el a ti Uratok.</verse>
+        <verse osisID='Matt.24.43'> Azt pedig jegyezzétek meg, hogy ha tudná a ház ura, hogy az éjszakának melyik szakában jõ el a tolvaj: vigyázna, és nem engedné, hogy házába törjön.</verse>
+        <verse osisID='Matt.24.44'> Azért legyetek készen ti is; mert a mely órában nem gondoljátok, abban jõ el az embernek Fia.</verse>
+        <verse osisID='Matt.24.45'> Kicsoda hát a hû és bölcs szolga, a kit az õ ura gondviselõvé tõn az õ házanépén, hogy a maga idejében adjon azoknak eledelt?</verse>
+        <verse osisID='Matt.24.46'> Boldog az a szolga, a kit az õ ura, mikor haza jõ, ily munkában talál.</verse>
+        <verse osisID='Matt.24.47'> Bizony mondom néktek, hogy minden jószága fölött gondviselõvé teszi õt.</verse>
+        <verse osisID='Matt.24.48'> Ha pedig ama gonosz szolga így szólna az õ szívében: Halogatja még az én uram a hazajövetelt;</verse>
+        <verse osisID='Matt.24.49'> És az õ szolgatársait verni kezdené, a részegesekkel pedig enni és inni kezdene:</verse>
+        <verse osisID='Matt.24.50'> Megjõ annak a szolgának az ura, a mely napon nem várja és a mely órában nem gondolja,</verse>
+        <verse osisID='Matt.24.51'> És ketté vágatja õt, és a képmutatók sorsára juttatja; ott lészen sírás és fogcsikorgatás.</verse>
+      </chapter>
+      <chapter osisID='Matt.25'>
+        <verse osisID='Matt.25.1'> Akkor hasonlatos lesz a mennyeknek országa ama tíz szûzhöz, a kik elõvevén az õ lámpásaikat, kimenének a võlegény elé.</verse>
+        <verse osisID='Matt.25.2'> Öt pedig közülök eszes vala, és öt bolond.</verse>
+        <verse osisID='Matt.25.3'> A kik bolondok valának, mikor lámpásaikat elõvevék, nem vivének magukkal olajat;</verse>
+        <verse osisID='Matt.25.4'> Az eszesek pedig lámpásaikkal együtt olajat vivének az õ edényeikben.</verse>
+        <verse osisID='Matt.25.5'> Késvén pedig a võlegény, mindannyian elszunnyadának és aluvának.</verse>
+        <verse osisID='Matt.25.6'> Éjfélkor pedig kiáltás lõn: Ímhol jõ a võlegény! Jõjjetek elébe!</verse>
+        <verse osisID='Matt.25.7'> Akkor felkelének mind azok a szûzek, és elkészíték az õ lámpásaikat.</verse>
+        <verse osisID='Matt.25.8'> A bolondok pedig mondának az eszeseknek: Adjatok nékünk a ti olajotokból, mert a mi lámpásaink kialusznak.</verse>
+        <verse osisID='Matt.25.9'> Az eszesek pedig felelének, mondván: Netalán nem lenne elegendõ nékünk és néktek; menjetek inkább az árúsokhoz, és vegyetek magatoknak.</verse>
+        <verse osisID='Matt.25.10'> Mikor pedig venni járnak vala, megérkezék a võlegény; és a kik készen valának, bemenének õ vele a menyegzõbe, és bezáraték az ajtó.</verse>
+        <verse osisID='Matt.25.11'> Késõbb pedig a többi szûzek is megjövének, mondván: Uram! Uram! nyisd meg mi nékünk.</verse>
+        <verse osisID='Matt.25.12'> Õ pedig felelvén, monda: Bizony mondom néktek, nem ismerlek titeket.</verse>
+        <verse osisID='Matt.25.13'> Vigyázzatok azért, mert sem a napot, sem az órát nem tudjátok, a melyen az embernek Fia eljõ.</verse>
+        <verse osisID='Matt.25.14'> Mert épen úgy van ez, mint az az ember, a ki útra akarván kelni, eléhívatá az õ szolgáit, és a mije volt, átadá nékik.</verse>
+        <verse osisID='Matt.25.15'> És ada az egyiknek öt tálentomot, a másiknak kettõt, a harmadiknak pedig egyet, kinek-kinek az õ erejéhez képest; és azonnal útra kele.</verse>
+        <verse osisID='Matt.25.16'> Elmenvén pedig a ki az öt tálentomot kapta vala, kereskedék azokkal, és szerze más öt tálentomot.</verse>
+        <verse osisID='Matt.25.17'> Azonképen a kié a kettõ vala, az is más kettõt nyere.</verse>
+        <verse osisID='Matt.25.18'> A ki pedig az egyet kapta vala, elmenvén, elásá azt a földbe, és elrejté az õ urának pénzét.</verse>
+        <verse osisID='Matt.25.19'> Sok idõ múlva pedig megjöve ama szolgáknak ura, és számot vete velök.</verse>
+        <verse osisID='Matt.25.20'> És elõjövén a ki az öt tálentomot kapta vala, hoza más öt tálentomot, mondván: Uram, öt tálentomot adtál vala nékem; ímé más öt tálentomot nyertem azokon.</verse>
+        <verse osisID='Matt.25.21'> Az õ ura pedig monda néki: Jól vagyon jó és hû szolgám, kevesen voltál hû, sokra bízlak ezután; menj be a te uradnak örömébe.</verse>
+        <verse osisID='Matt.25.22'> Elõjövén pedig az is, a ki a két tálentomot kapta vala, monda: Uram, két tálentomot adtál volt nékem; ímé más két tálentomot nyertem azokon.</verse>
+        <verse osisID='Matt.25.23'> Monda néki az õ ura: Jól vagyon jó és hû szolgám, kevesen voltál hû, sokra bízlak ezután; menj be a te uradnak örömébe.</verse>
+        <verse osisID='Matt.25.24'> Elõjövén pedig az is, a ki az egy tálentomot kapta vala, monda: Uram, tudtam, hogy te kegyetlen ember vagy, a ki ott is aratsz, a hol nem vetettél, és ott is takarsz, a hol nem vetettél;</verse>
+        <verse osisID='Matt.25.25'> Azért félvén, elmentem és elástam a te tálentomodat a földbe; ímé megvan a mi a tied.</verse>
+        <verse osisID='Matt.25.26'> Az õ ura pedig felelvén, monda néki: Gonosz és rest szolga, tudtad, hogy ott is aratok, a hol nem vetettem, és ott is takarok, a hol nem vetettem;</verse>
+        <verse osisID='Matt.25.27'> El kellett volna tehát helyezned az én pénzemet a pénzváltóknál; és én, megjövén, nyereséggel kaptam volna meg a magamét.</verse>
+        <verse osisID='Matt.25.28'> Vegyétek el azért tõle a tálentomot, és adjátok annak, a kinek tíz tálentoma van.</verse>
+        <verse osisID='Matt.25.29'> Mert mindenkinek, a kinek van, adatik, és megszaporíttatik; a kinek pedig nincsen, attól az is elvétetik, a mije van.</verse>
+        <verse osisID='Matt.25.30'> És a haszontalan szolgát vessétek a külsõ sötétségre; ott lészen sírás és fogcsikorgatás.</verse>
+        <verse osisID='Matt.25.31'> Mikor pedig eljõ az embernek Fia az õ dicsõségében, és õ vele mind a szent angyalok, akkor beül majd az õ dicsõségének királyiszékébe.</verse>
+        <verse osisID='Matt.25.32'> És elébe gyûjtetnek mind a népek, és elválasztja õket egymástól, miként a pásztor elválasztja a juhokat a kecskéktõl.</verse>
+        <verse osisID='Matt.25.33'> És a juhokat jobb keze felõl, a kecskéket pedig bal keze felõl állítja.</verse>
+        <verse osisID='Matt.25.34'> Akkor ezt mondja a király a jobb keze felõl állóknak: Jertek, én Atyámnak áldottai, örököljétek ez országot, a mely számotokra készíttetett a világ megalapítása óta.</verse>
+        <verse osisID='Matt.25.35'> Mert éheztem, és ennem adtatok; szomjúhoztam, és innom adtatok; jövevény voltam, és befogadtatok engem;</verse>
+        <verse osisID='Matt.25.36'> Mezítelen voltam, és megruháztatok; beteg voltam, és meglátogattatok; fogoly voltam, és eljöttetek hozzám.</verse>
+        <verse osisID='Matt.25.37'> Akkor felelnek majd néki az igazak, mondván: Uram, mikor láttuk, hogy éheztél, és tápláltunk volna? vagy szomjúhoztál, és innod adtunk volna?</verse>
+        <verse osisID='Matt.25.38'> És mikor láttuk, hogy jövevény voltál, és befogadtunk volna? vagy mezítelen voltál, és felruháztunk volna?</verse>
+        <verse osisID='Matt.25.39'> Mikor láttuk, hogy beteg vagy fogoly voltál, és hozzád mentünk volna?</verse>
+        <verse osisID='Matt.25.40'> És felelvén a király, azt mondja majd nékik: Bizony mondom néktek, a mennyiben megcselekedtétek egygyel az én legkisebb atyámfiai közül, én velem cselekedtétek meg.</verse>
+        <verse osisID='Matt.25.41'> Akkor szól majd az õ bal keze felõl állókhoz is: Távozzatok tõlem, ti átkozottak, az örök tûzre, a mely az ördögöknek és az õ angyalainak készíttetett.</verse>
+        <verse osisID='Matt.25.42'> Mert éheztem, és nem adtatok ennem; szomjúhoztam, és nem adtatok innom;</verse>
+        <verse osisID='Matt.25.43'> Jövevény voltam, és nem fogadtatok be engem; mezítelen voltam, és nem ruháztatok meg engem; beteg és fogoly voltam, és nem látogattatok meg engem.</verse>
+        <verse osisID='Matt.25.44'> Akkor ezek is felelnek majd néki, mondván: Uram, mikor láttuk, hogy éheztél, vagy szomjúhoztál, vagy hogy jövevény, vagy mezítelen, vagy beteg, vagy fogoly voltál, és nem szolgáltunk volna néked?</verse>
+        <verse osisID='Matt.25.45'> Akkor felel majd nékik, mondván: Bizony mondom néktek, a mennyiben nem cselekedtétek meg egygyel eme legkisebbek közül, én velem sem cselekedtétek meg.</verse>
+        <verse osisID='Matt.25.46'> És ezek elmennek majd az örök gyötrelemre; az igazak pedig az örök életre.</verse>
+      </chapter>
+      <chapter osisID='Matt.26'>
+        <verse osisID='Matt.26.1'> És mikor mindezeket a beszédeket elvégezte vala Jézus, monda az õ tanítványainak:</verse>
+        <verse osisID='Matt.26.2'> Tudjátok, hogy két nap mulva a husvétnak ünnepe lészen, és az embernek Fia elárultatik, hogy megfeszíttessék.</verse>
+        <verse osisID='Matt.26.3'> Akkor egybegyûlének a fõpapok, az írástudók és a nép vénei a fõpap házába, a kit Kajafásnak hívtak,</verse>
+        <verse osisID='Matt.26.4'> És tanácsot tartának, hogy Jézust álnoksággal megfogják és megöljék.</verse>
+        <verse osisID='Matt.26.5'> De azt mondják vala: Ne az ünnepen: hogy zendülés ne legyen a nép között.</verse>
+        <verse osisID='Matt.26.6'> És mikor Jézus Bethániában, a poklos Simon házánál vala,</verse>
+        <verse osisID='Matt.26.7'> Méne õ hozzá egy asszony, a kinél vala drága kenetnek alabástrom szelenczéje, és az õ fejére tölté, a mint az asztalnál ül vala.</verse>
+        <verse osisID='Matt.26.8'> Látván pedig ezt az õ tanítványai, bosszankodának, mondván: Mire való ez a tékozlás?</verse>
+        <verse osisID='Matt.26.9'> Mert eladhatták volna ezt a kenetet nagy áron, és adhatták volna a szegényeknek.</verse>
+        <verse osisID='Matt.26.10'> Mikor pedig ezt eszébe vette Jézus, monda nékik: Miért bántjátok ezt az asszonyt? hiszen jó dolgot cselekedett én velem.</verse>
+        <verse osisID='Matt.26.11'> Mert a szegények mindenkor veletek lesznek, de én nem leszek mindenkor veletek.</verse>
+        <verse osisID='Matt.26.12'> Mert hogy õ ezt a kenetet testemre töltötte, az én temetésemre nézve cselekedte azt.</verse>
+        <verse osisID='Matt.26.13'> Bizony mondom néktek: Valahol az egész világon prédikáltatik az evangyéliom, a mit ez én velem cselekedék, az is hirdettetik az õ emlékezetére.</verse>
+        <verse osisID='Matt.26.14'> Akkor a tizenkettõ közül egy, a kit Iskariótes Júdásnak hívtak, a fõpapokhoz menvén,</verse>
+        <verse osisID='Matt.26.15'> Monda: Mit akartok nékem adni, és én kezetekbe adom õt? Azok pedig rendelének néki harmincz ezüst pénzt.</verse>
+        <verse osisID='Matt.26.16'> És ettõl fogva alkalmat keres vala, hogy elárulja õt.</verse>
+        <verse osisID='Matt.26.17'> A kovásztalan kenyerek elsõ napján pedig Jézushoz menének a tanítványok, mondván: Hol akarod, hogy megkészítsük néked ételedre a husvéti bárányt?</verse>
+        <verse osisID='Matt.26.18'> Õ pedig monda: Menjetek el a városba ama bizonyos emberhez, és ezt mondjátok néki: A Mester üzeni: Az én idõm közel van; nálad tartom meg a husvétot tanítványaimmal.</verse>
+        <verse osisID='Matt.26.19'> És úgy cselekedének a tanítványok, a mint Jézus parancsolta vala nékik; és elkészíték a husvéti bárányt.</verse>
+        <verse osisID='Matt.26.20'> Mikor pedig beestveledék, letelepszik vala a tizenkettõvel,</verse>
+        <verse osisID='Matt.26.21'> És a mikor esznek vala, monda: Bizony mondom néktek, ti közületek egy elárul engem.</verse>
+        <verse osisID='Matt.26.22'> És felettébb megszomorodva, kezdék mindannyian mondani néki: Én vagyok-é az, Uram?</verse>
+        <verse osisID='Matt.26.23'> Õ pedig felelvén, monda: A ki velem együtt mártja kezét a tálba, az árul el engem.</verse>
+        <verse osisID='Matt.26.24'> Az embernek Fia jóllehet elmegyen, a mint meg van írva felõle, de jaj annak az embernek, a ki az embernek Fiát elárulja; jobb volna annak az embernek, ha nem született volna.</verse>
+        <verse osisID='Matt.26.25'> Megszólalván Júdás is, a ki elárulja vala õt, monda: Én vagyok-é az, Mester? Monda néki: Te mondád.</verse>
+        <verse osisID='Matt.26.26'> Mikor pedig evének, vevé Jézus a kenyeret és hálákat adván, megtöré és adá a tanítványoknak, és monda: Vegyétek, egyétek; ez az én testem.</verse>
+        <verse osisID='Matt.26.27'> És vevén a poharat és hálákat adván, adá azoknak, ezt mondván: Igyatok ebbõl mindnyájan;</verse>
+        <verse osisID='Matt.26.28'> Mert ez az én vérem, az új szövetségnek vére, a mely sokakért kiontatik bûnöknek bocsánatára.</verse>
+        <verse osisID='Matt.26.29'> Mondom pedig néktek, hogy: Mostantól fogva nem iszom a szõlõtõkének ebbõl a termésébõl mind ama napig, a mikor újan iszom azt veletek az én Atyámnak országában.</verse>
+        <verse osisID='Matt.26.30'> És dícséretet énekelvén, kimenének az olajfák hegyére.</verse>
+        <verse osisID='Matt.26.31'> Akkor monda nékik Jézus: Mindnyájan ezen az éjszakán megbotránkoztok én bennem. Mert meg van írva: Megverem a pásztort, és elszélednek a nyájnak juhai.</verse>
+        <verse osisID='Matt.26.32'> De föltámadásom után elõttetek megyek majd Galileába.</verse>
+        <verse osisID='Matt.26.33'> Péter pedig felelvén, monda néki: Ha mindnyájan megbotránkoznak is te benned, én soha meg nem botránkozom.</verse>
+        <verse osisID='Matt.26.34'> Monda néki Jézus: Bizony mondom néked, ezen az éjszakán, mielõtt megszólal a kakas, háromszor megtagadsz engem.</verse>
+        <verse osisID='Matt.26.35'> Monda néki Péter: Ha meg kell is veled halnom, meg nem tagadlak téged. Hasonlóképen szólnak vala a többi tanítványok is.</verse>
+        <verse osisID='Matt.26.36'> Akkor elméne Jézus velök egy helyre, a melyet Gecsemánénak hívtak, és monda a tanítványoknak: Üljetek le itt, míg elmegyek és amott imádkozom.</verse>
+        <verse osisID='Matt.26.37'> És maga mellé vévén Pétert és Zebedeusnak két fiát, kezde szomorkodni és gyötrõdni.</verse>
+        <verse osisID='Matt.26.38'> Ekkor monda nékik: Felette igen szomorú az én lelkem mind halálig! maradjatok itt és vigyázzatok én velem.</verse>
+        <verse osisID='Matt.26.39'> És egy kissé elõre menve, arczra borula, könyörögvén és mondván: Atyám! ha lehetséges, múljék el tõlem e pohár; mindazáltal ne úgy legyen a mint én akarom, hanem a mint te.</verse>
+        <verse osisID='Matt.26.40'> Akkor méne a tanítványokhoz és aluva találá õket, és monda Péternek: Így nem birtatok vigyázni velem egy óráig sem!?</verse>
+        <verse osisID='Matt.26.41'> Vigyázzatok és imádkozzatok, hogy kísértetbe ne essetek; mert jóllehet a lélek kész, de a test erõtelen.</verse>
+        <verse osisID='Matt.26.42'> Ismét elméne másodszor is, és könyörge, mondván: Atyám! ha el nem múlhatik tõlem e pohár, hogy ki ne igyam, legyen meg a te akaratod.</verse>
+        <verse osisID='Matt.26.43'> És mikor visszatér vala, ismét aluva találá õket; mert megnehezedtek vala az õ szemeik.</verse>
+        <verse osisID='Matt.26.44'> És ott hagyva õket, ismét elméne és imádkozék harmadszor, ugyanazon beszéddel szólván.</verse>
+        <verse osisID='Matt.26.45'> Ekkor méne az õ tanítványaihoz, és monda nékik: Aludjatok immár és nyugodjatok. Ímé, elközelgett az óra, és az embernek Fia a bûnösök kezébe adatik.</verse>
+        <verse osisID='Matt.26.46'> Keljetek fel, menjünk! Ímé elközelgett, a ki engem elárul.</verse>
+        <verse osisID='Matt.26.47'> És még mikor beszél vala, ímé Júdás, egy a tizenkettõ közül, eljöve és vele együtt sok nép fegyverekkel és fustélyokkal, a fõpapoktól és a nép véneitõl.</verse>
+        <verse osisID='Matt.26.48'> A ki pedig õt elárulja vala, jelt ada nékik, mondván: A kit én majd megcsókolok, õ az, fogjátok meg õt.</verse>
+        <verse osisID='Matt.26.49'> És mindjárt Jézushoz lépvén, monda: Üdvöz légy Mester! és megcsókolá õt.</verse>
+        <verse osisID='Matt.26.50'> Jézus pedig monda néki: Barátom, miért jöttél? Akkor hozzámenvén, kezeiket Jézusra veték és megfogák õt.</verse>
+        <verse osisID='Matt.26.51'> És ímé egyik azok közül, a kik a Jézussal valának, kinyújtván kezét, szablyáját kirántá, és a fõpap szolgáját megcsapván, levágá annak egyik fülét.</verse>
+        <verse osisID='Matt.26.52'> Akkor monda néki Jézus: Tedd helyére szablyádat; mert a kik fegyvert fognak, fegyverrel kell veszniök.</verse>
+        <verse osisID='Matt.26.53'> Avagy azt gondolod-é, hogy nem kérhetném most az én Atyámat, hogy adjon ide mellém többet tizenkét sereg angyalnál?</verse>
+        <verse osisID='Matt.26.54'> De mi módon teljesednének be az írások, hogy így kell lenni?</verse>
+        <verse osisID='Matt.26.55'> Ugyanekkor monda Jézus a sokaságnak: Mint valami latorra, úgy jöttetek fegyverekkel és fustélyokkal, hogy megfogjatok engem? Naponként nálatok ültem, tanítván a templomban, és nem fogtatok meg engem.</verse>
+        <verse osisID='Matt.26.56'> Mindez pedig azért lõn, hogy beteljesedjenek a próféták írásai. Ekkor elhagyák õt a tanítványok mind, és elfutának.</verse>
+        <verse osisID='Matt.26.57'> Amazok pedig megfogván Jézust, vivék Kajafáshoz, a fõpaphoz, a hol az írástudók és a vének egybegyûltek vala.</verse>
+        <verse osisID='Matt.26.58'> Péter pedig követi vala õt távolról egész a fõpap pitvaráig; és bemenvén, ott ül vala a szolgákkal, hogy lássa a végét.</verse>
+        <verse osisID='Matt.26.59'> A fõpapok pedig és a vének és az egész tanács hamis bizonyságot keresnek vala Jézus ellen, hogy megölhessék õt;</verse>
+        <verse osisID='Matt.26.60'> És nem találának. És noha sok hamis tanú jött vala elõ, még sem találának. Utoljára pedig elõjövén két hamis tanú,</verse>
+        <verse osisID='Matt.26.61'> Monda: Ez azt mondta: Leronthatom az Isten templomát, és három nap alatt felépíthetem azt.</verse>
+        <verse osisID='Matt.26.62'> És fölkelvén a fõpap, monda néki: Semmit sem felelsz-é? Micsoda tanúbizonyságot tesznek ezek ellened?</verse>
+        <verse osisID='Matt.26.63'> Jézus pedig hallgat vala. És felelvén a fõpap, monda néki: Az élõ Istenre kényszerítelek téged, hogy mondd meg nékünk, ha te vagy-é a Krisztus, az Istennek Fia?</verse>
+        <verse osisID='Matt.26.64'> Monda néki Jézus: Te mondád. Sõt mondom néktek: Mostantól fogva meglátjátok az embernek Fiát ülni az Istennek hatalmas jobbján, és eljõni az égnek felhõiben.</verse>
+        <verse osisID='Matt.26.65'> Ekkor a fõpap megszaggatá a maga ruháit, és monda: Káromlást szólott. Mi szükségünk van még bizonyságokra? Ímé most hallottátok az õ káromlását.</verse>
+        <verse osisID='Matt.26.66'> Mit gondoltok? Azok pedig felelvén mondának: Méltó a halálra.</verse>
+        <verse osisID='Matt.26.67'> Akkor szemébe köpdösének és arczul csapdosák õt, némelyek pedig botokkal verék,</verse>
+        <verse osisID='Matt.26.68'> Mondván: Prófétáld meg nékünk Krisztus, kicsoda az, a ki üt téged?</verse>
+        <verse osisID='Matt.26.69'> Péter pedig künn ül vala az udvaron, és hozzá menvén egy szolgálóleány, monda: Te is a Galileabeli Jézussal valál.</verse>
+        <verse osisID='Matt.26.70'> Õ pedig mindenkinek hallatára megtagadá, mondván: Nem tudom, mit beszélsz.</verse>
+        <verse osisID='Matt.26.71'> Mikor pedig kiméne a tornáczra meglátá õt egy másik szolgálóleány, és monda az ott levõknek: Ez is a názáreti Jézussal vala.</verse>
+        <verse osisID='Matt.26.72'> És ismét megtagadá esküvéssel, hogy: Nem is ismerem ezt az embert.</verse>
+        <verse osisID='Matt.26.73'> Kevés idõ múlva pedig az ott álldogálók menének hozzá, és mondának Péternek: Bizony te is közülök való vagy; hiszen a te beszéded is elárul téged.</verse>
+        <verse osisID='Matt.26.74'> Ekkor átkozódni és esküdözni kezde, hogy: Nem ismerem ezt az embert. És a kakas azonnal megszólala.</verse>
+        <verse osisID='Matt.26.75'> És megemlékezék Péter a Jézus beszédérõl, ki ezt mondotta vala néki: Mielõtt a kakas szólana, háromszor megtagadsz engem; és kimenvén onnan, keservesen síra.</verse>
+      </chapter>
+      <chapter osisID='Matt.27'>
+        <verse osisID='Matt.27.1'> Mikor pedig reggel lõn, tanácsot tartának mind a fõpapok és a nép vénei Jézus ellen, hogy õt megöljék.</verse>
+        <verse osisID='Matt.27.2'> És megkötözvén õt, elvivék, és átadák õt Ponczius Pilátusnak a helytartónak.</verse>
+        <verse osisID='Matt.27.3'> Akkor látván Júdás, a ki õt elárulá, hogy elítélték õt, megbánta dolgát, és visszavivé a harmincz ezüst pénzt a fõpapoknak és a véneknek,</verse>
+        <verse osisID='Matt.27.4'> Mondván: Vétkeztem, hogy elárultam az ártatlan vért. Azok pedig mondának: Mi közünk hozzá? Te lássad.</verse>
+        <verse osisID='Matt.27.5'> Õ pedig eldobván az ezüst pénzeket a templomban, eltávozék; és elmenvén felakasztá magát.</verse>
+        <verse osisID='Matt.27.6'> A fõpapok pedig felszedvén az ezüst pénzeket, mondának: Nem szabad ezeket a templom kincsei közé tennünk, mert vérnek ára.</verse>
+        <verse osisID='Matt.27.7'> Tanácsot ülvén pedig, megvásárlák azon a fazekasnak mezejét idegenek számára való temetõnek.</verse>
+        <verse osisID='Matt.27.8'> Ezért hívják ezt a mezõt vérmezejének mind e mai napig.</verse>
+        <verse osisID='Matt.27.9'> Ekkor teljesedék be a Jeremiás próféta mondása, a ki így szólott: És vevék a harmincz ezüst pénzt, a megbecsültnek árát, a kit Izráel fiai részérõl megbecsültek,</verse>
+        <verse osisID='Matt.27.10'> És adák azt a fazekas mezejéért, a mint az Úr rendelte volt nékem.</verse>
+        <verse osisID='Matt.27.11'> Jézus pedig ott álla a helytartó elõtt; és kérdezé õt a helytartó, mondván: Te vagy-é a zsidók királya? Jézus pedig monda néki: Te mondod.</verse>
+        <verse osisID='Matt.27.12'> És mikor vádolák õt a fõpapok és a vének, semmit sem felele.</verse>
+        <verse osisID='Matt.27.13'> Akkor monda néki Pilátus: Nem hallod-é, mily sok bizonyságot tesznek ellened?</verse>
+        <verse osisID='Matt.27.14'> És nem felele néki egyetlen szóra sem, úgy hogy a helytartó igen elcsodálkozék.</verse>
+        <verse osisID='Matt.27.15'> Ünnepenként pedig egy foglyot szokott szabadon bocsátani a helytartó a sokaság kedvéért, a kit akarának.</verse>
+        <verse osisID='Matt.27.16'> Vala pedig akkor egy nevezetes foglyuk, a kit Barabbásnak hívtak.</verse>
+        <verse osisID='Matt.27.17'> Mikor azért egybegyülekezének, monda nékik Pilátus: Melyiket akarjátok hogy elbocsássam néktek: Barabbást-é, vagy Jézust, a kit Krisztusnak hívnak?</verse>
+        <verse osisID='Matt.27.18'> Mert jól tudja vala, hogy irigységbõl adák õt kézbe.</verse>
+        <verse osisID='Matt.27.19'> A mint pedig õ az ítélõszékben ül vala, külde õ hozzá a felesége, ezt üzenvén: Ne avatkozzál amaz igaz ember dolgába; mert sokat szenvedtem ma álmomban õ miatta.</verse>
+        <verse osisID='Matt.27.20'> A fõpapok és vének pedig reá beszélék a sokaságot, hogy Barabbást kérjék ki, Jézust pedig veszítsék el.</verse>
+        <verse osisID='Matt.27.21'> Felelvén pedig a helytartó, monda nékik: A kettõ közül melyiket akarjátok, hogy elbocsássam néktek? Azok pedig mondának: Barabbást.</verse>
+        <verse osisID='Matt.27.22'> Monda nékik Pilátus: Mit cselekedjem hát Jézussal, a kit Krisztusnak hívnak? Mindnyájan mondának: Feszíttessék meg!</verse>
+        <verse osisID='Matt.27.23'> A helytartó pedig monda: Mert mi rosszat cselekedett? Azok pedig még inkább kiáltoznak vala, mondván: Feszíttessék meg!</verse>
+        <verse osisID='Matt.27.24'> Pilátus pedig látván, hogy semmi sem használ, hanem még nagyobb háborúság támad, vizet vévén, megmosá kezeit a sokaság elõtt, mondván: Ártatlan vagyok ez igaz embernek vérétõl; ti lássátok!</verse>
+        <verse osisID='Matt.27.25'> És felelvén az egész nép, monda: Az õ vére mi rajtunk és a mi magzatainkon.</verse>
+        <verse osisID='Matt.27.26'> Akkor elbocsátá nékik Barabbást; Jézust pedig megostoroztatván, kezökbe adá, hogy megfeszíttessék.</verse>
+        <verse osisID='Matt.27.27'> Akkor a helytartó vitézei elvivék Jézust az õrházba, és oda gyûjték hozzá az egész csapatot.</verse>
+        <verse osisID='Matt.27.28'> És levetkeztetvén õt, bíbor palástot adának reá.</verse>
+        <verse osisID='Matt.27.29'> És tövisbõl fonott koronát tõnek a fejére, és nádszálat a jobb kezébe; és térdet hajtva elõtte, csúfolják vala õt, mondván: Üdvöz légy zsidóknak királya!</verse>
+        <verse osisID='Matt.27.30'> És mikor megköpdösék õt, elvevék a nádszálat, és a fejéhez verdesik vala.</verse>
+        <verse osisID='Matt.27.31'> És miután megcsúfolták, levevék róla a palástot és az õ maga ruháiba öltözteték; és elvivék, hogy megfeszítsék õt.</verse>
+        <verse osisID='Matt.27.32'> Kifelé menve pedig találkozának egy czirénei emberrel, a kit Simonnak hívnak vala; ezt kényszeríték, hogy vigye az õ keresztjét.</verse>
+        <verse osisID='Matt.27.33'> És mikor eljutának arra a helyre, a melyet Golgothának, azaz koponya helyének neveznek,</verse>
+        <verse osisID='Matt.27.34'> Méreggel megelegyített eczetet adának néki inni; és megízlelvén, nem akara inni.</verse>
+        <verse osisID='Matt.27.35'> Minek utána pedig megfeszíték õt, eloszták az õ ruháit, sorsot vetvén; hogy beteljék a próféta mondása: Megosztozának az én ruháimon, és az én köntösömre sorsot vetének.</verse>
+        <verse osisID='Matt.27.36'> És leülvén, ott õrzik vala õt.</verse>
+        <verse osisID='Matt.27.37'> És feje fölé illeszték az õ kárhoztatásának okát, oda írván: Ez Jézus, a zsidók királya.</verse>
+        <verse osisID='Matt.27.38'> Akkor megfeszítének vele együtt két latrot, egyiket jobbkéz felõl, és a másikat balkéz felõl.</verse>
+        <verse osisID='Matt.27.39'> Az arramenõk pedig szidalmazzák vala õt, fejüket hajtogatván.</verse>
+        <verse osisID='Matt.27.40'> És ezt mondván: Te, ki lerontod a templomot és harmadnapra fölépíted, szabadítsd meg magadat; ha Isten Fia vagy, szállj le a keresztrõl!</verse>
+        <verse osisID='Matt.27.41'> Hasonlóképen a fõpapok is csúfolódván az írástudókkal és a vénekkel egyetemben, ezt mondják vala:</verse>
+        <verse osisID='Matt.27.42'> Másokat megtartott, magát nem tudja megtartani. Ha Izráel királya, szálljon le most a keresztrõl, és majd hiszünk néki.</verse>
+        <verse osisID='Matt.27.43'> Bízott az Istenben; mentse meg most õt, ha akarja; mert azt mondta: Isten Fia vagyok.</verse>
+        <verse osisID='Matt.27.44'> A kiket vele együtt feszítének meg, a latrok is ugyanazt hányják vala szemére.</verse>
+        <verse osisID='Matt.27.45'> Hat órától kezdve pedig sötétség lõn mind az egész földön, kilencz óráig.</verse>
+        <verse osisID='Matt.27.46'> Kilencz óra körül pedig nagy fenszóval kiálta Jézus, mondván: ELI, ELI! LAMA SABAKTÁNI? azaz: Én Istenem, én Istenem! miért hagyál el engemet?</verse>
+        <verse osisID='Matt.27.47'> Némelyek pedig az ott állók közül, a mint ezt hallák, mondának: Illést hívja ez.</verse>
+        <verse osisID='Matt.27.48'> És egy közülök azonnal oda futamodván, egy szivacsot võn, és megtöltvén eczettel és egy nádszálra tûzvén, inni ád vala néki.</verse>
+        <verse osisID='Matt.27.49'> A többiek pedig ezt mondják vala: Hagyd el, lássuk eljõ-é Illés, hogy megszabadítsa õt?</verse>
+        <verse osisID='Matt.27.50'> Jézus pedig ismét nagy fenszóval kiáltván, kiadá lelkét.</verse>
+        <verse osisID='Matt.27.51'> És ímé a templom kárpítja fölétõl aljáig ketté hasada; és a föld megindula, és a kõsziklák megrepedezének;</verse>
+        <verse osisID='Matt.27.52'> És a sírok megnyílának, és sok elhúnyt szentnek teste föltámada.</verse>
+        <verse osisID='Matt.27.53'> És kijövén a sírokból, a Jézus föltámadása után bementek a szent városba, és sokaknak megjelenének.</verse>
+        <verse osisID='Matt.27.54'> A százados pedig és a kik õ vele õrizték vala Jézust, látván a földindulást és a mik történtek vala, igen megrémülének, mondván: Bizony, Istennek Fia vala ez!</verse>
+        <verse osisID='Matt.27.55'> Sok asszony vala pedig ott, a kik távolról szemlélõdnek vala, a kik Galileából követték Jézust, szolgálván néki;</verse>
+        <verse osisID='Matt.27.56'> Ezek közt volt Mária Magdaléna, és Mária a Jakab és Józsé anyja, és a Zebedeus fiainak anyja.</verse>
+        <verse osisID='Matt.27.57'> Mikor pedig beesteledék, eljöve egy gazdag ember Arimathiából, név szerint József, a ki maga is tanítványa volt Jézusnak;</verse>
+        <verse osisID='Matt.27.58'> Ez Pilátushoz menvén, kéri vala a Jézus testét. Akkor parancsolá Pilátus, hogy adják át a testet.</verse>
+        <verse osisID='Matt.27.59'> És magához vévén József a testet, begöngyölé azt tiszta gyolcsba,</verse>
+        <verse osisID='Matt.27.60'> És elhelyezé azt a maga új sírjába, a melyet a sziklába vágatott: és a sír szájára egy nagy követ hengerítvén, elméne.</verse>
+        <verse osisID='Matt.27.61'> Ott vala pedig Mária Magdaléna és a másik Mária, a kik a sír átellenében ülnek vala.</verse>
+        <verse osisID='Matt.27.62'> Másnap pedig, a mely péntek után következik, egybegyûlének a fõpapok és a farizeusok Pilátushoz,</verse>
+        <verse osisID='Matt.27.63'> Ezt mondván: Uram, emlékezünk, hogy az a hitetõ még életében azt mondotta volt: Harmadnapra föltámadok.</verse>
+        <verse osisID='Matt.27.64'> Parancsold meg azért, hogy õrizzék a sírt harmadnapig, ne hogy az õ tanítványai odamenvén éjjel, ellopják õt és azt mondják a népnek: Feltámadott a halálból; és az utolsó hitetés gonoszabb legyen az elsõnél.</verse>
+        <verse osisID='Matt.27.65'> Pilátus pedig monda nékik: Van õrségetek; menjetek, õríztessétek, a mint tudjátok.</verse>
+        <verse osisID='Matt.27.66'> Õk pedig elmenvén, a sírt õrizet alá helyezék, lepecsételvén a követ, az õrséggel.</verse>
+      </chapter>
+      <chapter osisID='Matt.28'>
+        <verse osisID='Matt.28.1'> A szombat végén pedig, a hét elsõ napjára virradólag, kiméne Mária Magdaléna és a másik Mária, hogy megnézzék a sírt.</verse>
+        <verse osisID='Matt.28.2'> És ímé nagy földindulás lõn; mert az Úrnak angyala leszállván a mennybõl, és oda menvén, elhengeríté a követ a sír szájáról, és reá üle arra.</verse>
+        <verse osisID='Matt.28.3'> A tekintete pedig olyan volt, mint a villámlás, és a ruhája fehér, mint a hó.</verse>
+        <verse osisID='Matt.28.4'> Az õrizõk pedig tõle való féltökben megrettenének, és olyanokká lõnek mint a holtak.</verse>
+        <verse osisID='Matt.28.5'> Az angyal pedig megszólalván, monda az asszonyoknak: Ti ne féljetek; mert tudom, hogy a megfeszített Jézust keresitek.</verse>
+        <verse osisID='Matt.28.6'> Nincsen itt, mert feltámadott, a mint megmondotta volt. Jertek, lássátok a helyet, a hol feküdt vala az Úr.</verse>
+        <verse osisID='Matt.28.7'> És menjetek gyorsan és mondjátok meg az õ tanítványainak, hogy feltámadott a halálból; és ímé elõttetek megy Galileába; ott meglátjátok õt, ímé megmondottam néktek.</verse>
+        <verse osisID='Matt.28.8'> És gyorsan eltávozván a sírtól félelemmel és nagy örömmel, futnak vala, hogy megmondják az õ tanítványainak.</verse>
+        <verse osisID='Matt.28.9'> Mikor pedig mennek vala, hogy megmondják az õ tanítványainak, ímé szembe jöve õ velök Jézus, mondván: Legyetek üdvözölve! Azok pedig hozzá járulván, megragadák az õ lábait, és leborulának elõtte.</verse>
+        <verse osisID='Matt.28.10'> Akkor monda nékik Jézus: Ne féljetek; menjetek el, mondjátok meg az én atyámfiainak, hogy menjenek Galileába, és ott meglátnak engem.</verse>
+        <verse osisID='Matt.28.11'> A mialatt pedig õk mennek vala, ímé az õrségbõl némelyek bemenvén a városba, megjelentének a fõpapoknak mindent a mi történt.</verse>
+        <verse osisID='Matt.28.12'> És egybegyülekezvén a vénekkel együtt, és tanácsot tartván, sok pénzt adának a vitézeknek,</verse>
+        <verse osisID='Matt.28.13'> Ezt mondván: Mondjátok, hogy: Az õ tanítványai odajövén éjjel, ellopák õt, mikor mi aluvánk.</verse>
+        <verse osisID='Matt.28.14'> És ha ez a helytartó fülébe jut, mi elhitetjük õt, és kimentünk titeket a bajból.</verse>
+        <verse osisID='Matt.28.15'> Azok pedig fölvevén a pénzt, úgy cselekedének, a mint megtanították õket. És elterjedt ez a hír a zsidók között mind e mai napig.</verse>
+        <verse osisID='Matt.28.16'> A tizenegy tanítvány pedig elméne Galileába, a hegyre, a hová Jézus rendelte vala õket.</verse>
+        <verse osisID='Matt.28.17'> És mikor megláták õt, leborulának elõtte; némelyek pedig kételkedének.</verse>
+        <verse osisID='Matt.28.18'> És hozzájuk menvén Jézus, szóla nékik, mondván: Nékem adatott minden hatalom mennyen és földön.</verse>
+        <verse osisID='Matt.28.19'> Elmenvén azért, tegyetek tanítványokká minden népeket, megkeresztelvén õket az Atyának, a Fiúnak és a Szent Léleknek nevében,</verse>
+        <verse osisID='Matt.28.20'> Tanítván õket, hogy megtartsák mindazt, a mit én parancsoltam néktek: és ímé én ti veletek vagyok minden napon a világ végezetéig. Ámen!</verse>
+      </chapter>
+    </div></osisText>
+</osis>

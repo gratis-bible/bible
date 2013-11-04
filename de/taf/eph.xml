@@ -1,0 +1,274 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <osisText osisRefWork='Bible' osisIDWork='TAF' xml:lang='de'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='TAF'>
+        <title>Tafelbibel</title>
+        <contributor>Martin</contributor>
+        <creator>Jens Grabner</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject>holy bible</subject>
+        <date>2009-01-20</date>
+        <description>Die Bibel - Übersetzung von Johann Friedrich Leonhard Tafel
+
+      Die vorliegende Neuausgabe ist eine Abschrift der Übersetzung von Dr. Leonhard
+      Tafel, revidiert von Ludwig H. Tafel, dritte Ausgabe 1911, und wurde auf ihre
+      Vollständigkeit überprüft. Es wurde die Rechtschreibregel der heutigen Zeit (noch
+      vor der Rechtschreibreform 1998) angewendet, ohne den Stil der Sprache zu verändern.
+
+      Wer in dieser Bibel einige Bücher vermisst, sei auf das Vorwort der Source verwiesen.
+      Auf der zweiten Seite steht dort:
+      Der zweite Band enthält die übrigen, sogenannten
+      Hagiographen oder heiligen Bücher: die Bücher Hiob, Sprichwörter, Hohelied, Prediger, Ruth, Chronika, Esra,
+      Nehemia, Esther und die Apokryphen.²
+      2. Gegenwärtige, Revision des Zefania XML Moduls  enthält die Hagiographen und Apokryphen nicht, da
+      sie nicht verfügbar waren.</description>
+        <publisher>FREE BIBLE SOFTWARE GROUP</publisher>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>TAF</identifier>
+        <source>http://www.ubf-dortmund.de/bibel/tafel.htm</source>
+        <language type='IETF'>de</language>
+        <relation/>
+        <coverage>provide the bible to the world</coverage>
+        <rights>Mit freundlicher Genehmigung des Swedenborg Verlag Postfach 1205 CH - 8032 Zürich</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Eph'>
+      <chapter osisID='Eph.1'>
+        <title>Des Paulus Brief an die Epheser</title>
+        <title>Gruß des Apostels. - Wohltat des Christentums.</title>
+        <verse osisID='Eph.1.1'>Paulus, ein Apostel Jesu Christi durch den Willen Gottes, an die Heiligen zu Ephesus und Gläubigen an Jesus Christus:</verse>
+        <verse osisID='Eph.1.2'>Gnade sei mit euch und Friede von Gott unserem Vater und dem Herrn Jesus Christus.</verse>
+        <verse osisID='Eph.1.3'>Gelobt sei Gott und der Vater unseres Herrn Jesus Christus, Der uns mit allerlei geistigen Segnungen an himmlischen Gütern durch Christus gesegnet hat.</verse>
+        <verse osisID='Eph.1.4'>Wie Er uns denn erwählt hat durch Ihn, vor Gründung der Welt, damit wir heilig und tadellos wären vor Ihm in der Liebe.</verse>
+        <verse osisID='Eph.1.5'>Indem Er uns vorherbestimmt hat zur Kindschaft durch Jesus Christus für Ihn Selbst nach dem Wohlgefallen Seines Willens;</verse>
+        <verse osisID='Eph.1.6'>Zum Lob der Herrlichkeit Seiner Gnade, womit Er uns begnadigt hat in dem Geliebten;</verse>
+        <verse osisID='Eph.1.7'>An Dem wir haben die Erlösung durch Sein Blut, die Vergebung der Sünden,</verse>
+        <verse osisID='Eph.1.8'>Nach dem Reichtum Seiner Gnade, die uns überschwenglich zuteil wurde in jeglicher Weisheit und Einsicht;</verse>
+        <verse osisID='Eph.1.9'>Indem Er uns das Geheimnis Seines Willens nach Seinem Wohlgefallen kund tat, nach welchem Er bei Sich beschlossen hatte,</verse>
+        <verse osisID='Eph.1.10'>In Hinsicht auf die Veranstaltung der Erfüllung der Zeiten, alles im Himmel und auf Erden in Christus zusammenzufassen,</verse>
+        <verse osisID='Eph.1.11'>In Ihm, durch Den wir auch zum Erbteil gekommen, die wir zuvor verordnet sind nach dem Ratschlusse Dessen, Der alle Dinge wirkt nach dem Rat Seines Willens;</verse>
+        <verse osisID='Eph.1.12'>Auf daß wir zum Lobe Seiner Herrlichkeit dienten, die wir zuvor auf Christus gehofft haben.</verse>
+        <verse osisID='Eph.1.13'>In Dem auch ihr, da ihr das Wort der Wahrheit, das Evangelium eures Heils gehört und an Ihn geglaubt habt, versiegelt worden seid mit dem Heiligen Geiste der Verheißung;</verse>
+        <verse osisID='Eph.1.14'>Welcher ist das Pfand unseres Erbes, auf die Erlösung des Eigentums zum Preis Seiner Herrlichkeit.</verse>
+        <verse osisID='Eph.1.15'>Darum auch ich, nachdem ich von eurem Glauben an den Herrn Jesus bei euch, und von eurer Liebe zu allen Heiligen gehört habe,</verse>
+        <verse osisID='Eph.1.16'>Nicht aufhöre zu danken für euch, indem ich euer in meinem Gebete gedenke.</verse>
+        <verse osisID='Eph.1.17'>Daß der Gott unseres Herrn Jesus Christus, der Vater der Herrlichkeit, euch gebe den Geist der Weisheit und der Offenbarung zu Seiner Erkenntnis;</verse>
+        <verse osisID='Eph.1.18'>Und erleuchte die Augen eures Verständnisses, auf daß ihr seht, welches da ist die Hoffnung Seiner Berufung, und welches da ist der Reichtum der Herrlichkeit Seines Erbes unter den Heiligen,</verse>
+        <verse osisID='Eph.1.19'>Und welches da ist die überschwengliche Größe Seiner Macht an uns, die wir glauben vermöge der Wirksamkeit Seiner gewaltigen Kraft,</verse>
+        <verse osisID='Eph.1.20'>Die Er in Christus gewirkt hat, da Er Ihn von den Toten auferweckt und zu Seiner Rechten im Himmel gesetzt hat.</verse>
+        <verse osisID='Eph.1.21'>Hoch über alle Obrigkeit und Gewalt, Macht, Herrschaft, und über alle Namen, die genannt werden mögen, nicht allein in dieser Welt, sondern auch in der zukünftigen,</verse>
+        <verse osisID='Eph.1.22'>Und hat alle Dinge unter Seine Füße gelegt, und Ihn zum Haupt gesetzt über alles in der Gemeinde,</verse>
+        <verse osisID='Eph.1.23'>Welche ist Sein Leib und die Fülle Dessen, Der alles in allem erfüllt.</verse>
+      </chapter>
+      <chapter osisID='Eph.2'>
+        <title>Fortsetzung.</title>
+        <verse osisID='Eph.2.1'>Und auch euch, die ihr tot waret durch Übertretungen und Sünden,</verse>
+        <verse osisID='Eph.2.2'>In denen ihr nach dem Lauf dieser Welt dereinst gewandelt habt, nach dem Fürsten der Macht, der in der Luft herrscht, nach dem Geiste, der jetzt sein Werk hat in den Kindern des Unglaubens,</verse>
+        <verse osisID='Eph.2.3'>Unter denen auch wir alle dereinst wandelten in den Lüsten unseres Fleisches, indem wir den Willen des Fleisches und der Gedanken taten, und von Natur Kinder des Zorns waren, gleich den anderen.</verse>
+        <verse osisID='Eph.2.4'>Aber Gott, Der reich ist an Barmherzigkeit, hat durch Seine große Liebe, womit Er uns geliebt,</verse>
+        <verse osisID='Eph.2.5'>Auch uns, die wir tot waren durch Übertretungen, mit Christus lebendig gemacht -denn aus Gnaden seid ihr selig geworden -</verse>
+        <verse osisID='Eph.2.6'>Und hat uns mit auferweckt, und mit gesetzt in den Himmel in Jesus Christus;</verse>
+        <verse osisID='Eph.2.7'>Auf daß Er in den zukünftigen Zeiten erzeige den überschwenglichen Reichtum Seiner Gnade, durch Seine Güte gegen uns in Jesus Christus.</verse>
+        <verse osisID='Eph.2.8'>Denn aus Gnade seid ihr selig geworden durch den Glauben, und dies nicht aus euch</verse>
+        <verse osisID='Eph.2.9'>Nicht aus Werken, auf daß sich nicht jemand rühme.</verse>
+        <verse osisID='Eph.2.10'>Denn wir sind Sein Werk, geschaffen in Jesus Christus zu guten Werken, für die Gott uns vorbereitet hat, daß wir darin wandeln sollten.</verse>
+        <verse osisID='Eph.2.11'>Darum gedenket, daß ihr einst Heiden waret am Fleisch, und Vorhaut genannt wurdet von denen, die nach dem Fleische Beschneidung genannt wurden, so durch Menschenhand geschieht.</verse>
+        <verse osisID='Eph.2.12'>Daß ihr zu jener Zeit außerhalb Christus waret, fremd dem Bürgerrechte Israels und fremd dem Bunde der Verheißung, ohne Hoffnung und ohne Gott in der Welt lebtet,</verse>
+        <verse osisID='Eph.2.13'>Nun aber in Jesus Christus seid ihr, die früher fern gestanden, durch Christus Blut nahe getreten.</verse>
+        <verse osisID='Eph.2.14'>Denn Er ist unser Friede, Der aus den beiden eins gemacht, und abgebrochen hat die Scheidewand der Umzäunung,</verse>
+        <verse osisID='Eph.2.15'>Da Er in Seinem Fleisch die Feindschaft, das Gesetz der Gebote in den Satzungen aufhob, damit Er aus den zweien in Ihm Selbst einen neuen Menschen schaffte und Frieden stiftete.</verse>
+        <verse osisID='Eph.2.16'>Und daß Er beide in einem Leibe durch das Kreuz mit Gott versöhnete, indem Er die Feindschaft an demselben ertötete;</verse>
+        <verse osisID='Eph.2.17'>Und ist gekommen und hat den Frieden verkündigt euch, die ihr ferne waret, und denen, die nahe waren.</verse>
+        <verse osisID='Eph.2.18'>Weil wir durch Ihn beide in einem Geiste den Zutritt zum Vater haben.</verse>
+        <verse osisID='Eph.2.19'>So seid ihr nun nicht mehr Fremdlinge und Beisaßen, sondern Mitbürger der Heiligen und Hausgenossen Gottes,</verse>
+        <verse osisID='Eph.2.20'>Aufgebaut auf den Grund der Apostel und Propheten, indem Jesus Christus Selbst der Eckstein ist,</verse>
+        <verse osisID='Eph.2.21'>Durch den das ganze Gebäude zusammengehalten wird und wächst zu einem heiligen Tempel im Herrn,</verse>
+        <verse osisID='Eph.2.22'>In dem auch ihr mit erbaut werdet zu einer Behausung Gottes im Geiste.</verse>
+      </chapter>
+      <chapter osisID='Eph.3'>
+        <title>Des Paulus Apostelamt unter den Heiden.</title>
+        <verse osisID='Eph.3.1'>Um deswillen bin ich, Paulus, der Gefangene von Jesus Christus für euch Heiden;</verse>
+        <verse osisID='Eph.3.2'>Sofern ihr gehört habt von dem Amt der Gnade Gottes, die mir für euch zuteil geworden ist;</verse>
+        <verse osisID='Eph.3.3'>Daß mir durch Offenbarung, wie ich oben kürzlich geschrieben habe, das Geheimnis kund geworden ist;</verse>
+        <verse osisID='Eph.3.4'>Daran ihr, so ihr es leset, inne werden könnt mein Verständnis des Geheimnisses von Christus,</verse>
+        <verse osisID='Eph.3.5'>Welches in früheren Zeiten den Menschenkindern nicht kund getan worden, wie es nun Seinen heiligen Aposteln und Propheten durch den Geist geoffenbart wurde.</verse>
+        <verse osisID='Eph.3.6'>Daß nämlich die Heiden Miterben und Miteinverleibte und Mitteilhaber Seiner Verheißung seien in Christus durch das Evangelium,</verse>
+        <verse osisID='Eph.3.7'>Dessen Diener ich geworden bin nach Gabe der Gnade Gottes, die mir nach der Kraftwirkung Seiner Macht zuteil geworden ist.</verse>
+        <verse osisID='Eph.3.8'>Mir, dem allergeringsten aller Heiligen, ist diese Gnade zuteil geworden, unter den Heiden den unergründlichen Reichtum von Christus zu verkündigen;</verse>
+        <verse osisID='Eph.3.9'>Und alle zu erleuchten, welches die Anordnung sei, die in Hinsicht auf das Geheimnis, das von Ewigkeit her in Gott verborgen gewesen, Der alle Dinge durch Jesus Christus geschaffen hat, getroffen ist;</verse>
+        <verse osisID='Eph.3.10'>Auf daß jetzt kund würde den Mächten und Gewalten im Himmel an der Gemeinde die mannigfaltige Weisheit Gottes;</verse>
+        <verse osisID='Eph.3.11'>Nach dem Ratschlusse der Ewigkeit, den Er in Jesus Christus unserem Herrn ausgeführt hat;</verse>
+        <verse osisID='Eph.3.12'>In Dem wir haben die Freudigkeit und den Zutritt in Zuversicht durch den Glauben an Ihn.</verse>
+        <verse osisID='Eph.3.13'>Darum bitte ich euch, über meinen Drangsalen zu eurem Besten, die ja euch zur Herrlichkeit gereichen, nicht den Mut zu verlieren.</verse>
+        <verse osisID='Eph.3.14'>Deshalb beuge ich meine Knie vor dem Vater unseres Herrn Jesus Christus,</verse>
+        <verse osisID='Eph.3.15'>Welcher der rechte Vater ist über alles, was da Kinder heißt, im Himmel und auf Erden.</verse>
+        <verse osisID='Eph.3.16'>Daß Er euch nach dem Reichtum Seiner Herrlichkeit Kraft gebe, zu erstarken durch Seinen Geist am inneren Menschen,</verse>
+        <verse osisID='Eph.3.17'>Auf daß Christus durch den Glauben in euren Herzen wohne, damit ihr in Liebe gewurzelt und gegründet seid;</verse>
+        <verse osisID='Eph.3.18'>So daß ihr völlig im Stande seid, mit allen Heiligen zu begreifen, welches die Breite, die Länge und die Tiefe und Höhe sei;</verse>
+        <verse osisID='Eph.3.19'>Und zu erkennen Christus Liebe, so alle Erkenntnis übersteigt, auf daß ihr der ganzen Fülle Gottes in vollem Maße teilhaftig werdet.</verse>
+        <verse osisID='Eph.3.20'>Ihm aber, Der weit über alles überschwenglich mehr tun kann, als wir bitten und verstehen, vermöge der in uns wirkenden Kraft,</verse>
+        <verse osisID='Eph.3.21'>Ihm sei Ehre in der Gemeinde in Jesus Christus auf alle Menschengeschlechter in Zeit und Ewigkeit! Amen.</verse>
+      </chapter>
+      <chapter osisID='Eph.4'>
+        <title>Ermahnung zum Wachstum im christlichen Leben.</title>
+        <verse osisID='Eph.4.1'>So ermahne ich, der Gefangene im Herrn, euch, daß ihr möget wandeln würdig des Berufs, dazu ihr berufen seid,</verse>
+        <verse osisID='Eph.4.2'>Mit aller Demut und Sanftmut, mit Geduld, daß ihr einander in Liebe vertraget,</verse>
+        <verse osisID='Eph.4.3'>Und euch befleißigt, zu erhalten die Einigkeit des Geistes durch das Band des Friedens.</verse>
+        <verse osisID='Eph.4.4'>Ein Leib und ein Geist, wie ihr auch berufen seid in einerlei Hoffnung eurer Berufung;</verse>
+        <verse osisID='Eph.4.5'>Ein Herr, ein Glaube, eine Taufe;</verse>
+        <verse osisID='Eph.4.6'>Ein Gott und Vater aller, Der da ist über euch alle und durch euch alle und in euch allen.</verse>
+        <verse osisID='Eph.4.7'>Einem jeglichen unter uns aber ist die Gnade nach dem Maß von Christus Gabe gegeben.</verse>
+        <verse osisID='Eph.4.8'>Darum spricht Er: Er ist aufgefahren in die Höhe und hat gefangen geführt die Gefangenen, und den Menschen Geschenke gegeben.</verse>
+        <verse osisID='Eph.4.9'>Was heißt aber aufgefahren anderes, als daß Er zuvor in die untersten Teile der Erde hinabgefahren war?</verse>
+        <verse osisID='Eph.4.10'>Er, Der hinabgefahren, ist auch aufgefahren über alle Himmel, auf daß Er alles erfüllete.</verse>
+        <verse osisID='Eph.4.11'>Und Er hat die einen zu Aposteln, andere zu Propheten, zu Evangelisten, wieder andere zu Hirten und Lehrern bestellt,</verse>
+        <verse osisID='Eph.4.12'>Auf daß die Heiligen für das Werk des Dienstes zur Erbauung von Christus Leib zugerichtet würden;</verse>
+        <verse osisID='Eph.4.13'>Bis daß wir alle gelangen in der Einheit des Glaubens und in der Erkenntnis des Sohnes Gottes zu männlicher Reife, zum vollen Maße von Christi Leib,</verse>
+        <verse osisID='Eph.4.14'>Auf daß wir nicht mehr Kinder bleiben, und von jeglichem Wind der Lehre geschaukelt und gewiegt werden durch das betrügliche Spiel der Menschen und die Arglist der Verführung,</verse>
+        <verse osisID='Eph.4.15'>Sondern wahrhaftig seien in der Liebe und wachsen in allen Stücken an Dem, Der das Haupt ist, Christus;</verse>
+        <verse osisID='Eph.4.16'>Aus Dem der ganze Leib zusammengefügt und verbunden durch alle die Gelenke der Handreichung, nach der einem jeglichen zugeteilten Wirksamkeit, das Wachstum des Leibes vollbringt, zu Seiner Erbauung in Liebe.</verse>
+        <verse osisID='Eph.4.17'>So sage ich nun und ermahne im Herrn, daß ihr nicht mehr wandeln sollt wie die anderen Heiden wandeln, in der Eitelkeit ihres Sinnes,</verse>
+        <verse osisID='Eph.4.18'>Die verfinstert sind am Verstand, entfremdet dem Leben aus Gott wegen der in ihnen herrschenden Unwissenheit durch die Verstocktheit ihres Herzens,</verse>
+        <verse osisID='Eph.4.19'>Die in Stumpfsinn sich ergeben der Sinnenlust, und Gewinnsucht und allerlei Unfläterei treiben.</verse>
+        <verse osisID='Eph.4.20'>Ihr habt Christus nicht also erlernt;</verse>
+        <verse osisID='Eph.4.21'>Wenn anders ihr Ihn gehört und von Ihm gelehrt worden seid, wie in Jesus Wahrheit ist;</verse>
+        <verse osisID='Eph.4.22'>Daß ihr ablegen sollt in Hinsicht eures früheren Wandels den alten Menschen, der durch trügerische Lüste sich verdarb;</verse>
+        <verse osisID='Eph.4.23'>Und erneuert werdet nach Geist und Gesinnung;</verse>
+        <verse osisID='Eph.4.24'>Und anzieht den neuen Menschen, der nach Gott geschaffen ist in Rechtschaffenheit und Heiligkeit der Wahrheit.</verse>
+        <verse osisID='Eph.4.25'>Darum tut ab die Lüge, und ein jeglicher rede die Wahrheit mit seinem Nächsten, weil wir untereinander Glieder sind.</verse>
+        <verse osisID='Eph.4.26'>Zürnet ihr, so sündigt nicht. Lasset die Sonne nicht über eurem Zorne untergehen!</verse>
+        <verse osisID='Eph.4.27'>Und gebt dem Teufel nicht Raum in euch.</verse>
+        <verse osisID='Eph.4.28'>Wer gestohlen hat, der stehle nicht mehr, sondern arbeite und schaffe mit den Händen etwas Gutes, auf daß er habe mitzuteilen dem Dürftigen.</verse>
+        <verse osisID='Eph.4.29'>Laßt kein unnützes Geschwätz aus eurem Munde gehen, sondern wenn irgend etwas gut zur Erbauung und Besserung ist; auf daß es wohltätig sei dem Hörenden.</verse>
+        <verse osisID='Eph.4.30'>Und betrübt nicht den Heiligen Geist Gottes, mit dem ihr versiegelt seid auf den Tag der Erlösung.</verse>
+        <verse osisID='Eph.4.31'>Alle Bitterkeit, Leidenschaftlichkeit und Zorn, Geschrei und Lästerung lasset ferne sein von euch, samt aller Bosheit.</verse>
+        <verse osisID='Eph.4.32'>Seid vielmehr untereinander freundlich, barmherzig, vergebt einer dem anderen, gleich wie Gott euch vergeben hat in Christus.</verse>
+      </chapter>
+      <chapter osisID='Eph.5'>
+        <title>Fernere Vermahnung zu heiligem Wandel. - Die Ehe.</title>
+        <verse osisID='Eph.5.1'>So eifert nun Gott nach als Seine lieben Kinder.</verse>
+        <verse osisID='Eph.5.2'>Und wandelt in der Liebe, wie auch Christus euch geliebt und Sich hingegeben hat für uns, zur Gabe und zum Opfer, Gott zum lieblichen Geruch.</verse>
+        <verse osisID='Eph.5.3'>Hurerei aber und jegliche Unreinheit und Habsucht muß unerhört sein unter euch,</verse>
+        <verse osisID='Eph.5.4'>Schandbarkeit, leichtfertige törichte Reden, die unziemlich sind; vielmehr Dankbarkeit gegen Gott.</verse>
+        <verse osisID='Eph.5.5'>Denn das sollt ihr wissen, daß kein Hurer oder Unreiner oder Habsüchtiger, der ja einem Götzen dient, ein Erbteil hat in Christi und Gottes Reich.</verse>
+        <verse osisID='Eph.5.6'>Lasset euch von keinem mit eitlen Worten täuschen, denn um dieser willen kommt der Zorn Gottes über die Kinder des Unglaubens.</verse>
+        <verse osisID='Eph.5.7'>Darum habt keine Gemeinschaft mit ihnen!</verse>
+        <verse osisID='Eph.5.8'>Denn zuvor ward ihr Finsternis, jetzt aber seid ihr Licht in dem Herrn. Wandelt als Kinder des Lichtes,</verse>
+        <verse osisID='Eph.5.9'>Denn die Frucht des Geistes erscheint in allerlei Güte, Gerechtigkeit und Wahrheit.</verse>
+        <verse osisID='Eph.5.10'>Und prüfet, was dem Herrn wohlgefällig ist.</verse>
+        <verse osisID='Eph.5.11'>Und habt keine Gemeinschaft mit den unfruchtbaren Werken der Finsternis; rügt sie vielmehr.</verse>
+        <verse osisID='Eph.5.12'>Denn was im Geheimen von ihnen geschieht, muß man sich schämen auch nur zu sagen.</verse>
+        <verse osisID='Eph.5.13'>Alles aber, wenn es gerügt wird vom Lichte, wird offenbar, denn alles, was offenbar gemacht wird, ist Licht.</verse>
+        <verse osisID='Eph.5.14'>Darum spricht Er: Wache auf, du Schläfer, und stehe auf von den Toten, so wird dich Christus erleuchten.</verse>
+        <verse osisID='Eph.5.15'>So seht nun zu, wie ihr vorsichtig wandelt, nicht wie Unweise, sondern als Weise.</verse>
+        <verse osisID='Eph.5.16'>Und nehmt der Zeit wahr, denn es ist böse Zeit.</verse>
+        <verse osisID='Eph.5.17'>Seid darum nicht unverständig, sondern versteht, was des Herrn Wille ist.</verse>
+        <verse osisID='Eph.5.18'>Berauscht euch nicht im Wein, worin Ausschweifung liegt, sondern werdet des Geistes voll.</verse>
+        <verse osisID='Eph.5.19'>Und unterhaltet euch untereinander mit Psalmen und Lobgesängen und geistlichen Liedern, singt und spielt dem Herrn in eurem Herzen.</verse>
+        <verse osisID='Eph.5.20'>Und sagt allezeit Dank Gott und dem Vater für alles im Namen unseres Herrn Jesus Christus,</verse>
+        <verse osisID='Eph.5.21'>Indem ihr einander willfahret in der Furcht Christi.</verse>
+        <verse osisID='Eph.5.22'>Ihr Weiber seid untertan euren Männern wie dem Herrn.</verse>
+        <verse osisID='Eph.5.23'>Denn der Mann ist des Weibes Haupt, wie auch Christus das Haupt der Gemeinde ist: Er ist des Leibes Heiland.</verse>
+        <verse osisID='Eph.5.24'>Wie aber die Gemeinde Christus untertan ist, also auch die Weiber ihren Männern in allen Stücken.</verse>
+        <verse osisID='Eph.5.25'>Ihr Männer liebt eure Weiber, gleich wie auch Christus die Gemeinde geliebt, und Sich für sie hingegeben hat,</verse>
+        <verse osisID='Eph.5.26'>Auf daß Er sie heiligte, nachdem Er sie durch das Wasserbad im Wort gereinigt hat;</verse>
+        <verse osisID='Eph.5.27'>Damit Er Sich eine Gemeinde darstelle ohne Flecken oder Runzel oder dergleichen, sondern daß sie heilig und unsträflich sei.</verse>
+        <verse osisID='Eph.5.28'>Also sollen die Männer ihre Weiber lieben wie ihre eigenen Leiber. Wer sein Weib liebt, liebt sich selbst.</verse>
+        <verse osisID='Eph.5.29'>Denn niemand hat je sein eigen Fleisch gehaßt, sondern nährt und pflegt es, gleich wie auch Christus die Gemeinde;</verse>
+        <verse osisID='Eph.5.30'>Weil wir Glieder sind Seines Leibes, von Seinem Fleisch und von Seinem Gebein.</verse>
+        <verse osisID='Eph.5.31'>Darum wird ein Mensch Vater und Mutter verlassen und seinem Weibe anhangen, und werden die zwei ein Fleisch sein.</verse>
+        <verse osisID='Eph.5.32'>Dies Geheimnis ist groß, ich sage es aber auf Christus und die Gemeinde.</verse>
+        <verse osisID='Eph.5.33'>Doch auch ihr sollt ein jeglicher sein Weib so lieb haben, als sich selbst; das Weib aber fürchte den Mann.</verse>
+      </chapter>
+      <chapter osisID='Eph.6'>
+        <title>Pflichten der Eltern und Kinder, der Herrschaften und Dienstboten. Standhaftigkeit.</title>
+        <verse osisID='Eph.6.1'>Ihr Kinder, gehorcht euren Eltern in dem Herrn; denn das ist gerecht.</verse>
+        <verse osisID='Eph.6.2'>Ehre Vater und Mutter! Das ist das erste Gebot mit der Verheißung:</verse>
+        <verse osisID='Eph.6.3'>Auf daß dir es wohlergehe und du lange lebest auf Erden.</verse>
+        <verse osisID='Eph.6.4'>Und ihr Väter, reizt eure Kinder nicht zum Zorn, sondern erzieht sie in Zucht und Zurechtweisung des Herrn.</verse>
+        <verse osisID='Eph.6.5'>Ihr Knechte, gehorcht mit Furcht und Zittern in Einfalt eures Herzens den leiblichen Herren, als Christus.</verse>
+        <verse osisID='Eph.6.6'>Nicht mit Augendienerei, um Menschen zu gefallen, sondern als Christus Knechte, indem ihr den Willen Gottes tut von Herzen;</verse>
+        <verse osisID='Eph.6.7'>Indem ihr gutwillig dient, als dem Herrn und nicht den Menschen.</verse>
+        <verse osisID='Eph.6.8'>Denn ihr wißt ja, was ein jeder Gutes tut, das wird er vom Herrn empfangen, er sei ein Knecht oder ein Freier.</verse>
+        <verse osisID='Eph.6.9'>Und ihr Herren, tut das gleiche gegen sie, und unterlaßt das Drohen, und seid eingedenk, daß ihr und euer Herr im Himmel ist, und bei Ihm kein Ansehen der Person ist.</verse>
+        <verse osisID='Eph.6.10'>Zuletzt, Brüder, erstarket im Herrn vermöge Seiner Kraft.</verse>
+        <verse osisID='Eph.6.11'>Ziehet die Rüstung Gottes an, auf daß ihr bestehen könnt gegen die listigen Anläufe des Teufels.</verse>
+        <verse osisID='Eph.6.12'>Denn wir haben nicht mit Fleisch und Blut zu kämpfen, sondern mit den Mächten, mit den Gewalten, mit den Herren der Welt, die in der Finsternis dieser Welt herrschen, mit den bösen Geistern unter dem Himmel.</verse>
+        <verse osisID='Eph.6.13'>Um deswillen greifet zur Rüstung Gottes, auf daß ihr am bösen Tage widerstehen und alles wohl ausrichten und das Feld behaupten möget.</verse>
+        <verse osisID='Eph.6.14'>So steht nun und habt eure Lenden umgürtet mit Wahrheit, und angetan mit dem Panzer der Gerechtigkeit;</verse>
+        <verse osisID='Eph.6.15'>Und eure Füße besohlt in Bereitschaft für das Evangelium des Friedens.</verse>
+        <verse osisID='Eph.6.16'>Gegen alles ergreift den Schild des Glaubens, mit dem ihr alle feurigen Pfeile des Teufels auslöschen könnt;</verse>
+        <verse osisID='Eph.6.17'>Und nehmt den Helm des Heils und das Schwert des Geistes, welches ist das Wort Gottes.</verse>
+        <verse osisID='Eph.6.18'>Und mit allem Flehen und Bitten betet in allem Anliegen im Geiste und bleibt zu dem Ende wach und fleht anhaltend für alle Heiligen,</verse>
+        <verse osisID='Eph.6.19'>Auch für mich, daß mir Rede verliehen werde beim Auftun meines Mundes, mit Freimut das Geheimnis des Evangeliums kundzutun,</verse>
+        <verse osisID='Eph.6.20'>Für das ich die Botschaft überbringe in Ketten, auf daß ich es freimütig verkündige, wie sich es für mich gebührt;</verse>
+        <verse osisID='Eph.6.21'>Auf daß aber auch ihr wisset, wie es um mich steht, und was ich schaffe, wird euch alles berichten Tychikus, der geliebte Bruder und treue Diener im Herrn,</verse>
+        <verse osisID='Eph.6.22'>Den ich eben deshalb an euch abgesendet habe, daß ihr erfahret, wie es um uns steht, und daß er eure Herzen tröste.</verse>
+        <verse osisID='Eph.6.23'>Friede den Brüdern und Liebe mit Glauben von Gott dem Vater und unserem Herrn Jesus Christus!</verse>
+        <verse osisID='Eph.6.24'>Die Gnade sei mit allen, die unseren Herrn Jesus Christus lieben unwandelbar! Amen.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

@@ -1,0 +1,1256 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <osisText osisRefWork='Bible' osisIDWork='TAF' xml:lang='de'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='TAF'>
+        <title>Tafelbibel</title>
+        <contributor>Martin</contributor>
+        <creator>Jens Grabner</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject>holy bible</subject>
+        <date>2009-01-20</date>
+        <description>Die Bibel - Übersetzung von Johann Friedrich Leonhard Tafel
+
+      Die vorliegende Neuausgabe ist eine Abschrift der Übersetzung von Dr. Leonhard
+      Tafel, revidiert von Ludwig H. Tafel, dritte Ausgabe 1911, und wurde auf ihre
+      Vollständigkeit überprüft. Es wurde die Rechtschreibregel der heutigen Zeit (noch
+      vor der Rechtschreibreform 1998) angewendet, ohne den Stil der Sprache zu verändern.
+
+      Wer in dieser Bibel einige Bücher vermisst, sei auf das Vorwort der Source verwiesen.
+      Auf der zweiten Seite steht dort:
+      Der zweite Band enthält die übrigen, sogenannten
+      Hagiographen oder heiligen Bücher: die Bücher Hiob, Sprichwörter, Hohelied, Prediger, Ruth, Chronika, Esra,
+      Nehemia, Esther und die Apokryphen.²
+      2. Gegenwärtige, Revision des Zefania XML Moduls  enthält die Hagiographen und Apokryphen nicht, da
+      sie nicht verfügbar waren.</description>
+        <publisher>FREE BIBLE SOFTWARE GROUP</publisher>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>TAF</identifier>
+        <source>http://www.ubf-dortmund.de/bibel/tafel.htm</source>
+        <language type='IETF'>de</language>
+        <relation/>
+        <coverage>provide the bible to the world</coverage>
+        <rights>Mit freundlicher Genehmigung des Swedenborg Verlag Postfach 1205 CH - 8032 Zürich</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Matt'>
+      <chapter osisID='Matt.1'>
+        <title>Evangelium des Matthäus</title>
+        <title>Geburt des Herrn.</title>
+        <verse osisID='Matt.1.1'>Das Buch von der Geburt Jesu Christi, des Sohnes Davids, des Sohnes Abrahams.</verse>
+        <verse osisID='Matt.1.2'>Abraham zeugte Isaak. Isaak aber zeugte Jakob. Jakob aber zeugte Judas und seine Brüder.</verse>
+        <verse osisID='Matt.1.3'>Judas aber zeugte Phares und Zara von der Thamar. Phares aber zeugte Esrom. Esrom aber zeugte Aram.</verse>
+        <verse osisID='Matt.1.4'>Aram aber zeugte Aminadab. Aminadab aber zeugte Naasson, Naasson aber zeugte Salmon.</verse>
+        <verse osisID='Matt.1.5'>Salmon aber zeugte Boas von der Rachab. Boas aber zeugte Obed von der Ruth, Obed aber zeugte den Jesse.</verse>
+        <verse osisID='Matt.1.6'>Jesse aber zeugte den König David. Aber der König David zeugte Salomoh von dem Weibe des Uriah.</verse>
+        <verse osisID='Matt.1.7'>Salomoh aber zeugte Roboam. Roboam aber zeugte Abia. Abia aber zeugte Asa.</verse>
+        <verse osisID='Matt.1.8'>Asa aber zeugte Josaphat. Josaphat aber zeugte Joram. Joram aber zeugte Osiah.</verse>
+        <verse osisID='Matt.1.9'>Osiah aber zeugte Joatham. Joatham aber zeugte Achas. Achas aber zeugte Ezechias.</verse>
+        <verse osisID='Matt.1.10'>Ezechias aber zeugte Manasseh. Manasseh aber zeugte Amon. Amon aber zeugte Josias.</verse>
+        <verse osisID='Matt.1.11'>Josias aber zeugte Jechonjas und seine Brüder zur Zeit der Umsiedelung nach Babylon.</verse>
+        <verse osisID='Matt.1.12'>Nach der Umsiedelung nach Babylon aber zeugte Jechonjas den Salathiel, Salathiel aber zeugte Zorobabel.</verse>
+        <verse osisID='Matt.1.13'>Zorobabel aber zeugte Abiud. Abiud aber zeugte Eliakim. Eliakim aber zeugte Azor.</verse>
+        <verse osisID='Matt.1.14'>Azor aber zeugte Zadok. Zadok aber zeugte Achim. Achim aber zeugte Eliud.</verse>
+        <verse osisID='Matt.1.15'>Eliud aber zeugte Eleasar. Eleasar aber zeugte Matthan. Matthan aber zeugte Jakob.</verse>
+        <verse osisID='Matt.1.16'>Jakob aber zeugte Joseph, den Mann der Maria, von welcher Jesus, Der da heißt Christus, geboren ward.</verse>
+        <verse osisID='Matt.1.17'>Alle die Geschlechter nun von Abraham bis David sind vierzehn Geschlechter; und von David bis zur Umsiedelung nach Babylon vierzehn Geschlechter; und von der Umsiedelung nach Babylon bis auf Christus sind es vierzehn Geschlechter.</verse>
+        <verse osisID='Matt.1.18'>Die Geburt Jesu Christi aber war also. Als nämlich Maria, Seine Mutter, dem Joseph verlobt war, fand sich, ehe sie zusammen kamen, daß sie vom Heiligen Geist empfangen hatte<note>griechisch: im Leibe hatte</note>.</verse>
+        <verse osisID='Matt.1.19'>Joseph aber, ihr Mann, da er gerecht war, und sie nicht beschimpfen wollte, war willens, sie insgeheim zu entlassen.</verse>
+        <verse osisID='Matt.1.20'>Während er aber also gedachte, siehe, da erschien ihm der Engel des Herrn im Traum und sprach: Joseph, Sohn Davids, fürchte dich nicht, Maria, dein Weib zu dir zu nehmen; denn das in ihr Gezeugte ist von dem Heiligen Geist.</verse>
+        <verse osisID='Matt.1.21'>Sie aber wird einen Sohn gebären, und Seinen Namen sollst du Jesus heißen; denn Er wird Sein Volk von seinen Sünden retten.</verse>
+        <verse osisID='Matt.1.22'>Dies alles ist aber geschehen, auf daß erfüllt würde, was vom Herrn durch den Propheten gesprochen worden, welcher sagt:</verse>
+        <verse osisID='Matt.1.23'>Siehe, die Jungfrau wird empfangen<note>im Leibe haben</note> und einen Sohn gebären; und sie sollen Seinen Namen heißen Emmanuel, welches ist verdolmetscht: Gott mit uns.</verse>
+        <verse osisID='Matt.1.24'>Vom Schlafe erwacht aber tat Joseph, wie ihm der Engel des Herrn verordnet hatte, und nahm sein Weib zu sich;</verse>
+        <verse osisID='Matt.1.25'>Und er erkannte sie nicht bis sie ihren erstgeborenen Sohn geboren hatte, und hieß Seinen Namen Jesus.</verse>
+      </chapter>
+      <chapter osisID='Matt.2'>
+        <title>Weise kommen aus dem Morgenland. - Joseph entflieht nach Ägypten.</title>
+        <verse osisID='Matt.2.1'>Als aber Jesus zu Bethlehem in Judäa geboren ward in den Tagen des Königs Herodes, siehe, da kamen Weise<note>Magier</note> aus dem Morgenland<note>Aufgang</note> nach Jerusalem, und sagten:</verse>
+        <verse osisID='Matt.2.2'>Wo ist der zum König der Juden Geborene? Denn wir haben seinen Stern gesehen im Morgenlande<note>Aufgang</note> und sind gekommen, ihn anzubeten.</verse>
+        <verse osisID='Matt.2.3'>Da aber der König Herodes das hörte, erbebte er und ganz Jerusalem mit ihm.</verse>
+        <verse osisID='Matt.2.4'>Und er versammelte alle Hohepriester und Schriftgelehrte des Volkes und erfragte von ihnen, wo der Christus sollte geboren werden.</verse>
+        <verse osisID='Matt.2.5'>Sie aber sagten ihm: Zu Bethlehem in Judäa; denn also ist geschrieben durch den Propheten:</verse>
+        <verse osisID='Matt.2.6'>Und du, Bethlehem, im Lande Juda, bist mitnichten die kleinste unter den Fürsten Judas; denn aus dir wird ausgehen der Fürst, der Mein Volk Israel weiden wird.</verse>
+        <verse osisID='Matt.2.7'>Da ließ Herodes die Weisen<note>Magier</note> insgeheim rufen und erkundete von ihnen genau die Zeit, da der Stern erschien;</verse>
+        <verse osisID='Matt.2.8'>Und schickte sie nach Bethlehem und sprach: Ziehet hin und erforschet genau wegen dem Kindlein, wenn ihr es aber gefunden habt, so saget es mir an, daß auch ich komme und es anbete.</verse>
+        <verse osisID='Matt.2.9'>Als sie aber den König gehört hatten, zogen sie hin; und siehe, der Stern, den sie im Morgenland<note>Aufgang</note> gesehen, ging vor ihnen her, bis er kam und stand oben über der Stelle<note>der Stelle steht nicht im Griechischen</note>, da das Kindlein war.</verse>
+        <verse osisID='Matt.2.10'>Da sie aber den Stern sahen, freuten sie sich mit sehr großer Freude.</verse>
+        <verse osisID='Matt.2.11'>Und sie gingen in das Haus und fanden das Kindlein mit Seiner Mutter Maria, und fielen nieder und beteten Es an und taten ihre Schätze auf und brachten Ihm Gaben dar, Gold und Weihrauch und Myrrhen.</verse>
+        <verse osisID='Matt.2.12'>Und da sie im Traume angewiesen wurden, sich nicht wieder zu Herodes zu wenden, zogen sie auf einem anderen Wege in ihr Land<note>ihre Landschaft</note> zurück.</verse>
+        <verse osisID='Matt.2.13'>Nachdem sie aber fortgezogen waren, siehe, da erscheint der Engel des Herrn dem Joseph im Traum und sagt: Mache dich auf, nimm das Kindlein und Seine Mutter zu dir und fliehe nach Ägypten und sei dort, bis Ich es dir sage: denn Herodes wird nach dem Kindlein suchen, um Es umzubringen.</verse>
+        <verse osisID='Matt.2.14'>Er aber machte sich auf, nahm das Kindlein und Seine Mutter zu sich bei Nacht und entwich nach Ägypten;</verse>
+        <verse osisID='Matt.2.15'>Und er war da bis zum Tode<note>Ende</note> des Herodes, auf daß erfüllt würde, was vom Herrn gesprochen wurde durch den Propheten, der da sagt: Aus Ägypten habe Ich Meinen Sohn gerufen.</verse>
+        <verse osisID='Matt.2.16'>Da Herodes sah, daß er von den Weisen<note>Magiern</note> verspottet war, ward er gar sehr ergrimmt, sandte aus und ließ in Bethlehem und an allen seinen Grenzen alle Kinder von zwei Jahren und darunter umbringen<note>hinaufnehmen</note>, nach der Zeit, die er von den Weisen<note>Magiern</note> genau erkundet hatte.</verse>
+        <verse osisID='Matt.2.17'>Da ward erfüllt, das da gesagt ist durch den Propheten Jeremias, welcher sagt:</verse>
+        <verse osisID='Matt.2.18'>In Rama ward eine Stimme gehört: Viel Klagen und Weinen und Jammern: Rachel weinte um ihre Kinder und wollte sich nicht trösten lassen, denn sie sind nicht mehr.</verse>
+        <verse osisID='Matt.2.19'>Als aber Herodes gestorben<note>geendet</note> war, siehe, da erscheint der Engel des Herrn dem Joseph im Traum in Ägypten,</verse>
+        <verse osisID='Matt.2.20'>Und spricht: Mache dich auf, nimm das Kindlein und Seine Mutter zu dir und ziehe hin in das Land Israel, denn sie sind gestorben, die dem Kinde nach dem Leben trachteten.</verse>
+        <verse osisID='Matt.2.21'>Er aber machte sich auf, nahm das Kindlein und Seine Mutter zu sich und ging in das Land Israel.</verse>
+        <verse osisID='Matt.2.22'>Wie er aber hörte, daß Archelaus anstatt seines Vaters Herodes König über Judäa sei, fürchtete er sich, dahin zu gehen; aber da er im Traum angewiesen ward, zog er in die Gegend<note>Teile</note> von Galiläa.</verse>
+        <verse osisID='Matt.2.23'>Und er kam dahin und wohnte in der Stadt genannt Nazareth, auf daß erfüllt würde, was durch die Propheten gesagt worden ist: Er soll ein Nazarener heißen.</verse>
+      </chapter>
+      <chapter osisID='Matt.3'>
+        <title>Jesus wird von Johannes getauft.</title>
+        <verse osisID='Matt.3.1'>In jenen Tagen aber trat Johannes der Täufer auf und predigte in der Wüste Judäas.</verse>
+        <verse osisID='Matt.3.2'>Und sprach: Tut Buße, denn das Reich der Himmel hat sich genaht.</verse>
+        <verse osisID='Matt.3.3'>Denn er ist es, von dem der Prophet Jesajas gesagt hat und gesprochen: Die Stimme eines, der schreit in der Wüste: Bereitet den Weg des Herrn und machet Seine Steige gerade.</verse>
+        <verse osisID='Matt.3.4'>Er aber, Johannes, hatte eine Kleidung von Kamelhaaren und einen ledernen Gürtel um seine Lenden; seine Nahrung aber war Heuschrecken und wilder Honig.</verse>
+        <verse osisID='Matt.3.5'>Da zog denn Jerusalem und ganz Judäa und die ganze Umgegend des Jordan zu ihm hinaus.</verse>
+        <verse osisID='Matt.3.6'>Und wurden von ihm im Jordan getauft, und bekannten ihre Sünden.</verse>
+        <verse osisID='Matt.3.7'>Da er aber viele der Pharisäer und Sadduzäer zu seiner Taufe kommen sah, sprach er zu ihnen: Ihr Otterngezüchte, wer hat euch denn gewiesen, vor dem zukünftigen Zorne zu fliehen?</verse>
+        <verse osisID='Matt.3.8'>So tut den Früchte würdig der Buße.</verse>
+        <verse osisID='Matt.3.9'>Und meinet nicht, ihr dürfet in euch sagen: Wir haben Abraham zum Vater; denn ich sage euch: Gott kann Abraham aus diesen Steinen da Kinder erwecken.</verse>
+        <verse osisID='Matt.3.10'>Es liegt aber auch schon die Axt an der Wurzel der Bäume. Jeglicher Baum nun, der nicht gute<note>schöne</note> Frucht trägt, wird abgehauen und ins Feuer geworfen.</verse>
+        <verse osisID='Matt.3.11'>Ich taufe euch zwar im Wasser zur Buße; Der aber nach mir kommt, ist stärker, denn ich, Dem ich nicht genugsam bin, die Schuhe zu tragen, Der wird euch mit dem Heiligen Geist und mit Feuer taufen.</verse>
+        <verse osisID='Matt.3.12'>Er hat die Wurfschaufel in Seiner Hand und wird Seine Tenne durch und durch reinigen und Seinen Weizen in die Scheune sammeln, die Spreu aber in unauslöschlichem Feuer verbrennen.</verse>
+        <verse osisID='Matt.3.13'>Alsdann kommt Jesus aus Galiläa herbei an den Jordan zu Johannes, um Sich von ihm taufen zu lassen.</verse>
+        <verse osisID='Matt.3.14'>Johannes aber wehrte Ihm und sprach: Ich bedarf, daß ich von Dir getauft werde, und Du kommst zu mir?</verse>
+        <verse osisID='Matt.3.15'>Jesus aber antwortete und sprach zu ihm: Laß es jetzt zu, denn so gebührt es uns, alle Gerechtigkeit zu erfüllen. Da ließ er es Ihm zu.</verse>
+        <verse osisID='Matt.3.16'>Und da Jesus getauft war, stieg Er alsbald herauf aus dem Wasser, und siehe, die Himmel taten sich Ihm auf, und Er sah den Geist Gottes wie eine Taube herabsteigen und auf Ihn kommen.</verse>
+        <verse osisID='Matt.3.17'>Und siehe, eine Stimme sprach aus den Himmeln: Dies ist Mein geliebter Sohn, an Dem Ich Wohlgefallen habe.</verse>
+      </chapter>
+      <chapter osisID='Matt.4'>
+        <title>Jesus tritt Sein Lehramt an.</title>
+        <verse osisID='Matt.4.1'>Da ward Jesus vom Geist in die Wüste hinaufgeführt, auf daß Er vom Teufel versucht würde.</verse>
+        <verse osisID='Matt.4.2'>Und da Er vierzig Tage und vierzig Nächte gefastet hatte, hungerte Ihn danach.</verse>
+        <verse osisID='Matt.4.3'>Und der Versucher kam herzu und sprach zu Ihm: Wenn Du Gottes Sohn bist, so sprich, daß diese Steine sollen Brot werden.</verse>
+        <verse osisID='Matt.4.4'>Er aber antwortete und sprach: Es ist geschrieben: Der Mensch soll nicht allein vom Brote leben, sondern von jeglichem Wort<note>jeglicher Rede</note>, das durch den Mund Gottes ausgeht.</verse>
+        <verse osisID='Matt.4.5'>Da nimmt Ihn der Teufel mit sich in die heilige Stadt und stellt Ihn auf die Zinne des Tempels<note>Heiligtums</note>,</verse>
+        <verse osisID='Matt.4.6'>Und spricht zu Ihm: Wenn Du Gottes Sohn bist, so wirf Dich hinab; denn es ist geschrieben, daß Er Seinen Engeln gebieten wird ob Dir, und sie sollen Dich auf den Händen tragen, auf daß Du Deinen Fuß nicht an einen Stein stoßest.</verse>
+        <verse osisID='Matt.4.7'>Sprach zu ihm Jesus: Wiederum ist geschrieben: du sollst den Herrn, deinen Gott, nicht versuchen.</verse>
+        <verse osisID='Matt.4.8'>Wiederum nimmt Ihn der Teufel mit sich auf einen ungemein hohen Berg und zeigt Ihm alle Reiche der Welt und ihre Herrlichkeit,</verse>
+        <verse osisID='Matt.4.9'>Und spricht zu Ihm: Dies alles will ich Dir geben, wenn Du niederfällst und mich anbetest.</verse>
+        <verse osisID='Matt.4.10'>Da spricht zu ihm Jesus: Geh' hinweg hinter Mich, Satan, denn es ist geschrieben: Du sollst den Herrn, deinen Gott, anbeten und Ihm allein dienen<note>Ihn allein verehren</note>.</verse>
+        <verse osisID='Matt.4.11'>Da verläßt Ihn der Teufel, und siehe, Engel kamen herzu und bedienten Ihn.</verse>
+        <verse osisID='Matt.4.12'>Als Er aber hörte, daß Johannes überantwortet ward, zog Er hin nach Galiläa.</verse>
+        <verse osisID='Matt.4.13'>Und Er verließ Nazareth, kam und wohnte in Kapernaum, das am Meere ist, in den Grenzen Sebulons und Nephthalims.</verse>
+        <verse osisID='Matt.4.14'>Auf daß erfüllt würde, was gesagt wird durch den Propheten Jesajas, der da spricht:</verse>
+        <verse osisID='Matt.4.15'>Das Land Sebulon und das Land Nephthalim am Wege des Meeres jenseits des Jordan und Galiläa der Völkerschaften.</verse>
+        <verse osisID='Matt.4.16'>Das Volk, das im Finstern saß, hat ein großes Licht gesehen, und denen, die in der Landschaft und dem Schatten des Todes saßen, ist ein Licht aufgegangen.</verse>
+        <verse osisID='Matt.4.17'>Von da an fing Jesus an zu predigen und zu sprechen: Tut Buße, denn das Reich der Himmel hat sich genaht.</verse>
+        <verse osisID='Matt.4.18'>Wie Jesus aber an dem Meere Galiläas wandelte, sah er zwei Brüder, Simon, genannt Petrus, und seinen Bruder Andreas, wie sie ein Fischnetz in das Meer warfen; denn sie waren Fischer.</verse>
+        <verse osisID='Matt.4.19'>Und Er spricht zu ihnen: Kommet her, Mir nach, und Ich will euch zu Menschenfischern machen.</verse>
+        <verse osisID='Matt.4.20'>Sie aber verließen alsbald die Netze und folgten Ihm nach.</verse>
+        <verse osisID='Matt.4.21'>Und Er ging von dannen weiter und sah zwei andere Brüder, Jakobus, den<note>Sohn</note> des Zebedäus, und Johannes, seinen Bruder, in dem Fahrzeug mit Zebedäus, ihrem Vater, wie sie ihre Netze zurichteten, und Er rief sie.</verse>
+        <verse osisID='Matt.4.22'>Sie aber verließen alsbald das Fahrzeug und ihren Vater und folgten Ihm nach.</verse>
+        <verse osisID='Matt.4.23'>Und Jesus zog umher in ganz Galiläa, lehrte in ihren Synagogen und predigte das Evangelium von dem Reiche und heilte alle Krankheit und alles Siechtum im Volke.</verse>
+        <verse osisID='Matt.4.24'>Und Sein Gerücht ging hin in ganz Syrien, und sie brachten Ihm alle Leidende, die mit mancherlei Krankheiten und Qualen behaftet waren, und Besessene und Mondsüchtige und Gichtbrüchige, und Er heilte sie.</verse>
+        <verse osisID='Matt.4.25'>Und es folge Ihm nach viel Volks<note>Gedränge</note> von Galiläa und den zehn Städten, und von Jerusalem und von Judäa, und von jenseits des Jordan.</verse>
+      </chapter>
+      <chapter osisID='Matt.5'>
+        <title>Die Bergpredigt.</title>
+        <verse osisID='Matt.5.1'>Als Er aber das Gedränge sah, stieg Er auf den Berg, und als Er Sich niedersetzte, kamen Seine Jünger herzu zu Ihm.</verse>
+        <verse osisID='Matt.5.2'>Und Er tat Seinen Mund auf, lehrte sie und sprach:</verse>
+        <verse osisID='Matt.5.3'>Selig sind, die im Geiste arm sind, denn das Reich der Himmel ist ihr.</verse>
+        <verse osisID='Matt.5.4'>Selig sind, die da Leid tragen, denn sie sollen getröstet werden.</verse>
+        <verse osisID='Matt.5.5'>Selig sind die Sanftmütigen, denn sie werden das Land ererben.</verse>
+        <verse osisID='Matt.5.6'>Selig sind, die da hungert und dürstet nach Gerechtigkeit, denn sie sollen satt werden.</verse>
+        <verse osisID='Matt.5.7'>Selig sind die Barmherzigen, denn sie werden Barmherzigkeit erlangen.</verse>
+        <verse osisID='Matt.5.8'>Selig sind, die reinen Herzens sind, denn sie werden Gott schauen.</verse>
+        <verse osisID='Matt.5.9'>Selig sind die Friedensstifter, denn sie werden Gottes Söhne heißen.</verse>
+        <verse osisID='Matt.5.10'>Selig sind, die um Gerechtigkeit willen verfolgt werden, denn das Reich der Himmel ist ihr.</verse>
+        <verse osisID='Matt.5.11'>Selig seid ihr, wenn sie euch schelten und verfolgen und reden allerlei Übles wider euch um Meinetwillen, so sie daran lügen.</verse>
+        <verse osisID='Matt.5.12'>Freuet euch und frohlocket, denn viel ist eures Lohns in den Himmeln; denn also verfolgten sie die Propheten, die vor euch gewesen.</verse>
+        <verse osisID='Matt.5.13'>Ihr seid das Salz der Erde; so aber das Salz fade wird, womit soll man salzen? Es ist zu nichts mehr nütze, als daß man es hinausirft, und es von den Menschen niedergetreten wird.</verse>
+        <verse osisID='Matt.5.14'>Ihr seid das Licht der Welt. Eine Stadt, die auf dem Berge liegt, kann nicht verborgen sein.</verse>
+        <verse osisID='Matt.5.15'>Noch zündet man eine Kerze an und setzt sie unter einen Scheffel, sondern auf einen Leuchter, und sie leuchtet allen, die im Hause sind.</verse>
+        <verse osisID='Matt.5.16'>Also lasset euer Licht leuchten vor den Menschen, daß sie eure guten<note>schönen</note> Werke sehen und euren Vater in den Himmeln verherrlichen.</verse>
+        <verse osisID='Matt.5.17'>Denket nicht, daß Ich gekommen sei, das Gesetz oder die Propheten aufzulösen; Ich bin nicht gekommen aufzulösen, sondern zu erfüllen.</verse>
+        <verse osisID='Matt.5.18'>Denn wahrlich sage Ich euch: Bis daß Himmel und Erde vergehen, soll kein Jod noch ein Strichlein<note>Hörnchen</note> vom Gesetz vergehen, bis daß alles geschehe.</verse>
+        <verse osisID='Matt.5.19'>Wer nun eins dieser kleinsten Gebote löset, und lehret die Menschen also, wird der Kleinste heißen im Reiche der Himmel; wer aber tut und lehrt, der wird groß heißen im Reiche der Himmel.</verse>
+        <verse osisID='Matt.5.20'>Denn Ich sage euch: Es sei denn, daß eure Gerechtigkeit weit übertreffe die der Schriftgelehrten und Pharisäer, so werdet ihr nicht in das Reich der Himmel eingehen.</verse>
+        <verse osisID='Matt.5.21'>Ihr habt gehört, daß zu den Alten gesagt ist: Du sollst nicht morden; wer aber mordet, der soll dem Gericht verfallen sein.</verse>
+        <verse osisID='Matt.5.22'>Ich aber sage euch: Wer seinem Bruder zürnt, ist dem Gericht verfallen; wer aber zu seinem Bruder sagt: Raka, der verfällt dem Rat; wer aber sagt: Du Narr, der verfällt der Hölle des Feuers.</verse>
+        <verse osisID='Matt.5.23'>Wenn du denn deine Gabe auf dem Altar darbringst, und allda gedenkst, daß dein Bruder etwas wider dich hat,</verse>
+        <verse osisID='Matt.5.24'>So laß allda vor dem Altar deine Gabe und geh erst hin und versöhne dich mit deinem Bruder und dann komm und bringe deine Gabe dar.</verse>
+        <verse osisID='Matt.5.25'>Sei willfährig<note>wohlmeinend</note> gegen deinen Widersacher, schnell, während du mit ihm auf dem Wege bist, auf daß dich der Widersacher nicht dem Richter überantworte und der Richter dich überantworte dem Amtsdiener und du in das Gefängnis geworfen werdest.</verse>
+        <verse osisID='Matt.5.26'>Wahrlich, Ich sage dir, du wirst nicht von dannen herauskommen, bis daß du auch den letzten Heller bezahlst.</verse>
+        <verse osisID='Matt.5.27'>Ihr habt gehört, daß zu den Alten gesagt ist: Du sollst nicht ehebrechen.</verse>
+        <verse osisID='Matt.5.28'>Ich aber sage euch, daß, wer ein Weib ansieht, um ihrer zu begehren, der hat schon mit ihr die Ehe gebrochen in seinem Herzen.</verse>
+        <verse osisID='Matt.5.29'>Ärgert dich aber dein rechtes Auge, so reiß es aus und wirf es von dir; denn es ist dir zuträglicher, daß eins deiner Glieder verderbe, denn daß dein ganzer Leib in die Hölle geworfen werde.</verse>
+        <verse osisID='Matt.5.30'>Und ärgert dich deine rechte Hand, so haue sie ab und wirf sie von dir; denn es ist dir zuträglicher, daß eins deiner Glieder verderbe, denn daß dein ganzer Leib in die Hölle geworfen werde.</verse>
+        <verse osisID='Matt.5.31'>Es ist aber gesagt worden: Wer sich von seinem Weibe scheidet, der gebe ihr einen Scheidebrief.</verse>
+        <verse osisID='Matt.5.32'>Ich aber sage euch: Wer sich von seinem Weibe scheidet, es sei denn wegen Buhlerei<note>um des Wortes der Buhlerei</note>, der macht, daß sie die Ehe bricht; und wer eine Geschiedene freit, der bricht die Ehe.</verse>
+        <verse osisID='Matt.5.33'>Wiederum habt ihr gehört, daß zu den Alten gesagt ist: Du sollst keinen falschen Eid tun, sondern dem Herrn deinen Eid halten<note>übergeben</note>.</verse>
+        <verse osisID='Matt.5.34'>Ich aber sage euch: Ihr sollt gar nicht schwören, weder bei dem Himmel, denn er ist Gottes Thron;</verse>
+        <verse osisID='Matt.5.35'>Noch bei der Erde, denn sie ist Seiner Füße Schemel; noch bei Jerusalem, denn sie ist des großen Königs Stadt.</verse>
+        <verse osisID='Matt.5.36'>Auch nicht bei deinem Haupt sollst du schwören, denn du kannst nicht ein Haar weiß oder schwarz machen.</verse>
+        <verse osisID='Matt.5.37'>Euer Wort aber sei: Ja, ja, nein, nein. Was weiter ist, das ist vom Übel.</verse>
+        <verse osisID='Matt.5.38'>Ihr habt gehört, daß gesagt ist: Augâ¬Ü um Auge und Zahn um Zahn.</verse>
+        <verse osisID='Matt.5.39'>Ich aber sage euch: Ihr sollt dem Übel nicht widerstehen; sondern so dir einer einen Streich gibt auf deinen rechten Backen, dem wende den andern auch zu.</verse>
+        <verse osisID='Matt.5.40'>Dem, der mit dir rechten und dir den Rock nehmen will, dem laß auch das Oberkleid.</verse>
+        <verse osisID='Matt.5.41'>So dich einer eine Meile nötigt, gehe mit ihm zwei.</verse>
+        <verse osisID='Matt.5.42'>Gib dem, der dich bittet, und wende dich nicht ab von dem, der von dir entlehnen will.</verse>
+        <verse osisID='Matt.5.43'>Ihr habt gehört, daß gesagt ist: Du sollst deinen Nächsten lieben und deinen Feind hassen.</verse>
+        <verse osisID='Matt.5.44'>Ich aber sage euch: Liebet eure Feinde, segnet, die euch fluchen, tut wohl denen, die euch hassen, und betet für die, welche euch beleidigen und verfolgen.</verse>
+        <verse osisID='Matt.5.45'>Auf daß ihr Söhne werdet eures Vaters in den Himmeln; denn Er läßt Seine Sonne aufgehen über Schlechte und Gute, und läßt regnen über Gerechte und Ungerechte.</verse>
+        <verse osisID='Matt.5.46'>Denn so ihr liebet, die euch lieben, was für Lohn habt ihr? Tun nicht dasselbe auch die Zöllner?</verse>
+        <verse osisID='Matt.5.47'>Und wenn ihr nur eure Brüder grüßet, was tut ihr weiteres? Tun nicht die Zöllner auch also?</verse>
+        <verse osisID='Matt.5.48'>So sollt nun ihr vollkommen sein, gleichwie euer Vater in den Himmeln vollkommen ist.</verse>
+      </chapter>
+      <chapter osisID='Matt.6'>
+        <title>Bergpredigt.</title>
+        <verse osisID='Matt.6.1'>Habt acht auf euer Almosen, daß ihr es nicht gebet<note>tuet</note> vor den Menschen, um von ihnen angesehen zu werden: ihr habt anders keinen Lohn bei eurem Vater in den Himmeln.</verse>
+        <verse osisID='Matt.6.2'>Wenn du aber Almosen gibst<note>tust</note>, laß nicht vor dir her posaunen, wie die Heuchler tun in den Synagogen und in den Gassen, auf daß sie von den Leuten verherrlicht werden. Wahrlich, Ich sage euch, sie haben ihren Lohn dahin.</verse>
+        <verse osisID='Matt.6.3'>Wenn du aber Almosen gibst<note>tust</note>, laß deine linke Hand nicht wissen, was deine rechte tut;</verse>
+        <verse osisID='Matt.6.4'>Auf daß dein Almosen im Verborgenen sei, und dein Vater, Der in das Verborgene sieht, wird dir es selber vergelten öffentlich.</verse>
+        <verse osisID='Matt.6.5'>Und wenn du betest, sollst du nicht sein wie die Heuchler, die da gerne in den Synagogen und an den Ecken der Straßen stehen und beten, damit sie vor den Menschen scheinen. Wahrlich, Ich sage euch, sie haben ihren Lohn dahin.</verse>
+        <verse osisID='Matt.6.6'>Wenn du aber betest, so gehe ein in deine Kammer und verschließe deine Tür und bete zu deinem Vater im Verborgenen. Und dein Vater, Der in das Verborgene sieht, wird es dir vergelten öffentlich.</verse>
+        <verse osisID='Matt.6.7'>Wenn ihr aber betet, sollt ihr nicht plappern wie die Heiden, denn sie meinen, sie werden erhört, wenn sie viele Worte machen.</verse>
+        <verse osisID='Matt.6.8'>Seid denn ihnen nicht ähnlich; denn euer Vater weiß, was ihr bedürfet, ehe denn ihr Ihn bittet.</verse>
+        <verse osisID='Matt.6.9'>Darum sollt ihr also beten: Unser Vater in den Himmeln. Geheiligt werde Dein Name;</verse>
+        <verse osisID='Matt.6.10'>Dein Reich komme. Dein Wille geschehe, wie im Himmel, also auch auf Erden.</verse>
+        <verse osisID='Matt.6.11'>Gib uns heute unser tägliches Brot.</verse>
+        <verse osisID='Matt.6.12'>Und vergib uns unsre Schulden, wie auch wir vergeben unsern Schuldnern.</verse>
+        <verse osisID='Matt.6.13'>Und führe<note>bringe</note> uns nicht in Versuchung, sondern errette uns von dem Übel; denn Dein ist das Reich und die Kraft und die Herrlichkeit in Ewigkeit<note>die Ewigkeiten</note>. Amen.</verse>
+        <verse osisID='Matt.6.14'>Denn so ihr den Menschen ihre Fehle vergebt, so wird euch euer himmlischer Vater auch vergeben.</verse>
+        <verse osisID='Matt.6.15'>Wenn ihr aber den Menschen ihre Fehle nicht vergebet, so wird euer Vater eure Fehle auch nicht vergeben.</verse>
+        <verse osisID='Matt.6.16'>Wenn ihr aber fastet, sehet nicht düster drein, wie die Heuchler; denn sie entstellen<note>lassen verschwinden</note> ihre Angesichter, auf daß sie vor den Menschen scheinen mit ihrem Fasten. Wahrlich, Ich sage euch, sie haben ihren Lohn dahin.</verse>
+        <verse osisID='Matt.6.17'>Wenn du aber fastest, salbe dein Haupt und wasche dein Angesicht.</verse>
+        <verse osisID='Matt.6.18'>Auf daß du nicht vor den Menschen scheinst mit deinem Fasten, sondern vor deinem Vater im Verborgenen; und dein Vater, Der in das Verborgene sieht, wird es dir vergelten öffentlich.</verse>
+        <verse osisID='Matt.6.19'>Speichert euch nicht Schätze auf Erden, wo sie Motte und Rost fressen<note>lassen verschwinden</note>, und wo Diebe einbrechen<note>durchgraben</note> und stehlen.</verse>
+        <verse osisID='Matt.6.20'>Speichert euch aber Schätze auf im Himmel, wo weder Motte noch Rost sie frißt<note>lassen verschwinden</note>, und wo Diebe nicht einbrechen<note>durchgraben</note> noch stehlen.</verse>
+        <verse osisID='Matt.6.21'>Denn wo euer Schatz ist, da ist auch euer Herz.</verse>
+        <verse osisID='Matt.6.22'>Des Leibes Leuchte<note>Kerze</note> ist das Auge. Wenn nun dein Auge einfältig ist, so ist dein ganzer Leib licht.</verse>
+        <verse osisID='Matt.6.23'>Wenn aber dein Auge arg ist, so ist dein ganzer Leib finster. Wenn nun das Licht in dir Finsternis ist, wie groß ist die Finsternis.</verse>
+        <verse osisID='Matt.6.24'>Niemand kann zwei Herren dienen; denn entweder wird er den einen hassen und den andern lieben; oder wird er dem einen anhangen und den andern verachten. Ihr könnt nicht Gott dienen und dem Mammon.</verse>
+        <verse osisID='Matt.6.25'>Darum sage Ich euch: Sorget nicht für eure Seele, was ihr essen und was ihr trinken werdet; noch für euren Leib, was ihr antun werdet. Ist nicht die Seele mehr als die Nahrung und der Leib mehr als die Kleidung?</verse>
+        <verse osisID='Matt.6.26'>Seht das Gevögel des Himmels an, sie säen nicht, sie ernten nicht, auch sammeln sie nicht in Scheunen, und euer himmlischer Vater nähret sie doch. Seid ihr nicht mehr<note>Unterscheidet ihr euch nicht mehr</note> denn sie.</verse>
+        <verse osisID='Matt.6.27'>Wer von euch kann mit Sorgen seinem Wuchse eine Elle hinzutun?</verse>
+        <verse osisID='Matt.6.28'>Und was sorget ihr für die Kleidung? Betrachtet die Lilien des Feldes, wie sie wachsen; sie mühen sich nicht ab, auch spinnen sie nicht.</verse>
+        <verse osisID='Matt.6.29'>Ich aber sage euch: Auch Salomoh in all seiner Herrlichkeit war nicht umkleidet wie derselben eine.</verse>
+        <verse osisID='Matt.6.30'>So denn Gott das Gras des Feldes, das heute da ist und morgen in den Ofen geworfen wird, also ankleidet, um wie viel mehr euch, ihr Kleingläubigen!</verse>
+        <verse osisID='Matt.6.31'>Deshalb sollt ihr nicht sorgen und sagen: Was sollen wir essen, was sollen wir trinken, womit sollen wir uns umkleiden?</verse>
+        <verse osisID='Matt.6.32'>Nach solch allem trachten die Heiden<note>Völkerschaften</note>; denn euer himmlischer Vater weiß ja, daß ihr dies alles bedürfet.</verse>
+        <verse osisID='Matt.6.33'>Trachtet am ersten nach dem Reiche Gottes und nach Seiner Gerechtigkeit; dann wird euch dies alles hinzugetan.</verse>
+        <verse osisID='Matt.6.34'>Darum sorget nicht für den morgenden Tag; denn der morgende Tag wird für das Seine sorgen. Genug für den Tag ist sein Böses.</verse>
+      </chapter>
+      <chapter osisID='Matt.7'>
+        <title>Bergpredigt.</title>
+        <verse osisID='Matt.7.1'>Richtet nicht, auf daß ihr nicht gerichtet werdet.</verse>
+        <verse osisID='Matt.7.2'>Denn mit welcherlei Gericht ihr richtet, werdet ihr gerichtet werden, und mit welcherlei Maß ihr messet, wird euch gemessen werden.</verse>
+        <verse osisID='Matt.7.3'>Was siehst du aber den Splitter in deines Bruders Auge, den Balken aber in deinem Auge gewahrst du nicht?</verse>
+        <verse osisID='Matt.7.4'>Oder wie willst du zu deinem Bruder sagen: Laß mich, ich will dir den Splitter aus deinem Auge herausziehen? und siehe, der Balken ist in deinem Auge!</verse>
+        <verse osisID='Matt.7.5'>Du Heuchler, ziehe zuerst den Balken aus deinem Auge heraus, und dann magst du zusehen, wie du den Splitter aus deines Bruders Auge herausziehst.</verse>
+        <verse osisID='Matt.7.6'>Gebt das Heilige nicht den Hunden, und werfet eure Perlen nicht vor die Schweine, auf daß sie solche nicht mit ihren Füßen niedertreten und sich umwenden und euch zerreißen.</verse>
+        <verse osisID='Matt.7.7'>Bittet, und euch wird gegeben. Suchet, und ihr werdet finden. Klopfet an, und euch wird aufgetan.</verse>
+        <verse osisID='Matt.7.8'>Denn wer da bittet, der empfängt, und wer da sucht, der findet, und wer da anklopft, dem wird aufgetan.</verse>
+        <verse osisID='Matt.7.9'>Oder welcher Mensch ist unter euch, der, so ihn sein Sohn um Brot bäte, ihm einen Stein gäbe?</verse>
+        <verse osisID='Matt.7.10'>Oder der, wenn er ihn um einen Fisch bäte, ihm eine Schlange gäbe?</verse>
+        <verse osisID='Matt.7.11'>So denn ihr, die ihr arg seid, euren Kindern gute Gaben zu geben wisset, wie viel mehr wird euer Vater in den Himmeln Gutes geben denen, die Ihn bitten?</verse>
+        <verse osisID='Matt.7.12'>Alles nun, das ihr wollet, daß euch die Menschen tun sollen, das tuet auch ihr ihnen, denn das ist das Gesetz und die Propheten.</verse>
+        <verse osisID='Matt.7.13'>Gehet ein durch das enge Tor; denn das Tor ist weit und der Weg ist breit, der ins Verderben hinführt, und wenige sind ihrer, die ihn durch eingehen.</verse>
+        <verse osisID='Matt.7.14'>Eng aber ist das Tor und schmal<note>bedrängt</note> der Weg, der zum Leben hinführt, und wenige sind ihrer, die ihn finden.</verse>
+        <verse osisID='Matt.7.15'>Nehmt euch in acht vor den falschen Propheten, die in Schafskleidern zu euch kommen, inwendig aber sind sie reißende Wölfe.</verse>
+        <verse osisID='Matt.7.16'>An ihren Früchten sollt ihr sie erkennen. Liest man auch Trauben von Dornen, oder Feigen von Disteln?</verse>
+        <verse osisID='Matt.7.17'>Also bringt<note>macht</note> jeglicher gute Baum gute<note>schöne</note> Früchte; der faule Baum aber bringt<note>macht</note> schlechte Früchte.</verse>
+        <verse osisID='Matt.7.18'>Ein guter Baum kann nicht schlechte Früchte bringen<note>machen</note>, und ein fauler Baum kann nicht gute<note>schöne</note> Früchte bringen.</verse>
+        <verse osisID='Matt.7.19'>Jeglicher Baum, der nicht gute<note>schöne</note> Frucht bringt<note>macht</note>, wird abgehauen und ins Feuer geworfen.</verse>
+        <verse osisID='Matt.7.20'>Darum an ihren Früchten sollt ihr sie erkennen.</verse>
+        <verse osisID='Matt.7.21'>Es wird nicht jeder, der zu Mir sagt: Herr, Herr, ins Reich der Himmel eingehen; sondern der den Willen tut Meines Vaters in den Himmeln.</verse>
+        <verse osisID='Matt.7.22'>Viele werden zu Mir an jenem Tage sagen: Herr, Herr, haben wir nicht in Deinem Namen geweissagt? und in Deinem Namen Dämonen ausgetrieben, und haben wir nicht in Deinem Namen viele Wundertaten getan?</verse>
+        <verse osisID='Matt.7.23'>Und dann werde Ich ihnen bekennen: Ich habe euch nie erkannt. Weichet von Mir, die ihr Unrecht wirket.</verse>
+        <verse osisID='Matt.7.24'>Jeden nun, der diese Meine Worte hört und tut sie, will Ich einem klugen Manne vergleichen, der sein Haus auf den Felsen baute.</verse>
+        <verse osisID='Matt.7.25'>Und der Platzregen kam herab, und die Ströme kamen und die Winde wehten und stießen<note>fielen</note> wider das Haus, und es fiel nicht; denn es war auf den Felsen gegründet.</verse>
+        <verse osisID='Matt.7.26'>Und jeder, der diese Meine Worte hört und tut sie nicht, ist einem törichten<note>närrischen</note> Manne zu vergleichen, der sein Haus auf den Sand baute.</verse>
+        <verse osisID='Matt.7.27'>Und der Platzregen kam herab und die Ströme kamen und die Winde wehten und stießen gegen das Haus, und es fiel, und sein Fall war groß.</verse>
+        <verse osisID='Matt.7.28'>Und es geschah, da Jesus diese Worte vollendet hatte, staunte das Volk<note>Gedränge</note> über Seine Lehre;</verse>
+        <verse osisID='Matt.7.29'>Denn Er lehrte sie wie einer, der Gewalt hat, und nicht wie die Schriftgelehrten.</verse>
+      </chapter>
+      <chapter osisID='Matt.8'>
+        <title>Jesus verrichtet Wundertaten.</title>
+        <verse osisID='Matt.8.1'>Da Er aber vom Berge herabstieg, folgte Ihm viel Volks<note>Gedränge</note> nach.</verse>
+        <verse osisID='Matt.8.2'>Und siehe, ein Aussätziger kam und betete Ihn an und sprach: Herr, so Du willst, kannst Du mich reinigen.</verse>
+        <verse osisID='Matt.8.3'>Und Jesus streckte Seine Hand aus, berührte ihn und sprach: Ich will; sei gereinigt! Und alsbald war sein Aussatz gereinigt.</verse>
+        <verse osisID='Matt.8.4'>Und Jesus spricht zu ihm: Siehe, sage es niemand, sondern gehe hin, zeige dich dem Priester, und bringe die Gabe dar, die Moses verordnet hat, zum Zeugnis für sie.</verse>
+        <verse osisID='Matt.8.5'>Als Jesus aber einging nach Kapernaum, kam zu Ihm ein Hauptmann, flehte Ihn an,</verse>
+        <verse osisID='Matt.8.6'>Und sagte: Herr, mein Knabe liegt im Hause gichtbrüchig danieder, schrecklich gequält.</verse>
+        <verse osisID='Matt.8.7'>Und Jesus spricht zu ihm: Ich will kommen und ihn heilen.</verse>
+        <verse osisID='Matt.8.8'>Und der Hauptmann antwortete und sprach: Herr, ich bin nicht genugsam, daß Du unter mein Dach eingehst; sondern sprich nur ein Wort, so wird mein Knabe gesund.</verse>
+        <verse osisID='Matt.8.9'>Denn auch ich bin ein Mensch unter Obergewalt, und habe Kriegsknechte unter mir, und wenn ich zu einem sage: ziehe hin! so zieht er hin, und zum andern: komm! so kommt er, und zu meinem Knechte: tue das! so tut er es.</verse>
+        <verse osisID='Matt.8.10'>Da aber Jesus dies hörte, verwunderte Er Sich und sprach zu denen, die Ihm nachfolgten: Wahrlich, Ich sage euch: Auch nicht in Israel habe Ich solchen Glauben gefunden.</verse>
+        <verse osisID='Matt.8.11'>Aber Ich sage euch: Viele werden kommen vom Aufgang und vom Niedergang und mit Abraham und Isaak und Jakob sich niederlegen im Reiche der Himmel.</verse>
+        <verse osisID='Matt.8.12'>Die Söhne des Reichs aber werden hinausgeworfen in die äußerste Finsternis. Dort wird sein Heulen<note>Weinen</note> und Zähneknirschen.</verse>
+        <verse osisID='Matt.8.13'>Und Jesus sprach zu dem Hauptmann: Gehe hin, und wie du geglaubt hast, soll dir werden. Und der Knabe ward gesund zur selbigen Stunde.</verse>
+        <verse osisID='Matt.8.14'>Und als Jesus in des Petrus Haus kam, sah Er seine Schwieger liegen, und sie hatte Fieber.</verse>
+        <verse osisID='Matt.8.15'>Und Er berührte ihre Hand, und das Fieber verließ sie, und sie machte sich auf und bediente sie.</verse>
+        <verse osisID='Matt.8.16'>Als es aber Abend war, brachten sie viele Besessene zu Ihm, und Er trieb die Geister aus mit einem Wort, und Er heilte alle Leidenden;</verse>
+        <verse osisID='Matt.8.17'>Auf daß erfüllt würde, was durch den Propheten Jesajas gesagt ward, der spricht: Er hat unsere Gebrechen auf Sich genommen und unsere Krankheiten getragen.</verse>
+        <verse osisID='Matt.8.18'>Als Jesus aber das viele Gedränge um Sich sah, befahl Er, jenseits hinüber zu fahren.</verse>
+        <verse osisID='Matt.8.19'>Und es kam einer, ein Schriftgelehrter, und sprach zu Ihm: Lehrer, ich will Dir nachfolgen, wo Du auch hingehst.</verse>
+        <verse osisID='Matt.8.20'>Und Jesus spricht zu ihm: Die Füchse haben Baue, und das Gevögel des Himmels Nester; des Menschen Sohn aber hat nicht, wo Er Sein Haupt hinlege<note>neige</note>.</verse>
+        <verse osisID='Matt.8.21'>Ein anderer von Seinen Jüngern aber sprach zu Ihm: Herr, gestatte mir, daß ich zuerst hingehe und meinen Vater begrabe.</verse>
+        <verse osisID='Matt.8.22'>Jesus aber sprach zu ihm: Folge du Mir nach und lasse die Toten ihre Toten begraben.</verse>
+        <verse osisID='Matt.8.23'>Und als Er in das Fahrzeug einstieg, folgten Ihm Seine Jünger nach.</verse>
+        <verse osisID='Matt.8.24'>Und siehe, es erhob sich ein großes Ungestüm<note>Erdbeben</note> in dem Meere also, daß das Fahrzeug von den Wellen bedeckt ward. Er aber schlief.</verse>
+        <verse osisID='Matt.8.25'>Und die Jünger kamen hinzu, weckten Ihn auf und sagten: Herr, rette uns, wir verderben.</verse>
+        <verse osisID='Matt.8.26'>Und Er spricht zu ihnen: Was seid ihr furchtsam, ihr Kleingläubigen? Dann stand Er auf<note>machte Er Sich auf</note>, bedrohte die Winde und das Meer, und es ward eine große Windstille.</verse>
+        <verse osisID='Matt.8.27'>Die Menschen aber verwunderten sich und sagten: Welcher Art ist Der, daß Ihm Winde und Meer gehorchen?</verse>
+        <verse osisID='Matt.8.28'>Und als Er hinüberkam in die Landschaft der Gardarener, kamen Ihm zwei Besessene entgegen, die aus den Grüften herauskamen, und ungemein unbändig waren, so daß niemand vermochte jenes Weges vorbeizugehen.</verse>
+        <verse osisID='Matt.8.29'>Und siehe da, sie schrien und sagten: Was haben wir mit Dir, Jesus, Du Sohn Gottes? Bist Du hierher gekommen, uns vor der Zeit<note>bestimmten Zeit</note> zu quälen?</verse>
+        <verse osisID='Matt.8.30'>Es war aber ferne von ihnen ein Trieb vieler Schweine auf der Weide.</verse>
+        <verse osisID='Matt.8.31'>Die Dämonen aber flehten Ihn an und sagten: Wenn Du uns austreibst, so gestatte uns, in den Trieb der Schweine hinzufahren.</verse>
+        <verse osisID='Matt.8.32'>Und Er sprach zu ihnen: Fahret hin! Da kamen sie heraus und fuhren in den Trieb der Schweine. Und siehe da, der ganze Trieb von Schweinen stürzte sich von der Anhöhe hinab in das Meer und kam um in dem Wasser.</verse>
+        <verse osisID='Matt.8.33'>Und die sie weideten, flohen und gingen hin in die Stadt und sagten an alles, und auch über die Besessenen.</verse>
+        <verse osisID='Matt.8.34'>Und siehe, da kam die ganze Stadt heraus, Jesus entgegen, und da sie Ihn sahen, flehten sie Ihn an, Er möchte von ihren Grenzen weitergehen.</verse>
+      </chapter>
+      <chapter osisID='Matt.9'>
+        <title>Jesus tut Wunder nach Seiner Heimkehr.</title>
+        <verse osisID='Matt.9.1'>Und Er stieg ein in das Fahrzeug, fuhr hinüber und kam in Seine eigene Stadt.</verse>
+        <verse osisID='Matt.9.2'>Und siehe, da brachten sie zu Ihm einen Gichtbrüchigen, der auf einem Bette daniederlag. Und da Jesus ihren Glauben sah, sprach er zu dem Gichtbrüchigen: Sei getrost, mein Kind, deine Sünden sind dir vergeben.</verse>
+        <verse osisID='Matt.9.3'>Und siehe, einige Schriftgelehrten sprachen bei sich: Dieser lästert Gott.</verse>
+        <verse osisID='Matt.9.4'>Und da Jesus ihre Gedanken sah, sprach Er: Warum gedenkt ihr Arges in euren Herzen?</verse>
+        <verse osisID='Matt.9.5'>Denn was ist leichter zu sagen: Die Sünden sind dir vergeben, oder zu sagen: Mache dich auf und wandle?</verse>
+        <verse osisID='Matt.9.6'>Auf daß ihr aber wisset, daß des Menschen Sohn Gewalt hat auf Erden, Sünden zu vergeben<note>spricht Er dann zu dem Gichtbrüchigen</note>: Mache dich auf, hebe dein Bett auf und gehe hin in dein Haus.</verse>
+        <verse osisID='Matt.9.7'>Und er machte sich auf und ging hin in sein Haus.</verse>
+        <verse osisID='Matt.9.8'>Da aber das Gedränge dies sah, verwunderten sie sich und verherrlichten Gott, Der solche Gewalt den Menschen gegeben habe.</verse>
+        <verse osisID='Matt.9.9'>Und da Jesus von dannen vorüberging, sah Er einen Menschen am Zolle sitzen, Matthäus genannt, und Er sprach zu Ihm: Folge Mir nach! Und er stand auf und folgte ihm nach.</verse>
+        <verse osisID='Matt.9.10'>Und es geschah, als Er im Hause zu Tische lag, siehe, da kamen viele Zöllner und Sünder und legten sich mit Jesus und Seinen Jüngern zu Tische.</verse>
+        <verse osisID='Matt.9.11'>Wie dies die Pharisäer sahen, sprachen sie zu Seinen Jüngern: Warum ißt euer Lehrer mit den Zöllnern und Sündern?</verse>
+        <verse osisID='Matt.9.12'>Jesus aber hörte es und sprach zu ihnen: Die Starken bedürfen des Arztes nicht, sondern die Leidenden.</verse>
+        <verse osisID='Matt.9.13'>Gehet aber hin und lernet, was das ist: Ich will Barmherzigkeit und nicht Opfer; denn Ich bin nicht gekommen, Gerechte, sondern Sünder zur Buße zu rufen.</verse>
+        <verse osisID='Matt.9.14'>Da kamen des Johannes Jünger herzu zu Ihm und sagten: Warum fasten wir und die Pharisäer so viel, und Deine Jünger fasten nicht?</verse>
+        <verse osisID='Matt.9.15'>Und Jesus sprach zu ihnen: Können die Söhne des Brautgemachs trauern, solange der Bräutigam bei ihnen ist? Es werden aber Tage kommen, da der Bräutigam von ihnen hinweggenommen wird, und dann werden sie fasten.</verse>
+        <verse osisID='Matt.9.16'>Niemand setzt<note>legt auf</note> einen Fleck ungewalkten Tuches auf ein altes Kleid; denn sein Füllwerk nimmt von dem Kleide und der Riß wird schlimmer.</verse>
+        <verse osisID='Matt.9.17'>Auch fasset man nicht neuen Wein in alte Schläuche, sonst zerreißen die Schläuche und der Wein wird verschüttet und die Schläuche verderben; sondern man fasset neuen Wein in neue Schläuche, und beide werden miteinander erhalten.</verse>
+        <verse osisID='Matt.9.18'>Während Er solches zu ihnen redete, siehe, da kam der Obersten einer, fiel vor Ihm nieder und sagte: Meine Tochter ist eben jetzt gestorben<note>geendet</note>; aber komm, lege Deine Hand auf sie, und sie wird leben.</verse>
+        <verse osisID='Matt.9.19'>Und Jesus machte Sich auf, folgte Ihm nach und Seine Jünger.</verse>
+        <verse osisID='Matt.9.20'>Und siehe, eine Weib, das zwölf Jahre den Blutfluß hatte, trat von hinten herzu und berührte den Saum Seines Kleides.</verse>
+        <verse osisID='Matt.9.21'>Denn sie sagte bei sich selbst: Wenn ich nur Sein Kleid berühre, so bin ich gerettet.</verse>
+        <verse osisID='Matt.9.22'>Jesus aber wandte Sich um und sah sie und sprach: Sei getrost, Meine Tochter, dein Glaube hat dir geholfen. Und dem Weib ward geholfen zur selbigen Stunde.</verse>
+        <verse osisID='Matt.9.23'>Und Jesus kam in das Haus des Obersten und sah die Pfeifer und das lärmende Gedränge.</verse>
+        <verse osisID='Matt.9.24'>Und Er sprach zu ihnen: Weichet, denn das Mägdlein ist nicht gestorben, sondern es schlummert. Und sie verlachten Ihn.</verse>
+        <verse osisID='Matt.9.25'>Als aber das Gedränge hinausgetrieben war, ging Er hinein, ergriff sie bei der Hand, und das Mägdlein richtete sich auf.</verse>
+        <verse osisID='Matt.9.26'>Und das Gerücht davon ging aus in dasselbige ganze Land.</verse>
+        <verse osisID='Matt.9.27'>Und da Jesus von dannen weiterging, folgten Ihm zwei Blinde nach, schrien und sprachen: Sohn Davids, erbarme Dich unser!</verse>
+        <verse osisID='Matt.9.28'>Als Er aber in das Haus kam, kamen die Blinden her zu Ihm, und Jesus spricht zu ihnen: Glaubet ihr, daß Ich solches tun kann? Sie sprachen zu Ihm: Ja, Herr.</verse>
+        <verse osisID='Matt.9.29'>Da berührte Er ihre Augen und sprach: Nach eurem Glauben geschehe euch!</verse>
+        <verse osisID='Matt.9.30'>Und ihre Augen wurden aufgetan. Und Jesus drohte ihnen und sprach: Sehet zu, daß es niemand erfahre.</verse>
+        <verse osisID='Matt.9.31'>Sie aber gingen aus und machten Ihn ruchbar in selbigem ganzen Lande.</verse>
+        <verse osisID='Matt.9.32'>Als sie aber ausgingen, siehe, da brachen sie einen Menschen zu Ihm herbei, der stumm und besessen war.</verse>
+        <verse osisID='Matt.9.33'>Und als der Dämon ausgetrieben war, redete der Stumme. Und die Menge<note>Gedränge</note> verwunderte sich, und sie sprachen: Noch nie ist solches in Israel erschienen.</verse>
+        <verse osisID='Matt.9.34'>Die Pharisäer aber sagten: Durch den Obersten der Dämonen treibt Er die Dämonen aus.</verse>
+        <verse osisID='Matt.9.35'>Und Jesus zog in allen Städten und Flecken umher, lehrte in ihren Synagogen und predigte das Evangelium des Reichs und heilte alle Krankheit und alles Siechtum im Volk.</verse>
+        <verse osisID='Matt.9.36'>Und da Er das Gedränge sah, jammerte Ihn derselben, daß sie so verschmachtet und dahingeworfen wären, wie Schafe, die keinen Hirten haben.</verse>
+        <verse osisID='Matt.9.37'>Da spricht Er zu Seinen Jüngern: Viel ist der Ernte, aber wenige sind der Arbeiter.</verse>
+        <verse osisID='Matt.9.38'>Darum flehet zum Herrn der Ernte, daß Er Arbeiter in Seine Ernte ausschicke.</verse>
+      </chapter>
+      <chapter osisID='Matt.10'>
+        <title>Die zwölf Jünger.</title>
+        <verse osisID='Matt.10.1'>Und Er rief Seine zwölf Jünger zu Sich, und gab ihnen Gewalt über unreine Geister, sie auszutreiben, und alle Krankheit und alles Siechtum zu heilen.</verse>
+        <verse osisID='Matt.10.2'>Die Namen der zwölf Apostel aber sind diese: Der erste Simon, genannt Petrus, und Andreas, sein Bruder; Jakobus, des Zebedäus<note>Sohn</note>, und Johannes, sein Bruder.</verse>
+        <verse osisID='Matt.10.3'>Philippus und Bartholomäus, Thomas und Matthäus, der Zöllner, Jakobus, des Alphäus<note>Sohn</note> und Lebbäus, mit dem Zunamen Thaddäus;</verse>
+        <verse osisID='Matt.10.4'>Simon, der Kananite, und Judas Ischariot, der Ihn auch verriet.</verse>
+        <verse osisID='Matt.10.5'>Diese Zwölfe sandte Jesus aus, entbot ihnen und sprach: Gehet nicht hin auf den Weg der Heiden<note>Völkerschaften</note> und in eine Stadt der Samariter gehet nicht ein.</verse>
+        <verse osisID='Matt.10.6'>Zieht vielmehr hin zu den verlorenen Schafen des Hauses Israels.</verse>
+        <verse osisID='Matt.10.7'>Wenn ihr aber hinzieht, predigt und sprechet: Das Reich der Himmel hat sich genaht.</verse>
+        <verse osisID='Matt.10.8'>Heilt die Siechen, reinigt Aussätzige, weckt Tote auf, treibt Dämonen aus. Umsonst habt ihr empfangen, umsonst gebt.</verse>
+        <verse osisID='Matt.10.9'>Ihr sollt nicht besitzen Gold noch Silber, noch Erz in euren Gürteln.</verse>
+        <verse osisID='Matt.10.10'>Keine Tasche auf den Weg, noch zwei Röcke, noch Sandalen, noch Stab; denn der Arbeiter ist seiner Nahrung wert.</verse>
+        <verse osisID='Matt.10.11'>Wo ihr aber in eine Stadt oder in einen Flecken eingeht, erforschet, wer darin ist, der es wert ist, und dort bleibt, bis ihr von dannen ausgeht.</verse>
+        <verse osisID='Matt.10.12'>So ihr aber in das Haus eingeht, grüßet dasselbe.</verse>
+        <verse osisID='Matt.10.13'>Und so das Haus es wert ist, komme euer Friede auf dasselbe. Ist es aber nicht wert, so wende sich euer Friede zurück zu euch.</verse>
+        <verse osisID='Matt.10.14'>Und so euch einer nicht aufnimmt, noch auf eure Worte hört, so geht aus jenem Hause oder jener Stadt hinaus und schüttelt den Staub eurer Füße ab.</verse>
+        <verse osisID='Matt.10.15'>Wahrlich, Ich sage euch: Es wird dem Lande der Sodomer und Gomorrer erträglicher sein am Tage des Gerichts, als jener Stadt.</verse>
+        <verse osisID='Matt.10.16'>Siehe, Ich sende euch aus wie Schafe mitten unter Wölfe. Seid denn klug, wie die Schlangen, und ohne Falsch, wie die Tauben.</verse>
+        <verse osisID='Matt.10.17'>Nehmt euch aber in acht vor den Menschen; denn sie werden euch überantworten ihren Räten und euch geißeln in ihren Synago- gen.</verse>
+        <verse osisID='Matt.10.18'>Und sie werden euch wegen Meiner vor Fürsten und Könige führen, zum Zeugnis über sie und über die Heiden<note>Völkerschaften</note>.</verse>
+        <verse osisID='Matt.10.19'>Wenn sie euch aber überantworten, so sorget nicht, wie oder was ihr reden sollt; denn es wird euch zu jener Stunde gegeben werden, was ihr reden sollt.</verse>
+        <verse osisID='Matt.10.20'>Denn nicht ihr seid es, die das reden, sondern der Geist eures Vaters ist es, der in euch redet.</verse>
+        <verse osisID='Matt.10.21'>Es wird aber ein Bruder den Bruder und der Vater das Kind zum Tode überantworten; und Kinder werden gegen Eltern aufstehen und sie zum Tode bringen.</verse>
+        <verse osisID='Matt.10.22'>Und ihr werdet gehaßt werden von allen um Meines Namens willen; wer aber beharrt bis ans Ende, der wird gerettet werden.</verse>
+        <verse osisID='Matt.10.23'>Wenn sie euch aber verfolgen in einer Stadt, so flieht in die andere, denn wahrlich, Ich sage euch: Ihr werdet mit den Städten Israels nicht zu Ende sein, bis des Menschen Sohn kommen wird.</verse>
+        <verse osisID='Matt.10.24'>Der Jünger ist nicht über dem Lehrer, noch der Knecht über seinem Herrn.</verse>
+        <verse osisID='Matt.10.25'>Es ist genug für den Jünger, daß er sei wie sein Lehrer, und der Knecht wie sein Herr. Haben sie den Hausherrn Beelzebub geheißen, wieviel mehr seine Hausgenossen.</verse>
+        <verse osisID='Matt.10.26'>Darum fürchtet euch nicht vor ihnen; denn nichts ist verdeckt, das nicht offenbar würde, und nichts verborgen, das man nicht erkennen wird.</verse>
+        <verse osisID='Matt.10.27'>Was Ich euch sage in der Finsternis, das sprechet im Licht, und was ihr höret in das Ohr, das predigt auf den Dächern.</verse>
+        <verse osisID='Matt.10.28'>Und fürchtet euch nicht vor denen, die den Leib töten, die Seele aber nicht töten können. Fürchtet euch aber vielmehr vor dem, der Seele und Leib in der Hölle<note>Gehenna</note> verderben kann.</verse>
+        <verse osisID='Matt.10.29'>Verkauft man nicht zwei Sperlinge um einen Pfennig? Und keiner derselben fällt zur Erde ohne euren Vater.</verse>
+        <verse osisID='Matt.10.30'>Es sind aber auch die Haare eures Hauptes alle gezählt.</verse>
+        <verse osisID='Matt.10.31'>Darum fürchtet euch nicht. Ihr seid mehr, denn viele Sperlinge.</verse>
+        <verse osisID='Matt.10.32'>Einen jeden, der Mich bekennt vor den Menschen, den will Ich auch bekennen vor Meinem Vater in den Himmeln.</verse>
+        <verse osisID='Matt.10.33'>Wer Mich aber verleugnet vor den Menschen, den werde Ich auch verleugnen vor Meinem Vater in den Himmeln.</verse>
+        <verse osisID='Matt.10.34'>Denket nicht, daß Ich gekommen bin, Frieden auf die Erde zu bringen. Ich bin nicht gekommen, Frieden zu bringen, sondern das Schwert.</verse>
+        <verse osisID='Matt.10.35'>Denn Ich bin gekommen, den Menschen mit seinem Vater zu entzweien und die Tochter mit ihrer Mutter, und die Schnur<note>oder Braut</note> mit ihrer Schwieger.</verse>
+        <verse osisID='Matt.10.36'>Und die Feinde des Menschen werden seine eigenen Hausgenossen sein.</verse>
+        <verse osisID='Matt.10.37'>Wer Vater oder Mutter mehr lieb hat, denn Mich, der ist Meiner nicht wert; und wer Sohn oder Tochter mehr lieb hat, denn Mich, der ist Meiner nicht wert.</verse>
+        <verse osisID='Matt.10.38'>Und wer nicht sein Kreuz auf sich nimmt und hinter Mir nachfolgt, der ist Meiner nicht wert.</verse>
+        <verse osisID='Matt.10.39'>Wer seine Seele findet, der wird sie verlieren; und wer seine Seele verliert um Meinetwillen, der wird sie finden.</verse>
+        <verse osisID='Matt.10.40'>Wer euch aufnimmt, der nimmt Mich auf, und wer Mich aufnimmt, der nimmt Den auf, Der Mich ausgesandt hat.</verse>
+        <verse osisID='Matt.10.41'>Wer einen Propheten aufnimmt in eines Propheten Namen, wird eines Propheten Lohn empfangen, und wer einen Gerechten aufnimmt in eines Gerechten Namen, wird eines Gerechten Lohn empfangen.</verse>
+        <verse osisID='Matt.10.42'>Und wer einen dieser Kleinen nur mit einem Kelch kalten<note>Wassers</note> tränkt in eines Jüngers Namen, wahrlich, Ich sage euch, er wird seinen Lohn nicht verlieren.</verse>
+      </chapter>
+      <chapter osisID='Matt.11'>
+        <title>Botschaft des Johannes.</title>
+        <verse osisID='Matt.11.1'>Und es geschah, da Jesus Seine Verordnungen an Seine zwölf Jünger vollendet hatte, ging Er von dannen weiter, um in ihren Städten zu lehren und zu predigen.</verse>
+        <verse osisID='Matt.11.2'>Da aber Johannes im Kerker Christi Werke hörte, schickte er zwei seiner Jünger,</verse>
+        <verse osisID='Matt.11.3'>Und ließ Ihm sagen: Bist Du, Der da kommen soll, oder sollen wir einen andern erwarten?</verse>
+        <verse osisID='Matt.11.4'>Und Jesus antwortete und sprach zu ihnen: Ziehet hin und saget dem Johannes an, was ihr hört und seht.</verse>
+        <verse osisID='Matt.11.5'>Blinde sehen und Lahme wandeln, Aussätzige werden rein und Taube hören, Tote werden auferweckt und den Armen wird das Evangelium gepredigt.</verse>
+        <verse osisID='Matt.11.6'>Und selig ist, wer sich nicht an Mir ärgert.</verse>
+        <verse osisID='Matt.11.7'>Als diese aber hingingen, fing Jesus an zu dem Gedränge von Johannes zu sprechen: Was seid ihr hinausgegangen in die Wüste anzusehen? ein Rohr, das vom Winde hin und her geweht wird?</verse>
+        <verse osisID='Matt.11.8'>Oder was seid ihr ausgegangen zu sehen? einen Menschen mit weichen Kleidern umkleidet? Siehe, die da weiche<note>Kleider</note> tragen, sind in der Könige Häuser.</verse>
+        <verse osisID='Matt.11.9'>Aber was seid ihr ausgegangen zu sehen? einen Propheten? Ja, Ich sage euch: Und einen, der weit mehr ist denn ein Prophet.</verse>
+        <verse osisID='Matt.11.10'>Denn dieser ist es, von dem geschrieben ist: Siehe, Ich sende Meinen Boten aus vor Deinem Angesicht, der den Weg vor Dir zurüsten soll.</verse>
+        <verse osisID='Matt.11.11'>Wahrlich, Ich sage euch: Es ist unter denen, die von Weibern geboren sind, kein Größerer erweckt worden, denn Johannes der Täufer; aber wer im Reiche der Himmel kleiner ist, ist größer denn er.</verse>
+        <verse osisID='Matt.11.12'>Aber von den Tagen Johannes des Täufers bis hierher leidet das Reich der Himmel Gewalt, und die Gewalttätigen erhaschen es.</verse>
+        <verse osisID='Matt.11.13'>Denn alle Propheten und das Gesetz bis auf Johannes haben geweissagt.</verse>
+        <verse osisID='Matt.11.14'>Und, so ihr es aufnehmen wollt: er ist Elias, der da kommen soll.</verse>
+        <verse osisID='Matt.11.15'>Wer Ohren hat zu hören, der höre.</verse>
+        <verse osisID='Matt.11.16'>Wem aber soll Ich dieses Geschlecht vergleichen? Es ist den Kindern ähnlich, die im Markte sitzen und ihren Gesellen zurufen,</verse>
+        <verse osisID='Matt.11.17'>Und sagen: Wir haben euch gepfiffen, und ihr habt nicht getanzt. Wir haben euch geklagt, und ihr habt nicht gejammert.</verse>
+        <verse osisID='Matt.11.18'>Denn Johannes kam, aß nicht und trank nicht; und sie sagen: Er hat einen Dämon.</verse>
+        <verse osisID='Matt.11.19'>Des Menschen Sohn kam, Er aß und trank; und sie sagen: Siehe, der Mensch ist ein Fresser und Weintrinker, der Zöllner und Sünder Freund - und gerechtfertigt wurde die Weisheit von ihren Kindern.</verse>
+        <verse osisID='Matt.11.20'>Alsdann fing Er an, die Städte zu schelten, in denen die meisten Seiner Wunderkräfte geschahen, daß sie nicht Buße getan:</verse>
+        <verse osisID='Matt.11.21'>Wehe dir, Chorazin, wehe dir, Bethsaida. Wären die Wunderkräfte, die in euch geschahen, in Tyrus und Sidon geschehen, sie hätten längst in Sack und Asche Buße getan.</verse>
+        <verse osisID='Matt.11.22'>Aber Ich sage euch: Es wird Tyrus und Sidon erträglicher sein am Tage des Gerichts, denn euch.</verse>
+        <verse osisID='Matt.11.23'>Und du, Kapernaum, die du bis an den Himmel erhöht bist, du wirst bis in die Hölle hinabgestoßen werden, denn so geschehen wären in Sodom die Wunderkräfte, die in dir geschahen, wäre dasselbe wohl noch bis auf diesen Tag geblieben.</verse>
+        <verse osisID='Matt.11.24'>Aber Ich sage euch: Es wird dem Lande der Sodomer am Tage des Gerichts erträglicher sein, als dir.</verse>
+        <verse osisID='Matt.11.25'>Zur selben Zeit<note>bestimmten Zeit</note> antwortete Jesus und sprach: Ich bekenne Dich, Vater, Herr des Himmels und der Erde, daß Du dies vor den Weisen und Verständigen verborgen<note>hinweg verborgen</note> und den Unmündigen geoffenbart hast;</verse>
+        <verse osisID='Matt.11.26'>Ja, Vater, daß also geschah, war wohlgefällig vor Dir.</verse>
+        <verse osisID='Matt.11.27'>Alles ist Mir von Meinem Vater überantwortet; und niemand kennt den Sohn, denn nur der Vater, noch kennt jemand den Vater, denn nur der Sohn, und wem der Sohn willens ist, es zu offenbaren.</verse>
+        <verse osisID='Matt.11.28'>Kommet her zu Mir alle, die ihr mühselig und beladen seid, und Ich will euch Ruhe schaffen.</verse>
+        <verse osisID='Matt.11.29'>Nehmet auf euch Mein Joch und lernet von Mir; denn Ich bin sanftmütig und von Herzen demütig<note>niedrig</note>, und ihr werdet Ruhe finden für eure Seelen.</verse>
+        <verse osisID='Matt.11.30'>Denn Mein Joch ist sanft<note>nützlich</note> und Meine Last ist leicht.</verse>
+      </chapter>
+      <chapter osisID='Matt.12'>
+        <title>Rede an die Pharisäer.</title>
+        <verse osisID='Matt.12.1'>Zu der Zeit<note>bestimmten Zeit</note> ging Jesus am Sabbath<note>an den Sabbathen</note> durch die Saatfelder, Seine Jünger aber waren hungrig und fingen an, Ähren auszuraufen und zu essen.</verse>
+        <verse osisID='Matt.12.2'>Da aber die Pharisäer das sahen, sprachen sie zu Ihm: Siehe, Deine Jünger tun, was nicht erlaubt ist zu tun am Sabbath.</verse>
+        <verse osisID='Matt.12.3'>Er aber sprach zu ihnen: Habt ihr nicht gelesen, was David tat, als ihn und die mit ihm waren hungerte?</verse>
+        <verse osisID='Matt.12.4'>Wie er in das Gotteshaus hineinging und die Schaubrote<note>Brote der Vorlegung</note> aß, die ihm nicht erlaubt war zu essen, noch denen, die mit ihm waren, sondern nur allein den Priestern?</verse>
+        <verse osisID='Matt.12.5'>Oder habt ihr nicht im Gesetz gelesen, daß die Priester am Sabbath im Heiligtum den Sabbath entweihen und schuldlos sind?</verse>
+        <verse osisID='Matt.12.6'>Ich aber sage euch, daß hier ist ein Größerer denn das Heiligtum.</verse>
+        <verse osisID='Matt.12.7'>Wenn ihr aber erkannt hättet, was das ist: â¬~Ich will Barmherzigkeit und nicht Opferâ¬S, so hättet ihr die Schuldlosen nicht verurteilt.</verse>
+        <verse osisID='Matt.12.8'>Denn des Menschen Sohn ist Herr auch des Sabbaths.</verse>
+        <verse osisID='Matt.12.9'>Und da Er von dannen weiterging, kam Er in ihre Synagoge.</verse>
+        <verse osisID='Matt.12.10'>Und siehe, da war ein Mensch, der hatte eine verdorrte Hand. Und sie fragten Ihn und sagten: Ist es erlaubt, am Sabbath zu heilen? auf daß sie Ihn anklagen könnten.</verse>
+        <verse osisID='Matt.12.11'>Er aber sprach zu ihnen: Welcher Mensch ist von euch, der ein Schaf hat und wenn dieses am Sabbath<note>an den Sabbathen</note> in eine Grube fällt, es nicht ergreift und heraufhebt.</verse>
+        <verse osisID='Matt.12.12'>Wieviel aber ist der Mensch mehr denn ein Schaf? Darum ist es erlaubt, am Sabbath Gutes zu tun.</verse>
+        <verse osisID='Matt.12.13'>Alsdann spricht Er zu dem Menschen: Recke deine Hand aus! Und er reckte sie aus, und sie war wiederhergestellt, gesund wie die andere.</verse>
+        <verse osisID='Matt.12.14'>Die Pharisäer aber gingen hinaus und hielten eine Beratung über Ihn, wie sie Ihn umbrächten.</verse>
+        <verse osisID='Matt.12.15'>Da aber Jesus es erkannte, entwich Er von dannen; und es folgte Ihm viel Gedränge nach, und Er heilte sie alle.</verse>
+        <verse osisID='Matt.12.16'>Und Er bedrohte sie, sie sollten Ihn nicht kundbar machen;</verse>
+        <verse osisID='Matt.12.17'>Auf daß erfüllt würde, was durch Jesaja, den Propheten, gesagt wird, der da spricht:</verse>
+        <verse osisID='Matt.12.18'>Siehe, das ist Mein Knecht<note>Kind</note>, Den Ich erwählt habe, Mein Geliebter, an Dem Meine Seele Wohlgefallen hat. Ich will Meinen Geist auf Ihn legen, und Er soll den Völkerschaften das Gericht ansagen.</verse>
+        <verse osisID='Matt.12.19'>Nicht zanken noch aufschreien soll Er, noch soll man Seine Stimme auf den Straßen hören!</verse>
+        <verse osisID='Matt.12.20'>Ein zerknicktes<note>zerriebenes</note> Rohr wird Er nicht zerbrechen, und den glimmenden Docht<note>rauchenden Flachs</note> wird Er nicht auslöschen, bis daß Er hervorbringet zum Siege das Gericht.</verse>
+        <verse osisID='Matt.12.21'>Und auf Seinen Namen sollen die Völkerschaften hoffen.</verse>
+        <verse osisID='Matt.12.22'>Da brachte man zu Ihm einen Besessenen, der blind und stumm war, und Er heilte ihn, so daß der Blinde und Stumme beides redete und sah.</verse>
+        <verse osisID='Matt.12.23'>Und all das Gedränge war außer sich, und sie sprachen: Ist das nicht der Sohn Davids?</verse>
+        <verse osisID='Matt.12.24'>Als es aber die Pharisäer hörten, sagten sie: Der treibt die Dämonen nicht aus, denn durch Beelzebul, den Obersten der Dämonen.</verse>
+        <verse osisID='Matt.12.25'>Jesus aber, Der ihre Gedanken sah, sprach zu ihnen: Jegliches Reich, das wider sich selbst geteilt ist, wird wüste; und jegliche Stadt oder jegliches Haus, das wider sich selbst geteilt ist, wird nicht stehen.</verse>
+        <verse osisID='Matt.12.26'>Und wenn der Satan den Satan austreibt, so ist er wider sich selbst geteilt. Wie kann dann sein Reich bestehen?</verse>
+        <verse osisID='Matt.12.27'>Und wenn Ich durch Beelzebul die Dämonen austreibe, durch wen treiben eure Söhne sie aus? Darum werden sie eure Richter sein.</verse>
+        <verse osisID='Matt.12.28'>Wenn Ich aber die Dämonen durch den Geist Gottes austreibe, so ist ja das Reich Gottes über euch herbeigekommen.</verse>
+        <verse osisID='Matt.12.29'>Oder wie kann einer in das Haus des Starken hineinkommen und ihn seiner Gefäße berauben, wofern er nicht zuvor den Starken gebunden hat? Dann kann er ihm sein Haus berauben.</verse>
+        <verse osisID='Matt.12.30'>Wer nicht mit Mir ist, der ist wider Mich, und wer nicht mit Mir sammelt, der verstreut.</verse>
+        <verse osisID='Matt.12.31'>Deshalb sage Ich euch: Jede Sünde und Lästerung mag den Menschen vergeben werden; aber die Lästerung des Geistes wird den Menschen nicht vergeben werden.</verse>
+        <verse osisID='Matt.12.32'>Und wer ein Wort spricht wider des Menschen Sohn, dem wird vergeben werden; wer aber wider den Heiligen Geist spricht, dem wird nicht vergeben werden, weder in diesem Zeitlauf, noch im zukünftigen.</verse>
+        <verse osisID='Matt.12.33'>Machet entweder den Baum gut und seine Frucht gut<note>schön</note>, oder macht den Baum faul und seine Frucht faul. Denn an der Frucht erkennt man den Baum.</verse>
+        <verse osisID='Matt.12.34'>Ihr Otterngezüchte, wie könnt ihr Gutes reden, während ihr arg seid? Denn aus dem Überfluß des Herzens redet der Mund.</verse>
+        <verse osisID='Matt.12.35'>Der gute Mensch bringt Gutes hervor aus dem guten Schatz des Herzens, und der schlechte Mensch aus dem schlechten Schatz bringt Schlechtes hervor.</verse>
+        <verse osisID='Matt.12.36'>Ich sage euch aber: Von jeder müßigen Rede, welche die Menschen reden, müssen sie Rechenschaft geben am Tage des Gerichts.</verse>
+        <verse osisID='Matt.12.37'>Denn aus deinen Worten wirst du gerechtfertigt und aus deinen Worten wirst du verurteilt werden.</verse>
+        <verse osisID='Matt.12.38'>Da antworteten einige der Schriftgelehrten und Pharisäer und sprachen: Lehrer, wir wollten ein Zeichen von Dir sehen.</verse>
+        <verse osisID='Matt.12.39'>Er aber antwortete und sprach zu ihnen: Ein schlechtes und ehebrecherisches Geschlecht trachtet nach einem Zeichen, und es soll ihm kein Zeichen gegeben werden, denn das Zeichen Jonas, des Propheten.</verse>
+        <verse osisID='Matt.12.40'>Denn wie Jonas drei Tage und drei Nächte im Bauche des Walfisches war, so wird des Menschen Sohn drei Tage und drei Nächte im Herzen der Erde sein.</verse>
+        <verse osisID='Matt.12.41'>Die Männer aus Niniveh werden im Gericht gegen dieses Geschlecht aufstehen und es verdammen; denn auf die Predigt des Jonas taten sie Buße, und siehe, hier ist mehr denn Jonas.</verse>
+        <verse osisID='Matt.12.42'>Die Königin vom Mittag wird im Gericht wider dies Geschlecht auftreten und es verdammen; denn sie kam vom Äußersten der Erde, Salomohs Weisheit zu hören. Und siehe, hier ist mehr denn Salomoh.</verse>
+        <verse osisID='Matt.12.43'>Wenn aber der unreine Geist von dem Menschen ausgeht, so geht er durch wasserlose Orte, sucht Ruhe und findet sie nicht.</verse>
+        <verse osisID='Matt.12.44'>Dann sagt er: Ich will umkehren in mein Haus, davon ich ausgegangen bin. Und wenn er kommt, findet er es leerstehend, gekehrt und geschmückt.</verse>
+        <verse osisID='Matt.12.45'>Da geht er hin und nimmt zu sich sieben andere Geister, schlechter denn er, und sie gehen ein und wohnen da, und es wird das Letzte jenes Menschen schlimmer denn sein Erstes. So wird es auch mit diesem argen Geschlecht ergehen.</verse>
+        <verse osisID='Matt.12.46'>Während Er noch so mit dem Volke<note>Gedränge</note> redete, siehe, da standen Seine Mutter und Seine Brüder außen, und suchten mit Ihm zu reden.</verse>
+        <verse osisID='Matt.12.47'>Einer aber sprach zu Ihm: Siehe, Deine Mutter und Deine Brüder stehen draußen und suchen mit Dir zu reden.</verse>
+        <verse osisID='Matt.12.48'>Er aber antwortete und sprach zu dem, der zu Ihm sprach: Wer ist Meine Mutter, und wer sind Meine Brüder?</verse>
+        <verse osisID='Matt.12.49'>Und Er reckte Seine Hand aus über Seine Jünger und sprach: Siehe da, Meine Mutter und Meine Brüder!</verse>
+        <verse osisID='Matt.12.50'>Denn wer den Willen tut Meines Vaters in den Himmeln, der ist Mir Bruder und Schwester und Mutter.</verse>
+      </chapter>
+      <chapter osisID='Matt.13'>
+        <title>Gleichnisse.</title>
+        <verse osisID='Matt.13.1'>An demselben Tage ging Jesus hinaus aus dem Hause und setzte Sich ans Meer.</verse>
+        <verse osisID='Matt.13.2'>Und es sammelte sich viel Gedränge zu Ihm, so daß Er in ein Schiff einstieg, Sich niederzusetzen; und all das Gedränge stand am Ufer.</verse>
+        <verse osisID='Matt.13.3'>Und Er redete vieles zu ihnen in Gleichnissen und sprach: Siehe, es ging der Sämann aus zu säen.</verse>
+        <verse osisID='Matt.13.4'>Und indem er säte, fiel einiges an den Weg; und es kam das Gevögel<note>Fliegtiere</note> und fraß es auf.</verse>
+        <verse osisID='Matt.13.5'>Anderes aber fiel auf das Steinigte, wo es nicht viel Erde hatte, und ging alsbald auf, weil es nicht tiefe Erde hatte.</verse>
+        <verse osisID='Matt.13.6'>Als aber die Sonne aufging, ward es versengt; und weil es nicht Wurzel hatte, verdorrte es.</verse>
+        <verse osisID='Matt.13.7'>Anderes aber fiel auf die Dornen, und die Dornen stiegen auf und erstickten es.</verse>
+        <verse osisID='Matt.13.8'>Anderes aber fiel auf gutes<note>schönes</note> Land und gab Frucht: einiges hundertfältig, einiges sechzigfältig, einiges aber dreißigfäl- tig.</verse>
+        <verse osisID='Matt.13.9'>Wer Ohren hat zu hören, der höre.</verse>
+        <verse osisID='Matt.13.10'>Und es kamen die Jünger herzu und sprachen zu Ihm: Warum redest Du zu ihnen in Gleichnissen?</verse>
+        <verse osisID='Matt.13.11'>Er aber antwortete und sprach zu ihnen: Euch ist gegeben, die Geheimnisse des Reiches der Himmel zu erkennen, jenen aber ist es nicht gegeben.</verse>
+        <verse osisID='Matt.13.12'>Denn wer da hat, dem wird gegeben, daß er Überfluß habe; wer aber nicht hat, von dem wird auch, das er hat, genommen werden.</verse>
+        <verse osisID='Matt.13.13'>Darum rede Ich in Gleichnissen zu ihnen; denn sehend sehen sie nicht, und hörend hören sie nicht, noch verstehen sie.</verse>
+        <verse osisID='Matt.13.14'>Und an ihnen wird die Weissagung des Propheten Jesajas erfüllt, die sagt: Hörend werdet ihr hören und nicht verstehen, und sehend werdet ihr sehen und nicht vernehmen.</verse>
+        <verse osisID='Matt.13.15'>Denn das Herz dieses Volkes ist verstockt, und mit ihren Ohren hören sie schwer, und sie drücken die Augen zu, damit sie nicht sehen mit den Augen und hören mit den Ohren und mit dem Herzen verstehen und umkehren und Ich sie gesund mache.</verse>
+        <verse osisID='Matt.13.16'>Selig aber sind eure Augen, daß sie sehen, und eure Ohren, daß sie hören;</verse>
+        <verse osisID='Matt.13.17'>Denn wahrlich, Ich sage euch, daß viele Propheten und Gerechte haben begehrt zu sehen, was ihr seht, und haben es nicht gesehen, und zu hören, was ihr hört, und haben es nicht gehört.</verse>
+        <verse osisID='Matt.13.18'>So hört ihr denn das Gleichnis von dem Sämann!</verse>
+        <verse osisID='Matt.13.19'>Wenn jemand das Wort von dem Reiche hört und nicht versteht, so kommt der Arge und erhascht, was in seinem Herzen gesät ist. Dieser ist es, der an dem Wege gesät ist.</verse>
+        <verse osisID='Matt.13.20'>Der aber, der auf das Steinigte gesät worden, ist der, welcher das Wort hört, und es alsbald mit Freuden aufnimmt.</verse>
+        <verse osisID='Matt.13.21'>Aber er hat keine Wurzel in sich, sondern ist zeitweilig; so aber Trübsal oder Verfolgung geschieht um des Wortes willen, so ärgert er sich alsbald.</verse>
+        <verse osisID='Matt.13.22'>Der aber, der in die Dornen gesät worden, ist der, welcher das Wort hört; und die Sorge dieses Zeitlaufs, und der Betrug des Reichtums erstickt das Wort, und es wird unfruchtbar.</verse>
+        <verse osisID='Matt.13.23'>Der aber auf das gute<note>schöne</note> Land gesät ist, ist der, so das Wort hört und versteht, und der dann Frucht trägt; und der eine bringt<note>macht</note> hundertfältig, der andere aber sechzigfältig, der andere aber dreißigfältig.</verse>
+        <verse osisID='Matt.13.24'>Er legte ihnen ein anderes Gleichnis vor und sprach: Das Reich der Himmel gleicht einem Menschen der guten<note>schönen</note> Samen in sein Feld säte.</verse>
+        <verse osisID='Matt.13.25'>Während aber die Menschen schlummerten, kam sein Feind und säte Unkraut mitten unter den Weizen und ging hin.</verse>
+        <verse osisID='Matt.13.26'>Als aber die Saat<note>Gras</note> hervorsproßte und Frucht brachte<note>machte</note>, da erschien auch das Unkraut.</verse>
+        <verse osisID='Matt.13.27'>Die Knechte aber des Hausherrn kamen herzu und sprachen zu ihm: Herr, hast du nicht guten<note>schönen</note> Samen in dein Feld gesät? Woher hat er nun das Unkraut?</verse>
+        <verse osisID='Matt.13.28'>Er aber sprach zu ihnen: Ein feindseliger Mensch hat das getan. Die Knechte aber sprachen zu ihm: Willst du nun, daß wir hingehen und es zusammenlesen?</verse>
+        <verse osisID='Matt.13.29'>Er aber sprach: Nein, auf daß ihr nicht, wenn ihr das Unkraut zusammenleset, zugleich damit den Weizen ausreutet.</verse>
+        <verse osisID='Matt.13.30'>Lasset beide zusammen wachsen bis zur Ernte, und zur Zeit<note>Jahreszeit</note> der Ernte will ich den Schnittern sagen: Leset erst das Unkraut zusammen und bindet es in Bündel, um es zu verbrennen; den Weizen aber sammelt in meine Scheune.</verse>
+        <verse osisID='Matt.13.31'>Ein anderes Gleichnis legte Er ihnen vor und sagte: Das Reich der Himmel ist gleich einem Senfkorn, das ein Mensch nahm und auf sein Feld säte;</verse>
+        <verse osisID='Matt.13.32'>Welches zwar kleiner ist als alle Samen, wenn es aber erwächst, ist es das größte unter den Gartenkräutern, und wird ein Baum, so daß das Gevögel des Himmels kommt und in seinen Zweigen nistet<note>zeltet</note>.</verse>
+        <verse osisID='Matt.13.33'>Ein anderes Gleichnis redete Er zu ihnen: Das Reich der Himmel ist gleich einem Sauerteig, den ein Weib nahm und in drei Maß Mehl barg, bis daß es ganz durchsäuert war.</verse>
+        <verse osisID='Matt.13.34'>Dieses alles redete Jesus in Gleichnisse zu dem Volk<note>Gedränge</note>, und ohne Gleichnis redete Er nicht zu ihnen.</verse>
+        <verse osisID='Matt.13.35'>Damit erfüllt würde, was durch den Propheten gesagt ist, der da spricht: Ich will Meinen Mund auftun in Gleichnissen. Ich will aussprechen, was seit Gründung der Welt verborgen war.</verse>
+        <verse osisID='Matt.13.36'>Da entließ Jesus das Volk<note>Gedränge</note> und kam in das Haus, und Seine Jünger kamen zu Ihm und sprachen: Deute uns das Gleichnis von dem Unkraut des Feldes.</verse>
+        <verse osisID='Matt.13.37'>Er aber antwortete und sprach zu ihnen: Der den guten<note>schönen</note> Samen sät, ist des Menschen Sohn.</verse>
+        <verse osisID='Matt.13.38'>Das Feld ist die Welt. Der gute<note>schöne</note> Same, das sind die Söhne des Reiches; das Unkraut aber sind die Söhne des Argen.</verse>
+        <verse osisID='Matt.13.39'>Der Feind aber, der es säte, ist der Teufel. Die Ernte aber ist die Vollendung des Zeitlaufs; die Schnitter aber sind die Engel.</verse>
+        <verse osisID='Matt.13.40'>Wie nun das Unkraut zusammengelesen und im Feuer verbrannt wird, so wird es bei der Vollendung dieses Zeitlaufs geschehen.</verse>
+        <verse osisID='Matt.13.41'>Der Sohn des Menschen wird Seine Engel aussenden, und sie werden aus Seinem Reiche zusammenlesen alle Ärgernisse und die da Unrecht tun;</verse>
+        <verse osisID='Matt.13.42'>Und werden sie in den Feuerofen werfen. Dort wird sein Heulen<note>Weinen</note> und Zähneknirschen.</verse>
+        <verse osisID='Matt.13.43'>Dann werden die Gerechten hervorleuchten, wie die Sonne, im Reiche ihres Vaters. Wer Ohren hat zu hören, der höre.</verse>
+        <verse osisID='Matt.13.44'>Wiederum gleicht das Reich der Himmel einem Schatze, der in dem Felde verborgen liegt, den ein Mensch findet und verbirgt und in seiner Freude hingeht und alles, was er hat, verkauft und dieses Feld kauft.</verse>
+        <verse osisID='Matt.13.45'>Wiederum ist das Reich der Himmel gleich einem Menschen, einem Kaufmann, der schöne Perlen sucht.</verse>
+        <verse osisID='Matt.13.46'>Wenn der eine kostbare Perle gefunden, geht er hin, verkauft alles, was er hat, und kauft dieselbige.</verse>
+        <verse osisID='Matt.13.47'>Wiederum ist das Reich der Himmel gleich einem Zugnetze, das ins Meer geworfen ward und allerlei Gattung zusammensammelte.</verse>
+        <verse osisID='Matt.13.48'>Welches sie, wenn es voll ist, ans Ufer heraufziehen, und sich niedersetzen und lesen die guten<note>schönen</note> zusammen in Gefäße, die faulen aber werfen sie hinaus.</verse>
+        <verse osisID='Matt.13.49'>So wird es sein bei der Vollendung des Zeitlaufs. Die Engel werden ausgehen und ausscheiden die Schlechten aus der Mitte der Gerechten.</verse>
+        <verse osisID='Matt.13.50'>Und werden sie in den Feuerofen werfen. Dort wird sein Weinen und Zähneknirschen.</verse>
+        <verse osisID='Matt.13.51'>Spricht zu ihnen Jesus: Habt ihr das alles verstanden? Sie sagen zu Ihm: Ja, Herr.</verse>
+        <verse osisID='Matt.13.52'>Er aber sprach zu ihnen: Deshalb ist jeder Schriftgelehrte, der für das Reich der Himmel unterrichtet worden, gleich einem Menschen, einem Hausherrn, der aus seinem Schatz Neues und Altes hervorbringt.</verse>
+        <verse osisID='Matt.13.53'>Und es geschah, da Jesus diese Gleichnisse vollendet hatte, begab Er Sich von dannen,</verse>
+        <verse osisID='Matt.13.54'>Und kam in Seine Vaterstadt und lehrte sie in ihrer Synagoge, also daß sie staunten und sagten: Woher hat dieser solche Weisheit und Wunderkräfte?</verse>
+        <verse osisID='Matt.13.55'>Ist Der nicht des Zimmermanns Sohn? Wird nicht Seine Mutter Maria genannt und Seine Brüder Jakobus und Joses, und Simon, und Judas?</verse>
+        <verse osisID='Matt.13.56'>Und sind nicht Seine Schwestern alle bei uns? Woher kommt Ihm denn alles dies?</verse>
+        <verse osisID='Matt.13.57'>Und sie ärgerten sich an Ihm. Jesus aber sprach zu ihnen: Ein Prophet ist nicht ohne Ehre, außer in seiner Vaterstadt und in seinem Hause.</verse>
+        <verse osisID='Matt.13.58'>Und Er tat daselbst nicht viele Wundertaten<note>Kräfte</note> um ihres Unglaubens willen.</verse>
+      </chapter>
+      <chapter osisID='Matt.14'>
+        <title>Johannes enthauptet. Speisung des Volkes. - Gang auf dem Meer.</title>
+        <verse osisID='Matt.14.1'>Zu der Zeit<note>bestimmten Zeit</note> hörte Herodes, der Vierfürst, das Gerücht von Jesus;</verse>
+        <verse osisID='Matt.14.2'>Und er sprach zu seinen Knechten<note>Knaben</note>: Dies ist Johannes, der Täufer. Der ist von den Toten auferweckt, und darum wirken solche Wunderkräfte ihn Ihm.</verse>
+        <verse osisID='Matt.14.3'>Denn Herodes hatte lassen Johannes ergreifen, ihn binden und ins Gefängnis legen wegen der Herodias, des Weibes seines Bruders Philippus.</verse>
+        <verse osisID='Matt.14.4'>Denn Johannes sagte ihm: Es ist dir nicht erlaubt, daß du sie habest.</verse>
+        <verse osisID='Matt.14.5'>Und da er ihn töten wollte, fürchtete er sich vor dem Volke<note>Gedränge</note>, denn sie hielten ihn für einen Propheten.</verse>
+        <verse osisID='Matt.14.6'>Da sie aber das Geburtsfest des Herodes begingen, tanzte die Tochter der Herodias in ihrer Mitte und gefiel dem Herodes;</verse>
+        <verse osisID='Matt.14.7'>Darum beteuerte<note>bekannte</note> er mit einem Eide, ihr zu geben, um was sie nur bitten würde.</verse>
+        <verse osisID='Matt.14.8'>Sie aber, von ihrer Mutter angetrieben, spricht: Gib mir her auf einer Platte das Haupt Johannes, des Täufers.</verse>
+        <verse osisID='Matt.14.9'>Und der König ward betrübt, aber wegen des Eides und derer, die mit zu Tische lagen, befahl er, es ihr zu geben.</verse>
+        <verse osisID='Matt.14.10'>Und er schickte hin und ließ Johannes im Gefängnis enthaupten.</verse>
+        <verse osisID='Matt.14.11'>Und sein Haupt ward auf einer Platte gebracht und dem Mägdlein gegeben, und sie brachte es ihrer Mutter.</verse>
+        <verse osisID='Matt.14.12'>Und seine Jünger kamen herbei, hoben den Leib auf und begruben ihn, und kamen, und sagten es Jesus an.</verse>
+        <verse osisID='Matt.14.13'>Und wie Jesus das hörte, entwich Er von dannen in einem Schiff an einen wüsten Ort besonders. Und als das Gedränge es hörte, folgten sie Ihm zu Fuß aus den Städten nach.</verse>
+        <verse osisID='Matt.14.14'>Und als Er ausstieg, sah Er das viele Gedränge, und es jammerte Ihn derselben, und Er heilte ihre Siechen.</verse>
+        <verse osisID='Matt.14.15'>Als es aber Abend ward, kamen Seine Jünger zu ihm und sprachen: Der Ort ist wüste, und die Stunde ist schon vergangen. Entlasse das Gedränge, daß sie in die Flecken hingehen und sich Speise kaufen.</verse>
+        <verse osisID='Matt.14.16'>Jesus aber sprach zu ihnen: Sie haben nicht nötig<note>sie bedürfen nicht</note>, wegzugehen. Gebt ihr ihnen zu essen.</verse>
+        <verse osisID='Matt.14.17'>Sie aber sagten zu Ihm: Wir haben nichts hier, denn fünf Brote und zwei Fische.</verse>
+        <verse osisID='Matt.14.18'>Er aber sprach: Bringt sie zu Mir hierher.</verse>
+        <verse osisID='Matt.14.19'>Und Er befahl dem Volke<note>Gedränge</note>, sich auf das Gras hinzulegen, nahm die fünf Brote und die zwei Fische, blickte auf zum Himmel, dankte, brach und gab den Jüngern die Brote, die Jünger aber dem Volke<note>Gedränge</note>.</verse>
+        <verse osisID='Matt.14.20'>Und es aßen alle und wurden satt, und sie hoben auf, was übrigblieb an Brocken, zwölf volle Körbe.</verse>
+        <verse osisID='Matt.14.21'>Die aber gegessen hatten, waren bei fünftausend Männer, ohne Weiber und Kinder.</verse>
+        <verse osisID='Matt.14.22'>Und alsbald nötigte Jesus die Jünger in das Fahrzeug einzusteigen und vor Ihm hinüberzufahren, bis daß Er das Volk<note>Gedränge</note> entlassen hätte.</verse>
+        <verse osisID='Matt.14.23'>Und nachdem Er das Volk<note>Gedränge</note> entlassen, stieg Er auf den Berg besonders, um zu beten. Als es aber Abend ward, war Er daselbst allein.</verse>
+        <verse osisID='Matt.14.24'>Das Fahrzeug aber war schon mitten auf dem Meer und litt Not<note>ward gequält</note> von den Wellen; denn der Wind war entgegen.</verse>
+        <verse osisID='Matt.14.25'>Aber um die vierte Wache der Nacht kam Jesus hin zu ihnen, wandelnd auf dem Meere.</verse>
+        <verse osisID='Matt.14.26'>Und da die Jünger Ihn auf dem Meere wandeln sahen, erbebten sie und sagten: Es ist ein Gespenst; und schrien auf vor Furcht.</verse>
+        <verse osisID='Matt.14.27'>Alsbald aber redete Jesus zu ihnen und sprach: Seid getrost, Ich bin es! Fürchtet euch nicht!</verse>
+        <verse osisID='Matt.14.28'>Petrus aber antwortete Ihm und sprach: Herr, bist Du es, so befiehl mir, zu Dir auf das Wasser zu kommen.</verse>
+        <verse osisID='Matt.14.29'>Er aber sprach: Komm! Und Petrus stieg hinab aus dem Fahrzeug und wandelte auf dem Wasser, um zu Jesus zu kommen.</verse>
+        <verse osisID='Matt.14.30'>Da er aber den starken Wind sah, fürchtete er sich, und da er anfing, zu versinken, schrie er und sprach: Herr, rette mich!</verse>
+        <verse osisID='Matt.14.31'>Alsbald aber reckte Jesus die Hand aus, ergriff ihn und sprach zu ihm: Kleingläubiger, warum zweifeltest du?</verse>
+        <verse osisID='Matt.14.32'>Und als sie ins Schiff eingestiegen waren, legte sich der Wind.</verse>
+        <verse osisID='Matt.14.33'>Die im Fahrzeug aber kamen, beteten Ihn an und sprachen: Du bist wahrlich Gottes Sohn.</verse>
+        <verse osisID='Matt.14.34'>Und sie fuhren hinüber und kamen in das Land Gennesaret.</verse>
+        <verse osisID='Matt.14.35'>Und als die Leute an selbigem Orte Ihn erkannten, sandten sie in jene ganze Umgegend aus und brachten alle Leidende zu Ihm.</verse>
+        <verse osisID='Matt.14.36'>Und flehten Ihn an, daß sie nur Seines Kleides Saum berührten, und so viele Ihn berührten, wurden gerettet.</verse>
+      </chapter>
+      <chapter osisID='Matt.15'>
+        <title>Menschensatzungen. Kanaanäisches Weib. - Speisung der Viertausend.</title>
+        <verse osisID='Matt.15.1'>Da kamen die Schriftgelehrten und Pharisäer aus Jerusalem herbei zu Jesus und sprachen:</verse>
+        <verse osisID='Matt.15.2'>Warum übertreten Deine Jünger die Überlieferung der Ältesten? Denn sie waschen ihre Hände nicht, wenn sie Brot essen.</verse>
+        <verse osisID='Matt.15.3'>Er aber antwortete und sprach zu ihnen: Warum übertretet auch ihr das Gebot Gottes, um eurer Überlieferung willen?</verse>
+        <verse osisID='Matt.15.4'>Denn Gott hat geboten und gesagt: Ehre Vater und Mutter; und wer Vater oder Mutter flucht<note>übel spricht</note>, der soll des Todes sterben<note>enden</note>.</verse>
+        <verse osisID='Matt.15.5'>Ihr aber sagt: Wer zum Vater oder zur Mutter sagt: Es ist eine Gabe<note>näml. für den Tempel</note>, was du von mir zum Nutzen gehabt hättest; der wird sicherlich nicht seinen Vater oder seine Mutter ehren.</verse>
+        <verse osisID='Matt.15.6'>Und ihr habt so das Gebot Gottes um eurer Überlieferung willen ungültig gemacht.</verse>
+        <verse osisID='Matt.15.7'>Ihr Heuchler, schön hat von euch Jesajas geweissagt und gesprochen:</verse>
+        <verse osisID='Matt.15.8'>Es nahet Mir dieses Volk mit dem Munde und ehret Mich mit den Lippen; aber ihr Herz ist weit weg von Mir.</verse>
+        <verse osisID='Matt.15.9'>Aber vergeblich verehren sie Mich, weil sie solche Lehre lehren, die Gebote der Menschen sind.</verse>
+        <verse osisID='Matt.15.10'>Und Er rief das Volk<note>Gedränge</note> zu Sich und sprach zu ihnen: Höret und verstehet es!</verse>
+        <verse osisID='Matt.15.11'>Nicht was zum Munde eingeht, macht den Menschen gemein, sondern was vom Munde ausgeht, das macht den Menschen gemein.</verse>
+        <verse osisID='Matt.15.12'>Da kamen Seine Jünger herbei und sagten zu Ihm: Weißt Du, daß die Pharisäer, da sie das Wort hörten, sich ärgerten?</verse>
+        <verse osisID='Matt.15.13'>Er aber antwortete und sprach: Jegliche Pflanze, die Mein himmlischer Vater nicht gepflanzt hat, wird ausgereutet werden.</verse>
+        <verse osisID='Matt.15.14'>Lasset sie. Sie sind blinde Wegweiser der Blinden. Wenn aber ein Blinder einem Blinden den Weg weiset, werden beide in die Grube fallen.</verse>
+        <verse osisID='Matt.15.15'>Petrus aber antwortete und sprach zu Ihm: Deute uns dieses Gleichnis.</verse>
+        <verse osisID='Matt.15.16'>Er aber sprach: Dann seid auch ihr unverständig?</verse>
+        <verse osisID='Matt.15.17'>Begreifet ihr noch nicht, daß alles, was zum Munde eingeht, das geht in den Bauch, und wird in den Abzug geworfen?</verse>
+        <verse osisID='Matt.15.18'>Was aber vom Munde ausgeht, das kommt aus dem Herzen, und das macht den Menschen gemein.</verse>
+        <verse osisID='Matt.15.19'>Denn aus dem Herzen kommen hervor schlechte Gedanken, Morde, Ehebrüche, Buhlereien, Diebereien, falsche Zeugnisse, Lästerungen.</verse>
+        <verse osisID='Matt.15.20'>Das ist es, was den Menschen gemein macht; das Essen mit ungewaschenen Händen aber macht den Menschen nicht gemein.</verse>
+        <verse osisID='Matt.15.21'>Und Jesus ging aus von dannen und entwich in die Gegend<note>Teile</note> von Tyrus und Sidon.</verse>
+        <verse osisID='Matt.15.22'>Und siehe, ein kanaanitisches Weib kam von jenen Grenzen heraus, schrie Ihm laut zu und sprach: Erbarme Dich meiner, Herr, Du Sohn Davids, meine Tochter ist übel<note>böse</note> besessen.</verse>
+        <verse osisID='Matt.15.23'>Er aber antwortete ihr kein Wort. Und Seine Jünger kamen zu Ihm, baten<note>fragten</note> Ihn und sagten: Entlasse sie; denn sie schreit uns nach.</verse>
+        <verse osisID='Matt.15.24'>Er aber antwortete und sprach: Ich bin nur abgesandt zu den verlorenen Schafen des Hauses Israel.</verse>
+        <verse osisID='Matt.15.25'>Sie aber kam, fiel vor Ihm nieder und sprach: Herr, hilf mir.</verse>
+        <verse osisID='Matt.15.26'>Er aber antwortete und sprach: Es ist nicht schön, daß man der Kinder Brot nehme, und werfe es vor die Hündchen.</verse>
+        <verse osisID='Matt.15.27'>Sie aber sprach: Ja, Herr, und doch essen die Hündchen von den Brosamen, die von ihrer Herren Tische fallen.</verse>
+        <verse osisID='Matt.15.28'>Da antwortete Jesus und sprach zu ihr: O Weib, dein Glaube ist groß. Dir geschehe, wie du willst. Und ihre Tochter ward gesund zur selbigen Stunde.</verse>
+        <verse osisID='Matt.15.29'>Und Jesus ging weiter von dannen und kam an das Meer von Galiläa und stieg auf den Berg hinauf und setzte Sich allda.</verse>
+        <verse osisID='Matt.15.30'>Und es kam zu Ihm viel Volks<note>Gedränge</note>, und sie hatten mit sich Lahme, Blinde, Stumme, Krüppel und viele andere und warfen sie dahin zu Seinen Füßen, und Er heilte sie.</verse>
+        <verse osisID='Matt.15.31'>So daß sich das Volk<note>Gedränge</note> verwunderte, da sie sahen Stumme reden, Krüppel gesund werden, Lahme wandeln und Blinde sehen; und sie verherrlichten den Gott Israels.</verse>
+        <verse osisID='Matt.15.32'>Jesus aber rief Seine Jünger herbei und sprach: Mich jammert des Volkes<note>Gedränge</note>, daß sie nun schon drei Tage bei Mir verharren und nichts zu essen haben; und ungegessen will Ich sie nicht von Mir lassen, auf daß sie nicht auf dem Wege verschmachten.</verse>
+        <verse osisID='Matt.15.33'>Und Seine Jünger sprechen zu Ihm: Woher soll uns in der Wüste so viel Brot werden, um so viel Volk<note>Gedränge</note> zu sättigen?</verse>
+        <verse osisID='Matt.15.34'>Und Jesus spricht zu ihnen: Wie viele Brote habt ihr? Sie aber sagten: Sieben und einige Fischlein.</verse>
+        <verse osisID='Matt.15.35'>Und Er befahl dem Volk<note>Gedränge</note>, sich auf die Erde niederzulassen.</verse>
+        <verse osisID='Matt.15.36'>Und Er nahm die sieben Brote und die Fische, dankte, brach sie und gab sie Seinen Jüngern, die Jünger aber dem Volke<note>Gedrän- ge</note>.</verse>
+        <verse osisID='Matt.15.37'>Und sie aßen alle und wurden satt; und hoben auf das übrige der Brocken, sieben volle Weidenkörbe.</verse>
+        <verse osisID='Matt.15.38'>Die aber gegessen hatten, waren viertausend Männer ohne die Weiber und Kinder.</verse>
+        <verse osisID='Matt.15.39'>Und da Er das Volk<note>Gedränge</note> entlassen hatte, stieg Er ein in das Fahrzeug und kam in die Grenzen von Magdala.</verse>
+      </chapter>
+      <chapter osisID='Matt.16'>
+        <title>Zeichenforderung. Bekenntnis des Petrus. - Des Herrn Leiden.</title>
+        <verse osisID='Matt.16.1'>Und die Pharisäer und Sadduzäer kamen herzu, Ihn zu versuchen, und baten<note>fragten</note>, daß Er ihnen ein Zeichen vom Himmel zeige.</verse>
+        <verse osisID='Matt.16.2'>Er antwortete ihnen aber und sprach: Wenn es Abend wird, sprechet ihr: Gut Wetter! denn der Himmel rötet sich;</verse>
+        <verse osisID='Matt.16.3'>Und am Morgen: Sturmwetter<note>Winter</note> heute! denn der Himmel rötet sich und ist düster. Ihr Heuchler, das Aussehen<note>Angesicht</note> des Himmels wisset<note>erkennet</note> ihr zu unterscheiden, aber die Zeichen der Zeit<note>bestimmten Zeit</note> könnet ihr nicht?</verse>
+        <verse osisID='Matt.16.4'>Ein arges und ehebrecherisches Geschlecht sucht ein Zeichen; und es soll ihm kein Zeichen gegeben werden, als das Zeichen Jonas, des Propheten. Und Er verließ sie und ging weg.</verse>
+        <verse osisID='Matt.16.5'>Und als Seine Jünger hinüberkamen, hatten sie vergessen, Brote mit sich zu nehmen.</verse>
+        <verse osisID='Matt.16.6'>Jesus aber sprach zu ihnen: Sehet zu, daß ihr euch vor dem Sauerteig der Pharisäer und Sadduzäer in acht nehmet.</verse>
+        <verse osisID='Matt.16.7'>Sie aber bedachten bei sich und sagten: Das ist es, daß wir kein Brot mit uns genommen.</verse>
+        <verse osisID='Matt.16.8'>Jesus aber erkannte es und sagte: Was bedenket ihr bei euch, ihr Kleingläubigen, daß ihr kein Brot mit euch genommen?</verse>
+        <verse osisID='Matt.16.9'>Begreifet ihr noch nicht? Gedenket ihr nicht der fünf Brote für die Fünftausend, und wieviel Körbe ihr aufnahmet?</verse>
+        <verse osisID='Matt.16.10'>Auch nicht an die sieben Brote für die Viertausend, und wieviel Weidenkörbe ihr da aufnahmet?</verse>
+        <verse osisID='Matt.16.11'>Wie? Begreifet ihr nicht, daß Ich nicht wegen dem Brote zu euch sagte, ihr sollet euch vor dem Sauerteig der Pharisäer und Sadduzäer in acht nehmen?</verse>
+        <verse osisID='Matt.16.12'>Jetzt verstanden sie, daß Er ihnen nicht sagte, sie sollten sich vor dem Sauerteig des Brotes in acht nehmen, sondern vor der Lehre der Pharisäer und Sadduzäer.</verse>
+        <verse osisID='Matt.16.13'>Da Jesus aber in die Gegend<note>Teile</note> von Cäsarea Philippi kam, fragte Er Seine Jünger und sagte: Wer sagen die Menschen, daß des Menschen Sohn sei?</verse>
+        <verse osisID='Matt.16.14'>Sie aber sagten: Die einen sagen, Du seist Johannes der Täufer, andere aber Elias; aber andere, Jeremias, oder der Propheten einer.</verse>
+        <verse osisID='Matt.16.15'>Spricht Er zu ihnen: Wer sagt aber ihr, daß Ich sei?</verse>
+        <verse osisID='Matt.16.16'>Simon Petrus aber antwortete und sprach: Du bist Christus, der Sohn des lebendigen Gottes.</verse>
+        <verse osisID='Matt.16.17'>Und Jesus antwortete und sprach zu ihm: Selig bist du, Simon Bar Jona<note>Sohn des Jona</note>; denn Fleisch und Blut hat dir das nicht geoffenbart, sondern Mein Vater in den Himmeln.</verse>
+        <verse osisID='Matt.16.18'>Und Ich aber sage dir: Du bist Petrus, und auf diesen Felsen werde Ich Meine Kirche bauen, und die Tore der Hölle sollen sie nicht überwältigen.</verse>
+        <verse osisID='Matt.16.19'>Und Ich will dir die Schlüssel des Reiches der Himmel geben; und was du auf Erden binden wirst, das soll in den Himmeln gebunden sein; und was du auf Erden lösen wirst, das soll in den Himmeln gelöst sein.</verse>
+        <verse osisID='Matt.16.20'>Da verbot Er Seinen Jüngern, sie sollten niemand sagen, daß Er Jesus der Christus sei.</verse>
+        <verse osisID='Matt.16.21'>Von da an fing Jesus an, Seinen Jüngern zu zeigen, daß Er müßte hingehen nach Jerusalem, und von den Ältesten und Hohenpriestern und Schriftgelehrten vieles leiden, und getötet werden und am dritten Tage auferweckt werden.</verse>
+        <verse osisID='Matt.16.22'>Und Petrus nahm Ihn zu sich und fing an, Ihn zu bedrohen und sprach: Herr, schone Dich! das geschehe Dir nur nicht.</verse>
+        <verse osisID='Matt.16.23'>Er aber wandte Sich und sagte zu Petrus: Gehe hinweg, hinter Mich, Satan, du bist mir ein Ärgernis, denn du sinnest nicht, was von Gott sondern was von Menschen ist.</verse>
+        <verse osisID='Matt.16.24'>Dann sprach Jesus zu Seinen Jüngern: Wer Mir folgen<note>nach Mir kommen</note> will, verleugne sich selbst, und nehme sein Kreuz auf sich und folge Mir nach.</verse>
+        <verse osisID='Matt.16.25'>Denn wer seine Seele retten will, der wird sie verlieren; wer aber seine Seele verliert um Meinetwillen, der wird sie finden.</verse>
+        <verse osisID='Matt.16.26'>Denn was nützete es dem Menschen, so er die ganze Welt gewönne, nähme aber Schaden an seiner Seele? Oder was kann der Mensch geben zur Lösung seiner Seele?</verse>
+        <verse osisID='Matt.16.27'>Denn des Menschen Sohn wird kommen in der Herrlichkeit Seines Vaters mit Seinen Engeln, und dann wird Er einem jeglichen nach seinem Tun vergelten.</verse>
+        <verse osisID='Matt.16.28'>Wahrlich, Ich sage euch: Es sind welche, die hier stehen, die den Tod nicht schmecken werden, bis daß sie des Menschen Sohn in Seinem Reiche kommen sehen.</verse>
+      </chapter>
+      <chapter osisID='Matt.17'>
+        <title>Jesus wird verklärt.</title>
+        <verse osisID='Matt.17.1'>Und nach sechs Tagen nimmt Jesus zu Sich Petrus und Jakobus und Johannes, seinen Bruder, und bringt sie hinauf auf einen hohen Berg besonders.</verse>
+        <verse osisID='Matt.17.2'>Und Er ward verwandelt vor Ihnen, und Sein Angesicht leuchtete wie die Sonne, und Seine Kleider wurden weiß wie das Licht.</verse>
+        <verse osisID='Matt.17.3'>Und siehe, es erschien ihnen Moses und Elias, und sie unterredeten sich mit Ihm.</verse>
+        <verse osisID='Matt.17.4'>Petrus aber antwortete und sprach zu Jesus: Herr, hier ist uns gut<note>schön</note> sein. Wenn Du willst, so wollen wir hier drei Hütten machen, Dir eine, und Moses eine, und Elias eine.</verse>
+        <verse osisID='Matt.17.5'>Während er noch redete, siehe, da überschattete sie eine lichte Wolke; und siehe, eine Stimme aus der Wolke sprach: Dies ist Mein geliebter Sohn, an Dem Ich Wohlgefallen habe: Ihn sollt ihr hören!</verse>
+        <verse osisID='Matt.17.6'>Und da das die Jünger hörten, fielen sie auf ihr Angesicht und fürchteten sich sehr.</verse>
+        <verse osisID='Matt.17.7'>Jesus aber kam herzu und berührte sie und sprach: Stehet auf<note>Erwachet</note> und fürchtet euch nicht.</verse>
+        <verse osisID='Matt.17.8'>Als sie aber ihre Augen aufhoben, sahen sie niemand als Jesus allein.</verse>
+        <verse osisID='Matt.17.9'>Und wie sie vom Berge herabstiegen, gebot ihnen Jesus und sprach: Saget niemand von dem Gesichte, bis daß des Menschen Sohn von den Toten auferstanden ist.</verse>
+        <verse osisID='Matt.17.10'>Und Seine Jünger fragten Ihn und sprachen: Was sagen denn die Schriftgelehrten, daß Elias zuvor kommen müsse?</verse>
+        <verse osisID='Matt.17.11'>Jesus aber antwortete und sprach zu ihnen: Elias kommt zwar zuerst, und wird alles herstellen.</verse>
+        <verse osisID='Matt.17.12'>Aber Ich sage euch: Elias ist schon gekommen; und sie erkannten ihn nicht, sondern taten mit ihm, was sie wollten. Also wird auch des Menschen Sohn von ihnen leiden.</verse>
+        <verse osisID='Matt.17.13'>Da verstanden die Jünger, daß Er zu ihnen von Johannes dem Täufer sprach.</verse>
+        <verse osisID='Matt.17.14'>Und da sie zum Gedränge kamen, kam ein Mensch zu Ihm, fiel vor Ihm auf die Knie,</verse>
+        <verse osisID='Matt.17.15'>Und sprach: Herr, erbarme Dich meines Sohnes; denn er ist mondsüchtig und hat ein böses Leiden; denn oft fällt er ins Feuer, und oft ins Wasser.</verse>
+        <verse osisID='Matt.17.16'>Und ich brachte ihn zu Deinen Jüngern, und sie konnten ihn nicht heilen.</verse>
+        <verse osisID='Matt.17.17'>Jesus aber antwortete und sprach: O ihr ungläubiges und verkehrtes Geschlecht, wie lange soll Ich bei euch sein? Wie lange soll Ich euch ertragen? Bringet Mir ihn her.</verse>
+        <verse osisID='Matt.17.18'>Und Jesus bedrohte ihn, und der Dämon fuhr aus von ihm. Und der Knabe war geheilt von selbiger Stunde an.</verse>
+        <verse osisID='Matt.17.19'>Da kamen die Jünger zu Jesus besonders und sprachen: Warum konnten wir ihn nicht austreiben?</verse>
+        <verse osisID='Matt.17.20'>Jesus aber sprach zu ihnen: Eures Unglaubens wegen; denn wahrlich, Ich sage euch, wenn ihr Glauben habt wie ein Senfkorn, so möget ihr zu diesem Berge sagen: Versetze dich von hinnen dorthin, so wird er sich versetzen, und nichts wird euch unmöglich sein.</verse>
+        <verse osisID='Matt.17.21'>Diese Gattung aber fährt nur durch Beten und Fasten aus.</verse>
+        <verse osisID='Matt.17.22'>Während sie aber in Galiläa umherwandelten, sprach Jesus zu ihnen: Es wird geschehen, daß des Menschen Sohn in die Hände der Menschen überantwortet wird.</verse>
+        <verse osisID='Matt.17.23'>Und sie werden Ihn töten, aber am dritten Tage wird Er auferweckt werden. Und sie wurden sehr betrübt.</verse>
+        <verse osisID='Matt.17.24'>Als sie aber nach Kapernaum kamen, kamen die, so die Doppeldrachmen einnahmen, herzu zu Petrus und sprachen: Entrichtet euer Lehrer die Doppeldrachme?</verse>
+        <verse osisID='Matt.17.25'>Er sagt: Ja. Und als er ins Haus hineinkam, kam ihm Jesus zuvor und sprach: Was meinst du, Simon? Von wem nehmen die Könige der Erde Zoll oder Steuer? Von ihren Söhnen, oder von den Fremden?</verse>
+        <verse osisID='Matt.17.26'>Spricht zu Ihm Petrus: Von den Fremden. Da sprach Jesus zu ihm: Also sind die Söhne frei.</verse>
+        <verse osisID='Matt.17.27'>Damit wir sie aber nicht ärgern, gehe du ans Meer, wirf die Angel und nimm den ersten Fisch, der heraufsteigt, tue ihm den Mund auf und du wirst einen Stater finden. Nimm ihn und gib ihnen den für Mich und für dich.</verse>
+      </chapter>
+      <chapter osisID='Matt.18'>
+        <title>Ärgernisse. Strafe der Unbarmherzigkeit.</title>
+        <verse osisID='Matt.18.1'>Zur selben Stunde kamen die Jünger zu Jesus und sagten: Wer ist wohl der Größte im Reiche der Himmel?</verse>
+        <verse osisID='Matt.18.2'>Und Jesus rief eine Kindlein zu Sich und stellte es in ihre Mitte,</verse>
+        <verse osisID='Matt.18.3'>Und sprach: Wahrlich, Ich sage euch: Wenn ihr nicht umkehret<note>euch umwendet</note> und werdet wie die Kindlein, so werdet ihr mitnichten in das Reich der Himmel kommen.</verse>
+        <verse osisID='Matt.18.4'>Wer nun sich selbst erniedrigt, wie dieses Kindlein, der ist der Größte<note>größere</note> im Reich der Himmel;</verse>
+        <verse osisID='Matt.18.5'>Und wer aufnimmt ein solches Kindlein in Meinem Namen, der nimmt Mich auf.</verse>
+        <verse osisID='Matt.18.6'>Wer aber ärgert einen dieser Kleinen, die an Mich glauben, dem wäre zuträglicher, daß ein Eselsmühlstein an seinen Hals gehängt und er versenkt würde in des Meeres Tiefe.</verse>
+        <verse osisID='Matt.18.7'>Wehe der Welt, der Ärgernisse halben. Es ist wohl notwendig, daß Ärgernisse kommen; aber wehe demselbigen Menschen, durch den das Ärgernis kommt.</verse>
+        <verse osisID='Matt.18.8'>Ärgert dich aber deine Hand, oder dein Fuß, so haue sie ab und wirf sie von dir; es ist dir besser<note>schön</note>, lahm oder ein Krüppel zum Leben einzugehen, als daß du zwei Hände oder zwei Füße habest und werdest ins ewige Feuer geworfen.</verse>
+        <verse osisID='Matt.18.9'>Und so dein Auge dich ärgert, reiß es aus und wirf es von dir: es ist dir besser<note>schön</note>, einäugig zum Leben einzugehen, als daß du zwei Augen habest und werdest in die Hölle<note>Gehenna</note> des Feuers geworfen.</verse>
+        <verse osisID='Matt.18.10'>Sehet zu, daß ihr nicht einen dieser Kleinen verachtet; denn Ich sage euch, ihre Engel schauen allezeit in den Himmeln das Angesicht Meines Vaters in den Himmeln.</verse>
+        <verse osisID='Matt.18.11'>Denn des Menschen Sohn ist gekommen, das Verlorene zu retten.</verse>
+        <verse osisID='Matt.18.12'>Was meint ihr? Wenn ein Mensch hundert Schafe hätte, und eines davon geht irre, würde er nicht die neunundneunzig auf den Bergen lassen und hingehen und suchen, das da irre gegangen ist?</verse>
+        <verse osisID='Matt.18.13'>Und wenn es sich begibt, daß er dasselbe findet, wahrlich, Ich sage euch: er freut sich über demselben mehr, als über die neunundneunzig, die nicht irre gegangen sind.</verse>
+        <verse osisID='Matt.18.14'>So ist es nicht der Wille vor eurem Vater in den Himmeln, daß eines dieser Kleinen verloren werde.</verse>
+        <verse osisID='Matt.18.15'>Sündigt aber dein Bruder gegen dich, so gehe hin und rüge ihn zwischen dir und ihm allein. Hört er auf dich, so hast du deinen Bruder gewonnen.</verse>
+        <verse osisID='Matt.18.16'>Hört er aber nicht auf dich, so nimm noch einen oder zwei mit dir, auf daß die ganze Rede auf zweier oder dreier Zeugen Mund bestehe.</verse>
+        <verse osisID='Matt.18.17'>Hört er aber auch sie nicht, so sage es der Gemeinde. Hört er aber auch auf die Gemeinde nicht, so sei er dir wie der Heide und der Zöllner.</verse>
+        <verse osisID='Matt.18.18'>Wahrlich, Ich sage euch: Was ihr auf Erden binden werdet, das soll im Himmel gebunden sein, und was ihr auf Erden lösen werdet, soll auch im Himmel gelöst sein.</verse>
+        <verse osisID='Matt.18.19'>Wiederum sage Ich euch: Wenn zwei von euch auf Erden übereinstimmen über irgendeine Sache, um was sie bitten, so soll es ihnen geschehen von Meinem Vater in den Himmeln.</verse>
+        <verse osisID='Matt.18.20'>Denn wo zwei oder drei versammelt sind in Meinem Namen, da bin Ich mitten unter ihnen.</verse>
+        <verse osisID='Matt.18.21'>Da kam Petrus zu Ihm und sprach: Wie oft mag mein Bruder wider mich sündigen, und ich ihm vergeben? Bis zu sieben Mal?</verse>
+        <verse osisID='Matt.18.22'>Spricht zu ihm Jesus: Ich sage dir, nicht bis zu sieben Mal, sondern bis zu siebzig mal sieben.</verse>
+        <verse osisID='Matt.18.23'>Darum ist das Reich der Himmel gleich einem Menschen, einem Könige, der mit seinen Knechten Rechnung abhalten wollte.</verse>
+        <verse osisID='Matt.18.24'>Da er aber anfing abzurechnen, ward einer vor ihn gebracht, ein Schuldner von zehntausend Talenten.</verse>
+        <verse osisID='Matt.18.25'>Da er aber nicht hatte, zu bezahlen, befahl sein Herr, ihn und sein Weib und die Kinder und alles, das er hatte, zu verkaufen und zu bezahlen.</verse>
+        <verse osisID='Matt.18.26'>Da fiel denn der Knecht nieder, betete ihn an und sprach: Herr, habe Langmut mit mir, und ich will dir alles bezahlen.</verse>
+        <verse osisID='Matt.18.27'>Da jammerte es aber den Herrn desselbigen Knechts, und er gab ihn los und vergab ihm das Anlehen.</verse>
+        <verse osisID='Matt.18.28'>Wie aber dieser Knecht hinauskam, fand er einen seiner Mitknechte, der ihm hundert Denare schuldete; und er ergriff ihn, würgte ihn und sprach: Bezahle mir, was du mir schuldig bist.</verse>
+        <verse osisID='Matt.18.29'>Der Mitknecht fiel denn nieder, flehte ihn an und sprach: Habe Langmut mit mir, und ich will dir alles bezahlen.</verse>
+        <verse osisID='Matt.18.30'>Er aber wollte nicht, sondern ging hin und warf ihn ins Gefängnis, bis daß er bezahlete, was er schuldig war.</verse>
+        <verse osisID='Matt.18.31'>Da aber seine Mitknechte sahen, was geschehen war, wurden sie sehr betrübt, und sie gingen und berichteten ihrem Herrn alles, was geschehen war.</verse>
+        <verse osisID='Matt.18.32'>Da rief ihn sein Herr zu sich und sprach zu ihm: Du schlechter Knecht, ich habe dir alle jene Schuld vergeben, weil du mich anflehtest;</verse>
+        <verse osisID='Matt.18.33'>Hättest du nicht auch Erbarmen mit deinem Mitknechte haben sollen, wie auch ich mich deiner erbarmte?</verse>
+        <verse osisID='Matt.18.34'>Und sein Herr ward zornig und überantwortete ihn den Peinigern<note>Quäler</note>, bis daß er alles bezahlete, was er ihm schuldete.</verse>
+        <verse osisID='Matt.18.35'>So wird auch Mein himmlischer<note>überhimmlischer</note> Vater euch tun, wenn ihr nicht vergebet von eurem Herzen ein jeglicher seinem Bruder seine Fehler.</verse>
+      </chapter>
+      <chapter osisID='Matt.19'>
+        <title>Ehescheidung. Reichtum.</title>
+        <verse osisID='Matt.19.1'>Und es geschah, als Jesus diese Worte vollendet hatte, begab Er Sich aus Galiläa und kam in die Grenzen Judäas jenseits des Jordans.</verse>
+        <verse osisID='Matt.19.2'>Und es folgte Ihm viel Volk<note>Gedränge</note> nach, und Er heilte sie daselbst.</verse>
+        <verse osisID='Matt.19.3'>Und es kamen herzu zu Ihm die Pharisäer, versuchten Ihn und sagten zu Ihm: Ist es dem Menschen erlaubt, aus jeglicher Ursache sich von seinem Weibe zu scheiden?</verse>
+        <verse osisID='Matt.19.4'>Er aber antwortete und sprach zu ihnen: Habt ihr nicht gelesen, daß Er, Der sie von Anfang gemacht hat, sie als Mann und Weib<note>männlich und weiblich</note> gemacht hat?</verse>
+        <verse osisID='Matt.19.5'>Und Er sprach: Darum soll der Mensch Vater und Mutter verlassen und seinem Weibe anhangen. Und die zwei werden ein Fleisch sein.</verse>
+        <verse osisID='Matt.19.6'>So daß sie nicht mehr zwei, sondern ein Fleisch sind. Was nun Gott zusammengefügt, daß soll der Mensch nicht trennen.</verse>
+        <verse osisID='Matt.19.7'>Sprechen sie zu Ihm: Warum hat dann Moses geboten, einen Scheidebrief zu geben und sie zu entlassen?</verse>
+        <verse osisID='Matt.19.8'>Er spricht zu ihnen: Um eurer Hartherzigkeit willen hat euch Moses gestattet, eure Weiber zu entlassen; von Anfang an aber ist es nicht also gewesen.</verse>
+        <verse osisID='Matt.19.9'>Ich sage euch aber: Wer sein Weib entläßt, es sei denn um der Buhlerei willen, und eine andere freit, der bricht die Ehe, und wer eine Geschiedene freit, bricht die Ehe.</verse>
+        <verse osisID='Matt.19.10'>Sprechen zu Ihm Seine Jünger: Ist die Sache des Menschen mit dem Weibe so, dann ist es nicht zuträglich, zu freien.</verse>
+        <verse osisID='Matt.19.11'>Er aber sprach zu ihnen: Nicht alle fassen dieses Wort, sondern die, denen es gegeben ist.</verse>
+        <verse osisID='Matt.19.12'>Denn es sind Verschnittene, die von der Mutter Leib<note>Bauch</note> so geboren wurden, und sind Verschnittene, die von den Menschen verschnitten wurden, und sind Verschnittene, die um des Reiches der Himmel willen sich selbst verschnitten haben. Wer es fassen kann, der fasse es!</verse>
+        <verse osisID='Matt.19.13'>Da wurden Kindlein zu Ihm gebracht, auf daß Er die Hände auf sie legete und betete; die Jünger aber bedrohten sie.</verse>
+        <verse osisID='Matt.19.14'>Jesus aber sprach: Lasset die Kindlein und wehret ihnen nicht zu Mir zu kommen; denn solcher ist das Reich der Himmel.</verse>
+        <verse osisID='Matt.19.15'>Und da Er die Hände auf sie gelegt, zog Er von dannen.</verse>
+        <verse osisID='Matt.19.16'>Und siehe, es kam einer herzu und sprach zu Ihm: Guter Lehrer, was soll ich Gutes tun, auf daß ich ewiges Leben habe?</verse>
+        <verse osisID='Matt.19.17'>Er aber sagte ihm: Was heißest du Mich gut? Niemand ist gut, denn der eine Gott. Willst du aber ins Leben eingehen, so halte die Gebote.</verse>
+        <verse osisID='Matt.19.18'>Er spricht zu Ihm: Welche? Jesus aber sprach: Das: du sollst nicht morden; du sollst nicht ehebrechen; du sollst nicht stehlen; du sollst kein falsch Zeugnis geben.</verse>
+        <verse osisID='Matt.19.19'>Ehre Vater und Mutter; und du sollst deinen Nächsten lieben, wie dich selbst.</verse>
+        <verse osisID='Matt.19.20'>Spricht zu Ihm der Jüngling: Alles das habe ich gehalten<note>gewahret</note> von meiner Jugend auf. Was mangelt mir noch?</verse>
+        <verse osisID='Matt.19.21'>Jesus sprach zu ihm: Wenn du willst vollkommen sein, gehe hin, verkaufe, was du hast, und gib den Armen, und du wirst einen Schatz im Himmel haben, und komm her, folge Mir nach!</verse>
+        <verse osisID='Matt.19.22'>Als aber der Jüngling das Wort hörte, ging er betrübt weg; denn er hatte viel Besitztum.</verse>
+        <verse osisID='Matt.19.23'>Jesus aber sprach zu Seinen Jüngern: Wahrlich, Ich sage euch: Es ist schwer, daß ein Reicher ins Reich der Himmel eingehe.</verse>
+        <verse osisID='Matt.19.24'>Wiederum aber sage Ich euch: Es ist leichter, daß ein Kamel durch ein Nadelöhr durchgehe, denn daß ein Reicher ins Reich Gottes eingehe.</verse>
+        <verse osisID='Matt.19.25'>Da aber die Jünger das hörten, staunten sie sehr und sagten: Wer kann dann gerettet werden?</verse>
+        <verse osisID='Matt.19.26'>Jesus aber blickte sie an und sprach zu ihnen: Bei Menschen ist dies unmöglich, bei Gott aber sind alle Dinge möglich.</verse>
+        <verse osisID='Matt.19.27'>Da antwortete Petrus und sprach zu Ihm: Siehe, wir haben alles verlassen und sind dir nachgefolgt. Was wird uns wohl werden?</verse>
+        <verse osisID='Matt.19.28'>Jesus aber sprach zu ihnen: Wahrlich, Ich sage euch, daß ihr, die ihr Mir seid nachgefolgt in der Wiedergeburt, wenn des Menschen Sohn sitzen wird auf dem Throne Seiner Herrlichkeit, auch ihr sitzen werdet auf zwölf Thronen und richten die zwölf Stämme Israels.</verse>
+        <verse osisID='Matt.19.29'>Und jeder, der Häuser, oder Brüder, oder Schwestern, oder Vater, oder Mutter, oder Weib, oder Kinder, oder Felder verläßt um Meines Namens willen, der soll es hundertfältig empfangen und das ewige Leben ererben.</verse>
+        <verse osisID='Matt.19.30'>Aber viele, welche Erste sind, werden Letzte, und Letzte werden Erste sein.</verse>
+      </chapter>
+      <chapter osisID='Matt.20'>
+        <title>Arbeiter im Weinberg. Leiden des Herrn. - Ehrgeiz der Jünger. Zweier Blinden Hilfe.</title>
+        <verse osisID='Matt.20.1'>Denn das Reich der Himmel ist gleich<note>ähnlich</note> einem Menschen, einem Hausherrn, der mit dem Morgen ausging, Arbeiter in seinen Weinberg zu dingen.</verse>
+        <verse osisID='Matt.20.2'>Er ward aber mit den Arbeitern eins über einen Denar den Tag, und sandte sie aus in seinen Weinberg.</verse>
+        <verse osisID='Matt.20.3'>Und um die dritte Stunde ging er aus und sah andere müßig im Markte stehen,</verse>
+        <verse osisID='Matt.20.4'>Und derselbe sprach: Gehet auch ihr hin in den Weinberg, und was gerecht ist, will ich euch geben.</verse>
+        <verse osisID='Matt.20.5'>Sie aber gingen hin. Um die sechste und die neunte Stunde ging er wieder aus und tat gleich also.</verse>
+        <verse osisID='Matt.20.6'>Als er aber um die elfte Stunde ausging, fand er andere müßig stehen und sprach zu ihnen: Was steht ihr so den ganzen Tag mü-ßig?</verse>
+        <verse osisID='Matt.20.7'>Sie sagen zu ihm: Es hat uns niemand gedungen. Sagt er zu ihnen: Gehet auch ihr hin in den Weinberg, und was gerecht ist, sollt ihr empfangen.</verse>
+        <verse osisID='Matt.20.8'>Als es Abend geworden, spricht der Herr des Weinbergs zu seinem Schaffner: Rufe die Arbeiter und gib ihnen den Lohn, und fange bei den letzten an bis zu den ersten.</verse>
+        <verse osisID='Matt.20.9'>Als die von der elften Stunde kamen, empfingen sie jeder seinen Denar.</verse>
+        <verse osisID='Matt.20.10'>Da aber die ersten kamen, dachten sie, sie würden mehr empfangen; aber auch sie empfingen jeder seinen Denar.</verse>
+        <verse osisID='Matt.20.11'>Wie sie aber den empfingen, murrten sie wider den Hausherrn,</verse>
+        <verse osisID='Matt.20.12'>Und sagten: Die letzten da haben nur eine Stunde gearbeitet<note>getan</note>, und du hast sie uns gleich gemacht, die des Tages Bürde und Hitze getragen haben.</verse>
+        <verse osisID='Matt.20.13'>Er aber antwortete und sprach zu einem von ihnen: Gesell, ich bin dir nicht ungerecht, bist du nicht mit mir um einen Denar eins geworden?</verse>
+        <verse osisID='Matt.20.14'>Nimm das Deine und gehe hin; ich will aber diesem letzten geben wie auch dir.</verse>
+        <verse osisID='Matt.20.15'>Oder ist mir nicht erlaubt, mit dem Meinen zu tun, was ich will? Ist dein Auge arg, weil ich gut bin?</verse>
+        <verse osisID='Matt.20.16'>So werden die Letzten Erste, und die Ersten Letzte sein; denn viele sind berufen, aber wenige sind auserwählt.</verse>
+        <verse osisID='Matt.20.17'>Und Jesus zog hinauf nach Jerusalem, und nahm die zwölf Jünger besonders zu Sich auf dem Wege und sagt zu ihnen:</verse>
+        <verse osisID='Matt.20.18'>Siehe, wir ziehen nach Jerusalem hinauf, und des Menschen Sohn wird den Hohenpriestern und Schriftgelehrten überantwortet werden, und sie werden Ihn zum Tode verdammen.</verse>
+        <verse osisID='Matt.20.19'>Und sie werden Ihn den Heiden<note>Völkerschaften</note> überantworten, zu verspotten und zu geißeln und zu kreuzigen; und am dritten Tage wird Er auferstehen.</verse>
+        <verse osisID='Matt.20.20'>Da kam die Mutter der Söhne des Zebedäus mit ihren Söhnen zu Ihm, fiel vor Ihm nieder und bat etwas von Ihm.</verse>
+        <verse osisID='Matt.20.21'>Er aber sprach zu ihr: Was willst du? Sie spricht zu Ihm: Sage, daß diese meine zwei Söhne sitzen in Deinem Reiche, der eine zu Deiner Rechten, der andere zu Deiner Linken.</verse>
+        <verse osisID='Matt.20.22'>Jesus aber antwortete und sprach: Ihr wisset nicht, um was ihr bittet. Könnt ihr den Kelch trinken, den Ich trinken werde, oder getauft werden mit der Taufe, da Ich mit getauft werde? Sie sprechen zu Ihm: Wir können es.</verse>
+        <verse osisID='Matt.20.23'>Und Er spricht zu ihnen: Meinen Kelch sollt ihr trinken, und mit der Taufe, mit der Ich getauft werde, sollt ihr getauft werden; aber das Sitzen zu Meiner Rechten und zu Meiner Linken ist nicht Mein zu geben, außer denen, welchen es von Meinem Vater bereitet ist.</verse>
+        <verse osisID='Matt.20.24'>Und als die zehn das hörten, wurden sie unwillig über die zwei Brüder.</verse>
+        <verse osisID='Matt.20.25'>Jesus aber rief sie zu Sich und sprach: Ihr wisset, daß die Obersten der Völkerschaften herrschen über sie und die Großen Gewalt üben über sie.</verse>
+        <verse osisID='Matt.20.26'>So soll es nicht sein unter euch; sondern wer unter euch will groß werden, der soll euer Diener sein,</verse>
+        <verse osisID='Matt.20.27'>Und wer unter euch will der Erste sein, der sei euer Knecht.</verse>
+        <verse osisID='Matt.20.28'>Wie des Menschen Sohn nicht gekommen ist, Sich dienen zu lassen, sondern zu dienen und Sein Leben zur Lösung zu geben für viele.</verse>
+        <verse osisID='Matt.20.29'>Und als sie von Jericho auszogen, folgte Ihm viel Volk<note>Gedränge</note> nach.</verse>
+        <verse osisID='Matt.20.30'>Und siehe, zwei Blinde saßen am Wege, und da sie hörten, daß Jesus vorübergehe, schrien sie und sprachen: Erbarme Dich unser, Herr, Du Sohn Davids.</verse>
+        <verse osisID='Matt.20.31'>Das Volk<note>Gedränge</note> aber bedrohte sie, daß sie stilleschweigen sollten. Sie aber schrien umso mehr: Ach, Herr, Du Sohn Davids, erbarme Dich unser!</verse>
+        <verse osisID='Matt.20.32'>Und Jesus blieb stehen und rief ihnen und sprach: Was wollt ihr, daß Ich euch tun soll?</verse>
+        <verse osisID='Matt.20.33'>Sie sprachen zu Ihm: Herr, daß unsere Augen aufgetan werden.</verse>
+        <verse osisID='Matt.20.34'>Es jammerte aber Jesus, und Er berührte ihre Augen; und alsbald wurden ihre Augen sehend, und sie folgen Ihm nach.</verse>
+      </chapter>
+      <chapter osisID='Matt.21'>
+        <title>Einzug in Jerusalem.</title>
+        <verse osisID='Matt.21.1'>Und als sie sich Jerusalem nahten und nach Bethphage an den Ölberg kamen, da sandte Jesus zwei Jünger aus,</verse>
+        <verse osisID='Matt.21.2'>Und sprach zu ihnen: Gehet hin in den Flecken, der euch gegenüber ist, und alsbald werdet ihr eine Eselin finden angebunden, und ein Füllen bei ihr. Löset sie und führet sie zu Mir.</verse>
+        <verse osisID='Matt.21.3'>Und wenn euch jemand etwas sagt, sollt ihr sagen: Der Herr bedarf ihrer; alsbald aber wird er sie senden.</verse>
+        <verse osisID='Matt.21.4'>Alles dies geschah, auf daß erfüllt würde, was durch den Propheten gesagt ist, der da spricht:</verse>
+        <verse osisID='Matt.21.5'>Saget der Tochter Zion: Siehe, dein König kommt zu dir sanftmütig und reitet auf einem Esel und auf einem Füllen, dem Sohn eines Lasttiers.</verse>
+        <verse osisID='Matt.21.6'>Die Jünger aber gingen hin und taten, wie ihnen Jesus verordnet.</verse>
+        <verse osisID='Matt.21.7'>Sie führten die Eselin und das Füllen herbei und legten ihre Kleider auf sie, und Er setzte Sich darauf.</verse>
+        <verse osisID='Matt.21.8'>Die meisten vom Volke<note>Gedränge</note> aber streuten ihre Kleider auf den Weg; andere aber schnitten Zweige von den Bäumen und streuten sie auf den Weg.</verse>
+        <verse osisID='Matt.21.9'>Das Volk<note>Gedränge</note> aber, das voranzog, und das nachfolgte, schrie und sprach: Hosianna dem Sohne Davids! Gesegnet sei, Der da kommt in dem Namen des Herrn! Hosianna in den Höhen!</verse>
+        <verse osisID='Matt.21.10'>Und als Er in Jerusalem einzog, ward die ganze Stadt bewegt und sagte: Wer ist Der?</verse>
+        <verse osisID='Matt.21.11'>Das Volk<note>Gedränge</note> aber sagte: Das ist Jesus, der Prophet aus Nazareth in Galiläa.</verse>
+        <verse osisID='Matt.21.12'>Und Jesus ging hinein in das Heiligtum Gottes und trieb aus alle Verkäufer und Käufer im Heiligtum und stieß die Tische der Wechsler um und die Stühle derer, die Tauben verkauften.</verse>
+        <verse osisID='Matt.21.13'>Und spricht zu ihnen: Es ist geschrieben: Mein Haus soll ein Bethaus heißen; ihr aber machtet es zu einer Räuberhöhle!</verse>
+        <verse osisID='Matt.21.14'>Und es kamen zu Ihm Blinde und Lahme in das Heiligtum, und Er heilte sie.</verse>
+        <verse osisID='Matt.21.15'>Da aber die Hohenpriester und die Schriftgelehrten die Wunder sahen, die Er tat, und die Kinder im Heiligtum schreien und sagen: Hosianna dem Sohne Davids!, wurden sie unwillig.</verse>
+        <verse osisID='Matt.21.16'>Und sprachen zu Ihm: Hörst Du, was diese sagen? Jesus aber sprach zu ihnen: Ja, habt ihr nie gelesen: aus dem Munde der Unmündigen und Säuglinge hast Du Dir Lob zugerichtet?</verse>
+        <verse osisID='Matt.21.17'>Und Er verließ sie und ging hinaus aus der Stadt nach Bethanien und übernachtete allda.</verse>
+        <verse osisID='Matt.21.18'>Als Er aber am Morgen wieder in die Stadt ging, hungerte Ihn.</verse>
+        <verse osisID='Matt.21.19'>Und da Er einen Feigenbaum am Wege sah, ging Er auf denselben zu und fand nichts an ihm, denn allein Blätter, und spricht zu ihm: Nimmer werde Frucht aus dir in Ewigkeit! Und sogleich verdorrte der Feigenbaum.</verse>
+        <verse osisID='Matt.21.20'>Und da es die Jünger sahen, verwunderten sie sich und sprachen: Wie ist der Feigen- baum so bald verdorrt!</verse>
+        <verse osisID='Matt.21.21'>Jesus aber antwortete und sprach zu ihnen: Wahrlich, Ich sage euch: So ihr Glauben habt, und zweifelt nicht, so werdet ihr nicht nur solches mit dem Feigenbaum tun; sondern so ihr zu diesem Berge sprechet: Hebe dich auf und wirf dich ins Meer, so wird es geschehen.</verse>
+        <verse osisID='Matt.21.22'>Und alles, was ihr bitten werdet im Gebet, so ihr glaubet, werdet ihr es empfangen.</verse>
+        <verse osisID='Matt.21.23'>Und als Er in das Heiligtum kam, kamen zu Ihm, als Er lehrte, die Hohenpriester und die Ältesten des Volkes und sprachen: Aus was für Gewalt tust Du das? Und wer hat Dir diese Gewalt gegeben?</verse>
+        <verse osisID='Matt.21.24'>Jesus aber antwortete und sprach zu ihnen: Ich will euch auch ein Wort fragen; wenn ihr Mir es sagt, werde Ich euch auch sagen, aus welcher Gewalt Ich dies tue.</verse>
+        <verse osisID='Matt.21.25'>Die Taufe des Johannes, woher war sie? Vom Himmel oder von Menschen? Sie aber bedachten bei sich und sagten: Wenn wir sprechen: Vom Himmel, so wird Er zu uns sagen: Warum habt ihr ihm denn nicht geglaubt?</verse>
+        <verse osisID='Matt.21.26'>Sagen wir aber: Von Menschen, so fürchten wir das Volk<note>Gedränge</note>; denn alle halten den Johannes für einen Propheten.</verse>
+        <verse osisID='Matt.21.27'>Und sie antworteten Jesus und sagten: Wir wissen es nicht. Da sprach auch Er zu ihnen: Dann sage Ich euch auch nicht, aus was für Gewalt Ich dies tue.</verse>
+        <verse osisID='Matt.21.28'>Was meint ihr aber? Ein Mensch hatte zwei Kinder, und er ging herzu zum ersten und sagte: Kind, geh heute hin und arbeite in meinem Weinberg.</verse>
+        <verse osisID='Matt.21.29'>Der antwortete aber und sprach: Ich will nicht. Danach reute es ihn aber, und er ging hin.</verse>
+        <verse osisID='Matt.21.30'>Und er kam herzu zum zweiten und sprach ebenso. Der aber antwortete und sprach: Ja,<note>Ich, Herr</note>, Herr, und ging nicht hin.</verse>
+        <verse osisID='Matt.21.31'>Welcher von den zweien hat den Willen des Vaters getan? Sie sprachen zu Ihm: Der erste. Spricht Jesus zu ihnen: Wahrlich, Ich sage euch: Die Zöllner und Buhlerinnen kommen vor euch ins Reich Gottes.</verse>
+        <verse osisID='Matt.21.32'>Denn Johannes kam zu euch auf dem Wege der Gerechtigkeit, und ihr glaubtet ihm nicht; die Zöllner aber und die Buhlerinnen glaubten ihm; ihr aber sahet es und es reute euch nicht danach, so daß ihr ihm geglaubt hättet.</verse>
+        <verse osisID='Matt.21.33'>Höret ein anderes Gleichnis. Es war ein Mensch, ein Hausherr, der pflanzte einen Weinberg und umgab ihn mit einem Zaun, grub darin eine Kelter, und baute einen Turm, und gab ihn an Weingärtner aus und zog über Land.</verse>
+        <verse osisID='Matt.21.34'>Als aber die Jahreszeit der Früchte nahte, sandte er seine Knechte aus an die Weingärtner, um seine Früchte zu empfangen.</verse>
+        <verse osisID='Matt.21.35'>Die Weingärtner aber nahmen seine Knechte, stäupten den einen, den andern aber töteten sie, einen andern aber steinigten sie.</verse>
+        <verse osisID='Matt.21.36'>Wiederum sandte er andere Knechte ab, mehr denn der ersten waren. Und sie taten ihnen gleich also.</verse>
+        <verse osisID='Matt.21.37'>Danach sandte er seinen eigenen Sohn an sie und sagte: Vor meinen Sohn werden sie sich scheuen.</verse>
+        <verse osisID='Matt.21.38'>Als die Weingärtner aber den Sohn sahen, sprachen sie untereinander: Dies ist der Erbe, kommet, lasset uns ihn töten und sein Erbe für uns behalten.</verse>
+        <verse osisID='Matt.21.39'>Und sie nahmen ihn, warfen ihn zum Weinberg hinaus und töteten ihn.</verse>
+        <verse osisID='Matt.21.40'>Wenn nun der Herr des Weinberges kommt, was wird er diesen Weingärtnern tun?</verse>
+        <verse osisID='Matt.21.41'>Sie sprachen zu ihm: Er wird die Bösen böse verderben und den Weinberg an andere Weingärtner ausgeben, die ihm in ihren Jahreszeiten die Früchte übergeben.</verse>
+        <verse osisID='Matt.21.42'>Spricht Jesus zu ihnen: Habt ihr nie in den Schriften gelesen: Der Stein, den die Bauleute verworfen haben, der ist zum Eckstein<note>Haupt der Ecke</note> geworden? Vom Herrn ist das geworden und ist wunderbar vor unseren Augen?</verse>
+        <verse osisID='Matt.21.43'>Darum sage Ich euch: Das Reich Gottes wird von euch weggenommen und einer Völkerschaft gegeben werden, die seine Früchte bringt<note>macht</note>.</verse>
+        <verse osisID='Matt.21.44'>Und wer auf diesen Stein fällt, wird zerschellt werden, auf den er aber fällt, den wird er zerschmettern.</verse>
+        <verse osisID='Matt.21.45'>Und da die Hohenpriester und Pharisäer Seine Gleichnisse hörten, erkannten sie, daß Er von ihnen sprach;</verse>
+        <verse osisID='Matt.21.46'>Und da sie suchten, Ihn zu ergreifen, fürchteten sie sich vor dem Gedränge, da es Ihn für einen Propheten hielt.</verse>
+      </chapter>
+      <chapter osisID='Matt.22'>
+        <title>Hochzeit. Vornehmstes Gebot.</title>
+        <verse osisID='Matt.22.1'>Und Jesus antwortete und sprach wiederum in Gleichnissen zu ihnen und sagte:</verse>
+        <verse osisID='Matt.22.2'>Das Reich der Himmel ist gleich einem Menschen, einem Könige, der seinem Sohne Hochzeit machte.</verse>
+        <verse osisID='Matt.22.3'>Und er sandte seine Knechte aus, um zu rufen die zur Hochzeit Berufenen, und sie wollten nicht kommen.</verse>
+        <verse osisID='Matt.22.4'>Wiederum sandte er andere Knechte aus und sprach: Saget den Berufenen: Siehe, mein Mahl<note>Mittagsmahl</note> habe ich bereitet, meine Ochsen und das Mastvieh sind geschlachtet und alles bereit. Kommet zur Hochzeit.</verse>
+        <verse osisID='Matt.22.5'>Aber sie achteten nicht darauf und gingen hin, der eine auf sein eigenes Feld, der andere seinem Handel nach;</verse>
+        <verse osisID='Matt.22.6'>Die übrigen aber ergriffen seine Knechte, beschimpften und töteten sie.</verse>
+        <verse osisID='Matt.22.7'>Als der König aber das hörte, ward er zornig und schickte seine Heere aus, brachte die Mörder um und verbrannte ihre Stadt.</verse>
+        <verse osisID='Matt.22.8'>Dann spricht er zu seinen Knechten: Die Hochzeit ist zwar bereit, aber die Berufenen waren es nicht wert.</verse>
+        <verse osisID='Matt.22.9'>So gehet denn an die Kreuzwege der Straßen und rufet, wen ihr findet, zur Hochzeit.</verse>
+        <verse osisID='Matt.22.10'>Und jene Knechte gingen aus auf die Wege, versammelten alle, die sie fanden, Schlechte und Gute, und die Hochzeit war voll derer, die zu Tische lagen.</verse>
+        <verse osisID='Matt.22.11'>Als der König aber hineinkam, um anzusehen, die zu Tische lagen, sah er daselbst einen Menschen, der hatte keine hochzeitliche Kleidung angetan.</verse>
+        <verse osisID='Matt.22.12'>Und er spricht zu ihm: Geselle, wie bist du hier hereingekommen und hast keine hochzeitliche Kleidung? Er aber verstummte.</verse>
+        <verse osisID='Matt.22.13'>Da sprach der König zu den Dienern: Bindet ihm Füße und Hände, werfet ihn in die äußerste Finsternis hinaus; da wird sein Weinen und Zähneknirschen.</verse>
+        <verse osisID='Matt.22.14'>Denn viele sind berufen, aber wenige sind auserwählt.</verse>
+        <verse osisID='Matt.22.15'>Da gingen die Pharisäer hin und hielten<note>nahmen</note> Beratung, wie sie Ihn im Worte verstrickten.</verse>
+        <verse osisID='Matt.22.16'>Und sandten ihre Jünger aus mit den Herodianern zu Ihm, die sprachen: Lehrer, wir wissen, daß Du wahrhaftig bist und den Weg Gottes in Wahrheit lehrst und Dich um niemand kümmerst; denn Du siehst nicht auf das Angesicht der Menschen;</verse>
+        <verse osisID='Matt.22.17'>So sage uns denn, was dünkt Dich? Ist es erlaubt, daß man dem Kaiser die Steuer gebe, oder nicht?</verse>
+        <verse osisID='Matt.22.18'>Jesus aber erkannte ihre Bosheit und sprach: Was versucht ihr Mich, ihr Heuchler?</verse>
+        <verse osisID='Matt.22.19'>Zeigt Mir die Münze der Steuer. Sie aber brachten Ihm einen Denar.</verse>
+        <verse osisID='Matt.22.20'>Und Er spricht zu ihnen: Wessen Bild und Überschrift ist dies?</verse>
+        <verse osisID='Matt.22.21'>Sie sagten zu Ihm: Des Kaisers. Da spricht Er zu ihnen: So gebt denn dem Kaiser, was des Kaisers ist, und Gott, was Gottes ist.</verse>
+        <verse osisID='Matt.22.22'>Und wie sie das hörten, verwunderten sie sich, verließen Ihn und gingen weg.</verse>
+        <verse osisID='Matt.22.23'>An demselben Tage kamen die Sadduzäer zu Ihm, die da sagen, es sei keine Auferstehung, und fragten Ihn:</verse>
+        <verse osisID='Matt.22.24'>Lehrer, Moses hat gesagt: Wenn einer stirbt und hat keine Kinder, so soll sein Bruder sein Weib zur Schwiegerehe nehmen und seinem Bruder Samen erwecken<note>auferstehen lassen</note>.</verse>
+        <verse osisID='Matt.22.25'>Es waren aber bei uns sieben Brüder; und der erste freite und starb<note>endete</note>, und da er keinen Samen hatte, ließ er sein Weib seinem Bruder.</verse>
+        <verse osisID='Matt.22.26'>Desgleichen auch der zweite, und der dritte, bis zum siebenten.</verse>
+        <verse osisID='Matt.22.27'>Zuletzt nach allen starb auch das Weib.</verse>
+        <verse osisID='Matt.22.28'>Bei der Auferstehung nun, wessen Weib unter den sieben wird sie sein? Denn alle haben sie gehabt.</verse>
+        <verse osisID='Matt.22.29'>Jesus aber antwortete und sprach zu ihnen: Ihr irret, da ihr nicht wisset die Schriften, noch die Kraft Gottes.</verse>
+        <verse osisID='Matt.22.30'>Denn bei der Auferstehung freien sie nicht, noch lassen sie sich freien, sondern sind wie die Engel Gottes im Himmel.</verse>
+        <verse osisID='Matt.22.31'>Wegen der Auferstehung der Toten aber, habt ihr nicht gelesen, was euch von Gott gesagt wird, Der da spricht:</verse>
+        <verse osisID='Matt.22.32'>Ich bin der Gott Abrahams, und der Gott Isaaks und der Gott Jakobs? Gott ist nicht ein Gott der Toten, sondern der Lebendigen.</verse>
+        <verse osisID='Matt.22.33'>Und als das Volk<note>Gedränge</note> dies hörte, staunte es über Seine Lehre.</verse>
+        <verse osisID='Matt.22.34'>Als aber die Pharisäer hörten, wie Er die Sadduzäer zum Verstummen gebracht hatte, versammelten sie sich<note>an denselben `Ort'</note>.</verse>
+        <verse osisID='Matt.22.35'>Und einer von ihnen, ein Gesetzlehrer, fragte Ihn, um Ihn zu versuchen, und sprach:</verse>
+        <verse osisID='Matt.22.36'>Lehrer, welches ist das große Gebot im Gesetz?</verse>
+        <verse osisID='Matt.22.37'>Jesus aber sprach zu ihm: Du sollst den Herrn deinen Gott lieben mit deinem ganzen Herzen und mit deiner ganzen Seele und mit deinem ganzen Gemüte.</verse>
+        <verse osisID='Matt.22.38'>Dies ist das erste und große Gebot.</verse>
+        <verse osisID='Matt.22.39'>Das zweite aber ist ihm ähnlich: Du sollst deinen Nächsten lieben, wie dich selbst.</verse>
+        <verse osisID='Matt.22.40'>An diesen zwei Geboten hängt das ganze Gesetz und die Propheten.</verse>
+        <verse osisID='Matt.22.41'>Als aber die Pharisäer versammelt waren, fragte sie Jesus,</verse>
+        <verse osisID='Matt.22.42'>Und sagte: Was dünkt euch von Christus? Wessen Sohn ist Er?</verse>
+        <verse osisID='Matt.22.43'>Sie sagten zu Ihm: Davids. Spricht Er zu ihnen: Wie heißt ihn dann David im Geiste Herr, wenn er sagt:</verse>
+        <verse osisID='Matt.22.44'>Der Herr sprach zu meinem Herrn: Setze Dich zu Meiner Rechten, bis daß Ich Deine Feinde zum Schemel Deiner Füße lege.</verse>
+        <verse osisID='Matt.22.45'>Wenn nun David Ihn Herr heißt, wie ist Er sein Sohn?</verse>
+        <verse osisID='Matt.22.46'>Und niemand konnte Ihm ein Wort antworten; auch wagte von dem Tage an niemand mehr, Ihn zu fragen.</verse>
+      </chapter>
+      <chapter osisID='Matt.23'>
+        <title>Strafpredigt gegen die Pharisäer und Schriftgelehrten.</title>
+        <verse osisID='Matt.23.1'>Da redete Jesus zu dem Volk<note>Gedränge</note> und zu Seinen Jüngern,</verse>
+        <verse osisID='Matt.23.2'>Und sagte: Auf Moses Stuhl sitzen die Schriftgelehrten und die Pharisäer.</verse>
+        <verse osisID='Matt.23.3'>Alles nun, was sie euch sagen, daß ihr halten sollet, das haltet und tut; nach ihren Werken aber tut nicht; denn sie sagen es, tun es aber nicht.</verse>
+        <verse osisID='Matt.23.4'>Sie binden schwere und kaum erträgliche Lasten und legen sie auf der Menschen Schultern; sie aber wollen sie mit keinem Finger regen.</verse>
+        <verse osisID='Matt.23.5'>Alle ihre Werke aber tun sie, um von den Leuten angesehen zu werden. Sie machen ihre Denkzettel breit und vergrößern die Säume an ihren Kleidern.</verse>
+        <verse osisID='Matt.23.6'>Sie haben gern den ersten Platz bei Gastmählern, und die ersten Sitze in den Synagogen,</verse>
+        <verse osisID='Matt.23.7'>Und die Begrüßungen auf den Märkten, und daß die Menschen sie Rabbi, Rabbi hei-ßen.</verse>
+        <verse osisID='Matt.23.8'>Aber ihr sollt euch nicht Rabbi nennen lassen; denn Einer ist euer Lehrmeister, Christus; ihr alle aber seid Brüder.</verse>
+        <verse osisID='Matt.23.9'>Und ihr sollt niemand auf Erden euren Vater heißen; denn Einer ist euer Vater, Der in den Himmeln.</verse>
+        <verse osisID='Matt.23.10'>Auch Lehrmeister sollt ihr euch nicht heißen lassen; denn Einer ist euer Lehrmeister, Christus.</verse>
+        <verse osisID='Matt.23.11'>Aber der Größte<note>Größere</note> unter euch soll euer Deiner sein.</verse>
+        <verse osisID='Matt.23.12'>Wer sich aber selbst erhöht, der wird erniedrigt, und wer sich selbst erniedrigt, der wird erhöht werden.</verse>
+        <verse osisID='Matt.23.13'>Wehe euch, Schriftgelehrte und Pharisäer, ihr Heuchler! Ihr verschließet das Reich der Himmel vor den Menschen; denn ihr kommt nicht hinein; und die hineingehen möchten, lasset ihr nicht hineingehen.</verse>
+        <verse osisID='Matt.23.14'>Wehe aber euch Schriftgelehrte und Pharisäer, ihr Heuchler; denn ihr esset der Witwen Häuser auf und machet zum Vorwand lange Gebete, dafür werdet ihr ein noch schwerer<note>überflüssigeres</note> Gericht empfangen.</verse>
+        <verse osisID='Matt.23.15'>Wehe euch, Schriftgelehrte und Pharisäer, ihr Heuchler; denn ihr durchziehet das Meer und das Trockene, um einen einzigen Proselyten zu machen; und wenn er es geworden ist, macht ihr ihn zu einem Sohn der Hölle, doppelt mehr, als ihr selbst.</verse>
+        <verse osisID='Matt.23.16'>Wehe euch, blinde Wegweiser, die ihr sprecht: Wer beim Tempel schwört, das ist nichts; wer aber beim Golde des Tempels schwört, der schuldet es.</verse>
+        <verse osisID='Matt.23.17'>Ihr Narren und Blinde! Was ist den größer? das Gold oder der Tempel, der das Gold heiligt?</verse>
+        <verse osisID='Matt.23.18'>Und: Schwört einer beim Altar, so ist es nichts; schwört er aber bei der Gabe, die darauf ist, so schuldet er es.</verse>
+        <verse osisID='Matt.23.19'>Ihr Narren und Blinde! Was ist denn größer, die Gabe oder der Altar, der die Gabe heiligt?</verse>
+        <verse osisID='Matt.23.20'>Wer denn bei dem Altar schwört, schwört bei ihm und bei allem, was darauf ist.</verse>
+        <verse osisID='Matt.23.21'>Und wer beim Tempel schwört, der schwört bei ihm und Dem, Der darin wohnt.</verse>
+        <verse osisID='Matt.23.22'>Und wer bei dem Himmel schwört, der schwört bei dem Throne Gottes und bei Dem, Der darauf sitzt.</verse>
+        <verse osisID='Matt.23.23'>Wehe euch, Schriftgelehrte und Pharisäer, ihr Heuchler! Ihr verzehntet Minze und Anis und Kümmel; das Schwerere des Gesetzes, das Gericht, und die Barmherzigkeit und den Glauben habt ihr verlassen. Dies sollte man tun und das andere nicht lassen.</verse>
+        <verse osisID='Matt.23.24'>Blinde Wegweiser, die ihr Mücken wegseihet, aber Kamele verschlinget.</verse>
+        <verse osisID='Matt.23.25'>Wehe euch, Schriftgelehrte und Pharisäer, ihr Heuchler! Ihr reinigt das Äußere des Kelches und der Schüssel; inwendig aber sind sie voll Raubes und Unmäßigkeit.</verse>
+        <verse osisID='Matt.23.26'>Blinder Pharisäer, reinige zuerst das Innere des Kelches und der Schüssel, auf daß auch das Äußere derselben rein werde.</verse>
+        <verse osisID='Matt.23.27'>Wehe, euch Schriftgelehrte und Pharisäer, ihr Heuchler; denn ihr gleicht übertünchten Grabstätten, die auswendig schön erscheinen, inwendig aber voller Totengebeine und aller Unreinigkeit sind.</verse>
+        <verse osisID='Matt.23.28'>So erscheint auch ihr von außen den Menschen als gerecht, indes ihr inwendig erfüllt seid von Heuchelei und Unrecht.</verse>
+        <verse osisID='Matt.23.29'>Wehe euch, Schriftgelehrte und Pharisäer, ihr Heuchler! Ihr baut die Grabstätten der Propheten und schmückt die Grüfte der Gerechten,</verse>
+        <verse osisID='Matt.23.30'>Und sprechet: Wären wir in den Tagen unserer Väter gewesen, so wären wir nicht mit ihnen Teilhaber am Blute der Propheten gewesen.</verse>
+        <verse osisID='Matt.23.31'>Damit bezeugt ihr selber, daß ihr Söhne der Mörder der Propheten seid.</verse>
+        <verse osisID='Matt.23.32'>Und ihr erfüllt das Maß eurer Väter.</verse>
+        <verse osisID='Matt.23.33'>Ihr Schlangen, ihr Geschlecht der Ottern, wie solltet ihr dem Gerichte der Hölle<note>Gehenna</note> entfliehen?</verse>
+        <verse osisID='Matt.23.34'>Darum siehe, Ich sende aus an euch Propheten und Weise und Schriftgelehrte, und ihr werdet derer etliche töten und kreuzigen, und etliche davon in euren Synagogen geißeln und verfolgen von Stadt zu Stadt.</verse>
+        <verse osisID='Matt.23.35'>Auf daß über euch komme all das gerechte Blut, das vergossen ist auf Erden, vom Blute des gerechten Abel bis auf das Blut Zacharias, des Sohnes von Barachjas, den ihr zwischen dem Tempel und dem Altar gemordet habt.</verse>
+        <verse osisID='Matt.23.36'>Wahrlich, Ich sage euch, solches alles wird kommen über dies Geschlecht.</verse>
+        <verse osisID='Matt.23.37'>Jerusalem, Jerusalem, die du tötest die Propheten und steinigst, die zu dir gesandt werden! Wie oft habe Ich deine Kinder versammeln<note>zusammensammeln</note> wollen, wie eine Henne ihre Küchlein unter die Flügel versammelt<note>zusammensammeln</note>, und ihr habt nicht gewollt!</verse>
+        <verse osisID='Matt.23.38'>Siehe, euer Haus wird euch wüste gelassen.</verse>
+        <verse osisID='Matt.23.39'>Denn Ich sage euch: Ihr werdet Mich von jetzt an nicht mehr sehen, bis ihr sprechet: Gesegnet sei, der da kommt im Namen des Herrn!</verse>
+      </chapter>
+      <chapter osisID='Matt.24'>
+        <title>Zerstörung der Stadt Jerusalem.</title>
+        <verse osisID='Matt.24.1'>Und Jesus ging hinaus und ging weg von dem Heiligtum, und Seine Jünger kamen herzu, um Ihm die Gebäude des Heiligtums zu zeigen.</verse>
+        <verse osisID='Matt.24.2'>Jesus aber sprach zu ihnen: Sehet ihr nicht alles dies? Wahrlich, Ich sage euch: Kein Stein wird hier auf dem Steine gelassen, der nicht niedergerissen würde.</verse>
+        <verse osisID='Matt.24.3'>Als Er Sich aber auf dem Ölberg niedergesetzt hatte, kamen die Jünger zu Ihm besonders und sprachen: Sage uns, wann dies sein wird, und was das Zeichen Deiner Ankunft und der Vollendung des Zeitlaufes sein wird.</verse>
+        <verse osisID='Matt.24.4'>Und Jesus antwortete und sprach zu ihnen: Sehet zu, daß euch niemand irreführe.</verse>
+        <verse osisID='Matt.24.5'>Denn viele werden kommen unter Meinem Namen und sagen: Ich bin Christus, und werden viele irreführen.</verse>
+        <verse osisID='Matt.24.6'>Ihr werdet aber von Kriegen und Kriegserüchten hören; sehet zu, daß euch nicht bange wird; denn das muß alles geschehen; aber noch ist das Ende nicht da.</verse>
+        <verse osisID='Matt.24.7'>Denn es wird erweckt werden Völkerschaft wider Völkerschaft, und Königreich wider Königreich. Und es wird an verschiedenen Orten Hungersnot und Pestilenz und Erdbeben sein.</verse>
+        <verse osisID='Matt.24.8'>Alles dies aber ist nur der Anfang der Wehen.</verse>
+        <verse osisID='Matt.24.9'>Alsdann werden sie euch in Trübsal überantworten, und euch töten; und ihr werdet von allen Völkerschaften gehaßt werden um Meines Namens willen.</verse>
+        <verse osisID='Matt.24.10'>Und viele werden Ärgernis nehmen und einander überantworten und einander hassen.</verse>
+        <verse osisID='Matt.24.11'>Und viele falsche Propheten werden erweckt werden und viele irreführen.</verse>
+        <verse osisID='Matt.24.12'>Und weil das Unrecht sich mehrt, wird die Liebe vieler erkalten.</verse>
+        <verse osisID='Matt.24.13'>Wer aber beharrt bis ans Ende, der wird errettet werden.</verse>
+        <verse osisID='Matt.24.14'>Und dieses Evangelium vom Reiche wird im ganzen Erdkreis gepredigt werden zum Zeugnis über alle Völkerschaften, und dann wird das Ende kommen.</verse>
+        <verse osisID='Matt.24.15'>Wenn ihr nun sehen werdet den Greuel der Verwüstung, von dem durch den Propheten Daniel gesagt ist, am heiligen Orte stehen wer es liest, der merke auf;</verse>
+        <verse osisID='Matt.24.16'>Dann sollen die, so in Judäa sind, fliehen auf die Berge.</verse>
+        <verse osisID='Matt.24.17'>Wer auf dem Dache ist, steige nicht hinab, etwas aus seinem Hause zu nehmen.</verse>
+        <verse osisID='Matt.24.18'>Und wer auf dem Felde ist, kehre nicht um hinter sich, seine Kleider zu nehmen.</verse>
+        <verse osisID='Matt.24.19'>Wehe aber den Schwangeren<note>die im Mutterleibe haben</note> und den Säugenden in jenen Tagen.</verse>
+        <verse osisID='Matt.24.20'>Betet aber, daß eure Flucht nicht im Winter oder am Sabbath geschehe.</verse>
+        <verse osisID='Matt.24.21'>Denn dann wird große Trübsal sein, wie sie seit Anfang der Welt bis jetzt nicht war, und auch nicht werden wird.</verse>
+        <verse osisID='Matt.24.22'>Und würden diese Tage nicht verkürzt, so würde kein Fleisch gerettet werden; aber um der Auserwählten willen werden diese Tage verkürzt.</verse>
+        <verse osisID='Matt.24.23'>Wenn dann einer euch sagen wird: Siehe, hier ist Christus, oder da, so glaubt es nicht!</verse>
+        <verse osisID='Matt.24.24'>Denn es werden falsche Christi und falsche Propheten auftreten und große Zeichen und Wunder geben, so daß, wenn es möglich wäre, sie selbst die Auserwählten irreführen.</verse>
+        <verse osisID='Matt.24.25'>Siehe, Ich habe es euch vorhergesagt.</verse>
+        <verse osisID='Matt.24.26'>Wenn sie euch dann sagen: Siehe, in der Wüste ist Er! so geht nicht hinaus; siehe, in den Kammern ist Er, so glaubt es nicht.</verse>
+        <verse osisID='Matt.24.27'>Denn wie der Blitz ausgeht vom Aufgang und scheint bis zum Niedergang, so wird auch die Ankunft des Menschen Sohnes sein.</verse>
+        <verse osisID='Matt.24.28'>Denn wo das Aas ist, da sammeln sich die Adler.</verse>
+        <verse osisID='Matt.24.29'>Alsbald aber nach der Trübsal jener Tage wird die Sonne verfinstert werden, und der Mond seinen Schein nicht geben, und die Sterne werden vom Himmel fallen, und die Kräfte der Himmel werden erschüttert werden.</verse>
+        <verse osisID='Matt.24.30'>Und dann wird das Zeichen des Menschen Sohnes im Himmel erscheinen, und dann werden alle Stämme der Erde jammern und des Menschen Sohn kommen sehen auf den Wolken des Himmels mit Kraft und großer Herrlichkeit.</verse>
+        <verse osisID='Matt.24.31'>Und Er wird Seine Engel aussenden mit großer Posaunenstimme, und sie werden Seine Auserwählten zusammenversammeln aus den vier Winden von einem Ende der Himmel bis an das andere<note>von dem Äußersten der Himmel bis zu deren Äußerstem</note>.</verse>
+        <verse osisID='Matt.24.32'>Vom Feigenbaum aber lernt das Gleichnis: Wenn sein Zweig schon saftig<note>zart</note> wird und die Blätter hervortreibt, erkennt ihr, daß der Sommer nahe ist.</verse>
+        <verse osisID='Matt.24.33'>So sollt auch ihr, wenn ihr alles dies seht, erkennen, daß es nahe vor der Tür ist.</verse>
+        <verse osisID='Matt.24.34'>Wahrlich, Ich sage euch, dies Geschlecht wird mitnichten vergehen, bis daß dies alles geschehe.</verse>
+        <verse osisID='Matt.24.35'>Himmel und Erde werden vergehen, aber Meine Worte werden nicht vergehen.</verse>
+        <verse osisID='Matt.24.36'>Von jenem Tag und der Stunde aber weiß niemand, auch die Engel in den Himmeln nicht, sondern allein Mein Vater.</verse>
+        <verse osisID='Matt.24.37'>Wie die Tage Noachs waren, so wird auch die Ankunft des Menschen Sohnes sein.</verse>
+        <verse osisID='Matt.24.38'>Denn wie sie waren in den Tagen vor der Sündflut: sie aßen<note>sie kauten</note> und tranken, sie freiten und ließen freien bis zu dem Tage, da Noach in die Arche einging,</verse>
+        <verse osisID='Matt.24.39'>Und erkannten es nicht, bis die Sündflut kam und sie alle wegnahm: so wird auch die Ankunft des Menschen Sohnes sein.</verse>
+        <verse osisID='Matt.24.40'>Dann werden zwei auf dem Felde sein, der eine wird angenommen, der andere gelassen.</verse>
+        <verse osisID='Matt.24.41'>Zwei mahlen in der Mühle; die eine wird angenommen, die andere gelassen.</verse>
+        <verse osisID='Matt.24.42'>So wachet denn: weil ihr nicht wisset, zu welcher Stunde euer Herr kommt.</verse>
+        <verse osisID='Matt.24.43'>Das aber erkennet, daß, wenn der Hausherr wüßte, um welche Nachtwache der Dieb kommt, er wohl wachte und ihn nicht ins Haus einbrechen ließe.</verse>
+        <verse osisID='Matt.24.44'>Deshalb seid auch ihr bereit; denn des Menschen Sohn kommt zu einer Stunde, da ihr es nicht meinet.</verse>
+        <verse osisID='Matt.24.45'>Wer ist wohl der treue und kluge Knecht, den sein Herr über sein Gesinde setzte, um ihnen zur rechten Zeit die Nahrung zu geben?</verse>
+        <verse osisID='Matt.24.46'>Selig ist jener Knecht, den sein Herr, wenn er kommt, findet also tun.</verse>
+        <verse osisID='Matt.24.47'>Wahrlich, Ich sage euch: Er wird ihn über alle seine Habe setzen.</verse>
+        <verse osisID='Matt.24.48'>So aber jener böse Knecht spricht in seinem Herzen: Mein Herr verziehet zu kommen,</verse>
+        <verse osisID='Matt.24.49'>Und fängt an, seine Mitknechte zu schlagen, und zu essen und zu trinken mit den Trunkenen:</verse>
+        <verse osisID='Matt.24.50'>So wird der Herr jenes Knechtes kommen an einem Tage, an dem er es nicht erwartet, und zu einer Stunde, die er nicht erkennt.</verse>
+        <verse osisID='Matt.24.51'>Und wird ihn zerscheitern und ihm sein Teil mit den Heuchlern anweisen<note>setzen</note>. Da wird sein Weinen und Zähneknirschen.</verse>
+      </chapter>
+      <chapter osisID='Matt.25'>
+        <title>Die zehn Jungfrauen. - Die Pfunde. Jüngstes Gericht.</title>
+        <verse osisID='Matt.25.1'>Dann ist das Reich der Himmel zehn Jungfrauen zu vergleichen, die ihre Lampen nahmen und ausgingen, dem Bräutigam entgegen.</verse>
+        <verse osisID='Matt.25.2'>Fünf derselben aber waren klug und fünf töricht<note>närrisch</note>.</verse>
+        <verse osisID='Matt.25.3'>Die töricht<note>närrisch</note> waren, nahmen ihre Lampen, aber sie nahmen kein Öl mit sich.</verse>
+        <verse osisID='Matt.25.4'>Die klugen aber nahmen Öl in ihren Gefäßen mit ihren Lampen.</verse>
+        <verse osisID='Matt.25.5'>Da aber der Bräutigam verzog, nickten alle ein und schlummerten.</verse>
+        <verse osisID='Matt.25.6'>Um Mitternacht aber ward ein Geschrei: Siehe, der Bräutigam kommt, zieht aus, ihm entgegen!</verse>
+        <verse osisID='Matt.25.7'>Da erwachten alle diese Jungfrauen und schmückten ihre Lampen.</verse>
+        <verse osisID='Matt.25.8'>Die törichten aber sprachen zu den klugen: Gebt uns von eurem Öl, denn unsre Lampen erlöschen.</verse>
+        <verse osisID='Matt.25.9'>Die klugen aber antworteten und sagten: Nicht doch! da möchte es uns und euch nicht genügen. Geht vielmehr zu denen, die es verkaufen, und kauft euch!</verse>
+        <verse osisID='Matt.25.10'>Während sie aber hingingen zu kaufen, kam der Bräutigam; und die bereit waren, gingen mit ihm zur Hochzeit ein und die Tür ward verschlossen.</verse>
+        <verse osisID='Matt.25.11'>Danach kamen auch die übrigen Jungfrauen und sagten: Herr, Herr! Tue uns auf!</verse>
+        <verse osisID='Matt.25.12'>Er aber antwortete und sprach: Wahrlich, ich sage euch, ich kenne euch nicht.</verse>
+        <verse osisID='Matt.25.13'>Wachet also, denn ihr wisset den Tag und die Stunde nicht, da des Menschen Sohn kommt.</verse>
+        <verse osisID='Matt.25.14'>So wie ein Mensch, der über Land zog, seine eigenen Knechte rief und ihnen seine Habe übergab;</verse>
+        <verse osisID='Matt.25.15'>Und dem einen gab er fünf Talente, einem aber zwei, einem aber ein Talent, jedem nach seinen eigenen Kräften, und zog alsbald über Land.</verse>
+        <verse osisID='Matt.25.16'>Der aber die fünf Talente empfangen hatte, ging hin und arbeitete damit und gewann<note>machte</note> fünf andere Talente.</verse>
+        <verse osisID='Matt.25.17'>Desgleichen auch der mit den zweien, und auch er gewann zwei andere.</verse>
+        <verse osisID='Matt.25.18'>Der aber das eine empfangen hatte, ging hin und grub in der Erde, und verbarg<note>verbarg hinweg</note> das Silber seines Herrn.</verse>
+        <verse osisID='Matt.25.19'>Nach langer<note>vieler</note> Zeit aber kommt der Herr dieser Knechte und hält mit ihnen Rechnung ab.</verse>
+        <verse osisID='Matt.25.20'>Und es kam herzu, der die fünf Talente empfangen, und brachte fünf andere Talente dazu, und sprach: Herr, fünf Talente hast du mir übergeben; siehe, ich habe fünf andere Talente zu denselben gewonnen.</verse>
+        <verse osisID='Matt.25.21'>Sein Herr sprach zu ihm: Wohl, du guter und getreuer Knecht; du warst über weniges getreu, ich werde dich über vieles setzen; gehe ein zur Freude deines Herrn!</verse>
+        <verse osisID='Matt.25.22'>Da kam aber auch herzu, der die zwei Talente empfangen hatte, und sprach: Herr, zwei Talente hast du mir übergeben; siehe, zwei andere Talente habe ich zu denselben gewonnen.</verse>
+        <verse osisID='Matt.25.23'>Sprach zu ihm sein Herr: Wohl, du guter und getreuer Knecht; du warst über weniges getreu, ich werde dich über vieles setzen. Gehe ein zur Freude deines Herrn!</verse>
+        <verse osisID='Matt.25.24'>Da kam aber auch herzu, der das eine Talent empfangen hatte, und sprach: Herr, ich kannte dich, daß du ein harter Mensch bist, erntest, wo du nicht gesät, und sammelst, wo du nicht ausgestreut hast.</verse>
+        <verse osisID='Matt.25.25'>Und ich fürchtete mich, ging hin, und verbarg dein Talent in der Erde; siehe, da hast du das deine.</verse>
+        <verse osisID='Matt.25.26'>Sein Herr aber antwortete und sprach zu ihm: Du schlechter und träger Knecht! Wußtest du, daß ich ernte, wo ich nicht gesät, und sammle, wo ich nicht ausgestreut habe?</verse>
+        <verse osisID='Matt.25.27'>Du hättest denn sollen mein Silber bei den Wechslern einlegen; und bei meinem Kommen hätte ich das Meinige mit Zins zurückerhalten.</verse>
+        <verse osisID='Matt.25.28'>Nehmt denn von ihm das Talent und gebt es dem, der zehn Talente hat.</verse>
+        <verse osisID='Matt.25.29'>Denn jedem, der da hat, wird gegeben, und er wird Überfluß haben; von dem aber, der nicht hat, von dem wird auch genommen, was er hat.</verse>
+        <verse osisID='Matt.25.30'>Und den unnützen Knecht werfet hinaus in die äußerste Finsternis. Da wird sein Weinen und Zähneknirschen.</verse>
+        <verse osisID='Matt.25.31'>Wenn aber des Menschen Sohn in Seiner Herrlichkeit kommen wird, und alle die heiligen Engel mit Ihm, dann wird Er sitzen auf dem Thron Seiner Herrlichkeit.</verse>
+        <verse osisID='Matt.25.32'>Denn alle Völkerschaften werden vor Ihm versammelt werden, und Er wird sie voneinander ausscheiden, wie der Hirte die Schafe von den Böcken ausscheidet.</verse>
+        <verse osisID='Matt.25.33'>Und Er wird die Schafe zu Seiner Rechten, die Böcke aber zu Linken stellen.</verse>
+        <verse osisID='Matt.25.34'>Dann wird der König zu denen auf Seiner Rechten sprechen: Kommt her, ihr Gesegneten Meines Vaters! Ererbet das Reich, das euch bereitet ist von der Gründung der Welt an.</verse>
+        <verse osisID='Matt.25.35'>Denn Ich hungerte, und ihr gabt Mir zu essen. Ich dürstete, und ihr habt Mich getränkt. Ich war ein Fremdling, und ihr habt Mich aufgenommen<note>gesammelt</note>.</verse>
+        <verse osisID='Matt.25.36'>Ich war nackt, und ihr habt Mich umkleidet, Ich war krank<note>siech</note>, und ihr besuchtet Mich. Ich bin im Gefängnis gewesen, und ihr seid zu Mir gekommen.</verse>
+        <verse osisID='Matt.25.37'>Dann werden Ihm die Gerechten antworten und sagen: Herr, wann sahen wir Dich hungrig und nährten Dich, oder durstig und tränkten Dich?</verse>
+        <verse osisID='Matt.25.38'>Wann sahen wir Dich einen Fremdling und nahmen Dich auf? oder nackt und umkleideten Dich?</verse>
+        <verse osisID='Matt.25.39'>Wann sahen wir Dich krank<note>siech</note> oder im Gefängnis und sind zu Dir gekommen?</verse>
+        <verse osisID='Matt.25.40'>Und der König wird ihnen antworten und sprechen: Wahrlich, Ich sage euch: Was ihr an einem der kleinsten dieser Meiner Brüder getan, das habt ihr Mir getan.</verse>
+        <verse osisID='Matt.25.41'>Dann wird Er zu denen auf der Linken sprechen: Geht hinweg von Mir, ihr Verfluchten, in das ewige Feuer, das bereitet ist dem Teufel und seinen Engeln.</verse>
+        <verse osisID='Matt.25.42'>Denn Ich war hungrig, und ihr gabt Mir nichts zu essen; Ich dürstete, und ihr tränktet Mich nicht;</verse>
+        <verse osisID='Matt.25.43'>Ich war ein Fremdling, und ihr habt Mich nicht aufgenommen<note>gesammelt</note>, nackt, und ihr habt Mich nicht umkleidet; krank<note>siech</note>, und im Gefängnis, und ihr habt Mich nicht besucht.</verse>
+        <verse osisID='Matt.25.44'>Dann werden auch sie antworten und sagen: Herr, wann sahen wir Dich hungrig oder durstig, oder fremd, oder nackt, oder krank<note>siech</note> oder im Gefängnis, und haben Dich nicht bedient?</verse>
+        <verse osisID='Matt.25.45'>Da wird Er ihnen antworten und sprechen: Wahrlich, Ich sage euch, was ihr dieser Kleinsten einem nicht getan, das habt ihr auch Mir nicht getan.</verse>
+        <verse osisID='Matt.25.46'>Und sie werden hingehen zur ewigen Strafe; die Gerechten aber in das ewige Leben.</verse>
+      </chapter>
+      <chapter osisID='Matt.26'>
+        <title>Das heilige Abendmahl.</title>
+        <verse osisID='Matt.26.1'>Und es geschah, da Jesus alle diese Worte vollendet hatte, sprach Er zu Seinen Jüngern:</verse>
+        <verse osisID='Matt.26.2'>Ihr wisset, daß nach zwei Tagen Pascha wird; und des Menschen Sohn wird überantwortet, daß Er gekreuzigt werde.</verse>
+        <verse osisID='Matt.26.3'>Da versammelten sich die Hohenpriester und die Schriftgelehrten und die Ältesten des Volkes in dem Hof des Hohenpriesters, genannt Kaiaphas.</verse>
+        <verse osisID='Matt.26.4'>Und berieten sich, wie sie Jesus mit Trug ergriffen und töteten.</verse>
+        <verse osisID='Matt.26.5'>Sie sprachen aber: Nicht am Fest, damit nicht ein Getümmel werde unter dem Volk.</verse>
+        <verse osisID='Matt.26.6'>Da Jesus aber in Bethanien, im Hause Simons des Aussätzigen war,</verse>
+        <verse osisID='Matt.26.7'>Kam zu Ihm ein Weib, das hatte eine Alabasterbüchse kostbarer Salbe und goß sie über Sein Haupt, da Er zu Tische lag.</verse>
+        <verse osisID='Matt.26.8'>Da das aber die Jünger sahen, wurden sie unwillig und sprachen: Wozu diese Verschwendung<note>Verderben</note>?</verse>
+        <verse osisID='Matt.26.9'>Denn man hätte die Salbe um vieles verkaufen<note>verhandeln</note> und es den Armen geben können.</verse>
+        <verse osisID='Matt.26.10'>Da das Jesus erkannte, sprach Er zu ihnen: Was bietet ihr dem Weibe Ungelegenheiten? Denn ein gutes<note>schönes</note> Werk hat sie an Mir gewirkt.</verse>
+        <verse osisID='Matt.26.11'>Denn die Armen habt ihr allezeit bei euch, Mich aber habt ihr nicht allezeit.</verse>
+        <verse osisID='Matt.26.12'>Daß sie diese Salbe auf Meinen Leib goß<note>warf</note>, das hat sie für Mein Begräbnis getan.</verse>
+        <verse osisID='Matt.26.13'>Wahrlich, Ich sage euch: Wo in der ganzen Welt dies Evangelium gepredigt wird, wird man auch reden von dem, was sie getan hat, zu ihrem Gedächtnis.</verse>
+        <verse osisID='Matt.26.14'>Da ging einer von den Zwölfen, genannt Judas Ischariot, hin zu den Hohenpriestern,</verse>
+        <verse osisID='Matt.26.15'>Und sprach: Was wollt ihr mir geben, daß ich Ihn euch überantworte? Sie aber bestimmten ihm dreißig Silberlinge.</verse>
+        <verse osisID='Matt.26.16'>Und von da an suchte er eine gute Gelegenheit, daß er Ihn verriete.</verse>
+        <verse osisID='Matt.26.17'>Aber am ersten<note>d.i. Festtage</note> des Ungesäuerten kamen die Jünger zu Jesus und sagten: Wo willst Du, daß wir Dir bereiten, das Paschalamm zu essen?</verse>
+        <verse osisID='Matt.26.18'>Er aber sprach: Geht hin in die Stadt zu einem<note>einem gewissen</note> und sagt ihm: der Lehrer sagt: Meine Zeit<note>bestimmte Zeit</note> ist nahe; bei dir halte<note>mache</note> Ich das Pascha mit Meinen Jüngern.</verse>
+        <verse osisID='Matt.26.19'>Und die Jünger taten, wie ihnen Jesus verordnet hatte, und bereiteten das Pascha.</verse>
+        <verse osisID='Matt.26.20'>Als es aber Abend geworden, legte Er Sich mit den Zwölfen zu Tisch.</verse>
+        <verse osisID='Matt.26.21'>Und da sie aßen, sprach Er: Wahrlich, Ich sage euch: Einer von euch wird Mich verraten.</verse>
+        <verse osisID='Matt.26.22'>Und sie wurden sehr betrübt, fingen an, ein jeglicher von ihnen, zu Ihm zu sagen: Ich bin es doch nicht, Herr?</verse>
+        <verse osisID='Matt.26.23'>Er aber antwortete und sprach: Der mit Mir die Hand in die Schale eintaucht, der wird Mich verraten.</verse>
+        <verse osisID='Matt.26.24'>Des Menschen Sohn geht zwar dahin, wie es von Ihm geschrieben ist; aber wehe jenem Menschen, durch den des Menschen Sohn verraten wird. Es wäre solchem Menschen besser<note>schön</note>, er wäre nie geboren.</verse>
+        <verse osisID='Matt.26.25'>Judas aber, der Ihn verriet, antwortete und sprach: Ich bin es doch nicht, Rabbi? Er spricht zu ihm: Du hast es gesagt.</verse>
+        <verse osisID='Matt.26.26'>Da sie aber aßen, nahm Jesus das Brot, und segnete, brach es, und gab es den Jüngern und sprach: Nehmet, esset, das ist Mein Leib!</verse>
+        <verse osisID='Matt.26.27'>Und Er nahm den Kelch, dankte, und gab ihnen den und sprach: Trinket alle daraus.</verse>
+        <verse osisID='Matt.26.28'>Denn das ist Mein Blut, das des Neuen Bundes, das für viele vergossen wird zur Vergebung der Sünden.</verse>
+        <verse osisID='Matt.26.29'>Aber Ich sage euch, Ich werde von nun an von diesem Gewächse des Weinstocks mitnichten trinken, bis zu dem Tage, da Ich es neu mit euch trinken werde in Meines Vaters Reiche.</verse>
+        <verse osisID='Matt.26.30'>Und nach dem Lobgesang gingen sie hinaus an den Ölberg.</verse>
+        <verse osisID='Matt.26.31'>Dann spricht Jesus zu ihnen: Ihr werdet euch in dieser Nacht alle an Mir ärgern; denn es ist geschrieben: Ich werde den Hirten schlagen und die Schafe der Herde werden sich zerstreuen.</verse>
+        <verse osisID='Matt.26.32'>Wenn Ich aber auferweckt bin, werde Ich euch nach Galiläa vorangehen.</verse>
+        <verse osisID='Matt.26.33'>Petrus aber antwortete und sprach zu Ihm: Wenn sich auch alle an Dir ärgern, so will doch ich mich nimmermehr ärgern.</verse>
+        <verse osisID='Matt.26.34'>Jesus sprach zu ihm: Wahrlich, Ich sage dir, in dieser selben Nacht, ehe der Hahn kräht, wirst du Mich dreimal verleugnen.</verse>
+        <verse osisID='Matt.26.35'>Spricht zu Ihm Petrus: Und wenn ich auch mit Dir sterben müßte, werde ich Dich mitnichten verleugnen, desgleichen sprachen auch alle Jünger.</verse>
+        <verse osisID='Matt.26.36'>Da kommt Jesus mit ihnen an einen Hof<note>Grundstück</note>, Gethsemane genannt, und spricht zu den Jüngern: Setzet euch hier, indes Ich dort hingehe und bete.</verse>
+        <verse osisID='Matt.26.37'>Und Er nahm mit Sich Petrus und die zwei Söhne des Zebedäus und fing an Sich zu betrüben und zu zagen.</verse>
+        <verse osisID='Matt.26.38'>Dann spricht Er zu ihnen: Meine Seele ist tief betrübt bis in den Tod. Bleibet hier und wachet mit Mir.</verse>
+        <verse osisID='Matt.26.39'>Und Er ging ein wenig vor, fiel auf Sein Angesicht, betete und sprach: Mein Vater, so es möglich ist, laß diesen Kelch an Mir vorübergehen, doch nicht, wie Ich will, sondern wie Du.</verse>
+        <verse osisID='Matt.26.40'>Und Er kommt zu den Jüngern und findet sie schlummernd, und spricht zu Petrus: So vermochtet ihr denn nicht eine Stunde mit Mir zu wachen?</verse>
+        <verse osisID='Matt.26.41'>Wachet und betet, auf daß ihr nicht in Versuchung kommt. Der Geist zwar ist willig, aber das Fleisch ist schwach,</verse>
+        <verse osisID='Matt.26.42'>Und Er ging wieder zum zweiten Male hin, betete und sprach: Mein Vater, kann dieser Kelch nicht an Mir vorübergehen, Ich trinke ihn denn, so geschehe Dein Wille!</verse>
+        <verse osisID='Matt.26.43'>Und Er kommt und findet sie abermals schlummernd; denn die Augen waren ihnen beschwert.</verse>
+        <verse osisID='Matt.26.44'>Und Er ließ sie und ging wieder hin und betete zum dritten Male, indem Er dieselben Worte sprach.</verse>
+        <verse osisID='Matt.26.45'>Da kommt Er zu Seinen Jüngern und spricht zu ihnen: So schlummert denn ferner und ruhet aus. Siehe, die Stunde ist nahe, und des Menschen Sohn wird in die Hände der Sünder überantwortet.</verse>
+        <verse osisID='Matt.26.46'>Macht euch auf<note>Wachet auf</note>, laßt uns gehen! Siehe, er ist nahe, der Mich verrät.</verse>
+        <verse osisID='Matt.26.47'>Und als Er noch redete, siehe, da kam Judas, einer der Zwölfe, und mit ihm vieles Gedränge mit Schwertern und Knitteln<note>Hölzern</note> von den Hohenpriestern und Ältesten des Volkes.</verse>
+        <verse osisID='Matt.26.48'>Der Ihn verriet hatte ihnen aber ein Zeichen gegeben und gesagt: Der, Den ich küssen werde, Der ist es, Den ergreifet!</verse>
+        <verse osisID='Matt.26.49'>Und alsbald kam er zu Jesus herbei und sprach: Sei gegrüßt, Rabbi! und küßte Ihn.</verse>
+        <verse osisID='Matt.26.50'>Jesus aber sprach zu ihm: Weshalb bist du hier, Geselle? Da kamen sie herzu, legten die Hände an Jesus und ergriffen Ihn.</verse>
+        <verse osisID='Matt.26.51'>Und siehe, einer von denen, die bei Jesus waren, reckte die Hand aus, zog sein Schwert heraus und schlug des Hohenpriesters Knecht und hieb<note>nahm</note> ihm das Ohr ab.</verse>
+        <verse osisID='Matt.26.52'>Da spricht Jesus zu ihm: Stecke<note>Wende ab</note> dein Schwert an seinen Ort; denn alle, die das Schwert nehmen, sollen durch das Schwert umkommen.</verse>
+        <verse osisID='Matt.26.53'>Oder meinst du, Ich könnte nicht eben jetzt Meinen Vater anflehen, und Er würde Mir mehr den zwölf Legionen Engel zustellen?</verse>
+        <verse osisID='Matt.26.54'>Wie würden die Schriften dann erfüllt, daß es also geschehen muß?</verse>
+        <verse osisID='Matt.26.55'>Zur selben Stunde sprach Jesus zu dem Gedränge: Wie gegen einen Räuber seid ihr gegen Mich mit Schwertern und Knitteln<note>Hölzern</note> ausgezogen, um Mich zu fangen. Täglich saß Ich bei euch und lehrte im Heiligtum, und ihr habt Mich nicht ergriffen.</verse>
+        <verse osisID='Matt.26.56'>Dies alles aber ist geschehen, daß die Schriften der Propheten erfüllt würden. Da verließen Ihn alle Seine Jünger und flohen.</verse>
+        <verse osisID='Matt.26.57'>Die aber Jesus ergriffen hatten, führten Ihn hin zum Hohenpriester Kaiaphas, wo sich die Schriftgelehrten und die Ältesten versammelt hatten.</verse>
+        <verse osisID='Matt.26.58'>Petrus aber folgte Ihm nach von weitem bis in den Hof des Hohenpriesters, ging hinein und setzte sich zu den Amtsdienern, um das Ende zu sehen.</verse>
+        <verse osisID='Matt.26.59'>Die Hohenpriester aber und die Ältesten und der ganze Rat suchten falsches Zeugnis wider Jesus, um Ihn zum Tode zu bringen;</verse>
+        <verse osisID='Matt.26.60'>Und sie fanden keines; und obgleich viele falsche Zeugen herzukamen, fanden sie keines. Danach kamen aber zwei falsche Zeugen herzu und sagten:</verse>
+        <verse osisID='Matt.26.61'>Dieser hat gesagt: Ich kann den Tempel Gottes niederreißen und in drei Tagen ihn aufbauen.</verse>
+        <verse osisID='Matt.26.62'>Und der Hohepriester stand auf und sprach zu Ihm: Antwortest Du nichts auf das, was diese wider Dich zeugen?</verse>
+        <verse osisID='Matt.26.63'>Jesus aber schwieg stille. Und der Hohepriester antwortete und sprach zu Ihm: Ich beschwöre Dich bei Gott dem Lebendigen, daß Du uns sagst, ob Du Christus, der Sohn Gottes bist?</verse>
+        <verse osisID='Matt.26.64'>Spricht zu ihm Jesus: Du hast es gesagt. Doch sage Ich euch: Hinfort werdet ihr des Menschen Sohn sitzen sehen zur Rechten der Kraft und kommen auf den Wolken des Himmels.</verse>
+        <verse osisID='Matt.26.65'>Da zerriß der Hohepriester seine Kleider und sprach: Er hat gelästert. Was bedürfen wir noch Zeugen? Seht, nun habt ihr Seine Lästerung gehört!</verse>
+        <verse osisID='Matt.26.66'>Was dünkt euch? Sie aber antworteten und sprachen: Er ist des Todes schuldig.</verse>
+        <verse osisID='Matt.26.67'>Da speieten sie Ihm ins Angesicht und schlugen Ihn mit Fäusten. Etliche aber gaben Ihm Backenstreiche,</verse>
+        <verse osisID='Matt.26.68'>Und sprachen: Weissage uns, Christus! Wer hat dich geschlagen<note>gehauen</note>?</verse>
+        <verse osisID='Matt.26.69'>Petrus aber saß draußen in dem Hof; und eine Magd kam zu ihm und sprach: Auch du warst mit Jesus, dem Galiläer.</verse>
+        <verse osisID='Matt.26.70'>Er aber leugnete vor allen und sprach: Ich weiß nicht, was du sagst.</verse>
+        <verse osisID='Matt.26.71'>Als er aber in das Tor hinauskam, sah ihn eine andere und sagte zu denen, die daselbst waren: Auch der da war mit Jesus, dem Nazarener.</verse>
+        <verse osisID='Matt.26.72'>Und er leugnete wiederum mit einem Schwur: Ich kenne den Menschen nicht.</verse>
+        <verse osisID='Matt.26.73'>Ein wenig danach aber kamen die dort Stehenden herzu und sprachen zu Petrus: Wahrlich, auch du bist einer von ihnen, denn auch deine Sprache macht dich kennbar.</verse>
+        <verse osisID='Matt.26.74'>Da fing er an, sich zu verwünschen und zu schwören: Ich kenne den Menschen nicht. Und alsbald krähte der Hahn.</verse>
+        <verse osisID='Matt.26.75'>Und Petrus gedachte der Rede Jesu, da Er zu ihm sprach: Ehe der Hahn kräht, wirst du Mich dreimal verleugnen. Und er ging hinaus und weinte bitterlich.</verse>
+      </chapter>
+      <chapter osisID='Matt.27'>
+        <title>Jesus vor Gericht. - Seine Kreuzigung und Sein Begräbnis.</title>
+        <verse osisID='Matt.27.1'>Als es aber Morgen ward, hielten alle Hohenpriester und die Ältesten des Volkes eine Beratung über Jesus, daß sie Ihn zum Tode brächten.</verse>
+        <verse osisID='Matt.27.2'>Und sie banden Ihn, führten Ihn hin und überantworteten Ihn dem Landpfleger Pontius Pilatus.</verse>
+        <verse osisID='Matt.27.3'>Da Judas, der Ihn verriet, sah, daß Er verurteilt<note>verdammt</note> war, reute es ihn, und er brachte die dreißig Silberlinge zurück<note>wendete ab</note> den Hohenpriestern und den Ältesten,</verse>
+        <verse osisID='Matt.27.4'>Und sprach: Ich habe gesündigt, daß ich unschuldig Blut verraten. Sie aber sagten: Was geht<note>Was für uns?</note> das uns an? Sieh du zu.</verse>
+        <verse osisID='Matt.27.5'>Und er warf die Silberlinge dahin in den Tempel, entwich, ging hin und erhängte sich.</verse>
+        <verse osisID='Matt.27.6'>Die Hohenpriester aber nahmen die Silberlinge und sprachen: Es ist nicht erlaubt, sie in den Opferkasten zu werfen, weil es Schatzung<note>Ehre</note> des Blutes ist.</verse>
+        <verse osisID='Matt.27.7'>Sie hielten aber eine Beratung und kauften damit den Töpferacker<note>das Feld des Töpfers</note> zu einem Begräbnis für Fremde.</verse>
+        <verse osisID='Matt.27.8'>Daher jenes Feld bis auf den heutigen Tag der Blutacker<note>Feld des Blutes</note> heißt.</verse>
+        <verse osisID='Matt.27.9'>Da wurde erfüllt, was durch den Propheten Jeremias gesprochen ist, der sagt: Und sie nahmen die dreißig Silberlinge, die Schatzung<note>Ehre</note> dessen, der schätzt wurde, den sie sich schätzen ließen von den Söhnen Israels.</verse>
+        <verse osisID='Matt.27.10'>Und gaben sie für den Töpferacker<note>das Feld des Töpfers</note>, wie mir der Herr verordnet hat.</verse>
+        <verse osisID='Matt.27.11'>Jesus aber stand vor dem Landpfleger, und der Landpfleger fragte Ihn und sprach: Bist Du der Juden König? Jesus aber sprach zu ihm: Du sagst es.</verse>
+        <verse osisID='Matt.27.12'>Und da Er verklagt ward von den Hohenpriestern und den Ältesten, antwortete Er nichts.</verse>
+        <verse osisID='Matt.27.13'>Da spricht Pilatus zu Ihm: Hörst Du nicht, was<note>wieviel</note> sie wider Dich zeugen?</verse>
+        <verse osisID='Matt.27.14'>Und Er antwortete ihm nicht auf eine Rede, also daß sich der Landpfleger ungemein verwunderte.</verse>
+        <verse osisID='Matt.27.15'>Der Landpfleger hatte aber die Gewohnheit, dem Gedränge auf das Fest einen Gefangenen loszugeben, welchen sie wollten.</verse>
+        <verse osisID='Matt.27.16'>Sie hatten aber gerade einen besonderen Gefangenen, genannt Barabbas.</verse>
+        <verse osisID='Matt.27.17'>Da sie nun versammelt waren, sprach Pilatus zu ihnen: Welchen wollt ihr, daß ich euch losgebe? Barabbas oder Jesus, Der da genannt wird Christus?</verse>
+        <verse osisID='Matt.27.18'>Denn er wußte, daß sie Ihn aus Neid überantwortet hatten.</verse>
+        <verse osisID='Matt.27.19'>Indem er aber auf dem Richtstuhle saß, sandte sein Weib zu ihm und sagte: Habe<note>Nichts sei dir und diesem</note> du nichts zu tun mit diesem Gerechten; denn ich habe heute viel erlitten im Traum wegen Seiner.</verse>
+        <verse osisID='Matt.27.20'>Die Hohenpriester aber und die Ältesten überredeten das Gedränge, daß sie um Barabbas bitten sollten, Jesum aber umbrächten.</verse>
+        <verse osisID='Matt.27.21'>Der Landpfleger aber antwortete und sprach zu ihnen: Welchen wollt ihr von den zweien, daß ich euch losgebe? Sie aber sprachen: Barabbas!</verse>
+        <verse osisID='Matt.27.22'>Spricht Pilatus zu ihnen: Was soll ich denn mit Jesus tun, Der Christus genannt wird? Sie sprachen alle: Er soll gekreuzigt werden!</verse>
+        <verse osisID='Matt.27.23'>Der Landpfleger aber sprach: Was hat Er denn Böses getan? Sie aber schrien viel mehr und sprachen: Er soll gekreuzigt werden!</verse>
+        <verse osisID='Matt.27.24'>Da Pilatus aber sah, daß es nicht nützte, sondern des Getümmels mehr ward, nahm er Wasser, wusch sich die Hände vor dem Gedränge und sprach: Ich bin unschuldig an dem Blute dieses Gerechten! Seht ihr zu.</verse>
+        <verse osisID='Matt.27.25'>Und das ganze Volk antwortete und sprach: Sein Blut sei auf uns und unseren Kindern!</verse>
+        <verse osisID='Matt.27.26'>Da gab er ihnen Barabbas los, Jesus aber ließ er geißeln und überantwortete Ihn, daß Er gekreuzigt würde.</verse>
+        <verse osisID='Matt.27.27'>Da nahmen die Kriegsknechte des Landpflegers Jesus in das Richthaus und versammelten die ganze Kohorte über Ihn.</verse>
+        <verse osisID='Matt.27.28'>Und sie zogen Ihn aus und legten Ihm einen Scharlachmantel um;</verse>
+        <verse osisID='Matt.27.29'>Und sie flochten einen Krone von Dornen und setzten sie Ihm auf Sein Haupt, und ein Rohr in Seine Rechte, fielen auf das Knie vor Ihm und verspotteten Ihn und sagten: Sei gegrüßt, König der Juden!</verse>
+        <verse osisID='Matt.27.30'>Und speieten Ihn an und nahmen das Rohr und schlugen Ihn auf Sein Haupt.</verse>
+        <verse osisID='Matt.27.31'>Und als sie Ihn verspottet hatten, zogen sie Ihm den Mantel aus, und taten Ihm Seine Kleider an und führten Ihn ab, daß sie Ihn kreuzigten.</verse>
+        <verse osisID='Matt.27.32'>Indem sie aber hinauszogen, fanden sie einen Menschen von Kyrene mit Namen Simon; den nötigten sie, Sein Kreuz zu tragen.</verse>
+        <verse osisID='Matt.27.33'>Und als sie an den Ort kamen, genannt Golgatha, das heißt Schädelstätte<note>das ist gesagt Ort des Schädels</note>,</verse>
+        <verse osisID='Matt.27.34'>Gaben sie Ihm Essig, mit Galle vermischt, zu trinken, und als Er es kostete, wollte Er nicht trinken.</verse>
+        <verse osisID='Matt.27.35'>Als sie Ihn aber gekreuzigt hatten, verteilten sie Seine Kleider unter sich, indem sie das Los warfen; auf daß erfüllt würde, was durch den Propheten gesagt ist: Sie verteilten Meine Kleider<note>Oberkleider</note> unter sich, und warfen das Los über Meinen Rock.</verse>
+        <verse osisID='Matt.27.36'>Und sie saßen da und bewachten Ihn.</verse>
+        <verse osisID='Matt.27.37'>Und über Seinem Haupte setzten sie in einer Aufschrift die Ursache Seines Todes: Dies ist Jesus, der Juden König.</verse>
+        <verse osisID='Matt.27.38'>Alsdann wurden mit Ihm gekreuzigt zwei Räuber, einer zur Rechten, und einer zur Linken.</verse>
+        <verse osisID='Matt.27.39'>Die aber vorübergingen, lästerten Ihn, indem sie ihre Köpfe schüttelten.</verse>
+        <verse osisID='Matt.27.40'>Und sagten: Der Du den Tempel niederreißt und in drei Tagen aufbaust, rette Dich Selber! Wenn Du Gottes Sohn bist, so steige herab von dem Kreuz!</verse>
+        <verse osisID='Matt.27.41'>Desgleichen verspotteten Ihn auch die Hohenpriester mit den Schriftgelehrten und Ältesten und sprachen:</verse>
+        <verse osisID='Matt.27.42'>Andere hat Er gerettet, Sich Selbst kann Er nicht retten! Wenn Er Israels König ist, so steige Er nun herab vom Kreuz, und wir wollen Ihm glauben.</verse>
+        <verse osisID='Matt.27.43'>Er hat auf Gott vertraut! Der errette Ihn nun, wenn Er Ihn will. Denn Er hat gesagt: Ich bin Gottes Sohn!</verse>
+        <verse osisID='Matt.27.44'>Ebenso aber schmähten Ihn auch die Räuber, die mit Ihm gekreuzigt waren.</verse>
+        <verse osisID='Matt.27.45'>Aber von der sechsten Stunde an ward Finsternis über das ganze Land bis zur neunten Stunde.</verse>
+        <verse osisID='Matt.27.46'>Um die neunte Stunde aber schrie Jesus auf mit großer Stimme und sprach: Eli, Eli lama sabachthani, das ist: Mein Gott, Mein Gott, warum hat Du Mich verlassen?</verse>
+        <verse osisID='Matt.27.47'>Einige aber der dort Stehenden, da sie es hörten, sagten: Er ruft den Elias herbei.</verse>
+        <verse osisID='Matt.27.48'>Und alsbald lief einer von ihnen und nahm einen Schwamm, füllte ihn mit Essig, legte ihn um ein Rohr und tränkte Ihn.</verse>
+        <verse osisID='Matt.27.49'>Die übrigen aber sagten: Halt, laß sehen, ob Elias kommt, Ihn zu retten.</verse>
+        <verse osisID='Matt.27.50'>Jesus aber schrie abermals mit großer Stimme und gab<note>entsandte</note> den Geist auf.</verse>
+        <verse osisID='Matt.27.51'>Und siehe, der Vorhang des Tempels zerriß<note>spaltete sich</note> entzwei von oben bis unten, und die Erde bebte und die Felsen zerrissen<note>spalteten sich</note>.</verse>
+        <verse osisID='Matt.27.52'>Und die Grüfte taten sich auf und viele Leiber der entschlafenen Heiligen wurden auferweckt.</verse>
+        <verse osisID='Matt.27.53'>Und gingen aus von den Grüften und kamen nach Seiner Auferstehung herein in die heilige Stadt und erschienen vielen.</verse>
+        <verse osisID='Matt.27.54'>Da aber der Hauptmann und die mit ihm Jesus bewachten sahen das Erdbeben und das, was geschah, fürchteten sie sich sehr und sprachen: Fürwahr, Dieser war Gottes Sohn!</verse>
+        <verse osisID='Matt.27.55'>Es waren aber da viele Frauen, die von weitem zuschauten; die Jesus aus Galiläa nachgefolgt waren, um Ihm Dienste zu tun.</verse>
+        <verse osisID='Matt.27.56'>Und unter ihnen waren Maria von Magdala, und Maria, des Jakobus und des Joses Mutter und die Mutter der Söhne des Zebedäus.</verse>
+        <verse osisID='Matt.27.57'>Als es aber Abend ward, kam ein reicher Mensch von Arimathäa, mit Namen Joseph, der auch ein Jünger Jesu war.</verse>
+        <verse osisID='Matt.27.58'>Dieser ging herbei zu Pilatus und bat um den Leib Jesu. Da befahl Pilatus, daß der Leib ihm sollte übergeben werden.</verse>
+        <verse osisID='Matt.27.59'>Und Joseph nahm den Leib, wickelte ihn ein in reine Leinwand,</verse>
+        <verse osisID='Matt.27.60'>Und legte ihn in seine neue Gruft, die er hatte in den Fels hauen lassen, und wälzte einen großen Stein vor die Tür zu der Gruft und ging weg.</verse>
+        <verse osisID='Matt.27.61'>Es war aber dort Maria von Magdala und die andere Maria, die saßen der Grabstätte gegenüber.</verse>
+        <verse osisID='Matt.27.62'>Am folgenden Tag aber, der nach dem Rüsttag ist, versammelten sich die Hohenpriester und die Pharisäer zu Pilatus,</verse>
+        <verse osisID='Matt.27.63'>Und sagten: Herr, wir erinnern uns, daß dieser Verführer, da Er noch lebte, gesagt hat: Nach drei Tagen werde Ich auferweckt.</verse>
+        <verse osisID='Matt.27.64'>So befiehl denn, daß man sich der Grabstätte bis zum dritten Tag versichere, auf daß nicht Seine Jünger kommen, Ihn stehlen und dem Volke sagen: Er ist von den Toten auferweckt! und die letzte Verführung schlimmer werde als die erste.</verse>
+        <verse osisID='Matt.27.65'>Pilatus sprach zu ihnen: Ihr sollt eine Wache haben, geht hin und versichert euch, wie ihr es wisset.</verse>
+        <verse osisID='Matt.27.66'>Sie aber gingen hin, versicherten sich der Grabstätte und mit der Wache versiegelten sie den Stein.</verse>
+      </chapter>
+      <chapter osisID='Matt.28'>
+        <title>Auferstehung des Herrn.</title>
+        <verse osisID='Matt.28.1'>Spät aber am Sabbath, als schon der erste Wochentag dämmern wollte, kam Maria von Magdala und die andere Maria, die Grabstätte zu beschauen.</verse>
+        <verse osisID='Matt.28.2'>Und siehe, das geschah ein großes Erdbeben; denn der Engel des Herrn stieg vom Himmel herab, kam hinzu, wälzte den Stein weg von der Tür und setzte sich darauf.</verse>
+        <verse osisID='Matt.28.3'>Er war aber anzusehen wie ein Blitz und sein Kleid weiß wie Schnee.</verse>
+        <verse osisID='Matt.28.4'>Aber aus Furcht vor ihm erbebten, die es bewachten, und wurden wie tot.</verse>
+        <verse osisID='Matt.28.5'>Der Engel aber hob an<note>antwortete</note> und sprach zu den Weibern: Fürchtet euch nicht; denn ich weiß, daß ihr Jesus den Gekreuzigten sucht.</verse>
+        <verse osisID='Matt.28.6'>Er ist nicht hier; denn Er ist auferweckt, wie Er gesagt hat. Kommt her, und seht den Ort, da der Herr gelegen hat.</verse>
+        <verse osisID='Matt.28.7'>Und geht schnell hin und sagt Seinen Jüngern, daß Er von den Toten auferweckt ist. Und siehe, Er geht vor euch hin nach Galiläa. Dort werdet ihr Ihn sehen. Siehe, ich habe es euch gesagt.</verse>
+        <verse osisID='Matt.28.8'>Und sie gingen schnell hinaus von der Gruft mit Furcht und großer Freude und liefen, es Seinen Jüngern anzusagen.</verse>
+        <verse osisID='Matt.28.9'>Wie sie aber hingingen, es Seinen Jüngern anzusagen, begegnete ihnen Jesus und sprach: Seid gegrüßt! Sie aber kamen herzu, ergriffen Seine Füße und beteten Ihn an.</verse>
+        <verse osisID='Matt.28.10'>Da spricht Jesus zu ihnen: Fürchtet euch nicht! Geht hin und sagt Meinen Brüdern an, daß sie nach Galiläa hingehen, und dort werden sie Mich sehen.</verse>
+        <verse osisID='Matt.28.11'>Während sie aber hingingen, siehe, da kamen einige von der Wache in die Stadt und sagten den Hohenpriestern an alles, was geschehen war.</verse>
+        <verse osisID='Matt.28.12'>Und sie versammelten sich mit den Ältesten und faßten einen Beschluß und gaben den Kriegsknechten Silbers genug,</verse>
+        <verse osisID='Matt.28.13'>Und sprachen: Sagt, Seine Jünger sind in der Nacht gekommen und haben Ihn gestohlen, während wir schliefen.</verse>
+        <verse osisID='Matt.28.14'>Und wenn der Landpfleger davon hört, wollen wir ihn überreden, und euch außer Sorge setzen<note>machen</note>.</verse>
+        <verse osisID='Matt.28.15'>Sie aber nahmen die Silberlinge und taten, wie sie gelehrt waren. Und solches Wort ist bei den Juden ruchbar bis auf den heutigen Tag.</verse>
+        <verse osisID='Matt.28.16'>Die elf Jünger aber gingen hin nach Galiläa auf den Berg, wohin sie Jesus beschieden<note>verordnet</note> hatte.</verse>
+        <verse osisID='Matt.28.17'>Und da sie Ihn sahen, fielen sie vor Ihm nieder; einige aber zweifelten.</verse>
+        <verse osisID='Matt.28.18'>Und Jesus kam zu ihnen, redete mit ihnen und sprach: Mir ist gegeben alle Gewalt im Himmel und auf Erden.</verse>
+        <verse osisID='Matt.28.19'>Darum gehet hin und macht zu Jüngern alle Völkerschaften und taufet sie im Namen des Vaters und des Sohnes und des Heiligen Geistes.</verse>
+        <verse osisID='Matt.28.20'>Und lehret sie halten alles, was Ich euch geboten habe. Und siehe, Ich bin mit euch alle Tage bis zur Vollendung des Zeitlaufs. Amen.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

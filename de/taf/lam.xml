@@ -1,0 +1,270 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <osisText osisRefWork='Bible' osisIDWork='TAF' xml:lang='de'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='TAF'>
+        <title>Tafelbibel</title>
+        <contributor>Martin</contributor>
+        <creator>Jens Grabner</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject>holy bible</subject>
+        <date>2009-01-20</date>
+        <description>Die Bibel - Übersetzung von Johann Friedrich Leonhard Tafel
+
+      Die vorliegende Neuausgabe ist eine Abschrift der Übersetzung von Dr. Leonhard
+      Tafel, revidiert von Ludwig H. Tafel, dritte Ausgabe 1911, und wurde auf ihre
+      Vollständigkeit überprüft. Es wurde die Rechtschreibregel der heutigen Zeit (noch
+      vor der Rechtschreibreform 1998) angewendet, ohne den Stil der Sprache zu verändern.
+
+      Wer in dieser Bibel einige Bücher vermisst, sei auf das Vorwort der Source verwiesen.
+      Auf der zweiten Seite steht dort:
+      Der zweite Band enthält die übrigen, sogenannten
+      Hagiographen oder heiligen Bücher: die Bücher Hiob, Sprichwörter, Hohelied, Prediger, Ruth, Chronika, Esra,
+      Nehemia, Esther und die Apokryphen.²
+      2. Gegenwärtige, Revision des Zefania XML Moduls  enthält die Hagiographen und Apokryphen nicht, da
+      sie nicht verfügbar waren.</description>
+        <publisher>FREE BIBLE SOFTWARE GROUP</publisher>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>TAF</identifier>
+        <source>http://www.ubf-dortmund.de/bibel/tafel.htm</source>
+        <language type='IETF'>de</language>
+        <relation/>
+        <coverage>provide the bible to the world</coverage>
+        <rights>Mit freundlicher Genehmigung des Swedenborg Verlag Postfach 1205 CH - 8032 Zürich</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Lam'>
+      <chapter osisID='Lam.1'>
+        <title>Klagelieder des Jeremjah</title>
+        <title>Klagelied über Jerusalems Zerstörung.</title>
+        <verse osisID='Lam.1.1'>Wie sitzet so einsam die Stadt! wo viel Volkes war, wie eine Witwe ist sie geworden! Die Große<note>viele</note> unter den Völkerschaften, die Fürstin der Landschaften, ist zinsbar geworden.</verse>
+        <verse osisID='Lam.1.2'>Weinend weint sie bei Nacht, und ihre Träne ist auf ihrer Wange; und keiner ist, der sie tröstete, von allen ihren Liebhabern; alle ihre Genossen sind ihr treulos, sind zu Feinden ihr geworden.</verse>
+        <verse osisID='Lam.1.3'>Jehudah ist weggeführt ob dem Elend, und ob dem vielen Dienste, sie wohnt<note>sitzt</note> unter den Völkerschaften, sie findet keine Ruhe; alle, die es verfolgen, erreichen sie in den Bedrängnissen.</verse>
+        <verse osisID='Lam.1.4'>Die Wege Zijons trauern, daß niemand kommt zur Festzeit. Alle ihre Tore sind verwüstet, ihre Priester seufzen, ihre Jungfrauen grämen sich, und sie - ihr ist es bitter.</verse>
+        <verse osisID='Lam.1.5'>Ihre Dränger sind worden zum Haupt, ihre Feinde sind im Behagen, weil Jehovah sie grämen läßt ob der Menge ihrer Übertretungen. Ihre Kindlein gehen in die Gefangenschaft vor dem Dränger.</verse>
+        <verse osisID='Lam.1.6'>Und fortgegangen von der Tochter Zijon ist alle ihre Ehre. Ihre Obersten sind wie Hirsche, die keine Weide finden, und sie gehen hin, ohne Kraft vor dem Verfolger.</verse>
+        <verse osisID='Lam.1.7'>Jerusalem gedenkt in den Tagen ihres Elends und ihrer Trübsal all ihrer Annehmlichkeiten<note>ihr Begehrenswertes</note> von der Vorzeit Tagen. Da ihr Volk ist gefallen in die Hand des Drängers und ihr niemand beisteht, sehen es die Dränger und lachen über ihr Feiern.</verse>
+        <verse osisID='Lam.1.8'>Jerusalem hat gesündigt<note>sündigend gesündigt</note>; darum ist sie zur Befleckung geworden. Alle die, so sie verherrlicht, miß-achten sie; denn ihre Blöße haben sie gesehen; auch seufzt sie und hat sich zurückgewendet rückwärts.</verse>
+        <verse osisID='Lam.1.9'>Ihre Unreinheit ist an ihren Säumen. Sie hat an ihre Zukunft nicht gedacht, und ist wunderbarlich herabgekommen. Niemand tröstet sie. Jehovah, siehe mein Elend; denn groß macht sich der Feind.</verse>
+        <verse osisID='Lam.1.10'>Der Dränger hat seine Hand über all ihre Kleinode<note>ihr Begehrenswertes</note> ausgebreitet; denn sie sah, daß Völkerschaften kamen in ihr Heiligtum, von denen Du geboten, daß sie nicht in Deine Versammlung kommen sollten.</verse>
+        <verse osisID='Lam.1.11'>All ihr Volk seufzt, sie suchen Brot, sie gaben ihre Kleinode<note>ihr Begehrenswertes</note> für Speise, daß sie erquicketen<note>zurückbringen</note> ihre Seele. Siehe, Jehovah, und blicke her, wie ich mißachtet bin.</verse>
+        <verse osisID='Lam.1.12'>Ist es euch nichts, ihr alle, die ihr des Weges vorübergeht? Blicket und seht, ob ein Schmerz ist wie mein Schmerz, der mir ward angetan, womit Jehovah mich am Tage der Entbrennung Seines Zorns betrübt<note>gegrämt</note> hat?</verse>
+        <verse osisID='Lam.1.13'>Er sandte Feuer aus der Höhe in mein Gebein und es beherrschte dasselbe. Er breitete ein Netz aus für meine Füße; Er hat mich rückwärts zurückgewandt; Er hat mich der Verwüstung hingegeben; ich sieche den ganzen Tag.</verse>
+        <verse osisID='Lam.1.14'>Meiner Übertretungen Joch ist festgeknüpft durch Seine Hand, sie sind verflochten über meinem Hals heraufgekommen, es hat meine Kraft zum Straucheln gebracht, der Herr hat in Hände mich gegeben, daß ich nicht aufkommen kann.</verse>
+        <verse osisID='Lam.1.15'>Alle meine Gewaltigen in meiner Mitte hat der Herr hinuntergetreten, über mich die bestimmte Zeit ausgerufen, um meine Jünglinge zu zerbrechen. Die Kelter hat der Herr getreten der Jungfrau, der Tochter Jehudahs.</verse>
+        <verse osisID='Lam.1.16'>Darob weine ich; mein Auge, mein Auge, herab rinnt Wasser; denn ferne ist von mir der Tröster, der meine Seele erquickt<note>zurückbringt</note>. Meine Söhne sind verwüstet; denn der Feind ward übermächtig.</verse>
+        <verse osisID='Lam.1.17'>Zijon breitet ihre Hände aus, es ist für sie kein Tröster. Jehovah hat wider Jakob rings um ihn seine Dränger entboten. Jerusalem ist unter ihnen zur Befleckung geworden.</verse>
+        <verse osisID='Lam.1.18'>Gerecht ist Er, Jehovah; denn ich war widerspenstig wider Seinen Mund. Hört doch, ihr Völker alle, und sehet meinen Schmerz! Meine Jungfrauen und meine Jünglinge sind gegangen in Gefangenschaft.</verse>
+        <verse osisID='Lam.1.19'>Ich rief meinen Liebhabern - sie betrogen mich. Meine Priester und meine Ältesten sind verschieden in der Stadt, denn sie suchten Speise für sich, um ihre Seele zu erquicken<note>zurückzubringen</note>.</verse>
+        <verse osisID='Lam.1.20'>Siehe, Jehovah, wie mir angst ist. Mein Eingeweide wallt auf, mein Herz kehrt sich um in meinem Inneren, weil ich widerspenstig war. Draußen macht das Schwert mich kinder- los, im Haus ist es wie der Tod.</verse>
+        <verse osisID='Lam.1.21'>Sie hörten, wie ich seufzte, ich habe keinen Tröster; alle meine Feinde hörten, was mir Böses geschah; sie freuen sich, daß du es getan hast. Du bringst den Tag, den Du gerufen hast, und sie werden wie ich.</verse>
+        <verse osisID='Lam.1.22'>Laß alle ihre Bosheit vor Dich kommen, und tue ihnen an, wie Du mir ob aller meiner Übertretungen hast angetan; denn viel sind meiner Seufzer, und mein Herz ist siech.</verse>
+      </chapter>
+      <chapter osisID='Lam.2'>
+        <title>Zerstörung der Stadt und Verwüstung des Landes.</title>
+        <verse osisID='Lam.2.1'>Wie hat der Herr in Seinem Zorn umwölkt die Tochter Zijons, geworfen aus den Himmeln auf die Erde Israels Schmuck, und hat nicht gedacht des Schemels Seiner Füße am Tage Seines Zorns.</verse>
+        <verse osisID='Lam.2.2'>Verschlungen hat der Herr und nicht bemitleidet alle Wohnorte Jakobs, hat in Seinem Wüten die Festungen der Tochter Jehudahs eingerissen, zur Erde niedergebracht<note>berühren lassen</note>, das Königtum entweiht und ihre Obersten.</verse>
+        <verse osisID='Lam.2.3'>In der Entbrennung Seines Zornes hat Er alles Horn Israels zerhauen, hat Seine Rechte rückwärts vor dem Feind zurückgezogen, und es brennt in Jakob wie ein Feuer, eine Flamme frißt auf ringsum.</verse>
+        <verse osisID='Lam.2.4'>Er spannte<note>trat</note> Seinen Bogen, wie der Feind; Seine Rechte stellte sich wie ein Dränger, und würgte alles, was das Auge begehrt; im Zelte der Tochter Zijons goß Er aus wie ein Feuer Seinen Grimm.</verse>
+        <verse osisID='Lam.2.5'>Der Herr ist wie ein Feind geworden, Er hat verschlungen Israel, verschlungen alle seine Paläste, verdorben seine Festungen und gemehrt über die Tochter Jehudahs Geächze und Ächzen.</verse>
+        <verse osisID='Lam.2.6'>Und Er tut Gewalt an Seiner Hütte wie einem Garten; Er verdirbt Seinen Versammlungsort. Jehovah läßt in Zijon vergessen Festzeit und Sabbath, und verschmäht König und Priester im Unwillen Seines Zorns.</verse>
+        <verse osisID='Lam.2.7'>Der Herr verwirft Seinen Altar, mißachtet Sein Heiligtum, überantwortet in die Hand des Feindes die Mauern ihrer Paläste. Sie erheben<note>geben</note> die Stimme im Hause Jehovahs wie am Tage der Festzeit.</verse>
+        <verse osisID='Lam.2.8'>Jehovah dachte die Mauer der Tochter Zijons zu verderben, Er hat Seine Richtschnur ausgespannt, zieht Seine Hand nicht zurück vom Verschlingen; und Vormauer und Mauer trauern allzumal; sie verschmachten.</verse>
+        <verse osisID='Lam.2.9'>Versunken in die Erde sind ihre Tore. Zerstört und zerbrochen hat Er ihre Riegel, ihr König und ihre Obersten sind unter den Völkerschaften. Kein Gesetz ist da, auch ihre Propheten finden kein Gesicht von Jehovah.</verse>
+        <verse osisID='Lam.2.10'>Die Ältesten der Tochter Zijon sitzen auf der Erde, sie sind stille, sie haben Staub auf ihr Haupt heraufgebracht, sich gegürtet mit Säcken. Die Jungfrauen Jerusalems lassen zur Erde ihr Haupt herabsinken.</verse>
+        <verse osisID='Lam.2.11'>In Tränen verzehren sich meine Augen, meine Eingeweide wallen auf, meine Leber ist ausgeschüttet auf die Erde ob dem Bruche der Tochter meines Volkes. Kindlein und Säuglinge schmachten dahin in den Straßen der Stadt.</verse>
+        <verse osisID='Lam.2.12'>Sie sprechen zu ihren Müttern: Wo ist Korn und Wein? Weil sie wie der Durchbohrte dahinschmachten in den Straßen der Stadt, da sie ihre Seele am Busen ihrer Mütter ausgießen.</verse>
+        <verse osisID='Lam.2.13'>Womit soll ich bezeugen dir, womit vergleichen dich, Tochter Jerusalems? was dir ähnlich stellen, daß ich dich tröste, Jungfrau, Tochter Zijons; denn groß wie das Meer ist dein Bruch. Wer wird dich heilen?</verse>
+        <verse osisID='Lam.2.14'>Deine Propheten schauten dir Eitles und Untaugliches, und deckten deine Missetat nicht auf, deine Gefangenschaft zurückzuwenden, und schauten dir Weissagungen des Eitlen, und Verstoßungen.</verse>
+        <verse osisID='Lam.2.15'>Die Hände<note>die flachen Hände</note> schlagen über dir zusammen alle, die des Weges vorübergehen, sie zischen und schütteln<note>nicken mit dem Kopf</note> ihr Haupt über die Tochter Jerusalems: Ist das die Stadt, von der sie sagten, sie sei die Vollendung der Schönheit, die Freude der ganzen Erde?</verse>
+        <verse osisID='Lam.2.16'>Sie sperren ihren Mund auf, alle deine Feinde über dich, sie zischen und knirschen mit den Zähnen, sie sprechen: Wir haben sie verschlungen. Ja, dies ist der Tag, auf den wir hofften. Wir haben ihn gefunden, ihn gesehen.</verse>
+        <verse osisID='Lam.2.17'>Jehovah hat getan, was Er gesonnen; hat ausgeführt Seine Rede, die Er geboten seit der Vorzeit Tagen, riß ein und bemitleidete nicht, ließ den Feind über dir fröhlich sein, hob empor deiner Dränger Horn.</verse>
+        <verse osisID='Lam.2.18'>Ihr Herz schreit zum Herrn: Du Mauer der Tochter Zijons, laß Tränen herabrinnen wie einem Bach Tag und Nacht, gib dir keine Unterbrechung, dein Augapfel<note>die Tochter deines Auges</note> sei nicht stille.</verse>
+        <verse osisID='Lam.2.19'>Stehe auf, schreie auf in der Nacht beim Anfang<note>Haupte</note> der Nachtwachen, schütte wie Wasser aus dein Herz vor dem Angesicht des Herrn, erhebe deine Hände<note>flachen Hände</note> zu Ihm für die Seele deiner Kindlein, die am Anfang<note>Haupte</note> aller Gassen vor Hunger dahinschmachten.</verse>
+        <verse osisID='Lam.2.20'>Siehe, Jehovah, und blicke, wem hast Du solches angetan! Sollen die Weiber ihre Frucht essen, die Kindlein ihrer Pflege? Soll im Heiligtum des Herrn erwürgt werden Priester und Prophet?</verse>
+        <verse osisID='Lam.2.21'>Sie liegen auf der Erde, auf den Gassen Jung und Alt; meine Jungfrauen und meine Jünglinge sind durch das Schwert gefallen. Du hast sie erwürgt am Tage Deines Zornes, sie hingeschlachtet, nicht bemitleidet.</verse>
+        <verse osisID='Lam.2.22'>Du rufst wie am Tag der Festzeit mein Bangen ringsumher, und am Tage des Zornes Jehovahs ist kein Entkommener, noch Rest. Die, welche ich gepflegt und großgezogen<note>gemehret</note>, hat mein Feind alle gemacht.</verse>
+      </chapter>
+      <chapter osisID='Lam.3'>
+        <title>Anerkennung der Gnadentaten Gottes. - Gebet um Befreiung und Bestrafung der Feinde.</title>
+        <verse osisID='Lam.3.1'>Ich bin der Mann<note>Mächtige</note>, der Elend hat gesehen unter der Rute Seines Wütens.</verse>
+        <verse osisID='Lam.3.2'>Mich geleitete Er, und ließ mich gehen in Finsternis und nicht im Licht.</verse>
+        <verse osisID='Lam.3.3'>Nur wider mich hat Er zurückgewendet, umgekehrt Seine Hand den ganzen Tag.</verse>
+        <verse osisID='Lam.3.4'>Mein Fleisch ließ altern Er und meine Haut, zerbrach meine Gebeine,</verse>
+        <verse osisID='Lam.3.5'>Er hat wider mich gebaut, umfangen mit Gift mich und mit Mühsal.</verse>
+        <verse osisID='Lam.3.6'>In Finsternissen ließ Er mich wohnen<note>sitzen</note>, wie die ewig Toten.</verse>
+        <verse osisID='Lam.3.7'>Er hat mich eingehegt, daß ich nicht hinausgehen kann, Er hat meine Erzfesseln schwer gemacht.</verse>
+        <verse osisID='Lam.3.8'>Auch wenn ich schreie und laut schreie, wehret Er ab mein Gebet.</verse>
+        <verse osisID='Lam.3.9'>Mit Quadern hat Er meine Wege vermauert, meine Steige verkehrt.</verse>
+        <verse osisID='Lam.3.10'>Ein Bär im Hinterhalt ist Er mir, ein Löwe im Verborgenen.</verse>
+        <verse osisID='Lam.3.11'>Er lenkt ab meine Wege, zerpflückt mich und verwüstet mich<note>setzet mich verwüstet</note>.</verse>
+        <verse osisID='Lam.3.12'>Er hat gespannt Seinen Bogen, und gestellt mich zum Ziel dem Pfeil.</verse>
+        <verse osisID='Lam.3.13'>In meine Nieren ließ Er hineinfahren Seiner Köcher Söhne.</verse>
+        <verse osisID='Lam.3.14'>All meinem Volke bin ich zum Gelächter, zum Saitenspiel den ganzen Tag.</verse>
+        <verse osisID='Lam.3.15'>Mit Bitterkeiten hat Er mich gesättigt, mich in Wermut schwelgen lassen.</verse>
+        <verse osisID='Lam.3.16'>Und Er läßt meine Zähne sich auf Kies zerdrücken, hat in die Asche mich hinabgedrückt.</verse>
+        <verse osisID='Lam.3.17'>Und verworfen vom Frieden ist meine Seele. Vergessen habe ich des Guten.</verse>
+        <verse osisID='Lam.3.18'>Und ich sprach: Verloren ist mein Sieg, und mein Warten auf Jehovah.</verse>
+        <verse osisID='Lam.3.19'>Gedenke meines Elends und meiner Trübsal, des Wermuts und des Giftes.</verse>
+        <verse osisID='Lam.3.20'>Gedenkend gedenkst du dessen und nieder beugt sich meine Seele in mir.</verse>
+        <verse osisID='Lam.3.21'>Das führe ich mir ins Herz zurück, darum will ich warten.</verse>
+        <verse osisID='Lam.3.22'>Jehovahs Barmherzigkeit ist, daß wir nicht ganz aus sind, und Seine Erbarmungen nicht alle sind.</verse>
+        <verse osisID='Lam.3.23'>Neu sind sie an den Morgen, viel ist Deiner Wahrheit.</verse>
+        <verse osisID='Lam.3.24'>Jehovah ist mein Teil, spricht meine Seele, darum warte ich auf Ihn.</verse>
+        <verse osisID='Lam.3.25'>Gut ist Jehovah denen, die auf Ihn hoffen, der Seele, die nach Ihm fragt.</verse>
+        <verse osisID='Lam.3.26'>Gut ist es, daß man warte und stille sei auf Jehovahs Heil.</verse>
+        <verse osisID='Lam.3.27'>Gut ist es dem Manne<note>Mächtigen</note>, daß in seiner Jugend er das Joch trage;</verse>
+        <verse osisID='Lam.3.28'>Daß er allein sitzt und stille sei, wenn man es ihm auferlegt.</verse>
+        <verse osisID='Lam.3.29'>Daß seinen Mund er in den Staub stecke<note>gebe</note>, ob vielleicht noch Hoffnung sei.</verse>
+        <verse osisID='Lam.3.30'>Und dem, der ihn schlägt, die Wange biete, sich sättige mit Schmach.</verse>
+        <verse osisID='Lam.3.31'>Denn nicht ewiglich verwirft der Herr.</verse>
+        <verse osisID='Lam.3.32'>Denn wenn Er hat betrübt<note>gegrämt</note>, so erbarmt Er Sich nach Seiner großen<note>vielen</note> Barmherzigkeit.</verse>
+        <verse osisID='Lam.3.33'>Denn nicht von Seinem Herzen aus bedrückt Er und bereitet Gram den Söhnen des Mannes.</verse>
+        <verse osisID='Lam.3.34'>Daß Er zerstoße unter Seinen Füßen alle Gebundenen des Landes.</verse>
+        <verse osisID='Lam.3.35'>Daß eines Mannes<note>Mächtigen</note> Recht Er vor dem Angesicht des Höchsten beugen ließe.</verse>
+        <verse osisID='Lam.3.36'>Daß man den Menschen in seinem Rechtshandel verkehrt mache, das sieht der Herr nicht?</verse>
+        <verse osisID='Lam.3.37'>Wer ist es, der spricht und es geschieht, das der Herr nicht geboten hätte?</verse>
+        <verse osisID='Lam.3.38'>Geht aus dem Mund des Höchsten nicht hervor das Böse und das Gute?</verse>
+        <verse osisID='Lam.3.39'>Was beklagt sich der Mensch, der lebt, der Mann<note>Mächtige</note> ob seinen Sünden!</verse>
+        <verse osisID='Lam.3.40'>Laßt unsere Wege uns erforschen und ergründen, und zu Jehovah zurückkehren!</verse>
+        <verse osisID='Lam.3.41'>Erheben wir unser Herz samt den Händen zu Gott in den Himmeln!</verse>
+        <verse osisID='Lam.3.42'>Wir waren abgefallen und widerspenstig, Du hast nicht vergeben.</verse>
+        <verse osisID='Lam.3.43'>Du hast Dich bedeckt im Zorn und hast uns nachgesetzt, uns erwürgt, hast kein Mitleid gehabt.</verse>
+        <verse osisID='Lam.3.44'>Du hast Dich mit einer Wolke bedeckt, daß das Gebet nicht durchkommen konnte.</verse>
+        <verse osisID='Lam.3.45'>Zum Kehricht und zur Verschmähung hast du uns gesetzt inmitten der Völker.</verse>
+        <verse osisID='Lam.3.46'>Alle unsere Feinde sperren ihren Mund auf wider uns.</verse>
+        <verse osisID='Lam.3.47'>Schauer und Fallgrube ward uns, Unwetter und Zerbrechen.</verse>
+        <verse osisID='Lam.3.48'>Bächlein von Wasser rinnt mein Auge herab über das Zerbrechen der Tochter meines Volkes.</verse>
+        <verse osisID='Lam.3.49'>Mein Auge ergießt sich und ist nicht stille, ohne Unterlaß.</verse>
+        <verse osisID='Lam.3.50'>Bis daß Jehovah schaut und sieht vom Himmel.</verse>
+        <verse osisID='Lam.3.51'>Mein Auge tut es meiner Seele an ob allen Töchtern meiner Stadt.</verse>
+        <verse osisID='Lam.3.52'>Sie jagen<note>jagend jagen sie</note> mich, wie einen Vogel, sie, die mich umsonst anfeinden.</verse>
+        <verse osisID='Lam.3.53'>Sie vertilgen mein Leben in der Grube und werfen einen Stein auf mich.</verse>
+        <verse osisID='Lam.3.54'>Wasser überströmen mein Haupt; ich sprach: Ich bin abgeschnitten.</verse>
+        <verse osisID='Lam.3.55'>Ich rief Deinen Namen an, Jehovah, aus der untersten Grube;</verse>
+        <verse osisID='Lam.3.56'>Du hörtest meine Stimme: Verbirg doch nicht Dein Ohr vor meinem Hauche, meinem Angstschrei.</verse>
+        <verse osisID='Lam.3.57'>Du nahst dich am Tage, da ich zu Dir rufe, Du sprichst: Fürchte dich nicht!</verse>
+        <verse osisID='Lam.3.58'>Du haderst, Herr, meiner Seele Hader, und Du erlöst mein Leben!</verse>
+        <verse osisID='Lam.3.59'>Du siehst, Jehovah, wie man mir Unrecht tut. Richte Du mein Gericht.</verse>
+        <verse osisID='Lam.3.60'>Du siehst alle ihre Rache, alle ihre Gedanken wider mich.</verse>
+        <verse osisID='Lam.3.61'>Du hörst, Jehovah, ihr Schmähen, alle ihre Gedanken wider mich,</verse>
+        <verse osisID='Lam.3.62'>Die Lippen meiner Widersacher und ihr Sinnen wider mich den ganzen Tag.</verse>
+        <verse osisID='Lam.3.63'>Sitzen sie oder stehen sie auf, blicke her, bin ich ihr Lied.</verse>
+        <verse osisID='Lam.3.64'>Gib ihnen zurück, Jehovah, Vergeltung nach ihrer Hände Werk.</verse>
+        <verse osisID='Lam.3.65'>Gib ihnen Verblendung<note>Bedeckung</note> des Herzens, und auf sie Deinen Fluch.</verse>
+        <verse osisID='Lam.3.66'>Setze ihnen nach im Zorn und vernichte sie unter Jehovahs Himmeln!</verse>
+      </chapter>
+      <chapter osisID='Lam.4'>
+        <title>Klage Jerusalems. Der Kelch über Edom.</title>
+        <verse osisID='Lam.4.1'>Wie ist das Gold verdunkelt<note>verdeckt</note>, das gute, lautere Gold verändert, wie sind die Steine des Heiligtums an aller Gassen Anfang<note>Haupt</note> hingeschüttet!</verse>
+        <verse osisID='Lam.4.2'>Die köstlichen Söhne Zijons, mit feinem Golde aufgewogen, wie werden sie wie irdene Krüge, das Werk der Hände des Töpfers, geachtet.</verse>
+        <verse osisID='Lam.4.3'>Selbst die Walfische reichen<note>ziehen heraus</note> ihre Brust, sie säugen ihre Jungen; meines Volkes Tochter ist grausam geworden, wie Käuzlein in der Wüste.</verse>
+        <verse osisID='Lam.4.4'>Die Zunge des Säuglings klebt vor Durst an seinem Gaumen. Die Kindlein fragen nach Brot, doch niemand reicht es ihnen dar.</verse>
+        <verse osisID='Lam.4.5'>Die Leckerbissen aßen, werden auf den Gassen verwüstet, und die in Scharlach auferzogen wurden, umarmen Kothaufen.</verse>
+        <verse osisID='Lam.4.6'>Die Missetat der Tochter meines Volkes ist größer geworden denn die Sünde Sodoms, das wie im Augenblick ward umgekehrt, und keine Hände gestalteten es.</verse>
+        <verse osisID='Lam.4.7'>Lauterer waren ihre Nasiräer denn Schnee, hellglänzender<note>Sw. weißer</note> denn Milch, röter an Gebein denn Edelsteine, ihre Glätte wie Saphir.</verse>
+        <verse osisID='Lam.4.8'>Finsterer denn Schwärze ist jetzt ihre Gestalt. Man erkennt sie auf den Gassen nicht, ihre Haut hängt fest an ihrem Gebein, verdorrt war es wie Holz.</verse>
+        <verse osisID='Lam.4.9'>Besser daran waren die durch das Schwert Erschlagenen, denn die vom Hunger erschlagen, die dahinsinken<note>dahinfließen</note> durchbohrt wegen dem Ertrag des Feldes.</verse>
+        <verse osisID='Lam.4.10'>Die Hände erbarmungsvoller Weiber kochen ihre Kinder, zur Nahrung sind sie ihnen bei dem Bruch<note>Zerbrechen</note> der Tochter meines Volkes.</verse>
+        <verse osisID='Lam.4.11'>Vollendet hat Jehovah Seinen Grimm, und die Entbrennung Seines Zorns ausgeschüttet und in Zijon entzündet ein Feuer, das ihre Grundfesten auffraß.</verse>
+        <verse osisID='Lam.4.12'>Die Könige der Erde und alle, so in der Welt wohnen, glaubten nicht, daß ein Dränger und Feind werde eingehen in die Tore Jerusalems.</verse>
+        <verse osisID='Lam.4.13'>Ob der Sünden ihrer Propheten, der Missetaten ihrer Priester, die in ihrer Mitte der Gerechten Blut vergossen.</verse>
+        <verse osisID='Lam.4.14'>Blind wanderten in den Gassen sie umher, waren mit Blut befleckt, daß man ihren Anzug nicht zu berühren vermochte.</verse>
+        <verse osisID='Lam.4.15'>Weichet! Ein Unreiner! riefen sie vor ihnen. Weichet, weichet! Rühret nicht an! Wenn sie davongeflohen und fortgewandert sind, sagt man unter den Völkerschaften: Sie sollen nicht länger<note>nicht hinzutun</note> da sich aufhalten.</verse>
+        <verse osisID='Lam.4.16'>Jehovahs Angesicht hat sie zerteilt. Nicht länger<note>nicht hinzutun</note> blickt Er sie an. Das Angesicht der Priester erhoben sie nicht und zeigten keine Gnade den Ältesten.</verse>
+        <verse osisID='Lam.4.17'>Noch waren wir - unsere Augen vergingen<note>wurden alle</note> wegen unserer nichtigen Hilfe. Wir spähten auf unserer Warte nach einer Völkerschaft, die nicht rettete.</verse>
+        <verse osisID='Lam.4.18'>Sie machten Jagd auf unsere Schritte, daß wir nicht in unseren Straßen gingen. Unser Ende war genaht, unsere Tage voll; denn unser Ende war gekommen.</verse>
+        <verse osisID='Lam.4.19'>Schneller waren unsere Verfolger als des Himmels Adler. Auf den Bergen jagten sie uns nach, lagen im Hinterhalt auf uns in der Wüste.</verse>
+        <verse osisID='Lam.4.20'>Der Hauch unsrer Nase, der Gesalbte des Jehovah, ist in ihren Gruben<note>Graben</note> gefangen, von Dem wir sagten: In Seinem Schatten wollen wir unter den Völkerschaften leben.</verse>
+        <verse osisID='Lam.4.21'>Freue dich und sei fröhlich, du Tochter Edoms, die du wohnst<note>sitzest</note> im Lande Uz. An dich auch kommt der Becher herüber. Du wirst dich berauschen und entblößen.</verse>
+        <verse osisID='Lam.4.22'>Deine Missetat, Tochter Zijon, ist vollendet. Er läßt dich nicht mehr wegführen<note>tut nicht hinzu dich wegzuführen</note>. Deine Missetat, Tochter Edoms, sucht Er heim, hat deine Sünden aufgedeckt.</verse>
+      </chapter>
+      <chapter osisID='Lam.5'>
+        <title>Wehklage. Gebet um Hilfe.</title>
+        <verse osisID='Lam.5.1'>Gedenke, Jehovah, wie es mit uns war, blicke und siehe unsere Schmach.</verse>
+        <verse osisID='Lam.5.2'>Unser Erbe ist Fremden zugewendet, unsere Häuser den Ausländern.</verse>
+        <verse osisID='Lam.5.3'>Waisen sind wir und ohne Vater, unsere Mütter sind wie Witwen.</verse>
+        <verse osisID='Lam.5.4'>Für Silber trinken wir unser Wasser. Um einen Kaufpreis kommt uns unser Holz.</verse>
+        <verse osisID='Lam.5.5'>Auf unseren Nacken wird uns nachgesetzt, wir werden ermüdet, man läßt uns keine Ruhe.</verse>
+        <verse osisID='Lam.5.6'>Ägypten gaben wir die Hand, Aschur, um Brotes satt zu werden.</verse>
+        <verse osisID='Lam.5.7'>Gesündigt haben unsere Väter und sind nicht mehr, ihre Missetaten sind uns aufgebürdet.</verse>
+        <verse osisID='Lam.5.8'>Über uns herrschen Knechte. Niemand reißt uns los aus ihrer Hand.</verse>
+        <verse osisID='Lam.5.9'>Mit unserer Seele holen wir unser Brot herein vor dem Schwert der Wüste.</verse>
+        <verse osisID='Lam.5.10'>Unsere Haut wird erhitzt wie der Ofen von des Hungers Gluten.</verse>
+        <verse osisID='Lam.5.11'>Sie haben Weiber in Zijon geschwächt, Jungfrauen in Jehudahs Städten.</verse>
+        <verse osisID='Lam.5.12'>Oberste wurden von ihrer Hand gehenkt, der Alten Angesichte wurden nicht geehrt.</verse>
+        <verse osisID='Lam.5.13'>Jünglinge nahmen sie zur Mühle fort und Junge strauchelten unter dem Holze.</verse>
+        <verse osisID='Lam.5.14'>Die Ältesten haben vom Tore aufgehört<note>gefeiert</note>, die Jünglinge vom Saitenspiel.</verse>
+        <verse osisID='Lam.5.15'>Unseres Herzens Freude feiert, in Trauer ist der Reigentanz verwandelt.</verse>
+        <verse osisID='Lam.5.16'>Gefallen ist die Krone unseres Hauptes. Wehe uns nun, daß wir gesündigt haben!</verse>
+        <verse osisID='Lam.5.17'>Darum siecht unser Herz. Darum sind unsere Augen finster geworden</verse>
+        <verse osisID='Lam.5.18'>Ob dem Berg Zijon, der so wüste liegt, daß Füchse darüber gehen.</verse>
+        <verse osisID='Lam.5.19'>Du, Jehovah, bleibst<note>sitzest</note> ewiglich, Dein Thron zu Geschlecht und Geschlecht.</verse>
+        <verse osisID='Lam.5.20'>Warum hast Du für immerdar uns vergessen, für der Tage Länge uns verlassen?</verse>
+        <verse osisID='Lam.5.21'>Bringe uns zu Dir zurück, Jehovah, und wir kehren zurück. Erneuere unsere Tage, wie vor Zeiten.</verse>
+        <verse osisID='Lam.5.22'>Denn solltest Du uns gänzlich verschmäht<note>verschmähend verschmäht</note> haben, so gar sehr über uns entrüstet sein?</verse>
+      </chapter>
+    </div></osisText>
+</osis>

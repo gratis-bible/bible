@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <osisText osisRefWork='Bible' osisIDWork='TAF' xml:lang='de'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='TAF'>
+        <title>Tafelbibel</title>
+        <contributor>Martin</contributor>
+        <creator>Jens Grabner</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject>holy bible</subject>
+        <date>2009-01-20</date>
+        <description>Die Bibel - Übersetzung von Johann Friedrich Leonhard Tafel
+
+      Die vorliegende Neuausgabe ist eine Abschrift der Übersetzung von Dr. Leonhard
+      Tafel, revidiert von Ludwig H. Tafel, dritte Ausgabe 1911, und wurde auf ihre
+      Vollständigkeit überprüft. Es wurde die Rechtschreibregel der heutigen Zeit (noch
+      vor der Rechtschreibreform 1998) angewendet, ohne den Stil der Sprache zu verändern.
+
+      Wer in dieser Bibel einige Bücher vermisst, sei auf das Vorwort der Source verwiesen.
+      Auf der zweiten Seite steht dort:
+      Der zweite Band enthält die übrigen, sogenannten
+      Hagiographen oder heiligen Bücher: die Bücher Hiob, Sprichwörter, Hohelied, Prediger, Ruth, Chronika, Esra,
+      Nehemia, Esther und die Apokryphen.²
+      2. Gegenwärtige, Revision des Zefania XML Moduls  enthält die Hagiographen und Apokryphen nicht, da
+      sie nicht verfügbar waren.</description>
+        <publisher>FREE BIBLE SOFTWARE GROUP</publisher>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>TAF</identifier>
+        <source>http://www.ubf-dortmund.de/bibel/tafel.htm</source>
+        <language type='IETF'>de</language>
+        <relation/>
+        <coverage>provide the bible to the world</coverage>
+        <rights>Mit freundlicher Genehmigung des Swedenborg Verlag Postfach 1205 CH - 8032 Zürich</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Col'>
+      <chapter osisID='Col.1'>
+        <title>Des Paulus Brief an die Kolosser</title>
+        <title>Die Predigt von Christus.</title>
+        <verse osisID='Col.1.1'>Paulus, ein Apostel Jesu Christi durch den Willen Gottes, und Timotheus, der Bruder,</verse>
+        <verse osisID='Col.1.2'>An die Heiligen zu Kolossä und die gläubigen Brüder in Christus: Gnade euch und Friede von Gott unserem Vater und dem Herrn Jesus Christus.</verse>
+        <verse osisID='Col.1.3'>Wir danken Gott und dem Vater unseres Herrn Jesus Christus allezeit im Gebet für euch,</verse>
+        <verse osisID='Col.1.4'>Weil wir von eurem Glauben an Jesus Christus und von eurer Liebe zu allen Heiligen gehört haben;</verse>
+        <verse osisID='Col.1.5'>Wegen der Hoffnung, die im Himmel auf euch gesetzt wird, von der ihr zuvor gehört habt im Wort der Wahrheit im Evangelium,</verse>
+        <verse osisID='Col.1.6'>Das zu euch, sowie in alle Welt gekommen, und Früchte trägt und wächst, wie auch unter euch, von dem Tage an, da ihr die Gnade Gottes in der Wahrheit gehört und erkannt habt.</verse>
+        <verse osisID='Col.1.7'>Wie ihr denn gelehrt worden seid von Epaphras, unserem geliebten Mitknecht, der für euch ein treuer Diener Christus ist;</verse>
+        <verse osisID='Col.1.8'>Und uns auch eure Liebe im Geist kundgetan hat.</verse>
+        <verse osisID='Col.1.9'>Weshalb auch wir, von dem Tage an, da wir es hörten, nicht aufhören für euch zu beten und zu bitten, daß ihr erfüllt werdet mit der Erkenntnis Seines Willens in aller Weisheit und geistigen Einsicht;</verse>
+        <verse osisID='Col.1.10'>Auf daß ihr wandelt würdig des Herrn, zu allem Wohlgefallen, Frucht bringend in jeglichem guten Werk, und wachsend in der Erkenntnis Gottes,</verse>
+        <verse osisID='Col.1.11'>Und mit aller Kraft angetan werdet, vermöge der Macht Seiner Herrlichkeit, für jedwede Ausdauer und Langmut mit Freuden,</verse>
+        <verse osisID='Col.1.12'>Und Dank sagt dem Vater, Der uns tüchtig gemacht hat zur Teilnahme am Erbe der Heiligen im Licht,</verse>
+        <verse osisID='Col.1.13'>Der uns errettet hat aus der Gewalt der Finsternis, und eingeführt in das Reich des Sohnes Seiner Liebe;</verse>
+        <verse osisID='Col.1.14'>An Dem wir haben die Erlösung durch Sein Blut, die Vergebung der Sünden.</verse>
+        <verse osisID='Col.1.15'>Welcher ist das Ebenbild des unsichtbaren Gottes, der Erstgeborene aller Schöpfung!</verse>
+        <verse osisID='Col.1.16'>Denn durch Ihn ist alles erschaffen in den Himmeln und auf Erden, das Sichtbare und das Unsichtbare, seien es Throne oder Herrschaften oder Obrigkeiten oder Gewalten, alles ist durch Ihn und für Ihn geschaffen.</verse>
+        <verse osisID='Col.1.17'>Und Er Selbst ist vor allem und alles hat Seinen Bestand in Ihm.</verse>
+        <verse osisID='Col.1.18'>Und Er ist das Haupt des Leibes der Gemeinde; Welcher ist der Anfang, der Erstgeborene von den Toten, damit Er unter allen der Erste sei.</verse>
+        <verse osisID='Col.1.19'>Weil es Ihm wohlgefiel, daß in Ihm alle Fülle wohnen sollte,</verse>
+        <verse osisID='Col.1.20'>Und durch Ihn alles mit Ihm Selbst versöhnt würde, indem Er Friede machte durch das Blut Seines Kreuzes, durch Ihn, sowohl auf Erden, als in den Himmeln.</verse>
+        <verse osisID='Col.1.21'>Und auch euch, die ihr ehedem entfremdet in feindlicher Gesinnung und in bösen Werken ward,</verse>
+        <verse osisID='Col.1.22'>Hat Er nun versöhnt in dem Leibe Seines Fleisches durch den Tod, auf daß Er euch heilig, tadellos und unsträflich vor Sein Angesicht stellete.</verse>
+        <verse osisID='Col.1.23'>So ihr anders im Glauben festgegründet und beständig bleibt und euch nicht erschüttern lasset in der Hoffnung des Evangeliums, das ihr gehört habt und welches in der ganzen Schöpfung unter dem Himmel verkündet wird, und dessen Diener ich, Paulus, geworden bin.</verse>
+        <verse osisID='Col.1.24'>Nun freue ich mich in meinen Leiden zu eurem Besten, und mache voll, was noch an meinem Fleische gemangelt hat an Christi Drangsalen für Seinen Leib, welcher ist die Gemeinde,</verse>
+        <verse osisID='Col.1.25'>Deren Diener ich geworden bin, vermöge des mir für euch übergebenen Predigtamtes Gottes, das Wort Gottes auszurichten,</verse>
+        <verse osisID='Col.1.26'>Das Geheimnis, das von Ewigkeiten und Geschlechtern her verborgen gewesen, nun aber Seinen Heiligen geoffenbart worden ist,</verse>
+        <verse osisID='Col.1.27'>Denen Gott wollte kundtun den Reichtum der Herrlichkeit dieses Geheimnisses unter den Heiden, welches ist Christus in euch, die Hoffnung der Herrlichkeit.</verse>
+        <verse osisID='Col.1.28'>Den wir verkündigen, indem wir alle Menschen vermahnen und alle Menschen lehren in aller Weisheit, auf daß wir alle Menschen in Christus vollkommen darstellen;</verse>
+        <verse osisID='Col.1.29'>Wofür auch ich arbeite, ringend nach Seiner Kraft, die in mir kräftiglich wirksam ist.</verse>
+      </chapter>
+      <chapter osisID='Col.2'>
+        <title>Menschensatzungen. Falsche Weisheit. - Leben in Christus. Kraft Seines Todes.</title>
+        <verse osisID='Col.2.1'>Denn ich will euch zu wissen tun, mit welcher Sorge ich kämpfe um euch und die zu Laodicea und alle, die mein Angesicht im Fleische nicht gesehen haben.</verse>
+        <verse osisID='Col.2.2'>Auf daß ihre Herzen gestärkt und in Liebe verbunden werden zu allem Reichtum des vollen Verständnisses, zu erkennen das Geheimnis Gottes sowohl des Vaters, als das von Christus,</verse>
+        <verse osisID='Col.2.3'>Worin alle Schätze der Weisheit und der Erkenntnis verborgen liegen.</verse>
+        <verse osisID='Col.2.4'>Ich sage dies aber, auf daß euch niemand durch Verführungskünste betöre.</verse>
+        <verse osisID='Col.2.5'>Denn ob ich gleich im Fleische abwesend bin, so bin ich doch im Geiste mit euch, und sehe mit Freuden eure Ordnung und Festigkeit in eurem Glauben an Christus.</verse>
+        <verse osisID='Col.2.6'>So wie ihr nun den Herrn Jesus Christus angenommen habt, so wandelt in Ihm.</verse>
+        <verse osisID='Col.2.7'>Seid eingewurzelt und auferbaut in Ihm und befestigt euch im Glauben, wie ihr gelehrt worden seid, zunehmend in demselben mit Danksagung;</verse>
+        <verse osisID='Col.2.8'>So seht zu, daß euch niemand hinreiße durch Weltweisheit und eitlen Trug nach Menschensatzungen über die Anfänge der Welt und nicht nach Christus.</verse>
+        <verse osisID='Col.2.9'>Denn in Ihm wohnt die ganze Fülle der Gottheit leibhaftig.</verse>
+        <verse osisID='Col.2.10'>Und ihr seid vollkommen in Ihm, Welcher ist das Haupt aller Macht und Gewalt.</verse>
+        <verse osisID='Col.2.11'>In Dem ihr auch beschnitten seid, nicht durch Beschneidung mit Menschenhänden, sondern durch Ablegung des fleischlichen Leibes, durch die Beschneidung von Christus;</verse>
+        <verse osisID='Col.2.12'>In Dem ihr mitbegraben seid in der Taufe, in der ihr auch mit auferstanden seid durch den Glauben an die Kraft Gottes, Der Ihn von den Toten auferweckt hat;</verse>
+        <verse osisID='Col.2.13'>Und hat euch, die ihr tot ward, in den Übertretungen und in der Vorhaut eures Fleisches, mit Ihm lebendig gemacht, indem Er uns alle Übertretungen vergab,</verse>
+        <verse osisID='Col.2.14'>Und alle Handschrift des Gesetzes, die gegen uns zeugte, auslöschte, und hat sie weggeräumt, und an das Kreuz geheftet.</verse>
+        <verse osisID='Col.2.15'>Und die Mächte und Gewalten entwaffnet, öffentlich zur Schau geführt und an Ihm Selbst über sie einen Triumph gehalten.</verse>
+        <verse osisID='Col.2.16'>So lasset euch nun von niemand richten wegen Essens oder Trinkens, oder über Fasten, Neumonden oder Sabbathen,</verse>
+        <verse osisID='Col.2.17'>Welches alles der Schattenriß des Zukünftigen ist. Der Leib selbst aber ist in Christus.</verse>
+        <verse osisID='Col.2.18'>Lasset euch von keinem das Ziel verrükken, indem er in Demut und Verehrung der Engel sich auf Dinge einläßt, die er nicht gesehen hat, und sich ohne Ursache in seinem fleischlichen Sinne aufbläht;</verse>
+        <verse osisID='Col.2.19'>Und sich nicht hält an das Haupt, aus dem der ganze Leib, durch Gelenke und Bande verbunden und zusammengehalten, Wachstum aus Gott erhält.</verse>
+        <verse osisID='Col.2.20'>So ihr nun mit Christus den Anfangsgründen der Welt abgestorben seid, warum lasset ihr euch, als lebtet ihr noch in der Welt, Satzungen aufdringen?</verse>
+        <verse osisID='Col.2.21'>Rühre nicht an, koste nicht, betaste nicht!</verse>
+        <verse osisID='Col.2.22'>Lauter Dinge, deren Gebrauch Verderben bringen soll, nach den Satzungen und Lehren der Menschen.</verse>
+        <verse osisID='Col.2.23'>Was freilich einen Schein der Weisheit hat, in selbstgewähltem Gottesdienst, in Demut und Kasteiung des Körpers, das doch keinerlei Wert hat zu Befriedigung des Fleisches.</verse>
+      </chapter>
+      <chapter osisID='Col.3'>
+        <title>Vermahnung zur Gottseligkeit, häusliche Pflichten.</title>
+        <verse osisID='Col.3.1'>Seid ihr nun mit Christus auferweckt, so trachtet nach dem, was droben ist, wo Christus zur Rechten Gottes sitzt;</verse>
+        <verse osisID='Col.3.2'>Trachtet nach dem, was droben ist, und nicht nach dem, was auf Erden ist.</verse>
+        <verse osisID='Col.3.3'>Ihr seid ja gestorben, und euer Leben ist mit Christus verborgen in Gott.</verse>
+        <verse osisID='Col.3.4'>Wann Christus, unser Leben, geoffenbart wird, dann werdet ihr auch mit Ihm in Herrlichkeit offenbar werden.</verse>
+        <verse osisID='Col.3.5'>So tötet nun eure Glieder, die da irdisch sind, Hurerei, Unreinheit, Leidenschaft, böse Lust, Habsucht, die Götzendienst sind;</verse>
+        <verse osisID='Col.3.6'>Um derentwillen der Zorn Gottes über die Kinder des Unglaubens kommt;</verse>
+        <verse osisID='Col.3.7'>In denen auch ihr einst gewandelt habt, als ihr unter ihnen lebtet.</verse>
+        <verse osisID='Col.3.8'>Nun aber legt auch ihr alles ab, Zorn, Unmut, Bosheit, Lästerung, schandbare Worte, die aus eurem Munde gehen.</verse>
+        <verse osisID='Col.3.9'>Belügt einander nicht! Zieht den alten Menschen mit seinen Werken aus;</verse>
+        <verse osisID='Col.3.10'>Und zieht den neuen an, der erneuert wird zur Erkenntnis nach dem Ebenbilde Dessen, Der ihn geschaffen hat;</verse>
+        <verse osisID='Col.3.11'>Da gilt nicht Heide, noch Jude, noch Beschneidung, noch Vorhaut, noch Ausländer, Skythe, Knecht, noch Freier, sondern alles und in allen ist Christus.</verse>
+        <verse osisID='Col.3.12'>So zieht nun an, als Gottes Auserwählte, Heilige und Geliebte, herzliches Erbarmen, Wohlwollen, Demut, Sanftmut und Langmut.</verse>
+        <verse osisID='Col.3.13'>Seid verträglich gegeneinander und haltet einander etwas zugut, wenn einer etwas gegen den anderen zu klagen hat, wie Christus auch euch vieles vergeben hat, so tut auch ihr.</verse>
+        <verse osisID='Col.3.14'>Über alles dieses aber</verse>
+        <verse osisID='Col.3.15'>Und Christi Friede herrsche in euren Herzen, wozu ihr auch berufen seid in einem Leib, und seid dankbar dafür.</verse>
+        <verse osisID='Col.3.16'>Das Wort Christi wohne reichlich unter euch in aller Weisheit, lehrt und ermahnt einander mit Psalmen, Lobgesängen und geistlichen Liedern und singt in Dankbarkeit dem Herrn in euren Herzen.</verse>
+        <verse osisID='Col.3.17'>Und alles, was ihr tut in Wort oder Tat, das tut alles im Namen des Herrn Jesus, indem ihr Gott dem Vater durch Ihn dankt.</verse>
+        <verse osisID='Col.3.18'>Ihr Weiber, seid untertan euren Männern in dem Herrn, wie es sich gebührt.</verse>
+        <verse osisID='Col.3.19'>Ihr Männer, liebt eure Weiber und werdet nicht bitter gegen sie.</verse>
+        <verse osisID='Col.3.20'>Ihr Kinder, gehorcht in allem euren Eltern, denn dies ist dem Herrn wohlgefällig.</verse>
+        <verse osisID='Col.3.21'>Ihr Väter, reizt eure Kinder nicht, daß sie nicht mutlos werden.</verse>
+        <verse osisID='Col.3.22'>Ihr Knechte, gehorcht in allen Stücken euren leiblichen Herren, nicht mit Augendienerei, als wolltet ihr Menschen gefallen, sondern in Einfalt des Herzens und aus Gottesfurcht,</verse>
+        <verse osisID='Col.3.23'>Und alles, was ihr tut, das tut von Herzen, als dem Herrn und nicht den Menschen.</verse>
+        <verse osisID='Col.3.24'>Und seid eingedenk, daß ihr von dem Herrn empfangen werdet die Vergeltung des Erbes; denn dem Herrn Christus dient ihr.</verse>
+        <verse osisID='Col.3.25'>Wer aber Unrecht tut, der wird empfangen, was er Unrecht getan, und da findet kein Ansehen der Person statt.</verse>
+      </chapter>
+      <chapter osisID='Col.4'>
+        <title>Weitere Ermahnungen. - Nachrichten. Grüße.</title>
+        <verse osisID='Col.4.1'>Ihr Herren, erweiset den Knechten, was dem Recht und der Gleichheit gemäß ist, und seid eingedenk, daß auch ihr einen Herrn in dem Himmel habt.</verse>
+        <verse osisID='Col.4.2'>Haltet an am Gebet, seid wachsam und sagt Dank.</verse>
+        <verse osisID='Col.4.3'>Betet zugleich auch für uns, daß Gott uns eine Tür eröffne für das Wort, zu reden das Geheimnis von Christus, um Dessentwillen ich auch in Banden bin,</verse>
+        <verse osisID='Col.4.4'>Auf daß ich es so offenbare, wie mir zu reden geziemt.</verse>
+        <verse osisID='Col.4.5'>Verhaltet euch weislich gegen die, so draußen sind, so daß ihr die rechte Zeit abwartet.</verse>
+        <verse osisID='Col.4.6'>Eure Rede sei immer wohlgefällig, mit Salz gewürzt, daß ihr wisset, wie ihr einem jeglichen zu antworten habt.</verse>
+        <verse osisID='Col.4.7'>Wie es um mich steht, wird euch Tychikus, der geliebte Bruder und treue Diener und Mitknecht im Herrn, genau berichten.</verse>
+        <verse osisID='Col.4.8'>Ich habe ihn eben darum zu euch gesendet, damit er erfahre, wie es mit euch geht, und eure Herzen tröste;</verse>
+        <verse osisID='Col.4.9'>Samt Onesimus, dem getreuen und geliebten Bruder, der von den euren ist; sie werden euch alles kundtun, was bei uns vorgeht.</verse>
+        <verse osisID='Col.4.10'>Es grüßt euch Aristarchus, mein Mitgefangener, und Markus, der Vetter des Barnabas, in betreff dessen ihr Aufträge empfangen habt. Wenn er zu euch kommt, nehmt ihn auf.</verse>
+        <verse osisID='Col.4.11'>Und Jesus, der da heißt Justus, die aus der Beschneidung sind, welche allein meine Mitarbeiter für das Reich Gottes und mir zur Erquickung geworden sind.</verse>
+        <verse osisID='Col.4.12'>Es grüßt euch Epaphras, der zu den euren gehört, ein Knecht von Christus, der allezeit für euch ringt in Gebeten, auf daß ihr als vollkommen besteht und erfüllt mit allem Willen Gottes.</verse>
+        <verse osisID='Col.4.13'>Ich gebe ihm das Zeugnis, daß er großen Eifer für euch und für die in Laodicea und in Hierapolis hat.</verse>
+        <verse osisID='Col.4.14'>Es grüßt euch Lukas, der Arzt, der Geliebte, und Demas.</verse>
+        <verse osisID='Col.4.15'>Grüßet die Brüder zu Laodicea und den Nymphas, und die Gemeinde in seinem Hause.</verse>
+        <verse osisID='Col.4.16'>Und wenn der Brief bei euch gelesen ist, so sorgt dafür, daß er auch in der Gemeinde der Laodiceer gelesen werde, und daß ihr auch den von Laodicea zu lesen bekommt,</verse>
+        <verse osisID='Col.4.17'>Und sagt dem Archippus: Warte des Dienstes, den du vom Herrn empfangen hast, daß du ihn ausrichtest.</verse>
+        <verse osisID='Col.4.18'>Der Gruß von meiner, des Paulus, Hand, Gedenket meiner Bande. Die Gnade sei mit euch! Amen.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

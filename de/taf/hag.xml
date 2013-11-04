@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <osisText osisRefWork='Bible' osisIDWork='TAF' xml:lang='de'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='TAF'>
+        <title>Tafelbibel</title>
+        <contributor>Martin</contributor>
+        <creator>Jens Grabner</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject>holy bible</subject>
+        <date>2009-01-20</date>
+        <description>Die Bibel - Übersetzung von Johann Friedrich Leonhard Tafel
+
+      Die vorliegende Neuausgabe ist eine Abschrift der Übersetzung von Dr. Leonhard
+      Tafel, revidiert von Ludwig H. Tafel, dritte Ausgabe 1911, und wurde auf ihre
+      Vollständigkeit überprüft. Es wurde die Rechtschreibregel der heutigen Zeit (noch
+      vor der Rechtschreibreform 1998) angewendet, ohne den Stil der Sprache zu verändern.
+
+      Wer in dieser Bibel einige Bücher vermisst, sei auf das Vorwort der Source verwiesen.
+      Auf der zweiten Seite steht dort:
+      Der zweite Band enthält die übrigen, sogenannten
+      Hagiographen oder heiligen Bücher: die Bücher Hiob, Sprichwörter, Hohelied, Prediger, Ruth, Chronika, Esra,
+      Nehemia, Esther und die Apokryphen.²
+      2. Gegenwärtige, Revision des Zefania XML Moduls  enthält die Hagiographen und Apokryphen nicht, da
+      sie nicht verfügbar waren.</description>
+        <publisher>FREE BIBLE SOFTWARE GROUP</publisher>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>TAF</identifier>
+        <source>http://www.ubf-dortmund.de/bibel/tafel.htm</source>
+        <language type='IETF'>de</language>
+        <relation/>
+        <coverage>provide the bible to the world</coverage>
+        <rights>Mit freundlicher Genehmigung des Swedenborg Verlag Postfach 1205 CH - 8032 Zürich</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Hag'>
+      <chapter osisID='Hag.1'>
+        <title>Prophet Haggai</title>
+        <title>Strafpredigt. - Aufforderung zum Tempelbau.</title>
+        <verse osisID='Hag.1.1'>Im zweiten Jahr des Königs Darius, im sechsten Monat, am ersten Tag des Monats geschah das Wort Jehovahs durch die Hand Chaggais<note>d.i. Haggai 9</note>, des Propheten, an Serubbabel, den Sohn Schealthiels, den Statthalter Jehudahs, und an Jehoschua, den Sohn Jehozadaks, den Hohenpriester<note>den großen Priester</note>, und sprach:</verse>
+        <verse osisID='Hag.1.2'>So spricht Jehovah der Heerscharen und sagt: Dies Volk spricht: Die Zeit ist nicht gekommen, die Zeit, Jehovahs Haus zu bauen.</verse>
+        <verse osisID='Hag.1.3'>Und es geschah Jehovahs Wort durch die Hand Chaggais<note>d.i. Haggai 9</note>, des Propheten, und sprach:</verse>
+        <verse osisID='Hag.1.4'>Ist die Zeit da für euch, daß ihr in euren getäfelten Häusern sitzet und dieses Haus ist verödet?</verse>
+        <verse osisID='Hag.1.5'>Nun aber spricht Jehovah der Heerscharen also: Richtet<note>setzet</note> euer Herz auf eure Wege!</verse>
+        <verse osisID='Hag.1.6'>Ihr sät viel und bringt wenig herein. Ihr esset, und nicht zur Sättigung; ihr trinkt, und nicht zur Trunkenheit, ihr kleidet euch und werdet nicht warm; und was ihr verdient, verdient ihr in einen löchrigen Beutel.</verse>
+        <verse osisID='Hag.1.7'>So spricht Jehovah der Heerscharen: Richtet<note>setzet</note> euer Herz auf eure Wege!</verse>
+        <verse osisID='Hag.1.8'>Steigt auf den Berg und bringt Holz herein und baut das Haus, daß Ich daran Wohlgefallen habe und verherrlicht werde! spricht Jehovah.</verse>
+        <verse osisID='Hag.1.9'>Ihr wandtet euch auf viel, und siehe, es ward zu wenig; und ihr brachtet es zum Haus herein, und Ich blies darein. Warum? spricht Jehovah der Heerscharen. Um Meines Hauses willen, das verödet ist, und ihr laufet, jeder Mann nach seinem Haus.</verse>
+        <verse osisID='Hag.1.10'>Darum verhalten die Himmel euch den Tau, und die Erde verhält ihr Gewächs.</verse>
+        <verse osisID='Hag.1.11'>Und Ich rief die Dürre über die Erde und über die Berge und über das Korn und über den Most und über das Öl<note>frische Öl</note> und über das, was der Boden hervorbringt, und über Mensch, über Vieh, und über alle Arbeit<note>Bemühen</note> der Hände<note>flachen Hände</note>.</verse>
+        <verse osisID='Hag.1.12'>Und Serubbabel, der Sohn Schealthiels, und Jehoschua, der Sohn Jehozadaks, der Hohepriester<note>große Priester</note>, und all der Überrest des Volkes hörten auf die Stimme Jehovahs, ihres Gottes, und auf die Worte Chaggais, des Propheten, wie ihn Jehovah, ihr Gott, hatte gesandt; und das Volk fürchtete sich vor dem Angesichte Jehovahs.</verse>
+        <verse osisID='Hag.1.13'>Und Chaggai, der Bote Jehovahs, sprach in der Botschaft Jehovahs zum Volk und sagte: Ich bin mit euch, spricht Jehovah.</verse>
+        <verse osisID='Hag.1.14'>Und Jehovah erregte den Geist Serubbabels, des Sohns Schealthiels, des Statthalters Jehudahs, und den Geist Jehoschuas, des Sohnes Jehozadaks, des Hohenpriesters<note>große Priester</note>, und den Geist all des Überrests vom Volk; und sie kamen und taten das Werk am Hause Jehovahs der Heerscharen, ihres Gottes,</verse>
+        <verse osisID='Hag.1.15'>Am vierundzwanzigsten Tag des Monats im sechsten<note>d.h. Monat</note> im zweiten Jahr des Königs Darius<note>Darjavesch</note>.</verse>
+      </chapter>
+      <chapter osisID='Hag.2'>
+        <title>Weissagung von der Herrlichkeit des zweiten Tempels und dem Messiasreich.</title>
+        <verse osisID='Hag.2.1'>Im siebenten<note>d.h. Monat</note>, am einundzwanzigsten des Monats geschah das Wort Jehovahs durch die Hand Chaggais, des Propheten, und Er sprach:</verse>
+        <verse osisID='Hag.2.2'>Sprich doch zu Serubbabel, dem Sohn Schealthiels, dem Statthalter Jehudahs, und zu Jehoschua, dem Sohn Jehozadaks, dem Hohenpriester<note>großen Priester</note>, und zu dem Überrest des Volkes und sprich:</verse>
+        <verse osisID='Hag.2.3'>Wer ist unter euch übriggeblieben, der dieses Haus in seiner ersten Herrlichkeit gesehen hat? Und wie seht ihr es jetzt? Ist es nicht im Vergleich wie nichts in euren Augen?</verse>
+        <verse osisID='Hag.2.4'>Und nun sei stark, Serubbabel, spricht Jehovah, und sei stark, Jehoschua, Sohn Jehozadaks, du Hoherpriester<note>großer Priester</note>, und sei stark, alles Volk des Landes, spricht Jehovah, und macht es; denn Ich bin mit euch, spricht Jehovah der Heerscharen.</verse>
+        <verse osisID='Hag.2.5'>Mit dem Worte, mit dem Ich mit euch abgeschlossen<note>d.h. einen Bund</note>, da ihr aus Ägypten auszogt, und mit Meinem Geiste, der in eurer Mitte steht, fürchtet euch nicht!</verse>
+        <verse osisID='Hag.2.6'>Denn so spricht Jehovah der Heerscharen: Noch ein Kleines ist es, so lasse Ich die Himmel und die Erde erbeben und das Meer und das Trockene.</verse>
+        <verse osisID='Hag.2.7'>Und Ich lasse alle Völkerschaften erbeben, daß komme<note>sie kommen</note> die Begehr aller Völkerschaften, und Ich erfülle dieses Haus mit Herrlichkeit, spricht Jehovah der Heerscharen.</verse>
+        <verse osisID='Hag.2.8'>Mein ist das Silber und Mein das Gold, spricht Jehovah der Heerscharen.</verse>
+        <verse osisID='Hag.2.9'>Größer wird sein die Herrlichkeit dieses späteren Hauses als die des ersten, spricht Jehovah der Heerscharen, und an diesem Orte will Ich Frieden geben, spricht Jehovah der Heerscharen.</verse>
+        <verse osisID='Hag.2.10'>Am vierundzwanzigsten des neunten<note>d.h. Monat</note> im zweiten Jahr des Darius geschah das Wort Jehovahs durch die Hand Chaggais, des Propheten, und sprach:</verse>
+        <verse osisID='Hag.2.11'>So spricht Jehovah der Heerscharen: Frage doch die Priester über das Gesetz und sprich:</verse>
+        <verse osisID='Hag.2.12'>Siehe, ein Mann trägt Fleisch der Heiligkeit im Zipfel<note>Flügel</note> seines Kleides und berührt mit seinem Zipfel<note>Flügel</note> Brot und Gekochtes, und Wein und Öl, und irgendwelche Speise, wird es geheiligt? Und die Priester antworteten und sprachen: Nein.</verse>
+        <verse osisID='Hag.2.13'>Und Chaggai sprach: Wo aber ein durch eine Seele<note>d.h. einen Verstorbenen</note> Unreiner dieser irgendeines anrührt, wird es unrein? Und die Priester antworteten und sprachen: Es wird unrein.</verse>
+        <verse osisID='Hag.2.14'>Und Chaggai antwortete und sprach: So ist dies Volk und so ist diese Völkerschaft vor Meinem Angesicht, spricht Jehovah, und so alles Tun ihrer Hände, und was sie allda darbringen, ist unrein.</verse>
+        <verse osisID='Hag.2.15'>Und nun richtet<note>setzet</note> doch euer Herz darauf von dem Tage an und weiter: Ehe man Stein legt auf Stein am Tempel Jehovahs;</verse>
+        <verse osisID='Hag.2.16'>Vor diesem, kam man zum Kornhaufen von zwanzigen, so waren es zehn; kam man zur Kufe, um fünfzig zu schöpfen aus der Kelter<note>aus der Ausgehauenen</note>, so waren es zwanzig.</verse>
+        <verse osisID='Hag.2.17'>Ich schlug euch mit Kornbrand, und mit Vergilbung und mit Hagel in allem Tun eurer Hände; und doch wollt ihr nicht zu Mir, spricht Jehovah.</verse>
+        <verse osisID='Hag.2.18'>So richtet<note>setzet</note> euer Herz darauf von diesem Tage an und weiter, vom vierundzwanzigsten des neunten<note>d.h. Monats</note>, von dem Tage an, da der Tempel Jehovahs gegründet ward, darauf richtet<note>setzet</note> euer Herz.</verse>
+        <verse osisID='Hag.2.19'>Ist nicht die Saat noch in dem Speicher? Und bis auf den Weinstock und den Feigenbaum und den Granatbaum und den Baum der Oliven, die nicht getragen, will Ich segnen von diesem Tage an.</verse>
+        <verse osisID='Hag.2.20'>Und es geschah das Wort Jehovahs zum zweitenmal an Chaggai am vierundzwanzigsten des Monats, und Er sprach:</verse>
+        <verse osisID='Hag.2.21'>Sprich zu Serubbabel, dem Statthalter Jehudahs, und sage: Ich lasse erbeben die Himmel und die Erde,</verse>
+        <verse osisID='Hag.2.22'>Und kehre um den Thron von Königreichen, und vernichte die Stärke der Königreiche der Völkerschaften, und kehre um die Streitwagen und die darin fahren; und das Roß und dessen Reiter sollen herabstürzen, der Mann durch das Schwert seines Bruders.</verse>
+        <verse osisID='Hag.2.23'>An diesem Tage, spricht Jehovah der Heerscharen, nehme Ich dich, Serubbabel, Sohn Schealthiels, meinen Knecht, spricht Jehovah, und setze dich, wie den Siegelring; denn dich habe Ich erwählt, spricht Jehovah der Heerscharen..</verse>
+      </chapter>
+    </div></osisText>
+</osis>

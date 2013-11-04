@@ -1,0 +1,396 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <osisText osisRefWork='Bible' osisIDWork='TAF' xml:lang='de'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='TAF'>
+        <title>Tafelbibel</title>
+        <contributor>Martin</contributor>
+        <creator>Jens Grabner</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject>holy bible</subject>
+        <date>2009-01-20</date>
+        <description>Die Bibel - Übersetzung von Johann Friedrich Leonhard Tafel
+
+      Die vorliegende Neuausgabe ist eine Abschrift der Übersetzung von Dr. Leonhard
+      Tafel, revidiert von Ludwig H. Tafel, dritte Ausgabe 1911, und wurde auf ihre
+      Vollständigkeit überprüft. Es wurde die Rechtschreibregel der heutigen Zeit (noch
+      vor der Rechtschreibreform 1998) angewendet, ohne den Stil der Sprache zu verändern.
+
+      Wer in dieser Bibel einige Bücher vermisst, sei auf das Vorwort der Source verwiesen.
+      Auf der zweiten Seite steht dort:
+      Der zweite Band enthält die übrigen, sogenannten
+      Hagiographen oder heiligen Bücher: die Bücher Hiob, Sprichwörter, Hohelied, Prediger, Ruth, Chronika, Esra,
+      Nehemia, Esther und die Apokryphen.²
+      2. Gegenwärtige, Revision des Zefania XML Moduls  enthält die Hagiographen und Apokryphen nicht, da
+      sie nicht verfügbar waren.</description>
+        <publisher>FREE BIBLE SOFTWARE GROUP</publisher>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>TAF</identifier>
+        <source>http://www.ubf-dortmund.de/bibel/tafel.htm</source>
+        <language type='IETF'>de</language>
+        <relation/>
+        <coverage>provide the bible to the world</coverage>
+        <rights>Mit freundlicher Genehmigung des Swedenborg Verlag Postfach 1205 CH - 8032 Zürich</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='2Cor'>
+      <chapter osisID='2Cor.1'>
+        <title>Des Paulus zweiter Brief an die Korinther</title>
+        <title>Gruß. Des Apostels Trost, Leiden und Beständigkeit.</title>
+        <verse osisID='2Cor.1.1'>Paulus, ein Apostel Jesu Christi durch den Willen Gottes, und Timotheus, der Bruder, an die Gemeinde Gottes in Korinth, samt allen Heiligen in ganz Achaja:</verse>
+        <verse osisID='2Cor.1.2'>Gruß euch und Friede von Gott unserem Vater und Herrn Jesus Christus!</verse>
+        <verse osisID='2Cor.1.3'>Gelobt sei Gott und der Vater unseres Herrn Jesus Christus, der Vater der Barmherzigkeit und der Gott allen Trostes,</verse>
+        <verse osisID='2Cor.1.4'>Der uns tröstet in aller unserer Trübsal, so daß wir auch euch trösten können in aller Trübsal, mit dem Trost, womit wir selbst von Gott getröstet werden.</verse>
+        <verse osisID='2Cor.1.5'>Denn gleichwie wir viel von Christus Leiden haben, also haben wir auch durch Christus des Trostes viel.</verse>
+        <verse osisID='2Cor.1.6'>Haben wir aber Trübsal, so geschieht es zu eurem Trost und Heil; oder werden wir getröstet, so geschieht es auch zum Trost für euch, der sich wirksamer erweist in Ertragung derselben Leiden, die auch wir erleiden. Auch steht unsere Hoffnung fest euretwegen,</verse>
+        <verse osisID='2Cor.1.7'>Weil wir wissen, daß ihr, wie der Leiden, so auch des Trostes teilhaftig seid.</verse>
+        <verse osisID='2Cor.1.8'>Denn wir wollen euch nicht vorenthalten, Brüder, welche Trübsal uns in Asien widerfahren ist, daß wir über die Maßen und über Vermögen beschwert wurden, also, daß wir selbst am Leben verzweifelten;</verse>
+        <verse osisID='2Cor.1.9'>Und hatten bei uns selbst das Todesurteil gesprochen, auf daß wir nicht auf uns selbst vertraueten, sondern auf den Gott, Der die Toten auferweckt.</verse>
+        <verse osisID='2Cor.1.10'>Der uns von solchem Tode errettet hat und errettet; und wir haben auf Ihn die Hoffnung gesetzt, daß Er auch ferner uns erretten wird,</verse>
+        <verse osisID='2Cor.1.11'>Indem auch ihr durch euer Gebet uns unterstützt, auf daß für die Gnadengabe, die uns durch vieler Gebet zuteil geworden ist, auch von vielen unsertwegen gedankt werde.</verse>
+        <verse osisID='2Cor.1.12'>Denn das ist unser Ruhm, das Zeugnis unseres Gewissens, daß wir in Einfalt und gottgefälliger Lauterkeit</verse>
+        <verse osisID='2Cor.1.13'>Denn wir schreiben euch nichts anderes, als was ihr leset und auch selbst erkennt, und wie ich hoffe, bis an das Ende erkennen werdet,</verse>
+        <verse osisID='2Cor.1.14'>Wie ihr auch zum Teil schon erkannt habt, daß wir euer Ruhm sind, wie auch ihr der unsrige seid, auf den Tag des Herrn Jesus.</verse>
+        <verse osisID='2Cor.1.15'>Und auf dieses Vertrauen hin wollte ich früher zu euch kommen, auf daß ihr abermals eine Wohltat empfinget,</verse>
+        <verse osisID='2Cor.1.16'>Und von euch nach Mazedonien reisen, und wieder von Mazedonien aus zu euch kommen, und mich von euch nach Judäa geleiten lassen.</verse>
+        <verse osisID='2Cor.1.17'>Habe ich, als ich diesen Vorsatz faßte, mich des Leichtsinns schuldig gemacht? oder fasse ich meine Vorsätze nach dem Fleisch, so daß das Ja oder Nein bei mir stünde?</verse>
+        <verse osisID='2Cor.1.18'>Aber Gott ist getreu und so war mein Wort an euch nicht Ja und Nein;</verse>
+        <verse osisID='2Cor.1.19'>Denn Gottes Sohn, Jesus Christus, Der unter euch durch uns gepredigt worden ist,</verse>
+        <verse osisID='2Cor.1.20'>Denn so viele Verheißungen Gottes da sind, die sind in Ihm Ja, und in Ihm Amen, zur Verherrlichung Gottes durch uns.</verse>
+        <verse osisID='2Cor.1.21'>Gott aber ist es, Der uns mit euch im Glauben an Jesus Christus befestigt und uns gesalbt hat;</verse>
+        <verse osisID='2Cor.1.22'>Der uns besiegelt, und das Pfand des Geistes in unsere Herzen gegeben hat.</verse>
+        <verse osisID='2Cor.1.23'>Ich rufe aber Gott zum Zeugen auf über meine Seele, daß ich euch schonen wollte, indem ich nicht nach Korinth gekommen bin.</verse>
+        <verse osisID='2Cor.1.24'>Nicht als ob wir Herrschaft über euren Glauben ansprächen, sondern weil wir Mithelfer eurer Freude sind; denn ihr steht ja fest im Glauben.</verse>
+      </chapter>
+      <chapter osisID='2Cor.2'>
+        <title>Wiederaufnahme des bußfertigen Sünders.</title>
+        <verse osisID='2Cor.2.1'>Ich nahm mir aber vor, nicht abermals in Traurigkeit zu euch zu kommen.</verse>
+        <verse osisID='2Cor.2.2'>Denn wenn ich euch betrübe, wer ist denn da, der mir Freude machen sollte, als die von mir betrübt worden sind; und dasselbige habe ich euch geschrieben, auf daß ich nicht, wenn ich käme, Traurigkeit haben müßte durch diejenigen, die mir Freude machen sollten; denn ich bin von euch allen überzeugt, daß meine Freude euer aller Freude ist.</verse>
+        <verse osisID='2Cor.2.3'>Denn ich schrieb euch in großer Bedrängnis und Angst des Herzens unter vielen Tränen, nicht damit ihr solltet betrübt werden, sondern damit ihr die absonderliche Liebe erkennt, die ich zu euch habe.</verse>
+        <verse osisID='2Cor.2.4'>So aber jemand Betrübnis angerichtet hat, der hat nicht mich betrübt, sondern teilweise</verse>
+        <verse osisID='2Cor.2.5'>Es ist aber für solchen genug, daß er von der Mehrzahl so gestraft worden ist;</verse>
+        <verse osisID='2Cor.2.6'>So daß ihr dagegen vielmehr ihm vergebt und ihn tröstet,</verse>
+        <verse osisID='2Cor.2.7'>auf daß er nicht in allzu große Traurigkeit versinke.</verse>
+        <verse osisID='2Cor.2.8'>Darum ermahne ich euch, ihm einen Beweis der Liebe zu geben.</verse>
+        <verse osisID='2Cor.2.9'>Denn darum hatte ich euch geschrieben, um zu erkennen, ob ihr Probe haltet und in allem Folge leistet.</verse>
+        <verse osisID='2Cor.2.10'>Dem ihr aber vergebt, dem vergebe auch ich; denn so ich etwas vergeben habe, so habe ich es um euretwillen vor Christus Angesicht vergeben;</verse>
+        <verse osisID='2Cor.2.11'>Auf daß wir nicht vom Satan übervorteilt werden; denn uns ist nicht unbewußt, was er im Sinne hat.</verse>
+        <verse osisID='2Cor.2.12'>Da ich aber gen Troas kam zur Verkündigung des Evangeliums von Christus, und obgleich mir eine Tür aufgetan war im Herrn, so hatte ich doch keine Ruhe in meinem Geist, weil ich meinen Bruder Titus nicht fand;</verse>
+        <verse osisID='2Cor.2.13'>Sondern nahm Abschied von ihnen und fuhr nach Mazedonien ab.</verse>
+        <verse osisID='2Cor.2.14'>Aber Gott sei gedankt, Der uns immer in Christus triumphieren läßt, und durch uns allerorten den Wohlgeruch der Erkenntnis desselben offenbart.</verse>
+        <verse osisID='2Cor.2.15'>Denn wir sind ein Wohlgeruch Christi für Gott, beides, bei den Erlösten und den Verlorenen.</verse>
+        <verse osisID='2Cor.2.16'>Diesen ein Geruch des Todes zum Tode, jenen ein Geruch des Lebens zum Leben, und wer ist hierzu tüchtig?</verse>
+        <verse osisID='2Cor.2.17'>Denn wir fälschen nicht, wie so viele, das Wort Gottes, sondern reden in Christus als aus Lauterkeit und als aus Gott, vor Gott.</verse>
+      </chapter>
+      <chapter osisID='2Cor.3'>
+        <title>Ablehnung der Ruhmsucht. Moses Decke. - Klarheit des neuen Bundes.</title>
+        <verse osisID='2Cor.3.1'>Heben wir denn abermals an, uns selbst zu empfehlen, oder bedürfen wir, wie etliche, der Empfehlungsbriefe an euch, oder Empfehlungsbriefe von euch?</verse>
+        <verse osisID='2Cor.3.2'>Unser Brief seid ihr, in unsere Herzen geschrieben, der von aller Welt erkannt und gelesen wird;</verse>
+        <verse osisID='2Cor.3.3'>Da es ist offenbar worden, daß ihr Christus Brief seid, von uns ausgefertigt, geschrieben nicht mit Tinte, sondern mit dem Geist des lebendigen Gottes, nicht auf steinerne Tafeln, sondern auf fleischerne Tafeln des Herzens.</verse>
+        <verse osisID='2Cor.3.4'>Eine solche Zuversicht haben wir durch Christus auf Gott;</verse>
+        <verse osisID='2Cor.3.5'>Nicht daß wir tüchtig wären von uns selber, etwas zu urteilen als aus uns selbst, sondern unsere Tüchtigkeit ist von Gott,</verse>
+        <verse osisID='2Cor.3.6'>Der auch uns tüchtig gemacht hat zu Dienern eines neuen Bundes, nicht des Buchstabens, sondern des Geistes; denn der Buchstabe tötet, der Geist aber macht lebendig.</verse>
+        <verse osisID='2Cor.3.7'>So aber der Dienst des Todes, mit Buchstaben in Steine gegraben, in Glanz erschien, so daß die Söhne Israels das Angesicht Moses wegen des Glanzes seines Angesichts, der doch vergänglich war, nicht anschauen konnten;</verse>
+        <verse osisID='2Cor.3.8'>Wie sollte nicht der Dienst des Geistes noch viel mehr im Glanze sein?</verse>
+        <verse osisID='2Cor.3.9'>Denn wenn der Dienst der Verdammnis Glanz ist, wieviel reicher ist an Glanz der Dienst der Gerechtigkeit!</verse>
+        <verse osisID='2Cor.3.10'>Denn das in diesem Betreff in Glanz Gesetzte ist gegenüber dem überschwenglichen Glanze nicht im Glanz.</verse>
+        <verse osisID='2Cor.3.11'>Denn wenn das Vergängliche schon im Glanz war, so ist noch vielmehr im Glanz das, so da bleibt.</verse>
+        <verse osisID='2Cor.3.12'>Weil wir nun solche Hoffnung haben, sprechen wir uns mit aller Freimütigkeit aus,</verse>
+        <verse osisID='2Cor.3.13'>Und tun nicht wie Moses, der eine Decke vor sein Angesicht nahm, auf daß die Söhne Israels nicht das Ende des Vergänglichen anschauen sollten.</verse>
+        <verse osisID='2Cor.3.14'>Verstockt hingegen wurden ihre Gedanken; bis auf heute bleibt dieselbe Decke unaufgedeckt beim Lesen in dem alten Bunde, wird aber durch Christus weggetan.</verse>
+        <verse osisID='2Cor.3.15'>Aber bis auf den heutigen Tag hängt, wenn im Moses gelesen wird, eine Decke vor ihrem Herzen.</verse>
+        <verse osisID='2Cor.3.16'>Wenn es sich aber bekehrt zum Herrn, wird die Decke weggenommen.</verse>
+        <verse osisID='2Cor.3.17'>Denn der Herr ist der Geist; wo aber der Geist des Herrn ist, da ist Freiheit.</verse>
+        <verse osisID='2Cor.3.18'>Nun aber schauen wir alle mit aufgedecktem Angesicht wie im Spiegel die Herrlichkeit des Herrn, indem wir selbst von Herrlichkeit zu Herrlichkeit zu demselben Bilde umgestaltet werden, als vom Herrn, Welcher der Geist ist.</verse>
+      </chapter>
+      <chapter osisID='2Cor.4'>
+        <title>Kraft des evangelischen Predigtamtes.</title>
+        <verse osisID='2Cor.4.1'>Weil wir nun solches Amt haben, nach der Barmherzigkeit, die uns ist zuteil geworden, werden wir nicht zaghaft;</verse>
+        <verse osisID='2Cor.4.2'>Sondern haben von uns abgewiesen, was die Scham verbirgt, indem wir nicht wandeln in Schalkheit, noch das Wort Gottes verfälschen, sondern empfehlen uns durch das Offenbaren der Wahrheit an jedes Menschen Gewissen, im Angesichte Gottes.</verse>
+        <verse osisID='2Cor.4.3'>Ist aber unser Evangelium auch noch verdeckt, so ist es verdeckt in denen, die verlorengehen.</verse>
+        <verse osisID='2Cor.4.4'>Weil in diesen der Gott dieser Welt die Gedanken der Ungläubigen verblendet hat, so daß das Licht des Evangeliums von Christi Herrlichkeit, Welcher ist das Bild Gottes, nicht scheinen kann.</verse>
+        <verse osisID='2Cor.4.5'>Denn wir predigen nicht uns selbst, sondern Jesus Christus, daß Er der Herr ist, wir aber eure Knechte sind um Jesus willen.</verse>
+        <verse osisID='2Cor.4.6'>Denn der Gott, Der aus der Finsternis Licht hervorleuchten hieß, ist es, Der es leuchten ließ in unsere Herzen, damit die Erkenntnis der Herrlichkeit Gottes im Angesicht Jesus Christi leuchtete.</verse>
+        <verse osisID='2Cor.4.7'>Wir haben aber diesen Schatz in irdischen Gefäßen, auf daß die Überschwenglichkeit der Kraft erscheine als von Gott, nicht von uns, ausgehend.</verse>
+        <verse osisID='2Cor.4.8'>Auf alle Weise bedrängt, aber nicht geängstet; zaghaft, aber nicht verzagend; verfolgt, aber nicht verlassen;</verse>
+        <verse osisID='2Cor.4.9'>Zu Boden geworfen, aber nicht umkommend:</verse>
+        <verse osisID='2Cor.4.10'>So tragen wir allezeit Jesus Sterben an unserem Leibe umher, damit Jesus Leben an unserem Leibe geoffenbart werde.</verse>
+        <verse osisID='2Cor.4.11'>Denn wir, die wir leben, werden um Jesus willen in den Tod gegeben, auf daß auch das Leben Jesus an unserem sterblichen Fleische offenbar werde.</verse>
+        <verse osisID='2Cor.4.12'>Darum ist der Tod an uns wirksam, an euch aber das Leben.</verse>
+        <verse osisID='2Cor.4.13'>Weil wir aber denselben Geist des Glaubens haben, gemäß dem, was geschrieben steht: ich glaube, darum rede ich, glauben auch wir, und darum reden wir auch,</verse>
+        <verse osisID='2Cor.4.14'>Indem wir wissen, daß Er, Der den Herrn Jesus auferweckt hat, auch uns auferwecken und uns lebendig darstellen wird samt euch.</verse>
+        <verse osisID='2Cor.4.15'>Denn alles geschieht um euretwillen, auf daß die Gnade durch die vielen die Danksagung zur Verherrlichung Gottes um so überschwenglicher mache.</verse>
+        <verse osisID='2Cor.4.16'>Deshalb sind wir nicht zaghaft; sondern wenn auch unser äußerer Mensch aufgerieben wird, so wird doch der innere Mensch von Tag zu Tag erneuert.</verse>
+        <verse osisID='2Cor.4.17'>Denn die augenblickliche, leichte Trübsal erwirkt für uns ein ewiges, überschwengliches Maß von Herrlichkeit.</verse>
+        <verse osisID='2Cor.4.18'>Weil wir nicht auf das Sichtbare, sondern auf das Unsichtbare sehen. Denn das Sichtbare ist zeitlich, das Unsichtbare aber ist ewig.</verse>
+      </chapter>
+      <chapter osisID='2Cor.5'>
+        <title>Sehnsucht nach der himmlischen Heimat.</title>
+        <verse osisID='2Cor.5.1'>Denn wir wissen, daß, wenn unsere irdische Zeltbehausung zerfällt, wir eine Behausung von Gott, eine nicht mit Händen gemachte, ewige Behausung, im Himmel haben.</verse>
+        <verse osisID='2Cor.5.2'>Denn in diesem seufzen wir und sehnen uns, in die Behausung, die vom Himmel ist, einzuziehen,</verse>
+        <verse osisID='2Cor.5.3'>So wir bekleidet sind und nicht nackt erfunden werden.</verse>
+        <verse osisID='2Cor.5.4'>Denn solange wir in dieser Hütte sind, seufzen wir und fühlen uns beschwert, nicht als ob wir wollten ausgekleidet, sondern überkleidet werden, auf daß das Sterbliche vom Leben verschlungen werde.</verse>
+        <verse osisID='2Cor.5.5'>Der uns für dasselbige vorbereitet hat, ist Gott, Der uns auch das Unterpfand des Geistes gegeben hat.</verse>
+        <verse osisID='2Cor.5.6'>So sind wir nun allezeit getrost und wissen, daß, solange wir im Leibe daheim sind, wir noch fern vom Herrn in der Fremde wandern.</verse>
+        <verse osisID='2Cor.5.7'>Denn wir wandeln im Glauben, nicht im Schauen.</verse>
+        <verse osisID='2Cor.5.8'>Wir sind aber getrost, und haben Lust aus dem Körper auszuwanden und daheim zu sein bei dem Herrn.</verse>
+        <verse osisID='2Cor.5.9'>Darum beeifern wir uns auch, ob wir daheim oder noch auf der Wanderung sind, Ihm wohlgefällig zu sein.</verse>
+        <verse osisID='2Cor.5.10'>Denn wir müssen alle offenbar werden vor dem Richterstuhle Christus, auf daß ein jeglicher empfange, was er bei Leibes Leben getan, und je wie er gehandelt hat, es sei gut oder böse.</verse>
+        <verse osisID='2Cor.5.11'>Weil wir denn wissen, daß der Herr zu fürchten ist, so überzeugen wir Menschen, vor Gott aber sind wir offenbar; ich hoffe aber, daß wir auch in euren Gewissen offenbar geworden sind.</verse>
+        <verse osisID='2Cor.5.12'>Denn wir wollen uns nicht abermals vor euch loben, sondern euch Ursache geben, euch unser zu rühmen, auf daß ihr Grund habt wider die, so sich im Äußeren rühmen und nicht nach dem Herzen.</verse>
+        <verse osisID='2Cor.5.13'>Denn gehen wir zu weit, so tun wir es für Gott; bescheiden wir uns, so tun wir es für euch.</verse>
+        <verse osisID='2Cor.5.14'>Denn Christi Liebe hält uns in Schranken, weil wir also urteilen, daß, wenn einer für alle gestorben ist, so sind mithin alle gestorben.</verse>
+        <verse osisID='2Cor.5.15'>Und Er ist für alle gestorben, auf daß die, so da leben, nicht mehr ihnen selbst leben, sondern Dem, Der für sie gestorben und auferstanden ist.</verse>
+        <verse osisID='2Cor.5.16'>Darum kennen wir von nun an keinen mehr dem Fleische nach, wenn wir aber auch Christus dem Fleische nach gekannt haben, so kennen wir Ihn jetzt nicht mehr.</verse>
+        <verse osisID='2Cor.5.17'>Wenn somit einer in Christus ist, so ist er eine neue Schöpfung; das Alte ist vergangen, siehe, alles ist neu geworden.</verse>
+        <verse osisID='2Cor.5.18'>Alles aber ist von Gott, Der uns mit Sich durch Jesus Christus versöhnt und uns das Amt der Versöhnung verliehen hat.</verse>
+        <verse osisID='2Cor.5.19'>Denn Gott war in Christus und versöhnte die Welt mit Ihm selber, und rechnete ihnen ihre Sünden nicht auf, und hat auf uns das Wort der Versöhnung gelegt.</verse>
+        <verse osisID='2Cor.5.20'>So sind wir nun Botschafter an Christus Statt, indem Gott durch uns vermahnt; so bitten wir euch denn an Christus Statt: Lasset euch versöhnen mit Gott!</verse>
+        <verse osisID='2Cor.5.21'>Denn Er hat Ihn, Der von keiner Sünde wußte, für uns zur Sünde gemacht, auf daß wir in Ihm die Gerechtigkeit Gottes würden.</verse>
+      </chapter>
+      <chapter osisID='2Cor.6'>
+        <title>Ermahnung zu tadellosem Wandel.</title>
+        <verse osisID='2Cor.6.1'>Wir ermahnen euch nun als Mitarbeiter, daß ihr die Gnade Gottes nicht vergeblich empfanget.</verse>
+        <verse osisID='2Cor.6.2'>Denn Er spricht: Ich habe dich zur Zeit der Gnade erhört, und dir am Tage des Heils geholfen. Seht, jetzt ist die Zeit der Gnade, jetzt ist der Tag des Heils.</verse>
+        <verse osisID='2Cor.6.3'>Wir geben niemand Ärgernis, auf daß unser Amt kein Vorwurf treffe,</verse>
+        <verse osisID='2Cor.6.4'>Sondern erweisen uns in allen Dingen als Diener Gottes, durch große Standhaftigkeit in Drangsalen, Ängsten und Nöten,</verse>
+        <verse osisID='2Cor.6.5'>Unter Schlägen, in Gefängnissen, in Aufständen, in Mühseligkeiten, in Nachtwachen, in Fasten;</verse>
+        <verse osisID='2Cor.6.6'>In Sittenreinheit, in Erkenntnis, in Langmut, in Freundlichkeit, im Heiligen Geist, in ungeheuchelter Liebe,</verse>
+        <verse osisID='2Cor.6.7'>In wahrhaftiger Lehre, in der Kraft Gottes, durch die Waffen der Gerechtigkeit zu Schutz und Trutz;</verse>
+        <verse osisID='2Cor.6.8'>Durch Ehre und Schande, durch bösen und durch guten Leumund, als Verführer und als Wahrhaftige,</verse>
+        <verse osisID='2Cor.6.9'>Als Verkannte, und doch bekannt, als sterbend und siehe, wir leben, als Gezüchtige und doch nicht Ertötete,</verse>
+        <verse osisID='2Cor.6.10'>Als Betrübte und die doch allezeit fröhlich sind, als Arme, die aber viele reich machen, als solche, die nichts haben und doch alles besitzen. -</verse>
+        <verse osisID='2Cor.6.11'>Unser Mund, Korinther, hat sich gegen euch aufgetan; unser Herz ist erweitert.</verse>
+        <verse osisID='2Cor.6.12'>Ihr habt in uns keinen engen Raum, habt aber engen Raum in euren Herzen. Zur Wiedervergeltung -</verse>
+        <verse osisID='2Cor.6.13'>Ich rede zu euch, wie zu meinen Kindern - lasset es auch bei euch weiter werden.</verse>
+        <verse osisID='2Cor.6.14'>Ziehet nicht am unrechten Joch mit den Ungläubigen; denn was hat die Gerechtigkeit gemein mit der Ungerechtigkeit? Welche Gemeinschaft ist zwischen dem Licht und der Finsternis?</verse>
+        <verse osisID='2Cor.6.15'>Wie stimmt Christus mit Belial? Oder was hat der Gläubige zu schaffen mit dem Ungläubigen?</verse>
+        <verse osisID='2Cor.6.16'>Wie kann der Tempel Gottes mit Götzenbildern in einen Vergleich kommen? Ihr seid ja der Tempel des lebendigen Gottes, wie Gott spricht: Ich will in ihnen wohnen und unter ihnen wandeln, und will ihr Gott sein und sie sollen Mein Volk sein.</verse>
+        <verse osisID='2Cor.6.17'>Darum entfernt euch aus ihrer Mitte, und sondert euch ab von ihnen! spricht der Herr, und rührt das Unreine nicht an, so will Ich euch annehmen.</verse>
+        <verse osisID='2Cor.6.18'>Und will euch Vater sein, und ihr sollt mir Söhne und Töchter sein, spricht der Herr, der Allmächtige.</verse>
+      </chapter>
+      <chapter osisID='2Cor.7'>
+        <title>Freude über die Wirkung des vorigen Briefes, Versicherung der Liebe.</title>
+        <verse osisID='2Cor.7.1'>Weil wir nun solche Verheißungen haben, Geliebte, wollen wir uns reinhalten von aller Befleckung des Fleisches und des Geistes, und in der Furcht Gottes die Heiligung zur Vollendung bringen.</verse>
+        <verse osisID='2Cor.7.2'>Fasset uns wohl! wir haben niemand Unrecht getan, niemand beschädigt, niemand übervorteilt.</verse>
+        <verse osisID='2Cor.7.3'>Dies sage ich nicht, um euch zu verurteilen; denn ich habe euch oben gesagt, daß wir euch in unseren Herzen tragen, und mit euch leben und sterben möchten.</verse>
+        <verse osisID='2Cor.7.4'>Ich habe viel freudige Zuversicht zu euch, viel Rühmens über euch, bin voll des Trostes und über die Maßen mit Freuden erfüllt, trotz all unserer Drangsal.</verse>
+        <verse osisID='2Cor.7.5'>Denn da wir nach Mazedonien kamen, hatte unser Fleisch keine Ruhe; alles drängte auf uns ein, von außen Kämpfe, von innen Anfechtungen.</verse>
+        <verse osisID='2Cor.7.6'>Aber Gott, Der die Niedrigen aufrichtet, hat auch uns durch Titus Ankunft getröstet.</verse>
+        <verse osisID='2Cor.7.7'>Aber nicht bloß durch seine Ankunft, sondern auch durch den Trost, der ihm zuteil ward über euch, indem er uns Meldung tat von eurem Verlangen, Bedauern und eurem Eifer für mich, so daß ich mich noch mehr freute.</verse>
+        <verse osisID='2Cor.7.8'>Darum, wenn ich euch auch in dem Brief betrübt habe, so reut es mich jetzt doch nicht, wenn es mich auch gereut hätte; denn ich sehe, daß jener Brief euch nur eine Zeitlang betrübt hat.</verse>
+        <verse osisID='2Cor.7.9'>Ich freue mich nun, nicht, daß ihr betrübt worden, sondern daß ihr betrübt worden seid zur Sinnesänderung; denn ihr seid betrübt worden nach dem Willen Gottes, auf daß ihr von uns aus ja in keinem Stücke Schaden nähmet.</verse>
+        <verse osisID='2Cor.7.10'>Denn die Betrübnis nach Gottes Willen wirkt Reue zur Seligkeit, die niemand zu bereuen hat, die Betrübnis der Welt aber bewirkt den Tod.</verse>
+        <verse osisID='2Cor.7.11'>Siehe, eben das, daß ihr nach dem Willen Gottes betrübt worden seid, welchen Eifer hat es in euch angeregt, ja Entschuldigung, ja Unwillen, Furcht, Verlangen, Eifer, Ahndung! Ihr habt euch in allen Stücken erwiesen, daß ihr rein seid in der Sache.</verse>
+        <verse osisID='2Cor.7.12'>Darum, wenn ich euch auch geschrieben habe, so ist es doch nicht geschehen wegen dessen, der unrecht getan, noch wegen dessen, dem Unrecht getan worden ist, sondern deswegen, daß unser Eifer für euch bei euch vor Gott geoffenbart würde.</verse>
+        <verse osisID='2Cor.7.13'>Darum sind wir über eurer Tröstung getröstet worden, unsere Freude aber ward noch ungemein erhöht über der Freude des Titus, daß sein Gemüt an euch allen erquickt worden ist;</verse>
+        <verse osisID='2Cor.7.14'>Denn ich bin in dem, was ich gegen ihn von euch gerühmt habe, nicht zuschanden geworden, vielmehr ist alles, was ich in Wahrheit zu euch geredet habe, somit auch unser Rühmen bei Titus, Wahrheit geworden.</verse>
+        <verse osisID='2Cor.7.15'>Und sein Innerstes ist euch noch mehr zugetan, wenn er euer aller Gehorsam gedenkt, wie ihr ihn mit Furcht und Zittern aufgenommen habt.</verse>
+        <verse osisID='2Cor.7.16'>Ich freue mich, daß ich mich in allem auf euch verlassen kann.</verse>
+      </chapter>
+      <chapter osisID='2Cor.8'>
+        <title>Beisteuer für die Armen in Jerusalem.</title>
+        <verse osisID='2Cor.8.1'>Ich tue euch, Brüder, kund die Gnade Gottes, die sich in den Gemeinden Mazedoniens erwiesen hat,</verse>
+        <verse osisID='2Cor.8.2'>Daß in viel Drangsalsprüfung die Überschwenglichkeit ihrer Freude und die tief hinabreichende Armut sich überschwenglich erwiesen in reicher Mildtätigkeit;</verse>
+        <verse osisID='2Cor.8.3'>Denn nach Vermögen [das bezeuge ich], ja über Vermögen waren sie willfährig.</verse>
+        <verse osisID='2Cor.8.4'>Und erbaten sich auf das angelegentlichste von uns die Gunst der Teilnahme an der Beisteuer für die Heiligen;</verse>
+        <verse osisID='2Cor.8.5'>Ja, über unser Erwarten ergaben sie sich vor allem dem Herrn und uns nach dem Willen Gottes, zum Dienste hin;</verse>
+        <verse osisID='2Cor.8.6'>So daß wir Titus baten, daß er, wie er schon angefangen, auch unter euch diese Liebesgabe ausrichtete.</verse>
+        <verse osisID='2Cor.8.7'>Aber wie ihr in allen Stücken reich seid im Glauben und in der Lehre und Erkenntnis, und in jeglichem Eifer und auch in eurer Liebe gegen uns, so seid nun auch überschwenglich in diesem Liebeswerk.</verse>
+        <verse osisID='2Cor.8.8'>Ich sage dies nicht, als ob ich gebieten wollte, sondern weil andere so eifrig sich bewiesen, möchte ich die Aufrichtigkeit auch eurer Liebe prüfen.</verse>
+        <verse osisID='2Cor.8.9'>Ihr kennt ja die Gnade unseres Herrn Jesus Christus, Der, ob Er gleich reich war, um euretwillen Armut litt, auf daß ihr durch Seine Armut reich würdet und ich gebe euch hierin meinen Rat.</verse>
+        <verse osisID='2Cor.8.10'>Denn dies frommt euch, die ihr nicht allein im Tun, sondern auch im Gernetun seit vorigem Jahr einen Anfang gemacht habt.</verse>
+        <verse osisID='2Cor.8.11'>Nun aber vollbringt auch das Tun, daß ihr, so wie eine Geneigtheit des Wollens da war, so auch es nach Vermögen vollbringt.</verse>
+        <verse osisID='2Cor.8.12'>Denn so die Geneigtheit vorhanden ist, je nach Vermögen zu tun, so ist sie Gott angenehm, nicht nach dem sie nicht vermag.</verse>
+        <verse osisID='2Cor.8.13'>Nicht, daß ihr, damit es anderen leichter würde, Mangel littet, sondern daß eine Gleichheit wäre;</verse>
+        <verse osisID='2Cor.8.14'>So diene denn zur Zeit euer Überfluß ihrem Mangel, auf daß auch ihr Überfluß eurem Mangel diene, und so eine Gleichheit eintrete.</verse>
+        <verse osisID='2Cor.8.15'>Wie denn geschrieben steht: Der viel gesammelt, hatte nicht mehr, und der wenig gesammelt, hatte nicht weniger.</verse>
+        <verse osisID='2Cor.8.16'>Gott aber sei Dank, Der eben solchen Fleiß für euch dem Titus in das Herz gegeben hat;</verse>
+        <verse osisID='2Cor.8.17'>Denn er folgte nicht nur meiner Aufforderung, sondern ging noch mit mehr Eifer aus freien Stücken zu euch ab.</verse>
+        <verse osisID='2Cor.8.18'>Wir haben ihm aber einen Bruder beigegeben, der das Lob hat am Evangelium bei allen Gemeinden;</verse>
+        <verse osisID='2Cor.8.19'>Nicht allein aber das, sondern er ist auch von den Gemeinden zu unserem Gefährten in diesem Liebeswerk aufgestellt, das von uns zur Ehre des Herrn und zum Beweis unseres guten Willens ausgerichtet wird.</verse>
+        <verse osisID='2Cor.8.20'>Wir sahen darauf, daß uns bei solcher reichen Beisteuer, die von uns betrieben wird, nicht jemand Übles nachrede.</verse>
+        <verse osisID='2Cor.8.21'>Und haben Vorsorge getroffen, daß es redlich zugehe, nicht allein vor dem Herrn, sondern auch vor Menschen.</verse>
+        <verse osisID='2Cor.8.22'>Auch haben wir mit ihnen noch unseren Bruder gesandt, dessen Eifer wir oft in vielen Stücken bewährt gefunden, und der bei dem großen Zutrauen zu euch noch viel eifriger geworden ist;</verse>
+        <verse osisID='2Cor.8.23'>Sei es, daß ich für Titus rede, so ist er mein Genosse und Mitarbeiter bei euch; sei es, daß es Brüder von uns sind, Abgeordnete der Gemeinden, Christus eine Ehre.</verse>
+        <verse osisID='2Cor.8.24'>Gebt an ihnen nun Beweise eurer Liebe und bestätigt Angesichts der Gemeinden unser rühmendes Zeugnis über euch.</verse>
+      </chapter>
+      <chapter osisID='2Cor.9'>
+        <title>Fortsetzung.</title>
+        <verse osisID='2Cor.9.1'>Denn von solcher Beisteuer für die Heiligen brauche ich nicht weiter an euch zu schreiben.</verse>
+        <verse osisID='2Cor.9.2'>Denn ich kenne eure Bereitwilligkeit, deren ich vor den Mazedoniern rühmend gedenke, daß Achaja schon voriges Jahr dazu Vorbereitung getroffen hat; und euer Eifer hat allgemein aufgemuntert.</verse>
+        <verse osisID='2Cor.9.3'>Ich habe die Brüder gesandt, auf daß mein Rühmen von euch in diesem Stück nicht zunichte werde.</verse>
+        <verse osisID='2Cor.9.4'>Auf daß, wie ich sagte, ihr vorbereitet wäret, und wir [ich will nicht sagen ihr], wenn Mazedonier mit mir kämen und euch unvorbereitet fänden, mit solch zuversichtlichem Rühmen zuschanden würden.</verse>
+        <verse osisID='2Cor.9.5'>Ich habe es daher für nötig erachtet, die Brüder zu ersuchen, daß sie zu euch voranzögen, um euren vorher verheißenen Segen in Empfang zu nehmen und ihn bereit zu halten, auf daß es so als ein Segen und nicht als eine Erpressung angesehen werde.</verse>
+        <verse osisID='2Cor.9.6'>Da gilt der Spruch: Wer da kärglich sät, der wird kärglich ernten, und wer da sät im Segen, der wird auch ernten im Segen.</verse>
+        <verse osisID='2Cor.9.7'>Ein jeglicher gebe, wie ihn das Herz treibt, nicht mit Widerwillen oder als Nötigung; denn einen fröhlichen Geber hat Gott lieb.</verse>
+        <verse osisID='2Cor.9.8'>Gott ist aber mächtig, euch allerlei Gnade in reichem Maße zu erteilen, und daß ihr allerwege in allen Dingen volle Genüge habt und reich seiet zu allerlei gutem Werke.</verse>
+        <verse osisID='2Cor.9.9'>Wie geschrieben steht: Er hat ausgesät und den Armen gegeben; Seine Gerechtigkeit bleibt in Ewigkeit.</verse>
+        <verse osisID='2Cor.9.10'>Der aber Samen reicht dem, der da sät, und Brot zur Speise, wird auch eure Saat mehren und die Früchte eurer Gerechtigkeit gedeihen lassen,</verse>
+        <verse osisID='2Cor.9.11'>Daß ihr reich werdet in allen Dingen für jegliches Werk der Herzenseinfalt, die durch uns Dank gegen Gott bewirkt.</verse>
+        <verse osisID='2Cor.9.12'>Denn die Handreichung dieser Beisteuer hilft nicht nur den Bedürfnissen der Heiligen ab, sondern ist auch überschwenglich durch viele Danksagungen gegen Gott,</verse>
+        <verse osisID='2Cor.9.13'>Die für diese Beweise der Dienstleistung Gott preisen wegen des Gehorsams gegen das Evangelium von Christus, das ihr bekennt, und wegen eurer herzlichen Mildtätigkeit gegen sie und gegen alle.</verse>
+        <verse osisID='2Cor.9.14'>Indem auch sie mit Gebet für euch sich nach euch sehnen.</verse>
+        <verse osisID='2Cor.9.15'>Gott aber sei Dank für Seine unaussprechliche Gabe.</verse>
+      </chapter>
+      <chapter osisID='2Cor.10'>
+        <title>Verteidigung gegen Beschuldigungen seiner Gegner.</title>
+        <verse osisID='2Cor.10.1'>Ich Paulus aber, der ich persönlich unter euch gering, abwesend aber dreist bin, ermahne euch bei Christus Sanftmut und Seiner Milde.</verse>
+        <verse osisID='2Cor.10.2'>Ich bitte euch, daß ich nicht gegenwärtig dreist auftreten müsse mit der Zuversichtlichkeit, mit der ich dreist zu sein erachte gegen gewisse Leute, die von uns glauben, daß wir nach fleischlicher Weise wandelten.</verse>
+        <verse osisID='2Cor.10.3'>Denn obgleich wir im Fleische wandeln, so streiten wir doch nicht nach dem Fleische.</verse>
+        <verse osisID='2Cor.10.4'>Denn die Waffen unseres Kampfes sind nicht fleischlich, sondern mächtig für Gott zur Niederreißung von Bollwerken.</verse>
+        <verse osisID='2Cor.10.5'>Die wir Anschläge und alles Hohe, das sich wider die Erkenntnis Gottes erhebt, zerstören, und alles Denken unter Christus Gehorsam gefangennehmen,</verse>
+        <verse osisID='2Cor.10.6'>Und bereit sind, allen Ungehorsam zu strafen, wenn euer Gehorsam sich durch die Tat bewährt.</verse>
+        <verse osisID='2Cor.10.7'>Seht ihr auf das Äußere? Traut jemand sich zu, daß er Christus angehöre, der denke wieder von selber, daß, wie er Christus angehört, also auch wir ihm angehören.</verse>
+        <verse osisID='2Cor.10.8'>Und wenn ich noch etwas weiter mich rühmte von unserer Gewalt, die uns der Herr gegeben hat zu eurer Erbauung, und nicht zu eurer Zerstörung, so werde ich nicht zuschanden werden:</verse>
+        <verse osisID='2Cor.10.9'>Auf daß ich nicht scheine, euch durch die Briefe schrecken zu wollen;</verse>
+        <verse osisID='2Cor.10.10'>Denn die Briefe, sagt einer, sind gewichtig und nachdrücklich, aber die leibliche Gegenwart ist schwach und die Rede kraftlos.</verse>
+        <verse osisID='2Cor.10.11'>Ein solcher denke, daß, wie wir abwesend in den Briefen mit Worten sind, so dürften wir auch wohl anwesend mit der Tat sein.</verse>
+        <verse osisID='2Cor.10.12'>Denn wir unterfangen uns nicht, uns denen, die sich selbst loben, beizuzählen oder zu vergleichen; aber weil sie sich an sich selbst messen und sich allein mit sich vergleichen, tun sie unverständig.</verse>
+        <verse osisID='2Cor.10.13'>Wir aber wollen uns nicht ins Ungemessene rühmen, sondern nach dem Maß des Bereichs, das uns Gott zugemessen hat, auch bis zu euch reichen.</verse>
+        <verse osisID='2Cor.10.14'>Denn nicht, als wären wir solche, die nicht zu euch hinreichen, überstrecken wir uns selbst; denn wir sind bis zu euch gelangt mit dem Evangelium von Christus;</verse>
+        <verse osisID='2Cor.10.15'>Und wir rühmen uns nicht im Übermaß fremder Arbeit, sind aber der Hoffnung, daß wir, wenn euer Glaube zunimmt, nach unserer Richtschnur an euch noch weiter gelangen,</verse>
+        <verse osisID='2Cor.10.16'>Und auch über euch hinaus das Evangelium predigen und uns nicht innerhalb eines fremden Gebietes dessen rühmen, das schon fertig ist.</verse>
+        <verse osisID='2Cor.10.17'>Wer sich aber rühmt, der rühme sich des Herrn.</verse>
+        <verse osisID='2Cor.10.18'>Denn darum, daß einer sich selbst lobt, ist er noch nicht bewährt, sondern daß ihn der Herr lobt.</verse>
+      </chapter>
+      <chapter osisID='2Cor.11'>
+        <title>Fortsetzung.</title>
+        <verse osisID='2Cor.11.1'>Ich wollte, ihr hieltet mir ein wenig Torheit zugut, und ihr tut es wohl auch.</verse>
+        <verse osisID='2Cor.11.2'>Denn ich eifere um euch mit dem Eifer Gottes, denn ich habe euch einem Manne verlobt, um eine reine Jungfrau Christus zuzuführen.</verse>
+        <verse osisID='2Cor.11.3'>Ich fürchte aber, daß, wie die Schlange Eva durch ihre List verführte, auch euer Sinn berückt und von dem einfältigen Glauben an Christus abgewendet werde.</verse>
+        <verse osisID='2Cor.11.4'>Denn wenn der Nächste, so da kommt, einen anderen Jesus predigte, als wir gepredigt haben, oder ihr einen anderen Geist empfinget, den ihr von uns nicht empfangen habt, oder ein anderes Evangelium, das ihr nicht angenommen hattet, so würdet ihr es euch recht schön gefallen lassen.</verse>
+        <verse osisID='2Cor.11.5'>Denn ich erachte, ich stehe in nichts zurück hinter den hohen Aposteln:</verse>
+        <verse osisID='2Cor.11.6'>Denn wenn ich auch ein Laie bin im Reden, so bin ich es doch nicht in der Erkenntnis; vielmehr sind wir in allem vor allen bei euch offenbar geworden.</verse>
+        <verse osisID='2Cor.11.7'>Oder habe ich Unrecht getan, daß ich mich selbst erniedrigte, auf daß ihr erhöht würdet, daß ich euch unentgeltlich das Evangelium Gottes verkündigt habe?</verse>
+        <verse osisID='2Cor.11.8'>Auch habe ich andere Gemeinden beraubt, indem ich Sold von ihnen genommen, daß ich euch dienete.</verse>
+        <verse osisID='2Cor.11.9'>Und während ich bei euch war und Mangel litt, bin ich niemand zur Last gefallen; denn meinem Mangel halfen die Brüder ab, die aus Mazedonien kamen, und in allen Stücken bin ich euch nicht lästig geworden, und werde es auch in Zukunft so halten.</verse>
+        <verse osisID='2Cor.11.10'>So wahr die Wahrheit von Christus in mir ist, soll mir dieser Ruhm nicht verwehrt werden, solange ich in den Landen Achajas bin.</verse>
+        <verse osisID='2Cor.11.11'>Warum? Weil ich euch nicht liebe? Gott weiß es.</verse>
+        <verse osisID='2Cor.11.12'>Was ich aber tue, will ich auch ferner tun, daß ich denen den Anlaß abschneide, die einen Anlaß suchen, auf daß sie in dem, dessen sie sich rühmen, erfunden werden gleich wie wir.</verse>
+        <verse osisID='2Cor.11.13'>Denn diese Afterapostel sind trügliche Arbeiter, welche die Gestalt von Christus Aposteln annehmen.</verse>
+        <verse osisID='2Cor.11.14'>Auch ist es kein Wunder, denn der Satan selbst gestaltet sich in einen Engel des Lichtes um.</verse>
+        <verse osisID='2Cor.11.15'>Darum ist es nun nichts Großes, wenn auch seine Diener sich in Diener der Gerechtigkeit umgestalten, deren Ende auch ihren Werken entsprechen wird.</verse>
+        <verse osisID='2Cor.11.16'>Ich sage abermals: Niemand halte mich für unverständig; wenn aber doch, so nehmt mich als einen solchen Unverständigen an, daß auch ich mich ein wenig rühmen darf.</verse>
+        <verse osisID='2Cor.11.17'>Was ich jetzt rede, rede ich nicht als aus dem Herrn, sondern wie im Unverstand bei diesem Gegenstande des Rühmens.</verse>
+        <verse osisID='2Cor.11.18'>Weil viele sich rühmen nach dem Fleische, will auch ich mich rühmen.</verse>
+        <verse osisID='2Cor.11.19'>Denn ihr hört ja gerne Unverständige an, weil ihr so verständig seid.</verse>
+        <verse osisID='2Cor.11.20'>Ihr lasset euch ja gefallen, wenn einer euch zu Sklaven macht, wenn einer euch aufzehrt, euch fängt, sich erhebt, euch ins Angesicht schlägt.</verse>
+        <verse osisID='2Cor.11.21'>Ich sage das zur Schmach, wie auch, daß wir darin schwach gewesen sind; worin aber einer kühn ist - ich spreche wieder im Unverstand - da bin auch ich kühn.</verse>
+        <verse osisID='2Cor.11.22'>Hebräer sind sie? Auch ich. Israeliten sind sie? Auch ich. Abrahams Samen sind sie? Auch ich.</verse>
+        <verse osisID='2Cor.11.23'>Christi Diener sind sie? - ich rede wieder im Unverstand: - Ich noch mehr. Ich bin in mehr Mühsalen gewesen, in Streichen über die Maßen, in mehr Kerkern, oft in Todesnöten.</verse>
+        <verse osisID='2Cor.11.24'>Von den Juden habe ich fünfmal vierzig Streiche weniger einen empfangen.</verse>
+        <verse osisID='2Cor.11.25'>Bin dreimal gestäupt, einmal gesteinigt worden, habe dreimal Schiffbruch gelitten, habe einen Tag und eine Nacht in Meerestiefen zugebracht,</verse>
+        <verse osisID='2Cor.11.26'>Bin oft auf Reisen gewesen, in Gefahren auf Flüssen, in Gefahren vor Mördern, in Gefahren unter Stammgenossen, in Gefahren unter Heiden, in Gefahren in der Stadt, in Gefahren in der Wüste, in Gefahren auf dem Meer, in Gefahren unter falschen Brüdern;</verse>
+        <verse osisID='2Cor.11.27'>In Mühsal und Elend, in häufigen Nachtwachen, in Hunger und Durst, oftmals in Fasten, in Frost und Blöße;</verse>
+        <verse osisID='2Cor.11.28'>Ohne was sich sonst zuträgt, der tägliche Überlauf, die Sorge für alle die Gemeinden.</verse>
+        <verse osisID='2Cor.11.29'>Wer ist schwach, daß ich nicht schwach werden dürfte? Wer wird geärgert, daß ich nicht entbrennen sollte?</verse>
+        <verse osisID='2Cor.11.30'>So ich mich je rühmen sollte, will ich mich meiner Schwachheit rühmen.</verse>
+        <verse osisID='2Cor.11.31'>Gott und der Vater unseres Herrn Jesus Christus, Der sei hochgelobt in Ewigkeit, weiß, daß ich nicht lüge.</verse>
+        <verse osisID='2Cor.11.32'>In Damaskus ließ der Präfekt des Königs Aretas die Stadt der Damasker schließen und wollte meiner habhaft werden;</verse>
+        <verse osisID='2Cor.11.33'>Und ich ward in einem Korb aus einem Fenster an der Stadtmauer hinabgelassen und entrann seinen Händen.</verse>
+      </chapter>
+      <chapter osisID='2Cor.12'>
+        <title>Offenbarungen und Anfechtungen.</title>
+        <verse osisID='2Cor.12.1'>Das Rühmen ist mir ja nichts nütze; doch will ich auf Gesichte und Offenbarungen des Herrn kommen.</verse>
+        <verse osisID='2Cor.12.2'>Ich weiß einen Menschen in Christus, der vor vierzehn Jahren - ist er im Leibe gewesen, so weiß ich es nicht, ist er außer dem Leibe gewesen, so weiß ich es auch nicht; Gott weiß es -</verse>
+        <verse osisID='2Cor.12.3'>Bis in den dritten Himmel entrückt ward,</verse>
+        <verse osisID='2Cor.12.4'>Und dort unaussprechliche Worte hörte, die ein Mensch nicht sagen kann.</verse>
+        <verse osisID='2Cor.12.5'>Über solchem will ich mich rühmen; für mich selbst aber will ich mich nicht rühmen, es sei denn meiner Schwachheiten.</verse>
+        <verse osisID='2Cor.12.6'>Denn so ich mich rühmen wollte, wäre ich darum noch nicht unverständig, denn ich würde die Wahrheit reden; ich enthalte mich aber dessen, damit nicht jemand mich höher achte, als er an mir sieht und von mir hört.</verse>
+        <verse osisID='2Cor.12.7'>Und auf daß ich mich nicht der überschwenglichen Offenbarungen überheben möchte, ward mir ein Pfahl ins Fleisch gegeben, ein Satansengel, daß er mich mit Fäusten schlage, auf daß ich mich nicht überhebe.</verse>
+        <verse osisID='2Cor.12.8'>Darüber habe ich dreimal zum Herrn gefleht, daß er von mir wiche.</verse>
+        <verse osisID='2Cor.12.9'>Und Er hat zu mir gesagt: Laß dir an Meiner Gnade genügen; denn Meine Kraft ist in den Schwachen mächtig. Darum will ich mich am liebsten rühmen der Schwachheiten, auf daß Christus Kraft in mir wohne.</verse>
+        <verse osisID='2Cor.12.10'>Deshalb bin ich guten Mutes in Schwachheiten, in Schmachen, in Nöten, in Verfolgungen, in Bedrängnissen um Christus willen; denn wenn ich schwach bin, dann bin ich stark.</verse>
+        <verse osisID='2Cor.12.11'>Ich bin unverständig geworden über meinem Rühmen; ihr habt mich dazu genötigt. Denn ich sollte von euch gelobt werden, weil ich in nichts den hohen Aposteln nachstehe, wenn ich gleich nichts bin.</verse>
+        <verse osisID='2Cor.12.12'>Denn die Zeichen des Apostels sind unter euch geschehen, mit Erduldung von allerlei Leiden, mit Zeichen und Wundern und Krafterweisungen.</verse>
+        <verse osisID='2Cor.12.13'>Denn worin seid ihr den anderen Gemeinden nachgestanden, es sei denn darin, daß ich selbst euch nicht zur Last gefallen bin? Haltet mir dieses Unrecht zugute.</verse>
+        <verse osisID='2Cor.12.14'>Siehe, ich bin bereit, ein drittes Mal zu euch zu kommen, und werde euch nicht beschwerlich fallen; denn es ist mir nicht um das Eurige, sondern um euch zu tun; denn nicht die Kinder haben für die Eltern, sondern die Eltern für die Kinder Schätze zu sammeln.</verse>
+        <verse osisID='2Cor.12.15'>Ich aber will recht gern Opfer bringen, und ein Opfer werden für eure Seelen; wenn ich auch, der ich euch überschwenglich liebe, weniger geliebt werde.</verse>
+        <verse osisID='2Cor.12.16'>Aber ich habe euch vielleicht keine Kosten gemacht, bin dagegen schlau genug gewesen, euch mit Hinterlist zu fangen.</verse>
+        <verse osisID='2Cor.12.17'>Habe ich durch einen von denen, die ich zu euch sandte, euch übervorteilt?</verse>
+        <verse osisID='2Cor.12.18'>Ich forderte Titus auf und sandte den Bruder mit ihm - hat euch etwa Titus übervorteilt, sind wir nicht in einem Geiste gewandelt, nicht in die gleichen Fußstapfen getreten?</verse>
+        <verse osisID='2Cor.12.19'>Glaubt ihr abermals, daß wir gegen euch uns verantworten wollen? Vor Gott in Christus reden wir das alles, Geliebte, zu eurer Erbauung.</verse>
+        <verse osisID='2Cor.12.20'>Denn ich fürchte, daß ich, wenn ich komme, euch nicht so finden möchte, wie ich wünschte, und ich von euch nicht so erfunden werde, wie ihr mich wünschet; daß Hader, Eifersucht, Ärgernisse, Streitigkeiten, Verleumdungen, Ohrenbläsereien, Aufgeblasenheiten und Verwirrungen stattgegriffen haben;</verse>
+        <verse osisID='2Cor.12.21'>Daß, wenn ich abermals komme, mein Gott mich bei euch demütige, und ich Leid tragen müsse über viele, die zuvor gesündigt und nicht Buße getan haben für die Unreinheit, Hurerei und Schwelgerei, deren sie sich schuldig machten.</verse>
+      </chapter>
+      <chapter osisID='2Cor.13'>
+        <title>Vermahnung zur Buße.</title>
+        <verse osisID='2Cor.13.1'>Ich komme nun zum dritten Mal zu euch, und auf zweier oder dreier Zeugen Munde soll jegliche Sache bestehen!</verse>
+        <verse osisID='2Cor.13.2'>Ich habe es vorhergesagt und wiederhole es [als wäre ich gegenwärtig] noch einmal [und vorerst abwesend,] für die, so vorher gesündigt und für alle anderen, daß, wenn ich wiederkomme, ich nicht schonen will.</verse>
+        <verse osisID='2Cor.13.3'>Weil ihr eine Bewährung des in mir redenden Christus verlangt, Der an euch nicht unkräftig, sondern mächtig ist.</verse>
+        <verse osisID='2Cor.13.4'>Denn wenn Er auch in der Schwachheit gekreuzigt wurde, so lebt Er doch in der Kraft Gottes, so sind wir nämlich schwach in Ihm, werden aber vermöge der Kraft Gottes mit Ihm für euch leben.</verse>
+        <verse osisID='2Cor.13.5'>Prüfet euch selbst, ob ihr im Glauben seid! Bewährt euch selbst! oder erkennt ihr nicht an euch selbst, daß Jesus Christus in euch ist, wofern ihr nicht etwa in der Probe nicht besteht?</verse>
+        <verse osisID='2Cor.13.6'>Ich hoffe aber, daß ihr erkennen werdet, daß wir nicht unbewährt sind.</verse>
+        <verse osisID='2Cor.13.7'>Ich bete aber zu Gott, daß Er euch nichts Unrechtes tun lasse, nicht damit wir als bewährt erscheinen, sondern damit ihr das Rechte tut, und wir vielmehr wie unbewährt seien.</verse>
+        <verse osisID='2Cor.13.8'>Denn wir können nichts wider die Wahrheit, sondern für die Wahrheit.</verse>
+        <verse osisID='2Cor.13.9'>Wir freuen uns ja, wenn wir die Schwachen sind, ihr aber stark seid; dafür beten wir sogar, daß ihr vollkommen seiet.</verse>
+        <verse osisID='2Cor.13.10'>Darum schreibe ich dies noch abwesend, auf daß ich nicht anwesend scharf verfahren müßte, nach der Gewalt, die mir der Herr verliehen hat, zur Erbauung und nicht zur Zerstörung.</verse>
+        <verse osisID='2Cor.13.11'>Im übrigen, Brüder, freut euch, werdet vollkommen, laßt euch ermahnen, seid einträchtig, haltet Frieden, so wird der Gott der Liebe und des Friedens mit euch sein.</verse>
+        <verse osisID='2Cor.13.12'>Grüßet einander mit dem heiligen Kuß, es grüßen euch alle Heiligen.</verse>
+        <verse osisID='2Cor.13.13'>Die Gnade des Herrn Jesus Christus, und die Liebe Gottes, und die Gemeinschaft des Heiligen Geistes sei mit euch allen! Amen.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

@@ -1,0 +1,1230 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <osisText xml:lang='ro' osisIDWork='RU' osisRefWork='Bible'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='RU'>
+        <title>Rumanian Version</title>
+        <contributor>The Unbound Bible
+Biola University: Administrative Computing
+13800 Biola Ave.
+La Mirada, CA 90639
+United States of America
+562-903-4722 </contributor>
+        <creator/>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject>holy bible</subject>
+        <date>2009-01-20</date>
+        <description>Rumanian Bible
+Cornilescu Version</description>
+        <publisher>FREE BIBLE SOFTWARE GROUP</publisher>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>RU</identifier>
+        <source>ftp://unboundftp.biola.edu/pub/rumanian_utf8.zip</source>
+        <language type='IETF'>ro</language>
+        <relation/>
+        <coverage>provide the bible to the world</coverage>
+        <rights>i think public domain</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Matt'>
+      <chapter osisID='Matt.1'>
+        <verse osisID='Matt.1.1'>Cartea neamului lui Isus Hristos, fiul lui David, fiul lui Avraam.</verse>
+        <verse osisID='Matt.1.2'>Avraam a născut pe Isaac; Isaac a născut pe Iacov; Iacov a născut pe Iuda şi fraţii lui;</verse>
+        <verse osisID='Matt.1.3'>Iuda a născut pe Fares şi Zara, din Tamar; Fares a născut pe Esrom; Esrom a născut pe Aram;</verse>
+        <verse osisID='Matt.1.4'>Aram a născut pe Aminadab; Aminadab a născut pe Naason; Naason a născut pe Salmon;</verse>
+        <verse osisID='Matt.1.5'>Salmon a născut pe Boaz, din Rahab; Boaz a născut pe Obed, din Rut; Obed a născut pe Iese;</verse>
+        <verse osisID='Matt.1.6'>Iese a născut pe împăratul David. Împăratul David a născut pe Solomon, din văduva lui Urie;</verse>
+        <verse osisID='Matt.1.7'>Solomon a născut pe Roboam; Roboam a născut pe Abia; Abia a născut pe Asa;</verse>
+        <verse osisID='Matt.1.8'>Asa a născut pe Iosafat; Iosafat a născut pe Ioram; Ioram a născut pe Ozia;</verse>
+        <verse osisID='Matt.1.9'>Ozia a născut pe Ioatam; Ioatam a născut pe Ahaz; Ahaz a născut pe Ezechia;</verse>
+        <verse osisID='Matt.1.10'>Ezechia a născut pe Manase; Manase a născut pe Amon; Amon a născut pe Iosia;</verse>
+        <verse osisID='Matt.1.11'>Iosia a născut pe Iehonia şi fraţii lui, pe vremea strămutării în Babilon.</verse>
+        <verse osisID='Matt.1.12'>După strămutarea în Babilon, Iehonia a născut pe Salatiel; Salatiel a născut pe Zorobabel;</verse>
+        <verse osisID='Matt.1.13'>Zorobabel a născut pe Abiud; Abiud a născut pe Eliachim; Eliachim a născut pe Azor;</verse>
+        <verse osisID='Matt.1.14'>Azor a născut pe Sadoc; Sadoc a născut pe Achim; Achim a născut pe Eliud;</verse>
+        <verse osisID='Matt.1.15'>Eliud a născut pe Eleazar; Eleazar a născut pe Matan; Matan a născut pe Iacov;</verse>
+        <verse osisID='Matt.1.16'>Iacov a născut pe Iosif, bărbatul Mariei, din care S'a născut Isus, care Se cheamă Hristos.</verse>
+        <verse osisID='Matt.1.17'>Deci, dela Avraam pînă la David, sînt patrusprezece neamuri de toate; dela David pînă la strămutarea în Babilon sînt patrusprezece neamuri; şi dela strămutarea în Babilon pînă la Hristos, sînt patrusprezece neamuri.</verse>
+        <verse osisID='Matt.1.18'>Iar naşterea lui Isus Hristos a fost aşa: Maria, mama Lui, era logodită cu Iosif; şi înainte ca să locuiască ei împreună, ea s'a aflat însărcinată dela Duhul Sfînt.</verse>
+        <verse osisID='Matt.1.19'>Iosif, bărbatul ei, era un om neprihănit, şi nu voia s'o facă de ruşine înaintea lumii; de aceea şi -a pus de gînd s'o lase pe ascuns.</verse>
+        <verse osisID='Matt.1.20'>Dar pe cînd se gîndea el la aceste lucruri, i s'a arătat în vis un înger al Domnului, şi i -a zis: ,,Iosife, fiul lui David, nu te teme să iei la tine pe Maria, nevastă-ta, căci ce s'a zămislit în ea, este dela Duhul Sfînt.</verse>
+        <verse osisID='Matt.1.21'>Ea va naşte un Fiu, şi -i vei pune numele Isus, pentru că El va mîntui pe poporul Lui de păcatele sale.``</verse>
+        <verse osisID='Matt.1.22'>Toate aceste lucruri s'au întîmplat ca să se împlinească ce vestise Domnul prin proorocul, care zice:</verse>
+        <verse osisID='Matt.1.23'>,,Iată, fecioara va fi însărcinată, va naşte un fiu, şi -i vor pune numele Emanuil``, care, tîlmăcit, înseamnă: ,,Dumnezeu este cu noi``.</verse>
+        <verse osisID='Matt.1.24'>Cînd s'a trezit Iosif din somn, a făcut cum îi poruncise îngerul Domnului; şi a luat la el pe nevastă-sa.</verse>
+        <verse osisID='Matt.1.25'>Dar n'a cunoscut -o, pînă ce ea a născut un fiu. Şi el i -a pus numele Isus.</verse>
+      </chapter>
+      <chapter osisID='Matt.2'>
+        <verse osisID='Matt.2.1'>După ce S'a născut Isus în Betleemul din Iudea, în zilele împăratului Irod, iată că au venit nişte magi din Răsărit la Ierusalim,</verse>
+        <verse osisID='Matt.2.2'>şi au întrebat: ,,Unde este Împăratul de curînd născut al Iudeilor? Fiindcă I-am văzut steaua în Răsărit, şi am venit să ne închinăm Lui.``</verse>
+        <verse osisID='Matt.2.3'>Cînd a auzit împăratul Irod acest lucru, s'a turburat mult; şi tot Ierusalimul s'a turburat împreună cu el.</verse>
+        <verse osisID='Matt.2.4'>A adunat pe toţi preoţii cei mai de seamă şi pe cărturarii norodului, şi a căutat să afle dela ei unde trebuia să Se nască Hristosul.</verse>
+        <verse osisID='Matt.2.5'>,,În Betleemul din Iudea``, i-au răspuns ei, ,,căci iată ce a fost scris prin proorocul:</verse>
+        <verse osisID='Matt.2.6'>,Şi tu, Betleeme, ţara lui Iuda, nu eşti nici de cum cea mai neînsemnată dintre căpeteniile lui Iuda; căci din tine va ieşi o Căpetenie, care va fi Păstorul poporului Meu Israel.``</verse>
+        <verse osisID='Matt.2.7'>Atunci Irod a chemat în ascuns pe magi, şi a aflat întocmai dela ei vremea în care se arătase steaua.</verse>
+        <verse osisID='Matt.2.8'>Apoi i -a trimes la Betleem, şi le -a zis: ,,duceţi-vă de cercetaţi cu deamăruntul despre Prunc: şi cînd Îl veţi găsi, daţi-mi şi mie de ştire, ca să vin şi eu să mă închin Lui.``</verse>
+        <verse osisID='Matt.2.9'>După ce au ascultat pe împăratul, magii au plecat. Şi iată că steaua, pe care o văzuseră în Răsărit, mergea înaintea lor, pînă ce a venit şi s'a oprit deasupra locului unde era Pruncul.</verse>
+        <verse osisID='Matt.2.10'>Cînd au văzut ei steaua, n'au mai putut de bucurie.</verse>
+        <verse osisID='Matt.2.11'>Au intrat în casă, au văzut Pruncul cu Maria, mama Lui, s'au aruncat cu faţa la pămînt, şi I s'au închinat; apoi şi-au deschis vistieriile, şi I-au adus daruri: aur, tămîie şi smirnă.</verse>
+        <verse osisID='Matt.2.12'>În urmă, au fost înştiinţaţi de Dumnezeu în vis să nu mai dea pe la Irod, şi s'au întors în ţara lor pe un alt drum.</verse>
+        <verse osisID='Matt.2.13'>După ce au plecat magii, un înger al Domnului se arată în vis lui Iosif, şi -i zice: ,,Scoală-te, ia Pruncul şi pe mama Lui, fugi în Egipt, şi rămîi acolo pînă îţi voi spune eu; căci Irod are să caute Pruncul, ca să -L omoare.``</verse>
+        <verse osisID='Matt.2.14'>Iosif s'a sculat, a luat Pruncul şi pe mama lui, noaptea, şi a plecat în Egipt.</verse>
+        <verse osisID='Matt.2.15'>Acolo a rămas pînă la moartea lui Irod, ca să se împlineacă ce fusese vestit de Domnul prin proorocul care zice: ,,Am chemat pe Fiul Meu din Egipt.``</verse>
+        <verse osisID='Matt.2.16'>Atunci Irod, cînd a văzut că fusese înşelat de magi, s'a mîniat foarte tare, şi a trimes să omoare pe toţi pruncii de parte bărbătească, dela doi ani în jos, cari erau în Betleem şi în toate împrejurimile lui, potrivit cu vremea, pe care o aflase întocmai dela magi.</verse>
+        <verse osisID='Matt.2.17'>Atunci s'a împlinit ce fusese vestit prin proorocul Ieremia, care zice:</verse>
+        <verse osisID='Matt.2.18'>,,Un ţipăt s'a auzit în Rama, plîngere, şi bocet mult: Rahela îşi jălea copiii, şi nu voia să fie mîngîiată, pentrucă nu mai erau.``</verse>
+        <verse osisID='Matt.2.19'>După ce a murit Irod, un înger al Domnului se arată în vis lui Iosif, în Egipt,</verse>
+        <verse osisID='Matt.2.20'>şi -i zice: ,,Scoală-te, ia Pruncul şi pe mama Lui, şi du-te în ţara lui Israel, căci au murit ceice căutau să ia viaţa Pruncului.``</verse>
+        <verse osisID='Matt.2.21'>Iosif s'a sculat, a luat Pruncul şi pe mama Lui, şi a venit în ţara lui Israel.</verse>
+        <verse osisID='Matt.2.22'>Dar cînd a auzit că în Iudea împărăţeşte Arhelau, în locul tatălui său Irod, s'a temut să se ducă acolo; şi, fiind înştiinţat de Dumnezeu în vis, a plecat în părţile Galileii.</verse>
+        <verse osisID='Matt.2.23'>A venit acolo, şi a locuit într'o cetate, numită Nazaret, ca să se împlinească ce fusese vestit prin prooroci: că El va fi chemat Nazarinean.</verse>
+      </chapter>
+      <chapter osisID='Matt.3'>
+        <verse osisID='Matt.3.1'>În vremea aceea a venit Ioan Botezătorul, şi propovăduia în pustia Iudeii.</verse>
+        <verse osisID='Matt.3.2'>El zicea: ,,Pocăiţi-vă, căci Împărăţia cerurilor este aproape.``</verse>
+        <verse osisID='Matt.3.3'>Ioan acesta este acela care fusese vestit prin proorocul Isaia, cînd zice: ,,Iată glasul celui ce strigă în pustie: ,Pregătiţi calea Domnului, neteziţi -I cărările.``</verse>
+        <verse osisID='Matt.3.4'>Ioan purta o haină de păr de cămilă, şi la mijloc era încins cu un brîu de curea. El se hrănea cu lăcuste şi miere sălbatică.</verse>
+        <verse osisID='Matt.3.5'>Locuitorii din Ierusalim, din toată Iudea şi din toate împrejurimile Iordanului, au început să iasă la el;</verse>
+        <verse osisID='Matt.3.6'>şi, mărturisindu-şi păcatele, erau botezaţi de el în rîul Iordan.</verse>
+        <verse osisID='Matt.3.7'>Dar cînd a văzut pe mulţi din Farisei şi din Saduchei că vin să primească botezul lui, le -a zis: ,,Pui de năpîrci, cine v'a învăţat să fugiţi de mînia viitoare?</verse>
+        <verse osisID='Matt.3.8'>Faceţi dar roade vrednice de pocăinţa voastră.</verse>
+        <verse osisID='Matt.3.9'>Şi să nu credeţi că puteţi zice în voi înşivă: ,Avem ca tată pe Avraam!` Căci vă spun că Dumnezeu din pietrele acestea poate să ridice fii lui Avraam.</verse>
+        <verse osisID='Matt.3.10'>Iată că securea a şi fost înfiptă la rădăcina pomilor: deci, orice pom, care nu face roadă bună, va fi tăiat şi aruncat în foc.</verse>
+        <verse osisID='Matt.3.11'>Cît despre mine, eu vă botez cu apă, spre pocăinţă; dar Celce vine după mine, este mai puternic decît mine, şi eu nu sînt vrednic să -I duc încălţămintele. El vă va boteza cu Duhul Sfînt şi cu foc.</verse>
+        <verse osisID='Matt.3.12'>Acela Îşi are lopata în mînă, Îşi va curăţi cu desăvîrşire aria, şi Îşi va strînge grîul în grînar; dar pleava o va arde într'un foc care nu se stinge.``</verse>
+        <verse osisID='Matt.3.13'>Atunci a venit Isus din Galilea la Iordan, la Ioan, ca să fie botezat de el.</verse>
+        <verse osisID='Matt.3.14'>Dar Ioan căuta să -l oprească. ,,Eu``, zicea el, ,,am trebuinţă să fiu botezat de Tine, şi Tu vii la mine?``</verse>
+        <verse osisID='Matt.3.15'>Drept răspuns, Isus i -a zis: ,,Lasă-Mă acum, căci aşa se cade să împlinim tot ce trebuie împlinit.`` Atunci Ioan L -a lăsat.</verse>
+        <verse osisID='Matt.3.16'>De îndată ce a fost botezat, Isus a ieşit afară din apă. Şi în clipa aceea cerurile s'au deschis, şi a văzut pe Duhul lui Dumnezeu pogorîndu-Se în chip de porumbel şi venind peste El.</verse>
+        <verse osisID='Matt.3.17'>Şi din ceruri s'a auzit un glas, care zicea: ,,Acesta este Fiul Meu prea iubit, în care Îmi găsesc plăcerea.``</verse>
+      </chapter>
+      <chapter osisID='Matt.4'>
+        <verse osisID='Matt.4.1'>Atunci Isus a fost dus de Duhul în pustie, ca să fie ispitit de diavolul.</verse>
+        <verse osisID='Matt.4.2'>Acolo a postit patruzeci de zile şi patruzeci de nopţi; la urmă a flămînzit.</verse>
+        <verse osisID='Matt.4.3'>Ispititorul s'a apropiat de El, şi i -a zis: ,,Dacă eşti Fiul lui Dumnezeu, porunceşte ca pietrele acestea să se facă pîni.``</verse>
+        <verse osisID='Matt.4.4'>Drept răspuns, Isus i -a zis: ,,Este scris: ,Omul nu trăieşte numai cu pîne, ci cu orice cuvînt care iese din gura lui Dumnezeu.``</verse>
+        <verse osisID='Matt.4.5'>Atunci diavolul L -a dus în sfînta cetate, L -a pus pe straşina Templului,</verse>
+        <verse osisID='Matt.4.6'>şi I -a zis: ,,Dacă eşti Fiul lui Dumnezeu, aruncă-Te jos; căci este scris: ,El va porunci îngerilor Săi să vegheze asupra Ta; şi ei Te vor lua pe mîni, ca nu cumva să Te loveşti cu piciorul de vreo piatră.``</verse>
+        <verse osisID='Matt.4.7'>,,De asemenea este scris``, a zis Iisus: ,,Să nu ispiteşti pe Domnul, Dumnezeul tău.``</verse>
+        <verse osisID='Matt.4.8'>Diavolul L -a dus apoi pe un munte foarte înalt, I -a arătat toate împărăţiile lumii şi strălucirea lor, şi I -a zis:</verse>
+        <verse osisID='Matt.4.9'>,,Toate aceste lucruri Ţi le voi da Ţie, dacă Te vei arunca cu faţa la pămînt şi Te vei închina mie.``</verse>
+        <verse osisID='Matt.4.10'>,,Pleacă, Satano``, i -a răspuns Isus. ,,Căci este scris: ,Domnului, Dumnezeului tău să te închini şi numai Lui să -I slujeşti.``</verse>
+        <verse osisID='Matt.4.11'>Atunci diavolul L -a lăsat. Şi deodată au venit la Isus nişte îngeri, şi au început să -I slujească.</verse>
+        <verse osisID='Matt.4.12'>Cînd a auzit Isus că Ioan fusese închis, a plecat în Galilea.</verse>
+        <verse osisID='Matt.4.13'>A părăsit Nazaretul, şi a venit de a locuit în Capernaum, lîngă mare, în ţinutul lui Zabulon şi Neftali,</verse>
+        <verse osisID='Matt.4.14'>ca să se împlinească ce fusese vestit prin proorocul Isaia, care zice:</verse>
+        <verse osisID='Matt.4.15'>,,Ţara lui Zabulon şi ţara lui Neftali, înspre mare, dincolo de Iordan, Galilea Neamurilor,</verse>
+        <verse osisID='Matt.4.16'>Norodul acesta, care zăcea în întunerec, a văzut o mare lumină; şi peste cei ce zăceau în ţinutul şi în umbra morţii, a răsărit lumina.``</verse>
+        <verse osisID='Matt.4.17'>De atunci încolo, Isus a început să propovăduiască, şi să zică: ,,Pocăiţi-vă, căci Împărăţia cerurilor este aproape.``</verse>
+        <verse osisID='Matt.4.18'>Pe cînd trecea pe lîngă marea Galileii, Isus a văzut doi fraţi: pe Simon, zis Petru, şi pe fratele său Andrei, cari aruncau o mreajă în mare; căci erau pescari.</verse>
+        <verse osisID='Matt.4.19'>El le -a zis: ,,Veniţi după Mine, şi vă voi face pescari de oameni.``</verse>
+        <verse osisID='Matt.4.20'>Îndată ei au lăsat mrejile, şi au mers după El.</verse>
+        <verse osisID='Matt.4.21'>Deacolo a mers mai departe, şi a văzut pe alţi doi fraţi: pe Iacov, fiul lui Zebedei, şi pe Ioan, fratele lui, cari erau într'o corabie cu tatăl lor Zebedei, şi îşi cîrpeau mrejile. El i -a chemat.</verse>
+        <verse osisID='Matt.4.22'>Şi îndată, ei au lăsat corabia şi pe tatăl lor, şi au mers după El.</verse>
+        <verse osisID='Matt.4.23'>Isus străbătea toată Galilea, învăţînd pe norod în sinagogi, propovăduind Evanghelia Împărăţiei, şi tămăduind orice boală şi orice neputinţă care era în norod.</verse>
+        <verse osisID='Matt.4.24'>I s'a dus vestea în toată Siria; şi aduceau la El pe toţi ceice sufereau de felurite boale şi chinuri: pe cei îndrăciţi, pe cei lunatici şi pe cei slăbănogi; şi El îi vindeca.</verse>
+        <verse osisID='Matt.4.25'>După El au mers multe noroade din Galilea, din Decapole, din Ierusalim, din Iudea şi de dincolo de Iordan.</verse>
+      </chapter>
+      <chapter osisID='Matt.5'>
+        <verse osisID='Matt.5.1'>Cînd a văzut Isus noroadele, S'a suit pe munte; şi dupăce a şezut jos, ucenicii Lui s'au apropiat de El.</verse>
+        <verse osisID='Matt.5.2'>Apoi a început să vorbească şi să -i înveţe astfel:</verse>
+        <verse osisID='Matt.5.3'>Ferice de cei săraci în duh, căci a lor este Împărăţia cerurilor!</verse>
+        <verse osisID='Matt.5.4'>Ferice de ceice plîng, căci ei vor fi mîngîiaţi!</verse>
+        <verse osisID='Matt.5.5'>Ferice de cei blînzi, căci ei vor moşteni pămîntul!</verse>
+        <verse osisID='Matt.5.6'>Ferice de cei flămînzi şi însetaţi după neprihănire, căci ei vor fi săturaţi!</verse>
+        <verse osisID='Matt.5.7'>Ferice de cei milostivi, căci ei vor avea parte de milă!</verse>
+        <verse osisID='Matt.5.8'>Ferice de cei cu inima curată, căci ei vor vedea pe Dumnezeu!</verse>
+        <verse osisID='Matt.5.9'>Ferice de cei împăciuitori, căci ei vor fi chemaţi fii ai lui Dumnezeu!</verse>
+        <verse osisID='Matt.5.10'>Ferice de cei prigoniţi din pricina neprihănirii, căci a lor este Împărăţia cerurilor!</verse>
+        <verse osisID='Matt.5.11'>Ferice va fi de voi cînd, din pricina Mea, oamenii vă vor ocărî, vă vor prigoni, şi vor spune tot felul de lucruri rele şi neadevărate împotriva voastră!</verse>
+        <verse osisID='Matt.5.12'>Bucuraţi-vă şi veseliţi-vă, pentrucă răsplata voastră este mare în ceruri; căci tot aşa au prigonit pe proorocii, cari au fost înainte de voi.</verse>
+        <verse osisID='Matt.5.13'>Voi sînteţi sarea pămîntului. Dar dacă sarea îşi pierde gustul, prin ce îşi va căpăta iarăş puterea de a săra? Atunci nu mai este bună la nimic decît să fie lepădată afară, şi călcată în picioare de oameni.</verse>
+        <verse osisID='Matt.5.14'>Voi sînteţi lumina lumii. O cetate aşezată pe un munte, nu poate să rămînă ascunsă.</verse>
+        <verse osisID='Matt.5.15'>Şi oamenii n'aprind lumina ca s'o pună supt obroc, ci o pun în sfeşnic, şi luminează tuturor celor din casă.</verse>
+        <verse osisID='Matt.5.16'>Tot aşa să lumineze şi lumina voastră înaintea oamenilor, ca ei să vadă faptele voastre bune, şi să slăvească pe Tatăl vostru, care este în ceruri.</verse>
+        <verse osisID='Matt.5.17'>Să nu credeţi că am venit să stric Legea sau Proorocii; am venit nu să stric, ci să împlinesc.</verse>
+        <verse osisID='Matt.5.18'>Căci adevărat vă spun, cîtă vreme nu va trece cerul şi pămîntul, nu va trece o iotă sau o frîntură de slovă din Lege, înainte ca să se fi întîmplat toate lucrurile.</verse>
+        <verse osisID='Matt.5.19'>Aşa că, ori cine va strica una din cele mai mici din aceste porunci, şi va învăţa pe oameni aşa, va fi chemat cel mai mic în Împărăţia cerurilor; dar oricine le va păzi, şi va învăţa pe alţii să le păzească, va fi chemat mare în Împărăţia cerurilor.</verse>
+        <verse osisID='Matt.5.20'>Căci vă spun că, dacă neprihănirea voastră nu va întrece neprihănirea cărturarilor şi a Fariseilor, cu niciun chip nu veţi intra în Împărăţia cerurilor.</verse>
+        <verse osisID='Matt.5.21'>Aţi auzit că s'a zis celor din vechime: ,Să nu ucizi; oricine va ucide, va cădea supt pedeapsa judecăţii.`</verse>
+        <verse osisID='Matt.5.22'>Dar Eu vă spun că ori şi cine se mînie pe fratele său, va cădea supt pedeapsa judecăţii; şi oricine va zice fratelui său: ,Prostule!` va cădea supt pedeapsa Soborului; iar oricine -i va zice: ,Nebunule`, va cădea supt pedeapsa focului gheenei.</verse>
+        <verse osisID='Matt.5.23'>Aşa că, dacă îţi aduci darul la altar, şi acolo îţi aduci aminte că fratele tău are ceva împotriva ta,</verse>
+        <verse osisID='Matt.5.24'>lasă-ţi darul acolo înaintea altarului, şi du-te întîi de împacă-te cu fratele tău; apoi vino de adu-ţi darul.</verse>
+        <verse osisID='Matt.5.25'>Caută de te împacă de grab cu pîrîşul tău, cîtă vreme eşti cu el pe drum; ca nu cumva pîrîşul să te dea pe mîna judecătorului, judecătorul să te dea pe mîna temnicerului, şi să fii aruncat în temniţă.</verse>
+        <verse osisID='Matt.5.26'>Adevărat îţi spun că nu vei ieşi deacolo pînă nu vei plăti cel din urmă bănuţ.``</verse>
+        <verse osisID='Matt.5.27'>Aţi auzit că s'a zis celor din vechime: ,,Să nu preacurveşti.``</verse>
+        <verse osisID='Matt.5.28'>Dar Eu vă spun că ori şi cine se uită la o femeie, ca s'o poftească, a şi preacurvit cu ea în inima lui.</verse>
+        <verse osisID='Matt.5.29'>Dacă deci ochiul tău cel drept te face să cazi în păcat, scoate -l şi leapădă -l dela tine; căci este spre folosul tău să piară unul din mădularele tale, şi să nu-ţi fie aruncat tot trupul în gheenă.</verse>
+        <verse osisID='Matt.5.30'>Dacă mîna ta cea dreaptă te face să cazi în păcat, taie -o şi leapădă -o dela tine; căci este spre folosul tău să piară unul din mădularele tale, şi să nu-ţi fie aruncat tot trupul în gheenă.</verse>
+        <verse osisID='Matt.5.31'>S'a zis iarăş: ,,Oricine îşi va lăsa nevasta, să -i dea o carte de despărţire.``</verse>
+        <verse osisID='Matt.5.32'>Dar Eu vă spun că ori şi cine îşi va lăsa nevasta, afară numai de pricină de curvie, îi dă prilej să preacurvească; şi cine va lua de nevastă pe cea lăsată de bărbat, preacurveşte.</verse>
+        <verse osisID='Matt.5.33'>Aţi mai auzit iarăş că s'a zis celor din vechime: ,,Să nu juri strîmb; ci să împlineşti faţă de Domnul jurămintele tale.``</verse>
+        <verse osisID='Matt.5.34'>Dar Eu vă spun: Să nu juraţi nicidecum; nici pe cer, pentru că este scaunul de domnie al lui Dumnezeu;</verse>
+        <verse osisID='Matt.5.35'>nici pe pămînt, pentru că este aşternutul picioarelor Lui; nici pe Ierusalim, pentrucă este cetatea marelui Împărat.</verse>
+        <verse osisID='Matt.5.36'>Să nu juri nici pe capul tău, căci nu poţi face un singur păr alb sau negru.</verse>
+        <verse osisID='Matt.5.37'>Felul vostru de vorbire să fie: ,,Da, da; nu, nu``; ce trece peste aceste cuvinte, vine dela cel rău.</verse>
+        <verse osisID='Matt.5.38'>Aţi auzit că s'a zis: ,,Ochi pentru ochi, şi dinte pentru dinte.``</verse>
+        <verse osisID='Matt.5.39'>Dar Eu vă spun: Să nu vă împotriviţi celui ce vă face rău. Ci, oricui te loveşte peste obrazul drept, întoarce -i şi pe celalt.</verse>
+        <verse osisID='Matt.5.40'>Orişicui vrea să se judece cu tine, şi să-ţi ia haina, lasă -i şi cămaşa.</verse>
+        <verse osisID='Matt.5.41'>Dacă te sileşte cineva să mergi cu el o milă de loc, mergi cu el două.</verse>
+        <verse osisID='Matt.5.42'>Celui ce-ţi cere, dă -i; şi nu întoarce spatele celui ce vrea să se împrumute dela tine.</verse>
+        <verse osisID='Matt.5.43'>Aţi auzit că s'a zis: ,,Să iubeşti pe aproapele tău, şi să urăşti pe vrăjmaşul tău.``</verse>
+        <verse osisID='Matt.5.44'>Dar Eu vă spun: Iubiţi pe vrăjmaşii voştri, binecuvîntaţi pe cei ce vă blastămă, faceţi bine celorce vă urăsc, şi rugaţi-vă pentru ceice vă asupresc şi vă prigonesc,</verse>
+        <verse osisID='Matt.5.45'>ca să fiţi fii ai Tatălui vostru care este în ceruri; căci El face să răsară soarele Său peste cei răi şi peste cei buni, şi dă ploaie peste cei drepţi şi peste cei nedrepţi.</verse>
+        <verse osisID='Matt.5.46'>Dacă iubiţi numai pe cei ce vă iubesc, ce răsplată mai aşteptaţi? Nu fac aşa şi vameşii?</verse>
+        <verse osisID='Matt.5.47'>Şi dacă îmbrăţişaţi cu dragoste numai pe fraţii voştri, ce lucru neobicinuit faceţi? Oare păgînii nu fac la fel?</verse>
+        <verse osisID='Matt.5.48'>Voi fiţi dar desăvîrşiţi, după cum şi Tatăl vostru cel ceresc este desăvîrşit.</verse>
+      </chapter>
+      <chapter osisID='Matt.6'>
+        <verse osisID='Matt.6.1'>Luaţi seama să nu vă îndepliniţi neprihănirea voastră înaintea oamenilor, ca să fiţi văzuţi de ei; altminteri, nu veţi avea răsplată dela Tatăl vostru care este în ceruri.</verse>
+        <verse osisID='Matt.6.2'>Tu, dar, cînd faci milostenie, nu suna cu trîmbiţa înaintea ta, cum fac făţarnicii, în sinagogi şi în uliţe, pentru ca să fie slăviţi de oameni. Adevărat vă spun, că şi-au luat răsplata.</verse>
+        <verse osisID='Matt.6.3'>Ci tu, cînd faci milostenie, să nu ştie stînga ta ce face dreapta,</verse>
+        <verse osisID='Matt.6.4'>pentruca milostenia ta să fie făcută în ascuns; şi Tatăl tău, care vede în ascuns, îţi va răsplăti.</verse>
+        <verse osisID='Matt.6.5'>Cînd vă rugaţi, să nu fiţi ca făţarnicii, cărora le place să se roage stînd în picioare în sinagogi şi la colţurile uliţelor, pentruca să fie văzuţi de oameni. Adevărat vă spun, că şi-au luat răsplata.</verse>
+        <verse osisID='Matt.6.6'>Ci tu, cînd te rogi, intră în odăiţa ta, încuie-ţi uşa, şi roagă-te Tatălui tău, care este în ascuns; şi Tatăl tău, care vede în ascuns, îţi va răsplăti.</verse>
+        <verse osisID='Matt.6.7'>Cînd vă rugaţi, să nu bolborosiţi aceleaşi vorbe, ca păgînii, cărora li se pare că, dacă spun o mulţime de vorbe, vor fi ascultaţi.</verse>
+        <verse osisID='Matt.6.8'>Să nu vă asemănaţi cu ei; căci Tatăl vostru ştie de ce aveţi trebuinţă, mai înainte ca să -I cereţi voi.</verse>
+        <verse osisID='Matt.6.9'>Iată dar cum trebuie să vă rugaţi: ,,Tatăl nostru care eşti în ceruri! Sfinţească-se Numele Tău;</verse>
+        <verse osisID='Matt.6.10'>vie împărăţia Ta; facă-se voia Ta, precum în cer şi pe pămînt.</verse>
+        <verse osisID='Matt.6.11'>Pînea noastră cea de toate zilele (Sau: pentru mîne.) dă-ne -o nouă astăzi;</verse>
+        <verse osisID='Matt.6.12'>şi ne iartă nouă greşelile noastre, precum şi noi iertăm greşiţilor noştri (Greceşte: Lasă-ne datoriile noastre, cum şi noi am lăsat pe ale datornicilor noştri.);</verse>
+        <verse osisID='Matt.6.13'>şi nu ne duce în ispită, ci izbăveşte-ne de cel rău. Căci a Ta este împărăţia şi puterea şi slava în veci. Amin!</verse>
+        <verse osisID='Matt.6.14'>Dacă iertaţi oamenilor greşelile lor, şi Tatăl vostru cel ceresc vă va ierta greşelile voastre.</verse>
+        <verse osisID='Matt.6.15'>Dar dacă nu iertaţi oamenilor greşelile lor, nici Tatăl vostru nu vă va ierta greşelile voastre.</verse>
+        <verse osisID='Matt.6.16'>Cînd postiţi, să nu vă luaţi o înfăţişare posomorîtă, ca făţarnicii, cari îşi sluţesc feţele, ca să se arate oamenilor că postesc. Adevărat vă spun, că şi-au luat răsplata.</verse>
+        <verse osisID='Matt.6.17'>Ci tu, cînd posteşti, unge-ţi capul, şi spală-ţi faţa,</verse>
+        <verse osisID='Matt.6.18'>ca să te arăţi că posteşti nu oamenilor, ci Tatălui tău, care este în ascuns; şi Tatăl tău, care vede în ascuns, îţi va răsplăti.</verse>
+        <verse osisID='Matt.6.19'>Nu vă strîngeţi comori pe pămînt, unde le mănîncă moliile şi rugina, şi unde le sapă şi le fură hoţii;</verse>
+        <verse osisID='Matt.6.20'>ci strîngeţi-vă comori în cer, unde nu le mănîncă moliile şi rugina şi unde hoţii nu le sapă, nici nu le fură.</verse>
+        <verse osisID='Matt.6.21'>Pentrucă unde este comoara voastră, acolo va fi şi inima voastră.</verse>
+        <verse osisID='Matt.6.22'>Ochiul este lumina trupului. Dacă ochiul tău este sănătos, tot trupul tău va fi plin de lumină;</verse>
+        <verse osisID='Matt.6.23'>dar dacă ochiul tău este rău, tot trupul tău va fi plin de întunerec. Aşa că, dacă lumina care este în tine este întunerec, cît de mare trebuie să fie întunerecul acesta!</verse>
+        <verse osisID='Matt.6.24'>Nimeni nu poate sluji la doi stăpîni. Căci sau va urî pe unul şi va iubi pe celalt; sau va ţinea la unul, şi va nesocoti pe celalt: Nu puteţi sluji lui Dumnezeu şi lui Mamona.</verse>
+        <verse osisID='Matt.6.25'>Deaceea vă spun: Nu vă îngrijoraţi de viaţa voastră, gîndindu-vă ce veţi mînca, sau ce veţi bea; nici de trupul vostru, gîndindu-vă cu ce vă veţi îmbrăca. Oare nu este viaţa mai mult decît hrana, şi trupul mai mult decît îmbrăcămintea?</verse>
+        <verse osisID='Matt.6.26'>Uitaţi-vă la păsările cerului: ele nici nu samănă, nici nu seceră, şi nici nu strîng nimic în grînare; şi totuş Tatăl vostru cel ceresc le hrăneşte. Oare nu sînteţi voi cu mult mai de preţ decît ele?</verse>
+        <verse osisID='Matt.6.27'>Şi apoi, cine dintre voi, chiar îngrijorîndu-se, poate să adauge măcar un cot la înălţimea lui?</verse>
+        <verse osisID='Matt.6.28'>Şi de ce vă îngrijoraţi de îmbrăcăminte? Uitaţi-vă cu băgare de seamă cum cresc crinii de pe cîmp: ei nici nu torc, nici nu ţes;</verse>
+        <verse osisID='Matt.6.29'>totuş vă spun că nici chiar Solomon, în toată slava lui, nu s'a îmbrăcat ca unul din ei.</verse>
+        <verse osisID='Matt.6.30'>Aşa că, dacă astfel îmbracă Dumnezeu iarba de pe cîmp, care astăzi este, dar mîne va fi aruncată în cuptor, nu vă va îmbrăca El cu mult mai mult pe voi, puţin credincioşilor?</verse>
+        <verse osisID='Matt.6.31'>Nu vă îngrijoraţi dar, zicînd: ,,Ce vom mînca?`` Sau: ,,Ce vom bea?`` Sau: ,,Cu ce ne vom îmbrăca?``</verse>
+        <verse osisID='Matt.6.32'>Fiindcă toate aceste lucruri Neamurile le caută. Tatăl vostru cel ceresc ştie că aveţi trebuinţă de ele.</verse>
+        <verse osisID='Matt.6.33'>Căutaţi mai întîi Împărăţia lui Dumnezeu şi neprihănirea Lui, şi toate aceste lucruri vi se vor da pe deasupra.</verse>
+        <verse osisID='Matt.6.34'>Nu vă îngrijoraţi dar de ziua de mîne; căci ziua de mîne se va îngrijora de ea însăş. Ajunge zilei necazul ei.</verse>
+      </chapter>
+      <chapter osisID='Matt.7'>
+        <verse osisID='Matt.7.1'>Nu judecaţi, ca să nu fiţi judecaţi.</verse>
+        <verse osisID='Matt.7.2'>Căci cu ce judecată judecaţi, veţi fi judecaţi; şi cu ce măsură măsuraţi, vi se va măsura.</verse>
+        <verse osisID='Matt.7.3'>De ce vezi tu paiul din ochiul fratelui tău, şi nu te uiţi cu băgare de seamă la bîrna din ochiul tău?</verse>
+        <verse osisID='Matt.7.4'>Sau, cum poţi zice fratelui tău: ,,Lasă-mă să scot paiul din ochiul tău``, şi, cînd colo, tu ai o bîrnă într'al tău?...</verse>
+        <verse osisID='Matt.7.5'>Făţarnicule, scoate întîi bîrna din ochiul tău, şi atunci vei vedea desluşit să scoţi paiul din ochiul fratelui tău.</verse>
+        <verse osisID='Matt.7.6'>Să nu daţi cînilor lucrurile sfinte, şi să nu aruncaţi mărgăritarele voastre înaintea porcilor, ca nu cumva să le calce în picioare, şi să se întoarcă să vă rupă.</verse>
+        <verse osisID='Matt.7.7'>Cereţi, şi vi se va da; căutaţi şi veţi găsi; bateţi, şi vi se va deschide.</verse>
+        <verse osisID='Matt.7.8'>Căci ori şi cine cere, capătă; cine caută, găseşte; şi celui ce bate, i se deschide.</verse>
+        <verse osisID='Matt.7.9'>Cine este omul acela dintre voi, care, dacă -i cere fiul său o pîne, să -i dea o piatră?</verse>
+        <verse osisID='Matt.7.10'>Sau, dacă -i cere un peşte, să -i dea un şarpe?</verse>
+        <verse osisID='Matt.7.11'>Deci, dacă voi, cari sînteţi răi, ştiţi să daţi daruri bune copiilor voştri, cu cît mai mult Tatăl vostru, care este în ceruri, va da lucruri bune celor ce I le cer!</verse>
+        <verse osisID='Matt.7.12'>Tot ce voiţi să vă facă vouă oamenii, faceţi-le şi voi la fel; căci în aceasta este cuprinsă Legea şi Proorocii.</verse>
+        <verse osisID='Matt.7.13'>Intraţi pe poarta cea strîmtă. Căci largă este poarta, lată este calea care duce la pierzare, şi mulţi sînt ceice intră pe ea.</verse>
+        <verse osisID='Matt.7.14'>Dar strîmtă este poarta, îngustă este calea care duce la viaţă, şi puţini sînt ceice o află.</verse>
+        <verse osisID='Matt.7.15'>Păziţi-vă de prooroci mincinoşi. Ei vin la voi îmbrăcaţi în haine de oi, dar pe dinlăuntru sînt nişte lupi răpitori.</verse>
+        <verse osisID='Matt.7.16'>Îi veţi cunoaşte după roadele lor. Culeg oamenii struguri din spini, sau smochine din mărăcini?</verse>
+        <verse osisID='Matt.7.17'>Tot aşa, orice pom bun face roade bune, dar pomul rău face roade rele.</verse>
+        <verse osisID='Matt.7.18'>Pomul bun nu poate face roade rele, nici pomul rău nu poate face roade bune.</verse>
+        <verse osisID='Matt.7.19'>Orice pom, care nu face roade bune, este tăiat şi aruncat în foc.</verse>
+        <verse osisID='Matt.7.20'>Aşa că după roadele lor îi veţi cunoaşte.</verse>
+        <verse osisID='Matt.7.21'>Nu orişicine-Mi zice: ,,Doamne, Doamne!`` va intra în Împărăţia cerurilor, ci celce face voia Tatălui Meu care este în ceruri.</verse>
+        <verse osisID='Matt.7.22'>Mulţi Îmi vor zice în ziua aceea: ,,Doamne, Doamne! N'am proorocit noi în Numele Tău? N'am scos noi draci în Numele Tău? Şi n'am făcut noi multe minuni în Numele Tău?``</verse>
+        <verse osisID='Matt.7.23'>Atunci le voi spune curat: ,,Niciodată nu v'am cunoscut; depărtaţi-vă dela Mine, voi toţi cari lucraţi fărădelege.``</verse>
+        <verse osisID='Matt.7.24'>De aceea, pe orişicine aude aceste cuvinte ale Mele, şi le face, îl voi asemăna cu un om cu judecată, care şi -a zidit casa pe stîncă.</verse>
+        <verse osisID='Matt.7.25'>A dat ploaia, au venit şivoaele, au suflat vînturile şi au bătut în casa aceea, dar ea nu s'a prăbuşit, pentrucă avea temelia zidită pe stîncă.</verse>
+        <verse osisID='Matt.7.26'>Însă ori şi cine aude aceste cuvinte ale Mele, şi nu le face, va fi asemănat cu un om nechibzuit, care şi -a zidit casa pe nisip.</verse>
+        <verse osisID='Matt.7.27'>A dat ploaia, au venit şivoaiele, au suflat vînturile, şi au izbit în casa aceea: ea s'a prăbuşit, şi prăbuşirea i -a fost mare.``</verse>
+        <verse osisID='Matt.7.28'>După ce a sfîrşit Isus cuvîntările acestea, noroadele au rămas uimite de învăţătura Lui;</verse>
+        <verse osisID='Matt.7.29'>căci El îi învăţa ca unul care avea putere, nu cum îi învăţau cărturarii lor.</verse>
+      </chapter>
+      <chapter osisID='Matt.8'>
+        <verse osisID='Matt.8.1'>Cînd S'a coborît Isus de pe munte, multe noroade au mers după El.</verse>
+        <verse osisID='Matt.8.2'>Şi un lepros s'a apropiat de El, I s'a închinat, şi I -a zis: ,,Doamne, dacă vrei, poţi să mă curăţeşti.``</verse>
+        <verse osisID='Matt.8.3'>Isus a întins mîna, S'a atins de el, şi a zis: ,,Da, vreau, fii curăţit!`` Îndată a fost curăţită lepra lui.</verse>
+        <verse osisID='Matt.8.4'>Apoi Isus i -a zis: ,,Vezi să nu spui la nimeni; ci du-te de te arată preotului, şi adu darul, pe care l -a rînduit Moise, ca mărturie pentru ei.``</verse>
+        <verse osisID='Matt.8.5'>Pe cînd intra Isus în Capernaum, s'a apropiat de El un sutaş, care -L ruga</verse>
+        <verse osisID='Matt.8.6'>şi -I zicea: ,,Doamne, robul meu zace în casă slăbănog, şi se chinuieşte cumplit.``</verse>
+        <verse osisID='Matt.8.7'>Isus i -a zis: ,,Am să vin şi să -l tămăduiesc.``</verse>
+        <verse osisID='Matt.8.8'>,,Doamne``, a răspuns sutaşul, ,,nu sînt vrednic să intri supt acoperemîntul meu; ci zi numai un cuvînt, şi robul meu va fi tămăduit.</verse>
+        <verse osisID='Matt.8.9'>Căci şi eu sînt om supt stăpînire; am supt mine ostaşi, şi zic unuia: ,Du-te!` şi se duce; altuia: ,Vino!` şi vine; şi robului meu: ,Fă cutare lucru!` şi -l face.</verse>
+        <verse osisID='Matt.8.10'>Cînd a auzit Isus aceste vorbe, S'a mirat, şi a zis celor ce veneau după El: ,,Adevărat vă spun că nici în Israel n'am găsit o credinţă aşa de mare.</verse>
+        <verse osisID='Matt.8.11'>Dar vă spun că vor veni mulţi dela răsărit şi dela apus, şi vor sta la masă cu Avraam, Isaac şi Iacov în Împărăţia cerurilor.</verse>
+        <verse osisID='Matt.8.12'>Iar fiii Împărăţiei vor fi aruncaţi în întunerecul de afară, unde va fi plînsul şi scrîşnirea dinţilor.``</verse>
+        <verse osisID='Matt.8.13'>Apoi a zis sutaşului: ,,Du-te, şi facă-ţi-se după credinţa ta.`` Şi robul lui s'a tămăduit chiar în ceasul acela.</verse>
+        <verse osisID='Matt.8.14'>Isus S'a dus apoi în casa lui Petru, şi a văzut pe soacra acestuia zăcînd în pat, prinsă de friguri.</verse>
+        <verse osisID='Matt.8.15'>S'a atins de mîna ei, şi au lăsat -o frigurile; apoi ea s'a sculat, şi a început să -I slujească.</verse>
+        <verse osisID='Matt.8.16'>Seara, au adus la Isus pe mulţi îndrăciţi. El, prin cuvîntul Lui, a scos din ei duhurile necurate, şi a tămăduit pe toţi bolnavii,</verse>
+        <verse osisID='Matt.8.17'>ca să se împlinească ce fusese vestit prin proorocul Isaia, care zice: ,,El a luat asupra Lui neputinţele noastre şi a purtat boalele noastre.``</verse>
+        <verse osisID='Matt.8.18'>Isus a văzut multe noroade împrejurul Său, şi a poruncit să treacă de cealaltă parte.</verse>
+        <verse osisID='Matt.8.19'>Atunci s'a apropiat de El un cărturar, şi I -a zis: ,,Învăţătorule, vreau să Te urmez ori unde vei merge.``</verse>
+        <verse osisID='Matt.8.20'>Isus i -a răspuns: ,,Vulpile au vizuini, şi păsările cerului au cuiburi; dar Fiul omului n'are unde-Şi odihni capul.``</verse>
+        <verse osisID='Matt.8.21'>Un altul, care era dintre ucenici, I -a zis: ,,Doamne, dă-mi voie să mă duc mai întîi să îngrop pe tatăl meu.``</verse>
+        <verse osisID='Matt.8.22'>,,Vino după Mine``, i -a răspuns Isus, ,,şi lasă morţii să-şi îngroape morţii.``</verse>
+        <verse osisID='Matt.8.23'>Isus S'a suit într'o corabie, şi ucenicii Lui au mers după El.</verse>
+        <verse osisID='Matt.8.24'>Şi deodată s'a stîrnit pe mare o furtună atît de straşnică, încît corabia era acoperită de valuri. Şi El dormea.</verse>
+        <verse osisID='Matt.8.25'>Ucenicii s'au apropiat de El, şi L-au deşteptat, strigînd: ,,Doamne, scapă-ne, că pierim!``</verse>
+        <verse osisID='Matt.8.26'>El le -a zis: ,,De ce vă este frică, puţin credincioşilor?`` Apoi S'a sculat, a certat vînturile şi marea, şi s'a făcut o linişte mare.</verse>
+        <verse osisID='Matt.8.27'>Oamenii aceia se mirau, şi ziceau: ,,Ce fel de om este acesta, de -L ascultă pînă şi vînturile şi marea?``</verse>
+        <verse osisID='Matt.8.28'>Cînd a ajuns Isus de partea cealaltă, în ţinutul Gadarenilor, L-au întîmpinat doi îndrăciţi, cari ieşeau din morminte. Erau aşa de cumpliţi, că nimeni nu putea trece pe drumul acela.</verse>
+        <verse osisID='Matt.8.29'>Şi iată că au început să strige: ,,Ce legătură este între noi şi Tine, Isuse, Fiul lui Dumnezeu? Ai venit aici să ne chinuieşti înainte de vreme?``</verse>
+        <verse osisID='Matt.8.30'>Departe de ei era o turmă mare de porci, cari păşteau.</verse>
+        <verse osisID='Matt.8.31'>Dracii rugau pe Isus şi ziceau: ,,Dacă ne scoţi afară din ei, dă-ne voie să ne ducem în turma aceea de porci.``</verse>
+        <verse osisID='Matt.8.32'>,,Duceţi-vă``, le -a zis El. Ei au ieşit, şi au intrat în porci. Şi deodată toată turma s'a repezit de pe rîpă în mare, şi a pierit în ape.</verse>
+        <verse osisID='Matt.8.33'>Porcarii au fugit, şi s'au dus în cetate de au povestit tot ce se petrecuse şi cele întîmplate cu îndrăciţii.</verse>
+        <verse osisID='Matt.8.34'>Şi iată că toată cetatea a ieşit în întîmpinarea lui Isus; şi, cum L-au văzut, L-au rugat să plece din ţinutul lor.</verse>
+      </chapter>
+      <chapter osisID='Matt.9'>
+        <verse osisID='Matt.9.1'>Isus S'a suit într'o corabie, a trecut marea, şi a venit în cetatea Sa.</verse>
+        <verse osisID='Matt.9.2'>Şi iată că I-au adus un slăbănog, care zăcea într'un pat. Isus le -a văzut credinţa, şi a zis slăbănogului: ,,Îndrăzneşte, fiule! Păcatele îţi sînt iertate!``</verse>
+        <verse osisID='Matt.9.3'>Şi iată că, unii din cărturari au zis în ei înşişi: ,,Omul acesta huleşte!``</verse>
+        <verse osisID='Matt.9.4'>Isus, care le cunoştea gîndurile, a zis: ,,Pentruce aveţi gînduri rele în inimile voastre?``</verse>
+        <verse osisID='Matt.9.5'>Căci ce este mai lesne? A zice: ,,Iertate îţi sînt păcatele``, sau a zice: ,,Scoală-te şi umblă?``</verse>
+        <verse osisID='Matt.9.6'>Dar, ca să ştiţi că Fiul omului are putere pe pămînt să ierte păcatele, -,,Scoală-te``, a zis El slăbănogului, ,,ridică-ţi patul, şi du-te acasă.``</verse>
+        <verse osisID='Matt.9.7'>Slăbănogul s'a sculat, şi s'a dus acasă.</verse>
+        <verse osisID='Matt.9.8'>Cînd au văzut noroadele lucrul acesta, s'au spăimîntat, şi au slăvit pe Dumnezeu, care a dat oamenilor o astfel de putere.</verse>
+        <verse osisID='Matt.9.9'>De acolo, Isus a mers mai departe, şi a văzut pe un om, numit Matei, şezînd la vamă. Şi i -a zis: ,,Vino după Mine``. Omul acela s'a sculat, şi a mers după El.</verse>
+        <verse osisID='Matt.9.10'>Pe cînd şedea Isus la masă, în casă, iată că au venit o mulţime de vameşi şi păcătoşi, şi au şezut la masă cu El şi cu ucenicii Lui.</verse>
+        <verse osisID='Matt.9.11'>Fariseii au văzut lucrul acesta, şi au zis ucenicilor Lui: ,,Pentruce mănîncă Învăţătorul vostru cu vameşii şi cu păcătoşii?``</verse>
+        <verse osisID='Matt.9.12'>Isus i -a auzit, şi le -a zis: ,,Nu cei sănătoşi au trebuinţă de doftor, ci cei bolnavi.</verse>
+        <verse osisID='Matt.9.13'>Duceţi-vă de învăţaţi ce înseamnă: ,Milă voiesc, iar nu jertfă!` Căci n'am venit să chem la pocăinţă pe cei neprihăniţi, ci pe cei păcătoşi.``</verse>
+        <verse osisID='Matt.9.14'>Atunci ucenicii lui Ioan au venit la Isus, şi I-au zis: ,,De ce noi şi Fariseii postim des, iar ucenicii Tăi nu postesc de loc?``</verse>
+        <verse osisID='Matt.9.15'>Isus le -a răspuns: ,,Se pot jăli nuntaşii cîtă vreme este mirele cu ei? Vor veni zile, cînd mirele va fi luat dela ei, şi atunci vor posti.</verse>
+        <verse osisID='Matt.9.16'>Nimeni nu pune un petec de postav nou la o haină veche; pentrucă şi-ar lua umplutura din haină, şi ruptura ar fi mai rea.</verse>
+        <verse osisID='Matt.9.17'>Nici nu pun oamenii vin nou în burdufuri vechi; altfel, burdufurile plesnesc, vinul se varsă, şi burdufurile se prăpădesc; ci vinul nou îl pun în burdufuri noi, şi se păstrează amîndouă.``</verse>
+        <verse osisID='Matt.9.18'>Pe cînd le spunea Isus aceste vorbe, iată că a venit unul din fruntaşii sinagogii, I s'a închinat, şi I -a zis: ,,Fiica mea adineaori a murit; dar vino de pune-Ţi mînile peste ea, şi va învia.``</verse>
+        <verse osisID='Matt.9.19'>Isus S'a sculat, şi a plecat după el împreună cu ucenicii Lui.</verse>
+        <verse osisID='Matt.9.20'>Şi iată o femeie, care de doisprezece ani avea o scurgere de sînge, a venit pe dinapoi, şi s'a atins de poala hainei Lui.</verse>
+        <verse osisID='Matt.9.21'>Căci îşi zicea ea: ,,Numai să mă pot atinge de haina Lui, şi mă voi tămădui.``</verse>
+        <verse osisID='Matt.9.22'>Isus S'a întors, a văzut -o, şi i -a zis: ,,Îndrăzneşte, fiică! Credinţa ta te -a tămăduit.`` Şi s'a tămăduit femeia chiar în ceasul acela.</verse>
+        <verse osisID='Matt.9.23'>Cînd a ajuns Isus în casa fruntaşului sinagogii, şi cînd a văzut pe ceice cîntau din fluier, şi gloata bocind,</verse>
+        <verse osisID='Matt.9.24'>le -a zis: ,,Daţi-vă la o parte; căci fetiţa n'a murit, ci doarme!`` Ei îşi băteau joc de El.</verse>
+        <verse osisID='Matt.9.25'>Dar, dupăce a fost scoasă gloata afară, Isus a intrat înlăuntru, a luat pe fetiţă de mînă, şi fetiţa s -a sculat.</verse>
+        <verse osisID='Matt.9.26'>Şi s'a dus vestea despre această minune în tot ţinutul acela.</verse>
+        <verse osisID='Matt.9.27'>Cînd a plecat de acolo, s'au luat după Isus doi orbi, cari strigau şi ziceau: ,,Ai milă de noi, Fiul lui David!``</verse>
+        <verse osisID='Matt.9.28'>După ce a intrat în casă, orbii au venit la El. Şi Isus le -a zis: ,,Credeţi că pot face lucrul acesta?`` ,,Da, Doamne``, I-au răspuns ei.</verse>
+        <verse osisID='Matt.9.29'>Atunci S'a atins de ochii lor, şi a zis: ,,Facă-vi-se după credinţa voastră!``</verse>
+        <verse osisID='Matt.9.30'>Şi li s'au deschis ochii. Isus le -a poruncit cu tot dinadinsul şi le -a zis: ,,Vedeţi, să nu ştie nimeni.``</verse>
+        <verse osisID='Matt.9.31'>Dar ei, cum au ieşit afară, au răspîndit vestea despre El în tot ţinutul acela.</verse>
+        <verse osisID='Matt.9.32'>Pe cînd plecau orbii aceştia, iată că au adus la Isus un mut îndrăcit.</verse>
+        <verse osisID='Matt.9.33'>După ce a fost scos dracul din el, mutul a vorbit. Şi noroadele, mirate, ziceau: ,,Niciodată nu s'a văzut aşa ceva în Israel!``</verse>
+        <verse osisID='Matt.9.34'>Dar Fariseii ziceau: ,,Cu ajutorul domnului dracilor scoate El dracii!``</verse>
+        <verse osisID='Matt.9.35'>Isus străbătea toate cetăţile şi satele, învăţînd pe norod în sinagogi, propovăduind Evanghelia Împărăţiei, şi vindecînd orice fel de boală şi orice fel de neputinţă, care era în norod.</verse>
+        <verse osisID='Matt.9.36'>Cînd a văzut gloatele, I s'a făcut milă de ele, pentru că erau necăjite şi risipite, ca nişte oi cari n'au păstor.</verse>
+        <verse osisID='Matt.9.37'>Atunci a zis ucenicilor Săi: ,,Mare este secerişul, dar puţini sînt lucrătorii!</verse>
+        <verse osisID='Matt.9.38'>Rugaţi dar pe Domnul secerişului să scoată lucrători la secerişul Lui.``</verse>
+      </chapter>
+      <chapter osisID='Matt.10'>
+        <verse osisID='Matt.10.1'>Apoi Isus a chemat pe cei doisprezece ucenici ai Săi, şi le -a dat putere să scoată afară duhurile necurate, şi să tămăduiască orice fel de boală şi orice fel de neputinţă.</verse>
+        <verse osisID='Matt.10.2'>Iată numele celor doisprezece apostoli: Cel dintîi, Simon, zis Petru, şi Andrei, fratele lui; Iacov, fiul lui Zebedei, şi Ioan, fratele lui;</verse>
+        <verse osisID='Matt.10.3'>Filip şi Bartolomeu; Toma şi Matei, vameşul; Iacov, fiul lui Alfeu, şi Levi, zis şi Tadeu;</verse>
+        <verse osisID='Matt.10.4'>Simon Cananitul, şi Iuda Iscarioteanul, cel care a vîndut pe Isus.</verse>
+        <verse osisID='Matt.10.5'>Aceştia sînt cei doisprezece, pe cari i -a trimes Isus, după ce le -a dat învăţăturile următoare: Să nu mergeţi pe calea păgînilor şi să nu intraţi în vreo cetate a Samaritenilor;</verse>
+        <verse osisID='Matt.10.6'>ci să mergeţi mai de grabă la oile pierdute ale casei lui Israel.</verse>
+        <verse osisID='Matt.10.7'>Şi pe drum, propovăduiţi, şi ziceţi: ,,Împărăţia cerurilor este aproape!``</verse>
+        <verse osisID='Matt.10.8'>Vindecaţi pe bolnavi, înviaţi pe morţi, curăţiţi pe leproşi, scoateţi afară dracii. Fără plată aţi primit, fără plată să daţi.</verse>
+        <verse osisID='Matt.10.9'>Să nu luaţi nici aur, nici argint, nici aramă în brîele voastre,</verse>
+        <verse osisID='Matt.10.10'>nici traistă pentru drum, nici două haine, nici încălţăminte, nici toiag, căci vrednic este lucrătorul de hrana lui.</verse>
+        <verse osisID='Matt.10.11'>În orice cetate sau sat veţi intra, să cercetaţi cine este acolo vrednic şi să rămîneţi la el pînă veţi pleca.</verse>
+        <verse osisID='Matt.10.12'>La intrarea voastră în casă, uraţi -i de bine;</verse>
+        <verse osisID='Matt.10.13'>şi dacă este casa aceea vrednică, pacea voastră să vină peste ea; dar dacă nu este vrednică, pacea voastră să se întoarcă la voi.</verse>
+        <verse osisID='Matt.10.14'>Dacă nu vă va primi cineva, nici nu va asculta cuvintele voastre, să ieşiţi din casa sau din cetatea aceea, şi să scuturaţi praful de pe picioarele voastre.``</verse>
+        <verse osisID='Matt.10.15'>Adevărat vă spun că, în ziua judecăţii, va fi mai uşor pentru ţinutul Sodomei şi Gomorei, decît pentru cetatea aceea.</verse>
+        <verse osisID='Matt.10.16'>Iată, Eu vă trimet ca pe nişte oi în mijlocul lupilor. Fiţi dar înţelepţi ca şerpii, şi fără răutate ca porumbeii.</verse>
+        <verse osisID='Matt.10.17'>Păziţi-vă de oameni; căci vă vor da în judecata soboarelor, şi vă vor bate în sinagogile lor.</verse>
+        <verse osisID='Matt.10.18'>Din pricina Mea, veţi fi duşi înaintea dregătorilor şi înaintea împăraţilor, ca să slujiţi ca mărturie înaintea lor şi înaintea Neamurilor.</verse>
+        <verse osisID='Matt.10.19'>Dar, cînd vă vor da în mîna lor, să nu vă îngrijoraţi, gîndindu-vă cum sau ce veţi spune; căci ce veţi avea de spus, vă va fi dat chiar în ceasul acela;</verse>
+        <verse osisID='Matt.10.20'>fiindcă nu voi veţi vorbi, ci Duhul Tatălui vostru va vorbi în voi.</verse>
+        <verse osisID='Matt.10.21'>Fratele va da la moarte pe frate-său, şi tatăl pe copilul lui; copiii se vor scula împotriva părinţilor lor, şi -i vor omorî.</verse>
+        <verse osisID='Matt.10.22'>Veţi fi urîţi de toţi, din pricina Numelui Meu; dar cine va răbda pînă la sfîrşit, va fi mîntuit.</verse>
+        <verse osisID='Matt.10.23'>Cînd vă vor prigoni într'o cetate, să fugiţi într'alta. Adevărat vă spun că nu veţi isprăvi de străbătut cetăţile lui Israel pînă va veni Fiul omului.</verse>
+        <verse osisID='Matt.10.24'>Ucenicul nu este mai pe sus de învăţătorul său, nici robul mai pe sus de domnul său.</verse>
+        <verse osisID='Matt.10.25'>Ajunge ucenicului să fie ca învăţătorul lui, şi robului să fie ca domnul lui. Dacă pe Stăpînul casei L-au numit Beelzebul, cu cît mai mult vor numi aşa, pe cei din casa lui?</verse>
+        <verse osisID='Matt.10.26'>Aşa că să nu vă temeţi de ei. Căci nu este nimic ascuns care nu va fi descoperit, şi nimic tăinuit care nu va fi cunoscut.</verse>
+        <verse osisID='Matt.10.27'>Ce vă spun Eu la întunerec, voi să spuneţi la lumină; şi ce auziţi şoptindu-se la ureche, să propovăduiţi de pe acoperişul caselor.</verse>
+        <verse osisID='Matt.10.28'>Nu vă temeţi de cei ce ucid trupul, dar cari nu pot ucide sufletul; ci temeţi-vă mai degrabă de Celce poate să piardă şi sufletul şi trupul în gheenă.</verse>
+        <verse osisID='Matt.10.29'>Nu se vînd oare două vrăbii la un ban? Totuş, nici una din ele nu cade pe pămînt fără voia Tatălui vostru.</verse>
+        <verse osisID='Matt.10.30'>Cît despre voi, pînă şi perii din cap, toţi vă sînt număraţi.</verse>
+        <verse osisID='Matt.10.31'>Deci să nu vă temeţi; voi sînteţi mai de preţ decît multe vrăbii.</verse>
+        <verse osisID='Matt.10.32'>Deaceea, pe orişicine Mă va mărturisi înaintea oamenilor, îl voi mărturisi şi Eu înaintea Tatălui Meu care este în ceruri;</verse>
+        <verse osisID='Matt.10.33'>dar de oricine se va lepăda de Mine înaintea oamenilor, Mă voi lepăda şi Eu înaintea Tatălui Meu care este în ceruri.</verse>
+        <verse osisID='Matt.10.34'>Să nu credeţi că am venit s'aduc pacea pe pămînt; n'am venit să aduc pacea, ci sabia.</verse>
+        <verse osisID='Matt.10.35'>Căci am venit să despart pe fiu de tatăl său, pe fiică de mamă-sa, şi pe noră de soacră-sa.</verse>
+        <verse osisID='Matt.10.36'>Şi omul va avea de vrăjmaşi chiar pe cei din casa lui.</verse>
+        <verse osisID='Matt.10.37'>Cine iubeşte pe tată, ori pe mamă, mai mult decît pe Mine, nu este vrednic de Mine; şi cine iubeşte pe fiu ori pe fiică mai mult decît pe Mine, nu este vrednic de Mine.</verse>
+        <verse osisID='Matt.10.38'>Cine nu-şi ia crucea lui, şi nu vine după Mine, nu este vrednic de Mine.</verse>
+        <verse osisID='Matt.10.39'>Cine îşi va păstra viaţa, o va pierde; şi cine îşi va pierde viaţa, pentru Mine, o va cîştiga.</verse>
+        <verse osisID='Matt.10.40'>Cine vă primeşte pe voi, Mă primeşte pe Mine; şi cine Mă primeşte pe Mine, primeşte pe Cel ce M'a trimes pe Mine.</verse>
+        <verse osisID='Matt.10.41'>Cine primeşte un prooroc, în numele unui prooroc, va primi răsplata unui prooroc; şi cine primeşte pe un om neprihănit, în numele unui om neprihănit, va primi răsplata unui om neprihănit.</verse>
+        <verse osisID='Matt.10.42'>Şi oricine va da de băut numai un pahar de apă rece unuia din aceşti micuţi, în numele unui ucenic, adevărat vă spun că nu-şi va pierde răsplata.``</verse>
+      </chapter>
+      <chapter osisID='Matt.11'>
+        <verse osisID='Matt.11.1'>Dupăce a isprăvit de dat învăţături la cei doisprezece ucenici ai Săi, Isus a plecat de acolo, ca să înveţe pe oameni, şi să propovăduiască în cetăţile lor.</verse>
+        <verse osisID='Matt.11.2'>Ioan a auzit din temniţă despre lucrările lui Hristos,</verse>
+        <verse osisID='Matt.11.3'>şi a trimes să -L întrebe prin ucenicii săi: ,,Tu eşti Acela care are să vină sau să aşteptăm pe altul?``</verse>
+        <verse osisID='Matt.11.4'>Drept răspuns, Isus le -a zis: ,,Duceţi-vă de spuneţi lui Ioan ce auziţi şi ce vedeţi:</verse>
+        <verse osisID='Matt.11.5'>Orbii îşi capătă vederea, şchiopii umblă, leproşii sînt curăţiţi, surzii aud, morţii înviază, şi săracilor li se propovăduieşte Evanghelia.</verse>
+        <verse osisID='Matt.11.6'>Ferice de acela pentru care Eu nu voi fi un prilej de poticnire.``</verse>
+        <verse osisID='Matt.11.7'>Pe cînd se duceau ei, Isus a început să vorbească noroadelor despre Ioan: ,,Ce aţi ieşit să vedeţi în pustie? O trestie clătinată de vînt?</verse>
+        <verse osisID='Matt.11.8'>Dacă nu, atunci ce aţi ieşit să vedeţi? Un om îmbrăcat în haine moi? Iată că ceice poartă haine moi sînt în casele împăraţilor.</verse>
+        <verse osisID='Matt.11.9'>Atunci ce aţi ieşit să vedeţi? Un prooroc? Da, vă spun, şi mai mult decît un prooroc;</verse>
+        <verse osisID='Matt.11.10'>căci el este acela despre care s'a scris: ,Iată, trimet înaintea feţei Tale pe solul Meu, care Îţi va pregăti calea înaintea Ta.`</verse>
+        <verse osisID='Matt.11.11'>Adevărat vă spun că, dintre cei născuţi din femei, nu s'a sculat nici unul mai mare decît Ioan Botezătorul. Totuş, cel mai mic în Împărăţia cerurilor este mai mare decît el.</verse>
+        <verse osisID='Matt.11.12'>Din zilele lui Ioan Botezătorul pînă acum, Împărăţia cerurilor se ia cu năvală, şi ceice dau năvală, pun mîna pe ea.</verse>
+        <verse osisID='Matt.11.13'>Căci pînă la Ioan au proorocit toţi proorocii şi Legea.</verse>
+        <verse osisID='Matt.11.14'>Şi, dacă vreţi să înţelegeţi, el este Ilie, care trebuia să vină.</verse>
+        <verse osisID='Matt.11.15'>Cine are urechi de auzit, să audă.</verse>
+        <verse osisID='Matt.11.16'>Cu cine voi asemăna neamul acesta de oameni? Seamănă cu nişte copilaşi, cari şed în pieţe, şi strigă la tovarăşii lor:</verse>
+        <verse osisID='Matt.11.17'>,V'am cîntat din fluier, şi n'aţi jucat; v'am cîntat de jale, şi nu v'aţi tînguit.`</verse>
+        <verse osisID='Matt.11.18'>Căci a venit Ioan, nici mîncînd, nici bînd, şi ei zic: ,Are drac!`</verse>
+        <verse osisID='Matt.11.19'>A venit Fiul omului mîncînd şi bînd, şi ei zic: ,Iată un om mîncăcios şi băutor de vin, un prieten al vameşilor şi al păcătoşilor!` Totuş, Înţelepciunea a fost îndreptăţită din lucrările ei.``</verse>
+        <verse osisID='Matt.11.20'>Atunci Isus a început să mustre cetăţile în cari fuseseră făcute cele mai multe din minunile Lui, pentrucă nu se pocăiseră.</verse>
+        <verse osisID='Matt.11.21'>,,Vai de tine, Horazine!`` a zis El. ,,Vai de tine, Betsaido!`` Căci, dacă ar fi fost făcute în Tir şi Sidon minunile cari au fost făcute în voi, de mult s'ar fi pocăit, cu sac şi cenuşă.</verse>
+        <verse osisID='Matt.11.22'>De aceea vă spun că, în ziua judecăţii, va fi mai uşor pentru Tir şi Sidon decît pentru voi.</verse>
+        <verse osisID='Matt.11.23'>Şi tu, Capernaume, vei fi înălţat oare pînă la cer? Vei fi pogorît pînă la Locuinţa morţilor; căci dacă ar fi fost făcute în Sodoma minunile, cari au fost făcute în tine, ea ar fi rămas în picioare pînă în ziua de astăzi.</verse>
+        <verse osisID='Matt.11.24'>De aceea, vă spun, că în ziua judecăţii, va fi mai uşor pentru ţinutul Sodomei decît pentru tine.``</verse>
+        <verse osisID='Matt.11.25'>În vremea aceea, Isus a luat cuvîntul şi a zis: ,,Te laud, Tată, Doamne al cerului şi al pămîntului, pentrucă ai ascuns aceste lucruri de cei înţelepţi şi pricepuţi, şi le-ai descoperit pruncilor.</verse>
+        <verse osisID='Matt.11.26'>Da, Tată, Te laud, pentrucă aşa ai găsit Tu cu cale!``</verse>
+        <verse osisID='Matt.11.27'>Toate lucrurile Mi-au fost date în mîni de Tatăl Meu; şi nimeni nu cunoaşte deplin pe Fiul, afară de Tatăl; tot astfel nimeni nu cunoaşte deplin pe Tatăl, afară de Fiul, şi acela căruia vrea Fiul să i -L descopere.</verse>
+        <verse osisID='Matt.11.28'>Veniţi la Mine, toţi cei trudiţi şi împovăraţi, şi Eu vă voi da odihnă.</verse>
+        <verse osisID='Matt.11.29'>Luaţi jugul Meu asupra voastră, şi învăţaţi dela Mine, căci Eu sînt blînd şi smerit cu inima; şi veţi găsi odihnă pentru sufletele voastre.</verse>
+        <verse osisID='Matt.11.30'>Căci jugul Meu este bun, şi sarcina Mea este uşoară.``</verse>
+      </chapter>
+      <chapter osisID='Matt.12'>
+        <verse osisID='Matt.12.1'>În vremea aceea, Isus trecea prin lanurile de grîu, într'o zi de Sabat. Ucenicii Lui, cari erau flămînzi, au început să smulgă spice de grîu şi să le mănînce.</verse>
+        <verse osisID='Matt.12.2'>Fariseii, cînd au văzut lucrul acesta, I-au zis: ,,Uite că ucenicii Tăi fac ce nu este îngăduit să facă în ziua Sabatului.``</verse>
+        <verse osisID='Matt.12.3'>Dar Isus le -a răspuns: ,,Oare n'aţi citit ce a făcut David, cînd a flămînzit, el şi ceice erau împreună cu el?</verse>
+        <verse osisID='Matt.12.4'>Cum a intrat în Casa lui Dumnezeu, şi a mîncat pînile pentru punerea înaintea Domnului, pe cari nu -i era îngăduit să le mănînce nici lui, nici celor ce erau cu el, ci numai preoţilor?</verse>
+        <verse osisID='Matt.12.5'>Sau n'aţi citit în Lege că, în zilele de Sabat, preoţii calcă Sabatul în Templu, şi totuş sînt nevinovaţi?</verse>
+        <verse osisID='Matt.12.6'>Dar Eu vă spun că aici este Unul mai mare decît Templul.</verse>
+        <verse osisID='Matt.12.7'>Dacă aţi fi ştiut ce însemnează: ,Milă voiesc, iar nu jertfe,` n'aţi fi osîndit pe nişte nevinovaţi.</verse>
+        <verse osisID='Matt.12.8'>Căci Fiul omului este Domn şi al Sabatului.``</verse>
+        <verse osisID='Matt.12.9'>Isus a plecat de acolo, şi a intrat în sinagogă.</verse>
+        <verse osisID='Matt.12.10'>Şi iată că în sinagogă era un om care avea o mînă uscată. Ei, ca să poată învinui pe Isus, L-au întrebat: ,,Este îngăduit a vindeca în zilele de Sabat?``</verse>
+        <verse osisID='Matt.12.11'>El le -a răspuns: ,,Cine este omul acela dintre voi care, dacă are o oaie, şi -i cade într'o groapă, în ziua Sabatului, să n'o apuce şi s'o scoată afară?</verse>
+        <verse osisID='Matt.12.12'>Cu cît mai de preţ este deci un om decît o oaie? De aceea este îngăduit a face bine în zilele de Sabat.``</verse>
+        <verse osisID='Matt.12.13'>Atunci a zis omului aceluia: ,,Întinde-ţi mîna!`` El a întins -o, şi mîna s'a făcut sănătoasă ca şi cealaltă.</verse>
+        <verse osisID='Matt.12.14'>Fariseii au ieşit afară, şi s'au sfătuit cum să omoare pe Isus.</verse>
+        <verse osisID='Matt.12.15'>Dar Isus, ca unul care ştia lucrul acesta, a plecat de acolo. După El au mers multe noroade. El a tămăduit pe toţi bolnavii,</verse>
+        <verse osisID='Matt.12.16'>şi le -a poruncit cu totdinadinsul să nu -L facă cunoscut;</verse>
+        <verse osisID='Matt.12.17'>ca să se împlinească ce fusese vestit prin proorocul Isaia, care zice:</verse>
+        <verse osisID='Matt.12.18'>,,Iată Robul Meu, pe care L-am ales, Prea iubitul Meu, în care sufletul Meu îşi găseşte plăcerea. Voi pune Duhul Meu peste El, şi va vesti Neamurilor judecata.</verse>
+        <verse osisID='Matt.12.19'>El nu Se va lua la ceartă, nici nu va striga. Şi nimeni nu -I va auzi glasul pe uliţe.</verse>
+        <verse osisID='Matt.12.20'>Nu va frînge o trestie ruptă, şi nici nu va stinge un fitil care fumegă, pînă va face să biruie judecata.</verse>
+        <verse osisID='Matt.12.21'>Şi Neamurile vor nădăjdui în Numele Lui.``</verse>
+        <verse osisID='Matt.12.22'>Atunci I-au adus un îndrăcit orb şi mut; şi Isus l -a tămăduit, aşa că mutul vorbea şi vedea.</verse>
+        <verse osisID='Matt.12.23'>Toate noroadele, mirate, ziceau: ,,Nu cumva este acesta Fiul lui David?``</verse>
+        <verse osisID='Matt.12.24'>Cînd au auzit Fariseii lucrul acesta, au zis: ,,Omul acesta nu scoate dracii decît cu Beelzebul, domnul dracilor!``</verse>
+        <verse osisID='Matt.12.25'>Isus, care le cunoştea gîndurile, le -a zis: ,,Orice împărăţie desbinată împotriva ei însăş, este pustiită; şi orice cetate sau casă, desbinată împotriva ei însăş, nu poate dăinui.</verse>
+        <verse osisID='Matt.12.26'>Dacă Satana scoate afară pe Satana, este desbinat; deci, cum poate dăinui împărăţia lui?</verse>
+        <verse osisID='Matt.12.27'>Şi dacă Eu scot afară dracii cu ajutorul lui Beelzebul, fiii voştri cu cine -i scot? De aceea ei vor fi judecătorii voştri.</verse>
+        <verse osisID='Matt.12.28'>Dar dacă Eu scot afară dracii cu Duhul lui Dumnezeu, atunci Împărăţia lui Dumnezeu a venit peste voi.</verse>
+        <verse osisID='Matt.12.29'>Sau, cum poate cineva să intre în casa celui tare, şi să -i jăfuiască gospodăria, dacă n'a legat mai întîi pe cel tare? Numai atunci îi va jăfui casa.</verse>
+        <verse osisID='Matt.12.30'>Cine nu este cu Mine, este împotriva Mea, şi cine nu strînge cu Mine, risipeşte.</verse>
+        <verse osisID='Matt.12.31'>De aceea vă spun: Orice păcat şi orice hulă vor fi iertate oamenilor; dar hula împotriva Duhului Sfînt nu le va fi iertată.</verse>
+        <verse osisID='Matt.12.32'>Oricine va vorbi împotriva Fiului omului, va fi iertat; dar oricine va vorbi împotriva Duhului Sfînt, nu va fi iertat nici în veacul acesta, nici în cel viitor.</verse>
+        <verse osisID='Matt.12.33'>Ori faceţi pomul bun şi rodul lui bun, ori faceţi pomul rău şi rodul lui rău: căci pomul se cunoaşte după rodul lui.</verse>
+        <verse osisID='Matt.12.34'>Pui de năpîrci, cum aţi putea voi să spuneţi lucruri bune, cînd voi sînteţi răi? Căci din prisosul inimii vorbeşte gura.</verse>
+        <verse osisID='Matt.12.35'>Omul bun scoate lucruri bune din vistieria bună a inimii lui; dar omul rău scoate lucruri rele din vistieria rea a inimii lui.</verse>
+        <verse osisID='Matt.12.36'>Vă spun că, în ziua judecăţii, oamenii vor da socoteală de orice cuvînt nefolositor, pe care -l vor fi rostit.</verse>
+        <verse osisID='Matt.12.37'>Căci din cuvintele tale vei fi scos fără vină, şi din cuvintele tale vei fi osîndit.``</verse>
+        <verse osisID='Matt.12.38'>Atunci unii din cărturari şi din Farisei au luat cuvîntul, şi I-au zis: ,,Învăţătorule, am vrea să vedem un semn dela Tine!``</verse>
+        <verse osisID='Matt.12.39'>Drept răspuns, El le -a zis: ,,Un neam viclean şi preacurvar cere un semn; dar nu i se va da alt semn, decît semnul proorocului Iona.</verse>
+        <verse osisID='Matt.12.40'>Căci, după cum Iona a stat trei zile şi trei nopţi în pîntecele chitului, tot aşa şi Fiul omului va sta trei zile şi trei nopţi în inima pămîntului.</verse>
+        <verse osisID='Matt.12.41'>Bărbaţii din Ninive se vor scula alături de neamul acesta, în ziua judecăţii, şi -l vor osîndi, pentru că ei s'au pocăit la propovăduirea lui Iona; şi iată că aici este Unul mai mare decît Iona.</verse>
+        <verse osisID='Matt.12.42'>Împărăteasa dela Miazăzi se va scula alături de neamul acesta, în ziua judecăţii, şi -l va osîndi, pentru că ea a venit dela marginile pămîntului, ca să audă înţelepciunea lui Solomon; şi iată că aici este Unul mai mare decît Solomon.</verse>
+        <verse osisID='Matt.12.43'>Duhul necurat, cînd a ieşit dintr'un om, umblă prin locuri fără apă, căutînd odihnă, şi n'o găseşte.</verse>
+        <verse osisID='Matt.12.44'>Atunci zice: ,,Mă voi întoarce în casa mea, de unde am ieşit. Şi, cînd vine în ea, o găseşte goală, măturată şi împodobită.</verse>
+        <verse osisID='Matt.12.45'>Atunci se duce şi ia cu el alte şapte duhuri mai rele decît el: intră în casă, locuiesc acolo, şi starea din urmă a omului acestuia ajunge mai rea decît cea dintîi. Tocmai aşa se va întîmpla şi cu acest neam viclean.``</verse>
+        <verse osisID='Matt.12.46'>Pe cînd vorbea încă Isus noroadelor, iată că mama şi fraţii Lui stăteau afară şi căutau să vorbească cu El.</verse>
+        <verse osisID='Matt.12.47'>Atunci cineva I -a zis: ,,Iată, mama Ta şi fraţii Tăi stau afară, şi caută să vorbească cu Tine.``</verse>
+        <verse osisID='Matt.12.48'>Dar Isus a răspuns celui ce -I adusese ştirea aceasta: ,,Cine este mama Mea, şi cari sînt fraţii Mei?``</verse>
+        <verse osisID='Matt.12.49'>Apoi Şi -a întins mîna spre ucenicii Săi şi a zis: ,,Iată mama Mea şi fraţii Mei!</verse>
+        <verse osisID='Matt.12.50'>Căci oricine face voia Tatălui Meu care este în ceruri, acela Îmi este frate, soră şi mamă.``</verse>
+      </chapter>
+      <chapter osisID='Matt.13'>
+        <verse osisID='Matt.13.1'>În aceeaş zi, Isus a ieşit din casă, şi şedea lîngă mare.</verse>
+        <verse osisID='Matt.13.2'>O mulţime de noroade s'au strîns la El, aşa că a trebuit să Se suie să şadă într'o corabie; iar tot norodul stătea pe ţărm.</verse>
+        <verse osisID='Matt.13.3'>El le -a vorbit despre multe lucruri în pilde, şi le -a zis: ,,Iată, sămănătorul a ieşit să samene.</verse>
+        <verse osisID='Matt.13.4'>Pe cînd sămăna el, o parte din sămînţă a căzut lîngă drum, şi au venit păsările şi au mîncat -o.</verse>
+        <verse osisID='Matt.13.5'>O altă parte a căzut pe locuri stîncoase, unde n'avea pămînt mult: a răsărit îndată, pentrucă n'a găsit un pămînt adînc.</verse>
+        <verse osisID='Matt.13.6'>Dar, cînd a răsărit soarele, s'a pălit; şi, pentrucă n'avea rădăcini, s'a uscat.</verse>
+        <verse osisID='Matt.13.7'>O altă parte a căzut între spini: spinii au crescut, şi au înecat -o.</verse>
+        <verse osisID='Matt.13.8'>O altă parte a căzut în pămînt bun, şi a dat roadă: un grăunte a dat o sută, altul şaizeci, şi altul treizeci.</verse>
+        <verse osisID='Matt.13.9'>Cine are urechi de auzit, să audă.``</verse>
+        <verse osisID='Matt.13.10'>Ucenicii s'au apropiat de El, şi I-au zis: ,,De ce le vorbeşti în pilde?``</verse>
+        <verse osisID='Matt.13.11'>Isus le -a răspuns: ,,Pentrucă vouă v'a fost dat să cunoaşteţi tainele Împărăţiei cerurilor, iar lor nu le -a fost dat.</verse>
+        <verse osisID='Matt.13.12'>Căci celui ce are, i se va da, şi va avea de prisos; iar dela cel ce n'are, se va lua chiar şi ce are.</verse>
+        <verse osisID='Matt.13.13'>De aceea le vorbesc în pilde, pentrucă ei, măcar că văd, nu văd, şi măcar că aud, nu aud, nici nu înţeleg.</verse>
+        <verse osisID='Matt.13.14'>Şi cu privire la ei se împlineşte proorocia lui Isaia, care zice: ,Veţi auzi cu urechile voastre, şi nu veţi înţelege; veţi privi cu ochii voştri, şi nu veţi vedea.</verse>
+        <verse osisID='Matt.13.15'>Căci inima acestui popor s'a împietrit; au ajuns tari de urechi, şi-au închis ochii, ca nu cumva să vadă cu ochii, să audă cu urechile, să înţeleagă cu inima, să se întoarcă la Dumnezeu, şi să -i vindec.`</verse>
+        <verse osisID='Matt.13.16'>Dar ferice de ochii voştri că văd; şi de urechile voastre că aud!</verse>
+        <verse osisID='Matt.13.17'>Adevărat vă spun că, mulţi prooroci şi oameni neprihăniţi au dorit să vadă lucrurile pe cari le vedeţi voi, şi nu le-au văzut; şi să audă lucrurile pe cari le auziţi voi, şi nu le-au auzit.</verse>
+        <verse osisID='Matt.13.18'>Ascultaţi dar ce însemnează pilda sămăntorului.</verse>
+        <verse osisID='Matt.13.19'>Cînd un om aude Cuvîntul privitor la Împărăţie, şi nu -l înţelege, vine Cel rău şi răpeşte ce a fost sămănat în inima lui. Acesta este sămînţa căzută lîngă drum.</verse>
+        <verse osisID='Matt.13.20'>Sămînţa căzută în locuri stîncoase, este cel ce aude Cuvîntul, şi -l primeşte îndată cu bucurie;</verse>
+        <verse osisID='Matt.13.21'>dar n'are rădăcină în el, ci ţine pînă la o vreme; şi, cum vine un necaz sau o prigonire din pricina Cuvîntului, se leapădă îndată de el.</verse>
+        <verse osisID='Matt.13.22'>Sămînţa căzută între spini, este cel ce aude Cuvîntul; dar îngrijorările veacului acestuia şi înşelăciunea bogăţiilor îneacă acest Cuvînt, şi ajunge neroditor.</verse>
+        <verse osisID='Matt.13.23'>Iar sămînţa căzută în pămînt bun, este cel ce aude Cuvîntul şi -l înţelege; el aduce roadă: un grăunte dă o sută, altul şaizeci, altul treizeci.``</verse>
+        <verse osisID='Matt.13.24'>Isus le -a pus înainte o altă pildă, şi le -a zis: ,,Împărăţia cerurilor se aseamănă cu un om care a sămănat o sămînţă bună în ţarina lui.</verse>
+        <verse osisID='Matt.13.25'>Dar, pe cînd dormeau oamenii, a venit vrăjmaşul lui, a sămănat neghină între grîu, şi a plecat.</verse>
+        <verse osisID='Matt.13.26'>Cînd au răsărit firele de grîu şi au făcut rod, a ieşit la iveală şi neghina.</verse>
+        <verse osisID='Matt.13.27'>Robii stăpînului casei au venit, şi i-au zis: ,Doamne, n'ai sămănat sămînţă bună în ţarina ta? De unde are dar neghină?`</verse>
+        <verse osisID='Matt.13.28'>El le -a răspuns: ,Un vrăjmaş a făcut lucrul acesta.` Şi robii i-au zis: ,Vrei dar să mergem s'o smulgem?`</verse>
+        <verse osisID='Matt.13.29'>,Nu`, le -a zis el, ,ca nu cumva, smulgînd neghina, să smulgeţi şi grîul împreună cu ea.</verse>
+        <verse osisID='Matt.13.30'>Lăsaţi-le să crească amîndouă împreună pînă la seceriş; şi, la vremea secerişului, voi spune secerătorilor: ,Smulgeţi întîi neghina, şi legaţi -o în snopi, ca s'o ardem, iar grîul strîngeţi -l în grînarul meu.`</verse>
+        <verse osisID='Matt.13.31'>Isus le -a pus înainte o altă pildă, şi le -a zis: ,,Împărăţia cerurilor se aseamănă cu un grăunte de muştar, pe care l -a luat un om şi l -a sămănat în ţarina sa.</verse>
+        <verse osisID='Matt.13.32'>Grăuntele acesta, în adevăr, este cea mai mică dintre toate seminţele; dar, după ce a crescut, este mai mare decît zarzavaturile şi se face un copac, aşa că păsările cerului vin şi îşi fac cuiburi în ramurile lui.``</verse>
+        <verse osisID='Matt.13.33'>Le -a spus o altă pildă, şi anume: ,,Împărăţia cerurilor se aseamănă cu un aluat, pe care l -a luat o femeie şi l -a pus în trei măsuri de făină de grîu, pînă s'a dospit toată plămădeala.``</verse>
+        <verse osisID='Matt.13.34'>Isus a spus noroadelor toate aceste lucruri în pilde; şi nu le vorbea de loc fără pildă,</verse>
+        <verse osisID='Matt.13.35'>ca să se împlinească ce fusese vestit prin proorocul, care zice: ,,Voi vorbi în pilde, voi spune lucruri ascunse dela facerea lumii.``</verse>
+        <verse osisID='Matt.13.36'>Atunci Isus a dat drumul noroadelor, şi a intrat în casă. Ucenicii Lui s'au apropiat de El, şi I-au zis: ,,Tîlcuieşte-ne pilda cu neghina din ţarină.``</verse>
+        <verse osisID='Matt.13.37'>El le -a răspuns: ,,Cel ce samănă sămînţa bună, este Fiul omului.</verse>
+        <verse osisID='Matt.13.38'>Ţarina, este lumea; sămînţa bună sînt fiii Împărăţiei; neghina, sînt fiii Celui rău.</verse>
+        <verse osisID='Matt.13.39'>Vrăjmaşul, care a sămănat -o, este Diavolul; secerişul, este sfîrşitul veacului; secerătorii, sînt îngerii.</verse>
+        <verse osisID='Matt.13.40'>Deci, cum se smulge neghina şi se arde în foc, aşa va fi şi la sfîrşitul veacului.</verse>
+        <verse osisID='Matt.13.41'>Fiul omului va trimete pe îngerii Săi, şi ei vor smulge din Împărăţia Lui toate lucrurile, cari sînt pricină de păcătuire şi pe ceice săvîrşesc fărădelegea,</verse>
+        <verse osisID='Matt.13.42'>şi -i vor arunca în cuptorul aprins; acolo va fi plînsul şi scrîşnirea dinţilor</verse>
+        <verse osisID='Matt.13.43'>Atunci cei neprihăniţi vor străluci ca soarele în Împărăţia Tatălui lor. Cine are urechi de auzit, să audă.</verse>
+        <verse osisID='Matt.13.44'>Împărăţia cerurilor se mai aseamănă cu o comoară ascunsă într -o ţarină. Omul care o găseşte, o ascunde; şi, de bucuria ei, se duce şi vinde tot ce are, şi cumpără ţarina aceea.</verse>
+        <verse osisID='Matt.13.45'>Împărăţia cerurilor se mai aseamănă cu un negustor care caută mărgăritare frumoase.</verse>
+        <verse osisID='Matt.13.46'>Şi, cînd găseşte un mărgăritar de mare preţ, se duce de vinde tot ce are, şi -l cumpără.</verse>
+        <verse osisID='Matt.13.47'>Împărăţia cerurilor se mai aseamănă cu un năvod aruncat în mare, care prinde tot felul de peşti.</verse>
+        <verse osisID='Matt.13.48'>Dupăce s'a umplut, pescarii îl scot la mal, şed jos, aleg în vase ce este bun, şi aruncă afară ce este rău.</verse>
+        <verse osisID='Matt.13.49'>Tot aşa va fi şi la sfîrşitul veacului. Îngerii vor ieşi, vor despărţi pe cei răi din mijlocul celor buni,</verse>
+        <verse osisID='Matt.13.50'>şi -i vor arunca în cuptorul aprins; acolo va fi plînsul şi scrîşnirea dinţilor.``</verse>
+        <verse osisID='Matt.13.51'>,,Aţi înţeles voi toate aceste lucruri?`` i -a întrebat Isus. -,,Da, Doamne``, I-au răspuns ei.</verse>
+        <verse osisID='Matt.13.52'>Şi El le -a zis: ,,De aceea orice cărturar, care a învăţat ce trebuie despre Împărăţia cerurilor, se aseamănă cu un gospodar, care scoate din vistieria lui lucruri noi şi lucruri vechi.``</verse>
+        <verse osisID='Matt.13.53'>După ce a isprăvit Isus pildele acestea, a plecat de acolo.</verse>
+        <verse osisID='Matt.13.54'>A venit în patria Sa, şi a început să înveţe pe oameni în sinagogă; aşa că cei ce -L auzeau, se mirau şi ziceau: ,,De unde are El înţelepciunea şi minunile acestea?</verse>
+        <verse osisID='Matt.13.55'>Oare nu este El fiul tîmplarului? Nu este Maria mama Lui? Şi Iacov, Iosif, Simon şi Iuda, nu sînt ei fraţii Lui?</verse>
+        <verse osisID='Matt.13.56'>Şi surorile Lui nu sînt toate printre noi? Atunci de unde are El toate lucrurile acestea?``</verse>
+        <verse osisID='Matt.13.57'>Şi găseau astfel în El o pricină de poticnire. Dar Isus le -a zis: ,,Nicăieri nu este preţuit un prooroc mai puţin decît în patria şi în casa Lui.``</verse>
+        <verse osisID='Matt.13.58'>Şi n'a făcut multe minuni în locul acela, din pricina necredinţei lor.</verse>
+      </chapter>
+      <chapter osisID='Matt.14'>
+        <verse osisID='Matt.14.1'>În vremea aceea, cîrmuitorul Irod, a auzit vorbindu-se despre Isus;</verse>
+        <verse osisID='Matt.14.2'>şi a zis slujitorilor săi: ,,Acesta este Ioan Botezătorul! A înviat din morţi, şi deaceea se fac minuni prin el.``</verse>
+        <verse osisID='Matt.14.3'>Căci Irod prinsese pe Ioan, îl legase şi -l pusese în temniţă, din pricina Irodiadei, nevasta fratelui său Filip;</verse>
+        <verse osisID='Matt.14.4'>pentrucă Ioan îi zicea: ,,Nu-ţi este îngăduit s'o ai de nevastă.``</verse>
+        <verse osisID='Matt.14.5'>Irod ar fi vrut să -l omoare, dar se temea de norod, pentrucă norodul privea pe Ioan ca pe un prooroc.</verse>
+        <verse osisID='Matt.14.6'>Dar, cînd se prăznuia ziua naşterii lui Irod, fata Irodiadei a jucat înaintea oaspeţilor, şi a plăcut lui Irod.</verse>
+        <verse osisID='Matt.14.7'>Deaceea i -a făgăduit cu jurămînt că îi va da orice va cere.</verse>
+        <verse osisID='Matt.14.8'>Îndemnată de mamă-sa, ea a zis: ,,Dă-mi aici, într -o farfurie, capul lui Ioan Botezătorul!``</verse>
+        <verse osisID='Matt.14.9'>Împăratul s'a întristat; dar din pricina jurămintelor sale, şi de ochii celor ce şedeau la masă împreună cu el, a poruncit să i -l dea.</verse>
+        <verse osisID='Matt.14.10'>Şi a trimes să taie capul lui Ioan în temniţă.</verse>
+        <verse osisID='Matt.14.11'>Capul a fost adus într'o farfurie, şi dat fetei, care l -a dus la mamă-sa.</verse>
+        <verse osisID='Matt.14.12'>Ucenicii lui Ioan au venit de i-au luat trupul, l-au îngropat, şi s'au dus de au dat de ştire lui Isus.</verse>
+        <verse osisID='Matt.14.13'>Isus, cînd a auzit vestea aceasta, a plecat de acolo într'o corabie, ca să Se ducă singur la o parte, într'un loc pustiu. Noroadele, cînd au auzit lucrul acesta, au ieşit din cetăţi şi s'au luat după El pe jos.</verse>
+        <verse osisID='Matt.14.14'>Cînd a ieşit din corabie, Isus a văzut o gloată mare, I s'a făcut milă de ea, şi a vindecat pe cei bolnavi.</verse>
+        <verse osisID='Matt.14.15'>Cînd s'a înserat, ucenicii s'au apropiat de El, şi I-au zis: ,,Locul acesta este pustiu, şi vremea iată că a trecut; dă drumul noroadelor să se ducă prin sate să-şi cumpere de mîncare.``</verse>
+        <verse osisID='Matt.14.16'>,,N'au nevoie să plece``, le -a răspuns Isus; ,,daţi-le voi să mănînce.``</verse>
+        <verse osisID='Matt.14.17'>Dar ei I-au zis: ,,N'avem aici decît cinci pîni şi doi peşti.``</verse>
+        <verse osisID='Matt.14.18'>Şi El le -a zis: ,,Aduceţi -i aici la Mine.``</verse>
+        <verse osisID='Matt.14.19'>Apoi a poruncit noroadelor să şadă pe iarbă, a luat cele cinci pîni şi cei doi peşti, Şi -a ridicat ochii spre cer, a binecuvîntat, a frînt pînile şi le -a dat ucenicilor, iar ei le-au împărţit noroadelor.</verse>
+        <verse osisID='Matt.14.20'>Toţi au mîncat şi s'au săturat; şi s'au ridicat douăsprezece coşuri pline cu rămăşiţele de fărămituri.</verse>
+        <verse osisID='Matt.14.21'>Ceice mîncaseră, erau ca la cinci mii de bărbaţi, afară de femei şi de copii.</verse>
+        <verse osisID='Matt.14.22'>Îndată după aceea, Isus a silit pe ucenicii Săi să intre în corabie, şi să treacă înaintea Lui de partea cealaltă, pînă va da drumul noroadelor.</verse>
+        <verse osisID='Matt.14.23'>După ce a dat drumul noroadelor, S'a suit pe munte să Se roage, singur la o parte. Se înoptase, şi El era singur acolo.</verse>
+        <verse osisID='Matt.14.24'>În timpul acesta, corabia era învăluită de valuri în mijlocul mării; căci vîntul era împotrivă.</verse>
+        <verse osisID='Matt.14.25'>Cînd se îngîna ziua cu noaptea (Greceşte: în a patra strajă.), Isus a venit la ei, umblînd pe mare.</verse>
+        <verse osisID='Matt.14.26'>Cînd L-au văzut ucenicii umblînd pe mare, s'au spăimîntat, şi au zis: ,,Este o nălucă!`` Şi de frică au ţipat.</verse>
+        <verse osisID='Matt.14.27'>Isus le -a zis îndată: ,,Îndrăzniţi, Eu sînt; nu vă temeţi!``</verse>
+        <verse osisID='Matt.14.28'>,,Doamne``, I -a răspuns Petru, ,,dacă eşti Tu, porunceşte-mi să vin la Tine pe ape.``</verse>
+        <verse osisID='Matt.14.29'>,,Vino!`` i -a zis Isus. Petru s'a coborît din corabie, şi a început să umble pe ape ca să meargă la Isus.</verse>
+        <verse osisID='Matt.14.30'>Dar, cînd a văzut că vîntul era tare, s'a temut; şi fiindcă începea să se afunde, a strigat: ,,Doamne, scapă-mă!``</verse>
+        <verse osisID='Matt.14.31'>Îndată, Isus a întins mîna, l -a apucat, şi i -a zis: ,,Puţin credinciosule, pentruce te-ai îndoit?``</verse>
+        <verse osisID='Matt.14.32'>Şi după ce au intrat în corabie, a stat vîntul.</verse>
+        <verse osisID='Matt.14.33'>Ceice erau în corabie, au venit de s'au închinat înaintea lui Isus, şi I-au zis: ,,Cu adevărat, Tu eşti Fiul lui Dumnezeu!``</verse>
+        <verse osisID='Matt.14.34'>După ce au trecut marea, au venit în ţinutul Ghenezaretului.</verse>
+        <verse osisID='Matt.14.35'>Oamenii din locul acela, cari cunoşteau pe Isus, au trimes să dea de ştire în toate împrejurimile, şi au adus la El pe toţi bolnavii.</verse>
+        <verse osisID='Matt.14.36'>Bolnavii îl rugau să le dea voie numai să se atingă de poala hainei Lui. Şi toţi cîţi s'au atins, s'au vindecat.</verse>
+      </chapter>
+      <chapter osisID='Matt.15'>
+        <verse osisID='Matt.15.1'>Atunci nişte Farisei şi nişte cărturari din Ierusalim au venit la Isus, şi I-au zis:</verse>
+        <verse osisID='Matt.15.2'>,,Pentru ce calcă ucenicii Tăi datina bătrînilor? Căci nu-şi spală mînile cînd mănîncă.``</verse>
+        <verse osisID='Matt.15.3'>Drept răspuns, El le -a zis: ,,Dar voi de ce călcaţi porunca lui Dumnezeu în folosul datinei voastre?</verse>
+        <verse osisID='Matt.15.4'>Căci Dumnezeu a zis: ,Cinsteşte pe tatăl tău şi pe mama ta;` şi: ,Cine va grăi de rău pe tatăl său sau pe mama sa, să fie pedepsit negreşit cu moartea.`</verse>
+        <verse osisID='Matt.15.5'>Dar voi ziceţi: ,Cine va zice tatălui său sau mamei sale: ,Ori cu ce te-aş putea ajuta, l-am închinat lui Dumnezeu,`</verse>
+        <verse osisID='Matt.15.6'>nu mai este ţinut să cinstească pe tatăl său sau pe mama sa. Şi aţi desfiinţat astfel cuvîntul lui Dumnezeu în folosul datinei voastre.</verse>
+        <verse osisID='Matt.15.7'>Făţărnicilor, bine a proorocit Isaia despre voi, cînd a zis:</verse>
+        <verse osisID='Matt.15.8'>,Norodul acesta se apropie de Mine cu gura şi mă cinsteşte cu buzele, dar inima lui este departe de Mine.</verse>
+        <verse osisID='Matt.15.9'>De geaba Mă cinstesc ei, învăţînd ca învăţături nişte porunci omeneşti.``</verse>
+        <verse osisID='Matt.15.10'>Isus a chemat mulţimea la Sine, şi a zis: ,,Ascultaţi, şi înţelegeţi:</verse>
+        <verse osisID='Matt.15.11'>Nu ce intră în gură spurcă pe om; ci ce iese din gură, aceea spurcă pe om.``</verse>
+        <verse osisID='Matt.15.12'>Atunci ucenicii Lui s'au apropiat, şi I-au zis: ,,Ştii că Fariseii au găsit pricină de poticnire în cuvintele, pe cari le-au auzit?``</verse>
+        <verse osisID='Matt.15.13'>Drept răspuns, El le -a zis: ,,Orice răsad, pe care nu l -a sădit Tatăl Meu cel ceresc, va fi smuls din rădăcină.</verse>
+        <verse osisID='Matt.15.14'>Lăsaţi -i: sînt nişte călăuze oarbe; şi cînd un orb călăuzeşte pe un alt orb, vor cădea amîndoi în groapă.``</verse>
+        <verse osisID='Matt.15.15'>Petru a luat cuvîntul, şi I -a zis: ,,Desluşeşte-ne pilda aceasta.``</verse>
+        <verse osisID='Matt.15.16'>Isus a zis: ,,Şi voi tot fără pricepere sînteţi?</verse>
+        <verse osisID='Matt.15.17'>Nu înţelegeţi că orice intră în gură merge în pîntece, şi apoi este aruncat afară în hazna?</verse>
+        <verse osisID='Matt.15.18'>Dar, ce iese din gură, vine din inimă, şi aceea spurcă pe om.</verse>
+        <verse osisID='Matt.15.19'>Căci din inimă ies gîndurile rele, uciderile, preacurviile, curviile, furtişagurile, mărturiile mincinoase, hulele.</verse>
+        <verse osisID='Matt.15.20'>Iată lucrurile cari spurcă pe om; dar a mînca cu mînile nespălate nu spurcă pe om.``</verse>
+        <verse osisID='Matt.15.21'>Isus, după ce a plecat de acolo, S'a dus în părţile Tirului şi ale Sidonului.</verse>
+        <verse osisID='Matt.15.22'>Şi iată că o femeie cananeancă, a venit din ţinuturile acelea, şi a început să strige către El: ,,Ai milă de mine, Doamne, Fiul lui David! Fiică-mea este muncită rău de un drac.``</verse>
+        <verse osisID='Matt.15.23'>El nu i -a răspuns nici un cuvînt. Şi ucenicii Lui s'au apropiat şi L-au rugat stăruitor: ,,Dă -i drumul, căci strigă după noi.``</verse>
+        <verse osisID='Matt.15.24'>Drept răspuns, El a zis: ,,Eu nu sînt trimes decît la oile pierdute ale casei lui Israel.``</verse>
+        <verse osisID='Matt.15.25'>Dar ea a venit şi I s'a închinat, zicînd: ,,Doamne, ajută-mi!``</verse>
+        <verse osisID='Matt.15.26'>Drept răspuns, El i -a zis: ,,Nu este bine să iei pînea copiilor, şi s'o arunci la căţei!``</verse>
+        <verse osisID='Matt.15.27'>,,Da, Doamne``, a zis ea, ,,dar şi căţeii mănîncă fărămiturile cari cad de la masa stăpînilor lor.``</verse>
+        <verse osisID='Matt.15.28'>Atunci Isus i -a zis: ,,O, femeie, mare este credinţa Ta; facă-ţi-se cum voieşti.`` Şi fiica ei s'a tămăduit chiar în ceasul acela.</verse>
+        <verse osisID='Matt.15.29'>Isus a plecat din locurile acelea, şi a venit lîngă marea Galileii. S'a suit pe munte, şi a şezut jos acolo.</verse>
+        <verse osisID='Matt.15.30'>Atunci au venit la El multe noroade, avînd cu ele şchiopi, orbi, muţi, ciungi, şi mulţi alţi bolnavi I-au pus la picioarele Lui, şi El i -a tămăduit;</verse>
+        <verse osisID='Matt.15.31'>aşa că noroadele se mirau, cînd au văzut că muţii vorbesc, ciungii se însănătoşează, şchopii umblă şi orbii văd; şi slăveau pe Dumnezeul lui Israel.</verse>
+        <verse osisID='Matt.15.32'>Isus a chemat pe ucenicii Săi, şi le -a zis: ,,Mi-este milă de gloata aceasta; căci iată că de trei zile aşteaptă lîngă Mine, şi n'au ce mînca. Nu vreau să le dau drumul flămînzi, ca nu cumva să leşine de foame pe drum.``</verse>
+        <verse osisID='Matt.15.33'>Ucenicii I-au zis: ,,De unde să luăm în pustia aceasta atîtea pîni ca să săturăm atîta gloată?``</verse>
+        <verse osisID='Matt.15.34'>,,Cîte pîni aveţi?`` i -a întrebat Isus. ,,Şapte``, I-au răspuns ei, ,,şi puţini peştişori``</verse>
+        <verse osisID='Matt.15.35'>Atunci Isus a poruncit norodului să şadă pe pămînt.</verse>
+        <verse osisID='Matt.15.36'>A luat cele şapte pîni şi peştişorii, şi, dupăce a mulţămit lui Dumnezeu, a frînt, şi a dat ucenicilor, iar ucenicii au împărţit norodului.</verse>
+        <verse osisID='Matt.15.37'>Au mîncat toţi şi s'au săturat; şi s'au ridicat şapte coşniţe pline cu rămăşiţele de fărămituri.</verse>
+        <verse osisID='Matt.15.38'>Cei ce mîncaseră erau patru mii de bărbaţi, afară de femei şi de copii.</verse>
+        <verse osisID='Matt.15.39'>În urmă Isus a dat drumul noroadelor, S'a suit în corabie, şi a trecut în ţinutul Magdalei.</verse>
+      </chapter>
+      <chapter osisID='Matt.16'>
+        <verse osisID='Matt.16.1'>Fariseii şi Saducheii s'au apropiat de Isus, şi, ca să -L ispitească, I-au cerut să le arate un semn din cer.</verse>
+        <verse osisID='Matt.16.2'>Drept răspuns, Isus le -a zis: ,,Cînd se înserează, voi ziceţi: ,Are să fie vreme frumoasă, căci cerul este roş.`</verse>
+        <verse osisID='Matt.16.3'>Şi dimineaţa, ziceţi: ,Astăzi are să fie furtună, căci cerul este roş-posomorît.` Făţarnicilor, faţa cerului ştiţi s'o deosebiţi, şi semnele vremurilor nu le puteţi deosebi?</verse>
+        <verse osisID='Matt.16.4'>Un neam viclean şi prea curvar cere un semn; nu i se va da alt semn decît semnul proorocului Iona.`` Apoi i -a lăsat şi a plecat.</verse>
+        <verse osisID='Matt.16.5'>Ucenicii trecuseră de cealaltă parte, şi uitaseră să ia pîni.</verse>
+        <verse osisID='Matt.16.6'>Isus le -a zis: ,,Luaţi seama şi păziţi-vă de aluatul Fariseilor şi al Saducheilor.``</verse>
+        <verse osisID='Matt.16.7'>Ucenicii se gîndeau în ei, şi ziceau: ,,Ne zice aşa pentrucă n'am luat pîni!``</verse>
+        <verse osisID='Matt.16.8'>Isus, care cunoştea lucrul acesta, le -a zis: ,,Puţin credincioşilor, pentruce vă gîndiţi că n'aţi luat pîni?</verse>
+        <verse osisID='Matt.16.9'>Tot nu înţelegeţi? Şi nici nu vă mai aduceţi aminte de cele cinci pîni pentru cei cinci mii de oameni, şi cîte coşuri aţi ridicat?</verse>
+        <verse osisID='Matt.16.10'>Nici de cele şapte pîni pentru cei patru mii de oameni, şi cîte coşniţe aţi ridicat?</verse>
+        <verse osisID='Matt.16.11'>Cum nu înţelegeţi că nu v'am spus de pîni? Ci v'am spus să vă păziţi de aluatul Fariseilor şi al Saducheilor?``</verse>
+        <verse osisID='Matt.16.12'>Atunci au înţeles ei că nu le zisese să se păzească de aluatul pînii, ci de învăţătura Fariseilor şi a Saducheilor.</verse>
+        <verse osisID='Matt.16.13'>Isus a venit în părţile Cezareii lui Filip, şi a întrebat pe ucenicii Săi: ,,Cine zic oamenii că sînt Eu, Fiul omului?``</verse>
+        <verse osisID='Matt.16.14'>Ei au răspuns: ,,Unii zic că eşti Ioan Botezătorul; alţii: Ilie; alţii: Ieremia, sau unul din prooroci.``</verse>
+        <verse osisID='Matt.16.15'>,,Dar voi``, le -a zis El, ,,cine ziceţi că sînt?``</verse>
+        <verse osisID='Matt.16.16'>Simon Petru, drept răspuns, I -a zis: ,,Tu eşti Hristosul, Fiul Dumnezeului celui viu!``</verse>
+        <verse osisID='Matt.16.17'>Isus a luat din nou cuvîntul, şi i -a zis: ,,Ferice de tine, Simone, fiul lui Iona; fiindcă nu carnea şi sîngele ţi -a descoperit lucrul acesta, ci Tatăl Meu care este în ceruri.</verse>
+        <verse osisID='Matt.16.18'>Şi Eu îţi spun: tu eşti Petru (Greceşte: Petros.), şi pe această piatră (Greceşte: petra.) voi zidi Biserica Mea, şi porţile Locuinţei morţilor nu o vor birui.</verse>
+        <verse osisID='Matt.16.19'>Îţi voi da cheile Împărăţiei cerurilor, şi orice vei lega pe pămînt, va fi legat în ceruri, şi orice vei deslega pe pămînt, va fi deslegat în ceruri.``</verse>
+        <verse osisID='Matt.16.20'>Atunci a poruncit ucenicilor Săi să nu spună nimănui că El este Hristosul.</verse>
+        <verse osisID='Matt.16.21'>De atunci încolo, Isus a început să spună ucenicilor Săi că El trebuie să meargă la Ierusalim, să pătimească mult din partea bătrînilor, din partea preoţilor celor mai de seamă şi din partea cărturarilor; că are să fie omorît, şi că a treia zi are să învieze.</verse>
+        <verse osisID='Matt.16.22'>Petru L -a luat de oparte, şi a început să -L mustre, zicînd: ,,Să Te ferească Dumnezeu, Doamne! Să nu Ţi se întîmple aşa ceva!``</verse>
+        <verse osisID='Matt.16.23'>Dar Isus S'a întors, şi a zis lui Petru: ,,Înapoia Mea, Satano: tu eşti o piatră de poticnire pentru Mine! Căci gîndurile tale nu sînt gîndurile lui Dumnezeu, ci gînduri de ale oamenilor.``</verse>
+        <verse osisID='Matt.16.24'>Atunci Isus a zis ucenicilor Săi: ,,Dacă voieşte cineva să vină după Mine, să se lepede de sine, să-şi ia crucea, şi să Mă urmeze.</verse>
+        <verse osisID='Matt.16.25'>Pentrucă oricine va vrea să-şi scape viaţa, o va pierde; dar oricine îşi va pierde viaţa pentru Mine, o va cîştiga.</verse>
+        <verse osisID='Matt.16.26'>Şi ce ar folosi unui om să cîştige toată lumea, dacă şi-ar pierde sufletul? Sau, ce ar da un om în schimb pentru sufletul său?</verse>
+        <verse osisID='Matt.16.27'>Căci Fiul omului are să vină în slava Tatălui Său, cu îngerii Săi; şi atunci va răsplăti fiecăruia după faptele lui.</verse>
+        <verse osisID='Matt.16.28'>Adevărat vă spun că unii din cei ce stau aici nu vor gusta moartea pînă nu vor vedea pe Fiul omului venind în Împărăţia Sa.``</verse>
+      </chapter>
+      <chapter osisID='Matt.17'>
+        <verse osisID='Matt.17.1'>După şase zile, Isus a luat cu El pe Petru, Iacov şi Ioan, fratele lui, şi i -a dus la o parte pe un munte înalt.</verse>
+        <verse osisID='Matt.17.2'>El S'a schimbat la faţă înaintea lor; faţa Lui a strălucit ca soarele, şi hainele I s'au făcut albe ca lumina.</verse>
+        <verse osisID='Matt.17.3'>Şi iatăcă li s'a arătat Moise şi Ilie, stînd de vorbă cu El.</verse>
+        <verse osisID='Matt.17.4'>Petru a luat cuvîntul, şi a zis lui Isus: ,,Doamne, este bine să fim aici; dacă vrei, am să fac aici trei colibi: una pentru Tine, una pentru Moise şi una pentru Ilie.``</verse>
+        <verse osisID='Matt.17.5'>Pe cînd vorbea el încă, iată că i -a acoperit un nor luminos cu umbra lui. Şi din nor s'a auzit un glas, care zicea: ,,Acesta este Fiul Meu prea iubit, în care Îmi găsesc plăcerea Mea: de El să ascultaţi!``</verse>
+        <verse osisID='Matt.17.6'>Cînd au auzit, ucenicii au căzut cu feţele la pămînt, şi s'au înspăimîntat foarte tare.</verse>
+        <verse osisID='Matt.17.7'>Dar Isus S'a apropiat, S'a atins de ei, şi le -a zis: ,,Sculaţi-vă, nu vă temeţi!``</verse>
+        <verse osisID='Matt.17.8'>Ei au ridicat ochii, şi n'au văzut pe nimeni, decît pe Isus singur.</verse>
+        <verse osisID='Matt.17.9'>Pe cînd se coborau din munte, Isus le -a dat porunca următoare: ,,Să nu spuneţi nimărui de vedenia aceasta, pînă va învia Fiul omului din morţi.``</verse>
+        <verse osisID='Matt.17.10'>Ucenicii I-au pus întrebarea următoare: ,,Oare de ce zic cărturarii că întîi trebuie să vină Ilie?``</verse>
+        <verse osisID='Matt.17.11'>Drept răspuns, Isus le -a zis: ,,Este adevărat că trebuie să vină întîi Ilie, şi să aşeze din nou toate lucrurile.</verse>
+        <verse osisID='Matt.17.12'>Dar vă spun că Ilie a şi venit, şi ei nu l-au cunoscut, ci au făcut cu el ce au vrut. Tot aşa are să sufere şi Fiul omului din partea lor.``</verse>
+        <verse osisID='Matt.17.13'>Ucenicii au înţeles atunci că le vorbise despre Ioan Botezătorul.</verse>
+        <verse osisID='Matt.17.14'>Cînd au ajuns la norod, a venit un om, care a căzut în genunchi înaintea lui Isus, şi I -a zis:</verse>
+        <verse osisID='Matt.17.15'>,,Doamne, ai milă de fiul meu, căci este lunatic, şi pătimeşte rău: de multe ori cade în foc, şi de multe ori cade în apă.</verse>
+        <verse osisID='Matt.17.16'>L-am adus la ucenicii Tăi, şi n'au putut să -l vindece.``</verse>
+        <verse osisID='Matt.17.17'>,,O, neam necredincios şi pornit la rău!`` a răspuns Isus. ,,Pînă cînd voi fi cu voi? Pînă cînd vă voi suferi? Aduceţi -l aici la Mine.``</verse>
+        <verse osisID='Matt.17.18'>Isus a certat dracul, care a ieşit afară din el. Şi băiatul s'a tămăduit chiar în ceasul acela.</verse>
+        <verse osisID='Matt.17.19'>Atunci ucenicii au venit la Isus, şi I-au zis, deoparte: ,,Noi de ce n'am putut să -l scoatem?``</verse>
+        <verse osisID='Matt.17.20'>,,Din pricina puţinei voastre credinţe``, le -a zis Isus. ,,Adevărat vă spun că, dacă aţi avea credinţă cît un grăunte de muştar, aţi zice muntelui acestuia: ,Mută-te de aici colo`, şi s'ar muta; nimic nu v'ar fi cu neputinţă.</verse>
+        <verse osisID='Matt.17.21'>Dar acest soi de draci nu iese afară decît cu rugăciune şi cu post.``</verse>
+        <verse osisID='Matt.17.22'>Pe cînd stăteau în Galilea, Isus le -a zis: ,,Fiul omului trebuie să fie dat în mînile oamenilor.</verse>
+        <verse osisID='Matt.17.23'>Ei Îl vor omorî, dar a treia zi va învia.`` Ucenicii s'au întristat foarte mult.</verse>
+        <verse osisID='Matt.17.24'>Cînd au ajuns în Capernaum, ceice strîngeau darea pentru Templu (Greceşte: Cele două drahme.) au venit la Petru, şi i-au zis: ,,Învăţătorul vostru nu plăteşte darea?``</verse>
+        <verse osisID='Matt.17.25'>,,Ba da``, a zis Petru. Şi cînd a intrat în casă, Isus i -a luat înainte, şi i -a zis: ,,Ce crezi, Simone? Împăraţii pămîntului dela cine iau dări sau biruri? Dela fiii lor sau dela străini?``</verse>
+        <verse osisID='Matt.17.26'>Petru I -a răspuns: ,,Dela străini.`` Şi Isus i -a zis: ,,Aşa dar fiii sînt scutiţi.</verse>
+        <verse osisID='Matt.17.27'>Dar, ca să nu -i facem să păcătuiască, du-te la mare, aruncă undiţa, şi trage afară peştele care va veni întîi; deschide -i gura, şi vei găsi în ea o rublă (Greceşte: Un statir.) pe care ia -o şi dă-le -o lor, pentru Mine şi pentru tine.``</verse>
+      </chapter>
+      <chapter osisID='Matt.18'>
+        <verse osisID='Matt.18.1'>În clipa aceea, ucenicii s'au apropiat de Isus, şi L-au întrebat: ,,Cine este mai mare în Împărăţia cerurilor?``</verse>
+        <verse osisID='Matt.18.2'>Isus a chemat la El un copilaş, l -a pus în mijlocul lor,</verse>
+        <verse osisID='Matt.18.3'>şi le -a zis: ,,Adevărat vă spun că, dacă nu vă veţi întoarce la Dumnezeu şi nu vă veţi face ca nişte copilaşi, cu nici un chip nu veţi intra în Împărăţia cerurilor.</verse>
+        <verse osisID='Matt.18.4'>Deaceea, oricine se va smeri ca acest copilaş, va fi cel mai mare în Împărăţia cerurilor.</verse>
+        <verse osisID='Matt.18.5'>Şi oricine va primi un copilaş ca acesta în Numele Meu, Mă primeşte pe Mine.</verse>
+        <verse osisID='Matt.18.6'>Dar pentru oricine va face să păcătuiască pe unul din aceşti micuţi, cari cred în Mine, ar fi mai de folos să i se atîrne de gît o piatră mare de moară, şi să fie înecat în adîncul mării.</verse>
+        <verse osisID='Matt.18.7'>Vai de lume, din pricina prilejurilor de păcătuire! Fiindcă nu se poate să nu vină prilejuri de păcătuire; dar vai de omul acela prin care vine prilejul de păcătuire!</verse>
+        <verse osisID='Matt.18.8'>Acum, dacă mîna ta sau piciorul tău te face să cazi în păcat, taie-le şi leapădă-le dela tine. Este mai bine pentru tine să intri în viaţă şchiop sau ciung, decît să ai două mîni sau două picioare, şi să fii aruncat în focul vecinic.</verse>
+        <verse osisID='Matt.18.9'>Şi dacă ochiul tău te face să cazi în păcat, scoate -l şi leapădă -l dela tine. Este mai bine pentru tine să intri în viaţă numai cu un ochi, decît să ai amîndoi ochii, şi să fii aruncat în focul gheenei.</verse>
+        <verse osisID='Matt.18.10'>Feriţi-vă să nu defăimaţi nici măcar pe unul din aceşti micuţi; căci vă spun că îngerii lor în ceruri văd pururea faţa Tatălui Meu care este în ceruri.</verse>
+        <verse osisID='Matt.18.11'>Fiindcă Fiul omului a venit să mîntuiască ce era pierdut.</verse>
+        <verse osisID='Matt.18.12'>Ce credeţi? Dacă un om are o sută de oi, şi se rătăceşte una din ele, nu lasă el pe cele nouăzeci şi nouă pe munţi, şi se duce să caute pe cea rătăcită?</verse>
+        <verse osisID='Matt.18.13'>Şi, dacă i se întîmplă s'o găsească, adevărat vă spun, că are mai multă bucurie de ea, decît de cele nouăzeci şi nouă, cari nu se rătăciseră.</verse>
+        <verse osisID='Matt.18.14'>Tot aşa, nu este voia Tatălui vostru celui din ceruri să piară unul măcar din aceşti micuţi.</verse>
+        <verse osisID='Matt.18.15'>Dacă fratele tău a păcătuit împotriva ta, du-te şi mustră -l între tine şi el singur. Dacă te ascultă, ai cîştigat pe fratele tău.</verse>
+        <verse osisID='Matt.18.16'>Dar, dacă nu te ascultă, mai ia cu tine unul sau doi inşi, pentruca orice vorbă să fie sprijinită pe mărturia a doi sau trei martori.</verse>
+        <verse osisID='Matt.18.17'>Dacă nu vrea să asculte de ei, spune -l Bisericii; şi, dacă nu vrea să asculte nici de Biserică, să fie pentru tine ca un păgîn şi ca un vameş.</verse>
+        <verse osisID='Matt.18.18'>Adevărat vă spun, că orice veţi lega pe pămînt, va fi legat în cer; şi orice veţi deslega pe pămînt, va fi deslegat în cer.</verse>
+        <verse osisID='Matt.18.19'>Vă mai spun iarăş, că, dacă doi dintre voi se învoiesc pe pămînt să ceară un lucru oarecare, le va fi dat de Tatăl Meu care este în ceruri.</verse>
+        <verse osisID='Matt.18.20'>Căci acolo unde sînt doi sau trei adunaţi în Numele Meu, sînt şi Eu în mijlocul lor.``</verse>
+        <verse osisID='Matt.18.21'>Atunci Petru s'a apropiat de El, şi I -a zis: ,,Doamne de cîte ori să iert pe fratele Meu cînd va păcătui împotriva mea? Pînă la şapte ori?``</verse>
+        <verse osisID='Matt.18.22'>Isus i -a zis: ,,Eu nu-ţi zic pînă la şapte ori, ci pînă la şaptezeci de ori cîte şapte.</verse>
+        <verse osisID='Matt.18.23'>Deaceea, Împărăţia cerurilor se aseamănă cu un împărat, care a vrut să se socotească cu robii săi.</verse>
+        <verse osisID='Matt.18.24'>A început să facă socoteala, şi i-au adus pe unul, care îi datora zece mii de galbeni.</verse>
+        <verse osisID='Matt.18.25'>Fiindcă el n'avea cu ce plăti, stăpînul lui a poruncit să -l vîndă pe el, pe nevasta lui, pe copiii lui, şi tot ce avea, şi să se plătească datoria.</verse>
+        <verse osisID='Matt.18.26'>Robul s'a aruncat la pămînt, i s'a închinat, şi a zis: ,Doamne, mai îngăduieşte-mă, şi-ţi voi plăti tot.`</verse>
+        <verse osisID='Matt.18.27'>Stăpînul robului aceluia, făcîndu -i-se milă de el, i -a dat drumul, şi i -a iertat datoria.</verse>
+        <verse osisID='Matt.18.28'>Robul acela, cînd a ieşit afară, a întîlnit pe unul din tovarăşii lui de slujbă, care -i era dator o sută de lei. A pus mîna pe el, şi -l strîngea de gît, zicînd: ,Plăteşte-mi ce-mi eşti dator.`</verse>
+        <verse osisID='Matt.18.29'>Tovarăşul lui s'a aruncat la pămînt, îl ruga, şi zicea: ,Mai îngăduieşte-mă, şi-ţi voi plăti.`</verse>
+        <verse osisID='Matt.18.30'>Dar el n'a vrut, ci s'a dus şi l -a aruncat în temniţă, pînă va plăti datoria.</verse>
+        <verse osisID='Matt.18.31'>Cînd au văzut tovarăşii lui cele întîmplate, s'au întristat foarte mult, şi s'au dus de au spus stăpînului lor toate cele petrecute.</verse>
+        <verse osisID='Matt.18.32'>Atunci stăpînul a chemat la el pe robul acesta, şi i -a zis: ,Rob vicelan! Eu ţi-am iertat toată datoria, fiindcă m'ai rugat.</verse>
+        <verse osisID='Matt.18.33'>Oare nu se cădea să ai şi tu milă de tovarăşul tău, cum am avut eu milă de tine?`</verse>
+        <verse osisID='Matt.18.34'>Şi stăpînul s'a mîniat şi l -a dat pe mîna chinuitorilor, pînă va plăti tot ce datora.</verse>
+        <verse osisID='Matt.18.35'>Tot aşa vă va face şi Tatăl Meu cel ceresc, dacă fiecare din voi nu iartă din toată inima pe fratele său.``</verse>
+      </chapter>
+      <chapter osisID='Matt.19'>
+        <verse osisID='Matt.19.1'>După ce a sfîrşit Isus cuvîntările acestea, a plecat din Galilea, şi a venit în ţinutul Iudeii, dincolo de Iordan.</verse>
+        <verse osisID='Matt.19.2'>După El au mers multe gloate; şi acolo a vindecat pe cei bolnavi.</verse>
+        <verse osisID='Matt.19.3'>Fariseii au venit la El, şi, ca să -L ispitească, I-au zis: ,,Oare este îngăduit unui bărbat să-şi lase nevasta pentru orice pricină?``</verse>
+        <verse osisID='Matt.19.4'>Drept răspuns, El le -a zis: ,,Oare n'aţi citit că Ziditorul, dela început i -a făcut parte bărbătească şi parte femeiască,</verse>
+        <verse osisID='Matt.19.5'>şi a zis: ,De aceea va lăsa omul pe tatăl său şi pe mama sa, şi se va lipi de nevastă-sa, şi cei doi vor fi un singur trup?`</verse>
+        <verse osisID='Matt.19.6'>Aşa că nu mai sînt doi, ci un singur trup. Deci, ce a împreunat Dumnezeu, omul să nu despartă.``</verse>
+        <verse osisID='Matt.19.7'>,,Pentru ce dar``, I-au zis ei, ,,a poruncit Moise ca bărbatul să dea nevestei o carte de despărţire, şi s'o lase?``</verse>
+        <verse osisID='Matt.19.8'>Isus le -a răspuns: ,,Din pricina împietririi inimilor voastre a îngăduit Moise să vă lăsaţi nevestele; dar dela început n'a fost aşa.</verse>
+        <verse osisID='Matt.19.9'>Eu însă vă spun că oricine îşi lasă nevasta, afară de pricină de curvie, şi ia pe alta de nevastă, preacurveşte; şi cine ia de nevastă pe cea lăsată de bărbat, preacurveşte.``</verse>
+        <verse osisID='Matt.19.10'>Ucenicii Lui I-au zis: ,,Dacă astfel stă lucrul cu bărbatul şi nevasta lui, nu este de folos să se însoare.``</verse>
+        <verse osisID='Matt.19.11'>El le -a răspuns: ,,Nu toţi pot primi cuvîntul acesta, ci numai aceia cărora le este dat.</verse>
+        <verse osisID='Matt.19.12'>Fiindcă sînt fameni, cari s'au născut aşa din pîntecele maicii lor; sînt fameni, cari au fost făcuţi fameni de oameni; şi sînt fameni, cari singuri s'au făcut fameni pentru Împărăţia cerurilor. Cine poate să primească lucrul acesta, să -l primească.``</verse>
+        <verse osisID='Matt.19.13'>Atunci I-au adus nişte copilaşi, ca să-Şi pună mînile peste ei, şi să Se roage pentru ei. Dar ucenicii îi certau.</verse>
+        <verse osisID='Matt.19.14'>Şi Isus le -a zis: ,,Lăsaţi copilaşii să vină la Mine, şi nu -i opriţi, căci Împărăţia cerurilor este a celor ca ei.``</verse>
+        <verse osisID='Matt.19.15'>După ce Şi -a pus mînile peste ei, a plecat de acolo.</verse>
+        <verse osisID='Matt.19.16'>Atunci s'a apropiat de Isus un om, şi I -a zis: ,,Învăţătorule, ce bine să fac, ca să am viaţa vecinică?``</verse>
+        <verse osisID='Matt.19.17'>El i -a răspuns: ,,Dece mă întrebi: ,Ce bine?` Binele este Unul singur. Dar dacă vrei să intri în viaţă, păzeşte poruncile.``</verse>
+        <verse osisID='Matt.19.18'>,,Cari?`` I -a zis el. Şi Isus i -a răspuns: ,,Să nu ucizi: să nu preacurveşti; să nu furi; să nu faci o mărturisire mincinoasă;</verse>
+        <verse osisID='Matt.19.19'>să cinsteşti pe tatăl tău şi pe mama ta``; şi: ,,Să iubeşti pe aproapele tău ca pe tine însuţi.``</verse>
+        <verse osisID='Matt.19.20'>Tînărul I -a zis: ,,Toate aceste porunci le-am păzit cu grijă din tinereţa mea; ce-mi mai lipseşte?``</verse>
+        <verse osisID='Matt.19.21'>,,Dacă vrei să fii desăvîrşit``, i -a zis Isus, ,,du-te de vinde ce ai, dă la săraci, şi vei avea o comoară în cer! Apoi vino, şi urmează-Mă.``</verse>
+        <verse osisID='Matt.19.22'>Cînd a auzit tînărul vorba aceasta, a plecat foarte întristat; pentrucă avea multe avuţii.</verse>
+        <verse osisID='Matt.19.23'>Isus a zis ucenicilor Săi: ,,Adevărat vă spun că greu va intra un bogat în Împărăţia cerurilor.</verse>
+        <verse osisID='Matt.19.24'>Vă mai spun iarăş că este mai uşor să treacă o cămilă prin urechea acului, decît să intre un bogat în împărăţia lui Dumnezeu.``</verse>
+        <verse osisID='Matt.19.25'>Ucenicii, cînd au auzit lucrul acesta, au rămas uimiţi de tot, şi au zis: ,,Cine poate, atunci să fie mîntuit?``</verse>
+        <verse osisID='Matt.19.26'>Isus S'a uitat ţintă la ei, şi le -a zis: ,,La oameni lucrul acesta este cu neputinţă, dar la Dumnezeu toate lucrurile sînt cu putinţă.``</verse>
+        <verse osisID='Matt.19.27'>Atunci Petru a luat cuvîntul şi I -a zis: ,,Iată că noi am lăsat tot, şi Te-am urmat; ce răsplată vom avea?``</verse>
+        <verse osisID='Matt.19.28'>Isus le -a răspuns: ,,Adevărat vă spun că, atunci cînd va sta Fiul omului pe scaunul de domnie al măririi Sale, la înoirea tuturor lucrurilor, voi, cari M'aţi urmat, veţi şedea şi voi pe douăsprezece scaune de domnie, şi veţi judeca pe cele douăsprezece seminţii ale lui Israel.</verse>
+        <verse osisID='Matt.19.29'>Şi ori şi cine a lăsat case, sau fraţi, sau surori, sau tată, sau mamă, sau nevastă, sau feciori, sau holde, pentru Numele Meu, va primi însutit, şi va moşteni viaţa vecinică.</verse>
+        <verse osisID='Matt.19.30'>Dar mulţi din cei dintîi vor fi cei din urmă, şi mulţi din cei din urmă vor fi cei dintîi.</verse>
+      </chapter>
+      <chapter osisID='Matt.20'>
+        <verse osisID='Matt.20.1'>Fiindcă Împărăţia cerurilor se aseamănă cu un gospodar, care a ieşit dis de dimineaţă, să-şi tocmească lucrători la vie.</verse>
+        <verse osisID='Matt.20.2'>S'a învoit cu lucrătorii cu cîte un leu pe zi, şi i -a trimes la vie.</verse>
+        <verse osisID='Matt.20.3'>A ieşit pela ceasul al treilea, şi a văzut pe alţii stînd în piaţă fără lucru.</verse>
+        <verse osisID='Matt.20.4'>,Duceţi-vă şi voi în via mea`, le -a zis el, ,şi vă voi da ce va fi cu dreptul.` Şi s'au dus.</verse>
+        <verse osisID='Matt.20.5'>A ieşit iarăş pe la ceasul al şaselea şi al nouălea, şi a făcut la fel.</verse>
+        <verse osisID='Matt.20.6'>Cînd a ieşit pela ceasul al unsprezecelea, a găsit pe alţii stînd în piaţă, şi le -a zis: ,De ce staţi aici toată ziua fără lucru?`</verse>
+        <verse osisID='Matt.20.7'>Ei i-au răspuns: ,Pentru că nu ne -a tocmit nimeni.` ,Duceţi-vă şi voi în via mea`, le -a zis el, ,şi veţi primi ce va fi cu dreptul.`</verse>
+        <verse osisID='Matt.20.8'>Seara, stăpînul viei a zis ispravnicului său: ,Cheamă pe lucrători, şi dă-le plata, începînd de la cei de pe urmă, pînă la cei dintîi.</verse>
+        <verse osisID='Matt.20.9'>Cei din ceasul al unsprezecelea au venit, şi au luat fiecare cîte un leu.</verse>
+        <verse osisID='Matt.20.10'>Cînd au venit cei dintîi, socoteau că vor primi mai mult; dar au primit şi ei tot cîte un leu de fiecare.</verse>
+        <verse osisID='Matt.20.11'>Dupăce au primit banii, cîrteau împotriva gospodarului,</verse>
+        <verse osisID='Matt.20.12'>şi ziceau: ,Aceştia de pe urmă n'au lucrat decît un ceas, şi la plată i-ai făcut deopotrivă cu noi, cari am suferit greul şi zăduful zilei.`</verse>
+        <verse osisID='Matt.20.13'>Drept răspuns, el a zis unuia dintre ei: ,Prietene, ţie nu-ţi fac nicio nedreptate; nu te-ai tocmit cu mine cu un leu?</verse>
+        <verse osisID='Matt.20.14'>Ia-ţi ce ţi se cuvine, şi pleacă. Eu vreau să plătesc şi acestuia din urmă ca şi ţie.</verse>
+        <verse osisID='Matt.20.15'>Nu pot să fac ce vreau cu ce -i al meu? Ori este ochiul tău rău, fiindcă eu sînt bun?`</verse>
+        <verse osisID='Matt.20.16'>Tot aşa, cei din urmă vor fi cei dintîi, şi cei dintîi vor fi cei din urmă; pentrucă mulţi sînt chemaţi, dar puţini sînt aleşi.``</verse>
+        <verse osisID='Matt.20.17'>Pe cînd Se suia Isus la Ierusalim, pe drum, a luat deoparte pe cei doisprezece ucenici, şi le -a zis:</verse>
+        <verse osisID='Matt.20.18'>,,Iată că ne suim la Ierusalim, şi Fiul omului va fi dat în mînile preoţilor celor mai de seamă şi cărturarilor. Ei Îl vor osîndi la moarte,</verse>
+        <verse osisID='Matt.20.19'>şi -L vor da în mînile Neamurilor, ca să -L batjocorească, să -L bată şi să -L răstignească; dar a treia zi va învia.``</verse>
+        <verse osisID='Matt.20.20'>Atunci mama fiilor lui Zebedei s'a apropiat de Isus împreună cu fiii ei, şi I s'a închinat, vrînd să -I facă o cerere.</verse>
+        <verse osisID='Matt.20.21'>El a întrebat -o: ,,Ce vrei?`` ,,Porunceşte``, I -a zis ea, ,,ca, în Împărăţia Ta aceşti doi fii ai mei să şadă unul la dreapta şi altul la stînga Ta.``</verse>
+        <verse osisID='Matt.20.22'>Drept răspuns Isus a zis: ,,Nu ştiţi ce cereţi. Puteţi voi să beţi paharul pe care am să -l beau Eu, şi să fiţi botezaţi cu botezul cu care am să fiu botezat Eu?`` ,,Putem``, I-au zis ei.</verse>
+        <verse osisID='Matt.20.23'>Şi El le -a răspuns: ,,Este adevărat că veţi bea paharul Meu, şi veţi fi botezaţi cu botezul cu care am să fiu botezat Eu: dar a şedea la dreapta şi la stînga Mea, nu atîrnă de Mine s'o dau, ci este păstrată pentru aceia pentru cari a fost pregătită de Tatăl Meu.``</verse>
+        <verse osisID='Matt.20.24'>Cei zece, cînd au auzit, s'au mîniat pe cei doi fraţi.</verse>
+        <verse osisID='Matt.20.25'>Isus i -a chemat, şi le -a zis: ,,Ştiţi că domnitorii Neamurilor domnesc peste ele, şi mai marii lor le poruncesc cu stăpînire.</verse>
+        <verse osisID='Matt.20.26'>Între voi să nu fie aşa. Ci oricare va vrea să fie mare între voi, să fie slujitorul vostru;</verse>
+        <verse osisID='Matt.20.27'>şi oricare va vrea să fie cel dintîi între voi, să vă fie rob.</verse>
+        <verse osisID='Matt.20.28'>Pentru că nici Fiul omului n'a venit să I se slujească, ci El să slujească şi să-Şi dea viaţa ca răscumpărare pentru mulţi.``</verse>
+        <verse osisID='Matt.20.29'>Cînd au ieşit din Ierihon, o mare gloată a mers după Isus.</verse>
+        <verse osisID='Matt.20.30'>Şi doi orbi şedeau lîngă drum. Ei au auzit că trece Isus, şi au început să strige: ,,Ai milă de noi, Doamne, Fiul lui David!``</verse>
+        <verse osisID='Matt.20.31'>Gloata îi certa să tacă. Dar ei mai tare strigau: ,,Ai milă de noi, Doamne, Fiul lui David!``</verse>
+        <verse osisID='Matt.20.32'>Isus S'a oprit, i -a chemat, şi le -a zis: ,,Ce vreţi să vă fac?``</verse>
+        <verse osisID='Matt.20.33'>,,Doamne``, I-au zis ei, ,,să ni se deschidă ochii!``</verse>
+        <verse osisID='Matt.20.34'>Lui Isus I s'a făcut milă de ei, S'a atins de ochii lor, şi îndată orbii şi-au căpătat vederea, şi au mers după El.</verse>
+      </chapter>
+      <chapter osisID='Matt.21'>
+        <verse osisID='Matt.21.1'>Cînd s'au apropiat de Ierusalim şi au ajuns la Betfaghe, în spre muntele Măslinilor, Isus a trimes doi ucenici,</verse>
+        <verse osisID='Matt.21.2'>şi le -a zis: ,,Duceţi-vă în satul dinaintea voastră: în el veţi găsi îndată o măgăriţă legată, şi un măgăruş împreună cu ea; deslegaţi -i şi aduceţi -i la Mine.</verse>
+        <verse osisID='Matt.21.3'>Dacă vă va zice cineva ceva, să spuneţi că Domnul are trebuinţă de ei. Şi îndată îi va trimete.``</verse>
+        <verse osisID='Matt.21.4'>Dar toate aceste lucruri s'au întîmplat ca să se împlinească ce fusese vestit prin proorocul, care zice:</verse>
+        <verse osisID='Matt.21.5'>,,Spuneţi fiicei Sionului: ,Iată, Împăratul tău vine la tine, blînd şi călare pe un măgar, pe un măgăruş, mînzul unei măgăriţe.``</verse>
+        <verse osisID='Matt.21.6'>Ucenicii s'au dus, şi au făcut cum le poruncise Isus.</verse>
+        <verse osisID='Matt.21.7'>Au adus măgăriţa şi măgăruşul, şi-au pus hainele peste ei, şi El a şezut deasupra.</verse>
+        <verse osisID='Matt.21.8'>Cei mai mulţi din norod îşi aşterneau hainele pe drum; alţii tăiau ramuri din copaci, şi le presărau pe drum.</verse>
+        <verse osisID='Matt.21.9'>Noroadele cari mergeau înaintea lui Isus şi cele ce veneau în urmă, strigau: ,,Osana Fiul lui David! Binecuvîntat este Cel ce vine în Numele Domnului! Osana în cerurile prea înalte!``</verse>
+        <verse osisID='Matt.21.10'>Cînd a intrat în Ierusalim, toată cetatea s'a pus în mişcare, şi fiecare zicea: ,,Cine este acesta?``</verse>
+        <verse osisID='Matt.21.11'>,,Este Isus, Proorocul, din Nazaretul Galileii``, răspundeau noroadele.</verse>
+        <verse osisID='Matt.21.12'>Isus a intrat în Templul lui Dumnezeu. A dat afară pe toţi cei ce vindeau şi cumpărau în Templu, a răsturnat mesele schimbătorilor de bani şi scaunele celor ce vindeau porumbei,</verse>
+        <verse osisID='Matt.21.13'>şi le -a zis: ,,Este scris: ,Casa Mea se va chema o casă de rugăciune.` Dar voi aţi făcut din ea o peşteră de tîlhari.``</verse>
+        <verse osisID='Matt.21.14'>Nişte orbi şi şchiopi au venit la El în Templu, şi El i -a vindecat.</verse>
+        <verse osisID='Matt.21.15'>Dar preoţii cei mai de seamă şi cărturarii, cînd au văzut minunile pe cari le făcea, şi pe copii strigînd în Templu şi zicînd: ,,Osana, Fiul lui David!`` s'au umplut de mînie.</verse>
+        <verse osisID='Matt.21.16'>Şi I-au zis: ,,Auzi ce zic aceştia?`` ,,Da,`` le -a răspuns Isus. ,,Oare n'aţi citit niciodată cuvintele acestea: ,Tu ai scos laude din gura pruncilor şi din gura celor ce sug?``</verse>
+        <verse osisID='Matt.21.17'>Şi, lăsîndu -i, a ieşit afară din cetate, şi S'a îndreptat spre Betania, şi a mas acolo.</verse>
+        <verse osisID='Matt.21.18'>Dimineaţa, pe cînd Se întorcea în cetate, I -a fost foame.</verse>
+        <verse osisID='Matt.21.19'>A văzut un smochin lîngă drum, şi S'a apropiat de el; dar n'a găsit decît frunze, şi i -a zis: ,,Deacum încolo în veac să nu mai dea rod din tine!`` Şi pe dată smochinul s'a uscat.</verse>
+        <verse osisID='Matt.21.20'>Ucenicii, cînd au văzut acest lucru, s'au mirat, şi au zis: ,,Cum de s'a uscat smochinul acesta într'o clipă?``</verse>
+        <verse osisID='Matt.21.21'>Drept răspuns, Isus le -a zis: ,,Adevărat vă spun că, dacă veţi avea credinţă şi nu vă veţi îndoi, veţi face nu numai ce s'a făcut smochinului acestuia; ci chiar dacă aţi zice muntelui acestuia: ,Ridică-te de aici, şi aruncă-te în mare,` se va face.</verse>
+        <verse osisID='Matt.21.22'>Tot ce veţi cere cu credinţă, prin rugăciune, veţi primi.</verse>
+        <verse osisID='Matt.21.23'>Isus S'a dus în Templu; şi, pe cînd învăţa norodul, au venit la El preoţii cei mai de seamă şi bătrînii norodului, şi I-au zis: ,,Cu ce putere faci Tu lucrurile acestea, şi cine Ţi -a dat puterea aceasta?``</verse>
+        <verse osisID='Matt.21.24'>Drept răspuns, Isus le -a zis: ,,Vă voi pune şi Eu o întrebare; şi dacă-Mi veţi răspunde la ea, vă voi spune şi Eu cu ce putere fac aceste lucruri.</verse>
+        <verse osisID='Matt.21.25'>Botezul lui Ioan de unde venea? Din cer, sau dela oameni?`` Dar ei vorbeau între ei şi ziceau: ,,Dacă vom răspunde: ,Din cer,` ne va spune: ,Atunci de ce nu l-aţi crezut?`</verse>
+        <verse osisID='Matt.21.26'>Şi dacă vom răspunde: ,Dela oameni,` ne temem de norod, pentrucă toţi socotesc pe Ioan drept prooroc.``</verse>
+        <verse osisID='Matt.21.27'>Atunci au răspuns lui Isus: ,,Nu ştim!`` Şi El, la rîndul Lui, le -a zis: ,,Nici Eu nu vă voi spune cu ce putere fac aceste lucruri.</verse>
+        <verse osisID='Matt.21.28'>Ce credeţi? Un om avea doi feciori; şi s'a dus la cel dintîi, şi i -a zis: ,Fiule, du-te astăzi de lucrează în via mea!`</verse>
+        <verse osisID='Matt.21.29'>,Nu vreau,` i -a răspuns el. În urmă, i -a părut rău, şi s'a dus.</verse>
+        <verse osisID='Matt.21.30'>S'a dus şi la celălalt, şi i -a spus tot aşa. Şi fiul acesta a răspuns: ,Mă duc, doamne!` Şi nu s'a dus.</verse>
+        <verse osisID='Matt.21.31'>Care din amîndoi a făcut voia tatălui său?`` ,,Cel dintîi,`` au răspuns ei. Şi Isus le -a zis: ,,Adevărat vă spun că vameşii şi curvele merg înaintea voastră în Împărăţia lui Dumnezeu.</verse>
+        <verse osisID='Matt.21.32'>Fiindcă Ioan a venit la voi umblînd în calea neprihănirii, şi nu l-aţi crezut. Dar vameşii şi curvele l-au crezut: şi, măcar că aţi văzut lucrul acesta, nu v'aţi căit în urmă ca să -l credeţi.</verse>
+        <verse osisID='Matt.21.33'>Ascultaţi o altă pildă. Era un om, un gospodar, care a sădit o vie. A împrejmuit -o cu un gard, a săpat un teasc în ea, şi a zidit un turn. Apoi a dat -o unor vieri, şi a plecat în altă ţară.</verse>
+        <verse osisID='Matt.21.34'>Cînd a venit vremea roadelor, a trimes pe robii săi la vieri, ca să ia partea lui de rod.</verse>
+        <verse osisID='Matt.21.35'>Vierii au pus mîna pe robii lui, şi pe unul l-au bătut, pe altul l-au omorît, iar pe altul l-au ucis cu pietre.</verse>
+        <verse osisID='Matt.21.36'>A mai trimes alţi robi, mai mulţi decît cei dintîi; şi vierii i-au primit la fel.</verse>
+        <verse osisID='Matt.21.37'>La urmă, a trimes la ei pe fiul său, zicînd: ,Vor primi cu cinste pe fiul meu!`</verse>
+        <verse osisID='Matt.21.38'>Dar vierii, cînd au văzut pe fiul, au zis între ei: ,Iată moştenitorul; veniţi să -l omorîm şi să punem stăpînire pe moştenirea lui.`</verse>
+        <verse osisID='Matt.21.39'>Şi au pus mîna pe el, l-au scos afară din vie şi l-au omorît.</verse>
+        <verse osisID='Matt.21.40'>Acum, cînd va veni stăpînul viei, ce va face el vierilor acelora?</verse>
+        <verse osisID='Matt.21.41'>Ei I-au răspuns: ,,Pe ticăloşii aceia ticălos îi va pierde, şi via o va da altor vieri, cari -i vor da rodurile la vremea lor.``</verse>
+        <verse osisID='Matt.21.42'>Isus le -a zis: ,,N'aţi citit nici odată în Scripturi că: ,Piatra, pe care au lepădat -o zidarii, a ajuns să fie pusă în capul unghiului; Domnul a făcut acest lucru, şi este minunat în ochii noştri?`</verse>
+        <verse osisID='Matt.21.43'>Deaceea, vă spun că Împărăţia lui Dumnezeu va fi luată dela voi, şi va fi dată unui neam, care va aduce roadele cuvenite.</verse>
+        <verse osisID='Matt.21.44'>Cine va cădea peste piatra aceasta, va fi zdrobit de ea; iar pe acela peste care va cădea ea, îl va spulbera.``</verse>
+        <verse osisID='Matt.21.45'>După ce au auzit pildele Lui, preoţii cei mai de seamă şi Fariseii au înţeles că Isus vorbeşte despre ei,</verse>
+        <verse osisID='Matt.21.46'>şi căutau să -L prindă; dar se temeau de noroade, pentrucă ele îl socoteau drept prooroc.</verse>
+      </chapter>
+      <chapter osisID='Matt.22'>
+        <verse osisID='Matt.22.1'>Isus a luat cuvîntul, şi le -a vorbit iarăş în pilde. Şi a zis:</verse>
+        <verse osisID='Matt.22.2'>,,Împărăţia cerurilor se aseamănă cu un împărat, care a făcut nuntă fiului său.</verse>
+        <verse osisID='Matt.22.3'>A trimes pe robii săi să cheme pe cei poftiţi la nuntă; dar ei n'au vrut să vină.</verse>
+        <verse osisID='Matt.22.4'>A trimes iarăş alţi robi, şi le -a zis: ,Spuneţi celor poftiţi: ,,Iată că am gătit ospăţul meu; juncii şi vitele mele cele îngrăşate au fost tăiate; toate sînt gata, veniţi la nuntă.`</verse>
+        <verse osisID='Matt.22.5'>Dar ei, fără să le pese de poftirea lui, au plecat: unul la holda lui, şi altul la negustoria lui.</verse>
+        <verse osisID='Matt.22.6'>Ceilalţi au pus mîna pe robi, şi-au bătut joc de ei, şi i-au omorît.</verse>
+        <verse osisID='Matt.22.7'>Cînd a auzit împăratul s'a mîniat; a trimes oştile sale, a nimicit pe ucigaşii aceia, şi le -a ars cetatea.</verse>
+        <verse osisID='Matt.22.8'>Atunci a zis robilor săi: ,Nunta este gata; dar cei poftiţi n'au fost vrednici de ea.</verse>
+        <verse osisID='Matt.22.9'>Duceţi-vă dar la răspîntiile drumurilor, şi chemaţi la nuntă pe toţi aceia pe cari -i veţi găsi.`</verse>
+        <verse osisID='Matt.22.10'>Robii au ieşit la răspîntii, au strîns pe toţi pe cari i-au găsit, şi buni şi răi, şi odaia ospăţului de nuntă s'a umplut de oaspeţi.</verse>
+        <verse osisID='Matt.22.11'>Împăratul a intrat să-şi vadă oaspeţii; şi a zărit acolo pe un om, care nu era îmbrăcat în haina de nuntă.</verse>
+        <verse osisID='Matt.22.12'>,Prietene,` i -a zis el, ,cum ai intrat aici fără să ai haină de nuntă?` Omul acela a amuţit.</verse>
+        <verse osisID='Matt.22.13'>Atunci împăratul a zis slujitorilor săi: ,Legaţi -i mînile şi picioarele, şi luaţi -l şi aruncaţi -l în întunerecul de afară; acolo va fi plînsul şi scrîşnirea dinţilor.</verse>
+        <verse osisID='Matt.22.14'>Căci mulţi sînt chemaţi, dar puţini sînt aleşi.``</verse>
+        <verse osisID='Matt.22.15'>Atunci Fariseii s'au dus şi s'au sfătuit cum să prindă pe Isus cu vorba.</verse>
+        <verse osisID='Matt.22.16'>Au trimes la El pe ucenicii lor împreună cu Irodianii, cari I-au zis: ,,Învăţătorule, ştim că eşti adevărat, şi că înveţi pe oameni calea lui Dumnezeu în adevăr, fără să-Ţi pese de nimeni, pentrucă nu cauţi la faţa oamenilor.</verse>
+        <verse osisID='Matt.22.17'>Spune-ne dar, ce crezi? Se cade să plătim bir Cezarului sau nu?``</verse>
+        <verse osisID='Matt.22.18'>Isus, care le cunoştea vicleşugul, a răspuns: ,,Pentruce Mă ispitiţi, făţarnicilor?</verse>
+        <verse osisID='Matt.22.19'>Arătaţi-Mi banul birului.`` Şi ei I-au adus un ban (Greceşte: dinar.).</verse>
+        <verse osisID='Matt.22.20'>El i -a întrebat: ,,Chipul acesta şi slovele scrise pe el, ale cui sînt?``</verse>
+        <verse osisID='Matt.22.21'>,,Ale Cezarului,`` I-au răspuns ei. Atunci El le -a zis: ,,Daţi dar Cezarului ce este al Cezarului, şi lui Dumnezeu ce este al lui Dumnezeu!``</verse>
+        <verse osisID='Matt.22.22'>Miraţi de cuvintele acestea, ei L-au lăsat, şi au plecat.``</verse>
+        <verse osisID='Matt.22.23'>În aceeaş zi, au venit la Isus Saducheii, cari zic că nu este înviere. Ei I-au pus următoarea întrebare:</verse>
+        <verse osisID='Matt.22.24'>,,Învăţătorule, Moise a zis: ,Dacă moare cineva fără să aibă copii, fratele lui să ia pe nevasta fratelui său, şi să -i ridice urmaş.`</verse>
+        <verse osisID='Matt.22.25'>Erau dar la noi şapte fraţi. Cel dintîi s'a însurat, şi a murit; şi, fiindcă n'avea copii, a lăsat fratelui său pe nevasta lui.</verse>
+        <verse osisID='Matt.22.26'>Tot aşa şi al doilea, şi al treilea, pînă la al şaptelea.</verse>
+        <verse osisID='Matt.22.27'>La urmă, după ei toţi, a murit şi femeia.</verse>
+        <verse osisID='Matt.22.28'>La înviere, nevasta căruia din cei şapte va fi ea? Fiindcă toţi au avut -o de nevastă.</verse>
+        <verse osisID='Matt.22.29'>Drept răspuns, Isus le -a zis: ,,Vă rătăciţi! Pentru că nu cunoaşteţi nici Scripturile, nici puterea lui Dumnezeu.</verse>
+        <verse osisID='Matt.22.30'>Căci la înviere, nici nu se vor însura, nici nu se vor mărita, ci vor fi ca îngerii lui Dumnezeu în cer.</verse>
+        <verse osisID='Matt.22.31'>Cît priveşte învierea morţilor, oare n'aţi citit ce vi s'a spus de Dumnezeu, cînd zice:</verse>
+        <verse osisID='Matt.22.32'>,Eu sînt Dumnezeul lui Avraam, Dumnezeul lui Isaac, şi Dumnezeul lui Iacov?` Dumnezeu nu este un Dumnezeu al celor morţi ci al celor vii.``</verse>
+        <verse osisID='Matt.22.33'>Noroadele, cari ascultau, au rămas uimite de învăţătura lui Isus.</verse>
+        <verse osisID='Matt.22.34'>Cînd au auzit Fariseii că Isus a astupat gura Saducheilor, s'au strîns la un loc.</verse>
+        <verse osisID='Matt.22.35'>Şi unul din ei, un învăţător al Legii, ca să -L ispitească, I -a pus întrebarea următoare:</verse>
+        <verse osisID='Matt.22.36'>,,Învăţătorule, care este cea mai mare poruncă din Lege?``</verse>
+        <verse osisID='Matt.22.37'>Isus i -a răspuns: ,,Să iubeşti pe Domnul, Dumnezeul tău, cu toată inima ta, cu tot sufletul tău, şi cu tot cugetul tău.``</verse>
+        <verse osisID='Matt.22.38'>,,Aceasta este cea dintîi, şi cea mai mare poruncă.</verse>
+        <verse osisID='Matt.22.39'>Iar a doua, asemenea ei, este: ,Să iubeşti pe aproapele tău ca pe tine însuţi.`</verse>
+        <verse osisID='Matt.22.40'>În aceste două porunci se cuprinde toată Legea şi Proorocii.``</verse>
+        <verse osisID='Matt.22.41'>Pe cînd erau strînşi la un loc Fariseii, Isus i -a întrebat:</verse>
+        <verse osisID='Matt.22.42'>Ce credeţi voi despre Hristos? Al cui fiu este?`` ,,Al lui David``, I-au răspuns ei.</verse>
+        <verse osisID='Matt.22.43'>Şi Isus le -a zis: ,,Cum atunci David, fiind însuflat de Duhul, Îl numeşte Domn, cînd zice:</verse>
+        <verse osisID='Matt.22.44'>,Domnul a zis Domnului Meu: ,,Şezi la dreapta Mea, pînă voi pune pe vrăjmaşii Tăi supt picioarele Tale?</verse>
+        <verse osisID='Matt.22.45'>Deci, dacă David Îl numeşte Domn, cum este El fiul lui?``</verse>
+        <verse osisID='Matt.22.46'>Nimeni nu I -a putut răspunde un cuvînt. Şi, din ziua aceea, n'a îndrăznit nimeni să -I mai pună întrebări.</verse>
+      </chapter>
+      <chapter osisID='Matt.23'>
+        <verse osisID='Matt.23.1'>Atunci Isus, pe cînd cuvînta gloatelor şi ucenicilor Săi,</verse>
+        <verse osisID='Matt.23.2'>a zis: ,,Cărturarii şi Fariseii şed pe scaunul lui Moise.</verse>
+        <verse osisID='Matt.23.3'>Deci toate lucrurile, pe cari vă spun ei să le păziţi, păziţi-le şi faceţi-le; dar după faptele lor să nu faceţi. Căci ei zic, dar nu fac.</verse>
+        <verse osisID='Matt.23.4'>Ei leagă sarcini grele şi cu anevoie de purtat, şi le pun pe umerii oamenilor, dar ei nici cu degetul nu vor să le mişte.</verse>
+        <verse osisID='Matt.23.5'>Toate faptele lor le fac pentru ca să fie văzuţi de oameni. Astfel, îşi fac filacteriile late, îşi fac poalele veştmintelor cu ciucuri lungi;</verse>
+        <verse osisID='Matt.23.6'>umblă după locurile dintîi la ospeţe, şi după scaunele dintîi în sinagogi;</verse>
+        <verse osisID='Matt.23.7'>le place să le facă oamenii plecăciuni prin pieţe, şi să le zică: ,Rabi! Rabi!`</verse>
+        <verse osisID='Matt.23.8'>Voi să nu vă numiţi Rabi! Fiindcă Unul singur este Învăţătorul vostru: Hristos, şi voi toţi sînteţi fraţi.</verse>
+        <verse osisID='Matt.23.9'>Şi ,Tată` să nu numiţi pe nimeni pe pămînt; pentrucă Unul singur este Tatăl vostru: Acela care este în ceruri.</verse>
+        <verse osisID='Matt.23.10'>Să nu vă numiţi ,Dascăli`; căci Unul singur este Dascălul vostru: Hristosul.</verse>
+        <verse osisID='Matt.23.11'>Cel mai mare dintre voi să fie slujitorul vostru.</verse>
+        <verse osisID='Matt.23.12'>Oricine se va înălţa, va fi smerit; şi oricine se va smeri, va fi înălţat.</verse>
+        <verse osisID='Matt.23.13'>Vai de voi, cărturari şi Farisei făţarnici! Pentrucă voi închideţi oamenilor Împărăţia cerurilor: nici voi nu intraţi în ea, şi nici pe cei ce vor să intre, nu -i lăsaţi să intre.</verse>
+        <verse osisID='Matt.23.14'>Vai de voi, cărturari şi Farisei făţarnici! Pentrucă voi mîncaţi casele văduvelor, în timp ce, de ochii lumii, faceţi rugăciuni lungi; de aceea veţi lua o mai mare osîndă.</verse>
+        <verse osisID='Matt.23.15'>Vai de voi, cărturari şi Farisei făţarnici! Pentrucă voi înconjuraţi marea şi pămîntul, ca să faceţi un tovarăş de credinţă; şi, după ce a ajuns tovarăş de credinţă, faceţi din el un fiu al gheenei, de două ori mai rău decît sînteţi voi înşivă.</verse>
+        <verse osisID='Matt.23.16'>Vai de voi, povăţuitori orbi, cari ziceţi: ,Dacă jură cineva pe Templu, nu este nimic; dar dacă jură pe aurul Templului, este legat de jurămîntul lui.`</verse>
+        <verse osisID='Matt.23.17'>Nebuni şi orbi! Care este mai mare: aurul sau Templul, care sfinţeşte aurul?</verse>
+        <verse osisID='Matt.23.18'>,Dacă jură cineva pe altar, nu este nimic`, ,dar dacă jură pe darul de pe altar, este legat de jurămîntul lui.`</verse>
+        <verse osisID='Matt.23.19'>Nebuni şi orbi! Care este mai mare: darul, sau altarul, care sfinţeşte darul?</verse>
+        <verse osisID='Matt.23.20'>Deci, cine jură pe altar, jură pe el şi pe tot ce este deasupra lui;</verse>
+        <verse osisID='Matt.23.21'>cine jură pe Templu, jură pe el şi pe Celce locuieşte în el;</verse>
+        <verse osisID='Matt.23.22'>şi cine jură pe cer, jură pe scaunul de domnie al lui Dumnezeu şi pe Celce şade pe el.`</verse>
+        <verse osisID='Matt.23.23'>Vai de voi, cărturari şi Farisei făţarnici! Pentrucă voi daţi zeciuială din izmă, din mărar şi din chimen, şi lăsaţi nefăcute cele mai însemnate lucruri din Lege: dreptatea, mila şi credincioşia; pe acestea trebuia să le faceţi, şi pe acelea să nu le lăsaţi nefăcute.</verse>
+        <verse osisID='Matt.23.24'>Povăţuitori orbi, cari strecuraţi ţînţarul şi înghiţiţi cămila!</verse>
+        <verse osisID='Matt.23.25'>Vai de voi, cărturari şi Farisei făţarnici! Pentru că voi curăţiţi partea de afară a paharului şi a blidului, dar înlăuntru sînt pline de răpire şi de necumpătare.</verse>
+        <verse osisID='Matt.23.26'>Fariseu orb! Curăţă întîi partea din lăuntru a paharului şi a blidului, pentruca şi partea de afară să fie curată.</verse>
+        <verse osisID='Matt.23.27'>Vai de voi, cărturari şi Farisei făţarnici! Pentrucă voi sînteţi ca mormintele văruite, cari, pe dinafară se arată frumoase, iar pe dinlăuntru sînt pline de oasele morţilor şi de orice fel de necurăţenie.</verse>
+        <verse osisID='Matt.23.28'>Tot aşa şi voi, pe dinafară vă arătaţi neprihăniţi oamenilor, dar pe dinlăuntru sînteţi plini de făţărnicie şi de fărădelege.</verse>
+        <verse osisID='Matt.23.29'>Vai de voi, cărturari şi Farisei făţarnici! Pentru că voi zidiţi mormintele proorocilor, împodobiţi gropile celor neprihăniţi,</verse>
+        <verse osisID='Matt.23.30'>şi ziceţi: Dacă am fi trăit noi în zilele părinţilor noştri, nu ne-am fi unit cu ei la vărsarea sîngelui proorocilor.</verse>
+        <verse osisID='Matt.23.31'>Prin aceasta mărturisiţi despre voi înşivă că sînteţi fiii celor ce au omorît pe prooroci.</verse>
+        <verse osisID='Matt.23.32'>Voi dar umpleţi măsura părinţilor voştri!</verse>
+        <verse osisID='Matt.23.33'>Şerpi, pui de năpîrci! Cum veţi scăpa de pedeapsa gheenei?</verse>
+        <verse osisID='Matt.23.34'>De aceea, iată, vă trimet prooroci, înţelepţi şi cărturari. Pe unii din ei îi veţi omorî şi răstigni, pe alţii îi veţi bate în sinagogile voastre, şi -i veţi prigoni din cetate în cetate;</verse>
+        <verse osisID='Matt.23.35'>ca să vină asupra voastră tot sîngele nevinovat, care a fost vărsat pe pămînt, dela sîngele neprihănitului Abel pînă la sîngele lui Zaharia, fiul lui Barachia, pe care l-aţi omorît între Templu şi altar.</verse>
+        <verse osisID='Matt.23.36'>Adevărat vă spun, că toate acestea vor veni peste neamul acesta.</verse>
+        <verse osisID='Matt.23.37'>Ierusalime, Ierusalime, care omori pe prooroci şi ucizi cu pietre pe cei trimeşi la tine! De cîte ori am vrut să strîng pe copiii tăi cum îşi strînge găina puii supt aripi, şi n'aţi vrut!</verse>
+        <verse osisID='Matt.23.38'>Iată că vi se lasă casa pustie;</verse>
+        <verse osisID='Matt.23.39'>căci vă spun că deacum încolo nu Mă veţi mai vedea pînă cînd veţi zice: ,Binecuvîntat este Celce vine în Numele Domnului!``</verse>
+      </chapter>
+      <chapter osisID='Matt.24'>
+        <verse osisID='Matt.24.1'>La ieşirea din Templu, pe cînd mergea Isus, ucenicii Lui s'au apropiat de El ca să -I arate clădirile Templului.</verse>
+        <verse osisID='Matt.24.2'>Dar Isus le -a zis: ,,Vedeţi voi toate aceste lucruri? Adevărat vă spun că nu va rămînea aici piatră pe piatră, care să nu fie dărîmată.``</verse>
+        <verse osisID='Matt.24.3'>El a şezut jos pe muntele Măslinilor. Şi ucenicii Lui au venit la El la o parte, şi I-au zis: ,,Spune-ne, cînd se vor întîmpla aceste lucruri? Şi care va fi semnul venirii Tale şi al sfîrşitului veacului acestuia?``</verse>
+        <verse osisID='Matt.24.4'>Drept răspuns, Isus le -a zis: ,,Băgaţi de seamă să nu vă înşele cineva.</verse>
+        <verse osisID='Matt.24.5'>Fiindcă vor veni mulţi în Numele Meu, şi vor zice: ,Eu sînt Hristosul!` Şi vor înşela pe mulţi.</verse>
+        <verse osisID='Matt.24.6'>Veţi auzi de războaie şi veşti de războaie: vedeţi să nu vă spăimîntaţi, căci toate aceste lucruri trebuie să se întîmple. Dar sfîrşitul tot nu va fi atunci.</verse>
+        <verse osisID='Matt.24.7'>Un neam se va scula împotriva altui neam, şi o împărăţie împotriva altei împărăţii; şi, pe alocurea, vor fi cutremure de pămînt, foamete şi ciumi.</verse>
+        <verse osisID='Matt.24.8'>Dar toate aceste lucruri nu vor fi decît începutul durerilor.</verse>
+        <verse osisID='Matt.24.9'>Atunci vă vor da să fiţi chinuiţi, şi vă vor omorî; şi veţi fi urîţi de toate neamurile pentru Numele Meu.</verse>
+        <verse osisID='Matt.24.10'>Atunci mulţi vor cădea, se vor vinde unii pe alţii, şi se vor urî unii pe alţii.</verse>
+        <verse osisID='Matt.24.11'>Se vor scula mulţi prooroci mincinoşi, şi vor înşela pe mulţi.</verse>
+        <verse osisID='Matt.24.12'>Şi, din pricina înmulţirii fărădelegii, dragostea celor mai mulţi se va răci.</verse>
+        <verse osisID='Matt.24.13'>Dar cine va răbda pînă la sfîrşit, va fi mîntuit.</verse>
+        <verse osisID='Matt.24.14'>Evanghelia aceasta a Împărăţiei va fi propovăduită în toată lumea, ca să slujească de mărturie tuturor neamurilor. Atunci va veni sfîrşitul.</verse>
+        <verse osisID='Matt.24.15'>De aceea, cînd veţi vedea ,urîciunea pustiirii`, despre care a vorbit proorocul Daniel, ,aşezată în locul sfînt` -cine citeşte să înţeleagă! -</verse>
+        <verse osisID='Matt.24.16'>atunci, cei ce vor fi în Iudea, să fugă la munţi;</verse>
+        <verse osisID='Matt.24.17'>cine va fi pe acoperişul casei, să nu se pogoare să-şi ia lucrurile din casă;</verse>
+        <verse osisID='Matt.24.18'>şi cine va fi la cîmp, să nu se întoarcă să-şi ia haina.</verse>
+        <verse osisID='Matt.24.19'>Vai de femeile, cari vor fi însărcinate şi de cele ce vor da ţîţă în zilele acelea!</verse>
+        <verse osisID='Matt.24.20'>Rugaţi-vă ca fuga voastră să nu fie iarna, nici într'o zi de Sabat.</verse>
+        <verse osisID='Matt.24.21'>Pentrucă atunci va fi un necaz aşa de mare, cum n'a fost niciodată dela începutul lumii pînă acum, şi nici nu va mai fi.</verse>
+        <verse osisID='Matt.24.22'>Şi dacă zilele acelea n'ar fi fost scurtate, nimeni n'ar scăpa; dar, din pricina celor aleşi, zilele acelea vor fi scurtate.</verse>
+        <verse osisID='Matt.24.23'>Atunci dacă vă va spune cineva: ,Iată, Hristosul este aici, sau acolo`, să nu -l credeţi.</verse>
+        <verse osisID='Matt.24.24'>Căci se vor scula Hristoşi mincinoşi şi prooroci mincinoşi; vor face semne mari şi minuni, pînă acolo încît să înşele, dacă va fi cu putinţă, chiar şi pe cei aleşi.</verse>
+        <verse osisID='Matt.24.25'>Iată, că v'am spus mai dinainte.</verse>
+        <verse osisID='Matt.24.26'>Deci, dacă vă vor zice: ,Iată -L în pustie`, să nu vă duceţi acolo! ,Iată -L în odăiţe ascunse`, să nu credeţi.</verse>
+        <verse osisID='Matt.24.27'>Căci, cum iese fulgerul dela răsărit şi se vede pînă la apus, aşa va fi şi venirea Fiului omului.</verse>
+        <verse osisID='Matt.24.28'>Oriunde va fi stîrvul (Sau: hoit, mortăciune.), acolo se vor aduna vulturii.</verse>
+        <verse osisID='Matt.24.29'>Îndată după acele zile de necaz, ,soarele se va întuneca, luna nu-şi va mai da lumina ei, stelele vor cădea din cer, şi puterile cerurilor vor fi clătinate.`</verse>
+        <verse osisID='Matt.24.30'>Atunci se va arăta în cer semnul Fiului omului, toate seminţiile pămîntului se vor boci, şi vor vedea pe Fiul omului venind pe norii cerului cu putere şi cu o mare slavă.</verse>
+        <verse osisID='Matt.24.31'>El va trimete pe îngerii Săi cu trîmbiţa răsunătoare, şi vor aduna pe aleşii Lui din cele patru vînturi, dela o margine a cerurilor pînă la cealaltă.</verse>
+        <verse osisID='Matt.24.32'>Dela smochin învăţaţi pilda lui: Cînd îi frăgezeşte şi înfrunzeşte mlădiţia, ştiţi că vara este aproape.</verse>
+        <verse osisID='Matt.24.33'>Tot aşa, şi voi, cînd veţi vedea toate aceste lucruri, să ştiţi că Fiul omului este aproape, este chiar la uşi.</verse>
+        <verse osisID='Matt.24.34'>Adevărat vă spun că, nu va trece neamul acesta pînă se vor întîmpla toate aceste lucruri.</verse>
+        <verse osisID='Matt.24.35'>Cerul şi pămîntul vor trece, dar cuvintele Mele nu vor trece.</verse>
+        <verse osisID='Matt.24.36'>Despre ziua aceea şi despre ceasul acela, nu ştie nimeni: nici îngerii din ceruri, nici Fiul, ci numai Tatăl.</verse>
+        <verse osisID='Matt.24.37'>Cum s'a întîmplat în zilele lui Noe, aidoma se va întîmpla şi la venirea Fiului omului.</verse>
+        <verse osisID='Matt.24.38'>În adevăr, cum era în zilele dinainte de potop, cînd mîncau şi beau, se însurau şi se măritau, pînă în ziua cînd a intrat Noe în corabie,</verse>
+        <verse osisID='Matt.24.39'>şi n'au ştiut nimic, pînă cînd a venit potopul şi i -a luat pe toţi, tot aşa va fi şi la venirea Fiului omului.</verse>
+        <verse osisID='Matt.24.40'>Atunci, din doi bărbaţi cari vor fi la cîmp, unul va fi luat şi altul va fi lăsat.</verse>
+        <verse osisID='Matt.24.41'>Din două femei cari vor măcina la moară, una va fi luată şi alta va fi lăsată.</verse>
+        <verse osisID='Matt.24.42'>Vegheaţi dar, pentru că nu ştiţi în ce zi va veni Domnul vostru.</verse>
+        <verse osisID='Matt.24.43'>Să ştiţi că, dacă ar şti stăpînul casei la ce strajă din noapte va veni hoţul, ar veghea şi n'ar lăsa să -i spargă casa.</verse>
+        <verse osisID='Matt.24.44'>Deaceea, şi voi fiţi gata; căci Fiul omului va veni în ceasul în care nu vă gîndiţi.</verse>
+        <verse osisID='Matt.24.45'>Care este deci robul credincios şi înţelept, pe care l -a pus stăpînul său peste ceata slugilor sale, ca să le dea hrana la vremea hotărîtă?</verse>
+        <verse osisID='Matt.24.46'>Ferice de robul acela, pe care stăpînul său, la venirea lui, îl va găsi făcînd aşa!</verse>
+        <verse osisID='Matt.24.47'>Adevărat vă spun că îl va pune peste toate averile sale.</verse>
+        <verse osisID='Matt.24.48'>Dar dacă este un rob rău, care zice în inima lui: ,Stăpînul meu zăboveşte să vină!`</verse>
+        <verse osisID='Matt.24.49'>Dacă va începe să bată pe tovarăşii lui de slujbă, şi să mănînce şi să bea cu beţivii,</verse>
+        <verse osisID='Matt.24.50'>stăpînul robului aceluia va veni în ziua în care el nu se aşteaptă, şi în ceasul pe care nu -l ştie,</verse>
+        <verse osisID='Matt.24.51'>îl va tăia în două, şi soarta lui va fi soarta făţarnicilor; acolo va fi plînsul şi scrîşnirea dinţilor.</verse>
+      </chapter>
+      <chapter osisID='Matt.25'>
+        <verse osisID='Matt.25.1'>Atunci Împărăţia cerurilor se va asemăna cu zece fecioare, cari şi-au luat candelele, şi au ieşit în întîmpinarea mirelui.</verse>
+        <verse osisID='Matt.25.2'>Cinci din ele erau nechibzuite, şi cinci înţelepte.</verse>
+        <verse osisID='Matt.25.3'>Cele nechibzuite, cînd şi-au luat candelele, n'au luat cu ele untdelemn;</verse>
+        <verse osisID='Matt.25.4'>dar cele înţelepte, împreună cu candelele, au luat cu ele şi untdelemn în vase.</verse>
+        <verse osisID='Matt.25.5'>Fiindcă mirele zăbovea, au aţipit toate, şi au adormit.</verse>
+        <verse osisID='Matt.25.6'>La miezul nopţii, s'a auzit o strigare: ,Iată mirele, ieşiţi -i în întîmpinare!`</verse>
+        <verse osisID='Matt.25.7'>Atunci toate fecioarele acelea s'au sculat şi şi-au pregătit candelele.</verse>
+        <verse osisID='Matt.25.8'>Cele nechibzuite au zis celor înţelepte: ,Daţi-ne din untdelemnul vostru, căci ni se sting candelele.`</verse>
+        <verse osisID='Matt.25.9'>Cele înţelepte le-au răspuns: ,Nu; ca nu cumva să nu ne ajungă nici nouă nici vouă; ci mai bine duceţi-vă la cei ce vînd untdelemn şi cumpăraţi-vă.`</verse>
+        <verse osisID='Matt.25.10'>Pe cînd se duceau ele să cumpere untdelemn, a venit mirele: cele ce erau gata, au intrat cu el în odaia de nuntă, şi s'a încuiat uşa.</verse>
+        <verse osisID='Matt.25.11'>Mai pe urmă, au venit şi celelalte fecioare, şi au zis: ,Doamne, Doamne, deschide-ne!`</verse>
+        <verse osisID='Matt.25.12'>Dar el, drept răspuns, le -a zis: ,Adevărat vă spun, că nu vă cunosc!`</verse>
+        <verse osisID='Matt.25.13'>Veghiaţi dar, căci nu ştiţi ziua, nici ceasul în care va veni Fiul omului.</verse>
+        <verse osisID='Matt.25.14'>Atunci Împărăţia cerurilor se va asemăna cu un om, care, cînd era să plece într'o altă ţară, a chemat pe robii săi, şi le -a încredinţat avuţia sa.</verse>
+        <verse osisID='Matt.25.15'>Unuia i -a dat cinci talanţi, altuia doi, şi altuia unul: fiecăruia după puterea lui; şi a plecat.</verse>
+        <verse osisID='Matt.25.16'>Îndată, cel ce primise cei cinci talanţi, s'a dus, i -a pus în negoţ, şi a cîştigat cu ei alţi cinci talanţi.</verse>
+        <verse osisID='Matt.25.17'>Tot aşa, cel ce primise cei doi talanţi, a cîştigat şi el alţi doi cu ei.</verse>
+        <verse osisID='Matt.25.18'>Cel ce nu primise decît un talant, s'a dus de a făcut o groapă în pămînt şi a ascuns acolo banii stăpînului său.</verse>
+        <verse osisID='Matt.25.19'>După multă vreme, stăpînul robilor acelora s'a întors şi le -a cerut socoteala.</verse>
+        <verse osisID='Matt.25.20'>Cel ce primise cei cinci talanţi, a venit, a adus alţi cinci talanţi, şi a zis: ,Doamne, mi-ai încredinţat cinci talanţi; iată că am cîştigat cu ei alţi cinci talanţi.`</verse>
+        <verse osisID='Matt.25.21'>Stăpînul său i -a zis: ,Bine, rob bun şi credincios; ai fost credincios în puţine lucruri, te voi pune peste multe lucruri; intră în bucuria stăpînului tău.`</verse>
+        <verse osisID='Matt.25.22'>Cel ce primise cei doi talanţi, a venit şi el, şi a zis: ,Doamne, mi-ai încredinţat doi talanţi; iată că am cîştigat cu ei alţi doi talanţi.`</verse>
+        <verse osisID='Matt.25.23'>Stăpînul său i -a zis: ,Bine, rob bun şi credincios; ai fost credincios în puţine lucruri, te voi pune peste multe lucruri; intră în bucuria stăpînului tău!`</verse>
+        <verse osisID='Matt.25.24'>Cel ce nu primise decît un talant, a venit şi el, şi a zis: ,Doamne, am ştiut că eşti om aspru, care seceri de unde n'ai sămănat, şi strîngi de unde n'ai vînturat:</verse>
+        <verse osisID='Matt.25.25'>mi -a fost teamă, şi m'am dus de ţi-am ascuns talantul în pămînt; iată-ţi ce este al tău!`</verse>
+        <verse osisID='Matt.25.26'>Stăpînul său i -a răspuns: ,Rob viclean şi leneş! Ai ştiut că secer de unde n'am sămănat, şi că strîng de unde n'am vînturat;</verse>
+        <verse osisID='Matt.25.27'>prin urmare se cădea ca tu să-mi fi dat banii la zarafi, şi, la venirea mea, eu mi-aş fi luat înapoi cu dobîndă ce este al meu!</verse>
+        <verse osisID='Matt.25.28'>Luaţi -i dar talantul, şi daţi -l celui ce are zece talanţi.</verse>
+        <verse osisID='Matt.25.29'>Pentrucă celui ce are, i se va da, şi va avea de prisos; dar dela cel ce n'are, se va lua şi ce are!</verse>
+        <verse osisID='Matt.25.30'>Iar pe robul acela netrebnic, aruncaţi -l în întunerecul de afară: acolo va fi plînsul şi scrîşnirea dinţilor.</verse>
+        <verse osisID='Matt.25.31'>,,Cînd va veni Fiul omului în slava Sa, cu toţi sfinţii îngeri, va şedea pe scaunul de domnie al slavei Sale.</verse>
+        <verse osisID='Matt.25.32'>Toate neamurile vor fi adunate înaintea Lui. El îi va despărţi pe unii de alţii cum desparte păstorul oile de capre;</verse>
+        <verse osisID='Matt.25.33'>şi va pune oile la dreapta, iar caprele la stînga Lui.</verse>
+        <verse osisID='Matt.25.34'>Atunci Împăratul va zice celor dela dreapta Lui: ,Veniţi binecuvîntaţii Tatălui Meu de moşteniţi Împărăţia, care v'a fost pregătită dela întemeierea lumii.</verse>
+        <verse osisID='Matt.25.35'>Căci am fost flămînd, şi Mi-aţi dat de mîncat; Mi -a fost sete, şi Mi-aţi dat de băut; am fost străin, şi M'aţi primit;</verse>
+        <verse osisID='Matt.25.36'>am fost gol, şi M'aţi îmbrăcat; am fost bolnav, şi aţi venit să Mă vedeţi; am fost în temniţă, şi aţi venit pe la Mine.`</verse>
+        <verse osisID='Matt.25.37'>Atunci cei neprihăniţi Îi vor răspunde: ,Doamne, cînd Te-am văzut noi flămînd, şi Ţi-am dat să mănînci? Sau fiindu-Ţi sete, şi Ţi-am dat de ai băut?</verse>
+        <verse osisID='Matt.25.38'>Cînd Te-am văzut noi străin, şi Te-am primit? Sau gol, şi Te-am îmbrăcat?</verse>
+        <verse osisID='Matt.25.39'>Cînd Te-am văzut noi bolnav sau în temniţă, şi am venit pe la Tine?`</verse>
+        <verse osisID='Matt.25.40'>Drept răspuns, Împăratul le va zice: ,Adevărat vă spun că, oridecîteori aţi făcut aceste lucruri unuia din aceşti foarte neînsemnaţi fraţi ai Mei, Mie mi le-aţi făcut.`</verse>
+        <verse osisID='Matt.25.41'>Apoi va zice celor dela stînga Lui: ,Duceţi-vă dela Mine, blestemaţilor, în focul cel vecinic, care a fost pregătit diavolului şi îngerilor lui!</verse>
+        <verse osisID='Matt.25.42'>Căci am fost flămînd, şi nu Mi-aţi dat să mănînc; Mi -a fost sete, şi nu Mi-aţi dat să beau;</verse>
+        <verse osisID='Matt.25.43'>am fost străin, şi nu M'aţi primit; am fost gol, şi nu M'aţi îmbrăcat; am fost bolnav şi în temniţă, şi n'aţi venit pela Mine.`</verse>
+        <verse osisID='Matt.25.44'>Atunci Îi vor răspunde şi ei: ,Doamne, cînd Te-am văzut noi flămînd sau fiindu-Ţi sete, sau străin, sau gol, sau bolnav, sau în temniţă, şi nu Ţi-am slujit?`</verse>
+        <verse osisID='Matt.25.45'>Şi El, drept răspuns, le va zice: ,Adevărat vă spun că, oridecîteori n'aţi făcut aceste lucruri unuia dintr'aceşti foarte neînsemnaţi fraţi ai Mei, Mie nu Mi le-aţi făcut.`</verse>
+        <verse osisID='Matt.25.46'>Şi aceştia vor merge în pedeapsa vecinică, iar cei neprihăniţi vor merge în viaţa vecinică.``</verse>
+      </chapter>
+      <chapter osisID='Matt.26'>
+        <verse osisID='Matt.26.1'>Dupăce a isprăvit Isus toate cuvîntările acestea, a zis ucenicilor Săi:</verse>
+        <verse osisID='Matt.26.2'>,,Ştiţi că după două zile vor fi Paştele; şi Fiul omului va fi dat ca să fie răstignit!``</verse>
+        <verse osisID='Matt.26.3'>Atunci preoţii cei mai de seamă, cărturarii şi bătrînii norodului s'au strîns în curtea marelui preot care se numea Caiafa;</verse>
+        <verse osisID='Matt.26.4'>şi s'au sfătuit împreună, cum să prindă pe Isus cu vicleşug, şi să -L omoare.</verse>
+        <verse osisID='Matt.26.5'>Dar ziceau: ,,Nu în timpul praznicului, ca să nu se facă turburare în norod.``</verse>
+        <verse osisID='Matt.26.6'>Cînd era Isus în Betania, în casa lui Simon leprosul,</verse>
+        <verse osisID='Matt.26.7'>s'a apropiat de El o femeie cu un vas de alabastru cu mir foarte scump; şi, pe cînd sta El la masă, ea a turnat mirul pe capul Lui.</verse>
+        <verse osisID='Matt.26.8'>Ucenicilor le -a fost necaz, cînd au văzut lucrul acesta, şi au zis: ,,Ce rost are risipa aceasta?</verse>
+        <verse osisID='Matt.26.9'>Mirul acesta s'ar fi putut vinde foarte scump, şi banii să se dea săracilor.``</verse>
+        <verse osisID='Matt.26.10'>Cînd a auzit Isus, le -a zis: ,,De ce faceţi supărare femeii? Ea a făcut un lucru frumos faţă de Mine.</verse>
+        <verse osisID='Matt.26.11'>Pentrucă pe săraci îi aveţi totdeauna cu voi, dar pe Mine nu Mă aveţi totdeauna.</verse>
+        <verse osisID='Matt.26.12'>Dacă a turnat acest mir pe trupul Meu, ea a făcut lucrul acesta în vederea pregătirii Mele pentru îngropare.</verse>
+        <verse osisID='Matt.26.13'>Adevărat vă spun că ori unde va fi propovăduită Evanghelia aceasta, în toată lumea, se va spune şi ce a făcut femeia aceasta, spre pomenirea ei.``</verse>
+        <verse osisID='Matt.26.14'>Atunci unul din cei doisprezece, numit Iuda Iscarioteanul, s'a dus la preoţii cei mai de seamă,</verse>
+        <verse osisID='Matt.26.15'>şi le -a zis: ,,Ce vreţi să-mi daţi, şi -L voi da în mînile voastre?`` Ei i-au cîntărit treizeci de arginţi.</verse>
+        <verse osisID='Matt.26.16'>Din clipa aceea, Iuda căuta un prilej nimerit, ca să dea pe Isus în mînile lor.</verse>
+        <verse osisID='Matt.26.17'>În ziua dintîi a praznicului Azimilor, ucenicii au venit la Isus, şi I-au zis: ,,Unde vrei să-Ţi pregătim să mănînci Paştele?``</verse>
+        <verse osisID='Matt.26.18'>El le -a răspuns: ,,Duceţi-vă în cetate la cutare om, şi spuneţi -i: ,,Învăţătorul zice: ,Vremea Mea este aproape; voi face Paştele cu ucenicii Mei în casa ta.``</verse>
+        <verse osisID='Matt.26.19'>Ucenicii au făcut cum le poruncise Isus, şi au pregătit Paştele.</verse>
+        <verse osisID='Matt.26.20'>Seara, Isus a şezut la masă cu cei doisprezece ucenici ai Săi.</verse>
+        <verse osisID='Matt.26.21'>Pe cînd mîncau, El a zis: ,,Adevărat vă spun că unul din voi Mă va vinde.``</verse>
+        <verse osisID='Matt.26.22'>Ei s'au întristat foarte mult, şi au început să -I zică unul după altul: ,,Nu cumva sînt eu, Doamne?``</verse>
+        <verse osisID='Matt.26.23'>Drept răspuns, El le -a zis: ,,Cel ce a întins cu Mine mîna în blid, acela Mă va vinde.</verse>
+        <verse osisID='Matt.26.24'>Negreşit, Fiul omului Se duce după cum este scris despre El. Dar vai de omul acela prin care este vîndut Fiul omului! Mai bine ar fi fost pentru el să nu se fi născut!``</verse>
+        <verse osisID='Matt.26.25'>Iuda, vînzătorul, a luat cuvîntul, şi I -a zis: ,,Nu cumva sînt eu, Învăţătorule?`` ,,Da``, i -a răspuns Isus, ,,tu eşti!``</verse>
+        <verse osisID='Matt.26.26'>Pe cînd mîncau ei, Isus a luat o pîne; şi după ce a binecuvîntat, a frînt -o, şi a dat -o ucenicilor, zicînd: ,,Luaţi, mîncaţi; acesta este trupul Meu.``</verse>
+        <verse osisID='Matt.26.27'>Apoi a luat un pahar, şi, după ce a mulţămit lui Dumnezeu, li l -a dat, zicînd: ,,Beţi toţi din el;</verse>
+        <verse osisID='Matt.26.28'>căci acesta este sîngele Meu, sîngele legămîntului celui nou, care se varsă pentru mulţi, spre iertarea păcatelor.</verse>
+        <verse osisID='Matt.26.29'>Vă spun că, de acum încolo nu voi mai bea din acest rod al viţei, pînă în ziua cînd îl voi bea cu voi nou în Împărăţia Tatălui Meu.``</verse>
+        <verse osisID='Matt.26.30'>După ce au cîntat cîntarea, au ieşit în muntele Măslinilor.</verse>
+        <verse osisID='Matt.26.31'>Atunci Isus le -a zis: ,,În noaptea aceasta, toţi veţi găsi în Mine o pricină de poticnire; căci este scris: ,Voi bate Păstorul, şi oile turmei vor fi risipite.`</verse>
+        <verse osisID='Matt.26.32'>Dar, după ce voi învia, voi merge înaintea voastră în Galilea.``</verse>
+        <verse osisID='Matt.26.33'>Petru a luat cuvîntul, şi I -a zis: ,,Chiar dacă toţi ar găsi în Tine o pricină de poticnire, eu niciodată nu voi găsi în Tine o pricină de poticnire.``</verse>
+        <verse osisID='Matt.26.34'>,,Adevărat îţi spun``, i -a zis Isus, ,,că tu, chiar în noaptea aceasta, înainte ca să cînte cocoşul, te vei lepăda de Mine de trei ori.``</verse>
+        <verse osisID='Matt.26.35'>Petru I -a răspuns: ,,Chiar dacă ar trebui să mor cu Tine, tot nu mă voi lepăda de Tine.`` Şi toţi ucenicii au spus acelaş lucru.</verse>
+        <verse osisID='Matt.26.36'>Atunci Isus a venit cu ei într'un loc îngrădit, numit Ghetsimani, şi a zis ucenicilor: ,,Şedeţi aici pînă Mă voi duce colo să Mă rog.``</verse>
+        <verse osisID='Matt.26.37'>A luat cu El pe Petru şi pe cei doi fii ai lui Zebedei, şi a început să Se întristeze şi să se mîhnească foarte tare.</verse>
+        <verse osisID='Matt.26.38'>Isus le -a zis atunci: ,,Sufletul Meu este cuprins de o întristare de moarte; rămîneţi aici, şi vegheaţi împreună cu Mine.``</verse>
+        <verse osisID='Matt.26.39'>Apoi a mers puţin mai înainte, a căzut cu faţa la pămînt, şi S'a rugat, zicînd: ,,Tată, dacă este cu putinţă, depărtează dela Mine paharul acesta! Totuş nu cum voiesc Eu, ci cum voieşti Tu.``</verse>
+        <verse osisID='Matt.26.40'>Apoi a venit la ucenici, i -a găsit dormind, şi a zis lui Petru: ,,Ce, un ceas n'aţi putut să vegheaţi împreună cu Mine!</verse>
+        <verse osisID='Matt.26.41'>Vegheaţi şi rugaţi-vă, ca să nu cădeţi în ispită; duhul, în adevăr, este plin de rîvnă, dar carnea este neputincioasă.``</verse>
+        <verse osisID='Matt.26.42'>S'a depărtat a doua oară, şi S'a rugat, zicînd: ,,Tată, dacă nu se poate să se îndepărteze de Mine paharul acesta, fără să -l beau, facă-se voia Ta!``</verse>
+        <verse osisID='Matt.26.43'>S'a întors iarăş la ucenici, şi i -a găsit dormind; pentrucă li se îngreuiaseră ochii de somn.</verse>
+        <verse osisID='Matt.26.44'>I -a lăsat din nou, S'a depărtat, şi S'a rugat a treia oară, zicînd aceleaşi cuvinte.</verse>
+        <verse osisID='Matt.26.45'>Apoi a venit la ucenici, şi le -a zis: ,,Dormiţi de acum şi odihniţi-vă!.. Iată că a venit ceasul ca Fiul omului să fie dat în mînile păcătoşilor.</verse>
+        <verse osisID='Matt.26.46'>Sculaţi-vă, haidem să mergem; iată că se apropie vînzătorul.``</verse>
+        <verse osisID='Matt.26.47'>Pe cînd vorbea El încă, iată că vine Iuda, unul din cei doisprezece, cu o gloată mare, cu săbii şi cu ciomege, trimeşi de preoţii cei mai de seamă şi de bătrînii norodului.``</verse>
+        <verse osisID='Matt.26.48'>Vînzătorul le dăduse semnul acesta: ,,Pe care -l voi săruta eu, acela este; să puneţi mîna pe el!``</verse>
+        <verse osisID='Matt.26.49'>Îndată, Iuda s'a apropiat de Isus, şi I -a zis: ,,Plecăciune, Învăţătorule!`` Şi L -a sărutat.</verse>
+        <verse osisID='Matt.26.50'>Isus i -a zis: ,,Prietene, ce ai venit să faci, fă!`` Atunci oamenii aceia s'au apropiat, au pus mînile pe Isus, şi L-au prins.</verse>
+        <verse osisID='Matt.26.51'>Şi unul din ceice erau cu Isus, a întins mîna, a scos sabia, a lovit pe robul marelui preot, şi i -a tăiat urechea.</verse>
+        <verse osisID='Matt.26.52'>Atunci Isus i -a zis: ,,Pune-ţi sabia la locul ei; căci toţi ceice scot sabia, de sabie vor pieri.</verse>
+        <verse osisID='Matt.26.53'>Crezi că n'aş putea să rog pe Tatăl Meu, care Mi-ar pune îndată la îndemînă mai mult de douăsprezece legiuni de îngeri?</verse>
+        <verse osisID='Matt.26.54'>Dar cum se vor împlini Scripturile, cari zic că aşa trebuie să se întîmple?``</verse>
+        <verse osisID='Matt.26.55'>În clipa aceea, Isus a zis gloatelor: ,,Aţi ieşit ca după un tîlhar, cu săbii şi cu ciomege, ca să Mă prindeţi. În toate zilele şedeam în mijlocul vostru, şi învăţam norodul în Templu, şi n'aţi pus mîna pe Mine.</verse>
+        <verse osisID='Matt.26.56'>Dar toate aceste lucruri s'au întîmplat ca să se împlinească cele scrise prin prooroci.`` Atunci toţi ucenicii L-au părăsit şi au fugit.</verse>
+        <verse osisID='Matt.26.57'>Ceice au prins pe Isus, L-au dus la marele preot Caiafa, unde erau adunaţi cărturarii şi bătrînii.</verse>
+        <verse osisID='Matt.26.58'>Petru L -a urmat de departe, pînă la curtea marelui preot; apoi a intrat înlăuntru, şi a şezut jos cu aprozii, ca să vadă sfîrşitul.</verse>
+        <verse osisID='Matt.26.59'>Preoţii cei mai de seamă, bătrînii şi tot Soborul căutau vre -o mărturie mincinoasă împotriva lui Isus, ca să -L poată omorî.</verse>
+        <verse osisID='Matt.26.60'>Dar n'au găsit niciuna, măcar că s'au înfăţişat mulţi martori mincinoşi. La urmă au venit doi,</verse>
+        <verse osisID='Matt.26.61'>şi au spus: Acesta a zis: ,,Eu pot să stric Templul lui Dumnezeu şi să -l zidesc iarăş în trei zile.``</verse>
+        <verse osisID='Matt.26.62'>Marele preot s'a sculat în picioare, şi I -a zis: ,,Nu răspunzi nimic? Ce mărturisesc aceştia împotriva Ta?``</verse>
+        <verse osisID='Matt.26.63'>Isus tăcea. Şi marele preot a luat cuvîntul şi I -a zis: ,,Te jur, pe Dumnezeul cel viu, să ne spui dacă eşti Hristosul, Fiul lui Dumnezeu.``</verse>
+        <verse osisID='Matt.26.64'>,,Da``, i -a răspuns Isus, ,,sînt! ,,Ba mai mult, vă spun că de acum încolo veţi vedea pe Fiul omului şezînd la dreapta puterii lui Dumnezeu, şi venind pe norii cerului.``</verse>
+        <verse osisID='Matt.26.65'>Atunci marele preot şi -a rupt hainele, şi a zis: ,,A hulit! Ce nevoie mai avem de martori? Iată că acum aţi auzit hula Lui.</verse>
+        <verse osisID='Matt.26.66'>Ce credeţi?`` Ei au răspuns: ,,Este vinovat să fie pedepsit cu moartea.``</verse>
+        <verse osisID='Matt.26.67'>Atunci L-au scuipat în faţă, L-au bătut cu pumnii, şi L-au pălmuit,</verse>
+        <verse osisID='Matt.26.68'>zicînd: ,,Hristoase, prooroceşte-ne-cine Te -a lovit?``</verse>
+        <verse osisID='Matt.26.69'>Petru însă şedea afară în curte. O slujnică a venit la el, şi i -a zis: ,,Şi tu erai cu Isus Galileanul!``</verse>
+        <verse osisID='Matt.26.70'>Dar el s'a lepădat înaintea tuturor, şi i -a zis: ,,Nu ştiu ce vrei să zici.``</verse>
+        <verse osisID='Matt.26.71'>Cînd a ieşit în pridvor, l -a văzut o altă slujnică, şi a zis celor de acolo: ,,Şi acesta era cu Isus din Nazaret.``</verse>
+        <verse osisID='Matt.26.72'>El s'a lepădat iarăş, cu un jurămînt, şi a zis: ,,Nu cunosc pe omul acesta!``</verse>
+        <verse osisID='Matt.26.73'>Peste puţin, cei ce stăteau acolo, s'au apropiat, şi au zis lui Petru: ,,Nu mai încape îndoială că şi tu eşti unul din oamenii aceia, căci şi vorba te dă de gol.``</verse>
+        <verse osisID='Matt.26.74'>Atunci el a început să se blastăme şi să se jure, zicînd: ,,Nu cunosc pe omul acesta!`` În clipa aceea a cîntat cocoşul.</verse>
+        <verse osisID='Matt.26.75'>Şi Petru şi -a adus aminte de vorba, pe care i -o spusese Isus: ,,Înainte ca să cînte cocoşul, te vei lepăda de Mine de trei ori.`` Şi a ieşit afară şi a plîns cu amar.</verse>
+      </chapter>
+      <chapter osisID='Matt.27'>
+        <verse osisID='Matt.27.1'>Cînd s'a făcut ziuă, toţi preoţii cei mai de seamă şi bătrînii norodului au ţinut sfat împotriva lui Isus, ca să -L omoare.</verse>
+        <verse osisID='Matt.27.2'>După ce L-au legat, L-au dus şi L-au dat în mîna dregătorului Pilat din Pont.</verse>
+        <verse osisID='Matt.27.3'>Atunci Iuda, vînzătorul, cînd a văzut că Isus a fost osîndit la moarte, s'a căit, a dus înapoi cei treizeci de arginţi, i -a dat preoţilor celor mai de seamă şi bătrînilor,</verse>
+        <verse osisID='Matt.27.4'>şi a zis: ,,Am păcătuit, căci am vîndut sînge nevinovat.`` ,,Ce ne pasă nouă?`` i-au răspuns ei. ,,Treaba ta.``</verse>
+        <verse osisID='Matt.27.5'>Iuda a aruncat arginţii în Templu, şi s'a dus de s'a spînzurat.</verse>
+        <verse osisID='Matt.27.6'>Preoţii cei mai de seamă au strîns arginţii, şi au zis: ,,Nu este îngăduit să -i punem în vistieria Templului, fiindcă sînt preţ de sînge.``</verse>
+        <verse osisID='Matt.27.7'>Şi dupăce s'au sfătuit, au cumpărat cu banii aceia ,,Ţarina olarului,`` ca loc pentru îngroparea străinilor.</verse>
+        <verse osisID='Matt.27.8'>Iată de ce ţarina aceea a fost numită pînă în ziua de azi: ,,Ţarina sîngelui.``</verse>
+        <verse osisID='Matt.27.9'>Atunci s'a împlinit ce fusese vestit prin proorocul Ieremia, care zice: ,,Au luat cei treizeci de arginţi, preţul celui preţuit, pe care l-au preţuit unii din fiii lui Israel;</verse>
+        <verse osisID='Matt.27.10'>şi i-au dat pe Ţarina olarului, după cum îmi poruncise Domnul.``</verse>
+        <verse osisID='Matt.27.11'>Isus S'a înfăţişat înaintea dregătorului. Dregătorul L -a întrebat: ,,Eşti Tu ,Împăratul Iudeilor?`` ,,Da``, i -a răspuns Isus, ,,sînt.``</verse>
+        <verse osisID='Matt.27.12'>Dar n'a răspuns nimic la învinuirile preoţilor celor mai de seamă şi bătrînilor.</verse>
+        <verse osisID='Matt.27.13'>Atunci Pilat I -a zis: ,,N'auzi de cîte lucruri Te învinuiesc ei?``</verse>
+        <verse osisID='Matt.27.14'>Isus nu i -a răspuns la niciun cuvînt, aşa că se mira foarte mult dregătorul.</verse>
+        <verse osisID='Matt.27.15'>La fiecare praznic al Paştelor, dregătorul avea obicei să sloboadă norodului un întemniţat, pe care -l voiau ei.</verse>
+        <verse osisID='Matt.27.16'>Pe atunci aveau un întemniţat vestit, numit Baraba.</verse>
+        <verse osisID='Matt.27.17'>Cînd erau adunaţi la un loc, Pilat le -a zis: ,,Pe care voiţi să vi -l slobozesc? Pe Baraba sau pe Isus, care se numeşte Hristos?``</verse>
+        <verse osisID='Matt.27.18'>Căci ştia că din pizmă dăduseră pe Isus în mînile lui.</verse>
+        <verse osisID='Matt.27.19'>Pe cînd sta Pilat pe scaun la judecată, nevastă-sa a trimis să -i spună: ,,Să n'ai nimic a face cu neprihănitul acesta; căci azi am suferit mult în vis din pricina lui.``</verse>
+        <verse osisID='Matt.27.20'>Preoţii cei mai de seamă şi bătrînii au înduplecat noroadele să ceară pe Baraba, iar pe Isus să -L omoare.</verse>
+        <verse osisID='Matt.27.21'>Dregătorul a luat cuvîntul, şi le -a zis: ,,Pe care din amîndoi voiţi să vi -l slobozesc?`` ,,Pe Baraba``, au răspuns ei.</verse>
+        <verse osisID='Matt.27.22'>Pilat le -a zis: ,,Dar ce să fac cu Isus, care se numeşte Hristos?`` ,,Să fie răstignit``, i-au răspuns cu toţii.</verse>
+        <verse osisID='Matt.27.23'>Dregătorul a zis: ,,Dar ce rău a făcut?`` Ei au început să strige şi mai tare: ,,Să fie răstignit!``</verse>
+        <verse osisID='Matt.27.24'>Cînd a văzut Pilat că n'ajunge la nimic, ci că se face mai multă zarvă, a luat apă, şi -a spălat mînile înaintea norodului, şi a zis: ,,Eu sînt nevinovat de sîngele neprihănitului acestuia. Treaba voastră!``</verse>
+        <verse osisID='Matt.27.25'>Şi tot norodul a răspuns: ,,Sîngele Lui să fie asupra noastră şi asupra copiilor noştri.``</verse>
+        <verse osisID='Matt.27.26'>Atunci Pilat le -a slobozit pe Baraba; iar pe Isus, dupăce a pus să -L bată cu nuiele, L -a dat în mînile lor, ca să fie răstignit.</verse>
+        <verse osisID='Matt.27.27'>Ostaşii dregătorului au dus pe Isus în pretoriu, şi au adunat în jurul Lui toată ceata ostaşilor.</verse>
+        <verse osisID='Matt.27.28'>L-au desbrăcat de hainele Lui, şi L-au îmbrăcat cu o haină stacojie.</verse>
+        <verse osisID='Matt.27.29'>Au împletit o cunună de spini, pe care I-au pus -o pe cap, şi I-au pus o trestie în mîna dreaptă. Apoi îngenuncheau înaintea Lui, îşi băteau joc de El, şi ziceau: ,,Plecăciune, Împăratul Iudeilor!``</verse>
+        <verse osisID='Matt.27.30'>Şi scuipau asupra Lui, şi luau trestia şi -L băteau în cap.</verse>
+        <verse osisID='Matt.27.31'>Dupăce şi-au bătut astfel joc de El, L-au desbrăcat de haina stacojie, L-au îmbrăcat cu hainele Lui, şi L-au dus să -L răstignească.</verse>
+        <verse osisID='Matt.27.32'>Pe cînd ieşeau afară din cetate, au întîlnit pe un om din Cirene numit Simon, şi l-au silit să ducă crucea lui Isus.</verse>
+        <verse osisID='Matt.27.33'>Cînd au ajuns la un loc numit Golgota, care înseamnă: ,,Locul căpăţînii``,</verse>
+        <verse osisID='Matt.27.34'>I-au dat să bea vin amestecat cu fiere; dar, cînd l -a gustat, n'a vrut să bea.</verse>
+        <verse osisID='Matt.27.35'>Dupăce L-au răstignit, I-au împărţit hainele între ei, trăgînd la sorţi, pentru ca să se împlinească ce fusese vestit prin proorocul care zice: ,,Şi-au împărţit hainele Mele între ei, şi pentru cămaşa Mea au tras la sorţi.``</verse>
+        <verse osisID='Matt.27.36'>Apoi au şezut jos, şi -L păzeau.</verse>
+        <verse osisID='Matt.27.37'>Şi I-au scris deasupra capului vina: ,,Acesta este Isus, Împăratul Iudeilor.``</verse>
+        <verse osisID='Matt.27.38'>Împreună cu El, au fost răstigniţi doi tîlhari: unul la dreapta şi celălalt la stînga Lui.</verse>
+        <verse osisID='Matt.27.39'>Trecătorii îşi băteau joc de El, dădeau din cap,</verse>
+        <verse osisID='Matt.27.40'>şi ziceau: ,,Tu, care strici Templul, şi -l zideşti la loc în trei zile, mîntuieşte-Te pe Tine însuţi! Dacă eşti Tu Fiul lui Dumnezeu, pogoară-Te de pe cruce!``</verse>
+        <verse osisID='Matt.27.41'>Preoţii cei mai de seamă, împreună cu cărturarii şi bătrînii, îşi băteau şi ei joc de El, şi ziceau:</verse>
+        <verse osisID='Matt.27.42'>,,Pe alţii i -a mîntuit iar pe Sine nu Se poate mîntui! Dacă este El Împăratul lui Israel, să Se pogoare acum de pe cruce, şi vom crede în El!</verse>
+        <verse osisID='Matt.27.43'>S'a încrezut în Dumnezeu: să -l scape acum Dumnezeu, dacă -L iubeşte. Căci a zis: ,Eu sînt Fiul lui Dumnezeu!``</verse>
+        <verse osisID='Matt.27.44'>Tîlharii cari erau răstigniţi împreună cu El, îi aruncau aceleaşi cuvinte de batjocură.</verse>
+        <verse osisID='Matt.27.45'>Dela ceasul al şaselea pînă la ceasul al nouălea s'a făcut întunerec peste toată ţara.</verse>
+        <verse osisID='Matt.27.46'>Şi pe la ceasul al nouălea, Isus a strigat cu glas tare: ,,Eli, Eli, Lama Sabactani?`` adică: ,,Dumnezeul Meu, Dumnezeul Meu, pentru ce M'ai părăsit?``</verse>
+        <verse osisID='Matt.27.47'>Unii din ceice stăteau acolo, cînd au auzit aceste vorbe, au zis: ,,Strigă pe Ilie!``</verse>
+        <verse osisID='Matt.27.48'>Şi îndată, unul din ei a alergat de a luat un burete, l -a umplut cu oţet, l -a pus într'o trestie, şi i -a dat să bea.</verse>
+        <verse osisID='Matt.27.49'>Dar ceilalţi ziceau: ,,Lasă, să vedem dacă va veni Ilie să -L mîntuiască.``</verse>
+        <verse osisID='Matt.27.50'>Isus a strigat iarăş cu glas tare, şi Şi -a dat duhul.</verse>
+        <verse osisID='Matt.27.51'>Şi îndată perdeaua dinlăuntrul Templului s'a rupt în două, de sus pînă jos, pămîntul s'a cutremurat, stîncile s'au despicat,</verse>
+        <verse osisID='Matt.27.52'>mormintele s'au deschis şi multe trupuri ale sfinţilor cari muriseră, au înviat.</verse>
+        <verse osisID='Matt.27.53'>Ei au ieşit din morminte, după învierea lui, au intrat în sfînta cetate, şi s'au arătat multora.</verse>
+        <verse osisID='Matt.27.54'>Sutaşul, şi ceice păzeau pe Isus împreună cu el, cînd au văzut cutremurul de pămînt şi cele întîmplate, s'au înfricoşat foarte tare, şi au zis: ,,Cu adevărat, acesta a fost Fiul lui Dumnezeu!``</verse>
+        <verse osisID='Matt.27.55'>Acolo erau şi multe femei, cari priveau de departe; ele urmaseră pe Isus din Galilea, ca să -I slujească.</verse>
+        <verse osisID='Matt.27.56'>Între ele era Maria Magdalina, Maria, mama lui Iacov şi a lui Iose, şi mama fiilor lui Zebedei.</verse>
+        <verse osisID='Matt.27.57'>Spre seară, a venit un om bogat din Arimatea, numit Iosif, care era şi el ucenic al lui Isus.</verse>
+        <verse osisID='Matt.27.58'>El s'a dus la Pilat, şi a cerut trupul lui Isus. Pilat a poruncit să i -l dea.</verse>
+        <verse osisID='Matt.27.59'>Iosif a luat trupul, l -a înfăşurat într'o pînză curată de in,</verse>
+        <verse osisID='Matt.27.60'>şi l -a pus într'un mormînt nou al lui însuş, pe care -l săpase în stîncă. Apoi a prăvălit o piatră mare la uşa mormîntului, şi a plecat.</verse>
+        <verse osisID='Matt.27.61'>Maria Magdalina şi cealaltă Marie erau acolo, şi şedeau în faţa mormîntului.</verse>
+        <verse osisID='Matt.27.62'>A doua zi care vine după ziua Pregătirii, preoţii cei mai de seamă şi Fariseii, s'au dus împreună la Pilat,</verse>
+        <verse osisID='Matt.27.63'>şi i-au zis: ,,Doamne, ne-am adus aminte că înşelătorul acela, pe cînd era încă în viaţă, a zis: ,După trei zile voi învia.`</verse>
+        <verse osisID='Matt.27.64'>Dă poruncă dar ca mormîntul să fie păzit bine pînă a treia zi, ca nu cumva să vină ucenicii Lui noaptea să -I fure trupul, şi să spună norodului: ,A înviat din morţi!` Atunci înşelăciunea aceasta din urmă ar fi mai rea decît cea dintîi.``</verse>
+        <verse osisID='Matt.27.65'>Pilat le -a zis: ,,Aveţi o strajă; duceţi-vă de păziţi cum puteţi.``</verse>
+        <verse osisID='Matt.27.66'>Ei au plecat, şi au întărit mormîntul, pecetluind piatra şi punînd strajă.``</verse>
+      </chapter>
+      <chapter osisID='Matt.28'>
+        <verse osisID='Matt.28.1'>La sfîrşitul zilei Sabatului, cînd începea să se lumineze în spre ziua dintîi a săptămînii, Maria Magdalina şi cealaltă Marie au venit să vadă mormîntul.</verse>
+        <verse osisID='Matt.28.2'>Şi iatăcă s'a făcut un mare cutremur de pămînt; căci un înger al Domnului s'a pogorît din cer, a venit şi a prăvălit piatra dela uşa mormîntului, şi a şezut pe ea.</verse>
+        <verse osisID='Matt.28.3'>Înfăţişarea lui era ca fulgerul, şi îmbrăcămintea lui albă ca zăpada.</verse>
+        <verse osisID='Matt.28.4'>Străjerii au tremurat de frica lui, şi au rămas ca nişte morţi.</verse>
+        <verse osisID='Matt.28.5'>Dar îngerul a luat cuvîntul, şi a zis femeilor: ,,Nu vă temeţi; căci ştiu că voi căutaţi pe Isus, care a fost răstignit.</verse>
+        <verse osisID='Matt.28.6'>Nu este aici; a înviat, după cum zisese. Veniţi de vedeţi locul unde zăcea Domnul;</verse>
+        <verse osisID='Matt.28.7'>şi duceţi-vă repede de spuneţi ucenicilor Lui că a înviat dintre cei morţi. Iată că El merge înaintea voastră în Galilea; acolo Îl veţi vedea. Iată că v'am spus lucrul acesta.``</verse>
+        <verse osisID='Matt.28.8'>Ele au plecat repede de la mormînt, cu frică şi cu mare bucurie, şi au alergat să dea de veste ucenicilor Lui.</verse>
+        <verse osisID='Matt.28.9'>Dar iată că le -a întîmpinat Isus, şi le -a zis: ,,Bucuraţi-vă!`` Ele s'au apropiat să -I cuprindă picioarele, şi I s'au închinat.</verse>
+        <verse osisID='Matt.28.10'>Atunci Isus le -a zis: ,,Nu vă temeţi; duceţi-vă de spuneţi fraţilor Mei să meargă în Galilea: acolo Mă vor vedea.``</verse>
+        <verse osisID='Matt.28.11'>Pe cînd se duceau ele, au intrat în cetate unii din străjeri, şi au dat de veste preoţilor celor mai de seamă despre toate cele întîmplate.</verse>
+        <verse osisID='Matt.28.12'>Aceştia s'au adunat împreună cu bătrînii, au ţinut sfat, au dat ostaşilor mulţi bani,</verse>
+        <verse osisID='Matt.28.13'>şi le-au zis: ,,Spuneţi aşa: ,Ucenicii Lui au venit noaptea, pe cînd dormeam noi, şi L-au furat.`</verse>
+        <verse osisID='Matt.28.14'>Şi dacă va ajunge lucrul acesta la urechile dregătorului, îl vom potoli noi, şi vă vom scăpa de grijă.``</verse>
+        <verse osisID='Matt.28.15'>Ostaşii au luat banii, şi au făcut cum i-au învăţat. Şi s'a răspîndit zvonul acesta printre Iudei pînă în ziua de astăzi.</verse>
+        <verse osisID='Matt.28.16'>Cei unsprezece ucenici s'au dus în Galilea, în muntele unde le poruncise Isus să meargă.</verse>
+        <verse osisID='Matt.28.17'>Cînd L-au văzut ei, I s'au închinat, dar unii s'au îndoit.</verse>
+        <verse osisID='Matt.28.18'>Isus S'a apropiat de ei, a vorbit cu ei, şi le -a zis: ,,Toată puterea Mi -a fost dată în cer şi pe pămînt.</verse>
+        <verse osisID='Matt.28.19'>Duceţi-vă şi faceţi ucenici din toate neamurile, botezîndu -i în Numele Tatălui şi al Fiului şi al Sfîntului Duh.</verse>
+        <verse osisID='Matt.28.20'>Şi învăţaţi -i să păzească tot ce v'am poruncit. Şi iată că Eu sînt cu voi în toate zilele, pînă la sfîrşitul veacului. Amin</verse>
+      </chapter>
+    </div></osisText>
+</osis>

@@ -1,0 +1,1096 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <osisText xml:lang='fr' osisRefWork='Bible' osisIDWork='KJF'>
+    <header>
+      <revisionDesc>
+        <date>2010-10-12</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='KJF'>
+        <title>King James Française</title>
+        <contributor/>
+        <creator>TextToZefania 1.0</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2010-10-10</date>
+        <description>Ce site chrétien fait l’apologie de la Bible King James anglaise et présente aux Francophones la seule traduction basée sur le Texte Massorétique Hébreu pour l’Ancien Testament et le Texte Reçu (Texte Majoritaire) Grec pour le Nouveau Testament. La Bible King James Française ne peut pas être la Bible des Réformateurs Francophones. La raison primordiale de cette traduction est de donner une Bible en français, basée sur ces mêmes manuscrits. Cette traduction de la Bible King James Française a commencé en 1994 et a abouti à la traduction complète de la Bible King James Française en 2006 !</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>KJF</identifier>
+        <source>http://www.kingjamesfrancaise.com/</source>
+        <language type='IETF'>fr</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Traduction en Français de la Bible King James par Nadine Stratford </rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='1Chr'>
+      <chapter osisID='1Chr.1'>
+        <verse osisID='1Chr.1.1'>Adam, Sheth, Enosh;</verse>
+        <verse osisID='1Chr.1.2'>Kenan, Mahalaleel, Jered;</verse>
+        <verse osisID='1Chr.1.3'>Henoch, Methuselah, Lamech;</verse>
+        <verse osisID='1Chr.1.4'>Noah (Noé), Shem (Sem), Ham (Cham) et Japheth.</verse>
+        <verse osisID='1Chr.1.5'>Les fils de Japheth: Gomer, et Magog, et Madai, et Javan, et Tubal, et Meshech et Tiras.</verse>
+        <verse osisID='1Chr.1.6'>Et les fils de Gomer: Ashchenaz, et Riphath et Togarmah.</verse>
+        <verse osisID='1Chr.1.7'>Et les fils de Javan: Elishah (Elisée), et Tarshish, Kittim et Dodanim.</verse>
+        <verse osisID='1Chr.1.8'>Les fils de Ham (Cham): Cush, et Mizraim, Put et Canaan.</verse>
+        <verse osisID='1Chr.1.9'>Et les fils de Cush: Seba, et Havilah, et Sabta, et Raamah et Sabtecha. Et les fils de Raamah Sheba et Dedan.</verse>
+        <verse osisID='1Chr.1.10'>Et Cush engendra Nimrod, lui commença à être puissant sur la terre.</verse>
+        <verse osisID='1Chr.1.11'>Et Mizraim engendra Ludim, et Anamin, et Lehabim, et Naphtuhim,</verse>
+        <verse osisID='1Chr.1.12'>Et Pathrusim, et Casluhim, (d’où sont sortis les Philistins), et Caphthorim.</verse>
+        <verse osisID='1Chr.1.13'>Et Canaan engendra Zidon (Sidon), son premier-né, et Heth,</verse>
+        <verse osisID='1Chr.1.14'>Le Jebusite aussi, et l’Amorite, et le Girgashite,</verse>
+        <verse osisID='1Chr.1.15'>Et le Hivite, et l’Arkite, et le Sinite,</verse>
+        <verse osisID='1Chr.1.16'>Et l’Arvadite, et le Zemarite et le Hamathite.</verse>
+        <verse osisID='1Chr.1.17'>Les fils de Shem (Sem): Elam, et Asshur (Assur), et Arphaxad, et Lud, et Aram, et Uz, et Hul, et Gether et Meshech.</verse>
+        <verse osisID='1Chr.1.18'>Et Arphaxad engendra Shelah; et Shelah engendra Eber.</verse>
+        <verse osisID='1Chr.1.19'>Et à Eber naquirent deux fils, le non de l’un était Peleg, parce qu’en ses jours la terre fut divisée; et le nom de son frère était Joktan.</verse>
+        <verse osisID='1Chr.1.20'>Et Joktan engendra Almodad, et Sheleph, et Hazarmaveth, et Jerah,</verse>
+        <verse osisID='1Chr.1.21'>Et Hadoram, et Uzal, et Diklah,</verse>
+        <verse osisID='1Chr.1.22'>Et Ebal, et Abimael, et Sheba,</verse>
+        <verse osisID='1Chr.1.23'>Et Ophir, et Havilah et Jobab. Tous ceux-là étaient les fils de Joktan.</verse>
+        <verse osisID='1Chr.1.24'>Shem (Sem), Arphaxad, Shelah,</verse>
+        <verse osisID='1Chr.1.25'>Eber, Peleg, Reu,</verse>
+        <verse osisID='1Chr.1.26'>Serug, Nahor, Terah,</verse>
+        <verse osisID='1Chr.1.27'>Abram, qui est Abraham.</verse>
+        <verse osisID='1Chr.1.28'>Les fils d’Abraham: Isaac et Ismaël.</verse>
+        <verse osisID='1Chr.1.29'>Ce sont leurs générations, le premier-né d’Ismaël: Nebaioth; puis Kedar, et Adbeel, et Mibsam,</verse>
+        <verse osisID='1Chr.1.30'>Mishma, et Dumah, Massa, Hadad, et Tema,</verse>
+        <verse osisID='1Chr.1.31'>Jetur, Naphish et Kedemah. Ce sont là, les fils d’Ismaël.</verse>
+        <verse osisID='1Chr.1.32'>Et les fils de Keturah, concubine d’Abraham, elle enfanta Zimran, et Jokshan, et Medan, et Midian (Madian), et Ishbak et Shuah. Et les fils de Jokshan: Sheba et Dedan.</verse>
+        <verse osisID='1Chr.1.33'>Et les fils de Midian (Madian): Ephah, et Epher, et Henoch, et Abida et Eldaah. Tous ceux-là sont les fils de Keturah.</verse>
+        <verse osisID='1Chr.1.34'>Et Abraham engendra Isaac. Les fils d’Isaac: Esaü et Israël.</verse>
+        <verse osisID='1Chr.1.35'>Les fils d’Esaü: Eliphaz, Reuel, et Jeush, etJaalam et Korah.</verse>
+        <verse osisID='1Chr.1.36'>Les fils d’Eliphaz: Teman, et Omar, Zephi, et Gatam, Kenaz, et Timna et Amalek.</verse>
+        <verse osisID='1Chr.1.37'>Les fils de Reuel: Nahath, Zerah, Shammah et Mizzah.</verse>
+        <verse osisID='1Chr.1.38'>Et les fils de Seir: Lotan, et Shobal, et Zibeon, et Anah, et Dishon, et Ezar et Dishan;</verse>
+        <verse osisID='1Chr.1.39'>Et les fils de Lotan: Hori et Homam; et Timna était sœur de Lotan.</verse>
+        <verse osisID='1Chr.1.40'>Les fils de Shobal: Alian, et Manahath, et Ebal, Shephi et Onam. Et les fils de Zibeon Aiah et Anah.</verse>
+        <verse osisID='1Chr.1.41'>Et les fils d’Anah: Dishon. Et les fils de Dishon: Amram, et Eshban, et Ithran et Cheran.</verse>
+        <verse osisID='1Chr.1.42'>Les fils d’Ezer: Bilhan, et Zavan et Jakan. Les fils de Dishon: Uz et Aran.</verse>
+        <verse osisID='1Chr.1.43'>Et ce sont ici les rois qui régnèrent dans le pays d’Edom, avant qu’aucun roi règne sur les enfants d’Israël Bela, le fils de Beor; et le nom de sa ville était Dinhabah.</verse>
+        <verse osisID='1Chr.1.44'>Et lorsque Bela mourut, Jobab, le fils de Zerah, de Bozrah, régna à sa place.</verse>
+        <verse osisID='1Chr.1.45'>Et quand Jobab mourut, Husham, du pays des Temanites régna à sa place.</verse>
+        <verse osisID='1Chr.1.46'>Et quand Husham mourut, Hadad, le fils de Bedad, qui frappa Midian (Madian) dans les champs de Moab, régna à sa place; et le nom de sa ville était Avith.</verse>
+        <verse osisID='1Chr.1.47'>Et quand Hadad mourut, Samlah de Masrekah régna à sa place.</verse>
+        <verse osisID='1Chr.1.48'>Et quand Samlah mourut, Shaul de Rehoboth, sur le fleuve, régna à sa place.</verse>
+        <verse osisID='1Chr.1.49'>Et quand Shaul mourut, Baalhanan, le fils d’Achbor régna à sa place.</verse>
+        <verse osisID='1Chr.1.50'>Et quand Baalhanan mourut, Hadad régna à sa place; et le nom de sa ville était Pai, et le nom de sa femme était Mehetabel, la fille de Matred, la fille de Mezahab.</verse>
+        <verse osisID='1Chr.1.51'>Hadad mourut aussi. Et les ducs d’Edom étaient duc Timnah, duc Aliah, duc Jetheth,</verse>
+        <verse osisID='1Chr.1.52'>Duc Aholibamah, duc Elah, duc Pinon,</verse>
+        <verse osisID='1Chr.1.53'>Duc Kenaz, ducTeman, duc Mibzar,</verse>
+        <verse osisID='1Chr.1.54'>Duc Magdiel, duc Iram. Ce sont là les ducs d’Edom.</verse>
+      </chapter>
+      <chapter osisID='1Chr.2'>
+        <verse osisID='1Chr.2.1'>Ce sont ici les fils d’Israël: Reuben (Ruben), Simeon, Levi (Lévi), Judah, Issachar, et Zebulun (Zabulon),</verse>
+        <verse osisID='1Chr.2.2'>Dan, Joseph, et Benjamin, Naphtali (Nephtali), Gad et Asher (Asser).</verse>
+        <verse osisID='1Chr.2.3'>Les fils de Judah: Er, et Onan et Shelah; ces trois lui naquirent de la fille de Shua, la Canaanite (Cananéenne). Et Er, le premier-né de Judah, était méchant à la vue du SEIGNEUR, et il le fit mourir.</verse>
+        <verse osisID='1Chr.2.4'>Et Tamar, sa belle-fille, lui enfanta Pharez et Zerah. Le nombre des fils de Judah était cinq.</verse>
+        <verse osisID='1Chr.2.5'>Les fils de Pharez: Hezron et Hamul.</verse>
+        <verse osisID='1Chr.2.6'>Et les fils de Zerah: Zimri, et Ethan, et Heman, et Calcol et Dara; cinq en tout.</verse>
+        <verse osisID='1Chr.2.7'>Et les fils de Carmi: Achar, qui troubla Israël, lorsqu’il transgressa la chose condamnée.</verse>
+        <verse osisID='1Chr.2.8'>Et les fils d’Ethan: Azariah.</verse>
+        <verse osisID='1Chr.2.9'>Et les fils qui naquirent à Hezron: Jerahmeel, et Ram et Chelubai.</verse>
+        <verse osisID='1Chr.2.10'>Et Ram engendra Amminadab; et Amminadab engendra Nahshon, prince des enfants de Judah.</verse>
+        <verse osisID='1Chr.2.11'>Et Nahshon engendra Salma. Et Salma engendra Boaz.</verse>
+        <verse osisID='1Chr.2.12'>Et Boaz engendra Obed, et Obed engendra Jesse.</verse>
+        <verse osisID='1Chr.2.13'>Et Jesse engendra son premier-né Eliab, et Abinadab le second, Shimma le troisième,</verse>
+        <verse osisID='1Chr.2.14'>Nethaneel le quatrième, Raddai le cinquième,</verse>
+        <verse osisID='1Chr.2.15'>Ozem le sixième, David le septième.</verse>
+        <verse osisID='1Chr.2.16'>Dont les sœurs étaient Zeruiah et Abigail. Et les fils de Zeruiah Abishai, et Joab et Asahel, trois.</verse>
+        <verse osisID='1Chr.2.17'>Et Abigail enfanta Amasa, et le père de Amasa était Jether, l’Ismaélite.</verse>
+        <verse osisID='1Chr.2.18'>Et Caleb, le fils de Hezron, engendra des enfants d’Azubah, sa femme, et de Jerioth, ses fils étaient Jesher, Shobab et Ardon.</verse>
+        <verse osisID='1Chr.2.19'>Et quand Azubah mourut, Caleb prit [pour femme] Ephrath, qui lui enfanta Hur.</verse>
+        <verse osisID='1Chr.2.20'>Et Hur engendra Uri, et Uri engendra Bezaleel.</verse>
+        <verse osisID='1Chr.2.21'>Et après cela, Hezron alla vers la fille de Machir, le père de Gilead (Galaad), qu’il épousa, étant âge de soixante ans; et elle lui enfanta Segub.</verse>
+        <verse osisID='1Chr.2.22'>Et Segub engendra Jair, qui eut vingt-trois villes au pays de Gilead (Galaad).</verse>
+        <verse osisID='1Chr.2.23'>Et il prit sur Geshur (Gueshur) et sur Aram les villes de Jair, ainsi que Kenath et les villes de son ressort c’est-à-dire soixante villes. Toutes celles-là appartenaient aux fils de Machir, le père de Gilead (Galaad).</verse>
+        <verse osisID='1Chr.2.24'>Et après la mort de Hezron, à Calebephrathah, Abiiah, femme de Hezron, lui enfanta Ashur, le père de Tekoa.</verse>
+        <verse osisID='1Chr.2.25'>Et les fils de Jerahmeel: le premier-né de Hezron, furent Ram, le premier-né, Bunah, et Oren et Ozem, et Ahijah.</verse>
+        <verse osisID='1Chr.2.26'>Jerahmeel eut une autre femme, dont le nom était Atarah, elle fut la mère d’Onam.</verse>
+        <verse osisID='1Chr.2.27'>Et les fils de Ram, le premier-né de Jerahmeel, furent Maaz, et Jamin et Eker.</verse>
+        <verse osisID='1Chr.2.28'>Et les fils d’Onam furent Shammai et Jada. Et les fils de Shammai: Nadab et Abishur.</verse>
+        <verse osisID='1Chr.2.29'>Et le nom de la femme d’Abishur était Abihail, et elle lui enfanta: Ahban et Molid.</verse>
+        <verse osisID='1Chr.2.30'>Et les fils de Nadab: Seled et Appaim. Seled mourut sans enfants.</verse>
+        <verse osisID='1Chr.2.31'>Et les fils d’Appaim: Ishi. Et les fils d’Ishi: Sheshan. Et les enfants de Sheshan, Ahlai.</verse>
+        <verse osisID='1Chr.2.32'>Et les fils de Jada, le frère de Shammai:Jether et Jonathan. Jether mourut sans enfants.</verse>
+        <verse osisID='1Chr.2.33'>Et les fils de Jonathan: Peleth et Zaza. Ce furent les enfants de Jerahmeel.</verse>
+        <verse osisID='1Chr.2.34'>Sheshan n’eut pas de fils, mais des filles. Et Il avait un serviteur, un égyptien, dont le nom était Jarha.</verse>
+        <verse osisID='1Chr.2.35'>Et Sheshan donna sa fille pour femme à Jarha, son serviteur, et elle lui enfanta Attai.</verse>
+        <verse osisID='1Chr.2.36'>Et Attai engendra Nathan, et Nathan engendra Zabad;</verse>
+        <verse osisID='1Chr.2.37'>Et Zabad engendra Ephlal, et Ephlal engendra Obed;</verse>
+        <verse osisID='1Chr.2.38'>Et Obed engendra Jehu, et Jehu engendra Azariah;</verse>
+        <verse osisID='1Chr.2.39'>Et Azariah engendra Helez, et Helez engendra Eleasah;</verse>
+        <verse osisID='1Chr.2.40'>Et Eleasah engendra Sisamai, et Sisamai engendra Shallum;</verse>
+        <verse osisID='1Chr.2.41'>Et Shallum engendra Jekamiah, et Jekamiah engendra Elishama.</verse>
+        <verse osisID='1Chr.2.42'>Or les fils de Caleb, le frère de Jerahmeel étaient Mesha, son premier-né, qui fut le père de Ziph, et les fils de Mareshah, le père d’Hebron.</verse>
+        <verse osisID='1Chr.2.43'>Et les fils d’Hebron: Korah, et Tappuah, et Rekem et Shema.</verse>
+        <verse osisID='1Chr.2.44'>Et Shema engendra Raham, le père de Jorkoam; et Rekem engendra Shammai.</verse>
+        <verse osisID='1Chr.2.45'>Et le fils de Shammai était Maon; et Maon fut le père de Bethzur.</verse>
+        <verse osisID='1Chr.2.46'>Et Ephah, concubine de Caleb, enfanta Haran, et Moza et Gazez; et Haran engendra Gazez.</verse>
+        <verse osisID='1Chr.2.47'>Et les fils de Jahdai: Regem, et Jotham, et Gesham, et Pelet, et Ephah et Shaaph.</verse>
+        <verse osisID='1Chr.2.48'>Maachah, concubine de Caleb, enfanta Sheber et Tirhanah.</verse>
+        <verse osisID='1Chr.2.49'>Elle enfanta aussi Shaaph, le père de Madmannah, Sheva, le père de Machbenah et le père de Gibea; et la fille de Caleb était Achsa.</verse>
+        <verse osisID='1Chr.2.50'>Ceux-ci furent les fils de Caleb, le fils de Hur: Shobal, le premier-né d’Ephratah, et père de Kirjathjearim;</verse>
+        <verse osisID='1Chr.2.51'>Salma, lé père de Bethlehem; Hareph, le père de Bethgader.</verse>
+        <verse osisID='1Chr.2.52'>Et Shobal, le père de Kirjathjearim, eut des fils: Haroeh, et la moitié des Manahethites.</verse>
+        <verse osisID='1Chr.2.53'>Et les familles de Kirjathjearim, les Ithrites, et les Puhites, et les Shumathites et les Mishraites; d’eux viennent les Zareathites et les Eshtaulites.</verse>
+        <verse osisID='1Chr.2.54'>Les fils de Salma: Bethlehem et les Netophathites, Ataroth, la maison de Joab, et la moitié des Manahethites, les Zorites,</verse>
+        <verse osisID='1Chr.2.55'>Et les familles des scribes qui demeuraient à Jabez, les Tirathites, les Shimeathites, et les Suchathites. Ce sont les Kenites, qui sont sortis de Hemath, le père de la maison de Rechab.</verse>
+      </chapter>
+      <chapter osisID='1Chr.3'>
+        <verse osisID='1Chr.3.1'>Maintenant ceux-ci firent les fils de David, qui lui naquirent à Hebron le premier-né, Amnon, d’Ahinoam, la Jezreelite; le second, Daniel, d’Abigail, la Carmelite;</verse>
+        <verse osisID='1Chr.3.2'>Le troisième, Absalom, le fils de Maachah, la fille de Talmai, roi de Geshur; le quatrième, Adonijah, le fils de Haggith;</verse>
+        <verse osisID='1Chr.3.3'>Le cinquième, Shephatiah, d’Abital; le sixième, Ithream, d’Eglah, sa femme.</verse>
+        <verse osisID='1Chr.3.4'>Ces six lui naquirent à Hebron, où il régna sept ans et six mois; et il régna trente-trois ans à Jérusalem.</verse>
+        <verse osisID='1Chr.3.5'>Et ceux-ci lui naquirent à Jérusalem Shimeah, et Shobab, et Nathan, et Salomon, quatre, de Bathshua, la fille d’Ammiel;</verse>
+        <verse osisID='1Chr.3.6'>Ibhar aussi, et Elishama, et Eliphelet,</verse>
+        <verse osisID='1Chr.3.7'>Et Nogah, et Nepheg, et Japhia,</verse>
+        <verse osisID='1Chr.3.8'>Et Elishama, et Eliada et Eliphelet, neuf.</verse>
+        <verse osisID='1Chr.3.9'>Ce sont tous les fils de David, outre les fils des concubines; et Tamar était leur sœur.</verse>
+        <verse osisID='1Chr.3.10'>Et le fils de Salomon était Roboam, Abia son fils, Asa son fils, Jehoshaphat son fils,</verse>
+        <verse osisID='1Chr.3.11'>Joram son fils, Ahaziah son fils, Joash son fils,</verse>
+        <verse osisID='1Chr.3.12'>Amaziah (Amatsia) son fils, Azariah sont fils, Jotham son fils,</verse>
+        <verse osisID='1Chr.3.13'>Ahaz son fils, Hezekiah (Ézéchias) son fils, Manasseh (Manassé) son fils,</verse>
+        <verse osisID='1Chr.3.14'>Amon son fils, Josiah son fils.</verse>
+        <verse osisID='1Chr.3.15'>Et les fils de Josiah étaient le premier-né Johanan; le second, Jehoiakim; le troisième, Zedekiah (Sédécias); le quatrième, Shallum.</verse>
+        <verse osisID='1Chr.3.16'>Et les fils de Jehoiakim: Jeconiah, son fils; Zedekiah (Sédécias), son fils.</verse>
+        <verse osisID='1Chr.3.17'>Et les fils de Jeconiah: Assir; Salathiel, son fils,</verse>
+        <verse osisID='1Chr.3.18'>Malchiram aussi, et Pedaiah, et Shenazar, Jecamiah, Hoshama et Nedabiah.</verse>
+        <verse osisID='1Chr.3.19'>Et les fils de Pedaiah étaient Zerubbabel et Shimei; et les fils de Zerubbabel Meshullam et Hananiah; et Shelomith, leur sœur;</verse>
+        <verse osisID='1Chr.3.20'>Et Hashubah, et Ohel, et Berechiah, et Hasadiah, Jushabhesed, cinq.</verse>
+        <verse osisID='1Chr.3.21'>Et les fils de Hananiah: Pelatiah et Jesaiah; les fils de Rephaiah, les fils d’Arnan, les fils d’Obadiah (Abdias), les fils de Shechaniah.</verse>
+        <verse osisID='1Chr.3.22'>Et les fils de Shechaniah: Shemaiah; et les fils de Shemaiah: Hattush, et Igeal, et Bariah, et Neariah et Shaphat, six.</verse>
+        <verse osisID='1Chr.3.23'>Et les fils de Neariah: Elioenai, et Hezekiah (Ézéchias) et Azrikam, trois.</verse>
+        <verse osisID='1Chr.3.24'>Et les fils d’Elioenai étaient Hodaiah, et Eliashib, et Pelaiah, et Akkub, et Johanan, et Dalaiah et Anani, sept.</verse>
+      </chapter>
+      <chapter osisID='1Chr.4'>
+        <verse osisID='1Chr.4.1'>Les fils de Judah: Pharez, Hezron, et Carmi, et Hur et Shobal.</verse>
+        <verse osisID='1Chr.4.2'>Et Reaiah, le fils de Shobal, engendra Jahath; et Jahath engendra Ahumai et Lahad. Ce sont les familles des Zorathites.</verse>
+        <verse osisID='1Chr.4.3'>Et ceux-ci étaient issus du père d’Etam: Jezreel, et Ishma et Idbash; et le nom de leur sœur était Hazelelponi;</verse>
+        <verse osisID='1Chr.4.4'>Et Penuel, le père de Gedor, et Ezer, le père de Hushah. Ce sont là les fils de Hur, le premier-né d’Ephratah, le père de Bethlehem.</verse>
+        <verse osisID='1Chr.4.5'>Et Ashur, le père de Tekoa, eut deux femmes Helah et Naarah.</verse>
+        <verse osisID='1Chr.4.6'>Et Naarah lui enfanta Ahuzam, et Hepher, et Temeni et Haahashtari. Ce sont là les fils de Naarah.</verse>
+        <verse osisID='1Chr.4.7'>Et les fils de Helah étaient Zereth, et Jezoar et Ethnan.</verse>
+        <verse osisID='1Chr.4.8'>Et Coz engendra Anub et Zobebah, et les familles d’Aharhel, le fils d’Harum.</verse>
+        <verse osisID='1Chr.4.9'>Et Jabez était plus estimé que ses frères; et sa mère l’avait appelé du nom de Jabez, disant: Parce que je l’ai enfanté avec douleur.</verse>
+        <verse osisID='1Chr.4.10'>Et Jabez appela le Dieu d’Israël, disant: Oh si tu voulais indubitablement me bénir et agrandir mon territoire; et que ta main puisse être avec moi, et si tu voulais me préserver du mal, en sorte que je ne sois pas affligé! Et Dieu lui accorda ce qu’il avait demandé.</verse>
+        <verse osisID='1Chr.4.11'>Et Chelub, le frère de Shuah, engendra Mehir, qui était le père d’Eshton.</verse>
+        <verse osisID='1Chr.4.12'>Et Eshton engendra Bethrapha, et Paseah, et Tehinnah, le père de Irnahash. Ce sont là les hommes de Rechah.</verse>
+        <verse osisID='1Chr.4.13'>Et les fils de Kenaz: Othniel et Seraiah; et les fils d’Othniel: Hathath.</verse>
+        <verse osisID='1Chr.4.14'>Et Meonothai engendra Ophrah; et Seraiah engendra Joab, le père de la vallée des Charashim; car ils étaient artisans.</verse>
+        <verse osisID='1Chr.4.15'>Et les fils de Caleb, le fils de Jephunneh: Iru, Elah et Naam, et les fils d’Elah, Kenaz.</verse>
+        <verse osisID='1Chr.4.16'>Et les fils de Jehaleleel: Ziph, et Ziphah, Tiria et Asareel.</verse>
+        <verse osisID='1Chr.4.17'>Et les fils d’Ezra (Esdras) étaient Jether, et Mered, et Epher et Jalon; et elle enfanta Miriam, et Shammai, et Ishbah, le père d’Eshtemoa.</verse>
+        <verse osisID='1Chr.4.18'>Et sa femme Jehudijah enfanta Jered, le père de Gedor, et Heber, le père de Socho, et Jekuthiel, le père de Zanoah. Et ceux-là sont les fils de Bithiah, la fille de Pharaon, que Mered prit [pour femme].</verse>
+        <verse osisID='1Chr.4.19'>Et les fils de sa femme Hodiah, la sœur de Naham le père de Keilah, le Garmite, et Eshtemoa, le Maachathite.</verse>
+        <verse osisID='1Chr.4.20'>Et les fils de Shimon étaient Amnon, et Rinnah, Benhanan et Tilon. Et les fils d’Ishi étaient Zoheth et Benzoheth.</verse>
+        <verse osisID='1Chr.4.21'>Et les fils de Shelah, le fils de Judah étaient Er, le père de Lecah, et Laadah, le père de Mareshah, et les familles de la maison de ceux qui travaillaient le lin fin, de la maison d’Ashbea,</verse>
+        <verse osisID='1Chr.4.22'>Et Jokim, et les hommes de Chozeba, et Joash et Saraph, qui avaient la domination sur Moab, et Jashubilehem. Et ce sont des choses anciennes.</verse>
+        <verse osisID='1Chr.4.23'>C’étaient les potiers et ceux qui demeuraient parmi les plantations et les haies; ils demeuraient là auprès du roi pour son ouvrage.</verse>
+        <verse osisID='1Chr.4.24'>Les fils de Simeon étaient Nemuel, et Jamin, Jarib, Zerah, et Shaul;</verse>
+        <verse osisID='1Chr.4.25'>Shallum, son fils, Mibsam, son fils, et Mishma, son fils.</verse>
+        <verse osisID='1Chr.4.26'>Et les fils de Mishma: Hamuel, son fils; Zacchur, son fils; Shimei, son fils.</verse>
+        <verse osisID='1Chr.4.27'>Et Shimei eut seize fils et six filles; mais ses frères n’eurent pas beaucoup d’enfants, et toutes leurs familles ne se multiplièrent pas autant que les enfants de Judah.</verse>
+        <verse osisID='1Chr.4.28'>Et ils demeurèrent à Beersheba, et à Moladah, et à Hazarshual,</verse>
+        <verse osisID='1Chr.4.29'>Et à Bilhah, et à Ezem, et à Tolad,</verse>
+        <verse osisID='1Chr.4.30'>Et à Bethuel, et à Hormah, et à Ziklag,</verse>
+        <verse osisID='1Chr.4.31'>Et à Bethmarcaboth, et à Hazarsusim, et à Bethbirei et à Shaaraim. Ce furent leurs villes jusqu’au règne de David.</verse>
+        <verse osisID='1Chr.4.32'>Et leurs villages furent Etam, et Ain, Rimmon, et Tochen et Ashan, cinq villes;</verse>
+        <verse osisID='1Chr.4.33'>Et tous leurs villages, qui étaient autour de ces villes, jusqu’à Baal. C’étaient leurs habitations et leur généalogie.</verse>
+        <verse osisID='1Chr.4.34'>Et Meshobab, et Jamlech, et Joshah, le fils d’Amaziah (Amatsia);</verse>
+        <verse osisID='1Chr.4.35'>Et Joël, et Jehu, le fils de Josibiah, le fils de Seraiah, le fils d’Asiel;</verse>
+        <verse osisID='1Chr.4.36'>Et Elioenai, et Jaakobah, et Jeshohaiah, et Asaiah, et Adiel, et Jesimiel, et Benaiah;</verse>
+        <verse osisID='1Chr.4.37'>Et Ziza, le fils de Shiphi, le fils d’Allon, le fils de Jedaiah, le fils de Shimri, le fils de Shemaiah.</verse>
+        <verse osisID='1Chr.4.38'>Ceux-là, mentionnés par leurs noms, étaient princes dans leurs familles, et la maison de leurs pères s’accrut beaucoup.</verse>
+        <verse osisID='1Chr.4.39'>Et ils allèrent à l’entrée de Gedor, c’est-à-dire jusqu’au côté Est de la vallée, pour chercher des pâturages pour leurs troupeaux.</verse>
+        <verse osisID='1Chr.4.40'>Et ils trouvèrent des pâturages gras et bons, et le pays était spacieux, et tranquille et paisible; car ceux qui étaient demeurés là auparavant étaient de Ham (Cham).</verse>
+        <verse osisID='1Chr.4.41'>Et ceux-ci écrits par noms, vinrent aux jours d’Hezekiah, roi de Judah, et ils frappèrent leurs tentes et les habitations qui se trouvaient là, et les détruisirent entièrement jusqu’à ce jour, et ils demeurèrent à leur place, parce qu’il y avait là des pâturages pour leurs troupeaux.</verse>
+        <verse osisID='1Chr.4.42'>Et quelques-uns d’entre eux, des fils de Simeon, cinq-cents hommes, allèrent au mont Seir, ayant pour leurs capitaines Pelatiah, et Neariah, et Rephaiah et Uzziel, les fils de Ishi.</verse>
+        <verse osisID='1Chr.4.43'>Et ils frappèrent le reste des Amalekites qui s’étaient échappés, et ils sont demeurés là jusqu’à ce jour.</verse>
+      </chapter>
+      <chapter osisID='1Chr.5'>
+        <verse osisID='1Chr.5.1'>Or les fils de Reuben (Ruben), le premier-né d’Israël (car il était le premier-né; mais parce qu’il avait souillé le lit de son père, son droit d’aînesse fut donné aux fils de Joseph, le fils d’Israël; et la généalogie ne sera pas reconnue selon le droit d’aînesse.</verse>
+        <verse osisID='1Chr.5.2'>Car Judah prévalut sur ses frères, et de lui est sorti le principal dirigeant; mais le droit d’aînesse était à Joseph).</verse>
+        <verse osisID='1Chr.5.3'>Les fils dis-je, de Reuben (Ruben), le premier-né d’Israël étaient Hanoch, et Pallu, Hezron et Carmi.</verse>
+        <verse osisID='1Chr.5.4'>Les fils de Joël: Shemaiah, son fils, Gog, son fils, Shimei, son fils,</verse>
+        <verse osisID='1Chr.5.5'>Micah, son fils, Reaia, son fils, Baal, son fils,</verse>
+        <verse osisID='1Chr.5.6'>Beerah, son fils, que Tilgathpilneser, roi d’Assyrie, emmena captif; lui était prince des Reubenites (Rubénites).</verse>
+        <verse osisID='1Chr.5.7'>Et ses frères, selon leurs familles, quand la généalogie de leurs générations fut comptée, avaient pour chefs Jeiel, et Zechariah;</verse>
+        <verse osisID='1Chr.5.8'>Et Bela, le fils d’Azaz, le fils de Shema, le fils de Joël, lui demeurait à Aroer, et jusqu’à Nebo et Baalmeon;</verse>
+        <verse osisID='1Chr.5.9'>Et vers l’Est, il habitait jusqu’à l’entrée du désert, depuis la rivière Euphrate, parce que son bétail s’était multiplié dans le pays de Gilead (Galaad).</verse>
+        <verse osisID='1Chr.5.10'>Et aux jours de Saul, ils firent la guerre aux Hagarites, qui tombèrent par leur main; et ils demeurèrent dans leurs tentes, dans tout le pays à l’est de Gilead (Galaad).</verse>
+        <verse osisID='1Chr.5.11'>Et les enfants de Gad demeurèrent en face d’eux dans le pays de Bashan, jusqu’à Salcah.</verse>
+        <verse osisID='1Chr.5.12'>Joël, le chef, et Shapham, le suivant, et Jaanai et Shaphat en Bashan.</verse>
+        <verse osisID='1Chr.5.13'>Et leurs frères, selon la maison de leurs pères, étaient Michael, et Meshullam, et Sheba, et Jorai, et Jachan, et Zia et Heber, sept.</verse>
+        <verse osisID='1Chr.5.14'>Ceux-ci sont les enfants d’Abihail, le fils de Huri, le fils de Jaroah, le fils de Gilead (Galaad), fils de Michael, le fils de Jeshishai, le fils de Jahdo, le fils de Buz.</verse>
+        <verse osisID='1Chr.5.15'>Ahi, le fils d’Abdiel, le fils de Guni, chef de la maison de leurs pères.</verse>
+        <verse osisID='1Chr.5.16'>Et ils demeuraient en Gilead (Galaad), en Bashan, et dans les villes de leur ressort, et dans tous les faubourgs de Sharon, jusqu’à leurs frontières.</verse>
+        <verse osisID='1Chr.5.17'>Ils furent tous enregistrés dans les généalogies aux jours de Jotham, roi de Judah, et aux jours de Jeroboam, roi d’Israël.</verse>
+        <verse osisID='1Chr.5.18'>Les fils de Reuben (Ruben), et les Gadites: et la demi-tribu de Manasseh (Manassé), parmi les vaillants hommes, portant le bouclier et l’épée, et tirant de l’arc, et habiles pour la guerre, étaient de quarante-quatre mille sept cent soixante, qui allaient à la guerre.</verse>
+        <verse osisID='1Chr.5.19'>Et ils firent la guerre contre les Hagarites, contre Jetur, et Nephish et Nodab.</verse>
+        <verse osisID='1Chr.5.20'>Et ils furent aidés contre eux, et les Hagarites, et tous ceux qui étaient avec eux, furent livrés en leur main; car ils crièrent vers Dieu dans la bataille, et ils le firent fléchir, parce qu’ils avaient mis leur confiance en lui;</verse>
+        <verse osisID='1Chr.5.21'>Et ils prirent leur bétail, cinquante mille chameaux, deux cent cinquante mille brebis, deux mille ânes, et en hommes, cent mille.</verse>
+        <verse osisID='1Chr.5.22'>Car il en tomba morts un grand nombre, parce que la guerre était de Dieu. Et ils demeurèrent à leur place jusqu’à la captivité.</verse>
+        <verse osisID='1Chr.5.23'>Et les enfants de la demi-tribu de Manasseh (Manassé) demeurèrent dans le pays; ils s’accrurent depuis Bashan jusqu’à Baalhermon et à Senir, et au mont Hermon.</verse>
+        <verse osisID='1Chr.5.24'>Et ce sont ici les chefs de la maison de leurs pères c’est-à-dire Epher, et Ishi, et Eliel, et Azriel, et Jeremiah (Jérémie), et Hodaviah et Jahdiel, hommes puissants et vaillants, hommes de renom, et chefs de la maison de leurs pères.</verse>
+        <verse osisID='1Chr.5.25'>Et ils transgressèrent contre le Dieu de leurs pères, et ils se prostituèrent après les dieux des peuples du pays, que le SEIGNEUR avait détruits devant eux.</verse>
+        <verse osisID='1Chr.5.26'>Et le Dieu d'Israël excita l’esprit de Pul, roi d’Assyrie, et l’esprit de Tilgathpilneser, roi d’Assyrie, et il transporta les Reubenites (Rubénites), les Gadites: et la demi-tribu de Manasseh (Manassé), et les emmena à Halah, et à Habor, et à Hara, et à la rivière Gozan, où ils sont demeures jusqu’à ce jour.</verse>
+      </chapter>
+      <chapter osisID='1Chr.6'>
+        <verse osisID='1Chr.6.1'>Les fils de Levi (Lévi): Gershon (Guershon), Kohath et Merari.</verse>
+        <verse osisID='1Chr.6.2'>Et les fils de Kohath: Amram, Izhar, et Hebron et Uzziel.</verse>
+        <verse osisID='1Chr.6.3'>Et les enfants d’Amram: Aaron, et Moïse et Miriam. Et les fils d’Aaron Nadab, et Abihu, Eleazar et Ithamar.</verse>
+        <verse osisID='1Chr.6.4'>Eleazar engendra Phinehas; Phinehas engendra Abishua;</verse>
+        <verse osisID='1Chr.6.5'>Et Abishua engendra Bukki, et Bukki engendra Uzzi;</verse>
+        <verse osisID='1Chr.6.6'>Et Uzzi engendra Zerahiah, et Zerahiah engendra Meraioth;</verse>
+        <verse osisID='1Chr.6.7'>Meraioth engendra Amariah, et Amariah engendra Ahitub;</verse>
+        <verse osisID='1Chr.6.8'>Et Ahitub engendra Zadok, et Zadok engendra Ahimaaz;</verse>
+        <verse osisID='1Chr.6.9'>Et Ahimaaz engendra Azariah, et Azariah engendra Johanan;</verse>
+        <verse osisID='1Chr.6.10'>Et Johanan engendra Azariah, (c’est lui qui exerça la fonction de prêtre dans le temple que Salomon bâtit à Jérusalem).</verse>
+        <verse osisID='1Chr.6.11'>Et Azariah engendra Amariah, et Amariah engendra Ahitub;</verse>
+        <verse osisID='1Chr.6.12'>Et Ahitub engendra Zadok, et Zadok engendra Shallum;</verse>
+        <verse osisID='1Chr.6.13'>Et Shallum engendra Hilkiah, et Hilkiah engendra Azariah;</verse>
+        <verse osisID='1Chr.6.14'>Et Azariah engendra Seraiah, et Seraiah engendra Jehozadak;</verse>
+        <verse osisID='1Chr.6.15'>Et Jehozadak alla en captivité, quand le SEIGNEUR transporta Judah et Jérusalem par la main de Nebuchadnezzar.</verse>
+        <verse osisID='1Chr.6.16'>Les fils de Levi (Lévi): Gershom, Kohath et Merari.</verse>
+        <verse osisID='1Chr.6.17'>Et ce sont les noms des fils de Gershom: Libni et Shimei.</verse>
+        <verse osisID='1Chr.6.18'>Et les fils de Kohath étaient Amram, et Izhar, et Hebron et Uzziel.</verse>
+        <verse osisID='1Chr.6.19'>Les fils de Merari: Mahli et Mushi. Et ce sont là les familles des Lévites, selon leurs pères.</verse>
+        <verse osisID='1Chr.6.20'>De Gershom: Libni, son fils; Jahath, son fils; Zimmah, son fils;</verse>
+        <verse osisID='1Chr.6.21'>Joah, son fils; Iddo, son fils; Zerah, son fils; Jeaterai, son fils.</verse>
+        <verse osisID='1Chr.6.22'>Les fils de Kohath: Amminadab, son fils; Korah, son fils; Assir, son fils;</verse>
+        <verse osisID='1Chr.6.23'>Elkanah, son fils, et Ebiasaph, son fils, et Assir son fils;</verse>
+        <verse osisID='1Chr.6.24'>Tahath, son fils; Uriel, son fils; Uzziah, son fils, et Shaul, son fils.</verse>
+        <verse osisID='1Chr.6.25'>Et les fils d’Elkanah: Amasai et Ahimoth;</verse>
+        <verse osisID='1Chr.6.26'>Quant à Elkanah, les fils d’Elkanah: Zophai, son fils, et Nahath, son fils;</verse>
+        <verse osisID='1Chr.6.27'>Eliab, son fils; Jeroham, son fils; Elkanah, son fils.</verse>
+        <verse osisID='1Chr.6.28'>Et les fils de Samuel le premier-né, Vashni, et Abiah.</verse>
+        <verse osisID='1Chr.6.29'>Les fils de Merari Mahli; Libni, son fils; Shimei, son fils; Uzza, son fils;</verse>
+        <verse osisID='1Chr.6.30'>Shimea, son fils; Haggiah, son fils; Asaiah, son fils.</verse>
+        <verse osisID='1Chr.6.31'>Et ce sont ici ceux que David établit pour l’office du chant de la maison du SEIGNEUR, après que l’arche demeura en repos.</verse>
+        <verse osisID='1Chr.6.32'>Et ils servaient devant la demeure du tabernacle de la congrégation le ministère du chant, jusqu’à ce que Salomon ait bâti la maison du SEIGNEUR à Jérusalem; et ils faisaient leur service selon l’ordre établi.</verse>
+        <verse osisID='1Chr.6.33'>Voici ceux qui officiaient, avec leurs fils. Des fils des Kohathites: Heman, le chanteur, le fils de Joël, le fils de Shemuel,</verse>
+        <verse osisID='1Chr.6.34'>Et le fils d’Elkanah, le fils de Jeroham, le fils d’Eliel, fils de Toah,</verse>
+        <verse osisID='1Chr.6.35'>Le fils de Zuph, le fils d’Elkanah, le fils de Mahath, le fils d’Amasai,</verse>
+        <verse osisID='1Chr.6.36'>Le fils d’Elkanah, le fils de Joël, le fils d’Azariah, le fils de Zephaniah, [Sophonie]</verse>
+        <verse osisID='1Chr.6.37'>Le fils de Tahath, le fils d’Assir, le fils d’Ebiasaph, le fils de Korah,</verse>
+        <verse osisID='1Chr.6.38'>Le fils de Izhar, le fils de Kohath, le fils de Levi (Lévi), le fils d’Israël.</verse>
+        <verse osisID='1Chr.6.39'>Et son frère Asaph, qui se tenait à sa main droite, c’est-à-dire Asaph, le fils de Berachiah, le fils de Shimea,</verse>
+        <verse osisID='1Chr.6.40'>Le fils de Michael, le fils de Baaseiah, le fils de Malchiah,</verse>
+        <verse osisID='1Chr.6.41'>Le fils d’Ethni, le fils de Zerah, le fils d’Adaiah,</verse>
+        <verse osisID='1Chr.6.42'>Le fils d’Ethan, le fils de Zimmah, le fils de Shimei,</verse>
+        <verse osisID='1Chr.6.43'>Le fils de Jahath, le fils de Gershom, le fils de Levi (Lévi).</verse>
+        <verse osisID='1Chr.6.44'>Et leurs frères, les fils de Merari, étaient à la main gauche Ethan, le fils de Kishi, le fils d’Abdi, le fils de Malluch,</verse>
+        <verse osisID='1Chr.6.45'>Le fils de Hashabiah, le fils d’Amaziah (Amatsia), le fils de Hilkiah,</verse>
+        <verse osisID='1Chr.6.46'>Le fils d’Amzi, le fils de Bani, le fils de Shamer,</verse>
+        <verse osisID='1Chr.6.47'>Le fils de Mahli, le fils de Mushi, le fils de Merari, le fils de Levi (Lévi).</verse>
+        <verse osisID='1Chr.6.48'>Et leurs frères, les Lévites, étaient assignés sur tout le service du tabernacle de la maison de Dieu.</verse>
+        <verse osisID='1Chr.6.49'>Mais Aaron et ses fils offraient sur l’autel des offrandes consumées et sur l’autel de l’encens, et étaient assignés à toute l’œuvre du [lieu] très-saint, et pour faire propitiation pour Israël, selon tout ce que Moïse, le serviteur de Dieu avait commandé.</verse>
+        <verse osisID='1Chr.6.50'>Et ce sont ici les fils d’Aaron: Eleazar, son fils; Phinehas, son fils; Abishua, son fils;</verse>
+        <verse osisID='1Chr.6.51'>Bukki, son fils; Uzzi, son fils; Zerahiah, son fils;</verse>
+        <verse osisID='1Chr.6.52'>Meraioth, son fils; Amariah, son fils; Ahitub, son fils;</verse>
+        <verse osisID='1Chr.6.53'>Zadok, son fils; Ahimaaz, son fils.</verse>
+        <verse osisID='1Chr.6.54'>Et ce sont ici leurs demeures, selon leurs châteaux, dans leurs territoires, aux fils d’Aaron des familles des Kohathites; car le lot fut pour eux,</verse>
+        <verse osisID='1Chr.6.55'>Et on leur donna Hebron, dans le pays de Judah, et ses faubourgs tout autour.</verse>
+        <verse osisID='1Chr.6.56'>Mais, les champs [dépendant] de la ville et ses villages. on les donna à Caleb, le fils de Jephunneh.</verse>
+        <verse osisID='1Chr.6.57'>Et aux fils d’Aaron on donna les villes de Judah c’est-à-dire Hebron, la ville de refuge, et Libnah avec ses faubourgs, et Jattir, et Eshtemoa avec ses faubourgs,</verse>
+        <verse osisID='1Chr.6.58'>Et Hilen avec ses faubourgs, Debir avec ses faubourgs,</verse>
+        <verse osisID='1Chr.6.59'>Et Ashan avec ses faubourgs, Bethshemesh avec ses faubourgs;</verse>
+        <verse osisID='1Chr.6.60'>Et de la tribu de Benjamin, Geba avec ses faubourgs, et Alemeth avec ses faubourgs, et Anathoth avec ses faubourgs. Toutes leurs villes étaient treize, selon leurs familles.</verse>
+        <verse osisID='1Chr.6.61'>Et aux fils de Kohath qui restaient de la famille de cette tribu, on donna par lot, dix villes, de la demi-tribu de Manasseh (Manassé).</verse>
+        <verse osisID='1Chr.6.62'>Et aux fils de Gershom, selon leurs familles, on donna treize villes, de la tribu d’Issachar, et de la tribu d’Asher (Asser), et de la tribu de Naphtali (Nephtali), et de la tribu de Manasseh (Manassé), en Bashan.</verse>
+        <verse osisID='1Chr.6.63'>Et aux fils de Merari, selon leurs familles, on donna, par lot, douze villes, de la tribu de Reuben (Ruben), et de la tribu de Gad, et de la tribu de Zebulun (Zabulon).</verse>
+        <verse osisID='1Chr.6.64'>Et les enfants d’Israël donnèrent aux Lévites ces villes avec leurs faubourgs.</verse>
+        <verse osisID='1Chr.6.65'>Et ils donnèrent par lot, de la tribu des enfants de Judah, et de la tribu des enfants de Simeon, et de la tribu des enfants de Benjamin, ces villes qui sont appelées par leurs noms.</verse>
+        <verse osisID='1Chr.6.66'>Et le reste des familles des fils de Kohath eurent les villes de leur territoire de la tribu d’Ephraim (Éphraïm).</verse>
+        <verse osisID='1Chr.6.67'>Et on leur donna des villes de refuge, Shechem (Sichem) avec ses faubourgs, au mont Ephraim (Éphraïm), on leur donna aussi Gezer avec ses faubourgs,</verse>
+        <verse osisID='1Chr.6.68'>Et Jokmeam avec ses faubourgs, et Bethhoron avec ses faubourgs,</verse>
+        <verse osisID='1Chr.6.69'>Et Aijalon avec ses faubourgs, et Gathrimmon avec ses faubourgs;</verse>
+        <verse osisID='1Chr.6.70'>Et de la demi-tribu de Manasseh (Manassé), Aner avec ses faubourgs, et Bileam avec ses faubourgs, à la famille qui restait des fils de Kohath.</verse>
+        <verse osisID='1Chr.6.71'>Aux fils de Gershom, on donna de la famille de la demi-tribu de Manasseh (Manassé), Golan en Bashan avec ses faubourgs, et Ashtaroth avec ses faubourgs;</verse>
+        <verse osisID='1Chr.6.72'>De la tribu d’Issachar, Kedesh avec ses faubourgs, Daberath avec ses faubourgs,</verse>
+        <verse osisID='1Chr.6.73'>Et Ramoth avec ses faubourgs, et Anem avec ses faubourgs;</verse>
+        <verse osisID='1Chr.6.74'>Et de la tribu d’Asher (Asser), Mashal avec ses faubourgs, et Abdon avec ses faubourgs,</verse>
+        <verse osisID='1Chr.6.75'>Et Hukok avec ses faubourgs, et Rehob avec ses faubourgs;</verse>
+        <verse osisID='1Chr.6.76'>Et de la tribu de Naphtali (Nephtali), Kedesh en Galilée avec ses faubourgs, et Hammon avec ses faubourgs, et Kirjathaim avec ses faubourgs.</verse>
+        <verse osisID='1Chr.6.77'>Aux enfants de Merari qui restaient, on donna, de la tribu de Zebulun (Zabulon), Rimmon avec ses faubourgs, et Tabor avec ses faubourgs;</verse>
+        <verse osisID='1Chr.6.78'>Et de l’autre côté du Jourdain près de Jéricho, à l’est du Jourdain, on donna de la tribu de Reuben (Ruben), Bezer au désert avec ses faubourgs, et Jahzah avec ses faubourgs,</verse>
+        <verse osisID='1Chr.6.79'>Kedemoth aussi avec ses faubourgs, et Mephaath avec ses faubourgs;</verse>
+        <verse osisID='1Chr.6.80'>Et de la tribu de Gad, Ramoth en Gilead (Galaad) avec ses faubourgs, Mahanaim avec ses faubourgs,</verse>
+        <verse osisID='1Chr.6.81'>Et Heshbon (Hesbon) avec ses faubourgs, et Jazer avec ses faubourgs.</verse>
+      </chapter>
+      <chapter osisID='1Chr.7'>
+        <verse osisID='1Chr.7.1'>Or les fils d’Issachar étaient Tola, et Puah, Jashub et Shimron, quatre.</verse>
+        <verse osisID='1Chr.7.2'>Et les fils de Tola: Uzzi, et Rephaiah, et Jeriel, et Jahmai, et Jibsam, et Shemuel, chefs de la maison de leurs pères, c’est-à-dire, de Tola, ils furent de vaillants et puissants hommes en leurs générations; leur nombre au temps de David était de vingt-deux mille six cents.</verse>
+        <verse osisID='1Chr.7.3'>Et les fils d’Uzzi: Izrahiah; et les fils de Izrahiah Michael, et Obadiah (Abdias), et Joël, Ishiah, cinq, tous des chefs;</verse>
+        <verse osisID='1Chr.7.4'>Et avec eux, selon leurs générations, d’après la maison de leurs pères, il y avait des bandes de soldats pour la guerre, trente-six mille hommes; car ils avaient beaucoup de femmes et de fils.</verse>
+        <verse osisID='1Chr.7.5'>Et leurs frères de toutes les familles d’Issachar étaient des hommes vaillants et forts, comptés tous selon leurs généalogies quatre-vingt-sept mille.</verse>
+        <verse osisID='1Chr.7.6'>Les fils de Benjamin: Bela, et Becher et Jediael, trois.</verse>
+        <verse osisID='1Chr.7.7'>Et les fils de Bela: Ezbon, et Uzzi, et Uzziel, et Jerimoth, et Iri; cinq, chefs de la maison de leurs pères, hommes vaillants et forts, et comptés selon leurs généalogies, vingt-deux mille trente-quatre.</verse>
+        <verse osisID='1Chr.7.8'>Et les fils de Becher: Zemira, et Joash, et Eliezer, et Elioenai, et Omri, et Jerimoth, et Abiah, et Anathoth et Alemeth. Tous ceux-là étaient les fils de Becher.</verse>
+        <verse osisID='1Chr.7.9'>Et leur nombre, d’après leur généalogie selon leurs générations, chefs de la maison de leurs pères, hommes forts et vaillants, étaient, vingt mille deux cents.</verse>
+        <verse osisID='1Chr.7.10'>Et les fils de Jediael: Bilhan; et les fils de Bilhan Jeush, et Benjamin, et Ehud, et Chenaanah, et Zethan, et Tharshish et Ahishahar.</verse>
+        <verse osisID='1Chr.7.11'>Tous ceux-là les fils de Jediael, selon les chefs de leurs pères, hommes vaillants et puissants, au nombre de dix-sept mille deux cents, aptes pour aller à la guerre. et se battre.</verse>
+        <verse osisID='1Chr.7.12'>Et Shuppim et Huppim, les enfants d’Ir; et Hushim, fils d’Aher.</verse>
+        <verse osisID='1Chr.7.13'>Les fils de Naphtali (Nephtali): Jahziel, et Guni, et Jezer et Shallum, les fils de Bilhah.</verse>
+        <verse osisID='1Chr.7.14'>Les fils de Manasseh (Manassé): Ashriel qu’elle enfanta; (mais sa concubine l’Aramite enfanta Machir, le père de Gilead (Galaad).</verse>
+        <verse osisID='1Chr.7.15'>Et Machir prit pour femme la sœur de Huppim et de Shuppim; et le nom de sa sœur était Maachah); et le nom du second [fils] était Zelophehad; et Zelophehad eut des filles.</verse>
+        <verse osisID='1Chr.7.16'>Et Maachah, la femme de Machir, enfanta un fils, et elle l’appela Peresh; et le nom de son frère était Sheresh, et ses fils étaient Ulam et Rakem.</verse>
+        <verse osisID='1Chr.7.17'>Et les fils d’Ulam: Bedan. Ceux-la étaient les fils de Gilead (Galaad), le fils de Machir, le fils de Manasseh (Manassé).</verse>
+        <verse osisID='1Chr.7.18'>Et sa sœur Hammoleketh enfanta Ishod, et Abiezer et Mahalah.</verse>
+        <verse osisID='1Chr.7.19'>Et les fils de Shemidah étaient Ahian, et Shechem (Sichem), et Likhi et Aniam.</verse>
+        <verse osisID='1Chr.7.20'>Et les fils d’Ephraim (Éphraïm): Shuthelah, et Bered, son fils; et Tahath, son fils, et Eladah, son fils, et Tahath, son fils;</verse>
+        <verse osisID='1Chr.7.21'>Et Zabad, son fils, et Shutelah, son fils, et Ezer et Elead. Les hommes de Gath, qui étaient nés dans le pays, les tuèrent parce qu’ils étaient descendus pour prendre leurs troupeaux.</verse>
+        <verse osisID='1Chr.7.22'>Et Ephraim (Éphraïm), leur père, en mena deuil pendant beaucoup de jours, et ses frères vinrent pour le consoler.</verse>
+        <verse osisID='1Chr.7.23'>Et il alla vers sa femme; elle conçut et enfanta un fils, et il l’appela du nom de Beriah, parce que le malheur était dans sa maison.</verse>
+        <verse osisID='1Chr.7.24'>(Et sa fille était Sherah, qui bâtit Bethhoron, la basse et la haute, et Uzensherah).</verse>
+        <verse osisID='1Chr.7.25'>Et Rephah était son fils, et Resheph, et Telah, son fils, et Tahan, son fils;</verse>
+        <verse osisID='1Chr.7.26'>Laadan, son fils, Ammihud, son fils, Elishama, son fils;</verse>
+        <verse osisID='1Chr.7.27'>Nun, son fils; Jehoshua, son fils.</verse>
+        <verse osisID='1Chr.7.28'>Et leur possessions et leurs habitations étaient Bethel et les villages de son ressort; et vers l’Est, Naaran; et vers l’Ouest, Gezer et les villes de son ressort, Shechem (Sichem) et les villes de son ressort, jusqu’à Gaza et les villes de son ressort;</verse>
+        <verse osisID='1Chr.7.29'>Et près des frontières des enfants de Manasseh (Manassé), Bethshean et ses agglomérations; Taanach et ses agglomérations; Megido (Meguiddo) et ses agglomérations; Dor et ses agglomérations. Dans ces villes demeurèrent les enfants de Joseph, le fils d’Israël.</verse>
+        <verse osisID='1Chr.7.30'>Les fils d’Asher (Asser: Imnah, et Isuah, et Ishuai, et Beriah, et Serah, leur sœur.</verse>
+        <verse osisID='1Chr.7.31'>Et les fils de Beriah:Heber et Malchiel, qui est le père de Birzavith.</verse>
+        <verse osisID='1Chr.7.32'>Et Heber engendra Japhlet, et Shomer, et Hotham, et Shuah, leur sœur.</verse>
+        <verse osisID='1Chr.7.33'>Et les fils de Japhlet: Pasach, et Bimhal et Ashvath. Ce sont là les enfants de Japhlet.</verse>
+        <verse osisID='1Chr.7.34'>Et les fils de Shamer: Ahi, et Rohgah, Jehubbah et Aram.</verse>
+        <verse osisID='1Chr.7.35'>Et les fils de son frère Helem: Zophah, et Imna, et Shelesh et Amal.</verse>
+        <verse osisID='1Chr.7.36'>Les fils de Zophah: Suah, et Harnepher, et Shual, et Beri, et Imrah,</verse>
+        <verse osisID='1Chr.7.37'>Bezer, et Hod, et Shamma, et Shilsha, et Ithran et Beera.</verse>
+        <verse osisID='1Chr.7.38'>Et les fils de Jether: Jephunneh, et Pispah et Ara.</verse>
+        <verse osisID='1Chr.7.39'>Et les fils d’Ulla: Arah, et Haniel et Rezia.</verse>
+        <verse osisID='1Chr.7.40'>Tous ceux-là étaient les enfants d’Asher (Asser), chefs de la maison de leurs pères, hommes de choix, vaillants et forts, chefs des princes. Et le nombre selon leur généalogie, qui étaient aptes pour la guerre, et pour se battre, était vingt-six mille hommes.</verse>
+      </chapter>
+      <chapter osisID='1Chr.8'>
+        <verse osisID='1Chr.8.1'>Or Benjamin engendra Bela, son premier-né, Ashbel le second, Aharah le troisième,</verse>
+        <verse osisID='1Chr.8.2'>Nohah le quatrième, et Rapha le cinquième.</verse>
+        <verse osisID='1Chr.8.3'>Et les fils de Bela étaient Addar, et Gera, et Abihud,</verse>
+        <verse osisID='1Chr.8.4'>Et Abishua, et Naaman, et Ahoah,</verse>
+        <verse osisID='1Chr.8.5'>Et Gera, et Shephuphan et Huram.</verse>
+        <verse osisID='1Chr.8.6'>Et ce sont ici les fils d’Ehud; ceux-ci sont les chefs des pères des habitants de Geba, et ils les transportèrent à Manahath;</verse>
+        <verse osisID='1Chr.8.7'>Et Naaman, et Ahiah et Gera, qui les transporta, et il engendra Uzza et Ahihud.</verse>
+        <verse osisID='1Chr.8.8'>Et Shaharaim engendra des enfants au pays de Moab, après avoir renvoyé Hushim et Baara, qui étaient ses femmes.</verse>
+        <verse osisID='1Chr.8.9'>Et il engendra de Hodesh, sa femme, Jobab, et Zibia, et Mesha, et Malcham,</verse>
+        <verse osisID='1Chr.8.10'>Et Jeuz, et Shachia et Mirma. Ceux-ci étaient ses fils, chefs des pères.</verse>
+        <verse osisID='1Chr.8.11'>Et de Hushim il engendra Abitub, et Elpaal.</verse>
+        <verse osisID='1Chr.8.12'>Les fils d’Elpaal: Eber, et Misham, et Shamed, qui bâtit Ono, et Lod et les villes de son ressort.</verse>
+        <verse osisID='1Chr.8.13'>Et Beriah et Shema, qui étaient chefs des pères des habitants d’Aijalon, mirent en fuite les habitants de Gath.</verse>
+        <verse osisID='1Chr.8.14'>Et Ahio, Shashak, et Jeremoth,</verse>
+        <verse osisID='1Chr.8.15'>Et Zebadiah, et Arad, et Ader,</verse>
+        <verse osisID='1Chr.8.16'>Et Michael, et Ispah et Joha, les fils de Beriah.</verse>
+        <verse osisID='1Chr.8.17'>Et Zebadiah, et Meshullam, et Hezeki, et Heber,</verse>
+        <verse osisID='1Chr.8.18'>Ishmerai aussi, et Jezliah, et Jobab, les fils d’Elpaal.</verse>
+        <verse osisID='1Chr.8.19'>Et Jakim, et Zichri, et Zabdi,</verse>
+        <verse osisID='1Chr.8.20'>Et Elienai, et Zilthai, et Eliel,</verse>
+        <verse osisID='1Chr.8.21'>Et Adaiah, et Beraiah, et Shimrath, les fils de Shimhi.</verse>
+        <verse osisID='1Chr.8.22'>Et Ishpan, et Heber, et Eliel,</verse>
+        <verse osisID='1Chr.8.23'>Et Abdon, et Zichri, et Hanan,</verse>
+        <verse osisID='1Chr.8.24'>Et Hananiah, et Elam, et Antothijah,</verse>
+        <verse osisID='1Chr.8.25'>Et Iphdeiah et Penuel, les fils de Shashak.</verse>
+        <verse osisID='1Chr.8.26'>Et Shamsherai, et Shehariah, et Athalia (Athalie),</verse>
+        <verse osisID='1Chr.8.27'>Et Jaresiah, et Eliah et Zichri, les fils de Jeroham.</verse>
+        <verse osisID='1Chr.8.28'>Ceux-ci étaient têtes des pères, selon leurs générations, des hommes chefs. Ceux-ci demeuraient à Jérusalem.</verse>
+        <verse osisID='1Chr.8.29'>Et le père de Gibeon demeurait à Gibeon; dont le nom de sa femme était Maachah.</verse>
+        <verse osisID='1Chr.8.30'>Et son fils premier-né, Abdon, et Zur, et Kish, et Baal, et Nadab,</verse>
+        <verse osisID='1Chr.8.31'>Et Gedor, et Ahio et Zacher.</verse>
+        <verse osisID='1Chr.8.32'>Et Mikloth engendra Shimeah. Et eux aussi demeurèrent près de leurs frères à Jérusalem, en face d’eux.</verse>
+        <verse osisID='1Chr.8.33'>Et Ner engendra Kish, et Kish engendra Saul, et Saul engendra Jonathan, et Malchishua, et Abinadab et Eshbaal.</verse>
+        <verse osisID='1Chr.8.34'>Et le fils de Jonathan était Meribbaal, et Meribbaal engendra Micah.</verse>
+        <verse osisID='1Chr.8.35'>Et les fils de Micah étaient Pithon, et Melech, et Tarea et Ahaz.</verse>
+        <verse osisID='1Chr.8.36'>Et Ahaz engendra Jehoadah, et Jehoadah engendra Alemeth, et Azmaveth et Zimri, et Zimri engendra Moza;</verse>
+        <verse osisID='1Chr.8.37'>Et Moza engendra Binea, Rapha était son fils, Eleasah, son fils, Azel son fils.</verse>
+        <verse osisID='1Chr.8.38'>Et Azel eut six fils, dont les noms sont Azrikam, Bocheru, et Ismaël, et Sheariah, et Obadiah (Abdias) et Hanan. Tous ceux-là étaient fils d’Azel.</verse>
+        <verse osisID='1Chr.8.39'>Et les fils d’Eshek, son frère étaient Ulam, son premier-né, Jehush le second, et Eliphelet le troisième.</verse>
+        <verse osisID='1Chr.8.40'>Et les fils d’Ulam étaient des hommes forts et vaillants, tirant de l’arc; et ils eurent beaucoup de fils et de petits-fils, cent cinquante. Tous ceux-là sont des fils de Benjamin.</verse>
+      </chapter>
+      <chapter osisID='1Chr.9'>
+        <verse osisID='1Chr.9.1'>Ainsi tout [ceux d’]Israël furent comptés par généalogies; et voici, ils sont inscrits dans le livre des rois d’Israël, et de Judah, qui fut transporté à Babylone à cause de ses transgressions.</verse>
+        <verse osisID='1Chr.9.2'>Les premiers habitants qui demeurèrent dans leurs possessions, dans leurs villes, étaient les Israelites, les prêtres, les Lévites et les Nethinims.</verse>
+        <verse osisID='1Chr.9.3'>Et à Jérusalem demeuraient des enfants de Judah, et des enfants de Benjamin, des enfants d’Ephraim (Éphraïm) et de Manasseh (Manassé).</verse>
+        <verse osisID='1Chr.9.4'>Uthai, le fils d’Ammihud, le fils d’Omri, le fils d’Imri, le fils de Bani, des enfants de Pharez, le fils de Judah.</verse>
+        <verse osisID='1Chr.9.5'>Et des Shilonites Asaiah, le premier-né, et ses fils.</verse>
+        <verse osisID='1Chr.9.6'>Et des fils de Zerah: Jeuel et ses frères, six cent quatre-vingt-dix.</verse>
+        <verse osisID='1Chr.9.7'>Et des fils de Benjamin: Sallu, le fils de Meshullam, le fils d’Hodaviah, le fils d’Hasenuah;</verse>
+        <verse osisID='1Chr.9.8'>Et Ibneiah, le fils de Jeroham, et Elah, le fils d’Uzzi, le fils de Michri, et Meshullam, le fils de Shephathiah, le fils de Reuel, le fils de Ibnijah;</verse>
+        <verse osisID='1Chr.9.9'>Et leurs frères, selon leurs générations neuf cent cinquante-six. Tous ces hommes-là étaient chefs des pères, selon la maison de leurs pères.</verse>
+        <verse osisID='1Chr.9.10'>Et des prêtres Jedaiah, et Jehoiarib, et Jachin,</verse>
+        <verse osisID='1Chr.9.11'>Et Azariah, le fils de Hilkiah, le fils de Meshullam, le fils de Zadok, le fils de Meraioth, le fils d’Ahitub, le dirigeant de la maison de Dieu;</verse>
+        <verse osisID='1Chr.9.12'>Et Adaiah, le fils de Jeroham, le fils de Pashur, le fils de Malchijah, et Maasiai, le fils d’Adiel, le fils de Jahzerah, le fils de Meshullam, le fils de Meshillemith, le fils d’Immer;</verse>
+        <verse osisID='1Chr.9.13'>Et leurs frères, chefs de la maison de leurs pères, mille sept cent soixante, hommes très capables pour l’œuvre du service de la maison de Dieu.</verse>
+        <verse osisID='1Chr.9.14'>Et des Lévites: Shemaiah, le fils de Hasshub, le fils d’Azrikam, le fils de Hashabiah, des fils de Merari;</verse>
+        <verse osisID='1Chr.9.15'>Et Bakbakkar, Heresh, et Galal, et Mattaniah, le fils de Micah, le fils de Zichri, le fils d’Asaph;</verse>
+        <verse osisID='1Chr.9.16'>Et Obadiah (Abdias), le fils de Shemaiah, le fils de Galal, le fils de Jeduthun, et Berechiah, le fils d’Asa, le fils d’Elkanah, qui demeura dans les villages des Netophathites.</verse>
+        <verse osisID='1Chr.9.17'>Et les portiers étaient Shallum, et Akkub, et Talmon, et Ahiman, et leurs frères; Shallum était le chef.</verse>
+        <verse osisID='1Chr.9.18'>Qui jusqu’à présent servent à la porte du roi, vers l’Est; ceux-ci étaient les portiers pour le camp des enfants de Levi (Lévi).</verse>
+        <verse osisID='1Chr.9.19'>Et Shallum, le fils de Kore, le fils d’Ebiasaph, le fils de Korah, et ses frères, les Korahites, de la maison de son père, avaient la charge de l’ouvrage du service, gardiens des portes du tabernacle; et leurs pères, préposés sur le camp du SEIGNEUR, étaient gardiens de l’entrée;</verse>
+        <verse osisID='1Chr.9.20'>Et Phinehas, le fils d’Eleazar était autrefois leur chef, et le SEIGNEUR était avec lui.</verse>
+        <verse osisID='1Chr.9.21'>Et Zechariah (Zacharie), le fils de Meshelemiah, était portier à l’entrée du tabernacle de la congrégation.</verse>
+        <verse osisID='1Chr.9.22'>Tous ceux-là qui furent choisis pour être portiers des portes étaient deux cent douze. Ceux-là étaient comptés selon leur généalogie dans leurs villages; David et Samuel, le voyant, les avaient établis dans leur office.</verse>
+        <verse osisID='1Chr.9.23'>Ainsi eux et leurs enfants étaient préposés aux portes de la maison du SEIGNEUR, c’est-à-dire, de la maison du tabernacle, pour y faire la garde.</verse>
+        <verse osisID='1Chr.9.24'>Il y avait des portiers aux quatre vents, à l’est, à l’ouest, au nord et au sud.</verse>
+        <verse osisID='1Chr.9.25'>Et leurs frères, qui étaient dans leurs villages, devaient venir de temps en temps pour sept jours auprès d’eux.</verse>
+        <verse osisID='1Chr.9.26'>Car ces quatre chefs des portiers étaient toujours en fonctions. Ils étaient Lévites, et étaient préposés sur les chambres et sur les trésors de la maison de Dieu.</verse>
+        <verse osisID='1Chr.9.27'>Ils se tenaient la nuit autour de la maison de Dieu; car la garde leur en appartenait, et ils avaient la charge d’ouvrir tous les matins.</verse>
+        <verse osisID='1Chr.9.28'>Il y en avait d’entre eux qui étaient commis sur les ustensiles du service. Car on en faisait le compte lorsqu’on les rentrait et qu’on les sortait.</verse>
+        <verse osisID='1Chr.9.29'>Il y en avait aussi qui étaient commis sur les ustensiles, sur tous les ustensiles du sanctuaire et sur la fleur de farine, le vin, l’huile, l’encens et les aromates.</verse>
+        <verse osisID='1Chr.9.30'>Ceux qui faisaient les parfums aromatiques étaient des fils de prêtres.</verse>
+        <verse osisID='1Chr.9.31'>Et Mattithiah, l’un des Lévites, qui était le premier-né de Shallum, le Korahite, avait la charge des gâteaux cuits sur la plaque.</verse>
+        <verse osisID='1Chr.9.32'>Parmi les enfants des Kohathites, leurs frères, il y en avait qui avaient la charge du pain de présentation, pour les apprêter, chaque sabbat.</verse>
+        <verse osisID='1Chr.9.33'>Ce sont là les chanteurs, chefs des maisons des pères des Lévites, demeurant dans les chambres, exemptes d’autres charges parce qu’ils devaient être en fonctions le jour et la nuit.</verse>
+        <verse osisID='1Chr.9.34'>Ce sont là les chefs des pères des Lévites, chefs selon leur naissance; ils habitaient à Jérusalem.</verse>
+        <verse osisID='1Chr.9.35'>Le père de Gibeon (Gabaon), Jeiel, habita à Gibeon (Gabaon); et le nom de sa femme était Maacah;</verse>
+        <verse osisID='1Chr.9.36'>Et son fils premier-né, Abdon, puis Zur, et Kish, et Baal, et Ner, et Nadab,</verse>
+        <verse osisID='1Chr.9.37'>Et Gedor, et Ahio, et Zechariah et Mikloth.</verse>
+        <verse osisID='1Chr.9.38'>Et Mikloth engendra Shimeam. Ils habitèrent aussi près de leurs frères à Jérusalem, avec leurs frères.</verse>
+        <verse osisID='1Chr.9.39'>Et Ner engendra Kish, et Kish engendra Saul, et Saul engendra Jonathan, et Malchishua, et Abinadab et Eshbaal.</verse>
+        <verse osisID='1Chr.9.40'>Et le fils de Jonathan fut Meribbaal; et Meribbaal engendra Micah.</verse>
+        <verse osisID='1Chr.9.41'>Et les fils de Micah étaient Pithon, et Melech, et Tahrea et Ahaz.</verse>
+        <verse osisID='1Chr.9.42'>Et Ahaz engendra Jarah; et Jarah engendra Alemeth, et Azmaveth et Zimri; et Zimri engendra Moza;</verse>
+        <verse osisID='1Chr.9.43'>Et Moza engendra Binea, et Rephaiah son fils, son fils, Azel son fils.</verse>
+        <verse osisID='1Chr.9.44'>Et Azel eut six fils, dont voici les noms Azrikam, Bocheru, et Ismaël, et Sheariah, et Obadiah (Abdias) et Hanan. Ce sont là les fils d’Azel.</verse>
+      </chapter>
+      <chapter osisID='1Chr.10'>
+        <verse osisID='1Chr.10.1'>Or les Philistins se battirent contre Israël; et les hommes d’Israël s’enfuirent devant les Philistins, et tombèrent morts sur la montagne de Gilboa.</verse>
+        <verse osisID='1Chr.10.2'>Et les Philistins poursuivirent durement Saul et ses fils, et les Philistins tuèrent Jonathan, ainsi que Abinadab et Malchishua, les fils de Saul.</verse>
+        <verse osisID='1Chr.10.3'>Et la bataille se renforça contre Saul, et les archers l’atteignirent, et il fut blessé par les archers.</verse>
+        <verse osisID='1Chr.10.4'>Alors Saul dit à celui qui portait ses armes: Tire ton épée et transperce m’en, de peur que ces incirconcis ne viennent, et ne m’outragent. Mais celui qui portait ses armes ne voulut pas, car il était fort effrayé. Saul prit donc l’épée et se jeta dessus.</verse>
+        <verse osisID='1Chr.10.5'>Alors celui qui portait ses armes, ayant vu que Saul était mort, se jeta, lui aussi, sur l’épée, et mourut.</verse>
+        <verse osisID='1Chr.10.6'>Ainsi moururent Saul et ses trois fils, et toute sa maison mourut en même temps.</verse>
+        <verse osisID='1Chr.10.7'>Et quand tous les hommes d’Israël qui étaient dans la vallée virent qu’on avait fui, et que Saul et ses fils étaient morts, ils abandonnèrent alors leurs villes et s’enfuirent; et les Philistins vinrent et y demeurèrent.</verse>
+        <verse osisID='1Chr.10.8'>Et il arriva le lendemain, lorsque les Philistins vinrent pour dépouiller les morts, qu’ils trouvèrent Saul et ses fils tombés sur la montagne de Gilboa.</verse>
+        <verse osisID='1Chr.10.9'>Et après l’avoir dépouillé, ils prirent sa tête et ses armes¸ et les envoyèrent dans le pays des Philistins, de tous côtés, pour annoncer la nouvelle à leurs idoles et au peuple.</verse>
+        <verse osisID='1Chr.10.10'>Et ils mirent ses armes dans la maison de leurs dieux, et attachèrent sa tête dans le temple de Dagon.</verse>
+        <verse osisID='1Chr.10.11'>Et quand tout Jabeshgilead apprit tout ce que les Philistins avaient fait à Saul;</verse>
+        <verse osisID='1Chr.10.12'>Tous les hommes vaillants se levèrent et prirent le corps de Saul, et les corps de ses fils, et les apportèrent à Jabesh, et ils enterrèrent leurs os sous le chêne à Jabesh, et ils jeûnèrent sept jours.</verse>
+        <verse osisID='1Chr.10.13'>Ainsi Saul mourut à cause de sa transgression, laquelle il avait commise contre le SEIGNEUR, c’est-à-dire contre la parole du SEIGNEUR qu’il n’avait pas tenue, et aussi pour avoir pris conseil de quelqu’un qui avait l’esprit de divination, pour s’en enquérir.</verse>
+        <verse osisID='1Chr.10.14'>Il ne s’était pas enquis du SEIGNEUR, c’est pourquoi il [le Seigneur] le fit mourir, et livra le royaume à David, le fils de Jesse.</verse>
+      </chapter>
+      <chapter osisID='1Chr.11'>
+        <verse osisID='1Chr.11.1'>Puis tout Israël se rassembla auprès de David, à Hebron, disant: Voici nous sommes tes os et ta chair;</verse>
+        <verse osisID='1Chr.11.2'>Et de plus autrefois, quand Saul était roi, tu étais celui qui faisais sortir et qui ramenais Israël; et le SEIGNEUR, ton Dieu, t’a dit: Tu mèneras mon peuple d’Israël, et tu seras conducteur de mon peuple d’Israël.</verse>
+        <verse osisID='1Chr.11.3'>C’est pourquoi tous les anciens d’Israël vinrent vers le roi à Hebron, et David fit alliance avec eux à Hebron, devant le SEIGNEUR; et ils oignirent David roi sur Israël, selon la parole du SEIGNEUR, [prononcée] par Samuel.</verse>
+        <verse osisID='1Chr.11.4'>Et David et tout Israël allèrent à Jérusalem, qui est Jebus; là étaient les Jebusites, habitants du pays.</verse>
+        <verse osisID='1Chr.11.5'>Et les habitants de Jebus dirent à David: Tu n’entreras pas ici. Néanmoins David prit le château de Sion, qui est la cité de David.</verse>
+        <verse osisID='1Chr.11.6'>Et David avait dit: Quiconque frappera le premier les Jebusites, sera chef et capitaine. Ainsi Joab, le fils de Zeruiah, monta le premier, et il fut chef.</verse>
+        <verse osisID='1Chr.11.7'>Et David demeura dans le château; c’est pourquoi on l’appela la cité de David.</verse>
+        <verse osisID='1Chr.11.8'>Et il bâtit la ville tout autour, depuis Millo et tout autour; et Joab répara le reste de la ville.</verse>
+        <verse osisID='1Chr.11.9'>Et David devenait de plus en plus grand; car le SEIGNEUR des armées était avec lui.</verse>
+        <verse osisID='1Chr.11.10'>Ce sont ici les chefs des hommes vaillants qu’avait David, et qui l’aidèrent, avec tout Israël, dans son royaume, pour le faire roi, selon la parole du SEIGNEUR concernant Israël.</verse>
+        <verse osisID='1Chr.11.11'>Et cela est le nombre des hommes puissants qu’avait David Jashobeam, un Hachmonite, le chef des capitaines; il leva sa lance contre trois cents [hommes], tués par Iui en une seule fois.</verse>
+        <verse osisID='1Chr.11.12'>Après lui, il y avait Eleazar, le fils de Dodo, l’Ahohite, qui était l’un des trois puissants [hommes].</verse>
+        <verse osisID='1Chr.11.13'>Il était avec David à Pasdammin, où les Philistins s’étaient assemblés pour la bataille; où Il y avait une portion de champ remplie d’orge; et le peuple fuyait devant les Philistins.</verse>
+        <verse osisID='1Chr.11.14'>Et ils se placèrent au milieu de cette parcelle, et la délivra, et tuèrent les Philistins; et le SEIGNEUR les sauva par une grande délivrance.</verse>
+        <verse osisID='1Chr.11.15'>Or trois des trente capitaines descendirent au roc, vers David, dans la caverne d’Adullam, et l’armée des Philistins était campée dans la vallée des Rephaim.</verse>
+        <verse osisID='1Chr.11.16'>Et David était alors dans la forteresse, et la garnison des Philistins était à ce moment-là à Bethlehem.</verse>
+        <verse osisID='1Chr.11.17'>Et David fit un souhait, et dit: Oh que quelqu’un puisse me donner à boire de l’eau du puits de Bethlehem, qui est près de la porte!</verse>
+        <verse osisID='1Chr.11.18'>Et les trois hommes passèrent au travers du camp des Philistins, et puisèrent de l’eau du puits de Bethlehem, qui était près de la porte, et la prirent et l’apportèrent à David; mais David ne voulut pas la boire, mais la répandit devant le SEIGNEUR.</verse>
+        <verse osisID='1Chr.11.19'>Et il dit: Mon Dieu m’empêche que je fasse une telle chose; boirais-je le sang de ces hommes qui ont mis leurs vies en péril? Car c’est au péril de leurs vies, qu’ils l’ont apportée. C’est pourquoi il ne voulut pas la boire. Ces trois puissants [hommes] firent cet acte-là.</verse>
+        <verse osisID='1Chr.11.20'>Et Abishai, le frère de Joab, était chef des trois; pour avoir lever sa lance contre trois cents [hommes], il les tua, et il eut du renom parmi les trois.</verse>
+        <verse osisID='1Chr.11.21'>Entre les trois il fut plus honoré que les deux [autres], et fut leur capitaine; toutefois, il n’atteignit pas les trois premiers.</verse>
+        <verse osisID='1Chr.11.22'>Benaiah, le fils de Jehoiada, le fils d’un homme vaillant, de Kabzeel, qui avait accomplit beaucoup exploits; il tua deux hommes forts comme des lions de Moab; il descendit aussi et tua un lion dans une fosse, par un jour de neige.</verse>
+        <verse osisID='1Chr.11.23'>Et il frappa un Égyptien un homme de grande stature de cinq coudées; et il y avait dans la main de l’Égyptien une lance comme une ensouple de tisserand, et il descendit vers lui avec un bâton, et arracha la lance de la main de l’Égyptien, et le tua de sa propre lance.</verse>
+        <verse osisID='1Chr.11.24'>Ce sont les choses que fit Benaiah, le fils de Jehoiada, et il eut un nom parmi ces trois puissants [hommes].</verse>
+        <verse osisID='1Chr.11.25'>Il était le plus honoré parmi les trente, mais il n’atteignit pas les trois premiers; et David l’établit sur sa garde.</verse>
+        <verse osisID='1Chr.11.26'>Et les hommes vaillants de l’armée étaient Asahel, le frère de Joab, Elhanan, le fils de Dodo, de Bethlehem;</verse>
+        <verse osisID='1Chr.11.27'>Shammoth, l’Harorite; Helez, le Pelonite;</verse>
+        <verse osisID='1Chr.11.28'>Ira, le fils d’Ikkesh, le Tekoite; Abiezer, l’Antothite;</verse>
+        <verse osisID='1Chr.11.29'>Sibbecai, le Hushathite; Ilai, l’Ahohite;</verse>
+        <verse osisID='1Chr.11.30'>Maharai, le Netophathite; Heled, le fils de Baanah, le Netophathite;</verse>
+        <verse osisID='1Chr.11.31'>Ithai, le fils de Ribai, de Gibea, qui appartenaient aux enfants de Benjamin; Benaiah, le Pirathonite;</verse>
+        <verse osisID='1Chr.11.32'>Hurai, des torrents de Gaash; Abiel, l’Arbathite;</verse>
+        <verse osisID='1Chr.11.33'>Azmaveth, le Baharumite; Eliahba, le Shaalbonite;</verse>
+        <verse osisID='1Chr.11.34'>Les fils de Hashem, le Gizonite; Jonathan, le fils de Shage, l’Hararite;</verse>
+        <verse osisID='1Chr.11.35'>Ahiam, le fils de Sacar, l’Hararite; Eliphal, le fils d’Ur;</verse>
+        <verse osisID='1Chr.11.36'>Hepher, le Mecherathite; Ahijah, le Pelonite;</verse>
+        <verse osisID='1Chr.11.37'>Hezro, le Carmelite; Naarai, le fils d’Ezbai;</verse>
+        <verse osisID='1Chr.11.38'>Joël, le frère de Nathan; Mibhar, le fils d’Haggeri;</verse>
+        <verse osisID='1Chr.11.39'>Zelek, l’Ammonite; Naharai, le Berothite, qui portait les armes de Joab, le fils de Zeruiah;</verse>
+        <verse osisID='1Chr.11.40'>Ira, l’Ithrite; Gareb, l ‘Ithrite;</verse>
+        <verse osisID='1Chr.11.41'>Uriah, le Hittite; Zabad, le fils d’Ahlai;</verse>
+        <verse osisID='1Chr.11.42'>Adina, le fils de Shiza, le Reubenite (Rubénite), capitaine des Reubenites (Rubénites), et trente avec lui;</verse>
+        <verse osisID='1Chr.11.43'>Hanan le fils de Maacah, et Joshaphat, le Mithnite;</verse>
+        <verse osisID='1Chr.11.44'>Uzzia, l’Ashterathite; Shama et Jehiel, les fils de Hotham, l’Aroerite;</verse>
+        <verse osisID='1Chr.11.45'>Jediael, le fils de Shimri; et Joha son frère, le Tizite;</verse>
+        <verse osisID='1Chr.11.46'>Eliel, le Mahavite, et Jeribai et Joshaviah, les fils d’Elnaam; et Ithmah, le Moabite;</verse>
+        <verse osisID='1Chr.11.47'>Eliel, et Obed, et Jasiel, le Mesobaite.</verse>
+      </chapter>
+      <chapter osisID='1Chr.12'>
+        <verse osisID='1Chr.12.1'>Or ce sont ceux qui vinrent vers David à Ziklag, tandis qu’il se tenait encore claustré à cause de Saul, le fils de Kish, et ils étaient parmi les puissants hommes, [qui donnaient] du secours [en temps] de guerre,</verse>
+        <verse osisID='1Chr.12.2'>Ils étaient armés d’arcs, et pouvaient utiliser aussi bien la main droite que la gauche, lançant des pierres, et tirant des flèches avec l’arc; ils étaient de Benjamin, parmi les frères de Saul.</verse>
+        <verse osisID='1Chr.12.3'>Le chef était Ahiezer, puis Joash, les fils de Shemaah, le Gibeathite; et Jeziel et Pelet, les fils d’Azmaveth; et Berachah; et Jehu, l’Antothite;</verse>
+        <verse osisID='1Chr.12.4'>Et Ishmaiah, le Gibeonite, un homme fort parmi les trente, et au-dessus des trente; et Jeremiah (Jérémie), et Jahaziel; Johanan; Josabad, le Gederathite;</verse>
+        <verse osisID='1Chr.12.5'>Eluzai, et Jerimoth, et Bealiah, et Shemariah, et Shephatiah, l’Haruphite;</verse>
+        <verse osisID='1Chr.12.6'>Elkanah, et Jesiah, et Azareel, et Joezer et Jashobeam, les Korhites;</verse>
+        <verse osisID='1Chr.12.7'>Et Joëlah et Zebadiah, les fils de Jeroham, de Gedor.</verse>
+        <verse osisID='1Chr.12.8'>Et des Gadites, se séparèrent vers David, dans la forteresse, au désert, des hommes puissants, des hommes de guerre propres pour se battre, qui pouvaient manier le bouclier et l’écu, leurs visages étaient comme des têtes de lions, et ils étaient aussi rapides que des gazelles sur les montagnes.</verse>
+        <verse osisID='1Chr.12.9'>Ezer, le premier; Obadiah (Abdias), le second; Eliab, le troisième;</verse>
+        <verse osisID='1Chr.12.10'>Mishmannah, le quatrième; Jeremiah (Jérémie), le cinquième;</verse>
+        <verse osisID='1Chr.12.11'>Attai, le sixième; Eliel, le septième;</verse>
+        <verse osisID='1Chr.12.12'>Johanan, le huitième; Elzabad, le neuvième;</verse>
+        <verse osisID='1Chr.12.13'>Jeremiah (Jérémie), le dixième; Machbanai, le onzième.</verse>
+        <verse osisID='1Chr.12.14'>Ceux-là étaient d’entre les fils de Gad, capitaines de l’armée; un des moindres, avait [la] charge de cent [hommes], et le plus grand, de mille.</verse>
+        <verse osisID='1Chr.12.15'>Ce sont ceux qui passèrent le Jourdain au premier mois, quand il déborde sur toutes ses rives, et ils mirent en fuite tous ceux des vallées, vers l’Est et vers l’Ouest.</verse>
+        <verse osisID='1Chr.12.16'>Et des enfants de Benjamin et de Judah, vinrent vers David, à la forteresse.</verse>
+        <verse osisID='1Chr.12.17'>Et David sortit à leur rencontre, et prit la parole, il leur dit: Si vous êtes venus vers moi [avec des intentions de] paix pour m’aider, mon cœur s’intriquera à vous; mais si vous êtes venus pour me trahir à mes ennemis, voyant qu’il n’y a rien de mal en mes mains, le Dieu de nos pères le voie, et qu’il vous reprenne.</verse>
+        <verse osisID='1Chr.12.18'>Alors l’esprit vint sur Amasai, qui était chef des capitaines, et il dit: Nous sommes à toi, David, et avec toi, fils de Jesse; paix, paix à toi, et paix à ceux qui t’aident, car ton Dieu t’aide. Alors David les reçut, et les établit capitaines de la troupe.</verse>
+        <verse osisID='1Chr.12.19'>Et quelques-uns de Manasseh (Manassé) se rangèrent avec David, quand il vint avec les Philistins pour combattre contre Saul; mais ils ne les aidèrent pas, car les seigneurs des Philistins, après délibération, le renvoyèrent, disant: Il se rangera avec son maître Saul, au péril de nos têtes.</verse>
+        <verse osisID='1Chr.12.20'>Comme il allait à Ziklag, se rangèrent avec lui [des hommes] de Manasseh (Manassé), Adnah, Jozabad, Jediael, et Michael, Jozabad, et Elihu et Zillthai, capitaines des milliers de Manasseh (Manassé), qui étaient de Manasseh (Manassé).</verse>
+        <verse osisID='1Chr.12.21'>Et ils aidèrent David contre la main de maraudeurs; car ils étaient tous des hommes puissants et de valeur, et ils furent capitaines dans l’armée.</verse>
+        <verse osisID='1Chr.12.22'>Car à ce moment-là on arrivait journellement vers David pour l’aider, jusqu’à ce que ce soit une grande armée, comme l’armée de Dieu.</verse>
+        <verse osisID='1Chr.12.23'>Or ce sont ici le nombre des bandes qui étaient préparés et armés pour la guerre, et ils vinrent vers David à Hebron, pour lui remettre le royaume de Saul, selon la parole du SEIGNEUR; #</verse>
+        <verse osisID='1Chr.12.24'>Les enfants de Judah, qui portaient l’écu et la lance, étaient six mille huit cents, préparés et armés pour la guerre. #</verse>
+        <verse osisID='1Chr.12.25'>Des enfants de Simeon, puissants hommes de valeur pour la guerre, sept mille cent.</verse>
+        <verse osisID='1Chr.12.26'>Des enfants de Levi (Lévi), quatre mille six cents;</verse>
+        <verse osisID='1Chr.12.27'>Et Jehoiada, était le conducteur des Aaronites, et avec lui trois mille sept cents;</verse>
+        <verse osisID='1Chr.12.28'>Et Zadok, jeune homme, puissant et de valeur, et de la maison de son père vingt-deux capitaines.</verse>
+        <verse osisID='1Chr.12.29'>Et des enfants de Benjamin, la parenté de Saul, trois mille; car jusqu’alors la plus grande partie d’entre eux faisaient la garde de la maison de Saul.</verse>
+        <verse osisID='1Chr.12.30'>Et des enfants d’Ephraim (Éphraïm), vingt mille huit cents, puissants hommes de valeur, renommés dans toute la maison de leurs pères.</verse>
+        <verse osisID='1Chr.12.31'>Et de la demi-tribu de Manasseh (Manassé), dix-huit mille, qui furent désignés par leur nom pour venir établir David roi.</verse>
+        <verse osisID='1Chr.12.32'>Et des enfants d’Issachar, qui étaient lesquels étaient des hommes qui la connaissance des temps, pour savoir ce qu’Israël devait faire, deux cents de leurs chefs, et tous leurs frères étaient sous leur commandement.</verse>
+        <verse osisID='1Chr.12.33'>De Zebulun (Zabulon), ceux qui allaient à la bataille, entraînés pour la guerre avec tous les instruments de guerre, cinquante mille, qui pouvaient garder leur rang, ils n’avaient pas un cœur double.</verse>
+        <verse osisID='1Chr.12.34'>Et de Naphtali (Nephtali), un millier de capitaines, et avec eux trente-sept mille hommes, portant l’écu et la lance.</verse>
+        <verse osisID='1Chr.12.35'>Et des Danites entraînés pour la guerre, vingt-huit mille six cents.</verse>
+        <verse osisID='1Chr.12.36'>Et d’Asher (Asser), ceux qui allaient au combat, entraînés pour la guerre, quarante mille.</verse>
+        <verse osisID='1Chr.12.37'>Et de l’autre côté du Jourdain des Reubenites (Rubénites), et des Gadites, et de la demi-tribu de Manasseh (Manassé), avec toutes sortes d’instruments de guerre pour combattre, cent vingt mille.</verse>
+        <verse osisID='1Chr.12.38'>Tous, hommes de guerre, qui pouvaient garder leur rang, vinrent avec un cœur parfait à Hebron, pour établir David roi sur tout Israël; et tout le reste d’Israël était d’un seul cœur pour établir David roi.</verse>
+        <verse osisID='1Chr.12.39'>Et ils furent là, avec David trois jours, mangeant et buvant; car leurs frères leur avaient préparé [des vivres].</verse>
+        <verse osisID='1Chr.12.40'>De plus ceux qui étaient les plus près d’eux, c’est-à-dire jusqu’à Issachar, à Zebulun (Zabulon) et à Naphtali (Nephtali), apportaient des vivres sur des ânes, sur des chameaux, et sur des mulets et sur des bœufs; et des aliments, de la farine, des gâteaux de figues et des grappes de raisin, et du vin, et de l’huile, et des bœufs et des brebis en abondance; car il y avait de la joie en Israël.</verse>
+      </chapter>
+      <chapter osisID='1Chr.13'>
+        <verse osisID='1Chr.13.1'>Et David tint conseil avec les capitaines de milliers et de centaines, et avec chaque conducteur.</verse>
+        <verse osisID='1Chr.13.2'>Et David dit à toute la congrégation d’Israël: S’il vous semble bon, et que cela vienne du SEIGNEUR notre Dieu, envoyons de tous côtés vers nos frères qui restent dans tout le pays d’Israël, et aussi vers les prêtres et les Lévites, qui sont dans leurs ville, et faubourgs, afin qu’ils puissent s’assembler vers nous,</verse>
+        <verse osisID='1Chr.13.3'>Et ramenons auprès de nous l’arche de notre Dieu; car nous ne l’avons pas recherchée aux jours de Saul.</verse>
+        <verse osisID='1Chr.13.4'>Et toute la congrégation dit qu’on fasse ainsi, car la chose était bonne aux yeux de tout le peuple.</verse>
+        <verse osisID='1Chr.13.5'>David rassembla donc tout Israël, depuis Shihor d’Égypte, jusqu’à l’entrée de Hemath, pour amener l’arche de Dieu de Kirjathjearim.</verse>
+        <verse osisID='1Chr.13.6'>Et David monta avec tout Israël à Baalah, qui est à Kirjathjearim, laquelle appartient à Judah, pour faire monter de là l’arche de Dieu, le SEIGNEUR, qui demeure entre les chérubins, sur lequel le nom y est invoqué.</verse>
+        <verse osisID='1Chr.13.7'>Et ils transportèrent l’arche de Dieu sur une charrette neuve, depuis la maison d’Abinadab; et Uzza et Ahio conduisaient la charrette.</verse>
+        <verse osisID='1Chr.13.8'>Et David et tout Israël jouaient devant Dieu de toute leur vigueur, en chantant, et en jouant des harpes, et des psaltérions, et des tambourins, et des cymbales et des trompettes.</verse>
+        <verse osisID='1Chr.13.9'>Quand ils arrivèrent à l’aire de Kidon, Uzza étendit sa main pour retenir l’arche, car les bœufs avaient trébuché.</verse>
+        <verse osisID='1Chr.13.10'>Et le courroux du SEIGNEUR s’embrasa contre Uzza, et il le frappa, parce qu’il avait étendu sa main sur l’arche; et il mourut là devant Dieu.</verse>
+        <verse osisID='1Chr.13.11'>Et David fut irrité, parce que le SEIGNEUR avait fait une brèche sur Uzza; c’est pourquoi ce lieu est appelé Perezuzzah jusqu’à ce jour.</verse>
+        <verse osisID='1Chr.13.12'>Et David eut peur de Dieu ce jour-là, disant: Comment amènerais-je l’arche de Dieu chez moi?</verse>
+        <verse osisID='1Chr.13.13'>Aussi David n’amena pas l’arche chez lui, dans la cité de David; mais il la transporta dans la maison d’Obededom, le Gittite.</verse>
+        <verse osisID='1Chr.13.14'>Et l’arche de Dieu resta trois mois avec la famille d’Obededom, dans sa maison. Et le SEIGNEUR bénit la maison d’Obed-Edom et tout ce qui était à lui.</verse>
+      </chapter>
+      <chapter osisID='1Chr.14'>
+        <verse osisID='1Chr.14.1'>Or Hiram, roi de Tyre (Tyr), envoya des messagers à David, et du bois de cèdre, des maçons, et des charpentiers, pour lui bâtir une maison.</verse>
+        <verse osisID='1Chr.14.2'>Et David reconnut que le SEIGNEUR l’avait affermi comme roi sur Israël, et que son royaume était haut élevé, à cause de son peuple Israël.</verse>
+        <verse osisID='1Chr.14.3'>Et David prit encore des femmes à Jérusalem, et il engendra encore des fils et des filles.</verse>
+        <verse osisID='1Chr.14.4'>Et ce sont ici les noms de de ses enfants qu’il eut à Jérusalem Shammuah, et Shobab, Nathan, et Salomon,</verse>
+        <verse osisID='1Chr.14.5'>Et Ibhar, et Elishua, et Elpalet,</verse>
+        <verse osisID='1Chr.14.6'>Et Nogah, et Nepheg, et Japhia,</verse>
+        <verse osisID='1Chr.14.7'>Et Elishama, et Beeliada et Eliphalet.</verse>
+        <verse osisID='1Chr.14.8'>Et quand les Philistins apprirent que David avait ete oint roi sur tout Israël, tous les Philistins montèrent pour chercher David. Et David, l’apprit, et sortit au-devant d’eux.</verse>
+        <verse osisID='1Chr.14.9'>Et les Philistins vinrent, et se répandirent dans la vallée des Rephaim.</verse>
+        <verse osisID='1Chr.14.10'>Et David s’enquerra auprès de Dieu, disant: Monterai-je contre les Philistins? et les livreras-tu en ma main? Et le SEIGNEUR lui dit: Monte, et je les livrerai en ta main.</verse>
+        <verse osisID='1Chr.14.11'>Alors ils montèrent à Baalperazim; et David les frappa là. Puis David dit: Dieu a brisé mes ennemis par ma main, comme la rupture des eaux; c’est pourquoi on appela ce lieu Baalperazim.</verse>
+        <verse osisID='1Chr.14.12'>Et comme ils laissèrent là leurs dieux, David commanda qu’on les brûle bau feu.</verse>
+        <verse osisID='1Chr.14.13'>Et les Philistins se répandirent de nouveau dans la vallée.</verse>
+        <verse osisID='1Chr.14.14'>C’est pourquoi David s’enquerra encore auprès de Dieu; et Dieu lui dit: Ne monte pas après eux, détourne-toi d’eux, et viens sur eux en face des mûriers.</verse>
+        <verse osisID='1Chr.14.15'>Et il arrivera, quand tu entendras un bruit de pas au sommet des mûriers, alors tu sortiras pour combattre; car Dieu sera sorti devant toi pour frapper l’armée des Philistins.</verse>
+        <verse osisID='1Chr.14.16'>David fit donc ce que Dieu lui avait commandé; et ils frappèrent l’armée des Philistins depuis Gibeon jusqu’à Gazer.</verse>
+        <verse osisID='1Chr.14.17'>Et la renommée de David se répandit dans tous les pays, et le SEIGNEUR mit la crainte [de David] sur toutes les nations.</verse>
+      </chapter>
+      <chapter osisID='1Chr.15'>
+        <verse osisID='1Chr.15.1'>Et David se bâtit des maisons dans la cité de David; il prépara un lieu pour l’arche de Dieu, et lui dressa une tente.</verse>
+        <verse osisID='1Chr.15.2'>Alors David dit: Personne ne doit porter l’arche de Dieu seulement les Lévites; car le SEIGNEUR les a choisis pour porter l’arche de Dieu, et pour en faire le service pour toujours.</verse>
+        <verse osisID='1Chr.15.3'>Et David rassembla tout Israël à Jérusalem, pour faire monter l’arche du SEIGNEUR au lieu qu’il lui avait préparé.</verse>
+        <verse osisID='1Chr.15.4'>David assembla aussi les enfants d’Aaron et les Lévites</verse>
+        <verse osisID='1Chr.15.5'>Des fils de Kohath, Uriel le chef, et ses frères, cent vingt;</verse>
+        <verse osisID='1Chr.15.6'>Des fils de Merari, Asaiah, le chef, et ses frères, deux cent vingt;</verse>
+        <verse osisID='1Chr.15.7'>Des fils de Gershom, Joël, le chef et ses frères, cent trente;</verse>
+        <verse osisID='1Chr.15.8'>Des fils d’Elizaphan, Shemaiah, le chef et ses frères, deux cents;</verse>
+        <verse osisID='1Chr.15.9'>Des fils d’Hebron, Eliel, le chef et ses frères, quatre-vingts;</verse>
+        <verse osisID='1Chr.15.10'>Des fils d’Uziel, Amminadab, le chef et ses frères, cent douze.</verse>
+        <verse osisID='1Chr.15.11'>Et David appela Zadok et Abiathar, les prêtres, et des Lévites, Uriel, Asaiah, et Joël, Shemaiah, et Eliel et Amminadab.</verse>
+        <verse osisID='1Chr.15.12'>Et il leur dit: Vous êtes les chefs des pères des Lévites, sanctifiez-vous, vous et vos frères, afin que vous puissiez monter l’arche du SEIGNEUR Dieu d’Israël, au lieu que je lui ai préparé.</verse>
+        <verse osisID='1Chr.15.13'>Car, parce que vous ne l’avez pas fait la première fois, le SEIGNEUR notre Dieu fit une brèche parmi nous; car nous ne l’avons pas recherché selon l’ordre voulu.</verse>
+        <verse osisID='1Chr.15.14'>Ainsi les prêtres et les Lévites se sanctifièrent pour faire monter l’arche du SEIGNEUR, Dieu d’Israël.</verse>
+        <verse osisID='1Chr.15.15'>Et les enfants des Lévites portèrent l’arche de Dieu sur leurs épaules, avec les barres, comme Moïse l’avait commandé, selon la parole du SEIGNEUR.</verse>
+        <verse osisID='1Chr.15.16'>Et David dit aux chefs des Lévites de nommer leurs frères, pour être les chanteurs, avec des instruments de musique, des psaltérions, des harpes et des cymbales, retentissant, en élevant leur voix avec joie.</verse>
+        <verse osisID='1Chr.15.17'>Ainsi les Lévites nommèrent Heman, fils de Joël; et d’entre ses frères, Asaph, le fils de Berechiah; et des fils de Merari, leurs frères, Ethan, le fils de Kushaiah;</verse>
+        <verse osisID='1Chr.15.18'>Et avec eux leurs frères, du second rang, Zechariah, Ben, et Jaaziel, et Shemiramoth, et Jehiel, et Unni, Eliab, et Benaiah, et Maaseiah, et Mattithiah, et Elipheleh, et Mikneiah, et Obededom et Jeiel, les portiers.</verse>
+        <verse osisID='1Chr.15.19'>Ainsi les chanteurs Heman, Asaph et Ethan, étaient nommés aux cymbales de cuivre qu’ils faisaient retentir.</verse>
+        <verse osisID='1Chr.15.20'>Et Zechariah, et Aziel, et Shemiramoth, et Jehiel, et Unni, et Eliab, et Maaseiah et Benaiah avec les psaltérions sur Alamoth;</verse>
+        <verse osisID='1Chr.15.21'>Et Mattithia, et Elipheleh, et Mikneiah, et Obededom, et Jeiel et Azaziah avaient des harpes sur Seminith, pour renforcer le ton.</verse>
+        <verse osisID='1Chr.15.22'>Et Chenaniah, chef des Lévites, pour dirigeait le chant, il enseignait le chant; car il était habile.</verse>
+        <verse osisID='1Chr.15.23'>Et Berechiah et Elkanah étaient portiers de l’arche.</verse>
+        <verse osisID='1Chr.15.24'>Et Shebaniah, et Jehoshaphat, et Nethaneel, et Amasai, et Zechariah, et Benaiah et Eliezer, les prêtres, sonnaient des trompettes devant l’arche de Dieu; et Obededom et Jehiah étaient portiers pour l’arche.</verse>
+        <verse osisID='1Chr.15.25'>Ainsi David, et les anciens d’Israël et les capitaines de milliers, allèrent pour faire monter l’arche de l’alliance du SEIGNEUR de la maison d’Obededom, avec joie.</verse>
+        <verse osisID='1Chr.15.26'>Et il arriva que, lorsque Dieu aida les Lévites qui portaient l’arche de l’alliance du SEIGNEUR, qu’ils sacrifièrent sept taureaux et sept béliers.</verse>
+        <verse osisID='1Chr.15.27'>Et David était vêtu d’une robe de fin lin, ainsi que tous les Lévites qui portaient l’arche, ainsi que les chanteurs et Chenaniah, le directeur des chants et les chanteurs; David aussi avait sur lui un éphod de lin.</verse>
+        <verse osisID='1Chr.15.28'>Ainsi tout Israël accompagna l’arche de l’alliance du SEIGNEUR avec des acclamations, et au son du cor, et avec des trompettes et des cymbales, faisant retentir les psaltérions et les harpes.</verse>
+        <verse osisID='1Chr.15.29'>Et il arriva, comme l’arche de l’alliance du SEIGNEUR entrait dans la cité de David, que Michal, la fille de Saul, regardant par la fenêtre, vit le roi David sautant et dansant, elle le méprisa dans son cœur.</verse>
+      </chapter>
+      <chapter osisID='1Chr.16'>
+        <verse osisID='1Chr.16.1'>Ainsi ils amenèrent l’arche de Dieu, et la placèrent au milieu de la tente que David lui avait dressée; et ils offrirent des offrandes consumées et des offrandes de paix devant Dieu.</verse>
+        <verse osisID='1Chr.16.2'>Et quand David eut achevé d’offrir les offrandes consumées et les offrandes de paix, il bénit le peuple au nom du SEIGNEUR.</verse>
+        <verse osisID='1Chr.16.3'>Et il distribua à tout Israël, hommes et femmes, à chacun une miche de pain, et une belle portion de viande et un flacon de vin.</verse>
+        <verse osisID='1Chr.16.4'>Et il nomma certains des Lévites pour faire le service devant l’arche du SEIGNEUR, pour conserver par écrit, et pour remercier et louer le SEIGNEUR, Dieu d’Israël,</verse>
+        <verse osisID='1Chr.16.5'>Asaph, le chef; et Zechariah, le second après lui, Jeiel, et Shemiramoth, et Jehiel, et Mattithiah, et Eliab, et Benaiah, et Obededom, et Jeiel, avec des psaltérions, et des harpes; et Asaph faisait retentir les cymbales.</verse>
+        <verse osisID='1Chr.16.6'>Benaiah aussi et Jahaziel, les prêtres, étaient continuellement avec des trompettes devant l’arche de l’alliance de Dieu.</verse>
+        <verse osisID='1Chr.16.7'>Et en ce jour-là, David remit premièrement en la main d’Asaph et de ses frères, ce psaume, pou célébrer le SEIGNEUR</verse>
+        <verse osisID='1Chr.16.8'>Remerciez le SEIGNEUR, invoquez son nom, faites connaître parmi les peuples ses actions.</verse>
+        <verse osisID='1Chr.16.9'>Chantez-lui, chantez-lui des psaumes, parlez de toutes ses œuvres merveilleuses.</verse>
+        <verse osisID='1Chr.16.10'>Glorifiez-vous en son saint nom; que le cœur de ceux qui cherchent le SEIGNEUR se réjouisse.</verse>
+        <verse osisID='1Chr.16.11'>Recherchez le SEIGNEUR et sa vigueur; cherchez continuellement sa face.</verse>
+        <verse osisID='1Chr.16.12'>Souvenez-vous de ses œuvres merveilleuses qu’il a faites, de ses prodiges, et des jugements de sa bouche,</verse>
+        <verse osisID='1Chr.16.13'>Ô vous, semence d’Israël, son serviteur, vous, enfants de Jacob, ceux qu’il a choisis.</verse>
+        <verse osisID='1Chr.16.14'>Il est le SEIGNEUR notre Dieu; ses jugements sont sur toute la terre.</verse>
+        <verse osisID='1Chr.16.15'>Prêtez toujours attention à son alliance, à la parole qu’il commanda à un millier de générations;</verse>
+        <verse osisID='1Chr.16.16'>C’est-à-dire de l’alliance qu’il fit avec Abraham, et de son serment [fait] à Isaac,</verse>
+        <verse osisID='1Chr.16.17'>Et qu’il a confirmé à Jacob, pour être une loi, et à Israël, comme une alliance éternelle,</verse>
+        <verse osisID='1Chr.16.18'>En disant: Je te donnerai le pays de Canaan; le lot de votre héritage;</verse>
+        <verse osisID='1Chr.16.19'>Quand vous étiez peu nombreux et étrangers dans le pays,</verse>
+        <verse osisID='1Chr.16.20'>Et quand ils allaient de nation en nation et d’un royaume vers un autre peuple.</verse>
+        <verse osisID='1Chr.16.21'>Il ne permit à personne de leur faire du tort; oui, il reprit des rois à cause d’eux,</verse>
+        <verse osisID='1Chr.16.22'>Disant Ne touchez pas à mes oints, et ne faites pas de mal à mes prophètes.</verse>
+        <verse osisID='1Chr.16.23'>Chantez au SEIGNEUR toute la terre, racontez jour après jour son salut;</verse>
+        <verse osisID='1Chr.16.24'>Déclarez sa gloire parmi les païens, ses œuvres merveilleuses parmi toutes les nations.</verse>
+        <verse osisID='1Chr.16.25'>Car grand est le SEIGNEUR, et très digne d’être loué; il est plus à craindre plus que tous les dieux.</verse>
+        <verse osisID='1Chr.16.26'>Car tous les dieux des peuples sont des idoles; mais le SEIGNEUR a fait les cieux.</verse>
+        <verse osisID='1Chr.16.27'>Gloire et honneur sont en sa présence; vigueur et allégresse sont dans son lieu.</verse>
+        <verse osisID='1Chr.16.28'>Rendez au SEIGNEUR, vous, familles des peuples, rendez au SEIGNEUR gloire et vigueur.</verse>
+        <verse osisID='1Chr.16.29'>Rendez au SEIGNEUR gloire due à son nom; apportez une offrande, et venez devant lui; adorez le SEIGNEUR dans la beauté de sa sainteté.</verse>
+        <verse osisID='1Chr.16.30'>Craignez devant lui, vous, toute la terre; aussi le monde sera stable, si bien qu’il ne sera pas ébranlé.</verse>
+        <verse osisID='1Chr.16.31'>Que les cieux s’égayent, et que la terre se réjouisse; et que les hommes disent parmi les nations: Le SEIGNEUR règne.</verse>
+        <verse osisID='1Chr.16.32'>Que la mer et sa plénitude rugissent; que les champs se réjouissent, avec tout ce qui est en eux.</verse>
+        <verse osisID='1Chr.16.33'>Alors les arbres des forêts chanteront en la présence du SEIGNEUR, parce qu’il vient pour juger la terre.</verse>
+        <verse osisID='1Chr.16.34'>Ô remerciez le SEIGNEUR, car il est bon, car sa miséricorde dure pour toujours.</verse>
+        <verse osisID='1Chr.16.35'>Et dites Sauve-nous, ô Dieu de notre salut, et rassemble-nous, et délivre-nous d’entre les païens, afin que nous puissions remercier ton saint nom, et que nous nous glorifiions dans ta louange.</verse>
+        <verse osisID='1Chr.16.36'>Béni soit le SEIGNEUR Dieu d’Israël, pour toujours et toujours. Et tout le peuple dit: Amen, et loua le SEIGNEUR.</verse>
+        <verse osisID='1Chr.16.37'>Puis il [David] laissa là, devant l’arche de l’alliance du SEIGNEUR, Asaph et ses frères, pour faire continuellement le service, devant l’arche, selon ce qui était requis chaque jour;</verse>
+        <verse osisID='1Chr.16.38'>Et Obededom avec leurs frères, soixante-huit; et Obededom, le fils de Jeduthun, et Hosah, pour portiers;</verse>
+        <verse osisID='1Chr.16.39'>Et Zadok, le prêtre, et ses frères les prêtres, devant le tabernacle du SEIGNEUR, au haut lieu qui était à Gibeon,</verse>
+        <verse osisID='1Chr.16.40'>Pour offrir des offrandes consumées au SEIGNEUR sur l’autel des offrandes consumées continuellement, matin et soir, et pour faire selon tout ce qui est écrit dans la loi du SEIGNEUR, qu’il commanda à Israël.</verse>
+        <verse osisID='1Chr.16.41'>Et avec eux Heman et Jeduthun, et le reste qui fut choisi, et désignés par nom, pour remercier le SEIGNEUR; parce que sa miséricorde dure à toujours.</verse>
+        <verse osisID='1Chr.16.42'>Et Heman et Jeduthun étaient avec eux, avec des trompettes et des cymbales pour ceux qui les faisaient retentir, et les instruments de musique de Dieu. Et les fils de Jeduthum étaient portiers.</verse>
+        <verse osisID='1Chr.16.43'>Et tout le peuple s’en alla, chacun dans sa maison, et David aussi s’en retourna pour bénir sa maison.</verse>
+      </chapter>
+      <chapter osisID='1Chr.17'>
+        <verse osisID='1Chr.17.1'>Or il arriva, comme David était assis dans sa maison, que David dit à Nathan, le prophète: Voici, je demeure dans une maison de cèdre, mais l’arche de l’alliance du SEIGNEUR est sous des tentures.</verse>
+        <verse osisID='1Chr.17.2'>Alors Nathan dit à David: Fais tout ce qui est en ton cœur; car Dieu est avec toi.</verse>
+        <verse osisID='1Chr.17.3'>Et il arriva, cette nuit-là, que la parole de Dieu fut adressée à Nathan, disant:</verse>
+        <verse osisID='1Chr.17.4'>Va, et dis à David, mon serviteur: Ainsi dit le SEIGNEUR: Tu ne me bâtiras pas une maison pour y demeurer.</verse>
+        <verse osisID='1Chr.17.5'>Car je ne suis pas demeuré dans une maison, depuis le jour que j’ai fait monter Israël [hors d’Égypte], jusqu’à ce jour; mais j’ai été de tente en tente, et d’un tabernacle à l’autre.</verse>
+        <verse osisID='1Chr.17.6'>Partout où j’ai marché avec tout Israël, en ai-je parlé à un seul des juges d’Israël, auxquels j’ai commandé de mener mon peuple, disant: Pourquoi ne m’avez-vous pas bâti une maison de cèdres?</verse>
+        <verse osisID='1Chr.17.7'>Et maintenant tu diras ainsi à mon serviteur David: Ainsi dit le SEIGNEUR des armées: Je t’ai pris du parc à brebis, où tu suivais les brebis pour que tu régisses sur mon peuple Israël.</verse>
+        <verse osisID='1Chr.17.8'>Et j’ai été avec toi partout où tu as marché, et j’ai retranché tous tes ennemis de devant toi, et je t’ai fait un nom, comme le nom des grands hommes qui sont sur la terre.</verse>
+        <verse osisID='1Chr.17.9'>Et j’établirai un lieu à mon peuple Israël, et je les planterai, et ils demeureront dans leur place, et ils ne seront plus déplacés; les enfants de perversité ne les consumeront plus, comme au commencement,</verse>
+        <verse osisID='1Chr.17.10'>Et depuis le temps où j’instituai des juges pour être sur mon peuple Israël. De plus je subjuguerai tous tes ennemis. En outre je t’annonce que le SEIGNEUR te bâtira une maison.</verse>
+        <verse osisID='1Chr.17.11'>Et il arrivera, quand tes jours seront achevés, et que tu devras aller pour être avec tes père, que je susciterai ta semence après toi, laquelle sera de tes fils, et j’affermirai son royaume.</verse>
+        <verse osisID='1Chr.17.12'>Il me bâtira une maison, et j’affermirai son trône pour toujours.</verse>
+        <verse osisID='1Chr.17.13'>Je lui serai pour père, et il sera mon fils; et je ne retirerai pas de lui ma miséricorde, comme je l’ai retirée de celui qui a été avant toi.</verse>
+        <verse osisID='1Chr.17.14'>Mais je l’établirai dans ma maison et dans mon royaume pour toujours, et son trône sera affermi pour toujours.</verse>
+        <verse osisID='1Chr.17.15'>Ainsi Nathan parla à David selon toutes ces paroles et selon toute cette vision.</verse>
+        <verse osisID='1Chr.17.16'>Et le roi David entra, s’assit devant le SEIGNEUR, et dit: Qui suis-je, ô SEIGNEUR Dieu, et quelle est ma maison, que tu m’aies amené jusqu’ici?</verse>
+        <verse osisID='1Chr.17.17'>Et cependant cela a été une petite chose à tes yeux, ô Dieu; car tu as aussi parlé de la maison de ton serviteur pour un très lointain avenir, et tu m’as regardé selon le rang d’un homme haut élevé, ô SEIGNEUR Dieu.</verse>
+        <verse osisID='1Chr.17.18'>Que pourrait te dire encore David pour l’honneur [que tu fais] à ton serviteur? Car tu connais ton serviteur.</verse>
+        <verse osisID='1Chr.17.19'>Ô SEIGNEUR, c’est à cause de ton serviteur, et selon ton cœur que tu as fait toute cette grandeur-ci, pour faire connaître toutes ces grandes choses.</verse>
+        <verse osisID='1Chr.17.20'>Ô SEIGNEUR, il n’y en pas de semblable à toi, et il n’y a pas d’autre Dieu que toi, selon tout ce que nous avons entendu de nos oreilles.</verse>
+        <verse osisID='1Chr.17.21'>Et quelle seule nation sur la terre est comme ton peuple Israël, pour laquelle Dieu soit allé racheter pour lui être son peuple, et pour te faire un nom grand et redoutable, en chassant des nations devant ton peuple, lequel tu as racheté d’Égypte?</verse>
+        <verse osisID='1Chr.17.22'>Car tu as fait de ton peuple Israël ton peuple pour toujours; et toi, SEIGNEUR, [tu es] devenu leur Dieu.</verse>
+        <verse osisID='1Chr.17.23'>C’est pourquoi maintenant, SEIGNEUR, que la parole que tu as prononcée concernant ton serviteur et concernant sa maison soit affermie pour toujours, et fais comme tu as dit.</verse>
+        <verse osisID='1Chr.17.24'>Et qu’elle soit affermie, afin que ton nom soit magnifié pour toujours, disant: Le SEIGNEUR des armées est le Dieu d’Israël, c’est-à-dire un Dieu pour Israël; et que la maison de David, ton serviteur, soit affermie devant toi.</verse>
+        <verse osisID='1Chr.17.25'>Car toi, ô mon Dieu, tu as révélé à ton serviteur que tu lui bâtirais une maison; c’est pourquoi ton serviteur a trouvé dans son cœur de prier devant toi.</verse>
+        <verse osisID='1Chr.17.26'>Et maintenant, SEIGNEUR, tu es Dieu, et tu as promis ce bien à ton serviteur.</verse>
+        <verse osisID='1Chr.17.27'>Et maintenant, veuille bénir la maison de ton serviteur, afin qu’elle soit pour toujours devant toi; car tu [l’as bénie], ô SEIGNEUR, et elle sera bénie pour toujours.</verse>
+      </chapter>
+      <chapter osisID='1Chr.18'>
+        <verse osisID='1Chr.18.1'>Or il arriva après cela, que David frappa les Philistins et les subjugua; et il prit Gath et les villes de son ressort, de la main des Philistins.</verse>
+        <verse osisID='1Chr.18.2'>Et il frappa Moab; et les Moabites devinrent serviteurs de David, et lui apportèrent des présents.</verse>
+        <verse osisID='1Chr.18.3'>Et David frappa Hadarezer, roi de Zobah, à Hamath, comme il allait pour établir sa domination près du fleuve Euphrate.</verse>
+        <verse osisID='1Chr.18.4'>Et David lui prit mille chariots, et sept mille cavaliers, et vingt mille fantassins; David aussi coupa les jarrets des chevaux de tous les chariots; mais il en réserva cent chariots.</verse>
+        <verse osisID='1Chr.18.5'>Et quand les Syriens de Damas vinrent au secours de Hadarezer, roi de Zobah, David tua vingt-deux mille hommes des Syriens.</verse>
+        <verse osisID='1Chr.18.6'>Puis David mit des garnisons en Syrie de Damas; et les Syriens devinrent serviteurs de David, et lui apportèrent des présents. Ainsi le SEIGNEUR protégeait David partout où il allait.</verse>
+        <verse osisID='1Chr.18.7'>Et David prit les boucliers d’or qui étaient sur les serviteurs de Hadarezer, et les apporta à Jérusalem.</verse>
+        <verse osisID='1Chr.18.8'>De même de Tibhath et de Chun, villes de Hadarezer, David emporta beaucoup de cuivre, dont Salomon fit la mer de cuivre, et les colonnes et les ustensiles de cuivre.</verse>
+        <verse osisID='1Chr.18.9'>Or quand Tou, roi de Hamath, entendit que David avait frappé toute l’armée de Hadarezer, roi de Zobah;</verse>
+        <verse osisID='1Chr.18.10'>Il envoya Hadoram, son fils, vers le roi David, pour lui demander comment il se portait et le féliciter parce ce qu’il avait combattu Hadarezer, et l’avait frappé; (car Hadarezer était en guerre continuelle avec Tou); et avec lui il envoya toutes sortes de vases d’or, d’argent et de cuivre.</verse>
+        <verse osisID='1Chr.18.11'>Puis le roi David les consacra au SEIGNEUR, avec l’argent et l’or qu’il avait emporté de toutes les nations, d’Edom, et de Moab, et des enfants d’Ammon, et des Philistins et d’Amalek.</verse>
+        <verse osisID='1Chr.18.12'>De plus Abishai, le fils de Zeruiah, tua dix-huit mille Edomites dans la vallée du Sel.</verse>
+        <verse osisID='1Chr.18.13'>Et il mit des garnisons en Edom, et tous les Edomites devinrent serviteurs de David. Ainsi le SEIGNEUR protégeait David partout où il allait.</verse>
+        <verse osisID='1Chr.18.14'>Et David régna sur tout Israël, et rendait jugement et justice à tout son peuple.</verse>
+        <verse osisID='1Chr.18.15'>Et Joab, le fils de Zeruiah, avait charge sur toute l’armée; et Jehoshaphat, le fils d’Ahilud, était archiviste;</verse>
+        <verse osisID='1Chr.18.16'>Et Zadok, le fils d’Ahitub, et Abimelech, le fils d’Abiathar, étaient prêtres, et Shavsha était scribe;</verse>
+        <verse osisID='1Chr.18.17'>Et Benaiah, le fils de Jehoiada, était sur les Cherethites et les Pelethites; et les fils de David étaient chefs auprès du roi.</verse>
+      </chapter>
+      <chapter osisID='1Chr.19'>
+        <verse osisID='1Chr.19.1'>Or il arriva, après cela, que Nahash, le roi des enfants d’Ammon, mourut; et son fils régna à sa place.</verse>
+        <verse osisID='1Chr.19.2'>Et David dit: J’userai de bonté envers Hanun, le fils de Nahash, car son père a usé de bonté envers moi. Et David envoya des messagers pour le consoler au sujet de son père. Et les serviteurs de David vinrent au pays des enfants d’Ammon vers Hanun, pour le consoler.</verse>
+        <verse osisID='1Chr.19.3'>Mais les princes des enfants d’Ammon dirent à Hanun: Penses-tu que ce soit pour honorer ton père que David t’a envoyé des consolateurs? Ses serviteurs ne sont-ils pas venus auprès de toi pour reconnaître, et détruire, et épier le pays?</verse>
+        <verse osisID='1Chr.19.4'>C’est pourquoi Hanun prit les serviteurs de David, les fit raser, et fit couper leurs vêtements par le milieu, jusqu’aux fesses, et les renvoya.</verse>
+        <verse osisID='1Chr.19.5'>Puis certains [hommes] vinrent dire à David comment les hommes avaient été traités. Et il envoya à leur rencontre, car les hommes étaient fort honteux. Et le roi dit: Restez à Jéricho jusqu’à ce que votre barbe ait repoussé, et alors vous reviendrez.</verse>
+        <verse osisID='1Chr.19.6'>Et quand les enfants d’Ammon virent qu’ils s’étaient rendus odieux envers David, Hanun et les enfants d’Ammon envoyèrent mille talents d’argent, pour soudoyer des chariots et des cavaliers de la Mésopotamie, et de la Syriamaacah et de Zobah;</verse>
+        <verse osisID='1Chr.19.7'>Ainsi ils soudoyèrent trente-deux mille chariots, et le roi de Maachah avec son peuple, lesquels vinrent et campèrent devant Medeba. Et les enfants d’Ammon se rassemblèrent de leurs villes, et vinrent pour combattre.</verse>
+        <verse osisID='1Chr.19.8'>Et quand David l’apprit, il envoya Joab et toute l’armée, les hommes puissants.</verse>
+        <verse osisID='1Chr.19.9'>Et les enfants d’Ammon sortirent et se mirent en ordre de bataille à l’entrée de la ville; et les rois qui étaient venus, étaient à part dans la campagne.</verse>
+        <verse osisID='1Chr.19.10'>Or quand Joab vit que la bataille était dressée contre lui devant et derrière, il choisit de toutes [les troupes] d’élite d’Israël, et les déploya contre les Syriens;</verse>
+        <verse osisID='1Chr.19.11'>Et le reste du peuple, il le donna en la main d’Abishai, son frère; et ils se déployèrent contre les enfants d’Ammon.</verse>
+        <verse osisID='1Chr.19.12'>Et il dit: Si les Syriens sont plus forts que moi, tu viendras alors m’aider; et si les enfants d’Ammon sont plus forts que toi, alors je t’aiderai.</verse>
+        <verse osisID='1Chr.19.13'>Sois plein de courage, et montrons-nous vaillants pour notre peuple, et pour les villes de notre Dieu; et que le SEIGNEUR fasse ce qui lui semble bon.</verse>
+        <verse osisID='1Chr.19.14'>Alors Joab, et le peuple qui était avec lui, s’approchèrent pour livrer bataille aux Syriens, et ils s’enfuirent devant lui.</verse>
+        <verse osisID='1Chr.19.15'>Et quand les enfants d’Ammon, virent que les Syriens s’étaient enfuis, ils s’enfuirent aussi devant Abishai, son frère, et rentrèrent dans la ville. Et Joab alla à Jérusalem.</verse>
+        <verse osisID='1Chr.19.16'>Et quand les Syriens virent qu’ils avaient été battus par Israël, ils envoyèrent des messagers, et firent sortir les Syriens qui étaient de l’autre côte du fleuve; et Shophach, le capitaine de l’armée de Hadarezer, était à leur tête.</verse>
+        <verse osisID='1Chr.19.17'>Et cela fut rapporté à David, et il rassembla tout Israël, passa le Jourdain, vint vers eux, et se déploya en ordre de bataille contre eux. Aussi quand David se rangea en bataille contre les Syriens, ils se battirent avec lui.</verse>
+        <verse osisID='1Chr.19.18'>Mais les Syriens s’enfuirent devant Israël; et David tua parmi les Syriens sept mille hommes qui combattaient dans des chariots, et quarante mille fantassins, et tua Shophach, le capitaine de l’armée.</verse>
+        <verse osisID='1Chr.19.19'>Et quand les serviteurs de Hadarezer virent qu’ils avaient été battus par Israël, ils firent la paix avec David, et devinrent ses serviteurs; et les Syriens ne voulurent plus aider les enfants d’Ammon.</verse>
+      </chapter>
+      <chapter osisID='1Chr.20'>
+        <verse osisID='1Chr.20.1'>Et il arriva après que l’année soit passée, au temps où les rois sortent en campagne, que Joab conduisit le gros de l’armée, et dévasta le pays des enfants d’Ammon et alla assiéger Rabbah. Mais David restait à Jérusalem. Et Joab frappa Rabbah et la détruisit.</verse>
+        <verse osisID='1Chr.20.2'>Et David prit la couronne de dessus la tête de leur roi, et la trouva du poids d’un talent d’or; et il y avait des pierres précieuses; et elle fut mise sur la tête de David, et il emmena de la ville un fort grand butin.</verse>
+        <verse osisID='1Chr.20.3'>Et il fit sortir le peuple qu’y était et les scia avec des scies, et avec des herses de fer et des haches. David fit ainsi à toutes les villes des enfants d’Ammon. Et David et tout le peuple retournèrent à Jérusalem.</verse>
+        <verse osisID='1Chr.20.4'>Et il arriva après cela, qu’une guerre s’éleva à Gezer (Guézer) avec les Philistins; au cours de laquelle Sibbechai, le Hushathite, tua Sippai, qui était [un] des enfants du géant; et ils furent assujettis.</verse>
+        <verse osisID='1Chr.20.5'>Il y eut encore guerre avec les Philistins; et Elhanan, le fils de Jair, tua Lahmi, le frère de Goliath, le Gitthite, dont le bois de sa lance était comme une ensouple de tisserand.</verse>
+        <verse osisID='1Chr.20.6'>Et il y eut encore une autre guerre, à Gath, où se trouva un homme de haute stature, qui avait six doigts à chaque main et six à chaque pied, vingt-quatre en tout, et il était aussi le fils du géant.</verse>
+        <verse osisID='1Chr.20.7'>Mais lorsqu’il défia Israël, Jonathan, le fils de Shimeah, frère de David, le tua.</verse>
+        <verse osisID='1Chr.20.8'>Ceux-là étaient nés au géant à Gath; et ils tombèrent par la main de David, et de la main de ses serviteurs.</verse>
+      </chapter>
+      <chapter osisID='1Chr.21'>
+        <verse osisID='1Chr.21.1'>Et Satan se dressa contre Israël, et incita David à faire le dénombrement d’Israël.</verse>
+        <verse osisID='1Chr.21.2'>Et David dit à Joab et aux dirigeants du peuple: Allez, faites le dénombrement d’Israël, depuis Beersheba jusqu’à Dan, et rapportez-le-moi, afin que je le connaisse.</verse>
+        <verse osisID='1Chr.21.3'>Et Joab répondit: Que le SEIGNEUR fasse son peuple cent fois plus nombreux qu’il est; mais mon seigneur le roi, ne sont-ils pas tous serviteurs de mon seigneur? Pourquoi donc mon seigneur demande-t-il cette chose? Pourquoi cela serait-il imputé à Israël?</verse>
+        <verse osisID='1Chr.21.4'>Cependant la parole du roi prévalut sur Joab. C’est pourquoi Joab partit, et parcourut tout Israël, et revint à Jérusalem.</verse>
+        <verse osisID='1Chr.21.5'>Et Joab donna à David le total du nombre du peuple. Et il se trouva de tout Israël onze cent mille hommes tirant l’épée; et de Judah quatre cent soixante et dix mille hommes tirant l’épée;</verse>
+        <verse osisID='1Chr.21.6'>Mais Levi (Lévi) et Benjamin ne furent pas comptés parmi eux; car la parole du roi était une abomination pour Joab.</verse>
+        <verse osisID='1Chr.21.7'>Et cette chose déplut à Dieu, c’est pourquoi il frappa Israël.</verse>
+        <verse osisID='1Chr.21.8'>Et David dit à Dieu: J’ai grandement péché d’avoir fait cette chose; mais maintenant, fais passer, je te supplie, l’iniquité de ton serviteur; car j’ai agi très follement.</verse>
+        <verse osisID='1Chr.21.9'>Et le SEIGNEUR parla à Gad, le voyant de David, disant:</verse>
+        <verse osisID='1Chr.21.10'>Va et parle à David, disant: Ainsi dit le SEIGNEUR: J’ai trois choses à te proposer; choisis l’une d’elles, afin que je te la fasse.</verse>
+        <verse osisID='1Chr.21.11'>Et Gad vint vers David, et lui dit: Ainsi dit le SEIGNEUR: Choisis,</verse>
+        <verse osisID='1Chr.21.12'>Ou trois années de famine, ou d’être détruit [pendant] trois mois devant tes ennemis, en sorte que l’épée de tes ennemis t’atteigne, ou pendant trois jours l’épée du SEIGNEUR et la pestilence dans le pays, et l’ange du SEIGNEUR détruisant dans tout le territoire d’Israël. Maintenant donc considère la parole que je dois rapporter à celui qui m’a envoyé.</verse>
+        <verse osisID='1Chr.21.13'>Et David dit à Gad: Je suis dans une grande détresse; laisse-moi tomber maintenant en la main du SEIGNEUR; car très grandes sont ses miséricordes; mais ne me laisse pas tomber en la main des hommes.</verse>
+        <verse osisID='1Chr.21.14'>Alors le SEIGNEUR envoya la pestilence sur Israël, et il tomba soixante et dix mille hommes d’Israël.</verse>
+        <verse osisID='1Chr.21.15'>Et Dieu envoya un ange à Jérusalem pour la détruire; et comme il était en train de la détruire, le SEIGNEUR regarda, et se repentit de ce mal, et dit à l’ange qui détruisait: Assez, Retire maintenant ta main. Et l’ange du SEIGNEUR se tenait près de l’aire d’Ornan, le Jebusite.</verse>
+        <verse osisID='1Chr.21.16'>Et David leva ses yeux et vit l’ange du SEIGNEUR qui était entre la terre et le ciel, ayant en sa main une épée nue étendue sur Jérusalem. Alors David et les anciens d’Israël, qui étaient couverts de sacs, tombèrent sur leurs visages.</verse>
+        <verse osisID='1Chr.21.17'>Et David dit à Dieu: N’est-ce pas moi qui ai commandé de dénombrer le peuple? C’est moi qui ai péché et qui ai mal agi; mais quant à ces brebis, qu’ont-elles fait? Que ta main, je te prie, ô SEIGNEUR, mon Dieu, soit sur moi, et sur la maison de mon père, mais [qu’elle ne soit] pas sur ton peuple, qu’il ne soit pas frappé de la pestilence.</verse>
+        <verse osisID='1Chr.21.18'>Puis l’ange du SEIGNEUR commanda à Gad de dire à David, que David monte pour dresser un autel au SEIGNEUR, dans l’aire d’Ornan, le Jebusite.</verse>
+        <verse osisID='1Chr.21.19'>Et David monta, selon la parole de Gad, qu’il avait dite au nom du SEIGNEUR.</verse>
+        <verse osisID='1Chr.21.20'>Et Ornan se retourna et vit l’ange, et ses quatre fils avec lui se tenaient cachés. Or Ornan foulait le blé.</verse>
+        <verse osisID='1Chr.21.21'>Et comme David venait vers Ornan; Ornan regarda, et vit David, et sortit de l’aire, et s’inclina devant David, son visage contre terre.</verse>
+        <verse osisID='1Chr.21.22'>Alors David dit à Ornan: Accorde-moi la place de cette aire, afin que je puisse y bâtir un autel au SEIGNEUR; tu me l’accorderas pour le plein prix, afin que la plaie puisse être retirée du peuple.</verse>
+        <verse osisID='1Chr.21.23'>Et Ornan dit à David: Prends-la, et que mon seigneur le roi fasse ce qui est bon à ses yeux. Voici, je te donne aussi les bœufs pour les offrandes consumées, et les instruments à fouler pour le bois, et le blé pour l’offrande de farine; je donne tout cela.</verse>
+        <verse osisID='1Chr.21.24'>Et le roi David dit à Ornan: Non, mais certainement je l’achèterai pour son plein prix; car je ne prendrai pas pour le SEIGNEUR ce qui est à toi, et je n’offrirai pas non plus d’offrandes consumées qui ne coûtent rien.</verse>
+        <verse osisID='1Chr.21.25'>Ainsi David donna à Ornan pour la place, le poids de six cents shekels d’or.</verse>
+        <verse osisID='1Chr.21.26'>Et David bâtit là un autel au SEIGNEUR, offrit des offrandes consumées et des offrandes de paix, et appela le SEIGNEUR, et il lui répondit du ciel par le feu qui descendit sur l’autel de l’offrande consumée.</verse>
+        <verse osisID='1Chr.21.27'>Alors le SEIGNEUR parla à l’ange, qui remit son épée dans le fourreau.</verse>
+        <verse osisID='1Chr.21.28'>En ce temps-là lorsque David vit que le SEIGNEUR lui avait répondu dans l’aire d’Ornan, le Jebusite, il y sacrifia.</verse>
+        <verse osisID='1Chr.21.29'>Car le tabernacle du SEIGNEUR, que Moïse avait fait dans le désert, et l’autel des offrandes consumées, étaient, en ce temps-là, sur le haut lieu à Gibeon (Gabaon).</verse>
+        <verse osisID='1Chr.21.30'>Mais David ne pouvait pas aller devant l’[autel] pour s’enquérir de Dieu, car il avait peur de l’épée de l’ange du SEIGNEUR.</verse>
+      </chapter>
+      <chapter osisID='1Chr.22'>
+        <verse osisID='1Chr.22.1'>Puis David dit: C’est Ici la maison du SEIGNEUR Dieu, et c’est ici l’autel des offrandes consumées pour Israël.</verse>
+        <verse osisID='1Chr.22.2'>Et David commanda de rassembler les étrangers qui étaient dans le pays d’Israël, et il établit des tailleurs de pierres pour tailler les pierres de taille, pour bâtir la maison de Dieu.</verse>
+        <verse osisID='1Chr.22.3'>Et David prépara du fer en abondance, pour les clous des battants des portes, et pour les assemblages, et du cuivre en abondance, d’un poids incalculable,</verse>
+        <verse osisID='1Chr.22.4'>Et des bois de cèdre en abondance; car les Sidoniens et ceux de Tyre (Tyr) avaient amené à David beaucoup de bois de cèdre.</verse>
+        <verse osisID='1Chr.22.5'>Et David disait: Salomon, mon fils, est jeune et [d’un âge] tendre, et la maison qu’il faut bâtir pour le SEIGNEUR doit être extraordinairement magnifique, en renom et en gloire dans tous les pays; c’est pourquoi je ferai maintenant les préparatifs pour elle. Ainsi David prépara abondamment, avant sa mort.</verse>
+        <verse osisID='1Chr.22.6'>Puis il appela Salomon, son fils, et le chargea de bâtir une maison au SEIGNEUR Dieu d’Israël.</verse>
+        <verse osisID='1Chr.22.7'>Et David dit à Salomon: Mon fils, quant à moi, c’était dans ma pensée de bâtir une maison au nom du SEIGNEUR mon Dieu.</verse>
+        <verse osisID='1Chr.22.8'>Mais la parole du SEIGNEUR vint à moi, disant: Tu as versé beaucoup de sang, et tu as fait de grandes guerres; tu ne bâtiras pas une maison à mon nom, parce que tu as versé beaucoup de sang sur la terre à ma vue.</verse>
+        <verse osisID='1Chr.22.9'>Voici, un fils te naîtra, lequel sera un homme de repos, et je lui donnerai du repos de tous ses ennemis, tout autour, car son nom sera Salomon, et je donnerai paix et tranquillité à Israël durant ses jours.</verse>
+        <verse osisID='1Chr.22.10'>Il bâtira une maison pour mon nom; et il sera mon fils, et je serai son père; et j’affermirai le trône de son royaume sur Israël, pour toujours.</verse>
+        <verse osisID='1Chr.22.11'>Maintenant, mon fils, que le SEIGNEUR soit avec toi, et que tu prospères, et que tu bâtisses la maison du SEIGNEUR ton Dieu, ainsi qu’il l’a dit de toi.</verse>
+        <verse osisID='1Chr.22.12'>Seulement que le SEIGNEUR te donne sagesse et intelligence, et qu’il te donne charge concernant Israël, afin que tu puisses garder la loi du SEIGNEUR ton Dieu.</verse>
+        <verse osisID='1Chr.22.13'>Alors tu prospéreras, si tu prends garde à pratiquer les statuts et les jugements que le SEIGNEUR commanda à Moïse concernant Israël. Sois fort et prends courage; ne crains pas et ne t’effraye pas.</verse>
+        <verse osisID='1Chr.22.14'>Or voici, mon en mon affliction, j’ai préparé pour la maison du SEIGNEUR cent mille talents d’or et un million de talents d’argent; et du cuivre et du fer, sans poids, car il y en a en abondance; j’ai aussi préparé du bois et des pierres, et tu peux en ajouter.</verse>
+        <verse osisID='1Chr.22.15'>De plus il y a avec toi des ouvriers en abondance, des tailleurs de pierres, et des maçons, et des charpentiers, et toutes sortes d’hommes talentueux en tout genre d’ouvrage.</verse>
+        <verse osisID='1Chr.22.16'>Il y en a de l’or, de l’argent, du cuivre et du fer, sans nosmbre; lève-toi donc et au travail, et que le SEIGNEUR soit avec toi.</verse>
+        <verse osisID='1Chr.22.17'>David commanda aussi à tous les princes d’Israël d’aider Salomon, son fils, disant:</verse>
+        <verse osisID='1Chr.22.18'>Le SEIGNEUR votre Dieu n’est-il pas avec vous? Et ne vous a-t-il pas donné du repos de tous côtés? Car il a livré en ma main les habitants du pays, et le pays est assujetti devant le SEIGNEUR et devant son peuple.</verse>
+        <verse osisID='1Chr.22.19'>Maintenant appliquez votre cœur et votre âme à rechercher le SEIGNEUR, votre Dieu; levez-vous donc, et bâtissez le sanctuaire du SEIGNEUR Dieu, afin d’amener l’arche de l’alliance du SEIGNEUR et les saints ustensiles de Dieu, dans la maison qui doit être bâtie au nom du SEIGNEUR.</verse>
+      </chapter>
+      <chapter osisID='1Chr.23'>
+        <verse osisID='1Chr.23.1'>Et lorsque David étant vieux et rassasié de jours, il établit Salomon, son fils, roi sur Israël.</verse>
+        <verse osisID='1Chr.23.2'>Et il rassembla tous les princes d’Israël, ainsi que les prêtres et les Lévites.</verse>
+        <verse osisID='1Chr.23.3'>Et on dénombra les Lévites, depuis l’âge de trente ans et au-dessus; et leur nombre fut, par leur liste de personnes, par homme, de trente-huit mille.</verse>
+        <verse osisID='1Chr.23.4'>Parmi lesquels vingt-quatre mille étaient assignés à l’œuvre de la maison de le SEIGNEUR, et six mille étaient officiers et juges;</verse>
+        <verse osisID='1Chr.23.5'>De plus quatre mille étaient portiers, et quatre mille louaient le SEIGNEUR, avec les instruments que j’ai faits, dit: David, pour le louer.</verse>
+        <verse osisID='1Chr.23.6'>Et David les divisa en branches d’après les fils de Levi (Lévi), c’est-à-dire Gershon (Guershon), Kohath et Merari.</verse>
+        <verse osisID='1Chr.23.7'>Des Gershonites étaient Laadan et Shimei.</verse>
+        <verse osisID='1Chr.23.8'>Les fils de Laedan le chef était Jehiel, et Zetham et Joël, trois.</verse>
+        <verse osisID='1Chr.23.9'>Les fils de Shimei Shelomith, et Haziel et Haran, trois. Ceux-ci étaient les chefs des pères de la famille de Laedan.</verse>
+        <verse osisID='1Chr.23.10'>Et les fils de Shimei étaient Jahath, Zina, et Jeush et Beriah. Ces quatre étaient les fils de Shimei.</verse>
+        <verse osisID='1Chr.23.11'>Et Jahath était le chef, et Zizah le second; mais Jeush et Beriah n’eurent pas beaucoup de fils, c’est pourquoi ils furent comptés pour une seule [branche], selon la famille de leur père.</verse>
+        <verse osisID='1Chr.23.12'>Les fils de Kohath Amram, Izhar, Hebron et Uziel, quatre.</verse>
+        <verse osisID='1Chr.23.13'>Les fils d’Amram Aaron et Moïse; et Aaron fut séparé, pour sanctifier les choses les plus saintes, lui et ses fils, pour toujours, pour brûler l’encens devant le SEIGNEUR, pour faire son service, et pour bénir en son nom à toujours.</verse>
+        <verse osisID='1Chr.23.14'>Quant à Moïse, l’homme de Dieu, ses fils furent appelés de la tribu de Levi (Lévi).</verse>
+        <verse osisID='1Chr.23.15'>Les fils de Moïse Gershom et Eliezer.</verse>
+        <verse osisID='1Chr.23.16'>Des fils de Gershom Shebuel était le chef.</verse>
+        <verse osisID='1Chr.23.17'>Et les fils d’Eliezer furent Rehabiah, le chef. Et Eliezer n’eut pas d’autres fils, mais les fils de Rehabiah furent très nombreux.</verse>
+        <verse osisID='1Chr.23.18'>Et les fils de Izhar Shelomith, le chef.</verse>
+        <verse osisID='1Chr.23.19'>Des fils de Hebron Jeriah, le premier; Amariah, le second; Jahaziel, le troisième; et Jekameam, le quatrième.</verse>
+        <verse osisID='1Chr.23.20'>Des fils d’Uziel Michah (Michée), le premier; et Jesiah, le second.</verse>
+        <verse osisID='1Chr.23.21'>Les fils de Merari Mahli et Mushi. Les fils de Mahli Eleazar et Kish.</verse>
+        <verse osisID='1Chr.23.22'>Et Eleazar mourut sans avoir de fils; mais [il eut] des filles; et les fils de Kish, leurs frères, les prirent [pour femmes].</verse>
+        <verse osisID='1Chr.23.23'>Les fils de Mushi Mahli, et Eder et Jeremoth, trois.</verse>
+        <verse osisID='1Chr.23.24'>Ceux-ci furent les fils de Levi (Lévi), selon les maisons de leurs pères c’est-à-dire, les chefs des pères, qui furent comptés selon le nombre de leurs noms d’après leurs listes, lesquels faisaient l’œuvre du service de la maison de le SEIGNEUR, depuis l’âge de vingt ans et au-dessus.</verse>
+        <verse osisID='1Chr.23.25'>Car David, avait dit le Seigneur Dieu d’Israël, a donné du repos à son peuple, afin qu’il puisse demeurer à Jérusalem, pour toujours;</verse>
+        <verse osisID='1Chr.23.2'>Et aussi aux Lévites, ils n’auront plus à porter le tabernacle, ni tous les ustensiles pour son service.</verse>
+        <verse osisID='1Chr.23.27'>Car d’après les dernières paroles de David, les Lévites furent comptés depuis l’âge de vingt ans et au-dessus.</verse>
+        <verse osisID='1Chr.23.28'>Parce que leur place était d’assister les fils d’Aaron, pour le service de la maison du SEIGNEUR, sur les cours, et sur les chambres, et sur la purification des choses saintes, et sur l’œuvre du service de la maison de Dieu;</verse>
+        <verse osisID='1Chr.23.29'>Et pour le pain de présentation, et pour la fleur de farine pour l’offrande de farine, et pour les gâteaux sans levain, et pour ce qui se cuit sur la plaque, et pour ce qui est frit, et pour toutes sortes de mesures de mesure de capacité et de dimension.</verse>
+        <verse osisID='1Chr.23.30'>Et pour se présenter chaque matin afin de remercier et de louer le SEIGNEUR, et de même chaque soir,</verse>
+        <verse osisID='1Chr.23.31'>Et pour offrir toutes les offrandes consumées au SEIGNEUR, aux sabbats, aux nouvelles lunes, et aux fêtes établies, en succession, [et] continuellement, devant le SEIGNEUR selon l’ordonnance qui leur avait été commandée.</verse>
+        <verse osisID='1Chr.23.32'>Et afin qu’ils gardent la charge du tabernacle de la congrégation, ainsi que la charge du Iieu saint, et la charge des fils d’Aaron, leurs frères, pour le service de la maison du SEIGNEUR.</verse>
+      </chapter>
+      <chapter osisID='1Chr.24'>
+        <verse osisID='1Chr.24.1'>Et quant aux fils d’Aaron, ce sont ici leurs divisions. Les fils d’Aaron Nadab, et Abihu, Eleazar et Ithamar.</verse>
+        <verse osisID='1Chr.24.2'>Mais Nadab et Abihu moururent avant leur père, et n’eurent pas d’enfants; c’est pourquoi Eleazar et Ithamar exercèrent la fonction de prêtres.</verse>
+        <verse osisID='1Chr.24.3'>Et David les répartit, Zadok des fils d’Eleazar, et Ahimelech des fils d’Ithamar selon leurs fonctions dans leur service.</verse>
+        <verse osisID='1Chr.24.4'>Et on trouva parmi les fils d’Eleazar plus de chefs que parmi les fils d’Ithamar, et ils furent divisés ainsi parmi les fils d’Eleazar, il y avait seize chefs de maisons de pères, et huit parmi les fils d’Ithamar, selon les maisons de leurs pères.</verse>
+        <verse osisID='1Chr.24.5'>Ainsi ils furent divisés par lot, les uns avec les autres; car les gouverneurs du sanctuaire et les gouverneurs de la maison de Dieu étaient des fils d’Eleazar et des fils d’Ithamar.</verse>
+        <verse osisID='1Chr.24.6'>Et Shemaiah, le fils de Nethaneel, le scribe, un des Lévites, les inscrivit devant le roi et les princes, de Zadok, le prêtre, et d’Ahimelech, le fils d’Abiathar, et devant les chefs des pères des prêtres et des Lévites une maison principale était tirée pour Eleazar, et une était tirée pour Ithamar.</verse>
+        <verse osisID='1Chr.24.7'>Or le premier lot échut à Jehoiarib; le second, à Jedaiah;</verse>
+        <verse osisID='1Chr.24.8'>Le troisième, à Harim; le quatrième, à Seorim;</verse>
+        <verse osisID='1Chr.24.9'>Le cinquième, à Malchijah; le sixième, à Mijamin;</verse>
+        <verse osisID='1Chr.24.10'>Le septième, à Hakkoz; le huitième, à Abijah;</verse>
+        <verse osisID='1Chr.24.11'>Le neuvième, à Jeshua; le dixième, à Shecaniah;</verse>
+        <verse osisID='1Chr.24.12'>Le onzième, à Eliashib; le douzième, à Jakim;</verse>
+        <verse osisID='1Chr.24.13'>Le treizième, à Huppah; le quatorzième, à Jeshebeab;</verse>
+        <verse osisID='1Chr.24.14'>Le quinzième, à Bilgah; le seizième, à Immer;</verse>
+        <verse osisID='1Chr.24.15'>Le dix-septième, à Hezir; le dix-huitième, à Aphses;</verse>
+        <verse osisID='1Chr.24.16'>Le dix-neuvième, à Pethahia; le vingtième, à Jehezekel;</verse>
+        <verse osisID='1Chr.24.17'>Le vingt et unième, à Jachin; le vingt-deuxième, à Gamul;</verse>
+        <verse osisID='1Chr.24.18'>Le vingt-troisième, à Delaiah; le vingt-quatrième, à Maaziah.</verse>
+        <verse osisID='1Chr.24.19'>Ceux-ci furent leur ordre pour leur service, pour entrer dans la maison du SEIGNEUR, selon leur usage, [établi] par Aaron, leur père, comme le SEIGNEUR Dieu d’Israël, le lui avait commandé.</verse>
+        <verse osisID='1Chr.24.20'>Et [pour] le reste des fils de Levi (Lévi), il y avait: Des fils d’Amram Shubael; et des fils de Shubael Jehdeiah;</verse>
+        <verse osisID='1Chr.24.21'>De Rehabiah, des fils de Rehabiah, le premier était Isshiah.</verse>
+        <verse osisID='1Chr.24.22'>Des Izharites, Shelomoth; des fils de Shelomoth, Jahath.</verse>
+        <verse osisID='1Chr.24.23'>Et les fils de Hebron, Jeriah, le premier, Amariah le second, Jahaziel le troisième, Jekameam le quatrième.</verse>
+        <verse osisID='1Chr.24.24'>Des fils d’Uzziel, Michah (Michée), des fils de Michah (Michée), Shamir.</verse>
+        <verse osisID='1Chr.24.25'>Le frère de Michah (Michée), était Isshiah; des fils de Isshiah, Zechariah.</verse>
+        <verse osisID='1Chr.24.26'>Les fils de Merari étaient Mahli et Mushi; les fils de Jaaziah, Beno.</verse>
+        <verse osisID='1Chr.24.27'>Les fils de Merari, de Jaaziah, Beno et Shoham, et Zaccur et Ibri.</verse>
+        <verse osisID='1Chr.24.28'>De Mahli vint Eleazar qui n’eut pas de fils;</verse>
+        <verse osisID='1Chr.24.29'>De Kish, le fils de Kish était Jerahmeel.</verse>
+        <verse osisID='1Chr.24.30'>Et les fils de Mushi, Mahli, et Eder et Jerimoth. Ce sont les fils des Lévites, selon la maison de leurs pères.</verse>
+        <verse osisID='1Chr.24.31'>Eux aussi, tirèrent le lots conformément à leurs frères, les fils d’Aaron, en présence du roi David, de Zadok et d’Ahimelech, et des chefs des pères des prêtres et des Lévites, c’est-à-dire les principaux pères conformément à leurs plus jeunes frères.</verse>
+      </chapter>
+      <chapter osisID='1Chr.25'>
+        <verse osisID='1Chr.25.1'>De plus DAVID et les capitaines de l’armée mirent à part pour le service, ceux des fils d’Asaph, d’Heman et de Jeduthun, qui devaient prophétiser avec des harpes, des psaltérions et des cymbales; et le nombre des hommes employés au service était</verse>
+        <verse osisID='1Chr.25.2'>Des fils d’Asaph Zaccur, et Joseph, Nethaniah et Asareiah, les fils d’Asaph, sous la direction d’Asaph, qui prophetisait selon l’ordre du roi;</verse>
+        <verse osisID='1Chr.25.3'>De Jeduthun, les fils de Jeduthun Gedaliah (Guedalia), et Zeri, et Jeshaiah, Hashabiah, et Mattithiah [et Shimei], six, sous la direction de leur père Jeduthun, qui prophétisait avec la harpe pour remercier et louer le SEIGNEUR;</verse>
+        <verse osisID='1Chr.25.4'>De Heman, les fils de Heman Bukkiah, Mattaniah, Uzziel, Shebuel, et Jerimoth, Hananiah, Hanani, Eliathah, Giddalti, et Romamtiezer, Joshbekashah, Mallothi, Hothir et Mahazioth.</verse>
+        <verse osisID='1Chr.25.5'>Tous ceux-là étaient fils de Heman, le voyant du roi pour en exalter la corne. Et Dieu donna à Heman quatorze fils et trois filles.</verse>
+        <verse osisID='1Chr.25.6'>Tous ceux-là étaient sous les mains de leurs pères, pour le chant dans la maison du SEIGNEUR, avec des cymbales, des psaltérions et des harpes, pour le service de la maison de Dieu, selon l’ordre du roi donné à Asaph, Jeduthun et Heman.</verse>
+        <verse osisID='1Chr.25.7'>Ainsi le nombre, avec leurs frères auxquels on avaient enseigné les cantiques du SEIGNEUR, c’est-à-dire tous les [hommes] talentueux, était de deux cent quatre-vingt-huit.</verse>
+        <verse osisID='1Chr.25.8'>Et ils jetèrent les lots, section contre section, aussi bien le petit que le grand, le maître comme l’élève.</verse>
+        <verse osisID='1Chr.25.9'>Or le premier sort échut, pour Asaph, à Joseph; le second, à Gedaliah (Guedalia), lui, ses frères et ses fils étaient douze;</verse>
+        <verse osisID='1Chr.25.10'>Le troisième, à Zaccur, lui, ses fils et ses frères, étaient douze;</verse>
+        <verse osisID='1Chr.25.11'>Le quatrième, à Izri, lui, ses fils et ses frères, étaient douze;</verse>
+        <verse osisID='1Chr.25.12'>Le cinquième, à Nethaniah, lui, ses fils et ses frères, étaient douze;</verse>
+        <verse osisID='1Chr.25.13'>Le sixième, à Bukkiah, lui, ses fils et ses frères, étaient douze;</verse>
+        <verse osisID='1Chr.25.14'>Le septième, à Jesharelah, lui, ses fils et ses frères, étaient douze;</verse>
+        <verse osisID='1Chr.25.15'>Le huitième, à Jeshaiah, lui, ses fils et ses frères, étaient douze;</verse>
+        <verse osisID='1Chr.25.16'>Le neuvième, à Mattaniah, lui, ses fils et ses frères, étaient douze;</verse>
+        <verse osisID='1Chr.25.17'>Le dixième, à Shimei, lui, ses fils et ses frères, étaient douze;</verse>
+        <verse osisID='1Chr.25.18'>Le onzième, à Azareel, lui, ses fils et ses frères, étaient douze;</verse>
+        <verse osisID='1Chr.25.19'>Le douzième, à Hashabiah, lui, ses fils et ses frères, étaient douze;</verse>
+        <verse osisID='1Chr.25.20'>Le treizième, à Shubael, lui, ses fils et ses frères, étaient douze;</verse>
+        <verse osisID='1Chr.25.21'>Le quatorzième, à Mattithiah, lui, ses fils et ses frères, étaient douze;</verse>
+        <verse osisID='1Chr.25.22'>Le quinzième, à Jeremothses lui, ses fils et ses frères, étaient douze;</verse>
+        <verse osisID='1Chr.25.23'>Le seizième, à Hananiah, lui, ses fils et ses frères, étaient douze;</verse>
+        <verse osisID='1Chr.25.24'>Le dix-septième, à Joshbekashah, lui, ses fils et ses frères, étaient douze;</verse>
+        <verse osisID='1Chr.25.25'>Le dix-huitième, à Hanani, lui, ses fils et ses frères, étaient douze;</verse>
+        <verse osisID='1Chr.25.26'>Le dix-neuvième, à Mallothi, lui, ses fils et ses frères, étaient douze;</verse>
+        <verse osisID='1Chr.25.27'>Le vingtième, à Eliathah, lui, ses fils et ses frères, étaient douze;</verse>
+        <verse osisID='1Chr.25.28'>Le vingt et unième, à Hothir, lui, ses fils et ses frères, étaient douze;</verse>
+        <verse osisID='1Chr.25.29'>Le vingt-deuxième, à Giddalti, lui, ses fils et ses frères, étaient douze;</verse>
+        <verse osisID='1Chr.25.30'>Le vingt-troisième, à Mahazioth, lui, ses fils et ses frères, étaient douze;</verse>
+        <verse osisID='1Chr.25.31'>Le vingt-quatrième, à Romamtiezer, lui, ses fils et ses frères, étaient douze.</verse>
+      </chapter>
+      <chapter osisID='1Chr.26'>
+        <verse osisID='1Chr.26.1'>Quant aux départements des portiers, des Korhites, il y avait Meshelemiah, le fils de Kore, des fils d’Asaph.</verse>
+        <verse osisID='1Chr.26.2'>Et les fils de Meshelemiah étaient Zechariah, le premier-né, Jediael le second, Zebadiah le troisième, Jathniel le quatrième,</verse>
+        <verse osisID='1Chr.26.3'>Elam le cinquième, Jehohanan le sixième, Elioenai le septième.</verse>
+        <verse osisID='1Chr.26.4'>En plus les fils d’Obededom étaient Shemaiah, le premier-né, Jehozabad le second, Joah le troisième, Sacar le quatrième, Nethaneel le cinquième,</verse>
+        <verse osisID='1Chr.26.5'>Ammiel le sixième, Issachar le septième, Peulthai le huitième; car Dieu l’avait béni.</verse>
+        <verse osisID='1Chr.26.6'>Et à Shemaiah, son fils, naquirent des fils qui dominèrent dans la maison de leur père, car ils étaient de puissants hommes de valeur.</verse>
+        <verse osisID='1Chr.26.7'>Les fils de Shemaiah, Othni, et Rephael, et Obed, Elzabad, dont ses frères étaient des hommes robustes, Elihu et Shemachiah.</verse>
+        <verse osisID='1Chr.26.8'>Tous ceux-là [étaient] des fils d’Obededom; eux, leurs fils et leurs frères, hommes capables, pleins de vigueur pour le service, étaient soixante-deux d’Obededom.</verse>
+        <verse osisID='1Chr.26.9'>Et Meshelemiah avait des fils et des frères, hommes robustes, dix-huit.</verse>
+        <verse osisID='1Chr.26.10'>Et Hosah, des enfants de Merari, avait des fils Simri, le chef (car bien qu’il ne soit pas le premier-né, son père l’établit pour chef);</verse>
+        <verse osisID='1Chr.26.11'>Hilkiah le second, Tebaliah le troisième, Zechariah le quatrième; tous les fils et les frères de Hosah étaient treize.</verse>
+        <verse osisID='1Chr.26.12'>Parmi ceux-ci étaient les départements des portiers, c’est-à-dire parmi les chefs des hommes, conformément à leurs frères, pour servir dans la maison du SEIGNEUR.</verse>
+        <verse osisID='1Chr.26.13'>Et ils tirèrent au sort, aussi bien le petit que le grand, selon la maison de leurs pères, pour chaque porte.</verse>
+        <verse osisID='1Chr.26.14'>Et le sort côté Est tomba sur Shelemiah. Puis ils tirèrent au sort pour Zechariah, son fils, un sage conseiller, et son sort échut du côté du Nord.</verse>
+        <verse osisID='1Chr.26.15'>À Obededom, le côté Sud, et à ses fils, la maison des Asuppim.</verse>
+        <verse osisID='1Chr.26.16'>À Shuppim et à Hosah le sort échut le côté Ouest, avec la porte de Shallecheth, auprès du chemin montant; une garde face à l’autre.</verse>
+        <verse osisID='1Chr.26.17'>Vers l’Est étaient six Lévites, vers le Nord quatre par jour; vers le Sud quatre par jour, et vers Asuppim deux et deux;</verse>
+        <verse osisID='1Chr.26.18'>À Parbar, vers l’Ouest, quatre vers le chemin, et deux à Parbar.</verse>
+        <verse osisID='1Chr.26.19'>Ce sont les départements des portiers, parmi les fils de Kore, et parmi les fils de Merari.</verse>
+        <verse osisID='1Chr.26.20'>Et des Lévites, Ahijah était commis sur les trésors de la maison de Dieu, et sur les trésors des choses dédiées.</verse>
+        <verse osisID='1Chr.26.21'>Quant aux fils de Laadan, les fils du Gershonite, Laadan, chefs des pères, c’est-à-dire de Laadan, le Gershonite, il y avait Jehieli,</verse>
+        <verse osisID='1Chr.26.22'>Les fils de Jehieli, Zetham et Joël, son frère, lesquels étaient commis sur les trésors de la maison du SEIGNEUR.</verse>
+        <verse osisID='1Chr.26.23'>Des Amramites, et des Izharites, les Hebronites et les Uzzielites,</verse>
+        <verse osisID='1Chr.26.24'>Et Shebuel, le fils de Gershom, fils de Moïse, était surintendant des trésors.</verse>
+        <verse osisID='1Chr.26.25'>Et ses frères du côté d’Eliezer, Rehabiah, son fils, et Jeshaiah son fils, et Joram son fils, et Zichri son fils, et Shelomith son fils.</verse>
+        <verse osisID='1Chr.26.26'>Lequel Shelomith et ses frères étaient commis sur les trésors des choses dédiées que le roi David, et les chefs des pères, les capitaines de milliers et de centaines, et les capitaines de l’armée avaient dédiées;</verse>
+        <verse osisID='1Chr.26.27'>Qu’ils avaient dédié du butin gagné dans les batailles, pour l’entretien de la maison du SEIGNEUR.</verse>
+        <verse osisID='1Chr.26.28'>Et tout ce qu’avaient dédié Samuel, le voyant, et Saul, le fils de Kish, et Abner, le fils de Ner, et Joab, le fils de Zeruiah, et toute chose que quiconque avait dédiée, étaient sous la garde de Shelomith et de ses frères.</verse>
+        <verse osisID='1Chr.26.29'>Des Izharites, Chenaniah et ses fils étaient pour l’œuvre extérieure, préposés sur Israël, comme officiers et juges.</verse>
+        <verse osisID='1Chr.26.30'>Et des Hebronites, Hashabiah, et ses frères, hommes de valeur, [au nombre de] mille sept cents, étaient officiers parmi ceux d’Israël, de ce côte du Jourdain, vers l’Ouest, pour toutes les affaires du SEIGNEUR et pour le service du roi.</verse>
+        <verse osisID='1Chr.26.31'>Parmi les Hebronites, était Jerijah le chef, c’est-à-dire parmi les Hebronites, selon les générations de son père. En la quarantième année du règne de David, on fit une recherche, et il se trouva parmi eux de puissants hommes de valeur à Jazer de Gilead (Galaad).</verse>
+        <verse osisID='1Chr.26.32'>Et ses frères [de Jerijah], hommes de valeur, étaient [au nombre de] deux mille sept cents chefs des pères, que le roi David établit sur les Reubenites (Rubénites), sur les Gadites: et sur la demi-tribu de Manasseh (Manassé), pour tout ce qui concernait Dieu et pour les affaires du roi.</verse>
+      </chapter>
+      <chapter osisID='1Chr.27'>
+        <verse osisID='1Chr.27.1'>Or [quant] aux enfants d’Israël, selon leur nombre, il y avait les chefs des pères, et les capitaines de milliers et de centaines, et leurs officiers qui servaient le roi, pour tout ce qui concernait leurs classes, qui entraient et qui sortaient, mois par mois, pendant tous les mois de l’année, chaque classe était de vingt-quatre mille [hommes].</verse>
+        <verse osisID='1Chr.27.2'>Sur la première classe, pour le premier mois, était Jashobeam, le fils de Zabdiel; et sa classe était de vingt-quatre mille [hommes].</verse>
+        <verse osisID='1Chr.27.3'>Il était des enfants de Perez le chef de tous les capitaines de l’armée pour le premier mois.</verse>
+        <verse osisID='1Chr.27.4'>Et sur la classe du second mois était Dodai, un Ahohite, et Mikloth était conducteur de sa classe; de même dans sa classe, il avait vingt-quatre mille [hommes].</verse>
+        <verse osisID='1Chr.27.5'>Le troisième capitaine de l’armée, pour le troisième mois, était Benaiah, le fils de Jehoiada, le prêtre principal; et dans sa classe il avait vingt-quatre mille [hommes].</verse>
+        <verse osisID='1Chr.27.6'>C’est ce Benaiah qui était puissant parmi les trente, et par-dessus les trente; et Ammizabad, son fils, était dans sa classe.</verse>
+        <verse osisID='1Chr.27.7'>Le quatrième capitaine, pour le quatrième mois, était Asahel, le frère de Joab; et Zebadiah son fils, après lui; et dans sa classe il y avait vingt-quatre mille [hommes].</verse>
+        <verse osisID='1Chr.27.8'>Le cinquième capitaine, pour le cinquième mois, était Shamhuth, le Izrahite; et dans sa classe il y avait vingt-quatre mille [hommes].</verse>
+        <verse osisID='1Chr.27.9'>Le sixième capitaine, pour le sixième mois, était Ira, le fils d’Ikkesh, le Tekoite; et dans sa classe il y avait vingt-quatre mille [hommes].</verse>
+        <verse osisID='1Chr.27.10'>Le septième capitaine, pour le septième mois, était Helez, le Pelonite, des enfants d’Ephraim (Éphraïm); et dans sa classe il avait vingt-quatre mille [hommes].</verse>
+        <verse osisID='1Chr.27.11'>Le huitième capitaine, pour le huitième mois, était Sibbecai, le Hushathite, des Zarhites; et dans sa classe il avait vingt-quatre mille [hommes].</verse>
+        <verse osisID='1Chr.27.12'>Le neuvième capitaine, pour le neuvième mois, était Abiezer l’Anetothite, des Benjamites; et dans sa classe il avait vingt-quatre mille [hommes].</verse>
+        <verse osisID='1Chr.27.13'>Le dixième capitaine, pour le dixième mois, était Maharaï, le Netophathite, des Zarhites, et dans sa classe il avait vingt-quatre mille [hommes].</verse>
+        <verse osisID='1Chr.27.14'>Le onzième capitaine, pour le onzième mois, était Benaiah, le Pirathonite, des enfants d’Ephraim (Éphraïm); et dans sa classe il avait vingt-quatre mille [hommes].</verse>
+        <verse osisID='1Chr.27.15'>Le douzième capitaine, pour le douzième mois, était Heldai, le Netophathite, d’Othniel; et dans sa classe il avait vingt-quatre mille [hommes].</verse>
+        <verse osisID='1Chr.27.16'>Et sur les tribus d’Israël le conducteur des Reubenites était Eliezer, le fils de Zichri, des Simeonites, Shephatiah, le fils de Maachah;</verse>
+        <verse osisID='1Chr.27.17'>Des Lévites, Hashabiah, le fils de Kemuel; des d’Aaronites Zadok;</verse>
+        <verse osisID='1Chr.27.18'>De Judah Elihu, un des frères de David; d’Issachar Omri, le fils de Michael;</verse>
+        <verse osisID='1Chr.27.19'>De Zebulun (Zabulon), Ishmaiah, le fils d’Obadiah (Abdias); de Naphtali (Nephtali) Jerimoth, le fils d’Azriel;</verse>
+        <verse osisID='1Chr.27.20'>Des enfants d’Ephraim (Éphraïm), Hoshea, le fils d’Azaziah; de la demi-tribu de Manasseh (Manassé) Joël, le fils de Pedaiah;</verse>
+        <verse osisID='1Chr.27.21'>De la demi-tribu de Manasseh (Manassé), en Gilead (Galaad), Iddo, le fils de Zechariah; de Benjamin Jaasiel, le fils d’Abner;</verse>
+        <verse osisID='1Chr.27.22'>De Dan, Azareel, le fils de Jeroham. Ceux-ci étaient les princes des tribus d’Israël.</verse>
+        <verse osisID='1Chr.27.23'>Mais David ne releva pas le nombre des Israélites depuis l’âge de vingt ans et au-dessous, parce que le SEIGNEUR avait dit qu ’il multiplierait Israël comme les étoiles des cieux.</verse>
+        <verse osisID='1Chr.27.24'>Joab, le fils de Zeruiah, commença à dénombrer, mais il ne l’acheva pas, parce que la colère du SEIGNEUR tomba à cause de cela contre Israël; et le dénombrement ne fut pas pris en compte dans les chroniques du roi David.</verse>
+        <verse osisID='1Chr.27.25'>Et Azmaveth, le fils d’Adiel, était commis sur les trésors du roi; et Jehonathan, le fils d’Uzziah, était sur les magasins dans les champs, et dans les villes, et dans les villages et dans les châteaux;</verse>
+        <verse osisID='1Chr.27.26'>Et Ezri, le fils de Chelub, était commis sur ceux qui travaillaient dans les champs, pour le labourage de la terre;</verse>
+        <verse osisID='1Chr.27.27'>Et Shimei, le Ramathite, était sur les vignes; Zabdi, le Shiphmite, était sur ce qui provenait des vignes pour les celliers à vin;</verse>
+        <verse osisID='1Chr.27.28'>Baalhhanan, le Gederite, était sur les oliviers et les sycomores qui étaient dans la plaine; et sur les celliers d’huile était Joash;</verse>
+        <verse osisID='1Chr.27.29'>Et Shitrai, le Sharonite, était sur les troupeaux qui paissait à Sharon; et Shaphat, le fils d’Adlai, était sur les troupeaux qui étaient dans les vallées;</verse>
+        <verse osisID='1Chr.27.30'>Et Obil, l’Ismaélite, était sur les chameaux; et Jehdeiah, le Meronothite, était sur les ânesses;</verse>
+        <verse osisID='1Chr.27.31'>Et Jaziz, l’Hagerite, était sur le menu betail. Tous ceux-là avaient la charge des biens du roi David.</verse>
+        <verse osisID='1Chr.27.32'>Et Jonathan, oncle de David, était conseiller, un homme sage et un scribe; et Jehiel, le fils de Hachmoni, était auprès des fils du roi;</verse>
+        <verse osisID='1Chr.27.33'>Et Ahithophel était conseiller du roi; et Hushai, l’Archite, était compagnon du roi.</verse>
+        <verse osisID='1Chr.27.34'>Et après Ahithophel, étaient Jehoiada, le fils de Benaiah, et Abiathar. Et Joab était le général de l’armée du roi.</verse>
+      </chapter>
+      <chapter osisID='1Chr.28'>
+        <verse osisID='1Chr.28.1'>Et David assembla à Jérusalem tous les princes d’Israël, les princes des tribus, et les capitaines des compagnies, qui servaient le roi, et les capitaines de milliers et les capitaines de centaines, et les intendants [qui étaient] sur tous les biens et les troupeaux du roi et de ses fils, ainsi que les officiers, et les hommes puissants, et tous les hommes de valeur.</verse>
+        <verse osisID='1Chr.28.2'>Puis le roi David se leva sur ses pieds, et dit: Écoutez-moi, mes frères et mon peuple. Quant à moi, j’ai eu en mon cœur de bâtir une maison de repos pour l’arche de l’alliance du SEIGNEUR, et pour le marchepied de notre Dieu, et j’ai fait les préparatifs pour la construction.</verse>
+        <verse osisID='1Chr.28.3'>Mais Dieu m’a dit: Tu ne bâtiras pas une maison pour mon nom, parce que tu as été un homme de guerre, et tu as versé du sang.</verse>
+        <verse osisID='1Chr.28.4'>Cependant le SEIGNEUR Dieu d’Israël, m’a choisi de toute la maison de mon père, pour être roi sur Israël pour toujours; car il a choisi Judah pour être le conducteur, et, de la maison de Judah, la maison de mon père; et parmi les fils de mon père, il a désiré me faire roi sur tout Israël;</verse>
+        <verse osisID='1Chr.28.5'>Et de tous mes fils (car le SEIGNEUR m’a donné beaucoup de fils), il a choisi mon fils Salomon pour le faire asseoir sur le trône du royaume du SEIGNEUR, sur Israël.</verse>
+        <verse osisID='1Chr.28.6'>Et il m’a dit: Salomon, ton fils, c’est lui qui bâtira ma maison et mes cours; car je me le suis choisi pour être mon fils, et je serai son père;</verse>
+        <verse osisID='1Chr.28.7'>De plus j’affermirai son royaume pour toujours, s’il est constant à pratiquer mes commandements et mes jugements, comme aujourd’hui.</verse>
+        <verse osisID='1Chr.28.8'>Maintenant donc, à la vue de tout Israël, la congrégation du SEIGNEUR, et en l’audience de notre Dieu, gardez et recherchez tous les commandements du SEIGNEUR, votre Dieu, afin que vous puissiez posséder ce bon pays, et que vous le laissiez en héritage pour vos enfants après vous, pour toujours.</verse>
+        <verse osisID='1Chr.28.9'>Et toi, Salomon, mon fils, connais le Dieu de ton père, et sers-le avec un cœur parfait et un cerveau bien disposé; car le SEIGNEUR sonde tous les cœurs, et connaît toutes les imaginations des pensées. Si tu le cherches, il se fera trouver de toi; mais si tu l’abandonnes, il te rejettera pour toujours.</verse>
+        <verse osisID='1Chr.28.10'>Prends garde maintenant, car le SEIGNEUR t’a choisi pour bâtir une maison pour le sanctuaire; sois fort, et fais-la.</verse>
+        <verse osisID='1Chr.28.11'>Puis David donna à Salomon, son fils, le modèle du porche et de ses maisons, et de ses trésoreries, et de ses chambres hautes, et de ses parloirs intérieurs, et du lieu du siège de miséricorde;</verse>
+        <verse osisID='1Chr.28.12'>Et le modèle de toutes les choses qu’il avait [reçues] par l’esprit, pour les cours de la maison du SEIGNEUR, et pour toutes les chambres d’alentour, pour les trésoreries de la maison de Dieu, et pour les trésoreries des choses dédiées;</verse>
+        <verse osisID='1Chr.28.13'>Ainsi que pour les classes des prêtres et des Lévites, et pour toute l’œuvre du service de la maison du SEIGNEUR, et pour tous les ustensiles du service de la maison du SEIGNEUR.</verse>
+        <verse osisID='1Chr.28.14'>Il lui donna l’or au poids pour les choses [faites] d’or, pour tous les ustensiles de chaque service; de l’argent aussi, pour tous les ustensiles d’argent au poids, pour tous les ustensiles de chaque sorte de service.</verse>
+        <verse osisID='1Chr.28.15'>Le poids des chandeliers d’or et de leurs lampes d’or, selon le poids de chaque chandelier et de ses lampes; et pour les chandeliers d’argent selon le poids, pour chaque chandelier et aussi pour ses lampes, selon l’usage de chaque chandelier.</verse>
+        <verse osisID='1Chr.28.16'>Il lui donna l’or, au poids, pour les tables du pain de présentation, pour chaque table; et de même l’argent pour les tables d’argent.</verse>
+        <verse osisID='1Chr.28.17'>Et de l’or pur pour les fourchettes, et les bols, et les coupes; et pour les bassines d’or il donna de l’or au poids pour chaque bassine, et de même de l’argent au poids pour chaque bassine d’argent;</verse>
+        <verse osisID='1Chr.28.18'>Et pour l’autel de l’encens, de l’or affiné au poids; et de l’or pour le modèle du chariot des cherubins qui étendaient leurs ailes et couvraient l’arche de l’alliance du SEIGNEUR.</verse>
+        <verse osisID='1Chr.28.19'>Tout cela, dit David, le SEIGNEUR m’a fait comprendre, c’est-à-dire, tous les ouvrages de ce modèle, en écrivant par Sa main sur moi..</verse>
+        <verse osisID='1Chr.28.20'>Et David dit à Salomon, son fils: Sois fort et plein de courage et fais-Ie; n’aie pas peur, et ne t’effraye pas; car le SEIGNEUR Dieu, c’est-à-dire mon Dieu, sera avec toi il ne te laissera pas et ne t’abandonnera pas, jusqu’à ce que tout l’ouvrage pour le service de la maison du SEIGNEUR soit achevé.</verse>
+        <verse osisID='1Chr.28.21'>Et voici les classes des prêtres et des Lévites, ils seront avec toi pour tout le service de la maison de Dieu; et il y aura avec toi, pour toute espèce de main d’œuvre, tout homme disposé et habile, pour toutes sortes de service; et les princes et tout le peuple seront entièrement à ton commandement.</verse>
+      </chapter>
+      <chapter osisID='1Chr.29'>
+        <verse osisID='1Chr.29.1'>En outre le roi David dit à toute la congrégation: Mon fils Salomon, le seul que Dieu ait choisi, est encore jeune et [d’un âge] tendre, et l’ouvrage est grand; car le palais n’est pas pour un homme, mais pour le SEIGNEUR Dieu.</verse>
+        <verse osisID='1Chr.29.2'>Or j’ai préparé de tout mon pouvoir, pour la maison de mon Dieu, de l’or pour les choses qui doivent être [faites] d’or, de l’argent pour les choses en argent, et du cuivre pour les choses en cuivre, du fer pour les choses en fer, et du bois pour les choses en bois, des pierres d’onyx et des pierres pour être enchâssées, des pierres étincelantes et de diverses couleurs, des pierres précieuses de toutes sortes, et des pierres de marbre en abondance.</verse>
+        <verse osisID='1Chr.29.3'>De plus, parce que j’ai placé mon affection vers la maison de mon Dieu, j’ai de mes propres biens, de l’argent et de l’or, que j’ai donné pour la maison de mon Dieu, en plus de tout ce que j’ai préparé pour la sainte maison.</verse>
+        <verse osisID='1Chr.29.4'>C’est-à-dire trois mille talents d’or, d’or d’Ophir, et sept mille talents d’argent affiné, pour revêtir les murs des maisons;</verse>
+        <verse osisID='1Chr.29.5'>L’or pour les choses [faites] d’or, et l’argent pour les choses [faites] d’argent, et pour toute sorte d’ouvrage à faire par les mains des artisans. Et qui alors est disposé à consacrer son service aujourd’hui au SEIGNEUR?</verse>
+        <verse osisID='1Chr.29.6'>Alors les chefs des pères, les princes des tribus d’Israël, et les capitaines de milliers et de centaines, ainsi que les intendants du roi, offrirent volontairement.</verse>
+        <verse osisID='1Chr.29.7'>Et donnèrent, pour le service de la maison de Dieu, cinq mille talents d’or, et dix mille dariques, et dix mille talents d’argent, dix-huit mille talents de cuivre, et cent mille talents de fer.</verse>
+        <verse osisID='1Chr.29.8'>Et ceux chez qui se trouvaient des pierres précieuses les donnèrent au trésor de la maison du SEIGNEUR, par la main de Jehiel, le Gershonite.</verse>
+        <verse osisID='1Chr.29.9'>Et le peuple se réjouit car ils offraient volontairement; parce qu’ils offraient volontairement avec un cœur parfait au SEIGNEUR; et le roi David se réjouissait d’une grande joie.</verse>
+        <verse osisID='1Chr.29.10'>C’est pourquoi David bénit le SEIGNEUR, devant toute la congrégation, et David dit: Béni sois-tu, SEIGNEUR Dieu d’Israël, notre père, pour toujours et toujours.</verse>
+        <verse osisID='1Chr.29.11'>À toi, ô SEIGNEUR, est la grandeur, et la puissance et la gloire, et la victoire, et la majesté, car tout ce qui est dans le ciel et sur la terre est à toi. À toi, est le royaume, ô SEIGNEUR, et tu es exalté comme chef au-dessus de tout.</verse>
+        <verse osisID='1Chr.29.12'>Richesses et honneurs viennent de toi, et tu règnes sur tout; pouvoir et puissance est en ta main, et en ta main est le pouvoir d’agrandir et de donner vigueur à tous.</verse>
+        <verse osisID='1Chr.29.13'>Maintenant donc, notre Dieu, nous te remercions, et louons ton nom glorieux.</verse>
+        <verse osisID='1Chr.29.14'>Mais qui suis-je, et qui est mon peuple, que nous soyons capables d’offrir ainsi volontairement? Car toutes choses viennent de toi; et de ta main nous vient ce que nous te donnons.</verse>
+        <verse osisID='1Chr.29.15'>Nous sommes devant toi des étrangers et des hôtes, comme tous nos pères; nos jours sont comme l’ombre, sur la terre; et il n’y a pas d’espérance.</verse>
+        <verse osisID='1Chr.29.16'>Ô SEIGNEUR, notre Dieu, toute cette abondance que nous avons préparée pour te bâtir une maison à ton saint nom, vient de ta main, et tout est à toi.</verse>
+        <verse osisID='1Chr.29.17'>Je sais aussi, mon Dieu, que tu sondes le cœur, et que tu prends plaisir à l’intégrité. Quant à moi, dans l’intégrité de mon cœur, j’ai offert volontairement toutes ces choses; et maintenant j’ai vu avec joie ton peuple, qui est ici présent, t’a offert volontairement.</verse>
+        <verse osisID='1Chr.29.18'>Ô SEIGNEUR, Dieu d’Abraham, d’Isaac et d’Israël, nos pères, garde ceci à toujours dans l’imagination des pensées du cœur de ton peuple, et dispose leurs cœurs vers toi.</verse>
+        <verse osisID='1Chr.29.19'>Et donne à Salomon, mon fils, un cœur parfait pour garder tes commandements, tes témoignages et tes statuts, pour qu’il fasse toutes ces choses, et pour bâtir le palais pour lequel j’ai préparé.</verse>
+        <verse osisID='1Chr.29.20'>Et David dit à toute la congrégation: Bénissez maintenant le SEIGNEUR votre Dieu. Et toute la congrégation bénit le SEIGNEUR, le Dieu de leurs pères; et ils inclinèrent leurs têtes et adorèrent le SEIGNEUR et le roi.</verse>
+        <verse osisID='1Chr.29.21'>Et le lendemain de ce jour, ils sacrifièrent des sacrifices au SEIGNEUR, et offrirent au SEIGNEUR des offrandes consumées, c’est-à-dire un millier de taureaux, un millier de béliers, et un millier d’agneaux, avec leurs offrandes liquides, et des sacrifices en abondance pour tout Israël.</verse>
+        <verse osisID='1Chr.29.22'>Et ils mangèrent et burent devant le SEIGNEUR ce jour-là avec une grande joie. Et ils firent Salomon, le fils de David, roi pour la seconde fois, et l’oignirent au SEIGNEUR, pour être le chef gouverneur, et Zadok pour être prêtre.</verse>
+        <verse osisID='1Chr.29.23'>Puis Salomon s’assit sur le trône du SEIGNEUR, comme roi, à la place de David, son père, et il prospéra, et tout Israël lui obéit.</verse>
+        <verse osisID='1Chr.29.24'>Et tous les princes et les hommes puissants, et de même tous les fils du roi David, se soumirent au roi Salomon.</verse>
+        <verse osisID='1Chr.29.25'>Et le SEIGNEUR magnifia extrêmement Salomon, à la vue de tout Israël, et lui accorda une telle majesté qu’aucun roi avant lui n’avait eu en Israël.</verse>
+        <verse osisID='1Chr.29.26'>Ainsi David, le fils de Jesse, régna sur tout Israël.</verse>
+        <verse osisID='1Chr.29.27'>Et le temps qu’il régna sur Israël fut de quarante ans. Il régna sept ans à Hebron, et trente-trois ans à Jérusalem.</verse>
+        <verse osisID='1Chr.29.28'>Et il mourut à un grand age, rassasié de jours, de richesses et d’honneurs; et Salomon, son fils, régna à sa place.</verse>
+        <verse osisID='1Chr.29.29'>Or quant aux exploits du roi David, les premiers et les derniers, voici, ils sont écrits dans le livre de Samuel, le voyant, et dans le livre de Nathan, le prophète, et dans le livre de Gad, le voyant,</verse>
+        <verse osisID='1Chr.29.30'>Avec tout son règne, et sa puissance, et ce qui s’est passé durant son temps, et sur Israël, et sur tous les royaumes des autres pays.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

@@ -1,0 +1,868 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <osisText osisRefWork='Bible' osisIDWork='TAF' xml:lang='de'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='TAF'>
+        <title>Tafelbibel</title>
+        <contributor>Martin</contributor>
+        <creator>Jens Grabner</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject>holy bible</subject>
+        <date>2009-01-20</date>
+        <description>Die Bibel - Übersetzung von Johann Friedrich Leonhard Tafel
+
+      Die vorliegende Neuausgabe ist eine Abschrift der Übersetzung von Dr. Leonhard
+      Tafel, revidiert von Ludwig H. Tafel, dritte Ausgabe 1911, und wurde auf ihre
+      Vollständigkeit überprüft. Es wurde die Rechtschreibregel der heutigen Zeit (noch
+      vor der Rechtschreibreform 1998) angewendet, ohne den Stil der Sprache zu verändern.
+
+      Wer in dieser Bibel einige Bücher vermisst, sei auf das Vorwort der Source verwiesen.
+      Auf der zweiten Seite steht dort:
+      Der zweite Band enthält die übrigen, sogenannten
+      Hagiographen oder heiligen Bücher: die Bücher Hiob, Sprichwörter, Hohelied, Prediger, Ruth, Chronika, Esra,
+      Nehemia, Esther und die Apokryphen.²
+      2. Gegenwärtige, Revision des Zefania XML Moduls  enthält die Hagiographen und Apokryphen nicht, da
+      sie nicht verfügbar waren.</description>
+        <publisher>FREE BIBLE SOFTWARE GROUP</publisher>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>TAF</identifier>
+        <source>http://www.ubf-dortmund.de/bibel/tafel.htm</source>
+        <language type='IETF'>de</language>
+        <relation/>
+        <coverage>provide the bible to the world</coverage>
+        <rights>Mit freundlicher Genehmigung des Swedenborg Verlag Postfach 1205 CH - 8032 Zürich</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='2Sam'>
+      <chapter osisID='2Sam.1'>
+        <title>Zweites Buch Samuel</title>
+        <title>Davids Klagelied auf Saul und Jonathan.</title>
+        <verse osisID='2Sam.1.1'>Und es geschah nach dem Tode Sauls, da David von der Schlacht des Amalek zurückgekehrt und zwei Tage in Ziklag geblieben<note>gesessen</note> war.</verse>
+        <verse osisID='2Sam.1.2'>Und es geschah am dritten Tag, siehe, da kam ein Mann aus dem Lager von Saul, und seine Kleider waren zerrissen und Erde<note>Boden</note> auf seinem Haupte; und es geschah, da er zu David kam, fiel er zur Erde und verbeugte sich.</verse>
+        <verse osisID='2Sam.1.3'>Und David sprach zu ihm: Von wannen kommst du? Und er sprach zu ihm: Vom Lager Israels bin ich entronnen.</verse>
+        <verse osisID='2Sam.1.4'>Und David sprach zu ihm: Wie war die Sache<note>das Wort</note>? Sage mir doch an. Und er sprach: Das Volk ist geflohen aus dem Streit, auch sind viele vom Volk gefallen und getötet, und auch Saul und sein Sohn Jonathan sind tot.</verse>
+        <verse osisID='2Sam.1.5'>Und David sprach zu dem Jungen, der ihm ansagte: Wie weißt du, daß Saul und sein Sohn Jonathan tot sind?</verse>
+        <verse osisID='2Sam.1.6'>Und der Junge, der es ihm ansagte, sprach: Von ungefähr geriet ich auf das Gebirge Gilboa, und siehe, Saul stützte sich auf seinen Spieß, und siehe, die Streitwagen und die Reiter<note>die Meister der Reiter</note> hatten ihn eingeholt.</verse>
+        <verse osisID='2Sam.1.7'>Und er wandte sich hinter sich und sah mich und rief mir zu, und ich sprach: Siehe, hier bin ich.</verse>
+        <verse osisID='2Sam.1.8'>Und er sagte zu mir: Wer bist du? Und ich sagte zu ihm: Ich bin ein Amalekiter.</verse>
+        <verse osisID='2Sam.1.9'>Und er sprach zu mir: Stehe doch über mir und töte mich, denn der Starrkrampf hat mich ergriffen, und doch ist meine Seele noch ganz in mir.</verse>
+        <verse osisID='2Sam.1.10'>Und ich stand über ihm und tötete ihn, denn ich wußte, daß er nicht leben konnte nach seinem Fall. Und ich nahm das Diadem, das auf seinem Haupte war, und das Geschmeide auf seinem Arm und bringe sie zu meinem Herrn hierher.</verse>
+        <verse osisID='2Sam.1.11'>Da faßte David an seine Kleider und zerriß sie, und auch alle die Männer, die bei ihm waren.</verse>
+        <verse osisID='2Sam.1.12'>Und sie klagten und weinten und fasteten bis zum Abend um Saul und um seinen Sohn Jonathan und um das Volk Jehovahs und um das Haus Israels, daß sie durch das Schwert gefallen.</verse>
+        <verse osisID='2Sam.1.13'>Und David sprach zu dem Jungen, der es ihm ansagte: Von wannen bist du? Und er sprach: Ich bin der Sohn eines Mannes, eines Fremdlings, eines Amalekiters.</verse>
+        <verse osisID='2Sam.1.14'>Und David sprach zu ihm: Wie, daß du nicht fürchtetest, deine Hand auszurecken, um den Gesalbten Jehovahs zu verderben?</verse>
+        <verse osisID='2Sam.1.15'>Und David rief einem von seinen Jungen und sprach: Tritt her und stoß ihn nieder<note>stoß auf ihn</note>. Und er schlug ihn, daß er starb.</verse>
+        <verse osisID='2Sam.1.16'>Und David sprach zu ihm: Dein Blut sei auf deinem Haupte; denn dein eigener Mund hat wider dich geantwortet, da du sprachst: Ich habe den Gesalbten Jehovahs getötet.</verse>
+        <verse osisID='2Sam.1.17'>Und David stimmte dies Klagelied an um Saul und um seinen Sohn Jonathan,</verse>
+        <verse osisID='2Sam.1.18'>Und er sagte, um die Söhne Judahs den Bogen zu lehren: Siehe, es ist geschrieben im Buche Jaschar.</verse>
+        <verse osisID='2Sam.1.19'>Das Reh<note>oder Zierde</note> Israels ist erschlagen auf deinen Höhen! Wie sind die Helden gefallen!</verse>
+        <verse osisID='2Sam.1.20'>Sagt es nicht an in Gath, verkündet es nicht in den Gassen Aschkelons, daß nicht fröhlich seien die Töchter der Philister, daß nicht jauchzen die Töchter der Unbeschnittenen!</verse>
+        <verse osisID='2Sam.1.21'>Ihr Berge Gilboas, kein Tau, kein Regen sei auf euch, noch Gefilde der Hebeopfer! Denn dort liegt befleckt<note>oder weggeworfen</note> der Schild<note>die Tartsche</note> der Helden, der Schild<note>Tartsche</note> Sauls, der nicht mit Öl gesalbt.</verse>
+        <verse osisID='2Sam.1.22'>Vom Blut der Erschlagenen, vom Fett der Helden ist Jonathans Bogen nie rückwärts gewichen. Nie kehrte Sauls Schwert leer zurück!</verse>
+        <verse osisID='2Sam.1.23'>Saul und Jonathan, die Geliebten und Holden in ihrem Leben, und in ihrem Tode nicht wurden sie getrennt. Schneller denn die Adler, mächtiger denn die Löwen waren sie.</verse>
+        <verse osisID='2Sam.1.24'>Ihr Töchter Israels, weinet über Saul, der euch Scharlach anzog mit Wonnen und goldenen Schmuck auf euren Anzug auflegte.</verse>
+        <verse osisID='2Sam.1.25'>Wie sind die Helden gefallen inmitten des Streites, auf deinen Höhen ward erschlagen Jonathan!</verse>
+        <verse osisID='2Sam.1.26'>Ich bin bedrängt um dich, mein Bruder Jonathan, sehr hold warst du mir, wunderbarer war mir deine Liebe, denn die Liebe der Frauen.</verse>
+        <verse osisID='2Sam.1.27'>Wie sind gefallen die Helden und verloren die Waffen des Streites!</verse>
+      </chapter>
+      <chapter osisID='2Sam.2'>
+        <title>David König über Judah. - Isch-Boscheth König über Israel.</title>
+        <verse osisID='2Sam.2.1'>Und es geschah nach diesem, daß David fragte bei Jehovah und sprach: Soll ich hinaufziehen in eine der Städte Judahs? Und Jehovah sprach zu ihm: Ziehe hinauf. Und David sprach: Wo soll ich hinaufziehen? Und Er sprach: Nach Chebron.</verse>
+        <verse osisID='2Sam.2.2'>Und David zog dort hinauf und auch seine zwei Weiber Achinoam, die Jisreelitin und Abigail, das Weib Nabals, des Karmeliters.</verse>
+        <verse osisID='2Sam.2.3'>Und seine Männer, die mit ihm waren, führte David hinauf, jeden Mann mit seinem Hause; und sie wohnten in den Städten Chebrons.</verse>
+        <verse osisID='2Sam.2.4'>Und es kamen die Männer von Judah und salbten allda David zum König über das Haus Judah. Und sie sagten es dem David an und sprachen: Die Männer von Jabesch-Gilead haben Saul begraben.</verse>
+        <verse osisID='2Sam.2.5'>Und David sandte Boten zu den Männern von Jabesch-Gilead und sprach zu ihnen: Seid gesegnet dem Jehovah, daß ihr solche Barmherzigkeit an eurem Herrn, an Saul, getan und ihn begraben habt.</verse>
+        <verse osisID='2Sam.2.6'>Und nun tue Jehovah an euch Barmherzigkeit und Treue, und auch ich will euch solch Gutes dafür tun, daß ihr solches<note>dieses Wort</note> getan habt.</verse>
+        <verse osisID='2Sam.2.7'>Und nun lasset eure Hände stark sein und seid tapfere Söhne, denn euer Herr, Saul, ist tot, und mich hat das Haus Judah auch zum König über sich gesalbt.</verse>
+        <verse osisID='2Sam.2.8'>Abner aber, der Sohn Ners, der Oberste des Heeres Sauls, nahm Isch-Boscheth, Sauls Sohn, und führte ihn nach Machanajim hinüber;</verse>
+        <verse osisID='2Sam.2.9'>Und machte ihn zum König über Gilead und die Aschuriter und über Jisreel und über Ephraim und über Benjamin und über ganz Israel.</verse>
+        <verse osisID='2Sam.2.10'>Und Isch-Boscheth, Sauls Sohn, war vierzig Jahre alt<note>ein Sohn von 40 Jahren</note>, da er König ward über Israel, und regierte zwei Jahre; nur das Haus Judah folgte dem David nach<note>war hinter David</note>.</verse>
+        <verse osisID='2Sam.2.11'>Und die Zahl der Jahre<note>Tage</note>, die David in Chebron König war über das Haus Judah, war sieben Jahre und sechs Monate.</verse>
+        <verse osisID='2Sam.2.12'>Und Abner, Ners Sohn, und die Knechte des Isch-Boscheth, des Sohnes Sauls, zogen aus von Machanajim nach Gibeon.</verse>
+        <verse osisID='2Sam.2.13'>Und Joab, der Sohn Zerujahs, und die Knechte Davids zogen aus und trafen zusammen am Teiche von Gibeon; und diese saßen nieder diesseits des Teiches, jene aber jenseits des Teiches.</verse>
+        <verse osisID='2Sam.2.14'>Und Abner sprach zu Joab: Laß die Jungen sich doch aufmachen und vor uns spielen. Und Joab sprach: Sie mögen sich aufmachen.</verse>
+        <verse osisID='2Sam.2.15'>Und sie machten sich auf und zogen hinüber, zwölf an der Zahl, für Benjamin und für Isch-Boscheth, den Sohn Sauls, und zwölf von Davids Knechten.</verse>
+        <verse osisID='2Sam.2.16'>Und sie faßten an, jeder Mann das Haupt seines Genossen, und sein Schwert war in der Seite des Genossen, und sie fielen allesamt, und man nannte diesen Ort Chelkathha-Zurim<note>Grundstück der Felsen</note> in Gibeon.</verse>
+        <verse osisID='2Sam.2.17'>Und der Streit ward sehr hart an selbigem Tage. Abner aber und die Männer von Israel wurden geschlagen<note>gestoßen</note> vor den Knechten Davids.</verse>
+        <verse osisID='2Sam.2.18'>Und es waren daselbst drei Söhne Zerujahs: Joab und Abischai und Asahel, und Asahel war leicht auf seinen Füßen, wie eines der Rehe im Feld;</verse>
+        <verse osisID='2Sam.2.19'>Und Asahel setzte hinter dem Abner nach und wandte sich nicht ab hinter Abner weg, weder zur Rechten, noch zur Linken zu gehen.</verse>
+        <verse osisID='2Sam.2.20'>Und Abner wandte sich rückwärts und sprach: Bist du das, Asahel? Und er sprach: Ich bin es.</verse>
+        <verse osisID='2Sam.2.21'>Und Abner sprach zu ihm: Wende dich ab zur Rechten oder zur Linken und ergreife dir einen der Jungen und nimm dir seine Rüstung. Asahel aber war nicht willens, abzuweichen hinter ihm.</verse>
+        <verse osisID='2Sam.2.22'>Und Abner sprach noch weiter<note>tat hinzu zu sprechen</note> zu Asahel: Lenke ab hinter mir! Warum soll ich dich zur Erde schlagen? Und wie dürfte ich mein Angesicht erheben zu deinem Bruder Joab?</verse>
+        <verse osisID='2Sam.2.23'>Aber er weigerte sich abzulenken, und Abner schlug ihn mit dem Hinterteil des Spießes in die fünfte Rippe<note>die fünfte</note>, daß ihm der Spieß hinten herauskam, und er fiel daselbst und starb auf der Stelle, und es geschah, daß jeder, der zu dem Orte kam, da Asahel gefallen und gestorben war, stehenblieb.</verse>
+        <verse osisID='2Sam.2.24'>Und Joab und Abischai setzten hinter Abner nach, und die Sonne ging unter, und sie kamen bis Gibeath-Ammah, das vor Giach auf dem Wege zur Wüste Gibeon ist.</verse>
+        <verse osisID='2Sam.2.25'>Und die Söhne Benjamins taten sich hinter Abner zusammen, und wurden zu einem Haufen, und blieben auf der Spitze eines Hügels stehen.</verse>
+        <verse osisID='2Sam.2.26'>Und Abner rief Joab zu und sprach: Soll das Schwert immerdar fressen? Weißt du nicht, daß es zuletzt bitter wird und wie lange willst du nicht dem Volke sagen: Es solle sich hinter seinen Brüdern weg zurückwenden?</verse>
+        <verse osisID='2Sam.2.27'>Und Joab sprach: Beim Leben Gottes, hättest du nicht geredet, das Volk wäre schon am Morgen, jeder Mann von seinem Bruder weg hinaufgezogen.</verse>
+        <verse osisID='2Sam.2.28'>Und Joab stieß in die Posaune, und alles Volk blieb stehen und setzte nicht mehr hinter Israel nach, und sie stritten nicht weiter<note>tat nicht hinzu zu streiten</note>.</verse>
+        <verse osisID='2Sam.2.29'>Und Abner und seine Männer zogen diese ganze Nacht hindurch in der Arabah und setzten über den Jordan und zogen über ganz Bithron und kamen nach Machanajim.</verse>
+        <verse osisID='2Sam.2.30'>Und Joab kehrte hinter Abner weg zurück und zog das ganze Volk zusammen, und es wurden von den Knechten Davids neunzehn Mann und Asahel vermißt.</verse>
+        <verse osisID='2Sam.2.31'>Und Davids Knechte hatten von Benjamin und von Abners Männern dreihundertsechzig Mann geschlagen, daß sie starben.</verse>
+        <verse osisID='2Sam.2.32'>Und sie hoben Asahel auf und begruben ihn in seines Vaters Grab zu Bethlechem, und Joab und seine Männer zogen die ganze Nacht hindurch, und es war ihnen Licht zu Chebron.</verse>
+      </chapter>
+      <chapter osisID='2Sam.3'>
+        <title>Davids Söhne zu Chebron. - Abners Übertritt.</title>
+        <verse osisID='2Sam.3.1'>Und es war ein langer Streit zwischen Sauls Hause und dem Hause Davids. David aber ging hin und ward stark, und Sauls Haus ging hin und ward schwächer.</verse>
+        <verse osisID='2Sam.3.2'>Und dem David wurden in Chebron Söhne geboren. Und sein Erstgeborener war Amnon von Achinoam, der Jisreelitin.</verse>
+        <verse osisID='2Sam.3.3'>Und sein zweiter Chilab von Abigail, dem Weibe Nabals, des Karmeliters, und der dritte Abschalom, Sohn der Maachah, der Tochter Talmais, des Königs von Geschur;</verse>
+        <verse osisID='2Sam.3.4'>Und der vierte Adonijah, Sohn der Chaggith; und der fünfte Schephatjah, der Sohn der Abital;</verse>
+        <verse osisID='2Sam.3.5'>Und der sechste Jithream, von Eglah, Davids Weib. Diese wurden dem David in Chebron geboren.</verse>
+        <verse osisID='2Sam.3.6'>Und es geschah, während Streit war zwischen dem Hause Sauls und dem Hause Davids, daß sich Abner im Hause Sauls stärkte.</verse>
+        <verse osisID='2Sam.3.7'>Und Saul hatte ein Kebsweib, und ihr Name war Rizpah, eine Tochter Ajahs. Und er<note>d.i. Isch-Boscheth</note> sprach zu Abner: Warum bist du zu dem Kebsweib meines Vaters eingegangen?</verse>
+        <verse osisID='2Sam.3.8'>Und Abner entbrannte sehr über die Worte Isch-Boscheths und sprach: Bin ich ein Hundskopf, der es mit Judah hält? Bis heute tat ich Barmherzigkeit dem Hause Sauls, deines Vaters, seinen Brüdern und seinen Genossen, und habe dich nicht in die Hand Davids gegeben, und du willst mich heute wegen der Missetat mit dem Weibe heimsuchen?</verse>
+        <verse osisID='2Sam.3.9'>So tue Gott an Abner, und so fahre Er fort mit ihm, wenn ich nicht, wie Jehovah dem David geschworen, also ihm tue.</verse>
+        <verse osisID='2Sam.3.10'>Daß ich das Königtum vom Hause Sauls übergehen lasse und den Thron Davids über Israel und über Judah und von Dan bis Beerscheba aufrichte.</verse>
+        <verse osisID='2Sam.3.11'>Und er vermochte dem Abner weiter kein Wort zu erwidern, weil er sich vor ihm fürchtete.</verse>
+        <verse osisID='2Sam.3.12'>Und Abner sandte auf der Stelle Boten an David und ließ ihm sagen: Wessen ist das Land? Und sprach: Schließe deinen Bund mit mir, und siehe, meine Hand wird mit dir sein, daß ich dir ganz Israel zuwende<note>abfallen lasse</note>.</verse>
+        <verse osisID='2Sam.3.13'>Und er sprach: Gut, ich will einen Bund mit dir schießen; nur ein Ding<note>Wort</note> erbitte ich mir von dir und spreche: Du sollst mein Angesicht nicht sehen, du habest mir denn zuvor Michal, Sauls Tochter, gebracht, wenn du kommen willst, mein Angesicht zu sehen.</verse>
+        <verse osisID='2Sam.3.14'>Und David sandte Boten an Isch-Boscheth, den Sohn Sauls, und ließ ihm sagen: Gib mir mein Weib Michal, die ich mit hundert Vorhäuten der Philister verlobt habe.</verse>
+        <verse osisID='2Sam.3.15'>Und Isch-Boscheth sandte hin und nahm sie von dem Manne, dem Paltiel, dem Sohne des Laisch.</verse>
+        <verse osisID='2Sam.3.16'>Und ihr Mann ging mit ihr, er ging und weinte hinter ihr her bis Bachurim. Und Abner sprach zu ihm: Gehe, kehre zurück, und er kehrte zurück.</verse>
+        <verse osisID='2Sam.3.17'>Und Abner redete mit den Ältesten Israels und sprach: Schon gestern und ehegestern habt ihr getrachtet nach David, als dem Könige über euch.</verse>
+        <verse osisID='2Sam.3.18'>Und nun tut es! Denn Jehovah hat über David gesprochen und gesagt: Durch die Hand Meines Knechtes David will Ich Mein Volk Israel von der Hand der Philister und von der Hand aller ihrer Feinde retten.</verse>
+        <verse osisID='2Sam.3.19'>Und Abner redete auch vor den Ohren Benjamins, und Abner ging auch hin, zu reden vor den Ohren Davids in Chebron alles, was gut war in den Augen Israels und in den Augen des ganzen Hauses Benjamin.</verse>
+        <verse osisID='2Sam.3.20'>Und Abner kam zu David nach Chebron und mit ihm zwanzig Männer, und David machte Abner und den Männern, die mit ihm waren, ein Gastmahl.</verse>
+        <verse osisID='2Sam.3.21'>Und Abner sprach zu David: Ich will mich aufmachen und hingehen und zu meinem Herrn, dem König, zusammenkommen lassen ganz Israel, daß sie einen Bund mit dir schlie-ßen, und du König seiest über alles, das deine Seele gelüstet. Und David entließ den Abner und er ging im Frieden.</verse>
+        <verse osisID='2Sam.3.22'>Und siehe, die Knechte Davids und Joab kamen von einem Streifzug<note>Kriegshaufen</note> und brachten viel Beute mit sich. Abner aber war nicht mehr bei David in Chebron, denn er hatte ihn entlassen, und er ging im Frieden.</verse>
+        <verse osisID='2Sam.3.23'>Und es kamen Joab und das ganze Heer, das mit ihm war. Und sie sagten dem Joab an und sprachen: Abner, der Sohn Ners, ist zum König gekommen, und er entließ ihn, und er ging im Frieden.</verse>
+        <verse osisID='2Sam.3.24'>Und Joab kam zum König und sprach: Was hast du getan? Siehe, Abner ist zu dir gekommen. Warum hast du ihn entlassen, daß er ist fortgegangen<note>gehend gegangen</note>?</verse>
+        <verse osisID='2Sam.3.25'>Du kennst den Abner, Ners Sohn, daß er gekommen ist, um dich zu bereden und zu erfahren deinen Ausgang und deinen Eingang und alles, was du tust.</verse>
+        <verse osisID='2Sam.3.26'>Und Joab ging hinaus von David und sandte dem Abner Boten nach, und sie brachten ihn zurück von der Grube Sirah, David aber wußte es nicht.</verse>
+        <verse osisID='2Sam.3.27'>Und Abner kehrte nach Chebron zurück; Joab aber nahm ihn inmitten des Tores bei Seite, um ruhig mit ihm zu reden, und stach<note>schlug</note> ihm dort in die fünfte Rippe<note>Rippe steht nicht im Hebr.</note>, daß er starb für das Blut seines Bruders Asahel.</verse>
+        <verse osisID='2Sam.3.28'>Und David hörte es hernach und sprach: Ich und mein Königreich sind in Ewigkeit unschuldig vor Jehovah, an dem Blute Abners, des Sohnes Ners;</verse>
+        <verse osisID='2Sam.3.29'>Es kreise über dem Haupte Joabs und über dem ganzen Hause seines Vaters, und nie werde ausgerottet aus Joabs Hause der Flüssige und der Aussätzige und der sich an Krücken hält, und der durch das Schwert fällt und der Mangel hat an Brot.</verse>
+        <verse osisID='2Sam.3.30'>Und Joab und sein Bruder Abischai hatten Abner dafür erwürgt, daß er ihren Bruder Asahel in Gibeon im Streite getötet hatte.</verse>
+        <verse osisID='2Sam.3.31'>Und David sprach zu Joab und zu allem Volke, das mit ihm war: Zerreißet eure Kleider und gürtet euch Säcke um und klagt vor Abner her, und der König David ging hinter der Bahre<note>dem Bette</note>.</verse>
+        <verse osisID='2Sam.3.32'>Und sie begruben Abner in Chebron, und der König hob seine Stimme auf und weinte am Grabe Abners, und es weinte das ganze Volk.</verse>
+        <verse osisID='2Sam.3.33'>Und der König stimmte ein Klagelied an um Abner und sprach: Sollte Abner sterben, wie ein Tor stirbt?</verse>
+        <verse osisID='2Sam.3.34'>Deine Hände waren nicht gebunden und deine Füße nicht in Erzfesseln gelegt. Wie man fällt vor Söhnen der Verkehrtheit bist du gefallen. Und alles Volk klagte um ihn mit Weinen.</verse>
+        <verse osisID='2Sam.3.35'>Und alles Volk kam, um David mit Brot zu speisen noch am Tage, und David schwur und sprach: So tue mir Gott und so fahre Er fort, wenn ich vor Untergang der Sonne Brot oder irgend etwas koste.</verse>
+        <verse osisID='2Sam.3.36'>Und alles Volk erkannte es und es war gut in seinen Augen, wie alles, was der König tat, in den Augen des ganzen Volkes gut war.</verse>
+        <verse osisID='2Sam.3.37'>Und alles Volk und ganz Israel wußte an selbigem Tage, daß es nicht vom Könige war, daß Abner, Ners Sohn, getötet wurde.</verse>
+        <verse osisID='2Sam.3.38'>Und der König sprach zu seinen Knechten: Wisset ihr nicht, daß ein Oberster und Großer an diesem Tage in Israel gefallen ist?</verse>
+        <verse osisID='2Sam.3.39'>Und ich bin heute zart und zum König gesalbt, diese Männer aber, die Söhne Zerujahs, sind mir zu hart. Jehovah vergelte dem, der Böses tut, nach seiner Bosheit.</verse>
+      </chapter>
+      <chapter osisID='2Sam.4'>
+        <title>Isch-Boscheth wird ermordet und von David gerächt.</title>
+        <verse osisID='2Sam.4.1'>Und der Sohn Sauls hörte, daß Abner in Chebron gestorben wäre, und seine Hände wurden schlaff, und ganz Israel ward bestürzt.</verse>
+        <verse osisID='2Sam.4.2'>Und zwei Männer waren Oberste von Kriegshaufen bei Sauls Sohn; der Name des einen Baanah, und der Name des zweiten Rechab, Söhne Rimmons, des Beerothiters, von den Söhnen Benjamins; denn auch Beeroth ward zu Benjamin gerechnet.</verse>
+        <verse osisID='2Sam.4.3'>Und die Beerothiter waren entwichen nach Gitthajim und hielten sich dort als Fremdlinge auf bis auf diesen Tag.</verse>
+        <verse osisID='2Sam.4.4'>Und Jonathan, Sauls Sohn, hatte einen Sohn, der war lahm<note>geschlagen</note> an beiden Füßen; fünf Jahre alt<note>ein Sohn von 5 Jahren</note> war er, als das Gerücht über Saul und Jonathan von Jisreel kam. Und seine Wärterin hob ihn auf und floh, und es geschah, daß er in der Hast ihrer Flucht fiel und lahm wurde, und sein Name war Mephiboscheth.</verse>
+        <verse osisID='2Sam.4.5'>Und es gingen die Söhne Rimmons, des Beerothiters, Rechab und Baanah, und kamen in der Hitze des Tages zum Hause des Isch-Boscheth, und er lag auf seinem Lager am Mittag.</verse>
+        <verse osisID='2Sam.4.6'>Und siehe, sie waren bis in die Mitte des Hauses gekommen, Weizen zu holen, und sie stachen ihn in die fünfte Rippe<note>Rippe steht nicht im Hebr.</note>, und Rechab und Baanah, sein Bruder, entrannen.</verse>
+        <verse osisID='2Sam.4.7'>Denn als sie in das Haus kamen, lag er auf seinem Bette in seiner Schlafkammer, und sie schlugen ihn und töteten ihn, und schnitten den Kopf ab<note>taten hinweg</note> und nahmen seinen Kopf und gingen die ganze Nacht hin den Weg der Arabah.</verse>
+        <verse osisID='2Sam.4.8'>Und sie brachten den Kopf des Isch-Boscheth zu David nach Chebron und sprachen zum König: Siehe da den Kopf von Isch-Boscheth, dem Sohne Sauls, deines Feindes, der dir nach der Seele trachtete, aber Jehovah hat an diesem Tage meinem Herrn, dem König, Rache an Saul und seinem Samen gegeben.</verse>
+        <verse osisID='2Sam.4.9'>Und David antwortete dem Rechab und seinem Bruder Baanah, den Söhnen des Beerothiters Rimmon, und sprach zu ihnen: Beim Leben Jehovahs, Der meine Seele aus aller Drangsal eingelöst hat,</verse>
+        <verse osisID='2Sam.4.10'>Fürwahr, den, der mir ansagte und sprach: Siehe, Saul ist tot, und der in seinen Augen wie ein guter Bote war<note>Verkünder</note> war, den ergriff ich und erwürgte ihn in Ziklag anstatt ihm etwas für seine Kunde zu geben.</verse>
+        <verse osisID='2Sam.4.11'>Wieviel mehr, da ungerechte Männer einen gerechten Mann in seinem Hause auf seinem Lager erwürgt! Wie sollte ich nun nicht sein Blut fordern von eurer Hand und euch von der Erde wegschaffen?</verse>
+        <verse osisID='2Sam.4.12'>Und David gebot den Jungen und sie erwürgten sie; und sie schnitten ihnen Hände und Füße ab und hingen sie auf am Teiche von Chebron; den Kopf des Isch-Boscheth aber nahmen sie und begruben ihn in Abners Grabe in Chebron.</verse>
+      </chapter>
+      <chapter osisID='2Sam.5'>
+        <title>David wird von den übrigen Stämmen gesalbt, Jerusalem erobert, die Philister besiegt.</title>
+        <verse osisID='2Sam.5.1'>Und alle Stämme<note>Ruten</note> Israels kamen zu David nach Chebron und sprachen und sagten: Siehe, wir sind dein Gebein und dein Fleisch.</verse>
+        <verse osisID='2Sam.5.2'>Schon gestern und ehegestern, da Saul König über uns war, warst du es, der Israel ausziehen und einziehen ließ. Und Jehovah hat zu dir gesprochen: Du sollst Mein Volk Israel weiden und du sollst ein Führer über Israel sein.</verse>
+        <verse osisID='2Sam.5.3'>Und es kamen alle Ältesten Israels zu dem Könige nach Chebron, und der König David schloß in Chebron einen Bund mit ihnen vor Jehovah, und sie salbten David zum König über Israel.</verse>
+        <verse osisID='2Sam.5.4'>Dreißig Jahre war David alt<note>ein Sohn von 30 Jahren</note>, als er König wurde, und er regierte vierzig Jahre.</verse>
+        <verse osisID='2Sam.5.5'>In Chebron regierte er über Judah sieben Jahre und sechs Monate, und in Jerusalem regierte er dreiunddreißig Jahre über ganz Israel und Judah.</verse>
+        <verse osisID='2Sam.5.6'>Und der König und seine Männer zogen nach Jerusalem gegen den Jebusiter, der im Lande wohnte; und er sagte zu David und sprach: Du wirst nicht da hereinkommen, schon die Blinden und Lahmen werden dich weghalten, als sagten sie: David wird nicht da hereinkommen.</verse>
+        <verse osisID='2Sam.5.7'>Aber David eroberte die feste Zijon, das ist die Stadt Davids.</verse>
+        <verse osisID='2Sam.5.8'>Und David sprach an selbigem Tage: Jeglicher, der den Jebusiter schlägt und die Rinne berührt und die Lahmen und Blinden, die der Seele Davids verhaßt sind, - darum sagt man, ein Blinder und ein Lahmer komme nicht zum Haus.</verse>
+        <verse osisID='2Sam.5.9'>Und David wohnte in der Feste und nannte sie Stadt Davids. Und David baute rings herum an, von Millo<note>von der Hauptbastion</note> einwärts.</verse>
+        <verse osisID='2Sam.5.10'>Und David wurde immer größer<note>ging hin, gehend und größer werdend</note>, und Jehovah, der Gott der Heerscharen, war mit ihm.</verse>
+        <verse osisID='2Sam.5.11'>Und Chiram, der König von Zor<note>d.i. Tyrus, der Felsen</note> sandte Boten an David und Zedernholz und Werkleute in Holz und Werkleute in Stein der Mauer und sie bauten dem David ein Haus.</verse>
+        <verse osisID='2Sam.5.12'>Und David erkannte, daß Jehovah ihn als König über Israel befestigte, und daß Er sein Königreich erhob wegen Seines Volkes Israel.</verse>
+        <verse osisID='2Sam.5.13'>Und David nahm noch Kebsweiber und Weiber von Jerusalem, nachdem er von Chebron gekommen war, und es wurden dem David noch Söhne und Töchter geboren.</verse>
+        <verse osisID='2Sam.5.14'>Und das sind die Namen derer, die ihm in Jerusalem geboren wurden: Schammua und Schobab und Nathan und Salomo,</verse>
+        <verse osisID='2Sam.5.15'>Und Jibchar und Elischua und Nepheg und Japhia,</verse>
+        <verse osisID='2Sam.5.16'>Und Elischama und Eljada und Eliphalet.</verse>
+        <verse osisID='2Sam.5.17'>Und die Philister hörten, daß sie David zum König über Israel gesalbt, und es zogen alle Philister herauf, David aufzusuchen. Und David hörte es und zog hinab in die Feste.</verse>
+        <verse osisID='2Sam.5.18'>Und die Philister kamen und breiteten sich aus im Talgrunde Rephaim.</verse>
+        <verse osisID='2Sam.5.19'>Und David fragte bei Jehovah an und sprach: Soll ich gegen die Philister hinaufziehen, wirst Du sie in meine Hand geben? Und Jehovah sprach zu David: Zieh hinauf, denn fürwahr, Ich gebe<note>gebend gebe Ich</note> die Philister in deine Hand.</verse>
+        <verse osisID='2Sam.5.20'>Und David kam nach Baal-Perazim<note>der Herr der Durchbrüche</note>, und David schlug sie daselbst und sprach: Jehovah hat meine Feinde vor mir durchbrochen, wie die Wasser durchbrechen. Darum nannte er den Namen des Ortes Baal-Perazim.</verse>
+        <verse osisID='2Sam.5.21'>Und sie verließen daselbst ihre Götzenbilder, und David mit seinen Männern hob sie auf.</verse>
+        <verse osisID='2Sam.5.22'>Und die Philister zogen abermals herauf und breiteten sich aus im Talgrunde Rephaim.</verse>
+        <verse osisID='2Sam.5.23'>Und David fragte bei Jehovah an, und Er sprach: Du sollst nicht hinaufziehen, sondern ziehe herum, hinter sie, so daß du wider sie kommst gegenüber den Maulbeerbäumen.</verse>
+        <verse osisID='2Sam.5.24'>Und es geschehe, wenn du hörst das Rauschen<note>die Stimme</note> des Einherschreitens in den Wipfeln<note>in den Häuptern</note> der Maulbeerbäume, dann hauet ein, denn dann zieht Jehovah vor dir aus, das Lager der Philister zu schlagen.</verse>
+        <verse osisID='2Sam.5.25'>Und David tat so, wie Jehovah ihm geboten hatte, und schlug die Philister von Geba bis du kommst nach Geser.</verse>
+      </chapter>
+      <chapter osisID='2Sam.6'>
+        <title>Die Bundeslade wird nach Jerusalem gebracht.</title>
+        <verse osisID='2Sam.6.1'>Und David sammelte wieder alle Auserwählten in Israel, dreißigtausend.</verse>
+        <verse osisID='2Sam.6.2'>Und David machte sich auf und ging, und alles Volk, das bei ihm war, von Baale-Judah, um von dannen die Lade Gottes heraufzubringen, über welcher der Name der Name des Jehovah der Heerscharen, der auf den Cheruben wohnt, angerufen wird.</verse>
+        <verse osisID='2Sam.6.3'>Und sie fuhren die Lade Gottes auf einem neuen Wagen und brachten<note>erhoben</note> sie aus dem Hause Abinadabs in Gibeah. Und Usah und Achjo, Abinadabs Söhne, trieben den neuen Wagen.</verse>
+        <verse osisID='2Sam.6.4'>Und sie brachten<note>erhoben</note> ihn aus dem Hause Abinadabs in Gibeah mit der Lade Gottes, und Achjo ging vor der Lade.</verse>
+        <verse osisID='2Sam.6.5'>Und David und das ganze Haus Israel spielten vor Jehovah her auf allerlei Holzinstrumenten<note>Hölzern</note> von Tannen und mit Harfen und mit Psaltern und mit Pauken und mit Schellen und mit Zimbeln.</verse>
+        <verse osisID='2Sam.6.6'>Und sie kamen zur Tenne Nachons. Und Usah reckte<note>seine Hand</note> nach der Lade Gottes aus und ergriff sie; denn die Rinder traten beiseite.</verse>
+        <verse osisID='2Sam.6.7'>Und der Zorn Jehovahs entbrannte über Usah, und Gott schlug ihn daselbst um seines Vergehens willen, daß er allda starb bei der Lade Gottes.</verse>
+        <verse osisID='2Sam.6.8'>Und David entbrannte, daß Jehovah gegen Usah einen Durchbruch durchbrochen hatte, und man nannte den selbigen Ort Perez-Usah<note>Durchbruch Usahs</note> bis auf diesen Tag.</verse>
+        <verse osisID='2Sam.6.9'>Und David fürchtete jenes Tages Jehovah und sprach: Wie soll die Lade Jehovahs zu mir kommen?</verse>
+        <verse osisID='2Sam.6.10'>Und David war nicht willens, daß die Lade Jehovahs zu ihm in die Stadt Davids einkehrte, und David ließ sie abseits nehmen in das Haus Obed-Edoms, des Gathiters.</verse>
+        <verse osisID='2Sam.6.11'>Und die Lade Jehovahs blieb<note>saß</note> drei Monate im Hause des Gathiters Obed-Edom, und Jehovah segnete den Obed-Edom und sein ganzes Haus.</verse>
+        <verse osisID='2Sam.6.12'>Und es ward dem Könige David angesagt und man sprach: Jehovah hat das Haus des Obed-Edom und alles, was er hat, gesegnet um der Lade Gottes willen. Und David ging und brachte die Lade Gottes herauf aus dem Hause des Obed-Edom nach der Stadt David nach Fröhlichkeit.</verse>
+        <verse osisID='2Sam.6.13'>Und es geschah, als die Träger der Lade Jehovahs sechs Schritt geschritten, opferte man einen Ochsen und Mastvieh.</verse>
+        <verse osisID='2Sam.6.14'>Und David sprang mit ganzer Stärke vor Jehovah her, und David war umgürtet mit einem linnenen Ephod.</verse>
+        <verse osisID='2Sam.6.15'>Und David und das ganze Haus Israel brachten die Lade Jehovahs herauf unter Jubelrufen und dem Schall<note>der Stimme</note> der Posaunen.</verse>
+        <verse osisID='2Sam.6.16'>Und es geschah, daß die Lade Jehovahs nach der Stadt Davids kam, und Michal, Sauls Tochter, schaute durch das Fenster und sah den König David hüpfen und springen vor Jehovah her, und verachtete ihn in ihrem Herzen.</verse>
+        <verse osisID='2Sam.6.17'>Und sie brachten die Lade Jehovahs und stellten sie an ihren Ort inmitten des Zeltes, welches David für dieselbe aufgeschlagen hatte; und David opferte Brandopfer vor Jehovah und Dankopfer auf.</verse>
+        <verse osisID='2Sam.6.18'>Und als David das Aufopfern des Brandopfers und der Dankopfer vollendet, segnete er das Volk im Namen des Jehovah der Heerscharen.</verse>
+        <verse osisID='2Sam.6.19'>Und er verteilte an alles Volk, an die ganze Menge Israel, vom Manne und bis zum Weibe, einem jeden Manne einen Kuchen Brot und ein Opferteil und einen Rosinenkuchen, und alles Volk ging, jeder Mann nach seinem Hause.</verse>
+        <verse osisID='2Sam.6.20'>Und David kehrte zurück, um sein Haus zu segnen. Und Michal, Sauls Tochter kam heraus, David entgegen und sprach: Wie hat sich heute der König Israels verherrlicht, daß er sich heute vor den Augen der Mägde seiner Knechte entblößte<note>aufdeckte</note>, wie sich entblößt<note>aufdeckt</note> der losen<note>leeren</note> Leute einer.</verse>
+        <verse osisID='2Sam.6.21'>Und David sprach zu Michal: Vor Jehovah, Der mich vor deinem Vater und vor all seinem Hause erwählt, mich zum Führer zu entbieten über das Volk Jehovahs, über Israel, vor Jehovah habe ich gespielt<note>gescherzt</note>.</verse>
+        <verse osisID='2Sam.6.22'>Und ich werde noch geringer werden, als dies, und will mich erniedrigen in meinen Augen und vor den Mägden, von denen du sprichst; vor ihnen will ich mich verherrlichen.</verse>
+        <verse osisID='2Sam.6.23'>Und Michal, Sauls Tochter, hatte kein Kind, bis an den Tag ihres Todes.</verse>
+      </chapter>
+      <chapter osisID='2Sam.7'>
+        <title>David will einen Tempel bauen.</title>
+        <verse osisID='2Sam.7.1'>Und es geschah, daß der König in seinem Hause saß und Jehovah ihm ringsumher von allen seinen Feinden Ruhe verschafft hatte,</verse>
+        <verse osisID='2Sam.7.2'>Und der König sprach zu Nathan, dem Propheten: Siehe doch, ich wohne<note>sitze</note> in einem Hause von Zedern und die Lade Gottes wohnt<note>sitzt</note> inmitten der Teppiche.</verse>
+        <verse osisID='2Sam.7.3'>Und Nathan sprach zum König: Gehe hin, tue alles, was in deinem Herzen ist; denn Jehovah ist mit dir.</verse>
+        <verse osisID='2Sam.7.4'>Und es geschah in selbiger Nacht, daß Jehovahs Wort an Nathan geschah, und Er sprach:</verse>
+        <verse osisID='2Sam.7.5'>Gehe hin und sprich zu Meinem Knechte, zu David: So spricht Jehovah: Solltest du Mir ein Haus bauen, darin zu wohnen<note>sitzen</note>?</verse>
+        <verse osisID='2Sam.7.6'>Habe Ich doch in keinem Hause gewohnt<note>gesessen</note> seit dem Tage, da Ich die Söhne Israels aus Ägypten heraufgeführt, und bis auf diesen Tag, und wandelte umher in dem Zelt und in der Wohnung.</verse>
+        <verse osisID='2Sam.7.7'>Wo immer Ich umherzog unter allen Söhnen Israels, habe Ich je ein Wort geredet zu einem der Stämme<note>Ruten</note> Israel, dem Ich gebot, Mein Volk Israel zu weiden und gesagt: Warum habt ihr Mir nicht ein Haus von Zedern gebaut?</verse>
+        <verse osisID='2Sam.7.8'>Und nun sollst du zu Meinem Knechte, zu David, also sprechen: So spricht Jehovah der Heerscharen: Ich habe dich genommen von der Hürde hinter den Schafen weg, auf daß du solltest ein Führer sein über Mein Volk, über Israel.</verse>
+        <verse osisID='2Sam.7.9'>Und Ich war mit dir wo immer du gingst, habe alle deine Feinde vor dir ausgerottet und dir einen großen Namen gemacht, wie der Name der Großen auf der Erde.</verse>
+        <verse osisID='2Sam.7.10'>Und Ich habe Meinem Volke Israel einen Ort gesetzt und ihn gepflanzt, auf daß es an seiner Stelle wohne und nicht mehr zittere, und die Söhne der Verkehrtheit es nicht mehr drücken wie früher;</verse>
+        <verse osisID='2Sam.7.11'>Und von dem Tage an, daß Ich Richter über Mein Volk Israel entbot und dir Ruhe von allen deinen Feinden verschafft habe, sagt dir Jehovah an, daß dir Jehovah ein Haus machen will.</verse>
+        <verse osisID='2Sam.7.12'>Wenn deine Tage voll sind, und du bei deinen Vätern liegst, will Ich deinen Samen nach dir, der aus deinen Eingeweiden ausgeht, bestätigen und sein Königtum befestigen.</verse>
+        <verse osisID='2Sam.7.13'>Er soll Meinem Namen ein Haus bauen, und Ich will den Thron seines Königshauses befestigen in Ewigkeit.</verse>
+        <verse osisID='2Sam.7.14'>Ich will ihm zum Vater sein, und er soll Mir zum Sohn sein. So er verkehrt handelt, werde Ich ihn strafen mit der Rute der Männer und mit Plagen der Menschensöhne.</verse>
+        <verse osisID='2Sam.7.15'>Aber Meine Barmherzigkeit soll nicht von ihm abweichen, wie sie abwich von Saul, den Ich vor dir weggetan.</verse>
+        <verse osisID='2Sam.7.16'>Aber dein Haus und dein Königtum soll bewährt sein vor dir in Ewigkeit. Dein Thron soll befestigt sein in Ewigkeit.</verse>
+        <verse osisID='2Sam.7.17'>Nach allen diesen Worten und nach all diesem Gesichte, also redete Nathan zu David.</verse>
+        <verse osisID='2Sam.7.18'>Und der König David kam und saß vor Jehovah und sprach: Wer bin ich, Herr, Jehovah, und was ist mein Haus, daß Du mich bis hierher gebracht hast!</verse>
+        <verse osisID='2Sam.7.19'>Und noch zu klein war das in deinen Augen, Herr, Jehovah, und Du redest auch über das Haus Deines Knechtes in der Ferne; aber solches ist nach dem Gesetze der Menschen, Herr, Jehovah!</verse>
+        <verse osisID='2Sam.7.20'>Und was soll David noch weiter<note>hinzutun zu reden</note> zu Dir? Du kennst ja Deinen Knecht, Herr, Jehovah.</verse>
+        <verse osisID='2Sam.7.21'>Um Deines Wortes willen und nach Deinem Herzen hast Du all das Große getan, auf daß Du sie Deinen Knecht wissen ließest.</verse>
+        <verse osisID='2Sam.7.22'>Darum bist Du groß, Jehovah, Gott; denn keiner ist wie Du, und kein Gott ist außer Dir, nach alle dem, was wir mit unseren Ohren gehört.</verse>
+        <verse osisID='2Sam.7.23'>Und wo ist eine Völkerschaft auf Erden wie Dein Volk, wie Israel, das sich zum Volke einzulösen Gott ist hingegangen, und daß Er Sich einen Namen setze, und Du für Dich<note>für Euch</note> Großes und Furchtbares für Dein Land vor Deinem Volke getan, das Du Dir aus Ägypten, den Völkerschaften und deren Göttern eingelöst hast.</verse>
+        <verse osisID='2Sam.7.24'>Und Du hast Dir Dein Volk Israel in Ewigkeit zum Volke bereitet, und Du, Jehovah, bist ihnen zum Gott geworden.</verse>
+        <verse osisID='2Sam.7.25'>Und nun, Jehovah, Gott, laß das Wort, das Du über Deinen Knecht und über sein Haus geredet hast, bestätigt werden in Ewigkeit, und tue, wie Du geredet hast.</verse>
+        <verse osisID='2Sam.7.26'>Und groß wird sein Dein Name in Ewigkeit, daß man spreche: Jehovah der Heerscharen ist Gott über Israel, und daß das Haus Deines Knechtes David vor Dir befestigt sei.</verse>
+        <verse osisID='2Sam.7.27'>Denn Du, Jehovah der Heerscharen, Gott Israels, hast dem Ohre Deines Knechtes geoffenbart und gesagt: Ein Haus will Ich dir bauen. Darum hat Dein Knecht sein Herz gefunden, dies Gebet zu Dir zu beten.</verse>
+        <verse osisID='2Sam.7.28'>Und nun, Herr, Jehovah, Du bist der Gott, und Deine Worte werden Wahrheit sein, und Du hast Deinem Knechte solch Gutes geredet.</verse>
+        <verse osisID='2Sam.7.29'>Und nun laß Dir gefallen, daß Du segnest das Haus Deines Knechtes, auf daß er vor Dir sei in Ewigkeit; denn Du, Herr, Jehovah, hast es geredet und mit Deinem Segen soll das Haus Deines Knechtes gesegnet werden in Ewigkeit.</verse>
+      </chapter>
+      <chapter osisID='2Sam.8'>
+        <title>Weitere Siege Davids; seine Beamten.</title>
+        <verse osisID='2Sam.8.1'>Und es geschah danach, daß David die Philister schlug und sie niederbeugte, und David nahm Metheg-Ammah<note>den Zaun des Dienstes; andere übersetzen: den Zaun der Mutterstadt</note> aus der Hand der Philister.</verse>
+        <verse osisID='2Sam.8.2'>Und er schlug Moab und maß sie mit der Schnur, so daß er sie zur Erde ließ niederliegen und zwei Schnüre maß, um zu töten, und eine volle Schnur am Leben zu lassen. Und es ward Moab dem David zu Knechten, daß sie ihm Geschenke<note>Speiseopfer</note> zutrugen.</verse>
+        <verse osisID='2Sam.8.3'>Und David schlug Hadadeser, Rechobs Sohn, König von Zobah, da er hinzog, seine Hand zurückzuwenden am Flusse<note>d.i. am Euphrat</note>.</verse>
+        <verse osisID='2Sam.8.4'>Und David nahm<note>eroberte</note> von ihm tausendsiebenhundert Reiter und zwanzigtausend Mann zu Fuß, und David lähmte alle Streitwagen und ließ hundert Streitwagen von ihnen übrig.</verse>
+        <verse osisID='2Sam.8.5'>Und Aram<note>d.i. Syrien</note> Damaskus kam, dem Hadadeser, König von Zobah, beizustehen; und David schlug dem Aram zweiund- zwanzigtausend Mann.</verse>
+        <verse osisID='2Sam.8.6'>Und David legte Besatzungen Aram<note>Syrien</note> Damaskus, und Aram ward David zu Knechten und trugen Geschenke<note>Speiseopfer</note> zu, und Jehovah half dem David überall, wohin er ging.</verse>
+        <verse osisID='2Sam.8.7'>Und David nahm die goldenen Schilde<note>oder Rüstungen</note>, welche die Knechte Hadadesers hatten, und brachte sie nach Jerusalem,</verse>
+        <verse osisID='2Sam.8.8'>Und von Betach und von Berothai, Städten Hadadesers, nahm König David sehr viel Erz.</verse>
+        <verse osisID='2Sam.8.9'>Und Thoi, König von Chamath, hörte, daß David die ganze Streitmacht Hadadesers geschlagen;</verse>
+        <verse osisID='2Sam.8.10'>Und Thoi sandte seinen Sohn Joram zu König David, um sein Wohlsein<note>seinen Frieden</note> zu erfragen, und ihn zu segnen dafür, daß er wider Hadadeser gestritten und ihn geschlagen hätte, denn Thoi war ein Mann des Streites wider Hadadeser; und in seiner Hand waren Gefäße von Silber und Gefäße von Gold und Gefäße von Erz.</verse>
+        <verse osisID='2Sam.8.11'>Auch sie heiligte König David dem Jehovah mit dem Silber und dem Gold, das er von allen Völkerschaften, die er unterworfen, geheiligt hatte.</verse>
+        <verse osisID='2Sam.8.12'>Von Syrien und von Moab und von den Söhnen Ammons und von den Philistern und von Amalek und von der Beute Hadadesers, Rechobs Sohne, König von Zobah.</verse>
+        <verse osisID='2Sam.8.13'>Und David machte sich einen Namen, als er zurückkam, nachdem er von dem Aram<note>Syrien</note> im Salztal<note>Schlucht des Salzes</note> achtzehntausend geschlagen.</verse>
+        <verse osisID='2Sam.8.14'>Und er legte Besatzungen in Edom, in ganz Edom legte er Besatzungen, und ganz Edom wurde dem David zum Knechte, und Jehovah half dem David in allem, wo er hinging.</verse>
+        <verse osisID='2Sam.8.15'>Und David regierte über ganz Israel, und David tat Recht und Gerechtigkeit all seinem Volke.</verse>
+        <verse osisID='2Sam.8.16'>Und Joab, Zerujahs Sohn, war über das Heer, und Joschaphat, der Sohn Achiluds, war Kanzler.</verse>
+        <verse osisID='2Sam.8.17'>Und Zadok, der Sohn Achitubs, und Achimelech, der Sohn Abjathars, waren Priester, und Serajah war Schreiber.</verse>
+        <verse osisID='2Sam.8.18'>Und da waren Benajahu, der Sohn Jehojadas, und die Krethi und Plethi, und die Söhne Davids waren Priester.</verse>
+      </chapter>
+      <chapter osisID='2Sam.9'>
+        <title>Mephiboscheth, Jonathans Sohn.</title>
+        <verse osisID='2Sam.9.1'>Und David sprach: Ist noch jemand da, der übriggeblieben ist von dem Hause Sauls, daß ich ihm Barmherzigkeit tue wegen Jonathan?</verse>
+        <verse osisID='2Sam.9.2'>Und das Haus Sauls hatte einen Knecht und sein Name war Ziba, und sie riefen ihn zu David. Und der König sprach zu ihm: Bist du Ziba? Und er sprach: Dein Knecht.</verse>
+        <verse osisID='2Sam.9.3'>Und der König sprach: Ist kein Mann mehr vom Hause Sauls da, daß ich ihm die Barmherzigkeit Gottes tue? Und Ziba sprach zu dem Könige: Noch ist ein Sohn Jonathans da, gelähmt<note>geschlagen</note> an beiden Füßen.</verse>
+        <verse osisID='2Sam.9.4'>Und der König sprach zu ihm: Wo ist er? Und Ziba sprach zu dem Könige: Siehe, er ist im Hause Machirs, des Sohnes Ammiels, in Lo-Debar.</verse>
+        <verse osisID='2Sam.9.5'>Und der König David sandte hin und ließ ihn aus dem Hause Machirs, des Sohnes Ammiels, von Lo-Debar holen.</verse>
+        <verse osisID='2Sam.9.6'>Und Mephiboscheth, der Sohn von Jonathan, dem Sohne Sauls, kam zu David und fiel nieder auf sein Angesicht und betete an. Und David sprach: Mephiboscheth! Und er sprach: Siehe, dein Knecht!</verse>
+        <verse osisID='2Sam.9.7'>Und David sprach zu ihm: Fürchte dich nicht; denn ich will Barmherzigkeit an dir tun<note>tuend tun</note> wegen deines Vaters Jonathan, und dir alles Feld Sauls, deines Vaters, zurück- geben, und du sollst beständig an meinem Tische das Brot essen.</verse>
+        <verse osisID='2Sam.9.8'>Und er betete an und sprach: Was ist dein Knecht, daß du dich wendest zu einem toten Hunde, der ist wie ich?</verse>
+        <verse osisID='2Sam.9.9'>Und der König rief Ziba, dem Jungen Sauls, und sprach zu ihm: Alles, was dem Saul und seinem ganzen Hause gehörte, habe ich dem Sohne deines Herrn gegeben.</verse>
+        <verse osisID='2Sam.9.10'>Und du sollst ihm den Boden bebauen<note>bedienen</note>, du und deine Söhne und deine Knechte, und es einbringen, daß der Sohn deines Herrn Brot habe und es esse. Und Mephiboscheth, der Sohn deines Herrn, soll beständig das Brot an meinem Tische essen. Ziba hatte aber fünfzehn Söhne und zwanzig Knechte.</verse>
+        <verse osisID='2Sam.9.11'>Und Ziba sprach zu dem König: Nach allem, was mein Herr, der König, seinem Knechte gebietet, also wird dein Knecht tun. Mephiboscheth aber esse an meinem Tische, wie einer von des Königs Söhnen.</verse>
+        <verse osisID='2Sam.9.12'>Und Mephiboscheth hatte einen kleinen Sohn, und sein Name Micha, und alle, die im Hause Zibas wohnten<note>saßen</note> waren dem Mephiboscheth zu Knechten.</verse>
+        <verse osisID='2Sam.9.13'>Und Mephiboscheth wohnte in Jerusalem, denn er aß beständig an des Königs Tisch. Und er war lahm an beiden Füßen.</verse>
+      </chapter>
+      <chapter osisID='2Sam.10'>
+        <title>Sieg über die Ammoniter.</title>
+        <verse osisID='2Sam.10.1'>Und es geschah danach, daß der König der Söhne Ammons starb, und Chanun, sein Sohn, ward König an seiner Statt.</verse>
+        <verse osisID='2Sam.10.2'>Und David sprach: Ich will Barmherzigkeit tun an Chanun, dem Sohne des Nachasch, wie sein Vater an mir Barmherzigkeit getan hat. Und David sandte hin, ihn durch die Hand seiner Knechte über seinen Vater zu trösten, und die Knechte Davids kamen in das Land der Söhne Ammons.</verse>
+        <verse osisID='2Sam.10.3'>Und die Obersten der Söhne Ammons sprachen zu Chanun, ihrem Herrn: Hat wohl David in deinen Augen deinen Vater verherrlichen wollen, daß er Tröster an dich sendet? Hat David nicht vielmehr seine Knechte an dich gesandt, auf daß er erforsche und sie auskundschafte und dann sie umkehre.</verse>
+        <verse osisID='2Sam.10.4'>Und Chanun nahm die Knechte Davids und schor ihnen die Hälfte ihres Bartes ab und schnitt ihnen die Waffenröcke halb ab, bis an das Gesäß, und entließ sie.</verse>
+        <verse osisID='2Sam.10.5'>Und sie sagten es dem David an, und er sandte ihnen entgegen; denn die Männer waren sehr geschändet, und der König sagte: Bleibet in Jericho, bis euer Bart wieder gewachsen<note>gesproßt</note> ist, und dann kehrt zurück.</verse>
+        <verse osisID='2Sam.10.6'>Und die Söhne Ammons sahen, daß sie bei David stinkend geworden, und die Söhne Ammons sandten und dingten Aram<note>den Syrer</note> von Beth-Rechob und Aram<note>den Syrer</note> von Zobah zwanzigtausend Mann zu Fuß, und den König von Maachah mit tausend Mann, und Männer von Tob, zwölftausend Mann.</verse>
+        <verse osisID='2Sam.10.7'>Und David hörte es und sandte Joab und das ganze Heer der Helden.</verse>
+        <verse osisID='2Sam.10.8'>Und die Söhne Ammons zogen aus und stellten sich auf zum Streite am Eingang des Tores; und die aus Aram Zobah und Rechob und die Männer von Tob und Maachas, besonders auf dem Felde.</verse>
+        <verse osisID='2Sam.10.9'>Und Joab sah, daß der Streit wider ihn war von vorn und von hinten, und er wählte von allen Auserwählten in Israel aus und stellte sie auf, dem Aram entgegen.</verse>
+        <verse osisID='2Sam.10.10'>Und das übrige Volk gab er in die Hand Abischais, seines Bruders, und stellte sie auf, den Söhnen Ammons entgegen.</verse>
+        <verse osisID='2Sam.10.11'>Und er sprach: Wenn Aram mir zu stark wird, so sei du mir zur Hilfe, und wenn dir die Söhne Ammons zu stark werden, so komme ich dir zu Hilfe.</verse>
+        <verse osisID='2Sam.10.12'>Sei stark und laß uns stark sein für unser Volk und für die Städte unseres Gottes, und Jehovah wird tun, was gut in Seinen Augen ist.</verse>
+        <verse osisID='2Sam.10.13'>Und Joab und das Volk mit ihm kam herzu gegen Aram zum Streite, und sie flohen vor ihm.</verse>
+        <verse osisID='2Sam.10.14'>Und die Söhne Ammons sahen, daß Aram floh, und sie flohen vor Abischai und kamen in die Stadt. Und Joab kehrte zurück von den Söhnen Ammons und kam nach Jerusalem.</verse>
+        <verse osisID='2Sam.10.15'>Und Aram sah, daß er vor Israel geschlagen<note>gestoßen</note> war, und sie sammelten sich allzumal.</verse>
+        <verse osisID='2Sam.10.16'>Und Hadareser sandte hin und brachte Aram<note>die Syrer</note> jenseits des Flusses<note>d.i. Euphrat</note> heraus, und sie kamen mit ihrer Streitmacht, und Schobach, der Oberste des Heeres Hadaresers, vor ihnen her.</verse>
+        <verse osisID='2Sam.10.17'>Und es ward David angesagt, und er sammelte ganz Israel und zog über den Jordan hinüber und kam nach Chelam; und Aram<note>die Syrer</note> stellten sich auf, dem David entgegen, und stritt mit ihm.</verse>
+        <verse osisID='2Sam.10.18'>Und Aram floh vor Israel, und David erwürgte von Aram siebenhundert Streitwagen und vierzigtausend Reiter; und Schobach, den Obersten seines Heeres, schlug er und er starb allda.</verse>
+        <verse osisID='2Sam.10.19'>Und alle Könige, die Knechte Hadaresers, sahen, daß sie vor Israel geschlagen waren und machten Frieden mit Israel und wurden ihnen zu Knechten, und Aram fürchtete sich, den Söhnen Ammons weiter zu helfen.</verse>
+      </chapter>
+      <chapter osisID='2Sam.11'>
+        <title>Davids Ehebruch. Urijahsbrief.</title>
+        <verse osisID='2Sam.11.1'>Und es geschah bei der Rückkehr des Jahres, zur Zeit, da die Könige ausziehen, sandte David den Joab und seine Knechte mit ihm und ganz Israels, daß sie die Söhne Ammons verderbeten, und sie belagerten Rabbah; David aber blieb<note>saß</note> in Jerusalem.</verse>
+        <verse osisID='2Sam.11.2'>Und es geschah um die Abendzeit, daß David von seinem Lager aufstand und auf dem Dach des Königshauses wandelte; und er sah vom Dache aus ein Weib, das sich badete, und das Weib war sehr gut von Aussehen.</verse>
+        <verse osisID='2Sam.11.3'>Und David sandte hin und ließ nach dem Weibe fragen, und man sagte: Ist das nicht Bath-Scheba, die Tochter Eliams, Urijahs, des Chethiters Weib.</verse>
+        <verse osisID='2Sam.11.4'>Und David sandte Boten und nahm sie, und sie kam zu ihm, und er lag bei ihr. Und sie heiligte sich von ihrer Unreinheit. Und sie kehrte nach ihrem Hause zurück.</verse>
+        <verse osisID='2Sam.11.5'>Und das Weib hatte empfangen und sandte und sagte David an und sprach: Ich habe empfangen.</verse>
+        <verse osisID='2Sam.11.6'>Und David sandte an Joab: Sende mir den Chethiter Urijah. Und Joab sandte Urijah zu David.</verse>
+        <verse osisID='2Sam.11.7'>Und Urijah kam zu ihm, und David fragte um das Wohlsein<note>den Frieden</note> Joabs und um das Wohlsein<note>den Frieden</note> des Volkes und um die Wohlfahrt<note>den Frieden</note> des Krieges.</verse>
+        <verse osisID='2Sam.11.8'>Und David sprach zu Urijah: Gehe hinab in dein Haus und bade deine Füße. Und Urijah ging hinaus aus dem Hause des Königs, und hinter ihm ging aus eine Ehrengabe des Königs.</verse>
+        <verse osisID='2Sam.11.9'>Und Urijah legte sich an den Eingang des Königshauses mit allen Knechten seines Herrn, und ging nicht nach seinem Hause hinab.</verse>
+        <verse osisID='2Sam.11.10'>Und sie sagten es dem David an und sprachen: Urijah ist nicht nach seinem Hause hinabgegangen. Und David sprach zu Urijah: Kommst du nicht vom Wege? Warum bist du nicht nach deinem Hause hinabgegangen?</verse>
+        <verse osisID='2Sam.11.11'>Und Urijah sprach zu David: Die Lade von Israel und Judah wohnen<note>sitzen</note> in Hütten und mein Herr Joab und die Knechte meines Herrn lagern auf dem Angesicht des Feldes, und ich sollte in mein Haus kommen, um zu essen und zu trinken und bei meinem Weibe zu liegen? Bei deinem Leben und beim Leben deiner Seele, wenn ich solches<note>dieses Wort</note> tue!</verse>
+        <verse osisID='2Sam.11.12'>Und David sprach zu Urijah: Bleib<note>sitze</note> heute noch hier, und morgen will ich dich hinsenden. Und Urijah blieb<note>saß</note> in Jerusalem am selbigen Tag und am morgenden.</verse>
+        <verse osisID='2Sam.11.13'>Und David rief ihn, und er aß vor ihm und trank, und er machte ihn trunken. Und am Abend ging er hinaus, um sich auf sein Lager zu legen bei den Knechten seines Herrn; und in sein Haus ging er nicht hinab.</verse>
+        <verse osisID='2Sam.11.14'>Und es geschah am Morgen, daß David einen Brief an Joab schrieb und er sandte ihn durch die Hand Urijahs.</verse>
+        <verse osisID='2Sam.11.15'>Und in dem Briefe hatte er geschrieben und gesagt: Stellet<note>gebet hin</note> Urijah vorne an in den stärksten Streit und kehret hinter ihm zurück, daß er geschlagen werde und sterbe.</verse>
+        <verse osisID='2Sam.11.16'>Und es geschah, da Joab die Stadt hütete, stellte<note>gab</note> er Urijah an den Ort, wo er wußte, daß tapfere Männer dort waren.</verse>
+        <verse osisID='2Sam.11.17'>Und die Männer der Stadt kamen heraus und stritten wider Joab, und es fielen welche vom Volke, von den Knechten Davids, und auch der Chethiter Urijah starb.</verse>
+        <verse osisID='2Sam.11.18'>Und Joab sandte hin und ließ dem David alle Vorgänge<note>Worte</note> des Streites ansagen;</verse>
+        <verse osisID='2Sam.11.19'>Und er gebot dem Boten und sagte: Wenn du vollendet hast, mit dem König alle Worte des Streites zu reden,</verse>
+        <verse osisID='2Sam.11.20'>Und der Grimm des Königs aufsteigt, und er zu dir sagen wird: Warum seid ihr an die Stadt herangetreten um zu streiten, wußtet ihr nicht, daß sie von der Mauer schießen werden?</verse>
+        <verse osisID='2Sam.11.21'>Wer hat Abimelech, den Sohn Jerubbescheths, erschlagen? War es nicht ein Weib, die ein Stück von einem Mühlstein von der Mauer auf ihn warf, daß er in Thebez starb? Warum seid ihr an die Mauer angerückt? Da sage ihm: Auch dein Knecht Urijah, der Chethiter, ist tot.</verse>
+        <verse osisID='2Sam.11.22'>Und der Bote ging hin, und er kam an und sagte David alles an, warum Joab ihn gesandt hatte.</verse>
+        <verse osisID='2Sam.11.23'>Und der Bote sprach zu David: Die Männer wurden uns zu mächtig und kamen gegen uns heraus auf das Feld, wir aber waren über sie her bis an den Eingang des Tores.</verse>
+        <verse osisID='2Sam.11.24'>Und die Schützen schossen auf deine Knechte von der Mauer, und einige von den Knechten des Königs starben und auch dein Knecht Urijah, der Chethiter, ist tot.</verse>
+        <verse osisID='2Sam.11.25'>Und David sprach zu dem Boten: So sollst du zu Joab sprechen: Diese Sache<note>dieses Wort</note> sei nicht böse in deinen Augen; denn das Schwert frißt diesen und jenen; stärke deinen Streit wider die Stadt und reiße sie ein. Und stärke ihn.</verse>
+        <verse osisID='2Sam.11.26'>Und das Weib Urijahs hörte, daß ihr Mann Urijah tot wäre, und sie klagte um ihren Gemahl.</verse>
+        <verse osisID='2Sam.11.27'>Und die Trauer ging vorüber, und David sandte hin und nahm<note>sammelte sie ein</note> sie nach seinem Haus, und sie ward sein Weib und gebar ihm einen Sohn. Die Sache<note>das Wort</note> aber, die David getan, war böse in den Augen Jehovahs.</verse>
+      </chapter>
+      <chapter osisID='2Sam.12'>
+        <title>Nathan. Davids Reue. - Salomohs Geburt. Rabbah erobert.</title>
+        <verse osisID='2Sam.12.1'>Und Jehovah sandte Nathan zu David. Und er kam zu ihm und sprach zu ihm: Es waren zwei Männer in einer Stadt; der eine war reich, der andere<note>der eine</note> arm.</verse>
+        <verse osisID='2Sam.12.2'>Der Reiche hatte Kleinvieh und Rinder sehr viel.</verse>
+        <verse osisID='2Sam.12.3'>Der Arme aber hatte nichts von allem, außer ein kleines Lamm, das er gekauft, und er erhielt es am Leben, und es wurde groß bei ihm zusamt seinen Söhnen. Es aß von seinem Bissen und trank aus seinem Becher und lag an seinem Busen, und es war ihm wie eine Tochter.</verse>
+        <verse osisID='2Sam.12.4'>Und es kam zu dem reichen Manne ein Wanderer, und es dauerte<note>bemitleidete</note> ihn, eins von seinem Kleinvieh und seinen Rindern zu nehmen und es dem Reisenden, der zu ihm gekommen war, zu bereiten<note>machen</note>, und er nahm das Lamm des armen Mannes und bereitete<note>machte</note> es für den Mann, der zu ihm gekommen.</verse>
+        <verse osisID='2Sam.12.5'>Und es entbrannte Davids Zorn sehr wider den Mann, und er sprach zu Nathan: Beim Leben Jehovahs, der Mann, der dies getan, ist ein Sohn des Todes!</verse>
+        <verse osisID='2Sam.12.6'>Und vierfach soll er das Schaf erstatten dafür, daß er solches<note>dieses Wort</note> getan und weil er kein Mitleid hatte.</verse>
+        <verse osisID='2Sam.12.7'>Und Nathan sprach zu David: Du bist der Mann! So spricht Jehovah, der Gott Israels: Ich habe dich zum König über Israel gesalbt und Ich habe aus Sauls Hand dich errettet,</verse>
+        <verse osisID='2Sam.12.8'>Und habe dir das Haus deines Herrn gegeben, und die Weiber deines Herrn an deinen Busen, und habe dir das Haus Israel und Judah gegeben, und hätte dir, wenn dies zu wenig war, noch dies und das dazugetan.</verse>
+        <verse osisID='2Sam.12.9'>Warum hast du das Wort Jehovahs verachtet, daß du tatest, was böse in Seinen Augen ist, den Chethiter Urijah hast du mit dem Schwert geschlagen, und sein Weib dir zum Weibe genommen, und ihn mit dem Schwerte der Söhne Ammons erwürgt!</verse>
+        <verse osisID='2Sam.12.10'>Nun aber soll von deinem Hause das Schwert nicht abweichen in Ewigkeit, weil du Mich verachtet und das Weib Urijahs, des Chethiters, genommen, daß sie dir zum Weibe sei.</verse>
+        <verse osisID='2Sam.12.11'>So spricht Jehovah: Siehe, Ich lasse Übel aus deinem Hause über dich erstehen, und nehme vor deinen Augen deine Weiber weg und gebe sie deinem Genossen, und er wird bei deinen Weibern liegen vor den Augen dieser Sonne.</verse>
+        <verse osisID='2Sam.12.12'>Denn du hast es heimlich getan. Ich aber will dies<note>dieses Wort</note> in Gegenwart von ganz Israel und in Gegenwart der Sonne tun.</verse>
+        <verse osisID='2Sam.12.13'>Und David sprach zu Nathan: Ich habe gesündigt wider Jehovah. Und Nathan sprach zu David: So wird auch Jehovah deine Sünde vorübergehen lassen; du sollst nicht sterben.</verse>
+        <verse osisID='2Sam.12.14'>Weil du aber die Feinde Jehovahs durch diese Sache<note>dieses Wort</note> lästern machst<note>lästernd lästern machst</note>, soll auch der Sohn, der dir geboren ist, des Todes sterben.</verse>
+        <verse osisID='2Sam.12.15'>Und Nathan ging in sein Haus. Und Jehovah schlug<note>stieß</note> das Kind, welches das Weib des Urijah dem David geboren hatte, und es ward todkrank.</verse>
+        <verse osisID='2Sam.12.16'>Und David ersuchte Gott für den Jungen, und David fastete mit Fasten, und ging hinein und übernachtete und lag auf der Erde.</verse>
+        <verse osisID='2Sam.12.17'>Und die Ältesten seines Hauses machten sich auf zu ihm, um ihn von der Erde aufzurichten; aber er war nicht willens, und er speiste auch nicht Brot mit ihnen.</verse>
+        <verse osisID='2Sam.12.18'>Und es geschah am siebenten Tage, daß das Kind starb; und die Knechte Davids fürchteten sich, ihm anzusagen, daß das Kind tot wäre, denn sie sagten: Siehe, solange das Kind am Leben war, redeten wir zu ihm und er hörte nicht auf unsere Stimme; und wie sollen wir ihm sagen, daß das Kind tot ist und er sich Böses tue?</verse>
+        <verse osisID='2Sam.12.19'>Und David sah, daß seine Knechte sich zuflüsterten, und David merkte, daß das Kind tot war. Und David sprach zu seinen Knechten: Ist das Kind tot? Und sie sagten: Es ist tot.</verse>
+        <verse osisID='2Sam.12.20'>Und David stand auf von der Erde und wusch sich und salbte sich und wechselte seine Gewänder, und kam in das Haus Jehovahs und betete an; und er kam in sein Haus und forderte, und sie setzten ihm Brot vor und er aß;</verse>
+        <verse osisID='2Sam.12.21'>Und seine Knechte sprachen zu ihm: Wie ist das<note>Wort</note>, das du tust? Um das Kind, solange es lebte, hast du gefastet und geweint, und da das Kind tot ist, stehst du auf und ißt Brot.</verse>
+        <verse osisID='2Sam.12.22'>Und er sprach: Solange das Kind noch lebte, fastete und weinte ich, denn ich sprach: Wer weiß, ob Jehovah mir gnädig wird, daß das Kind am Leben bleibt.</verse>
+        <verse osisID='2Sam.12.23'>Und jetzt ist es tot, warum soll ich da fasten? Kann ich es wieder zurückbringen? Ich gehe zu ihm, aber es kommt nicht zu mir zurück.</verse>
+        <verse osisID='2Sam.12.24'>Und David tröstete Bathscheba, sein Weib, und kam zu ihr und lag bei ihr; und sie gebar einen Sohn, und er nannte seinen Namen Salomoh, und Jehovah liebte ihn.</verse>
+        <verse osisID='2Sam.12.25'>Und sandte hin durch die Hand Nathans, des Propheten, und nannte seinen Namen Jedidjah<note>d.h. Liebling Jahs</note> um Jehovahs willen.</verse>
+        <verse osisID='2Sam.12.26'>Und Joab stritt wider Rabbah der Söhne Ammons und gewann die Stadt des Königreiches.</verse>
+        <verse osisID='2Sam.12.27'>Und Joab sandte Boten an David und sagte: Ich habe wider Rabbah gestritten, auch die Stadt der Wasser gewonnen.</verse>
+        <verse osisID='2Sam.12.28'>Und nun versammle das übrige des Volkes und lagere gegen die Stadt und gewinne sie, auf daß nicht ich die Stadt gewinne und mein Name über ihr genannt werde.</verse>
+        <verse osisID='2Sam.12.29'>Und David versammelte alles Volk und zog nach Rabbah und stritt wider sie und gewann sie.</verse>
+        <verse osisID='2Sam.12.30'>Und er nahm die Krone ihres Königs von dessen Haupt und ihr Gewicht war ein Talent Gold und hatte einen kostbaren Stein, und sie war auf Davids Haupt, und der Beute, der Stadt, die er herausführte, war sehr viel.</verse>
+        <verse osisID='2Sam.12.31'>Und das Volk, das darin war, brachte er heraus und legte sie unter Sägen und eiserne Dreschwalzen und eiserne Beile und trieb<note>ließ sie durchgehen</note> in Ziegelöfen, und so tat er allen Städten der Söhne Ammons. Und David und alles Volk kehrten zurück nach Jerusalem.</verse>
+      </chapter>
+      <chapter osisID='2Sam.13'>
+        <title>Schändung der Thamar. - Amnons Ermordung durch Absalom. - Absaloms Flucht.</title>
+        <verse osisID='2Sam.13.1'>Und es geschah danach, daß Absalom, Davids Sohn, hatte eine schöne Schwester, und ihr Name war Thamar; und Amnon, der Sohn Davids, liebte sie.</verse>
+        <verse osisID='2Sam.13.2'>Und Amnon ward bedrängt, so daß er um seiner Schwester Thamar willen erkrankte, denn sie war Jungfrau, und es schien in Amnons Augen unmöglich<note>wundersam</note>, ihr etwas zu tun.</verse>
+        <verse osisID='2Sam.13.3'>Und Amnon hatte einen Genossen, und sein Name war Jonadab, ein Sohn von Schimeah, einem Bruder Davids; und Jonadab war ein sehr weiser Mann.</verse>
+        <verse osisID='2Sam.13.4'>Und er sprach zu ihm: Warum wirst du so mager, du Königssohn, von Morgen zu Morgen? Sagst du mir es nicht an? Und Amnon sprach zu ihm: Ich liebe Thamar, die Schwester Absaloms, meines Bruders.</verse>
+        <verse osisID='2Sam.13.5'>Und Jonadab sprach zu ihm: Lege dich auf dein Lager und stelle dich krank, und kommt dein Vater, dich zu sehen, so sage ihm: Laß doch Thamar, meine Schwester, kommen und mich mit Brot speisen, und laß sie vor meinen Augen die Speise bereiten<note>machen</note>, auf daß ich es sehe und aus ihrer Hand esse.</verse>
+        <verse osisID='2Sam.13.6'>Und Amnon legte sich und stellte sich krank, und der König kam, ihn zu sehen. Und Amnon sprach zum König: Laß doch Thamar, meine Schwester, kommen, daß sie vor meinen Augen zwei Herzkuchen bereite und ich aus ihrer Hand esse.</verse>
+        <verse osisID='2Sam.13.7'>Und David sandte zu Thamar ins Haus und ließ sagen: Gehe doch in das Haus Amnons, deines Bruders, und bereite<note>mache</note> ihm eine Speise.</verse>
+        <verse osisID='2Sam.13.8'>Und Thamar ging in das Haus Amnons, ihres Bruders, und er lag danieder. Und sie nahm den Teig und knetete und bereitete Herzkuchen vor seinen Augen und buk die Herzkuchen.</verse>
+        <verse osisID='2Sam.13.9'>Und sie nahm die Pfanne und schütte sie vor ihm aus, er aber weigerte sich zu essen; und Amnon sprach: Lasset jeden Mann von mir hinausgehen, und alle Männer gingen von ihm hinaus.</verse>
+        <verse osisID='2Sam.13.10'>Und Amnon sprach zu Thamar: Bringe die Speise in die Kammer, daß ich aus deiner Hand esse. Und Thamar nahm die Herzkuchen, die sie gemacht, und brachte sie dem Amnon, ihrem Bruder, in die Kammer.</verse>
+        <verse osisID='2Sam.13.11'>Und da sie es zu ihm herbeibrachte, daß er äße, erfaßte er sie und sagte zu ihr: Komm, liege bei mir, Schwester.</verse>
+        <verse osisID='2Sam.13.12'>Sie aber sprach zu ihm: Nicht, mein Bruder, schwäche mich nicht, denn also tut man nicht in Israel, tue nicht eine solche Torheit.</verse>
+        <verse osisID='2Sam.13.13'>Und ich, wohin sollte ich meine Schmach tragen, und du würdest wie einer der Toren in Israel; und nun, rede doch mit dem König, der wird mich dir nicht vorenthalten.</verse>
+        <verse osisID='2Sam.13.14'>Aber er wollte nicht auf ihre Stimme hören, und er faßte sie und schwächte sie und lag bei ihr.</verse>
+        <verse osisID='2Sam.13.15'>Und Amnon haßte sie mit einem sehr großen Haß, so daß größer der Haß war, mit dem er sie haßte, als die Liebe, mit der er sie geliebt; und Amnon sprach zu ihr: Mache dich auf und gehe.</verse>
+        <verse osisID='2Sam.13.16'>Sie aber sprach zu ihm: Nicht doch, weil dieses Böse größer ist als das andere, das du an mir getan, daß du mich fortsendest; aber er wollte nicht auf sie hören.</verse>
+        <verse osisID='2Sam.13.17'>Und er rief seinen Jungen, seinen Diener, und sprach: Sende doch die da fort von mir auf die Straße und verriegle die Tür hinter ihr.</verse>
+        <verse osisID='2Sam.13.18'>Und sie hatte einen buntfarbigen Rock an; denn mit solchen Oberkleidern waren die jungfräulichen Königstöchter bekleidet; und sein Diener brachte sie hinaus auf die Straße und verriegelte die Tür hinter ihr.</verse>
+        <verse osisID='2Sam.13.19'>Und Thamar nahm Asche auf ihr Haupt und den buntfarbigen Rock, den sie anhatte, zerriß sie, und legte die Hand auf ihr Haupt, und ging<note>ging gehend</note> daher und schrie.</verse>
+        <verse osisID='2Sam.13.20'>Und Absalom, ihr Bruder, sprach zu ihr: Ist Amnon, dein Bruder, bei dir gewesen? Nun, Schwester, schweige still, er ist dein Bruder, nimm dir die Sache<note>das Wort</note> nicht so zu Herzen. Und Thamar blieb<note>saß</note> einsam<note>verwüstet</note> im Hause Absaloms, ihres Bruders.</verse>
+        <verse osisID='2Sam.13.21'>Und König David hörte alle diese Dinge<note>diese Worte</note> und entbrannte sehr.</verse>
+        <verse osisID='2Sam.13.22'>Absalom aber redete nicht mit Amnon, weder zum Bösen, noch zum Guten; denn Absalom haßte den Amnon darum<note>um des Wortes</note>, daß er Thamar, seine Schwester, geschwächt hatte.</verse>
+        <verse osisID='2Sam.13.23'>Und es geschah nach zwei Jahren<note>Jahren der Tage</note>, daß Absalom Schafscherer hatte zu Baal-Chazor bei Ephraim; und Absalom berief alle Söhne des Königs dazu.</verse>
+        <verse osisID='2Sam.13.24'>Und Absalom kam zum König und sprach: Siehe doch, dein Knecht hat Schafscherer, möchte doch der König und seine Knechte mit deinem Knecht gehen.</verse>
+        <verse osisID='2Sam.13.25'>Und der König sprach zu Absalom: Nicht, mein Sohn, laß uns doch nicht alle gehen, auf daß wir dich nicht beschweren; und er nötigte ihn<note>brach hervor</note>, aber er wollte nicht gehen und segnete ihn.</verse>
+        <verse osisID='2Sam.13.26'>Und Absalom sprach: Sollte denn nicht Amnon, mein Bruder, mit uns gehen? Und der König sprach zu ihm: Warum sollte er mit dir gehen?</verse>
+        <verse osisID='2Sam.13.27'>Und Absalom nötigte ihn<note>brach hervor</note>; und er sandte Amnon und alle Söhne des Königs mit ihm.</verse>
+        <verse osisID='2Sam.13.28'>Und Absalom gebot seinen Jungen und sprach: Sehet doch, wenn das Herz Amnons vom Wein guter Dinge<note>gut</note> ist, und ich zu euch spreche: Schlagt Amnon!, so tötet ihn; fürchtet euch nicht. Bin nicht ich es, der es euch gebietet? Seid stark und seid tapfere Söhne.</verse>
+        <verse osisID='2Sam.13.29'>Und Absaloms Jungen taten dem Am- non, wie ihnen Absalom geboten hatte. Alle Söhne des Königs aber machten sich auf und ritten davon, jeder Mann auf seinem Maultier, und sie flohen.</verse>
+        <verse osisID='2Sam.13.30'>Und sie waren noch auf dem Wege, da kam das Gerücht zu David und man sagte: Absalom habe alle Söhne des Königs erschlagen, und nicht einer von ihnen sei übriggeblieben.</verse>
+        <verse osisID='2Sam.13.31'>Und der König stand auf und zerriß seine Kleider und lag auf der Erde, und alle seine Knechte standen da mit zerrissenen Kleidern.</verse>
+        <verse osisID='2Sam.13.32'>Und Jonadab, der Sohn von Schimeah, Davids Bruder, antwortete und sprach: Mein Herr, sage nicht: Alle Jungen, des Königs Söhne, haben sie getötet, denn Amnon allein ist tot, denn auf Absaloms Befehl<note>Mund</note> ward es festgesetzt seit dem Tage, da er seine Schwester Thamar schwächte.</verse>
+        <verse osisID='2Sam.13.33'>Und nun nehme mein Herr, der König, die Sache<note>das Wort</note> nicht zu Herzen, daß er sage: Alle Söhne des Königs seien tot, sondern Amnon allein ist tot.</verse>
+        <verse osisID='2Sam.13.34'>Und Absalom entwich. Und der Junge, der Wächter, erhob seine Augen und sah hin, und siehe, viel Volkes kam hintereinander<note>hinter ihm</note> des Weges daher von der Seite des Berges.</verse>
+        <verse osisID='2Sam.13.35'>Und Jonadab sprach zum König: Siehe, die Söhne des Königs kommen, nach dem Worte deines Knechtes; also war es.</verse>
+        <verse osisID='2Sam.13.36'>Und es geschah, wie er zu reden vollendet, siehe, da kamen des Königs Söhne, und sie hoben ihre Stimmen auf und weinten, und auch der König und all seine Knechte weinten mit sehr großem Weinen.</verse>
+        <verse osisID='2Sam.13.37'>Und Absalom war entwichen und ging hin zu Thalmai, dem Sohne Ammichurs, dem König von Geschur. Er aber<note>d.i. der König</note> trauerte alle Tage um seinen Sohn.</verse>
+        <verse osisID='2Sam.13.38'>Und Absalom war entwichen und nach Geschur gegangen, und war daselbst drei Jahre.</verse>
+        <verse osisID='2Sam.13.39'>Und König David hörte auf<note>hatte vollendet</note> wider Absalom auszuziehen, denn er hatte sich getröstet über Amnon, daß er tot war.</verse>
+      </chapter>
+      <chapter osisID='2Sam.14'>
+        <title>Durch Joabs Vermittlung kehrt Absalom nach Jerusalem zurück.</title>
+        <verse osisID='2Sam.14.1'>Und Joab, der Sohn Zerujahs wußte, daß das Herz des Königs auf Absalom war.</verse>
+        <verse osisID='2Sam.14.2'>Und Joab sandte nach Thekoah und ließ von da ein weises Weib holen und sprach zu ihr: Traure doch und ziehe doch Trauerkleider an, und salbe dich nicht mit Öl, und sei wie ein Weib, das seit vielen Tagen über einen Toten in Trauer ist.</verse>
+        <verse osisID='2Sam.14.3'>Und gehe zu dem König hinein und rede zu ihm nach diesen Worten. Und Joab legte ihr die Worte in den Mund.</verse>
+        <verse osisID='2Sam.14.4'>Und das Weib von Thekoah sprach zu dem Könige und fiel auf ihr Antlitz zur Erde und betete an und sprach: Hilf, o König!</verse>
+        <verse osisID='2Sam.14.5'>Und der König sprach zu ihr: Was ist dir? Und sie sprach: Ach! eine Witfrau<note>eine Frau, eine Witwe</note> bin ich und mein Mann ist gestorben.</verse>
+        <verse osisID='2Sam.14.6'>Und deine Dienstmagd hatte zwei Söhne, und es zankten sich die zwei auf dem Felde, und da war niemand da, der zwischen ihnen schlichtete<note>errettete</note>, und der eine schlug den anderen<note>einen</note> und tötete ihn.</verse>
+        <verse osisID='2Sam.14.7'>Und siehe, die ganze Familie macht sich auf wider deine Dienstmagd, und sie sagen: Gib den, der seinen Bruder erschlug, daß wir ihn töten für die Seele seines Bruders, den er erwürgte; und so wollen sie auch den Erbbesitzer vernichten und meine Kohle auslöschen, die noch verblieben ist, so daß sie meinem Mann weder Namen noch Überrest setzten auf dem Boden.</verse>
+        <verse osisID='2Sam.14.8'>Und der König sprach zu dem Weibe: Gehe hin nach deinem Haus und ich will über dir gebieten.</verse>
+        <verse osisID='2Sam.14.9'>Und das Weib aus Thekoah sprach zu dem Könige: Mein Herr König, auf mir und auf dem Hause meines Vaters sei die Missetat! Und der König und sein Thron sei unschuldig.</verse>
+        <verse osisID='2Sam.14.10'>Und der König sprach: Wer wider dich redet, den bringe herein zu mir, und er soll dich ferner nicht mehr anrühren.</verse>
+        <verse osisID='2Sam.14.11'>Und sie sprach: So gedenke doch der König Jehovahs, deines Gottes, daß der Rächer<note>Erlöser</note> des Blutes nicht zu viel verderbe, und daß sie meinen Sohn nicht vernichten. Und er sprach: Beim Leben Jehovahs, es soll von deinem Sohn kein Haar zur Erde fallen.</verse>
+        <verse osisID='2Sam.14.12'>Und das Weib sprach: Darf wohl deine Dienstmagd zu meinem Herrn, dem König, ein Wort reden? Und er sprach: Rede!</verse>
+        <verse osisID='2Sam.14.13'>Und das Weib sprach: Warum hast du solches gedacht gegen das Volk Gottes, ist nicht der König, weil er solches Wort redet, wie ein Schuldiger, daß der König den von ihm Verstoßenen nicht zurückkehren läßt?</verse>
+        <verse osisID='2Sam.14.14'>Denn wir sterben des Todes und sind wie Wasser, das auf die Erde hingegossen, nicht mehr kann gesammelt werden, und sollte Gott einer Seele nicht verzeihen und nicht Gedanken denken, daß der von Ihm Verstoßene nicht verstoßen bleibe?</verse>
+        <verse osisID='2Sam.14.15'>Und nun, daß ich hergekommen bin zu dem Könige, meinem Herrn, dieses Wort zu reden, geschah darum, daß die Leute mich in Furcht setzten, und deine Dienstmagd sprach: Ich will doch zu dem König reden. Vielleicht tut der König nach dem Worte seiner Magd;</verse>
+        <verse osisID='2Sam.14.16'>Wenn der König darauf hört, daß er seine Magd erretten will aus der Hand<note>hohlen Hand</note> des Mannes, der mich und meinen Sohn zumal vom Erbe Gottes vernichten will.</verse>
+        <verse osisID='2Sam.14.17'>Und deine Dienstmagd sprach: Möchte doch das Wort meines Herrn, des Königs, ihm Ruhe bringen; denn wie ein Engel Gottes so ist mein Herr, der König, daß er hört das Gute und das Böse; und Jehovah, dein Gott, sei mit dir!</verse>
+        <verse osisID='2Sam.14.18'>Und der König antwortete und sprach zum Weibe: Verhehle mir doch nicht, das Wort, das ich dich frage. Und das Weib sprach: Es rede doch mein Herr, der König.</verse>
+        <verse osisID='2Sam.14.19'>Und der König sprach: Ist nicht bei alle dem Joabs Hand mit dir? Und das Weib antwortete und sprach: Beim Leben deiner Seele, mein Herr König, kein Mann kann bei allem, was mein Herr, der König, redet, zur Rechten oder Linken abweichen. Denn dein Knecht Joab ist es, der es mir geboten und alle diese Worte in den Mund deiner Dienstmagd gelegt hat.</verse>
+        <verse osisID='2Sam.14.20'>Auf daß er diese Sache<note>die Angesichte des Wortes</note> dahin umwende, hat dein Knecht Joab dies<note>dieses Wort</note> getan, und mein Herr ist weise, gleich der Weisheit eines Engels Gottes, daß er alles weiß, was auf Erden ist.</verse>
+        <verse osisID='2Sam.14.21'>Und der König sprach zu Joab: Siehe doch, ich habe dies<note>dieses Wort</note> getan, so gehe denn hin und bringe den Jungen, den Absalom, zurück.</verse>
+        <verse osisID='2Sam.14.22'>Und Joab fiel auf sein Angesicht zur Erde und betete an und segnete den König, und Joab sprach: Heute weiß dein Knecht, daß ich Gnade gefunden habe in deinen Augen, mein Herr König, weil der König getan nach dem Worte seines Knechtes.</verse>
+        <verse osisID='2Sam.14.23'>Und Joab machte sich auf und ging nach Geschur und brachte Absalom nach Jerusalem.</verse>
+        <verse osisID='2Sam.14.24'>Und der König sprach: Er wende sich um nach seinem Hause, aber mein Angesicht soll er nicht sehen. Und Absalom wandte sich um nach seinem Hause und sah nicht das Angesicht des Königs.</verse>
+        <verse osisID='2Sam.14.25'>Und es war kein Mann so schön als Absalom in ganz Israel, und darum sehr gelobt. Von der Sohle seines Fußes bis zum Scheitel war kein Fehl an ihm.</verse>
+        <verse osisID='2Sam.14.26'>Und wenn er sein Haupt beschor am Ende des Jahres<note>der Tage</note>, und das war jährlich<note>gemäß den Tagen</note>, daß er sich schor, denn es ward zu schwer für ihn, daß man es scheren mußte, so wog das Haar seines Hauptes zweihundert Schekel nach dem Gewicht<note>Stein</note> des Königs.</verse>
+        <verse osisID='2Sam.14.27'>Und dem Absalom wurden geboren drei Söhne und eine Tochter, und ihr Name war Thamar; sie war ein Weib schön von Aussehen.</verse>
+        <verse osisID='2Sam.14.28'>Und Absalom wohnte<note>saß</note> zwei Jahre<note>Jahre der Tage</note> in Jerusalem und sah nicht das Angesicht des Königs.</verse>
+        <verse osisID='2Sam.14.29'>Und Absalom sandte zu Joab, daß er ihn zum Könige sendete, aber er war nicht willens zu ihm zu kommen, und er sandte noch zum zweitenmal, und er war nicht willens, zu kommen.</verse>
+        <verse osisID='2Sam.14.30'>Und er sprach zu seinen Knechten: Sehet, Joabs Grundstück<note>Teil</note> ist zu meiner Hand, und er hat Gerste darauf. Gehet hin und zündet es mit Feuer an. Und die Knechte Absaloms zündeten das Grundstück<note>Teil</note> mit Feuer an.</verse>
+        <verse osisID='2Sam.14.31'>Und Joab machte sich auf und kam zu Absalom ins Haus und sprach zu ihm: Warum haben deine Knechte das Grundstück<note>Teil</note>, das ich habe, mit Feuer angezündet?</verse>
+        <verse osisID='2Sam.14.32'>Und Absalom sprach zu Joab: Siehe, ich habe nach dir gesandt und dir sagen lassen: Komm her, daß ich dich zum König sende und ihm sagen lasse: Warum bin ich von Geschur gekommen? Mir wäre besser, wäre ich noch dort. Und nun will ich des Königs Angesicht sehen, und wenn eine Missetat an mir ist, so töte er mich.</verse>
+        <verse osisID='2Sam.14.33'>Und Joab kam zum König und sagte es ihm an. Und er rief den Absalom, und er kam zum König und warf sich nieder vor dem Könige, mit dem Antlitz zur Erde, und der König küßte den Absalom.</verse>
+      </chapter>
+      <chapter osisID='2Sam.15'>
+        <title>David flieht vor Absalom.</title>
+        <verse osisID='2Sam.15.1'>Und es geschah danach, daß Absalom sich machen ließ Streitwagen und Rosse, und fünfzig Mann vor sich herlaufen ließ.</verse>
+        <verse osisID='2Sam.15.2'>Und Absalom machte sich früh auf, und er stand an der Seite<note>der Hand</note> des Weges am Tore; und es geschah, wenn irgendein Mann einen Rechtshandel hatte und kam bei dem Könige zu Gericht, da rief ihm Absalom zu und sprach: Von welcher Stadt bist du? Und wenn er dann sagte: Aus einem der Stämme<note>Ruten</note> Israels ist dein Knecht;</verse>
+        <verse osisID='2Sam.15.3'>So sprach Absalom zu ihm: Siehe, deine Sache<note>Wort</note> ist gut und richtig, aber es ist beim König niemand, der sie für dich höre.</verse>
+        <verse osisID='2Sam.15.4'>Und Absalom sagte: O! Daß man mich zum Richter im Lande setzte und jeder Mann zu mir käme, der einen Hader und Rechtssache hätte, ich wollte ihm Gerechtigkeit schaffen!</verse>
+        <verse osisID='2Sam.15.5'>Und wenn ein Mann nahte, um vor ihm niederzufallen, da reckte er seine Hand aus und erfaßte ihn und küßte ihn.</verse>
+        <verse osisID='2Sam.15.6'>Und so<note>nach diesem Worte</note> tat Absalom bei ganz Israel, wenn sie vor Gericht zum König kamen, und Absalom stahl das Herz der Männer von Israel.</verse>
+        <verse osisID='2Sam.15.7'>Und es geschah am Ende von vierzig Jahren, daß Absalom zum König sprach: Laß mich doch hingehen, daß ich mein Gelübde entrichte, welches ich Jehovah in Chebron gelobt habe.</verse>
+        <verse osisID='2Sam.15.8'>Denn dein Knecht gelobte ein Gelübde, da ich zu Geschur in Aram wohnte<note>saß</note> und sprach: Wenn Jehovah mich nach Jerusalem zurückbringt<note>zurückbringend zurückbringt</note>, will ich Jehovah dienen.</verse>
+        <verse osisID='2Sam.15.9'>Und der König sprach zu ihm: Gehe hin im Frieden! Und er machte sich auf und ging nach Chebron.</verse>
+        <verse osisID='2Sam.15.10'>Und Absalom hatte Kundschafter unter alle Stämme<note>Ruten</note> Israels ausgesandt und sagen lassen: Wenn ihr den Schall<note>die Stimme</note> der Posaune höret, so sprechet: Absalom ist zu Chebron König geworden.</verse>
+        <verse osisID='2Sam.15.11'>Und mit Absalom gingen zweihundert Männer, die berufen waren, von Jerusalem. Und sie gingen in ihrer Rechtschaffenheit mit, und wußten kein Wort von allem.</verse>
+        <verse osisID='2Sam.15.12'>Und Absalom sandte nach dem Giloniter Achitophel, Davids Rat, aus seiner Stadt, aus Gilo, als er die Opfer opferte, und es wurde so die Verschwörung gewaltig, und das Volk kam herbei und mehrte sich bei Absalom.</verse>
+        <verse osisID='2Sam.15.13'>Und es kam einer, der sagte David an und sprach: Das Herz der Männer Israels ist hinter Absalom her.</verse>
+        <verse osisID='2Sam.15.14'>Und David sprach zu allen seinen Knechten, die mit ihm in Jerusalem waren: Machet euch auf und laßt uns entweichen; denn für uns ist kein Entkommen vor Absalom; geht eilig, daß er nicht eile und uns erreiche und Böses über uns bringe, und die Stadt mit der Schärfe<note>mit dem Munde</note> des Schwertes schlage.</verse>
+        <verse osisID='2Sam.15.15'>Und die Knechte des Königs sprachen zu dem König: Nach allem was mein Herr, der König, erwählt, siehe, hier sind deine Knechte.</verse>
+        <verse osisID='2Sam.15.16'>Und der König zog aus, und all sein Haus ihm nach<note>zu seinen Füßen</note>; und der König ließ zurück zehn Weiber, Kebsweiber, um das Haus zu hüten.</verse>
+        <verse osisID='2Sam.15.17'>Und der König und alles Volk zogen aus, ihm nach<note>zu seinen Füßen</note>; und sie blieben stehen am Hause der Ferne.</verse>
+        <verse osisID='2Sam.15.18'>Und all seine Knechte zogen an seiner Seite<note>Hand</note> vorüber, und alle Krethi und Plethi und alle Gathiter, sechshundert Mann, die mit ihm<note>zu seinem Fuße</note> von Gath gekommen waren, zogen vor dem König vorüber.</verse>
+        <verse osisID='2Sam.15.19'>Und der König sprach zu Itthai, dem Gathiter: Warum ziehst auch du mit uns? Kehre zurück und bleibe<note>sitze</note> bei dem Könige; denn du bist ein Ausländer und du bist auch aus deinem Orte fortgeführt;</verse>
+        <verse osisID='2Sam.15.20'>Gestern bist du hereingekommen und heute sollte ich dich bewegen, mit uns zu gehen? Ich aber gehe, wohin ich gehe; kehre um und nimm deine Brüder zurück mit dir, in Barmherzigkeit und Treue.</verse>
+        <verse osisID='2Sam.15.21'>Und Itthai antwortete dem König und sprach: Beim Leben Jehovahs und beim Leben meines Herrn, des Königs, an dem Orte, wo mein Herr, der König, ist, ob zum Tode oder zum Leben, da wird dein Knecht sein.</verse>
+        <verse osisID='2Sam.15.22'>Und David sprach zu Itthai: So gehe und ziehe vorüber. Und Itthai, der Gathiter, zog vorüber und all seine Männer und alle Kindlein, die bei ihm waren.</verse>
+        <verse osisID='2Sam.15.23'>Und das ganze Land weinte mit großer Stimme, und alles Volk zog vorüber; und der König ging hinüber über den Bach Kidron und alles Volk zog vorüber auf dem Wege<note>dem Angesichte des Weges</note> nach der Wüste.</verse>
+        <verse osisID='2Sam.15.24'>Und siehe, auch Zadok und alle Leviten mit ihm trugen die Bundeslade Gottes, und stellten die Lade Gottes auf; und Abjathar opferte auf, bis alles Volk aus der Stadt vorübergezogen war.</verse>
+        <verse osisID='2Sam.15.25'>Und der König sprach zu Zadok: Bringe die Lade Gottes in die Stadt zurück. Wenn ich Gnade finde in den Augen Jehovahs und Er mich zurückbringt, so wird Er mich sehen lassen Ihn und Seinen Wohnort.</verse>
+        <verse osisID='2Sam.15.26'>Wenn Er aber also spricht: Ich habe keine Lust an dir, - siehe, so bin ich hier. Er tue mit mir, wie es gut in Seinen Augen ist.</verse>
+        <verse osisID='2Sam.15.27'>Und der König sprach zu Zadok dem Priester: Siehst du? Kehre in Frieden zurück in die Stadt, und Achimaaz, dein Sohn, und Jonathan, der Sohn Abjathars, eure beiden Söhne, mit euch.</verse>
+        <verse osisID='2Sam.15.28'>Sehet, ich säume in dem Blachfeld der Wüste, bis das Wort von euch kommt, mir anzusagen.</verse>
+        <verse osisID='2Sam.15.29'>So brachten den Zadok und Abjathar die Lade Gottes nach Jerusalem zurück und blieben<note>saßen</note> daselbst.</verse>
+        <verse osisID='2Sam.15.30'>Und David stieg die Steige der Ölbäume hinauf, er stieg hinauf und weinte, und hatte sein Haupt verhüllt und ging barfuß. Und alles Volk, das mit ihm war, hatte jeder Mann sein Haupt verhüllt, und stiegen hinauf, hinaufsteigend und weinend.</verse>
+        <verse osisID='2Sam.15.31'>Und man sagte David an und sprach: Achitophel ist unter den Verschwörern bei Absalom. Und David sprach: Jehovah lasse den Rat Achitophels zur Narrheit werden.</verse>
+        <verse osisID='2Sam.15.32'>Und David war bis auf die Spitze<note>das Haupt</note> gekommen, wo man Gott anbetet, und siehe, ihm kam Chuschai, der Architer, mit zerrissenem Rocke entgegen, und Erde<note>Boden</note> war auf seinem Haupt.</verse>
+        <verse osisID='2Sam.15.33'>Und David sprach zu ihm: Wenn du mit mir hinüberziehst, so bist du mir zur Last.</verse>
+        <verse osisID='2Sam.15.34'>Wenn du aber in die Stadt zurückkehrst und zu Absalom sprichst: Ich will dein Knecht sein, König, ich war seither ein Knecht deines Vaters und will nun dein Knecht sein: so kannst du mir den Rat Achitophels zunichte machen.</verse>
+        <verse osisID='2Sam.15.35'>Und sind nicht Zadok und Abjathar, die Priester, bei dir dort? Und es sei, daß jedes Wort, das du hören wirst aus dem Hause des Königs, das sage an dem Zadok und Abjathar, den Priestern.</verse>
+        <verse osisID='2Sam.15.36'>Siehe, bei ihnen sind daselbst ihre zwei Söhne, Achimaaz, der des Zadok, und Jonathan, der des Abjathar, und sendet zu mir durch ihre Hand jedes Wort, daß ihr hört.</verse>
+        <verse osisID='2Sam.15.37'>Und Chuschai, der Genosse Davids, kam in die Stadt, und Absalom kam nach Jerusalem.</verse>
+      </chapter>
+      <chapter osisID='2Sam.16'>
+        <title>Schimeis Lästerung. Absaloms Blutschande.</title>
+        <verse osisID='2Sam.16.1'>Und David war ein wenig über die Spitze<note>das Haupt</note> hinübergegangen, und siehe, da kam ihm Ziba, Mephiboscheths Junge entgegen, und ein Paar gesattelte Esel und zweihundert Brote auf denselben und hundert Rosinentrauben und hundert Fruchtkuchen und ein Schlauch Wein.</verse>
+        <verse osisID='2Sam.16.2'>Und der König sprach zu Ziba: Was sollen dir diese? Und Ziba sprach: Die Esel sind für das Haus des Königs zum Reiten, und die Brote und Fruchtkuchen zum Essen für die Jungen, und der Wein zum Trinken für den, der in der Wüste matt wird.</verse>
+        <verse osisID='2Sam.16.3'>Und der König sprach: Und wo ist der Sohn deines Herrn? Und Ziba sprach zu dem Könige: Siehe, der blieb<note>sitzt</note> in Jerusalem; denn sprach er, heute wird mir das Haus Israels das Königreich meines Vaters zurückgeben.</verse>
+        <verse osisID='2Sam.16.4'>Und der König sprach zu Ziba: Siehe, dein ist alles, was Mephiboscheth hat; und Ziba sprach: Ich bete an, laß mich Gnade finden in deinen Augen, mein Herr König!</verse>
+        <verse osisID='2Sam.16.5'>Und König David kam gen Bachurim und siehe, es kam von da heraus ein Mann von der Familie des Hauses Sauls, und sein Name Schimei, ein Sohn Geras, und er fluchte ihm, da er herauskam,</verse>
+        <verse osisID='2Sam.16.6'>Und steinigte mit Steinen den David und alle die Knechte des Königs David, und alles Volk und alle Helden waren ihm zur Rechten und zur Linken.</verse>
+        <verse osisID='2Sam.16.7'>Und also sprach Schimei, da er ihm fluchte: Geh hinaus, geh hinaus, du Mann des Blutes und Mann Belials.</verse>
+        <verse osisID='2Sam.16.8'>Jehovah bringt auf dich zurück all das Blut vom Hause Sauls, an dessen Stelle du König geworden. Und Jehovah hat das Königtum in die Hand Absaloms, deines Sohnes, gegeben, und siehe, du bist im Bösen; denn ein Mann des Blutes bist du!</verse>
+        <verse osisID='2Sam.16.9'>Und Abischai, der Sohn Zerujahs, sprach zum König: Was soll der tote Hund da meinem Herrn, dem König, fluchen? Laß mich doch hinübergehen und ihm den Kopf abhauen<note>wegnehmen</note>.</verse>
+        <verse osisID='2Sam.16.10'>Und der König sprach: Was habe ich mit euch, ihr Söhne Zerujahs? Lasset ihn fluchen, und hat Jehovah zu ihm gesprochen: Fluche David! Wer darf da sagen: Warum hast du also getan?</verse>
+        <verse osisID='2Sam.16.11'>Und David sprach zu Abischai und zu allen seinen Knechten: Siehe, mein Sohn, der aus meinen Lenden<note>Eingeweiden</note> ausgegangen, trachtet mir nach der Seele, warum dann nicht ein Sohn Jemini? Lasset ihn ruhen, daß er fluche; denn Jehovah hat es ihm gesagt.</verse>
+        <verse osisID='2Sam.16.12'>Vielleicht sieht Jehovah mein Elend an, und Jehovah bringt mir wieder Gutes für seinen Fluch an diesem Tage.</verse>
+        <verse osisID='2Sam.16.13'>Und David und seine Männer gingen des Weges; aber Schimei ging an der Seite<note>Rippe</note> des Berges hin neben ihm und fluchte und warf<note>steinigte</note> Steine wider ihn und bestäubte ihn mit Staub.</verse>
+        <verse osisID='2Sam.16.14'>Und der König und alles Volk, das mit ihm war, kamen hin ermattet, und erholten sich daselbst.</verse>
+        <verse osisID='2Sam.16.15'>Absalom aber und alles Volk, die Männer aus Israel, kamen nach Jerusalem und Achitophel mit ihm.</verse>
+        <verse osisID='2Sam.16.16'>Und es geschah, als Chuschai, der Architer, der Genosse Davids, zu Absalom kam, da sprach Chuschai zu Absalom: Es lebe der König! Es lebe der König!</verse>
+        <verse osisID='2Sam.16.17'>Und Absalom sprach zu Chuschai: Ist das deine Barmherzigkeit an deinem Genossen? Warum bist du nicht mit deinem Genossen gegangen?</verse>
+        <verse osisID='2Sam.16.18'>Und Chuschai sprach zu Absalom: Nein! Wen Jehovah erwählt und dieses Volk und alle Männer Israels, sein will ich sein und bei dem will ich bleiben<note>sitzen</note>.</verse>
+        <verse osisID='2Sam.16.19'>Und zum zweiten: Wem sollte ich dienen, ist es nicht vor seinem Sohne? Wie ich vor deinem Vater gedient, so will ich vor dir sein.</verse>
+        <verse osisID='2Sam.16.20'>Und Absalom sprach zu Achitophel: Gebt Rat für euch, was sollen wir tun?</verse>
+        <verse osisID='2Sam.16.21'>Und Achitophel sprach zu Absalom: Gehe hinein zu den Kebsweibern deines Vaters, die er zurückgelassen, das Haus zu hüten; und hört ganz Israel, daß du dich stinkend gemacht hast bei deinem Vater, so stärken sich die Hände aller, die mit dir sind.</verse>
+        <verse osisID='2Sam.16.22'>Da schlugen sie dem Absalom das Zelt auf auf dem Dache, und Absalom ging zu den Kebsweibern seines Vaters ein vor den Augen von ganz Israel.</verse>
+        <verse osisID='2Sam.16.23'>Und der Rat Achitophels, den er in jenen Tagen riet, war, wie wenn jemand Gott um ein Wort fragte. Also war aller Rat Achitophels, wie bei David, also auch bei Absalom.</verse>
+      </chapter>
+      <chapter osisID='2Sam.17'>
+        <title>Achitophels Rat mißlingt. Er erhängt sich.</title>
+        <verse osisID='2Sam.17.1'>Und Achitophel sprach zu Absalom: Laß mich zwölftausend Mann auswählen, und ich will mich aufmachen und hinter dem David nachsetzen diese Nacht,</verse>
+        <verse osisID='2Sam.17.2'>Und komme über ihn, wenn er müde ist und seine Hände erschlafft sind, und scheuche ihn auf; und alles Volk, das bei ihm ist, flieht, und ich schlage den König allein;</verse>
+        <verse osisID='2Sam.17.3'>Und bringe alles Volk zu dir zurück. Wenn jeder Mann, den du suchst, zurückkehrt, so wird das ganze Volk im Frieden sein.</verse>
+        <verse osisID='2Sam.17.4'>Und die Sache<note>das Wort</note> war recht in den Augen Absaloms und in den Augen aller Ältesten Israels.</verse>
+        <verse osisID='2Sam.17.5'>Und Absalom sprach: Rufet doch auch Chuschai, den Architer, daß wir auch hören, was in seinem Munde ist.</verse>
+        <verse osisID='2Sam.17.6'>Und Chuschai kam zu Absalom, und Absalom sprach zu ihm und sagte: Also<note>nach diesem Worte</note> redet Achitophel, sollen wir tun nach seinem Worte oder nicht? Rede du!</verse>
+        <verse osisID='2Sam.17.7'>Und Chuschai sprach zu Absalom: Der Rat, den Achitophel diesmal geraten, ist nicht gut.</verse>
+        <verse osisID='2Sam.17.8'>Und Chuschai sprach: Du kennst deinen Vater und seine Männer; denn Helden sind sie und erbitterter Seele sind sie, wie eine Bärin, der man auf dem Felde die Jungen geraubt. Und dein Vater ist ein Mann des Streites und übernachtet nicht bei dem Volke.</verse>
+        <verse osisID='2Sam.17.9'>Siehe, er hat sich jetzt in einer der Gruben<note>Fallgruben</note> oder sonst in einem von den Orten versteckt; und es wird geschehen, daß, sowie einige unter ihnen im Anbeginn fallen, sagt der Hörende, der es hört: Es ist eine Schlacht unter dem Volke, das Absalom nachfolgt, geschehen.</verse>
+        <verse osisID='2Sam.17.10'>Und derselbe, auch wenn er ein Sohn der Tapferkeit ist, dessen Herz wie das Herz eines Löwen ist, wird zerschmelzen<note>zerschmelzend zerschmelzen</note>; denn ganz Israel weiß, daß dein Vater ein Held ist, und daß, die bei ihm sind, Söhne der Tapferkeit sind.</verse>
+        <verse osisID='2Sam.17.11'>Darum rate ich: Du lässest ganz Israel zu dir versammeln<note>versammelnd versammeln</note>, von Dan und bis Beer-Scheba, wie der Sand, der am Meere ist, an Menge, und dein Angesicht ziehe in der Mitte.</verse>
+        <verse osisID='2Sam.17.12'>Und wir kommen zu ihm an einem der Orte, wo er sich finden läßt, und lassen uns auf ihn nieder, wie der Tau auf den Boden fällt, so daß von ihm und von allen seinen Männern, die bei ihm sind, auch nicht einer übrigbleibt.</verse>
+        <verse osisID='2Sam.17.13'>Und sammelt er sie in eine Stadt, so trägt ganz Israel Stricke zur selbigen Stadt, und wir schleppen sie in das Bachtal hinab, bis kein Steinchen mehr von ihr daselbst zu finden ist.</verse>
+        <verse osisID='2Sam.17.14'>Und Absalom und alle Männer Israels sprachen: Der Rat des Architen, des Chuschai, ist besser, als Achitophels Rat. Jehovah hatte aber beschlossen<note>geboten</note>, den guten Rat Achitophels zunichte zu machen, auf daß Jehovah Böses bringe über Absalom.</verse>
+        <verse osisID='2Sam.17.15'>Und Chuschai sprach zu Zadok und zu Abjathar, den Priestern: So und so hat Achitophel dem Absalom und den Ältesten Israels geraten, und so und so habe ich geraten.</verse>
+        <verse osisID='2Sam.17.16'>Und nun sendet in Eile und sagt David an und sprechet: Übernachte diese Nacht nicht in den Blachfeldern der Wüste, sondern gehe hinüber<note>hinübergehend gehe hinüber</note>, damit nicht der König und alles Volk, das mit ihm ist, verschlungen werde.</verse>
+        <verse osisID='2Sam.17.17'>Und Jonathan und Achimaaz standen bei En-Rogel, und eine Dienstmagd ging und sagte es ihnen an, und sie gingen hin und sagten es dem König David an; denn sie konnten sich nicht sehen lassen; daß sie in die Stadt kämen.</verse>
+        <verse osisID='2Sam.17.18'>Es sah sie aber ein Junge und sagte es Absalom an. Und sie beide gingen eilig und kamen zum Hause eines Mannes in Bachurim. Und der hatte einen Brunnen in seinem Hofe, und sie stiegen da hinab.</verse>
+        <verse osisID='2Sam.17.19'>Und das Weib nahm eine Decke und breitete sie aus über die Öffnung<note>das Angesicht</note> des Brunnens und breitete Grütze darüber, so daß die Sache<note>das Wort</note> nicht bekannt wurde.</verse>
+        <verse osisID='2Sam.17.20'>Und die Knechte Absaloms kamen zu dem Weibe in das Haus und sprachen: Wo ist Achimaaz und Jonathan? Und das Weib sprach zu ihnen: Sie sind über das Wasserbächlein gegangen. Und sie suchten sie und fanden sie nicht, und sie kehrten nach Jerusalem zurück.</verse>
+        <verse osisID='2Sam.17.21'>Und es geschah, nachdem sie gegangen waren, stiegen sie herauf aus dem Brunnen und gingen hin und sagten es dem König David an und sprachen zu David: Machet euch auf und setzet eilig über die Wasser; denn so und so hat wider euch Achitophel geraten.</verse>
+        <verse osisID='2Sam.17.22'>Und David machte sich auf und alles Volk, das mit ihm war, und sie setzten über den Jordan bis an das Morgenlicht, da fehlte auch nicht einer, der nicht über den Jordan gesetzt hätte.</verse>
+        <verse osisID='2Sam.17.23'>Achitophel aber sah, daß nicht nach seinem Rate getan ward, und sattelte den Esel und machte sich auf und ging nach seinem Haus in seine Stadt und gebot seinem Haus und erhängte sich. Und er starb und ward in dem Grabe seines Vaters begraben.</verse>
+        <verse osisID='2Sam.17.24'>Und David kam nach Machanajim, Absalom aber setzte über den Jordan, er und alle Männer Israels mit ihm.</verse>
+        <verse osisID='2Sam.17.25'>Und den Amasa hatte Absalom an Joabs Stelle über das Heer gesetzt. Und Amasa war der Sohn eines Mannes mit Namen Jithra, eines Israeliten, der zu Abigail, der Tochter Nachaschs, der Schwester Zerujahs, der Mutter Joabs, eingegangen war.</verse>
+        <verse osisID='2Sam.17.26'>Und Israel und Absalom lagerten im Lande Gilead.</verse>
+        <verse osisID='2Sam.17.27'>Und es geschah, als David nach Machanajim kam, brachten Schobi, der Sohn des Nachasch aus Rabbah, der Söhne Amons, und Machir, der Sohn Ammiels aus Lo-Dabar, und Barsillai, der Gileaditer aus Rogelim, herbei:</verse>
+        <verse osisID='2Sam.17.28'>Bettwerk und Becken und Töpfergeschirr und Weizen und Gerste und Mehl und geröstetes Korn und Bohnen und Linsen und Geröstetes,</verse>
+        <verse osisID='2Sam.17.29'>Und Honig und Butter und Kleinvieh und Rinderkäse dem David und dem Volke, das bei ihm war, zum Essen; denn sagten sie, das Volk hungert und ist matt und durstig in der Wüste.</verse>
+      </chapter>
+      <chapter osisID='2Sam.18'>
+        <title>Schlacht. Absalom wird an einem Baume hängend durchstochen.</title>
+        <verse osisID='2Sam.18.1'>Und David musterte das Volk, das bei ihm war, und setzte über sie Oberste der Tausende und Oberste der Hunderte.</verse>
+        <verse osisID='2Sam.18.2'>Und David sandte das Volk, ein Drittel unter der Hand Joabs und ein Drittel unter der Hand Abischais, des Sohnes Zerujahs, Joabs Bruder, und ein Drittel unter der Hand Itthais, des Gathiters, und der König sprach zu dem Volk: Ich werde auch mit euch ausziehen<note>ausziehend ausziehen</note>.</verse>
+        <verse osisID='2Sam.18.3'>Und das Volk sprach: Du sollst nicht ausziehen; denn wenn wir fliehen<note>fliehend fliehen</note>, so werden sie das Herz nicht auf uns setzen, und wenn auch die Hälfte von uns stürbe, so würden sie das Herz nicht auf uns setzen, denn du bist jetzt wie unser zehntausend, und es ist jetzt gut, daß du uns von der Stadt aus beistehen kannst.</verse>
+        <verse osisID='2Sam.18.4'>Und der König sprach zu ihnen: Was gut in euren Augen ist, will ich tun. Und der König stand an die Seite<note>die Hand</note> des Tores, und alles Volk zog aus nach Hunderten und nach Tausenden.</verse>
+        <verse osisID='2Sam.18.5'>Und der König gebot Joab und Abischai und Itthai und sprach: Handelt mir sachte mit dem Jungen, mit Absalom! Und alles Volk hörte, als der König allen Obersten gebot in der Sache<note>in dem Wort</note> Absaloms.</verse>
+        <verse osisID='2Sam.18.6'>Und das Volk zog hinaus in das Feld, Israel entgegen, und der Streit war in dem Walde Ephraims.</verse>
+        <verse osisID='2Sam.18.7'>Und das Volk Israels ward allda geschlagen<note>gestoßen</note> vor den Knechten Davids, und es war allda am selbigen Tage eine große Niederlage, zwanzigtausend Mann.</verse>
+        <verse osisID='2Sam.18.8'>Und der Streit war allda zerstreut über die Fläche<note>die Angesichte</note> des ganzen Landes, und der Wald fraß mehr vom Volk an jenem Tage, als das Schwert fraß.</verse>
+        <verse osisID='2Sam.18.9'>Und Absalom begegnete den Knechten Davids<note>den Angesichten der Knechte</note>, und Absalom ritt auf dem Maultier und das Maultier ging hinein unter das dichte Geäst einer großen Eiche, und sein Haupt ward erfaßt in der Eiche und er schwebte<note>ward gegeben</note> zwischen Himmel und Erde, und das Maultier unter ihm lief weg<note>ging vorüber</note>.</verse>
+        <verse osisID='2Sam.18.10'>Und das sah ein Mann und sagte es Joab an und sprach: Siehe, ich habe Absalom in der Eiche hängen sehen.</verse>
+        <verse osisID='2Sam.18.11'>Und Joab sprach zu dem Manne, der es ihm angesagt: Und siehe, du hast ihn gesehen, und warum hast du ihn nicht allda zur Erde geschlagen und an mir wäre es gewesen, dir zehn Silberlinge und einen Gürtel zu geben.</verse>
+        <verse osisID='2Sam.18.12'>Und der Mann sprach zu Joab: Und wöge ich tausend Silberlinge auf den Händen, würde ich doch nicht meine Hand wider den Sohn des Königs ausrecken; denn vor unseren Ohren hat der König dir und dem Abischai und dem Itthai geboten und gesagt: Behütet mir, wer es auch sei, den Jungen, den Absalom.</verse>
+        <verse osisID='2Sam.18.13'>Hätte ich eine Lüge wider seine Seele getan, so ist kein Wort dem König verhohlen, und du selbst hättest dich wider mich gestellt.</verse>
+        <verse osisID='2Sam.18.14'>Und Joab sprach: Ich will nicht so vor dir warten. Und er nahm drei Schäfte<note>Ruten</note> in seine Hand<note>hohle Hand</note> und stieß sie in das Herz Absaloms, während er noch lebte inmitten der Eiche<note>im Herzen der Eiche</note>.</verse>
+        <verse osisID='2Sam.18.15'>Und es umstanden ihn zehn Jungen, Joabs Waffenträger, und sie schlugen Absalom und töteten ihn.</verse>
+        <verse osisID='2Sam.18.16'>Und Joab stieß in die Posaune und das Volk kehrte zurück von der Verfolgung hinter Israel her, denn Joab hielt das Volk zurück.</verse>
+        <verse osisID='2Sam.18.17'>Und sie nahmen Absalom und warfen ihn im Wald in die große Grube<note>Fallgrube</note> und richteten einen sehr großen Steinhaufen über ihm auf, und ganz Israel floh, jeder Mann nach seinem Zelt.</verse>
+        <verse osisID='2Sam.18.18'>Absalom aber hatte noch bei seinem Leben eine Denksäule genommen und für sich errichtet, die im Talgrunde des Königs ist; denn er sprach: Ich habe keinen Sohn, der meinen Namen im Gedächtnis erhielte, und nannte die Denksäule nach seinem Namen. Und so heißt sie noch ´die Hand Absaloms` bis auf diesen Tag.</verse>
+        <verse osisID='2Sam.18.19'>Und Achimaaz, Zadoks Sohn, sprach: Laß mich doch laufen und dem Könige verkünden, daß Jehovah ihm von der Hand seiner Feinde Recht verschafft<note>gerichtet</note>.</verse>
+        <verse osisID='2Sam.18.20'>Und Joab sprach zu ihm: Du bist kein Mann der Kunde an diesem Tage; bringe Kunde an einem anderen Tage, aber an diesem Tage sollst du keine Kunde bringen, denn des Königs Sohn ist tot.</verse>
+        <verse osisID='2Sam.18.21'>Aber zu dem Chuschiten sprach Joab: Geh, sage dem König an, was du gesehen hast. Und der Chuschite verbeugte sich vor Joab und lief.</verse>
+        <verse osisID='2Sam.18.22'>Achimaaz aber, der Sohn Zadoks, fuhr fort und sprach zu Joab: Sei dem, wie ihm wolle, laß mich doch auch dem Chuschiten nachlaufen. Und Joab sprach: Für was willst du laufen, mein Sohn? Und gehst du hin, du findest keinen Botenlohn.</verse>
+        <verse osisID='2Sam.18.23'>Sei dem, wie ihm wolle, laß mich laufen. Und er sprach zu ihm: Laufe. Und Achimaaz lief auf dem Wege der Ebene<note>des Umkreises</note> und kam an dem Chuschiten vorüber.</verse>
+        <verse osisID='2Sam.18.24'>David aber saß zwischen den zwei Toren, und der Wächter<note>Späher</note> ging auf das Dach des Tores, auf die Mauer und erhob seine Augen und sah, und siehe, ein Mann kam allein gelaufen.</verse>
+        <verse osisID='2Sam.18.25'>Und der Wächter<note>Späher</note> rief und sagte es dem König an, und der König sprach: Ist er allein, so ist Kunde in seinem Munde. Und er ging daher<note>ging gehend</note> und näherte sich.</verse>
+        <verse osisID='2Sam.18.26'>Und der Wächter<note>Späher</note> sah einen anderen Mann laufen, und der Wächter<note>Späher</note> rief dem Torwart zu und sprach: Siehe, ein Mann läuft allein. Und der König sprach: Auch der bringt Kunde.</verse>
+        <verse osisID='2Sam.18.27'>Und der Wächter<note>Späher</note> sprach: Ich sehe den Lauf des ersten wie den Lauf von Achimaaz, dem Sohne Zadoks. Und der König sprach: Der Mann ist gut und kommt mit guter Kunde.</verse>
+        <verse osisID='2Sam.18.28'>Und Achimaaz rief und sprach zu dem Könige: Friede! und er fiel auf sein Antlitz vor dem Könige zur Erde und sprach: Gesegnet sei Jehovah, dein Gott, der die Männer, die ihre Hand wider meinen Herrn, den König, erhoben, überantwortet hat.</verse>
+        <verse osisID='2Sam.18.29'>Und der König sprach: Ist es Frieden mit dem Jungen, mit dem Absalom? Und Achimaaz sprach: Ich sah ein großes Getümmel, da Joab des Königs Knecht und deinen Knecht sandte, und ich weiß nicht, was es war.</verse>
+        <verse osisID='2Sam.18.30'>Und der König sprach: Komme herum und stelle dich hierher. Und er ging herum und stand da.</verse>
+        <verse osisID='2Sam.18.31'>Und siehe, der Chuschite kam und der Chuschite sprach: Mein Herr, der König, lasse sich verkündigen, daß Jehovah dir diesen Tag hat Recht verschafft von der Hand aller, die wider dich sind aufgestanden.</verse>
+        <verse osisID='2Sam.18.32'>Und der König sprach zu dem Chuschiten: Ist Frieden mit dem Jungen, mit dem Absalom? Der Chuschite aber sprach: Möge es wie mit dem Jungen sein mit den Feinden meines Herrn Königs, und allen, die wider dich aufstehen, dir Böses zu tun.</verse>
+      </chapter>
+      <chapter osisID='2Sam.19'>
+        <title>David wird wieder eingesetzt. - Schimei. Mephiboscheth. Barsillai.</title>
+        <verse osisID='2Sam.19.1'>Und der König zitterte und stieg hinauf auf den Söller des Tores und weinte; und so sprach er im Gehen: Mein Sohn Absalom! Mein Sohn, mein Sohn, Absalom! O, wäre ich doch an deiner Stelle gestorben, Absalom, mein Sohn, mein Sohn!</verse>
+        <verse osisID='2Sam.19.2'>Und dem Joab ward angesagt: Siehe, der König weint und trauert über Absalom.</verse>
+        <verse osisID='2Sam.19.3'>Und das Heil war an jenem Tage zur Trauer für alles Volk; denn es hörte das Volk an jenem Tage, daß man sagte: Den König schmerzt es wegen seines Sohnes.</verse>
+        <verse osisID='2Sam.19.4'>Und das Volk stahl sich an jenem Tag dahin und kam in die Stadt, wie sich das Volk wegstiehlt, das mit Schande im Streit geflohen ist.</verse>
+        <verse osisID='2Sam.19.5'>Und der König verhüllte sein Angesicht, und der König schrie mit großer Stimme: Mein Sohn Absalom! Absalom, mein Sohn, mein Sohn!</verse>
+        <verse osisID='2Sam.19.6'>Und Joab ging hinein zum König in das Haus und sprach: Du hast heute beschämt das Angesicht aller deiner Knechte, die heute deine Seele und die Seele deiner Söhne und deiner Töchter und die Seele deiner Weiber und die Seele deiner Kebsweiber entrinnen ließen,</verse>
+        <verse osisID='2Sam.19.7'>Indem du liebst, die dich hassen, und hassest, die dich lieben; denn du hast heute angesagt, daß dir Oberste und Knechte nichts sind; denn heute weiß ich, daß, wenn nur Absalom am Leben geblieben wäre und wir alle heute tot wären, es dir dann so recht in deinen Augen wäre.</verse>
+        <verse osisID='2Sam.19.8'>Und nun steh auf, geh hinaus und rede zum Herzen deiner Knechte, denn bei Jehovah schwöre ich, daß, so du nicht hinausgehst, kein Mann diese Nacht bei dir übernachtet, und daß dieses Böse ärger ist, als alles Böse, das von deiner Jugend bis jetzt über dich gekommen ist.</verse>
+        <verse osisID='2Sam.19.9'>Und der König stand auf und saß im Tor, und sie sagten es allem Volk an und sprachen: Siehe, der König sitzt im Tore, und alles Volk kam vor des Königs Angesicht; Israel aber floh, ein jeder Mann zu seinen Zelten.</verse>
+        <verse osisID='2Sam.19.10'>Und alles Volk in allen Stämmen<note>Ruten</note> Israels rechtete und sprach: Der König hat uns aus der Hand<note>hohlen Hand</note> unserer Feinde errettet, und aus der Hand<note>hohlen Hand</note> der Philister uns entrinnen lassen, und jetzt ist er entwichen aus dem Lande wegen Absalom.</verse>
+        <verse osisID='2Sam.19.11'>Und Absalom, den wir über uns gesalbt, ist im Streite gestorben. Warum schweigt ihr jetzt stille, daß ihr den König nicht zurückbringt?</verse>
+        <verse osisID='2Sam.19.12'>Und König David sandte an die Priester Zadok und Abjathar, und ließ ihnen sagen: Redet zu den Ältesten Judahs und sprechet: Warum wollt ihr die letzten sein, den König in sein Haus zurückzubringen, indes die Rede von ganz Israel darüber vor dem König in sein Haus kommt?</verse>
+        <verse osisID='2Sam.19.13'>Ihr seid meine Brüder, mein Gebein und mein Fleisch seid ihr, und warum solltet ihr die letzten sein, den König zurückzubringen?</verse>
+        <verse osisID='2Sam.19.14'>Und zu Amasa sprechet: Bist du nicht mein Gebein und mein Fleisch? So tue mir Gott, und so fahre Er fort, wenn du nicht Oberster des Heeres vor mir für alle Tage wirst an Joabs Stelle.</verse>
+        <verse osisID='2Sam.19.15'>Und er neigte das Herz aller Männer Judahs wie eines Mannes, und sie sandten zu dem Könige: Kehre zurück, du und alle deine Knechte.</verse>
+        <verse osisID='2Sam.19.16'>Und der König kehrte zurück; und er kam an den Jordan, und Judah war nach Gilgal gekommen, dem König entgegenzugehen und den König über den Jordan herüberzuführen.</verse>
+        <verse osisID='2Sam.19.17'>Und Schimei, der Sohn Geras, der Benjaminiter, der von Bachurim war, eilte und ging mit den Männern Judahs hinab, dem König David entgegen.</verse>
+        <verse osisID='2Sam.19.18'>Und tausend Mann von Benjamin waren mit ihm; und Ziba, der Junge des Hauses Saul, mit seinen fünfzehn Söhnen und seinen zwanzig Knechten mit ihm, und fuhren über den Jordan vor dem König.</verse>
+        <verse osisID='2Sam.19.19'>Und die Fähre ging hinüber, das Haus des Königs herüberzubringen, und zu tun, was gut in seinen Augen war. Und Schimei, der Sohn Geras, fiel vor dem König nieder, da er über den Jordan übersetzte,</verse>
+        <verse osisID='2Sam.19.20'>Und sprach zum König: Mein Herr rechne mir nicht an die Missetat und gedenke nicht dessen, was dein Knecht Verkehrtes getan an dem Tage, da mein Herr, der König, aus Jerusalem auszog, und der König nehme es nicht zu Herzen.</verse>
+        <verse osisID='2Sam.19.21'>Denn dein Knecht weiß, daß ich gesündigt habe und siehe, ich bin heute gekommen, der erste vom ganzen Hause Joseph, der meinem Herrn, dem König, entgegen, herabkommt.</verse>
+        <verse osisID='2Sam.19.22'>Und Abischai, der Sohn Zerujahs antwortete und sprach: Soll dafür Schimei nicht sterben, daß er dem Gesalbten Jehovahs geflucht hat?</verse>
+        <verse osisID='2Sam.19.23'>Und David sprach: Was habe ich mit euch, Söhne Zerujahs, daß ihr mir heute zum Widersacher werdet? Sollte heute ein Mann in Israel sterben? Weiß ich nicht, daß ich heute über Israel König bin worden?</verse>
+        <verse osisID='2Sam.19.24'>Und der König sprach zu Schimei: Du sollst nicht sterben; und der König schwur ihm.</verse>
+        <verse osisID='2Sam.19.25'>Und Mephiboscheth, Sauls Sohn<note>d.i. Enkel</note> kam herab, dem Könige entgegen; und er hatte seine Füße nicht zurecht gemacht<note>Hebr. nur: gemacht</note>, noch seinen Bart zurecht gemacht<note>Hebr. nur: gemacht</note>, noch seine Kleider gewaschen, seit dem Tage, da der König weggegangen war, bis zu dem Tage, da er im Frieden kam.</verse>
+        <verse osisID='2Sam.19.26'>Und es geschah, als er nach Jerusalem kam, dem König entgegen, da sprach der König zu ihm: Warum bist du, Mephiboscheth, nicht mit mir gegangen?</verse>
+        <verse osisID='2Sam.19.27'>Und er sprach: Mein Herr König, mein Knecht hat mich betrogen, denn dein Knecht sprach: Ich will mir den Esel satteln und auf ihm reiten und mit dem König ziehen, denn dein Knecht ist lahm.</verse>
+        <verse osisID='2Sam.19.28'>Da verleumdete er deinen Knecht bei meinem Herrn, dem König. Aber mein Herr, der König, ist wie ein Engel Gottes. So tue denn, was gut in deinen Augen ist.</verse>
+        <verse osisID='2Sam.19.29'>Denn das ganze Haus meines Vaters waren ja Männer des Todes meinem Herrn, dem König, und du hattest deinen Knecht unter die, so an deinem Tische essen, gesetzt, und was habe ich nun weiter für Gerechtigkeit und weiter zu schreien an den König?</verse>
+        <verse osisID='2Sam.19.30'>Und der König sprach zu ihm: Was redest du noch deine Worte? Ich habe es gesagt: Du und Ziba, ihr sollet das Feld teilen.</verse>
+        <verse osisID='2Sam.19.31'>Und Mephiboscheth sprach zu dem König: Mag er auch das ganze nehmen, nach- dem mein Herr, der König, im Frieden nach seinem Haus gekommen ist.</verse>
+        <verse osisID='2Sam.19.32'>Und Barsillai, der Gileaditer, war aus Rogelim herabgekommen, und setzte mit dem König über den Jordan, um ihn über den Jordan zu geleiten<note>zu senden</note>.</verse>
+        <verse osisID='2Sam.19.33'>Und Barsillai war sehr alt, achtzig Jahre alt<note>ein Sohn von 80 Jahren</note>, und hatte den König während seines Wohnens<note>Sitzens</note> in Machanajim versorgt, denn er war ein sehr großer Mann.</verse>
+        <verse osisID='2Sam.19.34'>Und der König sprach zu Barsillai: Ziehe du mit mir hinüber, und ich versorge dich bei mir in Jerusalem.</verse>
+        <verse osisID='2Sam.19.35'>Und Barsillai sprach zum König: Was sind die Tage der Jahre meines Lebens, daß ich mit dem Könige hinauf nach Jerusalem zöge?</verse>
+        <verse osisID='2Sam.19.36'>Achtzig Jahre bin ich heute alt<note>ein Sohn von 80 Jahren</note>, erkenne ich zwischen Gutem und Schlechtem? Schmeckt dein Knecht, was ich esse und was ich trinke? kann ich noch hören auf die Stimme der Sänger und Sängerinnen? und warum sollte dein Knecht noch meinem Herrn, dem König, zur Last sein?</verse>
+        <verse osisID='2Sam.19.37'>Noch ein wenig will dein Knecht mit dem König über den Jordan setzen, und warum sollte der König mir mit solcher Vergeltung vergelten?</verse>
+        <verse osisID='2Sam.19.38'>Laß deinen Knecht doch zurückkehren, daß ich in meiner Stadt, beim Grabe meines Vaters und meiner Mutter sterbe. Aber siehe, da ist dein Knecht Chimham, der mag mit meinem Herrn, dem König, hinüberziehen, und tue ihm, was gut in deinen Augen ist.</verse>
+        <verse osisID='2Sam.19.39'>Und der König sprach: Chimham soll mit mir hinüberziehen, und ich will ihm tun, was gut in deinen Augen ist, und alles, was du von mir erwählst, will ich dir tun.</verse>
+        <verse osisID='2Sam.19.40'>Und alles Volk zog über den Jordan hinüber, und der König zog hinüber; und der König küßte Barsillai und segnete ihn, und er kehrte zurück an seinen Ort.</verse>
+        <verse osisID='2Sam.19.41'>Und der König zog hinüber nach Gilgal, und Chimham zog mit ihm hinüber, und alles Volk Judahs brachte den König hinüber, und auch die Hälfte vom Volke Israels.</verse>
+        <verse osisID='2Sam.19.42'>Und siehe, alle Männer Israels kamen zum König, und sie sprachen zum König: Warum haben dich unsere Brüder, die Männer von Judah gestohlen, und den König und sein Haus und alle Männer Davids mit ihm über den Jordan herübergebracht?</verse>
+        <verse osisID='2Sam.19.43'>Und alle Männer Judahs antworteten den Männern Israels: Weil der König uns nahe ist. Und warum entbrennt ihr uns darob<note>über dieses Wort</note>? Haben wir etwa vom König gegessen<note>essend gegessen</note> oder hat er uns Ehrengaben gegeben?</verse>
+        <verse osisID='2Sam.19.44'>Und die Männer Israels antworteten den Männern Judahs und sprachen: Zehn Teile<note>Hände</note> am Könige gehören mir, und auch an David habe ich mehr als du, und warum hast du mich gering geachtet und war mein Wort nicht das erste? Mir kommt es zu, meinen König zurückzubringen. Aber die Worte der Männer Judahs waren härter, denn die Worte der Männer Israels.</verse>
+      </chapter>
+      <chapter osisID='2Sam.20'>
+        <title>Der Anführer Scheba kommt um. - Joab tötet Amasa.</title>
+        <verse osisID='2Sam.20.1'>Und es traf sich, daß da war ein Mann Belials, und dessen Name war Scheba, der Sohn Bichris, ein Mann aus Benjamin, und er stieß in die Posaune und sprach: Wir haben keinen Teil an David und kein Erbe am Sohn Ischais, jeder Mann nach seinen Zelten, Israel!</verse>
+        <verse osisID='2Sam.20.2'>Und alle Männer Israels zogen hinauf, hinter David weg, dem Scheba, dem Sohne Bichris, nach; die Männer Judahs aber hingen an ihrem Könige vom Jordan und bis Jerusalem.</verse>
+        <verse osisID='2Sam.20.3'>Und David kam in sein Haus nach Jerusalem, und der König nahm die zehn Weiber, die Kebsweiber, die er gelassen hatte, das Haus zu behüten, und gab sie in ein Haus in Gewahrsam und versorgte sie, ging aber nicht zu ihnen, und sie blieben eingeschlossen<note>bedrängt</note> bis zum Tage ihres Todes. Als Witwen lebten sie.</verse>
+        <verse osisID='2Sam.20.4'>Und der König sprach zu Amasa: Berufe mir die Männer Judahs in drei Tagen, und du stehe hier.</verse>
+        <verse osisID='2Sam.20.5'>Und Amasa ging hin, Judah zu berufen, zögerte aber über die bestimmte Zeit, die er ihm bestimmt hatte.</verse>
+        <verse osisID='2Sam.20.6'>Und David sprach zu Abischai: Jetzt wird uns Scheba, Bichris Sohn, mehr Böses tun, als Absalom. Nimm du die Knechte deines Herrn und setze hinter ihm nach, daß er nicht etwa feste Städte finde und aus unseren Augen sich errette.</verse>
+        <verse osisID='2Sam.20.7'>Und es zogen aus, ihm nach, Joabs Männer und die Krethi und Plethi und alle Helden. Und sie zogen aus von Jerusalem, um hinter Scheba, Bichris Sohne, nachzusetzen.</verse>
+        <verse osisID='2Sam.20.8'>Sie waren bei dem großen Steine zu Gibeon, und Amasa kam vor sie. Joab aber war mit seinem Waffenrocke als Kleidung umgürtet, und hatte darüber einen Gürtel umgetan, mit einem Schwert an seinen Lenden in dessen Scheide; und da er hervorkam, ging es heraus.</verse>
+        <verse osisID='2Sam.20.9'>Und Joab sprach zu Amasa: Geht es dir wohl<note>ist dir Frieden</note>, mein Bruder? und Joab ergriff mit der rechten Hand Amasa an dem Barte, daß er ihn küßte.</verse>
+        <verse osisID='2Sam.20.10'>Und Amasa hütete sich vor dem Schwert in Joabs Hand nicht, und er stieß<note>schlug</note> es ihm in die Weiche<note>fünfte `Rippe'</note> und schüttete seine Eingeweide aus zur Erde, und er gab ihm keinen zweiten, und er starb. Joab aber und Abischai, sein Bruder, setzten hinter Scheba, dem Sohne Bichris, nach.</verse>
+        <verse osisID='2Sam.20.11'>Und ein Mann von den Jungen Joabs blieb dabei stehen und sprach: Wer seine Lust hat an Joab und wer dem David angehört, der folge Joab nach.</verse>
+        <verse osisID='2Sam.20.12'>Und Amasa wälzte sich mitten in der Heerstraße im Blut, und der Mann sah, daß alles Volk stehenblieb, und er wandte Amasa von der Heerstraße herum auf das Feld, und warf ein Kleid über ihn, wie er sah, daß jeder, der an ihn kam, stehenblieb.</verse>
+        <verse osisID='2Sam.20.13'>Wie er von der Heerstraße fortgetan war, ging jeder Mann vorüber, Joab nach, um hinter Scheba, Bichris Sohn, nachzusetzen.</verse>
+        <verse osisID='2Sam.20.14'>Und er durchzog alle Stämme<note>Ruten</note> Israels gegen Abel und Beth-Maachah und ganz Berim; und sie versammelten sich und kamen hinter ihm her.</verse>
+        <verse osisID='2Sam.20.15'>Und sie kamen und belagerten ihn in Abel, Beth-Maachah, und schütteten einen Wall auf wider die Stadt, und er stand an der Vormauer; und alles Volk, das mit Joab war, verdarb die Mauer, um sie umzuwerfen<note>zu fällen</note>.</verse>
+        <verse osisID='2Sam.20.16'>Und eine weise Frau rief aus der Stadt: Höret, höret, sagt doch dem Joab, nahe dich hierher, auf daß ich mit dir rede.</verse>
+        <verse osisID='2Sam.20.17'>Und er nahte sich ihr, und das Weib sprach: Bist du Joab? Und er sprach: Ich bin es. Und sie sprach zu ihm: Höre die Worte deiner Magd. Und er sprach: Ich höre.</verse>
+        <verse osisID='2Sam.20.18'>Und sie sprach und sagte: Früher redete man<note>redend redeten sie</note> und sprach: Wer fragen will, der frage in Abel, und so ging es aus.</verse>
+        <verse osisID='2Sam.20.19'>Ich bin eine der Friedfertigen, der Treuen Israels, du suchst eine Stadt und eine Mutter in Israel zu töten. Warum willst du das Erbe Jehovahs verschlingen?</verse>
+        <verse osisID='2Sam.20.20'>Und Joab antwortete und sprach: Ferne, ferne sei es von mir, daß ich verschlänge oder verdürbe.</verse>
+        <verse osisID='2Sam.20.21'>So ist die Sache<note>das Wort</note> nicht, sondern ein Mann vom Gebirge Ephraim, dessen Name ist Scheba, Bichris Sohn, hat seine Hand wider den König, wider David erhoben. Gebt ihn allein her, und ich ziehe ab von der Stadt. Und das Weib sprach zu Joab: Siehe, sein Haupt soll zu dir von der Mauer geworfen werden.</verse>
+        <verse osisID='2Sam.20.22'>Und das Weib kam zu allem Volk in ihrer Weisheit, und sie schnitten Scheba, dem Sohne Bichris, das Haupt ab und warfen es Joab zu. Und er stieß in die Posaune und sie zerstreuten sich von der Stadt, jeder Mann nach seinen Zelten. Und Joab kehrte zum König nach Jerusalem zurück.</verse>
+        <verse osisID='2Sam.20.23'>Und Joab war über alles Heer Israels, und Benajah, der Sohn Jehojadas, über die Krethi und über die Plethi.</verse>
+        <verse osisID='2Sam.20.24'>Und Adoram über dir Frone und Jehoschaphat, der Sohn Achiluds, war Kanzler.</verse>
+        <verse osisID='2Sam.20.25'>Und Scheja war Schreiber, und Zadok und Abjathar waren Priester.</verse>
+        <verse osisID='2Sam.20.26'>Und auch Ira, der Jairiter, war ein Priester Davids.</verse>
+      </chapter>
+      <chapter osisID='2Sam.21'>
+        <title>Hungersnot. Rizpah. - Sieg über die Philister.</title>
+        <verse osisID='2Sam.21.1'>Und es war eine Hungersnot in den Tagen Davids, drei Jahre, Jahr für Jahr<note>nach</note>. Und David suchte das Angesicht Jehovahs. Und Jehovah sprach: Wegen Sauls und wegen des Bluthauses, dafür, daß er die Gibeoniter tötete.</verse>
+        <verse osisID='2Sam.21.2'>Und der König rief die Gibeoniter und sprach zu ihnen. Die Gibeoniter sind nicht von den Söhnen Israels, sondern übriggeblieben von den Amoritern, und die Söhne Israel hatten ihnen geschworen, Saul aber hatte sie zu erschlagen gesucht, weil er für die Söhne Israels und Judahs, eiferte.</verse>
+        <verse osisID='2Sam.21.3'>Und David sprach zu den Gibeonitern: Was soll ich euch tun, und womit sühnen, auf daß ihr Jehovahs Erbe segnet?</verse>
+        <verse osisID='2Sam.21.4'>Und die Gibeoniter sprachen zu ihm: Wir wollen kein Silber und Gold von Saul und von seinem Hause, auch dürfen wir keinen Mann töten in Israel; er aber sprach: Was ihr sprechet, will ich euch tun.</verse>
+        <verse osisID='2Sam.21.5'>Und sie sprachen zum König: Der Mann, der uns verzehrte und der wider uns sann, uns zu vernichten, daß wir uns nicht stellen durften in alle Grenze Israels;</verse>
+        <verse osisID='2Sam.21.6'>Man gebe uns sieben Männer von seinen Söhnen, auf daß wir sie dem Jehovah an den Pfahl schlagen, in Gibeath Saul, des von Jehovah Erwählten. Und der König sprach: Ich will sie geben.</verse>
+        <verse osisID='2Sam.21.7'>Und der König hatte Mitleid mit Mephiboscheth, dem Sohne Jonathans, des Sohnes Sauls, wegen des Schwures Jehovahs, der zwischen ihnen, zwischen David und Jonathan, dem Sohne Sauls, war.</verse>
+        <verse osisID='2Sam.21.8'>Und der König nahm die zwei Söhne Rizpahs, der Tochter Ajahs, die sie dem Saul geboren, Armoni und Mephiboscheth, und die fünf Söhne der Michal, der Tochter Sauls, die sie dem Adriel, dem Sohne Barsillais, dem Mecholathiter, geboren.</verse>
+        <verse osisID='2Sam.21.9'>Und er gab sie in die Hand der Gibeoniter, und sie schlugen sie an den Pfahl auf dem Berg vor Jehovah, und die sieben fielen zusammen, und sie wurden getötet in den ersten Tagen der Ernte, als die Gerstenernte begann.</verse>
+        <verse osisID='2Sam.21.10'>Und Rizpah, Ajahs Tochter, nahm einen Sack und breitete ihn für sich auf den Felsen, vom Anbeginn der Ernte, bis daß die Wasser vom Himmel sich über sie ergossen, und gab nicht zu, daß das Gevögel des Himmels bei Tag auf ihnen ruhte, noch das wilde Tier des Feldes bei Nacht.</verse>
+        <verse osisID='2Sam.21.11'>Und es ward dem David angesagt, was Rizpah, die Tochter Ajahs, das Kebsweib Sauls, tat.</verse>
+        <verse osisID='2Sam.21.12'>Und David ging hin und nahm die Gebeine Sauls und die Gebeine Jonathans, seines Sohnes, von den Bürgern von Jabesch in Gilead, die sie von dem Torplatze zu Beth-Schan gestohlen, wo die Philister sie am Tage, da die Philister den Saul in Gilboa schlugen, aufgehängt hatten;</verse>
+        <verse osisID='2Sam.21.13'>Und brachte von dannen herauf die Gebeine Sauls und die Gebeine Jonathans, seines Sohnes. Und sie sammelten die Gebeine der an den Pfahl Geschlagenen.</verse>
+        <verse osisID='2Sam.21.14'>Und sie begruben die Gebeine Sauls und Jonathans, seines Sohnes, im Lande Benjamin zu Zelah im Grab seines Vaters Kisch, und sie taten alles, was der König geboten hatte. Und Gott ließ Sich danach vom Lande erflehen.</verse>
+        <verse osisID='2Sam.21.15'>Und es war wieder ein Streit der Philister mit Israel, und David ging hinab und seine Knechte mit ihm, und sie stritten mit den Philistern, und David ward matt.</verse>
+        <verse osisID='2Sam.21.16'>Jischbi aber zu Nob, der einer der Kinder des Rapha<note>d.h. des Riesen</note> war, und das Gewicht seiner Speerspitze war dreihundert Schekel Erz, und war von neuem umgürtet, und sagte, er werde David erschlagen<note>schlagen</note></verse>
+        <verse osisID='2Sam.21.17'>Aber Abischai, der Sohn Zerujahs, stand ihm bei und schlug den Philister und tötete ihn. Da schwuren die Männer Davids vor ihm und sprachen: Du sollst nicht mehr mit uns zum Streite ausziehen, auf daß du nicht auslöschest die Leuchte<note>Lampe</note> Israels.</verse>
+        <verse osisID='2Sam.21.18'>Und es geschah danach, daß wieder Streit war in Gob mit den Philistern. Da erschlug Sibbechai, der Chuschathiter, den Saph von den Kindern Raphas<note>d.h. des Riesen</note>.</verse>
+        <verse osisID='2Sam.21.19'>Und es war wieder ein Streit mit den Philistern in Gob; und Elchanan, Jaare Orgims Sohn, ein Bethlehemite, schlug den Gathiter Goliath. Und das Holz seines Spießes war wie ein Weberbaum.</verse>
+        <verse osisID='2Sam.21.20'>Und es war wieder ein Streit in Gath, und da war ein riesenhafter Mann<note>Mann des Maßes</note>, und die Finger seiner Hände und die Zehen<note>Finger</note> seiner Füße waren sechs und sechs, vierundzwanzig an der Zahl, und auch er ward dem Rapha<note>dem Riesen</note> geboren.</verse>
+        <verse osisID='2Sam.21.21'>Und der schmähte Israel; und es erschlug ihn Jehonathan, der Sohn von Schimai, dem Bruder Davids.</verse>
+        <verse osisID='2Sam.21.22'>Diese vier waren geboren dem Rapha<note>dem Riesen</note> in Gath, und fielen durch die Hand Davids und durch die Hand seiner Knechte.</verse>
+      </chapter>
+      <chapter osisID='2Sam.22'>
+        <title>Davids Lobgesang für seine Errettung.</title>
+        <verse osisID='2Sam.22.1'>Und David redete zu Jehovah die Worte dieses Liedes am Tage, da ihn Jehovah aus der Hand<note>hohle Hand</note> aller seiner Feinde und aus der Hand<note>hohle Hand</note> Sauls errettet hatte, und sprach:</verse>
+        <verse osisID='2Sam.22.2'>Jehovah, mein Hort<note>meine Klippe</note>, meine Feste und mein Befreier.</verse>
+        <verse osisID='2Sam.22.3'>Mein Gott, mein Fels, auf Den ich mich verlasse; mein Schild und Horn meines Heils, meine Burg und meine Zuflucht, Du mein Retter, Der Du mir hilfst von der Gewalttat.</verse>
+        <verse osisID='2Sam.22.4'>Lobenswürdiger, rufe ich, Jehovah! Und von meinen Feinden wird mir geholfen.</verse>
+        <verse osisID='2Sam.22.5'>Denn Brandungen des Todes hatten mich umfangen, Bäche Belials mich verstört.</verse>
+        <verse osisID='2Sam.22.6'>Stricke der Hölle umgaben mich, Fallstricke des Todes kamen mir entgegen.</verse>
+        <verse osisID='2Sam.22.7'>In meiner Drangsal rief ich zu Jehovah, und zu meinem Gotte rief ich, und Er hörte von seinem Tempel meine Stimme und mein Angstschrei kam in Seine Ohren.</verse>
+        <verse osisID='2Sam.22.8'>Und es schwankte und erbebte die Erde, die Grundfesten der Himmel zitterten und schwankten; denn Er entbrannte.</verse>
+        <verse osisID='2Sam.22.9'>Rauch stieg auf von seiner Nase; und Feuer aus Seinem Munde fraß; Glühkohlen brannten aus Ihm hervor.</verse>
+        <verse osisID='2Sam.22.10'>Und Er neigte die Himmel und kam herab, und Wolkendunkel war unter Seinen Füßen.</verse>
+        <verse osisID='2Sam.22.11'>Und Er fuhr auf dem Cherub und flog und schwebte auf den Flügeln des Windes daher.</verse>
+        <verse osisID='2Sam.22.12'>Und setzte Finsternis um Sich her als Hütten, Bande von Wassern, dichte Wolken der Wolkenhimmel.</verse>
+        <verse osisID='2Sam.22.13'>Aus dem Glanze vor Ihm brannten Glühkohlen des Feuers.</verse>
+        <verse osisID='2Sam.22.14'>Vom Himmel donnerte Jehovah und der Höchste gab Seine Stimme.</verse>
+        <verse osisID='2Sam.22.15'>Und sandte aus Pfeile und zerstreute sie, den Blitz, und verwirrte sie.</verse>
+        <verse osisID='2Sam.22.16'>Des Meeres Grundbette erschienen, die Grundfesten der Welt wurden aufgedeckt, vom Dräuen Jehovahs, vom Odem des Hauches Seiner Nase.</verse>
+        <verse osisID='2Sam.22.17'>Er sandte herab aus der Höhe und holte mich; aus vielen Wassern zog Er mich empor.</verse>
+        <verse osisID='2Sam.22.18'>Er errettete mich von meinem starken Feinde, von meinen Hassern, denn sie waren zu gewaltig für mich.</verse>
+        <verse osisID='2Sam.22.19'>Sie kamen wider mich am Tage meiner Not, aber Jehovah ward mir eine Stütze.</verse>
+        <verse osisID='2Sam.22.20'>Und Er brachte mich heraus in das Weite, Er riß mich heraus, denn Er hatte Lust an mir.</verse>
+        <verse osisID='2Sam.22.21'>Nach meiner Gerechtigkeit vergalt mir Jehovah. Nach der Lauterkeit meiner Hände gab Er es mir zurück.</verse>
+        <verse osisID='2Sam.22.22'>Denn ich hielt die Wege Jehovahs und tat nicht Unrecht wider meinen Gott.</verse>
+        <verse osisID='2Sam.22.23'>Denn alle Seine Rechte sind vor mir und Seine Satzungen tue ich nicht weg von mir.</verse>
+        <verse osisID='2Sam.22.24'>Ich war ihm untadelig und hütete mich vor meiner Missetat.</verse>
+        <verse osisID='2Sam.22.25'>Und Jehovah gibt mir wieder nach meiner Gerechtigkeit, nach meiner Lauterkeit vor Seinen Augen.</verse>
+        <verse osisID='2Sam.22.26'>Dem Heiligen erweisest Du Dich heilig, mit dem untadeligen Helden untadelig.</verse>
+        <verse osisID='2Sam.22.27'>Mit dem Lauteren zeigst Du Dich lauter und mit dem Krummen erscheinst Du verdreht.</verse>
+        <verse osisID='2Sam.22.28'>Dem elenden Volke hilfst Du, und Deine Augen sind wider die Hohen, daß Du sie erniedrigst.</verse>
+        <verse osisID='2Sam.22.29'>Denn Du bist meine Leuchte<note>Lampe</note>, Jehovah, und Jehovah macht meine Finsternis erglänzen.</verse>
+        <verse osisID='2Sam.22.30'>Denn mit Dir durchlaufe ich Kriegshaufen. Mit meinem Gotte überspringe ich die Mauer.</verse>
+        <verse osisID='2Sam.22.31'>Gott, untadelig ist Sein Weg, die Rede Jehovahs ist geläutert; Er ist ein Schild allen, die auf Ihn sich verlassen.</verse>
+        <verse osisID='2Sam.22.32'>Denn wer ist Gott außer Jehovah! Und wer ein Fels außer unserem Gotte.</verse>
+        <verse osisID='2Sam.22.33'>Gott ist mir Stärke der Tapferkeit, und macht<note>löset</note> untadelig meinen Weg.</verse>
+        <verse osisID='2Sam.22.34'>Er machte meine Füße gleich denen der Hindinnen, und ließ mich stehen auf meinen Höhen.</verse>
+        <verse osisID='2Sam.22.35'>Er lehrte meine Hände den Streit und meine Arme, daß sie den ehernen Bogen spannten<note>niederdrücken</note>.</verse>
+        <verse osisID='2Sam.22.36'>Und gabst mir den Schild Deines Heiles, und während Du mich demütigest, mehrest du mich.</verse>
+        <verse osisID='2Sam.22.37'>Du machtest weit meinen Schritt unter mir, daß meine Knöchel nicht gleiteten.</verse>
+        <verse osisID='2Sam.22.38'>Ich setzte meinen Feinden nach und vernichtete sie, und kehrte nicht um, bis sie getilgt<note>alle</note> waren.</verse>
+        <verse osisID='2Sam.22.39'>Ich tilgte sie<note>ließ sie alle werden</note> und zerschmetterte sie, daß sie nicht aufstanden, und sie unter meine Füße fielen.</verse>
+        <verse osisID='2Sam.22.40'>Und Du umgürtetest mich mit Tapferkeit zum Streite, und ließest, die wider mich aufstanden, sich krümmen unter mir.</verse>
+        <verse osisID='2Sam.22.41'>Du hast mir meiner Feinde Nacken gegeben, und meine Hasser habe ich vertilgt.</verse>
+        <verse osisID='2Sam.22.42'>Sie schauten aus, und kein Retter war da, zu Jehovah, und Er antwortete ihnen nicht.</verse>
+        <verse osisID='2Sam.22.43'>Und ich zermalmte sie wie Staub der Erde, wie Kot der Gassen zerstieß ich sie und zerstampfte sie.</verse>
+        <verse osisID='2Sam.22.44'>Du befreist mich von dem Hadern meines Volkes. Du behütetest mich, daß ich zum Haupte der Völkerschaften würde, ein Volk, das ich nicht gekannt, diente mir.</verse>
+        <verse osisID='2Sam.22.45'>Söhne des Auslandes werden mir huldigen, gehorchen mir auf Ohrgehör.</verse>
+        <verse osisID='2Sam.22.46'>Die Söhne des Auslandes welken hin und kriechen<note>gürten sich</note> hervor aus ihren Schlössern.</verse>
+        <verse osisID='2Sam.22.47'>Es lebt Jehovah, und gesegnet sei mein Fels, und erhöht sei mein Gott, der Fels meines Heiles,</verse>
+        <verse osisID='2Sam.22.48'>Der Gott, Der mir Rache gibt und Völker herabbringt unter mich.</verse>
+        <verse osisID='2Sam.22.49'>Und mich herausgebracht aus meinen Feinden, und mich erhöht über die, so wider mich aufstanden, und mich errettet von dem Manne der Gewalttat.</verse>
+        <verse osisID='2Sam.22.50'>Darum bekenne ich Dich unter den Völkerschaften, Jehovah, und singe Psalmen Deinem Namen.</verse>
+        <verse osisID='2Sam.22.51'>Er macht großes Heil Seinem König und tut Barmherzigkeit Seinem Gesalbten, dem David, und Seinem Samen in Ewigkeit.</verse>
+      </chapter>
+      <chapter osisID='2Sam.23'>
+        <title>Davids letzte Worte. - Verzeichnis seiner Helden.</title>
+        <verse osisID='2Sam.23.1'>Und dies sind die letzten Worte Davids: Ein Spruch Davids, des Sohnes Ischais; ein Spruch des Mannes, bestätigt zum Gesalbten des Gottes Jakobs, und lieblich in den Psalmen Israels.</verse>
+        <verse osisID='2Sam.23.2'>Der Geist Jehovahs redete in mir und Seine Rede war auf meiner Zunge.</verse>
+        <verse osisID='2Sam.23.3'>Es sprach der Gott Israels zu mir, es redete der Fels Israels von einem, Der herrschen wird über die Menschen, von einem Gerechten, Der herrschen wird in der Furcht Gottes.</verse>
+        <verse osisID='2Sam.23.4'>Und Er ist wie das Licht des Morgens, da die Sonne aufgeht, des Morgens ohne Wolken. Vom Glanze, vom Regen ist das junge Grün aus der Erde.</verse>
+        <verse osisID='2Sam.23.5'>Ist nicht also mein Haus bei Gott? Hat Er nicht den Bund der Ewigkeit für mich gesetzt, in allem geordnet und gehalten? Sollte Er nicht all mein Heil und all meine Lust ersprossen lassen!</verse>
+        <verse osisID='2Sam.23.6'>Aber Belial sind wie Dornen, die man allesamt wegwirft, die man nicht in die Hand nimmt.</verse>
+        <verse osisID='2Sam.23.7'>Und der Mann, der sie berührt, waffnet sich<note>füllt sich</note> mit Eisen und dem Holze des Spießes und verbrennt<note>verbrennend verbrennt</note> sie auf der Stelle im Feuer.</verse>
+        <verse osisID='2Sam.23.8'>Dies sind die Namen der Helden Davids: Joscheb-Baschebeth<note>d.h. der Sitzende im Sitze</note>, der Tachkemoniter, das Haupt der Drei. Er schwang seinen Speer<note>Adino haezni</note> über achthundert auf einmal Erschlagene.</verse>
+        <verse osisID='2Sam.23.9'>Und nach ihm Eleasar, der Sohn von Dodo, dem Sohn Achochis; er war unter den drei Helden mit David, als sie die Philister schmähten, die da zum Streite sich versammelt und die Männer Israels hinaufzogen.</verse>
+        <verse osisID='2Sam.23.10'>Er machte sich auf und schlug die Philister, bis seine Hand müde wurde, und seine Hand am Schwerte klebte; und Jehovah schaffte<note>tat</note> an selbem Tage großes Heil, und das Volk zog hinter ihm her nur zur Plünderung<note>auszuziehen, d.h. die Erschlagenen</note>.</verse>
+        <verse osisID='2Sam.23.11'>Und nach ihm Schammah, Ages Sohn, der Harariter. Und die Philister hatten sich zu einer Rotte versammelt. Und es war allda ein Grundstück<note>Teil</note> eines Feldes voll Linsen, und das Volk floh vor den Philistern.</verse>
+        <verse osisID='2Sam.23.12'>Und er stellte sich mitten auf das Grundstück<note>Teil</note> und errettete dasselbe, und schlug die Philister und Jehovah schaffte<note>tat</note> großes Heil.</verse>
+        <verse osisID='2Sam.23.13'>Und es gingen die drei Häupter der Dreißig hinab und kamen um die Ernte zu David nach der Höhle Adullam, und die Rotte der Philister lagerte im Talgrund der Rephaim<note>der Riesen</note>.</verse>
+        <verse osisID='2Sam.23.14'>Und David war dazumal in der Feste, und eine Besatzung der Philister war dazumal in Bethlechem.</verse>
+        <verse osisID='2Sam.23.15'>Und David gelüstete es, und er sprach: Wer gibt mir Wasser zu trinken aus dem Brunnen Bethlechems, der am Tore ist?</verse>
+        <verse osisID='2Sam.23.16'>Und es brachen<note>spalteten</note> die drei Helden in das Lager der Philister durch und schöpften Wasser aus dem Brunnen Bethlechems, der am Tore war, und trugen es und kamen zu David. Der aber war nicht willens, es zu trinken, sondern goß es dem Jehovah aus.</verse>
+        <verse osisID='2Sam.23.17'>Und sprach: Ferne sei von mir, Jehovah, daß ich dies tue, dies ist das Blut der Männer, die mit ihrer Seele<note>d.i. mit Lebensgefahr</note> gegangen sind; und er wollte es nicht trinken. Solches taten die drei Helden.</verse>
+        <verse osisID='2Sam.23.18'>Und Abischai, der Bruder Joabs, Sohn Zerujahs, war ein Haupt von Dreien; und er schwang seinen Spieß über dreihundert Erschlagene; und er hatte einen Namen unter den Dreien.</verse>
+        <verse osisID='2Sam.23.19'>Er war verherrlicht von der Genossenschaft, und war ihnen zum Obersten, aber bis an die Drei kam er nicht.</verse>
+        <verse osisID='2Sam.23.20'>Und Benajahu, Sohn Jehojadas, der Sohn eines tapferen Mannes, groß<note>viel</note> an Taten, aus Kabzeel; er schlug zwei Ariele von Moab, und ging hinab und erschlug einen Löwen mitten in der Grube am Tage des Schnees.</verse>
+        <verse osisID='2Sam.23.21'>Und er schlug einen ägyptischen Mann von Ansehen, und der Ägypter hatte einen Spieß in der Hand, er aber ging zu ihm hinab mit einer Rute, und entriß dem Ägypter den Spieß aus der Hand und erwürgte ihn mit seinem eigenen Spieß.</verse>
+        <verse osisID='2Sam.23.22'>Solches tat Benajahu, der Sohn Jehojadas, und er hatte einen Namen unter der Genossenschaft der Helden.</verse>
+        <verse osisID='2Sam.23.23'>Er ward mehr verherrlicht als die Drei-ßig, aber an die Drei kam er nicht; und David setzte ihn zu seinem Rate<note>Gehöre</note> ein.</verse>
+        <verse osisID='2Sam.23.24'>Asahel, Bruder Joabs, war unter den Dreißig; Elchanan, Sohn Dodos aus Bethlechem.</verse>
+        <verse osisID='2Sam.23.25'>Schammah, der Charoditer; Elika, der Charoditer.</verse>
+        <verse osisID='2Sam.23.26'>Chelez, der Paltiter; Ira, der Sohn des Ikkesch, der Thekoiter.</verse>
+        <verse osisID='2Sam.23.27'>Abieser, der Anthothiter; Mebunnai, der Chuschathiter.</verse>
+        <verse osisID='2Sam.23.28'>Zalmon, der Achochiter; Maharai, der Netophathiter.</verse>
+        <verse osisID='2Sam.23.29'>Cheleb, der Sohn Baanahs, der Netophathiter; Itthai, der Sohn Ribais aus Gibea, der Söhne Benjamins.</verse>
+        <verse osisID='2Sam.23.30'>Benajahu, der Pirathoniter; Hiddai von den Bächen Gaasch.</verse>
+        <verse osisID='2Sam.23.31'>Abi-Albon, der Arbathiter; Asmaweth, der Barchumiter.</verse>
+        <verse osisID='2Sam.23.32'>Eljachba, der Schaalboniter; Benejaschen, Jehonathan.</verse>
+        <verse osisID='2Sam.23.33'>Schammah, der Harariter; Achiam, der Sohn Scharars, der Harariter.</verse>
+        <verse osisID='2Sam.23.34'>Eliphelet, der Sohn Achasbais, des Sohnes des Maachathiters; Eliam, der Sohn Achitophels, der Giloniter.</verse>
+        <verse osisID='2Sam.23.35'>Chezrai, der Karmeliter; Paarai, der Arbiter.</verse>
+        <verse osisID='2Sam.23.36'>Jigeal, Nathans Sohn, aus Zobah; Bani, der Gaditer.</verse>
+        <verse osisID='2Sam.23.37'>Zelek, der Ammoniter, Nacharai, der Beerothiter, Waffenträger des Joab, des Sohnes von Zerujah;</verse>
+        <verse osisID='2Sam.23.38'>Ira, der Jethriter; Gareb, der Jethriter,</verse>
+        <verse osisID='2Sam.23.39'>Urijah, der Chethiter. In allem waren es siebenunddreißig.</verse>
+      </chapter>
+      <chapter osisID='2Sam.24'>
+        <title>Davids Volkszählung. Pest.</title>
+        <verse osisID='2Sam.24.1'>Und es entbrannte abermals<note>tat hinzu zu entbrennen</note> der Zorn Jehovahs wider Israel, und Er trieb David wider dieselben an und sprach: Geh, zähle<note>berechne</note> Israel und Judah.</verse>
+        <verse osisID='2Sam.24.2'>Und der König sprach zu Joab, dem Obersten der Streitmacht, die bei ihm war: Durchziehe doch alle Stämme<note>Ruten</note> Israels von Dan und bis Beerscheba und mustere das Volk, auf daß ich wisse die Zahl des Volkes.</verse>
+        <verse osisID='2Sam.24.3'>Und Joab sprach zum König: Jehovah, dein Gott, tue hinzu zu dem Volk so und so viel einhundertmal, und die Augen meines Herrn, des Königs, mögen es sehen! Warum hat aber mein Herr, der König, Lust an dieser Sache<note>an diesem Worte</note>?</verse>
+        <verse osisID='2Sam.24.4'>Das Wort des Königs aber war zu stark für Joab und für die Obersten der Streitmacht. Und Joab und die Obersten der Streitmacht zogen aus vor dem Könige, das Volk Israel zu mustern.</verse>
+        <verse osisID='2Sam.24.5'>Und sie setzen über den Jordan und lagerten in Aroer, rechts von der Stadt, die inmitten des Bachtals Gad ist, und nach Jaeser hin.</verse>
+        <verse osisID='2Sam.24.6'>Und sie kamen nach Gilead und dem Lande Tachtim Chodschi. Und sie kamen nach Dan-Jaan und in die Umgegend von Sidon.</verse>
+        <verse osisID='2Sam.24.7'>Und sie kamen nach dem festen Zor<note>d.i. Tyrus</note> und zu allen Städten der Chiviter und der Kanaaniter, und zogen dann nach dem Mittagslande Judahs, nach Beer-Scheba.</verse>
+        <verse osisID='2Sam.24.8'>Und sie durchzogen das ganze Land und kamen am Ende von neun Monaten und zwanzig Tagen nach Jerusalem.</verse>
+        <verse osisID='2Sam.24.9'>Und Joab gab dem König die Zahl der Musterung des Volkes, und es waren in Israel achthunderttausend Männer von Tapferkeit, die das Schwert zogen, und die Männer von Judah fünfhunderttausend Mann.</verse>
+        <verse osisID='2Sam.24.10'>Und David schlug das Herz, nachdem er das Volk hatte zählen lassen, und David sprach zu Jehovah: Ich habe sehr gesündigt, daß ich das getan; und nun, Jehovah, laß doch vorübergehen die Missetat deines Knechtes, daß ich sehr närrisch gehandelt habe.</verse>
+        <verse osisID='2Sam.24.11'>Und David stand am Morgen auf, und das Wort Jehovahs geschah zu Gad, dem Propheten, dem Seher Davids, und sprach:</verse>
+        <verse osisID='2Sam.24.12'>Gehe hin und rede zu David: So spricht Jehovah: Drei will Ich dir auferlegen, wähle dir davon eines, und Ich will es dir tun.</verse>
+        <verse osisID='2Sam.24.13'>Und Gad kam zu David und sagte ihm an und sprach zu ihm: Sollen dir sieben Jahre Hungersnot in dein Land kommen, oder drei Monate, da du vor deinen Drängern fliehen mußt und man dir nachsetzt, oder soll drei Tage Pest in deinem Lande sein? Nun wisse und siehe, welches Wort ich Dem, Der mich gesandt, soll zurückbringen.</verse>
+        <verse osisID='2Sam.24.14'>Und David sprach zu Gad: Ich bin sehr bedrängt, doch laß mich fallen in Jehovahs Hand; denn viel sind Seiner Erbarmungen, und laß mich nicht fallen in des Menschen Hand.</verse>
+        <verse osisID='2Sam.24.15'>Und Jehovah legte eine Pest auf Israel vom Morgen an bis zur bestimmten Zeit, und es starben vom Volke von Dan bis Beer-Scheba siebzigtausend Mann.</verse>
+        <verse osisID='2Sam.24.16'>Und der Engel reckte seine Hand aus wider Jerusalem, daß er es verdürbe; Jehovah gereute aber des Bösen und Er sprach zu dem Engel, der unter dem Volke verdarb: Es ist viel, jetzt laß deine Hand ab. Der Engel Jehovahs war aber an der Tenne des Aravnah<note>oder Avarna</note>, des Jebusiters.</verse>
+        <verse osisID='2Sam.24.17'>Und David sprach zu Jehovah, als er sah, wie der Engel unter das Volk schlug und sagte: Siehe, ich habe gesündigt, und ich habe die Missetat verübt, was haben diese Schafe<note>das Kleinvieh</note> da getan? Deine Hand sei doch wider mich und wider meines Vaters Haus.</verse>
+        <verse osisID='2Sam.24.18'>Und Gad kam zu David an selbigem Tage und sprach zu ihm: Gehe hinauf und errichte dem Jehovah einen Altar auf der Tenne des Aravnah, des Jebusiters.</verse>
+        <verse osisID='2Sam.24.19'>Und David ging hinauf nach dem Worte Gads, wie Jehovah geboten hatte.</verse>
+        <verse osisID='2Sam.24.20'>Und Aravnah schaute aus und sah den König und seine Knechte zu ihm herüberkommen, und Aravnah ging hinaus und verbeugte sich vor dem König mit dem Antlitz zur Erde.</verse>
+        <verse osisID='2Sam.24.21'>Und Aravnah sprach: Warum kommt mein Herr, der König, zu seinem Knechte? Und David sprach: Um von dir die Tenne zu kaufen, daß ich Jehovah einen Altar erbaue, damit der Plage beim Volke Einhalt getan werde.</verse>
+        <verse osisID='2Sam.24.22'>Und Aravnah sprach zu David: Mein Herr, der König, nehme und opfere auf, was gut in seinen Augen ist. Siehe, das Rind zum Brandopfer, und die Dreschwalzen und das Rindgeschirr zu Holz.</verse>
+        <verse osisID='2Sam.24.23'>Das alles gab Aravnah, der König dem Könige. Und Aravnah sprach zum König: Jehovah, dein Gott, habe Wohlgefallen an dir.</verse>
+        <verse osisID='2Sam.24.24'>Der König aber sprach zu Aravnah: Nein, sondern ich will sie von dir kaufen<note>kaufend kaufen</note> nach dem Wert, und meinem Gotte Jehovah nicht ein Brandopfer aufopfern umsonst. Und David kaufte die Tenne und das Rind um Silber, fünfzig Schekel.</verse>
+        <verse osisID='2Sam.24.25'>Und David baute Jehovah daselbst einen Altar und brachte Brandopfer und Dankopfer dar; und Jehovah ließ Sich erflehen für das Land, und der Plage ward Einhalt getan von Israel.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

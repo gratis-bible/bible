@@ -1,0 +1,812 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <osisText xml:lang='mi' osisIDWork='MAO' osisRefWork='Bible'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='MAO'>
+        <title>Maori Version</title>
+        <contributor> The Unbound Bible
+     Biola University: Administrative Computing
+     13800 Biola Ave.
+     La Mirada, CA 90639
+     United States of America
+     562-903-4722 </contributor>
+        <creator/>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject>holy bible</subject>
+        <date>2009-01-20</date>
+        <description>Maori Bible prepared by Timothy Mora. Text reproduced by Dr. Cleve Barlow.</description>
+        <publisher>FREE BIBLE SOFTWARE GRUOP</publisher>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>MAO</identifier>
+        <source>ftp://unboundftp.biola.edu/pub/maori.zip</source>
+        <language type='IETF'>mi</language>
+        <relation/>
+        <coverage>Provide the bible to the world</coverage>
+        <rights>i think public domain</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Mark'>
+      <chapter osisID='Mark.1'>
+        <verse osisID='Mark.1.1'> Ko te timatanga o te rongopai o Ihu Karaiti, o te Tama a te Atua;</verse>
+        <verse osisID='Mark.1.2'>Ko te mea ia i tuhituhia i roto i ta Ihaia poropiti, Na ka tonoa e ahau taku karere i mua i tou aroaro, mana e whakapai tou ara i mua i a koe.</verse>
+        <verse osisID='Mark.1.3'>He reo no tetahi i te koraha e karanga ana, Whakapaia te huarahi o te Ariki, Whakatikaia ona ara.</verse>
+        <verse osisID='Mark.1.4'>I haere mai a Hoani, ka iriiri i te koraha, ka kauwhau i te iriiri ripeneta hei murunga hara.</verse>
+        <verse osisID='Mark.1.5'>Na ka haere ki a ia te whenua katoa o Huria, me nga tangata o Hiruharama, a iriiria katoatia ana e ia ki te awa ki Horano, me te whaki ano i o ratou hara.</verse>
+        <verse osisID='Mark.1.6'>Na ko te kakahu o Hoani he huruhuru kamera, he hiako hoki te whitiki o tona hope; ko tana kai he mawhitiwhiti he honi koraha.</verse>
+        <verse osisID='Mark.1.7'>A i kauwhau ia, i mea, Tenei te haere mai nei i muri i ahau tetahi he kaha rawa ake i ahau, e kore ahau e tau ki te piko iho wewete ai i te here o ona hu.</verse>
+        <verse osisID='Mark.1.8'>Ko ahau nei, he iriiri taku i a koutou ki te wai: mana ia koutou e iriiri ki te Wairua Tapu.</verse>
+        <verse osisID='Mark.1.9'> A i aua ra ka haere mai a Ihu i Nahareta o Kariri, ka iriiria e Hoani ki Horano.</verse>
+        <verse osisID='Mark.1.10'>A, i taua wa ano i a ia e haere ake ana i te wai, ka kaite ia i nga rangi e wahia ana kia tuwhera, me te Wairua, ano he kukupa, e heke iho ana ki a ia:</verse>
+        <verse osisID='Mark.1.11'>A ka puta mai he reo no te rangi, e mea ana, Ko koe taku Tama i aroha ai, taku i ahuareka ai.</verse>
+        <verse osisID='Mark.1.12'>A i reira pu ano ka tonoa ia e te Wairua ki te koraha.</verse>
+        <verse osisID='Mark.1.13'>A e wha tekau ona ra i reira i te koraha e whakamatautauria ana e Hatana; i roto ia i nga kararehe mohoao: ko nga anahera hoki ki te mahi mea mana.</verse>
+        <verse osisID='Mark.1.14'> Na, i muri i a Hoani i tukua ai ki te herehere, ka haere a Ihu ki Kariri, ka kauwhau i te rongopai o te Atua,</verse>
+        <verse osisID='Mark.1.15'>Ka mea, Kua rite tenei te wa, kua tata hoki te rangatiratanga o te Atua: ripeneta, whakaponohia te rongopai.</verse>
+        <verse osisID='Mark.1.16'>Na, i a ia e haere ana i te taha o te moana o Kariri, ka kite i a Haimona raua ko tona teina, ko Anaru, e maka ana i te kupenga ki te moana: he kaihao ika hoki raua.</verse>
+        <verse osisID='Mark.1.17'>Na ka mea a Ihu ki a raua, Haere mai i muri i ahau, a maku korua e mea hei kaihao tangata.</verse>
+        <verse osisID='Mark.1.18'>A mahue tonu ake i a raua nga kupenga, aru ana i a ia.</verse>
+        <verse osisID='Mark.1.19'>A, haere tata atu ana i reira, ka kite ia i a Hemi, tama a Heperi, raua ko tona teina ko Hoani, i te kaipuke ano raua e ta ana i nga korenga o a ratou kupenga.</verse>
+        <verse osisID='Mark.1.20'>Na karanga tonu atu ia i a raua: a mahue ake i a raua to raua matua a Heperi i te kaipuke me nga kaimahi, a haere ana i muri i a ia.</verse>
+        <verse osisID='Mark.1.21'>A ka tomo ratou ki Kaperenauma; na haere tonu ia i te hapati ki te whare karakia, ka whakaako.</verse>
+        <verse osisID='Mark.1.22'>A miharo ana ratou ki tana ako: i rite hoki tana ako i a ratou ki ta te tangata whai mana, kihai i rite ki ta nga karaipi.</verse>
+        <verse osisID='Mark.1.23'> Na i to ratou whare karakia tetahi tangata, he wairua poke tona; a ka karanga ia,</verse>
+        <verse osisID='Mark.1.24'>Ka mea, Kati ra, he aha ta matou ki a koe, e Ihu o Nahareta? kua tae mai ranei koe ki te whakangaro i a matou? e matau ana ahau ko wai koe, ko te Mea Tapu a te Atua.</verse>
+        <verse osisID='Mark.1.25'>A ka riri a Ihu ki a ia, ka mea, Kati te korero, puta mai i roto i a ia.</verse>
+        <verse osisID='Mark.1.26'>Na ka haehae te wairua kino i a ia, nui atu hoki tona reo ki te karanga, a puta ana mai i roto i a ia.</verse>
+        <verse osisID='Mark.1.27'>A miharo noa ratou katoa, uiui ana ki a ratou ano, mea ana, He aha tenei? he aha tenei ako hou? mana tonu tana nei tono i nga wairua poke, a rongo rawa ki a ia.</verse>
+        <verse osisID='Mark.1.28'>Na paku tonu atu tona rongo ki nga wahi katoa e tata ana ki Kariri.</verse>
+        <verse osisID='Mark.1.29'> Na i reira tonu, i to ratou putanga mai i te whare karakia, tomo tonu atu ratou ko hemi, ko Hoani, ki te whare o Haimona raua ko Anaru.</verse>
+        <verse osisID='Mark.1.30'>Na i te takoto te hungawai wahine o Haimona, he kirika, a korerotia tonutia atu ia e ratou ki a ia.</verse>
+        <verse osisID='Mark.1.31'>Heoi, i tona taenga atu, ka mau ki tona ringa, whakaarahia ana ia; mutu tonu ake tona kirika, ka tahuri ki te taka mea ma ratou.</verse>
+        <verse osisID='Mark.1.32'>Na i te ahiahi, i te toenetanga o te ra, ka mauria mai ki a ia nga turoro katoa, me te hunga e nohoia ana e nga rewera.</verse>
+        <verse osisID='Mark.1.33'>A huihui katoa ana te pa ki te kuwaha.</verse>
+        <verse osisID='Mark.1.34'>He tokomaha te hunga e ngaua ana e te tini o nga mate i whakaorangia e ia, he maha hoki nga rewera i peia; a kihai i tukua e ia nga rewera kia korero, no te mea i matau ratou ki a ia.</verse>
+        <verse osisID='Mark.1.35'>Na i te atatu, i mua noa atu o te awatea, ka ara ia, ka puta ki waho, ka haere ki te wahi koraha, ki reira inoi ai.</verse>
+        <verse osisID='Mark.1.36'>Na ka whai a Haimona ratou ko ona hoa i a ia.</verse>
+        <verse osisID='Mark.1.37'>A, ka kitea ia, ka mea ki a ia, E rapu ana nga tangata katoa i a koe.</verse>
+        <verse osisID='Mark.1.38'>Katahi ia ka mea ki a ratou, Tatou ka haere he wahi ke ki nga kainga tata, ki reira ahau kauwhau ai: ko taku hoki tera i haere mai ai.</verse>
+        <verse osisID='Mark.1.39'>Na ka tomo ia ki roto i o ratou whare karakia puta noa i Kariri, ka kauwhau, ka pei hoki i nga rewera ki waho.</verse>
+        <verse osisID='Mark.1.40'> A ka haere mai ki a ia tetahi repera, ka inoi ki a ia, tuku rawa nga turi ki a ia, ka mea, Ki te pai koe, e taea ahau e koe te mea kia ma.</verse>
+        <verse osisID='Mark.1.41'>Na ka aroha a Ihu, ka totoro tona ringa, ka pa ki a ia, ka mea ki a ia, E pai ana ahau; kia ma koe.</verse>
+        <verse osisID='Mark.1.42'>A, puaki kau tona reo, kua kore tona repera, na kua ma.</verse>
+        <verse osisID='Mark.1.43'>Na ka whakatupato ia ki a ia, a tonoa tonutia atu,</verse>
+        <verse osisID='Mark.1.44'>Ka mea atu hoki ki a ia, Kei korerotia tetahi mea ki te tangata: engari haere, kia kite te tohunga i a koe, a mauria atu mo tou whakamakanga nga mea i whakaritea e Mohi, hei mea whakaatu ki a ratou.</verse>
+        <verse osisID='Mark.1.45'>Heoi, i tona putanga atu, ka anga ki te kororo nui haere, ka whakapuakina taua mea, a kihai a Ihu i ahei te haere nui ki te pa i muri iho, engari i noho ia i waho i nga wahi koraha: a haere ana mai ratou ki a ia i nga wahi katoa.</verse>
+      </chapter>
+      <chapter osisID='Mark.2'>
+        <verse osisID='Mark.2.1'> A, i a ia i tomo ai ano ki Kaperenauma i etahi ra mai, ka rangona kei te whare ia.</verse>
+        <verse osisID='Mark.2.2'>Na ka hui mai te tini o te tangata, kahore rawa he wahi e o ai ratou, hore rawa i te taha o te kuwaha; a ka korerotia e ia te kupu ki a ratou.</verse>
+        <verse osisID='Mark.2.3'>Ka haere mai hoki etahi, ka kawe mai i tetahi pararutiki ki a ia, tokowha ki te kauhoa.</verse>
+        <verse osisID='Mark.2.4'>A, te taea te whakatata ki a ia i te mano hoki, ka pokaia te tuanui o te wahi i noho ai ia: a, ka oti te wawahi, ka tukua iho te moenga i takoto ai te pararutiki.</verse>
+        <verse osisID='Mark.2.5'>A, no te kitenga o Ihu i to ratou whakapono, ka mea ia ki te pararutiki, E tama, ka oti ou hara te muru.</verse>
+        <verse osisID='Mark.2.6'>Na i reira etahi o nga karaipi e noho ana, e whakaaroaro ana i roto i o ratou ngakau,</verse>
+        <verse osisID='Mark.2.7'>He aha enei kupu kohukohu a tenei tangata? ko wai hei muru hara, kotahi tonu ko te Atua anake?</verse>
+        <verse osisID='Mark.2.8'>Na mohio tonu a Ihu i roto i tona wairua, e penei ana o ratou whakaaro i roto i a ratou, a ka mea ia ki a ratou, He aha koutou ka whakaaroaro ai i enei mea i roto i o koutou ngakau?</verse>
+        <verse osisID='Mark.2.9'>Ko tehea te mea takoto noa, ko te mea ki te pararutiki, Ka oti ou hara te muru; ko te mea ranei, Whakatika, tangohia ake tou moenga, haere?</verse>
+        <verse osisID='Mark.2.10'>Otira, kia matau ai koutou he mana muru hara to te Tama a te tangata i runga i te whenua, ka mea ia ki te pararutiki,</verse>
+        <verse osisID='Mark.2.11'>Ko taku kupu tenei ki a koe, Whakatika, tangohia ake tou moenga, haere ki tou whare.</verse>
+        <verse osisID='Mark.2.12'>Na whakatika tonu ake ia, a tangohia ake ana tona moenga, haere atu ana i te aroaro o ratou katoa: no ka miharo ratou katoa ka whakakororia i te Atua, ka mea, Kahore ano tatou i kite noa i te penei.</verse>
+        <verse osisID='Mark.2.13'> A haere atu ana ia i te taha o te moana; na ka tae te mano katoa ki a ia, a ka whakaakona ratou e ia.</verse>
+        <verse osisID='Mark.2.14'>A, i ia e haere ana, ka kite ia i a Riwai tama a Arapiu e noho ana i te wahi tango takoha, ka mea ki a ia, Arumia ahau. Na whakatika ana ia, aru ana i a ia,</verse>
+        <verse osisID='Mark.2.15'>A, i a ia e noho ana i tona whare, he tokomaha nga pupirikana me nga tangata hara e noho tahi ana ki a Ihu ratou ko ana akonga: he tokomaha hoki ratou, a i aru i a ia.</verse>
+        <verse osisID='Mark.2.16'>A, no te kitenga o nga karaipi a nga Parihi i a ia e kai tahi ana me nga pupirikana, me nga tangata hara, ka mea ki ana akonga, Kei te kai tahi ia, kei te inu tahi me nga pupirikana me nga tangata hara.</verse>
+        <verse osisID='Mark.2.17'>A, i te rongonga o Ihu, ka mea ia ki a ratou, Kahore he aha o nga tangata ora e meatia ai e te rata, engari o te hunga e mate ana: kihai hoki ahau i haere mai ki te karanga i te hunga tika, engari i te hunga hara.</verse>
+        <verse osisID='Mark.2.18'> Na kei te nohopuku nga akonga a Hoani ratou ko a nga Parihi: a ka haere mai ratou, ka mea ki a ia, He aha nga akonga a Hoani me a nga Parihi ka nohopuku ai, tena ko au akonga kahore e nohopuku?</verse>
+        <verse osisID='Mark.2.19'>Na ka mea a Ihu ki a ratou, E ahei ranei nga tama o te whare marena te nohopuku i te mea kei a ratou te tane marena hou? e kore ratou e ahei te nohopuku i nga wa kei a ratou nei te tane marena hou.</verse>
+        <verse osisID='Mark.2.20'>Na tera e tae mai nga ra e tangohia ai te tane marena hou i a ratou, katahi ratou ka nohopuku i aua ra.</verse>
+        <verse osisID='Mark.2.21'>E kore e tuia e te tangata tetahi wahi o te kahu hou, hei papaki mo te kahu tawhito; kei riro tetahi wahi o te kahu tawhito i tona whakakapi hou, a ka nui rawa te pakaru.</verse>
+        <verse osisID='Mark.2.22'>E kore hoki e ringihia e te tangata te waina hou ki nga ipu tawhito: kei pakaru nga ipu i te waina hou, a ka maringi te waina, kore ake nga ipu: engari me riringi te waina hou ki nga ipu hou.</verse>
+        <verse osisID='Mark.2.23'>A, i a ia e haere ana i waenga witi i te hapati, ka anga ana akonga ka ka kato haere i nga puku witi.</verse>
+        <verse osisID='Mark.2.24'>Na ka mea nga Parihi ki a ia, Na, he aha ratou ka mahi ai i te mea e kore e tika i te hapati?</verse>
+        <verse osisID='Mark.2.25'>A ka mea ia ki a ratou, Kahore ano koutou i kite noa i ta Rawiri i mea ai, i a ia e ngaua ana e te hiakai, ratou ko ona hoa?</verse>
+        <verse osisID='Mark.2.26'>I tona tomokanga ki te whare o te Atua i nga ra o Apiata tohunga nui, a kainga ana e ia nga taro aroaro, nga mea kihai nei i tika kia kainga, ma nga tohunga anake, a hoatu ana e ia ki ona hoa?</verse>
+        <verse osisID='Mark.2.27'>I mea ano ia ki a ratou, Hei mea mo te tangata te hapati, ehara i te mea ko te tangata mo te hapati,</verse>
+        <verse osisID='Mark.2.28'>Waihoki ko te Tama a te tangata te Ariki o te hapati.</verse>
+      </chapter>
+      <chapter osisID='Mark.3'>
+        <verse osisID='Mark.3.1'> A ka tomo atu ano ia ki te whare karakia; na i reira tetahi tangata kua memenge tona ringa.</verse>
+        <verse osisID='Mark.3.2'>A ka whakamau ta ratou titiro ki a ia, me kore ia e whakaora i a ia i te hapati; he mea kia whakapa ai ratou i tetahi he ki a ia.</verse>
+        <verse osisID='Mark.3.3'>Na ka mea ia ki te tangata i te ringa memenge, Whakatika ki waenganui.</verse>
+        <verse osisID='Mark.3.4'>Na ka mea ia ki a ratou, He mea tika ranei te mahi pai i te hapati, te mahi kino ranei? te whakaora ranei, te whakamate ranei? Heoi kahore ratou i kiki.</verse>
+        <verse osisID='Mark.3.5'>Na ka tirotiro riri ia ki a ratou, he pouri hoki mo te pakeke o o ratou ngakau, ka mea ki taua tangata, Totoro tou ringa. A, ko te toronga o tona ringa, kua ora.</verse>
+        <verse osisID='Mark.3.6'>Na ka haere atu nga Parihi, ka runanga tahi me nga Heroriana mona, ki te pehea e whakangaromia ai ia.</verse>
+        <verse osisID='Mark.3.7'>Na ka maunu atu a Ihu ratou ko ana akonga ki te moana; he nui hoki te tangata i aru i a ia i Kariri, i Huria,</verse>
+        <verse osisID='Mark.3.8'>I Hiruharama, i Irumia, i tawahi hoki o Horano; me te hunga hoki e tata ana ki Taira, ki Hairona, nui atu te huihui; i to ratou rongonga i nga mea i mea ai ia, haere ana ki a ia.</verse>
+        <verse osisID='Mark.3.9'>Na ka mea ia ki ana akonga kia noho tata mai tetahi kaipuke iti ki a ia, i te mano hoki, kei tutetutea ia e ratou.</verse>
+        <verse osisID='Mark.3.10'>He tokomaha hoki i whakaorangia e ia; no ka popo mai ki a ia te hunga katoa e mate ana, kia pa ai ki a ia.</verse>
+        <verse osisID='Mark.3.11'>Me nga wairua poke hoki, i to ratou kitenga i a ia, takoto ana ki tona aroaro, ka karanga, ka mea, Ko te Tama koe a te Atua.</verse>
+        <verse osisID='Mark.3.12'>A he maha ana kupu ki a ratou kia kaua ia e whakaaturia e ratou.</verse>
+        <verse osisID='Mark.3.13'> Na ka kake ia ki te maunga, karangatia ana ki a ia ana i pai ai: a ka tae ratou ki a ia.</verse>
+        <verse osisID='Mark.3.14'>A kotahi tekau ma rua ana i whakarite ai hei hoa mona, hei tononga hoki mana ki te kauwhau,</verse>
+        <verse osisID='Mark.3.15'>Kia whai mana hoki e ora ai nga mate, e peia ai nga rewera:</verse>
+        <verse osisID='Mark.3.16'>A huaina iho e ia a Haimona ko Pita;</verse>
+        <verse osisID='Mark.3.17'>Ko Hemi, tama a Heperi, raua ko Hoani, teina o Hemi; a huaina iho raua ko Poaneki, ara ko nga Tama a te whatitiri;</verse>
+        <verse osisID='Mark.3.18'>Ko Anaru, ko Piripi, ko Patoromu, ko Matiu, ko Tamati, ko Hemi, tama a Arapiu, ko Tariu, ko Haimona Kanaani,</verse>
+        <verse osisID='Mark.3.19'>Ko Hura Ikariote hoki, nana nei ia i tuku. Na ka tae ia ki te whare;</verse>
+        <verse osisID='Mark.3.20'>Na ka huihui ano te mano, no kihai rawa ratou i ahei te kai taro.</verse>
+        <verse osisID='Mark.3.21'>A, no ka rongo ona hoa, ka haere ki te pupuri i a ia: i mea hoki, He porewarewa ia.</verse>
+        <verse osisID='Mark.3.22'> Na ka mea nga karaipi i haere mai ra i Hiruharama, Kei a ia a Perehepura, a na te rangatira o nga rewera tana peinga rewera.</verse>
+        <verse osisID='Mark.3.23'>Na ka karangatia ratou e ia, a ka korero whakarite ki a ratou, Me pehea a Hatana ka pei ai i a Hatana?</verse>
+        <verse osisID='Mark.3.24'>Ki te tahuri iho hoki tetahi rangatiratanga ki a ia ano, e kore taua rangatiratanga e tu.</verse>
+        <verse osisID='Mark.3.25'>Ki te tahuri iho hoki tetahi whare ki a ia ano, e kore taua whare e tu.</verse>
+        <verse osisID='Mark.3.26'>Ki te whakatika a Hatana, a ka tahuri iho ki a ia ano, e kore ia e tu, engari he mutunga tona.</verse>
+        <verse osisID='Mark.3.27'>E kore te tangata e ahei te haere ki roto ki te whare o te tangata kaha, pahua ai i ona taonga, ki te kahore e matua herea te tangata kaha: ko reira pahua ai i tona whare.</verse>
+        <verse osisID='Mark.3.28'>He pono taku e mea nei ki a koutou, Ko nga hara katoa o nga tama a nga tangata e murua, me nga kohukohu e kohukohu ai ratou:</verse>
+        <verse osisID='Mark.3.29'>Tena ko te tangata e kohukohua ai te Wairua Tapu, e kore e murua tona hara a ake ake, engari ka tau te he ki a ia a ake ake:</verse>
+        <verse osisID='Mark.3.30'>Mo ratou i ki, He wairua poke tona.</verse>
+        <verse osisID='Mark.3.31'> A, ko te taenga mai o ona teina ratou ko tona whaea, ka tu i waho, ka tono tangata mai ki a ia, ki te karanga i a ia.</verse>
+        <verse osisID='Mark.3.32'>E noho ana hoki te mano i tetahi taha ona, i tetahi taha, a ka mea ratou ki a ia, Na, tou whaea me ou teina kei waho, e rapu ana i a koe.</verse>
+        <verse osisID='Mark.3.33'>Na ka whakahoki ia ki a ratou, ka mea, Ko wai toku whaea, ko wai hoki oku teina?</verse>
+        <verse osisID='Mark.3.34'>Na ka tirotiro ia ki te hunga e noho ana i tetahi taha ona, i tetahi taha, ka mea, Na, toku whaea, oku teina!</verse>
+        <verse osisID='Mark.3.35'>Ki te meatia hoki e tetahi ta te Atua i pai ai, hei teina ia ki ahau, hei tuahine, hei whaea.</verse>
+      </chapter>
+      <chapter osisID='Mark.4'>
+        <verse osisID='Mark.4.1'> Na ka timata ano ia te whakaako i te taha o te moana: he nui hoki te tangata i huihui ki a ia, no ka eke ia ki runga ki te kaipuke, ka noho ki te moana; i uta te mano katoa i te taha o te moana.</verse>
+        <verse osisID='Mark.4.2'>A he maha ana mea i whakaako ai ki a ratou, he mea whakarite, i mea hoki ki a ratou i a ia e ako ana,</verse>
+        <verse osisID='Mark.4.3'>Whakarongo; Na i haere atu te kairui ki te rui:</verse>
+        <verse osisID='Mark.4.4'>A, i a ia e rui ana, ka ngahoro etahi ki te taha o te ara, a, ko te rerenga mai o nga manu o te rangi, na kainga ake.</verse>
+        <verse osisID='Mark.4.5'>Ko etahi i ngahoro ki te wahi kamaka, ki te wahi kihai i nui te oneone; a pihi tonu ake, kahore hoki i hohonu te oneone.</verse>
+        <verse osisID='Mark.4.6'>A, no te whitinga o te ra, ngaua iho; a, no te mea kahore he putake, memenge noa iho.</verse>
+        <verse osisID='Mark.4.7'>Ko etahi i ngahoro ki roto ki nga tataramoa, a, no te tupunga ake o nga tataramoa, kowaowaotia ana nga purapura, a kore ake he hua.</verse>
+        <verse osisID='Mark.4.8'>Ko etahi i ngahoro ki te oneone pai, a whai hua ana; ka tupu, ka nui, ka ea ake, no etahi e toru tekau, no etahi e ono tekau, no etahi kotahi rau.</verse>
+        <verse osisID='Mark.4.9'>I mea ano ia ki a ratou, Ki te whai taringa tetahi hei whakarongo, kia rongo ia.</verse>
+        <verse osisID='Mark.4.10'>Na ka mahue ko ia anake, ka ui ki a ia ona hoa me te tekau ma rua ki taua kupu whakarite.</verse>
+        <verse osisID='Mark.4.11'>Ka mea ia ki a ratou, Kua hoatu ki a koutou te matauranga ki te mea ngaro o te rangatiratanga o te Atua: ki te hunga ia o waho e ra rototia ana nga mea katoa i te kupu whakarite:</verse>
+        <verse osisID='Mark.4.12'>Mo te titiro rawa atu ratou, na e kore e kite; rongo rawa, na e kore e matau; kei tahuri, a ka murua o ratou hara.</verse>
+        <verse osisID='Mark.4.13'>I mea ano ia ki a ratou, Kahore ranei koutou e matau ki tenei kupu whakarite? a me pehea ka matau ai koutou ki nga kupu whakarite katoa?</verse>
+        <verse osisID='Mark.4.14'>Ko te kairui e rui ana i te kupu.</verse>
+        <verse osisID='Mark.4.15'>Ko enei te hunga i te taha o te ara, i te wahi e ruia ana te kupu; i to ratou rongonga, na haere tonu mai a Hatana, kapohia ake te kupu i ruia ki o ratou ngakau.</verse>
+        <verse osisID='Mark.4.16'>Ko enei te hunga i te taha o te purapura i nga wahi kamaka; ko te hunga, i to ratou rongonga ai i te kupu, hohoro tonu te tango, hari tonu;</verse>
+        <verse osisID='Mark.4.17'>Na kahore o ratou pakiaka, ka whakapakari kau noa: heoi, i te panga o te whakapawera, o te whakatoi ranei mo te kupu, he tonu iho.</verse>
+        <verse osisID='Mark.4.18'>Na ko enei te hunga i nga purapura i roto i nga tataramoa; ko nga mea i rongo ki te kupu,</verse>
+        <verse osisID='Mark.4.19'>A, i te putanga o te whakaaro ki tenei ao, o te hangarau o nga taonga, o nga hiahia ki era atu mea, kowaowaotia iho te kupu, a kore ake he hua.</verse>
+        <verse osisID='Mark.4.20'>Na ko enei te hunga i nga purapura i te oneone pai: ko te hunga e rongo ana ki te kupu, a tango ana, a whai hua ana, o etahi e toru tekau, o etahi e ono tekau, o etahi kotahi rau.</verse>
+        <verse osisID='Mark.4.21'> I mea ano ia ki a ratou, Ko raro koia i te mehua whakatu ai i te rama, ina mauria mai, ko raro ranei i te moenga? he teka ianei me whakatu ki runga ki te turanga?</verse>
+        <verse osisID='Mark.4.22'>E kore hoki tetahi mea i huna e mahue te whakakite; kahore hoki tetahi mea i huna, engari kia puta ki te maramatanga.</verse>
+        <verse osisID='Mark.4.23'>Ki te mea he taringa o tetahi hei whakarongo, kia rongo ia.</verse>
+        <verse osisID='Mark.4.24'>I mea ano ia ki a ratou, Kia tupato ki ta koutou e rongo ai: ko te mehua hoki e mehua ai koutou, hei mehua ano tena ki a koutou: a ka tapiritia ano he mea ma koutou, ma nga kaiwhakarongo.</verse>
+        <verse osisID='Mark.4.25'>Ki te whai mea hoki tetahi, ka hoatu ano ki a ia: ki te kahore he mea a tetahi, ka tangohia i a ia ana ake.</verse>
+        <verse osisID='Mark.4.26'>I mea ano ia, I rite hoki te rangatiratanga o te rangi ki te tangata i maka e ia he purapura ki te oneone;</verse>
+        <verse osisID='Mark.4.27'>A ka moe, ka ara, i te po, i te ao, me te tupu ano tera te purapura, te matau ia na te aha.</verse>
+        <verse osisID='Mark.4.28'>E hua ana hoki te whenua i tona kaha ake ano; ko te rau ki mua, ko reira te puku, muri iho ko te witi pakari i roto i te puku.</verse>
+        <verse osisID='Mark.4.29'>Otira ka rite nga hua, hohoro tonu tana tuku atu i tana toronaihi, kua taea hoki te kotinga.</verse>
+        <verse osisID='Mark.4.30'>I mea ano ia, Me whakarite e tatou te rangatiratanga o te Atua ki te aha? he aha oti te kupu whakarite hei whakaahua atu ma tatou?</verse>
+        <verse osisID='Mark.4.31'>E rite ana ki te pua nani, i tona whakatokanga ki te whenua, ko te iti rawa ia o nga purapura katoa i runga i te whenua:</verse>
+        <verse osisID='Mark.4.32'>Otira, ka oti te whakato, ka tupu, ka nui ake i nga otaota katoa, a ka nunui ona manga: no ka noho nga manu o te rangi i tona taumarumarutanga iho.</verse>
+        <verse osisID='Mark.4.33'>Na he maha ana kupu whakarite pera, i korerotia ai e ia te kupu ki a ratou, ko a ratou i ahei ai te whakarongo.</verse>
+        <verse osisID='Mark.4.34'>A heoi ana kupu ki a ratou he kupu whakarite anake: otiia ka noho ko ratou anake, ka whakaaturia e ia nga mea katoa ki ana akonga.</verse>
+        <verse osisID='Mark.4.35'> Na, i taua ra, i te ahiahi, ka mea ia ki a ratou, Tatou ka whakawhiti ki tawahi.</verse>
+        <verse osisID='Mark.4.36'>Na, ka mahue iho te mano, ka mauria ia e ratou, i runga tonu ano ia i te kaipuke. I a ia ano etahi atu kaipuke.</verse>
+        <verse osisID='Mark.4.37'>Na ko te putanga o tetahi hau, he tupuhi, a eke ana nga ngaru ki runga ki te kaipuke, a tomo noa.</verse>
+        <verse osisID='Mark.4.38'>Na ko ia i te kei i runga i te urunga e moe ana: a ka whakaara ratou i a ia, ka mea ki a ia, E te Kaiwhakaako, kahore ou manawapa ki a tatou ka ngaro?</verse>
+        <verse osisID='Mark.4.39'>Na ka ara ia, a riria iho e ia te hau, ka mea ia ki te moana, Kati, whakamutua. Na mariri tonu iho te hau, takoto ana he marino nui.</verse>
+        <verse osisID='Mark.4.40'>Katahi ia ka mea ki a ratou, He aha ta koutou e mataku nei? he aha koutou te whakapono ai?</verse>
+        <verse osisID='Mark.4.41'>Na ka mataku whakaharahara ratou, ka mea tetahi ki tetahi, Ko wai tenei, ina ka rongo rawa te hau me te moana ki a ia?</verse>
+      </chapter>
+      <chapter osisID='Mark.5'>
+        <verse osisID='Mark.5.1'> A ka whiti ratou ki tawahi o te moana, ki te whenua o nga kararini.</verse>
+        <verse osisID='Mark.5.2'>Na, mahuta kau i te kaipuke, ka tutaki ki a ia tetahi tangata i puta mai i nga urupa, he wairua poke tona,</verse>
+        <verse osisID='Mark.5.3'>Kei nga urupa nei tona nohoanga; a, ahakoa he mekameka, hore rawa ia i taea e tetahi tangata te here.</verse>
+        <verse osisID='Mark.5.4'>He maha hoki ona herenga ki nga here waewae, ki nga mekameka, heoi motumotuhia ana e ia nga mekameka, mongomonga noa ano nga here waewae: kihai tetahi tangata i kaha ki te whakamarie i a ia.</verse>
+        <verse osisID='Mark.5.5'>I nga urupa tonu ia, i nga maunga i te po, i te ao, e hamama ana, e haehae ana i a ia ki te kohatu.</verse>
+        <verse osisID='Mark.5.6'>A, i tona kitenga i a Ihu i tawhiti, oma ana ia, koropiko ana ki a ia.</verse>
+        <verse osisID='Mark.5.7'>He nui tona reo ki te karanga, ka mea, Ko te aha taku ki a koe, e Ihu, e te Tama a te Atua, a te Runga Rawa? ko te Atua taku whakaoati mou, na kaua ahau e whakamamaetia.</verse>
+        <verse osisID='Mark.5.8'>He meatanga hoki nana ki a ia, Puta mai i tenei tangata, e te wairua poke.</verse>
+        <verse osisID='Mark.5.9'>Na ka ui ia ki a ia, Ko wai tou ingoa? Ka whakahokia e tera, ka mea, Ko Rihiona toku ingoa: he tokomaha hoki matou.</verse>
+        <verse osisID='Mark.5.10'>A he nui tana inoi ki a ia kia kaua ratou e tonoa atu i taua whenua.</verse>
+        <verse osisID='Mark.5.11'>Na kei reira, kei nga maunga, tetahi kahui poaka e kai ana, tona tini.</verse>
+        <verse osisID='Mark.5.12'>Na ka inoi nga rewera katoa ki a ia, ka mea, Tonoa matou ki nga poaka, kia tomo matou ki a ratou.</verse>
+        <verse osisID='Mark.5.13'>Na tukua ana ratou e Ihu, Heoi, ko te putanga o nga wairua poke, ka tomo ki nga poaka: ko te tino rerenga o te kahui ra te pari ki te moana, ko te maha kei te rua mano, a paremo iho ki te moana.</verse>
+        <verse osisID='Mark.5.14'>Na whati ana nga kaiwhangai o nga poaka, a korerotia ana ki te pa, ki aua whenua. Na ka puta ratou a kia kite i taua mea kua meatia nei.</verse>
+        <verse osisID='Mark.5.15'>A, no to ratou taenga mai ki a Ihu, ka kite i te tangata i nohoia nei e nga rewera, tera i te rihiona, e noho ana, kua oti te whakakakahu, kua tika nga mahara, ka mataku ratou.</verse>
+        <verse osisID='Mark.5.16'>A ka korerotia ki a ratou, e te hunga i kite, te meatanga ki te tangata i nga rewera, ki nga poaka hoki.</verse>
+        <verse osisID='Mark.5.17'>Na ka anga ratou ka tohe ki a ia kia haere atu i o ratou wahi.</verse>
+        <verse osisID='Mark.5.18'>A, no ka eke ia ki te kaipuke, ka inoi ki a ia te tangata i nga rewera, kia waiho ia hei hoa mona.</verse>
+        <verse osisID='Mark.5.19'>Otira kihai a Ihu i tuku i a ia, engari i mea atu ki a ia, haere ki tou whare, ki ou whanaunga, ka korero ki a ratou i nga mea nui i meinga e te Ariki ki a koe, i tana atawhaitanga hoki i a koe.</verse>
+        <verse osisID='Mark.5.20'>Na ka haere ia, ka anga ka korero ki Rekaporihi, i nga mea nunui i mea ai a Ihu ki a ia: a miharo ana nga tangata katoa.</verse>
+        <verse osisID='Mark.5.21'> A, no te whitinga atu ano o Ihu ki tawahi i runga i te kaipuke, he nui te tangata i huihui ki a ia: i te taha ano ia o te moana.</verse>
+        <verse osisID='Mark.5.22'>Na ko te haerenga mai o tetahi o nga rangatira o te whare karakia, ko Hairuha tona ingoa; ka kite i a ia, ka takoto ki ona waewae,</verse>
+        <verse osisID='Mark.5.23'>He nui tana inoi ki a ia, ka mea, Ko taku tamahine nohinohi kei te whakahemohemo: kia haere ake koe ki te whakapa i ou ringa ki a ia kia ora ai; a ka ora.</verse>
+        <verse osisID='Mark.5.24'>Na haere tahi ana raua; he tini hoki te tangata i aru i a ia, popo tonu ki a ia.</verse>
+        <verse osisID='Mark.5.25'>Na ko tetahi wahine e mate ana i te pakaruhanga toto, ka tekau ma rua nga tau,</verse>
+        <verse osisID='Mark.5.26'>He maha nga meatanga a nga rata tokomaha ki a ia, hemo noa ana rawa katoa, te matutu ake tetahi wahi, heoi kake haere ana te mate;</verse>
+        <verse osisID='Mark.5.27'>A, no tona rongonga ki a Ihu, ka haere i muri i roto i te mano, a pa ana ki tona kakahu.</verse>
+        <verse osisID='Mark.5.28'>I mea hoki, Ahakoa pa kau ahau ki ona kakahu, ka ora ahau.</verse>
+        <verse osisID='Mark.5.29'>A mimiti tonu ake te puna o ona toto; no ka mahara a roto o tona tinana kua ora ia i te mate.</verse>
+        <verse osisID='Mark.5.30'>Na mohio tonu a Ihu kua puta he mana i roto i a ia, ka tahurihuri i roto i te mano, ka mea, Ko wai tenei kua pa nei ki oku kakahu?</verse>
+        <verse osisID='Mark.5.31'>Ka mea ana akonga ki a ia, E kite ana koe i te mano e popo nei ki a koe, a e mea ana koe, Ko wai tenei kua pa mai ki ahau?</verse>
+        <verse osisID='Mark.5.32'>Heoi tirotiro ana ia kia kite i te wahine i mea nei i tenei mea.</verse>
+        <verse osisID='Mark.5.33'>Na ka haere mai te wahine me te wehi, me te wiri, i mahara hoki ki te mea i meatia ki a ia, a takoto ana ki tona aroaro, korerotia katoatia ana e ia te tikanga ki a ia.</verse>
+        <verse osisID='Mark.5.34'>Ano ra ko Ihu ki a ia, E ko, na tou whakapono koe i ora ai; haere marie, kia ora koe i tou mate.</verse>
+        <verse osisID='Mark.5.35'> I a ia ano e korero ana, ka haere mai etahi o nga tangata a te rangatira o te whare karakia, ka mea, Kua mate tau tamahine: hei aha ake mau te whakararuraru i te Kaiwhakaako?</verse>
+        <verse osisID='Mark.5.36'>Otira kahore a Ihu i aro ki te kupu i korerotia, ka mea atu ki te rangatira o te whare karakia, Kaua e wehi, ko te whakapono ia kia whakapono.</verse>
+        <verse osisID='Mark.5.37'>A kihai tetahi tangata i tukua kia haere tahi me ia, ko Pita anake, ko hemi, ko Hoani teina o Hemi.</verse>
+        <verse osisID='Mark.5.38'>A, no te taenga atu ki te whare o te rangatira o te whare karakia, ka kite ia i te ngangau, i te nui hoki o te tangi, o te aue a etahi.</verse>
+        <verse osisID='Mark.5.39'>A, i tona tomokanga ki roto, ka mea ia ki a ratou, He aha koutou ka ngangau ai, ka tangi ai? kahore te kotiro i mate, engari e moe ana.</verse>
+        <verse osisID='Mark.5.40'>Na kataina iho ia e ratou. Heoi, ka oti katoa te pei ki waho, ka mau ia ki te papa, ki te whaea o te kotiro, ratou ko ona hoa, ka tomo ki te wahi i takoto ai te kotiro.</verse>
+        <verse osisID='Mark.5.41'>Na ka mau ia ki te ringa o te kotiro, ka mea ki a ia, Tarita kumi; ko tona whakamaoritanga tenei, E ko, ko taku kupu tenei ki a koe, e ara.</verse>
+        <verse osisID='Mark.5.42'>Na whakatika tonu ake te kotiro, a haere ana; kotahi tekau ma rua hoki ona tau. Na ko te tino miharotanga i miharo ai ratou.</verse>
+        <verse osisID='Mark.5.43'>A he nui tana whakatupato i a ratou, kia kaua tenei e mohiotia e tetahi tangata; ka ki kia hoatu he kai mana.</verse>
+      </chapter>
+      <chapter osisID='Mark.6'>
+        <verse osisID='Mark.6.1'> A i haere ia i reira, a ka tae ki tona kainga tupu; me te aru ano ana akonga i a ia.</verse>
+        <verse osisID='Mark.6.2'>A, ka taka mai te hapati, ka anga ia ka whakaako i roto i te whare karakia; a he tokomaha hoki, i to ratou rongonga, i miharo, i mea, No hea enei mea a tenei tangata? he matauranga aha tenei kua hoatu nei ki a ia, a he aha te tikanga o enei merek ara nunui kua oti nei i ona ringa?</verse>
+        <verse osisID='Mark.6.3'>Ehara ianei tenei i te kamura, i te tama a Meri, i te tuakana o Hemi, o Hohi, o Hura, o Haimona? Kahore ianei ona tuahine i konei, i a tatou nei? Heoi he ana ratou ki a ia.</verse>
+        <verse osisID='Mark.6.4'>Otira ka mea a Ihu ki a ratou, kei tona kainga anake, kei ona whanaunga, kei tona whare, te poropiti hapa ai i te honore.</verse>
+        <verse osisID='Mark.6.5'>A kihai ia i ahei te mea i tetahi merekara ki reira, heoi ano ko te whakapa i ona ringa ki etahi tangata turoro torutoru kia ora ai.</verse>
+        <verse osisID='Mark.6.6'>A miharo ana ia ki to ratou whakaponokore. Na haereerea ana e ia nga kainga a tawhio noa, whakaako ai.</verse>
+        <verse osisID='Mark.6.7'> Katahi ia ka karanga i te tekau ma rua, ka anga ka tono i a ratou tokorua, tokorua; a hoatu ana ki a ratou he mana hei pei i nga wairua poke.</verse>
+        <verse osisID='Mark.6.8'>I whakahau ia ki a ratou, kia kaua tetahi mea e mauria ki te ara, he tokotoko anake; kaua he putea, kaua he taro, kaua he moni mo roto i te whitiki:</verse>
+        <verse osisID='Mark.6.9'>Engari nga hu, e here na; kaua hoki e takiruatia he koti hei kakahu.</verse>
+        <verse osisID='Mark.6.10'>I mea ano ia ki a ratou, Ka tapoko ki tetahi whare, hei reira noho ai a haere noa i reira.</verse>
+        <verse osisID='Mark.6.11'>A, ki te kahore etahi e manako ki a koutou, ki te kore e whakarongo ki a koutou, ina haere atu koutou i reira, ruia atu te puehu i raro i o koutou waewae hei whakaatu ki a ratou. E pono taku e mea atu nei ki a koe, E pai atu mo Hotoma me Komorah a a te ra whakawa, i to tenei pa.</verse>
+        <verse osisID='Mark.6.12'>Na ka haere ratou, ka kauwhau kia ripeneta te tangata.</verse>
+        <verse osisID='Mark.6.13'>He maha hoki nga rewera i peia, he tokomaha ano nga turoro i kaukauria ki te hinu, i whakaorangia.</verse>
+        <verse osisID='Mark.6.14'> A ka rongo a Kingi Herora ki enei mea; nui haere hoki tona ingoa: a ka mea ia, Kua ara a Hoani Kaiiriiri i te hunga mate, na reira i mahi ai nga merekara i roto i a ia.</verse>
+        <verse osisID='Mark.6.15'>Ko etahi i mea, Ko Iraia tenei. Ko etahi, he poropiti ia, he pera ranei me tetahi o nga poropiti.</verse>
+        <verse osisID='Mark.6.16'>Heoi, i te rongonga o Herora, ka mea ia, Ko Hoani tenei i poutoa e ahau te matenga: kua ara ia.</verse>
+        <verse osisID='Mark.6.17'>I tono tangata hoki taua Herora, a hopukia ana a Hoani, herea iho ki te whare herehere, he mea mo Heroriaha, mo te wahine a tona tuakana a Piripi: kua marenatia hoki e ia.</verse>
+        <verse osisID='Mark.6.18'>Na Hoani hoki i mea ki a Herora, E kore e tika kia riro i a koe te wahine a tou tuakana.</verse>
+        <verse osisID='Mark.6.19'>Na ka mauahara a Heroriaha ki a ia, ka mea kia whakamatea ia; heoi kihai i taea:</verse>
+        <verse osisID='Mark.6.20'>I hopohopo hoki a Herora ki a Hoani, i mohio hoki ki a ia he tangata tika, he tapu, na ka ata tiaki i a ia. I tona rongonga ki a ia he nui tona pororaru; a i whakaahuareka ano ki te whakarongo ki a ia.</verse>
+        <verse osisID='Mark.6.21'>A ka tae ki tetahi wa pai, i te takanga ai a Herora i tona ra whanautanga, he hakari ma ana tangata nunui, ma nga rangatira hoia, ma nga tino tangata o Kariri;</verse>
+        <verse osisID='Mark.6.22'>A ka haere te tamahine a taua Heroriaha ki roto, ka kanikani, ka ahuareka a Herora ratou ko te hunga e noho tahi ana, a ka mea te kingi ki te kotiro ra, Mau e tono ki ahau tau e pai ai, a ka hoatu e ahau ki a koe.</verse>
+        <verse osisID='Mark.6.23'>Na ka oati ia ki a ia, Ko tau e tono ai ki ahau, ahakoa ko tetahi taha o toku rangatiratanga, me hoatu e ahau ki a koe.</verse>
+        <verse osisID='Mark.6.24'>Na ka haere ia, ka korero ki tona whaea, Me tono ahau kite aha? Ka mea tera, Ki te matenga o Hoani Kaiiriiri.</verse>
+        <verse osisID='Mark.6.25'>Na hohoro tonu tona haere ki te kingi, ka tono, ka mea, Ko taku e pai ai, kia homai e koe ki ahau aianei ko te matenga o Hoani Kaiiriiri i runga i te rihi.</verse>
+        <verse osisID='Mark.6.26'>Na nui atu te pouri o te kingi; otira i te whakaaro ki ana oati, ki te hunga hoki e noho tahi ana me ia, kihai i pai kia whakakahoretia tana.</verse>
+        <verse osisID='Mark.6.27'>Na tonoa tonutia atu e te kingi tetahi o ana hoia kaitiaki me te whakahau atu kia mauria mai tona matenga: a haere ana tera, poutoa iho e ia tona matenga i roto i te whare herehere,</verse>
+        <verse osisID='Mark.6.28'>A mauria mai ana tona matenga i runga i te rihi, hoatu ana ki te kotiro: a na te kotiro i hoatu ki tona whaea.</verse>
+        <verse osisID='Mark.6.29'>A, no ka rongo ana akonga, ka haere mai ka tangohia tona tinana, a whakatakotoria ana ki te urupa.</verse>
+        <verse osisID='Mark.6.30'> Na ka huihui nga apotoro ki a Ihu, korerotia ana e ratou ki a ia nga mea katoa i mea ai ratou, i whakaako ai.</verse>
+        <verse osisID='Mark.6.31'>Na ka mea ia ki a ratou, Haere mai koutou na na ki te koraha ki te wahi motu ke, kia ta ai te manawa: he tokomaha hoki e haere mai ana, e haere atu ana, no kihai rawa ratou i watea ki te kai.</verse>
+        <verse osisID='Mark.6.32'>A haere puku ana ratou ki te koraha ki tetahi wahi motu ke ra te kaipuke.</verse>
+        <verse osisID='Mark.6.33'>A i kite nga mano i to ratou haerenga, he tokomaha i matau ki a ia, na ka oma a waewae ki reira i roto i nga pa katoa, a ko ratou kua tae wawe.</verse>
+        <verse osisID='Mark.6.34'>A ka puta a Ihu, ka kite i te hui nui, ka aroha ki a ratou, no te mea i rite ratou ki te hipi heparakore: a ka anga ia ka whakaako i a ratou ki nga mea maha.</verse>
+        <verse osisID='Mark.6.35'>Na, kua heke noa atu te ra, ka haere atu ana akonga ki a ia, ka mea, He wahi koraha tenei, kua heke noa atu te ra:</verse>
+        <verse osisID='Mark.6.36'>Tonoa atu ratou kia haere ki nga whenua, ki nga kainga i tetahi taha, i tetahi taha, ki te hoko kai ma ratou.</verse>
+        <verse osisID='Mark.6.37'>Na ka whakahoki ia, ka mea ki a ratou, Ma koutou e hoatu he kai ma ratou. Ka mea ratou ki a ia, Me haere oti matou ki te hoko taro ki nga pene e rua rau, ka hoatu ai hei kai ma ratou?</verse>
+        <verse osisID='Mark.6.38'>Ka mea ia ki a ratou, E hia a koutou taro? Tikina tirohia. Ka mohio ratou, na ka mea, E rima, e rua hoki nga ika.</verse>
+        <verse osisID='Mark.6.39'>Ka mea ia ki a ratou kia meinga ratou katoa kia noho, he nohoanga, he nohoanga, ki runga ki te tarutaru matomato.</verse>
+        <verse osisID='Mark.6.40'>Na ka noho ratou, he ropu, he ropu, tataki rau, tataki rima tekau.</verse>
+        <verse osisID='Mark.6.41'>A ka mau ia ki nga taro e rima, ki nga ika hoki e rua, ka titiro ki runga ki te rangi, ka whakapai, ka whakawhati i nga taro, a hoatu ana ki ana akonga kia whakatakotoria ma ratou; i tuwhaina ano hoki e ia nga ika e rua ma ratou katoa.</verse>
+        <verse osisID='Mark.6.42'>A kai katoa ana ratou, a ka makona.</verse>
+        <verse osisID='Mark.6.43'>A kotahi tekau ma rua nga kete i kohia e ratou, ki tonu i nga whatiwhatinga, i nga ika hoki.</verse>
+        <verse osisID='Mark.6.44'>A me te mea e rima mano nga tane i kai taro ra.</verse>
+        <verse osisID='Mark.6.45'> A akiaki tonu iho ia i ana akonga kia eke ki te kaipuke, kia whakawhiti i mua i a ia ki tawahi, ki Petahaira, i a ia e tono ana i te mano kia haere.</verse>
+        <verse osisID='Mark.6.46'>Na ka mutu tana poroporoaki, ka haere ia ki te maunga ki te inoi.</verse>
+        <verse osisID='Mark.6.47'>Na kua ahiahi, i waenga moana te kaipuke, ko ia anake hoki i uta.</verse>
+        <verse osisID='Mark.6.48'>Na ka kite ia i a ratou e ruwha ana i te hoenga; i he hoki te hau ki a ratou: a i te wha o nga mataaratanga o te po ka haere atu ia ki a ratou, i haere maori atu i runga i te moana, me te mea hoki ka pahika ke i a ratou.</verse>
+        <verse osisID='Mark.6.49'>A, no ka kite ratou i a ia e haere ana i runga i te moana, ka mahara he wairua, ka aue:</verse>
+        <verse osisID='Mark.6.50'>I kite hoki ratou katoa i a ia, a ihiihi ana. Otira ka hohoro ia te korero ki a ratou, ka mea ki a ratou, Kia manawanui: ko ahau tenei; kaua e wehi.</verse>
+        <verse osisID='Mark.6.51'>Na ka eke ia ki te kaipuke ki a ratou; a mariri iho te hau: a nui atu to ratou ohomauri, miharo ana.</verse>
+        <verse osisID='Mark.6.52'>Kihai hoki i mahara ki nga taro: he pakeke hoki no o ratou ngakau.</verse>
+        <verse osisID='Mark.6.53'>A, no to ratou whitinga atu, ka tae ki te whenua o Kenehareta, ka herea te kaipuke ki uta.</verse>
+        <verse osisID='Mark.6.54'>No to ratou mahutatanga i te kaipuke, mohio tonu ratou ki a ia,</verse>
+        <verse osisID='Mark.6.55'>A ka oma puta noa i taua whenua, a tawhio noa, ka anga ka mau mai i nga turoro i runga i nga moenga ki te wahi, i rongo ai ratou kei reira ia.</verse>
+        <verse osisID='Mark.6.56'>A, i ona haerenga katoatanga ki nga kainga, ki nga pa, ki nga whenua ranei, ka whakatakotoria e ratou nga turoro ki nga kainga hokohoko, ka inoi ki a ia kia pa kau atu ratou ki te taniko o tona kakahu: a ora ake nga tangata katoa i pa ki a ia.</verse>
+      </chapter>
+      <chapter osisID='Mark.7'>
+        <verse osisID='Mark.7.1'> Na ka huihui ki a ia nga Parihi, me etahi o nga karaipi i haere mai i Hiruharama.</verse>
+        <verse osisID='Mark.7.2'>A, no to ratou kitenga i etahi o ana akonga e kai taro ana me te noa ano nga ringa, ara kihai i horoia, ka whakahe ratou.</verse>
+        <verse osisID='Mark.7.3'>e kore hoki nga Parihi me nga Hurai katoa e kai, ki te kahore i ata horoia nga ringa, e pupuri ana hoki i te whakarerenga iho a nga kaumatua.</verse>
+        <verse osisID='Mark.7.4'>E kore ano ratou e kai ina hoki mai i te kainga hokohoko, ki te mea kahore i horoi. He maha hoki era atu mea tuku iho kia puritia e ratou, nga horoinga o anga kapu, o nga pata, o nga mea parahi, o nga nohoanga.</verse>
+        <verse osisID='Mark.7.5'>Katahi ka ui nga Parihi me nga karaipi ki a ia, He aha au akonga te haere ai i runga i te whakarerenga iho a nga kaumatua, a kahore e horoi i nga ringa ina kai taro?</verse>
+        <verse osisID='Mark.7.6'>Na ka mea ia ki a ratou, Tika rawa ta Ihaia i poropiti ai mo koutou, mo te hunga tinihanga, te mea hoki i tuhituhia, Ko te iwi nei, ko o ratou ngutu hei whakahonore i ahau, ko o ratou ngakau ia matara noa atu i ahau.</verse>
+        <verse osisID='Mark.7.7'>Otira maumau karakia noa ratou ki ahau, ko ta ratou nei hoki e whakaako ai ko nga whakahau a te tangata.</verse>
+        <verse osisID='Mark.7.8'>Kei te whakarere hoki koutou i ta te Atua kupu ako, ka mau ki te waihotanga iho a te tangata.</verse>
+        <verse osisID='Mark.7.9'>A ka mea ia ki a ratou, Tena ra ta koutou hanga ki te whakakahore i te whakahau a te Atua, kia mau ai koutou ki ta koutou whakarerenga iho.</verse>
+        <verse osisID='Mark.7.10'>I mea hoki a Mohi, Whakahonoretia tou papa me tou whaea; me tenei, Ki te korero kino tetahi mo tona papa, mo tona whaea ranei, kia mate ia, mate rawa:</verse>
+        <verse osisID='Mark.7.11'>Ko koutou ia hei mea, ki te mea tetahi ki tona papa, ki tona whaea ranei, Ko taku mea hei atawhainga mou he Koropana, ara, he mea i hoatu ki te Atua;</verse>
+        <verse osisID='Mark.7.12'>Kahore koutou aianei i te tuku i a ia ki te mea i tetahi aha ma tona papa, ma tona whaea ranei;</verse>
+        <verse osisID='Mark.7.13'>Ka waiho e koutou ta koutou whakarerenga iho, i whakarerea iho nei e koutou, hei whakakahore mo ta te Atua kupu: he maha hoki nga mea pena e meinga ana e koutou.</verse>
+        <verse osisID='Mark.7.14'>Na karangatia ana ano e ia te mano ki a ia, a mea ana ki a ratou, Whakarongo mai koutou katoa, kia matau hoki:</verse>
+        <verse osisID='Mark.7.15'>Kahore he mea o waho o te tangata ka tapoko nei ki roto ki a ia hei whakanoa i a ia: engari nga mea e puta ana mai i roto i a ia, ma ena e noa ai te tangata.</verse>
+        <verse osisID='Mark.7.16'>Ki te whai taringa tetahi hei whakarongo, kia rongo ia.</verse>
+        <verse osisID='Mark.7.17'>A, no ka mawehe ke ia i te mano ki te whare, ka ui ana akonga ki a ia ki te tikanga o tena kupu whakarite.</verse>
+        <verse osisID='Mark.7.18'>Na ka mea ia ki a ratou, Ha, he kuware ano koutou? Kahore koutou i matau, ko nga mea katoa o waho e tapoko nei ki te tangata, e kore ia e noa i era;</verse>
+        <verse osisID='Mark.7.19'>No te mea e kore e tapoko ki tona ngakau, engari ki te kopu a puta ana ki te poka? He korero tenei nana kia kiia ai he ma nga kai katoa.</verse>
+        <verse osisID='Mark.7.20'>I mea ano ia, Ko te mea e puta ake ana i te tangata, ma tera e noa ai te tangata.</verse>
+        <verse osisID='Mark.7.21'>No roto hoki, no te ngakau o nga tangata te putanga o nga whakaaro kino, o nga moepuku,</verse>
+        <verse osisID='Mark.7.22'>O nga tahae, o nga kohuru, o nga puremu, o nga hiahia apo, o nga kino, o te tinihanga, o te hiahia taikaha, o te kanohi kino, o te kohukohu, o te whakapehapeha, o te wairangi:</verse>
+        <verse osisID='Mark.7.23'>No roto te putanga ake o enei kino katoa, a ma reira e noa ai te tangata.</verse>
+        <verse osisID='Mark.7.24'> Na ka whakatika atu ia i reira, ka haere ki nga wahi o Taira, o Hairona; a tomo ana ki tetahi whare, kihai hoki ia i pai kia rongo tetahi tangata: otiia kihai ia i ngaro.</verse>
+        <verse osisID='Mark.7.25'>I reira hoki ka rangona ia e tetahi wahine, he wairua poke to tana kotiro, a haere ana mai, takoto ana ki ona waewae:</verse>
+        <verse osisID='Mark.7.26'>He wahine Kariki hoki ia, ko Hairopinihia tona iwi; ka inoi ki a ia kia peia e ia te rewera i roto i tana kotiro.</verse>
+        <verse osisID='Mark.7.27'>Na ka mea a Ihu ki a ia, Tukua kia matua makona nga tamariki: e kore hoki e pai kia tangohia te taro a nga tamariki, kia maka ma nga kuri.</verse>
+        <verse osisID='Mark.7.28'>Otira ka whakahoki ia, ka mea ki a ia, Ae ra, e te Ariki, e kai ana ano nga kuri i raro i te tepu i nga kongakonga a nga tamariki.</verse>
+        <verse osisID='Mark.7.29'>Na ka mea ia ki a ia, Koia kei tena kupu, haere; kua puta te rewera i roto i tau kotiro.</verse>
+        <verse osisID='Mark.7.30'>A ka haere atu ia ki tona whare, na rokohanga atu e takoto ana tana kotiro i runga i te moenga, kua puta te rewera.</verse>
+        <verse osisID='Mark.7.31'> A i hoki ano ia i nga wahi o Taira, o Hairona, haere ana ki te moana o Kariri, ra waenga o nga wahi o Rekaporihi.</verse>
+        <verse osisID='Mark.7.32'>Na ka mauria mai ki a ia he turi e whango ana; ka tohe ki a ia kia whakapakia iho tona ringa ki a ia.</verse>
+        <verse osisID='Mark.7.33'>Na ka tangohia ia e ia i roto i te mano ki tahaki, a kuhua ana ona maihao ki ona taringa, na ka tuwha, ka whakapa ki tona arero;</verse>
+        <verse osisID='Mark.7.34'>Ka titiro ki te rangi, ka whakapumanawa, ka mea ki a ia, Epata, ara, Kia puare.</verse>
+        <verse osisID='Mark.7.35'>Na puare tonu iho ona taringa, korokoro noa ana te here o tona arero, na kua tika ana korero.</verse>
+        <verse osisID='Mark.7.36'>Katahi ia ka whakatupato i a ratou kia kaua e korerotia ki te tangata: otira ahakoa te nui o tana whakatupato i a ratou, nui noa atu ta ratou korero haere.</verse>
+        <verse osisID='Mark.7.37'>A tino miharo rawa ratou, ka mea, pai tonu tana meatanga i nga mea katoa: e mea ana ia i nga turi kia rongo, i nga wahangu kia korero.</verse>
+      </chapter>
+      <chapter osisID='Mark.8'>
+        <verse osisID='Mark.8.1'> I aua ra i te mea he nui rawa te mano, kahore hoki he kai ma ratou, ka karanga a Ihu ki ana akonga, ka mea ki a ratou,</verse>
+        <verse osisID='Mark.8.2'>E aroha ana ahau ki nga tangata, ka toru nei hoki o ratou ra e noho ana ki ahau, a kahore a ratou kai:</verse>
+        <verse osisID='Mark.8.3'>Ki te tonoa pukutia ratou e ahau ki to ratou kainga, ka hemo ki te ara; i haere mai hoki etahi o ratou i tawhiti.</verse>
+        <verse osisID='Mark.8.4'>Na ka whakahokia e ana akonga ki a ia, Me aha e te tangata ka makona ai enei i te taro i konei, i te koraha?</verse>
+        <verse osisID='Mark.8.5'>Ka ui ia ki a ratou, E hia a koutou taro? Ka mea ratou, E whitu.</verse>
+        <verse osisID='Mark.8.6'>Na ka mea ia ki te mano kia noho ki te whenua: a ka mau ki nga taro e whitu, ka whakawhetai, ka whawhati, a hoatu ana e ia ki ana akonga kia whakatakotoria ki mua i a ratou: whakatakotoria ana e ratou ma te mano.</verse>
+        <verse osisID='Mark.8.7'>He ika ano a ratou torutoru nei, he mea nonohi: a ka mutu te whakapai, ka mea ia kia whakatakotoria hoki era.</verse>
+        <verse osisID='Mark.8.8'>Na kai ana ratou, a ka makona: a kohia ake ana o nga whatiwhatinga i toe e whitu nga kete.</verse>
+        <verse osisID='Mark.8.9'>Me te mea e wha mano te hunga i kai: a tonoa atu ana ratou e ia.</verse>
+        <verse osisID='Mark.8.10'> Na eke tonu ia ratou ko ana akonga ki te kaipuke, a ka tae ki nga wahi o Taramanuta.</verse>
+        <verse osisID='Mark.8.11'>Na ka puta mai nga parihi, ka anga ka totohe ki a ia, ka rapu tohu ki a ia i te rangi, hei whakamatautau mona.</verse>
+        <verse osisID='Mark.8.12'>Na ka hotu tona wairua, ka mea ia, He aha tenei whakatupuranga ka rapu ai ki te tohu? he pono taku e mea nei ki a koutou, E kore e hoatu he tohu ki tenei whakatupuranga.</verse>
+        <verse osisID='Mark.8.13'>Na mahue ake ratou i a ia, a eke ana ano ki te kaipuke, rere ana ki tera taha.</verse>
+        <verse osisID='Mark.8.14'>Na i wareware ratou ki te mau taro, kotahi tonu a ratou taro i te kaipuke.</verse>
+        <verse osisID='Mark.8.15'>Na ka whakatupato ia i a ratou, ka mea, Kia mahara, kia tupato i te rewena a nga Parihi, i te rewena hoki a Herora.</verse>
+        <verse osisID='Mark.8.16'>A ka korerorero ratou ki a ratou ano, ka mea, No te mea kahore a tatou taro.</verse>
+        <verse osisID='Mark.8.17'>Ka mohio a Ihu, ka mea ki a ratou, he aha koutou ka korerorero ai no te mea kahore a koutou taro? kiano koutou i matau noa, kiano i mahara? e pakeke tonu ana ano ranei o koutou ngakau?</verse>
+        <verse osisID='Mark.8.18'>He kanohi nei o koutou, a kahore e kite? he taringa nei o koutou, a kahore e rongo? kahore e mahara?</verse>
+        <verse osisID='Mark.8.19'>I ahau i whawhati i nga taro e rima ma nga mano e rima, e hia nga kete ki o nga whatiwhatinga i kohia e koutou? Ka mea ratou ki a ia, Kotahi tekau ma rua.</verse>
+        <verse osisID='Mark.8.20'>A i nga taro hoki e whitu ma nga mano e wha, e hia nga kete ki o nga whatiwhatinga i kohia e koutou? Ka mea ratou, E whitu.</verse>
+        <verse osisID='Mark.8.21'>Na ka mea ia ki a ratou, Kahore ano ia koutou kia matau noa?</verse>
+        <verse osisID='Mark.8.22'> A ka tae ratou ki Petahaira. Na ka kawea mai e ratou he matapo ki a ia, ka inoi ki a ia kia whakapangia e ia.</verse>
+        <verse osisID='Mark.8.23'>Na ka mau ia ki te ringa o te matapo, ka arahi i a ia ki waho o te kainga; ka tuwha ki ona kanohi, a ka whakapa i ona ringa ki a ia, ka ui ki a ia me kore ia e kite i tetahi mea.</verse>
+        <verse osisID='Mark.8.24'>Na ka titiro ake ia, ka mea, E kite ana ahau i nga tangata e haereere ana me te mea he rakau.</verse>
+        <verse osisID='Mark.8.25'>Me i reira ka whakapakia ano nga ringa ki ona kanohi, ka mea i a ia kia titiro: na ka ora ia, a ka marama te titiro ki nga mea katoa.</verse>
+        <verse osisID='Mark.8.26'>Na ka tono ia i a ia ki tona whare, ka mea atu, Kaua e tomo ki te kainga.</verse>
+        <verse osisID='Mark.8.27'> Na ka haere a Ihu ratou ko ana akonga ki nga kainga o Hiharia Piripai: a i te ara ka ui ia ki ana akonga, ka mea ki a ratou, Ki ta nga tangata ki, ko wai ahau?</verse>
+        <verse osisID='Mark.8.28'>Na ko ta ratou whakahokinga, Ko Hoani Kaiiriiri: ki ta etahi, Ko Iraia; ki ta etahi, Ko tetahi o nga poropiti.</verse>
+        <verse osisID='Mark.8.29'>Na ka mea ia ki a ratou, Ki ta koutou na ki, ko wai ahau? Na ka whakahoki a Pita, ka mea ki a ia, Ko te Karaiti koe.</verse>
+        <verse osisID='Mark.8.30'>Na ka whakatupato ia i a ratou, kia kaua ia e korerotia ki te tangata.</verse>
+        <verse osisID='Mark.8.31'>Katahi ia ka anga ka whakaako i a ratou, kua takoto te tikanga kia maha nga mamae o te Tama a te tangata, kia whakakinongia hoki e nga kaumatua, e nga tohunga nui, e nga karaipi, a kia whakamatea, a kia ara ano ina pahure nga ra e toru.</verse>
+        <verse osisID='Mark.8.32'>I korerotia matanuitia ano taua kupu e ia. Na ka mau a Pita ki a ia, ka anga ka whakahe ki tana.</verse>
+        <verse osisID='Mark.8.33'>Otira ka tahuri ia, a, i te kitenga i ana akonga, ka whakahe ki ta Pita, ka mea, haere ki muri i ahau, e Hatana: kahore hoki ou ngakau ki nga mea a te Atua, engari ki a te tangata.</verse>
+        <verse osisID='Mark.8.34'>Na ka karangatia e ia te mano, ratou ko ana akonga, ka mea ki a ratou, Ki te mea tetahi tangata kia haere mai ki te whai i ahau, me whakakahore ia i a ia ano, me amo i tona ripeka, ka aru ai i ahau.</verse>
+        <verse osisID='Mark.8.35'>Ki te whai tetahi kia ora, ka mate ia; ki te mate hoki tetahi, mona i whakaaro ki ahau, ki te rongopai hoki, ka ora ia.</verse>
+        <verse osisID='Mark.8.36'>A he aha te pai ki te tangata, ki te riro i a ia te ao katoa, a ka kore he ora mona?</verse>
+        <verse osisID='Mark.8.37'>He aha hoki ta te tangata e hoatu ai hei utu mona kia ora?</verse>
+        <verse osisID='Mark.8.38'>Ki te whakama hoki tetahi ki ahau, ki aku korero, i tenei whakatupuranga puremu, kino, ka whakama ano te Tama a te tangata ki a ia, ina haere mai i runga i te kororia o tona Matua, ratou ko nga anahera tapu.</verse>
+      </chapter>
+      <chapter osisID='Mark.9'>
+        <verse osisID='Mark.9.1'> I mea ano ia ki a ratou, He pono taku e mea nei ki a koutou, Tenei ano etahi o te hunga e tu nei, e kore e pangia e te mate, kia kite ra ano i te rangatiratanga o te Atua e haere mai ana i runga i te kaha.</verse>
+        <verse osisID='Mark.9.2'>A, ka pahure nga ra e ono, ka mau a Ihu ki a Pita, ki a Hemi, ki a Hoani, na kawea ana ratou e ia ki runga ki tetahi maunga tiketike, ko ratou anake: a ka puta ke tona ahua i to ratou aroaro.</verse>
+        <verse osisID='Mark.9.3'>Na kanapa tonu ona kakahu, ma tonu me te hukarere; e kore e taea e te kaihoroi i runga i te whenua te mea kia pera te ma.</verse>
+        <verse osisID='Mark.9.4'>Na ka puta mai ki a ratou a Iraia raua ko Mohi: e korerorero ana raua ki a Ihu.</verse>
+        <verse osisID='Mark.9.5'>Na ka oho a Pita, ka mea ki a Ihu, E te Kaiwhakaako, he mea pai kia noho tatou ki konei: na kia hanga e matou etahi wharau kia toru: kia kotahi mou, kia kotahi mo Mohi, kia kotahi mo Iraia.</verse>
+        <verse osisID='Mark.9.6'>Kahore hoki ia i matau ki tana e korero ai; i wehi hoki ratou.</verse>
+        <verse osisID='Mark.9.7'>Na ko tetahi kapua e taumarumaru ana ki runga ki a ratou: a ka puta he reo i te kapua, e mea ana, Ko taku Tama tenei i aroha ai; whakarongo ki a ia.</verse>
+        <verse osisID='Mark.9.8'>A, titiro rawa ake ratou ki tetahi taha, ki tetahi taha, kahore a ratou tangata i kite ai, ko ratou anake, ko Ihu.</verse>
+        <verse osisID='Mark.9.9'>A, i a ratou e heke iho ana i te maunga, ka whakatupato ia i a ratou kia kaua e korerotia ki te tangata a ratou i kite ai, kia ara ra ano te Tama a te tangata i te hunga mate.</verse>
+        <verse osisID='Mark.9.10'>A i puritia taua kupu e ratou, ka uiui ki a ratou ano, he aha ra te aranga ake i te hunga mate.</verse>
+        <verse osisID='Mark.9.11'>A ka ui ratou ki a ia, ka mea, he aha nga karaipi ka mea ai, ko Iraia kia matua puta mai?</verse>
+        <verse osisID='Mark.9.12'>Na ka whakahoki ia, ka mea ki a ratou, E puta ana ano a Iraia i mua ki te whakatika i nga mea katoa; kua oti ano te tuhituhi mo te Tama a te tangata, kia maha ona mamae, kia whakakahoretia.</verse>
+        <verse osisID='Mark.9.13'>Ko taku kupu ia tenei ki a koutou, Kua tae mai ano a Iraia, heoi meatia ana e ratou ki a ia ta ratou i pai ai, nga mea hoki i tuhituhia mona.</verse>
+        <verse osisID='Mark.9.14'> A, no to ratou taenga ki nga akonga, ka kite ratou he rahi te hui e karapoti ana i a ratou, me nga karaipi e totohe ana ki a ratou.</verse>
+        <verse osisID='Mark.9.15'>A, kite kau te mano katoa i a ia, ka miharo, a oma ana, oha ana ki a ia.</verse>
+        <verse osisID='Mark.9.16'>Na ka ui ia ki a ratou, He aha ta koutou e totohe na ki a ratou?</verse>
+        <verse osisID='Mark.9.17'>Na ka whakahoki tetahi i roto i te mano, ka mea, E te Kaiwhakaako, i kawea mai e ahau taku tama ki a koe, he wairua reokore tona;</verse>
+        <verse osisID='Mark.9.18'>A, i nga wahi e hopu ai te wairua i a ia, ka taia iho: tutu ana te huka, tetea ana ona niho, a pakoko haere ana: i mea ano ahau ki au akonga kia peia ia ki waho; heoi kihai i taea e ratou.</verse>
+        <verse osisID='Mark.9.19'>Na ko tana whakahokinga ki a ia, ka mea, E te uri whakaponokore, kia pehea te roa o toku noho ki a koutou? kia pehea te roa o taku manawanui ki a koutou? Kawea mai ki ahau.</verse>
+        <verse osisID='Mark.9.20'>Na kawea ana mai ia ki a ia: a, i tona kitenga i a ia, na haea tonutia iho ia e te wairua; a hinga ana ia ki te whenua, ka oke, ka huka.</verse>
+        <verse osisID='Mark.9.21'>Na ka ui ia ki tona matua, Ka pehea te roa o te mea nei ki a ia? Ka mea ia, No te tamarikitanga:</verse>
+        <verse osisID='Mark.9.22'>He maha ana turakanga i a ia ki te kapura, ki te wai, kia ngaro ai: otira ki te taea e koe te aha ranei, arohaina maua, kia puta tou whakaaro ki a maua.</verse>
+        <verse osisID='Mark.9.23'>Ka mea a Ihu ki a ia, Ki te taea e koe te whakapono, ka taea nga mea katoa e te tangata whakapono.</verse>
+        <verse osisID='Mark.9.24'>Na karanga tonu mai te matua o te tama, ka mea, E whakapono ana ahau, e te Ariki; kia puta tou whakaaro ki toku whakaponokore.</verse>
+        <verse osisID='Mark.9.25'>A, no te kitenga o Ihu i te mano e oma mai ana, ka riria e ia te wairua poke, ka mea ki a ia, E te wairua reokore, turi, ko taku tenei ki a koe, Puta mai i roto i a ia, kaua ano e tomo ki roto ki a ia a muri ake nei.</verse>
+        <verse osisID='Mark.9.26'>Na hamama ana tera, haehae noa iho ana i a ia, a puta ana mai ki waho: no ka pera taua tangata me te tupapaku, a he tokomaha i mea, Kua mate.</verse>
+        <verse osisID='Mark.9.27'>Otira ka mau a Ihu ki tona ringa, ka whakaara i a ia: a ka whakatika ia.</verse>
+        <verse osisID='Mark.9.28'>A, i a ia ka tomo ki te whare, ka ui puku ana akonga ki a ia, he aha matou te ahei ai te pei i a ia ki waho?</verse>
+        <verse osisID='Mark.9.29'>Ano ra ko ia ki a ratou, E kore e puta noa te pena, ma te inoi anake, ma te nohopuku.</verse>
+        <verse osisID='Mark.9.30'> Na ka hapainga e ratou i reira, a haere ana ra waenganui o Kariri; kihai hoki ia i pai kia rangona e tetahi.</verse>
+        <verse osisID='Mark.9.31'>Ko tana hoki i whakaako ai ki ana akonga, i mea ai ki a ratou, Ka tukua te Tama a te tangata ki nga ringa o nga tangata, a ma ratou ia e whakamate; a, ka oti ia te whakamate, ka ara ake i te toru o nga ra.</verse>
+        <verse osisID='Mark.9.32'>Na kihai ratou i matau ki taua kupu, ka mataku hoki ki te ui ki a ia.</verse>
+        <verse osisID='Mark.9.33'>Na ka tae ratou ki Kaperenauma; a, i a ia i roto i te whare, ka ui ia ki a ratou, He aha ta koutou i korerorero ai ki a koutou i te ara?</verse>
+        <verse osisID='Mark.9.34'>Otiia kihai ratou i kiki: ko ta ratou hoki i kore korero ai ki a ratou i te ara, ko wai te mea nui rawa.</verse>
+        <verse osisID='Mark.9.35'>Na ka noho ia, ka karanga i te tekau ma rua, ka mea ki a ratou, Ki te whai tetahi kia whiti ko ia hei mua, ka waiho ia hei muri i te katoa, hei kaimahi ma te katoa.</verse>
+        <verse osisID='Mark.9.36'>Na ka mau ia ki tetahi tamaiti nohinohi, a whakaturia ana ki waenganui i a ratou: na ka okooko i a ia, ka mea ki a ratou,</verse>
+        <verse osisID='Mark.9.37'>Ki te manako tetahi ki tetahi o nga tamariki penei, he whakaaro ki toku ingoa, e manako ana ia ki ahau: ki te manako hoki tetahi ki ahau, ehara i ahau tana i manako ai, engari ko toku kaitono mai.</verse>
+        <verse osisID='Mark.9.38'>Na ka mea a Hoani ki ia, E te Kaiwhakaako, i kite matou i tetahi e pei rewera ana i runga i tou ingoa: na riria iho e matou, kahore hoki ia e haere tahi me tatou.</verse>
+        <verse osisID='Mark.9.39'>Na ka mea a ihu, Kaua ia e riria: ki te mea hoki noku te ingoa e mahi merekara ai tetahi, e kore e hohoro tana korero kino moku.</verse>
+        <verse osisID='Mark.9.40'>Ko ia hoki ehara i te hoariri ki a tatou, no tatou ia.</verse>
+        <verse osisID='Mark.9.41'> Ki te whakainumia koutou e tetahi ki te kapu wai, he whakaaro ki toku ingoa, no te mea no te Karaiti koutou, he pono taku e mea nei ki a koutou, e kore ia e hapa i tona utu.</verse>
+        <verse osisID='Mark.9.42'>Na, ki te mea tetahi kia he tetahi o enei mea nonohi e whakapono nei ki ahau, he pai ke ki a ia me i whakairia tetahi kohatu mira ki tona kaki, a ka maka ia ki te moana.</verse>
+        <verse osisID='Mark.9.43'>Na, ki te he koe i tou ringa, poutoa: pai ke hoki mou te tomo mutu ki te ora i te maka ringaruatia ki Kehena, ki te kapura e kore e tineia:</verse>
+        <verse osisID='Mark.9.44'>Ki te wahi e kore ai e mate to ratou kutukutu, ki te kapura e kore e e tineia.</verse>
+        <verse osisID='Mark.9.45'>Ki te he ano koe i tou waewae, poutoa: pai ke hoki mou te tomo kopa ki te ora i te maka waewaeruatia ki Kehena,</verse>
+        <verse osisID='Mark.9.46'>Ki te wahi e kore ai e mate to ratou kutukutu, ki te kapura e kore e tineia.</verse>
+        <verse osisID='Mark.9.47'>A, ki te he koe i tou kanohi, maka atu: pai ke hoki mou te tomo kanohi tahi ki te rangatiratanga o te Atua i te maka kanohiruatia ki Kehena:</verse>
+        <verse osisID='Mark.9.48'>Ki te wahi e kore ai e mate to ratou kutukutu, ki te kapura e kore e tineia.</verse>
+        <verse osisID='Mark.9.49'>Ta te mea ka totea nga tangata katoa ki te kapura.</verse>
+        <verse osisID='Mark.9.50'>He pai te tote: otira ki te pirau te tote, ma te aha e whai tikanga tote ai? Kia whai tote i roto i a koutou, kia mau hoki te rongo a tetahi ki tetahi.</verse>
+      </chapter>
+      <chapter osisID='Mark.10'>
+        <verse osisID='Mark.10.1'> Na ka whakatika ia i reira, haere ana ki nga wahi o Huria ki tera taha o Horano: na ka huihui mai ano nga mano ki a ia; ka whakaako ano ia i a ratou, ko tana tikanga hoki tera.</verse>
+        <verse osisID='Mark.10.2'>Na ka haere mai nga Parihi, ka ui ki a ia, He mea tika ranei kia whakarere te tangata i tana wahine? he whakamatautau hoki mona.</verse>
+        <verse osisID='Mark.10.3'>Na ka whakahoki ia, ka mea ki a ratou, he aha ta Mohi i mea ai ki a koutou?</verse>
+        <verse osisID='Mark.10.4'>Ka ki ratou, I tukua e Mohi kia tuhituhia he pukapuka whakarere, ka whakarere ai.</verse>
+        <verse osisID='Mark.10.5'>Na ka whakahoki a Ihu, ka mea ki a ratou, Na te pakeke o o koutou ngakau i tuhituhia ai e ia tenei kupu ako ki a koutou.</verse>
+        <verse osisID='Mark.10.6'>I te orokohanganga ia, i hanga raua e te Atua he tane, he wahine.</verse>
+        <verse osisID='Mark.10.7'>Mo konei ka mahue i te tangata tona papa me tona whaea, ka piri ki tana wahine;</verse>
+        <verse osisID='Mark.10.8'>Hei kikokiko kotahi hoki raua tokorua: na heoi ano to raua tokoruatanga, engari kotahi ano kikokiko.</verse>
+        <verse osisID='Mark.10.9'>Na, ko a te Atua i hono ai, kaua e wehea e te tangata.</verse>
+        <verse osisID='Mark.10.10'>A i te whare ka ui ano ana akonga ki a ia ki taua mea.</verse>
+        <verse osisID='Mark.10.11'>Ka mea ia ki a ratou, Ki te whakarere tetahi i tana wahine, a ka marena i tetahi atu, e puremu ana ia, e hara ana ki tera.</verse>
+        <verse osisID='Mark.10.12'>Ki te whakarere hoki te wahine i tana tane, a ka marenatia ki tetahi atu, e puremu ana ia.</verse>
+        <verse osisID='Mark.10.13'> Na ka kawea mai ki a ia etahi tamariki nonohi, kia pa ai ia ki a ratou: otira ka riria e nga akonga te hunga nana i kawe mai.</verse>
+        <verse osisID='Mark.10.14'>No te kitenga ia o Ihu, ka riri, ka mea ki a ratou, Tukua nga tamariki nohohi kia haere mai ki ahau, kaua hoki ratou e araia atu: no nga penei hoki te rangatiratanga o te Atua.</verse>
+        <verse osisID='Mark.10.15'>He pono taku e mea nei ki a koutou, Ki te kahore e rite te tango a tetahi i te rangatiratanga o te Atua ki ta te tamaiti nohinohi, e kore ia e tomo ki roto.</verse>
+        <verse osisID='Mark.10.16'>Na okookona ana ratou e ia, whakapakia iho ona ringa ki a ratou, manaakitia ana ratou.</verse>
+        <verse osisID='Mark.10.17'> Na, i a ia e haere ana i te huarahi, ka oma mai tetahi, ka tuku iho i nga turi ki a ia, ka ui, E te Kaiwhakaako pai, me aha ahau ka whiwhi ai ki te ora tonu?</verse>
+        <verse osisID='Mark.10.18'>Na ka mea a Ihu ki a ia, He aha ahau i kiia ai e koe he pai? kahore tetahi i pai, kotahi anake, ko te Atua.</verse>
+        <verse osisID='Mark.10.19'>E matau ana koe ki nga ture, Kaua e puremu, Kaua e patu tangata, Kaua e tahae, Kaua e whakapae teka, Kaua e kaia, Whakahonoretia tou papa me tou whaea.</verse>
+        <verse osisID='Mark.10.20'>Na ka whakahoki tera, ka mea ki a ia, E te Kaiwhakaako, kua rite katoa enei mea i ahau no toku tamarikitanga ake.</verse>
+        <verse osisID='Mark.10.21'>Na ka titiro a Ihu ki a ia, ka aroha ki a ia, ka mea ki a ia, Kotahi te mea kahore nei i a koe: haere, hokona au mea, ka hoatu ki nga rawakore, a e whai taonga koe ki te rangi: katahi ka haere mai, ka aru i ahau.</verse>
+        <verse osisID='Mark.10.22'>Otira ka tuku tona mata i taua kupu, a haere pouri atu ana: he maha hoki ona taonga.</verse>
+        <verse osisID='Mark.10.23'>Na ka tirotiro a Ihu, ka mea ki ana akonga, Ano te whakauaua o te tapoko o te hunga taonga ki te rangatiratanga o te Atua!</verse>
+        <verse osisID='Mark.10.24'>Na ka miharo nga akonga ki ana kupu. Otira ka whakahoki ano a Ihu, ka mea ki a ratou, E tama ma, ano te whakauaua o te tapoko ki to te Atua rangatiratanga o te hunga e whakawhirinaki ana ki nga taonga!</verse>
+        <verse osisID='Mark.10.25'>Erangi te haere o te kamera ra te kowhao o te ngira he mea takoto noa, he whakauaua rawa ia te haere o te tangata taonga ki roto ki te rangatiratanga o te Atua.</verse>
+        <verse osisID='Mark.10.26'>Na rahi rawa to ratou miharo, ka mea ki a ratou ano, Ko wai ra e ora?</verse>
+        <verse osisID='Mark.10.27'>Na ka titiro a Ihu ki a ratou, ka mea, E kore tenei e taea e te tangata, ki te Atua ia ka taea: e taea hoki nga mea katoa e te Atua.</verse>
+        <verse osisID='Mark.10.28'>Katahi ka anga a Pita ka mea ki a ia, Na kua mahue nei i a matou nga mea katoa, kua aru nei i a koe.</verse>
+        <verse osisID='Mark.10.29'>Na ka whakahoki a Ihu, ka mea, He pono taku e mea nei ki a koutou, Ki te whakarerea e tetahi tangata, he whare, he teina, he tuahine, he whaea, he papa, he tamariki, he mara, he whakaaro nona ki ahau, ki te rongopai hoki,</verse>
+        <verse osisID='Mark.10.30'>Ina, tataki rau nga mea e riro i a ia, i tenei wa, he whare, he teina, he tuahine, he whaea, he tamariki, he mara, me te whakatoi; a, i te ao meake puta, he ora tonu.</verse>
+        <verse osisID='Mark.10.31'>He tokomaha ia o mua e waiho ki muri; ko o muri hoki ki mua.</verse>
+        <verse osisID='Mark.10.32'> Na i te huarahi ratou e haere ana ki Hiruharama; me te haere ano a Ihu i mua i a ratou: na e miharo ana ratou; e aru mataku ana. Heoi ka mau ano ia i te tekau ma rua, ka anga ka korero ki a ratou i nga mea meake pa ki a ia.</verse>
+        <verse osisID='Mark.10.33'>Nana, e haere ana tenei tatou ki Hiruharama; a ka tukua te Tama a te tangata ki nga tohunga nui, ki nga karaipi; ka kiia e ratou kia mate, ka tuku hoki ratou i a ia ki nga tauiwi:</verse>
+        <verse osisID='Mark.10.34'>Ka tawaia ia, ka tuwhaina, ka whiua, ka whakamatea, a i te toru o nga ra ka ara.</verse>
+        <verse osisID='Mark.10.35'>Na ka whakatata mai ki a ia a Hemi raua ko Hoani, nga tama a Heperi, ka mea, E te Kaiwhakaako, e hiahia ana maua kia meatia e koe ta maua e inoi ai.</verse>
+        <verse osisID='Mark.10.36'>Na ka mea ia ki a raua, He aha ta korua e hiahia ai kia meatia e ahau ma korua?</verse>
+        <verse osisID='Mark.10.37'>Ka mea raua ki a ia, Tukua ki a maua kia noho, tetahi ki tou matau, tetahi ki tou maui, i tou kororia.</verse>
+        <verse osisID='Mark.10.38'>Na ko te meatanga a Ihu ki a raua, Kahore korua e matau ki ta korua e inoi nei; e ahei ranei korua te inu i te kapu ka inumia nei e ahau? kia iriiria ki te iriiringa ka iriiria nei ahau?</verse>
+        <verse osisID='Mark.10.39'>Ka mea raua ki a ia, E ahei ano. Ka ki atu a Ihu ki a raua, E inu ano korua i te kapu ka inumia e ahau; e iriiria korua ki te iriiringa e iriiria ai ahau:</verse>
+        <verse osisID='Mark.10.40'>Tena ko te noho ki toku matau, ki toku maui ranei, ehara i te mea maku e hoatu, engari ka riro i te hunga i whakaritea nei mo ratou.</verse>
+        <verse osisID='Mark.10.41'>A, no te rongonga o te tekau, ka anga ka riri ki a Hemi raua ko Hoani.</verse>
+        <verse osisID='Mark.10.42'>Na karangatia ana ratou e Ihu ki a ia, ka mea ki a ratou, E mahara ana koutou, ko te hunga e kiia ana he kawana no nga tauiwi hei whakatupu rangatira ki a ratou; ko o ratou tangata rarahi hoki hei akiaki i a ratou.</verse>
+        <verse osisID='Mark.10.43'>Otira e kore e pera i roto i a koutou: engari ki te mea tetahi kia whakatupu tangata rahi i roto i a koutou, me whakatupu kaimahi ia ma koutou:</verse>
+        <verse osisID='Mark.10.44'>Ki te mea hoki tetahi o koutou kia whakatupu tino tangata, me whakatupu pononga ia ma te katoa.</verse>
+        <verse osisID='Mark.10.45'>Kihai nei hoki te Tama a te tangata i haere mai kia mahia he mea mana, engari kia mahi ia, kia tuku hoki i a ia kia mate hei utu mo nga tangata tokomaha.</verse>
+        <verse osisID='Mark.10.46'> Na ka tae ratou ki Heriko: a, i a ia e haere atu ana i roto i Heriko, ratou ko ana akonga me te mano tini, e noho ana a paratimiuha, tama a Timiuha, he matapo, i te taha o te ara, ki te tono mea mana.</verse>
+        <verse osisID='Mark.10.47'>A, i tona rongonga ko Ihu o Nahareta tena, ka anga ia ka karanga, ka mea, E ihu, e te Tama a Rawiri, kia aroha ki ahau.</verse>
+        <verse osisID='Mark.10.48'>A he tokomaha ki te riri i a ia kia noho puku, heoi tino rahi ake tana karanga, E te Tama a Rawiri, kia aroha ki ahau.</verse>
+        <verse osisID='Mark.10.49'>Na ka tu a Ihu, ka mea kia karangatia ia. A karangatia ana e ratou te matapo, ka mea ki a ia, Kia maia, whakatika; e karanga ana ia ki a koe.</verse>
+        <verse osisID='Mark.10.50'>Na ka whakarerea e ia tona kakahu, a whakatika ana, haere ana ki a Ihu.</verse>
+        <verse osisID='Mark.10.51'>Na ka oho a Ihu, ka mea ki a ia, He aha tau e hiahia na kia meatia e ahau mau? Ka ki te matapo ki a ia, E te Ariki, kia titiro ahau.</verse>
+        <verse osisID='Mark.10.52'>Ka mea a Ihu ki a ia, Haere: na tou whakapono koe i ora ai. Na titiro tonu iho ia, aru ana i a Ihu i te ara.</verse>
+      </chapter>
+      <chapter osisID='Mark.11'>
+        <verse osisID='Mark.11.1'> A, no ka tata ratou ki Hiruharama, ki Petapaki, ki Petani, a ka tae ki Maunga Oriwa, tokorua ana akonga i tonoa e ia,</verse>
+        <verse osisID='Mark.11.2'>A i mea ia ki a raua, Haere ki te kainga e anga mai ana ki a korua: e tomo kau ki reira, ka kite korua i tetahi kuao e here ana, kahore ano kia nohoia e te tangata; wetekina, arahina mai.</verse>
+        <verse osisID='Mark.11.3'>A ki te ki mai tetahi tangata ki a korua, He aha tenei ka meinga ai e korua? ka mea atu, E mea ana te Ariki ki a ia mana: na ka tukua tonutia mai ki konei.</verse>
+        <verse osisID='Mark.11.4'>Na haere ana raua, ka kite i te kuao e here ana ki te kuwaha i waho i te ara; a wetekina ana e raua.</verse>
+        <verse osisID='Mark.11.5'>A ka mea etahi o te hunga e tu ana i reira ki a raua, he aha ta korua e wewete na i te kuao?</verse>
+        <verse osisID='Mark.11.6'>Na ka korerotia e raua ki a ratou ta Ihu i mea ai: a tukua ana raua e ratou.</verse>
+        <verse osisID='Mark.11.7'>Ka arahina te kuao ki a Ihu, na wharikitia ana o raua kakahu ki runga ki a ia; a noho ana ia i runga.</verse>
+        <verse osisID='Mark.11.8'>Na he tokomaha i whariki i o ratou kakahu ki te ara: ko etahi i kokoti i nga manga o nga rakau, wharikitia ana ki te ara.</verse>
+        <verse osisID='Mark.11.9'>Ko te hunga i haere i mua, me te hunga i haere i muri, i karanga, i mea, Ohana: Ka whakapaingia ia e haere mai ana i runga i te ingoa o te Ariki:</verse>
+        <verse osisID='Mark.11.10'>Ka whakapaingia te rangatiratanga e haere mai ana, te rangatiratanga o to tatou matua o Rawiri: Ohana i runga rawa.</verse>
+        <verse osisID='Mark.11.11'>Na ka tomo a Ihu ki Hiruharama, ki roto hoki ki te temepara: a, ka mutu tana tirotiro i nga mea katoa, ko te wa hoki o te ahiahi, ka haere ratou ko te tekau ma rua ki Petani.</verse>
+        <verse osisID='Mark.11.12'> Na, i te aonga ake, i a ratou kua puta i Petani, ka hiakai ia:</verse>
+        <verse osisID='Mark.11.13'>A, i tona kitenga i tetahi piki i tawhiti, he rau ona, ka haere ia, me kore e kitea tetahi mea i runga: a, no tona taenga, kihai i kitea e ia tetahi mea, he rau anake: ehara hoki i te wa o te piki.</verse>
+        <verse osisID='Mark.11.14'>Na ka oho a Ihu, ka mea ki taua rakau, Kaua rawa te tangata e kai i tetahi hua ou ake tonu atu; me te whakarongo ano ana akonga.</verse>
+        <verse osisID='Mark.11.15'>A ka tae ratou ki Hiruharama: na ka tomo a Ihu ki te temepara, ka anga ki te pei ki waho i te hunga e hoko atu ana, e hoko mai ana i roto i te temepara, a whakatahuritia ake nga tepu o nga kaiwhakawhitiwhiti moni, me nga nohoanga o nga kaihoko k ukupa;</verse>
+        <verse osisID='Mark.11.16'>A kihai i tukua e ia kia mauria tetahi oko e te tangata ra te temepara.</verse>
+        <verse osisID='Mark.11.17'>A i whakaako ia, i mea ki a ratou, Kahore koia i tuhituhia, Ka kiia toku whare he whare inoi mo nga tauiwi katoa? otiia kua meinga nei e koutou hei ana mo nga kaipahua.</verse>
+        <verse osisID='Mark.11.18'>I rongo hoki nga tohunga nui me nga karaipi, a ka rapu ki te pehea e whakangaromia ai ia: i mataku hoki ratou i a ia, no te mea i miharo te mano katoa ki tana ako.</verse>
+        <verse osisID='Mark.11.19'>A i nga ahiahi ka haere ia ki waho o te pa.</verse>
+        <verse osisID='Mark.11.20'>A, i te ata i a ratou e haere ana, ka kite i te piki, kua maroke ake i nga pakiaka.</verse>
+        <verse osisID='Mark.11.21'>Na ka mahara a Pita, ka mea ki a ia, E te Kaiwhakaako, na, te piki i kanga ra e koe, kua maroke.</verse>
+        <verse osisID='Mark.11.22'>Na ka whakahoki a Ihu, ka mea ki a ratou, Kia mau te whakapono ki te Atua.</verse>
+        <verse osisID='Mark.11.23'>He pono hoki taku e mea nei ki a koutou, Ki te mea tetahi ki tenei maunga, Kia ranga atu koe, kia whakataka ki te moana: e kore hoki e ruarua tona ngakau, engari ka whakapono ia tera e puta mai nga mea i kiia e ia; ka whiwhi ia ki tana i mea ai.</verse>
+        <verse osisID='Mark.11.24'>Koia ahau ka mea nei ki a koutou, Ko nga mea katoa e tono ai koutou ina inoi, me whakapono ka riro mai i a koutou, a ka whiwhi koutou.</verse>
+        <verse osisID='Mark.11.25'>A, ka tu koutou, ka karakia, ki te mea he take riri ta koutou ki tetahi, murua: kia murua ai hoki o koutou he e to koutou Matua i te rangi.</verse>
+        <verse osisID='Mark.11.26'>Na ki te kore koutou e muru, e kore ano to koutou Matua i te rangi e muru i o koutou he.</verse>
+        <verse osisID='Mark.11.27'> Na ka tae ano ratou ki Hiruharama: a, i a ia e haereere ana i te temepara, ka haere mai ki a ia nga tohunga nui, me nga karaipi, me nga kaumatua:</verse>
+        <verse osisID='Mark.11.28'>Ka mea ki a ia, Tena, te mana i meatia ai enei mea e koe? na wai hoki tenei mana i hoatu ki a koe, i mea ai koe i enei mea?</verse>
+        <verse osisID='Mark.11.29'>Na ka whakahoki a Ihu, ka mea ki a ratou, Maku hoki e ui ki a koutou kia kotahi kupu, ma koutou e whakahoki mai ki ahau, katahi ka korerotia e ahau ki a koutou te mana i mea ai ahau i enei mea.</verse>
+        <verse osisID='Mark.11.30'>Ko te iriiringa a Hoani, no te rangi, no te tangata ranei? korerotia mai ki ahau.</verse>
+        <verse osisID='Mark.11.31'>A ka korerorero ratou ki a ratou ano, ka mea, Ki te mea tatou, No te rangi; ka mea ia, ha, he aha koutou te whakapono ai ki a ia?</verse>
+        <verse osisID='Mark.11.32'>A ki te mea tatou, No te tangata; ka mataku ratou i te iwi: ki ta ratou katoa hoki he poropiti pono a Hoani.</verse>
+        <verse osisID='Mark.11.33'>Na ka whakahoki ratou, ka mea ki a Ihu, Kahore matou e matau. Na ka mea a Ihu ki a ratou, E kore ano e korerotia e ahau ki a koutou te mana i mea ai ahau i enei mea.</verse>
+      </chapter>
+      <chapter osisID='Mark.12'>
+        <verse osisID='Mark.12.1'> Na ka timata ia ki te korero kupu whakarite ki a ratou. I whakataiepatia ana ki te taiepa, na ka keria te takotoranga waina, hanga ana tetahi whare tiketike, tukua ana e ia ki nga kaimahi, na ko tona haerenga ki tawhiti.</verse>
+        <verse osisID='Mark.12.2'>A i te po i tika ai ka tonoa e ia he pononga ki nga kaimahi ki te tiki i etahi hua o te mara waina i a ratou.</verse>
+        <verse osisID='Mark.12.3'>Na ka mau ratou ki a ia, a whiua ana, tonoa kautia atu ana.</verse>
+        <verse osisID='Mark.12.4'>Na ka tonoa ano e ia ki a ratou tetahi atu pononga; a ka akina ia e ratou ki te kohatu, ngawha iho tona matenga, a ka tukinotia ia e ratou ka tonoa atu.</verse>
+        <verse osisID='Mark.12.5'>Na ka tonoa ano e ia tetahi atu; a whakamatea iho ia e ratou; me era atu, tona tini, ko etahi i whiua, ko etahi i whakamatea.</verse>
+        <verse osisID='Mark.12.6'>Na kotahi ake ano tana, he tama aroha nana, ko ia o muri rawa i tonoa ai e ia ki a ratou, i mea hoki ia, E hopohopo ratou ki taku tama.</verse>
+        <verse osisID='Mark.12.7'>Na ka mea aua kaimahi ki a ratou ano, Ko te tangata tenei mona te kainga; tena, tatou ka whakamate i a ia, a mo tatou te kainga.</verse>
+        <verse osisID='Mark.12.8'>Na ka mau ratou ki a ia, whakamatea iho, maka ana ki waho o te mara waina.</verse>
+        <verse osisID='Mark.12.9'>Na, ka pehea te rangatira o te mara waina? ka haere ia, ka whakangaro i nga kaimahi, ka hoatu te mara waina ki etahi atu.</verse>
+        <verse osisID='Mark.12.10'>Kahore koia koutou i kite i tenei karaipiture; Ko te kohatu i kapea e nga kaihanga kua meinga hei mo te kokonga:</verse>
+        <verse osisID='Mark.12.11'>Na te Ariki tenei, a he mea whakamiharo hoki ki a tatou kanohi?</verse>
+        <verse osisID='Mark.12.12'>Na ka whai ratou kia hopukina ia, otiia i mataku i te mano: i matau hoki ratou mo ratou te kupu whakarite i korerotia nei e ia: na whakarerea ana ia, haere ana ratou.</verse>
+        <verse osisID='Mark.12.13'> Na ka tonoa mai e ratou ki a ia etahi o nga parihi, ratou ko nga Heroriana, hei hopu mo tetahi kupu ana.</verse>
+        <verse osisID='Mark.12.14'>A, no to ratou taenga mai, ka mea ki a ia, E te Kaiwhakaako, e matau ana matou he kupu pono tau, e kore ano ta te tangata e whakaaroa e koe; e kore ano koe e titiro ki te kanohi tangata, engari ka whakaako i te ara a te Atua i runga i te pono. H e mea tika ranei te hoatu takoha ki a Hiha, ehara ranei?</verse>
+        <verse osisID='Mark.12.15'>Me hoatu ranei e matou, kaua ranei e hoatu? Otira i mohio ia ki to ratou tinihanga, ka mea ki a ratou, He aha koutou ka whakamatautau ai i ahau? mauria mai he pene ki ahau, kia kite ahau.</verse>
+        <verse osisID='Mark.12.16'>A mauria ana mai. Na ko tana meatanga ki a ratou, No wai tenei ahua me te tuhituhinga? Ka mea ratou ki a ia, No Hiha.</verse>
+        <verse osisID='Mark.12.17'>Na ka whakahoki a Ihu, ka mea ki a ratou, Hoatu ki a Hiha nga mea a Hiha, ki te Atua nga mea a te Atua. A miharo ana ratou ki a ia.</verse>
+        <verse osisID='Mark.12.18'> Na ka haere mai ki a ia nga Haruki, e mea nei kahore he aranga; ka ui ki a ia, ka mea,</verse>
+        <verse osisID='Mark.12.19'>E te kaiwhakaako, i tuhituhi a Mohi ki a matou, Ki te mate te tuakana o tetahi tangata, mahue iho tana wahine, kahore he tamariki hei waihotanga iho, me tango tana wahine e tona teina, ka whakatupu uri ai mo tona tuakana.</verse>
+        <verse osisID='Mark.12.20'>Na tera tetahi whanau, tokowhitu, he tuakana, he teina: ka tango to mua i te wahine, ka mate, a kahore he uri hei waihotanga iho.</verse>
+        <verse osisID='Mark.12.21'>Katahi ka tango te tuarua i a ia, ka mate, kahore ano hoki ona uri hei waihotanga iho: pera tonu ano hoki te tuatoru.</verse>
+        <verse osisID='Mark.12.22'>I tango ano te tokowhitu i a ia, a kahore o ratou uri hei waihotanga iho: muri rawa iho ka mate ko te wahine.</verse>
+        <verse osisID='Mark.12.23'>Na, i te aranga, i te mea ka ara ratou, ma wai o ratou te wahine? he wahine hoki ia na ratou tokowhitu.</verse>
+        <verse osisID='Mark.12.24'>Na ka whakahoki a Ihu, ka mea ki a ratou, Ehara ianei tenei i te mea i he ai koutou, kahore nei hoki e mohio ki nga karaipiture, ki te kaha hoki o te Atua?</verse>
+        <verse osisID='Mark.12.25'>I te mea hoki ka ara mai ratou i te hunga mate, e kore e marena, e kore ano e hoatu kia marenatia; engari ka rite ki nga anahera o te rangi.</verse>
+        <verse osisID='Mark.12.26'>Na mo te hunga mate, mo to ratou aranga mai: kahore koutou i kite i roto i te pukapuka a Mohi, i te wahi ki te Rakau, i ta te Atua i ki ai ki a ia, i mea ai, Ko te Atua ahau o Aperahama, ko te Atua o Ihaka, ko te Atua o Hakopa?</verse>
+        <verse osisID='Mark.12.27'>Ehara ia i te Atua no te hunga mate, engari he Atua no te hunga ora: na nui atu to koutou he.</verse>
+        <verse osisID='Mark.12.28'> A, ko te haerenga mai o tetahi o nga karaipi, ko te rongonga ki a ratou e totohe ana, ka kite he pai tana whakahoki ki a ratou, ka ui ki a ia, Ko tehea te tuatahi o nga ture katoa?</verse>
+        <verse osisID='Mark.12.29'>Na ko te whakahokinga a Ihu ki a ia, Ko te tuatahi o nga ture katoa, Whakarongo, e Iharaira: Ko te Ariki, ko to tatou Atua, he Ariki kotahi:</verse>
+        <verse osisID='Mark.12.30'>Kia whakapaua hoki tou ngakau, tou wairua, tou hinengaro, tou kaha, ki te aroha ki te Ariki, ki tou Atua: ko te ture tuatahi tenei.</verse>
+        <verse osisID='Mark.12.31'>Ko te tuarua tenei, Kia aroha koe ki tou hoa tata, ano ko koe. Kahore he ture ke atu e rahi ake ana i enei.</verse>
+        <verse osisID='Mark.12.32'>Na ka mea te karaipi ki a ia, he pono, e te Kaiwhakaako, he tika tau korero kotahi tonu ia, a kahore tetahi ko ia anake:</verse>
+        <verse osisID='Mark.12.33'>A ko te whakapau i te ngakau, i te hinengaro, i te wairua, i te kaha, ki te aroha ki a ia, me te aroha ki tona hoa tata, ano ko ia, nui atu ena i nga tahunga tinana, i nga patunga tapu katoa.</verse>
+        <verse osisID='Mark.12.34'>A, no te kitenga o ihu he kupu mohio tana i whakahoki ai, ka mea ki a ia, Kahore koe i matara atu i te rangatiratanga o te Atua. A kihai tetahi tangata i maia ki te ui ki a ia i muri iho.</verse>
+        <verse osisID='Mark.12.35'> Na ka ki a Ihu, ka mea, i a ia e whakaako ana i roto i te temepara, Na te aha nga karaipi ka mea ai, he tama na Rawiri a te Karaiti?</verse>
+        <verse osisID='Mark.12.36'>Na Rawiri ake hoki te kupu i roto i te Wairua Tapu, I mea te Ariki ki toku Ariki, hei toku matau koe noho ai, kia meinga ra ano e ahau ou hoariri hei turanga waewae mou.</verse>
+        <verse osisID='Mark.12.37'>Ko Rawiri tonu tenei e karanga nei ki a ia he Ariki; a no hea ia i tama ai ki a ia? A ahuareka ana te mano tini ki te whakarongo ki a ia.</verse>
+        <verse osisID='Mark.12.38'>Na i mea ano ia ki a ratou i tana akoranga, Kia tupato ki nga karaipi, ko ta ratou e rawe ai ko te haereere i roto i nga kakahu roroa, me nga ohatanga i nga kainga hokohoko,</verse>
+        <verse osisID='Mark.12.39'>Me nga nohoanga rangatira i nga whare karakia, me nga nohoanga rangatira i nga hakari:</verse>
+        <verse osisID='Mark.12.40'>Ka pau nei i a ratou nga whare o nga pouaru, a ka maminga ki te inoi roa: he nui rawa te mate e pa ki enei.</verse>
+        <verse osisID='Mark.12.41'> A ka noho a Ihu i te ritenga atu o te takotoranga moni, ka matakitaki ki te mano e panga moni ana ki te takotoranga moni: a he tokomaha nga tangata whai taonga i panga moni maha ki roto.</verse>
+        <verse osisID='Mark.12.42'>Na ko te haerenga mai o tetahi pouaru rawakore, ka maka i nga mea nohinohi, e rua, kotahi patena ki te huia.</verse>
+        <verse osisID='Mark.12.43'>Na ka karangatia e ia ana akonga, ka mea ki a ratou, he pono taku e mea nei ki a koutou, Ko ta tenei pouaru rawakore i maka ai, nui atu i a ratou katoa e maka ra kite takotoranga moni:</verse>
+        <verse osisID='Mark.12.44'>Ko ratou katoa hoki, he hira nei o ratou taonga, i maka ko tetahi wahi; tena ko ia i tona rawakoretanga i maka i ana mea katoa, ara i tona oranga katoa.</verse>
+      </chapter>
+      <chapter osisID='Mark.13'>
+        <verse osisID='Mark.13.1'> A, i a ia e haere atu ana i te temepara, ka mea tetahi o ana akonga ki a ia, E te Kaiwhakaako, nana, te tu o nga kohatu, te tu o nga whare!</verse>
+        <verse osisID='Mark.13.2'>Na ka whakahoki a Ihu, ka mea ki a ia, Ka kite koe i enei whare nunui? e kore tetahi kohatu e waiho i konei i runga ake i tetahi kohatu, engari ka whakahoroa.</verse>
+        <verse osisID='Mark.13.3'>A, i a ia e noho ana i runga i Maunga Oriwa i te ritenga atu o te temepara, ka ui puku ki a ia a Pita, a Hemi, a Hoani, a Anaru,</verse>
+        <verse osisID='Mark.13.4'>Korerotia mai ki a matou, ko ahea enei mea, a he aha te tohu ina tata enei mea katoa te rite?</verse>
+        <verse osisID='Mark.13.5'> Na ka anga ia, ka korero ki a ratou, Kia tupato kei mamingatia koutou e te tangata:</verse>
+        <verse osisID='Mark.13.6'>He tokomaha hoki e haere mai i runga i toku ingoa, e mea, Ko ahau ia; a he tokomaha e mamingatia.</verse>
+        <verse osisID='Mark.13.7'>E rongo koutou ki nga pakanga, ki nga hau pakanga, kei ohorere: kua takoto hoki he putanga mo aua mea; taihoa rawa ia te mutunga.</verse>
+        <verse osisID='Mark.13.8'>Ka whakatika hoki tetahi iwi ki tetahi iwi, tetahi rangatiratanga ki tetahi rangatiratanga: a he tini nga wahi e puta ai he ru; ka puta ano hoki he po matekai: ko te timatanga enei o nga mamae.</verse>
+        <verse osisID='Mark.13.9'>Na, kia tupato ki a koutou: ka tukua hoki koutou ki nga runanga; ka whiua koutou i roto i nga whare karakia; a ka whakaturia koutou ki te aroaro o nga kawana, o nga kingi, mo te whakaaro ki ahau, hei mea whakaatu ki a ratou.</verse>
+        <verse osisID='Mark.13.10'>Kua takoto ia te tikanga kia matua kauwhautia te rongopai ki nga tauiwi katoa.</verse>
+        <verse osisID='Mark.13.11'>Ina arahina koutou ki te whakawa, a ka tukua atu, kaua e manukanuka wawe ki ta koutou e korero ai: engari ko te mea e hoatu ki a koutou i taua haora, ko tena ta koutou e korero ai: ehara hoki i te mea ma koutou nga korero, engari ma te Wairua Ta pu.</verse>
+        <verse osisID='Mark.13.12'>Na ka tukua te tuakana e te teina ki te mate, te tamaiti hoki e te papa; a ka whakatika nga tamariki ki nga matua, ka mea kia whakamatea.</verse>
+        <verse osisID='Mark.13.13'>A ka kinongia koutou e nga tangata katoa, he mea mo toku ingoa: ko te tangata ia e u ana a taea noatia te mutunga, ko ia e ora.</verse>
+        <verse osisID='Mark.13.14'> A, ki te kite koutou i te mea whakarihariha, i te mea whakangaro e tu ana i te wahi e kore e tika, kia matau te kaititiro pukapuka, ko reira me rere te hunga i Huria ki nga maunga:</verse>
+        <verse osisID='Mark.13.15'>Ko te tangata hoki i runga i te whare kaua e heke iho ki roto ki te whare, kaua hoki e tomo ki te tiki i tetahi mea i roto i tona whare:</verse>
+        <verse osisID='Mark.13.16'>Kaua ano te tangata i te mara e hoki ki muri, ki te tiki i tona kakahu.</verse>
+        <verse osisID='Mark.13.17'>Aue te mate mo te hunga e hapu ana, mo nga mea hoki e whangai ana ki te u, i aua ra!</verse>
+        <verse osisID='Mark.13.18'>Ma koutou ia e inoi kei rokohanga koutou e te whati i te hotoke.</verse>
+        <verse osisID='Mark.13.19'>He whakapawera hoki aua ra, kahore ona rite o te orokohanganga ra ano i hanga nei e te Atua, a mohoa noa nei, kahore hoki he pera a muri ake nei.</verse>
+        <verse osisID='Mark.13.20'>Me i kahore hoki aua ra i poroa i waenga e te Ariki, e kore tetahi kikokiko e ora: otira ka whakaaroa te hunga whiriwhiri i whiriwhiria e ia, a poroa ana aua ra i waenga.</verse>
+        <verse osisID='Mark.13.21'>Ki te mea tetahi ki a koutou i reira, Na, tenei a te Karaiti; Na, tera: kaua e whakaponohia:</verse>
+        <verse osisID='Mark.13.22'>E whakatika hoki nga Karaiti teka, me nga poropiti teka, ka whakaatu i nga tohu me nga mea whakamiharo, a me i taea, ka mamingatia e ratou te hunga whiriwhiri.</verse>
+        <verse osisID='Mark.13.23'>Kia tupato ra koutou: na, kua korerotia wawetia nei e ahau nga mea katoa ki a koutou.</verse>
+        <verse osisID='Mark.13.24'> Na, i aua ra, i muri iho i taua whakapawera, ka whakapouritia te ra, e kore hoki e titi te atarau.</verse>
+        <verse osisID='Mark.13.25'>Ka taka iho nga whetu o te rangi, ka ngaueue nga mea kaha o nga rangi.</verse>
+        <verse osisID='Mark.13.26'>Na ko reira kitea ai te Tama a te tangata e haere mai ana i runga i nga kapua, me te kaha nui, me te kororia.</verse>
+        <verse osisID='Mark.13.27'>Ko reira ano ia tono ai i ana anahera, a ka huihuia ana i whiriwhiri ai i nga hau e wha, i te pito o te whenua tae noa ki te pito o te rangi.</verse>
+        <verse osisID='Mark.13.28'> Na kia akona koutou e te piki ki tetahi kupu whakarite: I tona manga e ngawari ana, e puta ana hoki nga rau, ka mohio koutou ka tata te raumati:</verse>
+        <verse osisID='Mark.13.29'>Waihoki ko koutou, ina kite i enei mea e pauta mai ana, ka matau ka tata ia, kei nga kuwaha.</verse>
+        <verse osisID='Mark.13.30'>He pono taku e mea nei ki a koutou, E kore tenei whakatupuranga e pahemo, kia puta ra ano enei mea katoa.</verse>
+        <verse osisID='Mark.13.31'>Ko te rangi me te whenua e pahemo: ko aku kupu ia e kore e pahemo.</verse>
+        <verse osisID='Mark.13.32'>Otiia kahore tetahi tangata e matau ki taua ra, ki taua haora, kahore nga anahera o te rangi, kahore te Tama, ko te Matua anake.</verse>
+        <verse osisID='Mark.13.33'>Kia tupato, kia mataara, me te inoi ano: kahore hoki koutou e matau ki te wa, ko a hea ranei.</verse>
+        <verse osisID='Mark.13.34'>Ka rite hoki ki te tangata e haere ana ki tawhiti, mahue iho i a ia tona whare, a tukua iho e ia nga tikanga ki ana pononga, tana mahi ma tetahi, ma tetahi, ka whakahau iho hoki ki te kaitiaki tatau kia mataara.</verse>
+        <verse osisID='Mark.13.35'>Ae ra, kia mataara: kahore hoki koutou e matau ki te wa e haere mai ai te rangatira o te whare, ko te ahiahi, ko waenganui po ranei, ko te tangihanga o te heihei, ko te atatu ranei:</verse>
+        <verse osisID='Mark.13.36'>Kei puta whakarere mai, ka rokohanga koutou e ia e moe ana.</verse>
+        <verse osisID='Mark.13.37'>Na, ko taku ka mea atu nei ki a koutou, e meatia ana ano ki te katoa, Kia mataara.</verse>
+      </chapter>
+      <chapter osisID='Mark.14'>
+        <verse osisID='Mark.14.1'> Na, kia rua ake nga ra ko te kapenga me te hakari o te taro rewenakore: na ka rapu nga tohunga nui me nga karaipi i tetahi tinihanga e mau ai ia, e whakamatea ai.</verse>
+        <verse osisID='Mark.14.2'>I mea hoki ratou, Kauaka i te hakari, kei ngangau te iwi.</verse>
+        <verse osisID='Mark.14.3'>A, i a ia i Petani i te whare o Haimona repera, i a ia ano e noho ana ka haere mai tetahi wahine me tetahi pouaka kohatu, ki tonu i te hinu kakara, he tino nara, he mea utu nui; a wahia ana e ia te pouaka kohatu, ringihia ana ki tona matenga.</verse>
+        <verse osisID='Mark.14.4'>I riri ano etahi i roto i a ratou, i mea, Hei aha tenei maumau o te hinu kakara?</verse>
+        <verse osisID='Mark.14.5'>Maha atu hoki i te toru rau nga pene te utu me i hokona tenei hinu, na ka hoatu ki te hunga rawakore. Na ka amuamu ratou ki a ia.</verse>
+        <verse osisID='Mark.14.6'>Ka mea atu a Ihu, Waiho atu u ana; he aha ta koutou e whakapawerawera na i a ia? he mahi pai tana i mea nei ki ahau.</verse>
+        <verse osisID='Mark.14.7'>Kei a koutou tonu hoki te hunga rawakore i nga wa katoa, hei atawhaitanga hoki ratou ma koutou i nga wa e pai ai koutou: e kore ia ahau e noho tonu ki a koutou.</verse>
+        <verse osisID='Mark.14.8'>Kua mahia e ia te mea e taea e ia: kua whakawahia e ia i mua nei toku tinana mo te tanumanga.</verse>
+        <verse osisID='Mark.14.9'>He pono taku e mea nei ki a koutou, Ko nga wahi katoa o te ao e kauwhautia ai tenei rongopai, ka korerotia ano ta tenei wahine i mea ai, hei whakamahara ki a ia.</verse>
+        <verse osisID='Mark.14.10'>Na ka haere a Hura Ikariote, tetahi o te tekau ma rua, ki nga tohunga nui, ki te tuku i a ia ki a ratou.</verse>
+        <verse osisID='Mark.14.11'>A, no ka rongo ratou, ka hari, ka whakaae kia hoatu he moni mana. Na ka rapu ia ki te wa pai e tukua ai ia.</verse>
+        <verse osisID='Mark.14.12'> A, i te ra tuatahi o te taro rewenakore, i te wa e patua ai te kapenga, ka mea ana akonga ki a ia, Ko hea koe pai ai kia haere matou ki te taka, kia kai ai koe i te kapenga?</verse>
+        <verse osisID='Mark.14.13'>Na ka tonoa e ia tokorua o ana akonga, ka mea ki a raua, haere ki te pa, a ka tutaki mai ki a korua he tangata e mau ana i te taha wai: haere i muri i a ia.</verse>
+        <verse osisID='Mark.14.14'>A ka mea ki te tangata o te whare e tomo ai ia, E mea ana te Kaiwhakaako, Kei hea te ruma e kai ai matou ko aku akonga i te kapenga?</verse>
+        <verse osisID='Mark.14.15'>A mana tonu e whakaatu ki a korua he ruma nui i runga, oti rawa te whariki, te whakapai: hei reira taka ai ma tatou.</verse>
+        <verse osisID='Mark.14.16'>Na haere ana ana akonga, a, no te taenga ki te pa, ka kite i tana i korero ai ki a raua: a taka ana e raua te kapenga.</verse>
+        <verse osisID='Mark.14.17'>A, no ka ahiahi, ka haere atu ia me te tekau ma rua.</verse>
+        <verse osisID='Mark.14.18'>I a ratou e noho ana, e kai ana, ka mea a Ihu, He pono taku e mea nei ki a koutou, Ko tetahi o koutou, kei toku taha nei e kai ana, mana ahau e tuku.</verse>
+        <verse osisID='Mark.14.19'>Na ka pa te pouri ki a ratou, ka ki takitahi ki a ia, Ko ahau koia?</verse>
+        <verse osisID='Mark.14.20'>Na ka mea ia ki a ratou, Ko tetahi o te tekau ma rua, ko ia e toutou tahi nei maua ki te rihi.</verse>
+        <verse osisID='Mark.14.21'>E haere ana te Tama a te tangata, e pera ana me te mea i tuhituhia mona: otiia aue te mate mo te tangata e tukua ai te Tama a te tangata! he mea pai ke mo taua tangata me i kaua ia e whanau.</verse>
+        <verse osisID='Mark.14.22'>A, i a ratou e kai ana, ka mau ia ki te taro, a, ka mutu te whakapai, ka whawhati, na ka hoatu ki a ratou, ka mea, Tangohia, kainga: ko toku tinana tenei.</verse>
+        <verse osisID='Mark.14.23'>Na ka mau ia ki te kapu, a, ka mutu te whakawhetai, ka hoatu ki a ratou: a ka inumia e ratou katoa.</verse>
+        <verse osisID='Mark.14.24'>A ka mea ia ki a ratou, Ko oku toto enei, ko o te kawenata hou, e whakahekea ana mo te tini.</verse>
+        <verse osisID='Mark.14.25'>He pono taku e mea nei ki a koutou, E kore ahau e inu atu ano i te hua o te waina, kia taea ra ano taua ra e inumia houtia ai e ahau i te rangatiratanga o te Atua.</verse>
+        <verse osisID='Mark.14.26'>A, no ka mutu ta ratou himene, ka haere ratou ki Maunga Oriwa.</verse>
+        <verse osisID='Mark.14.27'>Katahi a Ihu ka mea ki a ratou, Ko koutou katoa na ka he: kua oti hoki te tuhituhi, Ka patua e ahau te hepara, a ko nga hipi ka whakamararatia.</verse>
+        <verse osisID='Mark.14.28'>Otira, muri iho i toku aranga, ka haere ahau i mua i a koutou ki Kariri.</verse>
+        <verse osisID='Mark.14.29'>Na ka mea a Pita ki a ia, Ahakoa he te katoa, ko ahau e kore.</verse>
+        <verse osisID='Mark.14.30'>A ka mea a Ihu ki a ia, He pono taku e mea nei ki a koe, Ko akuanei, i tenei po ano, i te mea kahore ano kia rua nga tangihanga o te tikaokao, ka toru au whakakorenga i ahau.</verse>
+        <verse osisID='Mark.14.31'>Katahi ka tino arita rawa tana meatanga atu, Ahakoa kua takoto te tikanga kia mate tahi au me koe, e kore ahau e whakakahore i a koe. I pera ano te korero a ratou katoa.</verse>
+        <verse osisID='Mark.14.32'> A ka tae ratou ki tetahi wahi, e huaina ana ko Kehemane: na ka mea atu ia ki ana akonga, Hei konei koutou noho ai, kia inoi ahau.</verse>
+        <verse osisID='Mark.14.33'>Na ka mau ia ki a Pita ratou ko Hemi, ko Hoani, a ka timata te koera, te tumatatenga;</verse>
+        <verse osisID='Mark.14.34'>Na ka mea ia ki a ratou, Kei te tino pehia toku wairua e te pouri, tata pu ki te mate: noho iho koutou i konei, kia mataara.</verse>
+        <verse osisID='Mark.14.35'>Na ka haere ia ki pahaki tata atu, ka hinga ki te whenua, ka inoi, me kahore e ahei kia pahemo atu tenei haora i a ia.</verse>
+        <verse osisID='Mark.14.36'>A ka mea ia, E Apa, e Pa, ka taea e koe nga mea katoa; tangohia atu tenei kapu i ahau: otiia kaua e waiho i taku e pai ai, engari i tau.</verse>
+        <verse osisID='Mark.14.37'>Na ka haere ia, ka rokohanga atu e moe ana ratou, a ka mea ia ki a Pita, E Haimona, kei te moe ia koe? e kore ranei e taea e koe te mataara kia kotahi haora?</verse>
+        <verse osisID='Mark.14.38'>Kia mataara, me te inoi, kei uru koutou ki te whakamatautauranga. Kei te hihiko te wairua, ko te kikokiko ia kei te ngoikore.</verse>
+        <verse osisID='Mark.14.39'>Na ka haere atu ano ia, ka inoi, me te whakahua i aua kupu ano.</verse>
+        <verse osisID='Mark.14.40'>Na ka hoki mai ano ia, ka rokohanga e moe ana ratou, he nui hoki te taimaha o o ratou kanohi; a kihai ratou i matau ki ta ratou e whakahoki ai ki a ia.</verse>
+        <verse osisID='Mark.14.41'>Na haere ana ano ia, ko te toru o nga haerenga, ka mea ki a ratou, E moe ra, whakata i a koutou: heoi ra, kua taea te haora; na, ka tukua te Tama a te tangata ki nga ringa o te hunga hara.</verse>
+        <verse osisID='Mark.14.42'>Maranga, ka haere tatou; na, ka tata te kaituku i ahau.</verse>
+        <verse osisID='Mark.14.43'> Na inamata, i a ia tonu e korero ana, kua puta a Hura, tetahi o te tekau ma rua, me te tini o te tangata, me nga hoari, me nga patu, i ahu mai i nga tohunga nui, i nga karaipi, i nga kaumatua.</verse>
+        <verse osisID='Mark.14.44'>Na kua oti tetahi tohu te whakarite ki a ratou e tona kaituku; i mea ia, Ko taku tangata e kihi ai, ko ia tera; hopukina, kia mau te arahi atu.</verse>
+        <verse osisID='Mark.14.45'>Na, i tona taenga mai, tika tonu ki a ia, ka mea, E Rapi; a kihi ana i a ia.</verse>
+        <verse osisID='Mark.14.46'>Na ka mau o ratou ringa ki a ia, a hopukina ana ia.</verse>
+        <verse osisID='Mark.14.47'>Na ka unuhia e tetahi o te hunga e tu ana i reira tana hoari, haua iho e ia te pononga a te tohunga nui, poroa ana tona taringa.</verse>
+        <verse osisID='Mark.14.48'>Na ka whakahoki a Ihu, ka mea ki a ratou, He tahae ahau, i haere mai ai koutou me nga hoari, me nga patu, ki te hopu i ahau?</verse>
+        <verse osisID='Mark.14.49'>I a koutou ahau e whakaako ana i te temepara i tena ra, i tena ra, a kihai koutou i hopu i ahau: otira i mahia tenei mea kia rite ai nga karaipiture.</verse>
+        <verse osisID='Mark.14.50'>Na whakarere ana ratou katoa i a ia, oma ana.</verse>
+        <verse osisID='Mark.14.51'>Na tera tetahi taitamariki i aru tahi mai me ia, takaia ai he kakahu rinena ki runga ake i tona kirikau: na ka hopukina ia e ratou:</verse>
+        <verse osisID='Mark.14.52'>Otira i whakarerea atu e ia te kakahu rinena, a oma tahanga atu ana.</verse>
+        <verse osisID='Mark.14.53'> Na ka arahina atu e ratou a Ihu ki te tino tohunga: a ka huihui mai ki a ia nga tohunga nui katoa, nga kaumatua me nga karaipi.</verse>
+        <verse osisID='Mark.14.54'>Na tera a Pita te aru ra i a ia i tawhiti, tae noa ki roto, ki te marae o te tino tohunga; a tera te noho ra me nga kaimahi, painaina ai i a ia i te taha o te ahi.</verse>
+        <verse osisID='Mark.14.55'>Na i rapu nga tohunga nui me te runanga katoa i te kororo mo Ihu, e whakamatea ai; heoi kihai i kitea.</verse>
+        <verse osisID='Mark.14.56'>He tokomaha hoki nga kaiwhakapae teka mona, otiia kihai i rite a ratou korero.</verse>
+        <verse osisID='Mark.14.57'>Na ka whakatika etahi, ka whakapae teka ki a ia, ka mea,</verse>
+        <verse osisID='Mark.14.58'>I rongo matou ki a ia e mea ana, Maku e whakahoro tenei whare tapu i hanga nei e te ringa, a kia toru nga ra ka hanga e ahau tetahi atu, ehara i te ringa i mahi.</verse>
+        <verse osisID='Mark.14.59'>A ahakoa tera kihai a ratou korero i riterite.</verse>
+        <verse osisID='Mark.14.60'>Na ka whakatika e tohunga nui i waenganui, ka ui ki a Ihu, ka mea, Kahore au kupu? he aha ta enei e whakaatu nei mou?</verse>
+        <verse osisID='Mark.14.61'>Heoi kihai ia i kuihi, kahore hoki he kupu i whakahokia e ia. Na ka ui ano te tino tohunga, ka mea ki a ia, Ko koe ranei a te Karaiti, te Tama a Tera e whakapaingia nei?</verse>
+        <verse osisID='Mark.14.62'>Ka mea a Ihu ki a ia, Ko ahau ia: a tera koutou e kite i te Tama a te tangata e noho ana i te ringa matau o te kaha, e haere mai ana me nga kapua o te rangi.</verse>
+        <verse osisID='Mark.14.63'>Katahi ka haehae te tino tohunga i ona kakahu, ka mea, hei aha atu ma tatou etahi kaiwhakaatu ano?</verse>
+        <verse osisID='Mark.14.64'>Kua rongo koutou ki te kohukohu: e pehea ana o koutou whakaaro? Na ka whakaae ratou katoa ka tika te mate mona.</verse>
+        <verse osisID='Mark.14.65'>Katahi ka anga etahi ka tuwha ki a ia, ka arai i tona kanohi, ka kuru i a ia, a ka mea ki a ia, Poropiti mai: a ka pakipakia ia e nga kaimahi ki o ratou ringa.</verse>
+        <verse osisID='Mark.14.66'> A, i a Pita i te marae i raro, ka haere mai tetahi o nga kotiro a te tino tohunga:</verse>
+        <verse osisID='Mark.14.67'>A, i tona kitenga i a Pita e painaina ana, ka titiro atu ki a ia, a ka mea, Ko koe ano tetahi i te tangata o Nahareta, ara i a Ihu.</verse>
+        <verse osisID='Mark.14.68'>Otira ka whakakahore ia, ka mea, Kahore rawa ahau i matau, i marama ranei ki tau e korero mai na: na ka puta atu ia ki te whakamahau: a ka tangi te tikaokao.</verse>
+        <verse osisID='Mark.14.69'>A ka kite te kotiro i a ia, ka anga ano ka korero ki te hunga e tu tata ana, No ratou hoki tenei.</verse>
+        <verse osisID='Mark.14.70'>Otira ka whakakahore ano ia. A muri tata iho ka korero ano ki a Pita te hunga e tu tata ana, He pono ko koe tetahi o ratou; no Kariri hoki koe.</verse>
+        <verse osisID='Mark.14.71'>Katahi ia ka timata te kanga, te oati, Kahore ahau e matau ki tena tangata e korero na koutou.</verse>
+        <verse osisID='Mark.14.72'>I reira ka tangi ano te tikaokao, ko te tuarua o nga tangihanga. Na ka mahara a Pita ki te kupu i korero ai a Ihu ki a ia, E kore e tuarua te tangi o te tikaokao, ka toru au whakakahoretanga i ahau. A ka whakaaroa iho e ia, na ka tangi.</verse>
+      </chapter>
+      <chapter osisID='Mark.15'>
+        <verse osisID='Mark.15.1'> A, mea kau ake te ata, ka runanga nga tohunga nui, nga kaumatua, nga karaipi, me te runanga katoa, a ka herea e ratou a Ihu, ka arahina atu, a tukua atu ana ki a Pirato.</verse>
+        <verse osisID='Mark.15.2'>Ka ui a Pirato ki a ia, Ko koe ranei te Kingi o nga Hurai? Ka whakahokia e ia ki a ia, Kua korerotia na e koe.</verse>
+        <verse osisID='Mark.15.3'>He maha hoki nga mea i whakapaea ki a ia e nga tohunga nui, kaore ia i korero.</verse>
+        <verse osisID='Mark.15.4'>Ka ui ano a Pirato ki a ia, ka mea, Kahore au kupu whakahoki? Na, te tini o nga kupu e korero nei ratou mou.</verse>
+        <verse osisID='Mark.15.5'>Heoi kahore a Ihu i whakahoki atu ano; no ka miharo a Pirato.</verse>
+        <verse osisID='Mark.15.6'>Na i taua hakari kotahi te herehere e tukua ana e ia ki a ratou, ko ta ratou e inoi ai.</verse>
+        <verse osisID='Mark.15.7'>Na i reira tetahi tangata ko Parapa te ingoa, e here tahi ana me ona hoa tutu, he hunga i patu tangata i te ngangaretanga.</verse>
+        <verse osisID='Mark.15.8'>Na ka haere te mano, ka anga ka tono ki a ia kia peratia me tana i mea ai ki a ratou i mua.</verse>
+        <verse osisID='Mark.15.9'>Na ka whakahoki a Pirato ki a ratou, ka mea, E pai ana ranei koutou kia tukua e ahau ki a koutou te Kingi o nga Hurai?</verse>
+        <verse osisID='Mark.15.10'>I mahara hoki ia he hae i tukua ai ia e nga tohunga nui.</verse>
+        <verse osisID='Mark.15.11'>Otira ka whakatutehutia e ratou te mano, kia tukua e ia ko Parapa ke ki a ratou.</verse>
+        <verse osisID='Mark.15.12'>Na ka whakahoki ano a Pirato, ka mea ki a ratou, He aha oti ta koutou e pai ai kia meatia e ahau ki tenei e huaina nei e koutou ko te Kingi o nga Hurai?</verse>
+        <verse osisID='Mark.15.13'>Ka karanga ano ratou, Ripekatia.</verse>
+        <verse osisID='Mark.15.14'>Na ka mea a Pirato ki a ratou, He aha koia tana kino i mea ai? Heoi nui noa atu ta ratou hamama, Ripekatia ia.</verse>
+        <verse osisID='Mark.15.15'> Na, i tona hiahia kia whakamarietia te mano, tukua ana e Pirato a parapa ki a ratou, a, ka oti a Ihu te whiu, ka tukua kia ripekatia.</verse>
+        <verse osisID='Mark.15.16'>Na ka arahina ia e nga hoia ki te marae, ara ki te whare whakawa, a karangarangatia ana te ropu katoa.</verse>
+        <verse osisID='Mark.15.17'>Ka whakakahuria ia ki te kakahu papura, a, ka oti tetahi karauna tataramoa te whiri, ka potaea ki a ia.</verse>
+        <verse osisID='Mark.15.18'>Na ka anga ratou ka oha ki a ia, Tena koe, e te Kingi o nga Hurai!</verse>
+        <verse osisID='Mark.15.19'>Patua ana e ratou tona matenga ki te kakaho, tuwha ana ki a ia, ka tuku i nga turi ki a ia, a koropiko ana ki a ia.</verse>
+        <verse osisID='Mark.15.20'>A, no ka mutu ta ratou taunu ki a ia, ka tangohia te kahu papura i a ia, na whakakakahuria ana ia ki ona ake kakahu, a arahina ana ia kia ripekatia.</verse>
+        <verse osisID='Mark.15.21'>Na ka meinga e ratou tetahi tangata e tika ana na reira, a Haimona o hairini, i ahu mai i nga whenua, ko te papa o Arehanera raua ko Rupuha, kia haere me ratou, kia riro ai mana e amo tona ripeka.</verse>
+        <verse osisID='Mark.15.22'> Na ka arahina ia ki tetahi wahi, ki Korokota, tona tikanga ina whakamaoritia ko te Wahi Angaanga.</verse>
+        <verse osisID='Mark.15.23'>A hoatu ana ki a ia he waina, he mea whakananu ki te maira, kia inumia: otira kihai i tangohia e ia.</verse>
+        <verse osisID='Mark.15.24'>A ripekatia ana ia e ratou, ka wehewehea ona kakahu, he mea maka ki te rota, kia kitea ai ko te aha e riro i tetahi, i tetahi.</verse>
+        <verse osisID='Mark.15.25'>Na ko te toru tera o nga haora, a ka ripekatia ia e ratou.</verse>
+        <verse osisID='Mark.15.26'>Ko te mea i whakawakia ai ia i tuhituhia ki runga, KO TE KINGI O NGA HURAI.</verse>
+        <verse osisID='Mark.15.27'>Na tokorua nga tahae i ripekatia ngatahitia me ia; ko tetahi ki matau, ko tetahi ki tona maui.</verse>
+        <verse osisID='Mark.15.28'>Na ka rite te karaipiture e mea nei, I taua ngatahitia ia me te hunga hara.</verse>
+        <verse osisID='Mark.15.29'>Ko te hunga e haereere ana i reira ka tawai ki a ia, ka ruru i o ratou matenga, ka mea, Ha, ko koe ka whakahoro nei i te whare tapu, ka hanga nei ano i nga ra e toru,</verse>
+        <verse osisID='Mark.15.30'>Whakaora i a koe ano ka heke iho i te ripeka.</verse>
+        <verse osisID='Mark.15.31'>Waihoki ko nga tohunga nui ka tawai i a ia, ratou ko nga karaipi, ka mea, Ko era atu i whakaorangia e ia, te taea e ia te whakaora a ia ake ano.</verse>
+        <verse osisID='Mark.15.32'>Tena ra kia heke iho aianei a te Karaiti, te Kingi o Iharaira, i te ripeka, kia kite ai tatou, kia whakapono ai. I tawai hoki ki a ia te hunga i ripekatia ngatahitia me ia.</verse>
+        <verse osisID='Mark.15.33'> A, no ka tae ki te ono o nga haora, ka pouri a runga o te whenua katoa, taea noatia te iwa o nga haora.</verse>
+        <verse osisID='Mark.15.34'>A i te iwa o nga haora ka karanga a Ihu, he nui te reo, ka mea, Eroi, Eroi, rama hapakatani? ko te tikanga tenei ina whakamaoritia, E toku Atua, e toku Atua, he aha koe i whakarere ai i ahau?</verse>
+        <verse osisID='Mark.15.35'>A, no te rongonga o etahi o te hunga e tu ana i reira, ka mea, Nana, e karanga ana ia i a Iraia.</verse>
+        <verse osisID='Mark.15.36'>Na ka oma tetahi, ka whakaki i tetahi hautai ki te winika, whakanohoia ana ki te kakaho, ka hoatu kia inumia e ia, ka mea, Kati; tena kia kite tatou me kore a Iraia e haere mai ki te tango i a ia ki raro.</verse>
+        <verse osisID='Mark.15.37'>Na he nui te reo i puaki i a Ihu, a hemo ake.</verse>
+        <verse osisID='Mark.15.38'>A ka wahia te arai o te temepara i waenganui pu mai i runga ki raro.</verse>
+        <verse osisID='Mark.15.39'>A, no te kitenga o te keneturio, e tu hangai atu ana ki a ia, i pera te ahua o tana tukunga i tona wairua, ka mea ia, He pono ko te Tama a te Atua tenei tangata.</verse>
+        <verse osisID='Mark.15.40'>Na i reira etahi wahine e matakitaki ana mai i tawhiti: i roto i a ratou a Meri Makarini, a Meri hoki whaea o Hemi, te mea iti, raua ko Hohi, me Haromi;</verse>
+        <verse osisID='Mark.15.41'>Ara ko nga wahine i aru nei i a ia, i a ia i Kariri, i mahi mea nei mana; me etahi atu wahine tokomaha i haere tahi mai nei me ia ki Hiruharama.</verse>
+        <verse osisID='Mark.15.42'> Na ka ahiahi, i te mea ko te ra takanga, ara ko te ra i mua ake o te hapati,</verse>
+        <verse osisID='Mark.15.43'>Ka haere mai a Hohepa o Arimatia, he rangatira runanga, he tangata nui tonu, e tatari ana ano hoki ia ki te rangatiratanga o te Atua; a ka haere maia tonu ki a Pirato, ka inoi i te tinana o Ihu.</verse>
+        <verse osisID='Mark.15.44'>Na ka miharo a Pirato, hua noa kahore ano i mate: ka karangatia e ia te keneturio, ka ui ki a ia, mehemea kua mate atu ra ia.</verse>
+        <verse osisID='Mark.15.45'>A, no ka rongo ki te keneturio kua mate, ka whakaaetia e ia te tinana ki a Hohepa.</verse>
+        <verse osisID='Mark.15.46'>Na ka hokona e tera he rinena, ka tangohia mai ia ki raro, a takaia ana ki te rinena; whakatakotoria ana ia ki roto ki te urupa kua haua atu ki te kamaka, a whakataka atu ana he kohatu ki te kuwaha o te urupa.</verse>
+        <verse osisID='Mark.15.47'>I kite a Meri Makarini, raua ko Meri whaea o Hohi, i te wahi i whakatakotoria ai ia.</verse>
+      </chapter>
+      <chapter osisID='Mark.16'>
+        <verse osisID='Mark.16.1'> A, no te pahemotanga o te hapati, ka hokona he mea kakara e Meri Makarini, e Meri whaea o Hemi, e Haromi, kia haere ai ratou ki te whakawahi i a ia.</verse>
+        <verse osisID='Mark.16.2'>Na, i te atatu o te ra tuatahi o te wiki, ka haere ratou ki te urupa i te putanga mai o te ra;</verse>
+        <verse osisID='Mark.16.3'>Ka korero ki a ratou ano, Ko wai ra hei whakataka ma tatou i te kohatu i te kuwaha o te urupa?</verse>
+        <verse osisID='Mark.16.4'>A, i ta ratou tirohanga ake, ka kite kua hurihia atu te kohatu: he mea nui whakaharahara hoki.</verse>
+        <verse osisID='Mark.16.5'>A, no ka tomo ratou ki te urupa, ka kite ratou i tetahi taitamariki e noho ana i te taha matau, he kakahu ma tona: na ka koera ratou.</verse>
+        <verse osisID='Mark.16.6'>A ka mea ia ki a ratou, Kaua e koera: e rapu ana koutou i a Ihu o Nahareta i ripekatia: kua ara ia; kahore ia i konei: tena! titiro ki te wahi i whakatakotoria ai ia!</verse>
+        <verse osisID='Mark.16.7'>Engari haere, korerotia atu ki ana akonga, ki a Pita hoki, kei te haere ia i mua i a koutou ki Kariri: ko reira koutou kite ai i a ia, pera i tana i mea ai ki a koutou.</verse>
+        <verse osisID='Mark.16.8'>Na ka puta atu ratou, a oma ana i te urupa: kua tae mai hoki te tuiri, te koera ki a ratou: kihai rawa i korero ki tetahi tangata; no te mea i wehi ratou.</verse>
+        <verse osisID='Mark.16.9'> Na, i tona aranga ake i te atatu o te ra tuatahi o te wiki, ka whakakite tuatahi ia ki a Meri Makarini, i peia nei e ia e whitu nga rewera i roto i a ia.</verse>
+        <verse osisID='Mark.16.10'>Na ka haere tera ka korero ki te hunga i piri ra ki a ia i mua, i a ratou e pouri ana, e tangi ana.</verse>
+        <verse osisID='Mark.16.11'>A ko ratou i to ratou rongona kei te ora, a kua kitea e ia, kahore i whakapono.</verse>
+        <verse osisID='Mark.16.12'>Na, i muri iho i enei mea, ka puta ia, he ahua ke tona, ki etahi atu o ratou, tokorua, i a raua e haere ana, e anga ana ki nga whenua.</verse>
+        <verse osisID='Mark.16.13'>Na ka haere hoki ena ka korero ki etahi atu o ratou; otira kahore era i whakapono.</verse>
+        <verse osisID='Mark.16.14'> Muri iho ka puta ia ki te tekau ma tahi, i a ratou e noho ana ki te kai, a riria iho e ia to ratou whakaponokore, me te pakeke o te ngakau, mo ratou kihai i whakapono ki te hunga i kite nei i a ia kua ara.</verse>
+        <verse osisID='Mark.16.15'>Ka mea ki a ratou, Haere koutou ki te ao katoa, kauwhautia te rongopai ki nga tangata katoa.</verse>
+        <verse osisID='Mark.16.16'>Ko ia e whakapono ana, ka oti te iriiri, ka whakaorangia; otira ko te tangata e kore e whakapono, ka whakataua te he ki a ia.</verse>
+        <verse osisID='Mark.16.17'>Ka whai tahi hoki enei tohu i te hunga e whakapono ana: ma toku ingoa ratou ka pei rewera ai; ka korerotia ai e ratou nga reo hou;</verse>
+        <verse osisID='Mark.16.18'>Ka tango ake ai ratou i nga nakahi; a ki te inu i tetahi mea whakamate, e kore ratou e ahatia; ka pa o ratou ringa ki nga turoro, a ka ora.</verse>
+        <verse osisID='Mark.16.19'> Na, i te mutunga o tana korero ki a ratou, ka tangohia atu te Ariki a Ihu ki te rangi, a noho ana ki te ringa matau o te Atua.</verse>
+        <verse osisID='Mark.16.20'>Na haere ana ratou, kauwhau ana i nga wahi katoa, me te mahi tahi ano te Ariki me ratou, me te whakau i te kupu ki nga tohu e whai ana i muri. Amine.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

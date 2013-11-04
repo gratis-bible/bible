@@ -1,0 +1,953 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <osisText osisRefWork='Bible' osisIDWork='LXXE' xml:lang='en'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='LXXE'>
+        <title>Brenton's English Septuagint</title>
+        <contributor/>
+        <creator>Jens Grabner</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject>holy bible</subject>
+        <date>2009-01-20</date>
+        <description>
+
+Introduction
+~~~~~~~~~~~~
+
+  The Septuagint is the most ancient translation of the Old Testament into
+  Greek. The translators were likely Jews of the dispersion, living in
+  Alexandria, Egypt.
+
+  The beginning of the Jewish presence in Egypt is difficult to date
+  precisely. There may have been a Jewish colony there as early as the tenth
+  century BC, when Shishak (Shashanq) invaded Palestine and took treasures
+  from the temple and the king's palace (2 Chronicles 12.1-8). But certainly a
+  number of Jews lived in Egypt after the murder of Gedaliah (~586 BC), when
+  "the captains of the forces set out and went to Egypt; for they were afraid
+  of the Chaldeans" (2 Kings 25-26). Jeremiah, Baruch, and the princesses also
+  went into Egypt at that time, though Jeremiah prophecied that they would all
+  "perish by the sword and by famine, until not one is left" (Jeremiah 43.6,
+  44.27). One expects, on the basis of that prophecy, that this was not the
+  beginning of a permanent settlement. A lasting Jewish presence in Egypt can,
+  however, be definitely dated from the the time of the founding of the city
+  of Alexandria in 332 BC, when Alexander the Great granted them citizenship.
+
+  In time, the Jews in Alexandria lost familiarity with Hebrew, and spoke
+  Greek instead. It was natural, then, that they would require a translation
+  of the scriptures into Greek for public worship in the synagogues and for
+  private study. An account of the translation of the Septuagint is told in
+  The Letter of Aristeas, which claims that Demetrius Phalereus, who ran the
+  royal library in Alexandria, urged the king (Philadelphus (285-247 BC)) to
+  obtain a copy of the Jewish law for the library. Philadelphus sent a
+  deputation to the high priest Eleazar in Jerusalem, and the result was that
+  seventy-two elders arrived in Egypt with a copy of the Hebrew law written on
+  rolls of skins in golden letters. They were given accommodations on the
+  island of Pharos, and completed their translation in seventy-two days. The
+  same basic account is given in Aristobulus, Philo, and Josephus.
+
+  Even if the account given in the Letter of Aristeas is inaccurate, it seems
+  clear that the Hebrew Old Testament was available in Greek in Alexandria
+  before the birth of Christ. As Christianity began to spread, the Septuagint
+  was used with persuasive effect by Christian apologists - so well, in fact,
+  that in time the Jews of the dispersion replaced it with newer works. For
+  instance, a proselyte to Judaism named Aquila completed a extremely literal
+  translation of the Old Testament into Greek about the year 128. Other
+  translations were made by Theodotion of Ephesus and a certain Symmachus,
+  called an Ebionite, also in the second century.
+
+  The most ancient manuscripts of the complete (or nearly complete) Septuagint
+  are known as Vaticanus, Sinaiticus, and Alexandrinus. Vaticanus and
+  Sinaiticus have been dated to the mid-fourth century, and Alexandrinus to
+  the fifth. 
+
+  Based on an earlier Hebrew original, the Septuagint departs from the
+  Masoretic text* frequently. "The book of Jeremiah is noteworthy," for
+  instance, "in that the present Hebrew text differs substantially from the
+  Greek version (the Septuagint) in both content and order. Thus the
+  Septuagint omits several passages (e.g., 33.14-26) and combines the oracles
+  against foreign nations into a single section following 25.14, though in a
+  different order. In addition, there are many smaller differences from verse
+  to verse. Remarkably, among the portions of the text of Jeremiah in Hebrew
+  that are found among the Dead Sea Scrolls are not only those that reflect
+  the standard Hebrew text but also those that reflect the text tradition
+  represented by the Septuagint. It is likely, then, that these two text
+  traditions represent the contrasting editorial work on the book of Jeremiah
+  that took place in Egypt (the Septuagint tradition) and in Palestine or
+  Babylon (the traditional Hebrew text)." [Introduction to the book of
+  Jeremiah, The New Oxford Annotated Bible, page 960.] Around the end of the
+  first century, the Hebrew text was standardized to a form nearly identical
+  with the modern Masoretic text. Variant readings, such as those represented
+  in the Septuagint, were no longer transmitted in the Hebrew language. 
+
+      * The Masoretic text is the source from which modern translations intoEnglish are made. While the oldest complete manuscripts of theSeptuagint date from the fourth century, the oldest complete HebrewOld Testament, the Leningrad Codex, was copied in ~ 1008 A.D. ModernEnglish translations of the Old Testament rely primarily on theLeningrad Codex as published in the Hebraica Stuttgartensia. Forexamples of Septuagint departures from the Masoretic text supported bythe Dead Sea Scrolls, see the appendix.
+
+      * Another contrast between the Septuagint and the modern Hebrew OldTestament involves the canon of scripture. The Septuagint includesseveral books and sections of books absent from the modern Hebrewtext: 1 Esdras; Tobit; Judith; 1-3 Maccabees; the Wisdom of Solomon;the Wisdom of Sirach (Ecclesiasticus); Baruch; the Epistle ofJeremiah; The Song of the Three Children; Daniel and Susanna; Daniel,Bel and the Dragon; Additions to the Book of Esther; Psalm 151; andthe Prayer of Manasseh. The difference in content has been explainedin various ways. Perhaps the most straightforward account is that theJews of Alexandria had a relatively broad canon, which was generallyadopted by the Christians as they employed the Septuagint as their OldTestament. The Jews of Palestine, when they established their canonaround the turn of the first century at the council of Jamnia, mayhave been reiterating the position that had been more or less settledin Palestine for some time - though some books just made (Esther,Ecclesiastes, the Song of Solomon, and Ezekiel, for instance) ormissed (Sirach) the cut. The conflict with Christians may have servedas a catalyst to push the Jews of the dispersion into the Palestiniancamp. This article - concerned with the text of the books within theHebrew canon - will not address the controversy surrounding the OldTestament canon in any depth.
+
+  From the time of Jerome (early fifth century), Old Testament translations to
+  the vernacular in the West have used the Hebrew as the primary source - the
+  Septuagint has been relegated to a secondary role. (Incidentally, some are
+  under the mistaken impression - given by misleading language in the preface
+  to the 1899 edition - that the Douay Old Testament was translated from a
+  Latin text based on the Septuagint. Unfortunately, Jerome's Vulgate - apart
+  from the Psalms and the books then available only in Greek - by and large
+  follows the Hebrew text.) It is hoped that the reader will reconsider the
+  wisdom of this course of action, given the clear preference the New
+  Testament displays for Septuagint readings. Fortunately, a new English
+  translation of the Septuagint is being prepared for publication in 2004.
+
+  This article comprises two main sections. The first deals with the early
+  Church’s use of the Septuagint - particularly their sense that the Hebrew
+  text was unreliable. It begins with the discussion between Jerome and
+  Augustine regarding the former’s decision to craft his Latin translation
+  from the available Hebrew text, rather than from the Septuagint. It is from
+  Jerome’s fateful choice that the West derives its tradition of favoring the
+  Hebrew to the Greek. The second part of this article provides a detailed
+  comparison of the New Testament quotations from the Old. These were made to
+  assess the extent to which the New Testament authors depended on the
+  Septuagint instead of the Hebrew text. Conclusions are given in the The
+  Septuagint in the New Testament.
+
+    </description>
+        <publisher>FREE BIBLE SOFTWARE GROUP</publisher>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>LXXE</identifier>
+        <source>
+
+http://www.answersingenesis.org/OnlineBible/files/lxxe.exe
+
+The Septuagint LXX in English
+http://www.christianmedia.us/LXXE/
+
+The English Translation of the Septuagint Bible Online
+http://www.ecmarsh.com/lxx/    
+
+    </source>
+        <language type='IETF'>en</language>
+        <relation/>
+        <coverage>provide the bible to the world</coverage>
+        <rights>
+    
+      1851 Brenton's English Septuagint
+
+The Bible text designated LXXE is from an English
+translation of The Septuagint by Sir Lancelot 
+Charles Lee Brenton, originally published in 1851. 
+The electronic text is copyright 1988 by FABS 
+International, Inc. Footnotes, additions, and 
+corrections to the main text copyright 1999 by Larry 
+Nelson, Box 2083, Rialto, CA  92376. All rights 
+reserved. Used by permission.
+
+  </rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='2Sam'>
+      <chapter osisID='2Sam.1'>
+        <verse osisID='2Sam.1.1'>And it came to pass after Saul was dead, that David returned from smiting Amalec, and David abode two days in Sekelac.</verse>
+        <verse osisID='2Sam.1.2'>And it came to pass on the third day, that, behold, a man came from the camp, from the people of Saul, and his garments were rent, and earth was upon his head: and it came to pass when he went in to David, that he fell upon the earth, and did obeisance to him.</verse>
+        <verse osisID='2Sam.1.3'>And David said to him, Whence comest thou? and he said to him, I have escaped out of the camp of Israel.</verse>
+        <verse osisID='2Sam.1.4'>And David said to him, What is the matter? tell me. And he said, The people fled out of the <note>Gr. war</note> battle, and many of the people have fallen and are dead, and Saul and Jonathan his son are dead.</verse>
+        <verse osisID='2Sam.1.5'>And David said to the young man who brought him the tidings, How knowest thou that Saul and Jonathan his son are dead?</verse>
+        <verse osisID='2Sam.1.6'>And the young man that brought the tidings, said to him, I happened accidentally to be upon mount Gelbue; and, behold, Saul was leaning upon his spear, and, behold, the chariots and captains of horse pressed hard upon him.</verse>
+        <verse osisID='2Sam.1.7'>And he looked behind him, and saw me, and called me; and I said, Behold, here am I.</verse>
+        <verse osisID='2Sam.1.8'>And he said to me, Who art thou? and I said, I am an Amalekite.</verse>
+        <verse osisID='2Sam.1.9'>And he said to me, Stand, I pray thee, over me, and slay me, for a dreadful darkness has come upon me, for all my life is in me.</verse>
+        <verse osisID='2Sam.1.10'>So I stood over him and slew him, because I knew he <note>Gr. will</note> would not live after he was fallen; and I took the crown that was upon his head, and the bracelet that was upon his arm, and I have brought them hither to my lord.</verse>
+        <verse osisID='2Sam.1.11'>And David laid hold of his garments, and rent them; and all the men who were with him rent their garments.</verse>
+        <verse osisID='2Sam.1.12'>And they lamented, and wept, and fasted till evening, for Saul and for Jonathan his son, and for the people of Juda, and for the house of Israel, because they were smitten with the sword.</verse>
+        <verse osisID='2Sam.1.13'>And David said to the young man who brought the tidings to him, Whence art thou? and he said, I am the son of an Amalekite sojourner.</verse>
+        <verse osisID='2Sam.1.14'>And David said to him, How was it thou wast not afraid to lift thy hand to destroy the anointed of the Lord?</verse>
+        <verse osisID='2Sam.1.15'>And David called one of his young men, and said, Go and fall upon him: and he smote him, and he died.</verse>
+        <verse osisID='2Sam.1.16'>And David said to him, Thy blood be upon thine own head; for thy mouth has <note>Gr. answered</note> testified against thee, saying, I have slain the anointed of the Lord.</verse>
+        <verse osisID='2Sam.1.17'>And David lamented with this lamentation over Saul and over Jonathan his son.</verse>
+        <verse osisID='2Sam.1.18'>And he <note>Gr. told</note> gave orders to teach it the sons of Juda: behold, it is written in the book of <note>Gr. straight, or right, sometimes upright, as of a man; Heb. Jasher</note> Right.</verse>
+        <verse osisID='2Sam.1.19'>
+          <note>The LXX take ybuh as from bun, the A. V. from ybu</note> Set up a pillar, O Israel, for <note>Two words here are used, as is often the case in the LXX to express one, viz. teynhkotwn and traumatiwn to express llx</note> the slain that died upon thy high places: how are the mighty fallen!</verse>
+        <verse osisID='2Sam.1.20'>Tell it not in Geth, and tell it not as glad tidings in the streets of Ascalon, lest the daughters of the Philistines rejoice, lest the daughters of the uncircumcised triumph.</verse>
+        <verse osisID='2Sam.1.21'>Ye mountains of Gelbue, let not dew no rain descend upon you, nor fields of first-fruits be upon you, for there the shield of the mighty ones has been grievously assailed; the shield of Saul was not anointed with oil.</verse>
+        <verse osisID='2Sam.1.22'>From the blood of the slain, and from the fat of the mighty, the bow of Jonathan returned not empty; and the sword of Saul turned not back empty.</verse>
+        <verse osisID='2Sam.1.23'>Saul and Jonathan, the beloved and the beautiful, were not divided: comely were they in their life, and in their death they were not divided: they were swifter than eagles, and they were stronger than lions.</verse>
+        <verse osisID='2Sam.1.24'>Daughters of Israel, weep for Saul, who clothed you with scarlet together with your adorning, who added golden ornaments to your apparel.</verse>
+        <verse osisID='2Sam.1.25'>How are the mighty fallen in the midst of the battle! O Jonathan, even the slain ones upon thy high places!</verse>
+        <verse osisID='2Sam.1.26'>I am grieved for thee, my brother Jonathan; thou wast very lovely to me; thy love to me was wonderful beyond the love of women.</verse>
+        <verse osisID='2Sam.1.27'>How are the mighty fallen, and the weapons of war perished!</verse>
+      </chapter>
+      <chapter osisID='2Sam.2'>
+        <verse osisID='2Sam.2.1'>And it came to pass after this that David enquired of the Lord, saying, Shall I go up into one of the cities of Juda? and the Lord said to him, Go up. And David said, Whither shall I go up? and he said, To Chebron.</verse>
+        <verse osisID='2Sam.2.2'>And David went up thither to Chebron, he and both his wives, Achinaam the Jezraelitess, and Abigaia the wife of Nabal the Carmelite,</verse>
+        <verse osisID='2Sam.2.3'>and the men that were with him, every one and his family; and they dwelt in the cities of Chebron.</verse>
+        <verse osisID='2Sam.2.4'>And the men of Judea come, and anoint David there to reign over the house of Juda; and they reported to David, saying, The men of Jabis of the country of Galaad have buried Saul.</verse>
+        <verse osisID='2Sam.2.5'>And David sent messengers to the rulers of Jabis of the country of Galaad, and David said to them, Blessed be ye of the Lord, because ye have wrought this mercy toward your lord, even toward Saul the anointed of the Lord, and ye have buried him and Jonathan his son.</verse>
+        <verse osisID='2Sam.2.6'>And now may the Lord deal in mercy and truth towards you: and I also will requite towards you this good deed, because ye have done this.</verse>
+        <verse osisID='2Sam.2.7'>And now let your hands be made strong, and be <note>Gr. mighty sons</note> valiant; for your master Saul is dead, and moreover the house of Juda have anointed me to be king over them.</verse>
+        <verse osisID='2Sam.2.8'>But Abenner, the son of Ner, the commander-in-chief of Saul’s army, took Jebosthe son of Saul, and brought him up from the camp to Manaem</verse>
+        <verse osisID='2Sam.2.9'>and <note>Observe the active use of ebasileusen, common in the LXX</note> made him king over the land of Galaad, and over Thasiri, and over Jezrael, and over Ephraim, and over Benjamin, and over all Israel.</verse>
+        <verse osisID='2Sam.2.10'>Jebosthe, Saul’s son was forty years old, when he reigned over Israel; and he reigned two years, but not over the house of Juda, who followed David.</verse>
+        <verse osisID='2Sam.2.11'>And the days which David reigned in Chebron over the house of Juda were seven years and six months.</verse>
+        <verse osisID='2Sam.2.12'>And Abenner the son of Ner went forth, and the servants of Jebosthe the son of Saul, from Manaem to Gabaon.</verse>
+        <verse osisID='2Sam.2.13'>And Joab the son of Saruia, and the servants of David, went forth from Chebron, and met them at the fountain of Gabaon, at the same place: and these sat down by the fountain on this side, and those by the fountain on that side.</verse>
+        <verse osisID='2Sam.2.14'>And Abenner said to Joab, Let now the young men arise, and play before us. And Joab said, Let them arise.</verse>
+        <verse osisID='2Sam.2.15'>And there arose and passed over by number twelve of the children of Benjamin, belonging to Jebosthe the son of Saul, and twelve of the servants of David.</verse>
+        <verse osisID='2Sam.2.16'>And they seized every one the head of his neighbour with his hand, and his sword was thrust into the side of his neighbour, and they fall down together: and the name of that place was called The portion of the treacherous ones, which is in Gabaon.</verse>
+        <verse osisID='2Sam.2.17'>And the battle was very severe on that day; and Abenner and the men of Israel were worsted before the servants of David.</verse>
+        <verse osisID='2Sam.2.18'>And there were there the three sons of Saruia, Joab, and Abessa, and Asael: and Asael was swift in his feet as a roe in the field.</verse>
+        <verse osisID='2Sam.2.19'>And Asael followed after Abenner, and turned not to go to the right hand or to the left from following Abenner.</verse>
+        <verse osisID='2Sam.2.20'>And Abenner looked behind him, and said, Art thou Asael himself? and he said, I am.</verse>
+        <verse osisID='2Sam.2.21'>And Abenner said to him, Turn thou to the right hand or to the left, and lay hold for thyself on one of the young men, and take to thyself his armour: but Asel would not turn back from following him.</verse>
+        <verse osisID='2Sam.2.22'>And Abenner said yet again to Asael, Stand aloof from me, lest I smite thee to the ground? and how should I lift up my face to Joab?</verse>
+        <verse osisID='2Sam.2.23'>And what does this mean? return to Joab thy brother? But he would not stand aloof; and Abenner smites him with the hinder end of the spear on the loins, and the spear went out behind him, and he falls there and dies <note>A literal version of the Hebrew wtxt; q. d. sur le champ</note> on the spot: and it came to pass that every one that came to the place where Asael fell and died, stood still.</verse>
+        <verse osisID='2Sam.2.24'>And Joab and Abessa pursued after Abenner, and the sun went down: and they went as far as the hill of Amman, which is in the front of Gai, by the <note>See Ac 8:26</note> desert way of Gabaon.</verse>
+        <verse osisID='2Sam.2.25'>And the children of Benjamin who followed Abenner gather themselves together, and they formed themselves into one body, and stood on the top of a hill.</verse>
+        <verse osisID='2Sam.2.26'>And Abenner called Joab, and said, Shall the sword devour perpetually? knowest thou not that it will be bitter at last? How long then wilt thou refuse to tell the people to turn from following our brethren?</verse>
+        <verse osisID='2Sam.2.27'>And Joab said, As the Lord lives, if thou hadst not spoken, even from the morning the people had gone up every one from following his brother.</verse>
+        <verse osisID='2Sam.2.28'>And Joab sounded the trumpet, and all the people departed, and did not pursue after Israel, and did not fight any longer.</verse>
+        <verse osisID='2Sam.2.29'>And Abenner and his men departed at evening, and went all that night, and crossed over Jordan, and went along the whole adjacent country, and they come to the camp.</verse>
+        <verse osisID='2Sam.2.30'>And Joab returned from following Abenner, and he assembled all the people, and there were missing of the people of David, nineteen men, and Asael.</verse>
+        <verse osisID='2Sam.2.31'>And the servants of David smote of the children of Benjamin, of the men of Abenner, three hundred and sixty men belonging to him.</verse>
+        <verse osisID='2Sam.2.32'>And they take up Asael, and bury him in the tomb of his father in Bethleem. And Joab and the men with him went all the night, and the morning rose upon them in Chebron.</verse>
+      </chapter>
+      <chapter osisID='2Sam.3'>
+        <verse osisID='2Sam.3.1'>And there was war for a long time between the house of Saul and the house of David; and the house of David grew continually stronger; but the house of Saul grew continually weaker.</verse>
+        <verse osisID='2Sam.3.2'>And sons were born to David in Chebron: and his first-born was Ammon the son of Achinoom the Jezraelitess.</verse>
+        <verse osisID='2Sam.3.3'>And his second son was Daluia, the son of Abigaia the Carmelitess; and the third, Abessalom the son of Maacha the daughter of Tholmi the king of Gessir.</verse>
+        <verse osisID='2Sam.3.4'>And the fourth was Ornia, the son of Aggith, and the fifth was Saphatia, the son of Abital.</verse>
+        <verse osisID='2Sam.3.5'>And the sixth was Jetheraam, the son of Ægal the wife of David. These were born to David in Chebron.</verse>
+        <verse osisID='2Sam.3.6'>And it came to pass while there was war between the house of Saul and the house of David, that Abenner was governing the house of Saul.</verse>
+        <verse osisID='2Sam.3.7'>And Saul had a concubine, Respha, the daughter of Jol; and Jebosthe the son of Saul said to Abenner, Why hast thou gone in to my father’s concubine?</verse>
+        <verse osisID='2Sam.3.8'>And Abenner was very angry with Jebosthe for this saying; and Abenner said to him, Am I a dog’s head? I have this day wrought kindness with the house of Saul thy father, and with his brethren and friends, and have not gone over to the house of David, and dost thou this day seek a charge against me concerning injury to a woman?</verse>
+        <verse osisID='2Sam.3.9'>God do thus and more also to Abenner, if as the Lord swore to David, so do I not to him this day;</verse>
+        <verse osisID='2Sam.3.10'>to take away the kingdom from the house of Saul, and to raise up the throne of David over Israel and over Juda from Dan to Bersabee.</verse>
+        <verse osisID='2Sam.3.11'>And Jebosthe could not any longer answer Abenner a word, because he feared him.</verse>
+        <verse osisID='2Sam.3.12'>And Abenner sent messengers to David to Thaelam where he was, immediately, saying, Make thy covenant with me, and, behold, my hand is with thee to bring back to thee all the house of Israel.</verse>
+        <verse osisID='2Sam.3.13'>And David said, With a good will I will make with thee a covenant: only I demand one condition of thee, saying, Thou shalt not see my face, unless thou bring Melchol the daughter of Saul, when thou comest to see my face.</verse>
+        <verse osisID='2Sam.3.14'>And David sent messengers to Jebosthe the son of Saul, saying, Restore me my wife Melchol, whom I took for a hundred foreskins of the Philistines.</verse>
+        <verse osisID='2Sam.3.15'>And Jebosthe sent, and took her from her husband, even from Phaltiel the son of Selle.</verse>
+        <verse osisID='2Sam.3.16'>And her husband went with her weeping behind her as far as Barakim. And Abenner said to him, Go, return; and he returned.</verse>
+        <verse osisID='2Sam.3.17'>And Abenner spoke to the elders of Israel, saying, In former days ye sought David to reign over you;</verse>
+        <verse osisID='2Sam.3.18'>and now perform it: for the Lord has spoken concerning David, saying, By the hand of my servant David I will save Israel out of the hand of all their enemies.</verse>
+        <verse osisID='2Sam.3.19'>And Abenner spoke in the ears of Benjamin: and Abenner went to speak in the ears of David at Chebron, all that seemed good in the eyes of Israel and in the eyes of the house of Benjamin.</verse>
+        <verse osisID='2Sam.3.20'>And Abenner came to David to Chebron, and with him twenty men: and David made for Abenner and his men with him a banquet of wine.</verse>
+        <verse osisID='2Sam.3.21'>And Abenner said to David, I will arise now, and go, and gather to my lord the king all Israel; and I will make with him a covenant, and thou shalt reign over all whom thy soul desires. And David sent away Abenner, and he departed in peace.</verse>
+        <verse osisID='2Sam.3.22'>And, behold, the servants of David and Joab arrived from their expedition, and they brought much spoil with them: and Abenner was not with David in Chebron, because he had sent him away, and he had departed in peace.</verse>
+        <verse osisID='2Sam.3.23'>And Joab and all his army came, and it was reported to Joab, saying, Abenner the son of Ner is come to David, and David has let him go, and he has departed in peace.</verse>
+        <verse osisID='2Sam.3.24'>And Joab went in to the king, and said, What is this that thou hast done? behold, Abenner came to thee; and why hast thou let him go, and he has departed in peace?</verse>
+        <verse osisID='2Sam.3.25'>Knowest thou not the mischief of Abenner the son of Ner, that he came to deceive thee, and to know thy going out and thy coming in, and to know all things that thou doest?</verse>
+        <verse osisID='2Sam.3.26'>And Joab returned from David, and sent messengers to Abenner after him; and they bring him back from the well of Seiram: but David knew it not.</verse>
+        <verse osisID='2Sam.3.27'>And he brought back Abenner to Chebron, and Joab caused him to turn aside from the gate to speak to him, laying wait for him: and he smote him there in the loins, and he died for the blood of Asael the brother of Joab.</verse>
+        <verse osisID='2Sam.3.28'>And David heard of it afterwards, and said, I and my kingdom are guiltless before the Lord even for ever of the blood of Abenner the son of Ner.</verse>
+        <verse osisID='2Sam.3.29'>
+          <note>Gr. lit. them (sc. bloods) meet</note> Let it fall upon the head of Joab, and upon all the house of his father; and let there not be wanting of the house of Joab one that has an issue, or a leper, or that leans on a staff, or that falls by the sword, or that wants bread.</verse>
+        <verse osisID='2Sam.3.30'>For Joab and Abessa his brother laid wait continually for Abenner, because he slew Asael their brother at Gabaon in the battle.</verse>
+        <verse osisID='2Sam.3.31'>And David said to Joab and to all the people with him, Rend your garments, and gird yourselves with sackcloth, and lament before Abenner. And king David followed the bier.</verse>
+        <verse osisID='2Sam.3.32'>And they bury Abenner in Chebron: and the king lifted up his voice, and wept at his tomb, and all the people wept for Abenner.</verse>
+        <verse osisID='2Sam.3.33'>And the king mourned over Abenner, and said, Shall Abenner die according to the death of Nabal?</verse>
+        <verse osisID='2Sam.3.34'>Thy hands were not bound, and thy feet were not put in fetters: one brought thee not near as Nabal; thou didst fall before children of iniquity.</verse>
+        <verse osisID='2Sam.3.35'>And all the people assembled to weep for him. And all the people came to cause David to eat bread while it was yet day: and David swore, saying, God do so to me, and more also, if I eat bread or any thing else before the sun goes down.</verse>
+        <verse osisID='2Sam.3.36'>And all the people took notice, and all things that the king did before the people were pleasing in their sight.</verse>
+        <verse osisID='2Sam.3.37'>So all the people and all Israel perceived in that day, that it was not of the king to slay Abenner the son of Ner.</verse>
+        <verse osisID='2Sam.3.38'>And the king said to his servants, Know ye not that a great prince is this day fallen in Israel?</verse>
+        <verse osisID='2Sam.3.39'>And that I am this day a mere kinsman of his, and as it were <note>Gr. appointed by a king</note> a subject; but these men the sons of Saruia are too hard for me: the Lord reward the evil-doer according to his wickedness.</verse>
+      </chapter>
+      <chapter osisID='2Sam.4'>
+        <verse osisID='2Sam.4.1'>And Jebosthe the son of Saul heard that Abenner the son of Ner had died in Chebron; and his hands were paralyzed, and all the men of Israel grew faint.</verse>
+        <verse osisID='2Sam.4.2'>And Jebosthe the son of Saul had two men that were captains of bands: the name of the one was Baana, and the name of the other Rechab, sons of Remmon the Berothite of the children of Benjamin; for Beroth was reckoned to the children of Benjamin.</verse>
+        <verse osisID='2Sam.4.3'>And the Berothites ran away to Gethaim, and were sojourners there until this day.</verse>
+        <verse osisID='2Sam.4.4'>And Jonathan Saul’s son had a son lame of his feet, five years old, and he was in the way when the news of Saul and Jonathan his son came from Jezrael, and his nurse took him up, and fled; and it came to pass as he hasted and retreated, that he fell, and was lamed. And his name was Memphibosthe.</verse>
+        <verse osisID='2Sam.4.5'>And Rechab and Baana the sons of Remmon the Berothite went, and they came in the heat of the day into the house of Jebosthe; and he was sleeping on a bed at noon.</verse>
+        <verse osisID='2Sam.4.6'>And, behold, the porter of the house winnowed wheat, and he slumbered and slept: and the brothers Rechab and Baana went privily into the house:</verse>
+        <verse osisID='2Sam.4.7'>And Jebosthe was sleeping on his bed in his chamber: and they smite him, and slay him, and take off his head: and they took his head, and went all the night by the western road.</verse>
+        <verse osisID='2Sam.4.8'>And they brought the head of Jebosthe to David to Chebron, and they said to the king, Behold the head of Jebosthe the son of Saul thy enemy, who sought thy life; and the Lord has <note>Gr. given</note> executed for my lord the king vengeance on his enemies, as it is this day: even on Saul thy enemy, and on his seed.</verse>
+        <verse osisID='2Sam.4.9'>And David answered and Rechab and Baana his brother, the sons of Remmon the Berothite, and said to them, As the Lord lives, who has redeemed my soul out of all affliction;</verse>
+        <verse osisID='2Sam.4.10'>he that reported to me that Saul was dead, even he was as one bringing glad tidings before me: but I seized him and slew him in Sekelac, to whom I ought, as he thought, to have given a reward for his tidings.</verse>
+        <verse osisID='2Sam.4.11'>And now evil men have slain a righteous men in his house on his bed: now then I will require his blood of your hand, and I will destroy you from off the earth.</verse>
+        <verse osisID='2Sam.4.12'>And David commanded his young men, and they slay them, and cut off their hands and their feet; and they hung them up at the fountain in Chebron: and they buried the head of Jebosthe in the tomb of Abenezer the son of Ner.</verse>
+      </chapter>
+      <chapter osisID='2Sam.5'>
+        <verse osisID='2Sam.5.1'>And all the tribes of Israel come to David to Chebron, and they said to him, Behold, we are thy bone and thy flesh.</verse>
+        <verse osisID='2Sam.5.2'>And <note>Gr. yesterday and the third day</note> heretofore Saul being king over us, thou was he that didst lead out and bring in Israel: and the Lord said to thee, Thou shalt feed my people Israel, and thou shalt be for a leader to my people Israel.</verse>
+        <verse osisID='2Sam.5.3'>And all the elders of Israel come to the king to Chebron; and king David made a covenant with them in Chebron before the Lord; and they anoint David king over all Israel.</verse>
+        <verse osisID='2Sam.5.4'>David was <note>Gr. a son of thirty years</note> thirty years old when he began to reign, and he reigned forty years.</verse>
+        <verse osisID='2Sam.5.5'>Seven years and six months he reigned in Chebron over Juda, and thirty-three years he reigned over all Israel and Juda in Jerusalem.</verse>
+        <verse osisID='2Sam.5.6'>And David and his men, departed to Jerusalem, to the Jebusite that inhabited the land: and it was said to David, Thou shalt not come in hither: for the blind and the lame withstood him, saying, David shall not come in hither.</verse>
+        <verse osisID='2Sam.5.7'>And David took first the hold of Sion: this is the city of David.</verse>
+        <verse osisID='2Sam.5.8'>And David said on that day, Every one that smites the Jebusite, let him attack with the dagger both the lame and the blind, and those that hate the soul of David. Therefore they say, The lame and the blind shall not enter into the house of the Lord.</verse>
+        <verse osisID='2Sam.5.9'>And David dwelt in the hold, and it was called the city of David, and he built the city itself round about from the citadel, and he built his own house.</verse>
+        <verse osisID='2Sam.5.10'>And David advanced and became great, and the Lord Almighty was with him.</verse>
+        <verse osisID='2Sam.5.11'>And Chiram king of Tyre sent messengers to David, and cedar wood, and carpenters, and stone-masons: and they built a house for David.</verse>
+        <verse osisID='2Sam.5.12'>And David knew that the Lord had prepared him to be king over Israel, and that his kingdom was exalted for the sake of his people Israel.</verse>
+        <verse osisID='2Sam.5.13'>And David took again wives and concubines out of Jerusalem, after he came from Chebron: and David had still more sons and daughters born to him.</verse>
+        <verse osisID='2Sam.5.14'>And these are the names of those that were born to him in Jerusalem; Sammus, and Sobab, and Nathan, and Solomon.</verse>
+        <verse osisID='2Sam.5.15'>And Ebear, and Elisue, and Naphec, and Jephies.</verse>
+        <verse osisID='2Sam.5.16'>And Elisama, and Elidae, and Eliphalath, <note>(5:16AA)</note><note>Heb. and Alex omit the remaining names in this verse</note> Samae, Jessibath, Nathan, Galamaan, Jebaar, Theesus, Eliphalat, Naged, Naphec, Janathan, Leasamys, Baalimath, Eliphaath.</verse>
+        <verse osisID='2Sam.5.17'>And the Philistines heard that David was anointed king over Israel; and all the Philistines went up to seek David; and David heard of it, and went down to the strong hold.</verse>
+        <verse osisID='2Sam.5.18'>And the Philistines came, and assembled in the valley of the <note>Lit. Titans; Heb. Rephaim; Giants: Heb. Myapr; For some interesting remarks on this word, see the conclusion of Govett’s work on the book of the prophet Isaiah</note> giants.</verse>
+        <verse osisID='2Sam.5.19'>And David enquired of the Lord, saying, Shall I go up against the Philistines? and wilt thou deliver them into my hands? and the Lord said to David, Go up, for I will surely deliver the Philistines into thine hands.</verse>
+        <verse osisID='2Sam.5.20'>And David came from <note>Heb. Baal-perazim</note> Upper Breaches, and smote the Philistines there: and David said, The Lord has destroyed the hostile Philistines before me, as water is dispersed; therefore the name of that place was called <note>Thus in English or other languages, Underskiddaw, Unterseen, etc</note> Over Breaches.</verse>
+        <verse osisID='2Sam.5.21'>And they leave there their gods, and David and his men with him took them.</verse>
+        <verse osisID='2Sam.5.22'>And the Philistines came up yet again, and assembled in the valley of Giants.</verse>
+        <verse osisID='2Sam.5.23'>And David enquired of the Lord: and the Lord said, Thou shalt not go up to meet them: turn from them, and thou shalt meet them near the place of <note>Heb. Myakb, lit. mulberries</note> weeping.</verse>
+        <verse osisID='2Sam.5.24'>And it shall come to pass when thou hearest the sound of a clashing together from the grove of weeping, then thou shalt go down to them, for then the Lord shall go forth before thee to make havoc in the battle with the Philistines.</verse>
+        <verse osisID='2Sam.5.25'>And David did as the Lord commanded him, and smote the Philistines from Gabaon as far as the land of Gazera.</verse>
+      </chapter>
+      <chapter osisID='2Sam.6'>
+        <verse osisID='2Sam.6.1'>And David again gathered all the young men of Israel, about seventy thousand.</verse>
+        <verse osisID='2Sam.6.2'>And David arose, and went, he and all the people that were with him, and some of the rulers of Juda, on an expedition to a distant place, to bring back thence the ark of God, on which the name of the Lord of Host who dwells between the cherubs upon it is called.</verse>
+        <verse osisID='2Sam.6.3'>And they put the ark of the Lord on a new waggon, and took it out of the house of Aminadab who lived on the hill, and Oza and his brethren the sons of Aminadab drove the waggon <note>Alex. more according to the Heb. inserts «and brought it out of the house of Abinadad in the hill’</note> with the ark.</verse>
+        <verse osisID='2Sam.6.4'>And his brethren went before the ark.</verse>
+        <verse osisID='2Sam.6.5'>And David and the children of Israel were playing before the Lord on well-tuned instruments mightily, and with songs, and with harps, and with lutes, and with drums, and with cymbals, and with pipes.</verse>
+        <verse osisID='2Sam.6.6'>And they come as far as the threshing floor of Nachor: and Oza reached forth his hand to the ark of God to keep it steady, and took hold of it; for <note>Gr. the calf</note> the ox shook it out of its place.</verse>
+        <verse osisID='2Sam.6.7'>And the Lord was very angry with Oza; and God smote him there: <note>Heb. and Alex. +’for his rashness’</note> and he died there by the ark of the Lord before God.</verse>
+        <verse osisID='2Sam.6.8'>And David was dispirited because the Lord made a breach upon Oza; and that place was called the breach of Oza until this day.</verse>
+        <verse osisID='2Sam.6.9'>And David feared the Lord in that day, saying, How shall the ark of the Lord come in to me?</verse>
+        <verse osisID='2Sam.6.10'>And David would not bring in the ark of the covenant of the Lord to himself into the city of David: and David turned it aside into the house of Abeddara the Gethite.</verse>
+        <verse osisID='2Sam.6.11'>And the ark of the Lord lodged in the house of Abeddara the Gethite three months, and the Lord blessed all the house of Abeddara, and all his possessions.</verse>
+        <verse osisID='2Sam.6.12'>And it was reported to king David, saying, The Lord has blessed the house of Abeddara, and all that he has, because of the ark of the Lord. And David went, and brought up the Ark of the Lord from the house of Abeddara to the city of David with gladness.</verse>
+        <verse osisID='2Sam.6.13'>And there were with him bearing the ark seven bands, and for a sacrifice a calf and lambs.</verse>
+        <verse osisID='2Sam.6.14'>And David sounded with well-tuned instruments before the Lord, and David was clothed with a fine long robe.</verse>
+        <verse osisID='2Sam.6.15'>And David and all the house of Israel brought up the ark of the Lord with shouting, and with the sound of a trumpet.</verse>
+        <verse osisID='2Sam.6.16'>And it came to pass as the ark arrived at the city of David, that Melchol the daughter of Saul looked through the window, and saw king David dancing and playing before the Lord; and she despised him in her heart.</verse>
+        <verse osisID='2Sam.6.17'>And they bring the ark of the Lord, and set it in its place in the midst of the tabernacle which David pitched for it: and David offered whole-burnt-offerings before the Lord, and peace-offerings.</verse>
+        <verse osisID='2Sam.6.18'>And David made an end of offering the whole-burnt-offerings and peace-offerings, and blessed the people in the name of the Lord of Hosts.</verse>
+        <verse osisID='2Sam.6.19'>And he distributed to all the people, even to all the host of Israel from Dan to Bersabee, both men and women, to every one a cake of bread, and a joint of meat, and a cake from the frying-pan: and all the people departed every one to his home.</verse>
+        <verse osisID='2Sam.6.20'>And David returned to bless his house. And Melchol the daughter of Saul came out to meet David and saluted him, and said, How was the king of Israel glorified to-day, who was to-day uncovered in the eyes of the handmaids of his servants, as one of the dancers wantonly uncovers himself!</verse>
+        <verse osisID='2Sam.6.21'>And David said to Melchol, I will dance before the Lord. Blessed be the Lord who chose me before thy father, and before all his house, to make me head over his people, even over Israel: therefore I will play, and dance before the Lord.</verse>
+        <verse osisID='2Sam.6.22'>And I will again uncover myself thus, and I will be vile in thine eyes, and with the maid-servants by whom thou saidst that I was <note>Alex. omits the negative, but still differs from the Hebrew</note> not had in honour.</verse>
+        <verse osisID='2Sam.6.23'>And Melchol the daughter of Saul had no child till the day of her death.</verse>
+      </chapter>
+      <chapter osisID='2Sam.7'>
+        <verse osisID='2Sam.7.1'>And it came to pass when the king sat in his house, and the Lord had given him an inheritance on every side free from all his enemies round about him;</verse>
+        <verse osisID='2Sam.7.2'>that the king said to Nathan the prophet, Behold now, I live in a house of cedar, and the ark of the Lord dwells in the midst of a tent.</verse>
+        <verse osisID='2Sam.7.3'>And Nathan said to the king, Go and do all that is in thine heart, for the Lord is with thee.</verse>
+        <verse osisID='2Sam.7.4'>And it came to pass in that night, that the word of the Lord came to Nathan, saying,</verse>
+        <verse osisID='2Sam.7.5'>Go, and say to my servant David, Thus says the Lord, Thou shalt not build me a house for me to dwell in.</verse>
+        <verse osisID='2Sam.7.6'>For I have not dwelt in a house from the day that I brought up the children of Israel out of Egypt to this day, but I have been walking in a lodge and in a tent,</verse>
+        <verse osisID='2Sam.7.7'>wheresoever I went with all Israel. Have I ever spoken to any of the tribes of Israel, which I commanded to tend my people Israel, saying, Why have ye not built me a house of Cedar?</verse>
+        <verse osisID='2Sam.7.8'>And now thus shalt thou say to my servant David, Thus says the Lord Almighty, I took thee from the sheep-cote, that thou shouldest be a prince over my people, over Israel.</verse>
+        <verse osisID='2Sam.7.9'>And I was with thee wheresoever thou wentest, and I destroyed all thine enemies before thee, and I made thee renowned according to the renown of the great ones on the earth.</verse>
+        <verse osisID='2Sam.7.10'>And I will appoint a place for my people Israel, and will plant <note>Gr. it</note> them, and they shall dwell by themselves, and shall be no more distressed; and the son of iniquity shall no more afflict them, as he has done from the beginning,</verse>
+        <verse osisID='2Sam.7.11'>from the days when I appointed judges over my people Israel: and I will give thee rest from all thine enemies, and the Lord will tell thee that thou shalt build a house to him.</verse>
+        <verse osisID='2Sam.7.12'>And it shall come to pass when thy days shall have been fulfilled, and thou shalt sleep with thy fathers, that I will raise up thy seed after thee, even thine own issue, and I will establish his kingdom.</verse>
+        <verse osisID='2Sam.7.13'>He shall build for me a house to my name, and I will set up his throne even for ever.</verse>
+        <verse osisID='2Sam.7.14'>I will be to him a father, and he shall be to me a son. And when he happens to transgress, then will I chasten him with the rod of men, and with the stripes of the sons of men.</verse>
+        <verse osisID='2Sam.7.15'>But my mercy I will not take from him, as I took it from those whom I removed from my presence.</verse>
+        <verse osisID='2Sam.7.16'>And his house shall be made sure, and his kingdom for ever before me, and his throne shall be set up for ever.</verse>
+        <verse osisID='2Sam.7.17'>According to all these words, and according to all this vision, so Nathan spoke to David.</verse>
+        <verse osisID='2Sam.7.18'>And king David came in, and sat before the Lord, and said, Who am I, O Lord, my Lord, and what is my house, that thou hast loved me <note>Or, so much as this</note> hitherto?</verse>
+        <verse osisID='2Sam.7.19'>Whereas I was very little before thee, O Lord, my Lord, yet thou spokest concerning the house of thy servant for a long time to to come. And is this the law of man, O Lord, my Lord?</verse>
+        <verse osisID='2Sam.7.20'>And what shall David yet say to thee? and now thou knowest thy servant, O Lord, my Lord.</verse>
+        <verse osisID='2Sam.7.21'>And thou hast wrought for thy servant’s sake, and according to thy heart thou hast wrought all this greatness, to make it known to thy servant,</verse>
+        <verse osisID='2Sam.7.22'>that he may magnify thee, O my Lord; for there is no one <note>Gr. as thou</note> like thee, and there is no God, but thou among all of whom we have heard with our ears.</verse>
+        <verse osisID='2Sam.7.23'>And what other nation in the earth is as thy people Israel? whereas God was his guide, to redeem for himself a people to make thee a name, to do mightily and nobly, so that thou shouldest cast out nations an their tabernacles from the presence of thy people, whom thou didst redeem for thyself out of Egypt?</verse>
+        <verse osisID='2Sam.7.24'>And thou has prepared for thyself thy people Israel to be a people for ever, and thou, Lord, art become their God.</verse>
+        <verse osisID='2Sam.7.25'>And now, O my Lord, the Almighty Lord God of Israel, confirm the word for ever which thou hast spoken concerning thy servant and his house: and now as thou hast said,</verse>
+        <verse osisID='2Sam.7.26'>Let thy name be magnified for ever. <note>Heb. and Alex add, «and let the house of thy servant David be established before thee’</note></verse>
+        <verse osisID='2Sam.7.27'>Almighty Lord God of Israel, thou hast uncovered the ear of thy servant, saying, I will build thee a house: therefore thy servant has found in his heart to pray this prayer to thee.</verse>
+        <verse osisID='2Sam.7.28'>And now, O Lord my Lord, thou art God; and thy words will be true, and thou hast spoken these good things concerning thy servant.</verse>
+        <verse osisID='2Sam.7.29'>And now begin and bless the house of thy servant, that it may continue for ever before thee; for thou, O Lord, my Lord, hast spoken, and the house of thy servant shall be blessed with thy blessing so as to continue for ever.</verse>
+      </chapter>
+      <chapter osisID='2Sam.8'>
+        <verse osisID='2Sam.8.1'>And it came to pass after this, that David smote the Philistines, and put them to flight, and David took the <note>Heb. Metheg-ammah; lit. bridle of Amman</note> tribute from out of the hand of the Philistines.</verse>
+        <verse osisID='2Sam.8.2'>And David smote Moab, and measured them out with lines, having <note>Gr. caused them to sleep</note> laid them down on the ground: and there were two lines for slaying, and two lines he kept alive: and Moab became servants to David, yielding tribute.</verse>
+        <verse osisID='2Sam.8.3'>And David smote Adraazar the son of Raab king of Suba, as he went to extend his power to the river Euphrates.</verse>
+        <verse osisID='2Sam.8.4'>And David took <note>Alex. seven</note> a thousand of his chariots, and seven thousand horsemen, and twenty thousand footmen: and David houghed all his <note>Gr. chariots</note> chariot horses, and he reserved to himself a hundred chariots.</verse>
+        <verse osisID='2Sam.8.5'>And Syria of Damascus comes to help Adraazar king of Suba, and David smote twenty-two thousand men belonging to the Syrian.</verse>
+        <verse osisID='2Sam.8.6'>And David placed a garrison in Syria near Damascus, and the Syrians became servants and tributaries to David: and the Lord preserved David whithersoever he went.</verse>
+        <verse osisID='2Sam.8.7'>And David took the golden bracelets which were on the servants of Adraazar king of Suba, and brought them to Jerusalem. And Susakim king of Egypt took them, when he went up to Jerusalem in the days of Roboam son of Solomon.</verse>
+        <verse osisID='2Sam.8.8'>And king David took from Metebac, and from the choice cities of Adraazar, very much brass: with that Solomon made the brazen sea, and the pillars, and the lavers, and all the furniture.</verse>
+        <verse osisID='2Sam.8.9'>And Thou the king of Hemath heard that David had smitten all the host of Adraazar.</verse>
+        <verse osisID='2Sam.8.10'>And Thou sent Jedduram his son to king David, to ask him of his welfare, and to congratulate him on his fighting against Adraazar and smiting him, for he was an enemy to Adraazar: and in his hands were vessels of silver, and vessels of gold, and vessels of brass.</verse>
+        <verse osisID='2Sam.8.11'>And these king David consecrated to the Lord, with the silver and with the gold which he consecrated out of all the cities which he conquered,</verse>
+        <verse osisID='2Sam.8.12'>out of Idumea, and out of Moab, and from the children of Ammon, and from the Philistines, and from Amalec, and from the spoils of Adraazar son of Raab king of Suba.</verse>
+        <verse osisID='2Sam.8.13'>And David made himself a name: and when he returned he smote Idumea in Gebelem to the number of eighteen thousand.</verse>
+        <verse osisID='2Sam.8.14'>And he set garrisons in Idumea, even in all Idumea: and all the Idumeans were servants to the king. And the Lord preserved David wherever he went.</verse>
+        <verse osisID='2Sam.8.15'>And David reigned over all Israel: and David wrought judgement and justice over all his people.</verse>
+        <verse osisID='2Sam.8.16'>And Joab the son of Saruia was over the host; and Josaphat the son of Achilud was keeper of the records.</verse>
+        <verse osisID='2Sam.8.17'>And Sadoc the son of Achitob, and Achimelech son of Abiathar, were priests; and Sasa was the scribe,</verse>
+        <verse osisID='2Sam.8.18'>and Banaeas son of Jodae was councillor, and the Chelethite and the Phelethite, and the sons of David, were princes of the court.</verse>
+      </chapter>
+      <chapter osisID='2Sam.9'>
+        <verse osisID='2Sam.9.1'>And David said, Is there yet any one left in the house of Saul, that I may deal kindly with him for Jonathan’s sake?</verse>
+        <verse osisID='2Sam.9.2'>And there was a servant of the house of Saul, and his name was Siba: and they call him to David; and the king said to him, Art thou Siba? and he said, I am thy servant.</verse>
+        <verse osisID='2Sam.9.3'>And the king said, Is there yet a man left of the house of Saul, that I may act towards him with the mercy of God? and Siba said to the king, There is yet a son of Jonathan, lame of his feet.</verse>
+        <verse osisID='2Sam.9.4'>And the king said, Where is he? and Siba said to the king, Behold, he is in the house of Machir the son of Amiel of Lodabar.</verse>
+        <verse osisID='2Sam.9.5'>And king David went, and took him out of the house of Machir the son Amiel of Lodabar.</verse>
+        <verse osisID='2Sam.9.6'>And Memphibosthe the son of Jonathan the son of Saul comes to the king David, and he fell upon his face and did obeisance to him: and David said to him, Memphibosthe: and he said, Behold thy servant.</verse>
+        <verse osisID='2Sam.9.7'>And David said to him, Fear not, for I will surely deal mercifully with thee for the sake of Jonathan thy father, and I will restore to thee all the land of Saul the father of thy father; and thou shalt eat bread at my table continually.</verse>
+        <verse osisID='2Sam.9.8'>And Memphibosthe did obeisance, and said, Who am I thy servant, that thou hast looked upon a dead dog like me?</verse>
+        <verse osisID='2Sam.9.9'>And the king called Siba the servant of Saul, and said to him, All that <note>Gr. belongs</note> belonged to Saul and to all his house have I given to the son of thy lord.</verse>
+        <verse osisID='2Sam.9.10'>And thou, and thy sons, and thy servants, shall till the land for him; and thou shalt bring in bread to the son of thy lord, and he shall eat bread: and Memphibosthe the son of thy lord shall eat bread continually at my table. Now Siba had fifteen sons and twenty servants.</verse>
+        <verse osisID='2Sam.9.11'>And Siba said to the king, According to all that my lord the king has commanded his servant, so will thy servant do. And Memphibosthe did eat at the table of David, as one of the sons of the king.</verse>
+        <verse osisID='2Sam.9.12'>And Memphibosthe had a little son, and his name was Micha: and all the household of Siba were servants to Memphibosthe.</verse>
+        <verse osisID='2Sam.9.13'>And Memphibosthe dwelt in Jerusalem, for he continually ate at the table of the king; and he was lame in both his feet.</verse>
+      </chapter>
+      <chapter osisID='2Sam.10'>
+        <verse osisID='2Sam.10.1'>And it came to pass after this that the king of the children of Ammon died, and Annon his son reigned in his stead.</verse>
+        <verse osisID='2Sam.10.2'>And David said, I will shew mercy to Annon the son of Naas, as his father dealt mercifully with me. And David sent to comfort him concerning his father by the hand of his servants; and the servants of David came into the land of the children of Ammon.</verse>
+        <verse osisID='2Sam.10.3'>And the princes of the children of Ammon said to Annon their lord, Is it to honour thy father before thee that David has sent comforters to thee? Has not David rather sent his servants to thee that they should search the city, and spy it out and examine it?</verse>
+        <verse osisID='2Sam.10.4'>And Annon took the servants of David, and shaved their beards, and cut off their garments in the midst as far as their haunches, and sent them away.</verse>
+        <verse osisID='2Sam.10.5'>And they brought David word concerning the men; and he sent to meet them, for the men were greatly dishonoured: and the king said, Remain in Jericho till your beards have grown, and then ye shall return.</verse>
+        <verse osisID='2Sam.10.6'>And the children of Ammon saw that the people of David were ashamed; and the children of Ammon sent, and hired the Syrians of Baethraam, and the Syrians of Suba, and Roob, twenty thousand footmen, and the king of Amalec with a thousand men, and Istob with twelve thousand men.</verse>
+        <verse osisID='2Sam.10.7'>And David heard, and sent Joab and all his host, even the mighty men.</verse>
+        <verse osisID='2Sam.10.8'>And the children of Ammon went forth, and set the battle in array by the door of the gate: those of Syria, Suba, and Roob, and Istob, and Amalec, being by themselves in the field.</verse>
+        <verse osisID='2Sam.10.9'>And Joab saw that the front of the battle was against him from that which was opposed in front and from behind, and he chose out some of all the young men of Israel, and they set themselves in array against Syria.</verse>
+        <verse osisID='2Sam.10.10'>And the rest of the people he gave into the hand of Abessa his brother, and they set the battle in array opposite to the children of Ammon.</verse>
+        <verse osisID='2Sam.10.11'>And he said, If Syria be too strong for me, then shall ye help me: and if the children of Ammon be too strong for thee, then will we be ready to help thee.</verse>
+        <verse osisID='2Sam.10.12'>Be thou courageous, and let us be strong for our people, and for the sake of the cities of our God, and the Lord shall do that which is good in his eyes.</verse>
+        <verse osisID='2Sam.10.13'>And Joab and his people with him advanced to battle against Syria, and they fled from before him.</verse>
+        <verse osisID='2Sam.10.14'>And the children of Ammon saw that the Syrians were fled, and they fled from before Abessa, and entered into the city: and Joab returned from the children of Ammon, and came to Jerusalem.</verse>
+        <verse osisID='2Sam.10.15'>And the Syrians saw that they were worsted before Israel, and they gathered themselves together.</verse>
+        <verse osisID='2Sam.10.16'>And Adraazar sent and gathered the Syrians from the other side of the river <note>Heb. and Alex. omit the name</note> Chalamak, and they came to Ælam; and Sobac the captain of the host of Adraazar was <note>Gr. before them</note> at their head.</verse>
+        <verse osisID='2Sam.10.17'>And it was reported to David, and he gathered all Israel, and went over Jordan, and came to Ælam: and the Syrians set the battle in array against David, and fought with him.</verse>
+        <verse osisID='2Sam.10.18'>And Syria fled from before Israel, and David destroyed of Syria seven hundred chariots, and forty thousand horsemen, and he smote Sobac the captain of his host, and he died there.</verse>
+        <verse osisID='2Sam.10.19'>And all the kings the servants of Adraazar saw that they were put to the worse before Israel, and they went over to Israel, and served them: and Syria was afraid to <note>Gr. save</note> help the children of Ammon any more.</verse>
+      </chapter>
+      <chapter osisID='2Sam.11'>
+        <verse osisID='2Sam.11.1'>And it came to pass when the time of the year for kings going out to battle had come round, that David sent Joab, and his servants with him, and all Israel; and they destroyed the children of Ammon, and besieged Rabbath: but David remained at Jerusalem.</verse>
+        <verse osisID='2Sam.11.2'>And it came to pass toward evening, that David arose off his couch, and walked on the roof of the king’s house, and saw from the roof a woman bathing; and the woman was very beautiful to look upon.</verse>
+        <verse osisID='2Sam.11.3'>And David sent and enquired about the woman: and one said, Is not this Bersabee the daughter of Eliab, the wife of Urias the Chettite?</verse>
+        <verse osisID='2Sam.11.4'>And David sent messengers, and took her, and went in to her, and he lay with her: and she was <note>Gr. sanctified</note> purified from her uncleanness, and returned to her house.</verse>
+        <verse osisID='2Sam.11.5'>And the woman conceived; and she sent and told David, and said, I am with child.</verse>
+        <verse osisID='2Sam.11.6'>And David sent to Joab, saying, Send me Urias the Chettite; and Joab sent Urias to David.</verse>
+        <verse osisID='2Sam.11.7'>And Urias arrived and went in to him, and David asked him how Joab was, and how the people were, and how the war went on.</verse>
+        <verse osisID='2Sam.11.8'>And David said to Urias, Go to thy house, and wash thy feet: and Urias departed from the house of the king, and a portion of meat from the king followed him.</verse>
+        <verse osisID='2Sam.11.9'>And Urias slept at the door of the king with the servants of his lord, and went not down to his house.</verse>
+        <verse osisID='2Sam.11.10'>And they brought David word, saying, Urias has not gone down to his house. And David said to Urias, Art thou not come from a journey? why hast thou not gone down to thy house?</verse>
+        <verse osisID='2Sam.11.11'>And Urias said to David, The ark, and Israel, and Juda dwell in tents; and my lord Joab, and the servants of my lord, <note>Lit. encamp</note> are encamped in the open fields; and shall I go into my house to eat and drink, and lie with my wife? how should I do this? as thy soul lives, <note>Gr. if I do this thing</note> I will not do this thing.</verse>
+        <verse osisID='2Sam.11.12'>And David said to Urias, Remain here to-day also, and to-morrow I will let thee go. So Urias remained in Jerusalem that day and the day following.</verse>
+        <verse osisID='2Sam.11.13'>And David called him, and he ate before him and drank, and he made him drunk: and he went out in the evening to lie upon his bed with the servants of his lord, and went not down to his house.</verse>
+        <verse osisID='2Sam.11.14'>And the morning came, and David wrote a letter to Joab, and sent it by the hand of Urias.</verse>
+        <verse osisID='2Sam.11.15'>And he wrote in the letter, saying, Station Urias in front of the severe part of the fight, and retreat from behind him, so shall he be wounded and die.</verse>
+        <verse osisID='2Sam.11.16'>And it came to pass while Joab was watching against the city, that he set Urias in a place where he knew that valiant men were.</verse>
+        <verse osisID='2Sam.11.17'>And the men of the city went out, and fought with Joab: and some of the people of the servants of David fell, and Urias the Chettite died also.</verse>
+        <verse osisID='2Sam.11.18'>And Joab sent, and reported to David all the events of the war, <note>Alex. and Heb. make the verse end here</note> so as to tell them to the king.</verse>
+        <verse osisID='2Sam.11.19'>And he charged the messenger, saying, When thou hast finished reporting all the events of the war to the king,</verse>
+        <verse osisID='2Sam.11.20'>then it shall come to pass if the anger of the king shall arise, and he shall say to thee, Why did ye draw nigh to the city to fight? knew ye not that they would shoot from off the wall?</verse>
+        <verse osisID='2Sam.11.21'>Who smote Abimelech the son of Jerobaal son of Ner? did not a woman cast a piece of a millstone upon him from above the wall, and he died in Thamasi? why did ye draw near to the wall? then thou shalt say, Thy servant Urias the Chettite is also dead.</verse>
+        <verse osisID='2Sam.11.22'>And the messenger of Joab went to the king to Jerusalem, and he came and reported to David all that Joab told him, all the affairs of the war. And David was very angry with Joab, and said to the messenger, Why did ye draw nigh to the wall to fight? knew ye not that ye would be wounded from off the wall? Who smote Abimelech the son of Jerobaal? did not a woman cast upon him a piece of millstone from the wall, and he died in Thamasi? why did ye draw near to the wall?</verse>
+        <verse osisID='2Sam.11.23'>And the messenger said to David, The men prevailed against us, and they came out against us into the field, and we came upon them even to the door of the gate.</verse>
+        <verse osisID='2Sam.11.24'>And the archers shot at thy servants from off the wall, and some of the king’s servants died, and thy servant Urias the Chettite is dead also.</verse>
+        <verse osisID='2Sam.11.25'>And David said to the messenger, Thus shalt thou say to Joab, Let not the matter be grievous in thine eyes, for the sword devours one way at one time and another way at another: strengthen thine array against the city, and destroy it, and strengthen <note>There can be little doubt that auton, the Alex. reading, is correct, instead of authn</note> him.</verse>
+        <verse osisID='2Sam.11.26'>And the wife of Urias heard that Urias her husband was dead, and she mourned for her husband.</verse>
+        <verse osisID='2Sam.11.27'>And the time of mourning expired, and David sent and took her into his house, and she became his wife, and bore him a son: but the thing which David did was evil in the eyes of the Lord.</verse>
+      </chapter>
+      <chapter osisID='2Sam.12'>
+        <verse osisID='2Sam.12.1'>And the Lord sent Nathan the prophet to David; and he went in to him, and said to him, There were two men in one city, one rich and the other poor.</verse>
+        <verse osisID='2Sam.12.2'>And the rich man had very many flocks and herds.</verse>
+        <verse osisID='2Sam.12.3'>But the poor man had only one little ewe lamb, which he had purchased, and preserved, and reared; an it grew up with himself and his children in common; it ate of his bread and drank of his cup, and slept in his bosom, and was to him as a daughter.</verse>
+        <verse osisID='2Sam.12.4'>And a traveller came to the rich man, and he spared to take of his flocks and of his herds, to dress for the traveller that came to him; and he took the poor man’s lamb, and dressed it for the man that came to him.</verse>
+        <verse osisID='2Sam.12.5'>And David was greatly moved with anger against the man; and David said to Nathan, As the Lord lives, the man that did this thing <note>Gr. is a son of death</note> shall surely die.</verse>
+        <verse osisID='2Sam.12.6'>And he shall restore the lamb seven-fold, because he has not spared.</verse>
+        <verse osisID='2Sam.12.7'>And Nathan said to David, Thou art the man that has done this. Thus says the Lord God of Israel, I anointed thee to be king over Israel, and I rescued thee out the hand of Saul;</verse>
+        <verse osisID='2Sam.12.8'>and I gave thee the house of thy lord, and the wives of thy lord into thy bosom, and I gave to thee the house of Israel and Juda; and if that <note>Gr. is little, I will give, etc.</note> had been little, I would have given thee yet more.</verse>
+        <verse osisID='2Sam.12.9'>Why hast thou set at nought the word of the Lord, to do that which is evil in his eyes? thou hast slain Urias the Chettite with the sword, and thou hast taken his wife to be thy wife, and thou hast slain him with the sword of the children of Ammon.</verse>
+        <verse osisID='2Sam.12.10'>Now therefore the sword shall not depart from thy house for ever, because thou has set me at nought, and thou hast taken the wife of Urias the Chettite, to be thy wife.</verse>
+        <verse osisID='2Sam.12.11'>Thus says the Lord, Behold, I will raise up against thee evil out of thy house, and I will take thy wives before thine eyes, and will give them to thy neighbour, and he shall lie with thy wives in the sight of this sun.</verse>
+        <verse osisID='2Sam.12.12'>For thou didst it secretly, but I will do this thing in the sight of all Israel, and before the sun.</verse>
+        <verse osisID='2Sam.12.13'>And David said to Nathan, I have sinned against the Lord. And Nathan said to David, And the Lord has put away thy sin; thou shalt not die.</verse>
+        <verse osisID='2Sam.12.14'>Only because thou hast given great occasion of provocation to the enemies of the Lord by this thing, thy son also <note>Gr. born</note> that is born to thee shall surely die.</verse>
+        <verse osisID='2Sam.12.15'>And Nathan departed to his house. And the Lord smote the child, which the wife of Urias the Chettite bore to David, and it was ill.</verse>
+        <verse osisID='2Sam.12.16'>And David enquired of God concerning the child, and David fasted, and went in and lay all night upon the ground.</verse>
+        <verse osisID='2Sam.12.17'>And the elders of his house arose and went to him to raise him up from the ground, but he would not rise, nor did he eat bread with them.</verse>
+        <verse osisID='2Sam.12.18'>And it came to pass on the seventh day that the child died: and the servants of David were afraid to tell him that the child was dead; for they said, Behold, while the child was yet alive we spoke to him, and he hearkened not to our voice; and thou should we tell him that the child is dead?—so <note>Gr. will</note> would he do himself harm.</verse>
+        <verse osisID='2Sam.12.19'>And David understood that his servants were whispering, and David perceived that the child was dead: and David said to his servants, Is the child dead? and they said, He is dead.</verse>
+        <verse osisID='2Sam.12.20'>Then David rose up from the earth, and washed, and anointed himself, and changed his raiment, and went into the house of God, and worshipped him; and went into his own house, and called for bread to eat, and they set bread before him and he ate.</verse>
+        <verse osisID='2Sam.12.21'>And his servants said to him, What is this thing that thou hast done concerning the child? while it was yet living thou didst fast, and weep, and watch: and when the child was dead thou didst rise up, and didst eat bread, and drink.</verse>
+        <verse osisID='2Sam.12.22'>And David said, While the child yet lived, I fasted and wept; for I said, Who knows if the Lord will pity me, and the child live?</verse>
+        <verse osisID='2Sam.12.23'>But now it is dead, why should I fast thus? shall I be able to bring him back again? I shall go to him, but he shall not return to me.</verse>
+        <verse osisID='2Sam.12.24'>And David comforted Bersabee his wife, and he went in to her, and lay with her; and she conceived and bore a son, and he called his named Solomon, and the Lord loved him.</verse>
+        <verse osisID='2Sam.12.25'>And he sent by the hand of Nathan the prophet, and called his name Jeddedi, for the Lord’s sake.</verse>
+        <verse osisID='2Sam.12.26'>And Joab fought against Rabbath of the children of Ammon, and took the royal city.</verse>
+        <verse osisID='2Sam.12.27'>And Joab sent messengers to David, and said, I have fought against Rabbath, and taken the city of waters.</verse>
+        <verse osisID='2Sam.12.28'>And now gather the rest of the people, and encamp against the city, and take it beforehand; lest I take the city first, and my name be called upon it.</verse>
+        <verse osisID='2Sam.12.29'>And David gathered all the people, and went to Rabbath, and fought against it, and took it.</verse>
+        <verse osisID='2Sam.12.30'>And he took the crown of <note>Alex. rightly omits Molchom; «Their king’ in Heb.</note> Molchom their king from off his head, and the weight of it was a talent of gold, with precious stones, and it was upon the head of David; and he carried forth very much spoil of the city.</verse>
+        <verse osisID='2Sam.12.31'>And he brought forth the people that were in it, and put them <note>Gr. in</note> under the saw, and under iron harrows, and axes of iron, and made them pass through the brick-kiln: and thus he did to all the cities of the children of Ammon. And David and all the people returned to Jerusalem.</verse>
+      </chapter>
+      <chapter osisID='2Sam.13'>
+        <verse osisID='2Sam.13.1'>And it happened after this that Abessalom the son of David had a very beautiful sister, and her name was Themar; and Amnon the son of David loved her.</verse>
+        <verse osisID='2Sam.13.2'>And Amnon was distressed even to sickness, because of Themar his sister; for she was a virgin, and it seemed very difficult for Amnon to do anything to her.</verse>
+        <verse osisID='2Sam.13.3'>And Amnon had a friend, and his name was Jonadab, the son of Samaa the brother of David: and Jonadab was a very cunning man.</verse>
+        <verse osisID='2Sam.13.4'>And he said to him, What ails thee that thou art thus weak? O son of the king, morning by morning? <note>Gr. dost</note> wilt thou not tell me? and Ammon said, I love Themar the sister of my brother Abessalom.</verse>
+        <verse osisID='2Sam.13.5'>And Jonadab said to him, Lie upon thy bed, and make thyself sick, and thy father shall come in to see thee; and thou shalt say to him, Let, I pray thee, Themar my sister come, and feed me with morsels, and let her prepare food before my eyes, that I may see and eat at her hands.</verse>
+        <verse osisID='2Sam.13.6'>So Ammon lay down, and made himself sick; and the king came in to see him: and Amnon said to the king, Let, I pray thee, my sister Themar come to me, and make a couple of cakes in my sight, and I will eat them at her hand.</verse>
+        <verse osisID='2Sam.13.7'>And David sent to Themar to the house, saying, Go now to thy brother’s house, and dress him food.</verse>
+        <verse osisID='2Sam.13.8'>And Themar went to the house of her brother Amnon, and he was lying down: and she took the dough and kneaded it, and made cakes in his sight, and baked the cakes.</verse>
+        <verse osisID='2Sam.13.9'>And she took the frying pan and poured them out before him, but he would not eat. And Amnon said, Send out every man from <note>Gr. above</note> about me. And they removed every man from about him.</verse>
+        <verse osisID='2Sam.13.10'>And Amnon said to Themar, Bring in the food into the closet, and I will eat of thy hand. And Themar took the cakes which she had made, and brought them to her brother Amnon into the chamber.</verse>
+        <verse osisID='2Sam.13.11'>And she brought them to him to eat, and he caught hold of her, and said to her, Come, lie with me, my sister.</verse>
+        <verse osisID='2Sam.13.12'>And she said to him, Nay, my brother, do not humble me, for it <note>Gr. will not; q. d. non est faciendum</note> ought not to be so done in Israel; do not this folly.</verse>
+        <verse osisID='2Sam.13.13'>And I, whither shall I remove my reproach? and thou shalt be as one of the fools in Israel. And now, speak, I pray thee, to the king, for surely he will not keep me from thee.</verse>
+        <verse osisID='2Sam.13.14'>But Amnon would not hearken to her voice; and he prevailed against her, and humbled her, and lay with her.</verse>
+        <verse osisID='2Sam.13.15'>Then Amnon hated her with very great hatred; for the hatred with which he hated her was greater than the love with which he had loved her, for the last wickedness was greater than the first: and Amnon said to her, Rise, and be gone.</verse>
+        <verse osisID='2Sam.13.16'>And Themar spoke to him concerning this great mischief, greater, said she, than the other that thou didst me, to send me away: but Amnon would not hearken to her voice.</verse>
+        <verse osisID='2Sam.13.17'>And he called his servant who had charge of the house, and said to him, Put now this woman out from me, and shut the door after her.</verse>
+        <verse osisID='2Sam.13.18'>And she had on her a variegated robe, for so were the king’s daughters that were virgins attired in their apparel: and his servant led her forth, and shut the door after her.</verse>
+        <verse osisID='2Sam.13.19'>And Themar took ashes, and put them on her head; and she rent the variegated garment that was upon her: and she laid her hands on her head, and went crying continually.</verse>
+        <verse osisID='2Sam.13.20'>And Abessalom her brother said to her, Has thy brother Amnon been with thee? now then, my sister, be silent, for he is thy brother: be not careful to mention this matter. So Themar dwelt as a widow in the house of her brother Abessalom.</verse>
+        <verse osisID='2Sam.13.21'>And king David heard of all these things, and was very angry; but he did not grieve the spirit of his son Amnon, because be loved him, for he was his first-born.</verse>
+        <verse osisID='2Sam.13.22'>And Abessalom spoke not to Amnon, good or bad, because Abessalom hated Amnon, on account of his humbling his sister Themar.</verse>
+        <verse osisID='2Sam.13.23'>And it came to pass at the end of <note>q. d. a two-year of days</note> two whole years, that they were shearing sheep for Abessalom in Belasor near Ephraim: and Abessalom invited all the king’s sons.</verse>
+        <verse osisID='2Sam.13.24'>And Abessalom came to the king, and said, Behold, <note>Gr. they are shearing for thy servant</note> thy servant has a sheep-shearing; let now the king and his servants go with thy servant.</verse>
+        <verse osisID='2Sam.13.25'>And the king said to Abessalom, Nay, my son, let us not all go, and let us not be burdensome to thee. And he pressed him; but he would not go, but blessed him.</verse>
+        <verse osisID='2Sam.13.26'>And Abessalom said to him, And if not, let I pray thee, my brother Amnon go with us. And the king said to him, Why should he go with thee?</verse>
+        <verse osisID='2Sam.13.27'>And Abessalom pressed him, and he sent with him Amnon and all the king’s sons; and Abessalom made a banquet like the banquet of the king.</verse>
+        <verse osisID='2Sam.13.28'>And Abessalom charged his servants, saying, Mark when the heart of Amnon shall be merry with wine, and I shall say to you, Smite Amnon, and slay him: fear not; for is it not I that command you? Be courageous, <note>Gr. and become sons of strength</note> and be valiant.</verse>
+        <verse osisID='2Sam.13.29'>And the servants of Abessalom did to Amnon as Abessalom commanded them: and all the sons of the king rose up, and they mounted every man his mule, and fled.</verse>
+        <verse osisID='2Sam.13.30'>And it came to pass, when they were in the way, that a report came to David, saying, Abessalom has slain all the king’s sons, and there is not one of them left.</verse>
+        <verse osisID='2Sam.13.31'>Then the king arose, and rent his garments, and lay upon the ground: and all his servants that were standing round him rent their garments.</verse>
+        <verse osisID='2Sam.13.32'>And Jonadab the son of Samaa brother of David, answered and said, Let not my Lord the king say that he has slain all the young men the sons of the king, for Amnon only of them all is dead; for he was appointed to death by the mouth of Abessalom from the day that he humbled his sister Themar.</verse>
+        <verse osisID='2Sam.13.33'>And now let not my lord the king take the matter to heart, saying, All the king’s sons are dead: for Amnon only of them is dead.</verse>
+        <verse osisID='2Sam.13.34'>And Abessalom escaped: and the young man the watchman, lifted up his eyes, and looked; and, behold, much people went in the way behind him from the side of the mountain in the descent: and the watchman came and told the king, and said, I have seen men by the way of Oronen, by the side of the mountain.</verse>
+        <verse osisID='2Sam.13.35'>And Jonadab said to the king, Behold, the king’s sons are present: according to the word of thy servant, so has it happened.</verse>
+        <verse osisID='2Sam.13.36'>And it came to pass when he had finished speaking, that, behold, the king’s sons came, and lifted up their voices and wept: and the king also and all his servants wept with a very great weeping.</verse>
+        <verse osisID='2Sam.13.37'>But Abessalom fled, and went to Tholmi son of Emiud the king of Gedsur to the land of Chamaachad: and king David mourned for his son continually.</verse>
+        <verse osisID='2Sam.13.38'>So Abessalom fled, and departed to Gedsur, and was there three years.</verse>
+        <verse osisID='2Sam.13.39'>And king David ceased to go out after Abessalom, for he was comforted concerning Amnon, touching his death.</verse>
+      </chapter>
+      <chapter osisID='2Sam.14'>
+        <verse osisID='2Sam.14.1'>And Joab the son of Saruia knew that the heart of the king was toward Abessalom.</verse>
+        <verse osisID='2Sam.14.2'>And Joab sent to Thecoe, and took thence a cunning woman, and said to her, Mourn, I pray thee, and put on mourning apparel, and anoint thee not with oil, and thou shalt be as a woman mourning for one that is dead thus for many days.</verse>
+        <verse osisID='2Sam.14.3'>And thou shalt go to the king, and speak to him according to this word. And Joab put the words in her mouth.</verse>
+        <verse osisID='2Sam.14.4'>So the woman of Thecoe went in to the king and fell upon her face to the earth, and did him obeisance, and said, <note>Or, save</note> Help, O king, help.</verse>
+        <verse osisID='2Sam.14.5'>And the king said to her, What is the matter with thee? And she said, I am indeed a widow woman, and my husband is dead.</verse>
+        <verse osisID='2Sam.14.6'>And moreover thy handmaid had two sons, and they fought <note>Gr. both</note> together in the field, and there was no one to part them; and the one smote the other his brother, and slew him.</verse>
+        <verse osisID='2Sam.14.7'>And behold the whole family rose up against thine handmaid, and they said, Give up the one that smote his brother, and we will put him to death for the life of his brother, whom he slew, and we will take away even your heir: so they will quench my coal that is left, so as not to <note>Gr. place</note> leave my husband remnant or name on the face of the earth.</verse>
+        <verse osisID='2Sam.14.8'>And the king said to the woman, <note>Gr. in health</note> Go in peace to thy house, and I will give commandment concerning thee.</verse>
+        <verse osisID='2Sam.14.9'>And the woman of Thecoe said to the king, On me, my lord, O king, and on my father’s house be the iniquity, and the king and his throne be guiltless.</verse>
+        <verse osisID='2Sam.14.10'>And the king said, Who was it that spoke to thee? thou shalt even bring him to me, and one shall not touch <note>q. d. they son</note> him any more.</verse>
+        <verse osisID='2Sam.14.11'>And she said, Let now the king remember concerning his Lord God in that the avenger of blood is multiplied to destroy, and let them not take away my son. And he said, As the lord lives, not a hair of thy son shall fall to the ground.</verse>
+        <verse osisID='2Sam.14.12'>And the woman said, Let now thy servant speak a word to my lord the king. And he said, Say on.</verse>
+        <verse osisID='2Sam.14.13'>And the woman said, Why hast thou devised this thing against the people of God? or is this word out of the king’s mouth as a transgression, so that the king should not bring back his banished?</verse>
+        <verse osisID='2Sam.14.14'>For we shall surely die, and be as water poured upon the earth, which shall not be gathered up, and God shall take the life, even as he devises to thrust forth from him his outcast.</verse>
+        <verse osisID='2Sam.14.15'>And now whereas I came to speak this word to my lord the king, the reason is that the people will see me, and thy handmaid will say, Let one now speak to my lord the king, if peradventure the king will perform the request of his handmaid;</verse>
+        <verse osisID='2Sam.14.16'>for the king will hear. Let him rescue his handmaid out of the hand of the man that seeks to cast out me and my son from the inheritance of God.</verse>
+        <verse osisID='2Sam.14.17'>And the woman said, If now the word of my lord the king be gracious, —well: for as an angel of God, so is my lord the king, to hear good and evil: and the Lord thy God shall be with thee.</verse>
+        <verse osisID='2Sam.14.18'>And the king answered, and said to the woman, Hide not from me, I pray thee, the matter which I ask thee. And the woman said, Let my lord the king by all means speak.</verse>
+        <verse osisID='2Sam.14.19'>And the king said, Is not the hand of Joab in all this matter with thee? and the woman said to the king, As thy soul lives, my lord, O king, <note>Gr. If there is, etc.</note> there is no turning to the right hand or to the left from all that my lord the king has spoken; for thy servant Joab himself charged me, and he put all these words in the mouth of thine handmaid.</verse>
+        <verse osisID='2Sam.14.20'>In order that this form of speech might come about it was that thy servant Joab has framed this matter: and my lord is wise as is the wisdom of an angel of God, to know all things that are in the earth.</verse>
+        <verse osisID='2Sam.14.21'>And the king said to Joab, Behold now, I have done to thee according to this thy word: go, bring back the young man Abessalom.</verse>
+        <verse osisID='2Sam.14.22'>And Joab fell on his face to the ground, and did obeisance, and blessed the king: and Joab said, To-day thy servant knows that I have found grace in thy sight, my lord, O king, for my lord the king has performed the request of his servant.</verse>
+        <verse osisID='2Sam.14.23'>And Joab arose, and went to Gedsur, and brought Abessalom to Jerusalem.</verse>
+        <verse osisID='2Sam.14.24'>And the king said, Let him return to his house, and not see my face. And Abessalom returned to his house, and saw not the king’s face.</verse>
+        <verse osisID='2Sam.14.25'>And there was not a man in Israel so <note>Gr. praised</note> very comely as Abessalom: from the sole of his foot even to the crown of his head there was no blemish in him.</verse>
+        <verse osisID='2Sam.14.26'>And when he polled his head, (and it was <note>Gr. from the beginning of days to days; Hebraism</note> at the beginning of every year that he polled it, because it grew, heavy upon him,) even when he polled it, he weighed the hair of his head, two hundred shekels according to the royal shekel.</verse>
+        <verse osisID='2Sam.14.27'>And there were born to Abessalom three sons and one daughter, and her name was Themar: she was a very beautiful woman, and she becomes the wife of Roboam son of Solomon, and she bears to him Abia.</verse>
+        <verse osisID='2Sam.14.28'>And Abessalom remained in Jerusalem two <note>Gr. years of days</note> full years, and he saw not the king’s face.</verse>
+        <verse osisID='2Sam.14.29'>And Abessalom sent to Joab to bring him in to the king, and he would not come to him: and he sent to him the second time, and he would not come.</verse>
+        <verse osisID='2Sam.14.30'>And Abessalom said to his servants, Behold, Joab’s portion in the field is next to mine, and he has in it barley; go and set it on fire. And the servants of Abessalom set the field on fire: and the servants of Joab come to him with their clothes rent, and they said to him, The servants of Abessalom have set the field on fire.</verse>
+        <verse osisID='2Sam.14.31'>And Joab arose, and came to Abessalom into the house, and said to him, Why have thy servants set my field on fire?</verse>
+        <verse osisID='2Sam.14.32'>And Abessalom said to Joab, Behold, I sent to thee, saying, Come hither, and I will send thee to the king, saying, Why did I come out of Gedsur? it would have been better for me to have remained there: and now, behold, I have not seen the face of the king; but if there is iniquity in me, then put me to death.</verse>
+        <verse osisID='2Sam.14.33'>And Joab went in to the king, and brought him word: and he called Abessalom, and he went in to the king, and did him obeisance, and fell upon his face to the ground, even in the presence of the king; and the king kissed Abessalom.</verse>
+      </chapter>
+      <chapter osisID='2Sam.15'>
+        <verse osisID='2Sam.15.1'>And it came to pass after this that Abessalom <note>Gr. made</note> prepared for himself chariots and horses, and fifty men to run before him.</verse>
+        <verse osisID='2Sam.15.2'>And Abessalom rose early, and stood by the side of the way of the gate: and it came to pass that every man who had a cause, came to the king for judgement, and Abessalom cried to him, and said to him, Of what city art thou? And he said, Thy servant is of one of the tribes of Israel.</verse>
+        <verse osisID='2Sam.15.3'>And Abessalom said to him, See, thy affairs are right and <note>Gr. easy to be understood</note> clear, yet thou hast no one appointed of the king to hear thee.</verse>
+        <verse osisID='2Sam.15.4'>And Abessalom said, O that one would make me a judge in the land; then every man who had a dispute or a cause would come to me, and I would judge him!</verse>
+        <verse osisID='2Sam.15.5'>And it came to pass when a man came near to do him obeisance, that he stretched out his hand, and took hold of him, and kissed him.</verse>
+        <verse osisID='2Sam.15.6'>And Abessalom did after this manner to all Israel that came to the king for judgement; and Abessalom gained the hearts of the men of Israel.</verse>
+        <verse osisID='2Sam.15.7'>And it came to pass <note>Gr. from the end of, etc.</note> after forty years, that Abessalom said to his father, I will go now, and pay my vows, which I vowed to the Lord in Chebron.</verse>
+        <verse osisID='2Sam.15.8'>For thy servant vowed a vow when I dwelt at Gedsur in Syria, saying, If the Lord should indeed restore me to Jerusalem, then will I serve the Lord.</verse>
+        <verse osisID='2Sam.15.9'>And the king said to him, Go in peace. And he arose and went to Chebron.</verse>
+        <verse osisID='2Sam.15.10'>And Abessalom sent spies throughout all the tribes of Israel, saying, When ye hear the sound of the trumpet, then shall ye say, Abessalom is become king in Chebron.</verse>
+        <verse osisID='2Sam.15.11'>And there went with Abessalom two hundred chosen men from Jerusalem; and they went in their simplicity, and knew not anything.</verse>
+        <verse osisID='2Sam.15.12'>And Abessalom sent to Achitophel the Theconite, the counsellor of David, from his city, from Gola, where he was sacrificing: and there was a strong <note>So the Alex. which reads sustremma; see Ac 23:12</note> conspiracy; and the people with Abessalom were increasingly numerous.</verse>
+        <verse osisID='2Sam.15.13'>And there came a messenger to David, saying, the heart of the men of Israel is gone after Abessalom.</verse>
+        <verse osisID='2Sam.15.14'>And David said to all his servants who were with him in Jerusalem, Rise, and let us flee, for we have no refuge from Abessalom: make haste and go, lest he overtake us speedily, and bring evil upon us, and smite the city with the edge of the sword.</verse>
+        <verse osisID='2Sam.15.15'>And the king’s servants said to the king, In all things which our lord the king chooses, behold we are thy servants.</verse>
+        <verse osisID='2Sam.15.16'>And the king and all his house went out on foot: and the king left ten women of his concubines to keep the house.</verse>
+        <verse osisID='2Sam.15.17'>And the king and all his servants went out on foot; and abode in a distant house.</verse>
+        <verse osisID='2Sam.15.18'>And all his servants passed on by his <note>Gr. hand</note> side, and every Chelethite, and every Phelethite, and they stood by the olive tree in the wilderness: and all the people marched near him, and all his court, and all the men of might, and all the men of war, six hundred: and they were present at his side: and every Chelethite, and every Phelethite, and all the six hundred Gittites that came on foot out of Geth, and <note>Or, they that</note> they went on before the king.</verse>
+        <verse osisID='2Sam.15.19'>And the king said to Ethi, the Gittite, Why dost thou also go with us? return, and dwell with the king, for thou art a stranger, and thou has come forth as a sojourner out of thy place.</verse>
+        <verse osisID='2Sam.15.20'>
+          <note>Gr. if</note> Whereas thou camest yesterday, shall I to-day cause thee to travel with us, and shalt thou thus change thy place? thou didst come forth yesterday, and to-day shall I set thee in motion to go along with us? I indeed will go whithersoever I may go: return then, and cause thy brethren to return with thee, and may the Lord deal mercifully and truly with thee.</verse>
+        <verse osisID='2Sam.15.21'>And Ethi answered the king and said, As the Lord lives and as my lord the king lives, in the place wheresoever my lord shall be, whether it be for death or life, there shall thy servant be.</verse>
+        <verse osisID='2Sam.15.22'>And the king said to Ethi, Come and pass over with me. So Ethi the Gittite and the king passed over, and all his servants, and all the multitude with him.</verse>
+        <verse osisID='2Sam.15.23'>And all the <note>Gr. land</note> country wept with a loud voice. And all the people passed by <note>Gr. in</note> over the brook of Kedron; and the king crossed the brook Kedron: and all the people and the king passed on toward the way of the wilderness.</verse>
+        <verse osisID='2Sam.15.24'>And behold also Sadoc, and all the Levites were with him, bearing the ark of the covenant of the Lord from Baethar: and they set down the ark of God; and Abiathar went up, until all the people had passed out of the city.</verse>
+        <verse osisID='2Sam.15.25'>And the king said to Sadoc, Carry back the ark of God into the city: if I should find favour in the eyes of the Lord, then will he bring me back, and he will shew me it and its beauty.</verse>
+        <verse osisID='2Sam.15.26'>But if he should say thus, I have no pleasure in thee; behold, here I am, let him do to me according to that which is good in his eyes.</verse>
+        <verse osisID='2Sam.15.27'>And the king said to Sadoc the priest, Behold, thou <note>Gr. dost</note> shalt return to the city in peace, and Achimaas thy son, and Jonathan the son of Abiathar, your two sons with you.</verse>
+        <verse osisID='2Sam.15.28'>Behold, I continue in arms in Araboth of the desert, until there come tidings from you to report to me.</verse>
+        <verse osisID='2Sam.15.29'>So Sadoc and Abiathar brought back the ark of the Lord to Jerusalem, and it continued there.</verse>
+        <verse osisID='2Sam.15.30'>And David went up by the ascent of the mount of Olives, ascending and weeping, and had his head covered, and went barefooted: and all the people that were with him covered every man his head; and they went up, ascending and weeping.</verse>
+        <verse osisID='2Sam.15.31'>And it was reported to David, saying, Achitophel also is among the conspirators with Abessalom. And David said, O Lord my God, disconcert, I pray thee, the counsel of Achitophel.</verse>
+        <verse osisID='2Sam.15.32'>And David came as far as Ros, where he worshipped God: and behold, Chusi the chief friend of David came out to meet him, having rent his garment, and earth was upon his head.</verse>
+        <verse osisID='2Sam.15.33'>And David said to him, If thou shouldest go over with me, then wilt thou be a burden to me;</verse>
+        <verse osisID='2Sam.15.34'>but if thou shall return to the city, and shalt say to Abessalom, Thy brethren are passed over, and the king thy father is passed over after me: and now I am thy servant, O king, suffer me to live: at one time even of late I was the servant of thy father, and now I am thy humble servant—so shalt thou disconcert for me, the counsel of Achitophel.</verse>
+        <verse osisID='2Sam.15.35'>And, behold, there are there with thee Sadoc and Abiathar the priests; and it shall be that every word that thou shalt hear of the house of the king, thou shalt report it to Sadoc and Abiathar the priests.</verse>
+        <verse osisID='2Sam.15.36'>Behold, there are there with them their two sons, Achimaas the son of Sadoc, and Jonathan the son of Abiathar; and by them ye shall report to me every word which ye shall hear.</verse>
+        <verse osisID='2Sam.15.37'>So Chusi the friend of David went into the city, and Abessalom was lately gone into Jerusalem.</verse>
+      </chapter>
+      <chapter osisID='2Sam.16'>
+        <verse osisID='2Sam.16.1'>And David passed on a little way from Ros; and, behold, Siba the servant of Memphibosthe came to meet him; and he had a couple of asses laden, and upon them two hundred loaves, and a hundred bunches of raisins, and a hundred cakes of dates, and bottle of wine.</verse>
+        <verse osisID='2Sam.16.2'>And the king said to Siba, What meanest thou by these? and Siba, said, The asses are for the household of the king to sit upon, and the loaves and the dates are for the young men to eat, and the wine is for them that are faint in the wilderness to drink.</verse>
+        <verse osisID='2Sam.16.3'>And the king said, And where is the son of thy master? and Siba said to the king, Behold, he remains in Jerusalem; for he said, To-day shall the house of Israel restore to me the kingdom of my father.</verse>
+        <verse osisID='2Sam.16.4'>And the king said to Siba, Behold, all Memphibosthe’s property is thine. And Siba did obeisance and said, My lord, O king, let me find grace in thine eyes.</verse>
+        <verse osisID='2Sam.16.5'>And king David came to Baurim; and, behold, there came out from thence a man of the family of the house of Saul, and his name was Semei the son of Gera. He came forth and cursed as he went,</verse>
+        <verse osisID='2Sam.16.6'>and cast stones at David, and at all the servants of king David: and all the people and all the mighty men were on the right and left hand of the king.</verse>
+        <verse osisID='2Sam.16.7'>And thus Semei said when he cursed him, Go out, go out, thou bloody man, and man of sin.</verse>
+        <verse osisID='2Sam.16.8'>The Lord has returned upon thee all the blood of the house of Saul, because thou hast reigned in his stead; and the Lord has given the kingdom into the hand of Abessalom thy son: and, behold, thou art taken in thy mischief, because thou art a bloody man.</verse>
+        <verse osisID='2Sam.16.9'>And Abessa the son of Saruia said to the king, Why does this dead dog curse my lord the king? let me go over now and take off his head.</verse>
+        <verse osisID='2Sam.16.10'>And the king said, What have I to do with you, ye sons of Saruia? even let him alone, and so let him curse, for the Lord has told him to curse David: and who shall say, Why hast thou done thus?</verse>
+        <verse osisID='2Sam.16.11'>And David said to Abessa and to all his servants, Behold, my son who came forth out of my bowels seeks my life; still more now may the son of Benjamin: let him curse, because the Lord has told him.</verse>
+        <verse osisID='2Sam.16.12'>If by any means the Lord may look on my affliction, thus shall he return me good for his cursing this day.</verse>
+        <verse osisID='2Sam.16.13'>And David and all the men with him went on the way: and Semei went by the side of the hill next to him, cursing as he went, and casting stones <note>Gr. obliquely, etc.</note> at him, and sprinkling him with dirt.</verse>
+        <verse osisID='2Sam.16.14'>And the king, and all the people with him, came away and refreshed themselves there.</verse>
+        <verse osisID='2Sam.16.15'>And Abessalom and all the men of Israel went into Jerusalem, and Achitophel with him.</verse>
+        <verse osisID='2Sam.16.16'>And it came to pass when Chusi the chief friend of David came to Abessalom, that Chusi said to Abessalom, Let the king live.</verse>
+        <verse osisID='2Sam.16.17'>And Abessalom said to Chusi, Is this thy kindness to thy friend? why wentest thou not forth with thy friend?</verse>
+        <verse osisID='2Sam.16.18'>And Chusi said to Abessalom, Nay, but following whom the Lord, and this people, and all Israel have chosen, —his will I be, and with him I will dwell.</verse>
+        <verse osisID='2Sam.16.19'>And again, whom shall I serve? should I not in the presence of his son? As I served in the sight of thy father, so will I be in thy presence.</verse>
+        <verse osisID='2Sam.16.20'>And Abessalom said to Achitophel, Deliberate among yourselves concerning what we should do.</verse>
+        <verse osisID='2Sam.16.21'>And Achitophel said to Abessalom, Go in to thy father’s concubines, whom he left to keep his house; and all Israel shall hear that thou hast dishonoured thy father; and the hands of all that are with thee shall be strengthened.</verse>
+        <verse osisID='2Sam.16.22'>And they pitched a tent for Abessalom on the roof, and Abessalom went in to his father’s concubines in the sight of all Israel.</verse>
+        <verse osisID='2Sam.16.23'>And the counsel of Achitophel, which he counselled in former days, was as if one should enquire of the word of God: so was all the counsel of Achitophel both to David and also to Abessalom.</verse>
+      </chapter>
+      <chapter osisID='2Sam.17'>
+        <verse osisID='2Sam.17.1'>And Achitophel said to Abessalom, Let me now choose out for myself twelve thousand men, and I will arise and follow after David this night:</verse>
+        <verse osisID='2Sam.17.2'>and I will come upon him when he is weary and weak-handed, and I will strike him with terror; and all the people with him shall flee, and I will smite the king only of all.</verse>
+        <verse osisID='2Sam.17.3'>And I will bring back all the people to thee, as a bride returns to her husband: only thou seekest the life of one man, and all the people shall have peace.</verse>
+        <verse osisID='2Sam.17.4'>And the saying was right in the eyes of Abessalom, and in the eyes of all the elders of Israel.</verse>
+        <verse osisID='2Sam.17.5'>And Abessalom said, Call now also Chusi the Arachite, and let us hear what is in his mouth, even in his also.</verse>
+        <verse osisID='2Sam.17.6'>And Chusi went in to Abessalom, and Abessalom spoke to him, saying, After this manner spoke Achitophel: shall we do according to his word? but if not, do thou speak.</verse>
+        <verse osisID='2Sam.17.7'>And Chusi said to Abessalom, This counsel which Achitophel has counselled this one time is not good.</verse>
+        <verse osisID='2Sam.17.8'>And Chusi said, Thou knowest thy father and his men, that they are very mighty, and bitter in their spirit, as a bereaved bear in the field, <note>Heb. and Alex. omit the words in brackets</note> and as a wild boar in the plain : and thy father is a man of war, and will not give the people rest.</verse>
+        <verse osisID='2Sam.17.9'>For, behold, he is now hidden in one of the hills or in some other place: and it shall come to pass when he falls upon them at the beginning, that some one will certainly hear, and say, There has been a slaughter among the people that follow after Abessalom.</verse>
+        <verse osisID='2Sam.17.10'>Then even he that is <note>Gr. a son of strength</note> strong, whose heart is as the heart of a lion, —it shall utterly melt: for all Israel knows that thy father is mighty, and they that are with him are mighty men.</verse>
+        <verse osisID='2Sam.17.11'>For thus I have surely given counsel, that all Israel be generally gathered to thee from Dan even to Bersabee, as the sand that is upon the sea-shore for multitude: and that thy presence <note>Gr. going</note> go in the midst of them.</verse>
+        <verse osisID='2Sam.17.12'>And we will come upon him in one of the places where we shall find him, and we will encamp against him, as the dew falls upon the earth; and we will not leave of him and of his men so much as one.</verse>
+        <verse osisID='2Sam.17.13'>And if he shall have taken refuge with his army in a city, then shall all Israel take ropes to that city, and we will draw it even into the river, that there may not be left there even a stone.</verse>
+        <verse osisID='2Sam.17.14'>And Abessalom, and all the men of Israel said, The counsel of Chusi the Arachite is better than the counsel of Achitophel. For the Lord ordained to disconcert the good counsel of Achitophel, that the Lord might bring all evil upon Abessalom.</verse>
+        <verse osisID='2Sam.17.15'>And Chusi the Arachite said to Sadoc and Abiathar the priests, Thus and thus Achitophel counselled Abessalom and the elders of Israel; and thus and thus have I counselled.</verse>
+        <verse osisID='2Sam.17.16'>And now send quickly and report to David, saying, Lodge not this night in Araboth of the wilderness: even go and make haste, lest one <note>Alex. katapih</note> swallow up the king, and all the people with him.</verse>
+        <verse osisID='2Sam.17.17'>And Jonathan and Achimaas stood by the well of Rogel, and a maid-servant went and reported to them, and they go and tell king David; for they might not be seen to enter into the city.</verse>
+        <verse osisID='2Sam.17.18'>But a young man saw them and told Abessalom: and the two went quickly, and entered into the house of a man in Baurim; and he had a well in his court, and they went down into it.</verse>
+        <verse osisID='2Sam.17.19'>And a woman took a covering, and spread it over the mouth of the well, and <note>See Nu 11:32; Jer 8:2</note> spread out ground corn upon it to dry, and the thing was not known.</verse>
+        <verse osisID='2Sam.17.20'>And the servants of Abessalom came to the woman into the house, and said, Where are Achimaas and Jonathan? and the woman said to them, They are <note>Or, lately gone over</note> gone a little way beyond <note>Or, the small stream</note> the water. And they sought and found them not, and returned to Jerusalem.</verse>
+        <verse osisID='2Sam.17.21'>And it came to pass after they were gone, that they came up out of the pit, and went on their way; and reported to king David, and said to David, Arise ye and go quickly over the water, for thus has Achitophel counselled concerning you.</verse>
+        <verse osisID='2Sam.17.22'>And David rose up and all the people with him, and they passed over Jordan till the morning light; there was not one missing who did not pass over Jordan.</verse>
+        <verse osisID='2Sam.17.23'>And Achitophel saw that his counsel was not followed, and he saddled his ass, and rose and departed to his house into his city; and he gave orders to his household, and <note>Compare the Greek with Mt 27:5</note> hanged himself, and died, and was buried in the sepulchre of his father.</verse>
+        <verse osisID='2Sam.17.24'>And David passed over to Manaim: and Abessalom crossed over Jordan, he and all the men of Israel with him.</verse>
+        <verse osisID='2Sam.17.25'>And Abessalom appointed Amessai in the room of Joab over the host. And Amessai was the son of a man <note>Gr. and his name, etc.</note> whose name was Jether of Jezrael: he went in to Abigaia the daughter of Naas, the sister of Saruia the mother of Joab.</verse>
+        <verse osisID='2Sam.17.26'>And all Israel and Abessalom encamped in the land of Galaad.</verse>
+        <verse osisID='2Sam.17.27'>And it came to pass when David came to Manaim, that Uesbi the son of Naas of Rabbath of the sons of Ammon, and Machir son of Amiel of Lodabar, and Berzelli the Galaadite of Rogellim,</verse>
+        <verse osisID='2Sam.17.28'>brought ten embroidered beds, (with double coverings,) and ten caldrons, and earthenware, and wheat, and barley, and flour, and meal, and beans, and pulse,</verse>
+        <verse osisID='2Sam.17.29'>and honey, and butter, and sheep, and cheeses of kine: and they brought them to David and to his people with him to eat; for one said, The people is faint and hungry and thirsty in the wilderness.</verse>
+      </chapter>
+      <chapter osisID='2Sam.18'>
+        <verse osisID='2Sam.18.1'>And David numbered the people with him, and set over them captains of thousands and captains of hundreds.</verse>
+        <verse osisID='2Sam.18.2'>And David sent away the people, the third part <note>Gr. in, by</note> under the hand of Joab, and the third part under the hand of Abessa the son of Saruia, the brother of Joab, and the third part under the hand of Ethi the Gittite. And David said to the people, I also will surely go out with you.</verse>
+        <verse osisID='2Sam.18.3'>And they said, Thou shalt not go out: for if we should indeed flee, they will not care for us; and if half of us should die, they will not mind us; for thou art <note>Gr. as we, ten thousand</note> as ten thousand of us: and now it is well that thou shalt be to us an aid to help us in the city.</verse>
+        <verse osisID='2Sam.18.4'>And the king said to them, Whatsoever shall seem good in your eyes I will do. And the king stood by the <note>Gr. hand</note> side of the gate, and all the people went out by hundreds and by thousands.</verse>
+        <verse osisID='2Sam.18.5'>And the king commanded Joab and Abessa and Ethi, saying, Spare for my sake the young man Abessalom. And all the people heard the king charging all the commanders concerning Abessalom.</verse>
+        <verse osisID='2Sam.18.6'>And all the people went out into the wood against Israel; and the battle was in the wood of Ephraim.</verse>
+        <verse osisID='2Sam.18.7'>And the people of Israel fell down there before the servants of David, and there was a great slaughter in that day, even twenty thousand men.</verse>
+        <verse osisID='2Sam.18.8'>And the battle there was scattered over the face of all the land: and the wood consumed more of the people than the sword consumed among the people in that day.</verse>
+        <verse osisID='2Sam.18.9'>And Abessalom went to meet the servants of David: and Abessalom was mounted on his mule, and the mule came under the thick boughs of a great oak; and his head was entangled in the oak, and he was suspended between heaven and earth; and the mule passed on from under him.</verse>
+        <verse osisID='2Sam.18.10'>And a man saw it, and reported to Joab, and said, Behold, I saw Abessalom hanging in an oak.</verse>
+        <verse osisID='2Sam.18.11'>And Joab said to the man who reported it to him, And, behold, thou didst see him: why didst thou not smite him there to the ground? and I would have given thee ten pieces of silver, and a girdle.</verse>
+        <verse osisID='2Sam.18.12'>And the man said to Joab, Were I even to <note>Gr. weigh upon my hands</note> receive a thousand shekels of silver, I would not lift my hand against the king’s son; for in our ears the king charged thee and Abessa and Ethi, saying, Take care of the young man Abessalom for me,</verse>
+        <verse osisID='2Sam.18.13'>so as to do no harm to his life: and nothing of the matter will be concealed from the king, and thou wilt set thyself against me.</verse>
+        <verse osisID='2Sam.18.14'>And Joab said, I will begin this; I will not thus remain with thee. And Joab took three darts in his hand, and thrust them into the heart of Abessalom, while he was yet alive in the heart of the oak.</verse>
+        <verse osisID='2Sam.18.15'>And ten young men that bore Joab’s armour compassed Abessalom, and smote him and slew him.</verse>
+        <verse osisID='2Sam.18.16'>And Joab blew the trumpet, and the people returned from pursuing Israel, for Joab spared the people.</verse>
+        <verse osisID='2Sam.18.17'>And he took Abessalom, and cast him into a great cavern in the wood, into a deep pit, and set up over him a very great heap of stones: and all Israel fled every man to his tent.</verse>
+        <verse osisID='2Sam.18.18'>Now Abessalom while yet alive had taken and set up for himself the pillar <note>Gr. in, or by</note> near which he was taken, and set it up so as to have the pillar in the king’s dale; for he said he had no son to keep his name in remembrance: <note>Heb. and Alex. insert, «and he called the pillar after his own name’</note> and he called the pillar, Abessalom’s <note>Heb. idiom for «place’</note> hand, until this day.</verse>
+        <verse osisID='2Sam.18.19'>And Achimaas the son of Sadoc said, Let me run now and carry glad tidings to the king, for the Lord has delivered him from the hand of his enemies.</verse>
+        <verse osisID='2Sam.18.20'>And Joab said to him, Thou shalt not be a messenger of glad tidings this day; thou shalt bear them another day; but on this day thou shalt bear no tidings, because the king’s son is dead.</verse>
+        <verse osisID='2Sam.18.21'>And Joab said to Chusi, Go, report to the king all that thou hast seen. And Chusi did obeisance to Joab, and went out.</verse>
+        <verse osisID='2Sam.18.22'>And Achimaas the son of Sadoc said again to Joab, Nay, let me also run after Chusi. And Joab said, Why <note>Gr. dost</note> wouldest thou thus run, my son? attend, thou hast no tidings for profit if thou go.</verse>
+        <verse osisID='2Sam.18.23'>And he said, <note>Gr. for what if I should run</note> Why should I not run? and Joab said to him, Run. And Achimaas ran along the way of Kechar, and outran Chusi.</verse>
+        <verse osisID='2Sam.18.24'>And David was sitting between the two gates: and the watchman went up on the top of the gate of the wall, and lifted up his eyes, and looked, and behold a man running alone before him.</verse>
+        <verse osisID='2Sam.18.25'>And the watchman cried out, and reported to the king. And the king said, If he be alone, there are good tidings in his mouth. And the man came and drew near.</verse>
+        <verse osisID='2Sam.18.26'>And the watchman saw another man running: and the watchman cried at the gate, and said, And look, another man running alone. And the king said, He also brings glad tidings.</verse>
+        <verse osisID='2Sam.18.27'>And the watchman said, I see the running of the first as the running of Achimaas the son of Sadoc. And the king said, He is a good man, and will come to report glad tidings.</verse>
+        <verse osisID='2Sam.18.28'>And Achimaas cried out and said to the king, Peace. And he did obeisance to the king with his face to the ground, and said, Blessed be the Lord thy God, who has delivered up the men that lifted up their hands against my lord the king.</verse>
+        <verse osisID='2Sam.18.29'>And the king said, Is the young man Abessalom safe? and Achimaas said, I saw a great multitude at the time of Joab’s sending the king’s servant and thy servant, and I knew not what was there.</verse>
+        <verse osisID='2Sam.18.30'>And the king said, Turn aside, stand still here. And he turned aside, and stood.</verse>
+        <verse osisID='2Sam.18.31'>And, behold, Chusi came up, and said to the king, Let my lord the king hear glad tidings, for the Lord has avenged thee this day upon all them that rose up against thee.</verse>
+        <verse osisID='2Sam.18.32'>And the king said to Chusi, Is it well with the young man Abessalom? and Chusi said, Let the enemies of my lord the king, and all whosoever have risen up against him for evil, be as that young man.</verse>
+        <verse osisID='2Sam.18.33'>And the king was troubled, and went to the chamber over the gate, and wept: and thus he said as he went, My son Abessalom, my son, my son Abessalom; <note>Gr. who will give my death for thee?</note> would God I had died for thee, even I had died for thee, Abessalom, my son, my son!</verse>
+      </chapter>
+      <chapter osisID='2Sam.19'>
+        <verse osisID='2Sam.19.1'>And they brought Joab word, saying, Behold, the king weeps and mourns for Abessalom.</verse>
+        <verse osisID='2Sam.19.2'>And the victory was turned that day into mourning to all the people, for the people heard say that day, The king grieves after his son.</verse>
+        <verse osisID='2Sam.19.3'>And the people stole away that day to go into the city, as people steal away when they are ashamed as they flee in the battle.</verse>
+        <verse osisID='2Sam.19.4'>And the king hid his face: and the king cried with a loud voice, My son Abessalom! Abessalom my son!</verse>
+        <verse osisID='2Sam.19.5'>And Joab went in to the king, into the house, and said, Thou hast this day shamed the faces of all thy servants that have delivered thee this day, and have saved the lives of thy sons and of thy daughters, and the lives of thy wives, and of thy concubines,</verse>
+        <verse osisID='2Sam.19.6'>forasmuch as thou lovest them that hate thee, and hatest them that love thee; and thou hast this day declared, that thy princes and thy servants are nothing in thy sight: for I know this day, that if Abessalom were alive, and all of us dead to-day, then it would have been right in thy sight.</verse>
+        <verse osisID='2Sam.19.7'>And now arise, and go forth, and speak comfortably to thy servants; for I have sworn by the Lord, that unless thou wilt go forth to-day, there shall not a man remain with thee this night: and know for thyself, this thing will indeed be evil to thee beyond all the evil that has come upon thee from thy youth until now.</verse>
+        <verse osisID='2Sam.19.8'>Then the king arose, and sat in the gate: and all the people reported, saying, Behold, the king sits in the gate. And all the people went in before the king to the gate; for Israel had fled every man to his <note>Gr. tents</note> tent.</verse>
+        <verse osisID='2Sam.19.9'>And all the people disputed among all the tribes of Israel, saying, King David delivered us from all our enemies, and he rescued us from the hand of the Philistines: and now he has fled from the land, and from his kingdom, and from Abessalom.</verse>
+        <verse osisID='2Sam.19.10'>And Abessalom, whom we anointed over us, is dead in battle: and now why are ye silent about bringing back the king? And the word of all Israel came to the king.</verse>
+        <verse osisID='2Sam.19.11'>And king David sent to Sadoc and Abiathar the priests, saying, Speak to the elders of Israel, saying, Why are ye the last to bring back the king to his house? whereas the word of all Israel is come to the king to his house.</verse>
+        <verse osisID='2Sam.19.12'>Ye are my brethren, ye are my bones and my flesh: why are ye the last to bring back the king to his house?</verse>
+        <verse osisID='2Sam.19.13'>And ye shall say to Amessai, Art thou not my bone and my flesh? and now God do so to me, and more also, if thou shalt not be commander of the host before me continually in the room of Joab.</verse>
+        <verse osisID='2Sam.19.14'>And he bowed the heart of all the men of Juda as that of one man; and they sent to the king, saying, Return thou, and all thy servants.</verse>
+        <verse osisID='2Sam.19.15'>And the king returned, and came as far s Jordan. And the men of Juda came to Galgala on their way to meet the king, to cause the king to pass over Jordan.</verse>
+        <verse osisID='2Sam.19.16'>And Semei the son of Gera, the Benjamite, of Baurim, hasted and went down with the <note>Gr. the man</note> men of Juda to meet king David.</verse>
+        <verse osisID='2Sam.19.17'>And a thousand men of Benjamin were with him, and Siba the servant of the house of Saul, and his fifteen sons with him, and his twenty servants with him: and they went directly down to Jordan before the king,</verse>
+        <verse osisID='2Sam.19.18'>and they performed the service of bringing the king over; and there went over a ferry-boat to remove the household of the king, and to do that which was right in his eyes. And Semei the son of Gera fell on his face before the king, as he went over Jordan;</verse>
+        <verse osisID='2Sam.19.19'>and said to the king, Let not my lord now impute iniquity, and remember not all the iniquity of thy servant in the day in which my lord went out from Jerusalem, so that the king should mind it.</verse>
+        <verse osisID='2Sam.19.20'>For thy servant knows that I have sinned: and, behold, I am come to-day before all Israel and the house of Joseph, to go down and meet my lord the king.</verse>
+        <verse osisID='2Sam.19.21'>And Abessai the son of Saruia answered and said, Shall not Semei therefore be put to death, because he cursed the Lord’s anointed?</verse>
+        <verse osisID='2Sam.19.22'>And David said, What have I to do with you, ye sons of Saruia, that ye as it were lie in wait against me this day? to-day no man in Israel shall be put to death, for I know not if I this day reign over Israel.</verse>
+        <verse osisID='2Sam.19.23'>And the king said to Semei, Thou shalt not die: and the king swore to him.</verse>
+        <verse osisID='2Sam.19.24'>And Memphibosthe the son of Saul’s son went down to meet the king, and had not dressed his feet, nor pared his nails, nor shaved himself, neither had he washed his garments, from the day that the king departed, until the day when he arrived in peace.</verse>
+        <verse osisID='2Sam.19.25'>And it came to pass when he went into Jerusalem to meet the king, that the king said to him, Why didst thou not go with me, Memphibosthe?</verse>
+        <verse osisID='2Sam.19.26'>And Memphibosthe said to him, My lord, O king, my servant deceived me; for thy servant said to him, Saddle me the ass, and I will ride upon it, and go with the king; for thy servant is lame.</verse>
+        <verse osisID='2Sam.19.27'>And he has dealt deceitfully with thy servant to my lord the king: but my lord the king is as an angel of God, and do thou that which is good in thine eyes.</verse>
+        <verse osisID='2Sam.19.28'>For all the house of my father were but as dead men before my lord the king; yet thou hast set thy servant among them that eat at thy table: and what right have I any longer even to cry to the king?</verse>
+        <verse osisID='2Sam.19.29'>And the king said to him, Why <note>Gr. speakest thou thy words no longer</note> speakest thou any longer of thy matters? I have said, Thou and Siba shall divide the land.</verse>
+        <verse osisID='2Sam.19.30'>And Memphibosthe said to the king, Yea, let him take all, since my lord the king has come in peace to his house.</verse>
+        <verse osisID='2Sam.19.31'>And Berzelli the Galaadite came down from Rogellim, and crossed over Jordan with the king, that he might conduct the king over Jordan.</verse>
+        <verse osisID='2Sam.19.32'>And Berzelli was a very old man, <note>Gr. a son of eighty years</note> eighty years old; and he had maintained the king when he dwelt in Manaim; for he was a very great man.</verse>
+        <verse osisID='2Sam.19.33'>And the king said to Berzelli, Thou shalt go over with me, and I will nourish thine old age with me in Jerusalem.</verse>
+        <verse osisID='2Sam.19.34'>And Berzelli said to the king, How many are the days of the years of my life, that I should go up with the king to Jerusalem?</verse>
+        <verse osisID='2Sam.19.35'>I am this day eighty years old: can I then distinguish between good and evil? Can thy servant taste any longer what I eat or drink? can I any longer hear the voice of singing men or singing women? and wherefore shall thy servant any longer be a burden to my lord the king?</verse>
+        <verse osisID='2Sam.19.36'>Thy servant will go <note>Gr. as it were a little</note> a little way over Jordan with the king: and why does the king return me this recompense?</verse>
+        <verse osisID='2Sam.19.37'>Let, I pray thee, thy servant remain, and I will die in my city, by the tomb of my father and of my mother. And, behold, thy servant Chamaam shall go over with my lord the king; and do thou to him as it seems good in thine eyes.</verse>
+        <verse osisID='2Sam.19.38'>And the king said, Let Chamaam go over with me, and I will do to him what is good in my sight; and whatsoever thou shalt choose at my hand, I will do for thee.</verse>
+        <verse osisID='2Sam.19.39'>And all the people went over Jordan, and the king went over; and the king kissed Berzelli, and blessed him; and he returned to his place.</verse>
+        <verse osisID='2Sam.19.40'>And the king went over to Galgala, and Chamaam went over with him: and all the men of Juda went over with the king, and also half the people of Israel.</verse>
+        <verse osisID='2Sam.19.41'>And behold, <note>Gr. every man</note> all the men of Israel came to the king, and said to the king, Why have our brethren the men of Juda stolen thee away, and caused the king and all his house to pass over Jordan, and all the men of David with him?</verse>
+        <verse osisID='2Sam.19.42'>And <note>Gr. every man</note> all the men of Juda answered the men of Israel, and said, Because the king is near of kin to us: and why were you thus angry concerning this matter? have we indeed eaten of the king’s food? or has he given us a gift, or has he sent us a portion?</verse>
+        <verse osisID='2Sam.19.43'>And the men of Israel answered the men of Juda, and said, We have ten <note>Gr. and Heb. hands</note> parts in the king, and we are older than you, we have also an interest in David above you: and why have ye thus insulted us, and why was not our advice taken before that of Juda, to bring back our king? And the speech of the men of Juda was sharper than the speech of the men of Israel.</verse>
+      </chapter>
+      <chapter osisID='2Sam.20'>
+        <verse osisID='2Sam.20.1'>And there was a transgressor so called there, and his name was Sabee, a Benjamite, the son of Bochori: and he blew the trumpet, and said, We have no portion in David, neither have we any inheritance in the son of Jessae: to thy tents, O Israel, every one.</verse>
+        <verse osisID='2Sam.20.2'>And all the men of Israel went up from following David after Sabee the son of Bochori: but the men of Juda adhered to their king, from Jordan even to Jerusalem.</verse>
+        <verse osisID='2Sam.20.3'>And David went into his house at Jerusalem: and the king took the ten women his concubines, whom he had left to keep the house, and he put them in a place of custody, and maintained them, and went not in to them; and they were kept living as widows, till the day of their death.</verse>
+        <verse osisID='2Sam.20.4'>And the king said to Amessai, Call to me the men of Juda for three days, and do thou be present here.</verse>
+        <verse osisID='2Sam.20.5'>And Amessai went to call Juda, and delayed beyond the time which David appointed him.</verse>
+        <verse osisID='2Sam.20.6'>And David said to Amessai, Now shall Sabee the son of Bochori do us more harm than Abessalom: now then take thou with thee the servants of thy lord, and follow after him, lest he find for himself strong cities, so will he <note>i. e. escape us</note> blind our eyes.</verse>
+        <verse osisID='2Sam.20.7'>And there went out after him Amessai and the men of Joab, and the Cherethites, and the Phelethites, and all the mighty men: and they went out from Jerusalem to pursue after Sabee the son of Bochori.</verse>
+        <verse osisID='2Sam.20.8'>And they were by the great stone that is in Gabaon: and Amessai went in before them: and Joab <note>Gr. was girded about with</note> had upon him a military cloak over his apparel, and over it he was girded with a dagger fastened upon his loins in its scabbard: and the dagger came out, it even came out and fell.</verse>
+        <verse osisID='2Sam.20.9'>And Joab said to Amessai, Art thou in health, my brother? and the right hand of Joab took hold of the beard of Amessai to kiss him.</verse>
+        <verse osisID='2Sam.20.10'>And Amessai observed not the dagger that was in the hand of Joab: and Joab smote him with it on the loins, and his <note>Gr. belly</note> bowels were shed out upon the ground, and he did not repeat the blow, and he died: and Joab and Abessai his brother pursued after Sabee the son of Bochori.</verse>
+        <verse osisID='2Sam.20.11'>And there stood over him one of the servants of Joab, and said, Who is he that is for Joab, and who is on the side of David following Joab?</verse>
+        <verse osisID='2Sam.20.12'>And Amessai was weltering in blood in the midst of the way. And a man saw that all the people stood still; and he removed Amessai out of the path into a field, and he cast a garment upon him, because he saw every one that came to him standing still.</verse>
+        <verse osisID='2Sam.20.13'>And when he was quickly removed from the road, every man of Israel passed after Joab to pursue after Sabee the son of Bochori.</verse>
+        <verse osisID='2Sam.20.14'>And he went through all the tribes of Israel to Abel, and to Bethmacha; and all in Charri too were assembled, and followed after him.</verse>
+        <verse osisID='2Sam.20.15'>And they came and besieged him in Abel and Phermacha: and they raised a mound against the city and it stood close to the wall; and all the people with Joab proposed to throw down the wall.</verse>
+        <verse osisID='2Sam.20.16'>And a wise woman cried from the wall, and said, Hear, hear; say, I pray ye, to Joab, Draw near hither, and I will speak to him.</verse>
+        <verse osisID='2Sam.20.17'>And he drew nigh to her, and the woman said to him, Art thou Joab? and he said, I am. And she said to him, Hear the words of thy handmaid; and Joab said, I do hear.</verse>
+        <verse osisID='2Sam.20.18'>And she spoke, saying, <note>Gr. they spoke a word among the first, saying</note> Of old time they said thus, Surely one was asked in Abel, and Dan, whether the faithful in Israel failed in what they purposed; they will surely ask in Abel, even in like manner, whether they have failed.</verse>
+        <verse osisID='2Sam.20.19'>I am a peaceable one of the strong ones in Israel; but thou seekest to destroy a city and a mother city in Israel: why dost thou seek to ruin the inheritance of the Lord?</verse>
+        <verse osisID='2Sam.20.20'>And Joab answered and said, Far be it, far be it from me, that I should ruin or destroy.</verse>
+        <verse osisID='2Sam.20.21'>Is not the case thus, that a man of mount Ephraim, Sabee, son of Bochori by name, has even lifted up his hand against king David? Give him only to me, and I will depart from the city. And the woman said to Joab, Behold, his head shall be thrown to thee over the wall.</verse>
+        <verse osisID='2Sam.20.22'>And the woman went in to all the people, and she spoke to all the city in her wisdom; and <note>Gr. it or she; i. e. h poliv</note> they took off the head of Sabee the son of Bochori; and took it away and threw it to Joab: and he blew the trumpet, and the people separated from the city away from him, every man to his tent: and Joab returned to Jerusalem to the king.</verse>
+        <verse osisID='2Sam.20.23'>And Joab was <note>Gr. to</note> over all the forces of Israel: and Banaias the son of Jodae was over the Cherethites and over the Phelethites.</verse>
+        <verse osisID='2Sam.20.24'>And Adoniram was over the tribute: and Josaphath the son of Achiluth was recorder.</verse>
+        <verse osisID='2Sam.20.25'>And Susa was scribe: and Sadoc and Abiathar were priests.</verse>
+        <verse osisID='2Sam.20.26'>Moreover Iras the son of Iarin was priest to David.</verse>
+      </chapter>
+      <chapter osisID='2Sam.21'>
+        <verse osisID='2Sam.21.1'>And there was a famine in the days of David three years, year after year; and David sought the face of the Lord. And the Lord said, There is <note>Gr. iniquity</note> guilt upon Saul and his house because of his <note>Lit. the death of his bloods</note> bloody murder, whereby he slew the Gabaonites.</verse>
+        <verse osisID='2Sam.21.2'>And King David called the Gabaonites, and said to them; —(now the Gabaonites are not the children of Israel, but are of the remnant of the Amorite, and the children of Israel had sworn to them: but Saul sought to smite them in his zeal for the children of Israel and Juda.)</verse>
+        <verse osisID='2Sam.21.3'>And David said to the Gabaonites, What shall I do to you? and wherewithal shall I make atonement, that ye may bless the inheritance of the Lord?</verse>
+        <verse osisID='2Sam.21.4'>And the Gabaonites said to him, We have no question about silver or gold with Saul and with his house; and there is no man for us to put to death in Israel.</verse>
+        <verse osisID='2Sam.21.5'>And he said, What say ye? speak, and I will do it for you. And they said to the king, The man who would have made an end of us, and persecuted us, who plotted against us to destroy us, let us utterly destroy him, so that he shall have no standing in all the coasts of Israel.</verse>
+        <verse osisID='2Sam.21.6'>Let one give us seven men of his sons, and let us hang them up in the sun to the Lord in Gabaon of Saul, as chosen out for the Lord. And the king said, I will give them.</verse>
+        <verse osisID='2Sam.21.7'>But the king spared Memphibosthe son of Jonathan the son of Saul, because of the oath of the Lord that was between them, even between David and Jonathan the son of Saul.</verse>
+        <verse osisID='2Sam.21.8'>And the king took the two sons of Respha the daughter of Aia, whom she bore to Saul, Hermonoi and Memphibosthe, and the five sons of Michol daughter of Saul, whom she bore to Esdriel son of Berzelli the Moulathite.</verse>
+        <verse osisID='2Sam.21.9'>And he gave them into the hand of the Gabaonites, and they hanged them up to the sun in the mountain before the lord: and they fell, even the seven together: moreover they were put to death in the days of harvest at the commencement, in the beginning of barley-harvest.</verse>
+        <verse osisID='2Sam.21.10'>And Respha the daughter of Aia took sackcloth, and fixed it for herself on the rock in the beginning of barley harvest, until water dropped upon them out of heaven: and she did not suffer the birds of the air to rest upon them by day, nor the beasts of the field by night.</verse>
+        <verse osisID='2Sam.21.11'>And it was told David what Respha the daughter of Aia the concubine of Saul had done, <note>Heb. omits the words in brackets</note> and they were faint, and Dan, the son of Joa of the offspring of the giants overtook them.</verse>
+        <verse osisID='2Sam.21.12'>And David went and took the bones of Saul, and the bones of Jonathan his son, from the men of the sons of Jabis Galaad, who stole them from the street of Baethsan; for the Philistines set them there in the day in which the Philistines smote Saul in Gelbue.</verse>
+        <verse osisID='2Sam.21.13'>And he carried up thence the bones of Saul and the bones of Jonathan his son, and gathered the bones of them that had been hanged.</verse>
+        <verse osisID='2Sam.21.14'>And they buried the bones of Saul and the bones of Jonathan his son, and the bones of them that had been hanged, in the land of Benjamin in the hill, in the sepulchre of Cis his father; and they did all things that the king commanded: and after this God hearkened to the prayers of the land.</verse>
+        <verse osisID='2Sam.21.15'>And there was yet war between the Philistines and Israel: and David went down and his servants with him, and they fought with the Philistines, and David went.</verse>
+        <verse osisID='2Sam.21.16'>And Jesbi, who was of the progeny of Rapha, and the head of whose spear was three hundred shekels of brass in weight, who also was girt with a club, even he thought to smite David.</verse>
+        <verse osisID='2Sam.21.17'>And Abessa the son of Saruia helped him and smote the Philistine, and slew him. Then the men of David swore, saying, Thou shalt not any longer go out with us to battle, and thou shalt not quench the lamp of Israel.</verse>
+        <verse osisID='2Sam.21.18'>And after this there was a battle again with the Philistines in Geth: then Sebocha the Astatothite slew Seph of the progeny of Rapha.</verse>
+        <verse osisID='2Sam.21.19'>And there was a battle in Rom with the Philistines; and Eleanan son of Ariorgim the Bethleemite slew Goliath the Gittite; and the staff of his spear was as a weaver’s beam.</verse>
+        <verse osisID='2Sam.21.20'>And there was yet a battle in Geth: and there was <note>The original is Hebrew in Greek letters</note> a man of stature, and the fingers of his hands and the toes of his feet were six on each, four and twenty in number: and he also was born to Rapha.</verse>
+        <verse osisID='2Sam.21.21'>And he <note>Or, reproached</note> defied Israel, and Jonathan son of Semei brother of David, smote him.</verse>
+        <verse osisID='2Sam.21.22'>These four were born descendants of the giants in Geth, the family of Rapha; and they fell by the hand of David, and by the hand of his servants.</verse>
+      </chapter>
+      <chapter osisID='2Sam.22'>
+        <verse osisID='2Sam.22.1'>And David spoke to the Lord the words of this song, in the day in which the Lord rescued him out of the hand of all his enemies, and out of the hand of Saul.</verse>
+        <verse osisID='2Sam.22.2'>And the song was thus: O Lord, my rock, and my fortress, and my deliverer,</verse>
+        <verse osisID='2Sam.22.3'>my God; he shall be to me my guard, I will trust in him: he is my protector, and the horn of my salvation, my helper, and my sure refuge; thou shalt save me from the unjust man.</verse>
+        <verse osisID='2Sam.22.4'>I will call upon the Lord who is worthy to be praised, and I shall be saved from my enemies.</verse>
+        <verse osisID='2Sam.22.5'>For the troubles of death compassed me, the floods of iniquity amazed me:</verse>
+        <verse osisID='2Sam.22.6'>the pangs of death surrounded me, the agonies of death prevented me.</verse>
+        <verse osisID='2Sam.22.7'>When I am afflicted I will call upon the Lord, and will cry to my God, and he shall hear my voice out of his temple, and my cry shalt come into his ears.</verse>
+        <verse osisID='2Sam.22.8'>And the earth was troubled and quaked, and the foundations of heaven were confounded and torn asunder, because the Lord was wroth with them.</verse>
+        <verse osisID='2Sam.22.9'>There went up a smoke in his wrath, and fire out of his mouth devours: coals were kindled at it.</verse>
+        <verse osisID='2Sam.22.10'>And he bowed the heavens, and came down, and there was darkness under his feet.</verse>
+        <verse osisID='2Sam.22.11'>And he rode upon the cherubs and did fly, and was seen upon the wings of the wind.</verse>
+        <verse osisID='2Sam.22.12'>And he made darkness his hiding-place; his tabernacle round about him was the darkness of waters, he condensed it with the clouds of the air.</verse>
+        <verse osisID='2Sam.22.13'>At the brightness before him coals of fire were kindled.</verse>
+        <verse osisID='2Sam.22.14'>The Lord thundered out of heaven, and the Most High uttered his voice.</verse>
+        <verse osisID='2Sam.22.15'>And he sent forth arrows, and scattered them, and he flashed lightning, and dismayed them.</verse>
+        <verse osisID='2Sam.22.16'>And the channels of the sea were seen, and the foundations of the world were discovered, at the rebuke of the Lord, at the blast of the breath of his anger.</verse>
+        <verse osisID='2Sam.22.17'>He sent from above and took me; he drew me out of many waters.</verse>
+        <verse osisID='2Sam.22.18'>He delivered me from my strong enemies, from them that hated me, for they were stronger than I.</verse>
+        <verse osisID='2Sam.22.19'>The days of my affliction prevented me; but the Lord was my stay.</verse>
+        <verse osisID='2Sam.22.20'>And he brought me into a wide place, and rescued me, because he delighted in me.</verse>
+        <verse osisID='2Sam.22.21'>And the Lord recompensed me according to my righteousness; even according to the purity of my hands did he recompense me.</verse>
+        <verse osisID='2Sam.22.22'>Because, I kept the ways of the Lord, and did not wickedly depart from my God.</verse>
+        <verse osisID='2Sam.22.23'>For all his judgements and his ordinances were before me: I departed not from them.</verse>
+        <verse osisID='2Sam.22.24'>And I shall be blameless <note>Gr. to him</note> before him, and will keep myself from my iniquity.</verse>
+        <verse osisID='2Sam.22.25'>And the Lord will recompense me according to my righteousness, and according to the purity of my hands in his eye-sight.</verse>
+        <verse osisID='2Sam.22.26'>With the holy thou wilt be holy, and with the perfect man thou will be perfect,</verse>
+        <verse osisID='2Sam.22.27'>and with the <note>Gr. choice or elect</note> excellent thou wilt be excellent, and with the froward thou will be froward.</verse>
+        <verse osisID='2Sam.22.28'>And thou wilt save the poor people, and wilt bring down the eyes <note>Or, upon the haughty</note> of the haughty.</verse>
+        <verse osisID='2Sam.22.29'>For thou, Lord, art my lamp, and the Lord shall shine forth to me in my darkness.</verse>
+        <verse osisID='2Sam.22.30'>For by thee shall I run <note>i. e. a strong man or warrior</note> as a girded man, and by my God shall I leap over a wall.</verse>
+        <verse osisID='2Sam.22.31'>As for the Mighty One, his way is blameless: the word of the Lord is strong and tried in the fire: he is a protector to all that put their trust in him.</verse>
+        <verse osisID='2Sam.22.32'>Who is strong, but the Lord? and who will be a Creator except our God?</verse>
+        <verse osisID='2Sam.22.33'>It is the Mighty One who strengthens me with might, and has prepared my way without fault.</verse>
+        <verse osisID='2Sam.22.34'>
+          <note>Gr. making</note> He makes my feet like hart’s feet, and sets me upon the high places.</verse>
+        <verse osisID='2Sam.22.35'>He teaches my hands to war, and has broken a brazen bow by my arm.</verse>
+        <verse osisID='2Sam.22.36'>And thou hast given me the shield of my salvation, and thy propitious dealing has increased me,</verse>
+        <verse osisID='2Sam.22.37'>so as to make room under me for my going, and my legs did not totter.</verse>
+        <verse osisID='2Sam.22.38'>I will pursue my enemies, and will utterly destroy them; and I will not turn again till I have consumed them.</verse>
+        <verse osisID='2Sam.22.39'>And <note>Alex. and Heb. «consume’</note> I will crush them, and they shall not rise; and they shall fall under my feet.</verse>
+        <verse osisID='2Sam.22.40'>And thou shalt strengthen me with power for the war; thou shalt cause them that rise up against me to bow down under me.</verse>
+        <verse osisID='2Sam.22.41'>And thou hast caused <note>Gr. as for my enemies, thou hast given me the back</note> mine enemies to flee before me, even them that hated me, and thou hast slain them.</verse>
+        <verse osisID='2Sam.22.42'>They shall cry, and there <note>Gr. is</note> shall be no helper; to the Lord, but he hearkens not to them.</verse>
+        <verse osisID='2Sam.22.43'>And I ground them as the dust of the earth, I beat them small as the mire of the streets.</verse>
+        <verse osisID='2Sam.22.44'>And thou shalt deliver me from the striving of the <note>A. V. «my people’</note> peoples, thou shalt keep me to be the head of the Gentiles: a people which I knew not served me.</verse>
+        <verse osisID='2Sam.22.45'>The strange children feigned obedience to me; they hearkened to me <note>Gr. at the hearing of the ear</note> as soon as they heard.</verse>
+        <verse osisID='2Sam.22.46'>The strange children shall be cast away, and shall be overthrown out of their hiding places.</verse>
+        <verse osisID='2Sam.22.47'>The Lord lives, and blessed be my guardian, and my God, <note>Gr. the keeper of my salvation</note> my strong keeper, shall be exalted.</verse>
+        <verse osisID='2Sam.22.48'>The Lord who avenges me is strong, chastening the nations under me,</verse>
+        <verse osisID='2Sam.22.49'>and bringing me out from my enemies: and thou shalt set me on high from among those that rise up against me: thou shalt deliver me from <note>Gr. a man of wrongs</note> the violent man.</verse>
+        <verse osisID='2Sam.22.50'>Therefore will I confess to thee, O Lord, among the Gentiles, and sing to thy name.</verse>
+        <verse osisID='2Sam.22.51'>He magnifies the <note>Gr. salvations</note> salvation of his king, and works mercy for his anointed, even for David and for his seed for ever.</verse>
+      </chapter>
+      <chapter osisID='2Sam.23'>
+        <verse osisID='2Sam.23.1'>And these are the last words of David. Faithful is David the son of Jessae, and faithful the man whom the Lord raised up to be the anointed of the God of Jacob, and beautiful are the psalms of Israel.</verse>
+        <verse osisID='2Sam.23.2'>The Spirit of the Lord spoke by me, and his word was upon my tongue.</verse>
+        <verse osisID='2Sam.23.3'>The God of Israel says, A watchman out of Israel spoke to me a parable: I said among men, How will ye strengthen the fear of the anointed?</verse>
+        <verse osisID='2Sam.23.4'>And in the morning light of God, let the sun arise in the morning, from the light of which the Lord passed on, and as it were from the rain of the tender grass upon the earth.</verse>
+        <verse osisID='2Sam.23.5'>For my house is not so with the Mighty One: for he has made an everlasting covenant with me, ready, guarded at every time; for all my salvation and all my desire is, that the wicked should not flourish.</verse>
+        <verse osisID='2Sam.23.6'>All these are as a thorn thrust forth, for they shall not be taken with the hand,</verse>
+        <verse osisID='2Sam.23.7'>and a man shall not labour among them; and one shall have that which is fully armed with iron, and the staff of a spear, and he shall burn them with fire, and they shall be burnt in their shame.</verse>
+        <verse osisID='2Sam.23.8'>These are the names of the mighty men of David: Jebosthe the Chananite is a captain of the third part: Adinon the Asonite, he drew his sword against eight hundred soldiers at once.</verse>
+        <verse osisID='2Sam.23.9'>And after him Eleanan the son of his uncle, son of Dudi who was among the three mighty men with David; and when <note>Or, they defied him among the Philistines</note> he defied the Philistines they were gathered there to war, and the men of Israel went up.</verse>
+        <verse osisID='2Sam.23.10'>He arose an smote the Philistines, until his hand was weary, and his hand clave to the sword: and the Lord wrought a great salvation in that day, and the people <note>Heb. returned</note> rested behind him only to strip the slain.</verse>
+        <verse osisID='2Sam.23.11'>And after him Samaia the son of Asa the Arachite: and the Philistines were gathered to Theria; and there was there a portion of ground full of lentiles; and the people fled before the Philistines.</verse>
+        <verse osisID='2Sam.23.12'>And he stood firm in the midst of the portion, and rescued it, and smote the Philistines; and the Lord wrought a great deliverance.</verse>
+        <verse osisID='2Sam.23.13'>And three out of the thirty went down, and came to Cason to David, to the cave of Odollam; and there was an army of the Philistines, and they encamped in the valley of Raphain.</verse>
+        <verse osisID='2Sam.23.14'>And David was then in the strong hold, and the garrison of the Philistines was then in Bethleem.</verse>
+        <verse osisID='2Sam.23.15'>And David longed, and said, Who will give me water to drink out of the well that is in Bethleem by the gate? now the band of the Philistines was then in Bethleem.</verse>
+        <verse osisID='2Sam.23.16'>And the three mighty men broke through the host of the Philistines, and drew water out of the well that was in Bethleem in the gate: and they took it, and brought it to David, and he would not drink it, but poured it out before the Lord.</verse>
+        <verse osisID='2Sam.23.17'>And he said, O Lord, forbid that I should do this, <note>Gr. if</note> that I should drink of the blood of the men who went at the risk of their lives: and he would not drink it. These things did these three mighty men.</verse>
+        <verse osisID='2Sam.23.18'>And Abessa the brother of Joab the son of Saruia, he was chief among the three, and he lifted up his spear against three hundred whom he slew; and he had a name among three.</verse>
+        <verse osisID='2Sam.23.19'>Of those three he was most honourable, and he became a chief over them, but he reached not to the first three.</verse>
+        <verse osisID='2Sam.23.20'>And Banaeas the son of Jodae, he was abundant in mighty deeds, from Cabeseel, and he smote the two sons of Ariel of Moab: and he went down and smote a lion in the midst of a pit on a snowy day.</verse>
+        <verse osisID='2Sam.23.21'>He smote an Egyptian, <note>Gr. a man seen or to be seen</note> a wonderful man, and in the hand of the Egyptian was a spear as the side of a ladder; and he went down to him with a staff, and snatched the spear from the Egyptian’s hand, and slew him with his own spear.</verse>
+        <verse osisID='2Sam.23.22'>These things did Banaeas the son of Jodae, and he had a name among the three mighty men.</verse>
+        <verse osisID='2Sam.23.23'>He was honourable among the second three, but he reached not to the first three: and David <note>Gr. appointed him to his hearings</note> made him his reporter. And these are the names of King David’s mighty men.</verse>
+        <verse osisID='2Sam.23.24'>Asael Joab’s brother; he was among the thirty. Eleanan son of Dudi his uncle in Bethleem.</verse>
+        <verse osisID='2Sam.23.25'>Saema the Rudaean.</verse>
+        <verse osisID='2Sam.23.26'>Selles <note>Or, the son of Kelothi</note> the Kelothite: Iras the son of Isca the Thecoite.</verse>
+        <verse osisID='2Sam.23.27'>Abiezer the Anothite, of the sons of the Anothite.</verse>
+        <verse osisID='2Sam.23.28'>Ellon the Aoite; Noere the Netophatite.</verse>
+        <verse osisID='2Sam.23.29'>Esthai the son of Riba of Gabaeth, son of Benjamin the Ephrathite; Asmoth the Bardiamite; Emasu the Salabonite:</verse>
+        <verse osisID='2Sam.23.30'>Adroi of the brooks.</verse>
+        <verse osisID='2Sam.23.31'>Gadabiel son of the Arabothaeite.</verse>
+        <verse osisID='2Sam.23.32'>the sons of Asan, Jonathan;</verse>
+        <verse osisID='2Sam.23.33'>Samnan the Arodite; Amnan the son of Arai the Saraurite.</verse>
+        <verse osisID='2Sam.23.34'>Aliphaleth the son of Asbites, the son of the Machachachite; Eliab the son of Achitophel the Gelonite.</verse>
+        <verse osisID='2Sam.23.35'>Asarai the Carmelite the son of Uraeoerchi.</verse>
+        <verse osisID='2Sam.23.36'>Gaal the son of Nathana. The son of much valour, the son of Galaaddi. Elie the Ammanite.</verse>
+        <verse osisID='2Sam.23.37'>Gelore the Bethorite, armour-bearer to Joab, son of Saruia.</verse>
+        <verse osisID='2Sam.23.38'>Iras the Ethirite. Gerab the Ethenite.</verse>
+        <verse osisID='2Sam.23.39'>Urias the Chettite: thirty-seven in all.</verse>
+      </chapter>
+      <chapter osisID='2Sam.24'>
+        <verse osisID='2Sam.24.1'>And the Lord caused his anger to burn forth again in Israel, and Satan stirred up David against them, saying, Go, number Israel and Juda.</verse>
+        <verse osisID='2Sam.24.2'>And the king said to Joab commander of the host, who was with him, Go now through all the tribes of Israel and Juda, from Dan even to Bersabee, and number the people, and I will know the number of the people.</verse>
+        <verse osisID='2Sam.24.3'>And Joab said to the king, Now may the Lord add to the people a hundred-fold as many as they are, and may the eyes of my lord the king <note>Gr. seeing</note> see it: but why does my lord the king desire this thing?</verse>
+        <verse osisID='2Sam.24.4'>Nevertheless the word of the king prevailed against Joab an the captains of the host: And Joab and the captains of the host went out before the king to number the people of Israel.</verse>
+        <verse osisID='2Sam.24.5'>And they went over Jordan, and encamped in Aroer, on the right of the city which is in the midst of the valley of Gad and Eliezer.</verse>
+        <verse osisID='2Sam.24.6'>And they came to Galaad, and into the land of Thabason, which is Adasai, and they came to Danidan and Udan, and compassed Sidon.</verse>
+        <verse osisID='2Sam.24.7'>And they came to Mapsar of Tyre, and to all the cities of the Evite and the Chananite: and they came by the South of Juda to Bersabee.</verse>
+        <verse osisID='2Sam.24.8'>And they compassed the whole land; and they arrived at Jerusalem at the end of nine months and twenty days.</verse>
+        <verse osisID='2Sam.24.9'>And Joab gave in the number of the census of the people to the king: and Israel consisted of eight hundred thousand men of might that drew sword; and the men of Juda, five hundred thousand fighting men.</verse>
+        <verse osisID='2Sam.24.10'>And the heart of David smote him after he had numbered the people; and David said to the Lord, I have sinned grievously, O Lord, in what I have now done: remove, I pray thee, the iniquity of thy servant, for I have been exceedingly foolish.</verse>
+        <verse osisID='2Sam.24.11'>And David rose early in the morning, and the word of the Lord came to the prophet Gad, the seer, saying, Go, and speak to David, saying,</verse>
+        <verse osisID='2Sam.24.12'>Thus saith the Lord, <note>The word eimi is simply redundant</note> I bring one of three things upon thee: now choose thee one of them, and I will do it to thee.</verse>
+        <verse osisID='2Sam.24.13'>And Gad went in to David, and told him, and said to him, Choose one of these things to befall thee, whether there shall come upon thee for three years famine in thy land; or that thou shouldest flee three months before thine enemies, and they should pursue thee; or that there should be for three days mortality in thy land. Now then decide, and see what answer I shall return to him that sent me.</verse>
+        <verse osisID='2Sam.24.14'>And David said to Gad, On every side <note>Gr. things are very narrow to me</note> I am much straitened: let me fall now into the hands of the Lord, for his compassions are very many; and let me not fall into the hands of man.</verse>
+        <verse osisID='2Sam.24.15'>So David chose for himself the mortality: and they were the days of wheat-harvest; and the Lord sent a pestilence upon Israel from morning till <note>Lit. dinner time</note> noon, and the plague began among the people; and there died of the people from Dan even to Bersabee seventy thousand men.</verse>
+        <verse osisID='2Sam.24.16'>And the angel of the Lord stretched out his hand against Jerusalem to destroy it, and the Lord repented of the evil, and said to the angel that destroyed the people, It is <note>Gr. much</note> enough now, withhold thine hand. And the angel of the Lord was by the threshing-floor of Orna the Jebusite.</verse>
+        <verse osisID='2Sam.24.17'>And David spoke to the Lord when he saw the angel smiting the people, and he said, Behold, it is I that have done wrong, <note>Alex. adds, «and I the shepherd have done wickedly’</note> but these sheep what have they done? Let thy hand, I pray thee, be upon me, and upon my father’s house.</verse>
+        <verse osisID='2Sam.24.18'>And Gad came to David in that day, and said to him, Go up, and set up to the Lord and altar in the threshing-floor of Orna the Jebusite.</verse>
+        <verse osisID='2Sam.24.19'>And David went up according to the word of Gad, as the Lord commanded him.</verse>
+        <verse osisID='2Sam.24.20'>And Orna <note>Gr. stooped; See 1 Pe 1:12, also Joh 20:5</note> looked out, and saw the king and his servants coming on before him: and Orna went forth, and did obeisance to the king with his face to the earth.</verse>
+        <verse osisID='2Sam.24.21'>And Orna said, Why has my lord the king come to his servant? and David said, To buy of thee the threshing-floor, in order to build an altar to the Lord that the plague may be restrained from off the people.</verse>
+        <verse osisID='2Sam.24.22'>And Orna said to David, Let my lord the king take and offer to the Lord that which is good in his eyes: behold, here are oxen for a whole-burnt-offering, and the wheels and furniture of the oxen for wood.</verse>
+        <verse osisID='2Sam.24.23'>Orna gave all to the king: and Orna said to the king, The Lord thy God bless thee.</verse>
+        <verse osisID='2Sam.24.24'>And the king said to Orna, Nay, but I will surely buy it of thee at a fair price, and I will not offer to the Lord my God a whole-burnt-offering for nothing. So David purchased the threshing-floor and the oxen for <note>Gr. silver of fifty shekels</note> fifty shekels of silver.</verse>
+        <verse osisID='2Sam.24.25'>And David built there an altar to the Lord, and offered up whole-burnt-offerings and peace-offerings: and Solomon made an addition to the altar afterwards, for it was little at first. And the Lord hearkened to the land, and the plague was stayed from Israel.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

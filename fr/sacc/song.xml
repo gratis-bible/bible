@@ -1,0 +1,279 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <osisText osisRefWork='Bible' osisIDWork='SACC' xml:lang='fr'>
+    <header>
+      <revisionDesc>
+        <date>2010-09-05</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='SACC'>
+        <title>La Bible de Saci 1759</title>
+        <contributor>Numérisation Yves PETRAKIAN Juillet 2008 - France</contributor>
+        <creator>TextToZefaniaXML</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject>BIBLE COMPLETE</subject>
+        <date>2010-09-05</date>
+        <description>BIBLE COMPLETE TRADUIT SUR LA VULGATE PAR LE MAISTRE DE SACI dite aussi Bible de Mons (Port Royal)</description>
+        <publisher>The Free Bible Group</publisher>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>SACC</identifier>
+        <source>http://456-bible.123-bible.com/saci/saci.htm</source>
+        <language type='IETF'>fr</language>
+        <relation/>
+        <coverage/>
+        <rights>Public Domain</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Song'>
+      <chapter osisID='Song.1'>
+        <title>FIN DU PREMIER VOLUME</title>
+        <title>Numérisation Yves PETRAKIAN Octobre 2008 - France</title>
+        <title>CANTIQUE DES CANTIQUES DE SALOMON</title>
+        <title>ARGUMENT. - Ce Cantique est appelé par les Hébreux Sir-Hasirim c'est-à-dire Cantique des cantiques, comme le plus excellent de tous En effet, les Juifs le considéroient si fort au-dessus de la portée commune des hommes, qu'ils prétendoient que sa lecture ne pouvoit convenir, ou qu'à ceux qui étoient parvenus à un âge avancé ou qu'à ceux que Dieu avoit prévenus d'une sagesse prématurée; c'est pour cette raison qu'ils ne la permettaient ordinairement qu'à ceux qui avoient atteint au moins l'âge de trente ans. Les Pères de l'Eglise ont observé aussi très-longtemps de ne pas mettre ce Cantique indifféremment entre les mains de tous les fidèles; ils attendoient qu'ils eussent acquis par l'âge, par l'habitude de la vertu, et par l'assiduité à la prière l'esprit d'onction et de piété nécessaire pour pouvoir en pénétrer l'esprit, sans courir le risque de se blesser à l'écorce. Plusieurs raisons également solides les obligeoient à prendre ces précautions: les expressions vives sous lesquelles la lettre de ce livre peint l'amitié et l'union conjugale ne convenoient pas indifféremment à la jeunesse; le sens spirituel renfermé sous cette écorce étoit hors de la portée de ceux qui avoient l'âme toute charnelle et le coeur absolument corrompu; la liaison continuelle et nécessaire que les nouveaux chretiens avoient avec les païens et les idolâtres, dans ces premiers temps, ne leur permettoit pas d'exposer indifféremment ce Cantique en toutes sortes de mains Ces différentes considérations les obligèrent dans la suite, pour prévenir l'abus que plusieurs des fidèles pouvoient faire de la lecture de ce Cantique, de composer des commentaires propres à leur en donner la véritable intelligence et à leur en découvrir le sens spirituel; et c'est dans ces commentaires qu'ils conviennent tous que, sous la peinture de l'union étroite de Salomon et de la Sulamite ou Salomite son épouse, fille de Pharaon, le Saint-Esprit avoit donné une idée sensible de la parfaite union de Jésus-Christ avec son Eglise, et de l'amour sincère qu'il a eu, qu'il a, et qu'il aura dans toute l'éternité pour elle; idée que ces saints avoient puisée dans l'apôtre saint Paul, lequel, parlant du mariage et de l'union sainte de l'époux avec l'épouse, avoit dit avant eux que c'est un grand sacrement, puisqu'il est la figure de l'union spirituelle de Jésus-Christ avec son Église.</title>
+        <title>C'est donc dans cet esprit qu'on se doit préparer à la lecture de ce livre. Ceux qui voudront pénétrer plus avant dans le sens spirituel de ce Cantique peuvent lire les Commentaires d'Origène, de saint Grégoire de Nice, de Théodoret, de saint Grégoire le Grand, de saint Bernard.</title>
+        <title>On ne peut pas douter que ce livre ne soit l'ouvrage de Salomon, puisqu'il y est nommé, qu'il parle lui-même en son nom, et que, dans le corps de l'ouvrage, il parait que c'est une espèce de dialogue entre lui et son épouse, fille de Pharaon, où ils expriment mutuellement le désir qu'ils avoient de se revoir, et l'affliction qu'ils avoient d'être éloignés l'un de l'autre. Pour l'intelligence de la lettre, sur laquelle on doit établir ensuite le sens spirituel de ce Cantique, il faut supposer que Salomon étoit occupé alors à bâtir le temple et son palais dans Jérusalem et qu'il avoit laissé son épouse pendant une partie considérable de temps en la Cité de David, liv. III des Rois, chap. III, v. 1, et chap. IX, v. 24, et que c'est cette absence qui a donné l'occasion à ce dialogue ou à ces espèces de lettres, dans lesquelles, sous divers personnages et divers caractères, l'épouse témoigne son désir de revoir Salomon, enfin libre des occupations qui le retenoient à la ville, chap V, v. 6 et 7, et l'éloignoient de la campagne, dont elle lui vante les agréments pour l'obliger à y revenir.</title>
+        <title>Toutes les personnes qui entrent dans ce dialogue tout poétique, peuvent se réduire à quatre : l’épouse, les filles de l’épouse, l’époux, les bergers ou compagnons de l’ époux. Tantôt l'époux et l'épouse y sont représentés comme un roi et une reine, tantôt comme berger et bergère, ou comme occupés à la vigne ou à la culture des jardins.</title>
+        <title>CHAPITRE I</title>
+        <title>L’ÉPOUSE</title>
+        <verse osisID='Song.1.1'>Qu'il me donne un baiser de sa bouche ; car vos mamelles sont meilleures que le vin,</verse>
+        <verse osisID='Song.1.2'>Et elles ont l'odeur des parfums les plus précieux. Votre nom est comme une huile qu'on a répandue ; c'est pourquoi les jeunes filles vous aiment.</verse>
+        <verse osisID='Song.1.3'>Entraînez-moi après vous ; nous courrons à l'odeur de vos parfums. Le roi m'a fait entrer dans ses appartements secrets; c'est là que nous nous réjouirons en vous, et que nous serons ravis de joie, en nous souvenant que vos mamelles sont meilleures que le vin. Ceux qui ont le coeur droit vous aiment.</verse>
+        <verse osisID='Song.1.4'>Je suis noire, mais je suis belle, ô filles de Jérusalem, comme les tentes de Cédar, comme les pavillons de Salomon.</verse>
+        <verse osisID='Song.1.5'>Ne considérez pas que je suis devenue brune; car c'est le soleil qui m'a ôté ma couleur. Les enfants de ma mère se sont élevés contre moi ; ils m'ont mise dans les vigiles pour les garder, et je n'ai pas gardé ma propre vigne.</verse>
+        <verse osisID='Song.1.6'>O vous qui êtes le bien-aimé de mon âme, apprenez-moi où vous menez paître votre troupeau, où vous vous reposez à midi, de peur que je ne m'égare en suivant les troupeaux de vos compagnons.</verse>
+        <title>L'ÉPOUX</title>
+        <verse osisID='Song.1.7'>Si vous ne le savez pas, ô vous qui êtes la plus belle d'entre les femmes, sortez, suivez les traces des trou peaux, et menez paître vos chevreaux près des tentes des pasteurs.</verse>
+        <verse osisID='Song.1.8'>O vous qui êtes mon amie, je vous compare à la beauté de mes chevaux attachés aux chars de Pharaon.</verse>
+        <verse osisID='Song.1.9'>Vos joues ont la beauté de la tourterelle; et votre cou est comme de riches colliers.</verse>
+        <verse osisID='Song.1.10'>Nous vous ferons des chaînes d'or, marquetées d'argent.</verse>
+        <title>L'ÉPOUSE</title>
+        <verse osisID='Song.1.11'>Pendant que le roi se reposoit, le nard dont j'étois parfumée a répandu sa bonne odeur.</verse>
+        <verse osisID='Song.1.12'>Mon bien-aimé est pour moi comme un bouquet de myrrhe; il demeurera entre mes mamelles.</verse>
+        <verse osisID='Song.1.13'>Mon bien-aimé est pour moi comme une grappe de raisin de Chypre dans les vignes d'Engaddi.</verse>
+        <title>L'ÉPOUX</title>
+        <verse osisID='Song.1.14'>O que vous êtes belle, ma bien-aimée ! ô que vous êtes belle ! Vos yeux sont comme les yeux des colombes,</verse>
+        <title>L'ÉPOUSE</title>
+        <verse osisID='Song.1.15'>Que vous êtes beau, mon bien-aimé ! que vous avez de grâces et de charmes ! Notre lit est couvert de fleurs ;</verse>
+        <verse osisID='Song.1.16'>Les solives de nos maisons sont de cèdre, nos lambris sont de cyprès.</verse>
+      </chapter>
+      <chapter osisID='Song.2'>
+        <title>CHAPITRE II</title>
+        <title>L'ÉPOUX</title>
+        <verse osisID='Song.2.1'>Je suis la fleur des champs, et je suis le lis des vallées.</verse>
+        <verse osisID='Song.2.2'>Tel qu'est le lis entre les épines, telle est ma bien-aimée entre les filles.</verse>
+        <title>L'ÉPOUSE</title>
+        <verse osisID='Song.2.3'>Tel qu'est un pommier entre les arbres des forêts, tel est mon bien-aimé entre les enfants des hommes. Je me suis reposée sous l'ombre de celui que j'avois tant désiré, et son fruit est doux à ma bouche.</verse>
+        <verse osisID='Song.2.4'>Il m'a fait entrer dans le cellier où il met son vin ; il a réglé dans moi mon amour.</verse>
+        <verse osisID='Song.2.5'>Soutenez-moi avec des fleurs, fortifiez-moi avec des fruits, parce que je languis d'amour.</verse>
+        <verse osisID='Song.2.6'>Il met sa main gauche sous ma tête, et il m'embrasse de sa main droite.</verse>
+        <title>L'ÉPOUX</title>
+        <verse osisID='Song.2.7'>Filles de Jérusalem, je vous conjure par les chevreuils et par les cerfs de la campagne de ne point réveiller celle que j'aime, et de ne point la tirer de son repos, jusqu'à ce qu'elle s'éveille d'elle-même.</verse>
+        <title>L'ÉPOUSE</title>
+        <verse osisID='Song.2.8'>J'entends la voix de mon bien-aimé ; le voici qui vient, sautant au-dessus des montagnes, passant par-dessus les collines.</verse>
+        <verse osisID='Song.2.9'>Mon bien-aimé est semblable à un chevreuil, et à un faon de biche. Le voici qui se tient derrière notre muraille, qui regarde par les fenêtres, qui jette sa vue au travers des barreaux.</verse>
+        <verse osisID='Song.2.10'>Voilà mon bien-aimé qui me parle et qui me dit : Levez-vous, hâtez-vous, ma bien-aimée, ma colombe, mon unique beauté, et venez.</verse>
+        <verse osisID='Song.2.11'>Car l'hiver est déjà passé ; les pluies se sont dissipées, et ont cessé entièrement.</verse>
+        <verse osisID='Song.2.12'>Les fleurs paroîssent sur notre terre, le temps de tailler la vigne est venu ; la voix de la tourterelle s'est fait entendre dans notre terre ;</verse>
+        <verse osisID='Song.2.13'>Le figuier a commencé à pousser ses premières figues; les vignes sont en fleur, et on sent la bonne odeur qui en sort. Levez-vous, ma bien-aimée, mon unique beauté, et venez.</verse>
+        <verse osisID='Song.2.14'>Vous qui êtes ma colombe, vous qui vous retirez dans les creux de la pierre et dans les enfoncements de la muraille, montrez-nous votre visage, que votre voix se fasse entendre à mes oreilles ; car votre voix est douce, et votre visage est agréable.</verse>
+        <verse osisID='Song.2.15'>Prenez-nous les petits renards qui détruisent les vignes; car notre vigne est en fleur.</verse>
+        <verse osisID='Song.2.16'>Mon bien-aimé est à moi, et je suis à lui, et il se nourrit parmi les lis,</verse>
+        <verse osisID='Song.2.17'>Jusqu'à ce que le jour commence à paroitre, et que les ombres se dissipent peu à peu. Retournez, mon bien-aimé; et soyez semblable à un chevreuil, et à un faon de cerfs qui court sur les montagnes de Béther.</verse>
+      </chapter>
+      <chapter osisID='Song.3'>
+        <title>CHAPITRE III</title>
+        <title>L'ÉPOUSE</title>
+        <verse osisID='Song.3.1'>J'ai cherché dans mon lit, durant les nuits, celui qu'aime mon âme ; je l'ai cherché, et je ne l'ai point trouvé.</verse>
+        <verse osisID='Song.3.2'>Je me lèverai, ai-je dit ensuite; je ferai le tour de la ville ; et je chercherai dans les rues et dans les places publiques celui qui est le bien-aimé de mon âme; je l'ai cherché, et je ne l'ai point trouvé.</verse>
+        <verse osisID='Song.3.3'>Les sentinelles qui gardent la ville m'ont rencontrée, et je leur ai dit: N'avez-vous point vu celui qu'aime mon âme?</verse>
+        <verse osisID='Song.3.4'>Lorsque je les avois à peine dépassés, je trouvai celui qu'aime mon âme; je l'ai arrêté, et je ne le laisserai point aller, jusqu'à ce que je le fasse entrer dans la maison de ma mère, et dans la chambre de celle qui m'a donné la vie.</verse>
+        <title>L'ÉPOUX</title>
+        <verse osisID='Song.3.5'>Filles de Jérusalem, je vous conjure par les chevreuils et par les cerfs de la campagne de ne point réveiller celle qui est la bien-aimée de mon âme, et de ne la point tirer de son repos, à moins qu'elle-même ne s'éveille.</verse>
+        <title>LES FILLES DE JÉRUSALEM</title>
+        <verse osisID='Song.3.6'>Qui est celle-ci qui s'élève du désert comme une fumée qui monte des parfums de myrrhe, d'encens, et de toutes sortes de poudres de senteur?</verse>
+        <title>L'ÉPOUX</title>
+        <verse osisID='Song.3.7'>Voici le lit de Salomon environné de soixante hommes des plus vaillants d'entre les forts d'Israël,</verse>
+        <verse osisID='Song.3.8'>Qui portent tous des épées, et qui sont très-expérimentés dans la guerre : chacun d'eux a l'épée au côté, contre les surprises de la nuit.</verse>
+        <verse osisID='Song.3.9'>Le roi Salomon s'est fait une litière de bois du Liban.</verse>
+        <verse osisID='Song.3.10'>Il en a fait les colonnes d'argent, et le reposoir d'or; les degrés pour y monter sont de pourpre; et il a orné le milieu de tout ce qu'il y a da plus précieux, en faveur des filles de Jérusalem.</verse>
+        <verse osisID='Song.3.11'>Sortez dehors, filles de Sion, et venez voir le roi Salomon avec le diadème dont sa mère l'a couronné le jour de ses noces, le jour où son cœur a été comblé de joie.</verse>
+      </chapter>
+      <chapter osisID='Song.4'>
+        <title>CHAPITRE IV</title>
+        <title>L'ÉPOUX</title>
+        <verse osisID='Song.4.1'>Que vous êtes belle, ô mon amie! que vous êtes belle ! Vos yeux sont comme ceux des colombes, sans ce qui est caché au dedans. Vos cheveux sont comme des troupeaux de chèvres qui sont montées sur la montagne de Galaad.</verse>
+        <verse osisID='Song.4.2'>Vos dents sont comme des troupeaux de brebis tondues qui sont montées du lavoir, et qui portent toutes un double fruit, sans qu'il y en ait de stériles parmi elles.</verse>
+        <verse osisID='Song.4.3'>Vos lèvres sont comme une bandelette d'écarlate; votre parole est agréable. Vos joues sont comme une moitié de pomme de grenade, sans ce qui est caché au dedans.</verse>
+        <verse osisID='Song.4.4'>Votre cou est comme la tour de David, qui est bâtie avec des boulevards : mille boucliers y sont suspendus, et toutes les armes des plus vaillants.</verse>
+        <verse osisID='Song.4.5'>Vos deux mamelles sont comme deux petits jumeaux de la femelle d'un chevreuil, qui paissent parmi les lis.</verse>
+        <verse osisID='Song.4.6'>Jusqu'à ce que le jour commence à paroître, et que les ombres se retirent, j'irai à la montagne de la myrrhe, et à la colline de l'encens.</verse>
+        <verse osisID='Song.4.7'>Vous êtes toute belle, ô mon amie, et il n'y a point de tache en vous,</verse>
+        <verse osisID='Song.4.8'>Venez du Liban, mon épouse, venez du Liban, venez, vous serez couronnée ; venez de la pointe du mont d'Amans, du haut des monts de Sanir et d'Hermon, des cavernes des lions, et des montagnes de léopards.</verse>
+        <verse osisID='Song.4.9'>Vous avez blessé mon coeur, ma soeur, mon épouse; vous avez blessé mom coeur par l'un de vos yeux, et par un cheveu de votre cou.</verse>
+        <verse osisID='Song.4.10'>Que vos mamelles sont belles, ma soeur, mon épouse! Vos mamelles sont plus belles que le vin, et l'odeur de vos parfums passe celle de tous les aromates.</verse>
+        <verse osisID='Song.4.11'>Vos lèvres, ô mon épouse, sont comme un rayon qui distille le miel; le miel et le lait sont sous votre langue ; et l'odeur de vos vêtements est comme l'odeur de l'encens.</verse>
+        <verse osisID='Song.4.12'>Ma soeur, mon épouse, est un jardin fermé, et une fontaine scellée.</verse>
+        <verse osisID='Song.4.13'>Vos plants forment comme un jardin de délices, rempli de pommes de grenades, et de toutes sortes de fruits de Chypre et de nard.</verse>
+        <verse osisID='Song.4.14'>Le nard et le safran, la canne aromatique et le cinnamome, avec tous les arbres du Liban, s'y trouvent aussi bien que la myrrhe et l'aloès, et tous les parfums les plus excellents.</verse>
+        <verse osisID='Song.4.15'>C'est là qu'est la fontaine des jardins, et le puits des eaux vivantes, qui coulent avec impétuosité du Liban.</verse>
+        <verse osisID='Song.4.16'>Retirez-vous, aquilon ; venez, ô vent du midi ! soufflez de toutes parts dans mon jardin, et que les parfums en découlent.</verse>
+      </chapter>
+      <chapter osisID='Song.5'>
+        <title>CHAPITRE V</title>
+        <title>L'ÉPOUSE</title>
+        <verse osisID='Song.5.1'>Que mon bien-aimé vienne dans son jardin, et qu'il mange du fruit de ses arbres.</verse>
+        <title>L'ÉPOUX</title>
+        <title>Je suis venu dans mon jardin, ma soeur, mon épouse; j'ai recueilli ma myrrhe avec mes parfums ; j'ai mangé le rayon avec mou miel; j'ai bu mon vin avec mon lait. Mangez, mes amis, et buvez; enivrez-vous, vous qui êtes mes très-chers amis.</title>
+        <title>L'ÉPOUSE</title>
+        <verse osisID='Song.5.2'>Je dors, et mon coeur veille ; j'entends la voix de mon bien-aimé qui frappe à ma porte: Ouvrez-moi, ma soeur, mon amie, ma colombe, vous qui êtes mon épouse sans tache, parce que ma tête est pleine de rosée, et mes cheveux de gouttes d'eau qui sont tombées pendant la nuit.</verse>
+        <verse osisID='Song.5.3'>Je me suis dépouillée de ma robe, comment la revêtirai-je? J'ai lavé mes pieds, comment pourrai-je les salir de nouveau?</verse>
+        <verse osisID='Song.5.4'>Mon bien-aimé a passé sa main par l'ouverture de la porte, et mes entrailles se sont émues au bruit qu'il a fait ;</verse>
+        <verse osisID='Song.5.5'>Je me suis levée alors pour ouvrir à mon bien -aimé ; mes mains étoient toutes dégouttantes de myrrhe, et mes doigts étoient pleins de la myrrhe la plus précieuse.</verse>
+        <verse osisID='Song.5.6'>J'ai ouvert ma porte à mon bien-aimé, en ayant tiré le verrou; mais il s'en étoit déjà allé, et il avoit passé ailleurs. Mon âme s'étoit comme fondue au son de sa voix; je l'ai cherché, et ne l'ai point trouvé; je l'ai appelé, et il ne m'a point répondu.</verse>
+        <verse osisID='Song.5.7'>Les gardes qui font le tour de la ville m'ont rencontrée ; ils m'ont frappée et blessée. Ceux qui gardent les murailles m'ont ôté mon manteau.</verse>
+        <verse osisID='Song.5.8'>Je vous conjure, ô filles de Jérusalem, si vous trouvez mon bien-aimé, de lui dire que je languis d'amour.</verse>
+        <title>LES COMPAGNES DE L'ÉPOUSE</title>
+        <verse osisID='Song.5.9'>Quel est celui que vous appelez votre bien-aimé entre tous les bien-aimés, ô la plus belle d'entre les femmes? Quel est votre bien-aimé entre tous les autres, au sujet duquel vous nous avez conjurées de cette sorte?</verse>
+        <title>L'ÉPOUSE</title>
+        <verse osisID='Song.5.10'>Mon bien-aimé est blanc et rose; il est choisi entre mille.</verse>
+        <verse osisID='Song.5.11'>Sa tête est comme un or très-pur, Ses cheveux sont comme les jeunes rameaux des palmiers, et ils sont noirs comme un corbeau.</verse>
+        <verse osisID='Song.5.12'>Ses yeux sont comme les colombes qu'on voit sur l'eau des ruisseaux, qui ont été comme lavées dans du lait, et qui se tiennent le long d'un grand courant d'eaux.</verse>
+        <verse osisID='Song.5.13'>Ses joues sont comme de petits parterres de plantes aromatiques, qui ont été plantées par les parfumeurs. Ses lèvres sont comme des lis qui distillent la myrrhe la plus pure. </verse>
+        <verse osisID='Song.5.14'>Ses Mains sont comme si elles étoient d'or, et faites au tour, et elles sont pleines d'hyacinthes. Sa poitrine est comme un ivoire enrichi de saphirs. </verse>
+        <verse osisID='Song.5.15'>Ses jambes sont comme des colonnes de marbre, posées sur des bases d'or. Sa figure est comme celle du mont Liban, et il se distingue entre les autres, comme les cèdres parmi tous les arbres.</verse>
+        <verse osisID='Song.5.16'>Le son de sa voix a une admirable douceur, et enfin il est tout aimable. Tel est donc mon bien-aimé, et celui qui est véritablement mon ami, ô filles de Jérusalem.</verse>
+        <title>LES COMPAGNES DE L'ÉPOUSE</title>
+        <verse osisID='Song.5.17'>Où est allé votre bien-aimé, ô la plus belle d'entre les femmes? où s'est retiré votre bien-aimé? et nous l'irons chercher avec vous,</verse>
+      </chapter>
+      <chapter osisID='Song.6'>
+        <title>CHAPITRE VI</title>
+        <title>L'ÉPOUSE</title>
+        <verse osisID='Song.6.1'>Mon bien-aimé est descendu dans son jardin, dans le parterre des plantes aromatiques, pour se nourrir dans ses jardins, et pour y cueillir des lis.</verse>
+        <verse osisID='Song.6.2'>Je suis à mon bien-aimé, et mon bien-aimé est à moi, lui qui se nourrit parmi les lis.</verse>
+        <verse osisID='Song.6.3'>Vous êtes belle, ô mon amie, et pleine de douceur ; vous êtes belle comme Jérusalem, et terrible comme une armée rangée en bataille.</verse>
+        <verse osisID='Song.6.4'>Détournez vos yeux de moi, car ce sont eux qui m'ont obligé de nie retirer promptement. Vos cheveux sont comme un troupeau de chèvres qui se sont fait voir venant de la montagne de Galaad.</verse>
+        <verse osisID='Song.6.5'>Vos dents sont comme un troupeau de brebis qui sont montées du lavoir, et qui portent toutes un double fruit, sans qu'il y en ait de stériles parmi elles.</verse>
+        <verse osisID='Song.6.6'>Vos joues sont comme l'écorce d'une pomme de grenade, sans ce qui est caché au dedans de vous.</verse>
+        <verse osisID='Song.6.7'>Il y a soixante reines, et quatre-vingts femmes du second rang, et les jeunes filles sont sans nombre.</verse>
+        <verse osisID='Song.6.8'>Mais une seule est ma colombe et ma parfaite amie; elle est unique à sa mère, et choisie préférablement par celle qui lui a donné la vie. Les filles l'ont vue, et elles ont publié qu'elle est très-heureuse; les reines et les autres femmes l'ont vue, et lui ont donné des louanges.</verse>
+        <verse osisID='Song.6.9'>Quelle est celle-ci qui s'avance comme l'aurore lorsqu'elle se lève, qui est belle comme la lune, et éclatante comme le soleil, et qui est terrible comme une armée rangée on bataille?</verse>
+        <title>L'ÉPOUSE</title>
+        <verse osisID='Song.6.10'>Je suis descendue dans le jardin des noyers, pour voir les fruits des vallées, pour considérer si la vigne avoit fleuri, et si les pommes de grenades avoient poussé.</verse>
+        <verse osisID='Song.6.11'>Je n'ai plus su où j'étois : mon âme a été toute troublée dans moi, à cause des chariots d'Aminadab.</verse>
+        <verse osisID='Song.6.12'>Revenez, revenez, ô Sulamite ! revenez, revenez, afin que nous vous considérions.</verse>
+      </chapter>
+      <chapter osisID='Song.7'>
+        <title>CHAPITRE VII</title>
+        <title>LES COMPAGNES DE L'ÉPOUSE</title>
+        <verse osisID='Song.7.1'>Que verrez-vois dans la Sulamite, sinon des choeurs de musique dans un camp d'armée? Que vos démarches sont belles, ô fille du prince, à cause de l'agrément de votre chaussure ! Les jointures de vos jambes sont comme des colliers travaillés par la main d'un excellent ouvrier.</verse>
+        <verse osisID='Song.7.2'>Votre nombril est comme une coupe faite au tour, où il ne manque jamais de lîqueur à boire. Votre ventre est comme un monceau de froment tout environné de lis.</verse>
+        <verse osisID='Song.7.3'>Vos deux mamelles sont comme deux petits jumeaux de la femelle d'un chevreuil,</verse>
+        <verse osisID='Song.7.4'>Votre cou est comme une tour d'ivoire. Vos yeux sont comme les piscines d'Hésébon, situées à la porte du plus grand concours des peuples. Votre nez est comme la tour du Liban. qui regarde vers Damas.</verse>
+        <verse osisID='Song.7.5'>Votre tête est comme le mont Carmel ; et les cheveux de votre tête sont comme la pourpre du roi, liée et teinte deux fois dans les canaux des teinturiers.</verse>
+        <verse osisID='Song.7.6'>Que vous êtes belle, et pleine de grâce, ô vous qui m'êtes très-chère, délices de mon coeur !</verse>
+        <verse osisID='Song.7.7'>Votre taille est semblable à un palmier, et vos mamelles à des grappes de raisin.</verse>
+        <verse osisID='Song.7.8'>J'ai dit : Je monterai sur le palmier, et j'en cueillerai des fruits ; et vos mamelles seront comme des grappes de raisin, et l'odeur de votre bouche comme celle des pommes.</verse>
+        <verse osisID='Song.7.9'>Ce qui sort de votre gorge est comme un vin excellent, digne d'être bu par mon bien-aimé, et longtemps savouré entre ses lèvres et ses dents.</verse>
+        <title>L'ÉPOUSE</title>
+        <verse osisID='Song.7.10'>Je suis à mon bien-aimé, et son coeur se tourne vers moi.</verse>
+        <verse osisID='Song.7.11'>Venez, mon bien-aimé, sortons dans les champs, demeurons dans les villages.</verse>
+        <verse osisID='Song.7.12'>Levons-nous dès le matin pour aller aux vignes; voyons si la vigne a fleuri, si les fleurs produisent des fruits, si les pommes de grenades sont en fleur; c'est là que je vous offrirai mes mamelles.</verse>
+        <verse osisID='Song.7.13'>Les mandragores ont répandu déjà leur odeur. Nous avons toutes sortes de fruits à nos portes : je vous ai gardé, mon bien-aimé, les nouveaux et les anciens.</verse>
+      </chapter>
+      <chapter osisID='Song.8'>
+        <title>CHAPITRE VIII</title>
+        <title>L'ÉPOUSE</title>
+        <verse osisID='Song.8.1'>Qui me procurera le bonheur de vous avoir pour frère, suçant les mamelles de ma mère, afin que je vous trouve dehors, que je vous donne un baiser, et qu'à l'avenir personne ne me méprise?</verse>
+        <verse osisID='Song.8.2'>Je vous prendrai, et je vous conduirai dans la maison de ma mère; c'est là que vous m'instruirez. et je vous donnerai un breuvage d'un vin mêlé de parfums, et un suc nouveau de mes pommes de grenades.</verse>
+        <verse osisID='Song.8.3'>Sa main gauche est sous ma tète, et il m'embrasse de sa main droite.</verse>
+        <title>L'ÉPOUX</title>
+        <verse osisID='Song.8.4'>Je vous conjure, ô filles de Jérusalem, de ne point faire de bruit, et de ne point réveiller celle que j'aime, jusqu'à ce qu'elle le veuille elle-même.</verse>
+        <title>LES COMPAGNES DE L'ÉPOUSE</title>
+        <verse osisID='Song.8.5'>Quelle est celle-ci qui s'élève du désert, toute remplie de délices, et appuyée sur son bien-aimé?</verse>
+        <title>L’ÉPOUX</title>
+        <title>Je vous ai ressuscitée sous le pommier; c'est là que votre mère s'est corrompue; c'est là que celle qui vous a donné la vie a perdu sa pureté.</title>
+        <verse osisID='Song.8.6'>Mettez-moi comme un sceau sur votre coeur, comme un sceau sur votre bras, parce que l'amour est fort comme la mort, et que le zèle de l'amour est inflexible comme l'enfer : ses lampes sont des lampes de feu et de flammes.</verse>
+        <verse osisID='Song.8.7'>Les grandes eaux n'ont pu éteindre la charité, et les fleuves n'auront point la force de l'étouffer. Quand un homme auroit donné toutes les richesses de sa maison pour le saint amour, il les mépriseroit comme s'il n'avoit rien donné.</verse>
+        <title>L'ÉPOUSE</title>
+        <verse osisID='Song.8.8'>Notre soeur est encore petite, et elle n'a point de mamelles ; que ferons-nous à notre soeur au jour où il faudra lui parler ?</verse>
+        <title>L'ÉPOUX</title>
+        <verse osisID='Song.8.9'>Si elle est comme un mur, bâtissons dessus des tours d'argent; si elle est comme une porte, fermons-la avec des ais et des bois de cèdre.</verse>
+        <title>L'ÉPOUSE</title>
+        <verse osisID='Song.8.10'>Je suis moi-même comme un mur; et mes mamelles sont comme une tour, depuis que j'ai paru en sa présence, comme ayant trouvé en lui ma paix.</verse>
+        <title>L' ÉPOUX </title>
+        <verse osisID='Song.8.11'>Le pacifique a eu une vigne dans celle où il y a une multitude de peuples; il l'a donnée à. des gens pour la garder; chaque homme doit rendre mille pièces d'argent pour le fruit qu'il en retire.</verse>
+        <verse osisID='Song.8.12'>Pour ma vigne, elle est devant moi. O pacifique, vous retirerez mille pièces d'argent de votre vigne, et ceux qui en gardent et en recueillent les fruits en retireront deux cents.</verse>
+        <verse osisID='Song.8.13'>O vous qui habitez dans les jardins, nos amis sont attentifs à écouter ; faites-moi entendre votre voix.</verse>
+        <title>L'ÉPOUSE</title>
+        <verse osisID='Song.8.14'>Fuyez, ô mon bien-aimé, et soyez semblable à un chevreuil et à un faon de cerf, en vous retirant sur les montagnes des aromates.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

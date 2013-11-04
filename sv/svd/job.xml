@@ -1,0 +1,1256 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText xml:lang='sv' osisRefWork='Bible' osisIDWork='SVD'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='SVD'>
+        <title>Swedish 1917 Version</title>
+        <contributor>The Unbound Bible
+Biola University: Administrative Computing
+13800 Biola Ave.
+La Mirada, CA 90639
+United States of America
+562-903-4722 </contributor>
+        <creator/>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject>holy bible</subject>
+        <date>2009-01-20</date>
+        <description>This Bible translation represents the official Swedish translation of 1917, authorized by the throne for use in the Church of Sweden.</description>
+        <publisher>FREE BIBLE SOFTWARE GROUP</publisher>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>SVD</identifier>
+        <source>ftp://unboundftp.biola.edu/pub/swedish1917_utf8.zip</source>
+        <language type='IETF'>sv</language>
+        <relation/>
+        <coverage>provide the bible to the world</coverage>
+        <rights>i think public domain</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div osisID='Job' type='book'>
+      <chapter osisID='Job.1'>
+        <verse osisID='Job.1.1'>I Us' land levde en man som hette Job; han var en ostrafflig och redlig man, som fruktade Gud och flydde det onda.</verse>
+        <verse osisID='Job.1.2'>Åt honom föddes sju söner och tre döttrar;</verse>
+        <verse osisID='Job.1.3'>och han ägde sju tusen får, tre tusen kameler, fem hundra par oxar och fem hundra åsninnor, därtill tjänare i stor mängd.  Så var denne man mäktigare än någon annan i Österlandet.</verse>
+        <verse osisID='Job.1.4'>Och hans söner hade för sed att gå åstad och hålla gästabud, den ena dagen i den enes hus, den andra dagen i den andres; de sände då och inbjödo sina tre systrar att äta och dricka tillsammans med dem.</verse>
+        <verse osisID='Job.1.5'>När så en omgång av gästabudsdagar var till ända, sände Job efter dem för att helga dem; bittida om morgonen offrade han då ett brännoffer för var och en av dem.  Ty Job tänkte »Kanhända hava mina barn syndat och i sina hjärtan talat förgripligt om Gud».  Så gjorde Job för var gång.</verse>
+        <verse osisID='Job.1.6'>Men nu hände sig en dag att Guds söner kommo och trädde fram inför HERREN, och Åklagaren kom också med bland dem.</verse>
+        <verse osisID='Job.1.7'>Då frågade HERREN Åklagaren: »Varifrån kommer du?»  Åklagaren svarade HERREN och sade: »Från en vandring utöver jorden och från en färd omkring på den.»</verse>
+        <verse osisID='Job.1.8'>Då sade HERREN till Åklagaren: »Har du givit akt på min tjänare Job?  Ty på jorden finnes icke hans like i ostrafflighet och redlighet, ingen som så fruktar Gud och flyr det onda.»</verse>
+        <verse osisID='Job.1.9'>Åklagaren svarade HERREN och sade: »Är det då för intet som Job fruktar Gud?</verse>
+        <verse osisID='Job.1.10'>Du har ju på allt sätt beskärmat honom och hans hus och allt vad han äger; du har välsignat hans händers verk, och hans boskapshjordar hava utbrett sig i landet.</verse>
+        <verse osisID='Job.1.11'>Man räck ut din hand och kom vid detta allt som han äger; förvisso skall han då mitt i ansiktet tala förgripliga ord mot dig.»</verse>
+        <verse osisID='Job.1.12'>HERREN sade till Åklagaren: »Välan, allt vad han äger vare givet i din hand; allenast mot honom själv må du icke räcka ut din hand.»  Så gick Åklagaren bort ifrån HERRENS ansikte.</verse>
+        <verse osisID='Job.1.13'>När nu en dag hans söner och döttrar höllo måltid och drucko vin i den äldste broderns hus,</verse>
+        <verse osisID='Job.1.14'>Kom en budbärare till Job och sade: »Oxarna gingo för plogen, och åsninnorna betade därbredvid;</verse>
+        <verse osisID='Job.1.15'>då föllo sabéerna in och rövade bort dem, och folket slogo de med svärdsegg.  Jag var den ende som kom undan, för att jag skulle underrätta dig därom.»</verse>
+        <verse osisID='Job.1.16'>Medan denne ännu talade, kom åter en och sade: »Guds eld föll ifrån himmelen och slog ned bland småboskapen och folket och förtärde dem.  Jag var den ende som kom undan, för att jag skulle underrätta dig därom.»</verse>
+        <verse osisID='Job.1.17'>Medan denne ännu talade, kom åter en och sade: Kaldéerna ställde upp sitt manskap i tre hopar och föllo så över kamelerna och rövade bort dem, och folket slogo de med svärdsegg.  Jag var den ende som kom undan, för att jag skulle underrätta dig därom.»</verse>
+        <verse osisID='Job.1.18'>Under det att denne ännu talade, kom åter en annan och sade: Dina söner och döttrar höllo måltid och drucko vin i den äldste broderns hus;</verse>
+        <verse osisID='Job.1.19'>då kom en stark storm fram över öknen och tog tag i husets fyra hörn, och det föll omkull över folket, så att de förgingos.  Jag var den ende som kom undan, för att jag skulle underrätta dig därom.»</verse>
+        <verse osisID='Job.1.20'>Då stod Job upp och rev sönder sin mantel och skar av håret på sitt huvud.  Och han föll ned till jorden och tillbad</verse>
+        <verse osisID='Job.1.21'>och sade: »Naken kom jag ur min moders liv, och naken skall jag vända åter dit; HERREN gav, och HERREN tog. Lovat vare HERRENS namn!»</verse>
+        <verse osisID='Job.1.22'>Vid allt detta syndade Job icke och talade intet lasteligt mot Gud.</verse>
+      </chapter>
+      <chapter osisID='Job.2'>
+        <verse osisID='Job.2.1'>Åter hände sig en dag att Guds söner kommo och trädde fram inför HERREN; och Åklagaren kom också med bland dem och trädde fram inför HERREN.</verse>
+        <verse osisID='Job.2.2'>Då frågade HERREN Åklagaren: »Varifrån kommer du?»  Åklagaren svarade HERREN och sade: »Från en vandring utöver jorden och från en färd omkring på den.»</verse>
+        <verse osisID='Job.2.3'>Då sade HERREN till Åklagaren: »Har du givit akt på min tjänare Job?  Ty på jorden finnes icke hans like i ostrafflighet och redlighet, ingen som så fruktar Gud och flyr det onda; och ännu håller han fast vid sin ostrafflighet.  Så har du då uppeggat mig mot honom till att utan sak fördärva honom.»</verse>
+        <verse osisID='Job.2.4'>Åklagaren svarade HERREN och sade: »Hud för hud; allt vad man äger giver man ju för att själv slippa undan.</verse>
+        <verse osisID='Job.2.5'>Men räck ut din hand och kom vid hans kött och ben; förvisso skall han då mitt i ansiktet tala förgripliga ord mot dig.»</verse>
+        <verse osisID='Job.2.6'>HERREN sade till Åklagaren: »Välan, han vare given i din hand; allenast hans liv må du skona.»</verse>
+        <verse osisID='Job.2.7'>Så gick Åklagaren bort ifrån HERRENS ansikte och slog Job med svåra bulnader, ifrån fotbladet ända till hjässan.</verse>
+        <verse osisID='Job.2.8'>Och han tog sig en lerskärva att skrapa sig med, där han satt mitt i askan.</verse>
+        <verse osisID='Job.2.9'>Då sade hans hustru till honom: »Håller du ännu fast vid din ostrafflighet?  Tala fritt ut om Gud, och dö.»</verse>
+        <verse osisID='Job.2.10'>Man han svarade henne: »Du talar såsom en dåraktig kvinna skulle tala.  Om vi taga emot det goda av Gud, skola vi då icke också taga emot det onda?»  Vid allt detta syndade Job icke med sina läppar.</verse>
+        <verse osisID='Job.2.11'>Men tre vänner till Job fingo höra om alla de olyckor som hade träffat honom, och de kommo så, var och en från sin ort; Elifas från Teman, Bildad från Sua och Sofar från Naama.  Och de avtalade med varandra att de skulle begiva sig åstad för att ömka honom och trösta honom.</verse>
+        <verse osisID='Job.2.12'>Men när de, ännu på avstånd, lyfte upp sina ögon och sågo att de icke mer kunde känna igen honom, brusto de ut i gråt och revo sönder sina mantlar och kastade stoft mot himmelen, ned över sina huvuden.</verse>
+        <verse osisID='Job.2.13'>Sedan sutto de med honom på jorden i sju dagar och sju nätter, utan att någon av dem talade ett ord till honom, eftersom de sågo att hans plåga var mycket stor.</verse>
+      </chapter>
+      <chapter osisID='Job.3'>
+        <verse osisID='Job.3.1'>Därefter upplät Job sin mun och förbannade sin födelsedag;</verse>
+        <verse osisID='Job.3.2'>Job tog till orda och sade:</verse>
+        <verse osisID='Job.3.3'>Må den dag utplånas, på vilken jag föddes, och den natt som sade: »Ett gossebarn är avlat.»</verse>
+        <verse osisID='Job.3.4'>Må den dagen vändas i mörker, må Gud i höjden ej fråga efter den och intet dagsljus lysa däröver.</verse>
+        <verse osisID='Job.3.5'>Mörkret och dödsskuggan börde den åter, molnen lägre sig över den; förskräcke den allt som kan förmörka en dag.</verse>
+        <verse osisID='Job.3.6'>Den natten må gripas av tjockaste mörker; ej må den få fröjda sig bland årets dagar, intet rum må den finna inom månadernas krets.</verse>
+        <verse osisID='Job.3.7'>Ja, ofruktsam blive den natten, aldrig höje sig jubel under den.</verse>
+        <verse osisID='Job.3.8'>Må den förbannas av dem som besvärja dagar, av dem som förmå mana upp Leviatan.</verse>
+        <verse osisID='Job.3.9'>Må dess grynings stjärnor förmörkas, efter ljus må den bida, utan att det kommer, morgonrodnadens ögonbryn må den aldrig få se;</verse>
+        <verse osisID='Job.3.10'>eftersom den ej tillslöt dörrarna till min moders liv, ej lät olyckan förbliva dold för mina ögon.</verse>
+        <verse osisID='Job.3.11'>Varför fick jag ej dö strax i modersskötet, förgås vid det jag kom ut ur min moders liv?</verse>
+        <verse osisID='Job.3.12'>Varför funnos knän mig till mötes, och varför bröst, där jag fick di?</verse>
+        <verse osisID='Job.3.13'>Hade så icke skett, låge jag nu i ro, jag finge då sova, jag njöte då min vila,</verse>
+        <verse osisID='Job.3.14'>vid sidan av konungar och rådsherrar i landet, män som byggde sig palatslika gravar,</verse>
+        <verse osisID='Job.3.15'>ja, vid sidan av furstar som voro rika på guld och hade sina hus uppfyllda av silver;</verse>
+        <verse osisID='Job.3.16'>eller vore jag icke till, lik ett nedgrävt foster, lik ett barn som aldrig fick se ljuset.</verse>
+        <verse osisID='Job.3.17'>Där hava ju de ogudaktiga upphört att rasa, där få de uttröttade komma till vila;</verse>
+        <verse osisID='Job.3.18'>där hava alla fångar fått ro, de höra där ingen pådrivares röst.</verse>
+        <verse osisID='Job.3.19'>Små och stora äro där varandra lika, trälen har där blivit fri ifrån sin herre.</verse>
+        <verse osisID='Job.3.20'>Varför skulle den olycklige skåda ljuset? Ja, varför gives liv åt dem som plågas så bittert,</verse>
+        <verse osisID='Job.3.21'>åt dem som vänta efter döden, utan att den kommer, och spana därefter mer än efter någon skatt,</verse>
+        <verse osisID='Job.3.22'>åt dem som skulle glädjas -- ja, intill jubel -- och fröjda sig, allenast de funne sin grav;</verse>
+        <verse osisID='Job.3.23'>varför åt en man vilkens väg är höljd i mörker, åt en man så kringstängd av Gud?</verse>
+        <verse osisID='Job.3.24'>Suckan har ju blivit mitt dagliga bröd, och såsom vatten strömma mina klagorop.</verse>
+        <verse osisID='Job.3.25'>ty det som ingav mig förskräckelse, det drabbar mig nu, och vad jag fruktade för, det kommer över mig.</verse>
+        <verse osisID='Job.3.26'>Jag får ingen rast, ingen ro, ingen vila; ångest kommer över mig.</verse>
+      </chapter>
+      <chapter osisID='Job.4'>
+        <verse osisID='Job.4.1'>Därefter tog Elifas från Teman till orda och sade:</verse>
+        <verse osisID='Job.4.2'>Misstycker du, om man dristar tala till dig? Vem kan hålla tillbaka sina ord?</verse>
+        <verse osisID='Job.4.3'>Se, många har du visat till rätta, och maktlösa händer har du stärkt;</verse>
+        <verse osisID='Job.4.4'>dina ord hava upprättat den som stapplade, och åt vacklande knän har du givit kraft.</verse>
+        <verse osisID='Job.4.5'>Men nu, då det gäller dig själv, bliver du otålig, när det är dig det drabbar, förskräckes du.</verse>
+        <verse osisID='Job.4.6'>Skulle då icke din gudsfruktan vara din tillförsikt och dina vägars ostrafflighet ditt hopp?</verse>
+        <verse osisID='Job.4.7'>Tänk efter: när hände det att en oskyldig fick förgås? och var skedde det att de redliga måste gå under?</verse>
+        <verse osisID='Job.4.8'>Nej, så har jag sett det gå, att de som plöja fördärv och de som utså olycka, de skörda och sådant;</verse>
+        <verse osisID='Job.4.9'>för Guds andedräkt förgås de och för en fnysning av hans näsa försvinna de.</verse>
+        <verse osisID='Job.4.10'>Ja, lejonets skri och rytarens röst måste tystna, och unglejonens tänder brytas ut;</verse>
+        <verse osisID='Job.4.11'>Det gamla lejonet förgås, ty det finner intet rov, och lejoninnans ungar bliva förströdda.</verse>
+        <verse osisID='Job.4.12'>Men till mig smög sakta ett ord, mitt öra förnam det likasom en viskning,</verse>
+        <verse osisID='Job.4.13'>När tankarna svävade om vid nattens syner och sömnen föll tung på människorna,</verse>
+        <verse osisID='Job.4.14'>då kom en förskräckelse och bävan över mig, med rysning fyllde den alla ben i min kropp.</verse>
+        <verse osisID='Job.4.15'>En vindpust for fram över mitt ansikte, därvid reste sig håren på min kropp.</verse>
+        <verse osisID='Job.4.16'>Och något trädde inför mina ögon, en skepnad vars form jag icke skönjde; och jag hörde en susning och en röst:</verse>
+        <verse osisID='Job.4.17'>»Kan då en människa hava rätt mot Gud eller en man vara ren inför sin skapare?</verse>
+        <verse osisID='Job.4.18'>Se, ej ens på sina tjänare kan han förlita sig, jämväl sina änglar måste han tillvita fel;</verse>
+        <verse osisID='Job.4.19'>huru mycket mer då dem som bo i hyddor av ler, dem som hava sin grundval i stoftet!  De krossas sönder så lätt som mal;</verse>
+        <verse osisID='Job.4.20'>när morgon har bytts till afton, ligga de slagna; innan man aktar därpå, hava de förgåtts för alltid.</verse>
+        <verse osisID='Job.4.21'>Ja, deras hyddas fäste ryckes bort för dem, oförtänkt måste de dö.»</verse>
+      </chapter>
+      <chapter osisID='Job.5'>
+        <verse osisID='Job.5.1'>Ropa fritt; vem finnes, som svarar dig, och till vilken av de heliga kan du vända dig?</verse>
+        <verse osisID='Job.5.2'>Se, dåren dräpes av sin grämelse, och den fåkunnige dödas av sin bitterhet.</verse>
+        <verse osisID='Job.5.3'>Jag såg en dåre, fast var han rotad, men plötsligt måste jag ropa ve över hans boning.</verse>
+        <verse osisID='Job.5.4'>Ty hans barn gå nu fjärran ifrån frälsning, de förtrampas i porten utan räddning.</verse>
+        <verse osisID='Job.5.5'>Av hans skörd äter vem som är hungrig, den rövas bort, om och hägnad med törnen; efter hans rikedom gapar ett giller.</verse>
+        <verse osisID='Job.5.6'>Ty icke upp ur stoftet kommer fördärvet, ej ur marken skjuter olyckan upp;</verse>
+        <verse osisID='Job.5.7'>nej, människan varder född till olycka, såsom eldgnistor måste flyga mot höjden.</verse>
+        <verse osisID='Job.5.8'>Men vore det nu jag, så sökte jag nåd hos Gud, åt Gud hemställde jag min sak,</verse>
+        <verse osisID='Job.5.9'>åt honom som gör stora och outrannsakliga ting, under, flera än någon kan räkna,</verse>
+        <verse osisID='Job.5.10'>åt honom som låter regnet falla på jorden och sänder vatten ned över markerna,</verse>
+        <verse osisID='Job.5.11'>när han vill upphöja de ringa och förhjälpa de sörjande till frälsning.</verse>
+        <verse osisID='Job.5.12'>Han är den som gör de klokas anslag om intet, så att deras händer intet uträtta med förnuft;</verse>
+        <verse osisID='Job.5.13'>han fångar de visa i deras klokskap och låter de illfundiga förhasta sig i sina rådslag:</verse>
+        <verse osisID='Job.5.14'>mitt på dagen råka de ut för mörker och famla mitt i ljuset, likasom vore det natt.</verse>
+        <verse osisID='Job.5.15'>Så frälsar han från deras tungors svärd, han frälsar den fattige ur den övermäktiges hand.</verse>
+        <verse osisID='Job.5.16'>Den arme kan så åter hava ett hopp, och orättfärdigheten måste tillsluta sin mun.</verse>
+        <verse osisID='Job.5.17'>Ja, säll är den människa som Gud agar; den Allsmäktiges tuktan må du icke förkasta.</verse>
+        <verse osisID='Job.5.18'>Ty om han och sargar, så förbinder han ock, om han slår, så hela ock hans händer.</verse>
+        <verse osisID='Job.5.19'>Sex gånger räddar han dig ur nöden, ja, sju gånger avvändes olyckan från dig.</verse>
+        <verse osisID='Job.5.20'>I hungerstid förlossar han dig från döden och i krig undan svärdets våld.</verse>
+        <verse osisID='Job.5.21'>När tungor svänga gisslet, gömmes du undan; du har intet att frukta, när förhärjelse kommer.</verse>
+        <verse osisID='Job.5.22'>Ja, åt förhärjelse och dyr tid kan du då le, för vilddjur behöver du ej heller känna fruktan;</verse>
+        <verse osisID='Job.5.23'>ty med markens stenar står du i förbund, och med djuren på marken har du ingått fred.</verse>
+        <verse osisID='Job.5.24'>Och du får se huru din hydda står trygg; när du synar din boning, saknas intet däri.</verse>
+        <verse osisID='Job.5.25'>Du får ock se huru din ätt förökas, huru din avkomma bliver såsom markens örter.</verse>
+        <verse osisID='Job.5.26'>I graven kommer du, när du har hunnit din mognad, såsom sädesskylen bärgas, då dess tid är inne.</verse>
+        <verse osisID='Job.5.27'>Se, detta hava vi utrannsakat, och så är det; hör därpå och betänk det väl.</verse>
+      </chapter>
+      <chapter osisID='Job.6'>
+        <verse osisID='Job.6.1'>Då tog Job till orda och sade:</verse>
+        <verse osisID='Job.6.2'>Ack att min grämelse bleve vägd och min olycka lagd jämte den på vågen!</verse>
+        <verse osisID='Job.6.3'>Se, tyngre är den nu än havets sand, därför kan jag icke styra mina ord.</verse>
+        <verse osisID='Job.6.4'>Ty den Allsmäktiges pilar hava träffat mig, och min ande indricker deras gift; ja, förskräckelser ifrån Gud ställa sig upp mot mig.</verse>
+        <verse osisID='Job.6.5'>Icke skriar vildåsnan, när hon har friskt gräs, icke råmar oxen, då han står vid sitt foder?</verse>
+        <verse osisID='Job.6.6'>Men vem vill äta den mat som ej har smak eller sälta, och vem finner behag i slemörtens saft?</verse>
+        <verse osisID='Job.6.7'>Så vägrar nu min själ att komma vid detta, det är för mig en vämjelig spis.</verse>
+        <verse osisID='Job.6.8'>Ack att min bön bleve hörd, och att Gud ville uppfylla mitt hopp!</verse>
+        <verse osisID='Job.6.9'>O att det täcktes Gud att krossa mig, att räcka ut sin hand och avskära mitt liv!</verse>
+        <verse osisID='Job.6.10'>Då funnes ännu för mig någon tröst, jag kunde då jubla, fastän plågad utan förskoning; jag har ju ej förnekat den Heliges ord.</verse>
+        <verse osisID='Job.6.11'>Huru stor är då min kraft, eftersom jag alltjämt bör hoppas? Och vad väntar mig för ände, eftersom jag skall vara tålig?</verse>
+        <verse osisID='Job.6.12'>Min kraft är väl ej såsom stenens, min kropp är väl icke av koppar?</verse>
+        <verse osisID='Job.6.13'>Nej, förvisso gives ingen hjälp för mig, var utväg har blivit mig stängd.</verse>
+        <verse osisID='Job.6.14'>Den förtvivlade borde ju röna barmhärtighet av sin vän, men se, man övergiver den Allsmäktiges fruktan,</verse>
+        <verse osisID='Job.6.15'>Mina bröder äro trolösa, de äro såsom regnbäckar, ja, lika bäckarnas rännilar, som snart sina ut,</verse>
+        <verse osisID='Job.6.16'>som väl kunna gå mörka av vinterns flöden, när snön har fallit och gömt sig i dem,</verse>
+        <verse osisID='Job.6.17'>men som åter försvinna, när de träffas av hettan, och torka bort ifrån sin plats, då värmen kommer.</verse>
+        <verse osisID='Job.6.18'>Vägfarande där i trakten vika av till dem, men de finna allenast ödslighet och måste förgås.</verse>
+        <verse osisID='Job.6.19'>Temas vägfarande skådade dithän, Sabas köpmanståg hoppades på dem;</verse>
+        <verse osisID='Job.6.20'>men de kommo på skam i sin förtröstan, de sågo sig gäckade, när de hade hunnit ditfram.</verse>
+        <verse osisID='Job.6.21'>Ja, likaså ären I nu ingenting värda, handfallna stån I av förfäran och förskräckelse.</verse>
+        <verse osisID='Job.6.22'>Har jag då begärt att I skolen giva mig gåvor, taga av edert gods för att lösa mig ut,</verse>
+        <verse osisID='Job.6.23'>att I skolen rädda mig undan min ovän, köpa mig fri ur våldsverkares hand?</verse>
+        <verse osisID='Job.6.24'>Undervisen mig, så vill jag tiga, lären mig att förstå vari jag har farit vilse.</verse>
+        <verse osisID='Job.6.25'>Gott är förvisso uppriktigt tal, men tillrättavisning av eder, vad båtar den?</verse>
+        <verse osisID='Job.6.26'>Haven I då i sinnet att hålla räfst med ord, och skall den förtvivlade få tala för vinden?</verse>
+        <verse osisID='Job.6.27'>Då kasten I väl också lott om den faderlöse, då lären I väl köpslå om eder vän!</verse>
+        <verse osisID='Job.6.28'>Dock, må det nu täckas eder att akta på mig; icke vill jag ljuga eder mitt i ansiktet.</verse>
+        <verse osisID='Job.6.29'>Vänden om!  Må sådan orätt icke ske; ja, vänden ännu om, ty min sak är rättfärdig!</verse>
+        <verse osisID='Job.6.30'>Skulle väl orätt bo på min tunga, och min mun, skulle den ej förstå vad fördärvligt är?</verse>
+      </chapter>
+      <chapter osisID='Job.7'>
+        <verse osisID='Job.7.1'>En stridsmans liv lever ju människan på jorden, och hennes dagar äro såsom dagakarlens dagar.</verse>
+        <verse osisID='Job.7.2'>Hon är lik en träl som flämtar efter skugga, lik en dagakarl som får bida efter sin lön.</verse>
+        <verse osisID='Job.7.3'>Så har jag fått till arvedel månader av elände; nätter av vedermöda hava blivit min lott.</verse>
+        <verse osisID='Job.7.4'>Så snart jag har lagt mig, är min fråga: »När skall jag då få stå upp?» Ty aftonen synes mig så lång; jag är övermätt av oro, innan morgonen har kommit.</verse>
+        <verse osisID='Job.7.5'>Med förruttnelsens maskar höljes min kropp, med en skorpa lik jord; min hud skrymper samman och faller sönder.</verse>
+        <verse osisID='Job.7.6'>Mina dagar fly snabbare än vävarens spole; de försvinna utan något hopp.</verse>
+        <verse osisID='Job.7.7'>Tänk därpå att mitt liv är en fläkt, att mitt öga icke mer skall få se någon lycka.</verse>
+        <verse osisID='Job.7.8'>Den nu ser mig, hans öga skall ej vidare skåda mig; bäst din blick vilar på mig, är jag icke mer.</verse>
+        <verse osisID='Job.7.9'>Såsom ett moln som har försvunnit och gått bort, så är den som har farit ned i dödsriket; han kommer ej åter upp därifrån.</verse>
+        <verse osisID='Job.7.10'>Aldrig mer vänder han tillbaka till sitt hus, och hans plats vet icke av honom mer.</verse>
+        <verse osisID='Job.7.11'>Därför vill jag nu icke lägga band på min mun, jag vill taga till orda i min andes ångest, jag vill klaga i min själs bedrövelse.</verse>
+        <verse osisID='Job.7.12'>Icke är jag väl ett hav eller ett havsvidunder, så att du måste sätta ut vakt mot mig?</verse>
+        <verse osisID='Job.7.13'>När jag hoppas att min bädd skall trösta mig, att mitt läger skall lindra mitt bekymmer,</verse>
+        <verse osisID='Job.7.14'>då förfärar du mig genom drömmar, och med syner förskräcker du mig.</verse>
+        <verse osisID='Job.7.15'>Nej, hellre vill jag nu bliva kvävd, hellre dö än vara blott knotor!</verse>
+        <verse osisID='Job.7.16'>Jag är led vid detta; aldrig kommer jag åter till liv. Låt mig vara; mina dagar äro ju fåfänglighet.</verse>
+        <verse osisID='Job.7.17'>Vad är då en människa, att du gör så stor sak av henne, aktar på henne så noga,</verse>
+        <verse osisID='Job.7.18'>synar henne var morgon, prövar henne vart ögonblick?</verse>
+        <verse osisID='Job.7.19'>Huru länge skall det dröja, innan du vänder din blick ifrån mig, lämnar mig i fred ett litet andetag?</verse>
+        <verse osisID='Job.7.20'>Om jag än har syndar, vad skadar jag därmed dig, du människornas bespejare?  Varför har du satt mig till ett mål för dina angrepp och låtit mig bliva en börda för mig själv?</verse>
+        <verse osisID='Job.7.21'>Varför vill du icke förlåta mig min överträdelse, icke tillgiva mig min missgärning? Nu måste jag ju snart gå till vila i stoftet; om du söker efter mig, så är jag icke mer.</verse>
+      </chapter>
+      <chapter osisID='Job.8'>
+        <verse osisID='Job.8.1'>Därefter tog Bildad från Sua till orda och sade:</verse>
+        <verse osisID='Job.8.2'>Huru länge vill du hålla på med sådant tal och låta din muns ord komma såsom en väldig storm?</verse>
+        <verse osisID='Job.8.3'>Skulle väl Gud kunna kränka rätten? Kan den Allsmäktige kränka rättfärdigheten?</verse>
+        <verse osisID='Job.8.4'>Om dina barn hava syndat mot honom och han gav dem i sina överträdelsers våld,</verse>
+        <verse osisID='Job.8.5'>så vet, att om du själv söker Gud och beder till den Allsmäktige om misskund,</verse>
+        <verse osisID='Job.8.6'>då, om du är ren och rättsinnig, ja, då skall han vakna upp till din räddning och upprätta din boning, så att du bor där i rättfärdighet;</verse>
+        <verse osisID='Job.8.7'>och så skall din första tid synas ringa, då nu din sista tid har blivit så stor.</verse>
+        <verse osisID='Job.8.8'>Ty fråga framfarna släkten, och akta på vad fäderna hava utrönt</verse>
+        <verse osisID='Job.8.9'>-- vi själva äro ju från i går och veta intet, en skugga äro våra dagar på jorden;</verse>
+        <verse osisID='Job.8.10'>men de skola undervisa dig och säga dig det, ur sina hjärtan skola de hämta fram svar:</verse>
+        <verse osisID='Job.8.11'>»Icke kan röret växa högt, där marken ej är sank, eller vassen skjuta i höjden, där vatten ej finnes?</verse>
+        <verse osisID='Job.8.12'>Nej, bäst den står grön, ej mogen för skörd, måste den då vissna, före allt annat gräs.</verse>
+        <verse osisID='Job.8.13'>Så går det alla som förgäta Gud; den gudlöses hopp måste varda om intet.</verse>
+        <verse osisID='Job.8.14'>Ty hans tillförsikt visar sig bräcklig och hans förtröstan lik spindelns väv.</verse>
+        <verse osisID='Job.8.15'>Han förlitar sig på sitt hus, men det har intet bestånd; han tryggar sig därvid, men det äger ingen fasthet.</verse>
+        <verse osisID='Job.8.16'>Lik en frodig planta växer han i solens sken, ut över lustgården sträcka sig hans skott;</verse>
+        <verse osisID='Job.8.17'>kring stenröset slingra sig hans rötter, mellan stenarna bryter han sig fram.</verse>
+        <verse osisID='Job.8.18'>Men när så Gud rycker bort honom från hans plats, då förnekar den honom: 'Aldrig har jag sett dig.'</verse>
+        <verse osisID='Job.8.19'>Ja, så går det med hans levnads fröjd, och ur mullen få andra växa upp.»</verse>
+        <verse osisID='Job.8.20'>Se, Gud föraktar icke den som är ostrafflig, han håller ej heller de onda vid handen.</verse>
+        <verse osisID='Job.8.21'>Så bida då, till dess han fyller din mun med löje och dina läppar med jubel.</verse>
+        <verse osisID='Job.8.22'>De som hata dig varda då höljda med skam, och de ogudaktigas hyddor skola ej mer vara till.</verse>
+      </chapter>
+      <chapter osisID='Job.9'>
+        <verse osisID='Job.9.1'>Därefter tog Job till orda och sade:</verse>
+        <verse osisID='Job.9.2'>Ja, förvisso vet jag att så är; huru skulle en människa kunna hava rätt mot Gud?</verse>
+        <verse osisID='Job.9.3'>Vill han gå till rätta med henne, så kan hon ej svara honom på en sak bland tusen.</verse>
+        <verse osisID='Job.9.4'>Han som är så vis i förstånd och så väldig i kraft, vem kan trotsa honom och dock slippa undan;</verse>
+        <verse osisID='Job.9.5'>honom som oförtänkt flyttar bort berg och omstörtar dem i sin vrede;</verse>
+        <verse osisID='Job.9.6'>honom som kommer jorden att vackla från sin plats, och dess pelare bäva därvid;</verse>
+        <verse osisID='Job.9.7'>honom som befaller solen, så går hon icke upp, och som sätter stjärnorna under försegling;</verse>
+        <verse osisID='Job.9.8'>honom som helt allena spänner ut himmelen och skrider fram över havets toppar;</verse>
+        <verse osisID='Job.9.9'>honom som har gjort Karlavagnen och Orion, Sjustjärnorna och söderns Stjärngemak;</verse>
+        <verse osisID='Job.9.10'>honom som gör stora och outrannsakliga ting och under, flera än någon kan räkna?</verse>
+        <verse osisID='Job.9.11'>Se, han far förbi mig, innan jag hinner att se det, han drager framom mig, förrän jag bliver honom varse.</verse>
+        <verse osisID='Job.9.12'>Se, han griper sitt rov; vem kan hindra honom? Vem kan säga till honom: »Vad gör du?»</verse>
+        <verse osisID='Job.9.13'>Gud, han ryggar icke sin vrede; för honom har Rahabs följe måst böja sig;</verse>
+        <verse osisID='Job.9.14'>huru skulle jag då våga svara honom, välja ut ord till att tala med honom?</verse>
+        <verse osisID='Job.9.15'>Nej, om jag än hade rätt, tordes jag dock ej svara; jag finge anropa min motpart om misskund.</verse>
+        <verse osisID='Job.9.16'>Och om han än svarade mig på mitt rop, så kunde jag ej tro att han lyssnade till min röst.</verse>
+        <verse osisID='Job.9.17'>Ty med storm hemsöker han mig och slår mig med sår på sår, utan sak.</verse>
+        <verse osisID='Job.9.18'>Han unnar mig icke att hämta andan; nej, med bedrövelser mättar han mig.</verse>
+        <verse osisID='Job.9.19'>Gäller det försteg i kraft: »Välan, jag är redo!», gäller det rätt: »Vem ställer mig till ansvar?»</verse>
+        <verse osisID='Job.9.20'>Ja, hade jag än rätt, så dömde min mun mig skyldig; vore jag än ostrafflig, så läte han mig synas vrång.</verse>
+        <verse osisID='Job.9.21'>Men ostrafflig är jag!  Jag aktar ej mitt liv, jag frågar icke efter, om jag får leva.</verse>
+        <verse osisID='Job.9.22'>Det må gå som det vill, nu vare det sagt: han förgör den ostrafflige jämte den ogudaktige.</verse>
+        <verse osisID='Job.9.23'>Om en landsplåga kommer med plötslig död, så bespottar han de oskyldigas förtvivlan.</verse>
+        <verse osisID='Job.9.24'>Jorden är given i de ogudaktigas hand, och täckelse sätter han för dess domares ögon. Är det ej han som gör det, vem är det då?</verse>
+        <verse osisID='Job.9.25'>Min dagar hasta undan snabbare än någon löpare, de fly bort utan att hava sett någon lycka;</verse>
+        <verse osisID='Job.9.26'>de ila åstad såsom en farkost av rör, såsom en örn, när han störtar sig ned på sitt byte.</verse>
+        <verse osisID='Job.9.27'>Om jag än besluter att förgäta mitt bekymmer, att låta min sorgsenhet fara och göra mig glad,</verse>
+        <verse osisID='Job.9.28'>Så måste jag dock bäva för alla mina kval; jag vet ju att du icke skall döma mig fri.</verse>
+        <verse osisID='Job.9.29'>Nej, såsom skyldig måste jag stå där; varför skulle jag då göra mig fåfäng möda?</verse>
+        <verse osisID='Job.9.30'>Om jag än tvår mig i snö och renar mina händer i lutsalt,</verse>
+        <verse osisID='Job.9.31'>så skall du dock sänka mig ned i pölen, så att mina kläder måste vämjas vid mig.</verse>
+        <verse osisID='Job.9.32'>Ty han är ej min like, så att jag vågar svara honom, ej en sådan, att vi kunna gå till doms med varandra;</verse>
+        <verse osisID='Job.9.33'>ingen skiljeman finnes mellan oss, ingen som har myndighet över oss båda.</verse>
+        <verse osisID='Job.9.34'>Må han blott vända av från mig sitt ris, och må fruktan för honom ej förskräcka mig;</verse>
+        <verse osisID='Job.9.35'>då skall jag tala utan att rädas för honom, ty jag vet med min själv att jag icke är en sådan.</verse>
+      </chapter>
+      <chapter osisID='Job.10'>
+        <verse osisID='Job.10.1'>Min själ är led vid livet. Jag vill giva fritt lopp åt min klagan, jag vill tala i min själs bedrövelse.</verse>
+        <verse osisID='Job.10.2'>Jag vill säga till Gud: Döm mig icke skyldig; låt mig veta varför du söker sak mot mig.</verse>
+        <verse osisID='Job.10.3'>Anstår det dig att öva våld, att förkasta dina händers verk, medan du låter ditt ljus lysa över de ogudaktigas rådslag?</verse>
+        <verse osisID='Job.10.4'>Har du då ögon som en varelse av kött, eller ser du såsom människor se?</verse>
+        <verse osisID='Job.10.5'>Är din ålder som en människas ålder, eller äro dina år såsom en mans tider,</verse>
+        <verse osisID='Job.10.6'>eftersom du letar efter missgärning hos mig och söker att hos mig finna synd,</verse>
+        <verse osisID='Job.10.7'>du som dock vet att jag icke är skyldig, och att ingen finnes, som kan rädda ur din hand?</verse>
+        <verse osisID='Job.10.8'>Dina händer hava danat och gjort mig, helt och i allo; och nu fördärvar du mig!</verse>
+        <verse osisID='Job.10.9'>Tänk på huru du formade mig såsom lera; och nu låter du mig åter varda till stoft!</verse>
+        <verse osisID='Job.10.10'>Ja, du utgöt mig såsom mjölk, och såsom ostämne lät du mig stelna.</verse>
+        <verse osisID='Job.10.11'>Med hud och kött beklädde du mig, av ben och senor vävde du mig samman.</verse>
+        <verse osisID='Job.10.12'>Liv och nåd beskärde du mig, och genom din vård bevarades min ande.</verse>
+        <verse osisID='Job.10.13'>Men därvid gömde du i ditt hjärta den tanken, jag vet att du hade detta i sinnet:</verse>
+        <verse osisID='Job.10.14'>om jag syndade, skulle du vakta på mig och icke lämna min missgärning ostraffad.</verse>
+        <verse osisID='Job.10.15'>Ve mig, om jag befunnes vara skyldig! Men vore jag än oskyldig, så finge jag ej lyfta mitt huvud, jag skulle mättas av skam och skåda min ofärd.</verse>
+        <verse osisID='Job.10.16'>Höjde jag det likväl, då skulle du såsom ett lejon jaga mig och alltjämt bevisa din undermakt på mig.</verse>
+        <verse osisID='Job.10.17'>Nya vittnen mot mig skulle du då föra fram och alltmer låta mig känna din förtörnelse; med skaror efter skaror skulle du ansätta mig.</verse>
+        <verse osisID='Job.10.18'>Varför lät du mig då komma ut ur modersskötet? Jag borde hava förgåtts, innan något öga såg mig,</verse>
+        <verse osisID='Job.10.19'>hava blivit såsom hade jag aldrig varit till; från moderlivet skulle jag hava förts till graven.</verse>
+        <verse osisID='Job.10.20'>Kort är ju min tid; må han då låta mig vara, lämna mig i fred, så att jag får en flyktig glädje,</verse>
+        <verse osisID='Job.10.21'>innan jag går hädan, för att aldrig komma åter, bort till mörkrets och dödsskuggans land,</verse>
+        <verse osisID='Job.10.22'>till det land vars dunkel är såsom djupa vatten, dit där dödsskugga och förvirring råder, ja, där dagsljuset självt är såsom djupa vatten.</verse>
+      </chapter>
+      <chapter osisID='Job.11'>
+        <verse osisID='Job.11.1'>Därefter tog Sofar från Naama till orda och sade:</verse>
+        <verse osisID='Job.11.2'>Skall sådant ordflöde bliva utan svar och en så stortalig man få rätt?</verse>
+        <verse osisID='Job.11.3'>Skall ditt lösa tal nödga män till tystnad, så att du får bespotta, utan att någon kommer dig att blygas?</verse>
+        <verse osisID='Job.11.4'>Och skall du så få säga: »Vad jag lär är rätt, och utan fläck har jag varit inför dina ögon»?</verse>
+        <verse osisID='Job.11.5'>Nej, om allenast Gud ville tala och upplåta sina läppar till att svara dig,</verse>
+        <verse osisID='Job.11.6'>om han ville uppenbara dig sin visdoms lönnligheter, huru han äger förstånd, ja, i dubbelt mått, då insåge du att Gud, dig till förmån, har lämnat åt glömskan en del av din missgärning.</verse>
+        <verse osisID='Job.11.7'>Men kan väl du utrannsaka Guds djuphet eller fatta den Allsmäktiges fullkomlighet?</verse>
+        <verse osisID='Job.11.8'>Hög såsom himmelen är den -- vad kan du göra? djupare än dödsriket -- vad kan du förstå?</verse>
+        <verse osisID='Job.11.9'>Dess längd sträcker sig vidare än jorden, och i bredd överträffar den havet.</verse>
+        <verse osisID='Job.11.10'>När han vill fara fram och spärra någon inne eller kalla någon till doms, vem kan då hindra honom?</verse>
+        <verse osisID='Job.11.11'>Han är ju den som känner lögnens män, fördärv upptäcker han, utan att leta därefter.</verse>
+        <verse osisID='Job.11.12'>Men lika lätt kan en dåraktig man få förstånd, som en vildåsnefåle kan födas till människa.</verse>
+        <verse osisID='Job.11.13'>Om du nu rätt bereder ditt hjärta och uträcker dina händer till honom,</verse>
+        <verse osisID='Job.11.14'>om du skaffar bort det fördärv som kan låda vid din hand och ej låter orättfärdighet bo i dina hyddor,</verse>
+        <verse osisID='Job.11.15'>ja, då får du upplyfta ditt ansikte utan skam, du står fast och har intet att frukta.</verse>
+        <verse osisID='Job.11.16'>Ja, då skall du förgäta din olycka, blott minnas den såsom vatten som har förrunnit.</verse>
+        <verse osisID='Job.11.17'>Ditt liv skall då stråla klarare än middagens sken; och kommer mörker på, så är det som en gryning till morgon.</verse>
+        <verse osisID='Job.11.18'>Du kan då vara trygg, ty du äger ett hopp; du spanar omkring dig och går sedan trygg till vila.</verse>
+        <verse osisID='Job.11.19'>Ja, du får då ligga i ro, utan att någon förskräcker dig, och många skola söka din ynnest.</verse>
+        <verse osisID='Job.11.20'>Men de ogudaktigas ögon skola försmäkta; ingen tillflykt skall mer finnas för dem, och deras hopp skall vara att få giva upp andan.</verse>
+      </chapter>
+      <chapter osisID='Job.12'>
+        <verse osisID='Job.12.1'>Därefter tog Job till orda och sade:</verse>
+        <verse osisID='Job.12.2'>Ja, visst ären I det rätta folket, och med eder kommer visheten att dö ut!</verse>
+        <verse osisID='Job.12.3'>Dock, jämväl jag har förstånd så gott som I, icke står jag tillbaka för eder; ty vem är den som ej begriper slikt?</verse>
+        <verse osisID='Job.12.4'>Så måste jag då vara ett åtlöje för min vän, jag som fick svar, så snart jag ropade till Gud; man ler åt en som är rättfärdig och ostrafflig!</verse>
+        <verse osisID='Job.12.5'>Ja, med förakt ses olyckan av den som står säker; förakt väntar dem vilkas fötter vackla.</verse>
+        <verse osisID='Job.12.6'>Men förhärjares hyddor åtnjuta frid, och trygghet få sådana som trotsa Gud, de som hava sin gud i sin hand.</verse>
+        <verse osisID='Job.12.7'>Men fråga du boskapen, den må undervisa dig, och fåglarna under himmelen, de må upplysa dig;</verse>
+        <verse osisID='Job.12.8'>eller tala till jorden, hon må undervisa dig, fiskarna i havet må giva dig besked.</verse>
+        <verse osisID='Job.12.9'>Vem kan icke lära genom allt detta att det är HERRENS hand som har gjort det?</verse>
+        <verse osisID='Job.12.10'>I hans han är ju allt levandes själ och alla mänskliga varelsers anda.</verse>
+        <verse osisID='Job.12.11'>Skall icke öra pröva orden, likasom munnen prövar matens smak?</verse>
+        <verse osisID='Job.12.12'>Vishet tillkommer ju de gamle och förstånd dem som länge hava levat.</verse>
+        <verse osisID='Job.12.13'>Hos Honom finnes vishet och makt, hos honom råd och förstånd.</verse>
+        <verse osisID='Job.12.14'>Se, vad han river ned, det bygges ej upp; för den han spärrar inne kan ingen upplåta.</verse>
+        <verse osisID='Job.12.15'>Han håller vattnen tillbaka -- se, se då bliver där torrt, han släpper dem lösa, då fördärva de landet.</verse>
+        <verse osisID='Job.12.16'>Hos honom är kraft och klokhet, den förvillade och förvillaren äro båda i hans hand.</verse>
+        <verse osisID='Job.12.17'>Rådsherrar utblottar han, han för dem i landsflykt, och domare gör han till dårar.</verse>
+        <verse osisID='Job.12.18'>Han upplöser konungars välde och sätter fångbälte om deras höfter.</verse>
+        <verse osisID='Job.12.19'>Präster utblottar han, han för dem i landsflykt, och de säkrast rotade kommer han på fall.</verse>
+        <verse osisID='Job.12.20'>Välbetrodda män berövar han målet och avhänder de äldste deras insikt.</verse>
+        <verse osisID='Job.12.21'>Han utgjuter förakt över furstar och lossar de starkes gördel.</verse>
+        <verse osisID='Job.12.22'>Han blottar djupen, så att de ej höljas av mörker, dödsskuggan drager han fram i ljuset.</verse>
+        <verse osisID='Job.12.23'>Han låter folkslag växa till -- och förgör dem; han utvidgar deras gränser, men för dem sedan bort.</verse>
+        <verse osisID='Job.12.24'>Stamhövdingar i landet berövar han förståndet, han leder dem vilse i väglösa ödemarker.</verse>
+        <verse osisID='Job.12.25'>De famla i mörkret och hava intet ljus, han kommer dem att ragla såsom druckna.</verse>
+      </chapter>
+      <chapter osisID='Job.13'>
+        <verse osisID='Job.13.1'>Ja, alltsammans har mitt öga sett, mitt öra har hört det och nogsamt givit akt.</verse>
+        <verse osisID='Job.13.2'>Vad I veten, det vet också jag; icke står jag tillbaka för eder.</verse>
+        <verse osisID='Job.13.3'>Men till den Allsmäktige vill jag nu tala, det lyster mig att gå till rätta med Gud.</verse>
+        <verse osisID='Job.13.4'>Dock, I ären män som spinna ihop lögn, allasammans hopsätten I fåfängligt tal.</verse>
+        <verse osisID='Job.13.5'>Om I ändå villen alldeles tiga! Det kunde tillräknas eder som vishet.</verse>
+        <verse osisID='Job.13.6'>Hören nu likväl mitt klagomål, och akten på mina läppars gensagor.</verse>
+        <verse osisID='Job.13.7'>Viljen I försvara Gud med orättfärdigt tal och honom till förmån bruka oärligt tal?</verse>
+        <verse osisID='Job.13.8'>Skolen I visa eder partiska för honom eller göra eder till sakförare för Gud?</verse>
+        <verse osisID='Job.13.9'>Icke kan sådant ändas väl, när han håller räfst med eder? Eller kunnen I gäckas med honom, såsom man kan gäckas med en människa?</verse>
+        <verse osisID='Job.13.10'>Nej, förvisso skall han straffa eder, om I visen en hemlig partiskhet.</verse>
+        <verse osisID='Job.13.11'>Sannerligen, hans majestät skall då förskräcka eder, och fruktan för honom skall falla över eder.</verse>
+        <verse osisID='Job.13.12'>Edra tänkespråk skola då bliva visdomsord av aska, edra försvarsverk varda såsom vallar av ler.</verse>
+        <verse osisID='Job.13.13'>Tigen nu för min, så skall jag tala, gånge så över mig vad det vara må.</verse>
+        <verse osisID='Job.13.14'>Ja, huru det än går, vill jag fatta mitt kött mellan tänderna och taga min själ i min hand.</verse>
+        <verse osisID='Job.13.15'>Må han dräpa mig, jag hoppas intet annat; min vandel vill jag ändå hålla fram inför honom.</verse>
+        <verse osisID='Job.13.16'>Redan detta skall lända mig till frälsning, ty ingen gudlös dristar komma inför honom.</verse>
+        <verse osisID='Job.13.17'>Hören, hören då mina ord, och låten min förklaring tränga in i edra öron.</verse>
+        <verse osisID='Job.13.18'>Se, här lägger jag saken fram; jag vet att jag skall befinnas hava rätt.</verse>
+        <verse osisID='Job.13.19'>Eller gives det någon som kan vederlägga mig? Ja, då vill jag tiga -- och dö.</verse>
+        <verse osisID='Job.13.20'>Allenast två ting må du ej göra mot mig, så behöver jag ej dölja mig inför ditt ansikte:</verse>
+        <verse osisID='Job.13.21'>din hand må du ej låta komma mig när, och fruktan för dig må icke förskräcka mig.</verse>
+        <verse osisID='Job.13.22'>Sedan må du åklaga, och jag vill svara, eller ock skall jag tala, och du må gendriva mig.</verse>
+        <verse osisID='Job.13.23'>Huru är det alltså med mina missgärningar och synder? Låt mig få veta min överträdelse och synd.</verse>
+        <verse osisID='Job.13.24'>Varför döljer du ditt ansikte och aktar mig såsom din fiende?</verse>
+        <verse osisID='Job.13.25'>Vill du skrämma ett löv som drives av vinden, vill du förfölja ett borttorkat strå?</verse>
+        <verse osisID='Job.13.26'>Du skriver ju bedrövelser på min lott och giver mig till arvedel min ungdoms missgärningar;</verse>
+        <verse osisID='Job.13.27'>du sätter mina fötter i stocken, du vaktar på alla vägar, för mina fotsulor märker du ut stegen.</verse>
+        <verse osisID='Job.13.28'>Och detta mot en som täres bort lik murket trä, en som liknar en klädnad sönderfrätt av mal!</verse>
+      </chapter>
+      <chapter osisID='Job.14'>
+        <verse osisID='Job.14.1'>Människan, av kvinna född, lever en liten tid och mättas av oro;</verse>
+        <verse osisID='Job.14.2'>lik ett blomster växer hon upp och vissnar bort, hon flyr undan såsom skuggan och har intet bestånd.</verse>
+        <verse osisID='Job.14.3'>Och till att vakta på en sådan upplåter du dina ögon, ja, du drager mig till doms inför dig.</verse>
+        <verse osisID='Job.14.4'>Som om en ren skulle kunna framgå av en oren! Sådant kan ju aldrig ske.</verse>
+        <verse osisID='Job.14.5'>Äro nu människans dagar oryggligt bestämda, hennes månaders antal fastställt av dig, har du utstakat en gräns som hon ej kan överskrida,</verse>
+        <verse osisID='Job.14.6'>vänd då din blick ifrån henne och unna henne ro, låt henne njuta en dagakarls glädje av sin dag.</verse>
+        <verse osisID='Job.14.7'>För ett träd finnes ju kvar något hopp; hugges det än ned, kan det åter skjuta skott, och telningar behöva ej fattas därpå.</verse>
+        <verse osisID='Job.14.8'>Om än dess rot tynar hän i jorden och dess stubbe dör bort i mullen,</verse>
+        <verse osisID='Job.14.9'>så kan det grönska upp genom vattnets ångor och skjuta grenar lik ett nyplantat träd.</verse>
+        <verse osisID='Job.14.10'>Men om en man dör, så ligger han där slagen; om en människa har givit upp andan, var finnes hon då mer?</verse>
+        <verse osisID='Job.14.11'>Såsom när vattnet har förrunnit ur en sjö, och såsom när en flod har sinat bort och uttorkat,</verse>
+        <verse osisID='Job.14.12'>så ligger mannen där och står ej mer upp, han vaknar icke åter, så länge himmelen varar; aldrig väckes han upp ur sin sömn.</verse>
+        <verse osisID='Job.14.13'>Ack, att du ville gömma mig i dödsriket, fördölja mig, till dess din vrede hade upphört, staka ut för mig en tidsgräns och sedan tänka på mig --</verse>
+        <verse osisID='Job.14.14'>fastän ju ingen kan få liv, när han en gång är död! Då skulle jag hålla min stridstid ut, ända till dess att min avlösning komme.</verse>
+        <verse osisID='Job.14.15'>Du skulle då ropa på mig, och jag skulle svara dig; efter dina händers verk skulle du längta;</verse>
+        <verse osisID='Job.14.16'>ja, du skulle då räkna mina steg, du skulle ej akta på min synd.</verse>
+        <verse osisID='Job.14.17'>I en förseglad pung låge då min överträdelse, och du överskylde min missgärning.</verse>
+        <verse osisID='Job.14.18'>Men såsom själva berget faller och förvittrar, och såsom klippan flyttas ifrån sin plats,</verse>
+        <verse osisID='Job.14.19'>såsom stenar nötas sönder genom vattnet, och såsom mullen sköljes bort av dess flöden, så gör du ock människans hopp om intet.</verse>
+        <verse osisID='Job.14.20'>Du slår henne ned för alltid, och hon far hädan; du förvandlar hennes ansikte och driver henne bort.</verse>
+        <verse osisID='Job.14.21'>Om hennes barn komma till ära, så känner hon det icke; om de sjunka ned till ringhet, så aktar hon dock ej på dem.</verse>
+        <verse osisID='Job.14.22'>Hennes kropp känner blott sin egen plåga, hennes själ blott den sorg hon själv får förnimma.</verse>
+      </chapter>
+      <chapter osisID='Job.15'>
+        <verse osisID='Job.15.1'>Därefter tog Elifas från Teman till orda och sade:</verse>
+        <verse osisID='Job.15.2'>Skall en vis man tala så i vädret och fylla upp sitt bröst med östanvind?</verse>
+        <verse osisID='Job.15.3'>Skall han försvara sin sak med haltlöst tal, med ord som ingenting bevisa?</verse>
+        <verse osisID='Job.15.4'>Än mer, du gör gudsfruktan om intet och kommer med klagolåt inför Gud.</verse>
+        <verse osisID='Job.15.5'>Ty din ondska lägger dig orden i munnen, och ditt behag står till illfundigt tal.</verse>
+        <verse osisID='Job.15.6'>Så dömes du nu skyldig av din mun, ej av mig, dina egna läppar vittna emot dig.</verse>
+        <verse osisID='Job.15.7'>Var du den första människa som föddes, och fick du liv, förrän höjderna funnos?</verse>
+        <verse osisID='Job.15.8'>Blev du åhörare i Guds hemliga råd och fick så visheten i ditt våld?</verse>
+        <verse osisID='Job.15.9'>Vad vet du då, som vi icke veta? Vad förstår du, som ej är oss kunnigt?</verse>
+        <verse osisID='Job.15.10'>Gråhårsman och åldring finnes också bland oss, ja, en som övergår din fader i ålder.</verse>
+        <verse osisID='Job.15.11'>Försmår du den tröst som Gud har att bjuda, och det ord som i saktmod talas med dig?</verse>
+        <verse osisID='Job.15.12'>Vart föres du hän av ditt sinne, och varför välva dina ögon så,</verse>
+        <verse osisID='Job.15.13'>i det du vänder ditt raseri mot Gud och öser ut ord ur din mun?</verse>
+        <verse osisID='Job.15.14'>Vad är en människa, att hon skulle vara ren? Vad en av kvinna född, att han skulle vara rättfärdig?</verse>
+        <verse osisID='Job.15.15'>Se, ej ens på sina heliga kan han förlita sig, och himlarna äro icke rena inför hans ögon;</verse>
+        <verse osisID='Job.15.16'>huru mycket mindre då den som är ond och fördärvad, den man som läskar sig med orättfärdighet såsom med vatten!</verse>
+        <verse osisID='Job.15.17'>Jag vill kungöra dig något, så hör nu mig; det som jag har skådat vill jag förtälja,</verse>
+        <verse osisID='Job.15.18'>vad visa män hava gjort kunnigt, lagt fram såsom ett arv ifrån sina fäder,</verse>
+        <verse osisID='Job.15.19'>ifrån dem som allena fingo landet till gåva, och bland vilka ingen främling ännu hade trängt in:</verse>
+        <verse osisID='Job.15.20'>Den ogudaktige har ångest i alla sina dagar, under de år, helt få, som beskäras en våldsverkare.</verse>
+        <verse osisID='Job.15.21'>Skräckröster ljuda i hans öron; när han är som tryggast, kommer förhärjaren över honom.</verse>
+        <verse osisID='Job.15.22'>Han har intet hopp om räddning ur mörkret, ty svärdet lurar på honom.</verse>
+        <verse osisID='Job.15.23'>Såsom flykting söker han sitt bröd: var är det? Han förnimmer att mörkrets dag är för handen.</verse>
+        <verse osisID='Job.15.24'>Ångest och trångmål förskräcka honom, han nedslås av dem såsom av en stridsrustad konung.</verse>
+        <verse osisID='Job.15.25'>Ty mot Gud räckte han ut sin hand, och mot den Allsmäktige förhävde han sig;</verse>
+        <verse osisID='Job.15.26'>han stormade mot honom med trotsig hals, med sina sköldars ryggar i sluten hop;</verse>
+        <verse osisID='Job.15.27'>han höljde sitt ansikte med fetma och samlade hull på sin länd;</verse>
+        <verse osisID='Job.15.28'>han bosatte sig i städer, dömda till förstöring, i hus som ej fingo bebos, ty till stenhopar voro de bestämda.</verse>
+        <verse osisID='Job.15.29'>Därför bliver han ej rik, och hans gods består ej, hans skördar luta ej tunga mot jorden.</verse>
+        <verse osisID='Job.15.30'>Han kan icke undslippa mörkret; hans telningar skola förtorka av hetta, och själv skall han förgås genom Guds muns anda.</verse>
+        <verse osisID='Job.15.31'>I sin förvillelse må han ej lita på vad fåfängligt är, ty fåfänglighet måste bliva hans lön.</verse>
+        <verse osisID='Job.15.32'>I förtid skall hans mått varda fyllt, och hans krona skall ej grönska mer.</verse>
+        <verse osisID='Job.15.33'>Han bliver lik ett vinträd som i förtid mister sina druvor, lik ett olivträd som fäller sina blommor.</verse>
+        <verse osisID='Job.15.34'>Ty den gudlöses hus förbliver ofruktsamt, såsom eld förtär hyddor där mutor tagas.</verse>
+        <verse osisID='Job.15.35'>Man går havande med olycka och föder fördärv; den livsfrukt man alstrar är ett sviket hopp.</verse>
+      </chapter>
+      <chapter osisID='Job.16'>
+        <verse osisID='Job.16.1'>Därefter tog Job till orda och sade:</verse>
+        <verse osisID='Job.16.2'>Över nog har jag fått höra av sådant; usla tröstare ären I alla.</verse>
+        <verse osisID='Job.16.3'>Är det nu slut på detta tal i vädret, eller eggar dig ännu något till gensvar?</verse>
+        <verse osisID='Job.16.4'>Jag kunde väl ock tala, jag såsom I; ja, jag ville att I voren i mitt ställe! Då kunde jag hopsätta ord mot eder och skaka mot eder mitt huvud till hån.</verse>
+        <verse osisID='Job.16.5'>Med munnen kunde jag då styrka eder och med läpparnas ömkan bereda eder lindring.</verse>
+        <verse osisID='Job.16.6'>Om jag nu talar, så lindras därav ej min plåga; och tiger jag, icke släpper den mig ändå.</verse>
+        <verse osisID='Job.16.7'>Nej, nu har all min kraft blivit tömd; du har ju förött hela mitt hus.</verse>
+        <verse osisID='Job.16.8'>Och att du har hemsökt mig, det gäller såsom vittnesbörd; min sjukdom får träda upp och tala mot mig.</verse>
+        <verse osisID='Job.16.9'>I vrede söndersliter och ansätter man mig, man biter sina tänder samman emot mig; ja, min ovän vässer mot mig sina blickar.</verse>
+        <verse osisID='Job.16.10'>Man spärrar upp munnen mot mig, smädligt slår man mig på mina kinder; alla rota sig tillsammans emot mig.</verse>
+        <verse osisID='Job.16.11'>Gud giver mig till pris åt orättfärdiga människor och kastar mig i de ogudaktigas händer.</verse>
+        <verse osisID='Job.16.12'>Jag satt i god ro, då krossade han mig; han grep mig i nacken och slog mig i smulor.  Han satte mig upp till ett mål för sina skott;</verse>
+        <verse osisID='Job.16.13'>från alla sidor träffa mig hans pilar, han genomborrar mina njurar utan förskoning, min galla gjuter han ut på jorden.</verse>
+        <verse osisID='Job.16.14'>Han bryter ned mig med stöt på stöt, han stormar emot mig såsom en kämpe.</verse>
+        <verse osisID='Job.16.15'>Säcktyg bär jag hopfäst över min hud, och i stoftet har jag måst sänka mitt horn,</verse>
+        <verse osisID='Job.16.16'>Mitt anlete är glödande rött av gråt, och på mina ögonlock är dödsskugga lägrad.</verse>
+        <verse osisID='Job.16.17'>Och detta, fastän våld ej finnes i mina händer, och fastän min bön är ren!</verse>
+        <verse osisID='Job.16.18'>Du jord, överskyl icke mitt blod, och låt för mitt rop ingen vilostad finnas.</verse>
+        <verse osisID='Job.16.19'>Se, redan nu har jag i himmelen mitt vittne, och i höjden den som skall tala för mig.</verse>
+        <verse osisID='Job.16.20'>Mina vänner hava mig nu till sitt åtlöje, därför skådar mitt öga med tårar till Gud,</verse>
+        <verse osisID='Job.16.21'>Ja, må han här skaffa rätt åt en man mot Gud och åt ett människobarn mot dess nästa.</verse>
+        <verse osisID='Job.16.22'>Ty få äro de år som skola upprinna, innan jag vandrar den väg där jag ej mer kommer åter.</verse>
+      </chapter>
+      <chapter osisID='Job.17'>
+        <verse osisID='Job.17.1'>Min livskraft är förstörd, mina dagar slockna ut, bland gravar får jag min lott.</verse>
+        <verse osisID='Job.17.2'>Ja, i sanning är jag omgiven av gäckeri, och avoghet får mitt öga ständigt skåda hos dessa!</verse>
+        <verse osisID='Job.17.3'>Så ställ nu säkerhet och borgen för mig hos dig själv; vilken annan vill giva mig sitt handslag?</verse>
+        <verse osisID='Job.17.4'>Dessas hjärtan har du ju tillslutit för förstånd, därför skall du icke låta dem triumfera.</verse>
+        <verse osisID='Job.17.5'>Den som förråder sina vänner till plundring, på hans barn skola ögonen försmäkta.</verse>
+        <verse osisID='Job.17.6'>Jag är satt till ett ordspråk bland folken; en man som man spottar i ansiktet är jag.</verse>
+        <verse osisID='Job.17.7'>Därför är mitt öga skumt av grämelse, och mina lemmar äro såsom en skugga allasammans.</verse>
+        <verse osisID='Job.17.8'>De redliga häpna över sådant, och den oskyldige uppröres av harm mot den gudlöse.</verse>
+        <verse osisID='Job.17.9'>Men den rättfärdige håller fast vid sin väg, och den som har rena händer bemannar sig dess mer.</verse>
+        <verse osisID='Job.17.10'>Ja, gärna mån I alla ansätta mig på nytt, jag lär ändå bland eder ej finna någon vis.</verse>
+        <verse osisID='Job.17.11'>Mina dagar äro förlidna, sönderslitna äro mina planer, vad som var mitt hjärtas begär.</verse>
+        <verse osisID='Job.17.12'>Men natten vill man göra till dag, ljuset skulle vara nära, nu då mörker bryter in.</verse>
+        <verse osisID='Job.17.13'>Nej, huru jag än bidar, bliver dödsriket min boning, i mörkret skall jag bädda mitt läger;</verse>
+        <verse osisID='Job.17.14'>till graven måste jag säga: »Du är min fader», till förruttnelsens maskar: »Min moder», »Min syster».</verse>
+        <verse osisID='Job.17.15'>Vad bliver då av mitt hopp, ja, mitt hopp, vem får skåda det?</verse>
+        <verse osisID='Job.17.16'>Till dödsrikets bommar far det ned, då jag nu själv går till vila i stoftet.</verse>
+      </chapter>
+      <chapter osisID='Job.18'>
+        <verse osisID='Job.18.1'>Därefter tog Bildad från Sua till orda och sade:</verse>
+        <verse osisID='Job.18.2'>Huru länge skolen I gå på jakt efter ord? Kommen till förstånd; sedan må vi talas vid.</verse>
+        <verse osisID='Job.18.3'>Varför skola vi aktas såsom oskäliga djur, räknas i edra ögon såsom ett förstockat folk?</verse>
+        <verse osisID='Job.18.4'>Du som i din vrede sliter sönder dig själv, menar du att dör din skull jorden skall bliva öde och klippan flyttas bort från sin plats?</verse>
+        <verse osisID='Job.18.5'>Nej, den ogudaktiges ljus skall slockna ut, och lågan av hans eld icke giva något sken.</verse>
+        <verse osisID='Job.18.6'>Ljuset skall förmörkas i hans hydda, och lampan slockna ut för honom.</verse>
+        <verse osisID='Job.18.7'>Hans väldiga steg skola stäckas, hans egna rådslag bringa honom på fall.</verse>
+        <verse osisID='Job.18.8'>Ty han rusar med sina fötter in i nätet, försåten lura, där han vandrar fram;</verse>
+        <verse osisID='Job.18.9'>snaran griper honom om hälen, och gillret tager honom fatt;</verse>
+        <verse osisID='Job.18.10'>garn till att fånga honom äro lagda på marken och snärjande band på hans stig.</verse>
+        <verse osisID='Job.18.11'>Från alla sidor ängsla honom förskräckelser, de jaga honom, varhelst han går fram.</verse>
+        <verse osisID='Job.18.12'>Olyckan vill uppsluka honom, och ofärd står redo, honom till fall.</verse>
+        <verse osisID='Job.18.13'>Under hans hud frätas hans lemmar bort, ja, av dödens förstfödde bortfrätas hans lemmar.</verse>
+        <verse osisID='Job.18.14'>Ur sin hydda, som han förtröstar på, ryckes han bort, och till förskräckelsernas konung vandrar han hän.</verse>
+        <verse osisID='Job.18.15'>I hans hydda får främlingar bo, och svavel utströs över hans boning.</verse>
+        <verse osisID='Job.18.16'>Nedantill förtorkas hans rötter, och ovantill vissnar hans krona bort.</verse>
+        <verse osisID='Job.18.17'>Hans åminnelse förgås ifrån jorden, hans namn lever icke kvar i världen.</verse>
+        <verse osisID='Job.18.18'>Från ljus stötes han ned i mörker och förjagas ifrån jordens krets.</verse>
+        <verse osisID='Job.18.19'>Utan barn och avkomma bliver han i sitt folk, och ingen i hans boningar skall slippa undan.</verse>
+        <verse osisID='Job.18.20'>Över hans ofärdsdag häpna västerns folk, och österns män gripas av rysning.</verse>
+        <verse osisID='Job.18.21'>Ja, så sker det med den orättfärdiges hem, så går det dens hus, som ej vill veta av Gud.</verse>
+      </chapter>
+      <chapter osisID='Job.19'>
+        <verse osisID='Job.19.1'>Därefter tog Job till orda och sade:</verse>
+        <verse osisID='Job.19.2'>Huru länge skolen I bedröva min själ och krossa mig sönder med edra ord?</verse>
+        <verse osisID='Job.19.3'>Tio gånger haven I nu talat smädligt mot mig och kränkt mig utan all försyn.</verse>
+        <verse osisID='Job.19.4'>Om så är, att jag verkligen har farit vilse, då är förvillelsen min egen sak.</verse>
+        <verse osisID='Job.19.5'>Men viljen I ändå verkligen förhäva eder mot mig, och påstån I att smäleken har drabbat mig med skäl,</verse>
+        <verse osisID='Job.19.6'>så veten fastmer att Gud har gjort mig orätt och att han har omsnärjt mig med sitt nät.</verse>
+        <verse osisID='Job.19.7'>Se, jag klagar över våld, men får intet svar; jag ropar, men får icke rätt.</verse>
+        <verse osisID='Job.19.8'>Min väg har han spärrat, så att jag ej kommer fram, och över mina stigar breder han mörker.</verse>
+        <verse osisID='Job.19.9'>Min ära har han avklätt mig, och från mitt huvud har han tagit bort kronan.</verse>
+        <verse osisID='Job.19.10'>Från alla sidor bryter han ned mig, så att jag förgås; han rycker upp mitt hopp, såsom vore det ett träd.</verse>
+        <verse osisID='Job.19.11'>Sin vrede låter han brinna mot mig och aktar mig såsom sina ovänners like.</verse>
+        <verse osisID='Job.19.12'>Hans skaror draga samlade fram och bereda sig väg till anfall mot mig; de lägra sig runt omkring min hydda.</verse>
+        <verse osisID='Job.19.13'>Långt bort ifrån mig har han drivit mina fränder; mina bekanta äro idel främlingar mot mig.</verse>
+        <verse osisID='Job.19.14'>Mina närmaste hava dragit sig undan, och mina förtrogna hava förgätit mig.</verse>
+        <verse osisID='Job.19.15'>Mitt husfolk och mina tjänstekvinnor akta mig såsom främling; en främmande man har jag blivit i deras ögon.</verse>
+        <verse osisID='Job.19.16'>Kallar jag på min tjänare, så svarar han icke; ödmjukt måste jag bönfalla hos honom.</verse>
+        <verse osisID='Job.19.17'>Min andedräkt är vidrig för min hustru, jag väcker leda hos min moders barn.</verse>
+        <verse osisID='Job.19.18'>Till och med de små barnen visa mig förakt; så snart jag står upp, tala de ohöviskt emot mig.</verse>
+        <verse osisID='Job.19.19'>Ja, en styggelse är jag för alla dem jag umgicks med; de som voro mig kärast hava vänt sig emot mig.</verse>
+        <verse osisID='Job.19.20'>Benen i min kropp tränga ut i hud och hull; knappt tandköttet har jag fått behålla kvar.</verse>
+        <verse osisID='Job.19.21'>Haven misskund, haven misskund med mig, I mina vänner, då nu Guds hand så har hemsökt mig.</verse>
+        <verse osisID='Job.19.22'>Varför skolen I förfölja mig, I såsom Gud, och aldrig bliva mätta av mitt kött?</verse>
+        <verse osisID='Job.19.23'>Ack att mina ord skreves upp, ack att de bleve upptecknade i en bok,</verse>
+        <verse osisID='Job.19.24'>ja, bleve med ett stift av järn och med bly för evig tid inpräglade i klippan!</verse>
+        <verse osisID='Job.19.25'>Dock, jag vet att min förlossare lever, och att han till slut skall stå fram över stoftet.</verse>
+        <verse osisID='Job.19.26'>Och sedan denna min sargade hud är borta, skall jag fri ifrån mitt kött få skåda Gud.</verse>
+        <verse osisID='Job.19.27'>Ja, honom skall jag få skåda, mig till hjälp, för mina ögon skall jag se honom, ej såsom en främling; därefter trånar jag i mitt innersta.</verse>
+        <verse osisID='Job.19.28'>Men när I tänken: »huru skola vi icke ansätta honom!» -- såsom vore skulden att finna hos mig --</verse>
+        <verse osisID='Job.19.29'>då mån I taga eder till vara för svärdet, ty vreden hör till de synder som straffas med svärd; så mån I då besinna att en dom skall komma.</verse>
+      </chapter>
+      <chapter osisID='Job.20'>
+        <verse osisID='Job.20.1'>Därefter tog Sofar från Naama till orda och sade:</verse>
+        <verse osisID='Job.20.2'>På sådant tal giva mina tankar mig ett svar, än mer, då jag nu är så upprörd i mitt inre.</verse>
+        <verse osisID='Job.20.3'>Smädlig tillrättavisning måste jag höra, och man svarar mig med munväder på förståndigt tal.</verse>
+        <verse osisID='Job.20.4'>Vet du då icke att så har varit från evig tid, från den stund då människor sattes på jorden:</verse>
+        <verse osisID='Job.20.5'>att de ogudaktigas jubel varar helt kort och den gudlöses glädje ett ögonblick?</verse>
+        <verse osisID='Job.20.6'>Om än hans förhävelse stiger upp till himmelen och hans huvud når intill molnen,</verse>
+        <verse osisID='Job.20.7'>Så förgås han dock för alltid och aktas lik sin träck; de som sågo honom måste fråga: »Var är han?»</verse>
+        <verse osisID='Job.20.8'>Lik en dröm flyger han bort, och ingen finner honom mer; han förjagas såsom en syn om natten.</verse>
+        <verse osisID='Job.20.9'>Det öga som såg honom ser honom icke åter, och hans plats får ej skåda honom mer.</verse>
+        <verse osisID='Job.20.10'>Hans barn måste gottgöra hans skulder till de arma, hans händer återbära hans vinning.</verse>
+        <verse osisID='Job.20.11'>Bäst ungdomskraften fyller hans ben, skall den ligga i stoftet med honom.</verse>
+        <verse osisID='Job.20.12'>Om än ondskan smakar ljuvligt i hans mun, så att han gömmer den under sin tunga,</verse>
+        <verse osisID='Job.20.13'>är rädd om den och ej vill gå miste därom, utan håller den förvarad inom sin gom,</verse>
+        <verse osisID='Job.20.14'>så förvandlas denna kost i hans inre, bliver huggormsetter i hans liv.</verse>
+        <verse osisID='Job.20.15'>Den rikedom han har slukat måste han utspy; av Gud drives den ut ur hans buk.</verse>
+        <verse osisID='Job.20.16'>Ja, huggormsgift kommer han att dricka, av etterormens tunga bliver han dräpt.</verse>
+        <verse osisID='Job.20.17'>Ingen bäck får vederkvicka hans syn, ingen ström med flöden av honung och gräddmjölk.</verse>
+        <verse osisID='Job.20.18'>Sitt fördärv måste han återbära, han får ej njuta därav; hans fröjd svarar ej mot den rikedom han har vunnit.</verse>
+        <verse osisID='Job.20.19'>Ty mot de arma övade han våld och lät dem ligga där; han rev till sig hus som han ej kan hålla vid makt.</verse>
+        <verse osisID='Job.20.20'>Han visste ej av någon ro för sin buk, men han skall icke rädda sig med sina skatter.</verse>
+        <verse osisID='Job.20.21'>Intet slapp undan hans glupskhet, därför äger och hans lycka intet bestånd.</verse>
+        <verse osisID='Job.20.22'>Mitt i hans överflöd påkommer honom nöd, och envar eländig vänder då mot honom sin hand.</verse>
+        <verse osisID='Job.20.23'>Ja, så måste ske, för att hans buk må bliva fylld; sin vredes glöd skall Gud sända över honom och låta den tränga såsom ett regn in i hans kropp.</verse>
+        <verse osisID='Job.20.24'>Om han flyr undan för vapen av järn, så genomborras han av kopparbågens skott.</verse>
+        <verse osisID='Job.20.25'>När han då drager i pilen och den kommer ut ur hans rygg, när den ljungande udden kommer fram ur hans galla, då falla dödsfasorna över honom.</verse>
+        <verse osisID='Job.20.26'>Idel mörker är förvarat åt hans skatter; till mat gives honom eld som brinner utan pust, den förtär vad som är kvar i hans hydda.</verse>
+        <verse osisID='Job.20.27'>Himmelen lägger hans missgärning i dagen, och jorden reser sig upp emot honom.</verse>
+        <verse osisID='Job.20.28'>Vad som har samlats i hans hus far åter sin kos, likt förrinnande vatten, på vredens dag.</verse>
+        <verse osisID='Job.20.29'>Sådan lott får en ogudaktig människa av Gud, sådan arvedel har av Gud blivit bestämd åt henne.</verse>
+      </chapter>
+      <chapter osisID='Job.21'>
+        <verse osisID='Job.21.1'>Därefter tog Job till orda och sade:</verse>
+        <verse osisID='Job.21.2'>Hören åtminstone på mina ord; låten det vara den tröst som I given mig.</verse>
+        <verse osisID='Job.21.3'>Haven fördrag med mig, så att jag får tala; sedan jag har talat, må du bespotta.</verse>
+        <verse osisID='Job.21.4'>Är då min klagan, såsom när människor eljest klaga? Eller huru skulle jag kunna vara annat än otålig?</verse>
+        <verse osisID='Job.21.5'>Akten på mig, så skolen I häpna och nödgas lägga handen på munnen.</verse>
+        <verse osisID='Job.21.6'>Ja, när jag tänker därpå, då förskräckes jag själv, och förfäran griper mitt kött.</verse>
+        <verse osisID='Job.21.7'>Varför få de ogudaktiga leva, ja, med åldern växa till i rikedom?</verse>
+        <verse osisID='Job.21.8'>De se sina barn leva kvar hos sig, och sin avkomma hava de inför sina ögon.</verse>
+        <verse osisID='Job.21.9'>Deras hus stå trygga, ej hemsökta av förskräckelse; Gud låter sitt ris icke komma vid dem.</verse>
+        <verse osisID='Job.21.10'>När deras boskap parar sig, är det icke förgäves; lätt kalva deras kor, och icke i otid.</verse>
+        <verse osisID='Job.21.11'>Sina barn släppa de ut såsom en hjord, deras piltar hoppa lustigt omkring.</verse>
+        <verse osisID='Job.21.12'>De stämma upp med pukor och harpor, och glädja sig vid pipors ljud.</verse>
+        <verse osisID='Job.21.13'>De förnöta sina dagar i lust, och ned till dödsriket fara de i frid.</verse>
+        <verse osisID='Job.21.14'>Och de sade dock till Gud: »Vik ifrån oss, dina vägar vilja vi icke veta av.</verse>
+        <verse osisID='Job.21.15'>Vad är den Allsmäktige, att vi skulle tjäna honom? och vad skulle det hjälpa oss att åkalla honom?»</verse>
+        <verse osisID='Job.21.16'>Det är sant, i deras egen hand står ej deras lycka, och de ogudaktigas rådslag vare fjärran ifrån mig!</verse>
+        <verse osisID='Job.21.17'>Men huru ofta utslocknar väl de ogudaktigas lampa, huru ofta händer det att ofärd kommer över dem, och att han tillskiftar dem lotter i vrede?</verse>
+        <verse osisID='Job.21.18'>De borde ju bliva såsom halm för vinden, lika agnar som stormen rycker bort.</verse>
+        <verse osisID='Job.21.19'>»Gud spar åt hans barn att lida för hans ondska.» Ja, men honom själv borde han vedergälla, så att han finge känna det.</verse>
+        <verse osisID='Job.21.20'>Med egna ögon borde han se sitt fall, och av den Allsmäktiges vrede borde han få dricka.</verse>
+        <verse osisID='Job.21.21'>Ty vad frågar han efter sitt hus, när han själv är borta, när hans månaders antal har nått sin ände?</verse>
+        <verse osisID='Job.21.22'>»Skall man då lära Gud förstånd, honom som dömer över de högsta?»</verse>
+        <verse osisID='Job.21.23'>Ja, den ene får dö i sin välmaktstid, där han sitter i allsköns frid och ro;</verse>
+        <verse osisID='Job.21.24'>hans stävor hava fått stå fulla med mjölk, och märgen i hans ben har bevarat sin saft.</verse>
+        <verse osisID='Job.21.25'>Den andre måste dö med bedrövad själ, och aldrig fick han njuta av någon lycka.</verse>
+        <verse osisID='Job.21.26'>Tillsammans ligga de så i stoftet, och förruttnelsens maskar övertäcka dem.</verse>
+        <verse osisID='Job.21.27'>Se, jag känner väl edra tankar och de funder med vilka I viljen nedslå mig.</verse>
+        <verse osisID='Job.21.28'>I spörjen ju: »Vad har blivit av de höga herrarnas hus, av hyddorna när de ogudaktiga bodde?»</verse>
+        <verse osisID='Job.21.29'>Haven I då ej frågat dem som vida foro, och akten I ej på deras vittnesbörd:</verse>
+        <verse osisID='Job.21.30'>att den onde bliver sparad på ofärdens dag och bärgad undan på vredens dag?</verse>
+        <verse osisID='Job.21.31'>Vem vågar ens förehålla en sådan hans väg? Vem vedergäller honom, vad han än må göra?</verse>
+        <verse osisID='Job.21.32'>Och när han har blivit bortförd till graven, så vakar man sedan där vid kullen.</verse>
+        <verse osisID='Job.21.33'>Ljuvligt får han vilja under dalens torvor. I hans spår drager hela världen fram; före honom har och otaliga gått.</verse>
+        <verse osisID='Job.21.34'>Huru kunnen I då bjuda mig så fåfänglig tröst? Av edra svar står allenast trolösheten kvar.</verse>
+      </chapter>
+      <chapter osisID='Job.22'>
+        <verse osisID='Job.22.1'>Därefter tog Elifas från Teman till orda och sade:</verse>
+        <verse osisID='Job.22.2'>Kan en man bereda Gud något gagn, så att det länder honom till gagn, om någon är förståndig?</verse>
+        <verse osisID='Job.22.3'>Har den Allsmäktige någon båtnad av att du är rättfärdig, eller någon vinning av att du vandrar ostraffligt?</verse>
+        <verse osisID='Job.22.4'>Är det för din gudsfruktans skull som han straffar dig, och som han går med dig till doms?</verse>
+        <verse osisID='Job.22.5'>Har då icke din ondska varit stor, och voro ej dina missgärningar utan ände?</verse>
+        <verse osisID='Job.22.6'>Jo, du tog pant av din broder utan sak, du plundrade de utblottade på deras kläder.</verse>
+        <verse osisID='Job.22.7'>Åt den försmäktande gav du intet vatten att dricka, och den hungrige nekade du bröd.</verse>
+        <verse osisID='Job.22.8'>För den väldige ville du upplåta landet, och den myndige skulle få bo däri,</verse>
+        <verse osisID='Job.22.9'>men änkor lät du gå med tomma händer, och de faderlösas armar blevo krossade.</verse>
+        <verse osisID='Job.22.10'>Därför omgives du nu av snaror och förfäras av plötslig skräck.</verse>
+        <verse osisID='Job.22.11'>ja, av ett mörker där du intet ser, och av vattenflöden som övertäcka dig.</verse>
+        <verse osisID='Job.22.12'>I himmelens höjde är det ju Gud som har sin boning, och du ser stjärnorna däruppe, huru högt de sitta;</verse>
+        <verse osisID='Job.22.13'>därför tänker du: »Vad kan Gud veta? Skulle han kunna döma, han som bor bortom töcknet?</verse>
+        <verse osisID='Job.22.14'>Molnen äro ju ett täckelse, så att han intet ser; och på himlarunden är det han har sin gång.»</verse>
+        <verse osisID='Job.22.15'>Vill du då hålla dig på forntidens väg, där fördärvets män gingo fram,</verse>
+        <verse osisID='Job.22.16'>de män som bortrycktes, innan deras tid var ute, och såsom en ström flöt deras grundval bort,</verse>
+        <verse osisID='Job.22.17'>de män som sade till Gud: »Vik ifrån oss», ty vad skulle den Allsmäktige kunna göra dem?</verse>
+        <verse osisID='Job.22.18'>Det var ju dock han som uppfyllde deras hus med sitt goda. De ogudaktigas rådslag vare fjärran ifrån mig!</verse>
+        <verse osisID='Job.22.19'>De rättfärdiga skola se det och glädja sig, och den oskyldige skall få bespotta dem:</verse>
+        <verse osisID='Job.22.20'>»Ja, nu äro förvisso våra motståndare utrotade, och deras överflöd har elden förtärt.»</verse>
+        <verse osisID='Job.22.21'>Men sök nu förlikning och frid med honom; därigenom skall lycka falla dig till.</verse>
+        <verse osisID='Job.22.22'>Tag emot undervisning av hans mun, och förvara hans ord i ditt hjärta.</verse>
+        <verse osisID='Job.22.23'>Om du omvänder dig till den Allsmäktige, så bliver du upprättad; men orättfärdighet må du skaffa bort ur din hydda.</verse>
+        <verse osisID='Job.22.24'>Ja kasta din gyllene skatt i stoftet och Ofirs-guldet ibland bäckens stenar,</verse>
+        <verse osisID='Job.22.25'>så bliver den Allsmäktige din gyllene skatt, det ädlaste silver varder han för dig.</verse>
+        <verse osisID='Job.22.26'>Ja, då skall du hava din lust i den Allsmäktige och kunna upplyfta ditt ansikte till Gud.</verse>
+        <verse osisID='Job.22.27'>När du då beder till honom, skall han höra dig, och de löften du gör skall du få infria.</verse>
+        <verse osisID='Job.22.28'>Allt vad du besluter skall då lyckas för dig, och ljus skall skina på dina vägar.</verse>
+        <verse osisID='Job.22.29'>Om de leda mot djupet och du då beder: »Uppåt!», så frälsar han mannen som har ödmjukat sig.</verse>
+        <verse osisID='Job.22.30'>Ja han räddar och den som ej är fri ifrån skuld; genom dina händers renhet räddas en sådan.</verse>
+      </chapter>
+      <chapter osisID='Job.23'>
+        <verse osisID='Job.23.1'>Därefter tog Job till orda och sade:</verse>
+        <verse osisID='Job.23.2'>Också i dag vill min klaga göra uppror. Min hand kännes matt för min suckans skull.</verse>
+        <verse osisID='Job.23.3'>Om jag blott visste huru jag skulle finna honom, huru jag kunde komma dit där han bor!</verse>
+        <verse osisID='Job.23.4'>Jag skulle då lägga fram för honom min sak och fylla min mun med bevis.</verse>
+        <verse osisID='Job.23.5'>Jag ville väl höra vad han kunde svara mig, och förnimma vad han skulle säga till mig.</verse>
+        <verse osisID='Job.23.6'>Icke med övermakt finge han bekämpa mig, nej, han borde allenast lyssna till mig.</verse>
+        <verse osisID='Job.23.7'>Då skulle hans motpart stå här såsom en redlig man, ja, då skulle jag för alltid komma undan min domare.</verse>
+        <verse osisID='Job.23.8'>Men går jag mot öster, så är han icke där; går jag mot väster, så varsnar jag honom ej;</verse>
+        <verse osisID='Job.23.9'>har han något att skaffa i norr, jag skådar honom icke; döljer han sig i söder, jag ser honom ej heller där.</verse>
+        <verse osisID='Job.23.10'>Han vet ju vilken väg jag har vandrat; han har prövat mig, och jag har befunnits lik guld.</verse>
+        <verse osisID='Job.23.11'>Vid hans spår har min for hållit fast, hans väg har jag följt, utan att vika av.</verse>
+        <verse osisID='Job.23.12'>Från hans läppars bud har jag icke gjort något avsteg; mer än egna rådslut har jag aktat hans muns tal.</verse>
+        <verse osisID='Job.23.13'>Men hans vilja är orygglig; vem kan hindra honom? Vad honom lyster, det gör han ock.</verse>
+        <verse osisID='Job.23.14'>Ja, han giver mig fullt upp min beskärda del, och mycket av samma slag har han ännu i förvar.</verse>
+        <verse osisID='Job.23.15'>Därför gripes jag av förskräckelse för hans ansikte; när jag betänker det, fruktar jag för honom.</verse>
+        <verse osisID='Job.23.16'>Det är Gud som har gjort mitt hjärta försagt, den Allsmäktige är det som har vållat min förskräckelse,</verse>
+        <verse osisID='Job.23.17'>ty jag fick icke förgås, innan mörkret kom, dödsnatten undanhöll han mig.</verse>
+      </chapter>
+      <chapter osisID='Job.24'>
+        <verse osisID='Job.24.1'>Varför har den Allsmäktige inga räfstetider i förvar? varför få hans vänner ej skåda hans hämndedagar?</verse>
+        <verse osisID='Job.24.2'>Se, råmärken flyttar man undan, rövade hjordar driver man i bet;</verse>
+        <verse osisID='Job.24.3'>de faderlösas åsna för man bort och tager änkans ko i pant.</verse>
+        <verse osisID='Job.24.4'>Man tränger de fattiga undan från vägen, de betryckta i landet måste gömma sig med varandra.</verse>
+        <verse osisID='Job.24.5'>Ja, såsom vildåsnor måste de leva i öknen; dit gå de och möda sig och söka något till täring; hedmarken är det bröd de hava åt sina barn.</verse>
+        <verse osisID='Job.24.6'>På fältet få de till skörd vad boskap plägar äta, de hämta upp det sista i den ogudaktiges vingård.</verse>
+        <verse osisID='Job.24.7'>Nakna ligga de om natten, berövade sina kläder; de hava intet att skyla sig med i kölden.</verse>
+        <verse osisID='Job.24.8'>Av störtskurar från bergen genomdränkas de; de famna klippan, ty de äga ej annan tillflykt.</verse>
+        <verse osisID='Job.24.9'>Den faderlöse slites från sin moders bröst, och den betryckte drabbas av utpantning.</verse>
+        <verse osisID='Job.24.10'>Nakna måste de gå omkring, berövade sina kläder, hungrande nödgas de bära på kärvar.</verse>
+        <verse osisID='Job.24.11'>Inom sina förtryckares murar måste de bereda olja, de få trampa vinpressar och därvid lida törst.</verse>
+        <verse osisID='Job.24.12'>Utstötta ur människors samfund jämra de sig, ja, från dödsslagnas själar uppstiger ett rop. Men Gud aktar ej på vad förvänt som sker.</verse>
+        <verse osisID='Job.24.13'>Andra hava blivit fiender till ljuset; de känna icke dess vägar och hålla sig ej på dess stigar.</verse>
+        <verse osisID='Job.24.14'>Vid dagningen står mördaren upp för att dräpa den betryckte och fattige; och om natten gör han sig till tjuvars like.</verse>
+        <verse osisID='Job.24.15'>Äktenskapsbrytarens öga spejar efter skymningen, han tänker: »Intet öga får känna igen mig», och sätter så ett täckelse framför sitt ansikte.</verse>
+        <verse osisID='Job.24.16'>När det är mörkt, bryta sådana sig in i husen, men under dagen stänga de sig inne; ljuset vilja de icke veta av.</verse>
+        <verse osisID='Job.24.17'>Ty det svarta mörkret räknas av dem alla såsom morgon, med mörkrets förskräckelser äro de ju förtrogna.</verse>
+        <verse osisID='Job.24.18'>»Men hastigt», menen I, »ryckes en sådan bort av strömmen, förbannad bliver hans del i landet; till vingårdarna får han ej mer styra sina steg.</verse>
+        <verse osisID='Job.24.19'>Såsom snövatten förtäres av torka och hetta, så förtär dödsriket den som har syndat.</verse>
+        <verse osisID='Job.24.20'>Hans moders liv förgäter honom, maskar frossa på honom, ingen finnes, som bevarar hans minne; såsom ett träd brytes orättfärdigheten av.</verse>
+        <verse osisID='Job.24.21'>Så går det, när någon plundrar den ofruktsamma, som intet föder, och när någon icke gör gott mot änkan.»</verse>
+        <verse osisID='Job.24.22'>Ja, men han uppehåller ock våldsmännen genom sin kraft, de få stå upp, när de redan hade förlorat hoppet om livet;</verse>
+        <verse osisID='Job.24.23'>han giver dem trygghet, så att de få vila, och hans ögon vaka över deras vägar.</verse>
+        <verse osisID='Job.24.24'>När de hava stigit till sin höjd, beskäres dem en snar hädanfärd, de sjunka då ned och dö som alla andra; likasom axens toppar vissna de bort.</verse>
+        <verse osisID='Job.24.25'>Är det ej så, vem vill då vederlägga mig, vem kan göra mina ord om intet?</verse>
+      </chapter>
+      <chapter osisID='Job.25'>
+        <verse osisID='Job.25.1'>Därefter tog Bildad från Sua till orda och sade:</verse>
+        <verse osisID='Job.25.2'>Hos honom är väldighet och förskräckande makt, hos honom, som skapar frid i sina himlars höjd.</verse>
+        <verse osisID='Job.25.3'>Vem finnes, som förmår räkna hans skaror? Och vem överstrålas ej av hans ljus?</verse>
+        <verse osisID='Job.25.4'>Huru skulle då en människa kunna hava rätt mot Gud eller en av kvinna född kunna befinnas ren?</verse>
+        <verse osisID='Job.25.5'>Se, ej ens månen skiner nog klart, ej ens stjärnorna äro rena i hans ögon;</verse>
+        <verse osisID='Job.25.6'>huru mycket mindre då människan, det krypet, människobarnet, den masken!</verse>
+      </chapter>
+      <chapter osisID='Job.26'>
+        <verse osisID='Job.26.1'>Därefter tog Job till orda och sade:</verse>
+        <verse osisID='Job.26.2'>Vilken hjälp har du ej skänkt den vanmäktige, huru har du ej stärkt den maktlöses arm!</verse>
+        <verse osisID='Job.26.3'>Vilka råd har du ej givit den ovise, och vilket överflöd av klokhet har du ej lagt i dagen!</verse>
+        <verse osisID='Job.26.4'>Vem gav dig kraft att tala sådana ord, och vems ande var det som kom till orda ur dig?</verse>
+        <verse osisID='Job.26.5'>Dödsrikets skuggor gripas av ångest, djupets vatten och de som bo däri.</verse>
+        <verse osisID='Job.26.6'>Dödsriket ligger blottat för honom, och avgrunden har intet täckelse.</verse>
+        <verse osisID='Job.26.7'>Han spänner ut nordanrymden över det tomma och hänger upp jorden på intet.</verse>
+        <verse osisID='Job.26.8'>Han samlar vatten i sina moln såsom i ett knyte, och skyarna brista icke under bördan.</verse>
+        <verse osisID='Job.26.9'>Han gömmer sin tron för vår åsyn, han omhöljer den med sina skyar.</verse>
+        <verse osisID='Job.26.10'>En rundel har han välvt såsom gräns för vattnen, där varest ljus ändas i mörker.</verse>
+        <verse osisID='Job.26.11'>Himmelens pelare skälva, de gripas av förfäran vid hans näpst.</verse>
+        <verse osisID='Job.26.12'>Med sin kraft förskräckte han havet, och genom sitt förstånd sönderkrossade han Rahab.</verse>
+        <verse osisID='Job.26.13'>Blott han andades, blev himmelen klar; hans hand genomborrade den snabba ormen.</verse>
+        <verse osisID='Job.26.14'>Se, detta är allenast utkanterna av hans verk; en sakta viskning är allt vad vi förnimma därom. Hans allmakts dunder, vem skulle kunna fatta det?</verse>
+      </chapter>
+      <chapter osisID='Job.27'>
+        <verse osisID='Job.27.1'>Åter hov Job upp sin röst och kvad:</verse>
+        <verse osisID='Job.27.2'>Så sant Gud lever, han som har förhållit mig min rätt, den Allsmäktige, som har vållat min själs bedrövelse:</verse>
+        <verse osisID='Job.27.3'>aldrig, så länge ännu min ande är i mig och Guds livsfläkt är kvar i min näsa,</verse>
+        <verse osisID='Job.27.4'>aldrig skola mina läppar tala vad orättfärdigt är, och min tunga bära fram oärligt tal.</verse>
+        <verse osisID='Job.27.5'>Bort det, att jag skulle giva eder rätt! Intill min död låter jag min ostrafflighet ej tagas ifrån mig.</verse>
+        <verse osisID='Job.27.6'>Vid min rättfärdighet håller jag fast och släpper den icke, mitt hjärta förebrår mig ej för någon av mina dagar.</verse>
+        <verse osisID='Job.27.7'>Nej, såsom ogudaktig må min fiende stå där och min motståndare såsom orättfärdig.</verse>
+        <verse osisID='Job.27.8'>Ty vad hopp har den gudlöse när hans liv avskäres, när hans själ ryckes bort av Gud?</verse>
+        <verse osisID='Job.27.9'>Månne Gud skall höra hans rop, när nöden kommer över honom?</verse>
+        <verse osisID='Job.27.10'>Eller kan en sådan hava sin lust i den Allsmäktige, kan han åkalla Gud alltid?</verse>
+        <verse osisID='Job.27.11'>Jag vill undervisa eder om huru Gud går till väga; huru den Allsmäktige tänker, vill jag icke fördölja.</verse>
+        <verse osisID='Job.27.12'>Dock, I haven ju själva allasammans skådat det; huru kunnen I då hängiva eder åt så fåfängliga tankar?</verse>
+        <verse osisID='Job.27.13'>Hören vad den ogudaktiges lott bliver hos Gud, vilken arvedel våldsverkaren får av den Allsmäktige:</verse>
+        <verse osisID='Job.27.14'>Om hans barn bliva många, så är vinningen svärdets; hans avkomlingar få ej bröd att mätta sig med.</verse>
+        <verse osisID='Job.27.15'>De som slippa undan läggas i graven genom pest, och hans änkor kunna icke hålla sin klagogråt.</verse>
+        <verse osisID='Job.27.16'>Om han ock hopar silver såsom stoft och lägger kläder på hög såsom lera,</verse>
+        <verse osisID='Job.27.17'>så är det den rättfärdige som får kläda sig i vad han lägger på hög, och den skuldlöse kommer att utskifta silvret.</verse>
+        <verse osisID='Job.27.18'>Det hus han bygger bliver så förgängligt som malen, det skall likna skjulet som vaktaren gör sig.</verse>
+        <verse osisID='Job.27.19'>Rik lägger han sig och menar att intet skall tagas bort; men när han öppnar sina ögon, är ingenting kvar.</verse>
+        <verse osisID='Job.27.20'>Såsom vattenfloder taga förskräckelser honom fatt, om natten rövas han bort av stormen.</verse>
+        <verse osisID='Job.27.21'>Östanvinden griper honom, så att han far sin kos, den rycker honom undan från hans plats.</verse>
+        <verse osisID='Job.27.22'>Utan förskoning skjuter Gud sina pilar mot honom; för hans hand måste han flykta med hast.</verse>
+        <verse osisID='Job.27.23'>Då slår man ihop händerna, honom till hån; man visslar åt honom på platsen där han var.</verse>
+      </chapter>
+      <chapter osisID='Job.28'>
+        <verse osisID='Job.28.1'>Silvret har ju sin gruva, sin fyndort har guldet, som man renar;</verse>
+        <verse osisID='Job.28.2'>järn hämtas upp ur jorden, och stenar smältas till koppar.</verse>
+        <verse osisID='Job.28.3'>Man sätter då gränser för mörkret, och rannsakar ned till yttersta djupet,</verse>
+        <verse osisID='Job.28.4'>Där spränger man schakt långt under markens bebyggare, där färdas man förgäten djupt under vandrarens fot, där hänger man svävande, fjärran ifrån människor.</verse>
+        <verse osisID='Job.28.5'>Ovan ur jorden uppväxer bröd, men därnere omvälves den såsom av eld.</verse>
+        <verse osisID='Job.28.6'>Där, bland dess stenar, har safiren sitt fäste, guldmalm hämtar man ock där.</verse>
+        <verse osisID='Job.28.7'>Stigen ditned är ej känd av örnen, och falkens öga har ej utspanat den;</verse>
+        <verse osisID='Job.28.8'>den har ej blivit trampad av stolta vilddjur, intet lejon har gått därfram.</verse>
+        <verse osisID='Job.28.9'>Ja, där bär man hand på hårda stenen; bergen omvälvas ända ifrån rötterna.</verse>
+        <verse osisID='Job.28.10'>In i klipporna bryter man sig gångar, där ögat får se allt vad härligt är.</verse>
+        <verse osisID='Job.28.11'>Vattenådror täppas till och hindras att gråta. Så dragas dolda skatter fram i ljuset.</verse>
+        <verse osisID='Job.28.12'>Men visheten, var finnes hon, och var har förståndet sin boning?</verse>
+        <verse osisID='Job.28.13'>Priset för henne känner ingen människa; hon står ej att finna i de levandes land.</verse>
+        <verse osisID='Job.28.14'>Djupet säger: »Hon är icke här», och havet säger: »Hos mig är hon icke.»</verse>
+        <verse osisID='Job.28.15'>Hon köper icke för ädlaste metall, med silver gäldas ej hennes värde.</verse>
+        <verse osisID='Job.28.16'>Hon väges icke upp med guld från Ofir, ej med dyrbar onyx och safir.</verse>
+        <verse osisID='Job.28.17'>Guld och glas kunna ej liknas vid henne; hon får ej i byte mot gyllene klenoder.</verse>
+        <verse osisID='Job.28.18'>Koraller och kristall må icke ens nämnas; svårare är förvärva vishet än pärlor.</verse>
+        <verse osisID='Job.28.19'>Etiopisk topas kan ej liknas vid henne; hon väges icke upp med renaste guld.</verse>
+        <verse osisID='Job.28.20'>Ja, visheten, varifrån kommer väl hon, och var har förståndet sin boning?</verse>
+        <verse osisID='Job.28.21'>Förborgad är hon för alla levandes ögon, för himmelens fåglar är hon fördold;</verse>
+        <verse osisID='Job.28.22'>avgrunden och döden giva till känna; »Blott hörsägner om henne förnummo våra öron.»</verse>
+        <verse osisID='Job.28.23'>Gud, han är den som känner vägen till henne, han är den som vet var hon har sin boning.</verse>
+        <verse osisID='Job.28.24'>Ty han förmår skåda till jordens ändar, allt vad som finnes under himmelen ser han.</verse>
+        <verse osisID='Job.28.25'>När han mätte ut åt vinden dess styrka och avvägde vattnen efter mått,</verse>
+        <verse osisID='Job.28.26'>när han stadgade en lag för regnet och en väg för tordönets stråle,</verse>
+        <verse osisID='Job.28.27'>då såg han och uppenbarade henne, då lät han henne stå fram, då utforskade han henne.</verse>
+        <verse osisID='Job.28.28'>Och till människorna sade han så: »Se Herrens fruktan, det är vishet, och att fly det onda är förstånd.»</verse>
+      </chapter>
+      <chapter osisID='Job.29'>
+        <verse osisID='Job.29.1'>Åter hov Job upp sin röst och kvad:</verse>
+        <verse osisID='Job.29.2'>Ack att jag vore såsom i forna månader, såsom i de dagar då Gud gav mig sitt beskydd,</verse>
+        <verse osisID='Job.29.3'>då hans lykta sken över mitt huvud och jag vid hans ljus gick fram genom mörkret!</verse>
+        <verse osisID='Job.29.4'>Ja, vore jag såsom i min mognads dagar, då Guds huldhet vilade över min hydda,</verse>
+        <verse osisID='Job.29.5'>då ännu den Allsmäktige var med mig och mina barn stodo runt omkring mig,</verse>
+        <verse osisID='Job.29.6'>då mina fötter badade i gräddmjölk och klippan invid mig göt ut bäckar av olja!</verse>
+        <verse osisID='Job.29.7'>När jag då gick upp till porten i staden och intog mitt säte på torget,</verse>
+        <verse osisID='Job.29.8'>då drogo de unga sig undan vid min åsyn, de gamla reste sig upp och blevo stående.</verse>
+        <verse osisID='Job.29.9'>Då höllo hövdingar tillbaka sina ord och lade handen på munnen;</verse>
+        <verse osisID='Job.29.10'>furstarnas röst ljöd då dämpad, och deras tunga lådde vid gommen.</verse>
+        <verse osisID='Job.29.11'>Ja, vart öra som hörde prisade mig då säll, och vart öga som såg bar vittnesbörd om mig;</verse>
+        <verse osisID='Job.29.12'>ty jag räddade den betryckte som ropade, och den faderlöse, den som ingen hjälpare hade.</verse>
+        <verse osisID='Job.29.13'>Den olyckliges välsignelse kom då över mig, och änkans hjärta uppfyllde jag med jubel.</verse>
+        <verse osisID='Job.29.14'>I rättfärdighet klädde jag mig, och den var såsom min klädnad; rättvisa bar jag såsom mantel och huvudbindel.</verse>
+        <verse osisID='Job.29.15'>Ögon blev jag då åt den blinde, och fötter var jag åt den halte.</verse>
+        <verse osisID='Job.29.16'>Jag var då en fader för de fattiga, och den okändes sak redde jag ut.</verse>
+        <verse osisID='Job.29.17'>Jag krossade den orättfärdiges käkar och ryckte rovet undan hans tänder.</verse>
+        <verse osisID='Job.29.18'>Jag tänkte då: »I mitt näste skall jag få dö, mina dagar skola bliva många såsom sanden.</verse>
+        <verse osisID='Job.29.19'>Min rot ligger ju öppen för vatten, och i min krona faller nattens dagg.</verse>
+        <verse osisID='Job.29.20'>Min ära bliver ständigt ny, och min båge föryngras i min hand.»</verse>
+        <verse osisID='Job.29.21'>Ja, på mig hörde man då och väntade, man lyssnade under tystnad på mitt råd.</verse>
+        <verse osisID='Job.29.22'>Sedan jag hade talat, talade ingen annan; såsom ett vederkvickande flöde kommo mina ord över dem.</verse>
+        <verse osisID='Job.29.23'>De väntade på mig såsom på regn, de spärrade upp sina munnar såsom efter vårregn.</verse>
+        <verse osisID='Job.29.24'>När de misströstade, log jag emot dem, och mitt ansiktes klarhet kunde de icke förmörka.</verse>
+        <verse osisID='Job.29.25'>Täcktes jag besöka dem, så måste jag sitta främst; jag tronade då såsom en konung i sin skara, lik en man som har tröst för de sörjande.</verse>
+      </chapter>
+      <chapter osisID='Job.30'>
+        <verse osisID='Job.30.1'>Och nu le de åt mig, människor som äro yngre till åren än jag, män vilkas fäder jag aktade ringa, ja, ej ens hade velat sätta bland mina vallhundar.</verse>
+        <verse osisID='Job.30.2'>Vad skulle de också kunna gagna mig med sin hjälp, dessa människor som sakna all manlig kraft?</verse>
+        <verse osisID='Job.30.3'>Utmärglade äro de ju av brist och svält; de gnaga sin föda av torra öknen, som redan i förväg är öde och ödslig.</verse>
+        <verse osisID='Job.30.4'>Saltörter plocka de där bland snåren, och ginströtter är vad de hava till mat.</verse>
+        <verse osisID='Job.30.5'>Ur människors samkväm drives de ut, man ropar efter dem såsom efter tjuvar.</verse>
+        <verse osisID='Job.30.6'>I gruvliga klyftor måste de bo, i hålor under jorden och i bergens skrevor.</verse>
+        <verse osisID='Job.30.7'>Bland snåren häva de upp sitt tjut, under nässlor ligga de skockade,</verse>
+        <verse osisID='Job.30.8'>en avföda av dårar och ärelöst folk, utjagade ur landet med hugg och slag.</verse>
+        <verse osisID='Job.30.9'>Och för sådana har jag nu blivit en visa, de hava mig till ämne för sitt tal;</verse>
+        <verse osisID='Job.30.10'>med avsky hålla de sig fjärran ifrån mig, de hava ej försyn för att spotta åt mig.</verse>
+        <verse osisID='Job.30.11'>Nej, mig till plåga, lossa de alla band, alla tyglar kasta de av inför mig.</verse>
+        <verse osisID='Job.30.12'>Invid min högra sida upphäver sig ynglet; mina fötter vilja de stöta undan. De göra sig vägar som skola leda till min ofärd.</verse>
+        <verse osisID='Job.30.13'>Stigen framför mig hava de rivit upp. De göra sitt bästa till att fördärva mig, de som dock själva äro hjälplösa.</verse>
+        <verse osisID='Job.30.14'>Såsom genom en bred rämna bryta de in; de vältra sig fram under murarnas brak.</verse>
+        <verse osisID='Job.30.15'>Förskräckelser välvas ned över mig. Såsom en storm bortrycka de min ära, och såsom ett moln har min välfärd farit bort.</verse>
+        <verse osisID='Job.30.16'>Och nu utgjuter sig min själ inom mig, eländesdagar hålla mig fast.</verse>
+        <verse osisID='Job.30.17'>Natten bortfräter benen i min kropp, och kvalen som gnaga mig veta ej av vila.</verse>
+        <verse osisID='Job.30.18'>Genom övermäktig kraft har mitt kroppshölje blivit vanställt, såsom en livklädnad hänger det omkring mig.</verse>
+        <verse osisID='Job.30.19'>I orenlighet har jag blivit nedstjälpt, och själv är jag nu lik stoft och aska.</verse>
+        <verse osisID='Job.30.20'>Jag ropar till dig, men du svarar mig icke; jag står här, men de bespejar mig allenast.</verse>
+        <verse osisID='Job.30.21'>Du förvandlas för mig till en grym fiende, med din starka hand ansätter du mig.</verse>
+        <verse osisID='Job.30.22'>Du lyfter upp mig i stormvinden och för mig hän, och i bruset låter du mig försmälta av ångest.</verse>
+        <verse osisID='Job.30.23'>Ja, jag förstår att du vill föra mig till döden, till den boning dit allt levande församlas.</verse>
+        <verse osisID='Job.30.24'>Men skulle man vid sitt fall ej få sträcka ut handen, ej ropa efter hjälp, när ofärd har kommit?</verse>
+        <verse osisID='Job.30.25'>Grät jag ej själv över den som hade hårda dagar, och ömkade sig min själ ej över den fattige?</verse>
+        <verse osisID='Job.30.26'>Se, jag väntade mig lycka, men olycka kom; jag hoppades på ljus, men mörker kom.</verse>
+        <verse osisID='Job.30.27'>Därför sjuder mitt innersta och får ingen ro, eländesdagar hava ju mött mig.</verse>
+        <verse osisID='Job.30.28'>Med mörknad hud går jag, fastän ej bränd av solen; mitt i församlingen står jag upp och skriar.</verse>
+        <verse osisID='Job.30.29'>En broder har jag blivit till schakalerna, och en frände är jag vorden till strutsarna.</verse>
+        <verse osisID='Job.30.30'>Min hud har svartnat och lossnat från mitt kött, benen i min kropp äro förbrända av hetta.</verse>
+        <verse osisID='Job.30.31'>I sorgelåt är mitt harpospel förbytt, mina pipors klang i högljudd gråt.</verse>
+      </chapter>
+      <chapter osisID='Job.31'>
+        <verse osisID='Job.31.1'>Ett förbund slöt jag med mina ögon: aldrig skulle jag skåda efter någon jungfru.</verse>
+        <verse osisID='Job.31.2'>Vilken lott finge jag eljest av Gud i höjden, vilken arvedel av den Allsmäktige därovan?</verse>
+        <verse osisID='Job.31.3'>Ofärd kommer ju över de orättfärdiga, och olycka drabbar ogärningsmän.</verse>
+        <verse osisID='Job.31.4'>Ser icke han mina vägar, räknar han ej alla mina steg?</verse>
+        <verse osisID='Job.31.5'>Har jag väl umgåtts med lögn, och har min fot varit snar till svek?</verse>
+        <verse osisID='Job.31.6'>Nej, må jag vägas på en riktig våg, så skall Gud förnimma min ostrafflighet.</verse>
+        <verse osisID='Job.31.7'>Hava mina steg vikit av ifrån vägen, har mitt hjärta följt efter mina ögon, eller låder vid min händer en fläck?</verse>
+        <verse osisID='Job.31.8'>Då må en annan äta var jag har sått, och vad jag har planterat må ryckas upp med roten.</verse>
+        <verse osisID='Job.31.9'>Har mitt hjärta låtit dåra sig av någon kvinna, så att jag har stått på lur vid min nästas dörr?</verse>
+        <verse osisID='Job.31.10'>Då må min hustru mala mjöl åt en annan, och främmande män må då famntaga henne.</verse>
+        <verse osisID='Job.31.11'>Ja, sådant hade varit en skändlighet, en straffbar missgärning hade det varit,</verse>
+        <verse osisID='Job.31.12'>en eld som skulle förtära intill avgrunden och förhärja till roten all min gröda.</verse>
+        <verse osisID='Job.31.13'>Har jag kränkt min tjänares eller tjänarinnas rätt, när de hade någon tvist med mig?</verse>
+        <verse osisID='Job.31.14'>Vad skulle jag då göra, när Gud stode upp, och när han hölle räfst, vad kunde jag då svara honom?</verse>
+        <verse osisID='Job.31.15'>Han som skapade mig skapade ju och dem i moderlivet, han, densamme, har berett dem i modersskötet.</verse>
+        <verse osisID='Job.31.16'>Har jag vägrat de arma vad de begärde eller låtit änkans ögon försmäkta?</verse>
+        <verse osisID='Job.31.17'>Har jag ätit mitt brödstycke allena, utan att den faderlöse och har fått äta därav?</verse>
+        <verse osisID='Job.31.18'>Nej, från min ungdom fostrades han hos mig såsom hos en fader, och från min moders liv var jag änkors ledare.</verse>
+        <verse osisID='Job.31.19'>Har jag kunnat se en olycklig gå utan kläder, se en fattig ej äga något att skyla sig med?</verse>
+        <verse osisID='Job.31.20'>Måste ej fastmer hans länd välsigna mig, och fick han ej värma sig i ull av mina lamm?</verse>
+        <verse osisID='Job.31.21'>Har jag lyft min hand mot den faderlöse, därför att jag såg mig hava medhåll i porten?</verse>
+        <verse osisID='Job.31.22'>Då må min axel lossna från sitt fäste och min arm brytas av ifrån sin led.</verse>
+        <verse osisID='Job.31.23'>Jag måste då frukta ofärd ifrån Gud och skulle stå maktlös inför hans majestät.</verse>
+        <verse osisID='Job.31.24'>Har jag satt mitt hopp till guldet och kallat guldklimpen min förtröstan?</verse>
+        <verse osisID='Job.31.25'>Var det min glädje att min rikedom blev så stor, och att min hand förvärvade så mycket?</verse>
+        <verse osisID='Job.31.26'>Hände det, när jag såg solljuset, huru det sken, och månen, huru härligt den gick fram,</verse>
+        <verse osisID='Job.31.27'>att mitt hjärta hemligen lät dåra sig, så att jag med handkyss gav dem min hyllning?</verse>
+        <verse osisID='Job.31.28'>Nej, också det hade varit en straffbar missgärning; därmed hade jag ju förnekat Gud i höjden.</verse>
+        <verse osisID='Job.31.29'>Har jag glatt mig åt min fiendes ofärd och fröjdats, när olycka träffade honom?</verse>
+        <verse osisID='Job.31.30'>Nej, jag tillstadde ej min mun att synda så, ej att med förbannelse begära hans liv.</verse>
+        <verse osisID='Job.31.31'>Och kan mitt husfolk icke bevittna att envar fick mätta sig av kött vid mitt bord?</verse>
+        <verse osisID='Job.31.32'>Främlingen behövde ej stanna över natten på gatan, mina dörrar lät jag stå öppna utåt vägen.</verse>
+        <verse osisID='Job.31.33'>Har jag på människovis skylt mina överträdelser och gömt min missgärning i min barm,</verse>
+        <verse osisID='Job.31.34'>av fruktan för den stora hopen och av rädsla för stamfränders förakt, så att jag teg och ej gick utom min dörr?</verse>
+        <verse osisID='Job.31.35'>Ack att någon funnes, som ville höra mig! Jag har sagt mitt ord.  Den Allsmäktige må nu svara mig; ack att jag finge min vederparts motskrift!</verse>
+        <verse osisID='Job.31.36'>Sannerligen, jag skulle då bära den högt på min skuldra, såsom en krona skulle jag fästa den på mig.</verse>
+        <verse osisID='Job.31.37'>Jag ville då göra honom räkenskap för alla mina steg, lik en furste skulle jag då träda inför honom.</verse>
+        <verse osisID='Job.31.38'>Har min mark höjt rop över mig, och hava dess fåror gråtit med varandra?</verse>
+        <verse osisID='Job.31.39'>Har jag förtärt dess gröda obetald eller utpinat dess brukares liv?</verse>
+        <verse osisID='Job.31.40'>Då må törne växa upp för vete, och ogräs i stället för korn.  Slut på Jobs tal.</verse>
+      </chapter>
+      <chapter osisID='Job.32'>
+        <verse osisID='Job.32.1'>De tre männen upphörde nu att svara Job, eftersom han höll sig själv för rättfärdig.</verse>
+        <verse osisID='Job.32.2'>Då blev Elihu, Barakels son, från Bus, av Rams släkt, upptänd av vrede.  Mot Job upptändes han av vrede, därför att denne menade sig hava rätt mot Gud;</verse>
+        <verse osisID='Job.32.3'>och mot hans tre vänner upptändes hans vrede, därför att de icke funno något svar varmed de kunde vederlägga Job.</verse>
+        <verse osisID='Job.32.4'>Hittills hade Elihu dröjt att tala till Job, därför att de andra voro äldre till åren än han.</verse>
+        <verse osisID='Job.32.5'>Men då nu Elihu såg att de tre männen icke mer hade något att svara, upptändes hans vrede.</verse>
+        <verse osisID='Job.32.6'>Så tog då Elihu, Barakels son, från Bus, till orda och sade;  Ung till åren är jag, I däremot ären gamla. Därför höll jag mig tillbaka och var försagd och lade ej fram för eder min mening.</verse>
+        <verse osisID='Job.32.7'>Jag tänkte: »Må åldern tala, och må årens mängd förkunna visdom.»</verse>
+        <verse osisID='Job.32.8'>Dock, på anden i människorna kommer det an, den Allsmäktiges livsfläkt giver dem förstånd.</verse>
+        <verse osisID='Job.32.9'>Icke de åldriga äro alltid visast, icke de äldsta förstå bäst vad rätt är.</verse>
+        <verse osisID='Job.32.10'>Därför säger jag nu: Hör mig; jag vill lägga fram min mening, också jag.</verse>
+        <verse osisID='Job.32.11'>Se, jag väntade på vad I skullen tala, jag lyssnade efter förstånd ifrån eder, efter skäl som I skullen draga fram.</verse>
+        <verse osisID='Job.32.12'>Ja, noga aktade jag på eder. Men se, ingen fanns, som vederlade Job, ingen bland eder, som kunde svara på hans ord.</verse>
+        <verse osisID='Job.32.13'>Nu mån I icke säga: »Vi möttes av vishet; Gud, men ingen människa, kan nedslå denne.»</verse>
+        <verse osisID='Job.32.14'>Skäl mot min mening har han icke lagt fram, ej heller skall jag bemöta honom med edra bevis.</verse>
+        <verse osisID='Job.32.15'>Se, nu stå de bestörta och svara ej mer, målet i munnen hava de mist.</verse>
+        <verse osisID='Job.32.16'>Och jag skulle vänta, då de nu intet kunna säga, då de stå där och ej mer hava något svar!</verse>
+        <verse osisID='Job.32.17'>Nej, också jag vill svara i min ordning, jag vill lägga fram min mening, också jag.</verse>
+        <verse osisID='Job.32.18'>Ty, fullt upp har jag av skäl, anden i mitt inre vill spränga mig sönder.</verse>
+        <verse osisID='Job.32.19'>Ja, mitt inre är såsom instängt vin, likt en lägel med nytt vin är det nära att brista.</verse>
+        <verse osisID='Job.32.20'>Så vill jag då tala och skaffa mig luft, jag vill upplåta mina läppar och svara.</verse>
+        <verse osisID='Job.32.21'>Jag får ej hava anseende till personen, och jag skall ej till någon tala inställsamma ord.</verse>
+        <verse osisID='Job.32.22'>Nej, jag förstår ej att tala inställsamma ord; huru lätt kunde ej eljest min skapare rycka mig bort!</verse>
+      </chapter>
+      <chapter osisID='Job.33'>
+        <verse osisID='Job.33.1'>Men hör nu, Job, mina ord, och lyssna till allt vad jag vill säga.</verse>
+        <verse osisID='Job.33.2'>Se, jag upplåter nu mina läppar, min tunga tager till orda i min mun.</verse>
+        <verse osisID='Job.33.3'>Ur ett redbart hjärta framgår mitt tal, och vad mina läppar förstå säga de ärligt ut.</verse>
+        <verse osisID='Job.33.4'>Guds ande är det som har gjort mig, den Allsmäktiges fläkt beskär mig liv.</verse>
+        <verse osisID='Job.33.5'>Om du förmår, så må du nu svara mig; red dig till strid mot mig, träd fram.</verse>
+        <verse osisID='Job.33.6'>Se, jag är likställd med dig inför Gud, jag är danad av en nypa ler, också jag.</verse>
+        <verse osisID='Job.33.7'>Ja, fruktan för mig behöver ej förskräcka dig, ej heller kan min myndighet trycka dig ned.</verse>
+        <verse osisID='Job.33.8'>Men nu sade du så inför mina öron, så ljödo de ord jag hörde:</verse>
+        <verse osisID='Job.33.9'>»Ren är jag och fri ifrån överträdelse, oskyldig är jag och utan missgärning;</verse>
+        <verse osisID='Job.33.10'>men se, han finner på sak mot mig, han aktar mig såsom sin fiende.</verse>
+        <verse osisID='Job.33.11'>Han sätter mina fötter i stocken, vaktar på alla mina vägar.»</verse>
+        <verse osisID='Job.33.12'>Nej, häri har du orätt, svarar jag dig. Gud är ju förmer än en människa.</verse>
+        <verse osisID='Job.33.13'>Huru kan du gå till rätta med honom, såsom gåve han aldrig svar i sin sak?</verse>
+        <verse osisID='Job.33.14'>Både på ett sätt och på två talar Gud, om man också ej aktar därpå.</verse>
+        <verse osisID='Job.33.15'>I drömmen, i nattens syn, när sömnen har fallit tung över människorna och de vila i slummer på sitt läger,</verse>
+        <verse osisID='Job.33.16'>då öppnar han människornas öron och sätter inseglet på sina varningar till dem,</verse>
+        <verse osisID='Job.33.17'>när han vill avvända någon från en ogärning eller hålla högmodet borta ifrån en människa.</verse>
+        <verse osisID='Job.33.18'>Så bevarar han hennes själ från graven och hennes liv ifrån att förgås genom vapen.</verse>
+        <verse osisID='Job.33.19'>Hon bliver ock agad genom plågor på sitt läger och genom ständig oro, allt intill benen.</verse>
+        <verse osisID='Job.33.20'>Hennes sinne får leda vid maten, och hennes själ vid den föda hon älskade.</verse>
+        <verse osisID='Job.33.21'>Hennes hull förtvinar, till dess intet är att se, ja, hennes ben täras bort intill osynlighet.</verse>
+        <verse osisID='Job.33.22'>Så nalkas hennes själ till graven och hennes liv hän till dödens makter.</verse>
+        <verse osisID='Job.33.23'>Men om en ängel då finnes, som vakar över henne, en medlare, någon enda av de tusen, och denne får lära människan hennes plikt,</verse>
+        <verse osisID='Job.33.24'>då förbarmar Gud sig över henne och säger; »Fräls henne, så att hon slipper fara ned i graven; lösepenningen har jag nu fått.»</verse>
+        <verse osisID='Job.33.25'>Hennes kropp får då ny ungdomskraft, hon bliver åter såsom under sin styrkas dagar.</verse>
+        <verse osisID='Job.33.26'>När hon då beder till Gud, är han henne nådig och låter henne se sitt ansikte med jubel; han giver så den mannen hans rättfärdighet åter.</verse>
+        <verse osisID='Job.33.27'>Så får denne då sjunga inför människorna och säga: »Väl syndade jag, och väl kränkte jag rätten, dock vederfors mig ej vad jag hade förskyllt;</verse>
+        <verse osisID='Job.33.28'>ty han förlossade min själ, så att den undslapp graven, och mitt liv får nu med lust skåda ljuset.»</verse>
+        <verse osisID='Job.33.29'>Se, detta allt kommer Gud åstad, både två gånger och tre, för den mannen,</verse>
+        <verse osisID='Job.33.30'>till att rädda hans själ från graven, så att han får njuta av de levandes ljus.</verse>
+        <verse osisID='Job.33.31'>Akta nu härpå, du Job, och hör mig; tig, så att jag får tala.</verse>
+        <verse osisID='Job.33.32'>Dock, har du något att säga, så svara mig; tala, ty gärna gåve jag dig rätt.</verse>
+        <verse osisID='Job.33.33'>Varom icke, så är det du som må höra på mig; du må tiga, så att jag får lära dig vishet.</verse>
+      </chapter>
+      <chapter osisID='Job.34'>
+        <verse osisID='Job.34.1'>Och Elihu tog till orda och sade:</verse>
+        <verse osisID='Job.34.2'>Hören, I vise, mina ord; I förståndige, lyssnen till mig.</verse>
+        <verse osisID='Job.34.3'>Örat skall ju pröva orden, och munnen smaken hos det man vill äta.</verse>
+        <verse osisID='Job.34.4'>Må vi nu utvälja åt oss vad rätt är, samfällt söka förstå vad gott är.</verse>
+        <verse osisID='Job.34.5'>Se, Job har sagt: »Jag är oskyldig. Gud har förhållit mig min rätt.</verse>
+        <verse osisID='Job.34.6'>Fastän jag har rätt, måste jag stå såsom lögnare; dödsskjuten är jag, jag som intet har brutit.»</verse>
+        <verse osisID='Job.34.7'>Var finnes en man som är såsom Job? Han läskar sig med bespottelse såsom med vatten,</verse>
+        <verse osisID='Job.34.8'>han gör sig till ogärningsmäns stallbroder och sällar sig till ogudaktiga människor.</verse>
+        <verse osisID='Job.34.9'>Ty han säger: »Det gagnar en man till intet, om han håller sig väl med Gud.»</verse>
+        <verse osisID='Job.34.10'>Hören mig därför, I förståndige män: Bort det, att Gud skulle begå någon orätt, att den Allsmäktige skulle göra vad orättfärdigt är!</verse>
+        <verse osisID='Job.34.11'>Nej, han vedergäller var människa efter hennes gärningar och lönar envar såsom hans vandel har förtjänat.</verse>
+        <verse osisID='Job.34.12'>Ty Gud gör i sanning intet som är orätt, den Allsmäktige kan icke kränka rätten.</verse>
+        <verse osisID='Job.34.13'>Vem har bjudit honom att vårda sig om jorden, och vem lade på honom bördan av hela jordens krets?</verse>
+        <verse osisID='Job.34.14'>Om han ville tänka allenast på sig själv och åter draga till sig sin anda och livsfläkt,</verse>
+        <verse osisID='Job.34.15'>då skulle på en gång allt kött förgås, och människorna skulle vända åter till stoft.</verse>
+        <verse osisID='Job.34.16'>Men märk nu väl och hör härpå, lyssna till vad mina ord förkunna.</verse>
+        <verse osisID='Job.34.17'>Skulle den förmå regera, som hatade vad rätt är? Eller fördömer du den som är den störste i rättfärdighet?</verse>
+        <verse osisID='Job.34.18'>Får man då säga till en konung: »Du ogärningsman», eller till en furste: »Du ogudaktige»?</verse>
+        <verse osisID='Job.34.19'>Gud har ju ej anseende till någon hövdings person, han aktar den rike ej för mer än den fattige, ty alla äro de hans händers verk.</verse>
+        <verse osisID='Job.34.20'>I ett ögonblick omkomma de, mitt i natten: folkhopar gripas av bävan och förgås, de väldige ryckas bort, utan människohand.</verse>
+        <verse osisID='Job.34.21'>Ty hans ögon vakta på var mans vägar, och alla deras steg, dem ser han.</verse>
+        <verse osisID='Job.34.22'>Intet mörker finnes och ingen skugga så djup, att ogärningsmän kunna fördölja sig däri.</verse>
+        <verse osisID='Job.34.23'>Ty länge behöver Gud ej vakta på en människa, innan hon måste stå till doms inför honom.</verse>
+        <verse osisID='Job.34.24'>Han krossar de väldige utan rannsakning och låter så andra träda fram i deras ställe.</verse>
+        <verse osisID='Job.34.25'>Ja, han märker väl vad de göra, han omstörtar dem om natten och låter dem förgås.</verse>
+        <verse osisID='Job.34.26'>Såsom ogudaktiga tuktar han dem öppet, inför människors åsyn,</verse>
+        <verse osisID='Job.34.27'>eftersom de veko av ifrån honom och ej aktade på alla hans vägar.</verse>
+        <verse osisID='Job.34.28'>De bragte så den armes rop inför honom, och rop av betryckta fick han höra.</verse>
+        <verse osisID='Job.34.29'>Vem vågar då fördöma, om han stillar larmet? Ja, vem vill väl skåda honom, om han döljer sitt ansikte, för ett folk eller för en enskild man,</verse>
+        <verse osisID='Job.34.30'>när han vill rycka makten ifrån gudlösa människor och hindra dem att bliva snaror för folket?</verse>
+        <verse osisID='Job.34.31'>Kan man väl säga till Gud: »Jag måste lida, jag som ändå intet har förbrutit.</verse>
+        <verse osisID='Job.34.32'>Visa mig du vad som går över mitt förstånd; om jag har gjort något orätt, vill jag då ej göra så mer.»</verse>
+        <verse osisID='Job.34.33'>Skall då han, för ditt klanders skull, giva vedergällning såsom du vill? Du själv, och icke jag, må döma därom; ja, tala du ut vad du menar.</verse>
+        <verse osisID='Job.34.34'>Men kloka män skola säga så till mig, visa män, när de få höra mig:</verse>
+        <verse osisID='Job.34.35'>»Job talar utan någon insikt, hans ord äro utan förstånd.»</verse>
+        <verse osisID='Job.34.36'>Så må nu Job utstå prövningar allt framgent, då han vill försvara sig på ogärningsmäns sätt.</verse>
+        <verse osisID='Job.34.37'>Till sin synd lägger han ju uppenbar ondska, oss till hån slår han ihop sina händer och talar stora ord mot Gud.</verse>
+      </chapter>
+      <chapter osisID='Job.35'>
+        <verse osisID='Job.35.1'>Och Elihu tog till orda och sade:</verse>
+        <verse osisID='Job.35.2'>Menar du att sådant är riktigt? Kan du påstå att du har rätt mot Gud,</verse>
+        <verse osisID='Job.35.3'>du som frågar vad rättfärdighet gagnar dig, vad den båtar dig mer än synd?</verse>
+        <verse osisID='Job.35.4'>Svar härpå vill jag giva dig, jag ock dina vänner med dig.</verse>
+        <verse osisID='Job.35.5'>Skåda upp mot himmelen och se, betrakta skyarna, som gå där högt över dig.</verse>
+        <verse osisID='Job.35.6'>Om du syndar, vad gör du väl honom därmed? Och om dina överträdelser äro många, vad skadar du honom därmed?</verse>
+        <verse osisID='Job.35.7'>Eller om du är rättfärdig, vad giver du honom, och vad undfår han av din hand?</verse>
+        <verse osisID='Job.35.8'>Nej, för din like kunde din ogudaktighet något betyda och för en människoson din rättfärdighet.</verse>
+        <verse osisID='Job.35.9'>Väl klagar man, när våldsgärningarna äro många, man ropar om hjälp mot de övermäktigas arm;</verse>
+        <verse osisID='Job.35.10'>men ingen frågar: »Var är min Gud, min skapare, han som låter lovsånger ljuda mitt i natten,</verse>
+        <verse osisID='Job.35.11'>han som giver oss insikt framför markens djur och vishet framför himmelens fåglar?»</verse>
+        <verse osisID='Job.35.12'>Därför är det man får ropa utan svar om skydd mot de ondas övermod.</verse>
+        <verse osisID='Job.35.13'>Se, på fåfängliga böner hör icke Gud, den Allsmäktige aktar icke på slikt;</verse>
+        <verse osisID='Job.35.14'>allra minst, när du påstår att du icke får skåda honom, att du måste vänta på honom, fastän saken är uppenbar.</verse>
+        <verse osisID='Job.35.15'>Och nu menar du att hans vrede ej håller någon räfst, och att han föga bekymrar sig om människors övermod?</verse>
+        <verse osisID='Job.35.16'>Ja, till fåfängligt tal spärrar Job upp sin mun, utan insikt talar han stora ord.</verse>
+      </chapter>
+      <chapter osisID='Job.36'>
+        <verse osisID='Job.36.1'>Vidare sade Elihu:</verse>
+        <verse osisID='Job.36.2'>Bida ännu litet, så att jag får giva dig besked, ty ännu något har jag att säga till Guds försvar.</verse>
+        <verse osisID='Job.36.3'>Min insikt vill jag hämta vida ifrån, och åt min skapare vill jag skaffa rätt.</verse>
+        <verse osisID='Job.36.4'>Ja, förvisso skola mina ord icke vara lögn; en man med fullgod insikt har du framför dig.</verse>
+        <verse osisID='Job.36.5'>Se, Gud är väldig, men han försmår dock ingen, han som är så väldig i sitt förstånds kraft.</verse>
+        <verse osisID='Job.36.6'>Den ogudaktige låter han ej bliva vid liv, men åt de arma skaffar han rätt.</verse>
+        <verse osisID='Job.36.7'>Han tager ej sina ögon från de rättfärdiga; de få trona i konungars krets, för alltid låter han dem sitta där i höghet.</verse>
+        <verse osisID='Job.36.8'>Och om de läggas bundna i kedjor och fångas i eländets snaror,</verse>
+        <verse osisID='Job.36.9'>så vill han därmed visa dem vad de hava gjort, och vilka överträdelser de hava begått i sitt högmod;</verse>
+        <verse osisID='Job.36.10'>han vill då öppna deras öra för tuktan och mana dem att vända om ifrån fördärvet.</verse>
+        <verse osisID='Job.36.11'>Om de då höra på honom och underkasta sig, så få de framleva sina dagar i lycka och sina år i ljuvlig ro.</verse>
+        <verse osisID='Job.36.12'>Men höra de honom ej, så förgås de genom vapen och omkomma, när de minst tänka det.</verse>
+        <verse osisID='Job.36.13'>Ja, de som med gudlöst hjärta hängiva sig åt vrede och icke anropa honom, när han lägger dem i band,</verse>
+        <verse osisID='Job.36.14'>deras själ skall i deras ungdom ryckas bort av döden, och deras liv skall dela tempelbolares lott.</verse>
+        <verse osisID='Job.36.15'>Genom lidandet vill han rädda den lidande, och genom betrycket vill han öppna hans öra.</verse>
+        <verse osisID='Job.36.16'>Så sökte han ock draga dig ur nödens gap, ut på en rymlig plats, där intet trångmål rådde; och ditt bord skulle bliva fullsatt med feta rätter.</verse>
+        <verse osisID='Job.36.17'>Men nu bär du till fullo ogudaktighetens dom; ja, dom och rättvisa hålla dig nu fast.</verse>
+        <verse osisID='Job.36.18'>Ty vrede borde ej få uppegga dig under din tuktans tid, och huru svårt du än har måst plikta, borde du ej därav ledas vilse.</verse>
+        <verse osisID='Job.36.19'>Huru kan han lära dig bedja, om icke genom nöd och genom allt som nu har prövat din kraft?</verse>
+        <verse osisID='Job.36.20'>Du må ej längta så ivrigt efter natten, den natt då folken skola ryckas bort ifrån sin plats.</verse>
+        <verse osisID='Job.36.21'>Tag dig till vara, så att du ej vänder dig till vad fördärvligt är; sådant behagar dig ju mer än att lida.</verse>
+        <verse osisID='Job.36.22'>Se, Gud är upphöjd genom sin kraft. Var finnes någon mästare som är honom lik?</verse>
+        <verse osisID='Job.36.23'>Vem har föreskrivit honom hans väg, och vem kan säga: »Du gör vad orätt är?»</verse>
+        <verse osisID='Job.36.24'>Tänk då på att upphöja hans gärningar, dem vilka människorna besjunga</verse>
+        <verse osisID='Job.36.25'>och som de alla skåda med lust, de dödliga, om de än blott skönja dem i fjärran.</verse>
+        <verse osisID='Job.36.26'>Ja, Gud är för hög för vårt förstånd, hans år äro flera än någon kan utrannsaka.</verse>
+        <verse osisID='Job.36.27'>Se, vattnets droppar drager han uppåt, och de sila ned såsom regn, där hans dimma går fram;</verse>
+        <verse osisID='Job.36.28'>skyarna gjuta dem ut såsom en ström, låta dem drypa ned över talrika människor.</verse>
+        <verse osisID='Job.36.29'>Ja, kan någon fatta molnens utbredning, braket som utgår från hans hydda?</verse>
+        <verse osisID='Job.36.30'>Se, sitt ljungeldsljus breder han ut över molnen, och själva havsgrunden höljer han in däri.</verse>
+        <verse osisID='Job.36.31'>Ty så utför han sina domar över folken; så bereder han ock näring i rikligt mått.</verse>
+        <verse osisID='Job.36.32'>I ljungeldsljus höljer han sina händer och sänder det ut mot dem som begynna strid.</verse>
+        <verse osisID='Job.36.33'>Budskap om honom bär hans dunder; själva boskapen bebådar hans antåg.</verse>
+      </chapter>
+      <chapter osisID='Job.37'>
+        <verse osisID='Job.37.1'>Ja, vid sådant förskräckes mitt hjärta, bävande spritter det upp.</verse>
+        <verse osisID='Job.37.2'>Hören, hören huru hans röst ljuder vred, hören dånet som går ut ur hans mun.</verse>
+        <verse osisID='Job.37.3'>Han sänder det åstad, så långt himmelen når, och sina ljungeldar bort till jordens ändar.</verse>
+        <verse osisID='Job.37.4'>Efteråt ryter så dånet, när han dundrar med sin väldiga röst; och på ljungeldarna spar han ej, då hans röst låter höra sig.</verse>
+        <verse osisID='Job.37.5'>Ja, underbart dundrar Gud med sin röst, stora ting gör han, utöver vad vi förstå.</verse>
+        <verse osisID='Job.37.6'>Se, åt snön giver han bud: »Fall ned till jorden», så ock åt regnskuren, åt sitt regnflödes mäktiga skur.</verse>
+        <verse osisID='Job.37.7'>Därmed fjättrar han alla människors händer, så att envar som han har skapat kan lära därav.</verse>
+        <verse osisID='Job.37.8'>Då draga sig vilddjuren in i sina gömslen, och i sina kulor lägga de sig till ro.</verse>
+        <verse osisID='Job.37.9'>Från Stjärngemaket kommer då storm och köld genom nordanhimmelens stjärnor;</verse>
+        <verse osisID='Job.37.10'>med sin andedräkt sänder Gud frost, och de vida vattnen betvingas.</verse>
+        <verse osisID='Job.37.11'>Skyarna lastar han ock med väta och sprider omkring sina ljungeldsmoln.</verse>
+        <verse osisID='Job.37.12'>De måste sväva än hit, än dit, alltefter hans rådslut och de uppdrag de få, vadhelst han ålägger dem på jordens krets.</verse>
+        <verse osisID='Job.37.13'>Än är det som tuktoris, än med hjälp åt hans jord, än är det med nåd som han låter dem komma.</verse>
+        <verse osisID='Job.37.14'>Lyssna då härtill, du Job; stanna och betänk Guds under.</verse>
+        <verse osisID='Job.37.15'>Förstår du på vad sätt Gud styr deras gång och låter ljungeldarna lysa fram ur sina moln?</verse>
+        <verse osisID='Job.37.16'>Förstår du lagen för skyarnas jämvikt, den Allvises underbara verk?</verse>
+        <verse osisID='Job.37.17'>Förstår du huru kläderna bliva dig så heta, när han låter jorden domna under sunnanvinden?</verse>
+        <verse osisID='Job.37.18'>Kan du välva molnhimmelen så som han, så fast som en spegel av gjuten metall?</verse>
+        <verse osisID='Job.37.19'>Lär oss då vad vi skola säga till honom; för vårt mörkers skull hava vi intet att lägga fram.</verse>
+        <verse osisID='Job.37.20'>Ej må det bebådas honom att jag vill tala. Månne någon begär sitt eget fördärv?</verse>
+        <verse osisID='Job.37.21'>Men synes icke redan skenet? Strålande visar han sig ju mellan skyarna, där vinden har gått fram och sopat dem undan.</verse>
+        <verse osisID='Job.37.22'>I guldglans kommer han från norden. Ja, Gud är höljd i fruktansvärt majestät;</verse>
+        <verse osisID='Job.37.23'>den Allsmäktige kunna vi icke fatta, honom som är så stor i kraft, honom som ej kränker rätten, ej strängaste rättfärdighet.</verse>
+        <verse osisID='Job.37.24'>Fördenskull frukta människorna honom; men de självkloka -- dem alla aktar han ej på.</verse>
+      </chapter>
+      <chapter osisID='Job.38'>
+        <verse osisID='Job.38.1'>Och HERREN svarade Job ur stormvinden och sade:</verse>
+        <verse osisID='Job.38.2'>Vem är du som stämplar vishet såsom mörker, i det att du talar så utan insikt?</verse>
+        <verse osisID='Job.38.3'>Omgjorda nu såsom ej man dina länder; jag vill fråga dig, och du må giva mig besked.</verse>
+        <verse osisID='Job.38.4'>Var var du, när jag lade jordens grund? Säg det, om du har ett så stort förstånd.</verse>
+        <verse osisID='Job.38.5'>Vem har fastställt hennes mått -- du vet ju det? Och vem spände sitt mätsnöre ut över henne?</verse>
+        <verse osisID='Job.38.6'>Var fingo hennes pelare sina fästen, och vem var det som lade hennes hörnsten,</verse>
+        <verse osisID='Job.38.7'>medan morgonstjärnorna tillsammans jublade och alla Guds söner höjde glädjerop?</verse>
+        <verse osisID='Job.38.8'>Och vem satte dörrar för havet, när det föddes och kom ut ur moderlivet,</verse>
+        <verse osisID='Job.38.9'>när jag gav det moln till beklädnad och lät töcken bliva dess linda,</verse>
+        <verse osisID='Job.38.10'>när jag åt det utstakade min gräns och satte bom och dörrar därför,</verse>
+        <verse osisID='Job.38.11'>och sade: »Härintill skall du komma, men ej vidare, här skola dina stolta böljor lägga sig»?</verse>
+        <verse osisID='Job.38.12'>Har du i din tid bjudit dagen att gry eller anvisat åt morgonrodnaden dess plats,</verse>
+        <verse osisID='Job.38.13'>där den skulle fatta jorden i dess flikar, så att de ogudaktiga skakades bort därifrån?</verse>
+        <verse osisID='Job.38.14'>Då ändrar den form såsom leran under signetet, och tingen stå fram såsom klädda i skrud;</verse>
+        <verse osisID='Job.38.15'>då berövas de ogudaktiga sitt ljus, och den arm som lyftes för högt brytes sönder.</verse>
+        <verse osisID='Job.38.16'>Har du stigit ned till havets källor och vandrat omkring på djupets botten?</verse>
+        <verse osisID='Job.38.17'>Hava dödens portar avslöjat sig för dig, ja, såg du dödsskuggans portar?</verse>
+        <verse osisID='Job.38.18'>Har du överskådat jordens vidder? Om du känner allt detta, så låt höra.</verse>
+        <verse osisID='Job.38.19'>Vet du vägen dit varest ljuset bor, eller platsen där mörkret har sin boning,</verse>
+        <verse osisID='Job.38.20'>så att du kan hämta dem ut till deras gräns och finna stigarna som leda till deras hus?</verse>
+        <verse osisID='Job.38.21'>Visst kan du det, ty så tidigt blev du ju född, så stort är ju dina dagars antal!</verse>
+        <verse osisID='Job.38.22'>Har du varit framme vid snöns förrådshus? Och haglets förrådshus, du såg väl dem</verse>
+        <verse osisID='Job.38.23'>-- de förråd som jag har sparat till hemsökelsens tid, till stridens och drabbningens dag?</verse>
+        <verse osisID='Job.38.24'>Vet du vägen dit varest ljuset delar sig, dit där stormen sprider sig ut över jorden?</verse>
+        <verse osisID='Job.38.25'>Vem har åt regnflödet öppnat en ränna och banat en väg för tordönets stråle,</verse>
+        <verse osisID='Job.38.26'>till att sända regn över länder där ingen bor, över öknar, där ingen människa finnes,</verse>
+        <verse osisID='Job.38.27'>till att mätta ödsliga ödemarker och giva växt åt gräsets brodd?</verse>
+        <verse osisID='Job.38.28'>Säg om regnet har någon fader, och vem han är, som födde daggens droppar?</verse>
+        <verse osisID='Job.38.29'>Ur vilken moders liv är det isen gick fram, och vem är hon som födde himmelens rimfrost?</verse>
+        <verse osisID='Job.38.30'>Se, vattnet tätnar och bliver likt sten, så ytan sluter sig samman över djupet.</verse>
+        <verse osisID='Job.38.31'>Knyter du tillhopa Sjustjärnornas knippe? Och förmår du att lossa Orions band?</verse>
+        <verse osisID='Job.38.32'>Är det du som, när tid är, för himmelstecknen fram, och som leder Björninnan med hennes ungar?</verse>
+        <verse osisID='Job.38.33'>Ja, förstår du himmelens lagar, och ordnar du dess välde över jorden?</verse>
+        <verse osisID='Job.38.34'>Kan du upphöja din röst till molnen och förmå vattenflöden att övertäcka dig?</verse>
+        <verse osisID='Job.38.35'>Kan du sända ljungeldar åstad, så att de gå, så att de svara dig: »Ja vi äro redo»?</verse>
+        <verse osisID='Job.38.36'>Vem har lagt vishet i de mörka molnen, och vem gav förstånd åt järtecknen i luften?</verse>
+        <verse osisID='Job.38.37'>Vem håller med sin vishet räkning på skyarna? Och himmelens läglar, vem häller ut dem,</verse>
+        <verse osisID='Job.38.38'>medan mullen smälter såsom malm och jordkokorna klibbas tillhopa?</verse>
+      </chapter>
+      <chapter osisID='Job.39'>
+        <verse osisID='Job.39.1'>Är det du som jagar upp rov åt lejoninnan och stillar de unga lejonens hunger,</verse>
+        <verse osisID='Job.39.2'>när de trycka sig ned i sina kulor eller ligga på lur i snåret?</verse>
+        <verse osisID='Job.39.3'>Vem är det som skaffar mat åt korpen, när hans ungar ropar till Gud, där de sväva omkring utan föda?</verse>
+        <verse osisID='Job.39.4'>Vet du tiden för stengetterna att föda, vakar du över när hindarna bör kalva?</verse>
+        <verse osisID='Job.39.5'>Räknar du månaderna som de skola gå dräktiga, ja, vet du tiden för dem att föda?</verse>
+        <verse osisID='Job.39.6'>De böja sig ned, de avbörda sig sina foster, hastigt göra de sig fria ifrån födslovåndan.</verse>
+        <verse osisID='Job.39.7'>Deras ungar frodas och växa till på marken, så springa de sin väg och vända ej tillbaka.</verse>
+        <verse osisID='Job.39.8'>Vem har skänkt vildåsnan hennes frihet, vem har lossat den skyggas band?</verse>
+        <verse osisID='Job.39.9'>Se, hedmarken gav jag henne till hem, och saltöknen blev hennes boning.</verse>
+        <verse osisID='Job.39.10'>Hon ler åt larmet i staden, hon hör ingen pådrivares rop.</verse>
+        <verse osisID='Job.39.11'>Vad hon spanar upp på berget har hon till bete, hon letar efter allt som är grönt.</verse>
+        <verse osisID='Job.39.12'>Skall vildoxen finnas hågad att tjäna dig och att stanna över natten invid din krubba?</verse>
+        <verse osisID='Job.39.13'>Kan du tvinga vildoxen att gå i fåran efter töm och förmå honom att i ditt spår harva markerna jämna?</verse>
+        <verse osisID='Job.39.14'>Kan du lita på honom, då ju hans kraft är så stor, kan du betro åt honom ditt arbetes frukt?</verse>
+        <verse osisID='Job.39.15'>Överlåter du åt honom att föra hem din säd och att hämta den tillhopa till din loge?</verse>
+        <verse osisID='Job.39.16'>Strutshonans vingar flaxa med fröjd, men vad modersömhet visa väl hennes pennor, hennes fjädrar?</verse>
+        <verse osisID='Job.39.17'>Åt jorden överlåter hon ju sina ägg och ruvar dem ovanpå sanden.</verse>
+        <verse osisID='Job.39.18'>Hon bryr sig ej om att en fot kan krossa dem, att ett vilddjur kan trampa dem sönder.</verse>
+        <verse osisID='Job.39.19'>Hård är hon mot sin avkomma, såsom vore den ej hennes; att hennes avel kan gå under, det bekymrar henne ej.</verse>
+        <verse osisID='Job.39.20'>Ty Gud har gjort henne glömsk för vishet, han har ej tilldelat henne förstånd.</verse>
+        <verse osisID='Job.39.21'>Men när det gäller, piskar hon sig själv upp till språng; då ler hon åt både häst och man.</verse>
+        <verse osisID='Job.39.22'>Är det du som giver åt hästen hans styrka och kläder hans hals med brusande man?</verse>
+        <verse osisID='Job.39.23'>Är det du som lär honom gräshoppans språng? Hans stolta frustning, en förskräckelse är den!</verse>
+        <verse osisID='Job.39.24'>Han skrapar marken och fröjdar sig i sin kraft och rusar så fram mot väpnade skaror.</verse>
+        <verse osisID='Job.39.25'>Han ler åt fruktan och känner ej förfäran, han ryggar icke tillbaka för svärd.</verse>
+        <verse osisID='Job.39.26'>Omkring honom ljuder ett rassel av koger, av ljungande spjut och lans.</verse>
+        <verse osisID='Job.39.27'>Han skakas och rasar och uppslukar marken, han kan icke styra sig, när basunen har ljudit.</verse>
+        <verse osisID='Job.39.28'>För var basunstöt frustar han: Huj! Ännu i fjärran vädrar han striden, anförarnas rop och larmet av härskrin.</verse>
+        <verse osisID='Job.39.29'>Är det ett verk av ditt förstånd, att falken svingar sig upp och breder ut sina vingar till flykt mot söder?</verse>
+        <verse osisID='Job.39.30'>Eller är det på ditt bud som örnen stiger så högt och bygger sitt näste i höjden?</verse>
+        <verse osisID='Job.39.31'>På klippan bor han, där har han sitt tillhåll, på klippans spets och på branta berget.</verse>
+        <verse osisID='Job.39.32'>Därifrån spanar han efter sitt byte, långt bort i fjärran skådar hans ögon.</verse>
+        <verse osisID='Job.39.33'>Hans ungar frossa på blod, och där slagna ligga, där finner man honom.  Job, 40 Kapitlet  Herren manar Job ytterligare till ödmjukhet, med hänvisning på sina båda underskapelser Behemot (flodhästen) och Leviatan (krokodilen).</verse>
+        <verse osisID='Job.39.34'>Så svarade nu HERREN Job och sade:</verse>
+        <verse osisID='Job.39.35'>Vill du tvista med den Allsmäktige, du mästare? Svara då, du som så klagar på Gud!</verse>
+        <verse osisID='Job.39.36'>Job svarade HERREN och sade:</verse>
+        <verse osisID='Job.39.37'>Nej, därtill är jag för ringa; vad skulle jag svara dig? Jag måste lägga handen på munnen.</verse>
+        <verse osisID='Job.39.38'>En gång har jag talat, och nu säger jag intet mer; ja, två gånger, men jag gör det icke åter.</verse>
+      </chapter>
+      <chapter osisID='Job.40'>
+        <verse osisID='Job.40.1'>Och HERREN talade till Job ur stormvinden och sade:</verse>
+        <verse osisID='Job.40.2'>Omgjorda såsom en man dina länder; jag vill fråga dig, och du må giva mig besked.</verse>
+        <verse osisID='Job.40.3'>Vill du göra min rätt om intet och döma mig skyldig, för att själv stå såsom rättfärdig?</verse>
+        <verse osisID='Job.40.4'>Har du en sådan arm som Gud, och förmår du dundra med din röst såsom han?</verse>
+        <verse osisID='Job.40.5'>Pryd dig då med ära och höghet, kläd dig i majestät och härlighet.</verse>
+        <verse osisID='Job.40.6'>Gjut ut din vredes förgrymmelse, ödmjuka med en blick allt vad högt är.</verse>
+        <verse osisID='Job.40.7'>Ja, kuva med en blick allt vad högt är, slå ned de ogudaktiga på stället.</verse>
+        <verse osisID='Job.40.8'>Göm dem i stoftet allasammans, ja, fjättra deras ansikten i mörkret.</verse>
+        <verse osisID='Job.40.9'>Då vill jag prisa dig, också jag, för segern som din högra hand har berett dig.</verse>
+        <verse osisID='Job.40.10'>Se, Behemot, han är ju mitt verk såväl som du. Han lever av gräs såsom en oxe.</verse>
+        <verse osisID='Job.40.11'>Och se vilken kraft han äger i sina länder, vilken styrka han har i sin buks muskler.</verse>
+        <verse osisID='Job.40.12'>Han bär sin svans så styv som en ceder, ett konstrikt flätverk äro senorna i hans lår.</verse>
+        <verse osisID='Job.40.13'>Hans benpipor äro såsom rör av koppar, benen i hans kropp likna stänger av järn.</verse>
+        <verse osisID='Job.40.14'>Förstlingen är han av vad Gud har gjort; hans skapare själv har givit honom hans skära.</verse>
+        <verse osisID='Job.40.15'>Ty foder åt honom frambära bergen, där de vilda djuren alla hava sin lek.</verse>
+        <verse osisID='Job.40.16'>Under lotusträd lägger han sig ned, i skygdet av rör och vass.</verse>
+        <verse osisID='Job.40.17'>Lotusträd giva honom tak och skugga, pilträd hägna honom runt omkring.</verse>
+        <verse osisID='Job.40.18'>Är floden än så våldsam, så ängslas han dock icke; han är trygg, om ock en Jordan bryter fram mot hans gap.</verse>
+        <verse osisID='Job.40.19'>Vem kan fånga honom, när han är på sin vakt, vem borrar en snara genom hans nos?</verse>
+        <verse osisID='Job.40.20'>Kan du draga upp Leviatan med krok och med en metrev betvinga hans tunga?</verse>
+        <verse osisID='Job.40.21'>Kan du sätta en sävhank i hans nos eller borra en hake genom hans käft?</verse>
+        <verse osisID='Job.40.22'>Menar du att han skall slösa på dig många böner eller tala till dig med mjuka ord?</verse>
+        <verse osisID='Job.40.23'>Att han skall vilja sluta fördrag med dig, så att du finge honom till din träl för alltid?</verse>
+        <verse osisID='Job.40.24'>Kan du hava honom till leksak såsom en fågel och sätta honom i band åt dina tärnor?</verse>
+        <verse osisID='Job.40.25'>Pläga fiskarlag köpslå om honom och stycka ut hans kropp mellan krämare?</verse>
+        <verse osisID='Job.40.26'>Kan du skjuta hans hud full med spjut och hans huvud med fiskharpuner?</verse>
+        <verse osisID='Job.40.27'>Ja, försök att bära hand på honom du skall minnas den striden och skall ej föra så mer.</verse>
+        <verse osisID='Job.40.28'>Nej, den sådant vågar, hans hopp bliver sviket, han fälles till marken redan vid hans åsyn.</verse>
+      </chapter>
+      <chapter osisID='Job.41'>
+        <verse osisID='Job.41.1'>Så oförvägen är ingen, att han törs reta denne. Vem vågar då sätta sig upp mot mig själv?</verse>
+        <verse osisID='Job.41.2'>Vem har först givit mig något, som jag alltså bör betala igen? Mitt är ju allt vad som finnes under himmelen.</verse>
+        <verse osisID='Job.41.3'>Jag vill ej höra upp att tala om hans lemmar, om huru väldig han är, och huru härligt han är danad.</verse>
+        <verse osisID='Job.41.4'>Vem mäktar rycka av honom hans pansar? Vem vågar sig in mellan hans käkars par?</verse>
+        <verse osisID='Job.41.5'>Hans gaps dörrar, vem vill öppna dem? Runtom hans tänder bor ju förskräckelse.</verse>
+        <verse osisID='Job.41.6'>Stolta sitta på honom sköldarnas rader; hopslutna äro de med fast försegling.</verse>
+        <verse osisID='Job.41.7'>Tätt fogar sig den ena intill den andra, icke en vindfläkt tränger in mellan dem.</verse>
+        <verse osisID='Job.41.8'>Var och en håller ihop med den nästa, de gripa in i varandra och skiljas ej åt.</verse>
+        <verse osisID='Job.41.9'>När han fnyser, strålar det av ljus; hans blickar äro såsom morgonrodnadens ögonbryn.</verse>
+        <verse osisID='Job.41.10'>Bloss fara ut ur hans gap, eldgnistor springa fram därur.</verse>
+        <verse osisID='Job.41.11'>Från hans näsborrar utgår rök såsom ur en sjudande panna på bränslet.</verse>
+        <verse osisID='Job.41.12'>Hans andedräkt framgnistrar eldkol, och lågor bryta fram ur hans gap.</verse>
+        <verse osisID='Job.41.13'>På hans hals har kraften sin boning, och framför honom stapplar försagdhet.</verse>
+        <verse osisID='Job.41.14'>Själva det veka på hans buk är ett stadigt fogverk, det sitter orubbligt, såsom gjutet på honom.</verse>
+        <verse osisID='Job.41.15'>Hans hjärta är fast såsom sten, fast såsom bottenstenen i kvarnen.</verse>
+        <verse osisID='Job.41.16'>När han reser sig, bäva hjältar, av ångest mista de all sans.</verse>
+        <verse osisID='Job.41.17'>Angripes han med ett svärd, så håller det ej stånd, ej heller spjut eller pil eller pansar.</verse>
+        <verse osisID='Job.41.18'>Han aktar järn såsom halm och koppar såsom murket trä.</verse>
+        <verse osisID='Job.41.19'>Bågskott skrämma honom ej bort, slungstenar förvandlas för honom till strå;</verse>
+        <verse osisID='Job.41.20'>ja, stridsklubbor aktar han såsom strå, han ler åt rasslet av lansar.</verse>
+        <verse osisID='Job.41.21'>På sin buk bär han skarpa eggar, spår såsom av en tröskvagn ristar han i dyn.</verse>
+        <verse osisID='Job.41.22'>Han gör djupet sjudande som en gryta, likt en salvokokares kittel förvandlar han vattnet.</verse>
+        <verse osisID='Job.41.23'>Bakom honom strålar vägen av ljus, djupet synes bära silverhår.</verse>
+        <verse osisID='Job.41.24'>Ja, på jorden finnes intet som är honom likt, otillgänglig för fruktan skapades han.</verse>
+        <verse osisID='Job.41.25'>På allt vad högt är ser han med förakt, konung är han över alla stolta vilddjur.</verse>
+      </chapter>
+      <chapter osisID='Job.42'>
+        <verse osisID='Job.42.1'>Job svarade HERREN och sade:</verse>
+        <verse osisID='Job.42.2'>Ja, jag vet att du förmår allt, och att intet som du besluter är dig för svårt.</verse>
+        <verse osisID='Job.42.3'>Vem var då jag som i oförstånd gav vishet namn av mörker? Jag ordade ju om vad jag icke begrep, om det som var mig för underbart och det jag ej kunde förstå.</verse>
+        <verse osisID='Job.42.4'>Men hör nu, så vill jag tala; jag vill fråga dig, och du må giva mig besked.</verse>
+        <verse osisID='Job.42.5'>Blott hörsägner hade jag förnummit om dig, men nu har jag fått se dig med egna ögon.</verse>
+        <verse osisID='Job.42.6'>Därför tager jag det tillbaka och ångrar mig, i stoft och aska.</verse>
+        <verse osisID='Job.42.7'>Sedan HERREN hade talat så till Job, sade han till Elifas från Teman: »Min vrede är upptänd mot dig och dina båda vänner, därför att I icke haven talat om mig vad rätt är, såsom min tjänare Job har gjort.</verse>
+        <verse osisID='Job.42.8'>Så tagen eder nu sju tjurar och sju vädurar, och gån till min tjänare Job och offren dem såsom brännoffer för eder; ock låten min tjänare Job bedja för eder.  Till äventyrs skall jag då, av nåd mot honom, avstå från att göra något förskräckligt mot eder, till straff därför att I icke haven talat om mig vad rätt är, såsom min tjänare Job har gjort.»</verse>
+        <verse osisID='Job.42.9'>Då gingo Elifas från Teman, Bildad från Sua och Sofar från Naaman åstad och gjorde såsom HERREN hade tillsagt dem; och HERREN tog nådigt emot Jobs bön.</verse>
+        <verse osisID='Job.42.10'>Och då nu Job bad för sina vänner, upprättade HERREN åter honom själv; HERREN gav Job dubbelt igen mot vad han förut hade haft.</verse>
+        <verse osisID='Job.42.11'>Och alla hans bröder och systrar och alla hans forna bekanta kommo till honom och höllo måltid med honom i hans hus, och ömkade honom för alla de olyckor som HERREN hade låtit komma över honom.  Och de gåvo honom vardera en kesita och en guldring.</verse>
+        <verse osisID='Job.42.12'>Och HERREN välsignade slutet av Jobs levnad ännu mer än begynnelsen, så att han fick fjorton tusen får, sex tusen kameler, ett tusen par oxar och ett tusen åsninnor.</verse>
+        <verse osisID='Job.42.13'>Och han fick sju söner och tre döttrar.</verse>
+        <verse osisID='Job.42.14'>Den första dottern kallade han Jemima, den andra Kesia och den tredje Keren-Happuk.</verse>
+        <verse osisID='Job.42.15'>Och så sköna kvinnor som Jobs döttrar funnos icke i hela landet; och deras fader gav dem arvedel bland deras bröder.</verse>
+        <verse osisID='Job.42.16'>Och Job levde därefter ett hundra fyrtio år, och fick se sina barn och barnbarn i fyra led.</verse>
+        <verse osisID='Job.42.17'>Sedan dog Job, gammal och mätt på att leva.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

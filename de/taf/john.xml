@@ -1,0 +1,1043 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <osisText osisRefWork='Bible' osisIDWork='TAF' xml:lang='de'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='TAF'>
+        <title>Tafelbibel</title>
+        <contributor>Martin</contributor>
+        <creator>Jens Grabner</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject>holy bible</subject>
+        <date>2009-01-20</date>
+        <description>Die Bibel - Übersetzung von Johann Friedrich Leonhard Tafel
+
+      Die vorliegende Neuausgabe ist eine Abschrift der Übersetzung von Dr. Leonhard
+      Tafel, revidiert von Ludwig H. Tafel, dritte Ausgabe 1911, und wurde auf ihre
+      Vollständigkeit überprüft. Es wurde die Rechtschreibregel der heutigen Zeit (noch
+      vor der Rechtschreibreform 1998) angewendet, ohne den Stil der Sprache zu verändern.
+
+      Wer in dieser Bibel einige Bücher vermisst, sei auf das Vorwort der Source verwiesen.
+      Auf der zweiten Seite steht dort:
+      Der zweite Band enthält die übrigen, sogenannten
+      Hagiographen oder heiligen Bücher: die Bücher Hiob, Sprichwörter, Hohelied, Prediger, Ruth, Chronika, Esra,
+      Nehemia, Esther und die Apokryphen.²
+      2. Gegenwärtige, Revision des Zefania XML Moduls  enthält die Hagiographen und Apokryphen nicht, da
+      sie nicht verfügbar waren.</description>
+        <publisher>FREE BIBLE SOFTWARE GROUP</publisher>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>TAF</identifier>
+        <source>http://www.ubf-dortmund.de/bibel/tafel.htm</source>
+        <language type='IETF'>de</language>
+        <relation/>
+        <coverage>provide the bible to the world</coverage>
+        <rights>Mit freundlicher Genehmigung des Swedenborg Verlag Postfach 1205 CH - 8032 Zürich</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='John'>
+      <chapter osisID='John.1'>
+        <title>Evangelium des Johannes</title>
+        <title>Das Wort. Johannes der Täufer. - Erste Jünger Jesu.</title>
+        <verse osisID='John.1.1'>Im Anfang war das Wort, und das Wort war bei Gott und Gott war das Wort.</verse>
+        <verse osisID='John.1.2'>Dasselbe war im Anfang bei Gott.</verse>
+        <verse osisID='John.1.3'>Alles ist durch dasselbe geworden, und ohne dasselbe ist nichts geworden, das geworden ist.</verse>
+        <verse osisID='John.1.4'>In Ihm war Leben, und das Leben war das Licht der Menschen.</verse>
+        <verse osisID='John.1.5'>Und das Licht scheint in der Finsternis, und die Finsternis hat es nicht begriffen.</verse>
+        <verse osisID='John.1.6'>Es ward ein Mensch von Gott gesandt, mit Namen Johannes.</verse>
+        <verse osisID='John.1.7'>Derselbe kam zum Zeugnis, daß er von dem Lichte zeugete, auf daß alle durch ihn glaubten.</verse>
+        <verse osisID='John.1.8'>Er war nicht das Licht, sondern sollte zeugen von dem Licht.</verse>
+        <verse osisID='John.1.9'>Das war das wahrhaftige Licht, das jeden Menschen erleuchtet, der in die Welt kommt.</verse>
+        <verse osisID='John.1.10'>Er war in der Welt, und die Welt ist durch Ihn geworden, aber die Welt erkannte Ihn nicht.</verse>
+        <verse osisID='John.1.11'>Er kam in Sein Eigenes, aber die Eigenen nahmen Ihn nicht auf.</verse>
+        <verse osisID='John.1.12'>Wie viele Ihn aber aufnahmen, denen gab Er Gewalt, Gottes Kinder zu werden, denen, die an Seinen Namen glauben;</verse>
+        <verse osisID='John.1.13'>Welche nicht aus dem Geblüt, noch aus dem Willen des Fleisches, noch aus dem Willen eines Mannes, sondern aus Gott geboren sind.</verse>
+        <verse osisID='John.1.14'>Und das Wort ward Fleisch, und wohnte<note>zeltete</note> unter uns, und wir schauten Seine Herrlichkeit, eine Herrlichkeit als des Eingeborenen vom Vater, voller Gnade und Wahrheit.</verse>
+        <verse osisID='John.1.15'>Johannes zeugt von Ihm, ruft und spricht: Dieser war es, von Dem ich sagte: Der nach mir kommt, ist vor mir gewesen; denn Er war eher, denn ich.</verse>
+        <verse osisID='John.1.16'>Und aus Seiner Fülle haben wir alle genommen, und Gnade um Gnade.</verse>
+        <verse osisID='John.1.17'>Denn das Gesetz ist durch Moses gegeben, die Gnade und Wahrheit durch Jesus Christus geworden.</verse>
+        <verse osisID='John.1.18'>Niemand hat Gott je gesehen; der eingeborene Sohn, Der in des Vaters Schoße<note>Busen</note> ist, Der hat Ihn kundgemacht.</verse>
+        <verse osisID='John.1.19'>Und dies ist das Zeugnis des Johannes, als die Juden aus Jerusalem Priester und Leviten absandten, daß sie ihn fragten: Wer bist du?</verse>
+        <verse osisID='John.1.20'>Und er bekannte und leugnete nicht, und er bekannte: Ich bin nicht der Christus.</verse>
+        <verse osisID='John.1.21'>Und sie fragten ihn: Was denn? Bist du Elias? Und er spricht: Ich bin es nicht. Bist du der Prophet? Und er antwortete: Nein.</verse>
+        <verse osisID='John.1.22'>Da sprachen sie zu ihm: Wer bist du? auf daß wir Antwort geben denen, die uns geschickt haben. Was sagst du von dir selbst?</verse>
+        <verse osisID='John.1.23'>Er sprach: Ich bin die Stimme eines, der da ruft in der Wüste: Machet gerade den Weg des Herrn, wie Jesajah, der Prophet, gesagt hat.</verse>
+        <verse osisID='John.1.24'>Und die Abgesandten waren von den Pharisäern.</verse>
+        <verse osisID='John.1.25'>Und sie fragten ihn und sagten zu ihm: Was taufst du dann, wenn du nicht Christus bist, noch Elias, noch der Prophet?</verse>
+        <verse osisID='John.1.26'>Johannes antwortete ihnen und sprach: Ich taufe mit Wasser, aber in eurer Mitte steht Einer, Den ihr nicht kennt.</verse>
+        <verse osisID='John.1.27'>Er ist es, Der nach mir kommt, Welcher vor mir gewesen ist, Dem ich nicht wert bin, die Schuhriemen zu lösen.</verse>
+        <verse osisID='John.1.28'>Dies geschah in Bethanien, jenseits des Jordan, wo Johannes taufte.</verse>
+        <verse osisID='John.1.29'>Am folgenden Tag sieht Johannes Jesu zu ihm kommen und spricht: Siehe, das Lamm Gottes, das der Welt Sünde wegnimmt.</verse>
+        <verse osisID='John.1.30'>Dieser ist es, von Dem ich gesagt habe: Nach mir kommt ein Mann, Der vor mir gewesen ist; denn Er war eher denn ich.</verse>
+        <verse osisID='John.1.31'>Und ich kannte Ihn nicht; aber damit Er Israel offenbar würde, darum bin ich gekommen, mit dem Wasser zu taufen.</verse>
+        <verse osisID='John.1.32'>Und Johannes zeugte und sprach: Ich sah<note>sah an</note> den Geist wie eine Taube herabfahren vom Himmel, und er blieb auf Ihm.</verse>
+        <verse osisID='John.1.33'>Und ich kannte ihn nicht; aber Der mich schickte, zu taufen mit Wasser, Derselbe sprach zu mir: Auf wen du siehst den Geist herabfahren und auf Ihm bleiben, Derselbige ist es, Der mit dem Heiligen Geist tauft.</verse>
+        <verse osisID='John.1.34'>Und ich habe es gesehen und bezeugt, daß Dieser ist der Sohn Gottes.</verse>
+        <verse osisID='John.1.35'>Des folgenden Tages stand Johannes wiederum da, und zwei von seinen Jüngern.</verse>
+        <verse osisID='John.1.36'>Und wie er Jesus wandeln sah<note>erblickte</note>, spricht er: Siehe, das Lamm Gottes!</verse>
+        <verse osisID='John.1.37'>Und die zwei Jünger hörten ihn reden und folgten Jesus nach.</verse>
+        <verse osisID='John.1.38'>Jesus aber wandte Sich um und sah<note>sah an</note> sie Sich nachfolgen und sprach zu ihnen: Was sucht ihr? Sie aber sprachen zu Ihm: Rabbi, das ist verdolmetscht Lehrer. Wo verbleibst Du?</verse>
+        <verse osisID='John.1.39'>Er spricht zu ihnen: Kommt und seht. Sie kamen und sahen, wo Er verblieb, und blieben selbigen Tag bei Ihm; es war um die zehnte Stunde<note>d.i. vier Uhr nachmittags</note>.</verse>
+        <verse osisID='John.1.40'>Andreas, der Bruder des Simon Petrus, war einer von den zweien, die es von Johannes hörten und Ihm nachfolgten.</verse>
+        <verse osisID='John.1.41'>Dieser findet am ersten seinen eigenen Bruder Simon und spricht zu ihm: Wir haben den Messias welches ist verdolmetscht, der Christus<note>d.h. der Gesalbte</note> gefunden.</verse>
+        <verse osisID='John.1.42'>Und er führte ihn zu Jesus. Jesus aber blickte ihn an und sprach: Du bist Simon, Jonahs Sohn, du sollst Kephas heißen, was verdolmetscht ist: Petrus<note>d.h. Fels</note>.</verse>
+        <verse osisID='John.1.43'>Am folgenden Tage wollte Er nach Galiläa ausziehen; und Er findet Philippus, und Jesus spricht zu ihm: Folge Mir nach!</verse>
+        <verse osisID='John.1.44'>Philippus aber war von Bethsaida, aus der Stadt des Andreas und Petrus.</verse>
+        <verse osisID='John.1.45'>Philippus findet Nathanael und spricht zu ihm: Wir haben Den gefunden, von Dem Moses im Gesetz und die Propheten geschrieben, Jesus, Josephs Sohn von Nazareth.</verse>
+        <verse osisID='John.1.46'>Und Nathanael sprach zu ihm: Kann aus Nazareth etwas Gutes sein? Spricht zu ihm Philippus: Komm und siehe!</verse>
+        <verse osisID='John.1.47'>Jesus sieht Nathanael zu Ihm kommen und spricht zu ihm: Siehe da, wahrhaftig ein Israelite, in dem kein Trug ist.</verse>
+        <verse osisID='John.1.48'>Nathanael spricht zu Ihm: Woher erkennst Du mich? Jesus antwortete und sprach zu ihm: Ehe dir Philippus rief, da du unter dem Feigenbaum warst, sah Ich dich.</verse>
+        <verse osisID='John.1.49'>Nathanael antwortete und sprach zu Ihm: Rabbi, Du bist Gottes Sohn, Du bist der König von Israel.</verse>
+        <verse osisID='John.1.50'>Jesus antwortete und sprach zu ihm: Weil Ich dir sagte, Ich sah dich unter dem Feigenbaum, glaubst du? Du wirst Größeres, denn dieses sehen.</verse>
+        <verse osisID='John.1.51'>Und Er spricht zu ihm: Wahrlich, wahrlich, Ich sage euch: Von nun an werdet ihr sehen den Himmel aufgetan und die Engel Gottes aufsteigen und herabsteigen auf des Menschen Sohn.</verse>
+      </chapter>
+      <chapter osisID='John.2'>
+        <title>Hochzeit in Kana. Tempelreinigung.</title>
+        <verse osisID='John.2.1'>Und am dritten Tage war eine Hochzeit zu Kana in Galiläa; und die Mutter Jesu war daselbst.</verse>
+        <verse osisID='John.2.2'>Aber auch Jesus und Seiner Jünger waren auf die Hochzeit geladen<note>gerufen</note>.</verse>
+        <verse osisID='John.2.3'>Und da es an Wein mangelte, spricht die Mutter Jesu zu Ihm: Sie haben keinen Wein.</verse>
+        <verse osisID='John.2.4'>Spricht zu ihr Jesus: Weib, was ist Mein und dein<note>Was Mir und dir</note>? Meine Stunde ist noch nicht gekommen.</verse>
+        <verse osisID='John.2.5'>Spricht Seine Mutter zu den Dienern: Was Er euch sagt, das tut.</verse>
+        <verse osisID='John.2.6'>Es waren aber allda sechs steinerne Wasserkrüge gesetzt<note>liegend</note> für die Reinigung der Juden, von denen jeder zwei oder drei Eimer faßte.</verse>
+        <verse osisID='John.2.7'>Jesus spricht zu ihnen: Machet die Wasserkrüge voll mit Wasser! Und sie machten sie voll bis oben an.</verse>
+        <verse osisID='John.2.8'>Und Er spricht zu ihnen: Schöpft nun und bringt es dem Speisemeister<note>Oberster des Tisches</note>. Und sie brachten es.</verse>
+        <verse osisID='John.2.9'>Wie aber der Speisemeister<note>Oberster des Tisches</note> das Wasser, das Wein geworden, kostete und er wußte nicht, woher er war; die Diener aber, die das Wasser geschöpft hatten, wußten es, ruft der Speisemeister<note>Oberster des Tisches</note> den Bräutigam,</verse>
+        <verse osisID='John.2.10'>Und spricht zu ihm: Jedermann setzt zuerst den guten<note>schönen</note> Wein vor, und wenn sie wohl getrunken haben<note>sind trunken worden</note>, dann den geringeren; du hast den guten<note>schönen</note> Wein bis jetzt behalten.</verse>
+        <verse osisID='John.2.11'>Diesen Anfang Seiner Zeichen tat Jesus zu Kana in Galiläa und offenbarte Seine Herrlichkeit. Und Seine Jünger glaubten an Ihn.</verse>
+        <verse osisID='John.2.12'>Nach diesem zog Er hinab gen Kapernaum, Er und Seine Mutter und Seine Brüder und Seine Jünger, und sie blieben allda nicht viele Tage.</verse>
+        <verse osisID='John.2.13'>Und der Juden Pascha war nahe, und Jesus zog hinauf nach Jerusalem;</verse>
+        <verse osisID='John.2.14'>Und fand im Heiligtum, die da Ochsen und Schafe und Tauben verkauften, und die Wechsler sitzen.</verse>
+        <verse osisID='John.2.15'>Und Er machte eine Geißel aus Stricken und trieb alle hinaus aus dem Heiligtum, und auch die Schafe und Ochsen, und verschüttete den Geldwechslern die Münze, und stieß<note>kehrte um</note> die Tische um.</verse>
+        <verse osisID='John.2.16'>Und zu den Verkäufern der Tauben sprach Er: Nehmt diese von dannen, und macht nicht Meines Vaters Haus zum Haus des Handels.</verse>
+        <verse osisID='John.2.17'>Seine Jünger aber gedachten daran, daß geschrieben ist: Der Eifer um Dein Haus verzehret Mich<note>ißt Mich auf</note>.</verse>
+        <verse osisID='John.2.18'>Die Juden antworteten nun und sprachen zu Ihm: Was für ein Zeichen zeigst Du uns, daß Du solches tust?</verse>
+        <verse osisID='John.2.19'>Jesus antwortete und sprach zu ihnen: Brechet<note>Löset</note> diesen Tempel ab, und in drei Tagen will Ich ihn aufrichten.</verse>
+        <verse osisID='John.2.20'>Da sprachen die Juden: Sechsundvierzig Jahre sind an diesem Tempel gebaut worden, und Du willst ihn in drei Tagen aufrichten?</verse>
+        <verse osisID='John.2.21'>Er aber sprach vom Tempel Seines Leibes.</verse>
+        <verse osisID='John.2.22'>Als Er dann von den Toten auferweckt war, gedachten Seine Jünger daran, daß Er solches gesagt hatte, und sie glaubten der Schrift und dem Worte, das Jesus sprach.</verse>
+        <verse osisID='John.2.23'>Da Er aber zu Jerusalem war am Pascha auf dem Feste, glaubten viele an Seinen Namen, da sie die Zeichen schauten, die Er tat.</verse>
+        <verse osisID='John.2.24'>Er aber, Jesus, vertraute Sich ihnen nicht, weil Er alle erkannte;</verse>
+        <verse osisID='John.2.25'>Und weil Er nicht bedurfte, daß jemand zeugte von dem Menschen; denn Er erkannte Selbst, was im Menschen war.</verse>
+      </chapter>
+      <chapter osisID='John.3'>
+        <title>Nikodemus. - Johannes der Täufer weist auf Jesus.</title>
+        <verse osisID='John.3.1'>Es war aber ein Mensch aus den Pharisäern, mit Namen Nikodemus, ein Oberster der Juden.</verse>
+        <verse osisID='John.3.2'>Dieser kam zu Ihm bei Nacht und sprach zu Ihm: Rabbi, wir wissen, daß Du ein Lehrer bist, von Gott gekommen; denn niemand kann solche Zeichen tun, die Du tust, es sei denn Gott mit ihm.</verse>
+        <verse osisID='John.3.3'>Jesus antwortete und sprach zu ihm: Wahrlich, wahrlich, Ich sage dir: Es sei denn, daß jemand von neuem geboren werde, so kann er das Reich Gottes nicht sehen.</verse>
+        <verse osisID='John.3.4'>Nikodemus spricht zu Ihm: Wie kann ein Mensch geboren werden, wenn er ein Greis ist? Kann er zum zweiten Mal in seiner Mutter Leib eingehen und geboren werden?</verse>
+        <verse osisID='John.3.5'>Jesus antwortete: Wahrlich, wahrlich, Ich sage dir: Es sei denn, daß jemand aus Wasser und Geist geboren werde, so kann er nicht in das Reich Gottes eingehen.</verse>
+        <verse osisID='John.3.6'>Was aus dem Fleisch geboren ist, ist Fleisch; und was aus dem Geist geboren ist, ist Geist.</verse>
+        <verse osisID='John.3.7'>Verwundere dich nicht, daß Ich zur dir gesagt habe: Ihr müsset von neuem geboren werden.</verse>
+        <verse osisID='John.3.8'>Der Wind<note>Geist</note> weht, wo er will, und du hörst seine Stimme, weißt aber nicht, von wannen er kommt, und wohin er geht. Also ist ein jeglicher, der aus dem Geist geboren ist.</verse>
+        <verse osisID='John.3.9'>Nikodemus antwortete und sprach zu Ihm: Wie kann solches geschehen?</verse>
+        <verse osisID='John.3.10'>Jesus antwortete und sprach zu ihm: Bist du ein Lehrer Israels, und erkennst das nicht?</verse>
+        <verse osisID='John.3.11'>Wahrlich, wahrlich, Ich sage dir: Wir reden, was wir wissen, und zeugen, das wir gesehen haben, und ihr nehmt unser Zeugnis nicht an.</verse>
+        <verse osisID='John.3.12'>Wenn Ich vom Irdischen zu euch sprach, und ihr glaubt nicht, wie werdet ihr glauben, wenn Ich euch von Himmlischem<note>Überhimmlischen</note> sagen würde.</verse>
+        <verse osisID='John.3.13'>Und niemand ist in den Himmel aufgestiegen, außer Der, so aus dem Himmel herabgestiegen ist, des Menschen Sohn, Der in dem Himmel ist.</verse>
+        <verse osisID='John.3.14'>Und wie Moses in der Wüste die Schlange erhöhte, also muß des Menschen Sohn erhöht werden,</verse>
+        <verse osisID='John.3.15'>Auf daß jeder, der an Ihn glaubt, nicht verloren werde, sondern das ewige Leben habe.</verse>
+        <verse osisID='John.3.16'>Denn also hat Gott die Welt geliebt, daß Er Seinen eingeborenen Sohn gab, auf daß jeder, der an Ihn glaubt, nicht verloren werde, sondern das ewige Leben habe.</verse>
+        <verse osisID='John.3.17'>Denn Gott hat Seinen Sohn nicht in die Welt gesandt, daß Er die Welt richte, sondern daß die Welt durch Ihn gerettet werde.</verse>
+        <verse osisID='John.3.18'>Wer an Ihn glaubt, wird nicht gerichtet; wer aber nicht glaubt, ist schon gerichtet, weil er nicht geglaubt hat an den Namen des eingeborenen Sohnes Gottes.</verse>
+        <verse osisID='John.3.19'>Das ist aber das Gericht, daß das Licht in die Welt gekommen ist und die Menschen die Finsternis mehr liebten, denn das Licht; denn ihre Werke waren schlecht.</verse>
+        <verse osisID='John.3.20'>Denn jeder, der Arges tut, haßt das Licht und kommt nicht zum Licht, auf daß seine Werke nicht gerügt werden.</verse>
+        <verse osisID='John.3.21'>Wer aber die Wahrheit tut, der kommt zum Licht, damit seine Werke offenbar werden, weil sie in Gott gewirkt sind.</verse>
+        <verse osisID='John.3.22'>Danach kam Jesus und Seine Jünger in das jüdische Land und verweilte daselbst mit ihnen und taufte.</verse>
+        <verse osisID='John.3.23'>Johannes aber taufte auch zu Enon, nahe bei Salim, weil viel Wasser daselbst war; und sie traten herzu und ließen sich taufen.</verse>
+        <verse osisID='John.3.24'>Denn Johannes war noch nicht ins Gefängnis geworfen.</verse>
+        <verse osisID='John.3.25'>Es ward nun eine Streitfrage von den Jüngern des Johannes mit den Juden über Reinigung;</verse>
+        <verse osisID='John.3.26'>Und sie kamen zu Johannes und sagten zu ihm: Rabbi, Der mit dir jenseits des Jordan war, für Den du zeugtest, siehe, Der tauft und alle kommen zu Ihm.</verse>
+        <verse osisID='John.3.27'>Johannes antwortete und sprach: Der Mensch kann nichts nehmen, es werde ihm denn aus dem Himmel gegeben.</verse>
+        <verse osisID='John.3.28'>Ihr selbst seid mir Zeugen, daß ich gesagt habe: Ich bin nicht Christus, sondern vor Ihm hergesandt.</verse>
+        <verse osisID='John.3.29'>Wer die Braut hat, ist Bräutigam; der Freund des Bräutigams aber, der dasteht und ihn hört, freut sich mit Freude ob der Stimme des Bräutigams. Diese meine Freude ist nun erfüllt.</verse>
+        <verse osisID='John.3.30'>Er muß wachsen, ich aber muß abnehmen<note>geringer werden</note>.</verse>
+        <verse osisID='John.3.31'>Der von oben kommt, ist über alle. Wer von der Erde ist, der ist aus der Erde und redet aus der Erde. Der aus dem Himmel kommt, ist über alle.</verse>
+        <verse osisID='John.3.32'>Und was Er gesehen und gehört hat, davon zeugt Er; und Sein Zeugnis nimmt niemand an.</verse>
+        <verse osisID='John.3.33'>Wer Sein Zeugnis annimmt, der hat besiegelt, daß Gott wahrhaftig ist.</verse>
+        <verse osisID='John.3.34'>Denn Der, Den Gott gesandt hat, redet die Reden Gottes; denn Gott gibt Ihm den Geist nicht nach Maß.</verse>
+        <verse osisID='John.3.35'>Der Vater liebt den Sohn und hat alles in Seine Hand gegeben.</verse>
+        <verse osisID='John.3.36'>Wer an den Sohn glaubt, hat ewiges Leben; wer aber nicht an den Sohn glaubt, der wird das Leben nicht sehen; sondern der Zorn Gottes bleibt auf ihm.</verse>
+      </chapter>
+      <chapter osisID='John.4'>
+        <title>Die Samariterin. Heilung eines Kranken.</title>
+        <verse osisID='John.4.1'>Da nun der Herr erkannte, daß die Pharisäer gehört hatten, daß Jesus mehr Jünger mache und taufe, denn Johannes -</verse>
+        <verse osisID='John.4.2'>Obwohl Jesus Selber nicht taufte, sondern Seine Jünger -</verse>
+        <verse osisID='John.4.3'>Verließ Er Judäa und ging wieder hin nach Galiläa.</verse>
+        <verse osisID='John.4.4'>Er mußte aber durch Samarien durchziehen.</verse>
+        <verse osisID='John.4.5'>Er kam nun in eine Stadt von Samarien, genannt Sychar, nahe bei dem Grundstück, das Jakob seinem Sohne Joseph gegeben hatte.</verse>
+        <verse osisID='John.4.6'>Es war aber daselbst Jakobs Quelle. Jesus nun, also müde von der Reise, setzte Sich an die Quelle. Es war um die sechste Stunde.</verse>
+        <verse osisID='John.4.7'>Da kommt ein Weib aus Samaria, Wasser zu schöpfen. Jesus spricht zu ihr: Gib Mir zu trinken;</verse>
+        <verse osisID='John.4.8'>Denn Seine Jünger waren in die Stadt weggegangen, um Nahrung zu kaufen.</verse>
+        <verse osisID='John.4.9'>Spricht nun das samaritische Weib zu Ihm: Wie bittest Du, Der Du ein Jude bist, von mir, die ich ein samaritisch Weib bin, zu trinken? Denn die Juden haben keinen Verkehr mit den Samaritern.</verse>
+        <verse osisID='John.4.10'>Jesus antwortete und sprach zu ihr: Wenn du wüßtest die Gabe Gottes, und wer Der ist, Der zu dir sagt: Gib Mir zu trinken - du hättest Ihn gebeten, und Er hätte dir lebendiges Wasser gegeben.</verse>
+        <verse osisID='John.4.11'>Sagt das Weib zu Ihm: Herr, Du hast nichts zum Schöpfen, und der Brunnen ist tief. Woher hast Du dann das lebendige Wasser?</verse>
+        <verse osisID='John.4.12'>Bist du größer denn unser Vater Jakob, der uns den Brunnen gab, und selbst daraus trank, er und seine Söhne und sein Vieh<note>seine Ernährten</note>?</verse>
+        <verse osisID='John.4.13'>Jesus antwortete und sprach zu ihr: Jeden, der von diesem Wasser trinkt, wird wieder dürsten.</verse>
+        <verse osisID='John.4.14'>Wer aber von dem Wasser trinkt, das Ich ihm geben werde, den wird nicht dürsten in Ewigkeit; sondern das Wasser, das Ich ihm geben werde, wird in ihm eine Quelle Wassers werden, das ins ewige Leben quillt.</verse>
+        <verse osisID='John.4.15'>Spricht zu Ihm das Weib: Herr, gib mir dieses Wasser, auf daß mich nicht dürste, und ich nicht hierher kommen müsse zu schöpfen.</verse>
+        <verse osisID='John.4.16'>Spricht zu ihr Jesus: Gehe hin, rufe deinen Mann und komme her!</verse>
+        <verse osisID='John.4.17'>Das Weib antwortete und sprach: Ich habe keinen Mann. Spricht Jesus zu ihr: Du hast gut<note>schön</note> gesagt: Ich habe keinen Mann.</verse>
+        <verse osisID='John.4.18'>Denn fünf Männer hast du gehabt; und der, den du jetzt hast, ist nicht dein Mann. Das hast du wahr gesagt.</verse>
+        <verse osisID='John.4.19'>Spricht das Weib zu Ihm: Herr, ich schaue, daß Du ein Prophet bist.</verse>
+        <verse osisID='John.4.20'>Unsere Väter haben auf diesem Berge angebetet; und ihr sagt, Jerusalem sei der Ort, da man anbeten müsse.</verse>
+        <verse osisID='John.4.21'>Spricht Jesus zu ihr: Weib, glaube Mir, es kommt eine Stunde, da ihr weder auf diesem Berge, noch in Jerusalem den Vater anbeten werdet.</verse>
+        <verse osisID='John.4.22'>Ihr betet an, was ihr nicht wisset, wir beten an, was wir wissen; denn das Heil ist aus den Juden.</verse>
+        <verse osisID='John.4.23'>Aber es kommt die Stunde und ist jetzt, daß die wahren Anbeter den Vater im Geist und in der Wahrheit anbeten werden; denn auch der Vater sucht solche, die Ihn also anbeten.</verse>
+        <verse osisID='John.4.24'>Gott ist ein Geist; und die Ihn anbeten, müssen Ihn im Geist und in der Wahrheit anbeten.</verse>
+        <verse osisID='John.4.25'>Spricht zu Ihm das Weib: Ich weiß, daß der Messias kommt, Den man Christus nennt. Wenn Selbiger kommt, wird Er uns alles ansagen.</verse>
+        <verse osisID='John.4.26'>Jesus spricht zu ihr: Ich bin es, Der mit dir redet.</verse>
+        <verse osisID='John.4.27'>Und über dem kamen Seine Jünger und waren verwundert, daß Er mit einem Weibe redete. Keiner jedoch sagte: Was suchst Du? ober: Warum redest Du mit ihr?</verse>
+        <verse osisID='John.4.28'>Das Weib ließ denn ihren Wasserkrug und kam hin in die Stadt und sagte zu den Menschen:</verse>
+        <verse osisID='John.4.29'>Kommet, sehet einen Menschen, Der mir alles gesagt hat, was ich getan habe. Ob Dieser nicht der Christus ist?</verse>
+        <verse osisID='John.4.30'>Und sie gingen hinaus aus der Stadt und kamen zu Ihm.</verse>
+        <verse osisID='John.4.31'>In der Zwischenzeit aber baten<note>fragten</note> Ihn die Jünger und sprachen: Rabbi, iß!</verse>
+        <verse osisID='John.4.32'>Er aber sprach zu ihnen: Ich habe eine Speise zu essen, die ihr nicht wisset.</verse>
+        <verse osisID='John.4.33'>Da sprachen Seine Jünger untereinander: Hat ihm jemand zu essen gebracht?</verse>
+        <verse osisID='John.4.34'>Jesus spricht zu ihnen: Meine Speise ist, daß Ich den Willen tue Dessen, Der Mich gesandt hat, und Sein Werk vollbringe.</verse>
+        <verse osisID='John.4.35'>Saget ihr nicht, daß es noch vier Monate sind, bis<note>und</note> die Ernte kommt? Siehe, Ich sage euch: Hebet eure Augen auf und sehet die Äcker an, wie sie schon weiß zur Ernte sind.</verse>
+        <verse osisID='John.4.36'>Und wer da erntet, empfängt Lohn und sammelt Frucht zum ewigen Leben, auf daß sich miteinander freuen, der da säet und der da erntet.</verse>
+        <verse osisID='John.4.37'>Denn hierin ist das Wort wahr: Ein anderer ist es, der sät, und ein anderer, der erntet.</verse>
+        <verse osisID='John.4.38'>Ich habe euch gesandt, zu ernten, womit ihr euch nicht abgemüht habt. Andere haben sich abgemüht, und ihr seid in ihre Arbeit<note>Mühe</note> eingetreten.</verse>
+        <verse osisID='John.4.39'>Aus jener Stadt aber glaubten viele der Samariter an Ihn wegen des Wortes des Weibes, das da zeugte: Er hat mir alles gesagt, was ich getan habe.</verse>
+        <verse osisID='John.4.40'>Wie nun die Samariter zu Ihm kamen, baten<note>fragten</note> sie Ihn, bei ihnen zu bleiben, und Er blieb zwei Tage daselbst.</verse>
+        <verse osisID='John.4.41'>Und viel mehr glaubten um Seines Wortes willen.</verse>
+        <verse osisID='John.4.42'>Und sagten zu dem Weibe: Wir glauben nicht mehr wegen deiner Rede; denn wir selbst haben gehört und wissen, daß Dieser wahrlich ist der Welt Heiland, Christus.</verse>
+        <verse osisID='John.4.43'>Aber nach zwei Tagen zog Er aus von dannen und kam hin nach Galiläa.</verse>
+        <verse osisID='John.4.44'>Denn Jesus Selbst zeugte, daß ein Prophet in seiner eigenen Vaterstadt keine Ehre hat.</verse>
+        <verse osisID='John.4.45'>Als Er nun nach Galiläa kam, nahmen Ihn die Galiläer auf, da sie alles gesehen hatten, was Er zu Jerusalem an dem Feste getan hatte; denn auch sie waren zum Feste gekommen.</verse>
+        <verse osisID='John.4.46'>Er kam nun wieder nach Kana in Galiläa, wo Er das Wasser zu Wein gemacht hatte; und es war daselbst ein Königlicher, dessen Sohn krank war in Kapernaum.</verse>
+        <verse osisID='John.4.47'>Als dieser hörte, daß Jesus aus Judäa nach Galiläa gekommen sei, ging er hin zu Ihm und bat<note>fragte</note> Ihn, Er möchte hinabkommen und seinen Sohn gesund machen; denn er war am Sterben.</verse>
+        <verse osisID='John.4.48'>Da sprach Jesus zu ihm: Wenn ihr nicht Zeichen und Wunder seht, glaubt ihr nicht.</verse>
+        <verse osisID='John.4.49'>Spricht zu Ihm der Königliche: Herr, komme hinab, ehe denn mein Knäblein stirbt.</verse>
+        <verse osisID='John.4.50'>Spricht Jesus zu ihm: Ziehe hin, dein Sohn lebt. Und der Mensch glaubte dem Worte, das Jesus zu ihm sprach, und zog hin.</verse>
+        <verse osisID='John.4.51'>Und wie er schon hinabging, kamen ihm seine Knechte entgegen und sagten ihm an und sprachen: Dein Knabe lebt.</verse>
+        <verse osisID='John.4.52'>Er erfragte nun von ihnen die Stunde, da es besser mit ihm wurde. Und sie sagten zu ihm: Gestern zur siebenten Stunde verließ ihn das Fieber.</verse>
+        <verse osisID='John.4.53'>Da erkannte der Vater, daß es um dieselbe Stunde war, da Jesus zu ihm sprach: Dein Sohn lebt! und er glaubte und sein ganzes Haus.</verse>
+        <verse osisID='John.4.54'>Dies ist wiederum das zweite Zeichen, das Jesus tat, da Er aus Judäa nach Galiläa kam.</verse>
+      </chapter>
+      <chapter osisID='John.5'>
+        <title>Jesus heilt am Teich Bethesda. - Seine Gottheit.</title>
+        <verse osisID='John.5.1'>Danach war ein Fest der Juden, und Jesus zog hinauf nach Jerusalem.</verse>
+        <verse osisID='John.5.2'>Es ist aber in Jerusalem beim Schaftor ein Teich, auf Hebräisch mit Zunamen Bethesda<note>d.h. Haus der Barmherzigkeit</note>, der fünf Hallen hatte.</verse>
+        <verse osisID='John.5.3'>In diesen lag danieder eine große<note>viele</note> Menge Kranker, Blinder, Lahme, Abgezehrter<note>Verdorrter</note>; die warteten auf die Bewegung des Wassers.</verse>
+        <verse osisID='John.5.4'>Denn zur bestimmten Zeit stieg ein Engel hinab in den Teich und bewegte<note>erschütterte</note> das Wasser. Der erste nun, der nach der Bewegung<note>Erschütterung</note> des Wassers hineinstieg, ward gesund, mit welcherlei Krankheit er auch behaftet war.</verse>
+        <verse osisID='John.5.5'>Es war aber ein Mensch daselbst, der achtunddreißig Jahre ein Gebrechen hatte.</verse>
+        <verse osisID='John.5.6'>Da Jesus diesen daniederliegen sah, und erkannte, daß er schon viele Zeit so war, spricht Er zu ihm: Willst du gesund werden?</verse>
+        <verse osisID='John.5.7'>Der Kranke antwortete Ihm: Herr, ich habe keinen Menschen, der mich, wenn das Wasser bewegt<note>erschüttert</note> wird, in den Teich brächte<note>werfe</note>, und bis ich komme, steigt ein anderer vor mir hinab.</verse>
+        <verse osisID='John.5.8'>Jesus spricht zu ihm: Stehe auf, nimm dein Bett<note>Tragbett</note> auf und wandle.</verse>
+        <verse osisID='John.5.9'>Und alsbald ward der Mensch gesund, und hob sein Bett<note>Tragbett</note> auf und wandelte. Es war aber Sabbath an selbigen Tage.</verse>
+        <verse osisID='John.5.10'>Da sagten die Juden zu dem Geheilten: Es ist Sabbath, es ist dir nicht erlaubt, das Bett<note>Tragbett</note> zu tragen.</verse>
+        <verse osisID='John.5.11'>Er antwortete ihnen: Der mich gesund machte, Selbiger sprach zu mir: Nimm dein Bett<note>Tragbett</note> und wandle.</verse>
+        <verse osisID='John.5.12'>Da fragten sie ihn: Wer ist der Mensch, der zu dir sagte: Nimm dein Bett<note>Tragbett</note> auf und wandle?</verse>
+        <verse osisID='John.5.13'>Der gesund Gewordene aber wußte nicht, wer es wäre; denn Jesus hatte Sich wegbegeben, weil ein Gedränge an dem Ort war.</verse>
+        <verse osisID='John.5.14'>Danach fand ihn Jesus in dem Heiligtum und sprach zu ihm: Siehe, du bist gesund geworden! Sündige nicht mehr, damit dir nichts Schlimmeres geschehe.</verse>
+        <verse osisID='John.5.15'>Der Mensch ging hin und sagte den Juden an, daß Jesus es wäre, Der ihn gesund gemacht habe.</verse>
+        <verse osisID='John.5.16'>Und darum verfolgten die Juden Jesus und suchten Ihn zu töten, daß Er dies am Sabbath getan hatte.</verse>
+        <verse osisID='John.5.17'>Jesus aber antwortete ihnen: Mein Vater wirkt bis jetzt, und Ich wirke auch.</verse>
+        <verse osisID='John.5.18'>Darum nun trachteten die Juden noch mehr, Ihn zu töten, daß Er nicht allein den Sabbath brach<note>löste</note>, sondern auch Gott Seinen eigenen Vater nannte und Sich Gott gleich machte.</verse>
+        <verse osisID='John.5.19'>Da antwortete Jesus und sprach zu ihnen: Wahrlich, wahrlich, Ich sage euch: Der Sohn kann nichts von Ihm Selber tun, als was Er sieht<note>erblickt</note> den Vater tun; denn was Derselbige tut, das tut desgleichen auch der Sohn.</verse>
+        <verse osisID='John.5.20'>Denn der Vater hat den Sohn lieb und zeigt Ihm alles, was Er tut, und wird Ihm größere Werke denn diese zeigen, daß ihr euch verwundern werdet.</verse>
+        <verse osisID='John.5.21'>Denn wie der Vater die Toten auferweckt und sie lebendig macht, also macht auch der Sohn lebendig, wen Er will;</verse>
+        <verse osisID='John.5.22'>Denn der Vater richtet niemand, sondern hat alles Gericht dem Sohne gegeben.</verse>
+        <verse osisID='John.5.23'>Auf daß alle den Sohn ehren, wie sie den Vater ehren. Wer den Sohn nicht ehrt, der ehrt den Vater nicht, Der Ihn gesandt hat.</verse>
+        <verse osisID='John.5.24'>Wahrlich, wahrlich, Ich sage euch: Wer Mein Wort hört und glaubt an Den, Der Mich gesandt hat, der hat ewiges Leben und kommt nicht ins Gericht, sondern ist vom Tode zum Leben übergegangen.</verse>
+        <verse osisID='John.5.25'>Wahrlich, wahrlich, Ich sage euch: Es kommt die Stunde und ist jetzt, daß die Toten die Stimme des Sohnes Gottes hören, und die, so sie hören werden, leben.</verse>
+        <verse osisID='John.5.26'>Denn wie der Vater Leben hat in Sich Selbst, so hat Er auch dem Sohne gegeben, Leben in Ihm Selbst zu haben.</verse>
+        <verse osisID='John.5.27'>Und hat Ihm Gewalt gegeben, auch Gericht zu halten<note>tun</note>, weil Er des Menschen Sohn ist.</verse>
+        <verse osisID='John.5.28'>Verwundert euch dessen nicht; denn es kommt die Stunde, in der alle, so in den Gräbern<note>Grüften</note> sind, Seine Stimme hören werden.</verse>
+        <verse osisID='John.5.29'>Und werden hervorgehen, die da Gutes getan haben, in die Auferstehung des Lebens, die aber Arges getan haben, in die Auferstehung des Gerichts.</verse>
+        <verse osisID='John.5.30'>Ich kann nichts von Mir Selber tun; wie Ich höre, so richte Ich, und Mein Gericht ist gerecht; weil Ich nicht suche Meinen Willen, sondern den Willen Dessen, Der Mich gesandt hat.</verse>
+        <verse osisID='John.5.31'>Wenn Ich von Mir Selber zeuge, so ist Mein Zeugnis nicht wahr.</verse>
+        <verse osisID='John.5.32'>Ein Anderer ist es, Der von Mir zeugt, und Ich weiß, daß das Zeugnis, das Er von Mir zeugt, wahr ist.</verse>
+        <verse osisID='John.5.33'>Ihr habt an Johannes gesandt, und er hat für die Wahrheit gezeugt.</verse>
+        <verse osisID='John.5.34'>Ich aber nehme kein Zeugnis von einem Menschen, sondern spreche solches, auf daß ihr gerettet werdet.</verse>
+        <verse osisID='John.5.35'>Selbiger war die brennende und scheinende Leuchte<note>Kerze</note>, ihr aber wolltet zur Stunde in seinem Lichte frohlocken!</verse>
+        <verse osisID='John.5.36'>Ich aber habe ein größeres Zeugnis, denn das des Johannes; denn die Werke, die Mir der Vater zu vollbringen gegeben hat, dieselben Werke, die Ich tue, zeugen von Mir, daß der Vater Mich entsendet hat.</verse>
+        <verse osisID='John.5.37'>Und der Vater Selbst, Der Mich gesandt hat, hat von Mir gezeugt; ihr habt nie weder Seine Stimme gehört, noch Seine Gestalt<note>Sein Aussehen</note> gesehen,</verse>
+        <verse osisID='John.5.38'>Und Sein Wort habt ihr nicht in euch bleibend, weil ihr an Ihn, Den Er entsandt hat, nicht glaubt.</verse>
+        <verse osisID='John.5.39'>Forschet in den Schriften, denn ihr meint in ihnen das ewige Leben zu haben; und dieselbigen sind es, die von Mir zeugen.</verse>
+        <verse osisID='John.5.40'>Und ihr wollet nicht zu Mir kommen, auf daß ihr Leben habet.</verse>
+        <verse osisID='John.5.41'>Ich nehme nicht Ehre<note>Herrlichkeit</note> von Menschen.</verse>
+        <verse osisID='John.5.42'>Euch aber erkenne Ich, daß ihr die Liebe Gottes nicht in euch habt.</verse>
+        <verse osisID='John.5.43'>Ich bin in Namen Meines Vaters gekommen, und ihr nehmt Mich nicht an. So ein anderer in seinem eigenen Namen kommt, den werdet ihr annehmen.</verse>
+        <verse osisID='John.5.44'>Wie könnt ihr glauben, die ihre Ehre<note>Herrlichkeit</note> voneinander annehmt, und die Ehre<note>Herrlichkeit</note> von dem alleinigen Gott nicht sucht?</verse>
+        <verse osisID='John.5.45'>Ihr sollt nicht meinen, daß Ich euch bei dem Vater anklagen werde; es ist einer, der euch anklagt, Moses, auf den ihr gehofft habt.</verse>
+        <verse osisID='John.5.46'>Denn wenn ihr Moses glaubtet, so glaubtet ihr wohl Mir; denn von Mir hat derselbige geschrieben.</verse>
+        <verse osisID='John.5.47'>Wenn ihr aber seinen Schriften nicht glaubt, wie werdet ihr Meinen Reden glauben?</verse>
+      </chapter>
+      <chapter osisID='John.6'>
+        <title>Jesus speist die Fünftausend, geht auf dem Meer. Brot des Lebens.</title>
+        <verse osisID='John.6.1'>Nach diesem fuhr Jesus hin über das galiläische Meer bei Tiberias.</verse>
+        <verse osisID='John.6.2'>Und es folgte Ihm viel Gedränge nach, weil sie Seine Zeichen sahen, die Er an den Siechen tat.</verse>
+        <verse osisID='John.6.3'>Jesus aber ging hinauf auf den Berg und setzte Sich daselbst mit Seinen Jüngern.</verse>
+        <verse osisID='John.6.4'>Es war aber nahe dem Pascha, dem Fest der Juden.</verse>
+        <verse osisID='John.6.5'>Da hob Jesus Seine Augen auf, und wie Er sah<note>ansah</note>, daß viel Gedränge zu Ihm kam, sprach Er zu Philippus: Woher kaufen wir Brote, daß diese essen?</verse>
+        <verse osisID='John.6.6'>Das sagte Er aber, ihn zu versuchen; denn Er wußte, was Er tun werde.</verse>
+        <verse osisID='John.6.7'>Philippus antwortete Ihm: Für zweihundert Denare Brote genügt nicht für sie, daß jeder auch nur ein wenig nähme.</verse>
+        <verse osisID='John.6.8'>Spricht zu Ihm einer Seiner Jünger, Andreas, der Bruder des Simon Petrus:</verse>
+        <verse osisID='John.6.9'>Es ist ein Knäblein hier, das hat fünf Gerstenbrote und zwei Fischlein; aber was ist das unter so viele?</verse>
+        <verse osisID='John.6.10'>Jesus aber sprach: Lasset<note>mache</note> die Menschen sich niederlassen.</verse>
+        <verse osisID='John.6.11'>Jesus aber nahm die Brote, und dankte und gab sie den Jüngern hin, die Jünger aber an die, so sich niedergelassen hatten; desgleichen auch von den Fischlein, so viel sie wollten.</verse>
+        <verse osisID='John.6.12'>Als sie aber gesättigt<note>gefüllt</note> waren, sprach Er zu Seinen Jüngern: Sammelt die überbleibenden Brocken, damit nichts verderbe.</verse>
+        <verse osisID='John.6.13'>Sie sammelten nun und machten zwölf Körbe voll mit Brocken, die den Gespeisten von den fünf Gerstenbroten übriggeblieben waren.</verse>
+        <verse osisID='John.6.14'>Da nun die Menschen das Zeichen sahen, das Jesus tat, sprachen sie: Das ist in Wahrheit der Prophet, der in die Welt kommen soll.</verse>
+        <verse osisID='John.6.15'>Als aber Jesus erkannte, daß sie kommen und Ihn erhaschen wollten, um Ihn zum König zu machen, entwich Er abermals auf den Berg, Er alleine.</verse>
+        <verse osisID='John.6.16'>Wie es aber Abend wurde, stiegen Seine Jünger hinab ans Meer.</verse>
+        <verse osisID='John.6.17'>Und stiegen ein in das Schifflein und kamen über das Meer gen Kapernaum. Und es war schon finster geworden und Jesus war nicht zu ihnen gekommen.</verse>
+        <verse osisID='John.6.18'>Und das Meer ward von einem großen Wind, der wehte, aufgeregt.</verse>
+        <verse osisID='John.6.19'>Als sie nun fünfundzwanzig oder dreißig Stadien gerudert hatten, schauen sie Jesus auf dem Meere wandeln und nahe an das Schiff kommen, und sie fürchteten sich.</verse>
+        <verse osisID='John.6.20'>Er sprach aber zu ihnen: Ich bin es, fürchtet euch nicht!</verse>
+        <verse osisID='John.6.21'>Sie wollten Ihn nun ins Schiff nehmen; aber alsbald war das Schiff an dem Lande, dahin sie fuhren.</verse>
+        <verse osisID='John.6.22'>Am folgenden Tage sah nun das Volk<note>Gedränge</note>, das diesseits des Meeres stand, daß kein anderes Schifflein daselbst war, außer dem einen, in das Seine Jünger eingestiegen waren, und daß Jesus nicht mit Seinen Jüngern in das Schiff eingestiegen war, sondern Seine Jünger allein weggegangen waren;</verse>
+        <verse osisID='John.6.23'>Es kamen aber andere Schifflein aus Tiberias nahe an den Ort, wo sie unter der Danksagung des Herrn das Brot gegessen hatten.</verse>
+        <verse osisID='John.6.24'>Da das Volk<note>Gedränge</note> nun sah, daß Jesus nicht da war, noch Seine Jünger, stiegen auch sie ein in die Schiffe und kamen nach Kapernaum und suchten Jesus.</verse>
+        <verse osisID='John.6.25'>Und da sie Ihn jenseits des Meeres fanden, sagten sie zu Ihm: Rabbi, wann bist Du hergekommen<note>hergeworden</note>?</verse>
+        <verse osisID='John.6.26'>Jesus antwortete ihnen und sprach: Wahrlich, wahrlich, Ich sage euch: Ihr suchet Mich, nicht weil ihr Zeichen saht, sondern weil ihr von den Broten aßet und seid satt geworden.</verse>
+        <verse osisID='John.6.27'>Wirket nicht die Speise, die verdirbt, sondern die Speise, die bleibt ins ewige Leben, die des Menschen Sohn euch geben wird; denn Diesen hat Gott, der Vater, besiegelt.</verse>
+        <verse osisID='John.6.28'>Da sagten sie zu Ihm: Was sollen wir tun, daß wir die Werke Gottes wirken?</verse>
+        <verse osisID='John.6.29'>Jesus antwortete und sprach zu ihnen: Dies ist das Werk Gottes, daß ihr glaubt an Ihn, Den Selbiger gesendet hat.</verse>
+        <verse osisID='John.6.30'>Da sprachen sie zu Ihm: Was tust Du nun für Zeichen, auf daß wir es sehen und Dir glauben? Was wirkst Du?</verse>
+        <verse osisID='John.6.31'>Unsere Väter aßen das Manna in der Wüste, wie geschrieben ist: Er gab ihnen Brot aus dem Himmel zu essen.</verse>
+        <verse osisID='John.6.32'>Da sprach Jesus zu ihnen: Wahrlich, wahrlich, Ich sage euch: Moses hat euch nicht das Brot aus dem Himmel gegeben; sondern Mein Vater gibt euch das wahre Brot aus dem Himmel.</verse>
+        <verse osisID='John.6.33'>Denn das Brot Gottes ist Er, Der aus dem Himmel herabsteigt und der Welt Leben gibt.</verse>
+        <verse osisID='John.6.34'>Da sagten sie zu Ihm: Herr, gib uns allezeit solches Brot.</verse>
+        <verse osisID='John.6.35'>Jesus aber spricht zu ihnen: Ich bin das Brot des Lebens. Wer zu Mir kommt, den wird nicht hungern, und wer an Mich glaubt, den wird nimmermehr dürsten.</verse>
+        <verse osisID='John.6.36'>Aber Ich habe es euch gesagt: Ihr habt Mich gesehen, und ihr glaubt nicht.</verse>
+        <verse osisID='John.6.37'>Alles, was Mir der Vater gibt, kommt zu Mir, und den, der zu Mir kommt, werde Ich nicht hinausstoßen<note>hinauswerfen</note>;</verse>
+        <verse osisID='John.6.38'>Denn Ich bin vom Himmel herabgekommen, nicht daß Ich Meinen Willen tue, sondern den Willen Dessen, Der Mich gesandt hat.</verse>
+        <verse osisID='John.6.39'>Das aber ist der Wille des Vaters, Der Mich gesandt hat, daß Ich nichts verliere von allem, das Er Mir gegeben hat, sondern daß Ich es am letzten Tage auferstehen lasse.</verse>
+        <verse osisID='John.6.40'>Dies aber ist der Wille Dessen, Der Mich gesandt hat, daß ein jeder, der den Sohn schaut und an Ihn glaubt, ewiges Leben habe, und Ich ihn auferstehen lasse am letzten Tage.</verse>
+        <verse osisID='John.6.41'>Da murrten die Juden über Ihn, weil Er sagte: Ich bin das Brot, das aus dem Himmel herabgekommen ist;</verse>
+        <verse osisID='John.6.42'>Und sagten: Ist dieser nicht Jesus, der Sohn Josephs, dessen Vater und Mutter wir kennen? Wie sagt dieser nun: Ich bin vom Himmel herabgekommen?</verse>
+        <verse osisID='John.6.43'>Jesus antwortete nun und sprach zu ihnen: Murret nicht untereinander.</verse>
+        <verse osisID='John.6.44'>Es kann niemand zu Mir kommen, es sei denn, daß der Vater, Der Mich gesandt hat, ihn ziehe. Und Ich lasse ihn auferstehen am letzten Tage.</verse>
+        <verse osisID='John.6.45'>Es ist in den Propheten geschrieben: Und sie werden alle von Gott gelehrt sein. Jeder, der vom Vater gehört und gelernt hat, kommt zu Mir.</verse>
+        <verse osisID='John.6.46'>Nicht daß jemand den Vater gesehen hätte außer Ihm, Der von Gott ist; Dieser hat den Vater gesehen.</verse>
+        <verse osisID='John.6.47'>Wahrlich, wahrlich, Ich sage euch: Wer an Mich glaubt, der hat ewiges Leben.</verse>
+        <verse osisID='John.6.48'>Ich bin das Brot des Lebens.</verse>
+        <verse osisID='John.6.49'>Eure Väter haben das Manna in der Wüste gegessen und sind gestorben.</verse>
+        <verse osisID='John.6.50'>Das ist das Brot, das aus dem Himmel herabkommt, daß einer davon esse und nicht sterbe.</verse>
+        <verse osisID='John.6.51'>Ich bin das lebendige Brot, das aus dem Himmel herabgekommen. Wenn einer von diesem Brot isset, so wird er in Ewigkeit leben; das Brot aber, das Ich ihm geben werde, ist Mein Fleisch, das Ich für das Leben der Welt geben werde.</verse>
+        <verse osisID='John.6.52'>Da stritten die Juden denn untereinander und sagten: Wie kann Dieser uns das Fleisch zu essen geben?</verse>
+        <verse osisID='John.6.53'>Jesus sprach nun zu ihnen: Wahrlich, wahrlich, Ich sage euch: Wenn ihr nicht esset das Fleisch des Menschensohnes und trinket Sein Blut, so habt ihr kein Leben in euch.</verse>
+        <verse osisID='John.6.54'>Wer Mein Fleisch isset<note>kauet</note> und trinket Mein Blut, hat ewiges Leben, und Ich lasse ihn am letzten Tage auferstehen.</verse>
+        <verse osisID='John.6.55'>Denn Mein Fleisch ist wahrhaftig eine Speise und Mein Blut ist wahrhaftig ein Trank.</verse>
+        <verse osisID='John.6.56'>Wer Mein Fleisch isset<note>kauet</note> und trinket Mein Blut, der bleibt in Mir und Ich in ihm.</verse>
+        <verse osisID='John.6.57'>Wie Mich der lebendige Vater entsendet hat, und Ich durch den Vater lebe, so wird auch, wer Mich isset<note>kauet</note>, leben durch Mich.</verse>
+        <verse osisID='John.6.58'>Dies ist das Brot, das aus dem Himmel herabgekommen ist, nicht wie eure Väter das Manna aßen und starben. Wer dieses Brot isset<note>kauet</note>, wird leben in Ewigkeit.</verse>
+        <verse osisID='John.6.59'>Dies sagte Er in einer Synagoge, da Er in Kapernaum lehrte.</verse>
+        <verse osisID='John.6.60'>Viele nun von Seinen Jüngern, die das hörten, sagten: Dies ist ein hartes Wort, wer kann es hören?</verse>
+        <verse osisID='John.6.61'>Da aber Jesus in Sich wußte, daß Seine Jünger darüber murrten, sprach Er zu ihnen: Ärgert euch das?</verse>
+        <verse osisID='John.6.62'>Wenn ihr nun schauen werdet, des Menschen Sohn dahin aufsteigen, wo Er zuvor gewesen ist?</verse>
+        <verse osisID='John.6.63'>Der Geist ist es, der lebendig macht, das Fleisch nützet nichts. Die Reden, die Ich zu euch rede, sind Geist und sind Leben.</verse>
+        <verse osisID='John.6.64'>Es sind aber etliche von euch, die nicht glauben; denn Jesus wußte von Anfang an, welche nicht glaubten, und wer Ihn verraten werde.</verse>
+        <verse osisID='John.6.65'>Und Er sprach: Darum habe Ich euch gesagt, daß niemand kann zu Mir kommen, es sei ihm denn von Meinem Vater gegeben.</verse>
+        <verse osisID='John.6.66'>Von dem an gingen viele Seiner Jünger weg hinter sich und wandelten nicht mehr mit Ihm.</verse>
+        <verse osisID='John.6.67'>Da sprach Jesus zu den Zwölfen: Wollt ihr nicht auch hingehen?</verse>
+        <verse osisID='John.6.68'>Da antwortete Ihm Simon Petrus: Herr, zu wem sollten wir hingehen? Du hast Reden des ewigen Lebens.</verse>
+        <verse osisID='John.6.69'>Und wir haben geglaubt und erkannt, daß Du bist der Christus, der Sohn des lebendigen Gottes.</verse>
+        <verse osisID='John.6.70'>Jesus antwortete ihnen: Habe Ich nicht euch Zwölfe auserwählt, und einer aus euch ist ein Teufel?</verse>
+        <verse osisID='John.6.71'>Er sprach aber von Judas, Simons Sohn, Iskariot. Denn dieser war daran, Ihn zu verraten, und war einer von den Zwölfen.</verse>
+      </chapter>
+      <chapter osisID='John.7'>
+        <title>Laubhüttenfest. Nikodemus.</title>
+        <verse osisID='John.7.1'>Nach diesem wandelte Jesus in Galiläa, denn Er wollte nicht in Judäa wandeln; weil die Juden Ihn zu töten suchten.</verse>
+        <verse osisID='John.7.2'>Es war aber nahe das Fest der Juden, die Laubhütten.</verse>
+        <verse osisID='John.7.3'>Da sagten zu Ihm Seine Brüder: Ziehe von dannen und gehe hin nach Judäa, auf daß auch Deine Jünger die Werke sehen, die Du tust.</verse>
+        <verse osisID='John.7.4'>Denn niemand tut etwas im Verborgenen und will selbst offenkundig<note>frei heraus</note> sein. Wenn Du solches tust, so offenbare Dich Selbst der Welt.</verse>
+        <verse osisID='John.7.5'>Denn auch Seine Brüder glaubten nicht an Ihn.</verse>
+        <verse osisID='John.7.6'>Spricht Jesus nun zu ihnen: Meine Zeit<note>bestimmte Zeit</note> ist noch nicht da; eure Zeit<note>bestimmte Zeit</note> aber ist allezeit bereit.</verse>
+        <verse osisID='John.7.7'>Euch kann die Welt nicht hassen, Mich aber hasset sie, weil Ich zeuge von ihr, daß ihre Werke schlecht sind.</verse>
+        <verse osisID='John.7.8'>Geht ihr hinauf auf dieses Fest. Ich gehe noch nicht hinauf auf dieses Fest, weil Meine Zeit<note>bestimmte Zeit</note> noch nicht erfüllt ist.</verse>
+        <verse osisID='John.7.9'>Da Er aber dies zu ihnen gesagt hatte, blieb Er in Galiläa.</verse>
+        <verse osisID='John.7.10'>Als aber Seine Brüder hinaufgegangen waren, da ging auch Er hinauf auf das Fest, nicht öffentlich, sondern gleichsam im Verborgenen.</verse>
+        <verse osisID='John.7.11'>Die Juden nun suchten Ihn auf dem Feste und sagten: Wo ist Jener?</verse>
+        <verse osisID='John.7.12'>Und es war viel Gemurmel über Ihn in dem Gedränge. Die einen sagten: Er ist gut. Andere aber sagten: Nein, sondern Er führt die Menge<note>das Gedränge</note> irre.</verse>
+        <verse osisID='John.7.13'>Keiner jedoch redete frei heraus über Ihn aus Furcht vor den Juden.</verse>
+        <verse osisID='John.7.14'>Als aber schon die Mitte des Festes war, ging Jesus hinauf in das Heiligtum und lehrte.</verse>
+        <verse osisID='John.7.15'>Und die Juden verwunderten sich und sagten: Wie weiß Der die Schriften, da Er sie nicht gelernt hat?</verse>
+        <verse osisID='John.7.16'>Jesus antwortete ihnen und sprach: Meine Lehre ist nicht Mein, sondern Dessen, Der Mich gesandt hat.</verse>
+        <verse osisID='John.7.17'>So jemand will Seinen Willen tun, der wird erkennen von der Lehre, ob sie von Gott ist, oder ob Ich von Mir Selber rede.</verse>
+        <verse osisID='John.7.18'>Wer von sich selbst redet, der sucht seine eigene Ehre<note>Herrlichkeit</note>, wer aber die Ehre<note>Herrlichkeit</note> dessen sucht, der ihn gesandt hat, der ist wahrhaftig, und es ist keine Ungerechtigkeit in ihm.</verse>
+        <verse osisID='John.7.19'>Hat nicht Moses euch das Gesetz gegeben? Und keiner von euch tut das Gesetz. Was sucht ihr Mich zu töten?</verse>
+        <verse osisID='John.7.20'>Das Gedränge antwortete und sagte: Du hast einen Dämon. Wer sucht Dich zu töten?</verse>
+        <verse osisID='John.7.21'>Jesus antwortete und sprach zu ihnen: Ein einziges Werk habe Ich getan, und ihr verwundert euch alle darob.</verse>
+        <verse osisID='John.7.22'>Moses hat euch die Beschneidung gegeben, nicht daß sie von Moses ist, sondern von den Vätern, und ihr beschneidet einen Menschen am Sabbath.</verse>
+        <verse osisID='John.7.23'>So nun ein Mensch Beschneidung empfängt am Sabbath, auf daß das Gesetz des Mose nicht gebrochen<note>gelöst</note> werde, was seid ihr erbittert über Mich, daß Ich einen ganzen Menschen habe am Sabbath gesund gemacht?</verse>
+        <verse osisID='John.7.24'>Richtet nicht nach dem Ansehen, sondern richtet ein gerechtes Gericht.</verse>
+        <verse osisID='John.7.25'>Da sprachen nun etliche aus denen von Jerusalem: Ist das nicht Der, Den sie zu töten suchen?</verse>
+        <verse osisID='John.7.26'>Und siehe, Er redet frei heraus und sie sagen Ihm nichts. Haben die Obersten wahrhaftig erkannt, daß Dieser wahrhaftig der Messias ist?</verse>
+        <verse osisID='John.7.27'>Aber von Dem wissen wir, von wannen Er ist. Wenn aber der Christus kommt, erkennt niemand, von wannen Er ist.</verse>
+        <verse osisID='John.7.28'>Da rief<note>schrie</note> Jesus, in dem Heiligtum lehrend, und sprach: Wohl kennt ihr Mich und wißt, von wannen Ich bin. Und von Mir Selbst bin Ich nicht gekommen, sondern es ist ein Wahrhaftiger, Der Mich gesandt hat, Den ihr nicht kennt.</verse>
+        <verse osisID='John.7.29'>Ich aber kenne Ihn, weil Ich von Ihm bin, und Er Mich entsandt hat.</verse>
+        <verse osisID='John.7.30'>Da suchten sie Ihn zu greifen; und keiner legte Hand an Ihn, weil Seine Stunde noch nicht gekommen war.</verse>
+        <verse osisID='John.7.31'>Viele aber aus dem Gedränge glaubten an Ihn und sagten: Wenn Christus kommt, wird Er mehr Zeichen tun, als diese, so Dieser tat?</verse>
+        <verse osisID='John.7.32'>Die Pharisäer hörten, daß das Gedränge solches über Ihn murmelte; und die Pharisäer und Hohenpriester entsandten Amtsdiener, daß sie Ihn griffen.</verse>
+        <verse osisID='John.7.33'>Jesus sprach nun zu ihnen: Noch eine kleine Zeit bin Ich bei euch und gehe dann hin zu Dem, Der Mich gesandt hat.</verse>
+        <verse osisID='John.7.34'>Ihr werdet Mich suchen und nicht finden, und wo Ich bin, da könnt ihr nicht hinkommen.</verse>
+        <verse osisID='John.7.35'>Da sprachen die Juden zueinander: Wohin will Dieser ziehen, daß wir Ihn nicht finden sollten? Will Er unter die Zerstreuten bei den Griechen ziehen, und die Griechen lehren?</verse>
+        <verse osisID='John.7.36'>Was ist dieses Wort, daß Er sagt: Ihr werdet Mich suchen und nicht finden; und wo Ich bin, könnt ihr nicht hinkommen?</verse>
+        <verse osisID='John.7.37'>An dem letzten, dem großen Tage des Festes aber stand Jesus auf und rief<note>schrie</note> und sprach: Wen da dürstet, der komme zu Mir und trinke!</verse>
+        <verse osisID='John.7.38'>Wer an Mich glaubt, aus dessen Leib<note>Bauch</note> werden, wie die Schrift sagt, Ströme lebendigen Wassers fließen.</verse>
+        <verse osisID='John.7.39'>Dies sagte Er aber von dem Geiste, den empfangen würden die, so an Ihn glaubeten; denn der Heilige Geist war noch nicht, weil Jesus noch nicht verherrlicht war.</verse>
+        <verse osisID='John.7.40'>Viele nun aus dem Gedränge, die das Wort hörten, sagten: Dies ist wahrhaftig der Prophet.</verse>
+        <verse osisID='John.7.41'>Andere sagten: Dies ist der Christus! Andere aber sagten: Kommt denn der Christus aus Galiläa?</verse>
+        <verse osisID='John.7.42'>Sagt nicht die Schrift, daß Christus aus dem Samen Davids, und von dem Flecken Bethlehem, wo David war, kommen wird?</verse>
+        <verse osisID='John.7.43'>Da entstand ein Zwiespalt wegen Seiner unter dem Gedränge.</verse>
+        <verse osisID='John.7.44'>Es wollten Ihn aber ihrer einige greifen; aber keiner legte die Hände an Ihn.</verse>
+        <verse osisID='John.7.45'>Da kamen die Amtsdiener zu den Hohenpriestern und Pharisäern, und diese sagten zu ihnen: Warum habt ihr Ihn nicht hergeführt?</verse>
+        <verse osisID='John.7.46'>Die Amtsdiener antworteten: Es hat noch nie ein Menschen so geredet, wie dieser Mensch.</verse>
+        <verse osisID='John.7.47'>Da antworteten ihnen die Pharisäer: Seid auch ihr irre geführt?</verse>
+        <verse osisID='John.7.48'>Glaubt auch einer von den Obersten oder von den Pharisäern an Ihn?</verse>
+        <verse osisID='John.7.49'>Aber das Gedränge da, welches das Gesetz nicht erkennt, ist verflucht.</verse>
+        <verse osisID='John.7.50'>Spricht zu ihnen Nikodemus, der des Nachts zu Ihm gekommen, und einer von ihnen war:</verse>
+        <verse osisID='John.7.51'>Richtet unser Gesetz den Menschen, ehe man ihn zuvor gehört und erkannt hat, was er tut?</verse>
+        <verse osisID='John.7.52'>Sie antworteten und sagten zu ihm: Bist du auch aus Galiläa? Forsche und siehe, daß kein Prophet aus Galiläa auferweckt worden ist.</verse>
+        <verse osisID='John.7.53'>Und ein jeglicher ging hin in sein Haus.</verse>
+      </chapter>
+      <chapter osisID='John.8'>
+        <title>Die Ehebrecherin. Die Pharisäer.</title>
+        <verse osisID='John.8.1'>Jesus aber ging hin nach dem Ölberge.</verse>
+        <verse osisID='John.8.2'>In der Frühe aber kam Er wieder herzu in das Heiligtum, und alles Volk kam zu Ihm, und Er setzte Sich nieder und lehrte sie.</verse>
+        <verse osisID='John.8.3'>Die Schriftgelehrten aber und die Pharisäer führten ein Weib zu Ihm, das im Ehebruch festgenommen worden, und stellen sie in die Mitte,</verse>
+        <verse osisID='John.8.4'>Und sprechen zu Ihm: Lehrer, dieses Weib ist auf der Tat selbst im Ehebruch festgenommen worden.</verse>
+        <verse osisID='John.8.5'>Ihm Gesetz aber hat Moses uns geboten, solche zu steinigen. Was sagst Du nun?</verse>
+        <verse osisID='John.8.6'>Das sprachen sie aber, Ihn zu versuchen, auf daß sie Ihn anklagen könnten. Jesus aber bückte Sich nieder und schrieb mit dem Finger in die Erde.</verse>
+        <verse osisID='John.8.7'>Als sie aber anhielten, Ihn zu fragen, richtete Er Sich auf und sprach zu ihnen: Wer von euch ohne Sünde ist, der werfe zuerst den Stein auf sie.</verse>
+        <verse osisID='John.8.8'>Und Er bückte Sich wieder nieder und schrieb in die Erde.</verse>
+        <verse osisID='John.8.9'>Als sie aber das hörten und von ihrem Gewissen gerügt wurden, gingen sie einer nach den anderen<note>einer nach einem</note> hinaus, anfangend am Ältesten bis auf den Letzten. Und Jesus ward allein gelassen und das Weib in der Mitte stehend.</verse>
+        <verse osisID='John.8.10'>Jesus aber richtete Sich auf, und da Er niemand sah<note>ansah</note> außer dem Weibe, sagte Er zu ihr: Weib, wo sind sie, deine Verkläger? Hat dich niemand verdammt?</verse>
+        <verse osisID='John.8.11'>Sie aber sagte: Niemand, Herr. Jesus aber sprach zu ihr: So verdamme Ich dich auch nicht. Gehe hin und sündige nicht mehr.</verse>
+        <verse osisID='John.8.12'>Jesus redete nun abermals zu ihnen und sprach: Ich bin das Licht der Welt. Wer Mir nachfolgt, der wird nicht im Finstern wandeln, sondern das Licht des Lebens haben.</verse>
+        <verse osisID='John.8.13'>Da sagten die Pharisäer zu Ihm: Du zeugst von Dir Selbst. Dein Zeugnis ist nicht wahr.</verse>
+        <verse osisID='John.8.14'>Jesus antwortete und sagte zu ihnen: Und wenn Ich auch von Mir Selbst zeuge, so ist Mein Zeugnis wahr; weil Ich weiß, von wannen Ich komme und wohin Ich gehe; ihr aber wisset nicht, von wannen Ich komme, und wohin Ich gehe.</verse>
+        <verse osisID='John.8.15'>Ihr richtet nach dem Fleisch; ich richte niemand.</verse>
+        <verse osisID='John.8.16'>Und wenn Ich aber richte, so ist Mein Gericht wahr; denn Ich bin nicht allein, sondern Ich und der Vater, Der Mich gesandt hat.</verse>
+        <verse osisID='John.8.17'>Auch ist in eurem Gesetz geschrieben, daß zweier Menschen Zeugnis wahr ist.</verse>
+        <verse osisID='John.8.18'>Ich bin, Der Ich von Mir Selbst zeuge, und der Vater, Der Mich gesandt hat, zeugt von Mir.</verse>
+        <verse osisID='John.8.19'>Da sagten sie zu Ihm: Wo ist Dein Vater? Jesus antwortete: Ihr kennt weder Mich noch Meinen Vater. Wenn ihr Mich kennetet, so kennetet ihr auch Meinen Vater.</verse>
+        <verse osisID='John.8.20'>Diese Reden redete Er am Schatzkasten, da Er lehrte im Heiligtum, und niemand griff Ihn, weil Seine Stunde noch nicht gekommen war.</verse>
+        <verse osisID='John.8.21'>Abermals sprach nun Jesus zu ihnen: Ich gehe hin und ihr werdet Mich suchen und in eurer Sünde sterben. Wo Ich hingehe, da könnt ihr nicht hinkommen.</verse>
+        <verse osisID='John.8.22'>Da sagten die Juden: Will Er Sich Selbst töten, daß Er sagt: Wo Ich hingehe, da könnt ihr nicht hinkommen?</verse>
+        <verse osisID='John.8.23'>Und Er sprach zu Ihnen: Ihr seid von unten her, Ich bin von oben. Ihr seid aus dieser Welt, Ich bin nicht aus dieser Welt.</verse>
+        <verse osisID='John.8.24'>So habe Ich euch gesagt: Ihr werdet in euren Sünden sterben; denn so ihr nicht glaubt, daß Ich bin, so werdet ihr in euren Sünden sterben.</verse>
+        <verse osisID='John.8.25'>Da sagten sie zu Ihm: Wer bist Du denn? Und Jesus sprach zu ihnen: Was Ich euch auch von Anfang an gesagt habe.</verse>
+        <verse osisID='John.8.26'>Ich habe viel von euch zu reden und zu richten; aber Der Mich gesandt hat, ist wahrhaftig; und was Ich von Ihm gehört habe, das spreche Ich zur Welt<note>in die Welt</note>.</verse>
+        <verse osisID='John.8.27'>Sie erkannten nicht, daß Er vom Vater zu ihnen redete.</verse>
+        <verse osisID='John.8.28'>Da sagte Jesus zu ihnen: Wenn ihr des Menschen Sohn erhöht habt, dann werdet ihr erkennen, daß Ich bin und nichts von Mir Selber tue, sondern wie Mich Mein Vater gelehrt hat, solches rede Ich.</verse>
+        <verse osisID='John.8.29'>Und Der Mich gesandt hat, ist mit Mir. Der Vater hat Mich nicht allein gelassen, weil Ich allezeit tue, was Ihm gefällig ist.</verse>
+        <verse osisID='John.8.30'>Als Er so zu ihnen redete, glaubten viele an Ihn.</verse>
+        <verse osisID='John.8.31'>Da sprach Jesus zu den Juden, die an Ihn glaubten: Wenn ihr in Meinem Worte bleibt, dann seid ihr wahrhaftig Meine Jünger,</verse>
+        <verse osisID='John.8.32'>Und werdet die Wahrheit erkennen, und die Wahrheit wird euch frei machen.</verse>
+        <verse osisID='John.8.33'>Sie antworteten Ihm: Wir sind Abrahams Samen, und sind niemals jemandes Knechte gewesen. Wie sprichst Du: Ihr werdet frei werden?</verse>
+        <verse osisID='John.8.34'>Jesus antwortete ihnen: Wahrlich, wahrlich, Ich sage euch: Wer die Sünde tut, der ist der Sünde Knecht.</verse>
+        <verse osisID='John.8.35'>Der Knecht aber bleibt nicht ewiglich im Hause; der Sohn bleibt ewiglich.</verse>
+        <verse osisID='John.8.36'>Wenn euch nun der Sohn frei macht, so werdet ihr in der Tat frei sein.</verse>
+        <verse osisID='John.8.37'>Ich weiß, daß ihr Abrahams Samen seid. Aber ihr sucht Mich zu töten, weil Mein Wort in euch nicht haftet<note>faßt</note>.</verse>
+        <verse osisID='John.8.38'>Ich rede, was Ich bei Meinem Vater gesehen habe; auch ihr nun tut, was ihr bei eurem Vater gesehen habt.</verse>
+        <verse osisID='John.8.39'>Sie antworteten und sagten zu Ihm: Abraham ist unser Vater. Spricht zu ihnen Jesus: Wäret ihr Abrahams Kinder, tätet ihr wohl Abrahams Werke.</verse>
+        <verse osisID='John.8.40'>Nun aber sucht ihr Mich zu töten, einen Menschen, der Ich die Wahrheit zu euch geredet, die Ich von Gott gehört habe. Solches hat Abraham nicht getan.</verse>
+        <verse osisID='John.8.41'>Ihr tut die Werke eures Vaters. Da sprachen sie zu Ihm: Wir sind nicht aus Buhlerei geboren. Wir haben einen Vater - Gott.</verse>
+        <verse osisID='John.8.42'>Da sprach Jesus zu ihnen: Wäre Gott euer Vater, dann liebtet ihr Mich; denn aus Gott bin Ich ausgegangen und komme Ich; denn Ich bin nicht von Mir Selbst gekommen, sondern Er hat Mich entsandt.</verse>
+        <verse osisID='John.8.43'>Warum erkennt ihr Meine Rede nicht? Weil ihr Mein Wort nicht hören könnt.</verse>
+        <verse osisID='John.8.44'>Ihr seid aus dem Vater dem Teufel, und nach eures Vaters Begierden wollt ihr tun. Derselbige war von Anfang ein Menschenmörder, und ist nicht in der Wahrheit bestanden, weil keine Wahrheit in ihm ist. Wenn er Lüge redet, redet er aus dem Eigenen, weil er ein Lügner ist und der Vater derselben.</verse>
+        <verse osisID='John.8.45'>Mir aber, weil Ich die Wahrheit rede, glaubt ihr nicht.</verse>
+        <verse osisID='John.8.46'>Wer von euch kann Mich einer Sünde überführen? Sage Ich aber die Wahrheit, warum glaubt ihr Mir nicht?</verse>
+        <verse osisID='John.8.47'>Wer aus Gott ist, hört die Reden Gottes; darum hört ihr nicht, weil ihr nicht aus Gott seid.</verse>
+        <verse osisID='John.8.48'>Da antworteten die Juden und sagten zu Ihm: Haben wir nicht recht<note>schön</note> gesagt, daß Du ein Samariter bist und einen Dämon hast?</verse>
+        <verse osisID='John.8.49'>Jesus antwortete: Ich habe keinen Dämon, sondern Ich ehre Meinen Vater, ihr aber verunehret Mich.</verse>
+        <verse osisID='John.8.50'>Ich suche nicht Meine Ehre<note>Herrlichkeit</note>; es ist einer, der sie sucht und richtet.</verse>
+        <verse osisID='John.8.51'>Wahrlich, wahrlich, Ich sage euch: So einer Mein Wort hält, der wird den Tod nicht schauen ewiglich.</verse>
+        <verse osisID='John.8.52'>Da sprachen die Juden zu Ihm: Nun haben wir erkannt, daß Du einen Dämon hast; Abraham ist gestorben und die Propheten, und Du sagst: Wenn einer Mein Wort hält, der wird den Tod nicht schmecken ewiglich.</verse>
+        <verse osisID='John.8.53'>Bist Du größer, denn unser Vater Abraham, der gestorben ist? Und die Propheten sind gestorben. Wozu machst Du Dich Selbst?</verse>
+        <verse osisID='John.8.54'>Jesus antwortete: So Ich Mich Selbst verherrliche, so ist Meine Herrlichkeit nichts. Mein Vater ist es, Der Mich verherrlicht, von Dem ihr sagt, Er sei euer Gott.</verse>
+        <verse osisID='John.8.55'>Und ihr habt Ihn nicht erkannt; Ich aber kenne Ihn; und so Ich sagte, Ich kenne Ihn nicht, so wäre Ich ein Lügner, wie ihr; aber Ich kenne Ihn und halte Sein Wort.</verse>
+        <verse osisID='John.8.56'>Abraham, euer Vater, frohlockte, daß er Meinen Tag sehen sollte, und er sah ihn und freute sich.</verse>
+        <verse osisID='John.8.57'>Da sagten zu Ihm die Juden: Du hast noch keine fünfzig Jahre und hast Abraham gesehen?</verse>
+        <verse osisID='John.8.58'>Jesus spricht zu ihnen: Wahrlich, wahrlich, Ich sage euch: Ehe denn Abraham ward, bin Ich.</verse>
+        <verse osisID='John.8.59'>Da hoben sie Steine auf, daß sie auf Ihn würfen. Jesus aber verbarg Sich und ging hinaus aus dem Heiligtum, indem Er mitten durch sie hinging; und ging so vorüber.</verse>
+      </chapter>
+      <chapter osisID='John.9'>
+        <title>Der Blindgeborene.</title>
+        <verse osisID='John.9.1'>Und da Er vorüberging, sah Er einen Menschen, blind von Geburt.</verse>
+        <verse osisID='John.9.2'>Und Seine Jünger fragten Ihn und sagten: Rabbi, wer hat gesündigt, dieser da oder seine Eltern, daß er blind geboren ward?</verse>
+        <verse osisID='John.9.3'>Jesus antwortete: Weder dieser hat gesündigt, noch seine Eltern, sondern daß die Werke Gottes an ihm geoffenbart würden.</verse>
+        <verse osisID='John.9.4'>Ich muß wirken die Werke Dessen, Der Mich gesandt hat, während es Tag ist. Es kommt eine Nacht, da niemand wirken kann.</verse>
+        <verse osisID='John.9.5'>Solange Ich bin in der Welt, bin Ich das Licht der Welt.</verse>
+        <verse osisID='John.9.6'>Da Er solches gesprochen hatte, spützte Er auf die Erde und machte aus dem Speichel einen Teig<note>Schlamm</note> und strich<note>salbte auf</note> den Teig<note>Schlamm</note> auf die Augen des Blinden,</verse>
+        <verse osisID='John.9.7'>Und sprach zu ihm: Gehe hin, wasche dich im Teich Siloah - das ist verdolmetscht Entsandt. Da ging er weg und wusch sich und kam sehend.</verse>
+        <verse osisID='John.9.8'>Die Nachbarn nun und die, so ihn früher sahen<note>schauten</note>, daß er ein Bettler war, sagten: Ist das nicht der, welcher dasaß und bettelte?</verse>
+        <verse osisID='John.9.9'>Einige sagten: Er ist es. Andere aber: Er ist ihm ähnlich. Er aber sagte: Ich bin es.</verse>
+        <verse osisID='John.9.10'>Da sagten sie zu ihm: Wie wurden dir die Augen aufgetan?</verse>
+        <verse osisID='John.9.11'>Derselbe antwortete und sagte: Ein Mensch, der Jesus genannt wird, machte einen Teig<note>Schlamm</note> und bestrich<note>salbte auf</note> mir damit die Augen und sprach zu mir: Gehe hin an den Teich Siloah und wasche dich. Ich aber ging hin, wusch mich und ward sehend<note>blickte auf</note>.</verse>
+        <verse osisID='John.9.12'>Da sagten sie zu ihm: Wo ist Der? Er sagt: Ich weiß es nicht.</verse>
+        <verse osisID='John.9.13'>Da führten sie ihn, der weiland blind war, zu den Pharisäern.</verse>
+        <verse osisID='John.9.14'>Es war aber Sabbath, da Jesus den Teig<note>Schlamm</note> machte und ihm die Augen auftat.</verse>
+        <verse osisID='John.9.15'>Da fragten ihn auch die Pharisäer abermals, wie er sehend wurde<note>blickte auf</note>. Er aber sagte ihnen: Einen Teig<note>Schlamm</note> legte Er mir auf die Augen und ich wusch mich und sehe.</verse>
+        <verse osisID='John.9.16'>Etliche nun aus den Pharisäern sagten: Dieser Mensch ist nicht von Gott, weil Er den Sabbath nicht hält. Andere sagten: Wie kann ein sündhafter Mensch solche Zeichen tun? Und es war ein Zwiespalt unter ihnen.</verse>
+        <verse osisID='John.9.17'>Sie sprachen wiederum zu dem Blinden: Was sagst du von Ihm, daß Er dir die Augen auftat? Er aber sprach: Er ist ein Prophet.</verse>
+        <verse osisID='John.9.18'>Nun glaubten die Juden nicht von ihm, daß er blind war und sehend wurde<note>blickte auf</note>, bis daß sie riefen die Eltern dessen, der sehend geworden war.</verse>
+        <verse osisID='John.9.19'>Und sie fragten sie und sprachen: Ist dies euer Sohn, von dem ihr sagt, er sei blind geboren? Wie ist er denn jetzt sehend?</verse>
+        <verse osisID='John.9.20'>Seine Eltern antworteten ihnen und sprachen: Wir wissen, daß dieser unser Sohn ist, und daß er blind geboren ward.</verse>
+        <verse osisID='John.9.21'>Wie er aber nun sehend ist, wissen wir nicht; oder wer ihm seine Augen aufgetan hat, wissen wir nicht. Er selbst hat das Alter, fragt ihn. Er wird für sich selber reden.</verse>
+        <verse osisID='John.9.22'>Solches sagten seine Eltern, weil sie sich vor den Juden fürchteten; denn die Juden waren schon dahin übereingekommen, daß, so jemand Ihn als Christus bekennete, er solle aus der Synagoge gestoßen werden.</verse>
+        <verse osisID='John.9.23'>Darum sagten seine Eltern: Er hat das Alter, fragt ihn.</verse>
+        <verse osisID='John.9.24'>Da riefen sie zum andern Mal den Menschen, der blind gewesen, und sprachen zu ihm: Gib Gott die Ehre<note>Herrlichkeit</note>! Wir wissen, daß dieser Mensch ein Sünder ist.</verse>
+        <verse osisID='John.9.25'>Derselbe antwortete nun und sprach: Ob Er ein Sünder ist, weiß ich nicht. Eins weiß ich, daß ich blind war, und nun sehend bin.</verse>
+        <verse osisID='John.9.26'>Sie sprachen aber zu ihm abermals: Was tat Er dir? Wie tat Er deine Augen auf?</verse>
+        <verse osisID='John.9.27'>Er antwortete ihnen: Ich habe es euch schon gesagt, und ihr habt nicht gehört. Warum wollt ihr es abermals hören? Wollt auch ihr Seine Jünger werden?</verse>
+        <verse osisID='John.9.28'>Da schimpften sie auf ihn und sagten: Du bist Sein Jünger; wir aber sind Moses Jünger.</verse>
+        <verse osisID='John.9.29'>Wir wissen, daß mit Moses Gott geredet hat. Von Dem aber wissen wir nicht, von wannen Er ist.</verse>
+        <verse osisID='John.9.30'>Der Mensch antwortete und sprach zu ihnen: Das ist doch wunderbar, daß ihr nicht wisset, von wannen Er ist, und Er hat mir die Augen aufgetan.</verse>
+        <verse osisID='John.9.31'>Wir wissen aber, daß Gott die Sünder nicht hört; wenn aber einer gottesfürchtig ist und Seinen Willen tut, den hört Er.</verse>
+        <verse osisID='John.9.32'>Von Anbeginn<note>Zeitlauf, Ewigkeit</note> an ist nicht erhört, daß einer einem Blindgeborenen die Augen hat aufgetan.</verse>
+        <verse osisID='John.9.33'>Wäre Dieser nicht von Gott, so hätte Er nichts tun können.</verse>
+        <verse osisID='John.9.34'>Sie aber antworteten und sagten zu ihm: Du bist ganz in Sünden geboren und lehrest uns? Und sie stießen ihn hinaus.</verse>
+        <verse osisID='John.9.35'>Jesus hörte, daß sie ihn hinausgestoßen hatten, und Er fand ihn und sprach zu ihm: Glaubst du an den Sohn Gottes?</verse>
+        <verse osisID='John.9.36'>Jener antwortete und sagte: Wer ist es, Herr, daß ich an Ihn glaube?</verse>
+        <verse osisID='John.9.37'>Jesus aber sprach zu ihm: Du hast ihn gesehen, und Der mit dir redet, Der ist es.</verse>
+        <verse osisID='John.9.38'>Er aber sprach: Ich glaube, Herr! und betete Ihn an.</verse>
+        <verse osisID='John.9.39'>Und Jesus sprach: Ich bin zum Gericht in diese Welt gekommen, auf daß, die da nicht sehen, sehen, und die da sehen, blind werden.</verse>
+        <verse osisID='John.9.40'>Und solches hörten etliche aus den Pharisäern, die bei Ihm waren, und sagten zu Ihm: Sind wir denn auch blind?</verse>
+        <verse osisID='John.9.41'>Jesus sprach zu ihnen: Wenn ihr blind wäret, so hättet ihr keine Sünde; nun ihr aber saget: Wir sehen, so bleibt denn eure Sünde.</verse>
+      </chapter>
+      <chapter osisID='John.10'>
+        <title>Der gute Hirte. Jesus der Messias.</title>
+        <verse osisID='John.10.1'>Wahrlich, wahrlich, Ich sage euch: Wer nicht durch die Tür in den Schafstall eingeht, sondern anderswo einsteigt<note>aufsteigt</note>, ist ein Dieb und ein Räuber.</verse>
+        <verse osisID='John.10.2'>Wer aber durch die Tür eingeht, der ist der Hirte der Schafe.</verse>
+        <verse osisID='John.10.3'>Dem tut der Türhüter auf, und die Schafe hören auf seine Stimme und er ruft seine eigenen Schafe mit Namen und führt sie aus.</verse>
+        <verse osisID='John.10.4'>Und wenn er die eigenen Schafe hinausgeführt hat, geht er vor ihnen her, und die Schafe folgen ihm nach, weil sie seine Stimme kennen.</verse>
+        <verse osisID='John.10.5'>Einem Fremden aber werden sie nicht nachfolgen, sondern fliehen von ihm, weil sie des Fremden Stimme nicht kennen.</verse>
+        <verse osisID='John.10.6'>Diese Gleichnisrede sprach Jesus zu ihnen, jene aber erkannten nicht, was es war, das Er zu ihnen redete.</verse>
+        <verse osisID='John.10.7'>Da sprach Jesus abermals zu ihnen: Wahrlich, wahrlich, Ich sage euch: Ich bin die Tür der Schafe.</verse>
+        <verse osisID='John.10.8'>Alle, die vor Mir gekommen, sind Diebe und Räuber. Aber die Schafe hörten nicht auf sie.</verse>
+        <verse osisID='John.10.9'>Ich bin die Tür. So jemand durch Mich eingeht, der wird gerettet werden, und wird eingehen und ausgehen und Weide finden.</verse>
+        <verse osisID='John.10.10'>Der Dieb kommt nicht, denn daß er stehle und schlachte und verderbe. Ich bin gekommen, auf daß sie Leben und Überfluß haben.</verse>
+        <verse osisID='John.10.11'>Ich bin der gute<note>schöne</note> Hirte. Der gute<note>schöne</note> Hirte läßt<note>setzt</note> sein Leben für die Schafe.</verse>
+        <verse osisID='John.10.12'>Der Mietling aber, und der nicht Hirte ist, dem die Schafe nicht eigen sind, schaut den Wolf kommen, und verläßt die Schafe und flieht, und der Wolf erhascht und zerstreut die Schafe.</verse>
+        <verse osisID='John.10.13'>Der Mietling aber flieht, weil er ein Mietling ist und sich nicht um die Schafe kümmert.</verse>
+        <verse osisID='John.10.14'>Ich bin der gute<note>schöne</note> Hirte und erkenne die Meinen, und werde erkannt von den Meinen,</verse>
+        <verse osisID='John.10.15'>Wie Mich Mein Vater erkennt, und Ich den Vater erkenne. Und Ich lasse<note>setze</note> Mein Leben<note>Meine Seele</note> für die Schafe.</verse>
+        <verse osisID='John.10.16'>Und andere Schafe habe Ich, die nicht aus diesem Stalle sind; auch sie muß Ich führen, und sie werden Meine Stimme hören, und wird eine Herde, ein Hirte werden.</verse>
+        <verse osisID='John.10.17'>Darum liebt Mich der Vater, daß Ich Mein Leben<note>Meine Seele</note> lasse<note>setze</note>, auf daß Ich es wieder nehme.</verse>
+        <verse osisID='John.10.18'>Niemand nimmt es Mir weg; sondern Ich lasse<note>setze</note> es von Mir Selber. Ich habe Gewalt, es zu lassen<note>setzen</note>, und habe Gewalt, es wiederum zu nehmen. Dies Gebot habe Ich von Meinem Vater empfangen.</verse>
+        <verse osisID='John.10.19'>Da ward wiederum ein Zwiespalt unter den Juden wegen dieser Worte.</verse>
+        <verse osisID='John.10.20'>Viele von ihnen aber sagten: Er hat einen Dämon und ist unsinnig. Was hört ihr Ihn?</verse>
+        <verse osisID='John.10.21'>Andere sagten: Das sind nicht Reden eines Besessenen. Kann ein Dämon den Blinden die Augen auftun?</verse>
+        <verse osisID='John.10.22'>Es war aber Tempelweihe in Jerusalem und war Winter.</verse>
+        <verse osisID='John.10.23'>Und Jesus wandelte umher im Heiligtum in der Halle Salomohs.</verse>
+        <verse osisID='John.10.24'>Da umringten Ihn die Juden und sagten zu Ihm: Wie lange hältst Du<note>hebst Du auf</note> unsre Seelen auf? Bist Du der Christus, so sage es uns frei heraus!</verse>
+        <verse osisID='John.10.25'>Jesus antwortete ihnen: Ich habe es euch gesagt, und ihr glaubt nicht. Die Werke, die Ich tue in Meines Vaters Namen, die zeugen von Mir.</verse>
+        <verse osisID='John.10.26'>Aber ihr glaubt nicht; denn ihr seid nicht von Meinen Schafen, wie Ich euch gesagt habe.</verse>
+        <verse osisID='John.10.27'>Meine Schafe hören Meine Stimme, und Ich erkenne sie, und sie folgen Mir nach.</verse>
+        <verse osisID='John.10.28'>Und Ich gebe ihnen ewiges Leben, und sie werden in Ewigkeit nicht verloren werden, und niemand wird sie aus Meiner Hand reißen<note>erhaschen</note>.</verse>
+        <verse osisID='John.10.29'>Mein Vater, Der sie Mir gegeben hat, ist größer, denn alle; und niemand kann sie Meinem Vater aus der Hand reißen<note>erhaschen</note>.</verse>
+        <verse osisID='John.10.30'>Ich und der Vater sind eins.</verse>
+        <verse osisID='John.10.31'>Da trugen die Juden abermals Steine herbei, um Ihn zu steinigen.</verse>
+        <verse osisID='John.10.32'>Jesus antwortete ihnen: Viele gute<note>schöne</note> Werke habe Ich euch gezeigt von Meinem Vater. Ob welchem dieser Werke steinigt ihr Mich?</verse>
+        <verse osisID='John.10.33'>Die Juden antworteten Ihm und sagten: Ob einem guten<note>schönen</note> Werke steinigen wir Dich nicht, sondern der Lästerungen wegen, und daß Du, ein Mensch, Dich Selbst zum Gotte machst.</verse>
+        <verse osisID='John.10.34'>Jesus antwortete ihnen: Ist nicht in eurem Gesetz geschrieben: Ich habe gesagt: Ihr seid Götter?</verse>
+        <verse osisID='John.10.35'>So Er die Götter nennt<note>spricht</note>, zu denen das Wort Gottes geschah - und die Schrift kann nicht gebrochen<note>gelöst</note> werden -</verse>
+        <verse osisID='John.10.36'>Wie sagt ihr zu Dem, Den der Vater geheiligt und in die Welt entsandt hat: Du lästerst, weil Ich sage: Ich bin Gottes Sohn?</verse>
+        <verse osisID='John.10.37'>Wenn Ich nicht die Werke Meines Vaters tue, so glaubet Mir nicht.</verse>
+        <verse osisID='John.10.38'>Tue Ich sie aber, wenn ihr auch Mir nicht glaubt, so glaubt den Werken; auf daß ihr erkennt und glaubt, daß in Mir der Vater ist, und Ich in Ihm.</verse>
+        <verse osisID='John.10.39'>Da suchten sie abermals Ihn zu greifen; und Er entging<note>ging hinaus</note> aus ihren Händen,</verse>
+        <verse osisID='John.10.40'>Und ging wiederum hin über den Jordan, an den Ort, wo Johannes zuerst taufte, und blieb allda,</verse>
+        <verse osisID='John.10.41'>Und viele kamen zu Ihm und sagten: Johannes hat zwar kein Zeichen getan, aber alles, was Johannes von Diesem gesagt hat, ist wahr gewesen.</verse>
+        <verse osisID='John.10.42'>Und viele allda glaubten an Ihn.</verse>
+      </chapter>
+      <chapter osisID='John.11'>
+        <title>Auferweckung des Lazarus.</title>
+        <verse osisID='John.11.1'>Es war aber einer krank, Lazarus von Bethanien, aus dem Flecken Marias und Marthas, ihrer Schwester.</verse>
+        <verse osisID='John.11.2'>Maria war es aber, die den Herrn mit Salbe salbte und Seine Füße mit ihren Haaren abwischte. Derselbigen Bruder Lazarus war krank.</verse>
+        <verse osisID='John.11.3'>Da sandten<note>entsandten</note> die Schwestern an Ihn und ließen Ihm sagen: Herr, siehe, der, den Du lieb hast, ist krank.</verse>
+        <verse osisID='John.11.4'>Da Jesus aber es hörte, sprach Er: Diese Krankheit ist nicht zum Tode, sondern um der Herrlichkeit Gottes willen, auf daß der Sohn Gottes durch sie verherrlicht werde.</verse>
+        <verse osisID='John.11.5'>Jesus aber liebte Martha und ihre Schwester und Lazarus.</verse>
+        <verse osisID='John.11.6'>Als Er nun hörte, daß er krank war, da blieb Er zwei Tage an dem Ort, da Er war.</verse>
+        <verse osisID='John.11.7'>Danach nach diesem spricht Er zu den Jüngern: Lasset uns wiederum nach Judäa ziehen.</verse>
+        <verse osisID='John.11.8'>Die Jünger sagen zu Ihm: Rabbi, eben erst suchten die Juden Dich zu steinigen; und Du gehst wieder dahin?</verse>
+        <verse osisID='John.11.9'>Jesus antwortete: Sind nicht zwölf Stunden des Tages? Wenn einer am Tage wandelt, stößt er sich nicht, weil er das Licht dieser Welt sieht.</verse>
+        <verse osisID='John.11.10'>Wandelt jemand aber in der Nacht, dann stößt er sich; denn das Licht ist nicht ihn ihm.</verse>
+        <verse osisID='John.11.11'>Solches sprach Er, und danach sagt Er zu ihnen: Lazarus, unser Freund, schlummert, aber Ich ziehe hin, um ihn aus dem Schlafe zu wecken.</verse>
+        <verse osisID='John.11.12'>Sprechen nun Seine Jünger: Herr, wenn er schlummert, so wird er gerettet werden.</verse>
+        <verse osisID='John.11.13'>Jesus aber hatte von seinem Tode gesprochen. Sie meinten aber, Er spreche von dem Schlummern des Schlafes.</verse>
+        <verse osisID='John.11.14'>Da sagte ihnen nun Jesus frei heraus: Lazarus ist gestorben;</verse>
+        <verse osisID='John.11.15'>Und Ich freue Mich um euretwegen, daß Ich nicht dort gewesen bin, auf daß ihr glaubt; aber lasset uns zu ihm ziehen!</verse>
+        <verse osisID='John.11.16'>Da sprach Thomas, genannt Didymus, zu seinen Mitjüngern: Lasset auch uns ziehen, daß wir mit Ihm sterben.</verse>
+        <verse osisID='John.11.17'>Als nun Jesus kam, fand Er, daß er schon vier Tage in der Gruft lag.</verse>
+        <verse osisID='John.11.18'>Bethanien aber war nahe bei Jerusalem, bei fünfzehn Stadien.</verse>
+        <verse osisID='John.11.19'>Und viele von den Juden waren zu denen bei Martha und Maria gekommen, um sie zu vertrösten über ihrem Bruder.</verse>
+        <verse osisID='John.11.20'>Als nun Martha hörte, daß Jesus komme, ging sie Ihm entgegen; Maria aber saß im Hause.</verse>
+        <verse osisID='John.11.21'>Martha sprach nun zu Jesus: Herr, wärest Du hier gewesen, mein Bruder wäre wohl nicht gestorben.</verse>
+        <verse osisID='John.11.22'>Aber auch nun weiß ich, daß, worum Du Gott bitten wirst, wird Dir Gott geben.</verse>
+        <verse osisID='John.11.23'>Spricht Jesus zu ihr: Dein Bruder wird auferstehen.</verse>
+        <verse osisID='John.11.24'>Spricht Martha zu Ihm: Ich weiß, daß er auferstehen wird in der Auferstehung am letzten Tag.</verse>
+        <verse osisID='John.11.25'>Jesus sprach zu ihr: Ich bin die Auferstehung und das Leben! Wer an Mich glaubt, wird leben, wenn er auch stürbe.</verse>
+        <verse osisID='John.11.26'>Und wer da lebt und an Mich glaubt, der wird nicht sterben in Ewigkeit. Glaubst Du das?</verse>
+        <verse osisID='John.11.27'>Sie spricht zu Ihm: Ja, Herr, ich glaube, daß Du bist der Christus, der Sohn Gottes, Der in die Welt kommen soll.</verse>
+        <verse osisID='John.11.28'>Und als sie das gesagt hatte, ging sie hin und rief insgeheim ihrer Schwester Maria und sprach: Der Lehrer ist da und ruft dich.</verse>
+        <verse osisID='John.11.29'>Als diese es hörte, machte sie sich schnell auf und kam zu Ihm.</verse>
+        <verse osisID='John.11.30'>Jesus war aber noch nicht in den Flecken gekommen, sondern war an dem Orte, wo Ihm Martha entgegenkam.</verse>
+        <verse osisID='John.11.31'>Da nun die Juden, die bei ihr im Hause waren und sie vertrösteten, sahen, daß Maria eilig aufstand und hinausging, folgten sie ihr nach und sprachen: Sie geht hin zur Gruft, um dort zu weinen.</verse>
+        <verse osisID='John.11.32'>Wie nun Maria dahin kam, wo Jesus war, und Ihn sah, fiel sie zu Seinen Füßen und sprach zu Ihm: Herr, wärest Du da gewesen, mein Bruder wäre wohl nicht gestorben.</verse>
+        <verse osisID='John.11.33'>Wie Jesus nun sie weinen sah, und die Juden weinen, die mit ihr gekommen waren, ergrimmte Er im Geiste und Er Selbst erbebte.</verse>
+        <verse osisID='John.11.34'>Und sprach: Wo habt ihr ihn hingelegt? Sie sagen zu Ihm: Herr, komm und siehe es.</verse>
+        <verse osisID='John.11.35'>Und Jesus gingen<note>tränten</note> die Augen über<note>tränten</note>.</verse>
+        <verse osisID='John.11.36'>Da sagten die Juden: Siehe, wie hat Er ihn so lieb gehabt!</verse>
+        <verse osisID='John.11.37'>Einige aber aus ihnen sagten: Konnte Er, Der dem Blinden die Augen aufgetan hat, nicht machen, daß auch dieser nicht stürbe?</verse>
+        <verse osisID='John.11.38'>Jesus ergrimmte nun wiederum in Sich und kam zu der Gruft. Es war aber eine Höhle und ein Stein lag darauf.</verse>
+        <verse osisID='John.11.39'>Jesus sprach: Hebt den Stein weg! Spricht zu Ihm die Schwester des Verstorbenen, Martha: Herr, er riecht schon; denn es ist der vierte Tag<note>er ist viertägig</note>.</verse>
+        <verse osisID='John.11.40'>Spricht Jesus zu ihr: Sagte Ich dir nicht, wenn du glaubtest, würdest du die Herrlichkeit Gottes sehen?</verse>
+        <verse osisID='John.11.41'>Sie hoben nun den Stein weg, da der Verstorbene lag. Jesus aber hob die Augen auf und sprach: Vater, Ich danke Dir, daß Du Mich gehört hast.</verse>
+        <verse osisID='John.11.42'>Ich wußte aber, daß Du Mich allezeit hörst; aber wegen des Gedränges, das umhersteht, habe Ich gesprochen, auf daß sie glauben, daß Du Mich entsandt hast.</verse>
+        <verse osisID='John.11.43'>Und als Er dies gesagt hatte, schrie Er laut mit großer Stimme: Lazarus, komm heraus!</verse>
+        <verse osisID='John.11.44'>Und der Verstorbene kam heraus, an Füßen und Händen mit Binden gebunden, und sein Gesicht<note>Ansehen</note> war mit einem Schweißtuch umbunden. Spricht Jesus zu ihnen: Löset ihn und lasset ihn hingehen.</verse>
+        <verse osisID='John.11.45'>Viele nun aus den Juden, die zu Martha gekommen und angesehen hatten, was Er tat, glaubten an Ihn.</verse>
+        <verse osisID='John.11.46'>Etliche aber aus ihnen gingen hin zu den Pharisäern und sagten ihnen, was Jesus getan hatte.</verse>
+        <verse osisID='John.11.47'>Da versammelten die Hohenpriester und die Pharisäer den Rat<note>Synedrion</note> und sprachen: Was tun wir, dieweil dieser Mensch viele Zeichen tut?</verse>
+        <verse osisID='John.11.48'>Lassen wir Ihn also, dann werden alle an Ihn glauben, und die Römer kommen und nehmen uns beides, den Ort und die Völkerschaft weg.</verse>
+        <verse osisID='John.11.49'>Einer aber aus ihnen, Kaiaphas, der selbigen Jahres Hoherpriester war, sprach zu ihnen: Ihr wißt nichts,</verse>
+        <verse osisID='John.11.50'>Noch bedenkt ihr, daß es zuträglich für uns ist, ein Mensch sterbe für das Volk, und daß nicht die ganze Völkerschaft verderbe.</verse>
+        <verse osisID='John.11.51'>Dies sprach er aber nicht von ihm selbst; sondern weil er selbigen Jahres Hoherpriester war, weissagte er, daß Jesus für die Völkerschaft sterben würde,</verse>
+        <verse osisID='John.11.52'>Und nicht nur für die Völkerschaft allein, sondern daß Er auch die zerstreuten Kinder Gottes in eins zusammenführete.</verse>
+        <verse osisID='John.11.53'>Von selbigen Tage nun ratschlagten sie, daß sie ihn töteten.</verse>
+        <verse osisID='John.11.54'>Jesus wandelte nun nicht mehr frei heraus unter den Juden, sondern ging von dannen weg in die Gegend nahe bei der Wüste in eine Stadt, genannt Ephraim, und verweilte allda mit Seinen Jüngern.</verse>
+        <verse osisID='John.11.55'>Es war aber nahe das Pascha der Juden, und viele aus der Gegend gingen vor dem Pascha hinauf nach Jerusalem, um sich zu reinigen.</verse>
+        <verse osisID='John.11.56'>Sie suchten nun Jesus und sprachen zueinander, wie sie in dem Heiligtum standen: Was dünket euch? Daß Er wohl nicht auf das Fest kommen wird?</verse>
+        <verse osisID='John.11.57'>Es hatten aber beide, die Hohenpriester und die Pharisäer ein Gebot geben, so jemand erfahre, wo Er wäre, sollte er es anzeigen, daß sie Ihn griffen.</verse>
+      </chapter>
+      <chapter osisID='John.12'>
+        <title>Salbung Christi. Sein Einzug in Jerusalem.</title>
+        <verse osisID='John.12.1'>Sechs Tage vor dem Pascha kam Jesus nun nach Bethanien, wo Lazarus war, der Verstorbene, den Er von den Toten auferweckt hatte.</verse>
+        <verse osisID='John.12.2'>Daselbst machten sie Ihm nun ein Abendmahl, und Martha diente, Lazarus aber war deren einer, die mit Ihm zu Tische waren<note>lagen</note>.</verse>
+        <verse osisID='John.12.3'>Da nahm Maria ein Pfund echter kostbarer Nardensalbe und salbte die Füße Jesu und trocknete<note>wischte ab</note> Seine Füße mit ihren Haaren; das Haus aber ward erfüllt von dem Geruch der Salbe.</verse>
+        <verse osisID='John.12.4'>Da sagte einer von Seinen Jüngern, Judas, Simons Sohn<note>Sohn nicht im Griech.</note>, Iskariot, der Ihn hernach verriet:</verse>
+        <verse osisID='John.12.5'>Warum hat man diese Salbe nicht verkauft um dreihundert Denare und den Armen gegeben?</verse>
+        <verse osisID='John.12.6'>Dies sagte er aber, nicht weil er sich um die Armen kümmerte, sondern weil er ein Dieb war und den Beutel hatte, und trug, was eingelegt ward.</verse>
+        <verse osisID='John.12.7'>Jesus sagte nun: Lasse sie! Sie hat es für den Tage Meines Begräbnisses behalten;</verse>
+        <verse osisID='John.12.8'>Denn die Armen habt ihr allezeit bei euch, Mich aber habt ihr nicht allezeit.</verse>
+        <verse osisID='John.12.9'>Da erfuhr viel Volks<note>Gedränge</note> der Juden, daß Er daselbst war, und sie kamen, nicht um Jesus willen allein, sondern auch, daß sie Lazarus sähen, den Er von den Toten auferweckt hatte.</verse>
+        <verse osisID='John.12.10'>Die Hohenpriester aber berieten sich, daß sie auch den Lazarus töteten;</verse>
+        <verse osisID='John.12.11'>Weil viele der Juden um Seinetwillen hingingen und an Jesus glaubten.</verse>
+        <verse osisID='John.12.12'>Am folgenden Tage, da viel Volk<note>Gedränge</note>, das zum Feste gekommen war, hörte, daß Jesus nach Jerusalem komme;</verse>
+        <verse osisID='John.12.13'>Nahmen sie Zweige von Palmen und gingen hinaus Ihm entgegen und schrien: Hosianna! Gesegnet sei, der da kommt im Namen des Herrn! der König Israels!</verse>
+        <verse osisID='John.12.14'>Jesus aber fand ein Eselein, und saß darauf, wie geschrieben ist:</verse>
+        <verse osisID='John.12.15'>Fürchte dich nicht, Tochter Zion! Siehe, dein König kommt, sitzend auf einem Eselfüllen!</verse>
+        <verse osisID='John.12.16'>Solches erkannten Seine Jünger zuerst nicht; als Jesus aber verherrlicht war, da dachten sie daran, daß solches über Ihn geschrieben war, und sie solches Ihm getan hatten.</verse>
+        <verse osisID='John.12.17'>Das Gedränge nun, das mit Ihm war, zeugte, daß Er Lazarus aus der Gruft gerufen und ihn von den Toten auferweckt habe.</verse>
+        <verse osisID='John.12.18'>Darum ging Ihm auch das Gedränge entgegen, da sie hörten, Er hätte solches Zeichen getan.</verse>
+        <verse osisID='John.12.19'>Die Pharisäer sprachen nun untereinander: Da schauet ihr, daß nichts nützet; siehe, die Welt geht Ihm nach!</verse>
+        <verse osisID='John.12.20'>Es waren aber etliche Griechen aus denen, die hinaufkamen, um am Feste anzubeten;</verse>
+        <verse osisID='John.12.21'>Diese nun kamen zu Philippus von Bethsaida in Galiläa, und baten<note>fragten</note> ihn und sprachen: Herr, wir wollten Jesus sehen.</verse>
+        <verse osisID='John.12.22'>Philippus kommt und sagt es dem Andreas, und wiederum Andreas und Philippus sagen es Jesus.</verse>
+        <verse osisID='John.12.23'>Jesus aber antwortete ihnen und sagte: Die Stunde ist gekommen, daß des Menschen Sohn verherrlicht werde.</verse>
+        <verse osisID='John.12.24'>Wahrlich, wahrlich, Ich sage euch: Es sei denn, daß das Weizenkorn in die Erde fällt und stirbt, bleibt es allein; so es aber stirbt, so trägt es viele Frucht.</verse>
+        <verse osisID='John.12.25'>Wer sein Leben<note>seine Seele</note> lieb hat, der verliert es; und wer sein Leben<note>seine Seele</note> haßt in dieser Welt, der wird es bewahren zum ewigen Leben.</verse>
+        <verse osisID='John.12.26'>Wer Mir dienen will, der folge Mir nach, und wo Ich bin, da soll Mein Diener auch sein; und wenn einer Mir dient, so wird ihn der Vater ehren.</verse>
+        <verse osisID='John.12.27'>Jetzt ist Meine Seele erschüttert. Und was soll Ich sagen? Vater, rette Mich aus dieser Stunde! Aber dafür bin Ich in diese Stunde gekommen.</verse>
+        <verse osisID='John.12.28'>Vater, verherrliche Deinen Namen! Da kam eine Stimme aus dem Himmel: Ich habe ihn verherrlicht und werde ihn abermals verherrlichen.</verse>
+        <verse osisID='John.12.29'>Das Gedränge nun, das da stand und es hörte, sagte: Es ward ein Donner. Andere sagten: Ein Engel hat mit Ihm geredet.</verse>
+        <verse osisID='John.12.30'>Jesus antwortete und sprach: Nicht um Meinetwillen ist diese Stimme geschehen, sondern um euretwillen.</verse>
+        <verse osisID='John.12.31'>Jetzt ist das Gericht dieser Welt. Jetzt wird der Fürst<note>Oberste</note> dieser Welt hinausgestoßen werden.</verse>
+        <verse osisID='John.12.32'>Und Ich, wenn Ich erhöht werde von der Erde, werde alle zu Mir ziehen.</verse>
+        <verse osisID='John.12.33'>Dies sagte Er aber, indem Er anzeigte, welches Todes Er sterben würde.</verse>
+        <verse osisID='John.12.34'>Da antwortete Ihm des Gedränge: Wir haben aus dem Gesetz gehört, daß Christus in Ewigkeit bleibt. Und wie sagst Du, daß des Menschen Sohn erhöht werden muß? Wer ist dieser Menschensohn?</verse>
+        <verse osisID='John.12.35'>Jesus sprach nun zu ihnen: Noch eine kleine Zeit ist das Licht bei euch. Wandelt, solange ihr das Licht habt, daß euch die Finsternis nicht überfalle. Und wer in der Finsternis wandelt, der weiß nicht, wohin er geht.</verse>
+        <verse osisID='John.12.36'>Solange ihr das Licht habt, glaubt an das Licht, auf daß ihr Söhne des Lichtes werdet. Solches redete Jesus, und ging weg und verbarg Sich vor ihnen.</verse>
+        <verse osisID='John.12.37'>Obgleich Er aber so viel Zeichen vor ihnen getan, glaubten sie doch nicht an Ihn.</verse>
+        <verse osisID='John.12.38'>Auf daß das Wort des Propheten Jesajas erfüllt werde, das er sagte: Herr, wer hat unserer Rede<note>unserem Gehör</note> geglaubt? Und wem ist des Herrn Arm geoffenbart worden?</verse>
+        <verse osisID='John.12.39'>Deshalb konnten sie nicht glauben, weil Jesajas abermals sagte:</verse>
+        <verse osisID='John.12.40'>Er hat geblendet ihre Augen, und ihr Herz verstockt, daß sie nicht sehen mit den Augen und mit dem Herzen begreifen und umkehren, und Ich sie gesund mache.</verse>
+        <verse osisID='John.12.41'>Solches sagte Jesajas, als er Seine Herrlichkeit sah und von Ihm redete.</verse>
+        <verse osisID='John.12.42'>Gleichwohl glaubten auch der Obersten viele an Ihn, bekannten es aber nicht, um der Pharisäer willen, auf daß sie nicht aus der Synagoge gestoßen würden.</verse>
+        <verse osisID='John.12.43'>Denn sie liebten die Ehre<note>Herrlichkeit</note> der Menschen mehr, denn die Ehre<note>Herrlichkeit</note> Gottes.</verse>
+        <verse osisID='John.12.44'>Jesus aber schrie und sprach: Wer an Mich glaubt, glaubt nicht an Mich, sondern an Den, Der Mich gesandt hat.</verse>
+        <verse osisID='John.12.45'>Und wer Mich schaut, der schaut Den, Der Mich gesandt hat.</verse>
+        <verse osisID='John.12.46'>Ich bin<note>als</note> ein Licht in die Welt gekommen, auf daß alle, die an Mich glauben, nicht in der Finsternis bleiben.</verse>
+        <verse osisID='John.12.47'>Und wenn einer Meine Reden hört, und nicht glaubt, richte Ich ihn nicht; denn Ich bin nicht gekommen, daß Ich die Welt richte, sondern daß Ich die Welt rette.</verse>
+        <verse osisID='John.12.48'>Wer Mich verwirft<note>beiseite setzt</note> und Meine Reden nicht annimmt, der hat einen, der ihn richtet; das Wort, das Ich geredet habe, das wird ihn richten am letzten Tag.</verse>
+        <verse osisID='John.12.49'>Denn Ich habe nicht von Mir Selber geredet, sondern der Vater, Der Mich gesandt, hat Selbst Mir ein Gebot gegeben, was Ich sagen und was Ich reden soll.</verse>
+        <verse osisID='John.12.50'>Und Ich weiß, daß Sein Gebot ist ewiges Leben. Was Ich nun rede: wie Mir der Vater gesagt hat, so rede Ich.</verse>
+      </chapter>
+      <chapter osisID='John.13'>
+        <title>Abendmahl. Fußwaschung. Judas. - Gebot der Liebe.</title>
+        <verse osisID='John.13.1'>Vor dem Fest des Pascha aber, da Jesus wußte, daß Seine Stunde gekommen war, daß Er aus dieser Welt zum Vater übergehen sollte, da Er Seine Eigenen in der Welt geliebt hatte, liebte Er sie bis ans Ende.</verse>
+        <verse osisID='John.13.2'>Und als das Abendmahl gehalten<note>geschah</note> wurde, und der Teufel dem Judas, Simons Sohn<note>Sohn nicht im Griech.</note>, Iskariot, schon ins Herz gegeben<note>geworfen</note> hatte, daß er Ihn verriete,</verse>
+        <verse osisID='John.13.3'>Da Jesus wußte, daß Ihm der Vater alles in die Hände gegeben hatte, und daß Er von Gott ausgegangen war, und zu Gott hinging,</verse>
+        <verse osisID='John.13.4'>Machte Er Sich auf vom Abendmahl und legte Seine Oberkleider ab, nahm ein leinenes Tuch und umgürtete Sich.</verse>
+        <verse osisID='John.13.5'>Dann goß Er Wasser in das Waschbecken und fing an, den Jüngern die Füße zu waschen, und mit dem leinenen Tuch, womit Er umgürtet war, zu trocknen<note>abzuwischen</note>.</verse>
+        <verse osisID='John.13.6'>Da kam Er zu Simon Petrus; und selbiger spricht zu Ihm: Herr, Du solltest mir die Füße waschen?</verse>
+        <verse osisID='John.13.7'>Jesus antwortete und sprach zu ihm: Was Ich tue, weißt du jetzt nicht, wirst es aber hernach erfahren.</verse>
+        <verse osisID='John.13.8'>Spricht zu Ihm Petrus: In Ewigkeit sollst Du die Füße mir nicht waschen! Jesus antwortete ihm: Wenn Ich dich nicht wasche, so hast du keinen Teil an Mir.</verse>
+        <verse osisID='John.13.9'>Spricht zu Ihm Simon Petrus: Herr, nicht meine Füße allein, sondern auch die Hände und das Haupt.</verse>
+        <verse osisID='John.13.10'>Jesus spricht zu ihm: Wer gebadet ist, der bedarf mehr nicht, denn die Füße zu waschen; sondern er ist ganz rein; und ihr seid rein, aber nicht alle.</verse>
+        <verse osisID='John.13.11'>Denn Er kannte Seinen Verräter. Darum sagte Er: Ihr seid nicht alle rein.</verse>
+        <verse osisID='John.13.12'>Als Er nun ihr Füße gewaschen und Seine Oberkleider wieder genommen hatte, ließ Er Sich wiederum nieder und sprach zu ihnen: Erkennt ihr, was Ich euch getan habe?</verse>
+        <verse osisID='John.13.13'>Ihr heißet<note>rufet</note> Mich Lehrer und Herr, und ihr sagt recht<note>schön</note>; denn Ich bin es.</verse>
+        <verse osisID='John.13.14'>So nun Ich, der Herr und Lehrer, euch die Füße wusch, solltet auch ihr einander die Füße waschen.</verse>
+        <verse osisID='John.13.15'>Ein Beispiel habe Ich euch gegeben, daß, wie Ich euch getan habe, auch ihr tut.</verse>
+        <verse osisID='John.13.16'>Wahrlich, wahrlich, Ich sage euch: Der Knecht ist nicht größer, denn sein Herr, noch der Gesandte größer, denn der ihn gesandt hat.</verse>
+        <verse osisID='John.13.17'>So ihr solches wisset, selig seid ihr, so ihr es tut.</verse>
+        <verse osisID='John.13.18'>Ich spreche nicht von euch allein. Ich weiß, welche Ich erwählt habe. Aber daß die Schrift erfüllt werde: Der Mein Brot ißt<note>kaut</note>, hat seine Ferse wider Mich erhoben.</verse>
+        <verse osisID='John.13.19'>Schon jetzt sage Ich es euch, ehe denn es geschieht, auf daß, wenn es geschehen ist, ihr glaubt, daß Ich bin.</verse>
+        <verse osisID='John.13.20'>Wahrlich, wahrlich, Ich sage euch: Wer den aufnimmt, den Ich senden werde, der nimmt Mich auf; wer aber Mich aufnimmt, der nimmt Den auf, Der Mich gesandt hat.</verse>
+        <verse osisID='John.13.21'>Als Jesus dies gesagt hatte, erbebte Er im Geist und zeugte und sprach: Wahrlich, wahrlich, Ich sage euch: Einer aus euch wird Mich verraten.</verse>
+        <verse osisID='John.13.22'>Da sahen die Jünger einander an und waren im Zweifel, von wem Er spreche.</verse>
+        <verse osisID='John.13.23'>Es lag aber einer aus Seinen Jüngern am Busen Jesu, den Jesus liebte.</verse>
+        <verse osisID='John.13.24'>Dem winkte nun Simon Petrus, er sollte erfragen, wer wohl der wäre, von dem Er spräche.</verse>
+        <verse osisID='John.13.25'>Derselbige neigte sich nach<note>fiel auf die Brust</note> der Brust Jesu und spricht zu Ihm: Herr, wer ist es?</verse>
+        <verse osisID='John.13.26'>Jesus antwortet: Der ist es, dem Ich den Bissen eintauche und gebe. Und Er tauchte den Bissen ein und gab ihn dem Judas, Simons Sohn<note>Sohn nicht im Griech.</note>, Iskariot.</verse>
+        <verse osisID='John.13.27'>Und nach dem Bissen fuhr<note>ging</note> der Satan ein in ihn. Jesus sagt nun zu ihm: Was du tust, das tue schnell!</verse>
+        <verse osisID='John.13.28'>Keiner aber derer, die mit zu Tische waren<note>lagen</note>, erkannte, wozu Er ihm dies sagte.</verse>
+        <verse osisID='John.13.29'>Denn etliche meinten, da Judas den Beutel hatte, Jesus sage zu ihm: Kaufe, was wir aufs Fest bedürfen; oder, er sollte den Armen etwas geben.</verse>
+        <verse osisID='John.13.30'>Da jener aber den Bissen genommen hatte, ging er alsbald hinaus. Es war aber Nacht.</verse>
+        <verse osisID='John.13.31'>Als er nun hinausgegangen war, sprach Jesus: Jetzt ist des Menschen Sohn verherrlicht, und Gott ist verherrlicht in Ihm.</verse>
+        <verse osisID='John.13.32'>Ist Gott in Ihm verherrlicht, so wird Ihn auch Gott in Ihm Selbst verherrlichen, und wird Ihn alsbald verherrlichen.</verse>
+        <verse osisID='John.13.33'>Kindlein, noch eine kleine Weile<note>ein Kleines</note> bin Ich bei euch. Ihr werdet Mich suchen, und, wie Ich zu den Juden sagte: Wo Ich hingehe, dahin könnt ihr nicht kommen, also sage Ich auch jetzt zu euch.</verse>
+        <verse osisID='John.13.34'>Ein neu Gebot gebe Ich euch, daß ihr euch untereinander liebt, wie Ich euch geliebt habe, auf daß auch ihr einander liebt.</verse>
+        <verse osisID='John.13.35'>Daran werden alle erkennen, daß ihr Meine Jünger seid, so ihr Liebe untereinander habt.</verse>
+        <verse osisID='John.13.36'>Simon Petrus spricht zu Ihm: Herr, wo gehst Du hin? Jesus antwortet ihm: Wo Ich hingehe, dahin kannst du Mir jetzt nicht nachfolgen. Danach aber wirst du Mir nachfolgen.</verse>
+        <verse osisID='John.13.37'>Spricht zu Ihm Petrus: Herr, warum kann ich Dir jetzt nicht nachfolgen? Ich will mein Leben<note>meine Seele</note> für Dich lassen<note>setzen</note>.</verse>
+        <verse osisID='John.13.38'>Jesus antwortete ihm: Du willst dein Leben<note>deine Seele</note> für Mich lassen<note>setzen</note>? Wahrlich, wahrlich, Ich sage dir: Der Hahn wird nicht krähen, bis du Mich dreimal verleugnet hast.</verse>
+      </chapter>
+      <chapter osisID='John.14'>
+        <title>Jesu Abschiedsrede an Seine Jünger. - Verheißung des Heiligen Geistes.</title>
+        <verse osisID='John.14.1'>Euer Herz erbebe nicht! Glaubt an Gott und glaubt an Mich.</verse>
+        <verse osisID='John.14.2'>In Meines Vaters Hause sind viele Wohnungen. Wäre dem nicht so, Ich hätte es euch gesagt. Ich gehe hin, euch eine Stätte<note>einen Ort</note> zu bereiten.</verse>
+        <verse osisID='John.14.3'>Und wenn Ich hingehe und euch eine Stätte<note>einen Ort</note> bereite, komme Ich wieder und werde euch zu Mir mitnehmen, auf daß ihr seid, wo Ich bin.</verse>
+        <verse osisID='John.14.4'>Und wo Ich hingehe, wisset ihr, und den Weg wisset ihr.</verse>
+        <verse osisID='John.14.5'>Spricht zu Ihm Thomas: Herr, wir wissen nicht, wo Du hingehst; und wie können wir den Weg wissen?</verse>
+        <verse osisID='John.14.6'>Spricht zu ihm Jesus: Ich bin der Weg und die Wahrheit und das Leben; niemand kommt zum Vater, denn durch Mich.</verse>
+        <verse osisID='John.14.7'>Erkennetet ihr Mich, so erkennetet ihr auch wohl Meinen Vater; und von nun an erkennet ihr Ihn und habt Ihn gesehen.</verse>
+        <verse osisID='John.14.8'>Spricht zu Ihm Philippus: Herr, zeige uns den Vater, und es genügt uns.</verse>
+        <verse osisID='John.14.9'>Spricht zu ihm Jesus: So lange Zeit bin Ich bei euch, und du erkennst Mich nicht Philippus? Wer Mich gesehen hat, der hat den Vater gesehen. Und wie sagst du: Zeige uns den Vater?</verse>
+        <verse osisID='John.14.10'>Glaubst du nicht, daß Ich in dem Vater bin und der Vater in Mir ist? Die Reden, die Ich zu euch rede, rede Ich nicht von Mir; der Vater aber, Der in Mir bleibt, Der tut die Werke.</verse>
+        <verse osisID='John.14.11'>Glaubt Mir, daß Ich im Vater bin und der Vater in Mir ist; wo nicht, so glaubt Mir um der Werke willen.</verse>
+        <verse osisID='John.14.12'>Wahrlich, wahrlich, Ich sage euch: Wer an Mich glaubt, wird auch die Werke tun, die Ich tue, und wird noch größere tun, denn diese; denn Ich gehe zu Meinem Vater.</verse>
+        <verse osisID='John.14.13'>Und um was immer ihr bitten werdet in Meinem Namen, das will Ich tun, auf daß der Vater in dem Sohn verherrlicht werde.</verse>
+        <verse osisID='John.14.14'>Wenn ihr um etwas bitten werdet in Meinem Namen, so will Ich es tun.</verse>
+        <verse osisID='John.14.15'>Wenn ihr Mich liebt, so haltet Meine Gebote.</verse>
+        <verse osisID='John.14.16'>Und Ich werde den Vater bitten<note>fragen</note>, und Er wird euch einen anderen Beistand geben, daß er bei euch bleibe ewiglich.</verse>
+        <verse osisID='John.14.17'>Den Geist der Wahrheit, den die Welt nicht empfangen kann, weil sie ihn nicht schaut und nicht erkennt. Ihr aber erkennt ihn, weil er bei euch bleibt, und in euch sein wird.</verse>
+        <verse osisID='John.14.18'>Ich will euch nicht Waisen lassen; Ich komme zu euch.</verse>
+        <verse osisID='John.14.19'>Noch um ein Kleines, und die Welt schaut Mich nicht mehr. Ihr aber schaut Mich; denn Ich lebe und ihr sollt leben.</verse>
+        <verse osisID='John.14.20'>An selbigen Tage werdet ihr erkennen, daß Ich in Meinem Vater bin und ihr in Mir, und Ich in euch.</verse>
+        <verse osisID='John.14.21'>Wer Meine Gebote hat und sie hält, der ist es, der Mich liebt, und wer Mich liebt, der wird von Meinen Vater geliebt werden, und Ich werde ihn lieben und Mich ihm offenbaren.</verse>
+        <verse osisID='John.14.22'>Spricht zu Ihm Judas<note>nicht der Iskariot</note>: Herr, wie geschieht es, daß Du Dich uns willst offenbaren, und nicht der Welt?</verse>
+        <verse osisID='John.14.23'>Jesus antwortete und sprach zu ihm: Wenn jemand Mich liebt, wird er Mein Wort halten; und Mein Vater wird ihn lieben, und Wir werden zu ihm kommen und Wohnung bei ihm machen.</verse>
+        <verse osisID='John.14.24'>Wer Mich nicht liebt, hält Meine Worte nicht. Und das Wort, das ihr hört, ist nicht Mein, sondern des Vaters, Der Mich gesandt hat.</verse>
+        <verse osisID='John.14.25'>Solches habe Ich zu euch geredet, weil Ich noch bei euch blieb.</verse>
+        <verse osisID='John.14.26'>Der Beistand aber, der Heilige Geist, den der Vater in Meinem Namen senden wird, der wird euch alles lehren, und euch an alles erinnern, was Ich euch gesagt habe.</verse>
+        <verse osisID='John.14.27'>Friede lasse Ich euch, Meinen Frieden gebe Ich euch; nicht wie die Welt gibt, gebe Ich euch. Euer Herz erbebe nicht und zage nicht.</verse>
+        <verse osisID='John.14.28'>Ihr habt gehört, daß Ich zu euch gesagt habe: Ich gehe hin und komme zu euch. Liebtet ihr Mich, so freuetet ihr euch wohl, daß Ich sagte: Ich gehe hin zum Vater; denn der Vater ist größer, denn Ich.</verse>
+        <verse osisID='John.14.29'>Und Ich habe es euch jetzt gesagt, ehe denn es geschieht, auf daß ihr glaubt, wenn es geschieht.</verse>
+        <verse osisID='John.14.30'>Ich werde nicht mehr viel mit euch reden; denn es kommt der Fürst<note>Oberste</note> der Welt, und hat nichts an Mir;</verse>
+        <verse osisID='John.14.31'>Damit aber die Welt erkenne, daß Ich den Vater liebe und also tue, wie Mir der Vater geboten hat. Machet euch auf, und lasset uns von hinnen gehen!</verse>
+      </chapter>
+      <chapter osisID='John.15'>
+        <title>Christus der Weinstock.</title>
+        <verse osisID='John.15.1'>Ich bin der wahrhaftige Weinstock und Mein Vater ist der Weingärtner.</verse>
+        <verse osisID='John.15.2'>Eine jegliche Rebe an Mir, die nicht Frucht trägt, nimmt Er weg, und eine jegliche, die da Frucht trägt, reinigt Er, daß sie mehr Frucht trage.</verse>
+        <verse osisID='John.15.3'>Ihr seid schon rein durch das Wort, das Ich zu euch geredet habe.</verse>
+        <verse osisID='John.15.4'>Bleibt in Mir, und Ich in euch. Gleichwie die Rebe keine Frucht tragen kann von ihr selber, sie bleibe denn am Weinstock, so auch ihr nicht, ihr bleibt denn in Mir.</verse>
+        <verse osisID='John.15.5'>Ich bin der Weinstock, ihr die Reben. Wer in Mir bleibt und Ich in ihm, der trägt viele Frucht; denn ohne Mich könnt ihr nichts tun.</verse>
+        <verse osisID='John.15.6'>Wer nicht in Mir bleibt, der wird hinausgeworfen wie die Rebe und verdorrt, und sie sammeln sie und werfen sie ins Feuer, und sie brennen.</verse>
+        <verse osisID='John.15.7'>Wenn ihr in Mir bleibt und Meine Reden in euch bleiben, so sollt ihr bitten, was ihr wollt, und es wird euch geschehen.</verse>
+        <verse osisID='John.15.8'>Darin wird Mein Vater verherrlicht, daß ihr viele Frucht traget und Meine Jünger werdet.</verse>
+        <verse osisID='John.15.9'>Wie Mich Mein Vater geliebt hat, so habe Ich euch auch geliebt. Bleibet in Meiner Liebe!</verse>
+        <verse osisID='John.15.10'>Wenn ihr Meine Gebote haltet, so werdet ihr in Meiner Liebe bleiben, wie Ich die Gebote Meines Vaters gehalten habe und in Seiner Liebe bleibe.</verse>
+        <verse osisID='John.15.11'>Solches habe Ich zu euch geredet, auf daß Meine Freude in euch bleibe und eure Freude erfüllt werde.</verse>
+        <verse osisID='John.15.12'>Das ist Mein Gebot, daß ihr einander liebt, wie Ich euch geliebt habe.</verse>
+        <verse osisID='John.15.13'>Größere Liebe hat niemand denn die, daß er sein Leben<note>seine Seele</note> für seine Freunde läßt<note>setzt</note>.</verse>
+        <verse osisID='John.15.14'>Ihr seid Meine Freunde, wenn ihr tut, was Ich euch gebiete.</verse>
+        <verse osisID='John.15.15'>Ich nenne euch hinfort nicht Knechte; denn der Knecht weiß nicht, was sein Herr tut, sondern habe euch Freunde genannt, weil Ich alles, was Ich von Meinem Vater gehört, euch kundgetan habe.</verse>
+        <verse osisID='John.15.16'>Ihr habt Mich nicht erwählt, sondern Ich habe euch erwählt, und euch eingesetzt, daß ihr hingehet und Frucht traget, und eure Frucht bleibe, auf daß, was immer ihr vom Vater in Meinem Namen bittet, Er es euch gebe.</verse>
+        <verse osisID='John.15.17'>Das gebiete Ich euch, daß ihr einander liebet.</verse>
+        <verse osisID='John.15.18'>So euch die Welt haßt, so erkennet, daß sie Mich vor euch gehaßt hat.</verse>
+        <verse osisID='John.15.19'>Wäret ihr aus der Welt, so hätte die Welt das Eigene lieb. Nun ihr aber nicht aus der Welt seid, sondern Ich euch auserwählt habe, aus der Welt, darum haßt euch die Welt.</verse>
+        <verse osisID='John.15.20'>Gedenket an das Wort, das Ich zu euch sprach: Der Knecht ist nicht größer, denn sein Herr. Verfolgten sie Mich, so werden sie auch euch verfolgen. Hielten sie Mein Wort, so werden sie auch eures halten.</verse>
+        <verse osisID='John.15.21'>Aber solches alles werden sie euch tun um Meines Namens willen, weil sie Den nicht kennen, Der Mich gesandt hat.</verse>
+        <verse osisID='John.15.22'>Wäre Ich nicht gekommen und hätte zu ihnen geredet, so hätten sie keine Sünde; nun aber haben sie keinen Vorwand für ihre Sünde.</verse>
+        <verse osisID='John.15.23'>Wer Mich haßt, der haßt auch Meinen Vater.</verse>
+        <verse osisID='John.15.24'>Hätte Ich die Werke nicht getan unter ihnen, die kein anderer tat, so hätten sie keine Sünde. Nun aber haben sie sie gesehen und hassen beide, Mich und Meinen Vater.</verse>
+        <verse osisID='John.15.25'>Jedoch es sollte das Wort erfüllt werden, das in ihrem Gesetz geschrieben ist: Umsonst haßten sie Mich.</verse>
+        <verse osisID='John.15.26'>Wenn aber der Beistand kommen wird, den Ich euch vom Vater senden werde - der Geist der Wahrheit, der vom Vater ausgehtder wird zeugen von Mir.</verse>
+        <verse osisID='John.15.27'>Und auch ihr werdet zeugen, weil ihr vom Anfang an bei Mir seid.</verse>
+      </chapter>
+      <chapter osisID='John.16'>
+        <title>Der Heilige Geist.</title>
+        <verse osisID='John.16.1'>Dies habe Ich zu euch geredet, auf daß ihr kein Ärgernis nehmt.</verse>
+        <verse osisID='John.16.2'>Sie werden euch aus der Synagoge stoßen. Ja<note>Aber</note>, es kommt die Stunde, da jeder, der euch tötet, meint, er bringe Gott einen Dienst damit dar.</verse>
+        <verse osisID='John.16.3'>Und solches werden sie tun, weil sie weder den Vater noch Mich erkannt haben.</verse>
+        <verse osisID='John.16.4'>Ich habe aber solches zu euch geredet, auf daß, wenn die Stunde kommt, ihr gedenket, daß ich es euch gesagt habe. Ich sagte euch solches von Anfang nicht, weil Ich bei euch war.</verse>
+        <verse osisID='John.16.5'>Jetzt aber gehe Ich hin zu Dem, Der Mich gesandt hat, und keiner von euch fragt Mich: Wo gehst Du hin?</verse>
+        <verse osisID='John.16.6'>Sondern weil Ich solches zu euch geredet habe, hat Betrübnis euer Herz erfüllt.</verse>
+        <verse osisID='John.16.7'>Aber Ich sage euch die Wahrheit: Es ist zuträglich für euch, daß Ich hingehe; denn so Ich nicht weggehe, wird der Beistand nicht zu euch kommen; wenn Ich aber gehe, werde Ich ihn zu euch senden.</verse>
+        <verse osisID='John.16.8'>Und wenn er kommt, wird er die Welt überführen von der Sünde und von der Gerechtigkeit, und vom Gericht;</verse>
+        <verse osisID='John.16.9'>Von der Sünde, daß sie nicht glauben an Mich;</verse>
+        <verse osisID='John.16.10'>Von der Gerechtigkeit, daß Ich zu Meinem Vater hingehe, und ihr Mich nicht mehr schauet.</verse>
+        <verse osisID='John.16.11'>Von dem Gericht, daß der Fürst<note>Oberste</note> dieser Welt gerichtet ist.</verse>
+        <verse osisID='John.16.12'>Ich habe euch noch vieles zu sagen, aber ihr könnt es jetzt nicht tragen.</verse>
+        <verse osisID='John.16.13'>Wenn aber jener, der Geist der Wahrheit, kommen wird, so wird er euch in alle Wahrheit leiten; denn er wird nicht von sich selber reden, sondern was er hören wird, wird er reden, und was da kommen wird, wird er euch ansagen.</verse>
+        <verse osisID='John.16.14'>Derselbe wird Mich verherrlichen; denn von dem Meinigen wird er nehmen und es euch ansagen.</verse>
+        <verse osisID='John.16.15'>Alles, was der Vater hat, ist Mein. Darum sagte Ich, daß er von dem Meinigen nehmen und es euch ansagen wird.</verse>
+        <verse osisID='John.16.16'>Über ein Kleines, so schauet ihr Mich nicht, und wiederum über ein Kleines, so werdet ihr Mich sehen; denn Ich gehe hin zum Vater.</verse>
+        <verse osisID='John.16.17'>Da sprachen etliche Seiner Jünger untereinander: Was ist das, daß Er zu uns sagt: über ein Kleines, so schauet ihr Mich nicht, und wiederum über ein Kleines, so werdet ihr Mich sehen? und: Ich gehe hin zum Vater?</verse>
+        <verse osisID='John.16.18'>Sie sagten nun: Was ist das, daß Er sagt: Über ein Kleines? Wir wissen nicht, was Er redet.</verse>
+        <verse osisID='John.16.19'>Jesus erkannte nun, daß sie Ihn fragen wollten, und sagte zu ihnen: Darüber forschet<note>suchet</note> ihr miteinander, daß Ich sagte: Über ein Kleines schauet ihr Mich nicht, und abermals über ein Kleines, so werdet ihr Mich sehen.</verse>
+        <verse osisID='John.16.20'>Wahrlich, wahrlich, Ich sage euch: Ihr werdet weinen und klagen, aber die Welt wird sich freuen. Ihr werdet euch betrüben, aber eure Betrübnis wird zur Freude werden.</verse>
+        <verse osisID='John.16.21'>Das Weib hat Betrübnis, wenn sie gebären soll; denn ihre Stunde ist gekommen; wenn sie aber das Knäblein geboren hat, gedenkt sie nicht mehr der Trübsal vor Freude, daß ein Mensch in die Welt geboren ist.</verse>
+        <verse osisID='John.16.22'>Auch ihr nun habt jetzt Betrübnis; aber Ich werde euch wiederum sehen, und euer Herz wird sich freuen, und niemand nimmt eure Freude weg von euch.</verse>
+        <verse osisID='John.16.23'>Und an selbigem Tage werdet ihr Mich nichts fragen. Wahrlich, wahrlich, Ich sage euch: Was irgend ihr den Vater bitten werdet in Meinem Namen, wird Er euch geben.</verse>
+        <verse osisID='John.16.24'>Bisher habt ihr um nichts gebeten in Meinem Namen. Bittet, so werdet ihr empfangen, daß eure Freude erfüllt werde.</verse>
+        <verse osisID='John.16.25'>Solches habe Ich zu euch in Gleichnisreden geredet; aber es kommt die Stunde, da Ich nicht mehr in Gleichnisreden zu euch reden, sondern euch frei heraus von dem Vater ansagen werde.</verse>
+        <verse osisID='John.16.26'>Am selben Tage sollt ihr in Meinem Namen bitten, und Ich sage euch nicht, daß Ich den Vater für euch bitten<note>fragen</note> werde.</verse>
+        <verse osisID='John.16.27'>Denn der Vater Selbst hat euch lieb, weil ihr Mich lieb hattet, und geglaubt habt, daß Ich von Gott ausgegangen bin.</verse>
+        <verse osisID='John.16.28'>Ich bin vom Vater ausgegangen und in die Welt gekommen, wiederum verlasse Ich die Welt und gehe zum Vater hin.</verse>
+        <verse osisID='John.16.29'>Sagen Seine Jünger zu Ihm: Siehe, jetzt redest Du frei heraus und sprichst nicht mehr in Gleichnisreden.</verse>
+        <verse osisID='John.16.30'>Jetzt wissen wir, daß Du alles weißt und nicht bedarfst, daß Dich jemand frage. Darum glauben wir, daß Du von Gott ausgegangen bist.</verse>
+        <verse osisID='John.16.31'>Jesus antwortete ihnen: Eben jetzt glaubet ihr.</verse>
+        <verse osisID='John.16.32'>Siehe, es kommt die Stunde und ist jetzt gekommen, daß ihr zerstreut werdet, ein jeglicher in das Eigene, und ihr Mich allein lasset; und Ich bin nicht allein, denn der Vater ist mit Mir.</verse>
+        <verse osisID='John.16.33'>Solches habe Ich zu euch geredet, auf daß ihr in Mir Frieden habet. In der Welt habt ihr Trübsal; aber seid getrost, Ich habe die Welt überwunden.</verse>
+      </chapter>
+      <chapter osisID='John.17'>
+        <title>Gebet Christi.</title>
+        <verse osisID='John.17.1'>Solches redete Jesus und hob Seine Augen auf gen Himmel und sprach: Vater, die Stunde ist gekommen. Verherrliche Deinen Sohn, auf daß auch Dein Sohn Dich verherrliche;</verse>
+        <verse osisID='John.17.2'>Wie Du Ihm Gewalt über alles Fleisch gegeben hast, auf daß Er ewiges Leben gebe allen, die Du Ihm gegeben hast.</verse>
+        <verse osisID='John.17.3'>Das ist aber das ewige Leben, daß sie Dich, den allein wahren Gott, und Den Du entsandt hast, Jesus Christus, erkennen.</verse>
+        <verse osisID='John.17.4'>Ich habe Dich auf Erden verherrlicht, Ich habe das Werk vollbracht, das Du Mir zu tun gegeben hast.</verse>
+        <verse osisID='John.17.5'>Und nun verherrliche Mich, Du Vater, bei Dir Selbst mit der Herrlichkeit, die Ich bei Dir hatte, ehe denn die Welt war.</verse>
+        <verse osisID='John.17.6'>Ich habe Deinen Namen geoffenbart den Menschen, die Du aus der Welt Mir gegeben hast. Sie waren Dein, und Du hast sie Mir gegeben, und sie haben Dein Wort gehalten.</verse>
+        <verse osisID='John.17.7'>Nun haben sie erkannt, daß alles, was Du Mir gegeben hast, von Dir ist;</verse>
+        <verse osisID='John.17.8'>Denn die Reden, die Du Mir gegeben hast, habe Ich ihnen gegeben, und sie haben sie angenommen und wahrhaftig erkannt, daß Ich von Dir bin ausgegangen, und haben geglaubt, daß Du Mich entsandt hast.</verse>
+        <verse osisID='John.17.9'>Ich bitte<note>frage</note> für sie. Nicht für die Welt bitte<note>frage</note> Ich, sondern für die, so Du Mir gegeben hast, weil sie Dein sind.</verse>
+        <verse osisID='John.17.10'>Und alles, was Mein ist, das ist Dein, und was Dein ist, das ist Mein, und Ich bin verherrlicht in ihnen.</verse>
+        <verse osisID='John.17.11'>Und Ich bin nicht mehr in der Welt, und sie sind in der Welt; und Ich komme zu Dir. Heiliger Vater, erhalte sie in Deinem Namen, die Du Mir gegeben hast, daß sie eins seien, gleichwie Wir.</verse>
+        <verse osisID='John.17.12'>Solange Ich bei ihnen war in der Welt, erhielt Ich sie in Deinem Namen; die Du Mir gegeben hast, habe Ich bewahrt, und ist keiner von ihnen verloren, als der Sohn des Verderbens, auf daß die Schrift erfüllt würde.</verse>
+        <verse osisID='John.17.13'>Nun aber komme Ich zu Dir, und rede solches in der Welt, damit sie Meine Freude erfüllt in Sich haben.</verse>
+        <verse osisID='John.17.14'>Ich habe ihnen Dein Wort gegeben, und die Welt haßt sie, weil sie nicht aus der Welt sind, wie Ich nicht aus der Welt bin.</verse>
+        <verse osisID='John.17.15'>Ich bitte<note>frage</note> nicht, daß Du sie aus der Welt wegnehmest, sondern daß Du sie erhaltest vor dem Übel.</verse>
+        <verse osisID='John.17.16'>Sie sind nicht aus der Welt, gleichwie Ich nicht aus der Welt bin.</verse>
+        <verse osisID='John.17.17'>Heilige sie in Deiner Wahrheit! Dein Wort ist Wahrheit.</verse>
+        <verse osisID='John.17.18'>Wie Du Mich in die Welt entsandt hast, habe auch Ich sie in die Welt entsandt.</verse>
+        <verse osisID='John.17.19'>Und für sie heilige Ich Mich, auf daß auch sie geheiligt seien in der Wahrheit.</verse>
+        <verse osisID='John.17.20'>Aber nicht für diese allein bitte<note>frage</note> Ich, sondern auch für die, so durch ihr Wort an Mich glauben werden:</verse>
+        <verse osisID='John.17.21'>Auf daß alle eins seien, wie Du, Vater, in Mir und Ich in Dir, daß auch sie in Uns eins seien, auf daß die Welt glaube, daß Du Mich entsandt hast.</verse>
+        <verse osisID='John.17.22'>Und die Herrlichkeit, die Du Mir gegeben hast, habe Ich ihnen gegeben; auf daß sie eins seien, wie Wir eins sind.</verse>
+        <verse osisID='John.17.23'>Ich in ihnen, und Du in Mir; auf daß sie vollendet seien in eins, und daß die Welt erkenne, daß Du Mich entsandt und sie geliebt hast, wie Du Mich geliebt hast.</verse>
+        <verse osisID='John.17.24'>Vater, Ich will, daß, wo Ich bin, auch die bei Mir seien, die Du Mir gegeben hast, auf daß sie Meine Herrlichkeit schauen, die Du Mir gegeben hast, weil Du vor Gründung der Welt Mich geliebt hast.</verse>
+        <verse osisID='John.17.25'>Gerechter Vater! und die Welt hat Dich nicht erkannt; Ich aber habe Dich erkannt, und diese haben erkannt, daß Du Mich entsandt hast.</verse>
+        <verse osisID='John.17.26'>Und Ich habe ihnen Deinen Namen kundgetan und werde ihn kundtun, auf daß die Liebe, mit der Du Mich geliebt hast, in ihnen sei, und Ich in ihnen.</verse>
+      </chapter>
+      <chapter osisID='John.18'>
+        <title>Christus gefangengenommen, von dem Hohenpriester und von Pilatus verhört.</title>
+        <verse osisID='John.18.1'>Da Jesus solches gesprochen hatte, ging Er hinaus mit Seinen Jüngern über den Bach Kidron. Da war ein Garten, und in diesen ging Er und Seine Jünger hinein.</verse>
+        <verse osisID='John.18.2'>Judas aber, der Ihn verriet, wußte auch den Ort, weil Jesus Sich mit Seinen Jüngern oft daselbst versammelt hatte.</verse>
+        <verse osisID='John.18.3'>Judas nahm nun die Kohorte und Amtsdiener der Hohenpriester und Pharisäer und kam dahin mit Fackeln und Lampen und Waffen.</verse>
+        <verse osisID='John.18.4'>Jesus nun, Der alles wußte, was über Ihn kommen sollte, kam heraus und sprach zu ihnen: Wen sucht ihr?</verse>
+        <verse osisID='John.18.5'>Sie antworteten Ihm: Jesus, den Nazarener. Spricht zu ihnen Jesus: Ich bin es. Judas aber, der Ihn verriet, stand auch bei ihnen.</verse>
+        <verse osisID='John.18.6'>Wie Er nun zu ihnen sprach: Ich bin es! wichen sie zurück<note>gingen sie weg hinter sich</note> und fielen zu Boden.</verse>
+        <verse osisID='John.18.7'>Da fragte Er sie abermals: Wen sucht ihr? Sie aber sagten: Jesus, den Nazarener.</verse>
+        <verse osisID='John.18.8'>Jesus antwortete: Ich habe euch gesagt, daß Ich es bin. Wenn ihr nun Mich suchet, so lasset diese hingehen!</verse>
+        <verse osisID='John.18.9'>Auf daß erfüllt würde das Wort, das Er gesprochen: Ich habe derer keinen verloren, die Du Mir gegeben hast.</verse>
+        <verse osisID='John.18.10'>Simon Petrus nun, der ein Schwert hatte, zog es heraus, schlug nach dem Knechte des Hohenpriesters und hieb ihm das rechte Ohr ab. Der Name des Knechtes aber war Malchus.</verse>
+        <verse osisID='John.18.11'>Da sprach Jesus zu Petrus: Stecke das Schwert hinein in die Scheide! Soll Ich den Kelch nicht trinken, den Mir der Vater gegeben hat?</verse>
+        <verse osisID='John.18.12'>Die Kohorte nun und der Oberhauptmann und die Amtsdiener der Juden ergriffen Jesus und banden Ihn.</verse>
+        <verse osisID='John.18.13'>Und sie führten Ihn weg zuerst zu Hannas; denn er war der Schwiegervater des Kaiaphas, der selbigen Jahres Hoherpriester war.</verse>
+        <verse osisID='John.18.14'>Kaiaphas aber war es, der den Juden zuriet, es wäre zuträglich, daß ein Mensch umkäme für das Volk.</verse>
+        <verse osisID='John.18.15'>Simon Petrus aber folgte Jesus nach, und ein anderer Jünger. Selbiger Jünger aber war dem Hohenpriester bekannt und ging mit Jesus hinein in des Hohenpriesters Hof.</verse>
+        <verse osisID='John.18.16'>Petrus aber stand draußen vor der Tür. Da ging der andere Jünger, der dem Hohenpriester bekannt war, hinaus und sprach mit der Türhüterin und führte Petrus herein.</verse>
+        <verse osisID='John.18.17'>Da sprach die Magd, die Türhüterin, zu Petrus: Bist du nicht auch von den Jüngern dieses Menschen? Spricht er: Ich bin es nicht.</verse>
+        <verse osisID='John.18.18'>Die Knechte und Amtsdiener aber standen an einem Kohlenfeuer, das sie gemacht hatten, denn es war kalt, und wärmten sich. Petrus aber stand bei ihnen und wärmte sich.</verse>
+        <verse osisID='John.18.19'>Der Hohepriester fragte nun Jesus über Seine Jünger und über Seine Lehre.</verse>
+        <verse osisID='John.18.20'>Jesus antwortete ihm: Ich habe frei heraus geredet zu der Welt. Ich habe allezeit in der Synagoge und im Heiligtum gelehrt, wo alle Juden zusammenkommen und habe nichts im Verborgenen geredet.</verse>
+        <verse osisID='John.18.21'>Was fragst du Mich? Frage die, so gehört haben, was Ich zu ihnen redete. Siehe, dieselben wissen, was Ich sagte.</verse>
+        <verse osisID='John.18.22'>Da Er solches sagte, gab einer der Amtsdiener, der dabeistand, Jesus einen Backenstreich und sagte: Antwortest Du also dem Hohenpriester?</verse>
+        <verse osisID='John.18.23'>Jesus antwortete ihm: Habe Ich böse geredet, so zeuge von dem Bösen, habe Ich aber wohl<note>schön</note> geredet, was schlägst du Mich?</verse>
+        <verse osisID='John.18.24'>Hannas sandte Ihn gebunden zu Kaiaphas, dem Hohenpriester.</verse>
+        <verse osisID='John.18.25'>Simon Petrus aber stand und wärmte sich: Da sagten sie zu ihm: Bist nicht auch du von Seinen Jüngern? Er leugnete und sagte: Ich bin es nicht.</verse>
+        <verse osisID='John.18.26'>Spricht zu ihm einer der Knechte des Hohenpriesters, ein Verwandter dessen, dem Petrus das Ohr abhieb: Sah ich dich nicht in dem Garten bei Ihm?</verse>
+        <verse osisID='John.18.27'>Da leugnete Petrus abermals, und alsbald krähte der Hahn.</verse>
+        <verse osisID='John.18.28'>Da führten sie Jesus von Kaiaphas in das Richthaus. Es war aber am Morgen. Und sie gingen nicht selbst hinein in das Richthaus, auf daß sie sich nicht verunreinigten, sondern das Pascha essen möchten.</verse>
+        <verse osisID='John.18.29'>Pilatus kam dann heraus zu ihnen und sprach: Was für Klage bringt ihr wider diesen Menschen?</verse>
+        <verse osisID='John.18.30'>Sie antworteten und sprachen zu ihm: Wäre Dieser nicht ein Übeltäter, wir hätten Ihn dir nicht überantwortet.</verse>
+        <verse osisID='John.18.31'>Da sprach Pilatus zu ihnen: Nehmt ihr Ihn und richtet Ihn nach eurem Gesetz. Da sprachen die Juden zu ihm: Es ist uns nicht erlaubt, jemand zu töten.</verse>
+        <verse osisID='John.18.32'>Auf daß erfüllt würde das Wort Jesu, das Er sprach, indem Er anzeigte, welches Todes Er sterben würde.</verse>
+        <verse osisID='John.18.33'>Pilatus ging nun wiederum hinein in das Richthaus und rief Jesus und sprach zu Ihm: Bist Du der Juden König?</verse>
+        <verse osisID='John.18.34'>Jesus antwortete ihm: Sagst du solches von dir selbst, oder haben dir es andere von Mir gesagt?</verse>
+        <verse osisID='John.18.35'>Pilatus antwortete: Bin Ich ein Jude? Deine Völkerschaft und die Hohenpriester haben Dich mir überantwortet. Was hast Du getan?</verse>
+        <verse osisID='John.18.36'>Jesus antwortete: Mein Reich ist nicht aus dieser Welt. Wäre Mein Reich aus dieser Welt, so würden Meine Diener<note>Amtsdiener</note> ringen, daß Ich den Juden nicht überantwortet würde. Nun ist aber Mein Reich nicht von hinnen.</verse>
+        <verse osisID='John.18.37'>Da sprach Pilatus zu Ihm: Also bist Du König? Jesus antwortete: Du sagst es. Ich bin König. Ich bin dazu geboren und bin dazu in die Welt gekommen, daß Ich für die Wahrheit zeuge. Jeder, der aus der Wahrheit ist, hört Meine Stimme.</verse>
+        <verse osisID='John.18.38'>Spricht Pilatus zu Ihm: Was ist Wahrheit? Und da er das gesagt hatte, ging er wiederum hinaus zu den Juden und sagte zu ihnen: Ich finde keine Schuld an Ihm.</verse>
+        <verse osisID='John.18.39'>Ihr habt aber eine Gewohnheit, daß ich einen auf das Pascha losgebe. Seid ihr nun willens, daß ich euch den König der Juden losgebe?</verse>
+        <verse osisID='John.18.40'>Da schrien sie wiederum alle laut: Nicht Diesen, sondern Barabbas. Barabbas aber war ein Räuber.</verse>
+      </chapter>
+      <chapter osisID='John.19'>
+        <title>Christi Geißelung, Krönung, Kreuzigung, Tod und Begräbnis.</title>
+        <verse osisID='John.19.1'>Da nahm denn Pilatus Jesus und geißelte Ihn.</verse>
+        <verse osisID='John.19.2'>Und die Kriegsknechte flochten eine Krone aus Dornen, setzten sie Ihm auf das Haupt und legten Ihm ein purpurnes Oberkleid um.</verse>
+        <verse osisID='John.19.3'>Und sprachen: Gegrüßet seist Du, König der Juden! und gaben Ihm Backenstreiche.</verse>
+        <verse osisID='John.19.4'>Pilatus kam nun wiederum heraus und sprach zu ihnen: Sehet, ich führe Ihn heraus zu euch, damit ihr erkennt, daß ich keine Schuld an Ihm finde.</verse>
+        <verse osisID='John.19.5'>Jesus kam nun heraus und trug die Dornenkrone und das Oberkleid von Purpur. Und er sprach zu ihnen: Sehet, der Mensch!</verse>
+        <verse osisID='John.19.6'>Als Ihn nun die Hohenpriester und die Amtsdiener sahen, schrien sie laut und sprachen: Kreuzige, kreuzige Ihn! Spricht Pilatus zu ihnen: Nehmet ihr Ihn und kreuziget Ihn; denn ich finde kein Schuld an Ihm.</verse>
+        <verse osisID='John.19.7'>Die Juden antworteten ihm: Wir haben ein Gesetz, und nach unserem Gesetz muß Er sterben; denn Er hat Sich Selbst zu Gottes Sohn gemacht.</verse>
+        <verse osisID='John.19.8'>Da nun Pilatus dieses Wort hörte, fürchtete er sich noch mehr.</verse>
+        <verse osisID='John.19.9'>Und ging abermals in das Richthaus hinein und sprach zu Jesus: Woher bist Du? Jesus aber gab ihm keine Antwort.</verse>
+        <verse osisID='John.19.10'>Da sprach Pilatus zu Ihm: Redest Du nicht mit mir? Weißt du nicht, daß ich Gewalt habe, Dich zu kreuzigen, und Gewalt habe, Dich loszugeben?</verse>
+        <verse osisID='John.19.11'>Jesus antwortete: Du hättest keine Gewalt über Mich, wenn sie dir nicht von oben gegeben wäre. Darum hat der, so Mich dir überantwortet hat, größere Sünde.</verse>
+        <verse osisID='John.19.12'>Daraufhin suchte Pilatus Ihn loszugeben; die Juden aber schrien und sprachen: Gibst du Diesen los, so bist du des Kaisers Freund nicht; wer sich zum König macht, der spricht wider den Kaiser!</verse>
+        <verse osisID='John.19.13'>Als Pilatus nun dieses Wort hörte, führte er Jesus heraus und setzte sich auf den Richt- stuhl an den Ort, den man nennt Lithostroton, auf Hebräisch aber Gabbatha.</verse>
+        <verse osisID='John.19.14'>Es war aber Rüsttag des Paschas, die Stunde aber um die sechste. Und er spricht zu den Juden: Seht, euer König!</verse>
+        <verse osisID='John.19.15'>Sie aber schrien laut: Weg, weg<note>Nimm weg, nimm weg</note>! Kreuzige Ihn! Spricht zu ihnen Pilatus: Soll ich euren König kreuzigen? Die Hohenpriester antworteten: Wir haben keinen König, als den Kaiser!</verse>
+        <verse osisID='John.19.16'>Da übergab er Ihn nun denselben, daß Er gekreuzigt würde. Sie nahmen aber Jesus mit und führten Ihn fort.</verse>
+        <verse osisID='John.19.17'>Und Er trug Sein Kreuz und ging hinaus zur sogenannten Schädelstätte<note>Ort des Schädels</note>, auf Hebräisch genannt Golgatha.</verse>
+        <verse osisID='John.19.18'>Allda kreuzigten sie Ihn und mit Ihm zwei andere zu beiden Seiten<note>hier und hier</note>, Jesus aber in der Mitte.</verse>
+        <verse osisID='John.19.19'>Pilatus aber schrieb auch eine Überschrift und setzte sie auf das Kreuz. Es war aber geschrieben: Jesus der Nazarener, der König der Juden.</verse>
+        <verse osisID='John.19.20'>Diese Überschrift nun lasen viele der Juden; denn der Ort, da Jesus gekreuzigt ward, war nahe bei der Stadt, und es war auf hebräisch, griechisch und römisch geschrieben.</verse>
+        <verse osisID='John.19.21'>Da sagten die Hohenpriester der Juden zu Pilatus: Schreibe nicht König der Juden, sondern daß Er sagte: Ich bin der König der Juden.</verse>
+        <verse osisID='John.19.22'>Pilatus antwortete: Was ich geschrieben habe, das habe ich geschrieben.</verse>
+        <verse osisID='John.19.23'>Die Kriegsknechte nun, da sie Jesus gekreuzigt hatten, nahmen Seine Kleider und machten vier Teile, jedem Kriegsknecht ein Teil, und den Leibrock. Der Leibrock aber war ungenäht, von oben an ganz durchhin gewirkt.</verse>
+        <verse osisID='John.19.24'>Da sagten sie zueinander: Den wollen wir nicht zerstücken<note>spalten</note>, sondern darum losen, wessen er sein soll, so daß die Schrift erfüllt würde, die da sagt: Sie zerteilten Meine Kleider unter sich, und über Meinen Rock warfen sie das Los. Solches denn taten die Kriegsknechte.</verse>
+        <verse osisID='John.19.25'>Es standen aber beim Kreuze Jesu Seine Mutter und die Schwester Seiner Mutter, Maria, des Klopas Weib<note>Weib nicht im Griech.</note>, und Maria aus Magdala.</verse>
+        <verse osisID='John.19.26'>Da nun Jesus die Mutter sah, und den Jünger, den Er liebte, dabeistehen, spricht Er zu Seiner Mutter: Weib, siehe, dein Sohn!</verse>
+        <verse osisID='John.19.27'>Dann spricht Er zu dem Jünger: Siehe, deine Mutter. Und von selbiger Stunde an nahm sie der Jünger zu sich<note>in sein Eigenes</note>.</verse>
+        <verse osisID='John.19.28'>Danach spricht Jesus, da Er wußte, daß schon alles vollendet war, auf daß die Schrift ganz erfüllt würde: Mich dürstet!</verse>
+        <verse osisID='John.19.29'>Es stand nun ein Gefäß voll Essig da. Sie aber füllten einen Schwamm mit Essig, legten diesen um einen Ysopstengel und brachten es an Seinen Mund.</verse>
+        <verse osisID='John.19.30'>Da nun Jesus den Essig genommen hatte, sprach Er: Es ist vollendet! und Er neigte das Haupt und gab den Geist auf.</verse>
+        <verse osisID='John.19.31'>Die Juden nun, damit die Leiber nicht am Sabbath am Kreuze blieben denn es war Rüsttag, weil der Tag selbigen Sabbaths groß war, baten<note>fragten</note> den Pilatus, er möchte ihre Beine zerbrechen und sie wegnehmen lassen.</verse>
+        <verse osisID='John.19.32'>Da kamen denn die Kriegsknechte und zerbrachen dem ersten die Beine, und dem anderen, der mit Ihm gekreuzigt worden.</verse>
+        <verse osisID='John.19.33'>Als sie aber zu Jesus kamen und sahen, daß Er schon gestorben<note>geendet</note> war, zerbrachen sei Ihm die Beine nicht;</verse>
+        <verse osisID='John.19.34'>Sondern einer der Kriegsknechte stach Ihm mit dem Speer in Seine Seite, und es kam alsbald Blut und Wasser heraus.</verse>
+        <verse osisID='John.19.35'>Und der es gesehen hat, der hat gezeugt, und wahrhaftig ist sein Zeugnis, und selbiger weiß, daß er Wahres sagt, auf daß auch ihr glaubt.</verse>
+        <verse osisID='John.19.36'>Solches geschah aber, daß die Schrift erfüllt werde: Kein Bein an Ihm soll zerbrochen<note>zerrieben</note> werden.</verse>
+        <verse osisID='John.19.37'>Und wiederum sagt eine andere Schrift: Sie sollen sehen, in wen sie gestochen haben.</verse>
+        <verse osisID='John.19.38'>Danach aber bat<note>fragten</note> den Pilatus Joseph von Arimathäa, der ein Jünger Jesu war, aber ein verborgener aus Furcht vor den Juden, daß er den Leib Jesu abnehmen dürfte; und Pilatus gestattete es. Da kam er und nahm den Leib Jesu ab.</verse>
+        <verse osisID='John.19.39'>Es kam aber auch Nikodemus, der zuerst des Nachts zu Jesus gekommen war, und brachte eine Mischung von Myrrhen und Aloe bei hundert Pfund.</verse>
+        <verse osisID='John.19.40'>Sie nahmen nun den Leib Jesu und banden ihn in leinene Tücher samt den Spezereien, wie es der Juden Gewohnheit ist beim Begräbnis.</verse>
+        <verse osisID='John.19.41'>Es war aber an dem Orte, wo Er gekreuzigt ward, ein Garten, und in dem Garten eine neue Gruft, in die noch niemand je gelegt worden war.</verse>
+        <verse osisID='John.19.42'>Darein legten sie nun Jesus wegen des Rüsttages der Juden, weil die Gruft nahe wahr.</verse>
+      </chapter>
+      <chapter osisID='John.20'>
+        <title>Jesu Auferstehung.</title>
+        <verse osisID='John.20.1'>Am ersten der Wochentage aber kommt Maria Magdalena des Morgens, da es noch finster war, an die Gruft, und sieht, daß der Stein von der Gruft weggenommen ist.</verse>
+        <verse osisID='John.20.2'>Sie läuft nun und kommt zu Simon Petrus und zu dem anderen Jünger, den Jesus lieb hatte, und sagt ihnen: Sie haben den Herrn aus der Gruft weggenommen, und wir wissen nicht, wo sie Ihn hingelegt haben.</verse>
+        <verse osisID='John.20.3'>Da ging Petrus und der andere Jünger hinaus, und sie kamen an die Gruft.</verse>
+        <verse osisID='John.20.4'>Die beiden liefen aber zugleich, und der andere Jünger lief vor, schneller denn Petrus, und kam zuerst an die Gruft;</verse>
+        <verse osisID='John.20.5'>Und bückt sich hinein und sieht<note>erblickt</note> die leinenen Tücher liegen; er ging jedoch nicht hinein.</verse>
+        <verse osisID='John.20.6'>Nun kommt Simon Petrus, der ihm nachfolgte, und ging hinein in die Gruft, und sieht die leinenen Tücher liegen,</verse>
+        <verse osisID='John.20.7'>Und das Schweißtuch, das auf Seinem Haupte war, nicht bei den leinen Tüchern liegen, sondern besonders an einem Ort zusammengewickelt.</verse>
+        <verse osisID='John.20.8'>Da ging denn auch der anderer Jünger, der zuerst zur Gruft gekommen war, hinein, und sah und glaubte.</verse>
+        <verse osisID='John.20.9'>Denn sie wußten noch nicht die Schrift, daß Er müßte von den Toten auferstehen.</verse>
+        <verse osisID='John.20.10'>Da gingen die Jünger nun wieder weg heim<note>zu sich</note>.</verse>
+        <verse osisID='John.20.11'>Maria aber stand an der Gruft und weinte draußen. Als sie nun weinte, bückte sie sich hinein in die Gruft,</verse>
+        <verse osisID='John.20.12'>Und schaut zwei Engel in weißen Gewändern sitzen; einen am Haupte und den einen zu den Füßen, da der Leib Jesu gelegen hatte.</verse>
+        <verse osisID='John.20.13'>Und diese sagen zu ihr: Weib, was weinst du? Sie sagt zu ihnen: Sie haben meinen Herrn weggenommen, und ich weiß nicht, wo sie Ihn hingelegt haben.</verse>
+        <verse osisID='John.20.14'>Und als sie solches gesagt hatte, wandte sie sich hinter sich, und schaut Jesus dastehen, und wußte nicht, daß es Jesus sei.</verse>
+        <verse osisID='John.20.15'>Spricht Jesus zu ihr: Weib, was weinst du? Wen suchst du? Sie, meinend, daß es der Gärtner sei, spricht zu Ihm: Herr, wenn du Ihn fortgetragen hast, sage mir, wo du Ihn hingelegt hast; und ich will Ihn holen.</verse>
+        <verse osisID='John.20.16'>Spricht zu ihr Jesus: Maria! Sie wendet sich um und spricht zu Ihm: Rabbuni, das ist: Lehrer!</verse>
+        <verse osisID='John.20.17'>Spricht zu ihr Jesus: Berühre Mich nicht, denn Ich bin noch nicht aufgestiegen zu Meinem Vater; gehe aber hin zu Meinen Brüdern und sage ihnen: Ich steige auf zu Meinem Vater und zu eurem Vater und zu Meinem Gott und zu eurem Gott.</verse>
+        <verse osisID='John.20.18'>Maria Magdalena kommt und sagt es den Jüngern an, daß sie den Herrn gesehen, und daß Er solches zu ihr gesagt habe.</verse>
+        <verse osisID='John.20.19'>Als es nun Abend war am selbigen ersten Tage der Woche, und die Türen, wo die Jünger versammelt waren, aus Furcht vor den Juden verschlossen waren, kam Jesus und stand in der Mitte und sprach zu ihnen: Friede sei mit euch!</verse>
+        <verse osisID='John.20.20'>Und als Er das sagte, zeigte Er ihnen Seine Hände und Seine Seite. Da freuten sich die Jünger, als sie den Herrn sahen.</verse>
+        <verse osisID='John.20.21'>Da sprach Jesus abermals zu ihnen: Friede sei mit euch! Gleichwie Mich der Vater entsendet hat, so sende Ich euch!</verse>
+        <verse osisID='John.20.22'>Und da Er solches gesagt hatte, hauchte Er sie an und sprach zu ihnen: Nehmet hin den Heiligen Geist.</verse>
+        <verse osisID='John.20.23'>Welchen ihr die Sünden erlasset, denen sind sie erlassen; welchen ihr sie behaltet<note>ergreifet</note>, denen sind sie behalten<note>ergriffen</note>.</verse>
+        <verse osisID='John.20.24'>Thomas aber, einer aus den Zwölfen, genannt Didymus<note>d.h. der Zwilling</note>, war nicht bei ihnen, als Jesus kam.</verse>
+        <verse osisID='John.20.25'>Da sagten die anderen Jünger zu ihm: Wir haben den Herrn gesehen! Er aber sprach zu ihnen: Es sei denn, daß ich in Seinen Händen das Nägelmal sehe, und meinen Finger lege in das Nägelmal und lege mein Hand in Seine Seite, werde ich es nicht glauben.</verse>
+        <verse osisID='John.20.26'>Und nach acht Tagen waren Seine Jünger wiederum drinnen, und Thomas mit ihnen. Kommt Jesus bei verschlossenen Türen, und stand in der Mitte und sprach: Friede sei mit euch!</verse>
+        <verse osisID='John.20.27'>Dann spricht er zu Thomas: Reiche<note>bringe</note> deinen Finger her und siehe Meine Hände, und reiche<note>bringe</note> deine Hand her und lege sie in Meine Seite, und sei nicht ungläubig, sondern gläubig.</verse>
+        <verse osisID='John.20.28'>Thomas antwortete und sprach zu Ihm: Mein Herr und mein Gott!</verse>
+        <verse osisID='John.20.29'>Spricht Jesus zu ihm: Weil du Mich gesehen hast, Thomas, hast du geglaubt. Selig sind, die nicht sehen und glauben.</verse>
+        <verse osisID='John.20.30'>Viele andere Zeichen nun tat Jesus vor Seinen Jüngern, die nicht geschrieben sind in diesem Buche.</verse>
+        <verse osisID='John.20.31'>Diese aber sind geschrieben, damit ihr glaubt, daß Jesus ist der Christ<note>d.h. der Messias</note>, der Sohn Gottes, auf daß ihr glaubt und Leben habt in Seinem Namen.</verse>
+      </chapter>
+      <chapter osisID='John.21'>
+        <title>Christus am Meer bei Tiberias. - Seine Weissagung von Petrus und Johannes.</title>
+        <verse osisID='John.21.1'>Danach offenbarte Sich Jesus den Jüngern abermals am Meer von Tiberias. Er offenbarte Sich aber also:</verse>
+        <verse osisID='John.21.2'>Es waren beisammen Simon Petrus und Thomas, genannt der Zwilling, und Nathanael aus Kana in Galiläa und die Söhne<note>Söhne nicht im Griech.</note> des Zebedäus und zwei andere von Seinen Jüngern.</verse>
+        <verse osisID='John.21.3'>Spricht zu ihnen Simon Petrus: Ich gehe hin fischen. Sie sagen zu ihm: Wir gehen auch mit dir. Sie gingen hinaus und stiegen alsbald in ein Schiff, fingen<note>griffen</note> aber nichts in selbiger Nacht.</verse>
+        <verse osisID='John.21.4'>Als es aber schon Morgen geworden, stand Jesus am Ufer; die Jünger aber wußten nicht, daß es Jesus war.</verse>
+        <verse osisID='John.21.5'>Spricht zu ihnen Jesus: Kindlein, habt ihr nichts zu essen? Sie antworteten Ihm: Nein.</verse>
+        <verse osisID='John.21.6'>Er aber sagte zu ihnen: Werfet das Netz zu rechten Seite<note>in die rechten Teile</note> des Schiffes, und ihr werdet finden. Da warfen sie es aus und vermochten es nicht mehr zu ziehen vor der Menge der Fische.</verse>
+        <verse osisID='John.21.7'>Da spricht selbiger Jünger, den Jesus liebte, zu Petrus: Es ist der Herr! Da Simon Petrus hörte, daß es der Herr wäre, gürtete er sich den Überwurf um - denn er war nackt -und warf sich ins Meer.</verse>
+        <verse osisID='John.21.8'>Die anderen Jünger aber kamen in dem Schifflein denn sie waren nicht weit vom Lande, sondern etwa zweihundert Ellen und schleppten das Netz mit den Fischen.</verse>
+        <verse osisID='John.21.9'>Wie sie nun ans Land ausstiegen, sehen sie ein Kohlenfeuer angelegt und ein Fischlein darauf liegen und Brot.</verse>
+        <verse osisID='John.21.10'>Spricht Jesus zu ihnen: Bringet nun von den Fischlein, die ihr gefangen<note>ergriffen</note> habt.</verse>
+        <verse osisID='John.21.11'>Simon Petrus stieg hinein und zog das Netz ans Land voll großer Fische hundertdreiundfünfzig. Und wiewohl es so viele waren, zerriß<note>spaltete sich</note> das Netz nicht.</verse>
+        <verse osisID='John.21.12'>Spricht Jesus zu ihnen: Kommt her und frühstückt! Keiner der Jünger aber wagte Ihn zu fragen<note>erforschen</note>: Wer bist Du? Da sie wußten, daß es der Herr war.</verse>
+        <verse osisID='John.21.13'>Da kommt Jesus und nimmt das Brot und gibt es ihnen, desgleichen auch das Fischlein.</verse>
+        <verse osisID='John.21.14'>Dies war nun das dritte Mal, daß Jesus Sich Seinen Jüngern offenbarte, nachdem Er von den Toten auferweckt ward.</verse>
+        <verse osisID='John.21.15'>Als sie nun gefrühstückt hatten, spricht Jesus zu Simon Petrus: Simon Jona, liebst du Mich mehr denn diese? Er spricht zu ihm: Ja, Herr, Du weißt, daß ich Dich lieb habe. Spricht Er zu ihm: Weide Meine Lämmlein!</verse>
+        <verse osisID='John.21.16'>Spricht Er wieder zum zweitenmal zu ihm: Simon Jona, liebst du Mich? Spricht er zu Ihm: Ja, Herr, du weißt, daß ich Dich lieb habe. Spricht Er zu ihm: Hüte Meine Schafe!</verse>
+        <verse osisID='John.21.17'>Spricht Er zum drittenmal zu ihm: Simon Jona, hast du Mich lieb? Petrus ward betrübt, daß Er zum dritten Male zu ihm sagte: Hast du Mich lieb? Und er sprach zu Ihm: Herr, du weißt alle Dinge, Du erkennst, daß ich Dich lieb habe. Sagt Jesus zu ihm: Weide Meine Schafe!</verse>
+        <verse osisID='John.21.18'>Wahrlich, wahrlich, Ich sage dir: Da du jünger warst, gürtetest du dich selbst und wandeltest, wo du wolltest. Wenn du aber alt bist, wirst du deine Hände ausrecken, und ein anderer wird dich gürten und bringen, wo du nicht hin willst.</verse>
+        <verse osisID='John.21.19'>Dies sagte Er aber, um anzuzeigen, mit welchem Tode er Gott verherrlichen würde. Und als Er solches gesprochen hatte, sagte Er zu ihm: Folge Mir nach!</verse>
+        <verse osisID='John.21.20'>Petrus aber wandte sich um und erblickte den Jünger nachfolgen, den Jesus liebte, der auch beim Abendmahl sich nach Seiner Brust neigte<note>hinfiel</note>, und sprach: Herr, wer ist es, der Dich verrät?</verse>
+        <verse osisID='John.21.21'>Wie Petrus diesen sieht, spricht er zu Jesus: Herr, was aber soll dieser?</verse>
+        <verse osisID='John.21.22'>Spricht zu ihm Jesus: Wenn Ich will, daß dieser bleibe, bis daß Ich komme, was ist das Dir? Folge du Mir nach!</verse>
+        <verse osisID='John.21.23'>Da ging denn dieses Wort aus unter die Brüder, daß dieser Jünger nicht stürbe. Und Jesus hatte ihm nicht gesagt, daß er nicht sterbe, sondern: Wenn Ich will, daß dieser bleibe, bis daß Ich komme, was ist das dir?</verse>
+        <verse osisID='John.21.24'>Dies ist der Jünger, der darüber zeugt und dies geschrieben hat, und wir wissen, daß sein Zeugnis wahr ist.</verse>
+        <verse osisID='John.21.25'>Es sind aber auch viele andere Dinge, die Jesus getan hat, welche, so man sie sollte einzeln beschreiben, erachte ich, die Welt selbst würde die Bücher nicht fassen, die zu schreiben wären.</verse>
+      </chapter>
+    </div></osisText>
+</osis>
