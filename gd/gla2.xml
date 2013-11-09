@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd'>
+  <osisText osisIDWork='GLA2' osisRefWork='Bible' xml:lang='gd'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='GLA2'>
+        <title>Gaelic Scripture (Manx Gaelic)</title>
+        <contributor>
+	The Unbound Bible
+	Biola University: Administrative Computing
+	13800 Biola Ave.
+	La Mirada, CA 90639
+	United States of America
+	562-903-4722 
+    </contributor>
+        <creator/>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject>holy bible</subject>
+        <date>2009-01-23</date>
+        <description>The Manx Gaelic Scripture. They include Esther, Jonah, Matthew, Luke, and John. This looks like it has been scanned in, so there are probably a few spelling errors. Manx was spoken on the Isle of Man in Great Britain. The Ethnologue lists Manx as having no native speakers.</description>
+        <publisher>FREE BIBLE SOFTWARE GRUOP</publisher>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>GLA2</identifier>
+        <source>ftp://unboundftp.biola.edu/pub/manx_gaelic.zip</source>
+        <language type='IETF'>gd</language>
+        <relation/>
+        <coverage>provide the bible to the world</coverage>
+        <rights>I think public domain</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+  <div osisID='Esth' type='book' id='esth' title='Esther[6]'/><div osisID='John' type='book' id='john' title='John'/><div osisID='Jonah' type='book' id='jonah' title='Jonah'/><div osisID='Luke' type='book' id='luke' title='Luke'/><div osisID='Matt' type='book' id='matt' title='Matthew'/></osisText>
+</osis>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd'>
+  <osisText osisIDWork='gotb' osisRefWork='Bible' xml:lang='XX'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='gotb'>
+        <title>Gothic Codices Ambrosianus B</title>
+        <contributor>
+          	The Unbound Bible
+        	 Biola University: Administrative Computing
+        	13800 Biola Ave.
+        	 La Mirada, CA 90639
+        	United States of America
+		 562-903-4722 
+    </contributor>
+        <creator/>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject>The holy Bible</subject>
+        <date>2009-01-23</date>
+        <description>The text is based on the authoritative edition of Wilhelm Streitberg and has been proofread once.</description>
+        <publisher>Free Bible Software Group</publisher>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>gotb</identifier>
+        <source>ftp://unboundftp.biola.edu/pub/gothic_AB_Car.zip</source>
+        <language type='IETF'>XX</language>
+        <relation/>
+        <coverage>provide the bible to the world</coverage>
+        <rights>This electronic edition may be used for academic or other non-commercial purposes.</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div osisID='1Cor' type='book' id='1cor' title='1 Corinthians'/><div osisID='1Thess' type='book' id='1thess' title='1 Thessalonians'/><div osisID='1Tim' type='book' id='1tim' title='1 Timothy'/><div osisID='2Cor' type='book' id='2cor' title='2 Corinthians'/><div osisID='2Thess' type='book' id='2thess' title='2 Thessalonians'/><div osisID='2Tim' type='book' id='2tim' title='2 Timothy'/><div osisID='Col' type='book' id='col' title='Colossians'/><div osisID='Zeph' type='book' id='eph' title='Zephaniah'/><div osisID='Gal' type='book' id='gal' title='Galatians'/><div osisID='Phil' type='book' id='phil' title='Philippians'/><div osisID='Rom' type='book' id='rom' title='Romans'/><div osisID='Titus' type='book' id='titus' title='Titus'/></osisText>
+</osis>
