@@ -2,26 +2,22 @@
 <osis xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
   <osisText osisRefWork='Bible' osisIDWork='VLX3' xml:lang='de'>
     <header>
-      <revisionDesc>
-        <date>2010-02-26</date>
-        <p>initial OSIS 2.1.1 version</p>
-      </revisionDesc>
+      <revisionDesc/>
       <work osisWork='VLX3'>
         <title>Volxbibel 3.0</title>
         <contributor>Martin Dreyer und andere</contributor>
         <creator>http://www.zefania.de</creator>
-        <creator role='encoder'>ZefToOsis 1.0.0</creator>
-        <subject>holy bible</subject>
+        <subject/>
         <date>2009-01-20</date>
         <description>
 		Inspiriert durch die Arbeit mit Jugendlichen in einem Kölner Jugendzentrum, begann Martin Dreyer, der Gründer der Jesus Freaks, einige Bibeltexte in die Alltagssprache der Jugendlichen zu übertragen. Im Laufe des Jahres 2004 wurde daraus die Volxbibel als ganzes Neues Testament verfasst.
 		Die Volxbibel wurde zuerst, insbesondere von ihrem Autor, als Bibelübersetzung bezeichnet. Nach starker Kritik wird jetzt meistens die Bezeichnung freie Übersetzung oder Bibelübertragung verwendet. Ursprünglich sollte die Volxbibel im R. Brockhaus Verlag veröffentlicht werden. Wegen der Proteste wurde schließlich dafür ein eigener Verlag in der Stiftung Christliche Medien (SCM) gegründet, der Volxbibel-Verlag
-	
+
 		Die Volxbibel orientiert sich am allgemeinen Sprachwandel. Das Hauptziel ist, dass die Sprache der Volxbibel der Umgangssprache von Jugendlichen entspricht, die keine christliche Sozialisation erfahren haben. Darum werden alle religiösen Fachbegriffe umschrieben.
 		Dazu sollen alle Texte in Form eines Wikis laufend überarbeitet und aktualisiert werden. An diesem „Work in Progress” darf sich jeder beteiligen, der sich für die Übertragungsarbeit interessiert. Sprachliche, historische oder theologische Kenntnisse werden genau so wenig vorausgesetzt wie genaue Kenntnis der Bibel. In der Regel entstehen die Texte durch Neuformulierungen vorhandener deutscher Übersetzungen.
 		Die im Volxbibel-Wiki gemachten Vorschläge werden so lange bearbeitet, bis in der Diskussion eine Einigung erzielt wurde. Vor dem Druck werden die gemachten Änderungen noch einmal von Theologen und dem Initiator Martin Dreyer in letzter Instanz geprüft und fließen gegebenenfalls in die nächste Print-Ausgabe ein.
 	</description>
-        <publisher>Nobody</publisher>
+        <publisher/>
         <type type='OSIS'>Bible</type>
         <identifier type='OSIS'>VLX3</identifier>
         <source>http://wiki.volxbibel.com/index.php/Spezial:Export</source>
@@ -35,16 +31,16 @@
     </header>
     <div osisID='Matt' type='book'>
       <chapter osisID='Matt.1'>
-        <div type='introduction'> 
+        <div type='introduction'>
 	   Verfasser:
-	   Matthäus war von Beruf so einer, der für die Besatzungmacht (Römer) die Steuern und Zollgebühren eintrieb. Das wurde damals durch "freie Unternehmer" getan, die feste Beträge abliefern mussten und davon lebten, mehr Kohle einzutreiben als sie ablieferten. Solche Menschen waren damals bei der Bevölkerung natürlich extrem unbeliebt.  Nachdem er Jesus kennengelernt hatte, ging er mit ihm mit. Matthäus hat Jesus also noch live miterlebt und ist mit ihm eine Weile umhergezogen. Sein Buch ist vermutlich im Original so um 40 bis 60 Jahre nachdem Jesus geboren wurde aufgeschrieben worden.  Wegen der Ähnlichkeiten zum Markusevangelium vermuten manche, dass es vielleicht doch ein anderer Typ war, der das Matthäusevangelium geschrieben hat. 
+	   Matthäus war von Beruf so einer, der für die Besatzungmacht (Römer) die Steuern und Zollgebühren eintrieb. Das wurde damals durch "freie Unternehmer" getan, die feste Beträge abliefern mussten und davon lebten, mehr Kohle einzutreiben als sie ablieferten. Solche Menschen waren damals bei der Bevölkerung natürlich extrem unbeliebt.  Nachdem er Jesus kennengelernt hatte, ging er mit ihm mit. Matthäus hat Jesus also noch live miterlebt und ist mit ihm eine Weile umhergezogen. Sein Buch ist vermutlich im Original so um 40 bis 60 Jahre nachdem Jesus geboren wurde aufgeschrieben worden.  Wegen der Ähnlichkeiten zum Markusevangelium vermuten manche, dass es vielleicht doch ein anderer Typ war, der das Matthäusevangelium geschrieben hat.
 	   Reden:
 	   Berühmt berüchtigt sind die 5 Vorträge von Jesus, die Matthäus aufgeschrieben hat:
        1. Die Rede auf dem Berg (Kapitel 5-7) (am bekanntesten die "Seligpreisungen", Versprechungen an arme Menschen und andere Leute, am Anfang)
 	   2. Jesus schickt seine Leute unters Volk (Kapitel 10)
 	   3. Jesus spricht in Rätseln (Kapitel 13)
 	   4. Jesus sagt, wo es lang geht (Kapitel 18) und
-	   5. Jesus wettert und teilt aus (Kapitel 23-25) 
+	   5. Jesus wettert und teilt aus (Kapitel 23-25)
 	  </div>
         <title>Die Leute vor Jesus</title>
         <verse osisID='Matt.1.1'>Dies ist die Geschichte von Jesus Christus. Jesus ist ein Ur-ur-ur-und-so-weiter-Enkel von David und Abraham. Seine genaue Vorfahrenreihe sieht so aus:</verse>
@@ -1308,7 +1304,7 @@
       <chapter osisID='Mark.1'>
         <div type='introduction'>
 	  Gute Nachrichten durch Jesus Christus: ein Bericht von Markus
-	  Dieser Bericht wurde von Johannes Markus geschrieben. Markus war wohl ein Mitarbeiter von Paulus und von Petrus. Er ist so zwischen 63 und 68 Jahre nach der Geburt von Jesus geschrieben worden. 
+	  Dieser Bericht wurde von Johannes Markus geschrieben. Markus war wohl ein Mitarbeiter von Paulus und von Petrus. Er ist so zwischen 63 und 68 Jahre nach der Geburt von Jesus geschrieben worden.
 	  </div>
         <title>Johannes der Täufer meint: Ändert euch!</title>
         <verse osisID='Mark.1.1'>Hier geht es um eine sehr coole Sache, wirklich gute Nachrichten für alle, über Jesus Christus, den Sohn von Gott!</verse>
@@ -2091,9 +2087,9 @@
     </div>
     <div osisID='Luke' type='book'>
       <chapter osisID='Luke.1'>
-        <div type='introduction'> 
+        <div type='introduction'>
 	  Die Geschichte von Jesus, so wie sie Lukas in Erinnerung hatte.
-	  Lukas hat sein Buch vermutlich so im Jahr 59 - 64 geschrieben. Lukas war von Beruf ein Arzt. Er war kein Jude und ist eine Zeitlang mit Petrus, einem der Apostel rumgezogen. Er hat für sein Evangelium vermutlich mit vielen Leuten gesprochen und sich Augenzeugenberichte eingeholt. 
+	  Lukas hat sein Buch vermutlich so im Jahr 59 - 64 geschrieben. Lukas war von Beruf ein Arzt. Er war kein Jude und ist eine Zeitlang mit Petrus, einem der Apostel rumgezogen. Er hat für sein Evangelium vermutlich mit vielen Leuten gesprochen und sich Augenzeugenberichte eingeholt.
 	  </div>
         <title>Vorwort</title>
         <verse osisID='Luke.1.1'>Lieber Theophilus! Viele Leute haben schon den Versuch gestartet, alles mal aufzuschreiben, was so bei uns in den letzten Jahren abgegangen ist.</verse>
@@ -3430,7 +3426,7 @@
 	   Johannes hat seine Story so zwischen 85 und 90 aufgeschrieben. Der Autor ist einer von den Aposteltypen. So sagt es jedenfalls die älteste Tradition. Die meisten modernen Forscher meinen, das Evangelium ist erst um 100 entstanden und stammt in der Endfassung von Schülern des Apostels Johannes. Andere wieder meinen, das Johannesevangelium ist das älteste Evangelium überhaupt. Wie es wirklich war, das werden wir wohl erst im Himmel erfahren.
 	   Jedenfalls unterscheidet sich das Johannesevangelium ziemlich von Matthäus, Markus und Lukas. Viele moderne Forscher meinen aber, dass Johannes die anderen Evangelien gekannt hat. Er will die Geschichte aber anders erzählen, nicht so sehr als eine historische Geschichte von damals, wer Jesus gewesen ist. Er zeigt uns von Anfang an, wer Jesus Christus immer und ewig war, ist und bleibt: Der Sohn Gottes, der selbst Gott ist und der aus Liebe Mensch wird, um uns Menschen zu erlösen. In den ersten Evangelien versteckt er seine Identität. V.a. bei Markus verbietet er den Jüngern, weiterzusagen, wer er ist. Im Johannesevangelium sagt er es von Anfang an frei heraus: ICH BIN! Dieses ICH BIN ist die Bezeichnung, mit der sich Gott einst aus dem brennenden Dornbusch dem Mose offenbart hat: ICH BIN, DER ICH BIN. Die Zeitgenossen Jesu haben diese ungeheuerliche Anspielung verstanden. Kein Wunder, dass Johannes Wert drauf legt, dass sie Jesus wegen Gotteslästerung verurteilt haben. Wer ICH BIN in einer Weise sagt, wie nur Gott es sagen darf, macht sich Gott gleich.
 	   Das Johannesevangelium ist also kein historisches Protokoll, obwohl es eine Reihe von sehr genauen historischen Details enthält, die manchmal sogar genauer sind als in den anderen Evangelien. Es geht vielmehr auf das Zeugnis eines Jüngers Jesu zurück, der hinter die Kulissen der Geschichte sieht und das Geheimnis Jesu lüftet. Außerdem zeigt er, wie es Menschen gegangen ist, die Jesus begegnet sind und erzählt kleine Glaubensgeschichten.
-	   Manche werfen dem Johannesevangelium vor, es sei "antisemitisch", weil es oft negativ von "den Juden" spricht. Aber nachdem Johannes selbst und auch Jesus Juden waren, kann es sich ja um keine pauschale Verunglimpfung der Juden oder des Judentums handeln. Mit den "Juden" ist die damals herrschende religiöse Oberschicht gemeint - so wie man heute manchmal sagt, "die Deutschen" hätten den zweiten Weltkrieg angefangen und die Juden vergast, wenn man eigentlich die Nazis meint. Es gibt dafür auch einen ganz einfachen Grund: die frühen Christen damals haben sich von den jüdischen Gemeinden getrennt und da gab es jede Menge Stress. Außerdem gibt es auch eine ganz freundliche Aussage über Juden bei Johannes: Das Heil, die Rettung kommt von den Juden. 
+	   Manche werfen dem Johannesevangelium vor, es sei "antisemitisch", weil es oft negativ von "den Juden" spricht. Aber nachdem Johannes selbst und auch Jesus Juden waren, kann es sich ja um keine pauschale Verunglimpfung der Juden oder des Judentums handeln. Mit den "Juden" ist die damals herrschende religiöse Oberschicht gemeint - so wie man heute manchmal sagt, "die Deutschen" hätten den zweiten Weltkrieg angefangen und die Juden vergast, wenn man eigentlich die Nazis meint. Es gibt dafür auch einen ganz einfachen Grund: die frühen Christen damals haben sich von den jüdischen Gemeinden getrennt und da gab es jede Menge Stress. Außerdem gibt es auch eine ganz freundliche Aussage über Juden bei Johannes: Das Heil, die Rettung kommt von den Juden.
 	   Die Kapitel
 	   Jesus kommt an: Joh 1-3
 	   Die große Tournee: Joh 4-11
@@ -4428,7 +4424,7 @@
       <chapter osisID='Acts.1'>
         <div type='introduction'>
       Die Geschichte von den Aposteln
-	  Dieses Buch beginnt mit dem Startschuss der Kirche! Alles fing nämlich damit an, dass Gott seine Kraft auf die Erde schickte: Den Heiligen Geist. Diese Buch wurde von dem gleichen Mann geschrieben, der auch das "Lukasevangelium" verfasst hat: Lukas. Er war wohl ein Arzt und ein enger Freund vom Paulus. Man geht davon aus, dass er sich gut mit den Dingen auskannte und auch Augenzeuge von vielen Sachen war, die dort berichtet werden. Vermutlich wurde die Apostelgeschichte so im Jahr 60 - 62 geschrieben. 
+	  Dieses Buch beginnt mit dem Startschuss der Kirche! Alles fing nämlich damit an, dass Gott seine Kraft auf die Erde schickte: Den Heiligen Geist. Diese Buch wurde von dem gleichen Mann geschrieben, der auch das "Lukasevangelium" verfasst hat: Lukas. Er war wohl ein Arzt und ein enger Freund vom Paulus. Man geht davon aus, dass er sich gut mit den Dingen auskannte und auch Augenzeuge von vielen Sachen war, die dort berichtet werden. Vermutlich wurde die Apostelgeschichte so im Jahr 60 - 62 geschrieben.
 	  </div>
         <title>Was bei den Aposteln(*) so los war</title>
         <verse osisID='Acts.1.1'>Lieber Theophilus! Also, in meinem ersten Bericht hab ich dir ja schon erzählt, was mit Jesus so alles abging und was er so erzählt hat.</verse>
@@ -5575,7 +5571,7 @@
         <div type='introduction'>
 	   Ein Brief von Paulus an die Christen, die in Rom leben
 	   Paulus ist der selbe Typ, der schon in der Apostelgeschichte erwähnt wurde. Er war ein Christenhasser und verfolgte diese "Sekte" bis aufs Blut. In der Apostelgeschichte kann man nachlesen, wie sich ihn Jesus dann auf einer Reise zur Brust nahm und ihm zeigte, wer hier der Chef ist. Durch dieses Treffen wurde Saulus (so nannte er sich früher) zu Paulus, der so ziemlich der fetteste Missionar der ersten Christen wurde. Viele der Briefe am Ende der Bibel hat er geschrieben.
-	   Dieser Brief war jetzt an die christliche Gemeinde in Rom gerichtet. Er wurde vermutlich so gegen 56 nach Christus geschrieben. 
+	   Dieser Brief war jetzt an die christliche Gemeinde in Rom gerichtet. Er wurde vermutlich so gegen 56 nach Christus geschrieben.
 	  </div>
         <title>Anschrift und Grüße</title>
         <verse osisID='Rom.1.1'>Absender: Paulus, der voll zu Jesus Christus gehört und der alles für Jesus gibt. Gott hat mit seinem Finger auf mich gezeigt und gesagt: Du bist jemand, durch den ich meine guten Nachrichten weiterleiten kann, du bist ein Apostel.</verse>
@@ -6077,8 +6073,8 @@
     </div>
     <div osisID='1Cor' type='book'>
       <chapter osisID='1Cor.1'>
-        <div type='introduction'> 
-	    Der erste Brief an die Christen aus Korinth 
+        <div type='introduction'>
+	    Der erste Brief an die Christen aus Korinth
 	  </div>
         <title>Adresse und Einleitung</title>
         <verse osisID='1Cor.1.1'>Absender: Paulus, Apostel. In sein Amt als Botschafter durch Gott eingesetzt. Sowie Sosthenes, ein Mitarbeiter.</verse>
@@ -6577,8 +6573,8 @@
     </div>
     <div osisID='2Cor' type='book'>
       <chapter osisID='2Cor.1'>
-        <div type='introduction'> 
-	   Der zweite Brief, den Paulus an die Christen in Korinth schrieb 
+        <div type='introduction'>
+	   Der zweite Brief, den Paulus an die Christen in Korinth schrieb
 	  </div>
         <title>Absender, Adresse, Grüße</title>
         <verse osisID='2Cor.1.1'>Absender: Paulus, der durch Jesus zum Apostel gemacht worden ist, und Timotheus, ein Mitarbeiter vom Paulus. An: die Gemeinde in Korinth und alle anderen Christen bei euch in der Gegend.</verse>
@@ -6884,7 +6880,7 @@
     <div osisID='Gal' type='book'>
       <chapter osisID='Gal.1'>
         <div type='introduction'>
-       Brief an die Christen, die in Galatien wohnen, auch bekannt als „Galaterbrief“ 
+       Brief an die Christen, die in Galatien wohnen, auch bekannt als „Galaterbrief“
 	  </div>
         <title>Absender, Empfänger, Grüße</title>
         <verse osisID='Gal.1.1'>Absender: Paulus, in seiner Funktion als Apostel, der von Jesus Christus ausgesucht wurde ─ nicht von irgendwelchen Menschen ─ und damit auch von Gott, dem Vater, der Jesus ein für alle Mal aus dem Tod rausgeholt und wieder lebendig gemacht hat,</verse>
@@ -7249,7 +7245,7 @@
     <div osisID='Phil' type='book'>
       <chapter osisID='Phil.1'>
         <div type='introduction'>
-	   Ein Brief an die Christen, die in Philippi wohnen 
+	   Ein Brief an die Christen, die in Philippi wohnen
 	  </div>
         <title>Absender und Anschrift</title>
         <verse osisID='Phil.1.1'>Absender: Paulus und Timotheus, beide für Jesus Christus unterwegs. An: alle Christen in Philippi, die Leiter der Gemeinde und alle Mitarbeiter.</verse>
@@ -7379,7 +7375,7 @@
     <div osisID='Col' type='book'>
       <chapter osisID='Col.1'>
         <div type='introduction'>
-	   Ein Brief an die Christen, die in Kolossä wohnen 
+	   Ein Brief an die Christen, die in Kolossä wohnen
 	  </div>
         <title>Anschrift und Grüße</title>
         <verse osisID='Col.1.1'>Absender: Paulus, ein von Gott beauftragter Botschafter für die Sache von Jesus, und sein Mitarbeiter Timotheus.</verse>
@@ -7499,7 +7495,7 @@
     <div osisID='1Thess' type='book'>
       <chapter osisID='1Thess.1'>
         <div type='introduction'>
-	   Der erste Brief von Paulus an die Thessalonicher 
+	   Der erste Brief von Paulus an die Thessalonicher
  	  </div>
         <title>Absender und Anschrift</title>
         <verse osisID='1Thess.1.1'>Absender: Paulus, Silvanus und Timotheus. An: die Christen in Thessalonich, die mit Gott dem Vater und mit Jesus Christus unterwegs sind. Hallo Leute! Ich wünsch euch, dass Gott mit seiner Gnade und seinem Frieden bei euch ist!</verse>
@@ -8036,7 +8032,7 @@
       <chapter osisID='Heb.1'>
         <div type='introduction'>
 	  Ein Brief an die Hebräer
-	  Was steht drin? 
+	  Was steht drin?
 	  Der sog. Brief an die Hebräer ist eine geniale Zusammenführung des Alten Testaments (also dem Teil der Bibel vor Jesus) und des Neuen Testaments. Dabei wird deutlich gemacht, dass die gesamte Geschichte (insbesondere die Geschichte von Gottes Volk, also den Hebräern/Juden) davor einen Ausblick auf Jesus Christus darstellt. Viele Symbole, religiöse Rituale und zentrale Ereignisse aus dem jüdischen Glauben werden aufgegriffen und gezeigt, wie sich darin die Errettung durch Jesus widerspiegelt. Im Grunde wird rückblickend das Alte Testament auf Jesus bezogen interpretiert und erläutert.
 	  </div>
         <title>Gott redet durch Jesus zu den Menschen</title>
@@ -8397,7 +8393,7 @@
     <div osisID='Jas' type='book'>
       <chapter osisID='Jas.1'>
         <div type='introduction'>
-	    Der Brief von Jakobus 
+	    Der Brief von Jakobus
 	  </div>
         <title>Absender und Anschrift</title>
         <verse osisID='Jas.1.1'>Absender: Jakobus. Ich gebe alles für Gott und für Jesus Christus. Er ist mein Chef. An: Gottes Leute, die überall in der Welt zerstreut sind. Liebe Leute, ich grüße euch!</verse>
